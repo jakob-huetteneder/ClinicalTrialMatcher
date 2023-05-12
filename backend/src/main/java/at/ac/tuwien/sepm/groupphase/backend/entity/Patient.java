@@ -8,10 +8,13 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
+import jakarta.persistence.ManyToMany;
+import jakarta.persistence.OneToMany;
 import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
 
 import java.time.LocalDate;
+import java.util.Set;
 
 @Entity
 @Table(name = "patient")
@@ -42,4 +45,12 @@ public class Patient {
 
     @Column(name = "gender", nullable = false)
     private Gender gender;
+
+    @ManyToMany(fetch = FetchType.EAGER)
+    @JoinColumn(name = "doctor_id")
+    private Set<Doctor> doctors;
+
+    @OneToMany(fetch = FetchType.EAGER)
+    @JoinColumn(name = "diagnose_id")
+    private Set<Diagnose> diagnoses;
 }
