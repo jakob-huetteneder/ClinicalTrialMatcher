@@ -9,6 +9,6 @@ declare namespace Cypress{
          * Creates a message with a given text
          * @param msg the text of the created message
          */
-        createMessage(msg: string);
+        //createMessage(msg: string);
     }
 }

@@ -7,7 +7,7 @@ Cypress.Commands.add('loginAdmin', () => {
         cy.contains('button', 'Login').click();
     })
 })
-
+/*
 Cypress.Commands.add('createMessage', (msg) => {
     cy.fixture('settings').then(settings => {
         cy.contains('a', 'Message');
@@ -22,3 +22,4 @@ Cypress.Commands.add('createMessage', (msg) => {
         cy.contains('summary' +  msg).should('be.visible');
     })
 })
+ */
