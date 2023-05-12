@@ -33,6 +33,10 @@ public class SecurityConfig {
         http.cors().and()
             .csrf().disable()
             .addFilterBefore(jwtAuthorizationFilter, UsernamePasswordAuthenticationFilter.class);
+
+        // necessary for H2 console in Browser
+        http.headers().frameOptions().disable();
+
         return http.build();
     }
 
