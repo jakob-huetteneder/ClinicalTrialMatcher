@@ -74,119 +74,171 @@ public class Trial {
         return title;
     }
 
-    public void setTitle(String title) {
-        this.title = title;
-    }
+
 
     public LocalDate getStartDate() {
         return startDate;
     }
 
-    public void setStartDate(LocalDate startDate) {
-        this.startDate = startDate;
-    }
 
     public LocalDate getEndDate() {
         return endDate;
     }
 
-    public void setEndDate(LocalDate endDate) {
-        this.endDate = endDate;
-    }
+
 
     public Researcher getResearcher() {
         return researcher;
     }
 
-    public void setResearcher(Researcher researcher) {
-        this.researcher = researcher;
-    }
+
 
     public String getStudyType() {
         return studyType;
     }
 
-    public void setStudyType(String studyType) {
-        this.studyType = studyType;
-    }
+
 
     public String getBriefSummary() {
         return briefSummary;
     }
 
-    public void setBriefSummary(String briefSummary) {
-        this.briefSummary = briefSummary;
-    }
+
 
     public String getDetailedSummary() {
         return detailedSummary;
     }
 
-    public void setDetailedSummary(String detailedSummary) {
-        this.detailedSummary = detailedSummary;
-    }
+
 
     public String getSponsor() {
         return sponsor;
     }
 
-    public void setSponsor(String sponsor) {
-        this.sponsor = sponsor;
-    }
+
 
     public String getCollaborator() {
         return collaborator;
     }
 
-    public void setCollaborator(String collaborator) {
-        this.collaborator = collaborator;
-    }
 
     public String getStatus() {
         return status;
     }
 
-    public void setStatus(String status) {
-        this.status = status;
-    }
+
 
     public String getLocation() {
         return location;
     }
 
-    public void setLocation(String location) {
-        this.location = location;
-    }
+
 
     public Gender getCrGender() {
         return crGender;
     }
 
-    public void setCrGender(Gender crGender) {
-        this.crGender = crGender;
-    }
+
 
     public int getCrMinAge() {
         return crMinAge;
     }
 
-    public void setCrMinAge(int crMinAge) {
-        this.crMinAge = crMinAge;
-    }
+
 
     public int getCrMaxAge() {
         return crMaxAge;
     }
 
-    public void setCrMaxAge(int crMaxAge) {
-        this.crMaxAge = crMaxAge;
-    }
+
 
     public String getCrFreeText() {
         return crFreeText;
     }
 
-    public void setCrFreeText(String crFreeText) {
+
+
+    public Long getId() {
+        return id;
+    }
+
+    public Trial setId(Long id) {
+        this.id = id;
+        return this;
+    }
+
+    public Trial setEndDate(LocalDate endDate) {
+        this.endDate = endDate;
+        return this;
+    }
+
+    public Trial setResearcher(Researcher researcher) {
+        this.researcher = researcher;
+        return this;
+    }
+
+    public Trial setStudyType(String studyType) {
+        this.studyType = studyType;
+        return this;
+    }
+
+    public Trial setBriefSummary(String briefSummary) {
+        this.briefSummary = briefSummary;
+        return this;
+    }
+
+    public Trial setDetailedSummary(String detailedSummary) {
+        this.detailedSummary = detailedSummary;
+        return this;
+    }
+
+    public Trial setSponsor(String sponsor) {
+        this.sponsor = sponsor;
+        return this;
+    }
+
+    public Trial setCollaborator(String collaborator) {
+        this.collaborator = collaborator;
+        return this;
+    }
+
+    public Trial setStatus(String status) {
+        this.status = status;
+        return this;
+    }
+
+    public Trial setLocation(String location) {
+        this.location = location;
+        return this;
+    }
+
+    public Trial setCrGender(Gender crGender) {
+        this.crGender = crGender;
+        return this;
+    }
+
+    public Trial setCrMinAge(int crMinAge) {
+        this.crMinAge = crMinAge;
+        return this;
+    }
+
+    public Trial setCrMaxAge(int crMaxAge) {
+        this.crMaxAge = crMaxAge;
+        return this;
+    }
+
+    public Trial setCrFreeText(String crFreeText) {
         this.crFreeText = crFreeText;
+        return this;
+    }
+
+    public Trial setTitle(String title) {
+        this.title = title;
+        return this;
+    }
+
+    public Trial setStartDate(LocalDate startDate) {
+        this.startDate = startDate;
+        return this;
     }
 }

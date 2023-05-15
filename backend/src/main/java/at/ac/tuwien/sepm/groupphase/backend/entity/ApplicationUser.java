@@ -19,23 +19,23 @@ public class ApplicationUser {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    private Long id;
+    public Long id;
 
     @Column(name = "first_name", nullable = false)
-    private String firstName;
+    public String firstName;
 
     @Column(name = "last_name", nullable = false)
-    private String lastName;
+    public String lastName;
 
     @Column(name = "email", nullable = false)
-    private String email;
+    public String email;
 
     @Column(name = "password", nullable = false)
-    private String password;
+    public String password;
 
     @Column(name = "status", nullable = false)
     @Enumerated(EnumType.ORDINAL)
-    private Status status;
+    public Status status;
 
     public Long getId() {
         return id;
@@ -88,6 +88,15 @@ public class ApplicationUser {
 
     public ApplicationUser setStatus(Status status) {
         this.status = status;
+        return this;
+    }
+
+    public Long getId() {
+        return id;
+    }
+
+    public ApplicationUser setId(Long id) {
+        this.id = id;
         return this;
     }
 }
