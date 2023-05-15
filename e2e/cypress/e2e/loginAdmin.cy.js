@@ -1,5 +1,5 @@
 context('loginAdmin', () => {
     it('login', () => {
-        cy.loginAdmin();
+        cy.loginAdmin(); //login
     })
 });

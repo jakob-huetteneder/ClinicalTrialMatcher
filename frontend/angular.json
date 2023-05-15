@@ -8,6 +8,14 @@
       "sourceRoot": "src",
       "projectType": "application",
       "prefix": "app",
+      "i18n": {
+        "sourceLocale": "en-US",
+        "locales": {
+          "de-AT": {
+            "translation": "src/locale/messages.de.xlf"
+          }
+        }
+      },
       "schematics": {
         "@schematics/angular:component": {
           "style": "scss"
@@ -17,6 +25,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
+            "localize": ["de-AT"],
             "outputPath": "dist/sepm-group-phase",
             "index": "src/index.html",
             "main": "src/main.ts",
@@ -28,7 +37,8 @@
             ],
             "styles": [
               "src/styles.scss",
-              "node_modules/bootstrap/dist/css/bootstrap.css"
+              "node_modules/bootstrap/dist/css/bootstrap.css",
+              "node_modules/bootstrap-icons/font/bootstrap-icons.css"
             ],
             "scripts": [
               "node_modules/jquery/dist/jquery.slim.min.js",
@@ -67,6 +77,9 @@
                   "maximumWarning": "6kb"
                 }
               ]
+            },
+            "de-AT": {
+              "localize": ["de-AT"]
             }
           }
         },
@@ -78,13 +91,18 @@
           "configurations": {
             "production": {
               "browserTarget": "sepm-group-phase:build:production"
+            },
+            "de-AT": {
+              "browserTarget": "sepm-group-phase:build:development,de-AT"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "sepm-group-phase:build"
+            "browserTarget": "sepm-group-phase:build",
+            "format": "xlf",
+            "outputPath": "src/locale"
           }
         },
         "test": {

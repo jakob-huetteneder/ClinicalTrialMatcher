@@ -8,6 +8,8 @@ import {AuthService} from '../../services/auth.service';
 })
 export class HeaderComponent implements OnInit {
 
+  collapsed1 = false;
+
   constructor(public authService: AuthService) { }
 
   ngOnInit() {
