@@ -13,6 +13,8 @@ public record UserDetailDto(
 
     String password,
 
+    String role,
+
     Status status
 ) {
 }

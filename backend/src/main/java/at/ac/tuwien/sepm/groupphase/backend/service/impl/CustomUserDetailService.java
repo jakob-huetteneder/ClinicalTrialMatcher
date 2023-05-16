@@ -98,4 +98,16 @@ public class CustomUserDetailService implements UserService {
         }
         return user;
     }
+
+    @Override
+    public List<UserDetailDto> getAllUsers() {
+        return userRepository.findAll().stream().map(userMapper::applicationUserToUserDetailDto).toList();
+    }
+
+    @Override
+    public void deleteUser(long id) {
+        LOGGER.debug("Delete user with id {}", id);
+
+        userRepository.deleteById(id);
+    }
 }
