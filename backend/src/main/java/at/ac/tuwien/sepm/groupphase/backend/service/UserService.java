@@ -60,7 +60,6 @@ public interface UserService extends UserDetailsService {
      * Delete a user.
      *
      * @param id the id of the user to delete
-     * @return the deleted user
      */
     void deleteUser(long id);
 }
