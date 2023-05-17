@@ -3,5 +3,8 @@
 @tailwind components;
 @tailwind utilities;
 body {
-  background-color: whitesmoke;
+  background-color: red;
+  background-size: cover;
+  width: 100vw;
+  height: 100vw;
 }

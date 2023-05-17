@@ -42,4 +42,14 @@ export class UserService {
   deleteUser(userId: number): Observable<void> {
     return this.http.delete<void>(baseUri + '/' + userId);
   }
+
+  /**
+   * Register a new user.
+   *
+   * @param user the user to create
+   * @return observable user
+   */
+  createUser(user: User): Observable<User> {
+    return this.http.post<User>(baseUri, user);
+  }
 }

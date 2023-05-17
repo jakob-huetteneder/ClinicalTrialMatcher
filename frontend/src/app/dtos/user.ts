@@ -1,10 +1,10 @@
-import {Status} from './status';
+import {Role} from './role';
 
 export interface User {
-  id: number;
-  firstName: string;
-  lastName: string;
+  id?: number;
+  role: Role;
+  fName: string;
+  lName: string;
   email: string;
-  role: string;
-  status: Status;
+  password?: string;
 }
