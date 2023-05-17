@@ -8,10 +8,9 @@
   justify-content: space-between;
   align-items: center;
   padding: 12px 54px;
-  gap: 1000px;
 
-  background: #CDE2F0;
-  box-shadow: 0 4px 4px rgba(22, 46, 81, 0.2);
+  width: 1920px;
+  height: 80px;
 
   /* Inside auto layout */
 
@@ -21,11 +20,9 @@
 }
 
 .logo {
-  /* Inside auto layout */
-
-  flex: none;
-  order: 0;
-  flex-grow: 0;
+  /* Logo */
+  width: auto;
+  height: 36px;
 }
 
 .buttons {
@@ -34,125 +31,37 @@
 
   /* Auto layout */
 
-  display: flex;
+  display: flex; // has to be inline block to hug contents (or an <a> flexbox)
   flex-direction: row;
   justify-content: flex-end;
   align-items: center;
   padding: 16px 0;
   gap: 30px;
-
-
-  /* Inside auto layout */
-
-  flex: none;
-  order: 1;
-  flex-grow: 0;
 }
 
-.about {
-  /* About This Site */
-
+.single-button {
 
   /* Auto layout */
 
-  display: flex;
+  display: inline-block; // has to be inline block to hug contents (or an <a> flexbox)
+  justify-content: space-between;
   flex-direction: row;
   align-items: center;
   padding: 0;
-  gap: 8px;
-
-  width: 145px;
-  height: 20px;
-
-
-  /* Inside auto layout */
-
-  flex: none;
-  order: 0;
-  flex-grow: 0;
 }
 
-
-.data {
-  /* Data About Studies */
-
-
-  /* Auto layout */
-
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  padding: 0;
-  gap: 8px;
-
-  width: 175px;
-  height: 20px;
-
-
-  /* Inside auto layout */
-
-  flex: none;
-  order: 1;
-  flex-grow: 0;
-}
-
-.res {
+.text-in-button {
   /* Resources */
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 16px;
+  padding-right: 8px;
+  /* identical to box height, or 100% */
 
-
-  /* Auto layout */
-
-  display: flex;
-  flex-direction: row;
+  display: inline-block;
   align-items: center;
-  padding: 0;
-  gap: 8px;
 
-  width: 109px;
-  height: 20px;
-
-
-  /* Inside auto layout */
-
-  flex: none;
-  order: 2;
-  flex-grow: 0;
-}
-
-.profile {
-  /* Icons */
-
-
-  /* Auto layout */
-
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  padding: 0;
-  gap: 4px;
-
-  width: 58px;
-  height: 34px;
-
-
-  /* Inside auto layout */
-
-  flex: none;
-  order: 3;
-  flex-grow: 0;
-}
-
-.down {
-  /* heroicons-mini/chevron-down */
-
-
-  width: 20px;
-  height: 20px;
-
-
-  /* Inside auto layout */
-
-  flex: none;
-  order: 1;
-  flex-grow: 0;
+  color: #162E51;
 }
