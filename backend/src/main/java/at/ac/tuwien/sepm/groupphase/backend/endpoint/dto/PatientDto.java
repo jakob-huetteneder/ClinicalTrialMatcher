@@ -1,8 +1,5 @@
 package at.ac.tuwien.sepm.groupphase.backend.endpoint.dto;
 
-import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
-import at.ac.tuwien.sepm.groupphase.backend.entity.Diagnose;
-import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
 
 import java.time.LocalDate;
@@ -17,7 +14,7 @@ public record PatientDto(
     String admissionNote,
     LocalDate birthdate,
     Gender gender,
-    Set<Long> doctorIDs,
-    Set<Long> diagnoseIDs
+    Set<Long> doctorIds,
+    Set<Long> diagnoseIds
 ) {
 }
