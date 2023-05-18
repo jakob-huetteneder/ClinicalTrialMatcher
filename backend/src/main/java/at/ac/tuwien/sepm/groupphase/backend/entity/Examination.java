@@ -26,7 +26,7 @@ public class Examination {
     private Patient patient;
 
     @OneToOne(fetch = FetchType.EAGER)
-    @JoinColumn(name = "patient_id")
+    @JoinColumn(name = "disease_id")
     private Disease disease;
 
     @Column(name = "name")
