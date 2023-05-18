@@ -26,7 +26,5 @@ public class MedicalImage {
     @Column(name = "image")
     private byte[] image;
 
-
-
 }
 
