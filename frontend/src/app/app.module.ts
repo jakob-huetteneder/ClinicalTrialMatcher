@@ -14,6 +14,7 @@ import {httpInterceptorProviders} from './interceptors';
 import {NgOptimizedImage} from '@angular/common';
 import { RegisterComponent } from './components/register/register.component';
 import {UserListComponent} from './components/user-list/user-list.component';
+import { RegisterPatientComponent } from './components/register/register-patient/register-patient.component';
 
 @NgModule({
   declarations: [
@@ -24,6 +25,7 @@ import {UserListComponent} from './components/user-list/user-list.component';
     LoginComponent,
     RegisterComponent,
     UserListComponent,
+    RegisterPatientComponent,
   ],
   imports: [
     BrowserModule,
