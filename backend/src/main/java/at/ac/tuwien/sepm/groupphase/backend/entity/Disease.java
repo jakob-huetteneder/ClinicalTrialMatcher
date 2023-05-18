@@ -13,7 +13,6 @@ import jakarta.persistence.Table;
 @Table(name = "disease")
 public class Disease {
 
-
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
@@ -23,4 +22,31 @@ public class Disease {
 
     @Column(name = "synonyms")
     private String synonyms;
+
+    public Long getId() {
+        return id;
+    }
+
+    public Disease setId(Long id) {
+        this.id = id;
+        return this;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public Disease setName(String name) {
+        this.name = name;
+        return this;
+    }
+
+    public String getSynonyms() {
+        return synonyms;
+    }
+
+    public Disease setSynonyms(String synonyms) {
+        this.synonyms = synonyms;
+        return this;
+    }
 }
