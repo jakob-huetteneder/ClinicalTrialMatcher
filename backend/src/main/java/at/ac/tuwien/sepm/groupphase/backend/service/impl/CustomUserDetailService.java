@@ -2,10 +2,14 @@ package at.ac.tuwien.sepm.groupphase.backend.service.impl;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserDetailDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserLoginDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserRegisterDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.UserMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Admin;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
+import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
+import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
 import at.ac.tuwien.sepm.groupphase.backend.exception.NotFoundException;
+import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
 import at.ac.tuwien.sepm.groupphase.backend.security.JwtTokenizer;
 import at.ac.tuwien.sepm.groupphase.backend.service.UserService;
@@ -29,16 +33,18 @@ public class CustomUserDetailService implements UserService {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
     private final UserRepository userRepository;
+    private final PatientRepository patientRepository;
     private final UserMapper userMapper;
     private final PasswordEncoder passwordEncoder;
     private final JwtTokenizer jwtTokenizer;
 
     @Autowired
-    public CustomUserDetailService(UserRepository userRepository, UserMapper userMapper, PasswordEncoder passwordEncoder, JwtTokenizer jwtTokenizer) {
+    public CustomUserDetailService(UserRepository userRepository, PatientRepository patientRepository, UserMapper userMapper, PasswordEncoder passwordEncoder, JwtTokenizer jwtTokenizer) {
         this.userRepository = userRepository;
         this.userMapper = userMapper;
         this.passwordEncoder = passwordEncoder;
         this.jwtTokenizer = jwtTokenizer;
+        this.patientRepository = patientRepository;
     }
 
     @Override
@@ -109,5 +115,17 @@ public class CustomUserDetailService implements UserService {
         LOGGER.debug("Delete user with id {}", id);
 
         userRepository.deleteById(id);
+    }
+
+    @Override
+    public UserDetailDto createUser(UserRegisterDto user) {
+        LOGGER.debug("Create user with email {}", user.getEmail());
+        ApplicationUser applicationUser = userMapper.userRegisterDtoToApplicationUser(user);
+        applicationUser = userRepository.save(applicationUser);
+        if (user.getRole() == Role.PATIENT) {
+            Patient patient = userMapper.userRegisterDtoToPatient(user, applicationUser);
+            patientRepository.save(patient);
+        }
+        return userMapper.applicationUserToUserDetailDto(applicationUser);
     }
 }

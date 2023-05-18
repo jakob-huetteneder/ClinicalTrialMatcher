@@ -2,6 +2,7 @@ package at.ac.tuwien.sepm.groupphase.backend.service;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserDetailDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserLoginDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserRegisterDto;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
@@ -62,4 +63,12 @@ public interface UserService extends UserDetailsService {
      * @param id the id of the user to delete
      */
     void deleteUser(long id);
+
+    /**
+     * Create a user.
+     *
+     * @param user to Create
+     * @return created user
+     */
+    UserDetailDto createUser(UserRegisterDto user);
 }
