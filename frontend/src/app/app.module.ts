@@ -12,6 +12,8 @@ import {LoginComponent} from './components/login/login.component';
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import {httpInterceptorProviders} from './interceptors';
 import {NgOptimizedImage} from '@angular/common';
+import {TrialComponent} from './components/trial/trial.component';
+import {CreateTrialComponent} from './components/trial/trial-create/trial-create.component';
 
 @NgModule({
   declarations: [
@@ -20,6 +22,8 @@ import {NgOptimizedImage} from '@angular/common';
     FooterComponent,
     HomeComponent,
     LoginComponent,
+    TrialComponent,
+    CreateTrialComponent,
   ],
     imports: [
         BrowserModule,

@@ -18,6 +18,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.lang.invoke.MethodHandles;
+import java.util.List;
 
 @RestController
 @RequestMapping(path = TrialEndpoint.BASE_PATH)
@@ -50,10 +51,10 @@ public class TrialEndpoint {
 
     @PermitAll
     @ResponseStatus(HttpStatus.OK)
-    @GetMapping(value = "/all")
-    public Trial[] getAllTrials() {
+    @GetMapping()
+    public List<Trial> getAllTrials() {
         LOG.info("Get all trials");
-        return trialService.getAllTrials().toArray(new Trial[0]);
+        return trialService.getAllTrials();
     }
 
     @PermitAll
