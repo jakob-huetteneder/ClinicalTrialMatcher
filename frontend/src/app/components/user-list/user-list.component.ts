@@ -54,8 +54,10 @@ export class UserListComponent implements OnInit {
         this.editedUsers = this.editedUsers.filter(editedUser => editedUser.id !== user.id);
       },
       error: error => {
+        // TODO: check if error is a validation error
         console.log('Something went wrong while updating user: ' + error.error.message);
-
+        console.log('The following values were invalid:\n' + JSON.stringify(error.error.errors));
+        console.log(error);
         // reset user to old values
         this.resetUser(user.id);
       }
@@ -79,6 +81,7 @@ export class UserListComponent implements OnInit {
       },
       error => {
         console.log('Something went wrong while loading users: ' + error.error.message);
+        console.log(error);
       }
     );
   }
