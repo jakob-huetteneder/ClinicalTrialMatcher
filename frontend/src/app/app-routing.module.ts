@@ -9,7 +9,13 @@ const routes: Routes = [
   {path: '', component: HomeComponent},
   {path: 'login', component: LoginComponent},
   {path: 'user-overview', component: UserListComponent},
-  {path: 'register', component: RegisterComponent}
+  {
+    path: 'register', children: [
+      {path: '', component: RegisterComponent},
+      {path: 'patient', component: RegisterComponent}
+    ]
+  },
+  {path: '**', redirectTo: ''},
 ];
 
 @NgModule({

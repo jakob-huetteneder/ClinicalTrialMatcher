@@ -2,8 +2,11 @@ package at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserDetailDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserRegisterDto;
-import at.ac.tuwien.sepm.groupphase.backend.entity.*;
-import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
+import at.ac.tuwien.sepm.groupphase.backend.entity.Admin;
+import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
+import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
+import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
+import at.ac.tuwien.sepm.groupphase.backend.entity.Researcher;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Status;
 import org.springframework.stereotype.Component;
 
