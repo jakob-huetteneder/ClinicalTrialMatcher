@@ -120,6 +120,7 @@ public class CustomUserDetailService implements UserService {
     @Override
     public UserDetailDto createUser(UserRegisterDto user) {
         LOGGER.debug("Create user with email {}", user.getEmail());
+        user.setPassword(passwordEncoder.encode(user.getPassword()));
         ApplicationUser applicationUser = userMapper.userRegisterDtoToApplicationUser(user);
         applicationUser = userRepository.save(applicationUser);
         if (user.getRole() == Role.PATIENT) {
