@@ -1,4 +1,5 @@
 package at.ac.tuwien.sepm.groupphase.backend.endpoint;
+
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.ExaminationDto;
 import at.ac.tuwien.sepm.groupphase.backend.exception.NotFoundException;
 import at.ac.tuwien.sepm.groupphase.backend.service.ExaminationService;
@@ -10,6 +11,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.server.ResponseStatusException;
+
 @RestController
 @RequestMapping(value = "/api/v1/authentication")
 public class ExaminationEndpoint {
