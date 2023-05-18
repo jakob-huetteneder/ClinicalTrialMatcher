@@ -5,7 +5,7 @@ import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.ExaminationDto;
 public interface ExaminationService {
 
     /**
-     * Add Examination for a Patient
+     * Add Examination for a Patient.
      *
      * @param examinationDto the examination result
      * @return the created examination object
@@ -13,7 +13,7 @@ public interface ExaminationService {
     ExaminationDto addExamination(ExaminationDto examinationDto);
 
     /**
-     * Update a certain examination result
+     * Update a certain examination result.
      *
      * @param examinationDto the examination result
      * @return the created examination object
