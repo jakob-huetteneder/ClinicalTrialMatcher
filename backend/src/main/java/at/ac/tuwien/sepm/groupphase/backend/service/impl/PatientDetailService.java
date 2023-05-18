@@ -33,9 +33,7 @@ public class PatientDetailService implements PatientService {
     }
 
     @Override
-    public Patient patientGetById(Long id) {
-        LOGGER.debug("Finding Patient with ID: " + id);
-        Patient patient = patientRepository.getReferenceById(id);
-        return patient;
+    public PatientDto savePatient(PatientDto patient) {
+        return null;
     }
 }

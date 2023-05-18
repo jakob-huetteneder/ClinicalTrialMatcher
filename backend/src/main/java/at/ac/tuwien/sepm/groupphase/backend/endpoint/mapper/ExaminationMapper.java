@@ -21,15 +21,19 @@ public class ExaminationMapper {
     private final PatientRepository patientRepository;
     private final DiseaseRepository diseaseRepository;
 
+    private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
+
     public ExaminationMapper(PatientRepository patientRepository, DiseaseRepository diseaseRepository) {
         this.patientRepository = patientRepository;
         this.diseaseRepository = diseaseRepository;
     }
 
     public Examination patientExaminationDtotoExamination(ExaminationDto examinationDto) {
+        LOG.debug("ExaminationDTO: {}", examinationDto);
         Patient patient = patientRepository.getById(examinationDto.patientId());
         Disease disease = diseaseRepository.getById(examinationDto.diseaseId());
         return new Examination()
+            .setId(examinationDto.id())
             .setPatient(patient)
             .setDisease(disease)
             .setName(examinationDto.name())
@@ -39,7 +43,9 @@ public class ExaminationMapper {
     }
 
     public ExaminationDto examinationtoPatientExaminationDto(Examination examination) {
+        LOG.debug("Entity: {}", examination);
         return new ExaminationDto(
+            examination.getId(),
             examination.getPatient().getId(),
             examination.getDisease().getId(),
             examination.getName(),

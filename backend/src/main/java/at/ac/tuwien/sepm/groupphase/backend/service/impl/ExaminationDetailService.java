@@ -30,7 +30,14 @@ public class ExaminationDetailService implements ExaminationService {
 
     @Override
     public ExaminationDto addExamination(ExaminationDto examinationDto) {
-        LOGGER.debug("Add Examination Result for patient: " + examinationDto.patientId());
+        LOGGER.debug("Add Examination Result " + examinationDto + " for patient: " + examinationDto.patientId());
+        Examination patientExamination = examinationRepository.save(examinationMapper.patientExaminationDtotoExamination(examinationDto));
+        return examinationMapper.examinationtoPatientExaminationDto(patientExamination);
+    }
+
+    @Override
+    public ExaminationDto updateExamination(ExaminationDto examinationDto) {
+        LOGGER.debug("Update Examination Result " + examinationDto + " for patient: " + examinationDto.patientId());
         Examination patientExamination = examinationRepository.save(examinationMapper.patientExaminationDtotoExamination(examinationDto));
         return examinationMapper.examinationtoPatientExaminationDto(patientExamination);
     }
