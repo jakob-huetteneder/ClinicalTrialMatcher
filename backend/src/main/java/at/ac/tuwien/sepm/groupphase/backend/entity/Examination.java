@@ -8,7 +8,7 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
-import jakarta.persistence.OneToOne;
+import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
 
 import java.time.LocalDate;
@@ -21,7 +21,7 @@ public class Examination {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @OneToOne(fetch = FetchType.EAGER)
+    @ManyToOne(fetch = FetchType.EAGER)
     @JoinColumn(name = "patient_id")
     private Patient patient;
 
@@ -41,39 +41,44 @@ public class Examination {
         return patient;
     }
 
-    public void setPatient(Patient patient) {
+    public Examination setPatient(Patient patient) {
         this.patient = patient;
+        return this;
     }
 
     public String getName() {
         return name;
     }
 
-    public void setName(String name) {
+    public Examination setName(String name) {
         this.name = name;
+        return this;
     }
 
     public LocalDate getDate() {
         return date;
     }
 
-    public void setDate(LocalDate date) {
+    public Examination setDate(LocalDate date) {
         this.date = date;
+        return this;
     }
 
     public String getType() {
         return type;
     }
 
-    public void setType(String type) {
+    public Examination setType(String type) {
         this.type = type;
+        return this;
     }
 
     public String getNote() {
         return note;
     }
 
-    public void setNote(String note) {
+    public Examination setNote(String note) {
         this.note = note;
+        return this;
     }
 }

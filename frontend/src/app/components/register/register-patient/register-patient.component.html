@@ -91,9 +91,9 @@
       <div class="flex flex-row">
         <div class="flex flex-col flex-1">
           <textarea maxlength="1000" class="mr-5 h-10 mb-2 inputfield border-0 min-h-[5rem]"
-                 placeholder="Enter the admission notes for your patient"
-          [class]="dynamicCssClassesForInput(admissionModel)"
-          [(ngModel)]="toRegister.admissionNote" #admissionModel="ngModel"></textarea>
+                    placeholder="Enter the admission notes for your patient"
+                    [class]="dynamicCssClassesForInput(admissionModel)"
+                    [(ngModel)]="toRegister.admissionNote" #admissionModel="ngModel"></textarea>
         </div>
         <div class="flex flex-row flex-initial">
           <button (click)="submit()" [disabled]="this.toRegister.admissionNote === ''"
@@ -123,15 +123,30 @@
         </div>
       </div>
       <div class="flex flex-row" *ngFor="let diagnosis of toRegister.diagnoses">
-        <div class="flex flex-col flex-1">
-          <input type="text" placeholder="Enter new Diagnosis" class="mr-10 h-10 mb-2 mt-2 inputfield border-0"
-                 [class]="dynamicCssClassesForInput(diag)"
-                 [(ngModel)]="diagnosis.name" #diag="ngModel">
-        </div>
-        <div class="flex flex-col flex-initial">
-          <button (click)="remove(diagnosis)" class="rounded w-35 p-2 mt-2 h-10 text-black mr-5 ml-0">
-            <i class="bi bi-dash-lg"></i>
-          </button>
+        <div class="flex flex-row flex-1">
+            <app-autocomplete
+              name="horseOwner"
+              valueNeedsToMatchSuggestion="true"
+              [(ngModel)]="diagnosis.disease"
+              [formatModel]="formatDiseaseName"
+              [suggestions]="diseaseSuggestions"
+            ></app-autocomplete>
+          <div class="flex flex-row flex-1">
+          <textarea maxlength="1000" type="text" placeholder="Notes"
+                    class="min-h-[2.5rem] mr-2 h-10 mb-2 mt-2 inputfield border-0"
+                    [class]="dynamicCssClassesForInput(diagNote)"
+                    [(ngModel)]="diagnosis.note" #diagNote="ngModel"></textarea>
+          </div>
+          <div class="flex flex-row flex-1">
+            <input type="date" placeholder="Notes" class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 inputfield border-0"
+                   [class]="dynamicCssClassesForInput(diagDate)"
+                   [(ngModel)]="diagnosis.date" #diagDate="ngModel">
+          </div>
+          <div class="flex flex-row flex-initial">
+            <button (click)="remove(diagnosis)" class="rounded w-35 p-2 mt-2 h-10 text-black mr-5 ml-0">
+              <i class="bi bi-dash-lg"></i>
+            </button>
+          </div>
         </div>
       </div>
     </div>
@@ -140,46 +155,48 @@
   <hr class="container">
 
   <div class="container flex flex-col">
-    <div>
-      <div class="flex flex-row">
-        <div class="flex flex-row flex-initial">
-          <div class="fw-bold mb-2 mt-1"><i class="bi bi-paperclip mr-2"></i></div>
-        </div>
-        <div class="flex flex-col flex-initial">
-          <div class="font-semibold mb-1 mt-1 mr-1">
-            Examinations
-          </div>
-        </div>
-        <div class="flex flex-row flex-initial">
-          <div (click)="addExam()" class="fw-bold mb-2 mt-1 hover:cursor-pointer"><i class="bi bi-plus-lg ml-2"></i></div>
+    <div class="flex flex-row">
+      <div class="flex flex-row flex-initial">
+        <div class="fw-bold mb-2 mt-1"><i class="bi bi-paperclip mr-2"></i></div>
+      </div>
+      <div class="flex flex-col flex-initial">
+        <div class="font-semibold mb-1 mt-1 mr-1">
+          Examinations
         </div>
       </div>
-      <div class="flex flex-row" *ngFor="let examination of toRegister.examinations">
-        <div class="flex flex-col flex-1">
-          <input type="text" placeholder="Name of Examination" class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 inputfield border-0"
-                 [class]="dynamicCssClassesForInput(examName)"
-                 [(ngModel)]="examination.name" #examName="ngModel">
+      <div class="flex flex-row flex-initial">
+        <div (click)="addExam()" class="fw-bold mb-2 mt-1 hover:cursor-pointer"><i class="bi bi-plus-lg ml-2"></i>
         </div>
-        <div class="flex flex-col flex-1">
-          <input type="date" placeholder="Date of Examination" class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 inputfield border-0"
-                 [class]="dynamicCssClassesForInput(examDate)"
-                 [(ngModel)]="examination.date" #examDate="ngModel">
-        </div>
-        <div class="flex flex-col flex-1">
-          <textarea maxlength="1000" type="text" placeholder="Notes" class="min-h-[2.5rem] mr-2 h-10 mb-2 mt-2 inputfield border-0"
-                 [class]="dynamicCssClassesForInput(examNote)"
+      </div>
+    </div>
+    <div class="flex flex-row" *ngFor="let examination of toRegister.examinations">
+      <div class="flex flex-col flex-1">
+        <input type="text" placeholder="Name of Examination"
+               class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 inputfield border-0"
+               [class]="dynamicCssClassesForInput(examName)"
+               [(ngModel)]="examination.name" #examName="ngModel">
+      </div>
+      <div class="flex flex-col flex-1">
+          <textarea maxlength="1000" type="text" placeholder="Notes"
+                    class="min-h-[2.5rem] mr-2 h-10 mb-2 mt-2 inputfield border-0"
+                    [class]="dynamicCssClassesForInput(examNote)"
                     [(ngModel)]="examination.note" #examNote="ngModel"></textarea>
-        </div>
-        <div class="flex flex-col flex-1">
-          <input type="text" placeholder="Type" class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 inputfield border-0"
-                 [class]="dynamicCssClassesForInput(examType)"
-                 [(ngModel)]="examination.type" #examType="ngModel">
-        </div>
-        <div class="flex flex-col flex-initial">
-          <button (click)="removeExam(examination)" class="rounded w-35 p-2 mt-2 h-10 text-black mr-5 ml-0">
-            <i class="bi bi-dash-lg"></i>
-          </button>
-        </div>
+      </div>
+      <div class="flex flex-col flex-1">
+        <input type="text" placeholder="Type" class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 inputfield border-0"
+               [class]="dynamicCssClassesForInput(examType)"
+               [(ngModel)]="examination.type" #examType="ngModel">
+      </div>
+      <div class="flex flex-col flex-1">
+        <input type="date" placeholder="Date of Examination"
+               class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 inputfield border-0"
+               [class]="dynamicCssClassesForInput(examDate)"
+               [(ngModel)]="examination.date" #examDate="ngModel">
+      </div>
+      <div class="flex flex-col flex-initial">
+        <button (click)="removeExam(examination)" class="rounded w-35 p-2 mt-2 h-10 text-black mr-5 ml-0">
+          <i class="bi bi-dash-lg"></i>
+        </button>
       </div>
     </div>
   </div>

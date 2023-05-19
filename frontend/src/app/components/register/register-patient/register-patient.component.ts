@@ -1,6 +1,9 @@
 import {Component} from '@angular/core';
 import {NgModel} from '@angular/forms';
-import {Disease, Examination, Patient} from '../../../dtos/patient';
+import {Diagnose, Disease, Examination, Patient} from '../../../dtos/patient';
+import {DiseaseService} from 'src/app/services/disease.service';
+import {PatientService} from 'src/app/services/patient.service';
+import {of} from 'rxjs';
 
 @Component({
   selector: 'app-register-patient',
@@ -21,6 +24,8 @@ export class RegisterPatientComponent {
   checkmail = '';
 
   constructor(
+    private diseaseService: DiseaseService,
+    private patientService: PatientService
   ) {
   }
 
@@ -33,15 +38,26 @@ export class RegisterPatientComponent {
     };
   }
 
+  public formatDiseaseName(disease: Disease | null | undefined): string {
+    return (disease == null)
+      ? ''
+      : `${disease.name}`;
+  }
+
+  diseaseSuggestions = (input: string) => (input === '')
+    ? of([])
+    : this.diseaseService.searchByName(input, 5);
+
   public tmp(): void {
     console.log(this.toRegister);
   }
 
+
   public buttonstyle(): string {
     if (this.toRegister.firstName === '' || this.toRegister.lastName === ''
       || this.toRegister.email === '' || this.checkmail !== this.toRegister.email ||
-      this.toRegister.examinations.filter(e => e.type === '' || e.name === '' || e.note === '').length !== 0 ||
-      this.toRegister.diagnoses.filter(d => d.name === '').length !== 0) {
+      this.toRegister.examinations.filter(e => e.type === '' || e.name === '' || e.date === undefined).length !== 0 ||
+      this.toRegister.diagnoses.filter(d => d.disease.name === '' || d.date === undefined).length !== 0) {
       return 'bg-gray-400';
     } else {
       return 'transition ease-in-out delay-100 duration-300 bg-blue-500 '
@@ -50,9 +66,10 @@ export class RegisterPatientComponent {
   }
 
   public disable(): boolean {
-    return (this.toRegister.firstName === '' || this.toRegister.lastName === ''
+    return  (this.toRegister.firstName === '' || this.toRegister.lastName === ''
       || this.toRegister.email === '' || this.checkmail !== this.toRegister.email ||
-      this.toRegister.examinations.filter(e => e.type === '' || e.name === '' || e.note === '').length !== 0);
+      this.toRegister.examinations.filter(e => e.type === '' || e.name === '' || e.date === undefined).length !== 0 ||
+      this.toRegister.diagnoses.filter(d => d.disease.name === '' || d.date === undefined).length !== 0);
   }
 
   public buttonstyleAdmission(): string {
@@ -65,15 +82,24 @@ export class RegisterPatientComponent {
   }
 
   submit() {
-    console.log(this.toRegister);
+    console.log('Create Patient: ' + this.checkmail);
+
+    this.patientService.createPatient(this.toRegister).subscribe({
+      next: () => {
+        console.log('Created Patient: ' + this.toRegister.email);
+      },
+      error: error => {
+        console.log('Something went wrong while creating user: ' + error.error.message);
+      }
+    });
   }
 
   add() {
-    this.toRegister.diagnoses.push({name: ''});
+    this.toRegister.diagnoses.push({note: '', disease: {name: ''}});
   }
 
-  remove(disease: Disease) {
-    this.toRegister.diagnoses = this.toRegister.diagnoses.filter(d => d !== disease);
+  remove(diagnose: Diagnose) {
+    this.toRegister.diagnoses = this.toRegister.diagnoses.filter(d => d !== diagnose);
   }
 
   addExam() {

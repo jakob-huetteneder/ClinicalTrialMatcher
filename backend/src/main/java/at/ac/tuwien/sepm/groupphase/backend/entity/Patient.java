@@ -50,9 +50,11 @@ public class Patient {
     @JoinColumn(name = "doctor_id")
     private Set<Doctor> doctors;
 
-    @OneToMany(fetch = FetchType.EAGER)
-    @JoinColumn(name = "diagnose_id")
+    @OneToMany(fetch = FetchType.EAGER, mappedBy = "patient")
     private Set<Diagnose> diagnoses;
+
+    @OneToMany(fetch = FetchType.EAGER, mappedBy = "patient")
+   private Set<Examination> examinations;
 
     public Long getId() {
         return id;
@@ -148,6 +150,15 @@ public class Patient {
 
     public Patient setDiagnoses(Set<Diagnose> diagnoses) {
         this.diagnoses = diagnoses;
+        return this;
+    }
+
+    public Set<Examination> getExaminations() {
+        return examinations;
+    }
+
+    public Patient setExaminations(Set<Examination> examinations) {
+        this.examinations = examinations;
         return this;
     }
 }

@@ -15,6 +15,7 @@ import {NgOptimizedImage} from '@angular/common';
 import { RegisterComponent } from './components/register/register.component';
 import {UserListComponent} from './components/user-list/user-list.component';
 import { RegisterPatientComponent } from './components/register/register-patient/register-patient.component';
+import {AutocompleteComponent} from './components/autocomplete/autocomplete.component';
 
 @NgModule({
   declarations: [
@@ -26,6 +27,7 @@ import { RegisterPatientComponent } from './components/register/register-patient
     RegisterComponent,
     UserListComponent,
     RegisterPatientComponent,
+    AutocompleteComponent
   ],
   imports: [
     BrowserModule,
