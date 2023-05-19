@@ -6,6 +6,9 @@ import jakarta.annotation.security.PermitAll;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -32,10 +35,21 @@ public class PatientEndpoint {
     @PostMapping
     public PatientDto saveTrial(@RequestBody PatientDto patient) {
         LOG.info("Insert patient");
-        LOG.info("request Body ({},{}", patient.firstName(), patient.lastName());
+        LOG.info("request Body ({},{})", patient.firstName(), patient.lastName());
         return patientService.savePatient(patient);
     }
 
+    @PermitAll
+    @GetMapping("{id}")
+    public PatientDto getById(@PathVariable long id) {
+        LOG.info("GET patient with id {}", id);
+        return patientService.getById(id);
+    }
 
-
+    @PermitAll
+    @DeleteMapping("{id}")
+    public PatientDto deleteById(@PathVariable long id) {
+        LOG.info("DELETE patient with id {}", id);
+        return patientService.deleteById(id);
+    }
 }

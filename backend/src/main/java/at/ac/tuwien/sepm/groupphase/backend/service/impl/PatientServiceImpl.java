@@ -5,6 +5,7 @@ import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.PatientMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Diagnose;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Examination;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
+import at.ac.tuwien.sepm.groupphase.backend.exception.NotFoundException;
 import at.ac.tuwien.sepm.groupphase.backend.repository.DiagnosesRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.ExaminationsRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
@@ -15,6 +16,7 @@ import org.springframework.stereotype.Service;
 
 import java.lang.invoke.MethodHandles;
 import java.util.List;
+import java.util.Optional;
 
 @Service
 public class PatientServiceImpl implements PatientService {
@@ -49,5 +51,34 @@ public class PatientServiceImpl implements PatientService {
         }
         LOG.info("Saved patient with id='{}'", convertedPatient.getId());
         return patientMapper.patientToPatientDto(convertedPatient);
+    }
+
+    @Override
+    public PatientDto getById(long id) {
+        LOG.trace("getById({})", id);
+        Optional<Patient> patient = patientRepository.findById(id);
+        if (patient.isEmpty()) {
+            //404 NOT FOUND
+            LOG.warn("Patient with id {} does not exist!", id);
+            throw new NotFoundException();
+        } else {
+            return patientMapper.patientToPatientDto(patient.get());
+        }
+    }
+
+    @Override
+    public PatientDto deleteById(long id) {
+        LOG.trace("deleteById({})", id);
+        Optional<Patient> patient = patientRepository.findById(id);
+        if (patient.isEmpty()) {
+            //404 NOT FOUND
+            LOG.warn("Patient with id {} does not exist!", id);
+            throw new NotFoundException();
+        } else {
+            diagnosesRepository.deleteAll(patient.get().getDiagnoses());
+            examinationsRepository.deleteAll(patient.get().getExaminations());
+            patientRepository.deleteById(id);
+            return patientMapper.patientToPatientDto(patient.get());
+        }
     }
 }

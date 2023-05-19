@@ -125,7 +125,7 @@
       <div class="flex flex-row" *ngFor="let diagnosis of toRegister.diagnoses">
         <div class="flex flex-row flex-1">
             <app-autocomplete
-              name="horseOwner"
+              name="disease"
               valueNeedsToMatchSuggestion="true"
               [(ngModel)]="diagnosis.disease"
               [formatModel]="formatDiseaseName"

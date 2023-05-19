@@ -1,6 +1,7 @@
 package at.ac.tuwien.sepm.groupphase.backend.entity;
 
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
+import com.fasterxml.jackson.annotation.JsonManagedReference;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
@@ -54,12 +55,11 @@ public class Patient {
     private Set<Diagnose> diagnoses;
 
     @OneToMany(fetch = FetchType.EAGER, mappedBy = "patient")
-   private Set<Examination> examinations;
+    private Set<Examination> examinations;
 
     public Long getId() {
         return id;
     }
-
 
 
     public String getFirstName() {
@@ -144,6 +144,7 @@ public class Patient {
         return this;
     }
 
+    @JsonManagedReference
     public Set<Diagnose> getDiagnoses() {
         return diagnoses;
     }
@@ -153,6 +154,7 @@ public class Patient {
         return this;
     }
 
+    @JsonManagedReference
     public Set<Examination> getExaminations() {
         return examinations;
     }

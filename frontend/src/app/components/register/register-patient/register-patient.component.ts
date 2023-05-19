@@ -48,16 +48,9 @@ export class RegisterPatientComponent {
     ? of([])
     : this.diseaseService.searchByName(input, 5);
 
-  public tmp(): void {
-    console.log(this.toRegister);
-  }
-
 
   public buttonstyle(): string {
-    if (this.toRegister.firstName === '' || this.toRegister.lastName === ''
-      || this.toRegister.email === '' || this.checkmail !== this.toRegister.email ||
-      this.toRegister.examinations.filter(e => e.type === '' || e.name === '' || e.date === undefined).length !== 0 ||
-      this.toRegister.diagnoses.filter(d => d.disease.name === '' || d.date === undefined).length !== 0) {
+    if (this.disable()) {
       return 'bg-gray-400';
     } else {
       return 'transition ease-in-out delay-100 duration-300 bg-blue-500 '
