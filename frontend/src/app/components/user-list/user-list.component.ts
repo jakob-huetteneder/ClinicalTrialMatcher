@@ -45,7 +45,7 @@ export class UserListComponent implements OnInit {
 
   confirmEditUser(user: User) {
     console.log('Update user: ' + user.email);
-    const updatedUserPromise = this.userService.updateUser(user);
+    const updatedUserPromise = this.userService.updateUserById(user);
     updatedUserPromise.subscribe({
       next: updatedUser => {
         console.log('Updated user: ' + updatedUser.email);
