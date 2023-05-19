@@ -5,7 +5,6 @@ import java.time.LocalDate;
 public record ExaminationDto(
     Long id,
     Long patientId,
-    Long diseaseId,
     String name,
     LocalDate date,
     String type,
@@ -15,7 +14,6 @@ public record ExaminationDto(
         return new ExaminationDto(
             id,
             pid,
-            diseaseId,
             name,
             date,
             type,
@@ -27,7 +25,6 @@ public record ExaminationDto(
         return new ExaminationDto(
             id,
             patientId,
-            diseaseId,
             name,
             date,
             type,

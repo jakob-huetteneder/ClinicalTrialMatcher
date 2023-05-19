@@ -25,10 +25,6 @@ public class Examination {
     @JoinColumn(name = "patient_id")
     private Patient patient;
 
-    @OneToOne(fetch = FetchType.EAGER)
-    @JoinColumn(name = "disease_id")
-    private Disease disease;
-
     @Column(name = "name")
     private String name;
 
@@ -56,15 +52,6 @@ public class Examination {
 
     public Examination setPatient(Patient patient) {
         this.patient = patient;
-        return this;
-    }
-
-    public Disease getDisease() {
-        return disease;
-    }
-
-    public Examination setDisease(Disease disease) {
-        this.disease = disease;
         return this;
     }
 

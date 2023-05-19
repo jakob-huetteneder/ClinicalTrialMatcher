@@ -19,23 +19,19 @@ import java.lang.invoke.MethodHandles;
 @Component
 public class ExaminationMapper {
     private final PatientRepository patientRepository;
-    private final DiseaseRepository diseaseRepository;
 
     private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
 
-    public ExaminationMapper(PatientRepository patientRepository, DiseaseRepository diseaseRepository) {
+    public ExaminationMapper(PatientRepository patientRepository) {
         this.patientRepository = patientRepository;
-        this.diseaseRepository = diseaseRepository;
     }
 
     public Examination patientExaminationDtotoExamination(ExaminationDto examinationDto) {
         LOG.debug("ExaminationDTO: {}", examinationDto);
         Patient patient = patientRepository.getById(examinationDto.patientId());
-        Disease disease = diseaseRepository.getById(examinationDto.diseaseId());
         return new Examination()
             .setId(examinationDto.id())
             .setPatient(patient)
-            .setDisease(disease)
             .setName(examinationDto.name())
             .setDate(examinationDto.date())
             .setType(examinationDto.type())
@@ -47,7 +43,6 @@ public class ExaminationMapper {
         return new ExaminationDto(
             examination.getId(),
             examination.getPatient().getId(),
-            examination.getDisease().getId(),
             examination.getName(),
             examination.getDate(),
             examination.getType(),
