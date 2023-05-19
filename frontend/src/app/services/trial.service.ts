@@ -6,7 +6,7 @@ import {Trial} from '../dtos/trial';
 
 
 
-const baseUri = environment.backendUrl + '/trials';
+const baseUri = environment.backendUrl + '/api/v1/trials';
 
 @Injectable({
   providedIn: 'root'

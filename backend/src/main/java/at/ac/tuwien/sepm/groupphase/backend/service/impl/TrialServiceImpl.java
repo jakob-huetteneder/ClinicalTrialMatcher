@@ -2,9 +2,13 @@ package at.ac.tuwien.sepm.groupphase.backend.service.impl;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.TrialDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.TrialMapper;
+import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
+import at.ac.tuwien.sepm.groupphase.backend.entity.Researcher;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Trial;
 import at.ac.tuwien.sepm.groupphase.backend.exception.NotFoundException;
 import at.ac.tuwien.sepm.groupphase.backend.repository.TrialRepository;
+import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
+import at.ac.tuwien.sepm.groupphase.backend.security.AuthorizationService;
 import at.ac.tuwien.sepm.groupphase.backend.service.TrialService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -22,11 +26,15 @@ public class TrialServiceImpl implements TrialService {
 
     private final TrialRepository trialRepository;
     private final TrialMapper trialMapper;
+    private final AuthorizationService authorizationService;
+    private final UserRepository userRepository;
 
 
-    public TrialServiceImpl(TrialRepository trialRepository, TrialMapper trialMapper) {
+    public TrialServiceImpl(TrialRepository trialRepository, TrialMapper trialMapper, AuthorizationService authorizationService, UserRepository userRepository) {
         this.trialRepository = trialRepository;
         this.trialMapper = trialMapper;
+        this.authorizationService = authorizationService;
+        this.userRepository = userRepository;
     }
 
     @Override
@@ -52,6 +60,13 @@ public class TrialServiceImpl implements TrialService {
     public TrialDto saveTrial(TrialDto trial) {
         LOG.trace("saveTrial()");
         Trial convertedTrial = trialMapper.trialDtoToTrial(trial);
+        ApplicationUser loggedInUser = userRepository.findById(authorizationService.getSessionUserId())
+            .orElseThrow(() -> new NotFoundException("Could not find a user for the logged in user."));
+        if (!(loggedInUser instanceof Researcher)) {
+            throw new NotFoundException("Could not find a researcher for the logged in user.");
+        }
+        convertedTrial.setResearcher(
+            (Researcher) loggedInUser);
         Trial savedTrial = trialRepository.save(convertedTrial);
         LOG.info("Saved trial with id='{}'", convertedTrial.getId());
 

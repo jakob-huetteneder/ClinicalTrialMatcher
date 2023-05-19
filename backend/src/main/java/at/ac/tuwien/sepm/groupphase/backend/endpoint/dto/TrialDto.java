@@ -2,24 +2,35 @@ package at.ac.tuwien.sepm.groupphase.backend.endpoint.dto;
 
 import at.ac.tuwien.sepm.groupphase.backend.entity.Researcher;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
+import jakarta.validation.constraints.Min;
+import jakarta.validation.constraints.NotBlank;
+
 
 import java.time.LocalDate;
 
 public record TrialDto(
     Long id,
+    @NotBlank(message = "Title must not be blank")
     String title,
     LocalDate startDate,
     LocalDate endDate,
     Researcher researcher,
+    @NotBlank(message = "Study type must not be Blank")
+
     String studyType,
     String briefSummary,
+    @NotBlank(message = "Detailed summary must not be blank")
     String detailedSummary,
     String sponsor,
     String collaborator,
     String status,
+    @NotBlank(message = "Location must not be blank")
+
     String location,
     Gender crGender,
+    @Min(value = 0, message = "Minimum age must be greater than 0")
     int crMinAge,
+    @Min(value = 0, message = "Maximum age must be greater than 0")
     int crMaxAge,
     String crFreeText
 ) {

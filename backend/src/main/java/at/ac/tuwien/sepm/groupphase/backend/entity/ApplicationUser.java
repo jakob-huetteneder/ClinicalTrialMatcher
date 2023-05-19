@@ -91,12 +91,5 @@ public class ApplicationUser {
         return this;
     }
 
-    public Long getId() {
-        return id;
-    }
 
-    public ApplicationUser setId(Long id) {
-        this.id = id;
-        return this;
-    }
 }
