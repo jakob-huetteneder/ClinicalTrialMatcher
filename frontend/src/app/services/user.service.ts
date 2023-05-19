@@ -52,4 +52,9 @@ export class UserService {
   createUser(user: User): Observable<User> {
     return this.http.post<User>(baseUri, user);
   }
+
+  getById(userId: number): Observable<User> {
+    return this.http.get<User>(baseUri + '/' + userId);
+  }
+
 }

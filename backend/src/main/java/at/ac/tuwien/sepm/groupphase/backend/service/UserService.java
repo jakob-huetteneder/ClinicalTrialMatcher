@@ -3,12 +3,14 @@ package at.ac.tuwien.sepm.groupphase.backend.service;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserDetailDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserLoginDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserRegisterDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserUpdateDto;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 
 import java.util.List;
+import java.util.Optional;
 
 public interface UserService extends UserDetailsService {
 
@@ -48,7 +50,15 @@ public interface UserService extends UserDetailsService {
      * @param user the user to update
      * @return the updated user
      */
-    UserDetailDto updateUser(UserDetailDto user);
+    UserDetailDto updateUser(UserUpdateDto user);
+
+    /**
+     * Get a user by id.
+     *
+     * @param id the id to find the corresponding user.
+     * @return the user with the id.
+     */
+    UserDetailDto getById(long id);
 
     /**
      * Get all users.

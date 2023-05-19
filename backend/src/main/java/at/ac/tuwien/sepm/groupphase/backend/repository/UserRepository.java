@@ -13,6 +13,9 @@ public interface UserRepository extends JpaRepository<ApplicationUser, Long> {
 
     ApplicationUser findByEmail(String email);
 
+    boolean existsApplicationUserByIdAndPassword(Long id, String oldPassword);
+
+
     @Transactional
     @Modifying
     @Query(value = "UPDATE application_user SET first_name=:firstName, last_name=:lastName, email=:email, password=:password, status=:status WHERE id=:id", nativeQuery = true)

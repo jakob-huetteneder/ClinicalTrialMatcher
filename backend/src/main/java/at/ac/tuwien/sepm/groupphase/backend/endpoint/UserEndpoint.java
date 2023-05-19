@@ -2,6 +2,7 @@ package at.ac.tuwien.sepm.groupphase.backend.endpoint;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserDetailDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserRegisterDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserUpdateDto;
 import at.ac.tuwien.sepm.groupphase.backend.service.UserService;
 import jakarta.annotation.security.PermitAll;
 import jakarta.validation.Valid;
@@ -39,9 +40,16 @@ public class UserEndpoint {
         return userService.getAllUsers();
     }
 
+    @PermitAll
+    @GetMapping(path = "/{id}")
+    public UserDetailDto getById(@PathVariable("id") long id) {
+        LOG.info("GET " + BASE_URL);
+        return userService.getById(id);
+    }
+
     @Secured("ROLE_ADMIN")
     @PutMapping(path = "/{id}")
-    public UserDetailDto updateUser(@PathVariable("id") long id, @Valid @RequestBody UserDetailDto toUpdate) {
+    public UserDetailDto updateUser(@PathVariable("id") long id, @Valid @RequestBody UserUpdateDto toUpdate) {
         LOG.info("PUT " + BASE_URL + "/{}", id);
         LOG.debug("Body of request:\n{}", toUpdate);
         if (id != toUpdate.id()) {

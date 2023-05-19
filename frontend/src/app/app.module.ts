@@ -13,6 +13,7 @@ import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import {httpInterceptorProviders} from './interceptors';
 import {NgOptimizedImage} from '@angular/common';
 import { RegisterComponent } from './components/register/register.component';
+import { UpdateProfileComponent } from './components/update-profile/update-profile.component';
 import {UserListComponent} from './components/user-list/user-list.component';
 
 @NgModule({
@@ -22,6 +23,7 @@ import {UserListComponent} from './components/user-list/user-list.component';
     FooterComponent,
     HomeComponent,
     LoginComponent,
+    UpdateProfileComponent,
     RegisterComponent,
     UserListComponent,
   ],

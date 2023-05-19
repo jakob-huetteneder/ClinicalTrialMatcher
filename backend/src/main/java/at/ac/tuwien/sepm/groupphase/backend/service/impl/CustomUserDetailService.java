@@ -3,6 +3,7 @@ package at.ac.tuwien.sepm.groupphase.backend.service.impl;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserDetailDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserLoginDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserRegisterDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserUpdateDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.UserMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Admin;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
@@ -27,6 +28,7 @@ import org.springframework.stereotype.Service;
 
 import java.lang.invoke.MethodHandles;
 import java.util.List;
+import java.util.Optional;
 
 @Service
 public class CustomUserDetailService implements UserService {
@@ -95,19 +97,31 @@ public class CustomUserDetailService implements UserService {
     }
 
     @Override
-    public UserDetailDto updateUser(UserDetailDto user) {
+    public UserDetailDto updateUser(UserUpdateDto user) {
         LOGGER.debug("Update user with email {}", user.email());
-        ApplicationUser applicationUser = userMapper.userDetailDtoToApplicationUser(user);
+        if (!userRepository.existsApplicationUserByIdAndPassword(user.id(), passwordEncoder.encode(user.oldPassword()))) {
+            throw new NotFoundException("Wrong password");
+        }
+        ApplicationUser applicationUser = userMapper.userUpdateDtoToApplicationUser(user);
         int success = userRepository.updateUser(applicationUser.getId(), applicationUser.getFirstName(), applicationUser.getLastName(), applicationUser.getEmail(), applicationUser.getPassword(), applicationUser.getStatus().ordinal());
         if (success == 0) {
             throw new NotFoundException(String.format("Could not find the user with the email address %s", user.email()));
         }
-        return user;
+        return userMapper.applicationUserToUserDetailDto(applicationUser);
     }
 
     @Override
     public List<UserDetailDto> getAllUsers() {
         return userRepository.findAll().stream().map(userMapper::applicationUserToUserDetailDto).toList();
+    }
+
+    @Override
+    public UserDetailDto getById(long id) {
+        Optional<ApplicationUser> user = userRepository.findById(id);
+        if (user.isPresent()) {
+            return userMapper.applicationUserToUserDetailDto(user.get());
+        }
+        throw new NotFoundException("User was not found");
     }
 
     @Override
