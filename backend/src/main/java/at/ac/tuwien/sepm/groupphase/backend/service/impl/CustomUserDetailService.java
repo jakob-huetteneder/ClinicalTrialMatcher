@@ -21,6 +21,7 @@ import org.springframework.stereotype.Service;
 
 import java.lang.invoke.MethodHandles;
 import java.util.List;
+import java.util.Optional;
 
 @Service
 public class CustomUserDetailService implements UserService {
@@ -54,12 +55,25 @@ public class CustomUserDetailService implements UserService {
     @Override
     public UserDetailDto updateUser(UserDetailDto user) {
         LOGGER.debug("Update user with email {}", user.email());
-        ApplicationUser applicationUser = userMapper.userDetailDtoToApplicationUser(user);
-        int success = userRepository.updateUser(applicationUser.getId(), applicationUser.getFirstName(), applicationUser.getLastName(), applicationUser.getEmail(), applicationUser.getPassword(), applicationUser.getStatus().ordinal());
-        if (success == 0) {
-            throw new NotFoundException(String.format("Could not find the user with the email address %s", user.email()));
+        Optional<ApplicationUser> applicationUser = userRepository.findById(user.id());
+
+        ApplicationUser foundUser = applicationUser.orElseThrow(() -> new NotFoundException(String.format("Could not find the user with the id %d", user.id())));
+        if (user.firstName() != null) {
+            foundUser.setFirstName(user.firstName());
         }
-        return user;
+        if (user.lastName() != null) {
+            foundUser.setLastName(user.lastName());
+        }
+        if (user.email() != null) {
+            foundUser.setEmail(user.email());
+        }
+        if (user.password() != null) {
+            // TODO: old password check...
+        }
+        if (user.status() != null) {
+            foundUser.setStatus(user.status());
+        }
+        return userMapper.applicationUserToUserDetailDto(userRepository.save(foundUser));
     }
 
     @Override

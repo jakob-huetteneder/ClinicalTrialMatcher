@@ -15,7 +15,7 @@ import org.springframework.stereotype.Component;
 public class UserMapper {
 
     public ApplicationUser userDetailDtoToApplicationUser(UserDetailDto userDetailDto) {
-        return new ApplicationUser()
+        return getApplicationUserFromRole(userDetailDto.role())
             .setId(userDetailDto.id())
             .setFirstName(userDetailDto.firstName())
             .setLastName(userDetailDto.lastName())
