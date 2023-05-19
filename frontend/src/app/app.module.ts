@@ -16,6 +16,8 @@ import {TrialComponent} from './components/trial/trial.component';
 import {CreateTrialComponent} from './components/trial/trial-create/trial-create.component';
 import { RegisterComponent } from './components/register/register.component';
 import {UserListComponent} from './components/user-list/user-list.component';
+import {ToastrModule} from "ngx-toastr";
+import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
 
 @NgModule({
   declarations: [
@@ -35,6 +37,8 @@ import {UserListComponent} from './components/user-list/user-list.component';
     ReactiveFormsModule,
     HttpClientModule,
     NgbModule,
+    ToastrModule.forRoot(),
+    BrowserAnimationsModule,
     FormsModule,
     NgOptimizedImage,
   ],

@@ -16,6 +16,7 @@ import {ToastrService} from 'ngx-toastr';
 })
 export class CreateTrialComponent implements OnInit {
 
+
   researcher: Researcher = {
     id: 1,
     email: 'researcher1@email.com',
@@ -47,7 +48,7 @@ export class CreateTrialComponent implements OnInit {
     private service: TrialService,
     private router: Router,
     private route: ActivatedRoute,
-    //private notification: ToastrService,
+    private notification: ToastrService,
 
   ) {
   }
@@ -64,16 +65,36 @@ export class CreateTrialComponent implements OnInit {
     console.log('trial: ', this.trial);
     this.service.create(this.trial).subscribe({
       next: data => {
-        //this.notification.success(`Trial ${this.trial.title} successfully created.`);
+        this.notification.success(`Trial ${this.trial.title} successfully created.`);
         this.router.navigate(['/trials']);
       },
       error: error => {
         console.error('error creating trial', error);
-        //this.notification.error(error.error.message, error.error.errors);
+        this.notification.error(error.error.message, error.error.errors);
 
       }
     });
   }
+
+  public buttonstyle(): string {
+    if (this.trial.title === '' || this.trial.status === ''
+      || this.trial.studyType === '' || this.trial.location === '') {
+      return 'bg-gray-400';
+    } else {
+      return 'transition ease-in-out delay-100 duration-300 bg-blue-500 '
+        + 'hover:-translate-y-0 hover:scale-110 hover:bg-blue-400 hover:cursor-pointer';
+    }
+  }
+
+
+
+  public disable(): boolean {
+    return (this.trial.title === '' || this.trial.status === ''
+      || this.trial.studyType === '' || this.trial.location === '');
+  }
+
+
+
 
   public dynamicCssClassesForInput(input: NgModel): any {
     return {
