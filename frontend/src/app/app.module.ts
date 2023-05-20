@@ -12,6 +12,8 @@ import {LoginComponent} from './components/login/login.component';
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import {httpInterceptorProviders} from './interceptors';
 import {NgOptimizedImage} from '@angular/common';
+import { RegisterComponent } from './components/register/register.component';
+import {UserListComponent} from './components/user-list/user-list.component';
 
 @NgModule({
   declarations: [
@@ -20,16 +22,18 @@ import {NgOptimizedImage} from '@angular/common';
     FooterComponent,
     HomeComponent,
     LoginComponent,
+    RegisterComponent,
+    UserListComponent,
   ],
-    imports: [
-        BrowserModule,
-        AppRoutingModule,
-        ReactiveFormsModule,
-        HttpClientModule,
-        NgbModule,
-        FormsModule,
-        NgOptimizedImage,
-    ],
+  imports: [
+    BrowserModule,
+    AppRoutingModule,
+    ReactiveFormsModule,
+    HttpClientModule,
+    NgbModule,
+    FormsModule,
+    NgOptimizedImage,
+  ],
   providers: [httpInterceptorProviders],
   bootstrap: [AppComponent]
 })

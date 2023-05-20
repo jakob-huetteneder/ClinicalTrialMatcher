@@ -37,43 +37,57 @@ public class ApplicationUser {
     @Enumerated(EnumType.ORDINAL)
     private Status status;
 
+    public Long getId() {
+        return id;
+    }
+
+    public ApplicationUser setId(Long id) {
+        this.id = id;
+        return this;
+    }
+
     public String getFirstName() {
         return firstName;
     }
 
-    public void setFirstName(String firstName) {
+    public ApplicationUser setFirstName(String firstName) {
         this.firstName = firstName;
+        return this;
     }
 
     public String getLastName() {
         return lastName;
     }
 
-    public void setLastName(String lastName) {
+    public ApplicationUser setLastName(String lastName) {
         this.lastName = lastName;
+        return this;
     }
 
     public String getEmail() {
         return email;
     }
 
-    public void setEmail(String email) {
+    public ApplicationUser setEmail(String email) {
         this.email = email;
+        return this;
     }
 
     public String getPassword() {
         return password;
     }
 
-    public void setPassword(String password) {
+    public ApplicationUser setPassword(String password) {
         this.password = password;
+        return this;
     }
 
     public Status getStatus() {
         return status;
     }
 
-    public void setStatus(Status status) {
+    public ApplicationUser setStatus(Status status) {
         this.status = status;
+        return this;
     }
 }
