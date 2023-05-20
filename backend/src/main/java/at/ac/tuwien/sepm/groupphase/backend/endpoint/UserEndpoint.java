@@ -48,7 +48,7 @@ public class UserEndpoint {
         LOG.info("PUT " + BASE_URL + "/{}", id);
         LOG.debug("Body of request:\n{}", toUpdate);
         if (id != toUpdate.id()) {
-            // TODO: throw 400 bad request
+            throw new IllegalArgumentException("ID in path and body do not match");
         }
         return userService.updateUser(toUpdate);
     }
