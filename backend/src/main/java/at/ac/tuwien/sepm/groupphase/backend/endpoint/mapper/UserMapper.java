@@ -31,7 +31,7 @@ public class UserMapper {
             applicationUser.getLastName(),
             applicationUser.getEmail(),
             applicationUser.getPassword(),
-            applicationUserToRole(applicationUser),
+            getRoleFromApplicationUser(applicationUser),
             applicationUser.getStatus()
         );
     }
@@ -56,7 +56,11 @@ public class UserMapper {
         return patient;
     }
 
-    public Role applicationUserToRole(ApplicationUser applicationUser) {
+    public Role getRoleFromApplicationUser(ApplicationUser applicationUser) {
+        if (applicationUser == null) {
+            throw new IllegalArgumentException("Cannot get role of applicationUser = null");
+        }
+
         if (applicationUser instanceof Admin) {
             return Role.ADMIN;
         } else if (applicationUser instanceof Doctor) {
