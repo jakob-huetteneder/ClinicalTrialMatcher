@@ -5,12 +5,9 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.Diagnose;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Examination;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
-import jakarta.validation.constraints.Email;
-import jakarta.validation.constraints.NotNull;
 
 import java.time.LocalDate;
 import java.util.Set;
-
 
 public record PatientDto(
     Long id,
@@ -19,8 +16,6 @@ public record PatientDto(
     String firstName,
     @NotNull(message = "Last name must not be null")
     String lastName,
-    @NotNull(message = "Email must not be null")
-    @Email
     String email,
     String admissionNote,
     @NotNull(message = "Birthdate must not be null")
@@ -31,6 +26,4 @@ public record PatientDto(
     Set<Diagnose> diagnoses,
     Set<Examination> examinations
 ) {
-
-
 }
