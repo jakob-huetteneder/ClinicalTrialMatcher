@@ -9,7 +9,7 @@
   <div class="text-xl mb-3 mt-3">Welcome to ClinicalMatcher!</div>
 </div>
 
-<div class="whitebox flex justify-center container text-in-button">
+<div class="whitebox flex justify-center container text-in-button mb-10">
   <div class="fw-bold grid grid-cols-1 justify-items-center container mt-3 ml-3">
     <div class="text-lg">Please select your profession:</div>
   </div>
@@ -31,7 +31,7 @@
 
   <hr class="container">
 
-  <div class="container grid grid-cols-2">
+  <div class="container lg:grid lg:grid-cols-2 flex flex-col">
     <div class="flex flex-row">
       <div class="flex flex-col flex-initial">
         <div class="fw-bold mb-3 mt-3"><i class="bi bi-person-fill mr-2"></i></div>
@@ -46,16 +46,16 @@
         <div class="fw-bold mb-3 mt-3" *ngIf="toRegister.role === role.patient">Birthdate:</div>
     </div>
     <div class="flex flex-col flex-1">
-      <input type="text" placeholder="Enter your First Name" class="ml-5 mr-5 h-10 mb-2 mt-2 inputfield border-0"
+      <input type="text" placeholder="Enter your First Name" class="lg:ml-5 ml-10 mr-5 h-10 mb-2 mt-2 inputfield border-0"
              [class]="dynamicCssClassesForInput(fNameModel)"
              [(ngModel)]="toRegister.firstName" #fNameModel="ngModel">
-      <input type="email" placeholder="Enter your E-Mail" class="ml-5 mr-5 h-10 mb-2 mt-2 inputfield border-0"
+      <input type="email" placeholder="Enter your E-Mail" class="lg:ml-5 mr-5 ml-10 h-10 mb-2 mt-2 inputfield border-0"
              [class]="dynamicCssClassesForInput(emailModel)"
              [(ngModel)]="toRegister.email" #emailModel="ngModel">
-      <input type="password" placeholder="Enter your New Password" class="ml-5 mr-5 h-10 mb-2 mt-2 inputfield border-0"
+      <input type="password" placeholder="Enter your New Password" class="lg:ml-5 ml-10 mr-5 h-10 mb-2 mt-2 inputfield border-0"
              [class]="dynamicCssClassesForInput(pwdModel)"
              [(ngModel)]="toRegister.password" #pwdModel="ngModel">
-      <input type="date" placeholder="Enter your Date of Birth" class="ml-5 mr-5 h-10 mb-2 mt-2 inputfield border-0"
+      <input type="date" placeholder="Enter your Date of Birth" class="lg:ml-5 ml-10 mr-5 h-10 mb-2 mt-2 inputfield border-0"
              [class]="dynamicCssClassesForInput(dobModel)"
              [(ngModel)]="toRegister.birthdate" #dobModel="ngModel"
              *ngIf="toRegister.role === role.patient">

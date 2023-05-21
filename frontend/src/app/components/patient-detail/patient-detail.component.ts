@@ -21,6 +21,8 @@ export class PatientDetailComponent implements OnInit{
   };
 
   id = -1;
+  edit = false;
+  loading = true;
 
   constructor(
     private router: Router,
@@ -30,11 +32,13 @@ export class PatientDetailComponent implements OnInit{
   }
 
   ngOnInit(): void {
+    this.loading = true;
     this.route.params.subscribe(params => {
       this.id = params.id;
       this.service.getById(this.id).subscribe({
         next: data => {
           this.patient = data;
+          this.loading = false;
         },
         error: error => {
           console.error('Error, patient does not exist', error);
@@ -46,7 +50,7 @@ export class PatientDetailComponent implements OnInit{
 
   submit() {
     this.service.deleteById(this.id).subscribe({
-        next: data => {
+        next: _data => {
           console.log('Successfully deleted patient {}', this.id);
           this.router.navigate(['']);
         },
@@ -55,6 +59,10 @@ export class PatientDetailComponent implements OnInit{
           //return this.router.navigate(['']);
         }
       });
+  }
+
+  pulse(): string {
+    return this.loading ? 'animate-pulse' : '';
   }
 
 }
