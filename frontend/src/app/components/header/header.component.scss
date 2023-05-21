@@ -9,9 +9,6 @@
   align-items: center;
   padding: 12px 54px;
 
-  width: 1920px;
-  height: 80px;
-
   /* Inside auto layout */
 
   flex: none;
@@ -43,7 +40,7 @@
 
   /* Auto layout */
 
-  display: inline-block; // has to be inline block to hug contents (or an <a> flexbox)
+  //display: inline-block; // has to be inline block to hug contents (or an <a> flexbox)
   justify-content: space-between;
   flex-direction: row;
   align-items: center;
