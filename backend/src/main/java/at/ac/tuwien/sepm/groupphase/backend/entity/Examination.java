@@ -88,4 +88,13 @@ public class Examination {
         this.note = note;
         return this;
     }
+
+    public Examination setId(Long id) {
+        this.id = id;
+        return this;
+    }
+
+    public Long getId() {
+        return this.id;
+    }
 }

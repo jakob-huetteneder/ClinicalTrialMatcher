@@ -5,6 +5,7 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.Diagnose;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Examination;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
+import jakarta.validation.constraints.NotNull;
 
 import java.time.LocalDate;
 import java.util.Set;
