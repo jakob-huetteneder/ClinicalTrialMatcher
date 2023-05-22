@@ -4,6 +4,7 @@ import {HomeComponent} from './components/home/home.component';
 import {LoginComponent} from './components/login/login.component';
 import {RegisterComponent} from './components/register/register.component';
 import {UserListComponent} from './components/user-list/user-list.component';
+import {VerificationComponent} from './components/verification/verification.component';
 
 const routes: Routes = [
   {path: '', component: HomeComponent},
@@ -15,6 +16,7 @@ const routes: Routes = [
       {path: 'patient', component: RegisterComponent}
     ]
   },
+  {path: 'verification', component: VerificationComponent},
   {path: '**', redirectTo: ''},
 ];
 
