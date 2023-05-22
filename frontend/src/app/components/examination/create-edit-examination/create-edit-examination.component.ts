@@ -36,17 +36,6 @@ export class CreateEditExaminationComponent implements OnInit {
     return this.mode === ExaminationCreateEditMode.create;
   }
 
-  private get modeActionFinished(): string {
-    switch (this.mode) {
-      case ExaminationCreateEditMode.create:
-        return 'created';
-      case ExaminationCreateEditMode.edit:
-        return 'edited';
-      default:
-        return '?';
-    }
-  }
-
 
   public get heading(): string {
     switch (this.mode) {
@@ -59,6 +48,16 @@ export class CreateEditExaminationComponent implements OnInit {
     }
   }
 
+  private get modeActionFinished(): string {
+    switch (this.mode) {
+      case ExaminationCreateEditMode.create:
+        return 'created';
+      case ExaminationCreateEditMode.edit:
+        return 'edited';
+      default:
+        return '?';
+    }
+  }
   ngOnInit(): void {
     this.route.params.subscribe(
       params => {

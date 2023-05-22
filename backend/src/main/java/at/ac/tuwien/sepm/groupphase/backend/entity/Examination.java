@@ -100,14 +100,32 @@ public class Examination {
 
     @Override
     public String toString() {
-        return "Examination{" +
-            "id=" + id +
-            ", medicalImage=" + medicalImage +
-            ", patient=" + patient +
-            ", name='" + name + '\'' +
-            ", date=" + date +
-            ", type='" + type + '\'' +
-            ", note='" + note + '\'' +
+        return "Examination{"
+            +
+            "id="
+            + id
+            +
+            ", medicalImage="
+            + medicalImage
+            +
+            ", patient="
+            + patient
+            +
+            ", name='"
+            + name
+            + '\''
+            +
+            ", date="
+            + date
+            +
+            ", type='"
+            + type
+            + '\''
+            +
+            ", note='"
+            + note
+            + '\''
+            +
             '}';
     }
 }
