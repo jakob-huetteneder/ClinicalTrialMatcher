@@ -24,6 +24,7 @@ const routes: Routes = [
     ]
   },
   {path: 'patient', children: [
+    {path: '', component: PatientDetailComponent},
     {path: ':id', component: PatientDetailComponent},
     {path: ':id/examination', component: CreateEditExaminationComponent, data: {mode: ExaminationCreateEditMode.create}},
   ]},

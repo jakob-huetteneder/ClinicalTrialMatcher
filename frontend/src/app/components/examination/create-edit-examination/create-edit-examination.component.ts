@@ -2,6 +2,8 @@ import {ActivatedRoute, Router} from '@angular/router';
 import {Component, OnInit} from '@angular/core';
 import {NgModel} from '@angular/forms';
 import {Examination} from '../../../dtos/patient';
+import {ExaminationService} from 'src/app/services/examination.service';
+import {Observable} from 'rxjs';
 
 export enum ExaminationCreateEditMode {
   create,
@@ -26,12 +28,25 @@ export class CreateEditExaminationComponent implements OnInit {
   constructor(
     private router: Router,
     private route: ActivatedRoute,
+    private service: ExaminationService
   ) {
   }
 
   get modeIsCreate(): boolean {
     return this.mode === ExaminationCreateEditMode.create;
   }
+
+  private get modeActionFinished(): string {
+    switch (this.mode) {
+      case ExaminationCreateEditMode.create:
+        return 'created';
+      case ExaminationCreateEditMode.edit:
+        return 'edited';
+      default:
+        return '?';
+    }
+  }
+
 
   public get heading(): string {
     switch (this.mode) {
@@ -105,6 +120,27 @@ export class CreateEditExaminationComponent implements OnInit {
   }*/
 
   submit() {
-
+    let observable: Observable<Examination>;
+    switch (this.mode) {
+      case ExaminationCreateEditMode.create:
+        observable = this.service.addNewExamination(this.exam);
+        break;
+      case ExaminationCreateEditMode.edit:
+        observable = this.service.updateExamination(this.exam);
+        break;
+      default:
+        console.error('Unknown HorseCreateEditMode', this.mode);
+        return;
+    }
+    observable.subscribe({
+      next: data => {
+        //this.notification.success(`Examination ${this.exam.name} successfully ${this.modeActionFinished}.`);
+        this.router.navigate(['/patient']);
+      },
+      error: error => {
+        console.error('Error creating/editing examination', error);
+        //this.notification.error(error.error.errors, `Examination ${this.exam.name} could not be ${this.modeActionFinished}`);
+      }
+    });
   }
 }

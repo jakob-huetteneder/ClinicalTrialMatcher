@@ -97,4 +97,17 @@ public class Examination {
     public Long getId() {
         return this.id;
     }
+
+    @Override
+    public String toString() {
+        return "Examination{" +
+            "id=" + id +
+            ", medicalImage=" + medicalImage +
+            ", patient=" + patient +
+            ", name='" + name + '\'' +
+            ", date=" + date +
+            ", type='" + type + '\'' +
+            ", note='" + note + '\'' +
+            '}';
+    }
 }

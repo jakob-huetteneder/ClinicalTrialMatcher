@@ -2,16 +2,19 @@ package at.ac.tuwien.sepm.groupphase.backend.service.impl;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.ExaminationDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.ExaminationMapper;
+import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
+import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Examination;
+import at.ac.tuwien.sepm.groupphase.backend.exception.NotFoundException;
 import at.ac.tuwien.sepm.groupphase.backend.repository.ExaminationRepository;
-import at.ac.tuwien.sepm.groupphase.backend.security.JwtTokenizer;
+import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
 import at.ac.tuwien.sepm.groupphase.backend.service.ExaminationService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.Bean;
-import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
+import at.ac.tuwien.sepm.groupphase.backend.security.AuthorizationService;
+
 
 import java.lang.invoke.MethodHandles;
 
@@ -21,16 +24,27 @@ public class ExaminationDetailService implements ExaminationService {
     private static final Logger LOGGER = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
     private final ExaminationRepository examinationRepository;
     private final ExaminationMapper examinationMapper;
+    private final AuthorizationService authorizationService;
+    private final UserRepository userRepository;
+
 
     @Autowired
-    public ExaminationDetailService(ExaminationRepository examinationRepository, ExaminationMapper examinationMapper) {
+    public ExaminationDetailService(ExaminationRepository examinationRepository, ExaminationMapper examinationMapper, AuthorizationService authorizationService, UserRepository userRepository) {
         this.examinationRepository = examinationRepository;
         this.examinationMapper = examinationMapper;
+        this.authorizationService = authorizationService;
+        this.userRepository = userRepository;
     }
+
 
     @Override
     public ExaminationDto addExamination(ExaminationDto examinationDto) {
         LOGGER.debug("Add Examination Result " + examinationDto + " for patient: " + examinationDto.patientId());
+        ApplicationUser loggedInUser = userRepository.findById(authorizationService.getSessionUserId())
+            .orElseThrow(() -> new NotFoundException("Could not find a user for the logged in user."));
+        if (!(loggedInUser instanceof Doctor)) {
+            throw new NotFoundException("Could not find a researcher for the logged in user.");
+        }
         Examination patientExamination = examinationRepository.save(examinationMapper.patientExaminationDtotoExamination(examinationDto));
         return examinationMapper.examinationtoPatientExaminationDto(patientExamination);
     }
@@ -39,6 +53,22 @@ public class ExaminationDetailService implements ExaminationService {
     public ExaminationDto updateExamination(ExaminationDto examinationDto) {
         LOGGER.debug("Update Examination Result " + examinationDto + " for patient: " + examinationDto.patientId());
         Examination patientExamination = examinationRepository.save(examinationMapper.patientExaminationDtotoExamination(examinationDto));
+        return examinationMapper.examinationtoPatientExaminationDto(patientExamination);
+    }
+
+
+    @Override
+    public ExaminationDto deleteExamination(long id, long examinationId) {
+        LOGGER.debug("Delete Examination Result with ID " + examinationId + " for patient: " + id);
+        examinationRepository.delete(examinationRepository.getReferenceById(examinationId));
+        // TODO: Remove Examination Foreign Key from Patient Table
+        return viewExamination(id, examinationId);
+    }
+
+    @Override
+    public ExaminationDto viewExamination(long id, long examinationId) {
+        LOGGER.debug("View Examination Result with ID " + examinationId + " for patient: " + id);
+        Examination patientExamination = examinationRepository.getById(examinationId);
         return examinationMapper.examinationtoPatientExaminationDto(patientExamination);
     }
 }

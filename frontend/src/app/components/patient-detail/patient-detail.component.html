@@ -30,9 +30,9 @@
       </div>
       <div class="flex flex-col flex-1">
         <div class="flex flex-col flex-1">
-        <input disabled class="border-0 ml-5 mr-5 h-10 pl-2 mb-2 mt-2 inputfield"
-               placeholder="{{patient.firstName}}">
-      </div>
+          <input disabled class="border-0 ml-5 mr-5 h-10 pl-2 mb-2 mt-2 inputfield"
+                 placeholder="{{patient.firstName}}">
+        </div>
         <div class="flex flex-col flex-1">
           <input disabled class="border-0 ml-5 mr-5 h-10 pl-2 mb-2 mt-2 inputfield"
                  placeholder="{{patient.email}}">
@@ -108,18 +108,18 @@
         </div>
       </div>
       <div class="flex lg:flex-row flex-col" *ngFor="let diagnosis of patient.diagnoses">
-          <div class="flex flex-col flex-1" *ngIf="!edit">
-            <input disabled class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 pl-2 inputfield border-0"
-                   placeholder="{{diagnosis.disease.name}}">
-          </div>
-          <div class="flex flex-col flex-1" *ngIf="!edit">
+        <div class="flex flex-col flex-1" *ngIf="!edit">
+          <input disabled class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 pl-2 inputfield border-0"
+                 placeholder="{{diagnosis.disease.name}}">
+        </div>
+        <div class="flex flex-col flex-1" *ngIf="!edit">
           <textarea readonly maxlength="1000" placeholder="{{diagnosis.note}}"
                     class="min-h-[2.5rem] mr-2 h-10 mb-2 mt-2 inputfield border-0"></textarea>
-          </div>
-          <div class="flex flex-col flex-1" *ngIf="!edit">
-            <input disabled class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 pl-2 inputfield border-0"
-                   placeholder="{{diagnosis.date}}">
-          </div>
+        </div>
+        <div class="flex flex-col flex-1" *ngIf="!edit">
+          <input disabled class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 pl-2 inputfield border-0"
+                 placeholder="{{diagnosis.date}}">
+        </div>
       </div>
     </div>
   </div>
@@ -152,7 +152,7 @@
       </div>
       <div class="flex flex-col flex-1" *ngIf="!edit">
         <input disabled class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 pl-2 inputfield border-0"
-          placeholder="{{examination.date}}">
+               placeholder="{{examination.date}}">
       </div>
     </div>
     <div class="container mt-10">

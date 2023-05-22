@@ -50,15 +50,15 @@ export class PatientDetailComponent implements OnInit{
 
   submit() {
     this.service.deleteById(this.id).subscribe({
-        next: _data => {
-          console.log('Successfully deleted patient {}', this.id);
-          this.router.navigate(['']);
-        },
-        error: error => {
-          console.error('Error, patient does not exist', error);
-          //return this.router.navigate(['']);
-        }
-      });
+      next: _data => {
+        console.log('Successfully deleted patient {}', this.id);
+        this.router.navigate(['']);
+      },
+      error: error => {
+        console.error('Error, patient does not exist', error);
+        //return this.router.navigate(['']);
+      }
+    });
   }
 
   pulse(): string {
