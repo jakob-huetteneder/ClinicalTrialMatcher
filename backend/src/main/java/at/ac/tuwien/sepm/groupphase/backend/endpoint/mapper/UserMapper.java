@@ -7,6 +7,7 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Researcher;
+import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Status;
 import org.springframework.stereotype.Component;
 
@@ -36,15 +37,7 @@ public class UserMapper {
     }
 
     public ApplicationUser userRegisterDtoToApplicationUser(UserRegisterDto userRegisterDto) {
-        ApplicationUser user;
-
-        switch (userRegisterDto.getRole()) {
-            case DOCTOR -> user = new Doctor();
-            case RESEARCHER -> user = new Researcher();
-            default -> user = new ApplicationUser();
-        }
-
-        return user
+        return getApplicationUserFromRole(userRegisterDto.getRole())
             .setFirstName(userRegisterDto.getFirstName())
             .setLastName(userRegisterDto.getLastName())
             .setEmail(userRegisterDto.getEmail())
@@ -63,15 +56,32 @@ public class UserMapper {
         return patient;
     }
 
-    public String applicationUserToRole(ApplicationUser applicationUser) {
+    public Role applicationUserToRole(ApplicationUser applicationUser) {
         if (applicationUser instanceof Admin) {
-            return "Admin";
+            return Role.ADMIN;
         } else if (applicationUser instanceof Doctor) {
-            return "Doctor";
+            return Role.DOCTOR;
         } else if (applicationUser instanceof Researcher) {
-            return "Researcher";
+            return Role.RESEARCHER;
         } else {
-            return "Patient";
+            return Role.PATIENT;
+        }
+    }
+
+    public ApplicationUser getApplicationUserFromRole(Role role) {
+        switch (role) {
+            case ADMIN -> {
+                return new Admin();
+            }
+            case DOCTOR -> {
+                return new Doctor();
+            }
+            case RESEARCHER -> {
+                return new Researcher();
+            }
+            default -> {
+                return new ApplicationUser();
+            }
         }
     }
 }

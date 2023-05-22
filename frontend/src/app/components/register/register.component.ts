@@ -3,6 +3,7 @@ import {User} from 'src/app/dtos/user';
 import {Role} from '../../dtos/role';
 import {NgModel} from '@angular/forms';
 import {UserService} from '../../services/user.service';
+import {Status} from '../../dtos/status';
 
 @Component({
   selector: 'app-register',
@@ -12,13 +13,14 @@ import {UserService} from '../../services/user.service';
 
 export class RegisterComponent {
   toRegister: User = {
-    role: undefined,
     firstName: '',
     lastName: '',
     email: '',
     password: '',
     gender: undefined,
-    birthdate: undefined
+    birthdate: undefined,
+    role: undefined,
+    status: Status.suspended
   };
   checkpwd = '';
   checkmail = '';
@@ -62,7 +64,7 @@ export class RegisterComponent {
         console.log('Created User: ' + this.toRegister.email);
       },
       error: error => {
-        console.log('Something went wrong while creating user: ' + error.error.message);
+        console.log('Something went wrong while deleting user: ' + error.error.message);
       }
     });
   }

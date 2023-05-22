@@ -73,7 +73,7 @@ public class JwtAuthorizationFilter extends OncePerRequestFilter {
         String username = claims.getSubject();
 
         List<SimpleGrantedAuthority> authorities = ((List<?>) claims
-            .get("rol")).stream()
+            .get("authorities")).stream()
             .map(authority -> new SimpleGrantedAuthority((String) authority))
             .toList();
 

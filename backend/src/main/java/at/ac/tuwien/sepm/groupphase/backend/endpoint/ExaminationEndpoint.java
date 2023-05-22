@@ -32,7 +32,7 @@ public class ExaminationEndpoint {
         this.examinationService = examinationService;
     }
 
-    @Secured("ROLE_DOCTOR")
+    @PermitAll
     @ResponseStatus(HttpStatus.CREATED)
     @PostMapping(path = "/{id}/examination")
     public ExaminationDto addNewExamination(@PathVariable("id") long id, @RequestBody ExaminationDto examinationDto) {
@@ -41,7 +41,7 @@ public class ExaminationEndpoint {
         return examinationService.addExamination(examinationDto.withPatientId(id));
     }
 
-    @Secured("ROLE_DOCTOR")
+    @PermitAll
     @ResponseStatus(HttpStatus.OK)
     @PutMapping(path = "/{id}/examination/{ex_id}")
     public ExaminationDto updateExamination(@PathVariable("id") long id, @PathVariable("ex_id") long examinationId, @RequestBody ExaminationDto examinationDto) {
@@ -50,7 +50,7 @@ public class ExaminationEndpoint {
         return examinationService.updateExamination(examinationDto.withExaminationId(examinationId).withPatientId(id));
     }
 
-    @Secured("ROLE_DOCTOR")
+    @PermitAll
     @ResponseStatus(HttpStatus.OK)
     @DeleteMapping(path = "/{id}/examination/{ex_id}")
     public ExaminationDto deleteExamination(@PathVariable("id") long id, @PathVariable("ex_id") long examinationId) {
@@ -58,7 +58,7 @@ public class ExaminationEndpoint {
         return examinationService.deleteExamination(id, examinationId);
     }
 
-    @Secured("ROLE_DOCTOR")
+    @PermitAll
     @ResponseStatus(HttpStatus.OK)
     @GetMapping(path = "/{id}/examination/{ex_id}")
     public ExaminationDto viewExamination(@PathVariable("id") long id, @PathVariable("ex_id") long examinationId) {

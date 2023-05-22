@@ -5,11 +5,7 @@
   <title>Register Patient</title>
 </head>
 
-<div class="fw-bold grid grid-cols-1 justify-items-center container mt-3 ml-3 text-in-button">
-  <div class="text-xl mb-3 mt-3">Welcome to ClinicalMatcher!</div>
-</div>
-
-<div class="whitebox flex justify-center container text-in-button">
+<div class="whitebox flex justify-center container text-in-button mt-10">
   <div class="fw-bold grid grid-cols-1 justify-items-center container mt-3 ml-3">
     <div class="text-lg">{{heading}}</div>
   </div>
@@ -36,7 +32,7 @@
       </div>
         <div class="flex flex-col flex-1">
           <textarea maxlength="1000" class="mr-2 h-10 mb-2 inputfield border-0 min-h-[5rem]"
-                    placeholder="Enter the admission notes for your patient"
+                    placeholder="Enter the examination notes for your patient"
                     [class]="dynamicCssClassesForInput(examNote)"
                     [(ngModel)]="exam.note" #examNote="ngModel"></textarea>
         </div>

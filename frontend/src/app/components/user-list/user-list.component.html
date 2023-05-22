@@ -18,15 +18,15 @@
       <td *ngIf="isEdited(user)"><input type="text" class="form-control-sm" [(ngModel)]="user.lastName" name="lastName"></td>
 
       <td *ngIf="!isEdited(user)">{{user.email}}</td>
-      <td *ngIf="isEdited(user)"><input type="text" class="form-control-sm" [(ngModel)]="user.email" name="email" disabled></td>
+      <td *ngIf="isEdited(user)"><input type="text" class="form-control-sm" [(ngModel)]="user.email" name="email"></td>
 
-      <td *ngIf="!isEdited(user)">{{user.status === 'ACTIVE' ? 'Active' : 'Suspended'}}</td>
+      <td *ngIf="!isEdited(user)">{{statusName(user.status)}}</td>
       <td *ngIf="isEdited(user)"><select name="status" class="form-select-sm" [(ngModel)]="user.status">
         <option value="ACTIVE">Active</option>
         <option value="SUSPENDED">Suspended</option>
       </select></td>
 
-      <td>{{user.role}}</td>
+      <td>{{roleName(user.role)}}</td>
 
       <td>
         <div class="btn-group">

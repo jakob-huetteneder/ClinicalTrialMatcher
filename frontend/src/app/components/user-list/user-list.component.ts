@@ -2,6 +2,8 @@ import {Component, OnInit} from '@angular/core';
 import {User} from '../../dtos/user';
 import {UserService} from '../../services/user.service';
 import {cloneDeep} from 'lodash';
+import {Role} from '../../dtos/role';
+import {Status} from '../../dtos/status';
 
 
 @Component({
@@ -45,7 +47,7 @@ export class UserListComponent implements OnInit {
 
   confirmEditUser(user: User) {
     console.log('Update user: ' + user.email);
-    const updatedUserPromise = this.userService.updateUser(user);
+    const updatedUserPromise = this.userService.updateUserById(user);
     updatedUserPromise.subscribe({
       next: updatedUser => {
         console.log('Updated user: ' + updatedUser.email);
@@ -54,8 +56,10 @@ export class UserListComponent implements OnInit {
         this.editedUsers = this.editedUsers.filter(editedUser => editedUser.id !== user.id);
       },
       error: error => {
+        // TODO: check if error is a validation error
         console.log('Something went wrong while updating user: ' + error.error.message);
-
+        console.log('The following values were invalid:\n' + JSON.stringify(error.error.errors));
+        console.log(error);
         // reset user to old values
         this.resetUser(user.id);
       }
@@ -72,6 +76,14 @@ export class UserListComponent implements OnInit {
     return this.editedUsers.some(editedUser => editedUser.id === user.id);
   }
 
+  roleName(role: Role): string {
+    return role.charAt(0).toUpperCase() + role.slice(1).toLowerCase();
+  }
+
+  statusName(status: Status): string {
+    return status.charAt(0).toUpperCase() + status.slice(1).toLowerCase();
+  }
+
   private loadUsers() {
     this.userService.getAllUsers().subscribe(
       (users: User[]) => {
@@ -79,6 +91,7 @@ export class UserListComponent implements OnInit {
       },
       error => {
         console.log('Something went wrong while loading users: ' + error.error.message);
+        console.log(error);
       }
     );
   }
