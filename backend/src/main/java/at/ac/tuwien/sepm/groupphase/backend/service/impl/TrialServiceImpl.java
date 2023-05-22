@@ -1,5 +1,6 @@
 package at.ac.tuwien.sepm.groupphase.backend.service.impl;
 
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.TrialEndpoint;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.TrialDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.TrialMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
@@ -42,6 +43,15 @@ public class TrialServiceImpl implements TrialService {
         LOG.trace("getAllTrials()");
         var trials = trialRepository.findAll();
         LOG.info("Retrieved all trials ({})", trials.size());
+        return trials;
+    }
+
+    @Override
+    public List<Trial> getOwnTrials() {
+        LOG.trace("getAllTrials()");
+        Long researcherId = authorizationService.getSessionUserId();
+        var trials = trialRepository.getTrialByResearcher_Id(researcherId);
+        LOG.info("Retrieved own trials ({})", trials.size());
         return trials;
     }
 
