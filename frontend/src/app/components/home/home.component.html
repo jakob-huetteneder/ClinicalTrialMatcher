@@ -1,11 +1,38 @@
 <div class="jumbotron mt-5">
-  <h1 class="display-4" i18n>Welcome to the SEPM group phase!</h1>
-  <hr class="my-4">
-  <a *ngIf="!authService.isLoggedIn()" class="btn btn-primary btn-lg" routerLink="/login" role="button">Login</a>
-  <div *ngIf="authService.isLoggedIn()">
-    <p i18n>Check out the latest message from the SEPM group phase.</p>
-    <p class="lead">
-      <a class="btn btn-primary btn-lg" routerLink="/message" role="button" i18n>Message</a>
-    </p>
+
+  <div class="fw-bold grid grid-cols-1 justify-items-center container ml-3 text-in-button">
+    <div class="text-xl mb-6">ClinicalMatcher is a place to learn about clinical studies from around the world.</div>
+  </div>
+
+
+  <div class="whitebox flex justify-center text-in-button mb-10">
+    <div class="flex flex-row container justify-between">
+      <div class="flex flex-row bi-search" style="align-items: center; color: #235491; opacity: 0.6;">
+        <input class="max-h-[2.5rem] m-0 pl-4 inputfield border-0"
+               placeholder="What are you looking for today?">
+      </div>
+      <div>
+        <i class="bi-x-lg mr-4" style="color:#1e5075"></i>
+        <button class="flex-initial bg-blue-300 rounded w-35 py-2 px-4 text-blue-900 font-semibold border-blue-950 drop-shadow-sm ml-2 text-sm"
+                routerLink="/login" routerLinkActive="active">Search
+        </button>
+        <button class="flex-initial bg-blue-50 rounded w-35 py-2 px-4 text-blue-900 font-semibold border-blue-950 drop-shadow-sm ml-2 text-sm"
+                routerLink="/login" routerLinkActive="active">Advanced Filters <i class="bi-chevron-right"></i>
+        </button>
+      </div>
+    </div>
+    <hr class="mt-0 mb-4" style="border: 2px solid #CDE2F0;">
+
+    <div class="font-bold">What is clinical matcher?</div>
+    <div class="text">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+      Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est...
+    </div>
+    <button class="flex-initial bg-blue-100 rounded py-0 px-2 text-blue-500 font-light border-blue-950 drop-shadow-sm text"
+            routerLink="/login" routerLinkActive="active">More Info
+    </button>
   </div>
 </div>
