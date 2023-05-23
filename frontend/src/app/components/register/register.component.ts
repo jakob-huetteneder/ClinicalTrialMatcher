@@ -20,7 +20,8 @@ export class RegisterComponent {
     gender: undefined,
     birthdate: undefined,
     role: undefined,
-    status: Status.suspended
+    status: Status.suspended,
+    admin: false
   };
   checkpwd = '';
   checkmail = '';

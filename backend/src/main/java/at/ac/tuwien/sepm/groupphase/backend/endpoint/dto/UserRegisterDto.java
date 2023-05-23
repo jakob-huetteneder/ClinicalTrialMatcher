@@ -24,6 +24,8 @@ public class UserRegisterDto {
     private LocalDate birthdate;
     private Gender gender;
 
+    private boolean admin;
+
     public String getEmail() {
         return email;
     }
@@ -78,6 +80,10 @@ public class UserRegisterDto {
 
     public void setGender(Gender gender) {
         this.gender = gender;
+    }
+
+    public boolean isCreatedByAdmin() {
+        return admin;
     }
 
     @Override

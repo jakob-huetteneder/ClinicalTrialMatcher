@@ -34,7 +34,8 @@ public class CustomUserDetailService implements UserService {
     private final PasswordEncoder passwordEncoder;
 
     @Autowired
-    public CustomUserDetailService(UserRepository userRepository, PatientRepository patientRepository, UserMapper userMapper, AuthorizationService authorizationService, PasswordEncoder passwordEncoder) {
+    public CustomUserDetailService(UserRepository userRepository, PatientRepository patientRepository, UserMapper userMapper,
+                                   AuthorizationService authorizationService, PasswordEncoder passwordEncoder) {
         this.userRepository = userRepository;
         this.patientRepository = patientRepository;
         this.userMapper = userMapper;
@@ -57,7 +58,8 @@ public class CustomUserDetailService implements UserService {
         LOGGER.debug("Update user with email {}", user.email());
         Optional<ApplicationUser> applicationUser = userRepository.findById(user.id());
 
-        ApplicationUser foundUser = applicationUser.orElseThrow(() -> new NotFoundException(String.format("Could not find the user with the id %d", user.id())));
+        ApplicationUser foundUser = applicationUser.orElseThrow(() -> new NotFoundException(String.format("Could not find the user with the id %d",
+            user.id())));
         if (user.firstName() != null) {
             foundUser.setFirstName(user.firstName());
         }
@@ -97,6 +99,9 @@ public class CustomUserDetailService implements UserService {
         if (user.getRole() == Role.PATIENT) {
             Patient patient = userMapper.userRegisterDtoToPatient(user, applicationUser);
             patientRepository.save(patient);
+        }
+        if (user.isCreatedByAdmin()) {
+            //TODO: Send Email
         }
         return userMapper.applicationUserToUserDetailDto(applicationUser);
     }
