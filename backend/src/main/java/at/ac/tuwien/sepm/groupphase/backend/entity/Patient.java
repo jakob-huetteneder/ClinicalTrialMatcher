@@ -46,6 +46,9 @@ public class Patient {
     @Column(name = "gender", nullable = false)
     private Gender gender;
 
+    @Column(name = "verification", nullable = false)
+    private String verification;
+
     @ManyToMany(fetch = FetchType.EAGER)
     @JoinColumn(name = "doctor_id")
     private Set<Doctor> doctors;
@@ -108,5 +111,13 @@ public class Patient {
 
     public void setApplicationUser(ApplicationUser applicationUser) {
         this.applicationUser = applicationUser;
+    }
+
+    public String getVerification() {
+        return verification;
+    }
+
+    public void setVerification(String verification) {
+        this.verification = verification;
     }
 }

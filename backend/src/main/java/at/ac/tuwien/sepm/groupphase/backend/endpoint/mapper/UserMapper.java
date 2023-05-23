@@ -42,7 +42,7 @@ public class UserMapper {
             .setLastName(userRegisterDto.getLastName())
             .setEmail(userRegisterDto.getEmail())
             .setPassword(userRegisterDto.getPassword())
-            .setStatus(Status.ACTIVE);
+            .setStatus(Status.SUSPENDED);
     }
 
     public Patient userRegisterDtoToPatient(UserRegisterDto userRegisterDto, ApplicationUser applicationUser) {

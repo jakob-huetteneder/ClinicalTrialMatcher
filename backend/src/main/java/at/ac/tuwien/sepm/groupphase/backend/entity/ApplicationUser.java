@@ -37,6 +37,9 @@ public class ApplicationUser {
     @Enumerated(EnumType.ORDINAL)
     private Status status;
 
+    @Column(name = "verification")
+    private String verification;
+
     public Long getId() {
         return id;
     }
@@ -88,6 +91,15 @@ public class ApplicationUser {
 
     public ApplicationUser setStatus(Status status) {
         this.status = status;
+        return this;
+    }
+
+    public String getVerification() {
+        return verification;
+    }
+
+    public ApplicationUser setVerification(String verification) {
+        this.verification = verification;
         return this;
     }
 }
