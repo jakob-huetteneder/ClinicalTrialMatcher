@@ -27,6 +27,7 @@ const routes: Routes = [
     {path: '', component: PatientDetailComponent},
     {path: ':id', component: PatientDetailComponent},
     {path: ':id/examination', component: CreateEditExaminationComponent, data: {mode: ExaminationCreateEditMode.create}},
+    {path: ':id/examination/:eid', component: CreateEditExaminationComponent, data: {mode: ExaminationCreateEditMode.edit}},
   ]},
   {path: '**', redirectTo: ''},
 ];

@@ -7,6 +7,7 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import at.ac.tuwien.sepm.groupphase.backend.repository.DiseaseRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
 import at.ac.tuwien.sepm.groupphase.backend.security.JwtTokenizer;
+import jakarta.transaction.Transactional;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -27,8 +28,7 @@ public class ExaminationMapper {
     }
 
     public Examination patientExaminationDtotoExamination(ExaminationDto examinationDto) {
-        LOG.debug("ExaminationDTO: {}", examinationDto);
-        Patient patient = patientRepository.getById(examinationDto.patientId());
+        Patient patient = patientRepository.getReferenceById(examinationDto.patientId());
         return new Examination()
             .setId(examinationDto.id())
             .setPatient(patient)
@@ -39,7 +39,6 @@ public class ExaminationMapper {
     }
 
     public ExaminationDto examinationtoPatientExaminationDto(Examination examination) {
-        LOG.debug("Entity: {}", examination);
         return new ExaminationDto(
             examination.getId(),
             examination.getPatient().getId(),

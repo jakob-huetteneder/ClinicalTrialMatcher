@@ -7,7 +7,7 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.Examination;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import at.ac.tuwien.sepm.groupphase.backend.exception.NotFoundException;
 import at.ac.tuwien.sepm.groupphase.backend.repository.DiagnosesRepository;
-import at.ac.tuwien.sepm.groupphase.backend.repository.ExaminationsRepository;
+import at.ac.tuwien.sepm.groupphase.backend.repository.ExaminationRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
 import at.ac.tuwien.sepm.groupphase.backend.service.PatientService;
 import org.slf4j.Logger;
@@ -24,11 +24,11 @@ public class PatientServiceImpl implements PatientService {
 
     private final PatientRepository patientRepository;
     private final PatientMapper patientMapper;
-    private final ExaminationsRepository examinationsRepository;
+    private final ExaminationRepository examinationsRepository;
     private final DiagnosesRepository diagnosesRepository;
 
     public PatientServiceImpl(PatientRepository patientRepository, PatientMapper patientMapper,
-                              ExaminationsRepository examinationsRepository, DiagnosesRepository diagnosesRepository) {
+                              ExaminationRepository examinationsRepository, DiagnosesRepository diagnosesRepository) {
         this.patientRepository = patientRepository;
         this.patientMapper = patientMapper;
         this.examinationsRepository = examinationsRepository;

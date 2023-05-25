@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.lang.invoke.MethodHandles;
 
 @RestController
-@RequestMapping(path = PatientEndpoint.BASE_PATH)
+@RequestMapping(path = ExaminationEndpoint.BASE_PATH)
 public class ExaminationEndpoint {
 
     static final String BASE_PATH = "/api/v1/patients";
@@ -62,7 +62,7 @@ public class ExaminationEndpoint {
     @ResponseStatus(HttpStatus.OK)
     @GetMapping(path = "/{id}/examination/{ex_id}")
     public ExaminationDto viewExamination(@PathVariable("id") long id, @PathVariable("ex_id") long examinationId) {
-        LOG.info("POST " + BASE_PATH + "/");
+        LOG.info("GET " + BASE_PATH + "/");
         return examinationService.viewExamination(id, examinationId);
     }
 }

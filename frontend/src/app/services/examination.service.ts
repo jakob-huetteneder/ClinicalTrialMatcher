@@ -1,5 +1,5 @@
 import {Injectable} from '@angular/core';
-import {HttpClient} from '@angular/common/http';
+import {HttpClient, HttpParams} from '@angular/common/http';
 import {Observable} from 'rxjs';
 import {environment} from '../../environments/environment';
 import {Examination, Patient} from '../dtos/patient';
@@ -35,22 +35,28 @@ export class ExaminationService {
   }
 
   /**
-   * Delete an examination by id.
+   * Delete an examination from the system.
    *
-   * @param examination the examination to delete
-   * @return observable examination
-   *//*
-  deleteExamination(examination: Examination): Observable<Examination> {
-    return this.http.delete<Examination>(baseUri + examination.patientId + '/examination/' + examination.id, examination);
-  }*/
+   * @param id the id of the examination that should be deleted
+   * @param patientId the id of the patient that the examination belongs to
+   * @return an Observable for the deleted examination
+   */
+  delete(id: number, patientId: number): Observable<Examination> {
+    return this.http.delete<Examination>(
+      baseUri + patientId + '/examination/' + id
+    );
+  }
 
   /**
-   * View an examination by id.
+   * Load an examination from the system.
    *
-   * @param examination the examination to view
-   * @return observable examination
-   *//*
-  viewExamination(examination: Examination): Observable<Examination> {
-    return this.http.get<Examination>(baseUri + examination.patientId + '/examination/' + examination.id, examination);
-  }*/
+   * @param id the id of the examination that should be loaded
+   * @param patientId the id of the patient that the examination belongs to
+   * @return an Observable for the loaded examination
+   */
+  load(id: number, patientId: number): Observable<Examination> {
+    return this.http.get<Examination>(
+      baseUri + patientId + '/examination/' + id
+    );
+  }
 }

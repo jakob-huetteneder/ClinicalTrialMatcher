@@ -38,6 +38,7 @@ export class CreateEditExaminationComponent implements OnInit {
 
 
   public get heading(): string {
+    console.log(this.mode);
     switch (this.mode) {
       case ExaminationCreateEditMode.create:
         return 'Add New Examination';
@@ -59,11 +60,15 @@ export class CreateEditExaminationComponent implements OnInit {
     }
   }
   ngOnInit(): void {
+    this.route.data.subscribe(data => {
+      this.mode = data.mode;
+    });
     this.route.params.subscribe(
       params => {
         this.exam.patientId = params.id;
         if (!this.modeIsCreate) {
-          //this.load();
+          this.exam.id = params.eid;
+          this.load();
         }
       });
     console.log(this.exam);
@@ -104,19 +109,19 @@ export class CreateEditExaminationComponent implements OnInit {
     return this.exam.type === '' || this.exam.name === '' || this.exam.note === '' || this.exam.date === undefined;
   }
 
-  /*public load(): void {
+  public load(): void {
     console.log('is id valid?', this.exam);
-    this.service.load(this.exam.id, undefined).subscribe({
+    this.service.load(this.exam.id, this.exam.patientId).subscribe({
       next: data => {
         this.exam = data;
-        this.notification.success(`Horse ${this.horse.name} successfully loaded.`);
+        //this.notification.success(`Horse ${this.horse.name} successfully loaded.`);
       },
       error: error => {
-        console.error('Error loading horse', error);
-        this.notification.error(error.error.errors, `Horse ${this.horse.name} could not be loaded`);
+        console.error('Error loading examination', error);
+        //this.notification.error(error.error.errors, `Horse ${this.horse.name} could not be loaded`);
       }
     });
-  }*/
+  }
 
   submit() {
     let observable: Observable<Examination>;
@@ -139,6 +144,20 @@ export class CreateEditExaminationComponent implements OnInit {
       error: error => {
         console.error('Error creating/editing examination', error);
         //this.notification.error(error.error.errors, `Examination ${this.exam.name} could not be ${this.modeActionFinished}`);
+      }
+    });
+  }
+
+  delete() {
+    console.log('is id valid?', this.exam);
+    this.service.delete(this.exam.id, this.exam.patientId).subscribe({
+      next: data => {
+        this.exam = data;
+        //this.notification.success(`Horse ${this.horse.name} successfully loaded.`);
+      },
+      error: error => {
+        console.error('Error deleting examination', error);
+        //this.notification.error(error.error.errors, `Horse ${this.horse.name} could not be loaded`);
       }
     });
   }
