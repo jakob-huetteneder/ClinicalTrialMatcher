@@ -35,4 +35,6 @@
             routerLink="/login" routerLinkActive="active">More Info
     </button>
   </div>
+
+  <a *ngIf="!authService.isLoggedIn()" class="btn btn-primary btn-lg opacity-0" routerLink="/login" role="button">Login</a>
 </div>
