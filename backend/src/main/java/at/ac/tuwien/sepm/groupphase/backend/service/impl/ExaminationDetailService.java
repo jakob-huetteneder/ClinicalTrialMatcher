@@ -1,5 +1,6 @@
 package at.ac.tuwien.sepm.groupphase.backend.service.impl;
 
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.ExaminationEndpoint;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.ExaminationDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.ExaminationMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
@@ -17,6 +18,8 @@ import at.ac.tuwien.sepm.groupphase.backend.security.AuthorizationService;
 
 
 import java.lang.invoke.MethodHandles;
+import java.util.Objects;
+import java.util.Optional;
 
 @Service
 public class ExaminationDetailService implements ExaminationService {
@@ -46,6 +49,7 @@ public class ExaminationDetailService implements ExaminationService {
             throw new NotFoundException("Could not find a researcher for the logged in user.");
         }
         Examination patientExamination = examinationRepository.save(examinationMapper.patientExaminationDtotoExamination(examinationDto));
+        LOGGER.debug("Result: " + patientExamination);
         return examinationMapper.examinationtoPatientExaminationDto(patientExamination);
     }
 
@@ -60,7 +64,7 @@ public class ExaminationDetailService implements ExaminationService {
     @Override
     public ExaminationDto deleteExamination(long id, long examinationId) {
         LOGGER.debug("Delete Examination Result with ID " + examinationId + " for patient: " + id);
-        examinationRepository.delete(examinationRepository.getReferenceById(examinationId));
+        examinationRepository.delete(Objects.requireNonNull(examinationRepository.findById(examinationId).orElse(null)));
         // TODO: Remove Examination Foreign Key from Patient Table
         return viewExamination(id, examinationId);
     }
@@ -68,7 +72,8 @@ public class ExaminationDetailService implements ExaminationService {
     @Override
     public ExaminationDto viewExamination(long id, long examinationId) {
         LOGGER.debug("View Examination Result with ID " + examinationId + " for patient: " + id);
-        Examination patientExamination = examinationRepository.getById(examinationId);
-        return examinationMapper.examinationtoPatientExaminationDto(patientExamination);
+        Examination patientExamination = examinationRepository.findById(examinationId).orElse(null);
+        LOGGER.debug("Result: " + patientExamination);
+        return patientExamination != null ? examinationMapper.examinationtoPatientExaminationDto(patientExamination) : null;
     }
 }
