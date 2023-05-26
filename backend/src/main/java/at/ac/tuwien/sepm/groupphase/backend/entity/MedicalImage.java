@@ -24,9 +24,24 @@ public class MedicalImage {
     private Examination examination;
 
     @Column(name = "image")
-    private byte[] image;
+    private String image;
 
+    public Examination getExamination() {
+        return examination;
+    }
 
+    public MedicalImage setExamination(Examination examination) {
+        this.examination = examination;
+        return this;
+    }
 
+    public String getImage() {
+        return image;
+    }
+
+    public MedicalImage setImage(String image) {
+        this.image = image;
+        return this;
+    }
 }
 

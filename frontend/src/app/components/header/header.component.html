@@ -1,10 +1,13 @@
-<nav class="header w-full h-30 grid grid-cols-2">
-  <img src="./assets/img/ClinicalMatcherIcon.ico" class="icon h-10 w-15" routerLink="" alt="ClinicalMatcher">
-  <div class="buttons h-15 w-0 grid grid-cols-4">
-    <div class="about">
-      <div class="group relative dropdown px-4 cursor-pointer text-base tracking-wide">
-        <div class="about">About This Site<i class="bi-chevron-down w-4"></i></div>
-        <div class="absolute z-[1000] float-left m-0 hidden min-w-max list-none overflow-hidden rounded-lg border-none bg-white bg-clip-padding text-left text-base shadow-lg dark:bg-neutral-700 group-hover:block">
+<nav class="header bg-blue-100 shadow-md grid grid-cols-2 w-screen h-30">
+
+  <img src="./assets/img/clinicalMatcher.svg" class="logo" routerLink="" alt="ClinicalMatcher">
+
+  <div class="buttons text-blue-950 flex-row"><!--
+    <div class="single-button">
+      <a class="group relative dropdown cursor-pointer text-base tracking-wide pb-2">
+        <div class="text-in-button">About This Site</div>
+        <i class="bi-chevron-down w-4 text-blue-950"></i>
+        <div class="absolute z-[1000] mt-2 hidden list-none overflow-hidden rounded-lg bg-white shadow-lg dark:bg-neutral-700 group-hover:block">
           <ul class="top-0 w-50 bg-white px-2 py-2">
             <li>
               <a
@@ -37,12 +40,13 @@
             </li>
           </ul>
         </div>
-      </div>
+      </a>
     </div>
-    <div class="data">
-      <div class="group relative dropdown px-4 cursor-pointer text-base tracking-wide">
-        <div class="data">Data About Studies<i class="bi-chevron-down w-4"></i></div>
-        <div class="absolute z-[1000] float-left m-0 hidden min-w-max list-none overflow-hidden rounded-lg border-none bg-white bg-clip-padding text-left text-base shadow-lg dark:bg-neutral-700 group-hover:block">
+    <div class="single-button">
+      <a class="group relative dropdown cursor-pointer text-base tracking-wide pb-2">
+        <div class="text-in-button">Data About Studies</div>
+        <i class="bi-chevron-down w-4 text-blue-950"></i>
+        <div class="absolute z-[1000] mt-2 hidden list-none overflow-hidden rounded-lg bg-white shadow-lg dark:bg-neutral-700 group-hover:block">
           <ul class="top-0 w-50 bg-white px-2 py-2">
             <li>
               <a
@@ -75,54 +79,67 @@
             </li>
           </ul>
         </div>
-      </div>
-    </div>
-    <div class="res">
-      <div class="group relative dropdown px-4 cursor-pointer text-base tracking-wide">
-        <div class="res">Resources<i class="bi-chevron-down w-4"></i></div>
-        <div class="absolute z-[1000] float-left m-0 hidden min-w-max list-none overflow-hidden rounded-lg border-none bg-white bg-clip-padding text-left text-base shadow-lg dark:bg-neutral-700 group-hover:block">
-          <ul class="top-0 w-50 bg-white px-2 py-2">
+      </a>
+    </div>-->
+    <!-- DOCTOR FUNCTIONS -->
+    <div class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
+      <a class="group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row">
+        <div class="text-in-button mt-1">Patient Menu</div>
+        <i class="bi-chevron-down w-4 text-blue-950"></i>
+        <div
+          class="absolute z-[1000] mt-4 hidden list-none overflow-hidden rounded-lg bg-white opacity-85 backdrop-blur-md shadow-md group-hover:block right-0">
+          <ul class="w-auto px-2 py-2 mb-0">
             <li>
               <a
-                class="block w-full whitespace-nowrap bg-transparent px-4 py-2 text-sm font-normal text-neutral-700 hover:bg-neutral-100 active:text-neutral-800 active:no-underline disabled:pointer-events-none disabled:bg-transparent disabled:text-neutral-400 dark:text-neutral-200 dark:hover:bg-neutral-600"
+                class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
                 href="#"
-              >Action</a
+              >Register New Patient</a
               >
             </li>
             <li>
               <a
-                class="block w-full whitespace-nowrap bg-transparent px-4 py-2 text-sm font-normal text-neutral-700 hover:bg-neutral-100 active:text-neutral-800 active:no-underline disabled:pointer-events-none disabled:bg-transparent disabled:text-neutral-400 dark:text-neutral-200 dark:hover:bg-neutral-600"
-              >Another action</a
+                class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
+              >View Pending Requests</a
               >
             </li>
             <li>
               <a
-                class="block w-full whitespace-nowrap bg-transparent px-4 py-2 text-sm font-normal text-neutral-700 hover:bg-neutral-100 active:text-neutral-800 active:no-underline disabled:pointer-events-none disabled:bg-transparent disabled:text-neutral-400 dark:text-neutral-200 dark:hover:bg-neutral-600"
+                class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
                 href="#"
-              >Something else here</a
+              >View My Patients</a
               >
             </li>
             <hr
-              class="my-2 h-0 border border-t-0 border-solid border-neutral-700 opacity-25 dark:border-neutral-200" />
+              class="my-2 h-0 border border-t-0 border-solid border-blue-950 opacity-50"/>
             <li>
               <a
-                class="block w-full whitespace-nowrap bg-transparent px-4 py-0 text-sm font-normal text-neutral-700 hover:bg-neutral-100 active:text-neutral-800 active:no-underline disabled:pointer-events-none disabled:bg-transparent disabled:text-neutral-400 dark:text-neutral-200 dark:hover:bg-neutral-600"
+                class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
                 href="#"
-              >Separated link</a
+              >Browse Matching Trials</a
               >
             </li>
           </ul>
         </div>
-      </div>
+      </a>
     </div>
-    <div class="res ml-10 mr-10">
-      <a class="nav-link" *ngIf="!authService.isLoggedIn()" routerLink="/login" routerLinkActive="active">Login</a>
+    <div class="flex-initial single-button">
+      <button class="flex-initial bg-blue-300 rounded w-35 py-2 px-4 h-10 text-blue-900 font-bold border-blue-950 drop-shadow-sm"
+              *ngIf="!authService.isLoggedIn()" routerLink="/login" routerLinkActive="active">Login
+      </button>
       <div *ngIf="authService.isLoggedIn()" routerLink="/" class="profile">
-        <div class="res">
-          <div class="group relative dropdown px-0 cursor-pointer text-base tracking-wide">
-            <div class="profile"><img src="favicon.ico" alt="profile"> <i class="bi-chevron-down"></i></div>
-            <div class="absolute z-[1000] float-left m-0 hidden min-w-max list-none overflow-hidden rounded-lg border-none bg-white bg-clip-padding text-left text-base shadow-lg dark:bg-neutral-700 group-hover:block">
+        <div class="single-button flex flex-initial">
+          <div class="group relative dropdown px-0 cursor-pointer text-base tracking-wide right-0">
+            <div class="profile flex flex-row"><img class="flex-initial mr-1" src="favicon.ico" alt="profile"> <i class="mt-1 bi-chevron-down"></i></div>
+            <div
+              class="absolute z-[1000] float-left m-0 hidden min-w-max list-none overflow-hidden rounded-lg border-none bg-white bg-clip-padding text-left text-base shadow-lg dark:bg-neutral-700 group-hover:block right-0">
               <ul class="top-0 w-50 bg-white px-2 py-2">
+                <li>
+                  <a
+                    class="block w-full whitespace-nowrap bg-transparent px-4 py-2 text-sm font-normal text-neutral-700 hover:bg-neutral-100 active:text-neutral-800 active:no-underline disabled:pointer-events-none disabled:bg-transparent disabled:text-neutral-400 dark:text-neutral-200 dark:hover:bg-neutral-600"
+                    href="#"
+                  >Signed in as <b>Patient</b></a
+                  >
+                </li>
                 <li>
                   <a
                     class="block w-full whitespace-nowrap bg-transparent px-4 py-2 text-sm font-normal text-neutral-700 hover:bg-neutral-100 active:text-neutral-800 active:no-underline disabled:pointer-events-none disabled:bg-transparent disabled:text-neutral-400 dark:text-neutral-200 dark:hover:bg-neutral-600"
@@ -144,10 +161,11 @@
                   >
                 </li>
                 <hr
-                  class="my-2 h-0 border border-t-0 border-solid border-neutral-700 opacity-25 dark:border-neutral-200" />
+                  class="my-2 h-0 border border-t-0 border-solid border-neutral-700 opacity-25 dark:border-neutral-200"/>
                 <li>
                   <a
-                    class="block fw-bold w-full whitespace-nowrap bg-transparent px-4 py-0 text-sm font-normal text-neutral-700 hover:bg-neutral-100 active:text-neutral-800 active:no-underline disabled:pointer-events-none disabled:bg-transparent disabled:text-neutral-400 dark:text-neutral-200 dark:hover:bg-neutral-600" (click)="authService.logoutUser()"
+                    class="block fw-bold w-full whitespace-nowrap bg-transparent px-4 py-0 text-sm font-normal text-neutral-700 hover:bg-neutral-100 active:text-neutral-800 active:no-underline disabled:pointer-events-none disabled:bg-transparent disabled:text-neutral-400 dark:text-neutral-200 dark:hover:bg-neutral-600"
+                    (click)="authService.logoutUser()"
                   >Logout</a
                   >
                 </li>
@@ -158,4 +176,5 @@
       </div>
     </div>
   </div>
+
 </nav>

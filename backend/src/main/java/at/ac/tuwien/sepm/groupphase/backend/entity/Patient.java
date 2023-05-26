@@ -1,6 +1,7 @@
 package at.ac.tuwien.sepm.groupphase.backend.entity;
 
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
+import com.fasterxml.jackson.annotation.JsonManagedReference;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
@@ -50,63 +51,116 @@ public class Patient {
     @JoinColumn(name = "doctor_id")
     private Set<Doctor> doctors;
 
-    @OneToMany(fetch = FetchType.EAGER)
-    @JoinColumn(name = "diagnose_id")
+    @OneToMany(fetch = FetchType.EAGER, mappedBy = "patient")
     private Set<Diagnose> diagnoses;
+
+    @OneToMany(fetch = FetchType.EAGER, mappedBy = "patient")
+    private Set<Examination> examinations;
 
     public Long getId() {
         return id;
     }
 
-    public void setId(Long id) {
-        this.id = id;
-    }
 
     public String getFirstName() {
         return firstName;
     }
 
-    public void setFirstName(String firstName) {
-        this.firstName = firstName;
-    }
 
     public String getLastName() {
         return lastName;
     }
 
-    public void setLastName(String lastName) {
-        this.lastName = lastName;
-    }
 
     public String getEmail() {
         return email;
     }
 
-    public void setEmail(String email) {
-        this.email = email;
-    }
 
     public LocalDate getBirthdate() {
         return birthdate;
     }
 
-    public void setBirthdate(LocalDate birthdate) {
-        this.birthdate = birthdate;
-    }
 
     public Gender getGender() {
         return gender;
     }
 
-    public void setGender(Gender gender) {
-        this.gender = gender;
-    }
 
     public ApplicationUser getApplicationUser() {
         return applicationUser;
     }
 
-    public void setApplicationUser(ApplicationUser applicationUser) {
+    public Patient setId(Long id) {
+        this.id = id;
+        return this;
+    }
+
+    public Patient setApplicationUser(ApplicationUser applicationUser) {
         this.applicationUser = applicationUser;
+        return this;
+    }
+
+    public Patient setFirstName(String firstName) {
+        this.firstName = firstName;
+        return this;
+    }
+
+    public Patient setLastName(String lastName) {
+        this.lastName = lastName;
+        return this;
+    }
+
+    public Patient setEmail(String email) {
+        this.email = email;
+        return this;
+    }
+
+    public String getAdmissionNote() {
+        return admissionNote;
+    }
+
+    public Patient setAdmissionNote(String admissionNote) {
+        this.admissionNote = admissionNote;
+        return this;
+    }
+
+    public Patient setBirthdate(LocalDate birthdate) {
+        this.birthdate = birthdate;
+        return this;
+    }
+
+    public Patient setGender(Gender gender) {
+        this.gender = gender;
+        return this;
+    }
+
+    public Set<Doctor> getDoctors() {
+        return doctors;
+    }
+
+    public Patient setDoctors(Set<Doctor> doctors) {
+        this.doctors = doctors;
+        return this;
+    }
+
+    @JsonManagedReference
+    public Set<Diagnose> getDiagnoses() {
+        return diagnoses;
+    }
+
+    public Patient setDiagnoses(Set<Diagnose> diagnoses) {
+        this.diagnoses = diagnoses;
+        return this;
+    }
+
+    @JsonManagedReference
+    public Set<Examination> getExaminations() {
+        return examinations;
+    }
+
+    public Patient setExaminations(Set<Examination> examinations) {
+        this.examinations = examinations;
+        return this;
     }
 }

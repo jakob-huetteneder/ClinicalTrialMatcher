@@ -1,6 +1,7 @@
 package at.ac.tuwien.sepm.groupphase.backend.entity;
 
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
@@ -8,6 +9,7 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
+import jakarta.persistence.ManyToOne;
 import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
 
@@ -21,7 +23,7 @@ public class Diagnose {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @OneToOne(fetch = FetchType.EAGER)
+    @ManyToOne(fetch = FetchType.EAGER)
     @JoinColumn(name = "patient_id")
     private Patient patient;
 
@@ -37,35 +39,49 @@ public class Diagnose {
     @Column(name = "note")
     private String note;
 
+    @JsonBackReference
     public Patient getPatient() {
         return patient;
     }
 
-    public void setPatient(Patient patient) {
+    public Diagnose setPatient(Patient patient) {
         this.patient = patient;
+        return this;
     }
 
     public Disease getDisease() {
         return disease;
     }
 
-    public void setDisease(Disease disease) {
+    public Diagnose setDisease(Disease disease) {
         this.disease = disease;
+        return this;
     }
 
     public LocalDate getDate() {
         return date;
     }
 
-    public void setDate(LocalDate date) {
+    public Diagnose setDate(LocalDate date) {
         this.date = date;
+        return this;
     }
 
     public String getNote() {
         return note;
     }
 
-    public void setNote(String note) {
+    public Diagnose setNote(String note) {
         this.note = note;
+        return this;
+    }
+
+    public Long getId() {
+        return id;
+    }
+
+    public Diagnose setId(Long id) {
+        this.id = id;
+        return this;
     }
 }
