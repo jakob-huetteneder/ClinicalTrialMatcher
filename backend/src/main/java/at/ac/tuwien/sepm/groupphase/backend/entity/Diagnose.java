@@ -75,4 +75,13 @@ public class Diagnose {
         this.note = note;
         return this;
     }
+
+    public Long getId() {
+        return id;
+    }
+
+    public Diagnose setId(Long id) {
+        this.id = id;
+        return this;
+    }
 }

@@ -110,7 +110,7 @@ public class FileServiceImpl implements FileService {
             throw new NotFoundException("No medical image found for examination with id " + id + ".");
         }
 
-        return "backend/src/main/resources/files/" + image.get().getImage();
+        return "./src/main/resources/files/" + image.get().getImage();
     }
 
 }
