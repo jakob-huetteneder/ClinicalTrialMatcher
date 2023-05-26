@@ -41,7 +41,7 @@ public class ExaminationMapper {
     public ExaminationDto examinationtoPatientExaminationDto(Examination examination) {
         return new ExaminationDto(
             examination.getId(),
-            examination.getPatient().getId(),
+            examination.getPatient() != null ? examination.getPatient().getId() : null,
             examination.getName(),
             examination.getDate(),
             examination.getType(),

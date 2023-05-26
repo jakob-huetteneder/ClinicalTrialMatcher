@@ -18,6 +18,8 @@ import at.ac.tuwien.sepm.groupphase.backend.security.AuthorizationService;
 
 
 import java.lang.invoke.MethodHandles;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Objects;
 import java.util.Optional;
 
@@ -75,5 +77,16 @@ public class ExaminationDetailService implements ExaminationService {
         Examination patientExamination = examinationRepository.findById(examinationId).orElse(null);
         LOGGER.debug("Result: " + patientExamination);
         return patientExamination != null ? examinationMapper.examinationtoPatientExaminationDto(patientExamination) : null;
+    }
+
+    @Override
+    public List<ExaminationDto> getAllExaminations(long id) {
+        LOGGER.debug("View all Examination Results for patient: " + id);
+        List<Examination> patientExaminations = examinationRepository.findAll();
+        List<ExaminationDto> examinationDtos = new ArrayList<>(patientExaminations.size());
+        for (Examination examination:patientExaminations) {
+            examinationDtos.add(examinationMapper.examinationtoPatientExaminationDto(examination));
+        }
+        return examinationDtos;
     }
 }
