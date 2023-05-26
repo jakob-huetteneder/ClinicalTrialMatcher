@@ -29,7 +29,11 @@ export class TrialComponent implements OnInit {
 
 
   ngOnInit() {
-    this.trialService.getAll()
+    this.reload();
+  }
+
+  reload() {
+    this.trialService.getResearcherTrials()
       .subscribe({
         next: data => {
           this.trials = data;
@@ -41,12 +45,20 @@ export class TrialComponent implements OnInit {
       });
   }
 
-  openForm() {
-    document.getElementById('myForm').style.display = 'flex';
-  }
-
-  closeForm() {
-    document.getElementById('myForm').style.display = 'none';
+  delete(trial: Trial): Trial {
+    console.log(trial);
+    let tmp: Trial;
+    this.trialService.deleteTrial(trial.id).subscribe({
+      next: data => {
+        tmp = data;
+        console.log('data', data);
+        this.reload();
+      },
+      error: error => {
+        console.error('Error fetching trials', error);
+      }
+    });
+    return tmp;
   }
 
 

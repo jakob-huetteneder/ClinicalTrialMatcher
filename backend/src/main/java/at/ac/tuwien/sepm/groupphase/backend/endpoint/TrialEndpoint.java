@@ -50,17 +50,14 @@ public class TrialEndpoint {
         return trialService.findTrialById(id);
     }
 
-
     @Secured("ROLE_RESEARCHER")
     @ResponseStatus(HttpStatus.OK)
-    @GetMapping()
+    @GetMapping(value = "/researcher")
     public List<Trial> getOwnTrials() {
         LOG.info("Get own trials");
         return trialService.getOwnTrials();
     }
 
-
-/*
     @PermitAll
     @ResponseStatus(HttpStatus.OK)
     @GetMapping()
@@ -68,8 +65,6 @@ public class TrialEndpoint {
         LOG.info("Get all trials");
         return trialService.getAllTrials();
     }
-
- */
 
     @PermitAll
     @PutMapping("{id}")

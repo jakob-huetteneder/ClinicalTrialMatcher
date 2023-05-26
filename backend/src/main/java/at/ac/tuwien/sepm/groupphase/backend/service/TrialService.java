@@ -8,8 +8,8 @@ import java.util.List;
 public interface TrialService {
 
     public List<Trial> getAllTrials();
-    public List<Trial> getOwnTrials();
 
+    public List<Trial> getOwnTrials();
 
     public Trial findTrialById(Long id);
 

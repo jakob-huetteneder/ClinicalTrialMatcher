@@ -1,4 +1,4 @@
-import {HttpClient, HttpParams} from '@angular/common/http';
+import {HttpClient} from '@angular/common/http';
 import {Injectable} from '@angular/core';
 import {Observable} from 'rxjs';
 import {environment} from 'src/environments/environment';
@@ -29,6 +29,16 @@ export class TrialService {
 
 
   /**
+   * Get the trials belonging to the researcher stored in the system
+   *
+   * @return observable list of found trials.
+   */
+  getResearcherTrials(): Observable<Trial[]> {
+    return this.http.get<Trial[]>(baseUri + '/researcher');
+  }
+
+
+  /**
    * Create a new trial in the system.
    *
    * @param trial the data for the trial that should be created
@@ -50,6 +60,7 @@ export class TrialService {
 
 
   deleteTrial(id: number | undefined): Observable<Trial> {
+    console.log(id);
     return this.http.delete<Trial>(baseUri + '/' + id);
   }
 

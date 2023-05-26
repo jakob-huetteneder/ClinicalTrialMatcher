@@ -1,34 +1,3 @@
-.whitebox {
-  /* White Box */
-
-
-  /* Auto layout */
-
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  padding: 40px;
-  gap: 10px;
-
-  background: #FFFFFF;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  border-radius: 8px;
-}
-
-hr {
-  border: 0;
-  clear:both;
-  display:block;
-  width: 96%;
-  background-color:#CDE2F0;
-  height: 4px;
-}
-
-.dateloc {
-  justify-content: flex-end;
-  display: flex;
-}
-
 .form-popup {
   /* Notification/Delete Account */
 
@@ -61,8 +30,6 @@ hr {
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
   backdrop-filter: blur(2px);
   /* Note: backdrop-filter has minimal browser support */
-
-
 }
 
 /* Add styles to the form container */
