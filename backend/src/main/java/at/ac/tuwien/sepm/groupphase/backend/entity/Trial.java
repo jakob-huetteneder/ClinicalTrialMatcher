@@ -2,6 +2,7 @@ package at.ac.tuwien.sepm.groupphase.backend.entity;
 
 
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
+import at.ac.tuwien.sepm.groupphase.backend.entity.enums.TrialStatus;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
@@ -53,7 +54,7 @@ public class Trial {
     private String collaborator;
 
     @Column(name = "status")
-    private String status;
+    private TrialStatus status;
 
     @Column(name = "location")
     private String location;
@@ -122,7 +123,7 @@ public class Trial {
     }
 
 
-    public String getStatus() {
+    public TrialStatus getStatus() {
         return status;
     }
 
@@ -202,7 +203,7 @@ public class Trial {
         return this;
     }
 
-    public Trial setStatus(String status) {
+    public Trial setStatus(TrialStatus status) {
         this.status = status;
         return this;
     }

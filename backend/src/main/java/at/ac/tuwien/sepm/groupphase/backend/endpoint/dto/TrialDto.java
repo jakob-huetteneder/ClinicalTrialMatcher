@@ -2,6 +2,7 @@ package at.ac.tuwien.sepm.groupphase.backend.endpoint.dto;
 
 import at.ac.tuwien.sepm.groupphase.backend.entity.Researcher;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
+import at.ac.tuwien.sepm.groupphase.backend.entity.enums.TrialStatus;
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotBlank;
 
@@ -23,9 +24,8 @@ public record TrialDto(
     String detailedSummary,
     String sponsor,
     String collaborator,
-    String status,
+    TrialStatus status,
     @NotBlank(message = "Location must not be blank")
-
     String location,
     Gender crGender,
     @Min(value = 0, message = "Minimum age must be greater than 0")
@@ -85,7 +85,7 @@ public record TrialDto(
     }
 
     @Override
-    public String status() {
+    public TrialStatus status() {
         return status;
     }
 

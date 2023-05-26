@@ -9,5 +9,6 @@ public interface TrialRepository extends JpaRepository<Trial, Long> {
 
 
 
+    Trial findByTitle(String title);
 
 }

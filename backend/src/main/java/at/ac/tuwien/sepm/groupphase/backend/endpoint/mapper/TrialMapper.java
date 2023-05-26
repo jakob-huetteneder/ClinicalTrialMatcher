@@ -16,7 +16,6 @@ public class TrialMapper {
             .setCrGender(trialDto.crGender())
             .setCrFreeText(trialDto.crFreeText())
             .setCrMinAge(trialDto.crMinAge())
-            .setCrMaxAge(trialDto.crMaxAge())
             .setTitle(trialDto.title())
             .setEndDate(trialDto.endDate())
             .setStartDate(trialDto.startDate())
@@ -24,7 +23,8 @@ public class TrialMapper {
             .setResearcher(trialDto.researcher())
             .setSponsor(trialDto.sponsor())
             .setStudyType(trialDto.studyType())
-            .setLocation(trialDto.location());
+            .setLocation(trialDto.location())
+            .setStatus(trialDto.status());
     }
 
 

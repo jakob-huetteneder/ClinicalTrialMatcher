@@ -69,7 +69,6 @@ public class TrialServiceImpl implements TrialService {
             (Researcher) loggedInUser);
         Trial savedTrial = trialRepository.save(convertedTrial);
         LOG.info("Saved trial with id='{}'", convertedTrial.getId());
-
         return trialMapper.trialToTrialDto(savedTrial);
     }
 

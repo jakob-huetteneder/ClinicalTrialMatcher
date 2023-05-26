@@ -50,7 +50,7 @@ public class TrialEndpoint {
         return trialService.findTrialById(id);
     }
 
-    @PermitAll
+    @Secured("ROLE_RESEARCHER")
     @ResponseStatus(HttpStatus.OK)
     @GetMapping()
     public List<Trial> getAllTrials() {
@@ -58,7 +58,7 @@ public class TrialEndpoint {
         return trialService.getAllTrials();
     }
 
-    @PermitAll
+    @Secured("ROLE_RESEARCHER")
     @PutMapping("{id}")
     public TrialDto update(@RequestBody TrialDto toUpdate) {
         LOG.info("PUT " + BASE_PATH + "/{}", toUpdate);
@@ -66,7 +66,7 @@ public class TrialEndpoint {
         return trialService.updateTrial(toUpdate);
     }
 
-    @PermitAll
+    @Secured("ROLE_RESEARCHER")
     @DeleteMapping("{id}")
     @ResponseStatus(HttpStatus.NO_CONTENT)
     public void delete(@PathVariable long id) {
