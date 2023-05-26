@@ -32,4 +32,8 @@ public record UserDetailDto(
     @NotNull(message = "Status must not be null")
     Status status
 ) {
+
+    public UserDetailDto withId(Long id) {
+        return new UserDetailDto(id, firstName, lastName, email, password, role, status);
+    }
 }

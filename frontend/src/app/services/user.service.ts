@@ -30,6 +30,16 @@ export class UserService {
    * @return observable user
    */
   updateUser(user: User): Observable<User> {
+    return this.http.put<User>(baseUri, user);
+  }
+
+  /**
+   * Update a user
+   *
+   * @param user the user to update
+   * @return observable user
+   */
+  updateUserById(user: User): Observable<User> {
     return this.http.put<User>(baseUri + '/' + user.id, user);
   }
 

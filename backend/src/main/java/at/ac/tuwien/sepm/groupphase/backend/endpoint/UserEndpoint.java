@@ -2,6 +2,7 @@ package at.ac.tuwien.sepm.groupphase.backend.endpoint;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserDetailDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserRegisterDto;
+import at.ac.tuwien.sepm.groupphase.backend.security.AuthorizationService;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserUpdateDto;
 import at.ac.tuwien.sepm.groupphase.backend.service.UserService;
 import jakarta.annotation.security.PermitAll;
@@ -28,9 +29,11 @@ public class UserEndpoint {
     static final String BASE_URL = "/api/v1/users";
 
     private final UserService userService;
+    private final AuthorizationService authorizationService;
 
-    public UserEndpoint(UserService userService) {
+    public UserEndpoint(UserService userService, AuthorizationService authorizationService) {
         this.userService = userService;
+        this.authorizationService = authorizationService;
     }
 
     @Secured("ROLE_ADMIN")
@@ -40,22 +43,22 @@ public class UserEndpoint {
         return userService.getAllUsers();
     }
 
-    @PermitAll
-    @GetMapping(path = "/{id}")
-    public UserDetailDto getById(@PathVariable("id") long id) {
-        LOG.info("GET " + BASE_URL);
-        return userService.getById(id);
-    }
-
     @Secured("ROLE_ADMIN")
     @PutMapping(path = "/{id}")
-    public UserDetailDto updateUser(@PathVariable("id") long id, @Valid @RequestBody UserUpdateDto toUpdate) {
+    public UserDetailDto updateUserById(@PathVariable("id") long id, @Valid @RequestBody UserUpdateDto toUpdate) {
         LOG.info("PUT " + BASE_URL + "/{}", id);
         LOG.debug("Body of request:\n{}", toUpdate);
         if (id != toUpdate.id()) {
             // TODO: throw 400 bad request
         }
         return userService.updateUser(toUpdate);
+    }
+
+    @Secured("ROLE_USER")
+    @PutMapping()
+    public UserDetailDto updateUser(@Valid @RequestBody UserUpdateDto toUpdate) {
+        long id = authorizationService.getSessionUserId();
+        return updateUserById(id, toUpdate.withId(id));
     }
 
     @Secured("ROLE_ADMIN")

@@ -2,6 +2,8 @@ import {Component, OnInit} from '@angular/core';
 import {User} from '../../dtos/user';
 import {UserService} from '../../services/user.service';
 import {cloneDeep} from 'lodash';
+import {Role} from '../../dtos/role';
+import {Status} from '../../dtos/status';
 
 
 @Component({
@@ -45,7 +47,7 @@ export class UserListComponent implements OnInit {
 
   confirmEditUser(user: User) {
     console.log('Update user: ' + user.email);
-    const updatedUserPromise = this.userService.updateUser(user);
+    const updatedUserPromise = this.userService.updateUserById(user);
     updatedUserPromise.subscribe({
       next: updatedUser => {
         console.log('Updated user: ' + updatedUser.email);
@@ -72,6 +74,14 @@ export class UserListComponent implements OnInit {
 
   isEdited(user: User): boolean {
     return this.editedUsers.some(editedUser => editedUser.id === user.id);
+  }
+
+  roleName(role: Role): string {
+    return role.charAt(0).toUpperCase() + role.slice(1).toLowerCase();
+  }
+
+  statusName(status: Status): string {
+    return status.charAt(0).toUpperCase() + status.slice(1).toLowerCase();
   }
 
   private loadUsers() {

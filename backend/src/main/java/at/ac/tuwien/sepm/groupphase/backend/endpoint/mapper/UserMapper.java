@@ -2,7 +2,6 @@ package at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserDetailDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserRegisterDto;
-import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserUpdateDto;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Admin;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
@@ -15,8 +14,17 @@ import org.springframework.stereotype.Component;
 @Component
 public class UserMapper {
 
+    public ApplicationUser userDetailDtoToApplicationUser(UserDetailDto userDetailDto) {
+        return getApplicationUserFromRole(userDetailDto.role())
+            .setId(userDetailDto.id())
+            .setFirstName(userDetailDto.firstName())
+            .setLastName(userDetailDto.lastName())
+            .setEmail(userDetailDto.email())
+            .setPassword(userDetailDto.password())
+            .setStatus(userDetailDto.status());
+
     public ApplicationUser userUpdateDtoToApplicationUser(UserUpdateDto userUpdateDto) {
-        return new ApplicationUser()
+        return getApplicationUserFromRole(userUpdateDto.role())
             .setId(userUpdateDto.id())
             .setFirstName(userUpdateDto.firstName())
             .setLastName(userUpdateDto.lastName())

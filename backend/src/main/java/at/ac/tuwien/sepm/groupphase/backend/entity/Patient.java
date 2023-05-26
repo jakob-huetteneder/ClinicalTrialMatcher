@@ -22,7 +22,7 @@ public class Patient {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+    private Long patientId;
 
     @OneToOne(fetch = FetchType.EAGER)
     @JoinColumn(name = "user_id")
@@ -55,11 +55,11 @@ public class Patient {
     private Set<Diagnose> diagnoses;
 
     public Long getId() {
-        return id;
+        return patientId;
     }
 
     public void setId(Long id) {
-        this.id = id;
+        this.patientId = id;
     }
 
     public String getFirstName() {

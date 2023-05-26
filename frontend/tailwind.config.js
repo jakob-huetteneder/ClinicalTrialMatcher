@@ -8,7 +8,13 @@ module.exports = {
   },
   darkMode: 'class', // or 'media' or 'class'
   theme: {
-    extend: {},
+    extend: {
+      colors:{
+        'cool-blue': {
+          500: '#308BC8',
+        },
+      }
+    },
   },
   variants: {
     extend: {},

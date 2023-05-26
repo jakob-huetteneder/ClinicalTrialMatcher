@@ -12,9 +12,14 @@ import {LoginComponent} from './components/login/login.component';
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import {httpInterceptorProviders} from './interceptors';
 import {NgOptimizedImage} from '@angular/common';
+import {TrialComponent} from './components/trial/trial.component';
+import {CreateTrialComponent} from './components/trial/trial-create/trial-create.component';
 import { RegisterComponent } from './components/register/register.component';
 import { UpdateProfileComponent } from './components/update-profile/update-profile.component';
 import {UserListComponent} from './components/user-list/user-list.component';
+import {ToastrModule} from 'ngx-toastr';
+import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
+import { DeletePopupComponent } from './components/delete-popup/delete-popup.component';
 
 @NgModule({
   declarations: [
@@ -23,9 +28,12 @@ import {UserListComponent} from './components/user-list/user-list.component';
     FooterComponent,
     HomeComponent,
     LoginComponent,
+    TrialComponent,
+    CreateTrialComponent,
     UpdateProfileComponent,
     RegisterComponent,
     UserListComponent,
+    DeletePopupComponent,
   ],
   imports: [
     BrowserModule,
@@ -33,6 +41,8 @@ import {UserListComponent} from './components/user-list/user-list.component';
     ReactiveFormsModule,
     HttpClientModule,
     NgbModule,
+    ToastrModule.forRoot(),
+    BrowserAnimationsModule,
     FormsModule,
     NgOptimizedImage,
   ],

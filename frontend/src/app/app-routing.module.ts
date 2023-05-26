@@ -2,6 +2,8 @@ import {NgModule} from '@angular/core';
 import {RouterModule, Routes} from '@angular/router';
 import {HomeComponent} from './components/home/home.component';
 import {LoginComponent} from './components/login/login.component';
+import {TrialComponent} from './components/trial/trial.component';
+import {CreateTrialComponent} from './components/trial/trial-create/trial-create.component';
 import {RegisterComponent} from './components/register/register.component';
 import {UserListComponent} from './components/user-list/user-list.component';
 import {UpdateProfileComponent} from './components/update-profile/update-profile.component';
@@ -11,6 +13,10 @@ const routes: Routes = [
   {path: 'login', component: LoginComponent},
   {path: 'update-profile', component: UpdateProfileComponent},
   {path: 'user-overview', component: UserListComponent},
+  {path: 'trials', children: [
+      {path: '' , component: TrialComponent},
+      {path: 'create', component: CreateTrialComponent},
+    ]},
   {path: 'user-overview', component: UserListComponent},
   {
     path: 'register', children: [

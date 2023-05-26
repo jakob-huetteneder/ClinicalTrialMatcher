@@ -1,0 +1,33 @@
+<button class="btn btn-sm rounded border-danger"
+        (click)="openForm()"
+>
+  <i class="bi bi-trash text-red-500"></i>
+</button>
+
+<div class="form-popup" #myForm>
+  <div class="form-container">
+
+    <h1 style="color: red; font-family: 'Roboto', sans-serif">{{this.prompt}}</h1>
+    <div class="text-red-50">
+      This action is permanent. After confirmation your data becomes irretrievable.
+    </div>
+    <div class="flex flex-row mt-2">
+      <button class="transition ease-in-out delay-100 duration-300 bg-red-500 hover:-translate-y-0 hover:scale-110 hover:bg-red-400 rounded w-35 p-2 mt-2 h-10 text-white mr-3"
+              data-inline="true"
+              style="width:130px"
+              type="submit"
+              (click)="deleteEntry()"
+      >
+        Delete
+      </button>
+      <button class="transition ease-in-out delay-100 duration-300 bg-slate-400 hover:-translate-y-0 hover:scale-110 hover:bg-slate-300 rounded w-35 p-2 mt-2 h-10 text-white ml-3"
+              data-inline="true"
+              style="width:130px"
+              type="button"
+              (click)="closeForm()"
+      >
+        Cancel
+      </button>
+    </div>
+  </div>
+</div>
