@@ -11,7 +11,7 @@
   gap: 10px;
 
   background: #FFFFFF;
-  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
 }
 
@@ -37,30 +37,6 @@ hr {
   flex: none;
   order: 1;
   flex-grow: 1;
-}
-
-.reg {
-  box-sizing: border-box;
-
-  /* Auto layout */
-
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  padding: 12px 20px;
-
-  width: 199px;
-  height: 41px;
-
-  background: #0071BC;
-  border: 1px solid #162E51;
-  border-radius: 4px;
-
-  /* Inside auto layout */
-
-  flex: none;
-  order: 0;
-  flex-grow: 0;
 }
 
 ::placeholder {

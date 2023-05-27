@@ -1,14 +1,14 @@
 import {ActivatedRoute, Router} from '@angular/router';
 import {Component, OnInit} from '@angular/core';
 import {NgModel} from '@angular/forms';
-import {Diagnose, Disease, Examination} from '../../dtos/patient';
+import {Diagnose, Disease} from '../../dtos/patient';
 import {DiagnoseService} from 'src/app/services/diagnose.service';
 import {DiseaseService} from 'src/app/services/disease.service';
 import {Observable, of} from 'rxjs';
 export enum DiagnoseCreateEditMode {
   create,
   edit,
-};
+}
 
 @Component({
   selector: 'app-diagnose',
@@ -44,17 +44,6 @@ export class DiagnoseComponent implements OnInit{
         return 'Add New Diagnosis';
       case DiagnoseCreateEditMode.edit:
         return 'Edit Diagnosis';
-      default:
-        return '?';
-    }
-  }
-
-  private get modeActionFinished(): string {
-    switch (this.mode) {
-      case DiagnoseCreateEditMode.create:
-        return 'created';
-      case DiagnoseCreateEditMode.edit:
-        return 'edited';
       default:
         return '?';
     }

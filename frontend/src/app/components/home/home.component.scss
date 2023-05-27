@@ -41,30 +41,6 @@ hr {
   flex-grow: 1;
 }
 
-.reg {
-  box-sizing: border-box;
-
-  /* Auto layout */
-
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  padding: 12px 20px;
-
-  width: 199px;
-  height: 41px;
-
-  background: #0071BC;
-  border: 1px solid #162E51;
-  border-radius: 4px;
-
-  /* Inside auto layout */
-
-  flex: none;
-  order: 0;
-  flex-grow: 0;
-}
-
 ::placeholder {
   color: #235491;
   font-size: 14px;

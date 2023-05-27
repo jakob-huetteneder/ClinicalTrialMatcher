@@ -1,6 +1,6 @@
 <nav class="header bg-blue-100 shadow-md grid grid-cols-2 w-screen h-30">
 
-  <img src="./assets/img/clinicalMatcher.svg" class="logo" routerLink="" alt="ClinicalMatcher">
+  <img ngSrc="./assets/img/clinicalMatcher.svg" class="logo" routerLink="" alt="ClinicalMatcher">
 
   <div class="buttons text-blue-950 flex-row"><!--
     <div class="single-button">
@@ -129,7 +129,7 @@
       <div *ngIf="authService.isLoggedIn()" routerLink="/" class="profile">
         <div class="single-button flex flex-initial">
           <div class="group relative dropdown px-0 cursor-pointer text-base tracking-wide right-0">
-            <div class="profile flex flex-row"><img class="flex-initial mr-1" src="assets/img/UserIcon.svg" alt="profile"> <i class="mt-1 bi-chevron-down ml-2"></i></div>
+            <div class="profile flex flex-row"><img class="flex-initial mr-1" ngSrc="assets/img/UserIcon.svg" alt="profile"> <i class="mt-1 bi-chevron-down ml-2"></i></div>
             <div
               class="absolute z-[1000] float-left m-0 hidden min-w-max list-none overflow-hidden rounded-lg border-none bg-white bg-clip-padding text-left text-base shadow-lg dark:bg-neutral-700 group-hover:block right-0">
               <ul class="w-auto px-2 py-2 mb-0">

@@ -9,6 +9,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class DiagnosisMapper {
     private final PatientRepository patientRepository;
+
     public DiagnosisMapper(PatientRepository patientRepository) {
         this.patientRepository = patientRepository;
     }
