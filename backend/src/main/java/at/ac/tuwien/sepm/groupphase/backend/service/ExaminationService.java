@@ -1,8 +1,6 @@
 package at.ac.tuwien.sepm.groupphase.backend.service;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.ExaminationDto;
-import at.ac.tuwien.sepm.groupphase.backend.entity.Examination;
-import org.springframework.web.bind.annotation.PathVariable;
 
 import java.util.List;
 

@@ -1,6 +1,5 @@
 package at.ac.tuwien.sepm.groupphase.backend.service.impl;
 
-import at.ac.tuwien.sepm.groupphase.backend.endpoint.ExaminationEndpoint;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.ExaminationDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.ExaminationMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
@@ -21,7 +20,7 @@ import java.lang.invoke.MethodHandles;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
-import java.util.Optional;
+
 
 @Service
 public class ExaminationDetailService implements ExaminationService {
@@ -84,7 +83,7 @@ public class ExaminationDetailService implements ExaminationService {
         LOGGER.debug("View all Examination Results for patient: " + id);
         List<Examination> patientExaminations = examinationRepository.findAll();
         List<ExaminationDto> examinationDtos = new ArrayList<>(patientExaminations.size());
-        for (Examination examination:patientExaminations) {
+        for (Examination examination : patientExaminations) {
             examinationDtos.add(examinationMapper.examinationtoPatientExaminationDto(examination));
         }
         return examinationDtos;

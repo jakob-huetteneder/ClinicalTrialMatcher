@@ -1,19 +1,17 @@
 package at.ac.tuwien.sepm.groupphase.backend.unittests;
 
-import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserDetailDto;
-import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.UserMapper;
-import at.ac.tuwien.sepm.groupphase.backend.entity.Admin;
-import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
-import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
-import at.ac.tuwien.sepm.groupphase.backend.entity.Researcher;
-import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
-import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Status;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.ExaminationDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.ExaminationMapper;
+import at.ac.tuwien.sepm.groupphase.backend.entity.Examination;
+import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.ActiveProfiles;
+import java.time.LocalDate;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertAll;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 
 @SpringBootTest
@@ -21,92 +19,58 @@ import static org.junit.jupiter.api.Assertions.*;
 public class ExaminationMapperTest {
 
     @Autowired
-    private UserMapper userMapper;
-    /*
+    private ExaminationMapper examinationMapper;
 
     @Test
-    public void testUserDetailDtoToApplicationUser() {
-        UserDetailDto userDetailDto = new UserDetailDto(
+    public void testExaminationDtoToExamination() {
+        ExaminationDto examinationDto = new ExaminationDto(
             1L,
-            "firstName",
-            "lastName",
-            "email",
-            "password",
-            Role.ADMIN,
-            Status.ACTIVE
+            1L,
+            "test",
+            LocalDate.of(2000,2,2),
+            "",
+            ""
         );
 
-        ApplicationUser mappedApplicationUser = userMapper.userDetailDtoToApplicationUser(userDetailDto);
+        Examination examination = examinationMapper.patientExaminationDtotoExamination(examinationDto);
 
         assertAll(
-            () -> assertEquals(userDetailDto.id(), mappedApplicationUser.getId()),
-            () -> assertEquals(userDetailDto.firstName(), mappedApplicationUser.getFirstName()),
-            () -> assertEquals(userDetailDto.lastName(), mappedApplicationUser.getLastName()),
-            () -> assertEquals(userDetailDto.email(), mappedApplicationUser.getEmail()),
-            () -> assertEquals(userDetailDto.password(), mappedApplicationUser.getPassword()),
-            () -> assertEquals(userDetailDto.status(), mappedApplicationUser.getStatus()),
-            () -> assertEquals(userDetailDto.role(), userMapper.getRoleFromApplicationUser(mappedApplicationUser)),
-            () -> assertInstanceOf(Admin.class, mappedApplicationUser)
+            () -> assertEquals(examinationDto.id(), examination.getId()),
+            () -> assertEquals(examinationDto.patientId(), examination.getPatient().getId()),
+            () -> assertEquals(examinationDto.name(), examination.getName()),
+            () -> assertEquals(examinationDto.date(), examination.getDate()),
+            () -> assertEquals(examinationDto.type(), examination.getType()),
+            () -> assertEquals(examinationDto.note(), examination.getNote())
         );
     }
 
     @Test
-    public void testApplicationUserToUserDetailDto() {
+    public void testExaminationToExaminationDto() {
 
-        ApplicationUser applicationUser = new Admin()
+        Patient patient = new Patient()
             .setId(1L)
-            .setFirstName("firstName")
-            .setLastName("lastName")
-            .setEmail("email")
-            .setPassword("password")
-            .setStatus(Status.ACTIVE);
+            .setFirstName("test")
+            .setLastName("test")
+            .setEmail("test")
+            ;
+        Examination examination = new Examination()
+            .setId(1L)
+            .setPatient(patient)
+            .setName("test")
+            .setDate(LocalDate.of(2000,2,2))
+            .setType("")
+            .setNote("")
+            ;
 
-        UserDetailDto mappedUserDetailDto = userMapper.applicationUserToUserDetailDto(applicationUser);
+        ExaminationDto examinationDto = examinationMapper.examinationtoPatientExaminationDto(examination);
 
         assertAll(
-            () -> assertEquals(applicationUser.getId(), mappedUserDetailDto.id()),
-            () -> assertEquals(applicationUser.getFirstName(), mappedUserDetailDto.firstName()),
-            () -> assertEquals(applicationUser.getLastName(), mappedUserDetailDto.lastName()),
-            () -> assertEquals(applicationUser.getEmail(), mappedUserDetailDto.email()),
-            () -> assertEquals(applicationUser.getPassword(), mappedUserDetailDto.password()),
-            () -> assertEquals(applicationUser.getStatus(), mappedUserDetailDto.status()),
-            () -> assertEquals(userMapper.getRoleFromApplicationUser(applicationUser), mappedUserDetailDto.role())
+            () -> assertEquals(examinationDto.id(), examination.getId()),
+            () -> assertEquals(examinationDto.patientId(), examination.getPatient().getId()),
+            () -> assertEquals(examinationDto.name(), examination.getName()),
+            () -> assertEquals(examinationDto.date(), examination.getDate()),
+            () -> assertEquals(examinationDto.type(), examination.getType()),
+            () -> assertEquals(examinationDto.note(), examination.getNote())
         );
     }
-
-    @Test
-    public void testGetRoleFromApplicationUser() {
-        ApplicationUser admin = new Admin();
-        ApplicationUser doctor = new Doctor();
-        ApplicationUser researcher = new Researcher();
-        ApplicationUser patient = new ApplicationUser();
-
-        assertAll(
-            () -> assertEquals(Role.ADMIN, userMapper.getRoleFromApplicationUser(admin)),
-            () -> assertEquals(Role.DOCTOR, userMapper.getRoleFromApplicationUser(doctor)),
-            () -> assertEquals(Role.RESEARCHER, userMapper.getRoleFromApplicationUser(researcher)),
-            () -> assertEquals(Role.PATIENT, userMapper.getRoleFromApplicationUser(patient)),
-
-            () -> assertThrows(IllegalArgumentException.class, () -> userMapper.getRoleFromApplicationUser(null))
-        );
-    }
-
-    @Test
-    public void testGetApplicationUserFromRole() {
-        ApplicationUser admin = userMapper.getApplicationUserFromRole(Role.ADMIN);
-        ApplicationUser doctor = userMapper.getApplicationUserFromRole(Role.DOCTOR);
-        ApplicationUser researcher = userMapper.getApplicationUserFromRole(Role.RESEARCHER);
-        ApplicationUser patient = userMapper.getApplicationUserFromRole(Role.PATIENT);
-
-        assertAll(
-            () -> assertInstanceOf(Admin.class, admin),
-            () -> assertInstanceOf(Doctor.class, doctor),
-            () -> assertInstanceOf(Researcher.class, researcher),
-            () -> assertInstanceOf(ApplicationUser.class, patient),
-
-            () -> assertFalse(patient instanceof Admin),
-            () -> assertFalse(patient instanceof Doctor),
-            () -> assertFalse(patient instanceof Researcher)
-        );
-    }*/
 }

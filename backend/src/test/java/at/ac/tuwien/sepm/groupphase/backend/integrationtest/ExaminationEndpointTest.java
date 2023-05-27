@@ -186,7 +186,7 @@ public class ExaminationEndpointTest {
     }
 
     @Test
-    public void updateSpecificUserAsUser() throws Exception {
+    public void updateSpecificExaminationAsUser() throws Exception {
         Patient patient = patientDataGenerator.generatePatient();
         patient = patientRepository.save(patient);
         ApplicationUser user = userDataGenerator.generateUser(Role.PATIENT);

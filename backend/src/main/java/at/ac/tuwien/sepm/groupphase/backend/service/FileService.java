@@ -1,6 +1,5 @@
 package at.ac.tuwien.sepm.groupphase.backend.service;
 
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.IOException;
@@ -15,9 +14,9 @@ public interface FileService {
      * @param multipartFile filestream of multipart request
      * @param id of examination
      */
-    public void saveFile(String uploadDir, String fileName, MultipartFile multipartFile, Long id) throws IOException;
+    void saveFile(String uploadDir, String fileName, MultipartFile multipartFile, Long id) throws IOException;
 
-    public byte[] getFile(Long id) throws IOException;
+    byte[] getFile(Long id) throws IOException;
 
-    public void delete(Long id) throws IOException;
+    void delete(Long id) throws IOException;
 }

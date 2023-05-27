@@ -2,11 +2,8 @@ package at.ac.tuwien.sepm.groupphase.backend.unittests;
 
 
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.ExaminationDataGenerator;
-import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.UserMapper;
-import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
-import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
-import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Status;
-import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
+import at.ac.tuwien.sepm.groupphase.backend.entity.Examination;
+import at.ac.tuwien.sepm.groupphase.backend.repository.ExaminationRepository;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -37,45 +34,28 @@ public class ExaminationRepositoryTest {
 
 
     @Autowired
-    private UserRepository userRepository;
-    @Autowired
-    private UserMapper userMapper;
+    private ExaminationRepository examinationRepository;
     @Autowired
     private ExaminationDataGenerator examinationDataGenerator;
-    /*
 
     @Test
     public void testInheritanceOfApplicationUser() {
-        for (Role role : Role.values()) {
-            ApplicationUser user = examinationDataGenerator.generateUser(role);
+        Examination examination = examinationDataGenerator.generateExamination();
 
-            ApplicationUser savedUser = userRepository.save(user);
-            assertDoesNotThrow(() -> {
-                ApplicationUser persistedUser = userRepository.findById(savedUser.getId()).orElseThrow();
-                assertEquals(user.getFirstName(), persistedUser.getFirstName());
-                assertEquals(user.getLastName(), persistedUser.getLastName());
-                assertEquals(user.getEmail(), persistedUser.getEmail());
-                assertEquals(user.getPassword(), persistedUser.getPassword());
-                assertEquals(Status.ACTIVE, persistedUser.getStatus());
-
-                assertEquals(role, userMapper.getRoleFromApplicationUser(persistedUser));
-            });
-        }
+        Examination savedExamination = examinationRepository.save(examination);
+        assertDoesNotThrow(() -> {
+            Examination persistedExamination = examinationRepository.findById(savedExamination.getId()).orElseThrow();
+            assertEquals(persistedExamination.getId(), examination.getId());
+            assertEquals(persistedExamination.getPatient(), examination.getPatient());
+            assertEquals(persistedExamination.getName(), examination.getName());
+            assertEquals(persistedExamination.getDate(), examination.getDate());
+            assertEquals(persistedExamination.getType(), examination.getType());
+            assertEquals(persistedExamination.getNote(), examination.getNote());
+        });
     }
 
     @Test
     public void testFindAll() {
-        assertEquals(4, userRepository.findAll().size());
+        assertEquals(5, examinationRepository.findAll().size());
     }
-
-    @Test
-    public void testFindByEmail() {
-        ApplicationUser user = examinationDataGenerator.generateUser();
-        userRepository.save(user);
-
-        assertDoesNotThrow(() -> {
-            ApplicationUser persistedUser = userRepository.findByEmail(user.getEmail());
-            assertEquals(user.getEmail(), persistedUser.getEmail());
-        });
-    }*/
 }
