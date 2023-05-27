@@ -66,6 +66,13 @@ const routes: Routes = [
           ]},
 
     ]},
+  {path: 'patient', data: {allowedRoles: [Role.patient]},
+    canActivate: [AuthGuard],
+    canActivateChild: [AuthGuard],
+    children: [
+      {path: 'requests', component: ViewRequestsComponent},
+      {path: 'connections', component: ViewConnectionsComponent, data: {role: Role.patient}},
+    ]},
   {path: '**', redirectTo: ''},
 ];
 

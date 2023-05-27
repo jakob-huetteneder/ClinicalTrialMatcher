@@ -33,6 +33,9 @@ import {MatDialogModule} from '@angular/material/dialog';
 import {ConfirmDialogComponent} from './components/confirm-button/confirm-dialog/confirm-dialog.component';
 import { ConfirmButtonComponent } from './components/confirm-button/confirm-button.component';
 import {MatButtonModule} from '@angular/material/button';
+import {RequestPatientComponent} from './components/doctor-patient-connection/request-patient/request-patient.component';
+import {ViewRequestsComponent} from './components/doctor-patient-connection/view-requests/view-requests.component';
+import {ViewConnectionsComponent} from './components/doctor-patient-connection/view-connections/view-connections.component';
 
 @NgModule({
   declarations: [
@@ -56,7 +59,10 @@ import {MatButtonModule} from '@angular/material/button';
     CreateEditExaminationComponent,
     CreateEditDiagnoseComponent,
     ConfirmDialogComponent,
-    ConfirmButtonComponent
+    ConfirmButtonComponent,
+    RequestPatientComponent,
+    ViewRequestsComponent,
+    ViewConnectionsComponent
   ],
   imports: [
     BrowserModule,

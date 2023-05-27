@@ -1,0 +1,34 @@
+<table class="table-auto container">
+  <thead>
+  <tr>
+    <th>First Name</th>
+    <th>Last Name</th>
+    <th>E-Mail</th>
+
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let request of requests">
+    <td>{{request.doctor.firstName}}</td>
+    <td>{{request.doctor.lastName}}</td>
+    <td>{{request.doctor.email}}</td>
+    <td><div class="btn-group">
+
+      <button
+        class="btn btn-sm btn-success"
+        (click)="accept(request)"
+        aria-label="Accept request of doctor">
+        <i class="bi bi-check"></i>
+      </button>
+
+      <button
+        class="btn btn-sm btn-danger "
+        (click)="decline(request)"
+        aria-label="Decline request of doctor">
+        <i class="bi bi-x"></i>
+      </button>
+    </div>
+    </td>
+  </tr>
+  </tbody>
+</table>

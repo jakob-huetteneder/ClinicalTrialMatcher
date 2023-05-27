@@ -14,6 +14,15 @@ export interface Patient {
   doctors?: User[];
 }
 
+export interface PatientRequest {
+  id?: number;
+  firstName: string;
+  lastName: string;
+  birthdate: Date;
+  gender: Gender;
+  treats: Treats;
+}
+
 export class Examination {
   id?: number;
   date?: Date;
@@ -35,4 +44,17 @@ export class Disease {
   id?: number;
   name: string;
   synonyms?: string;
+}
+
+export interface Treats {
+  id?: number;
+  patient: Patient;
+  doctor: User;
+  status: TreatsStatus;
+}
+
+export enum TreatsStatus {
+  requested = 'REQUESTED',
+  accepted = 'ACCEPTED',
+  declined = 'DECLINED',
 }

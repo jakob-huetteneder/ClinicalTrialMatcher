@@ -1,11 +1,13 @@
 package at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientRequestDto;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import org.springframework.stereotype.Component;
 
 import java.util.HashSet;
+import java.util.Objects;
 import java.util.stream.Collectors;
 
 @Component
@@ -54,5 +56,16 @@ public class PatientMapper {
             patient.getDoctors() == null ? new HashSet<>() : patient.getDoctors().stream().map(userMapper::applicationUserToUserDetailDto).collect(Collectors.toSet()),
             diagnosisMapper.diagnosisToDiagnosisDto(patient.getDiagnoses()),
             examinationMapper.examinationToExaminationDto(patient.getExaminations()));
+    }
+
+    public PatientRequestDto patientToPatientRequestDto(Patient patient, Doctor doctor) {
+        return new PatientRequestDto(
+            patient.getId(),
+            patient.getFirstName(),
+            patient.getLastName(),
+            patient.getBirthdate(),
+            patient.getGender(),
+            patient.getTreats().stream().filter(treats -> Objects.equals(treats.getDoctor().getId(), doctor.getId())).findFirst().orElse(null)
+        );
     }
 }
