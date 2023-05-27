@@ -82,7 +82,7 @@
       </a>
     </div>-->
     <!-- DOCTOR FUNCTIONS -->
-    <div class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
+    <div *ngIf="authService.getUserRole() === role.doctor" class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
       <a class="group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row">
         <div class="text-in-button mt-1">Patient Menu</div>
         <i class="bi-chevron-down w-4 text-blue-950"></i>
@@ -97,16 +97,51 @@
               >
             </li>
             <li>
-              <a
+              <a routerLink="/doctor/request-patient"
                 class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
               >View Pending Requests</a
               >
             </li>
             <li>
-              <a
+              <a routerLink="/doctor/my-patients"
                 class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
                 href="#"
               >View My Patients</a
+              >
+            </li>
+            <hr
+              class="my-2 h-0 border border-t-0 border-solid border-blue-950 opacity-50"/>
+            <li>
+              <a
+                class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
+                href="#"
+              >Browse Matching Trials</a
+              >
+            </li>
+          </ul>
+        </div>
+      </a>
+    </div>
+
+    <!-- PATIENT FUNCTIONS -->
+    <div *ngIf="authService.getUserRole() === role.patient" class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
+      <a class="group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row">
+        <div class="text-in-button mt-1">Assistance</div>
+        <i class="bi-chevron-down w-4 text-blue-950"></i>
+        <div
+          class="absolute z-[1000] mt-4 hidden list-none overflow-hidden rounded-lg bg-white opacity-85 backdrop-blur-md shadow-md group-hover:block right-0">
+          <ul class="w-auto px-2 py-2 mb-0">
+            <li>
+              <a
+                routerLink="/patient/connections"
+                class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
+              >Connected Doctors</a
+              >
+            </li>
+            <li>
+              <a routerLink="/patient/requests"
+                 class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
+              >View Pending Requests</a
               >
             </li>
             <hr

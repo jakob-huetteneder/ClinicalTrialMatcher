@@ -9,7 +9,6 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
-import jakarta.persistence.ManyToMany;
 import jakarta.persistence.OneToMany;
 import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
@@ -47,9 +46,8 @@ public class Patient {
     @Column(name = "gender", nullable = false)
     private Gender gender;
 
-    @ManyToMany(fetch = FetchType.EAGER)
-    @JoinColumn(name = "doctor_id")
-    private Set<Doctor> doctors;
+    @OneToMany(fetch = FetchType.EAGER, mappedBy = "patient")
+    private Set<Treats> treats;
 
     @OneToMany(fetch = FetchType.EAGER, mappedBy = "patient")
     private Set<Diagnose> diagnoses;
@@ -135,12 +133,13 @@ public class Patient {
         return this;
     }
 
-    public Set<Doctor> getDoctors() {
-        return doctors;
+    @JsonManagedReference(value = "patient-treats")
+    public Set<Treats> getTreats() {
+        return treats;
     }
 
-    public Patient setDoctors(Set<Doctor> doctors) {
-        this.doctors = doctors;
+    public Patient setTreats(Set<Treats> treats) {
+        this.treats = treats;
         return this;
     }
 

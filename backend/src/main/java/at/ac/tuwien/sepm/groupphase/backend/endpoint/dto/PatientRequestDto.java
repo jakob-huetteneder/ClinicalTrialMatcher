@@ -1,28 +1,22 @@
 package at.ac.tuwien.sepm.groupphase.backend.endpoint.dto;
 
-import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
-import at.ac.tuwien.sepm.groupphase.backend.entity.Diagnose;
-import at.ac.tuwien.sepm.groupphase.backend.entity.Examination;
+import at.ac.tuwien.sepm.groupphase.backend.entity.Treats;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
 import jakarta.validation.constraints.NotNull;
 
 import java.time.LocalDate;
-import java.util.Set;
 
-public record PatientDto(
+public record PatientRequestDto(
     Long id,
-    ApplicationUser applicationUser,
     @NotNull(message = "First name must not be null")
     String firstName,
     @NotNull(message = "Last name must not be null")
     String lastName,
-    String email,
-    String admissionNote,
     @NotNull(message = "Birthdate must not be null")
     LocalDate birthdate,
     @NotNull(message = "Gender must not be null")
     Gender gender,
-    Set<Diagnose> diagnoses,
-    Set<Examination> examinations
+    Treats treats
 ) {
+
 }

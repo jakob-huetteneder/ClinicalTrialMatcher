@@ -6,6 +6,12 @@ import {RegisterComponent} from './components/register/register.component';
 import {UserListComponent} from './components/user-list/user-list.component';
 import {RegisterPatientComponent} from './components/register/register-patient/register-patient.component';
 import {PatientDetailComponent} from './components/patient-detail/patient-detail.component';
+import {RequestPatientComponent} from './components/doctor-patient-connection/request-patient/request-patient.component';
+import {ViewRequestsComponent} from './components/doctor-patient-connection/view-requests/view-requests.component';
+import {Role} from './dtos/role';
+import {
+  ViewConnectionsComponent
+} from './components/doctor-patient-connection/view-connections/view-connections.component';
 
 const routes: Routes = [
   {path: '', component: HomeComponent},
@@ -17,7 +23,15 @@ const routes: Routes = [
       {path: 'patient', component: RegisterPatientComponent}
     ]
   },
-  {path: 'patient/:id', component: PatientDetailComponent},
+  {path: 'patient', children: [
+      {path: 'requests', component: ViewRequestsComponent},
+      {path: 'connections', component: ViewConnectionsComponent, data: {role: Role.patient}},
+      {path: ':id', component: PatientDetailComponent}, // must be last, otherwise the path 'requests' will be interpreted as an id
+    ]},
+  {path: 'doctor', children: [
+      {path: 'request-patient', component: RequestPatientComponent},
+      {path: 'my-patients', component: ViewConnectionsComponent, data: {role: Role.doctor}},
+    ]},
   {path: '**', redirectTo: ''},
 ];
 

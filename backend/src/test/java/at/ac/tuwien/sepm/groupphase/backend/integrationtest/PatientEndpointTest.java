@@ -2,6 +2,7 @@ package at.ac.tuwien.sepm.groupphase.backend.integrationtest;
 
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.PatientDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.PatientMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -35,6 +36,8 @@ public class PatientEndpointTest {
     private PatientDataGenerator patientDataGenerator;
     @Autowired
     private PatientRepository patientRepository;
+    @Autowired
+    private PatientMapper patientMapper;
     @Autowired
     private ObjectMapper objectMapper;
 
@@ -111,7 +114,7 @@ public class PatientEndpointTest {
 
     @Test
     public void testCreatePatient() throws Exception {
-        Patient patient = patientDataGenerator.generatePatient();
+        PatientDto patient = patientMapper.patientToPatientDto(patientDataGenerator.generatePatient());
         MvcResult mvcResult = this.mockMvc.perform(post(USER_BASE_URI)
                 .contentType(MediaType.APPLICATION_JSON)
                 .content(objectMapper.writeValueAsString(patient)))
@@ -124,8 +127,8 @@ public class PatientEndpointTest {
 
         PatientDto patientDto = objectMapper.readValue(response.getContentAsString(), PatientDto.class);
 
-        assertEquals(patientDto.firstName(), patient.getFirstName());
-        assertEquals(patientDto.lastName(), patient.getLastName());
-        assertEquals(patientDto.birthdate(), patient.getBirthdate());
+        assertEquals(patientDto.firstName(), patient.firstName());
+        assertEquals(patientDto.lastName(), patient.lastName());
+        assertEquals(patientDto.birthdate(), patient.birthdate());
     }
 }

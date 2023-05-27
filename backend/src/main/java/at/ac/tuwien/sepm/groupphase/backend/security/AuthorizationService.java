@@ -74,7 +74,7 @@ public class AuthorizationService {
         } else if (applicationUser instanceof Researcher) {
             grantedAuthorities = AuthorityUtils.createAuthorityList("ROLE_RESEARCHER", "ROLE_USER");
         } else {
-            grantedAuthorities = AuthorityUtils.createAuthorityList("ROLE_USER");
+            grantedAuthorities = AuthorityUtils.createAuthorityList("ROLE_PATIENT", "ROLE_USER");
         }
         return new User(applicationUser.getId().toString(), applicationUser.getPassword(), applicationUser.getStatus().equals(Status.ACTIVE), true, true, true, grantedAuthorities);
     }

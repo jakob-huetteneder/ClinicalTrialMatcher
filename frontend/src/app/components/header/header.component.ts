@@ -1,5 +1,6 @@
 import {Component, OnInit} from '@angular/core';
 import {AuthService} from '../../services/auth.service';
+import {Role} from '../../dtos/role';
 
 @Component({
   selector: 'app-header',
@@ -12,7 +13,10 @@ export class HeaderComponent implements OnInit {
 
   constructor(public authService: AuthService) { }
 
-  ngOnInit() {
+  public get role(): typeof Role {
+    return Role;
   }
 
+  ngOnInit() {
+  }
 }

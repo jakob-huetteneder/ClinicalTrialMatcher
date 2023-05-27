@@ -85,15 +85,15 @@ export class UserListComponent implements OnInit {
   }
 
   private loadUsers() {
-    this.userService.getAllUsers().subscribe(
-      (users: User[]) => {
+    this.userService.getAllUsers().subscribe({
+      next: (users: User[]) => {
         this.users = users;
       },
-      error => {
+      error: error => {
         console.log('Something went wrong while loading users: ' + error.error.message);
         console.log(error);
       }
-    );
+    });
   }
 
   private resetUser(userId: number) {

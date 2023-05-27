@@ -41,7 +41,6 @@ public class PatientMapperTest {
             () -> assertEquals(patientDto.admissionNote(), patient.getAdmissionNote()),
             () -> assertEquals(patientDto.birthdate(), patient.getBirthdate()),
             () -> assertEquals(patientDto.gender(), patient.getGender()),
-            () -> assertEquals(patientDto.doctors(), patient.getDoctors()),
             () -> assertEquals(patientDto.examinations(), patient.getExaminations()),
             () -> assertEquals(patientDto.diagnoses(), patient.getDiagnoses()),
             () -> assertEquals(patientDto.applicationUser(), patient.getApplicationUser())
@@ -56,7 +55,7 @@ public class PatientMapperTest {
             .setDate(LocalDate.now()).setNote("Blood test, ...").setId(1L);
         PatientDto patientDto = new PatientDto(1L, null, "Max", "Mustermann",
             "max@mustermann.com", "Patient with severe abdominal pain...",
-            LocalDate.of(2000, 5, 21), Gender.MALE, null, Collections.singleton(diagnose),
+            LocalDate.of(2000, 5, 21), Gender.MALE, Collections.singleton(diagnose),
             Collections.singleton(examination));
 
         Patient patient = patientMapper.patientDtoToPatient(patientDto);
@@ -69,7 +68,7 @@ public class PatientMapperTest {
             () -> assertEquals(patientDto.admissionNote(), patient.getAdmissionNote()),
             () -> assertEquals(patientDto.birthdate(), patient.getBirthdate()),
             () -> assertEquals(patientDto.gender(), patient.getGender()),
-            () -> assertEquals(patientDto.doctors(), patient.getDoctors()),
+            () -> assertNull(patient.getTreats()),
             () -> assertEquals(patientDto.examinations(), patient.getExaminations()),
             () -> assertEquals(patientDto.diagnoses(), patient.getDiagnoses()),
             () -> assertEquals(patientDto.applicationUser(), patient.getApplicationUser()),
@@ -85,7 +84,7 @@ public class PatientMapperTest {
             .setDate(LocalDate.now()).setNote("Blood test, ...").setId(1L);
         PatientDto patientDto = new PatientDto(1L, null, "Max", "Mustermann",
             "max@mustermann.com", "Patient with severe abdominal pain...",
-            LocalDate.of(2000, 5, 21), Gender.MALE, null, Collections.singleton(diagnose),
+            LocalDate.of(2000, 5, 21), Gender.MALE, Collections.singleton(diagnose),
             Collections.singleton(examination));
 
         Patient patient = patientMapper.patientDtoToPatient(patientDto);
@@ -114,7 +113,7 @@ public class PatientMapperTest {
             .setDate(LocalDate.now()).setNote("Blood test, ...").setId(1L);
         PatientDto patientDto = new PatientDto(1L, null, "Max", "Mustermann",
             "max@mustermann.com", "Patient with severe abdominal pain...",
-            LocalDate.of(2000, 5, 21), Gender.MALE, null, Collections.singleton(diagnose),
+            LocalDate.of(2000, 5, 21), Gender.MALE, Collections.singleton(diagnose),
             Collections.singleton(examination));
 
         Patient patient = patientMapper.patientDtoToPatient(patientDto);

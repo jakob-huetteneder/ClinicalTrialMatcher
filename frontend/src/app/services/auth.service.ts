@@ -3,9 +3,9 @@ import {AuthRequest} from '../dtos/auth-request';
 import {Observable} from 'rxjs';
 import {HttpClient} from '@angular/common/http';
 import {tap} from 'rxjs/operators';
-// @ts-ignore
 import jwt_decode from 'jwt-decode';
 import {Globals} from '../global/globals';
+import {Role} from '../dtos/role';
 
 @Injectable({
   providedIn: 'root'
@@ -52,11 +52,15 @@ export class AuthService {
   getUserRole() {
     if (this.getToken() != null) {
       const decoded: any = jwt_decode(this.getToken());
-      const authInfo: string[] = decoded.rol;
-      if (authInfo.includes('ROLE_ADMIN')) {
-        return 'ADMIN';
-      } else if (authInfo.includes('ROLE_USER')) {
-        return 'USER';
+      const authInfo: string[] = decoded.authorities;
+      if (authInfo.includes('ROLE_PATIENT')) {
+        return Role.patient;
+      } else if (authInfo.includes('ROLE_DOCTOR')) {
+        return Role.doctor;
+      } else if (authInfo.includes('ROLE_RESEARCHER')) {
+        return Role.researcher;
+      } else if (authInfo.includes('ROLE_ADMIN')) {
+        return Role.admin;
       }
     }
     return 'UNDEFINED';

@@ -1,0 +1,50 @@
+<table class="table-auto container">
+  <thead>
+  <tr>
+    <th>First Name</th>
+    <th>Last Name</th>
+    <th>Birthday</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let patient of patients">
+    <td>{{patient.firstName}}</td>
+    <td>{{patient.lastName}}</td>
+    <td>{{patient.birthdate}}</td>
+    <td><div class="btn-group">
+
+      <button
+         *ngIf="patient.treats === null"
+         class="btn btn-sm btn-primary"
+         (click)="requestUser(patient)"
+         aria-label="Request to treat this user">
+        <i class="bi bi-clipboard-plus"></i>
+      </button>
+
+      <button
+        *ngIf="patient.treats !== null && patient.treats.status === 'REQUESTED'"
+        class="btn btn-sm btn-warning "
+        aria-label="Waiting on user to accept request"
+        disabled>
+        <i class="bi bi-hourglass"></i>
+      </button>
+      <button
+        *ngIf="patient.treats !== null && patient.treats.status === 'ACCEPTED'"
+        class="btn btn-sm btn-success"
+        aria-label="User accepted request"
+        disabled>
+        <i class="bi bi-check"></i>
+      </button>
+      <button
+        *ngIf="patient.treats !== null && patient.treats.status === 'DECLINED'"
+        class="btn btn-sm btn-danger"
+        aria-label="User rejected request"
+        disabled>
+        <i class="bi bi-x"></i>
+      </button>
+
+    </div>
+    </td>
+  </tr>
+  </tbody>
+</table>

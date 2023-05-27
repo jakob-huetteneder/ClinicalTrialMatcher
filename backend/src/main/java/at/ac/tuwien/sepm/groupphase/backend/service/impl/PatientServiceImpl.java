@@ -1,14 +1,18 @@
 package at.ac.tuwien.sepm.groupphase.backend.service.impl;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientRequestDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.PatientMapper;
+import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Diagnose;
+import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Examination;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import at.ac.tuwien.sepm.groupphase.backend.exception.NotFoundException;
 import at.ac.tuwien.sepm.groupphase.backend.repository.DiagnosesRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.ExaminationsRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
+import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
 import at.ac.tuwien.sepm.groupphase.backend.service.PatientService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -24,13 +28,15 @@ public class PatientServiceImpl implements PatientService {
 
     private final PatientRepository patientRepository;
     private final PatientMapper patientMapper;
+    private final UserRepository userRepository;
     private final ExaminationsRepository examinationsRepository;
     private final DiagnosesRepository diagnosesRepository;
 
-    public PatientServiceImpl(PatientRepository patientRepository, PatientMapper patientMapper,
+    public PatientServiceImpl(PatientRepository patientRepository, PatientMapper patientMapper, UserRepository userRepository,
                               ExaminationsRepository examinationsRepository, DiagnosesRepository diagnosesRepository) {
         this.patientRepository = patientRepository;
         this.patientMapper = patientMapper;
+        this.userRepository = userRepository;
         this.examinationsRepository = examinationsRepository;
         this.diagnosesRepository = diagnosesRepository;
     }
@@ -64,6 +70,17 @@ public class PatientServiceImpl implements PatientService {
         } else {
             return patientMapper.patientToPatientDto(patient.get());
         }
+    }
+
+    @Override
+    public List<PatientRequestDto> getAllPatientsForDoctorId(Long doctorId) {
+        LOG.trace("getAllPatientsForDoctorId({})", doctorId);
+        List<Patient> patients = patientRepository.findAll();
+        ApplicationUser user = userRepository.findById(doctorId).orElseThrow(NotFoundException::new);
+        if (!(user instanceof Doctor doctor)) {
+            throw new NotFoundException();
+        }
+        return patients.stream().filter(patient -> patient.getApplicationUser() != null).map(patient -> patientMapper.patientToPatientRequestDto(patient, doctor)).toList();
     }
 
     @Override
