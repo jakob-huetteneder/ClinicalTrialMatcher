@@ -27,7 +27,7 @@ public class DiagnosisMapper {
     public DiagnoseDto diagnosisToDiagnosisDto(Diagnose diagnose) {
         return new DiagnoseDto(
             diagnose.getId(),
-            diagnose.getPatient() != null ? diagnose.getPatient().getId() : null,
+            diagnose.getPatient() != null ? diagnose.getPatient().getId() : -1,
             diagnose.getDisease(),
             diagnose.getDate(),
             diagnose.getNote()
