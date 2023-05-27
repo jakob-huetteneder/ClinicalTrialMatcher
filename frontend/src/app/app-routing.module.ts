@@ -6,6 +6,10 @@ import {RegisterComponent} from './components/register/register.component';
 import {UserListComponent} from './components/user-list/user-list.component';
 import {RegisterPatientComponent} from './components/register/register-patient/register-patient.component';
 import {PatientDetailComponent} from './components/patient-detail/patient-detail.component';
+import {DiagnoseComponent} from './components/diagnose/diagnose.component';
+import {
+  DiagnoseCreateEditMode
+} from './components/diagnose/diagnose.component';
 import {
   CreateEditExaminationComponent
 } from './components/examination/create-edit-examination/create-edit-examination.component';
@@ -25,9 +29,17 @@ const routes: Routes = [
   },
   {path: 'patient', children: [
     {path: '', component: PatientDetailComponent},
-    {path: ':id', component: PatientDetailComponent},
-    {path: ':id/examination', component: CreateEditExaminationComponent, data: {mode: ExaminationCreateEditMode.create}},
-    {path: ':id/examination/:eid', component: CreateEditExaminationComponent, data: {mode: ExaminationCreateEditMode.edit}},
+    {path: ':id', children: [
+      {path: '', component: PatientDetailComponent},
+      {path: 'examination', children: [
+        {path: '', component: CreateEditExaminationComponent, data: {mode: ExaminationCreateEditMode.create}},
+        {path: ':eid', component: CreateEditExaminationComponent, data: {mode: ExaminationCreateEditMode.edit}},
+      ]},
+        {path: 'diagnose', children: [
+          {path: '', component: DiagnoseComponent, data: {mode: DiagnoseCreateEditMode.create}},
+          {path: ':did', component: DiagnoseComponent, data: {mode: DiagnoseCreateEditMode.edit}},
+        ]},
+    ]},
   ]},
   {path: '**', redirectTo: ''},
 ];

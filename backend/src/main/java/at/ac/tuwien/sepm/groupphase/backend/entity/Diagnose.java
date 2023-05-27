@@ -39,6 +39,15 @@ public class Diagnose {
     @Column(name = "note")
     private String note;
 
+    public Long getId() {
+        return id;
+    }
+
+    public Diagnose setId(Long id) {
+        this.id = id;
+        return this;
+    }
+
     @JsonBackReference
     public Patient getPatient() {
         return patient;

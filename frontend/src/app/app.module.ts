@@ -20,6 +20,7 @@ import { PatientDetailComponent } from './components/patient-detail/patient-deta
 import {
   CreateEditExaminationComponent
 } from './components/examination/create-edit-examination/create-edit-examination.component';
+import { DiagnoseComponent } from './components/diagnose/diagnose.component';
 
 @NgModule({
   declarations: [
@@ -33,7 +34,8 @@ import {
     RegisterPatientComponent,
     AutocompleteComponent,
     PatientDetailComponent,
-    CreateEditExaminationComponent
+    CreateEditExaminationComponent,
+    DiagnoseComponent
   ],
   imports: [
     BrowserModule,

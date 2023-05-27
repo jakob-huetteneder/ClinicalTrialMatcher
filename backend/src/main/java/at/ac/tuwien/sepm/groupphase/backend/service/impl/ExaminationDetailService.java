@@ -47,7 +47,7 @@ public class ExaminationDetailService implements ExaminationService {
         ApplicationUser loggedInUser = userRepository.findById(authorizationService.getSessionUserId())
             .orElseThrow(() -> new NotFoundException("Could not find a user for the logged in user."));
         if (!(loggedInUser instanceof Doctor)) {
-            throw new NotFoundException("Could not find a researcher for the logged in user.");
+            throw new NotFoundException("Could not find a doctor for the logged in user.");
         }
         Examination patientExamination = examinationRepository.save(examinationMapper.patientExaminationDtotoExamination(examinationDto));
         LOGGER.debug("Result: " + patientExamination);

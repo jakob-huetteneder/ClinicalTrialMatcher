@@ -1,49 +1,49 @@
 import {ActivatedRoute, Router} from '@angular/router';
 import {Component, OnInit} from '@angular/core';
 import {NgModel} from '@angular/forms';
-import {Examination} from '../../../dtos/patient';
-import {ExaminationService} from 'src/app/services/examination.service';
-import {Observable} from 'rxjs';
-
-export enum ExaminationCreateEditMode {
+import {Diagnose, Disease, Examination} from '../../dtos/patient';
+import {DiagnoseService} from 'src/app/services/diagnose.service';
+import {DiseaseService} from 'src/app/services/disease.service';
+import {Observable, of} from 'rxjs';
+export enum DiagnoseCreateEditMode {
   create,
   edit,
 };
 
 @Component({
-  selector: 'app-create-edit-examination',
-  templateUrl: './create-edit-examination.component.html',
-  styleUrls: ['./create-edit-examination.component.scss']
+  selector: 'app-diagnose',
+  templateUrl: './diagnose.component.html',
+  styleUrls: ['./diagnose.component.scss']
 })
-export class CreateEditExaminationComponent implements OnInit {
-  mode: ExaminationCreateEditMode = ExaminationCreateEditMode.create;
-  exam: Examination = {
-    date: undefined,
-    name: '',
+export class DiagnoseComponent implements OnInit{
+  mode: DiagnoseCreateEditMode = DiagnoseCreateEditMode.create;
+  diagnosis: Diagnose = {
+    id: undefined,
+    disease: undefined,
     note: '',
-    type: '',
-    patientId: undefined
+    date: undefined,
   };
 
   constructor(
     private router: Router,
     private route: ActivatedRoute,
-    private service: ExaminationService
+    private service: DiagnoseService,
+    private diseaseService: DiseaseService
   ) {
   }
 
   get modeIsCreate(): boolean {
-    return this.mode === ExaminationCreateEditMode.create;
+    return this.mode === DiagnoseCreateEditMode.create;
   }
 
 
   public get heading(): string {
     console.log(this.mode);
     switch (this.mode) {
-      case ExaminationCreateEditMode.create:
-        return 'Add New Examination';
-      case ExaminationCreateEditMode.edit:
-        return 'Edit Examination';
+      case DiagnoseCreateEditMode.create:
+        return 'Add New Diagnosis';
+      case DiagnoseCreateEditMode.edit:
+        return 'Edit Diagnosis';
       default:
         return '?';
     }
@@ -51,9 +51,9 @@ export class CreateEditExaminationComponent implements OnInit {
 
   private get modeActionFinished(): string {
     switch (this.mode) {
-      case ExaminationCreateEditMode.create:
+      case DiagnoseCreateEditMode.create:
         return 'created';
-      case ExaminationCreateEditMode.edit:
+      case DiagnoseCreateEditMode.edit:
         return 'edited';
       default:
         return '?';
@@ -65,13 +65,13 @@ export class CreateEditExaminationComponent implements OnInit {
     });
     this.route.params.subscribe(
       params => {
-        this.exam.patientId = params.id;
+        this.diagnosis.patientId = params.id;
         if (!this.modeIsCreate) {
-          this.exam.id = params.eid;
+          this.diagnosis.id = params.did;
           this.load();
         }
       });
-    console.log(this.exam);
+    console.log(this.diagnosis);
   }
   public dynamicCssClassesForInput(input: NgModel): any {
     return {
@@ -82,12 +82,18 @@ export class CreateEditExaminationComponent implements OnInit {
     };
   }
 
-  public tmp(): void {
-    console.log(this.exam);
+  public formatDiseaseName(disease: Disease | null | undefined): string {
+    return (disease == null)
+      ? ''
+      : `${disease.name}`;
   }
 
+  diseaseSuggestions = (input: string) => (input === '')
+    ? of([])
+    : this.diseaseService.searchByName(input, 5);
+
   public buttonstyle(): string {
-    if (this.exam.type === '' || this.exam.name === '' || this.exam.note === '' || this.exam.date === undefined) {
+    if (this.diagnosis.disease === undefined || this.diagnosis.note === '' || this.diagnosis.date === undefined) {
       return 'bg-gray-400';
     } else {
       return 'transition ease-in-out delay-100 duration-300 bg-blue-500 '
@@ -96,7 +102,7 @@ export class CreateEditExaminationComponent implements OnInit {
   }
 
   public cancelbuttonstyle(): string {
-    if (!(this.exam.type === '' || this.exam.name === '' || this.exam.note === '' || this.exam.date === undefined)) {
+    if (!(this.diagnosis.disease === undefined || this.diagnosis.note === '' || this.diagnosis.date === undefined)) {
       return 'transition ease-in-out delay-100 duration-300 bg-gray-400 '
         + 'hover:-translate-y-0 hover:scale-110 hover:bg-gray-500 hover:cursor-pointer';
     } else {
@@ -106,40 +112,40 @@ export class CreateEditExaminationComponent implements OnInit {
   }
 
   public disable(): boolean {
-    return this.exam.type === '' || this.exam.name === '' || this.exam.note === '' || this.exam.date === undefined;
+    return (this.diagnosis.disease === undefined || this.diagnosis.note === '' || this.diagnosis.date === undefined);
   }
 
   public load(): void {
-    console.log('is id valid?', this.exam);
-    this.service.load(this.exam.id, this.exam.patientId).subscribe({
+    console.log('is id valid?', this.diagnosis);
+    this.service.load(this.diagnosis.id, this.diagnosis.patientId).subscribe({
       next: data => {
-        this.exam = data;
+        this.diagnosis = data;
         //this.notification.success(`Horse ${this.horse.name} successfully loaded.`);
       },
       error: error => {
-        console.error('Error loading examination', error);
+        console.error('Error loading diagnosis', error);
         //this.notification.error(error.error.errors, `Horse ${this.horse.name} could not be loaded`);
       }
     });
   }
 
   submit() {
-    let observable: Observable<Examination>;
+    let observable: Observable<Diagnose>;
     switch (this.mode) {
-      case ExaminationCreateEditMode.create:
-        observable = this.service.addNewExamination(this.exam);
+      case DiagnoseCreateEditMode.create:
+        observable = this.service.addNewDiagnosis(this.diagnosis);
         break;
-      case ExaminationCreateEditMode.edit:
-        observable = this.service.updateExamination(this.exam);
+      case DiagnoseCreateEditMode.edit:
+        observable = this.service.updateDiagnosis(this.diagnosis);
         break;
       default:
-        console.error('Unknown ExaminationCreateEditMode', this.mode);
+        console.error('Unknown DiagnoseCreateEditMode', this.mode);
         return;
     }
     observable.subscribe({
       next: data => {
         //this.notification.success(`Examination ${this.exam.name} successfully ${this.modeActionFinished}.`);
-        this.router.navigate(['/patient/' + this.exam.patientId]);
+        this.router.navigate(['/patient/' + this.diagnosis.patientId]);
       },
       error: error => {
         console.error('Error creating/editing examination', error);
@@ -149,10 +155,10 @@ export class CreateEditExaminationComponent implements OnInit {
   }
 
   delete() {
-    console.log('is id valid?', this.exam);
-    this.service.delete(this.exam.id, this.exam.patientId).subscribe({
+    console.log('is id valid?', this.diagnosis);
+    this.service.delete(this.diagnosis.id, this.diagnosis.patientId).subscribe({
       next: data => {
-        this.exam = data;
+        this.diagnosis = data;
         //this.notification.success(`Horse ${this.horse.name} successfully loaded.`);
       },
       error: error => {
@@ -162,3 +168,4 @@ export class CreateEditExaminationComponent implements OnInit {
     });
   }
 }
+

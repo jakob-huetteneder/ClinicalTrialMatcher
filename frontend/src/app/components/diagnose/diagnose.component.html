@@ -1,0 +1,59 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <title>Add Examination</title>
+</head>
+
+<div class="whitebox flex justify-center container mt-10">
+  <div class="fw-bold grid grid-cols-1 justify-items-center container mt-3 ml-3">
+    <div class="text-lg">{{heading}}</div>
+  </div>
+  <hr class="container">
+
+  <div class="container flex flex-col">
+    <div class="flex flex-col">
+      <div class="flex md:flex-row flex-col">
+        <div class="flex flex-col flex-1">
+          <app-autocomplete
+            class="flex-1 flex flex-row"
+            name="disease"
+            valueNeedsToMatchSuggestion="true"
+            [(ngModel)]="diagnosis.disease"
+            [formatModel]="formatDiseaseName"
+            [suggestions]="diseaseSuggestions"
+          ></app-autocomplete>
+        </div>
+        <div class="flex flex-col flex-1">
+          <input type="date" placeholder="Date of Examination" class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 inputfield border-0"
+                 [class]="dynamicCssClassesForInput(examDate)"
+                 [(ngModel)]="diagnosis.date" #examDate="ngModel">
+        </div>
+      </div>
+      <div class="flex flex-col flex-1">
+          <textarea maxlength="1000" class="mr-2 h-10 mb-2 inputfield border-0 min-h-[5rem]"
+                    placeholder="Enter the examination notes for your patient"
+                    [class]="dynamicCssClassesForInput(examNote)"
+                    [(ngModel)]="diagnosis.note" #examNote="ngModel"></textarea>
+      </div>
+    </div>
+  </div>
+
+  <div class="flex flex-row container" style="justify-content: space-between;">
+    <div>
+      <button (click)="submit()" [disabled]="disable()"
+              class="{{buttonstyle()}} rounded w-35 p-2 mt-2 h-10 text-white">
+        Submit Examination
+      </button>
+      <button routerLink="/patient/{{this.diagnosis.patientId}}"
+              class="{{cancelbuttonstyle()}} rounded w-35 p-2 mt-2 ml-3 h-10 text-white">
+        Cancel
+      </button>
+    </div>
+    <button (click)="delete()" routerLink="/patient/{{this.diagnosis.patientId}}"
+            class="transition ease-in-out delay-100 duration-300 bg-red-500 rounded w-35 p-2 mt-2 mr-2 h-10 text-white
+                  hover:-translate-y-0 hover:scale-110 hover:bg-red-400 hover:cursor-pointer">
+      Delete
+    </button>
+  </div>
+</div>
