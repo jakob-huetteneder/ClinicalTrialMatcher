@@ -1,3 +1,67 @@
 .jumbotron {
   background: none
 }
+
+.whitebox {
+  /* White Box */
+
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 40px !important;
+  gap: 10px;
+
+  background: #FFFFFF;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+hr {
+  border: 0;
+  clear:both;
+  display:block;
+  width: 96%;
+  background-color:#CDE2F0;
+  height: 4px;
+}
+
+.inputfield {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  border-radius: 2px;
+  padding: 4px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+}
+
+::placeholder {
+  color: #235491;
+  font-size: 14px;
+  opacity: 60%;
+  font-weight: normal;
+}
+
+.text-in-button {
+  /* Resources */
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  padding-right: 8px;
+  /* identical to box height, or 100% */
+
+  color: #162E51;
+}
+
+.text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 30px;
+}

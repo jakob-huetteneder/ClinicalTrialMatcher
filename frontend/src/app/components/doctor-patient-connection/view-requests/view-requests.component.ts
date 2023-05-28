@@ -9,7 +9,9 @@ import {TreatsService} from '../../../services/treats.service';
 })
 export class ViewRequestsComponent implements OnInit {
 
-  requests: Treats[] = [];
+  requested: Treats[] = [];
+  accepted: Treats[] = [];
+  declined: Treats[] = [];
 
   constructor(
     private treatsService: TreatsService,
@@ -30,7 +32,9 @@ export class ViewRequestsComponent implements OnInit {
   private loadTreats() {
     this.treatsService.getAllRequests().subscribe({
       next: (requests: Treats[]) => {
-        this.requests = requests.filter(request => request.status === TreatsStatus.requested);
+        this.requested = requests.filter(request => request.status === TreatsStatus.requested);
+        this.accepted = requests.filter(request => request.status === TreatsStatus.accepted);
+        this.declined = requests.filter(request => request.status === TreatsStatus.declined);
         console.log(requests);
       },
       error: error => {
@@ -40,6 +44,7 @@ export class ViewRequestsComponent implements OnInit {
   }
 
   private respondToRequest(request: Treats, accept: boolean) {
+    console.log(request);
     this.treatsService.respondToRequest(request.doctor.id, accept).subscribe({
       next: () => {
         this.loadTreats();

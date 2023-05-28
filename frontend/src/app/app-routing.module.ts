@@ -25,13 +25,13 @@ const routes: Routes = [
   },
   {path: 'patient', children: [
       {path: 'requests', component: ViewRequestsComponent},
-      {path: 'connections', component: ViewConnectionsComponent, data: {role: Role.patient}},
+      //{path: 'connections', component: ViewConnectionsComponent, data: {role: Role.patient}},
       {path: ':id', component: PatientDetailComponent}, // must be last, otherwise the path 'requests' will be interpreted as an id
-    ]},
+  ]},
   {path: 'doctor', children: [
       {path: 'request-patient', component: RequestPatientComponent},
       {path: 'my-patients', component: ViewConnectionsComponent, data: {role: Role.doctor}},
-    ]},
+  ]},
   {path: '**', redirectTo: ''},
 ];
 

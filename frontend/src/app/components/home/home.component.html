@@ -1,11 +1,37 @@
 <div class="jumbotron mt-5">
-  <h1 class="display-4" i18n>Welcome to the SEPM group phase!</h1>
-  <hr class="my-4">
-  <a *ngIf="!authService.isLoggedIn()" class="btn btn-primary btn-lg" routerLink="/login" role="button">Login</a>
-  <div *ngIf="authService.isLoggedIn()">
-    <p i18n>Check out the latest message from the SEPM group phase.</p>
-    <p class="lead">
-      <a class="btn btn-primary btn-lg" routerLink="/message" role="button" i18n>Message</a>
-    </p>
+
+  <div class="fw-bold grid grid-cols-1 justify-items-center container ml-3 text-in-button">
+    <div class="text-xl mb-6">ClinicalMatcher is a place to learn about clinical studies from around the world.</div>
   </div>
+
+
+  <div class="whitebox flex justify-center text-in-button mb-10">
+    <div class="flex flex-row container w-full">
+      <div class="flex flex-row w-full font-medium text-blue-950" style="align-items: center;">
+        <i class="bi-search opacity-60" style="color: #235491"></i>
+        <input id="q" name="q" class="max-h-[2.5rem] my-0 inputfield mx-4"
+               placeholder="What are you looking for today?">
+      </div>
+      <div class="w-full" style="align-items: center; max-width: 321px !important;">
+        <button class="bi-x-lg mr-4" style="color:#1e5075" onclick="q.value = '';"></button>
+        <button class="flex-initial bg-blue-300 rounded w-35 py-2 px-4 text-blue-900 font-semibold border-blue-950 drop-shadow-sm ml-2 text-sm"
+                onclick="window.location.href=`/#/?q=${q.value}`" routerLinkActive="active">Search
+        </button>
+        <button class="flex-initial bg-blue-50 rounded w-35 py-2 px-4 text-blue-900 font-semibold border-blue-950 drop-shadow-sm ml-2 text-sm"
+                routerLink="/login" routerLinkActive="active">Advanced Filters <i class="bi-chevron-right"></i>
+        </button>
+      </div>
+    </div>
+    <hr class="mt-0 ml-4 mb-4 w-full" style="border: 2px solid #CDE2F0;">
+
+    <div class="font-bold">What is clinical matcher?</div>
+    <div class="text" id="li" [innerHTML]="lipsum">
+    </div>
+    <button id="moreInfo" class="flex-initial bg-blue-100 rounded py-0 px-2 text-blue-500 font-light border-blue-950 drop-shadow-sm text"
+            (click)="moreInfo()"
+            routerLinkActive="active">More Info
+    </button>
+  </div>
+
+  <a *ngIf="!authService.isLoggedIn()" class="btn btn-primary btn-lg opacity-0" routerLink="/login" role="button">Login</a>
 </div>
