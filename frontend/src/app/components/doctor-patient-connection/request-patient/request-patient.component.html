@@ -1,50 +1,78 @@
-<table class="table-auto container">
-  <thead>
-  <tr>
-    <th>First Name</th>
-    <th>Last Name</th>
-    <th>Birthday</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr *ngFor="let patient of patients">
-    <td>{{patient.firstName}}</td>
-    <td>{{patient.lastName}}</td>
-    <td>{{patient.birthdate}}</td>
-    <td><div class="btn-group">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <title>View Requests</title>
+</head>
 
-      <button
-         *ngIf="patient.treats === null"
-         class="btn btn-sm btn-primary"
-         (click)="requestUser(patient)"
-         aria-label="Request to treat this user">
-        <i class="bi bi-clipboard-plus"></i>
-      </button>
+<div class="fw-bold grid grid-cols-1 justify-items-center container ml-3 text-in-button">
+  <div class="text-xl mb-3 mt-3"></div>
+</div>
 
-      <button
-        *ngIf="patient.treats !== null && patient.treats.status === 'REQUESTED'"
-        class="btn btn-sm btn-warning "
-        aria-label="Waiting on user to accept request"
-        disabled>
-        <i class="bi bi-hourglass"></i>
-      </button>
-      <button
-        *ngIf="patient.treats !== null && patient.treats.status === 'ACCEPTED'"
-        class="btn btn-sm btn-success"
-        aria-label="User accepted request"
-        disabled>
-        <i class="bi bi-check"></i>
-      </button>
-      <button
-        *ngIf="patient.treats !== null && patient.treats.status === 'DECLINED'"
-        class="btn btn-sm btn-danger"
-        aria-label="User rejected request"
-        disabled>
-        <i class="bi bi-x"></i>
-      </button>
-
+<div class="whitebox flex flex-column justify-center text-in-button my-10">
+  <div class="hidden flex-row container w-full">
+    <div class="flex flex-row w-full justify-between" style="align-items: center;">
+      <button class="text-blue-400 hover:text-blue-600">Edit Favourites</button>
+      <button class="text-red-400 hover:text-red-600">Clear List</button>
     </div>
-    </td>
-  </tr>
-  </tbody>
-</table>
+  </div>
+  <div class="flex flex-row container w-full mb-2">
+    <div class="flex flex-row w-full text-blue-950 bg-blue-50" style="align-items: center; border-radius: 4px;">
+      <i class="bi-search opacity-60 ml-4" style="color: #235491"></i>
+      <input id="q" name="q" class="max-h-[2.5rem] my-0 inputfield mx-4 bg-blue-50"
+             placeholder="Search in Current List">
+    </div>
+    <button class="bi-funnel-fill ml-4" style="color:#1e5075" onclick="q.value = '';"></button>
+  </div>
+  <hr class="mt-0 ml-4 w-full" style="border: 2px solid #CDE2F0;">
+  <table class="container w-fit">
+    <thead>
+    <th style="font-weight: 600">First Name</th>
+    <th style="font-weight: 600">Last Name</th>
+    <th style="font-weight: 600">Birthday</th>
+    </thead>
+    <tbody>
+    <tr *ngFor="let patient of patients"
+        [routerLink]="patient.treats !== null && patient.treats.status === 'ACCEPTED' ? ['/patient', patient.id] : []"
+        [ngStyle]="{'cursor': (patient.treats !== null && patient.treats.status === 'ACCEPTED') ? 'pointer' : 'regular'}">
+      <td>{{patient.firstName}}</td>
+      <td>{{patient.lastName}}</td>
+      <td>{{patient.birthdate}}</td>
+      <td style="width: 62px;">
+
+        <button
+          *ngIf="patient.treats === null"
+          class="flex-initial bg-blue-100 rounded w-fit py-2 px-4 text-blue-700 font-semibold border-blue-700 drop-shadow-sm text-sm"
+          (click)="requestUser(patient)"
+          aria-label="Request to treat this user">
+          <i class="bi bi-clipboard-plus"></i>
+        </button>
+
+        <button
+          *ngIf="patient.treats !== null && patient.treats.status === 'REQUESTED'"
+          class="flex-initial bg-orange-100 rounded w-fit py-2 px-4 text-orange-700 font-semibold border-orange-700 drop-shadow-sm text-sm"
+          aria-label="Waiting on user to accept request"
+          disabled>
+          <i class="bi bi-hourglass"></i>
+        </button>
+        <button
+          *ngIf="patient.treats !== null && patient.treats.status === 'ACCEPTED'"
+          class="flex-initial bg-green-100 rounded w-fit py-2 px-4 text-green-700 font-semibold border-green-700 drop-shadow-sm text-sm"
+          aria-label="User accepted request"
+          disabled>
+          <i class="bi bi-check"></i>
+        </button>
+        <button
+          *ngIf="patient.treats !== null && patient.treats.status === 'DECLINED'"
+          class="flex-initial bg-red-100 rounded w-fit py-2 px-4 text-red-700 font-semibold border-red-700 drop-shadow-sm text-sm"
+          aria-label="User rejected request"
+          disabled>
+          <i class="bi bi-x"></i>
+        </button>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+
