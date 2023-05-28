@@ -30,7 +30,7 @@ const routes: Routes = [
   ]},
   {path: 'doctor', children: [
       {path: 'request-patient', component: RequestPatientComponent},
-      {path: 'my-patients', component: ViewConnectionsComponent, data: {role: Role.doctor}},
+      //{path: 'my-patients', component: ViewConnectionsComponent, data: {role: Role.doctor}},
   ]},
   {path: '**', redirectTo: ''},
 ];

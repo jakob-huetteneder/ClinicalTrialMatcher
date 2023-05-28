@@ -68,7 +68,6 @@ export class UserListComponent implements OnInit {
 
   discardEditUser(user: User) {
     console.log('Discard user: ' + user.email);
-
     this.resetUser(user.id);
   }
 
