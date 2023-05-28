@@ -1,7 +1,9 @@
 package at.ac.tuwien.sepm.groupphase.backend.endpoint;
 
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.DiseaseDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientRequestDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.SearchDto;
 import at.ac.tuwien.sepm.groupphase.backend.security.AuthorizationService;
 import at.ac.tuwien.sepm.groupphase.backend.service.impl.PatientServiceImpl;
 import jakarta.annotation.security.PermitAll;
@@ -21,6 +23,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.lang.invoke.MethodHandles;
 import java.util.List;
+import java.util.stream.Stream;
 
 
 @RestController

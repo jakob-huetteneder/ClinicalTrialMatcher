@@ -1,7 +1,7 @@
 package at.ac.tuwien.sepm.groupphase.backend.endpoint;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.DiseaseDto;
-import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.DiseaseSearchDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.SearchDto;
 import at.ac.tuwien.sepm.groupphase.backend.service.DiseasesService;
 import jakarta.annotation.security.PermitAll;
 import org.slf4j.Logger;
@@ -30,7 +30,7 @@ public class DiseasesEndpoint {
 
     @PermitAll
     @GetMapping()
-    public Stream<DiseaseDto> search(DiseaseSearchDto searchParameters) {
+    public Stream<DiseaseDto> search(SearchDto searchParameters) {
         LOG.info("GET " + BASE_PATH + " query parameters: {}", searchParameters);
         return service.search(searchParameters);
     }

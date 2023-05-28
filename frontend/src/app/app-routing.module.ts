@@ -53,6 +53,8 @@ const routes: Routes = [
     canActivateChild: [AuthGuard],
     children: [
       {path: 'register-patient', component: RegisterPatientComponent},
+      {path: 'request-patient', component: RequestPatientComponent},
+      {path: 'my-patients', component: ViewConnectionsComponent, data: {role: Role.doctor}},
       {path: 'view-patient/:id', children: [
           {path: '', component: PatientDetailComponent},
           {path: 'examination', children: [
