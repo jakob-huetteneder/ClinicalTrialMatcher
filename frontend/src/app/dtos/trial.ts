@@ -1,5 +1,6 @@
 import {Gender} from './gender';
 import {Researcher} from './researcher';
+import {TrialStatus} from "./trial-status";
 
 
 export interface Trial {
@@ -13,7 +14,7 @@ export interface Trial {
   detailedSummary: string;
   sponsor: string;
   collaborator: string;
-  status: string;
+  status: TrialStatus;
   location: string;
   crGender: Gender;
   crMinAge: number;

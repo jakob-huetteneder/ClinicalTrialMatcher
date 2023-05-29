@@ -18,6 +18,7 @@ import { RegisterComponent } from './components/register/register.component';
 import {UserListComponent} from './components/user-list/user-list.component';
 import {ToastrModule} from 'ngx-toastr';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
+import {EditTrialComponent} from './components/trial/trial-edit/trial-edit.component';
 
 @NgModule({
   declarations: [
@@ -28,6 +29,7 @@ import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
     LoginComponent,
     TrialComponent,
     CreateTrialComponent,
+    EditTrialComponent,
     RegisterComponent,
     UserListComponent,
   ],

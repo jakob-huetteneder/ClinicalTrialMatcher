@@ -24,6 +24,7 @@ import java.util.Arrays;
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
@@ -61,7 +62,7 @@ public class TrialEndpointTest {
             }
         };
         MvcResult mvcResult = this.mockMvc.perform(get(TRIAL_BASE_URI)
-                .header(securityProperties.getAuthHeader(), jwtTokenizer.getAuthToken(trial.getId().toString(), roles)))
+                .header(securityProperties.getAuthHeader(), jwtTokenizer.getAuthToken(trial.getResearcher().getId().toString(), roles)))
             .andDo(print())
             .andReturn();
         MockHttpServletResponse response = mvcResult.getResponse();
@@ -82,7 +83,7 @@ public class TrialEndpointTest {
             }
         };
         MvcResult mvcResult = this.mockMvc.perform(get(TRIAL_BASE_URI)
-                .header(securityProperties.getAuthHeader(), jwtTokenizer.getAuthToken(trial.getId().toString(), userRoles)))
+                .header(securityProperties.getAuthHeader(), jwtTokenizer.getAuthToken(trial.getResearcher().getId().toString(), userRoles)))
             .andDo(print())
             .andReturn();
         MockHttpServletResponse response = mvcResult.getResponse();
@@ -98,6 +99,44 @@ public class TrialEndpointTest {
             .andReturn();
         MockHttpServletResponse response = mvcResult.getResponse();
         assertEquals(HttpStatus.UNAUTHORIZED.value(), response.getStatus());
+    }
+
+    @Test
+    public void testPostValidTrial() throws Exception {
+        Trial trial = trialDataGenerator.generateTrial();
+
+        List<String> userRoles = new ArrayList<>() {
+            {
+                add("ROLE_RESEARCHER");
+            }
+        };
+        MvcResult mvcResult = this.mockMvc.perform(post(TRIAL_BASE_URI)
+                .contentType(MediaType.APPLICATION_JSON)
+                .content(objectMapper.writeValueAsString(trial))
+                .header(securityProperties.getAuthHeader(), jwtTokenizer.getAuthToken(trial.getResearcher().getId().toString(), userRoles)))
+            .andDo(print())
+            .andReturn();
+        MockHttpServletResponse response = mvcResult.getResponse();
+        assertEquals(HttpStatus.CREATED.value(), response.getStatus());
+    }
+
+    @Test
+    public void testPostInvalidTrial() throws Exception {
+        Trial trial = trialDataGenerator.generateTrial();
+        trial.setTitle("");
+        List<String> userRoles = new ArrayList<>() {
+            {
+                add("ROLE_RESEARCHER");
+            }
+        };
+        MvcResult mvcResult = this.mockMvc.perform(post(TRIAL_BASE_URI)
+                .contentType(MediaType.APPLICATION_JSON)
+                .content(objectMapper.writeValueAsString(trial))
+                .header(securityProperties.getAuthHeader(), jwtTokenizer.getAuthToken(trial.getResearcher().getId().toString(), userRoles)))
+            .andDo(print())
+            .andReturn();
+        MockHttpServletResponse response = mvcResult.getResponse();
+        assertEquals(HttpStatus.UNPROCESSABLE_ENTITY.value(), response.getStatus());
     }
 
 

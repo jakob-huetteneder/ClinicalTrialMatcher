@@ -19,23 +19,23 @@ public class ApplicationUser {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    public Long id;
+    private Long id;
 
     @Column(name = "first_name", nullable = false)
-    public String firstName;
+    private String firstName;
 
     @Column(name = "last_name", nullable = false)
-    public String lastName;
+    private String lastName;
 
     @Column(name = "email", nullable = false)
-    public String email;
+    private String email;
 
     @Column(name = "password", nullable = false)
-    public String password;
+    private String password;
 
     @Column(name = "status", nullable = false)
     @Enumerated(EnumType.ORDINAL)
-    public Status status;
+    private Status status;
 
     public Long getId() {
         return id;

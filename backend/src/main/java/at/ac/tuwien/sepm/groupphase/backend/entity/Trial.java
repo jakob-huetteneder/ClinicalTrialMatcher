@@ -24,7 +24,7 @@ public class Trial {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @Column(name = "title")
+    @Column(name = "title", nullable = false)
     private String title;
 
     @Column(name = "start_date", nullable = false)
@@ -38,28 +38,28 @@ public class Trial {
     @JoinColumn(name = "researcher_id", nullable = false)
     private Researcher researcher;
 
-    @Column(name = "study_type")
+    @Column(name = "study_type", nullable = false)
     private String studyType;
 
-    @Column(name = "brief_summary")
+    @Column(name = "brief_summary", nullable = false)
     private String briefSummary;
 
-    @Column(name = "detailed_summary")
+    @Column(name = "detailed_summary", nullable = false)
     private String detailedSummary;
 
-    @Column(name = "sponsor")
+    @Column(name = "sponsor", nullable = false)
     private String sponsor;
 
-    @Column(name = "collaborator")
+    @Column(name = "collaborator", nullable = false)
     private String collaborator;
 
-    @Column(name = "status")
+    @Column(name = "status", nullable = false)
     private TrialStatus status;
 
-    @Column(name = "location")
+    @Column(name = "location", nullable = false)
     private String location;
 
-    @Column(name = "cr_gender")
+    @Column(name = "cr_gender", nullable = false)
     private Gender crGender;
 
     @Column(name = "cr_min_age")
