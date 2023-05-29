@@ -32,13 +32,11 @@
     <th style="font-weight: 600">Birthday</th>
     </thead>
     <tbody>
-    <tr *ngFor="let patient of patients"
-        [routerLink]="patient.treats !== null && patient.treats.status === 'ACCEPTED' ? ['/patient', patient.id] : []"
-        [ngStyle]="{'cursor': (patient.treats !== null && patient.treats.status === 'ACCEPTED') ? 'pointer' : 'regular'}">
+    <tr *ngFor="let patient of patients">
       <td>{{patient.firstName}}</td>
       <td>{{patient.lastName}}</td>
       <td>{{patient.birthdate}}</td>
-      <td style="width: 62px;">
+      <td style="width: 62px">
 
         <button
           *ngIf="patient.treats === null"
@@ -54,20 +52,6 @@
           aria-label="Waiting on user to accept request"
           disabled>
           <i class="bi bi-hourglass"></i>
-        </button>
-        <button
-          *ngIf="patient.treats !== null && patient.treats.status === 'ACCEPTED'"
-          class="flex-initial bg-green-100 rounded w-fit py-2 px-4 text-green-700 font-semibold border-green-700 drop-shadow-sm text-sm"
-          aria-label="User accepted request"
-          disabled>
-          <i class="bi bi-check"></i>
-        </button>
-        <button
-          *ngIf="patient.treats !== null && patient.treats.status === 'DECLINED'"
-          class="flex-initial bg-red-100 rounded w-fit py-2 px-4 text-red-700 font-semibold border-red-700 drop-shadow-sm text-sm"
-          aria-label="User rejected request"
-          disabled>
-          <i class="bi bi-x"></i>
         </button>
       </td>
     </tr>

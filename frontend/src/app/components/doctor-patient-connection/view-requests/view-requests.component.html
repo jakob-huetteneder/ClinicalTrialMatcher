@@ -80,6 +80,14 @@
       <td>{{request.doctor.firstName}}</td>
       <td>{{request.doctor.lastName}}</td>
       <td>{{request.doctor.email}}</td>
+      <td style="width: 62px;">
+        <button
+          class="flex-initial bg-red-100 rounded w-fit py-2 px-4 text-red-700 font-semibold border-red-700 drop-shadow-sm text-sm"
+          (click)="delete(request)"
+          aria-label="Remove treating relationship">
+          <i class="bi bi-trash"></i>
+        </button>
+      </td>
     </tr>
    </tbody>
 
@@ -99,6 +107,14 @@
       <td>{{request.doctor.firstName}}</td>
       <td>{{request.doctor.lastName}}</td>
       <td>{{request.doctor.email}}</td>
+      <td style="width: 62px;">
+        <button
+          class="flex-initial bg-red-100 rounded w-fit py-2 px-4 text-red-700 font-semibold border-red-700 drop-shadow-sm text-sm"
+          (click)="delete(request)"
+          aria-label="Remove treating relationship">
+          <i class="bi bi-trash"></i>
+        </button>
+      </td>
     </tr>
     </tbody>
   </table>

@@ -1,9 +1,7 @@
 import {Component, OnInit} from '@angular/core';
-import {Patient, PatientRequest} from '../../../dtos/patient';
-import {User} from '../../../dtos/user';
+import {PatientRequest} from '../../../dtos/patient';
 import {PatientService} from '../../../services/patient.service';
 import {TreatsService} from '../../../services/treats.service';
-import {AuthService} from '../../../services/auth.service';
 
 @Component({
   selector: 'app-doctor-patient-match',
@@ -17,7 +15,6 @@ export class RequestPatientComponent implements OnInit {
   constructor(
     private patientService: PatientService,
     private treatsService: TreatsService,
-    private authService: AuthService,
   ) {
   }
 
@@ -44,7 +41,7 @@ export class RequestPatientComponent implements OnInit {
   private loadPatients() {
     this.patientService.getAllPatientsToRequest().subscribe({
       next: (patients: PatientRequest[]) => {
-        this.patients = patients;
+        this.patients = patients.filter(patient =>  patient.treats === null || patient.treats.status === 'REQUESTED');
         console.log(patients);
       },
       error: error => {
@@ -53,5 +50,4 @@ export class RequestPatientComponent implements OnInit {
       }
     });
   }
-
 }
