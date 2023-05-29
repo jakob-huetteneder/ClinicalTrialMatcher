@@ -83,10 +83,10 @@
     </div>-->
     <!-- DOCTOR FUNCTIONS -->
     <div *ngIf="authService.getUserRole() === role.doctor"
-         class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
-      <a class="group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row" *ngIf="authService.isLoggedIn()">
-        <div class="text-in-button mt-1">Manage Patients
-        <i class="bi-chevron-down w-4 text-blue-950 ml-2"></i></div>
+         class="flex-initial single-button no-underline lg:mr-10 max-sm:invisible max-sm:hidden">
+      <a class="no-underline group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row" *ngIf="authService.isLoggedIn()">
+        <div class="no-underline text-in-button mt-1">Manage Patients
+        <i class="bi-chevron-down w-4 text-blue-950 ml-1"></i></div>
         <div
           class="absolute z-[1000] mt-4 hidden list-none overflow-hidden rounded-lg bg-white opacity-85 backdrop-blur-md shadow-md group-hover:block right-0">
           <ul class="w-auto px-2 py-2 mb-0">
@@ -124,24 +124,18 @@
     </div>
 
     <!-- PATIENT FUNCTIONS -->
-    <div *ngIf="authService.getUserRole() === role.patient" class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
-      <a class="group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row">
-        <div class="text-in-button mt-1">Assistance</div>
-        <i class="bi-chevron-down w-4 text-blue-950"></i>
+    <div *ngIf="authService.getUserRole() === role.patient"
+         class="flex-initial single-button no-underline lg:mr-10 max-sm:invisible max-sm:hidden">
+      <a class="no-underline group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row" *ngIf="authService.isLoggedIn()">
+        <div class="no-underline text-in-button mt-1">Assistance
+        <i class="bi-chevron-down w-4 text-blue-950 ml-1"></i></div>
         <div
           class="absolute z-[1000] mt-4 hidden list-none overflow-hidden rounded-lg bg-white opacity-85 backdrop-blur-md shadow-md group-hover:block right-0">
           <ul class="w-auto px-2 py-2 mb-0">
             <li>
-              <a
-                routerLink="/patient/connections"
-                class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
-              >Connected Doctors</a
-              >
-            </li>
-            <li>
               <a routerLink="/patient/requests"
                  class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
-              >View Pending Requests</a
+              >My Doctors</a
               >
             </li>
             <hr
@@ -164,14 +158,14 @@
       <div *ngIf="authService.isLoggedIn()" routerLink="/" class="profile">
         <div class="single-button flex flex-initial">
           <div class="group relative dropdown px-0 cursor-pointer text-base tracking-wide right-0">
-            <div class="profile flex flex-row"><img class="flex-initial mr-1" src="assets/img/UserIcon.svg" alt="profile"> <i class="mt-1 bi-chevron-down ml-2"></i></div>
+            <div class="profile flex flex-row"><img class="flex-initial" src="assets/img/UserIcon.svg" alt="profile"> <i class="mt-1 bi-chevron-down ml-2"></i></div>
             <div
               class="absolute z-[1000] float-left m-0 hidden min-w-max list-none overflow-hidden rounded-lg border-none bg-white bg-clip-padding text-left text-base shadow-lg dark:bg-neutral-700 group-hover:block right-0">
               <ul class="w-auto px-2 py-2 mb-0">
                 <li>
                   <div
                     class="block w-full whitespace-nowrap bg-transparent px-4 py-2 text-sm font-normal text-neutral-700 no-underline"
-                  >Signed in as <b>{{roleString}}</b></div> <!-- TODO: Change to the appropriate Role -->
+                  >Signed in as <b>{{roleString}}</b></div>
                 </li>
                 <hr
                   class="my-1 h-0 border border-t-0 border-solid border-blue-950 opacity-50"/>
@@ -192,6 +186,7 @@
                   <a
                     class="block w-full whitespace-nowrap bg-transparent px-4 py-2 text-sm font-normal text-neutral-700 no-underline"
                     (click)="authService.logoutUser()"
+                    routerLink="/"
                   >Logout</a
                   >
                 </li>

@@ -36,7 +36,6 @@ const routes: Routes = [
     canActivateChild: [AuthGuard],
     children: [
       {path: 'requests', component: ViewRequestsComponent},
-      //{path: 'connections', component: ViewConnectionsComponent, data: {role: Role.patient}},
       {path: ':id', component: PatientDetailComponent}, // must be last, otherwise the path 'requests' will be interpreted as an id
   ]},
   {path: 'doctor',
@@ -46,7 +45,10 @@ const routes: Routes = [
     canActivateChild: [AuthGuard],
     children: [
       {path: 'request-patient', component: RequestPatientComponent},
-      //{path: 'my-patients', component: ViewConnectionsComponent, data: {role: Role.doctor}},
+      {path: 'my-patients', children: [
+          {path: '', component: ViewConnectionsComponent},
+          {path: ':id', component: PatientDetailComponent}, // must be last, otherwise the path 'requests' will be interpreted as an id
+      ]},
   ]},
   {path: '**', redirectTo: ''},
 ];

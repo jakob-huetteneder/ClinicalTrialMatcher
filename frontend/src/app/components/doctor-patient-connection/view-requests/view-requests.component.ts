@@ -28,6 +28,16 @@ export class ViewRequestsComponent implements OnInit {
   decline(request: Treats) {
     this.respondToRequest(request, false);
   }
+  delete(treats: Treats) {
+    this.treatsService.deleteTreats(treats.doctor.id).subscribe({
+      next: () => {
+        this.loadTreats();
+      },
+      error: error => {
+        console.log('Something went wrong while deleting connection: ' + error.error.message);
+      }
+    });
+  }
 
   private loadTreats() {
     this.treatsService.getAllRequests().subscribe({
