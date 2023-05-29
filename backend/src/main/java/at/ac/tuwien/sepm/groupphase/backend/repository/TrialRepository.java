@@ -11,4 +11,7 @@ public interface TrialRepository extends JpaRepository<Trial, Long> {
 
     List<Trial> getTrialByResearcher_Id(Long id);
 
+
+    Trial findByTitle(String title);
+
 }

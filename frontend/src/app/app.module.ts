@@ -14,12 +14,13 @@ import {httpInterceptorProviders} from './interceptors';
 import {NgOptimizedImage} from '@angular/common';
 import {TrialComponent} from './components/trial/trial.component';
 import {CreateTrialComponent} from './components/trial/trial-create/trial-create.component';
-import { RegisterComponent } from './components/register/register.component';
-import { UpdateProfileComponent } from './components/update-profile/update-profile.component';
+import {RegisterComponent} from './components/register/register.component';
+import {UpdateProfileComponent} from './components/update-profile/update-profile.component';
 import {UserListComponent} from './components/user-list/user-list.component';
 import {ToastrModule} from 'ngx-toastr';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
-import { DeletePopupComponent } from './components/delete-popup/delete-popup.component';
+import {DeletePopupComponent} from './components/delete-popup/delete-popup.component';
+import {EditTrialComponent} from './components/trial/trial-edit/trial-edit.component';
 
 @NgModule({
   declarations: [
@@ -31,6 +32,7 @@ import { DeletePopupComponent } from './components/delete-popup/delete-popup.com
     TrialComponent,
     CreateTrialComponent,
     UpdateProfileComponent,
+    EditTrialComponent,
     RegisterComponent,
     UserListComponent,
     DeletePopupComponent,

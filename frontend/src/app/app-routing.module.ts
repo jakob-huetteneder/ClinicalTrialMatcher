@@ -7,6 +7,7 @@ import {CreateTrialComponent} from './components/trial/trial-create/trial-create
 import {RegisterComponent} from './components/register/register.component';
 import {UserListComponent} from './components/user-list/user-list.component';
 import {UpdateProfileComponent} from './components/update-profile/update-profile.component';
+import {EditTrialComponent} from './components/trial/trial-edit/trial-edit.component';
 
 const routes: Routes = [
   {path: '', component: HomeComponent},
@@ -16,6 +17,7 @@ const routes: Routes = [
   {path: 'trials', children: [
       {path: '' , component: TrialComponent},
       {path: 'create', component: CreateTrialComponent},
+      {path: 'edit/:id', component: EditTrialComponent},
     ]},
   {path: 'user-overview', component: UserListComponent},
   {

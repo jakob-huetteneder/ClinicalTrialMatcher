@@ -1,5 +1,6 @@
 package at.ac.tuwien.sepm.groupphase.backend.endpoint.exceptionhandler;
 
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.exception.IllegalArgumentExceptionDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.exception.NotFoundExceptionDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.exception.ValidationExceptionDto;
 import at.ac.tuwien.sepm.groupphase.backend.exception.NotFoundException;
@@ -45,4 +46,15 @@ public class GlobalExceptionHandler {
 
         return new ValidationExceptionDto("The input is not valid.", errors);
     }
+
+    @ExceptionHandler(value = {IllegalArgumentException.class})
+    @ResponseStatus(HttpStatus.BAD_REQUEST)
+    @ResponseBody
+    public IllegalArgumentExceptionDto handleIllegalArgumentException(IllegalArgumentException illegalArgumentException) {
+
+        LOGGER.info("IllegalArgumentException: {}", illegalArgumentException.getMessage());
+
+        return new IllegalArgumentExceptionDto(illegalArgumentException.getMessage());
+    }
+
 }

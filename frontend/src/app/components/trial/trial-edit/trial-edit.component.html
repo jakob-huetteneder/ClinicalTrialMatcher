@@ -1,6 +1,6 @@
 <div class="whitebox flex justify-center container mt-5">
   <div class="fw-bold grid grid-cols-1 justify-items-center container mt-3 ml-3">
-    <div class="text-2xl">Create Clinical Trial</div>
+    <div class="text-2xl">Edit Clinical Trial</div>
   </div>
 
   <hr class="container">
@@ -107,8 +107,8 @@
       </div>
       <div class="flex flex-col flex-1">
         <textarea id="text" name="text" class="ml-5 mr-5 h-15 mb-2 mt-2 inputfield border-0"
-               [class]="dynamicCssClassesForInput(pwdModel)"
-               [(ngModel)]="trial.detailedSummary" #pwdModel="ngModel"></textarea>
+                  [class]="dynamicCssClassesForInput(pwdModel)"
+                  [(ngModel)]="trial.detailedSummary" #pwdModel="ngModel"></textarea>
       </div>
     </div>
   </div>
@@ -179,7 +179,7 @@
 
 
   <div class="d-flex flex-row justify-content-between">
-    <button (click)="createTrial()" [disabled]="disable()" class="{{buttonstyle()}} rounded w-35 p-2 mt-2 h-10 text-white">
+    <button (click)="editTrial()" [disabled]="disable()" class="{{buttonstyle()}} rounded w-35 p-2 mt-2 h-10 text-white">
       Create
     </button>
     <div class="d-inline-flex align-items-center gap-1">

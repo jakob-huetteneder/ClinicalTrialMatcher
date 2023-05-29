@@ -8,3 +8,10 @@ body {
   width: 100vw;
   height: 100vw;
 }
+@import 'ngx-toastr/toastr';
+
+#toast-container {
+  position: fixed;
+  z-index: 999999;
+  /*overrides*/
+}

@@ -4,6 +4,7 @@ import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.TrialDto;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Trial;
 import at.ac.tuwien.sepm.groupphase.backend.service.impl.TrialServiceImpl;
 import jakarta.annotation.security.PermitAll;
+import jakarta.validation.Valid;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
@@ -35,7 +36,7 @@ public class TrialEndpoint {
     @Secured("ROLE_RESEARCHER")
     @ResponseStatus(HttpStatus.CREATED)
     @PostMapping
-    public TrialDto saveTrial(@RequestBody TrialDto trial) {
+    public TrialDto saveTrial(@RequestBody @Valid TrialDto trial) {
         LOG.info("Insert trial");
         LOG.info("request Body ({},{}, Researcher: {},{})", trial.briefSummary(), trial.id(), trial.researcher().getId(), trial.researcher().getFirstName());
 
@@ -58,7 +59,7 @@ public class TrialEndpoint {
         return trialService.getOwnTrials();
     }
 
-    @PermitAll
+    @Secured("ROLE_RESEARCHER")
     @ResponseStatus(HttpStatus.OK)
     @GetMapping()
     public List<Trial> getAllTrials() {
@@ -66,15 +67,15 @@ public class TrialEndpoint {
         return trialService.getAllTrials();
     }
 
-    @PermitAll
+    @Secured("ROLE_RESEARCHER")
     @PutMapping("{id}")
-    public TrialDto update(@RequestBody TrialDto toUpdate) {
+    public TrialDto update(@RequestBody @Valid TrialDto toUpdate) {
         LOG.info("PUT " + BASE_PATH + "/{}", toUpdate);
         LOG.debug("Body of request:{}", toUpdate);
         return trialService.updateTrial(toUpdate);
     }
 
-    @PermitAll
+    @Secured("ROLE_RESEARCHER")
     @DeleteMapping("{id}")
     @ResponseStatus(HttpStatus.NO_CONTENT)
     public void delete(@PathVariable long id) {
