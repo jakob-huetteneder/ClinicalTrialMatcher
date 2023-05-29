@@ -6,3 +6,10 @@ body {
   background-color: #F0F8FF !important;
   background-size: cover;
 }
+@import 'ngx-toastr/toastr';
+
+#toast-container {
+  position: fixed;
+  z-index: 999999;
+  /*overrides*/
+}

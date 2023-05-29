@@ -14,7 +14,7 @@ import org.springframework.stereotype.Component;
 import java.util.Random;
 
 @Component
-@Profile("generateData")
+@Profile("generateUsers")
 public class UserDataGenerator {
 
     private static final Faker faker = new Faker(new Random(1));
@@ -30,30 +30,33 @@ public class UserDataGenerator {
     public void generateUsers() {
 
         for (int i = 0; i < 4; i++) {
-            userRepository.save(new ApplicationUser()
-                .setFirstName(faker.name().firstName())
-                .setLastName(faker.name().lastName())
-                .setEmail(faker.internet().emailAddress())
-                .setPassword(faker.internet().password())
-                .setStatus(Status.ACTIVE));
+            generateUser();
         }
     }
 
+
+
     public ApplicationUser generateUser() {
-        return new ApplicationUser()
-            .setFirstName(faker.name().firstName())
-            .setLastName(faker.name().lastName())
-            .setEmail(faker.internet().emailAddress())
-            .setPassword(faker.internet().password())
-            .setStatus(Status.ACTIVE);
+        return generateUser(Role.PATIENT);
     }
 
     public ApplicationUser generateUser(Role role) {
-        return userMapper.getApplicationUserFromRole(role)
-            .setFirstName(faker.name().firstName())
-            .setLastName(faker.name().lastName())
-            .setEmail(faker.internet().emailAddress())
-            .setPassword(faker.internet().password())
-            .setStatus(Status.ACTIVE);
+        return generateUser(
+            faker.name().firstName(),
+            faker.name().lastName(),
+            faker.internet().emailAddress(),
+            "$2a$10$I4MVzZUBDmeiXBbuSDhWiu/867PRmxWsa4b09LHJCntT8yROgYs7S",
+            role,
+            Status.ACTIVE);
+    }
+
+    public ApplicationUser generateUser(String firstName, String lastName, String email, String password, Role role, Status status) {
+        return userRepository.save(
+            userMapper.getApplicationUserFromRole(role)
+            .setFirstName(firstName)
+            .setLastName(lastName)
+            .setEmail(email)
+            .setPassword(password)
+            .setStatus(status));
     }
 }

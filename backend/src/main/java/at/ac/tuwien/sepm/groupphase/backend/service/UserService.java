@@ -3,6 +3,8 @@ package at.ac.tuwien.sepm.groupphase.backend.service;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserDetailDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserLoginDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserRegisterDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserUpdateDto;
+
 
 import java.util.List;
 
@@ -23,7 +25,8 @@ public interface UserService {
      * @param user the user to update
      * @return the updated user
      */
-    UserDetailDto updateUser(UserDetailDto user);
+    UserDetailDto updateUser(UserUpdateDto user);
+
 
     /**
      * Get all users.
@@ -31,6 +34,13 @@ public interface UserService {
      * @return all users
      */
     List<UserDetailDto> getAllUsers();
+
+    /**
+     * Get acrive user.
+     *
+     * @return active user
+     */
+    UserDetailDto getActiveUser(long id);
 
     /**
      * Delete a user.

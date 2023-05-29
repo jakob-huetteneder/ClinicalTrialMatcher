@@ -23,10 +23,6 @@ public record UserDetailDto(
     @Email(message = "Email must be valid")
     String email,
 
-    @NotEmpty(message = "Password must not be empty")
-    @Size(min = 8, max = 255, message = "Password must be between 8 and 255 characters")
-    String password,
-
     Role role,
 
     @NotNull(message = "Status must not be null")
@@ -34,6 +30,6 @@ public record UserDetailDto(
 ) {
 
     public UserDetailDto withId(Long id) {
-        return new UserDetailDto(id, firstName, lastName, email, password, role, status);
+        return new UserDetailDto(id, firstName, lastName, email, role, status);
     }
 }

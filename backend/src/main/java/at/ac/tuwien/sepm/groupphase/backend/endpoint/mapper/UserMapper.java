@@ -2,6 +2,7 @@ package at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserDetailDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserRegisterDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserUpdateDto;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Admin;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
@@ -20,8 +21,17 @@ public class UserMapper {
             .setFirstName(userDetailDto.firstName())
             .setLastName(userDetailDto.lastName())
             .setEmail(userDetailDto.email())
-            .setPassword(userDetailDto.password())
             .setStatus(userDetailDto.status());
+    }
+
+    public ApplicationUser userUpdateDtoToApplicationUser(UserUpdateDto userUpdateDto) {
+        return getApplicationUserFromRole(userUpdateDto.role())
+            .setId(userUpdateDto.id())
+            .setFirstName(userUpdateDto.firstName())
+            .setLastName(userUpdateDto.lastName())
+            .setEmail(userUpdateDto.email())
+            .setPassword(userUpdateDto.password())
+            .setStatus(userUpdateDto.status());
     }
 
     public UserDetailDto applicationUserToUserDetailDto(ApplicationUser applicationUser) {
@@ -30,7 +40,6 @@ public class UserMapper {
             applicationUser.getFirstName(),
             applicationUser.getLastName(),
             applicationUser.getEmail(),
-            applicationUser.getPassword(),
             getRoleFromApplicationUser(applicationUser),
             applicationUser.getStatus()
         );

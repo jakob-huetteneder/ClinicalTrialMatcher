@@ -3,6 +3,7 @@ package at.ac.tuwien.sepm.groupphase.backend.service.impl;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserDetailDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserLoginDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserRegisterDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserUpdateDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.UserMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
@@ -53,7 +54,7 @@ public class CustomUserDetailService implements UserService {
     }
 
     @Override
-    public UserDetailDto updateUser(UserDetailDto user) {
+    public UserDetailDto updateUser(UserUpdateDto user) {
         LOGGER.debug("Update user with email {}", user.email());
         Optional<ApplicationUser> applicationUser = userRepository.findById(user.id());
 
@@ -67,8 +68,12 @@ public class CustomUserDetailService implements UserService {
         if (user.email() != null) {
             foundUser.setEmail(user.email());
         }
-        if (user.password() != null) {
-            // TODO: old password check...
+        if (user.password() != null && user.oldPassword() != null) {
+            // check if old password is correct
+            if (!passwordEncoder.matches(user.oldPassword(), foundUser.getPassword())) {
+                throw new IllegalArgumentException("Old password is incorrect");
+            }
+            foundUser.setPassword(passwordEncoder.encode(user.password()));
         }
         if (user.status() != null) {
             foundUser.setStatus(user.status());
@@ -79,6 +84,14 @@ public class CustomUserDetailService implements UserService {
     @Override
     public List<UserDetailDto> getAllUsers() {
         return userRepository.findAll().stream().map(userMapper::applicationUserToUserDetailDto).toList();
+    }
+
+    @Override
+    public UserDetailDto getActiveUser(long id) {
+        Optional<ApplicationUser> applicationUser = userRepository.findById(id);
+
+        ApplicationUser foundUser = applicationUser.orElseThrow(() -> new NotFoundException(String.format("Could not find the user with the id %d", id)));
+        return userMapper.applicationUserToUserDetailDto(foundUser);
     }
 
     @Override

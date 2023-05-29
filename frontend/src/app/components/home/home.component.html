@@ -2,6 +2,7 @@
   <h1 class="display-4" i18n>Welcome to the SEPM group phase!</h1>
   <hr class="my-4">
   <a *ngIf="!authService.isLoggedIn()" class="btn btn-primary btn-lg" routerLink="/login" role="button">Login</a>
+  <a class="btn btn-secondary btn-lg" routerLink="/update-profile" role="button">Update Profile</a>
   <div *ngIf="authService.isLoggedIn()">
     <p i18n>Check out the latest message from the SEPM group phase.</p>
     <p class="lead">

@@ -90,4 +90,6 @@ public class ApplicationUser {
         this.status = status;
         return this;
     }
+
+
 }
