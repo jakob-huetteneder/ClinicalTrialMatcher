@@ -17,6 +17,10 @@ import {UserListComponent} from './components/user-list/user-list.component';
 import { RegisterPatientComponent } from './components/register/register-patient/register-patient.component';
 import {AutocompleteComponent} from './components/autocomplete/autocomplete.component';
 import { PatientDetailComponent } from './components/patient-detail/patient-detail.component';
+import {
+  CreateEditExaminationComponent
+} from './components/examination/create-edit-examination/create-edit-examination.component';
+import { DiagnoseComponent } from './components/diagnose/diagnose.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +33,9 @@ import { PatientDetailComponent } from './components/patient-detail/patient-deta
     UserListComponent,
     RegisterPatientComponent,
     AutocompleteComponent,
-    PatientDetailComponent
+    PatientDetailComponent,
+    CreateEditExaminationComponent,
+    DiagnoseComponent
   ],
   imports: [
     BrowserModule,

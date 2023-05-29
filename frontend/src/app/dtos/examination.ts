@@ -8,3 +8,7 @@ export interface Examination {
   type?: string;
   note?: string;
 }
+
+export interface Image {
+  file: ArrayBuffer;
+}

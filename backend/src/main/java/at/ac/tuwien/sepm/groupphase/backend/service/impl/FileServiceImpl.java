@@ -58,6 +58,12 @@ public class FileServiceImpl implements FileService {
             throw new NotFoundException("Examination with id " + id + "does not exist.");
         }
 
+        Optional<MedicalImage> existingImage = medicalImageRepository.findMedicalImageByExamination_Id(id);
+        if (existingImage.isPresent()) {
+            Files.delete(Paths.get("./src/main/resources/files/" + existingImage.get().getImage()));
+            medicalImageRepository.delete(existingImage.get());
+        }
+
         Path uploadPath = Paths.get(uploadDir);
         UUID uuid = UUID.randomUUID();
 

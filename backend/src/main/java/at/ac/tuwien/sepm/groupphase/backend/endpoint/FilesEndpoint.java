@@ -34,8 +34,11 @@ public class FilesEndpoint {
     @PostMapping("{id}")
     public void upload(@RequestParam("file") MultipartFile multipartFile, @PathVariable Long id) throws IOException, HttpMediaTypeNotSupportedException {
         String fileName = StringUtils.cleanPath(Objects.requireNonNull(multipartFile.getOriginalFilename()));
+        if (!fileName.contains(".")) {
+            throw new HttpMediaTypeNotSupportedException("Not supported!");
+        }
         String extension = fileName.substring(fileName.lastIndexOf("."));
-        if (!(extension.equals(".png") || extension.equals(".jpg"))) {
+        if (!(extension.equals(".png") || extension.equals(".jpg")  || extension.equals(".PNG"))) {
             throw new HttpMediaTypeNotSupportedException("Not supported:" + extension);
         }
         fileService.saveFile("./src/main/resources/files/", fileName, multipartFile, id);
