@@ -44,7 +44,7 @@ public class Trial {
     @Column(name = "brief_summary", nullable = false)
     private String briefSummary;
 
-    @Column(name = "detailed_summary", nullable = false)
+    @Column(name = "detailed_summary", nullable = false, columnDefinition = "TEXT")
     private String detailedSummary;
 
     @Column(name = "sponsor", nullable = false)
@@ -68,7 +68,7 @@ public class Trial {
     @Column(name = "cr_max_age")
     private int crMaxAge;
 
-    @Column(name = "cr_free_text")
+    @Column(name = "cr_free_text", columnDefinition = "TEXT")
     private String crFreeText;
 
     public String getTitle() {

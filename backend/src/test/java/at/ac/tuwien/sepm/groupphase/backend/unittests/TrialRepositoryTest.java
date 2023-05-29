@@ -18,15 +18,10 @@ import org.springframework.stereotype.Component;
 import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-
-
-
 @ExtendWith(SpringExtension.class)
 @DataJpaTest(includeFilters = @ComponentScan.Filter(type = FilterType.ANNOTATION, classes = Component.class))
-@ActiveProfiles({"test", "generateData"})
+@ActiveProfiles({"test", "generateTrials", "generateUsers"})
 public class TrialRepositoryTest {
-
-
 
     @Autowired
     private TrialRepository trialRepository;

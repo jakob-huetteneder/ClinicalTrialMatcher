@@ -1,6 +1,5 @@
 package at.ac.tuwien.sepm.groupphase.backend.service.impl;
 
-import at.ac.tuwien.sepm.groupphase.backend.endpoint.TrialEndpoint;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.TrialDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.TrialMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
@@ -39,31 +38,27 @@ public class TrialServiceImpl implements TrialService {
     }
 
     @Override
-    public List<Trial> getAllTrials() {
+    public List<TrialDto> getAllTrials() {
         LOG.trace("getAllTrials()");
-        var trials = trialRepository.findAll();
+        List<Trial> trials = trialRepository.findAll();
         LOG.info("Retrieved all trials ({})", trials.size());
-        return trials;
+        return trialMapper.trialToTrialDto(trials);
     }
 
     @Override
-    public List<Trial> getOwnTrials() {
+    public List<TrialDto> getOwnTrials() {
         LOG.trace("getAllTrials()");
         Long researcherId = authorizationService.getSessionUserId();
         var trials = trialRepository.getTrialByResearcher_Id(researcherId);
         LOG.info("Retrieved own trials ({})", trials.size());
-        return trials;
+        return trialMapper.trialToTrialDto(trials);
     }
 
     @Override
-    public Trial findTrialById(Long id) {
+    public TrialDto findTrialById(Long id) {
         LOG.trace("findTrialById()");
         Optional<Trial> trial = trialRepository.findById(id);
-        if (trial.isPresent()) {
-            LOG.info("Retrieved trial with id='{}'", trial.get().getId());
-            return trial.get();
-        }
-        throw new NotFoundException(String.format("Could not find trial with id %s", id));
+        return trialMapper.trialToTrialDto(trial.orElseThrow());
     }
 
     @Override
@@ -94,6 +89,13 @@ public class TrialServiceImpl implements TrialService {
     @Override
     public void deleteTrialById(Long id) {
         LOG.trace("deleteTrial()");
+        // check if researcher responsible for the trial is the same as the logged in user
+        Long researcherId = authorizationService.getSessionUserId();
+        var trials = trialRepository.getTrialByResearcher_Id(researcherId);
+        if (trials.stream().noneMatch(trial -> trial.getId().equals(id))) {
+            throw new IllegalArgumentException("The user deleting the trial has to be the person in charge.");
+        }
+
         trialRepository.deleteById(id);
         LOG.info("Deleted trial with id='{}'", id);
     }

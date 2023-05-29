@@ -68,8 +68,12 @@ public class CustomUserDetailService implements UserService {
         if (user.email() != null) {
             foundUser.setEmail(user.email());
         }
-        if (user.password() != null) {
-            // TODO: check if old password matches and change to new password
+        if (user.password() != null && user.oldPassword() != null) {
+            // check if old password is correct
+            if (!passwordEncoder.matches(user.oldPassword(), foundUser.getPassword())) {
+                throw new IllegalArgumentException("Old password is incorrect");
+            }
+            foundUser.setPassword(passwordEncoder.encode(user.password()));
         }
         if (user.status() != null) {
             foundUser.setStatus(user.status());

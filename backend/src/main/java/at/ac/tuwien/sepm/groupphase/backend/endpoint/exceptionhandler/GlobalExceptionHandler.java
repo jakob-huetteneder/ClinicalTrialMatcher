@@ -56,5 +56,4 @@ public class GlobalExceptionHandler {
 
         return new IllegalArgumentExceptionDto(illegalArgumentException.getMessage());
     }
-
 }

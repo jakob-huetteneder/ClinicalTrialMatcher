@@ -1,7 +1,6 @@
 package at.ac.tuwien.sepm.groupphase.backend.endpoint;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.TrialDto;
-import at.ac.tuwien.sepm.groupphase.backend.entity.Trial;
 import at.ac.tuwien.sepm.groupphase.backend.service.impl.TrialServiceImpl;
 import jakarta.annotation.security.PermitAll;
 import jakarta.validation.Valid;
@@ -46,7 +45,7 @@ public class TrialEndpoint {
     @PermitAll
     @ResponseStatus(HttpStatus.OK)
     @GetMapping(value = "{id}")
-    public Trial findTrialById(@PathVariable("id") Long id) {
+    public TrialDto findTrialById(@PathVariable("id") Long id) {
         LOG.info("Get trial with id {}", id);
         return trialService.findTrialById(id);
     }
@@ -54,7 +53,7 @@ public class TrialEndpoint {
     @Secured("ROLE_RESEARCHER")
     @ResponseStatus(HttpStatus.OK)
     @GetMapping(value = "/researcher")
-    public List<Trial> getOwnTrials() {
+    public List<TrialDto> getOwnTrials() {
         LOG.info("Get own trials");
         return trialService.getOwnTrials();
     }
@@ -62,7 +61,7 @@ public class TrialEndpoint {
     @Secured("ROLE_RESEARCHER")
     @ResponseStatus(HttpStatus.OK)
     @GetMapping()
-    public List<Trial> getAllTrials() {
+    public List<TrialDto> getAllTrials() {
         LOG.info("Get all trials");
         return trialService.getAllTrials();
     }

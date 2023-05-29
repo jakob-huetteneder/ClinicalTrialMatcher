@@ -1,7 +1,6 @@
 package at.ac.tuwien.sepm.groupphase.backend.service;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.TrialDto;
-import at.ac.tuwien.sepm.groupphase.backend.entity.Trial;
 
 import java.util.List;
 
@@ -12,7 +11,7 @@ public interface TrialService {
      *
      * @return all trials
      */
-    List<Trial> getAllTrials();
+    List<TrialDto> getAllTrials();
 
     /**
      * Find and return the trial with the given id.
@@ -20,9 +19,9 @@ public interface TrialService {
      * @param id of the trial to find
      * @return the trial with the given id
      */
-    Trial findTrialById(Long id);
+    TrialDto findTrialById(Long id);
 
-    List<Trial> getOwnTrials();
+    List<TrialDto> getOwnTrials();
 
     /**
      * Save a new trial given by the trialDto.

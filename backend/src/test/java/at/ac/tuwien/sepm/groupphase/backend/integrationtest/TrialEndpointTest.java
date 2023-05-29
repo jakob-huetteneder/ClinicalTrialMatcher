@@ -2,8 +2,11 @@ package at.ac.tuwien.sepm.groupphase.backend.integrationtest;
 
 import at.ac.tuwien.sepm.groupphase.backend.config.properties.SecurityProperties;
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.TrialDataGenerator;
+import at.ac.tuwien.sepm.groupphase.backend.datagenerator.UserDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.TrialDto;
+import at.ac.tuwien.sepm.groupphase.backend.entity.Researcher;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Trial;
+import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
 import at.ac.tuwien.sepm.groupphase.backend.repository.TrialRepository;
 import at.ac.tuwien.sepm.groupphase.backend.security.JwtTokenizer;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -18,6 +21,8 @@ import org.springframework.mock.web.MockHttpServletResponse;
 import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.MvcResult;
+
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.delete;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -28,7 +33,7 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
-@ActiveProfiles({"test", "generateData"})
+@ActiveProfiles({"test", "generateTrials", "generateUsers"})
 @AutoConfigureMockMvc
 public class TrialEndpointTest {
     private static final String TRIAL_BASE_URI = "/api/v1/trials";
@@ -37,6 +42,8 @@ public class TrialEndpointTest {
     private MockMvc mockMvc;
     @Autowired
     private TrialDataGenerator trialDataGenerator;
+    @Autowired
+    private UserDataGenerator userDataGenerator;
     @Autowired
     private TrialRepository trialRepository;
     @Autowired
@@ -55,7 +62,6 @@ public class TrialEndpointTest {
     @Test
     public void testGetAllTrials() throws Exception {
         Trial trial = trialDataGenerator.generateTrial();
-        trial = trialRepository.save(trial);
         List<String> roles = new ArrayList<>() {
             {
                 add("ROLE_RESEARCHER");
@@ -76,7 +82,6 @@ public class TrialEndpointTest {
     @Test
     public void testGetAllTrialsWithInvalidRole() throws Exception {
         Trial trial = trialDataGenerator.generateTrial();
-        trial = trialRepository.save(trial);
         List<String> userRoles = new ArrayList<>() {
             {
                 add("ROLE_DOCTOR");
@@ -99,6 +104,49 @@ public class TrialEndpointTest {
             .andReturn();
         MockHttpServletResponse response = mvcResult.getResponse();
         assertEquals(HttpStatus.UNAUTHORIZED.value(), response.getStatus());
+    }
+
+    @Test
+    public void testGetOwnTrialsForResearcher() throws Exception {
+        Researcher researcher = (Researcher) userDataGenerator.generateUser(Role.RESEARCHER);
+        Trial trial = trialDataGenerator.generateTrial(researcher);
+        trialDataGenerator.generateTrial(researcher); // second trial for same researcher
+        List<String> userRoles = new ArrayList<>() {
+            {
+                add("ROLE_RESEARCHER");
+            }
+        };
+        MvcResult mvcResult = this.mockMvc.perform(get(TRIAL_BASE_URI + "/researcher")
+                .header(securityProperties.getAuthHeader(), jwtTokenizer.getAuthToken(trial.getResearcher().getId().toString(), userRoles)))
+            .andDo(print())
+            .andReturn();
+        MockHttpServletResponse response = mvcResult.getResponse();
+        assertAll(
+            () -> assertEquals(HttpStatus.OK.value(), response.getStatus()),
+            () -> assertEquals(MediaType.APPLICATION_JSON_VALUE, response.getContentType())
+        );
+
+        List<TrialDto> trialDtos = Arrays.asList(objectMapper.readValue(response.getContentAsString(), TrialDto[].class));
+
+        assertAll(
+            () -> assertEquals(2, trialDtos.size()),
+            () -> assertEquals(trial.getId(), trialDtos.get(0).id()),
+            () -> assertEquals(trial.getTitle(), trialDtos.get(0).title()),
+            () -> assertEquals(trial.getStartDate(), trialDtos.get(0).startDate()),
+            () -> assertEquals(trial.getEndDate(), trialDtos.get(0).endDate()),
+            () -> assertEquals(trial.getResearcher().getId(), trialDtos.get(0).researcher().getId()),
+            () -> assertEquals(trial.getStudyType(), trialDtos.get(0).studyType()),
+            () -> assertEquals(trial.getBriefSummary(), trialDtos.get(0).briefSummary()),
+            () -> assertEquals(trial.getDetailedSummary(), trialDtos.get(0).detailedSummary()),
+            () -> assertEquals(trial.getSponsor(), trialDtos.get(0).sponsor()),
+            () -> assertEquals(trial.getCollaborator(), trialDtos.get(0).collaborator()),
+            () -> assertEquals(trial.getStatus(), trialDtos.get(0).status()),
+            () -> assertEquals(trial.getLocation(), trialDtos.get(0).location()),
+            () -> assertEquals(trial.getCrGender(), trialDtos.get(0).crGender()),
+            () -> assertEquals(trial.getCrMinAge(), trialDtos.get(0).crMinAge()),
+            () -> assertEquals(trial.getCrMaxAge(), trialDtos.get(0).crMaxAge()),
+            () -> assertEquals(trial.getCrFreeText(), trialDtos.get(0).crFreeText())
+        );
     }
 
     @Test
@@ -139,7 +187,41 @@ public class TrialEndpointTest {
         assertEquals(HttpStatus.UNPROCESSABLE_ENTITY.value(), response.getStatus());
     }
 
+    @Test
+    public void testDeleteTrialWithId() throws Exception {
+        long count = trialRepository.count();
+        Trial trial = trialDataGenerator.generateTrial();
+        List<String> userRoles = new ArrayList<>() {
+            {
+                add("ROLE_RESEARCHER");
+            }
+        };
+        MvcResult mvcResult = this.mockMvc.perform(delete(TRIAL_BASE_URI + "/" + trial.getId())
+                .header(securityProperties.getAuthHeader(), jwtTokenizer.getAuthToken(trial.getResearcher().getId().toString(), userRoles)))
+            .andDo(print())
+            .andReturn();
+        MockHttpServletResponse response = mvcResult.getResponse();
+        assertEquals(HttpStatus.NO_CONTENT.value(), response.getStatus());
 
+        assertEquals(count, trialRepository.count());
+    }
 
+    @Test
+    public void testDeleteTrialWithInvalidUser() throws Exception {
+        Trial trial = trialDataGenerator.generateTrial();
+        Researcher otherResearcher = (Researcher) userDataGenerator.generateUser(Role.RESEARCHER);
+        List<String> userRoles = new ArrayList<>() {
+            {
+                add("ROLE_RESEARCHER");
+            }
+        };
+        MvcResult mvcResult = this.mockMvc.perform(delete(TRIAL_BASE_URI + "/" + (trial.getId() + 1))
+                .header(securityProperties.getAuthHeader(), jwtTokenizer.getAuthToken(otherResearcher.getId().toString(), userRoles)))
+            .andDo(print())
+            .andReturn();
+        MockHttpServletResponse response = mvcResult.getResponse();
+        assertEquals(HttpStatus.BAD_REQUEST.value(), response.getStatus());
+
+    }
 
 }
