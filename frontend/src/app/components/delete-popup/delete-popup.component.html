@@ -1,8 +1,6 @@
-<button class="btn btn-sm rounded border-danger"
-        (click)="openForm()"
->
-  <i class="bi bi-trash text-red-500"></i>
-</button>
+<div (click)="openForm()">
+  <ng-content></ng-content>
+</div>
 
 <div class="form-popup" #myForm>
   <div class="form-container">

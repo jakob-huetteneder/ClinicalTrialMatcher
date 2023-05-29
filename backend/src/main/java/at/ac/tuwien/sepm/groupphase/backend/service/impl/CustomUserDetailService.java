@@ -83,6 +83,14 @@ public class CustomUserDetailService implements UserService {
     }
 
     @Override
+    public UserDetailDto getActiveUser(long id) {
+        Optional<ApplicationUser> applicationUser = userRepository.findById(id);
+
+        ApplicationUser foundUser = applicationUser.orElseThrow(() -> new NotFoundException(String.format("Could not find the user with the id %d", id)));
+        return userMapper.applicationUserToUserDetailDto(foundUser);
+    }
+
+    @Override
     public void deleteUser(long id) {
         LOGGER.debug("Delete user with id {}", id);
 

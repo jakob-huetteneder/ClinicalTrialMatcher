@@ -11,7 +11,7 @@ export interface User {
   password?: string;
   birthdate?: Date;
   gender?: Gender;
-  role: Role;
+  role?: Role;
   status?: Status;
   oldPassword?: string;
 }

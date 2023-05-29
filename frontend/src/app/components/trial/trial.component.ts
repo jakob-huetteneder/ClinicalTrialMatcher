@@ -12,17 +12,6 @@ import {TrialService} from '../../services/trial.service';
 })
 export class TrialComponent implements OnInit {
   trials: Trial[] = [];
-  params: Trial = {
-    title: '',
-    startDate: undefined,
-    endDate: undefined,
-    briefSummary: '',
-    status: '',
-    location: '',
-    crGender: undefined,
-    crMinAge: undefined,
-    crMaxAge: undefined,
-  };
   constructor(private authService: AuthService,
               private router: Router,
               private trialService: TrialService) {}

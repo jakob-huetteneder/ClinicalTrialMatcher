@@ -2,6 +2,7 @@ package at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserDetailDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserRegisterDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserUpdateDto;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Admin;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
@@ -20,8 +21,8 @@ public class UserMapper {
             .setFirstName(userDetailDto.firstName())
             .setLastName(userDetailDto.lastName())
             .setEmail(userDetailDto.email())
-            .setPassword(userDetailDto.password())
             .setStatus(userDetailDto.status());
+    }
 
     public ApplicationUser userUpdateDtoToApplicationUser(UserUpdateDto userUpdateDto) {
         return getApplicationUserFromRole(userUpdateDto.role())
@@ -39,8 +40,7 @@ public class UserMapper {
             applicationUser.getFirstName(),
             applicationUser.getLastName(),
             applicationUser.getEmail(),
-            applicationUser.getPassword(),
-            applicationUserToRole(applicationUser),
+            getRoleFromApplicationUser(applicationUser),
             applicationUser.getStatus()
         );
     }
@@ -65,7 +65,11 @@ public class UserMapper {
         return patient;
     }
 
-    public Role applicationUserToRole(ApplicationUser applicationUser) {
+    public Role getRoleFromApplicationUser(ApplicationUser applicationUser) {
+        if (applicationUser == null) {
+            throw new IllegalArgumentException("Cannot get role of applicationUser = null");
+        }
+
         if (applicationUser instanceof Admin) {
             return Role.ADMIN;
         } else if (applicationUser instanceof Doctor) {

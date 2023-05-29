@@ -23,6 +23,10 @@ export class UserService {
     return this.http.get<User[]>(baseUri);
   }
 
+  getActiveUser(): Observable<User> {
+    return this.http.get<User>(baseUri + '/sessionuser');
+  }
+
   /**
    * Update a user
    *
@@ -61,10 +65,6 @@ export class UserService {
    */
   createUser(user: User): Observable<User> {
     return this.http.post<User>(baseUri, user);
-  }
-
-  getById(userId: number): Observable<User> {
-    return this.http.get<User>(baseUri + '/' + userId);
   }
 
 }

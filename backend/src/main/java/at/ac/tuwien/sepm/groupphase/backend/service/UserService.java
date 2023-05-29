@@ -4,13 +4,9 @@ import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserDetailDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserLoginDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserRegisterDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserUpdateDto;
-import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
-import org.springframework.security.core.userdetails.UserDetails;
-import org.springframework.security.core.userdetails.UserDetailsService;
-import org.springframework.security.core.userdetails.UsernameNotFoundException;
+
 
 import java.util.List;
-import java.util.Optional;
 
 public interface UserService {
 
@@ -38,6 +34,13 @@ public interface UserService {
      * @return all users
      */
     List<UserDetailDto> getAllUsers();
+
+    /**
+     * Get acrive user.
+     *
+     * @return active user
+     */
+    UserDetailDto getActiveUser(long id);
 
     /**
      * Delete a user.

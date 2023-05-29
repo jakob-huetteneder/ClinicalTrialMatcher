@@ -1,9 +1,10 @@
 import {Component, OnInit} from '@angular/core';
-import {NgModel, UntypedFormBuilder, UntypedFormGroup, Validators} from '@angular/forms';
+import {FormBuilder, FormGroup, NgModel, UntypedFormBuilder, Validators} from '@angular/forms';
 import {AuthService} from '../../services/auth.service';
-import {ActivatedRoute, Router} from '@angular/router';
+import {Router} from '@angular/router';
 import {UserService} from '../../services/user.service';
 import {User} from '../../dtos/user';
+import {ToastrService} from 'ngx-toastr';
 
 @Component({
   selector: 'app-update-profile',
@@ -11,68 +12,76 @@ import {User} from '../../dtos/user';
   styleUrls: ['./update-profile.component.scss']
 })
 export class UpdateProfileComponent implements OnInit {
-  updateForm: UntypedFormGroup;
-  submitted = false;
   user: User = {
     firstName: '',
     lastName: '',
     email: '',
     password: '',
     oldPassword: '',
-};
+  };
   checkmail = '';
   checkpwd = '';
-  disabled = this.user.firstName === '' || this.user.lastName === ''
-    || this.user.email === '' || this.user.password === ''|| this.checkmail !== this.user.email
-    || this.checkpwd !== this.user.password;
-constructor(private formBuilder: UntypedFormBuilder,
-            private authService: AuthService,
-            private router: Router,
-            private userService: UserService,
-            private route: ActivatedRoute) {
-      this.updateForm = this.formBuilder.group({
-      oldPassword: ['', [Validators.required]]
-    });
-  }
+  editForm: FormGroup;
 
-  public dynamicCssClassesForInput(input: NgModel): any {
-    return {
-      // This names in this object are determined by the style library,
-      // requiring it to follow TypeScript naming conventions does not make sense.
-      // eslint-disable-next-line @typescript-eslint/naming-convention
-      'is-invalid': !input.valid && !input.pristine,
-    };
+  constructor(
+    private formBuilder: FormBuilder,
+    private authService: AuthService,
+    private router: Router,
+    private userService: UserService,
+    private notification: ToastrService
+  ) {
   }
 
   ngOnInit(): void {
-      this.route.data.subscribe(() => {
-        this.route.params.subscribe(params => this.user.id = params.id);
-      });
-      let userId = 0;
-      this.route.params.subscribe(data => {
-        userId = data.id;
-      });
-      this.userService.getById(userId).subscribe(data => {
-        this.user = data;
-      });
-  }
-
-  public onSubmit(): void {
-      const observable = this.userService.updateUser(this.user);
-
-      observable.subscribe({
-        next: () => {
-          this.router.navigate(['/']);
+    this.editForm = this.formBuilder.group({
+      firstName: ['', [Validators.required, Validators.maxLength(255)]],
+      lastName: ['', [Validators.required, Validators.maxLength(255)]],
+      email: ['', [Validators.required, Validators.email]],
+      password: ['', [Validators.required, Validators.maxLength(255), Validators.minLength(8)]],
+      repeatMail: ['', [Validators.required, Validators.email]],
+      repeatPassword: ['', [Validators.required, Validators.maxLength(255), Validators.minLength(8)]],
+      oldPassword: ['', [Validators.required, Validators.maxLength(255), Validators.minLength(8)]],
+    });
+    this.userService.getActiveUser()
+      .subscribe({
+        next: data => {
+          this.user = data;
+          this.editForm.patchValue({
+            firstName: this.user.firstName,
+            lastName: this.user.lastName,
+            email: this.user.email
+          });
+          console.log('data', data);
         },
         error: error => {
-          console.error('Error ', error.error.message);
+          console.error('Error fetching trials', error);
         }
       });
   }
 
-  delete(id) {
+  public onSubmit(): void {
+    console.log(this.editForm.value);
+    this.user.firstName = this.editForm.value.firstName;
+    this.user.lastName = this.editForm.value.lastName;
+    this.user.email = this.editForm.value.email;
+    this.user.password = this.editForm.value.password;
+    this.user.oldPassword = this.editForm.value.oldPassword;
+    console.log(this.user);
+    this.userService.updateUser(this.user).subscribe({
+      next: () => {
+        this.router.navigate(['']);
+        this.notification.success('Profile updated successfully');
+      },
+      error: error => {
+        console.error('Error ', error.error.message);
+      }
+    });
+  }
+
+  delete(id: number) {
     return this.userService.deleteUser(id).subscribe({
       next: () => {
+        this.authService.logoutUser();
         this.router.navigate(['']);
       },
       error: error => {
@@ -81,12 +90,5 @@ constructor(private formBuilder: UntypedFormBuilder,
     });
   }
 
-  openForm() {
-    document.getElementById('myForm').style.display = 'flex';
-  }
-
-  closeForm() {
-    document.getElementById('myForm').style.display = 'none';
-  }
 
 }

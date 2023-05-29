@@ -61,7 +61,15 @@ public class UserEndpoint {
         return updateUserById(id, toUpdate.withId(id));
     }
 
-    @Secured("ROLE_ADMIN")
+    @Secured("ROLE_USER")
+    @GetMapping(value = "/sessionuser")
+    public UserDetailDto getActiveUser() {
+        LOG.info("GET " + BASE_URL);
+        long id = authorizationService.getSessionUserId();
+        return userService.getActiveUser(id);
+    }
+
+    @Secured({"ROLE_ADMIN", "ROLE_USER"})
     @DeleteMapping(path = "/{id}")
     public void deleteUser(@PathVariable("id") long id) {
         LOG.info("DELETE " + BASE_URL + "/{}", id);

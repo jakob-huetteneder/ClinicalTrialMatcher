@@ -32,11 +32,13 @@ public record UserUpdateDto(
     @NotNull(message = "Status must not be null")
     Status status,
 
-    @NotEmpty(message = "Password must not be empty")
     @Size(min = 8, max = 255, message = "Password must be between 8 and 255 characters")
         String oldPassword
 ) {
 
+    public UserUpdateDto withId(Long id) {
+        return new UserUpdateDto(id, firstName, lastName, email, password, role, status, oldPassword);
+    }
 
 
 }
