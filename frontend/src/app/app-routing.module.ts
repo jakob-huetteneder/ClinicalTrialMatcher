@@ -9,26 +9,42 @@ import {PatientDetailComponent} from './components/patient-detail/patient-detail
 import {RequestPatientComponent} from './components/doctor-patient-connection/request-patient/request-patient.component';
 import {ViewRequestsComponent} from './components/doctor-patient-connection/view-requests/view-requests.component';
 import {Role} from './dtos/role';
-import {
-  ViewConnectionsComponent
-} from './components/doctor-patient-connection/view-connections/view-connections.component';
+import {ViewConnectionsComponent} from './components/doctor-patient-connection/view-connections/view-connections.component';
+import {AuthGuard} from './guards/auth.guard';
 
 const routes: Routes = [
   {path: '', component: HomeComponent},
   {path: 'login', component: LoginComponent},
-  {path: 'user-overview', component: UserListComponent},
   {
     path: 'register', children: [
       {path: '', component: RegisterComponent},
       {path: 'patient', component: RegisterPatientComponent}
     ]
   },
-  {path: 'patient', children: [
+  {path: 'admin',
+    data: {
+      allowedRoles: [Role.admin]
+    },
+    canActivateChild: [AuthGuard],
+    children: [
+      {path: 'user-overview', component: UserListComponent},
+  ]},
+  {path: 'patient',
+    data: {
+      allowedRoles: [Role.patient]
+    },
+    canActivateChild: [AuthGuard],
+    children: [
       {path: 'requests', component: ViewRequestsComponent},
       //{path: 'connections', component: ViewConnectionsComponent, data: {role: Role.patient}},
       {path: ':id', component: PatientDetailComponent}, // must be last, otherwise the path 'requests' will be interpreted as an id
   ]},
-  {path: 'doctor', children: [
+  {path: 'doctor',
+    data: {
+      allowedRoles: [Role.doctor]
+    },
+    canActivateChild: [AuthGuard],
+    children: [
       {path: 'request-patient', component: RequestPatientComponent},
       //{path: 'my-patients', component: ViewConnectionsComponent, data: {role: Role.doctor}},
   ]},

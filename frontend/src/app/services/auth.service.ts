@@ -49,7 +49,7 @@ export class AuthService {
   /**
    * Returns the user role based on the current token
    */
-  getUserRole() {
+  getUserRole(): Role {
     if (this.getToken() != null) {
       const decoded: any = jwt_decode(this.getToken());
       const authInfo: string[] = decoded.authorities;
@@ -63,7 +63,7 @@ export class AuthService {
         return Role.admin;
       }
     }
-    return 'UNDEFINED';
+    return null;
   }
 
   private setToken(authResponse: string) {
