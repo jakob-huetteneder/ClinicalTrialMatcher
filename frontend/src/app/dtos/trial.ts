@@ -1,6 +1,6 @@
 import {Gender} from './gender';
 import {Researcher} from './researcher';
-import {TrialStatus} from "./trial-status";
+import {TrialStatus} from './trial-status';
 
 
 export interface Trial {

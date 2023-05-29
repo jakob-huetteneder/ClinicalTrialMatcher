@@ -6,7 +6,7 @@ import {Trial} from '../../../dtos/trial';
 import {Gender} from '../../../dtos/gender';
 import {Researcher} from '../../../dtos/researcher';
 import {ToastrService} from 'ngx-toastr';
-import {TrialStatus} from "../../../dtos/trial-status";
+import {TrialStatus} from '../../../dtos/trial-status';
 
 
 @Component({
