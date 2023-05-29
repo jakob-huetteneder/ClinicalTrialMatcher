@@ -70,6 +70,8 @@ export class UserListComponent implements OnInit {
         console.log('Something went wrong while creating user: ' + error.error.message);
       }
     });
+
+    window.location.reload();
   }
 
 
@@ -100,6 +102,18 @@ export class UserListComponent implements OnInit {
     this.resetUser(user.id);
   }
 
+  discardAddUser() {
+    console.log('Discard user: ');
+    this.addingUser = false;
+  }
+
+  activateUser(user: User) {
+    console.log('Activate user: ' + user.email);
+    user.status = Status.active;
+
+    this.confirmEditUser(user);
+  }
+
   isEdited(user: User): boolean {
     return this.editedUsers.some(editedUser => editedUser.id === user.id);
   }
@@ -117,7 +131,7 @@ export class UserListComponent implements OnInit {
   }
 
   statusName(status: Status): string {
-    return status.charAt(0).toUpperCase() + status.slice(1).toLowerCase();
+    return status.charAt(0).toUpperCase() + status.slice(1).toLowerCase().replace('_', ' ');
   }
 
   private loadUsers() {

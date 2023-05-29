@@ -23,12 +23,15 @@ public class MailConfig {
     @Value("${spring.mail.password}")
     private String password;
 
+    @Value("${spring.mail.port}")
+    private int port;
+
     @Bean
     public JavaMailSender getJavaMailSender() {
         JavaMailSenderImpl mailSender = new JavaMailSenderImpl();
         // Set up Gmail config
         mailSender.setHost(host);
-        mailSender.setPort(GMAIL_SMTP_PORT);
+        mailSender.setPort(port);
 
         // Set up email config (using udeesa email)
         mailSender.setUsername(user);

@@ -42,7 +42,7 @@ public class UserMapper {
             .setLastName(userRegisterDto.getLastName())
             .setEmail(userRegisterDto.getEmail())
             .setPassword(userRegisterDto.getPassword())
-            .setStatus(Status.SUSPENDED);
+            .setStatus(Status.ACTION_REQUIRED);
     }
 
     public Patient userRegisterDtoToPatient(UserRegisterDto userRegisterDto, ApplicationUser applicationUser) {
@@ -53,6 +53,7 @@ public class UserMapper {
         patient.setGender(userRegisterDto.getGender());
         patient.setBirthdate(userRegisterDto.getBirthdate());
         patient.setApplicationUser(applicationUser);
+        patient.setVerification(applicationUser.getVerification());
         return patient;
     }
 

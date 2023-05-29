@@ -46,7 +46,7 @@ public class Patient {
     @Column(name = "gender", nullable = false)
     private Gender gender;
 
-    @Column(name = "verification", nullable = false)
+    @Column(name = "verification")
     private String verification;
 
     @ManyToMany(fetch = FetchType.EAGER)

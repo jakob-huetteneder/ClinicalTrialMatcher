@@ -13,5 +13,5 @@ export interface User {
   gender?: Gender;
   role: Role;
   status: Status;
-  admin?: boolean;
+  admin: boolean;
 }

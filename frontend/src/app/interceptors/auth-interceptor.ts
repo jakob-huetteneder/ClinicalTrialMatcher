@@ -18,11 +18,15 @@ export class AuthInterceptor implements HttpInterceptor {
     if (req.url === authUri || (req.url === usersUri && req.method === 'POST')) {
       return next.handle(req);
     }
-
-    const authReq = req.clone({
-      headers: req.headers.set('Authorization', 'Bearer ' + this.authService.getToken())
-    });
-
-    return next.handle(authReq);
+    const url = window.location.href;
+    if (!url.includes('password/password')) {
+      const authReq = req.clone({
+        headers: req.headers.set('Authorization', 'Bearer ' + this.authService.getToken())
+      });
+      return next.handle(authReq);
+    } else {
+      const authReq = req.clone();
+      return next.handle(authReq);
+    }
   }
 }

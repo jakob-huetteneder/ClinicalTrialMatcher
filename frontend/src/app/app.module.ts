@@ -15,6 +15,7 @@ import {NgOptimizedImage} from '@angular/common';
 import { RegisterComponent } from './components/register/register.component';
 import {UserListComponent} from './components/user-list/user-list.component';
 import { VerificationComponent } from './components/verification/verification.component';
+import { SetpasswordComponent } from './components/setpassword/setpassword.component';
 
 @NgModule({
   declarations: [
@@ -26,6 +27,7 @@ import { VerificationComponent } from './components/verification/verification.co
     RegisterComponent,
     UserListComponent,
     VerificationComponent,
+    SetpasswordComponent,
   ],
   imports: [
     BrowserModule,

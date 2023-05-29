@@ -1,5 +1,5 @@
 import {Injectable} from '@angular/core';
-import {HttpClient} from '@angular/common/http';
+import {HttpClient, HttpParams} from '@angular/common/http';
 import {Observable} from 'rxjs';
 import {User} from '../dtos/user';
 import {environment} from '../../environments/environment';
@@ -12,7 +12,8 @@ const baseUri = environment.backendUrl + '/api/v1/users';
 export class UserService {
   constructor(
     private http: HttpClient,
-  ) { }
+  ) {
+  }
 
   /**
    * Get all users
@@ -60,6 +61,22 @@ export class UserService {
    * @return observable user
    */
   createUser(user: User): Observable<User> {
-    return this.http.post<User>(baseUri, user);
+    const url = window.location.href;
+    let queryParams = new HttpParams();
+    queryParams = queryParams.set('url', url);
+    return this.http.post<User>(baseUri, user, { params: queryParams});
+  }
+
+  /**
+   * Set the password for a new user.
+   *
+   * @param user the user to set password
+   * @param code the identification of the user
+   * @return observable user
+   */
+  setPassword(user: User, code: string): Observable<boolean> {
+    let queryParams = new HttpParams();
+    queryParams = queryParams.set('code', code).set('pass', user.password);
+    return this.http.get<boolean>(baseUri + '/password', {params: queryParams});
   }
 }

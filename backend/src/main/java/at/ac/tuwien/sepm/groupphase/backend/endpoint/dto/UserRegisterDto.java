@@ -23,7 +23,6 @@ public class UserRegisterDto {
     private Role role;
     private LocalDate birthdate;
     private Gender gender;
-
     private boolean admin;
 
     public String getEmail() {
@@ -82,6 +81,10 @@ public class UserRegisterDto {
         this.gender = gender;
     }
 
+    public void setAdmin(boolean admin) {
+        this.admin = admin;
+    }
+
     public boolean isCreatedByAdmin() {
         return admin;
     }
@@ -124,6 +127,7 @@ public class UserRegisterDto {
         private Role role;
         private Gender gender;
         private LocalDate birthdate;
+        private boolean admin;
 
         private UserRegisterDtoBuilder() {
         }
@@ -167,6 +171,11 @@ public class UserRegisterDto {
             return this;
         }
 
+        public UserRegisterDtoBuilder withGender(Boolean admin) {
+            this.admin = admin;
+            return this;
+        }
+
         public UserRegisterDto build() {
             UserRegisterDto userRegisterDto = new UserRegisterDto();
             userRegisterDto.setEmail(email);
@@ -176,6 +185,7 @@ public class UserRegisterDto {
             userRegisterDto.setRole(role);
             userRegisterDto.setGender(gender);
             userRegisterDto.setBirthdate(birthdate);
+            userRegisterDto.setAdmin(admin);
             return userRegisterDto;
         }
     }

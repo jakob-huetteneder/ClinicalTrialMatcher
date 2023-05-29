@@ -18,6 +18,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 
+import org.springframework.data.domain.Sort;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
@@ -85,7 +86,7 @@ public class CustomUserDetailService implements UserService {
 
     @Override
     public List<UserDetailDto> getAllUsers() {
-        return userRepository.findAll().stream().map(userMapper::applicationUserToUserDetailDto).toList();
+        return userRepository.findAll(Sort.by(Sort.Direction.ASC, "status")).stream().map(userMapper::applicationUserToUserDetailDto).toList();
     }
 
     @Override
@@ -96,7 +97,7 @@ public class CustomUserDetailService implements UserService {
     }
 
     @Override
-    public UserDetailDto createUser(UserRegisterDto user, String siteUrl) {
+    public UserDetailDto createUser(UserRegisterDto user, String siteUrl, String redirectUrl) {
         LOGGER.debug("Create user with email {}", user.getEmail());
         user.setPassword(passwordEncoder.encode(user.getPassword()));
         ApplicationUser applicationUser = userMapper.userRegisterDtoToApplicationUser(user);
@@ -104,26 +105,51 @@ public class CustomUserDetailService implements UserService {
         applicationUser = userRepository.save(applicationUser);
         userRepository.flush();
         if (user.getRole() == Role.PATIENT) {
+            applicationUser.setStatus(Status.ACTION_REQUIRED);
             Patient patient = userMapper.userRegisterDtoToPatient(user, applicationUser);
             patientRepository.save(patient);
         }
         if (user.isCreatedByAdmin()) {
-            //TODO: Send Email
+            System.out.println("Angelas ausgabe : ich gehe in TRUE");
+            this.emailService.setPasswordEmail(applicationUser);
+        } else {
+            System.out.println("Angelas ausgabe : ich gehe in FALSE");
+            this.emailService.sendVerificationEmail(applicationUser, siteUrl, user.getRole(), redirectUrl);
         }
-            this.emailService.sendVerificationEmail(applicationUser, siteUrl);
         return userMapper.applicationUserToUserDetailDto(applicationUser);
     }
 
     @Override
-    public boolean verify(String verificationCode) {
+    public boolean verify(String verificationCode, Role role) {
         ApplicationUser user = userRepository.findByVerification(verificationCode);
 
         if (user == null || user.getStatus() == Status.ACTIVE) {
             return false;
         } else {
             user.setVerification(null);
-            user.setStatus(Status.ACTIVE);
+            if (role == Role.PATIENT) {
+                user.setStatus(Status.ACTIVE);
+            } else {
+                user.setStatus(Status.PENDING);
+            }
             userRepository.save(user);
+
+            return true;
+        }
+
+    }
+
+    @Override
+    public boolean setPassword(String pass, String verificationCode) {
+        ApplicationUser applicationUser = userRepository.findByVerification(verificationCode);
+
+        if (applicationUser == null || applicationUser.getStatus() == Status.ACTIVE) {
+            return false;
+        } else {
+            applicationUser.setVerification(null);
+            applicationUser.setStatus(Status.ACTIVE);
+            applicationUser.setPassword(passwordEncoder.encode(pass));
+            userRepository.save(applicationUser);
 
             return true;
         }
