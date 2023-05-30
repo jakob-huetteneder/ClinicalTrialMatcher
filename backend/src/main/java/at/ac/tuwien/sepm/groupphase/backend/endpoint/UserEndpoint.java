@@ -80,7 +80,6 @@ public class UserEndpoint {
     public UserDetailDto createUser(@RequestBody @Valid UserRegisterDto toCreate, @Param("url") String url, HttpServletRequest request) {
         LOG.info("POST " + BASE_URL + "/");
         LOG.debug("Body of request: {}", toCreate);
-        System.out.println("Das ist Angelas ausgabe: '" + toCreate.isCreatedByAdmin() + "'");
         return userService.createUser(toCreate, getSiteUrl(request), URLDecoder.decode(url));
     }
 

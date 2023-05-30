@@ -110,10 +110,8 @@ public class CustomUserDetailService implements UserService {
             patientRepository.save(patient);
         }
         if (user.isCreatedByAdmin()) {
-            System.out.println("Angelas ausgabe : ich gehe in TRUE");
             this.emailService.setPasswordEmail(applicationUser);
         } else {
-            System.out.println("Angelas ausgabe : ich gehe in FALSE");
             this.emailService.sendVerificationEmail(applicationUser, siteUrl, user.getRole(), redirectUrl);
         }
         return userMapper.applicationUserToUserDetailDto(applicationUser);
