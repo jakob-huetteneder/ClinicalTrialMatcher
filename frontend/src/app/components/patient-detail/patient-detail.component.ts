@@ -1,4 +1,4 @@
-import {Component, OnInit} from '@angular/core';
+import {Component, OnInit, ViewChildren} from '@angular/core';
 import {Patient} from '../../dtos/patient';
 import {ActivatedRoute, Router} from '@angular/router';
 import {PatientService} from '../../services/patient.service';
@@ -11,6 +11,10 @@ import {FilesService} from '../../services/files.service';
   styleUrls: ['./patient-detail.component.scss']
 })
 export class PatientDetailComponent implements OnInit{
+
+
+  @ViewChildren('medicalImages') medicalImages;
+
   patient: Patient = {
     admissionNote: '',
     diagnoses: [],
@@ -21,7 +25,7 @@ export class PatientDetailComponent implements OnInit{
     gender: undefined,
     birthdate: undefined
   };
-  examinationsImageVisible: boolean[] = [];
+  examinationsImageHidden: boolean[] = [];
   id = -1;
   edit = false;
   loading = true;
@@ -30,6 +34,7 @@ export class PatientDetailComponent implements OnInit{
   imageFocus = false;
   imageOriginal: SafeUrl = '';
   imageName = '';
+
 
   constructor(
     private router: Router,
@@ -47,8 +52,9 @@ export class PatientDetailComponent implements OnInit{
         next: data => {
           this.patient = data;
           this.loading = false;
-          this.examinationsImageVisible = new Array(this.patient.examinations.length);
-          this.examinationsImageVisible.fill(false);
+          this.examinationsImageHidden = new Array(this.patient.examinations.length);
+          this.examinationsImageHidden.fill(true);
+          console.log(this.examinationsImageHidden);
         },
         error: error => {
           console.error('Error, patient does not exist', error);
@@ -88,7 +94,7 @@ export class PatientDetailComponent implements OnInit{
     });
   }
 
-  public load(id: number, domelem: any): string {
+  public load(id: number): string {
     let ret = '';
     this.fileService.getById(id).subscribe({
       next: data => {
@@ -97,7 +103,10 @@ export class PatientDetailComponent implements OnInit{
         const STRING_CHAR = String.fromCharCode.apply(null, TYPED_ARRAY);
         const base64String = btoa(STRING_CHAR);
         ret = 'data:image/png;base64,' + base64String;
-        domelem.src = ret;
+        console.log(this.medicalImages._results[this.getIndexById(id)]);
+        this.examinationsImageHidden[this.getIndexById(id)] = false;
+        this.medicalImages._results[this.getIndexById(id)].nativeElement.setAttribute('src', ret);
+
       },
       error: error => {
         console.error('Error loading medical image', error);
