@@ -1,6 +1,7 @@
 package at.ac.tuwien.sepm.groupphase.backend.integrationtest;
 
 
+import at.ac.tuwien.sepm.groupphase.backend.TestUtil;
 import at.ac.tuwien.sepm.groupphase.backend.config.properties.SecurityProperties;
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.ExaminationDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.PatientDataGenerator;
@@ -11,7 +12,6 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.Examination;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
 import at.ac.tuwien.sepm.groupphase.backend.repository.ExaminationRepository;
-import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
 import at.ac.tuwien.sepm.groupphase.backend.security.JwtTokenizer;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -37,13 +37,15 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
-@ActiveProfiles({"test", "generateData"})
+@ActiveProfiles({"test", "generateExaminations", "generateUsers", "generatePatients"})
 @AutoConfigureMockMvc
 public class ExaminationEndpointTest {
     private static final String EXAMINATION_BASE_URI = "/api/v1/patients";
 
     @Autowired
     private MockMvc mockMvc;
+    @Autowired
+    private TestUtil testUtil;
     @Autowired
     private UserDataGenerator userDataGenerator;
     @Autowired
@@ -52,8 +54,6 @@ public class ExaminationEndpointTest {
     private ExaminationDataGenerator examinationDataGenerator;
     @Autowired
     private UserRepository userRepository;
-    @Autowired
-    private PatientRepository patientRepository;
     @Autowired
     private ExaminationRepository examinationRepository;
     @Autowired
@@ -65,8 +65,7 @@ public class ExaminationEndpointTest {
 
     @BeforeEach
     public void beforeEach() {
-        userRepository.deleteAll();
-        examinationRepository.deleteAll();
+        testUtil.cleanAll();
         userDataGenerator.generateUsers();
         examinationDataGenerator.generateExaminations();
     }

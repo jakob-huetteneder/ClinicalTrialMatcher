@@ -1,10 +1,11 @@
 package at.ac.tuwien.sepm.groupphase.backend.integrationtest;
 
 
+import at.ac.tuwien.sepm.groupphase.backend.TestUtil;
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.PatientDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Examination;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
-import at.ac.tuwien.sepm.groupphase.backend.repository.ExaminationsRepository;
+import at.ac.tuwien.sepm.groupphase.backend.repository.ExaminationRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.MedicalImageRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
 import org.junit.jupiter.api.Assertions;
@@ -30,7 +31,7 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
-@ActiveProfiles({"test", "generateData"})
+@ActiveProfiles({"test", "generatePatients"})
 @AutoConfigureMockMvc
 public class FilesEndpointTest {
 
@@ -39,19 +40,19 @@ public class FilesEndpointTest {
     @Autowired
     private MockMvc mockMvc;
     @Autowired
+    private TestUtil testUtil;
+    @Autowired
     PatientDataGenerator patientDataGenerator;
     @Autowired
     private MedicalImageRepository imagesRepository;
     @Autowired
-    private ExaminationsRepository examinationsRepository;
+    private ExaminationRepository examinationRepository;
     @Autowired
     private PatientRepository patientRepository;
 
     @BeforeEach
     public void beforeEach() {
-        imagesRepository.deleteAll();
-        examinationsRepository.deleteAll();
-        patientRepository.deleteAll();
+        testUtil.cleanAll();
     }
 
     @Test
@@ -62,7 +63,7 @@ public class FilesEndpointTest {
         patient = patientRepository.save(patient);
         Examination examination = new Examination().setPatient(patient)
             .setDate(LocalDate.now()).setName("Examination 1").setType("Preliminary");
-        examination = examinationsRepository.save(examination);
+        examination = examinationRepository.save(examination);
 
         MockMultipartFile firstFile = new MockMultipartFile(
             "file",fileResource.getFilename(),
@@ -99,7 +100,7 @@ public class FilesEndpointTest {
         patient = patientRepository.save(patient);
         Examination examination = new Examination().setPatient(patient)
             .setDate(LocalDate.now()).setName("Examination 1").setType("Preliminary");
-        examination = examinationsRepository.save(examination);
+        examination = examinationRepository.save(examination);
 
         MockMultipartFile firstFile = new MockMultipartFile(
             "file",fileResource.getFilename(),
@@ -124,7 +125,7 @@ public class FilesEndpointTest {
         patient = patientRepository.save(patient);
         Examination examination = new Examination().setPatient(patient)
             .setDate(LocalDate.now()).setName("Examination 1").setType("Preliminary");
-        examination = examinationsRepository.save(examination);
+        examination = examinationRepository.save(examination);
 
         MockMultipartFile firstFile = new MockMultipartFile(
             "file",fileResource.getFilename(),
@@ -186,7 +187,7 @@ public class FilesEndpointTest {
         patient = patientRepository.save(patient);
         Examination examination = new Examination().setPatient(patient)
             .setDate(LocalDate.now()).setName("Examination 1").setType("Preliminary");
-        examination = examinationsRepository.save(examination);
+        examination = examinationRepository.save(examination);
 
         MockMultipartFile firstFile = new MockMultipartFile(
             "file",fileResource.getFilename(),

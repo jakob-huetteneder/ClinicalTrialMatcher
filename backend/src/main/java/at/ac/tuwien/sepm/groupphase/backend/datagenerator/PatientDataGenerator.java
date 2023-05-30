@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 import java.util.Random;
 
 @Component
-@Profile("generateData")
+@Profile("generatePatients")
 public class PatientDataGenerator {
     private static final Faker faker = new Faker(new Random(1));
     private final PatientRepository patientRepository;

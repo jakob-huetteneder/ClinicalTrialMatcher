@@ -147,28 +147,25 @@ export class CreateEditExaminationComponent implements OnInit {
 
   async submit() {
     let observable: Observable<Examination>;
-    const file = this.convertSafeUrlToFile(this.image, this.imageName).then();
+    const file = await this.convertSafeUrlToFile(this.image, this.imageName).then();
     switch (this.mode) {
       case ExaminationCreateEditMode.create:
-        observable = this.service.addNewExamination(this.exam);
-        //add image -> add examination
-        this.fileService.createImage(await file, this.exam.id).subscribe({
-          next: _ => {
-            console.log('Created image in backend');
+        this.service.addNewExamination(this.exam).subscribe({
+          next: examinationData => {
+            this.exam.id = examinationData.id;
+            this.fileService.createImage(file, this.exam.id).subscribe({
+              next: _ => {
+                console.log('Created image in backend');
 
-            observable.subscribe({
-              next: data => {
                 this.router.navigate(['/patient/' + this.exam.patientId]);
               },
               error: error => {
                 console.error('Error creating/editing examination', error);
               }
             });
-          },
-          error: error => {
-            console.error('Error creating/editing examination', error);
           }
-        });
+          });
+        //add image -> add examination
         break;
       case ExaminationCreateEditMode.edit:
         observable = this.service.updateExamination(this.exam);
@@ -211,9 +208,11 @@ export class CreateEditExaminationComponent implements OnInit {
     });
   }
 
-  deleteImage() {
+  deleteImage(fileInput: HTMLInputElement) {
     this.imageFocus = false;
     this.image = '';
+    this.imageName = '';
+    fileInput.value = '';
     //this.notification.success(`Horse ${this.horse.name} successfully loaded.`);
   }
 

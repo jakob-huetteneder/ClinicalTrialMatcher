@@ -44,7 +44,7 @@
   <hr class="container">
 
   <div class="relative container flex items-center justify-center flex-col">
-    <button *ngIf="image !== ''" (click)="deleteImage()"
+    <button *ngIf="image !== ''" (click)="deleteImage(fileInput)"
             class="absolute top-0 right-0 mt-2 mr-2 transition ease-in-out delay-100 duration-300 bg-red-500 rounded w-35 p-2 h-10 text-white
               hover:-translate-y-0 hover:scale-110 hover:bg-red-400 hover:cursor-pointer">
       <i class="bi bi-trash"></i>

@@ -29,7 +29,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
  */
 @ExtendWith(SpringExtension.class)
 @DataJpaTest(includeFilters = @ComponentScan.Filter(type = FilterType.ANNOTATION, classes = Component.class))
-@ActiveProfiles({"test", "generateData"})
+@ActiveProfiles({"test", "generateExaminations"})
 public class ExaminationRepositoryTest {
 
 

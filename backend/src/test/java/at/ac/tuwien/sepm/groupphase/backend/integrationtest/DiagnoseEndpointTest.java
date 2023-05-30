@@ -1,6 +1,7 @@
 package at.ac.tuwien.sepm.groupphase.backend.integrationtest;
 
 
+import at.ac.tuwien.sepm.groupphase.backend.TestUtil;
 import at.ac.tuwien.sepm.groupphase.backend.config.properties.SecurityProperties;
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.DiagnosisDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.PatientDataGenerator;
@@ -12,7 +13,6 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.Diagnose;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
 import at.ac.tuwien.sepm.groupphase.backend.repository.DiagnosesRepository;
-import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
 import at.ac.tuwien.sepm.groupphase.backend.security.JwtTokenizer;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -38,13 +38,15 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
-@ActiveProfiles({"test", "generateData"})
+@ActiveProfiles({"test", "generateDiagnosis", "generateDiseases", "generatePatients", "generateUsers"})
 @AutoConfigureMockMvc
 public class DiagnoseEndpointTest {
     private static final String DIAGNOSE_BASE_URI = "/api/v1/patients";
 
     @Autowired
     private MockMvc mockMvc;
+    @Autowired
+    private TestUtil testUtil;
     @Autowired
     private UserDataGenerator userDataGenerator;
     @Autowired
@@ -57,9 +59,6 @@ public class DiagnoseEndpointTest {
     @Autowired
     private UserRepository userRepository;
     @Autowired
-    private PatientRepository patientRepository;
-
-    @Autowired
     private DiseaseMapper diseaseMapper;
     @Autowired
     private ObjectMapper objectMapper;
@@ -70,8 +69,7 @@ public class DiagnoseEndpointTest {
 
     @BeforeEach
     public void beforeEach() {
-        userRepository.deleteAll();
-        diagnosesRepository.deleteAll();
+        testUtil.cleanAll();
 
         userDataGenerator.generateUsers();
         diagnosisDataGenerator.generateDiagnoses();
