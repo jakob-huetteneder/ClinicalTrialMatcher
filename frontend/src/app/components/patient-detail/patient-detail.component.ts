@@ -1,7 +1,9 @@
-import {Component, OnInit} from '@angular/core';
+import {Component, OnInit, ViewChildren} from '@angular/core';
 import {Patient} from '../../dtos/patient';
 import {ActivatedRoute, Router} from '@angular/router';
 import {PatientService} from '../../services/patient.service';
+import {SafeUrl} from '@angular/platform-browser';
+import {FilesService} from '../../services/files.service';
 
 @Component({
   selector: 'app-patient-detail',
@@ -9,6 +11,10 @@ import {PatientService} from '../../services/patient.service';
   styleUrls: ['./patient-detail.component.scss']
 })
 export class PatientDetailComponent implements OnInit{
+
+
+  @ViewChildren('medicalImages') medicalImages;
+
   patient: Patient = {
     admissionNote: '',
     diagnoses: [],
@@ -19,15 +25,22 @@ export class PatientDetailComponent implements OnInit{
     gender: undefined,
     birthdate: undefined
   };
-
+  examinationsImageHidden: boolean[] = [];
   id = -1;
   edit = false;
   loading = true;
 
+  image: SafeUrl = '';
+  imageFocus = false;
+  imageOriginal: SafeUrl = '';
+  imageName = '';
+
+
   constructor(
     private router: Router,
     private route: ActivatedRoute,
-    private service: PatientService
+    private service: PatientService,
+    private fileService: FilesService
   ) {
   }
 
@@ -39,6 +52,9 @@ export class PatientDetailComponent implements OnInit{
         next: data => {
           this.patient = data;
           this.loading = false;
+          this.examinationsImageHidden = new Array(this.patient.examinations.length);
+          this.examinationsImageHidden.fill(true);
+          console.log(this.examinationsImageHidden);
         },
         error: error => {
           console.error('Error, patient does not exist', error);
@@ -48,17 +64,46 @@ export class PatientDetailComponent implements OnInit{
     });
   }
 
+  getIndexById(id: number): number {
+    return this.patient.examinations.findIndex(exam => exam.id === id);
+  }
+
   submit() {
     this.service.deleteById(this.id).subscribe({
-        next: _data => {
-          console.log('Successfully deleted patient {}', this.id);
-          this.router.navigate(['']);
-        },
-        error: error => {
-          console.error('Error, patient does not exist', error);
-          //return this.router.navigate(['']);
-        }
-      });
+      next: _data => {
+        console.log('Successfully deleted patient {}', this.id);
+        this.router.navigate(['']);
+      },
+      error: error => {
+        console.error('Error, patient does not exist', error);
+        //return this.router.navigate(['']);
+      }
+    });
+  }
+
+  public load(id: number): string {
+    if (this.examinationsImageHidden[this.getIndexById(id)] === false) {
+      this.examinationsImageHidden[this.getIndexById(id)] = true;
+      return '';
+    }
+    let ret = '';
+    this.fileService.getById(id).subscribe({
+      next: data => {
+        const TYPED_ARRAY = new Uint8Array(data);
+        console.log(TYPED_ARRAY);
+        const STRING_CHAR = String.fromCharCode.apply(null, TYPED_ARRAY);
+        const base64String = btoa(STRING_CHAR);
+        ret = 'data:image/png;base64,' + base64String;
+        console.log(this.medicalImages._results[this.getIndexById(id)]);
+        this.examinationsImageHidden[this.getIndexById(id)] = false;
+        this.medicalImages._results[this.getIndexById(id)].nativeElement.setAttribute('src', ret);
+
+      },
+      error: error => {
+        console.error('Error loading medical image', error);
+      }
+    });
+    return ret;
   }
 
   pulse(): string {

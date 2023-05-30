@@ -31,7 +31,8 @@
   display: flex; // has to be inline block to hug contents (or an <a> flexbox)
   flex-direction: row;
   justify-content: flex-end;
-  align-items: center;
+  align-items: flex-end;
+  vertical-align: bottom;
   padding: 16px 0;
   gap: 30px;
 }
@@ -58,7 +59,9 @@
   /* identical to box height, or 100% */
 
   display: inline-block;
-  align-items: center;
+  align-items: flex-end;
+  vertical-align: bottom;
+  align-self: flex-end;
 
   color: #162E51;
 }

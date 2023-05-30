@@ -1,8 +1,9 @@
 package at.ac.tuwien.sepm.groupphase.backend.integrationtest;
 
+import at.ac.tuwien.sepm.groupphase.backend.TestUtil;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.DiseaseDto;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Disease;
-import at.ac.tuwien.sepm.groupphase.backend.repository.DiseasesRepository;
+import at.ac.tuwien.sepm.groupphase.backend.repository.DiseaseRepository;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -24,7 +25,7 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
-@ActiveProfiles({"test", "generateData"})
+@ActiveProfiles({"test", "generateDiseases"})
 @AutoConfigureMockMvc
 public class DiseasesEndpointTest {
 
@@ -33,19 +34,21 @@ public class DiseasesEndpointTest {
     @Autowired
     private MockMvc mockMvc;
     @Autowired
+    private TestUtil testUtil;
+    @Autowired
     private ObjectMapper objectMapper;
     @Autowired
-    private DiseasesRepository diseasesRepository;
+    private DiseaseRepository diseaseRepository;
 
     @BeforeEach
     public void beforeEach() {
-        diseasesRepository.deleteAll();
+        testUtil.cleanAll();
     }
 
     @Test
     public void testGetSpecificDisease() throws Exception {
         Disease disease = new Disease().setName("Diabetes mellitus").setSynonyms("Zuckerkrankheit");
-        diseasesRepository.save(disease);
+        diseaseRepository.save(disease);
 
         MvcResult mvcResult = this.mockMvc.perform(get(USER_BASE_URI + "?name=Dia&limit=5"))
             .andDo(print())
@@ -69,7 +72,7 @@ public class DiseasesEndpointTest {
     @Test
     public void testGetSpecificPatientError() throws Exception {
         Disease disease = new Disease().setName("Diabetes mellitus").setSynonyms("Zuckerkrankheit");
-        diseasesRepository.save(disease);
+        diseaseRepository.save(disease);
 
         MvcResult mvcResult = this.mockMvc.perform(get(USER_BASE_URI + "?name=PV-Syndrome&limit=5"))
             .andDo(print())

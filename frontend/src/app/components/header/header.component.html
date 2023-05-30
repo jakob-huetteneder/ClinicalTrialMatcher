@@ -105,7 +105,7 @@
             <li>
               <a
                 class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
-                href="#"
+                routerLink="/patient"
               >View My Patients</a
               >
             </li>
@@ -129,39 +129,32 @@
       <div *ngIf="authService.isLoggedIn()" routerLink="/" class="profile">
         <div class="single-button flex flex-initial">
           <div class="group relative dropdown px-0 cursor-pointer text-base tracking-wide right-0">
-            <div class="profile flex flex-row"><img class="flex-initial mr-1" src="favicon.ico" alt="profile"> <i class="mt-1 bi-chevron-down"></i></div>
+            <div class="profile flex flex-row"><img class="flex-initial mr-1" src="assets/img/UserIcon.svg" alt="profile"> <i class="mt-1 bi-chevron-down ml-2"></i></div>
             <div
               class="absolute z-[1000] float-left m-0 hidden min-w-max list-none overflow-hidden rounded-lg border-none bg-white bg-clip-padding text-left text-base shadow-lg dark:bg-neutral-700 group-hover:block right-0">
-              <ul class="top-0 w-50 bg-white px-2 py-2">
+              <ul class="w-auto px-2 py-2 mb-0">
+                <li>
+                  <div
+                    class="block w-full whitespace-nowrap bg-transparent px-4 py-2 text-sm font-normal text-neutral-700 no-underline"
+                  >Signed in as <b>Doctor</b></div> <!-- TODO: Change to the appropriate Role -->
+                </li>
+                <hr
+                  class="my-1 h-0 border border-t-0 border-solid border-blue-950 opacity-50"/>
                 <li>
                   <a
-                    class="block w-full whitespace-nowrap bg-transparent px-4 py-2 text-sm font-normal text-neutral-700 hover:bg-neutral-100 active:text-neutral-800 active:no-underline disabled:pointer-events-none disabled:bg-transparent disabled:text-neutral-400 dark:text-neutral-200 dark:hover:bg-neutral-600"
+                    class="block w-full whitespace-nowrap bg-transparent px-4 py-2 text-sm font-normal text-neutral-700 no-underline"
                     href="#"
-                  >Signed in as <b>Patient</b></a
+                  >View Profile</a
                   >
                 </li>
                 <li>
                   <a
-                    class="block w-full whitespace-nowrap bg-transparent px-4 py-2 text-sm font-normal text-neutral-700 hover:bg-neutral-100 active:text-neutral-800 active:no-underline disabled:pointer-events-none disabled:bg-transparent disabled:text-neutral-400 dark:text-neutral-200 dark:hover:bg-neutral-600"
-                    href="#"
-                  >Profile</a
-                  >
-                </li>
-                <li>
-                  <a
-                    class="block w-full whitespace-nowrap bg-transparent px-4 py-2 text-sm font-normal text-neutral-700 hover:bg-neutral-100 active:text-neutral-800 active:no-underline disabled:pointer-events-none disabled:bg-transparent disabled:text-neutral-400 dark:text-neutral-200 dark:hover:bg-neutral-600"
-                  >Trials List</a
-                  >
-                </li>
-                <li>
-                  <a
-                    class="block w-full whitespace-nowrap bg-transparent px-4 py-2 text-sm font-normal text-neutral-700 hover:bg-neutral-100 active:text-neutral-800 active:no-underline disabled:pointer-events-none disabled:bg-transparent disabled:text-neutral-400 dark:text-neutral-200 dark:hover:bg-neutral-600"
-                    href="#"
-                  ><3</a
+                    class="block w-full whitespace-nowrap bg-transparent px-4 py-2 text-sm font-normal text-neutral-700 no-underline"
+                  >Saved Trials</a
                   >
                 </li>
                 <hr
-                  class="my-2 h-0 border border-t-0 border-solid border-neutral-700 opacity-25 dark:border-neutral-200"/>
+                  class="my-2 h-0 border border-t-0 border-solid border-neutral-700 opacity-25 dark:border-neutral-200" />
                 <li>
                   <a
                     class="block fw-bold w-full whitespace-nowrap bg-transparent px-4 py-0 text-sm font-normal text-neutral-700 hover:bg-neutral-100 active:text-neutral-800 active:no-underline disabled:pointer-events-none disabled:bg-transparent disabled:text-neutral-400 dark:text-neutral-200 dark:hover:bg-neutral-600"

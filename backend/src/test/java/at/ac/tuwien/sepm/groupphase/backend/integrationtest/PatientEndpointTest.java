@@ -1,5 +1,6 @@
 package at.ac.tuwien.sepm.groupphase.backend.integrationtest;
 
+import at.ac.tuwien.sepm.groupphase.backend.TestUtil;
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.PatientDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientDto;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
@@ -23,7 +24,7 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
-@ActiveProfiles({"test", "generateData"})
+@ActiveProfiles({"test", "generatePatients"})
 @AutoConfigureMockMvc
 public class PatientEndpointTest {
 
@@ -31,6 +32,8 @@ public class PatientEndpointTest {
 
     @Autowired
     private MockMvc mockMvc;
+    @Autowired
+    private TestUtil testUtil;
     @Autowired
     private PatientDataGenerator patientDataGenerator;
     @Autowired
@@ -40,7 +43,7 @@ public class PatientEndpointTest {
 
     @BeforeEach
     public void beforeEach() {
-        patientRepository.deleteAll();
+        testUtil.cleanAll();
         patientDataGenerator.generatePatients();
     }
 

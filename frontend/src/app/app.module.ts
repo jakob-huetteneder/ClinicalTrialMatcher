@@ -14,18 +14,21 @@ import {httpInterceptorProviders} from './interceptors';
 import {NgOptimizedImage} from '@angular/common';
 import {TrialComponent} from './components/trial/trial.component';
 import {CreateTrialComponent} from './components/trial/trial-create/trial-create.component';
-import {RegisterComponent} from './components/register/register.component';
 import {UpdateProfileComponent} from './components/update-profile/update-profile.component';
+import {RegisterComponent} from './components/register/register.component';
 import {UserListComponent} from './components/user-list/user-list.component';
-import {RegisterPatientComponent} from './components/register/register-patient/register-patient.component';
 import {AutocompleteComponent} from './components/autocomplete/autocomplete.component';
-import {PatientDetailComponent} from './components/patient-detail/patient-detail.component';
 import {ToastrModule} from 'ngx-toastr';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import {DeletePopupComponent} from './components/delete-popup/delete-popup.component';
 import {EditTrialComponent} from './components/trial/trial-edit/trial-edit.component';
 import {VerificationComponent} from './components/verification/verification.component';
 import {SetpasswordComponent} from './components/setpassword/setpassword.component';
+import {RegisterPatientComponent} from './components/register/register-patient/register-patient.component';
+import {DiseaseAutocompleteComponent} from './components/disease-autocomplete/disease-autocomplete.component';
+import {PatientDetailComponent} from './components/patient-detail/patient-detail.component';
+import {CreateEditExaminationComponent} from './components/examination/create-edit-examination/create-edit-examination.component';
+import {DiagnoseComponent} from './components/diagnose/diagnose.component';
 
 @NgModule({
   declarations: [
@@ -46,6 +49,10 @@ import {SetpasswordComponent} from './components/setpassword/setpassword.compone
     RegisterPatientComponent,
     AutocompleteComponent,
     PatientDetailComponent,
+    DiseaseAutocompleteComponent,
+    PatientDetailComponent,
+    CreateEditExaminationComponent,
+    DiagnoseComponent
   ],
   imports: [
     BrowserModule,

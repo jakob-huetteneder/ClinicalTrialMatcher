@@ -26,6 +26,7 @@ public class PatientMapper {
             .setExaminations(patientDto.examinations());
     }
 
+
     public PatientDto patientToPatientDto(Patient patient) {
         return new PatientDto(patient.getId(),
             patient.getApplicationUser(),

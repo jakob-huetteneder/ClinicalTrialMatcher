@@ -9,7 +9,7 @@
   <div class="text-xl mb-3 mt-3">Welcome to ClinicalMatcher!</div>
 </div>
 
-<div class="whitebox flex justify-center container text-in-button mb-10 {{pulse()}}">
+<div class="whitebox flex justify-center container mb-10 {{pulse()}}">
   <div class="fw-bold grid grid-cols-1 justify-items-center container mt-3 ml-3">
     <div class="text-lg">{{patient.firstName}} {{patient.lastName}}</div>
   </div>
@@ -30,9 +30,9 @@
       </div>
       <div class="flex flex-col flex-1">
         <div class="flex flex-col flex-1">
-        <input disabled class="border-0 ml-5 mr-5 h-10 pl-2 mb-2 mt-2 inputfield"
-               placeholder="{{patient.firstName}}">
-      </div>
+          <input disabled class="border-0 ml-5 mr-5 h-10 pl-2 mb-2 mt-2 inputfield"
+                 placeholder="{{patient.firstName}}">
+        </div>
         <div class="flex flex-col flex-1">
           <input disabled class="border-0 ml-5 mr-5 h-10 pl-2 mb-2 mt-2 inputfield"
                  placeholder="{{patient.email}}">
@@ -106,20 +106,29 @@
             Diagnoses
           </div>
         </div>
+        <div class="flex flex-row flex-initial">
+          <div routerLink="diagnose/create" class="fw-bold mb-2 mt-1 hover:cursor-pointer"><i class="bi bi-plus-lg ml-2"></i>
+          </div>
+        </div>
       </div>
       <div class="flex lg:flex-row flex-col" *ngFor="let diagnosis of patient.diagnoses">
-          <div class="flex flex-col flex-1" *ngIf="!edit">
-            <input disabled class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 pl-2 inputfield border-0"
-                   placeholder="{{diagnosis.disease.name}}">
-          </div>
-          <div class="flex flex-col flex-1" *ngIf="!edit">
+        <div class="flex flex-col flex-1" *ngIf="!edit">
+          <input disabled class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 pl-2 inputfield border-0"
+                 placeholder="{{diagnosis.disease.name}}">
+        </div>
+        <div class="flex flex-col flex-1" *ngIf="!edit">
           <textarea readonly maxlength="1000" placeholder="{{diagnosis.note}}"
                     class="min-h-[2.5rem] mr-2 h-10 mb-2 mt-2 inputfield border-0"></textarea>
-          </div>
-          <div class="flex flex-col flex-1" *ngIf="!edit">
-            <input disabled class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 pl-2 inputfield border-0"
-                   placeholder="{{diagnosis.date}}">
-          </div>
+        </div>
+        <div class="flex flex-col flex-1" *ngIf="!edit">
+          <input disabled class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 pl-2 inputfield border-0"
+                 placeholder="{{diagnosis.date}}">
+        </div>
+        <div class="flex flex-col flex-initial">
+          <button [routerLink]="'diagnose/edit/' + diagnosis.id" class="rounded w-35 p-2 mt-2 h-10 text-black mr-5 ml-0">
+            <i class="bi bi-pencil"></i>
+          </button>
+        </div>
       </div>
     </div>
   </div>
@@ -136,8 +145,13 @@
           Examinations
         </div>
       </div>
+      <div class="flex flex-row flex-initial">
+        <div routerLink="examination/create" class="fw-bold mb-2 mt-1 hover:cursor-pointer"><i class="bi bi-plus-lg ml-2"></i>
+        </div>
+      </div>
     </div>
-    <div class="flex flex-col lg:flex-row" *ngFor="let examination of patient.examinations">
+    <div *ngFor="let examination of patient.examinations">
+      <div class="flex flex-col lg:flex-row">
       <div class="flex flex-col flex-1" *ngIf="!edit">
         <input disabled type="text" placeholder="{{examination.name}}"
                class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 inputfield border-0">
@@ -154,6 +168,23 @@
         <input disabled class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 pl-2 inputfield border-0"
           placeholder="{{examination.date}}">
       </div>
+      <div class="flex flex-col flex-initial">
+        <button class="rounded w-35 p-2 mt-2 h-10 text-black mr-5 ml-0" (click)="load(examination.id)">
+        <i class="bi bi-image"></i>
+        </button>
+
+      </div>
+      <div class="flex flex-col flex-initial">
+        <button [routerLink]="'examination/edit/' + examination.id" class="rounded w-35 p-2 mt-2 h-10 text-black mr-5 ml-0">
+          <i class="bi bi-pencil"></i>
+        </button>
+      </div>
+
+      </div>
+      <img #medicalImages
+           [hidden]="examinationsImageHidden[getIndexById(examination.id)]" alt="Selected Image"
+           (click)="examinationsImageHidden[getIndexById(examination.id)] = true"
+                 />
     </div>
     <div class="container mt-10">
       <button (click)="submit()"

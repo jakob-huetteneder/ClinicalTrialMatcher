@@ -10,6 +10,10 @@ import {UpdateProfileComponent} from './components/update-profile/update-profile
 import {EditTrialComponent} from './components/trial/trial-edit/trial-edit.component';
 import {RegisterPatientComponent} from './components/register/register-patient/register-patient.component';
 import {PatientDetailComponent} from './components/patient-detail/patient-detail.component';
+import {DiagnoseComponent} from './components/diagnose/diagnose.component';
+import {DiagnoseCreateEditMode} from './components/diagnose/diagnose.component';
+import {CreateEditExaminationComponent} from './components/examination/create-edit-examination/create-edit-examination.component';
+import {ExaminationCreateEditMode} from './components/examination/create-edit-examination/create-edit-examination.component';
 import {VerificationComponent} from './components/verification/verification.component';
 import {SetpasswordComponent} from './components/setpassword/setpassword.component';
 
@@ -32,7 +36,20 @@ const routes: Routes = [
   },
   {path: 'verification', component: VerificationComponent},
   {path: 'password/:code', component: SetpasswordComponent},
-  {path: 'patient/:id', component: PatientDetailComponent},
+  {path: 'patient', children: [
+    {path: '', component: PatientDetailComponent},
+    {path: ':id', children: [
+      {path: '', component: PatientDetailComponent},
+      {path: 'examination', children: [
+        {path: 'create', component: CreateEditExaminationComponent, data: {mode: ExaminationCreateEditMode.create}},
+        {path: 'edit/:eid', component: CreateEditExaminationComponent, data: {mode: ExaminationCreateEditMode.edit}},
+      ]},
+        {path: 'diagnose', children: [
+          {path: 'create', component: DiagnoseComponent, data: {mode: DiagnoseCreateEditMode.create}},
+          {path: 'edit/:did', component: DiagnoseComponent, data: {mode: DiagnoseCreateEditMode.edit}},
+        ]},
+    ]},
+  ]},
   {path: '**', redirectTo: ''},
 ];
 

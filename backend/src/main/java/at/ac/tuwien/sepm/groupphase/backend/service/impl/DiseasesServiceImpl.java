@@ -8,7 +8,7 @@ import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.DiseaseMapper;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.PatientMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Disease;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
-import at.ac.tuwien.sepm.groupphase.backend.repository.DiseasesRepository;
+import at.ac.tuwien.sepm.groupphase.backend.repository.DiseaseRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
 import at.ac.tuwien.sepm.groupphase.backend.service.DiseasesService;
 import at.ac.tuwien.sepm.groupphase.backend.service.PatientService;
@@ -24,17 +24,17 @@ import java.util.stream.Stream;
 public class DiseasesServiceImpl implements DiseasesService {
     private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
 
-    private final DiseasesRepository diseasesRepository;
+    private final DiseaseRepository diseaseRepository;
     private final DiseaseMapper diseaseMapper;
 
-    public DiseasesServiceImpl(DiseasesRepository diseasesRepository, DiseaseMapper diseaseMapper) {
-        this.diseasesRepository = diseasesRepository;
+    public DiseasesServiceImpl(DiseaseRepository diseaseRepository, DiseaseMapper diseaseMapper) {
+        this.diseaseRepository = diseaseRepository;
         this.diseaseMapper = diseaseMapper;
     }
 
     @Override
     public Stream<DiseaseDto> search(DiseaseSearchDto searchParams) {
-        return diseasesRepository.findDiseasesWithPartOfName(searchParams.name()).stream()
+        return diseaseRepository.findDiseasesWithPartOfName(searchParams.name()).stream()
             .limit(searchParams.limit()).map(diseaseMapper::diseaseToDiseaseDto);
     }
 }
