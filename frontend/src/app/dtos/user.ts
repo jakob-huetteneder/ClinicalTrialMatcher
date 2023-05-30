@@ -14,4 +14,5 @@ export interface User {
   role?: Role;
   status?: Status;
   oldPassword?: string;
+  admin?: boolean;
 }
