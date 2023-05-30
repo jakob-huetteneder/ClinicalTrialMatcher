@@ -168,9 +168,14 @@
           placeholder="{{examination.date}}">
       </div>
       <div class="flex flex-col flex-initial">
-        <button [routerLink]="'diagnose/create' + examination.id" class="rounded w-35 p-2 mt-2 h-10 text-black mr-5 ml-0">
-          <i class="bi bi-image"></i>  <!-- TODO: change to image -->
+        <button class="rounded w-35 p-2 mt-2 h-10 text-black mr-5 ml-0" (click)="load(examination.id, image)">
+        <i class="bi bi-image"></i>  <!-- TODO: change to image -->
         </button>
+
+        <img *ngIf="examinationsImageVisible[getIndexById(examination.id)]" alt="Selected Image" (click)="zoomImage($event)" #image
+             class="{{!imageFocus ? 'w-25 transition ease-in-out hover:cursor-pointer delay-100 ' +
+          'duration-300 hover:-translate-y-0 hover:scale-110' : ''}}" />
+
       </div>
       <div class="flex flex-col flex-initial">
         <button [routerLink]="'examination/edit/' + examination.id" class="rounded w-35 p-2 mt-2 h-10 text-black mr-5 ml-0">
