@@ -15,6 +15,20 @@ export class UserListComponent implements OnInit {
 
   users: User[] = [];
   editedUsers: User[] = []; // stores the old values of currently edited users
+  addingUser = false;
+
+  toRegister: User = {
+    firstName: '',
+    lastName: '',
+    email: '',
+    password: 'password',
+    gender: undefined,
+    birthdate: undefined,
+    role: undefined,
+    status: Status.suspended,
+    admin: true
+  };
+  checkmail = '';
 
   constructor(
     private userService: UserService
@@ -45,6 +59,22 @@ export class UserListComponent implements OnInit {
     });
   }
 
+  saveUser() {
+    console.log('Create User: ' + this.checkmail);
+
+    this.userService.createUser(this.toRegister).subscribe({
+      next: () => {
+        console.log('Created User: ' + this.toRegister.email);
+      },
+      error: error => {
+        console.log('Something went wrong while creating user: ' + error.error.message);
+      }
+    });
+
+    window.location.reload();
+  }
+
+
   confirmEditUser(user: User) {
     console.log('Update user: ' + user.email);
     const updatedUserPromise = this.userService.updateUserById(user);
@@ -72,8 +102,28 @@ export class UserListComponent implements OnInit {
     this.resetUser(user.id);
   }
 
+  discardAddUser() {
+    console.log('Discard user: ');
+    this.addingUser = false;
+  }
+
+  activateUser(user: User) {
+    console.log('Activate user: ' + user.email);
+    user.status = Status.active;
+
+    this.confirmEditUser(user);
+  }
+
   isEdited(user: User): boolean {
     return this.editedUsers.some(editedUser => editedUser.id === user.id);
+  }
+
+  addUser() {
+    this.addingUser = true;
+  }
+
+  onAdd(): boolean {
+    return this.addingUser;
   }
 
   roleName(role: Role): string {
@@ -81,7 +131,7 @@ export class UserListComponent implements OnInit {
   }
 
   statusName(status: Status): string {
-    return status.charAt(0).toUpperCase() + status.slice(1).toLowerCase();
+    return status.charAt(0).toUpperCase() + status.slice(1).toLowerCase().replace('_', ' ');
   }
 
   private loadUsers() {

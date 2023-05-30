@@ -12,4 +12,6 @@ import org.springframework.stereotype.Repository;
 public interface UserRepository extends JpaRepository<ApplicationUser, Long> {
 
     ApplicationUser findByEmail(String email);
+
+    ApplicationUser findByVerification(String verification);
 }

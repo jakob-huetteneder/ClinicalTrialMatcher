@@ -2,24 +2,31 @@ package at.ac.tuwien.sepm.groupphase.backend.endpoint;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserDetailDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserRegisterDto;
+import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
 import at.ac.tuwien.sepm.groupphase.backend.security.AuthorizationService;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserUpdateDto;
 import at.ac.tuwien.sepm.groupphase.backend.service.UserService;
 import jakarta.annotation.security.PermitAll;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
 import jakarta.validation.Valid;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.data.repository.query.Param;
 import org.springframework.security.access.annotation.Secured;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
-import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.io.IOException;
 import java.lang.invoke.MethodHandles;
+import java.net.URLDecoder;
+import java.net.URLEncoder;
 import java.util.List;
 
 @RestController
@@ -79,11 +86,27 @@ public class UserEndpoint {
 
     @PermitAll
     @PostMapping
-    public UserDetailDto createUser(@RequestBody UserRegisterDto toCreate) {
+    public UserDetailDto createUser(@RequestBody @Valid UserRegisterDto toCreate, @Param("url") String url, HttpServletRequest request) {
         LOG.info("POST " + BASE_URL + "/");
         LOG.debug("Body of request: {}", toCreate);
+        return userService.createUser(toCreate, getSiteUrl(request), URLDecoder.decode(url));
+    }
 
-        return userService.createUser(toCreate);
+    private String getSiteUrl(HttpServletRequest request) {
+        String siteUrl = request.getRequestURL().toString();
+        return siteUrl.replace(request.getServletPath(), "") + BASE_URL;
+    }
+
+    @GetMapping(path = "/verify")
+    public void verifyUser(@Param("code") String code, @Param("role") Role role, @Param("url") String url, HttpServletResponse resp) throws IOException {
+        if (this.userService.verify(code, role)) {
+            resp.sendRedirect(url + "#/verification");
+        }
+    }
+
+    @GetMapping(path = "/password")
+    public boolean setPassword(@Param("code") String code, @Param("pass") String pass) throws IOException {
+        return userService.setPassword(pass, code);
     }
 
 }

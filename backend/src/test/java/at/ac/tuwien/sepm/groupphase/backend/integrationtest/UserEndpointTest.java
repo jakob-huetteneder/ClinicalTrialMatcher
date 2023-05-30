@@ -24,12 +24,18 @@ import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.MvcResult;
 
+import java.net.URLEncoder;
+import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNull;
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.put;
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
@@ -315,5 +321,62 @@ public class UserEndpointTest {
             () -> assertEquals(HttpStatus.OK.value(), response.getStatus()),
             () -> assertTrue(userRepository.findById(user.getId()).isEmpty())
         );
+    }
+
+    @Test
+    public void verifyUser() throws Exception {
+        ApplicationUser user = userDataGenerator.generateUser(Role.PATIENT);
+        user.setStatus(Status.ACTION_REQUIRED);
+        user = userRepository.save(user);
+
+        List<String> userRoles = new ArrayList<>() {
+            {
+                add("ROLE_USER");
+            }
+        };
+
+        ApplicationUser applicationUser = userRepository.findById(user.getId()).orElseThrow();
+        assertEquals(applicationUser.getStatus(), Status.ACTION_REQUIRED);
+        assertEquals(applicationUser.getVerification(), user.getVerification());
+
+        MvcResult mvcResult = this.mockMvc.perform(get(USER_BASE_URI + "/verify?code=" + user.getVerification()+ "&role="+ Role.PATIENT + "&url="+ URLEncoder.encode("test/#/", StandardCharsets.UTF_8))
+                .header(securityProperties.getAuthHeader(), jwtTokenizer.getAuthToken(user.getId().toString(), userRoles)))
+            .andDo(print())
+            .andReturn();
+        MockHttpServletResponse response = mvcResult.getResponse();
+
+        assertEquals(HttpStatus.MOVED_TEMPORARILY.value(), response.getStatus());
+        ApplicationUser updatedUser = userRepository.findById(user.getId()).orElseThrow();
+        assertEquals(updatedUser.getStatus(), Status.ACTIVE);
+        assertNull(updatedUser.getVerification());
+    }
+
+    @Test
+    public void failVerifyUser() throws Exception {
+        ApplicationUser user = userDataGenerator.generateUser(Role.PATIENT);
+        user.setStatus(Status.ACTION_REQUIRED);
+        user = userRepository.save(user);
+
+        List<String> userRoles = new ArrayList<>() {
+            {
+                add("ROLE_USER");
+            }
+        };
+
+        ApplicationUser applicationUser = userRepository.findById(user.getId()).orElseThrow();
+        assertEquals(applicationUser.getStatus(), Status.ACTION_REQUIRED);
+        assertEquals(applicationUser.getVerification(), user.getVerification());
+
+        MvcResult mvcResult = this.mockMvc.perform(get(USER_BASE_URI + "/verify?code=test" + "&role="+ Role.PATIENT + "&url="+ URLEncoder.encode("test/#/", StandardCharsets.UTF_8))
+                .header(securityProperties.getAuthHeader(), jwtTokenizer.getAuthToken(user.getId().toString(), userRoles)))
+            .andDo(print())
+            .andReturn();
+
+        MockHttpServletResponse response = mvcResult.getResponse();
+
+        assertEquals(HttpStatus.OK.value(), response.getStatus());
+        ApplicationUser updatedUser = userRepository.findById(user.getId()).orElseThrow();
+        assertEquals(updatedUser.getStatus(), Status.ACTION_REQUIRED);
+        assertEquals(applicationUser.getVerification(), user.getVerification());
     }
 }

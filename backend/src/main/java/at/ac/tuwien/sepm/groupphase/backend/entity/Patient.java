@@ -47,6 +47,9 @@ public class Patient {
     @Column(name = "gender", nullable = false)
     private Gender gender;
 
+    @Column(name = "verification")
+    private String verification;
+
     @ManyToMany(fetch = FetchType.EAGER)
     private Set<Doctor> doctors;
 
@@ -155,5 +158,13 @@ public class Patient {
     public Patient setExaminations(Set<Examination> examinations) {
         this.examinations = examinations;
         return this;
+    }
+
+    public String getVerification() {
+        return verification;
+    }
+
+    public void setVerification(String verification) {
+        this.verification = verification;
     }
 }

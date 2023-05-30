@@ -34,8 +34,6 @@ public class UserDataGenerator {
         }
     }
 
-
-
     public ApplicationUser generateUser() {
         return generateUser(Role.PATIENT);
     }
@@ -57,6 +55,7 @@ public class UserDataGenerator {
             .setLastName(lastName)
             .setEmail(email)
             .setPassword(password)
-            .setStatus(status));
+            .setStatus(status)
+            .setVerification(faker.internet().macAddress()));
     }
 }

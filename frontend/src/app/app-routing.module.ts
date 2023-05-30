@@ -10,6 +10,8 @@ import {UpdateProfileComponent} from './components/update-profile/update-profile
 import {EditTrialComponent} from './components/trial/trial-edit/trial-edit.component';
 import {RegisterPatientComponent} from './components/register/register-patient/register-patient.component';
 import {PatientDetailComponent} from './components/patient-detail/patient-detail.component';
+import {VerificationComponent} from './components/verification/verification.component';
+import {SetpasswordComponent} from './components/setpassword/setpassword.component';
 
 const routes: Routes = [
   {path: '', component: HomeComponent},
@@ -28,6 +30,8 @@ const routes: Routes = [
       {path: 'patient', component: RegisterPatientComponent}
     ]
   },
+  {path: 'verification', component: VerificationComponent},
+  {path: 'password/:code', component: SetpasswordComponent},
   {path: 'patient/:id', component: PatientDetailComponent},
   {path: '**', redirectTo: ''},
 ];

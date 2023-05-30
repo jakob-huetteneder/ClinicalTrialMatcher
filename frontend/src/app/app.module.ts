@@ -24,6 +24,8 @@ import {ToastrModule} from 'ngx-toastr';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import {DeletePopupComponent} from './components/delete-popup/delete-popup.component';
 import {EditTrialComponent} from './components/trial/trial-edit/trial-edit.component';
+import {VerificationComponent} from './components/verification/verification.component';
+import {SetpasswordComponent} from './components/setpassword/setpassword.component';
 
 @NgModule({
   declarations: [
@@ -38,6 +40,8 @@ import {EditTrialComponent} from './components/trial/trial-edit/trial-edit.compo
     EditTrialComponent,
     RegisterComponent,
     UserListComponent,
+    VerificationComponent,
+    SetpasswordComponent,
     DeletePopupComponent,
     RegisterPatientComponent,
     AutocompleteComponent,

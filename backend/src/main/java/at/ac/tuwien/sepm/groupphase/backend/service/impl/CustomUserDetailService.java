@@ -8,14 +8,18 @@ import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.UserMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
+import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Status;
 import at.ac.tuwien.sepm.groupphase.backend.exception.NotFoundException;
 import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
 import at.ac.tuwien.sepm.groupphase.backend.security.AuthorizationService;
+import at.ac.tuwien.sepm.groupphase.backend.service.EmailService;
 import at.ac.tuwien.sepm.groupphase.backend.service.UserService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+
+import org.springframework.data.domain.Sort;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
@@ -33,14 +37,17 @@ public class CustomUserDetailService implements UserService {
     private final UserMapper userMapper;
     private final AuthorizationService authorizationService;
     private final PasswordEncoder passwordEncoder;
+    private final EmailService emailService;
 
     @Autowired
-    public CustomUserDetailService(UserRepository userRepository, PatientRepository patientRepository, UserMapper userMapper, AuthorizationService authorizationService, PasswordEncoder passwordEncoder) {
+    public CustomUserDetailService(UserRepository userRepository, PatientRepository patientRepository, AuthorizationService authorizationService,
+                                   UserMapper userMapper, PasswordEncoder passwordEncoder, EmailService emailService) {
         this.userRepository = userRepository;
         this.patientRepository = patientRepository;
         this.userMapper = userMapper;
         this.authorizationService = authorizationService;
         this.passwordEncoder = passwordEncoder;
+        this.emailService = emailService;
     }
 
     @Override
@@ -58,7 +65,8 @@ public class CustomUserDetailService implements UserService {
         LOGGER.debug("Update user with email {}", user.email());
         Optional<ApplicationUser> applicationUser = userRepository.findById(user.id());
 
-        ApplicationUser foundUser = applicationUser.orElseThrow(() -> new NotFoundException(String.format("Could not find the user with the id %d", user.id())));
+        ApplicationUser foundUser = applicationUser.orElseThrow(() -> new NotFoundException(String.format("Could not find the user with the id %d",
+            user.id())));
         if (user.firstName() != null) {
             foundUser.setFirstName(user.firstName());
         }
@@ -83,7 +91,7 @@ public class CustomUserDetailService implements UserService {
 
     @Override
     public List<UserDetailDto> getAllUsers() {
-        return userRepository.findAll().stream().map(userMapper::applicationUserToUserDetailDto).toList();
+        return userRepository.findAll(Sort.by(Sort.Direction.ASC, "status")).stream().map(userMapper::applicationUserToUserDetailDto).toList();
     }
 
     @Override
@@ -102,15 +110,60 @@ public class CustomUserDetailService implements UserService {
     }
 
     @Override
-    public UserDetailDto createUser(UserRegisterDto user) {
+    public UserDetailDto createUser(UserRegisterDto user, String siteUrl, String redirectUrl) {
         LOGGER.debug("Create user with email {}", user.getEmail());
         user.setPassword(passwordEncoder.encode(user.getPassword()));
         ApplicationUser applicationUser = userMapper.userRegisterDtoToApplicationUser(user);
+        applicationUser.setVerification(passwordEncoder.encode(user.getEmail()));
         applicationUser = userRepository.save(applicationUser);
+        userRepository.flush();
         if (user.getRole() == Role.PATIENT) {
+            applicationUser.setStatus(Status.ACTION_REQUIRED);
             Patient patient = userMapper.userRegisterDtoToPatient(user, applicationUser);
             patientRepository.save(patient);
         }
+        if (user.isCreatedByAdmin()) {
+            this.emailService.setPasswordEmail(applicationUser);
+        } else {
+            this.emailService.sendVerificationEmail(applicationUser, siteUrl, user.getRole(), redirectUrl);
+        }
         return userMapper.applicationUserToUserDetailDto(applicationUser);
+    }
+
+    @Override
+    public boolean verify(String verificationCode, Role role) {
+        ApplicationUser user = userRepository.findByVerification(verificationCode);
+
+        if (user == null || user.getStatus() == Status.ACTIVE) {
+            return false;
+        } else {
+            user.setVerification(null);
+            if (role == Role.PATIENT) {
+                user.setStatus(Status.ACTIVE);
+            } else {
+                user.setStatus(Status.PENDING);
+            }
+            userRepository.save(user);
+
+            return true;
+        }
+
+    }
+
+    @Override
+    public boolean setPassword(String pass, String verificationCode) {
+        ApplicationUser applicationUser = userRepository.findByVerification(verificationCode);
+
+        if (applicationUser == null || applicationUser.getStatus() == Status.ACTIVE) {
+            return false;
+        } else {
+            applicationUser.setVerification(null);
+            applicationUser.setStatus(Status.ACTIVE);
+            applicationUser.setPassword(passwordEncoder.encode(pass));
+            userRepository.save(applicationUser);
+
+            return true;
+        }
+
     }
 }

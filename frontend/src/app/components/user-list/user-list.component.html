@@ -1,4 +1,3 @@
-
 <div class="mt-3">
   <table class="table table-hover">
     <thead>
@@ -10,12 +9,14 @@
     <th class="min-width">Actions</th>
     </thead>
     <tbody>
-    <tr *ngFor="let user of users" class="center-td">
+    <tr *ngFor="let user of users" class="center-td" [ngStyle]="{'background': (user.status === 'ACTIVE') ? '#C9E4DE' : (user.status === 'SUSPENDED') ? '#F7D9C4' : (user.status === 'PENDING') ? '#C6DEF1' : (user.status === 'ACTION_REQUIRED') ? '#C6DEF1' : ''}">
       <td *ngIf="!isEdited(user)">{{user.firstName}}</td>
-      <td *ngIf="isEdited(user)"><input type="text" class="form-control-sm" [(ngModel)]="user.firstName" name="firstName"></td>
+      <td *ngIf="isEdited(user)"><input type="text" class="form-control-sm" [(ngModel)]="user.firstName"
+                                        name="firstName"></td>
 
       <td *ngIf="!isEdited(user)">{{user.lastName}}</td>
-      <td *ngIf="isEdited(user)"><input type="text" class="form-control-sm" [(ngModel)]="user.lastName" name="lastName"></td>
+      <td *ngIf="isEdited(user)"><input type="text" class="form-control-sm" [(ngModel)]="user.lastName" name="lastName">
+      </td>
 
       <td *ngIf="!isEdited(user)">{{user.email}}</td>
       <td *ngIf="isEdited(user)"><input type="text" class="form-control-sm" [(ngModel)]="user.email" name="email"></td>
@@ -23,6 +24,8 @@
       <td *ngIf="!isEdited(user)">{{statusName(user.status)}}</td>
       <td *ngIf="isEdited(user)"><select name="status" class="form-select-sm" [(ngModel)]="user.status">
         <option value="ACTIVE">Active</option>
+        <option value="ACTION_REQUIRED">Action required</option>
+        <option value="PENDING">Pending</option>
         <option value="SUSPENDED">Suspended</option>
       </select></td>
 
@@ -43,6 +46,12 @@
              *ngIf="!isEdited(user)">
             <i class="bi bi-trash3"></i>
           </a>
+          <a class="btn btn-sm btn-outline-success"
+             (click)="activateUser(user)"
+             aria-label="Discard changes"
+             *ngIf="!isEdited(user) && user.status === 'PENDING'">
+            <i class="bi bi-check"></i>
+          </a>
           <a class="btn btn-sm btn-success"
              (click)="confirmEditUser(user)"
              aria-label="Confirm changes"
@@ -53,6 +62,49 @@
              (click)="discardEditUser(user)"
              aria-label="Discard changes"
              *ngIf="isEdited(user)">
+            <i class="bi bi-x"></i>
+          </a>
+        </div>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+  <div class="text-center">
+    <button type="button" (click)="addUser()"
+            class="btn btn-primary text-white transition ease-in-out delay-100 duration-300 bg-blue-500 hover:-translate-y-0 hover:scale-110 hover:bg-blue-400">
+      +
+    </button>
+  </div>
+  <table *ngIf="onAdd()" class="table table-hover">
+    <thead>
+    <th>First Name</th>
+    <th>Last Name</th>
+    <th>E-Mail</th>
+    <th>Role</th>
+    <th class="min-width">Actions</th>
+    </thead>
+    <tbody>
+    <tr class="center-td">
+      <td><input type="text" class="form-control-sm" id="firstName" name="firstName" [(ngModel)]="toRegister.firstName"></td>
+      <td><input type="text" class="form-control-sm" id="lastName" name="lastName" [(ngModel)]="toRegister.lastName"></td>
+      <td><input type="text" class="form-control-sm" id="email" name="email" [(ngModel)]="toRegister.email"></td>
+
+      <td><select id="role" name="role" [(ngModel)]="toRegister.role" class="form-select-sm">
+        <option value="ADMIN">Admin</option>
+        <option value="DOCTOR">Doctor</option>
+        <option value="RESEARCHER">Researcher</option>
+      </select></td>
+
+      <td>
+        <div class="btn-group">
+          <a class="btn btn-sm btn-outline-success"
+             (click)="saveUser()"
+             aria-label="Edit user">
+            <i class="bi bi-check"></i>
+          </a>
+          <a class="btn btn-sm btn-secondary"
+             (click)="discardAddUser()"
+             aria-label="Discard changes">
             <i class="bi bi-x"></i>
           </a>
         </div>
