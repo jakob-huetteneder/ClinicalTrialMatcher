@@ -107,7 +107,7 @@
           </div>
         </div>
         <div class="flex flex-row flex-initial">
-          <div routerLink="diagnose" class="fw-bold mb-2 mt-1 hover:cursor-pointer"><i class="bi bi-plus-lg ml-2"></i>
+          <div routerLink="diagnose/create" class="fw-bold mb-2 mt-1 hover:cursor-pointer"><i class="bi bi-plus-lg ml-2"></i>
           </div>
         </div>
       </div>
@@ -125,7 +125,7 @@
                  placeholder="{{diagnosis.date}}">
         </div>
         <div class="flex flex-col flex-initial">
-          <button [routerLink]="'diagnose/' + diagnosis.id" class="rounded w-35 p-2 mt-2 h-10 text-black mr-5 ml-0">
+          <button [routerLink]="'diagnose/edit/' + diagnosis.id" class="rounded w-35 p-2 mt-2 h-10 text-black mr-5 ml-0">
             <i class="bi bi-pencil"></i>
           </button>
         </div>
@@ -146,7 +146,7 @@
         </div>
       </div>
       <div class="flex flex-row flex-initial">
-        <div routerLink="examination" class="fw-bold mb-2 mt-1 hover:cursor-pointer"><i class="bi bi-plus-lg ml-2"></i>
+        <div routerLink="examination/create" class="fw-bold mb-2 mt-1 hover:cursor-pointer"><i class="bi bi-plus-lg ml-2"></i>
         </div>
       </div>
     </div>
@@ -168,12 +168,12 @@
                placeholder="{{examination.date}}">
       </div>
       <div class="flex flex-col flex-initial">
-        <button [routerLink]="'diagnose/' + examination.id" class="rounded w-35 p-2 mt-2 h-10 text-black mr-5 ml-0">
+        <button [routerLink]="'diagnose/create' + examination.id" class="rounded w-35 p-2 mt-2 h-10 text-black mr-5 ml-0">
           <i class="bi bi-image"></i>  <!-- TODO: change to image -->
         </button>
       </div>
       <div class="flex flex-col flex-initial">
-        <button [routerLink]="'examination/' + examination.id" class="rounded w-35 p-2 mt-2 h-10 text-black mr-5 ml-0">
+        <button [routerLink]="'examination/edit/' + examination.id" class="rounded w-35 p-2 mt-2 h-10 text-black mr-5 ml-0">
           <i class="bi bi-pencil"></i>
         </button>
       </div>
