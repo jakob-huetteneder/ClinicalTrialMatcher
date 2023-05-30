@@ -15,7 +15,7 @@ import {NgOptimizedImage} from '@angular/common';
 import { RegisterComponent } from './components/register/register.component';
 import {UserListComponent} from './components/user-list/user-list.component';
 import { RegisterPatientComponent } from './components/register/register-patient/register-patient.component';
-import {AutocompleteComponent} from './components/autocomplete/autocomplete.component';
+import {DiseaseAutocompleteComponent} from './components/disease-autocomplete/disease-autocomplete.component';
 import { PatientDetailComponent } from './components/patient-detail/patient-detail.component';
 import {
   CreateEditExaminationComponent
@@ -32,7 +32,7 @@ import { DiagnoseComponent } from './components/diagnose/diagnose.component';
     RegisterComponent,
     UserListComponent,
     RegisterPatientComponent,
-    AutocompleteComponent,
+    DiseaseAutocompleteComponent,
     PatientDetailComponent,
     CreateEditExaminationComponent,
     DiagnoseComponent

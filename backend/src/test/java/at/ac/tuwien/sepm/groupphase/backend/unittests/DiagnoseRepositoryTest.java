@@ -41,9 +41,8 @@ public class DiagnoseRepositoryTest {
     @Test
     public void testInheritanceOfApplicationUser() {
         Diagnose diagnose = diagnosisDataGenerator.generateDiagnose();
-        Diagnose savedDiagnose = diagnosesRepository.save(diagnose);
         assertDoesNotThrow(() -> {
-            Diagnose persistedDiagnose = diagnosesRepository.findById(savedDiagnose.getId()).orElseThrow();
+            Diagnose persistedDiagnose = diagnosesRepository.findById(diagnose.getId()).orElseThrow();
             assertEquals(persistedDiagnose.getId(), diagnose.getId());
             assertEquals(persistedDiagnose.getPatient(), diagnose.getPatient());
             assertEquals(persistedDiagnose.getDisease(), diagnose.getDisease());

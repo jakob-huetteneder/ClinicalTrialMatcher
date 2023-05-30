@@ -7,7 +7,7 @@ import java.time.LocalDate;
 public record DiagnoseDto(
     long id,
     long patientId,
-    Disease disease,
+    DiseaseDto disease,
     LocalDate date,
     String note
 ) {

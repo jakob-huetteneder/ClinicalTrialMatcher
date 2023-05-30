@@ -9,9 +9,11 @@ import org.springframework.stereotype.Component;
 @Component
 public class DiagnosisMapper {
     private final PatientRepository patientRepository;
+    private final DiseaseMapper diseaseMapper;
 
-    public DiagnosisMapper(PatientRepository patientRepository) {
+    public DiagnosisMapper(PatientRepository patientRepository, DiseaseMapper diseaseMapper) {
         this.patientRepository = patientRepository;
+        this.diseaseMapper = diseaseMapper;
     }
 
     public Diagnose diagnosisDtoToDiagnosis(DiagnoseDto diagnoseDto) {
@@ -19,7 +21,7 @@ public class DiagnosisMapper {
         return new Diagnose()
             .setId(diagnoseDto.id())
             .setPatient(patient)
-            .setDisease(diagnoseDto.disease())
+            .setDisease(diseaseMapper.diseaseDtoToDisease(diagnoseDto.disease()))
             .setDate(diagnoseDto.date())
             .setNote(diagnoseDto.note());
     }
@@ -28,7 +30,7 @@ public class DiagnosisMapper {
         return new DiagnoseDto(
             diagnose.getId(),
             diagnose.getPatient() != null ? diagnose.getPatient().getId() : -1,
-            diagnose.getDisease(),
+            diseaseMapper.diseaseToDiseaseDto(diagnose.getDisease()),
             diagnose.getDate(),
             diagnose.getNote()
         );

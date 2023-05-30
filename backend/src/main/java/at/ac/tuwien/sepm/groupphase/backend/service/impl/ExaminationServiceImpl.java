@@ -23,7 +23,7 @@ import java.util.Objects;
 
 
 @Service
-public class ExaminationDetailService implements ExaminationService {
+public class ExaminationServiceImpl implements ExaminationService {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
     private final ExaminationRepository examinationRepository;
@@ -33,7 +33,7 @@ public class ExaminationDetailService implements ExaminationService {
 
 
     @Autowired
-    public ExaminationDetailService(ExaminationRepository examinationRepository, ExaminationMapper examinationMapper, AuthorizationService authorizationService, UserRepository userRepository) {
+    public ExaminationServiceImpl(ExaminationRepository examinationRepository, ExaminationMapper examinationMapper, AuthorizationService authorizationService, UserRepository userRepository) {
         this.examinationRepository = examinationRepository;
         this.examinationMapper = examinationMapper;
         this.authorizationService = authorizationService;
