@@ -22,17 +22,14 @@ public class DiseaseDataGenerator {
 
     @PostConstruct
     public void generateDiseases() {
-        for (int i = 0; i <= 4; i++) {
-            diseaseRepository.save(new Disease()
-                .setName(faker.disease().internalDisease())
-                .setSynonyms(faker.disease().internalDisease())
-            );
+        for (int i = 0; i <= 200; i++) {
+            generateDisease();
         }
     }
 
     public Disease generateDisease() {
-        return new Disease()
-            .setName(faker.disease().internalDisease())
-            .setSynonyms(faker.disease().internalDisease());
+        return diseaseRepository.save(
+            new Disease()
+            .setName(faker.disease().internalDisease()));
     }
 }

@@ -24,24 +24,23 @@ public class PatientDataGenerator {
     public void generatePatients() {
         for (int i = 0; i < 4; i++) {
             Gender gender = i % 2 == 0 ? Gender.FEMALE : Gender.MALE;
-            patientRepository.save(new Patient()
-                .setEmail(faker.internet().emailAddress())
-                .setFirstName(faker.name().firstName())
-                .setLastName(faker.name().lastName())
-                .setBirthdate(faker.date().birthday()
-                    .toLocalDateTime()
-                    .toLocalDate())
-                .setGender(gender));
+            generatePatient(gender);
         }
     }
 
     public Patient generatePatient() {
-        return new Patient()
-            .setEmail(faker.internet().password())
-            .setFirstName(faker.name().firstName())
-            .setLastName(faker.name().lastName())
-            .setBirthdate(faker.date().birthday()
-                .toLocalDateTime().toLocalDate())
-            .setGender(Gender.MALE);
+        return generatePatient(Gender.MALE);
+    }
+
+    public Patient generatePatient(Gender gender) {
+        return patientRepository.save(
+            new Patient()
+                .setEmail(faker.internet().password())
+                .setFirstName(faker.name().firstName())
+                .setLastName(faker.name().lastName())
+                .setBirthdate(faker.date().birthday()
+                    .toLocalDateTime().toLocalDate())
+                .setGender(gender)
+        );
     }
 }

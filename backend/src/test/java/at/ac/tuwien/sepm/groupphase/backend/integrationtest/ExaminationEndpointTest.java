@@ -74,7 +74,6 @@ public class ExaminationEndpointTest {
     @Test
     public void testGetAllExaminations() throws Exception {
         Patient patient = patientDataGenerator.generatePatient();
-        patient = patientRepository.save(patient);
         List<String> patientRoles = new ArrayList<>() {
             {
                 add("ROLE_USER");
@@ -116,9 +115,7 @@ public class ExaminationEndpointTest {
     @Test
     public void testUpdateExamination() throws Exception {
         Patient patient = patientDataGenerator.generatePatient();
-        patient = patientRepository.save(patient);
         Examination examination = examinationDataGenerator.generateExamination();
-        examination = examinationRepository.save(examination);
         List<String> userRoles = new ArrayList<>() {
             {
                 add("ROLE_USER");
@@ -151,11 +148,9 @@ public class ExaminationEndpointTest {
     @Test
     public void updateSpecificExaminationAsDoctor() throws Exception {
         Patient patient = patientDataGenerator.generatePatient();
-        patient = patientRepository.save(patient);
         ApplicationUser doctor = userDataGenerator.generateUser(Role.DOCTOR);
         doctor = userRepository.save(doctor);
         Examination examination = examinationDataGenerator.generateExamination();
-        examination = examinationRepository.save(examination);
         List<String> adminRoles = new ArrayList<>() {
             {
                 add("ROLE_DOCTOR");
@@ -188,11 +183,9 @@ public class ExaminationEndpointTest {
     @Test
     public void updateSpecificExaminationAsUser() throws Exception {
         Patient patient = patientDataGenerator.generatePatient();
-        patient = patientRepository.save(patient);
         ApplicationUser user = userDataGenerator.generateUser(Role.PATIENT);
         user = userRepository.save(user);
         Examination examination = examinationDataGenerator.generateExamination();
-        examination = examinationRepository.save(examination);
         List<String> adminRoles = new ArrayList<>() {
             {
                 add("ROLE_DOCTOR");

@@ -1,6 +1,7 @@
 import {Component, Input, OnInit} from '@angular/core';
 import {ControlValueAccessor, NG_VALUE_ACCESSOR} from '@angular/forms';
 import {debounceTime, of, Subject, switchMap, tap} from 'rxjs';
+import {Disease} from '../../dtos/patient';
 
 
 /** Component for an autocomplete input, similar to a combo box,
@@ -12,17 +13,17 @@ import {debounceTime, of, Subject, switchMap, tap} from 'rxjs';
  */
 @Component({
   selector: 'app-autocomplete',
-  templateUrl: './autocomplete.component.html',
-  styleUrls: ['./autocomplete.component.scss'],
+  templateUrl: './disease-autocomplete.component.html',
+  styleUrls: ['./disease-autocomplete.component.scss'],
   providers: [
     {
       provide: NG_VALUE_ACCESSOR,
       multi: true,
-      useExisting: AutocompleteComponent,
+      useExisting: DiseaseAutocompleteComponent,
     },
   ]
 })
-export class AutocompleteComponent<T> implements OnInit, ControlValueAccessor {
+export class DiseaseAutocompleteComponent implements OnInit, ControlValueAccessor {
   static counter = 0;
 
   // See documentation of NgClass for comparison
@@ -35,29 +36,23 @@ export class AutocompleteComponent<T> implements OnInit, ControlValueAccessor {
   dataListId: string;
   inputText = '';
   checkValueNeedsToMatchSuggestion = true;
-  value: T | null = null;
-  valueCandidates = new Map<string, T>();
+  value: Disease | null = {
+    id: undefined,
+    name: '',
+    synonyms: '',
+  };
+  valueCandidates = new Map<string, Disease>();
   touched = false;
   disabled = false;
   inputChange = new Subject<string>();
 
   constructor() {
-    const autocompleteId = AutocompleteComponent.counter++;
+    const autocompleteId = DiseaseAutocompleteComponent.counter++;
     this.dataListId = `app-autocomplete-candidates-${autocompleteId}`;
   }
 
-  /** If this is `true`, only inputs that match an option from the suggestion list are considered valid
-   * and are assigned to the model variable `value`.
-   * Setting this to  `false`, only makes sense, if the type `T` of  the model is `string`.
-   */
-  @Input()
-  set valueNeedsToMatchSuggestion(value: string) {
-    this.checkValueNeedsToMatchSuggestion = (value === 'true');
-  }
-
   /** Used to get a list of suggestions.
-   * These are displayed in the data list
-   * and also used to check if input is valid when `valueNeedsToMatchSuggestion` is `true`.
+   * These are displayed in the data list.
    */
   @Input()
   suggestions = (input: string) => of([]);
@@ -67,7 +62,7 @@ export class AutocompleteComponent<T> implements OnInit, ControlValueAccessor {
    * and the data list options
    */
   @Input()
-  formatModel = (model: T | null) => (model as any).toString();
+  formatModel = (model: Disease | null) => (model as any).toString();
 
   // Dummy functions for the callback variables, so that we do not need to check,
   // if one was already registered
@@ -77,7 +72,7 @@ export class AutocompleteComponent<T> implements OnInit, ControlValueAccessor {
   ngOnInit(): void {
     this.inputChange
       .pipe(
-        tap(this.checkIfInputMatchesCandidate.bind(this)),
+        tap(this.inputChanged.bind(this)),
         debounceTime(300),
         switchMap(this.suggestions),
       )
@@ -89,7 +84,6 @@ export class AutocompleteComponent<T> implements OnInit, ControlValueAccessor {
       });
   }
 
-
   public resetInputText(): void {
     if (this.checkValueNeedsToMatchSuggestion) {
       this.inputText = this.formatModel(this.value);
@@ -99,7 +93,7 @@ export class AutocompleteComponent<T> implements OnInit, ControlValueAccessor {
   /* Methods needed for ControlValueAccessor */
 
   public writeValue(obj: any): void {
-    this.setValue(obj as T);
+    this.setValue(obj as Disease);
   }
 
   public registerOnChange(fn: any): void {
@@ -114,31 +108,26 @@ export class AutocompleteComponent<T> implements OnInit, ControlValueAccessor {
     this.disabled = disabled;
   }
 
-  private checkIfInputMatchesCandidate(input: string): void {
+  private inputChanged(input: string): void {
     this.markAsTouched();
-    if (input === '') {
-      this.setValue(null);
-    } else if (!this.checkValueNeedsToMatchSuggestion) {
-      /* Type cast hack. The option `valueNeedsToMatchSuggestion` only makes sense
-       * if  the model type parameter `T` actually is meant to be `string` anyway.
-       * If it is not, expect hell to break loose here.
-      */
-      this.setValue(input as T);
+
+    const selectedValue = this.valueCandidates.get(input);
+    if (selectedValue) {
+      this.setValue(selectedValue);
     } else {
-      const selectedValue = this.valueCandidates.get(input);
-      if (selectedValue) {
-        this.setValue(selectedValue);
-      }
+      this.value.id = undefined;
+      this.value.name = input;
+      this.value.synonyms = '';
     }
   }
 
-  private setValue(newValue: T | null) {
+  private setValue(newValue: Disease | null) {
     this.value = newValue;
     this.inputText = this.formatModel(this.value);
     this.onChange(this.value);
   }
 
-  private onRecieveNewCandidates(result: T[]) {
+  private onRecieveNewCandidates(result: Disease[]) {
     this.valueCandidates.clear();
     for (const candidate of result) {
       this.valueCandidates.set(this.formatModel(candidate), candidate);

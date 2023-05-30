@@ -42,9 +42,8 @@ public class ExaminationRepositoryTest {
     public void testInheritanceOfApplicationUser() {
         Examination examination = examinationDataGenerator.generateExamination();
 
-        Examination savedExamination = examinationRepository.save(examination);
         assertDoesNotThrow(() -> {
-            Examination persistedExamination = examinationRepository.findById(savedExamination.getId()).orElseThrow();
+            Examination persistedExamination = examinationRepository.findById(examination.getId()).orElseThrow();
             assertEquals(persistedExamination.getId(), examination.getId());
             assertEquals(persistedExamination.getPatient(), examination.getPatient());
             assertEquals(persistedExamination.getName(), examination.getName());

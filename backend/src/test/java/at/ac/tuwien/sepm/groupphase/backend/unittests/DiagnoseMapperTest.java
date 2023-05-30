@@ -72,7 +72,7 @@ public class DiagnoseMapperTest {
         assertAll(
             () -> assertEquals(diagnoseDto.id(), diagnose.getId()),
             () -> assertEquals(diagnoseDto.patientId(), diagnose.getPatient().getId()),
-            () -> assertEquals(diagnoseDto.disease(), diagnose.getDisease()),
+            () -> assertEquals(diagnoseDto.disease().name(), diagnose.getDisease().getName()),
             () -> assertEquals(diagnoseDto.date(), diagnose.getDate()),
             () -> assertEquals(diagnoseDto.note(), diagnose.getNote())
         );

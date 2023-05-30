@@ -29,23 +29,23 @@ public class DiagnosisDataGenerator {
     @PostConstruct
     public void generateDiagnoses() {
         for (int i = 0; i <= 4; i++) {
-            Disease disease = diseaseRepository.save(diseaseDataGenerator.generateDisease());
-            diagnosesRepository.save(new Diagnose()
-                .setPatient(null)
-                .setDisease(disease)
-                .setNote(faker.funnyName().name())
-                .setDate(faker.date().birthday().toLocalDateTime().toLocalDate())
-            );
+            generateDiagnose();
         }
     }
 
     public Diagnose generateDiagnose() {
-        Disease disease = diseaseRepository.save(diseaseDataGenerator.generateDisease());
-        return new Diagnose()
+        Disease disease = diseaseDataGenerator.generateDisease();
+        return generateDiagnose(disease);
+    }
+
+
+    public Diagnose generateDiagnose(Disease disease) {
+        return diagnosesRepository.save(
+            new Diagnose()
             .setPatient(null)
             .setDisease(disease)
             .setNote(faker.funnyName().name())
             .setDate(faker.date().birthday().toLocalDateTime().toLocalDate())
-            ;
+        );
     }
 }

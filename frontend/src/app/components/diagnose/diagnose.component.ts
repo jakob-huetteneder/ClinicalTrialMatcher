@@ -19,7 +19,11 @@ export class DiagnoseComponent implements OnInit{
   mode: DiagnoseCreateEditMode = DiagnoseCreateEditMode.create;
   diagnosis: Diagnose = {
     id: undefined,
-    disease: undefined,
+    disease: {
+      id: undefined,
+      name: '',
+      synonyms: '',
+    },
     note: '',
     date: undefined,
   };
@@ -72,6 +76,7 @@ export class DiagnoseComponent implements OnInit{
   }
 
   public formatDiseaseName(disease: Disease | null | undefined): string {
+    console.log('Test ', disease);
     return (disease == null)
       ? ''
       : `${disease.name}`;

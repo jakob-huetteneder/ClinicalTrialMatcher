@@ -24,23 +24,18 @@ public class ExaminationDataGenerator {
     @PostConstruct
     public void generateExaminations() {
         for (int i = 0; i <= 4; i++) {
-            examinationRepository.save(new Examination()
-                .setPatient(null)
-                .setName(faker.name().name())
-                .setNote(faker.funnyName().name())
-                .setType(faker.funnyName().name())
-                .setDate(faker.date().birthday().toLocalDateTime().toLocalDate())
-            );
+            generateExamination();
         }
     }
 
     public Examination generateExamination() {
-        return new Examination()
+        return examinationRepository.save(
+            new Examination()
             .setPatient(null)
             .setName(faker.name().name())
             .setNote(faker.funnyName().name())
             .setType(faker.funnyName().name())
             .setDate(faker.date().birthday().toLocalDateTime().toLocalDate())
-            ;
+        );
     }
 }

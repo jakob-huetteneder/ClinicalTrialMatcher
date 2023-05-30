@@ -6,6 +6,7 @@ import at.ac.tuwien.sepm.groupphase.backend.datagenerator.DiagnosisDataGenerator
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.PatientDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.UserDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.DiagnoseDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.DiseaseMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Diagnose;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
@@ -59,6 +60,8 @@ public class DiagnoseEndpointTest {
     private PatientRepository patientRepository;
 
     @Autowired
+    private DiseaseMapper diseaseMapper;
+    @Autowired
     private ObjectMapper objectMapper;
     @Autowired
     private SecurityProperties securityProperties;
@@ -77,7 +80,6 @@ public class DiagnoseEndpointTest {
     @Test
     public void testGetAllDiagnoses() throws Exception {
         Patient patient = patientDataGenerator.generatePatient();
-        patient = patientRepository.save(patient);
         List<String> patientRoles = new ArrayList<>() {
             {
                 add("ROLE_USER");
@@ -119,9 +121,7 @@ public class DiagnoseEndpointTest {
     @Test
     public void testUpdateDiagnose() throws Exception {
         Patient patient = patientDataGenerator.generatePatient();
-        patient = patientRepository.save(patient);
         Diagnose diagnose = diagnosisDataGenerator.generateDiagnose();
-        diagnose = diagnosesRepository.save(diagnose);
         List<String> userRoles = new ArrayList<>() {
             {
                 add("ROLE_USER");
@@ -131,7 +131,7 @@ public class DiagnoseEndpointTest {
         DiagnoseDto diagnoseDto = new DiagnoseDto (
             diagnose.getId(),
             patient.getId(),
-            diagnose.getDisease(),
+            diseaseMapper.diseaseToDiseaseDto(diagnose.getDisease()),
             diagnose.getDate(),
             "testName"
         );
@@ -153,11 +153,9 @@ public class DiagnoseEndpointTest {
     @Test
     public void updateSpecificDiagnoseAsDoctor() throws Exception {
         Patient patient = patientDataGenerator.generatePatient();
-        patient = patientRepository.save(patient);
         ApplicationUser doctor = userDataGenerator.generateUser(Role.DOCTOR);
         doctor = userRepository.save(doctor);
         Diagnose diagnose = diagnosisDataGenerator.generateDiagnose();
-        diagnose = diagnosesRepository.save(diagnose);
         List<String> userRoles = new ArrayList<>() {
             {
                 add("ROLE_USER");
@@ -167,7 +165,7 @@ public class DiagnoseEndpointTest {
         DiagnoseDto diagnoseDto = new DiagnoseDto (
             diagnose.getId(),
             patient.getId(),
-            diagnose.getDisease(),
+            diseaseMapper.diseaseToDiseaseDto(diagnose.getDisease()),
             diagnose.getDate(),
             "testName"
         );
@@ -189,11 +187,9 @@ public class DiagnoseEndpointTest {
     @Test
     public void updateSpecificDiagnoseAsUser() throws Exception {
         Patient patient = patientDataGenerator.generatePatient();
-        patient = patientRepository.save(patient);
         ApplicationUser user = userDataGenerator.generateUser(Role.PATIENT);
         user = userRepository.save(user);
         Diagnose diagnose = diagnosisDataGenerator.generateDiagnose();
-        diagnose = diagnosesRepository.save(diagnose);
         List<String> userRoles = new ArrayList<>() {
             {
                 add("ROLE_USER");
@@ -203,7 +199,7 @@ public class DiagnoseEndpointTest {
         DiagnoseDto diagnoseDto = new DiagnoseDto (
             diagnose.getId(),
             patient.getId(),
-            diagnose.getDisease(),
+            diseaseMapper.diseaseToDiseaseDto(diagnose.getDisease()),
             diagnose.getDate(),
             "testName"
         );

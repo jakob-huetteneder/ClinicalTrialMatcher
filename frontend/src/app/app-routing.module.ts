@@ -32,12 +32,12 @@ const routes: Routes = [
     {path: ':id', children: [
       {path: '', component: PatientDetailComponent},
       {path: 'examination', children: [
-        {path: '', component: CreateEditExaminationComponent, data: {mode: ExaminationCreateEditMode.create}},
-        {path: ':eid', component: CreateEditExaminationComponent, data: {mode: ExaminationCreateEditMode.edit}},
+        {path: 'create', component: CreateEditExaminationComponent, data: {mode: ExaminationCreateEditMode.create}},
+        {path: 'edit/:eid', component: CreateEditExaminationComponent, data: {mode: ExaminationCreateEditMode.edit}},
       ]},
         {path: 'diagnose', children: [
-          {path: '', component: DiagnoseComponent, data: {mode: DiagnoseCreateEditMode.create}},
-          {path: ':did', component: DiagnoseComponent, data: {mode: DiagnoseCreateEditMode.edit}},
+          {path: 'create', component: DiagnoseComponent, data: {mode: DiagnoseCreateEditMode.create}},
+          {path: 'edit/:did', component: DiagnoseComponent, data: {mode: DiagnoseCreateEditMode.edit}},
         ]},
     ]},
   ]},
