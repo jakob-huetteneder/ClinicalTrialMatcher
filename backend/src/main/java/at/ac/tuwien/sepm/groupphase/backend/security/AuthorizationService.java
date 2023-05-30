@@ -38,6 +38,16 @@ public class AuthorizationService {
         UserDetails userDetails = loadUser(applicationUser);
 
         LOGGER.debug("Password {}, encoded password {}", password, userDetails.getPassword());
+        if (!passwordEncoder.matches(password, userDetails.getPassword())) {
+            LOGGER.info("Invalid login attempt");
+
+            throw new BadCredentialsException("Password is incorrect.");
+        }
+        if (!userDetails.isEnabled()) {
+            LOGGER.info("Invalid login attempt");
+
+            throw new BadCredentialsException("Account is disabled.");
+        }
         if (userDetails.isAccountNonExpired()
             && userDetails.isAccountNonLocked()
             && userDetails.isCredentialsNonExpired()
@@ -55,7 +65,7 @@ public class AuthorizationService {
         } else {
             LOGGER.info("Invalid login attempt");
 
-            throw new BadCredentialsException("Username or password is incorrect or account is locked");
+            throw new BadCredentialsException("Invalid login attempt.");
         }
     }
 

@@ -53,13 +53,11 @@ export class LoginComponent implements OnInit {
       },
       error: error => {
         console.log('Could not log in due to:');
-        console.log(error.error);
+        console.log(error);
         this.error = true;
-        if (typeof error.error === 'object') {
-          this.errorMessage = error.error.error;
-        } else {
-          this.errorMessage = error.error;
-        }
+
+        this.errorMessage = JSON.parse(error.error).message;
+
       }
     });
   }

@@ -68,14 +68,14 @@ export class EditTrialComponent implements OnInit {
 
     //let observable: Observable<Trial>;
     console.log('trial: ', this.trial);
-    this.service.create(this.trial).subscribe({
+    this.service.edit(this.trial).subscribe({
       next: data => {
-        this.notification.success(`Trial ${this.trial.title} successfully created.`);
+        this.notification.success(`Trial ${this.trial.title} successfully updated.`);
         this.router.navigate(['/trials']);
       },
       error: error => {
         console.error('error editing trial', error);
-        this.notification.error(error.error.message, error.error.errors);
+        this.notification.error(error.error.message);
 
       }
     });

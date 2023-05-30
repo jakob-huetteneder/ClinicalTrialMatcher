@@ -48,7 +48,6 @@ public class Patient {
     private Gender gender;
 
     @ManyToMany(fetch = FetchType.EAGER)
-    @JoinColumn(name = "doctor_id")
     private Set<Doctor> doctors;
 
     @OneToMany(fetch = FetchType.EAGER, mappedBy = "patient")
@@ -57,4 +56,104 @@ public class Patient {
     @OneToMany(fetch = FetchType.EAGER, mappedBy = "patient")
     private Set<Examination> examinations;
 
+    public Long getId() {
+        return id;
+    }
+
+    public Patient setId(Long id) {
+        this.id = id;
+        return this;
+    }
+
+    public ApplicationUser getApplicationUser() {
+        return applicationUser;
+    }
+
+    public Patient setApplicationUser(ApplicationUser applicationUser) {
+        this.applicationUser = applicationUser;
+        return this;
+    }
+
+    public String getFirstName() {
+        return firstName;
+    }
+
+    public Patient setFirstName(String firstName) {
+        this.firstName = firstName;
+        return this;
+    }
+
+    public String getLastName() {
+        return lastName;
+    }
+
+    public Patient setLastName(String lastName) {
+        this.lastName = lastName;
+        return this;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public Patient setEmail(String email) {
+        this.email = email;
+        return this;
+    }
+
+    public String getAdmissionNote() {
+        return admissionNote;
+    }
+
+    public Patient setAdmissionNote(String admissionNote) {
+        this.admissionNote = admissionNote;
+        return this;
+    }
+
+    public LocalDate getBirthdate() {
+        return birthdate;
+    }
+
+    public Patient setBirthdate(LocalDate birthdate) {
+        this.birthdate = birthdate;
+        return this;
+    }
+
+    public Gender getGender() {
+        return gender;
+    }
+
+    public Patient setGender(Gender gender) {
+        this.gender = gender;
+        return this;
+    }
+
+    public Set<Doctor> getDoctors() {
+        return doctors;
+    }
+
+    public Patient setDoctors(Set<Doctor> doctors) {
+        this.doctors = doctors;
+        return this;
+    }
+
+    @JsonManagedReference
+    public Set<Diagnose> getDiagnoses() {
+        return diagnoses;
+    }
+
+    public Patient setDiagnoses(Set<Diagnose> diagnoses) {
+        this.diagnoses = diagnoses;
+        return this;
+    }
+
+    @JsonManagedReference
+    public Set<Examination> getExaminations() {
+        return examinations;
+    }
+
+    public Patient setExaminations(Set<Examination> examinations) {
+        this.examinations = examinations;
+        return this;
+    }
 }

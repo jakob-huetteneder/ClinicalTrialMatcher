@@ -48,7 +48,7 @@ public class CustomUserDetailService implements UserService {
         LOGGER.debug("Login user with email {}", userLoginDto.getEmail());
         ApplicationUser applicationUser = userRepository.findByEmail(userLoginDto.getEmail());
         if (applicationUser == null) {
-            throw new UsernameNotFoundException(String.format("Could not find the user with the email address %s", userLoginDto.getEmail()));
+            throw new UsernameNotFoundException("Could not find user with this email address.");
         }
         return authorizationService.login(applicationUser, userLoginDto.getPassword());
     }

@@ -30,7 +30,6 @@ public class UserMapperTest {
             "firstName",
             "lastName",
             "email",
-            "password",
             Role.ADMIN,
             Status.ACTIVE
         );
@@ -42,7 +41,6 @@ public class UserMapperTest {
             () -> assertEquals(userDetailDto.firstName(), mappedApplicationUser.getFirstName()),
             () -> assertEquals(userDetailDto.lastName(), mappedApplicationUser.getLastName()),
             () -> assertEquals(userDetailDto.email(), mappedApplicationUser.getEmail()),
-            () -> assertEquals(userDetailDto.password(), mappedApplicationUser.getPassword()),
             () -> assertEquals(userDetailDto.status(), mappedApplicationUser.getStatus()),
             () -> assertEquals(userDetailDto.role(), userMapper.getRoleFromApplicationUser(mappedApplicationUser)),
             () -> assertInstanceOf(Admin.class, mappedApplicationUser)
@@ -67,7 +65,6 @@ public class UserMapperTest {
             () -> assertEquals(applicationUser.getFirstName(), mappedUserDetailDto.firstName()),
             () -> assertEquals(applicationUser.getLastName(), mappedUserDetailDto.lastName()),
             () -> assertEquals(applicationUser.getEmail(), mappedUserDetailDto.email()),
-            () -> assertEquals(applicationUser.getPassword(), mappedUserDetailDto.password()),
             () -> assertEquals(applicationUser.getStatus(), mappedUserDetailDto.status()),
             () -> assertEquals(userMapper.getRoleFromApplicationUser(applicationUser), mappedUserDetailDto.role())
         );
