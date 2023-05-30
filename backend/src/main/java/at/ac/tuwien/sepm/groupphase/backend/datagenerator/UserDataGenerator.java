@@ -54,6 +54,7 @@ public class UserDataGenerator {
             .setLastName(faker.name().lastName())
             .setEmail(faker.internet().emailAddress())
             .setPassword(faker.internet().password())
+            .setVerification(faker.internet().macAddress())
             .setStatus(Status.ACTIVE);
     }
 }

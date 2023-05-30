@@ -51,7 +51,7 @@ class EmailServiceTest {
     private GreenMail testSmtp;
 
     @Test
-    void sendVerificationEmail() throws JSONException, MessagingException, InterruptedException, IOException {
+    void sendVerificationEmail() throws JSONException {
         JSONObject emailJsonObject = new JSONObject();
         emailJsonObject.put("email", "tester@spring.com");
         emailJsonObject.put("password", "test");
@@ -81,7 +81,7 @@ class EmailServiceTest {
     }
 
     @Test
-    void setPasswordEmail() throws JSONException, MessagingException, InterruptedException, IOException {
+    void setPasswordEmail() throws JSONException {
         JSONObject emailJsonObject = new JSONObject();
         emailJsonObject.put("email", "tester@spring.com");
         emailJsonObject.put("password", "test");
