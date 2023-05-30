@@ -12,15 +12,13 @@ import {LoginComponent} from './components/login/login.component';
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import {httpInterceptorProviders} from './interceptors';
 import {NgOptimizedImage} from '@angular/common';
-import { RegisterComponent } from './components/register/register.component';
+import {RegisterComponent} from './components/register/register.component';
 import {UserListComponent} from './components/user-list/user-list.component';
-import { RegisterPatientComponent } from './components/register/register-patient/register-patient.component';
+import {RegisterPatientComponent} from './components/register/register-patient/register-patient.component';
 import {DiseaseAutocompleteComponent} from './components/disease-autocomplete/disease-autocomplete.component';
-import { PatientDetailComponent } from './components/patient-detail/patient-detail.component';
-import {
-  CreateEditExaminationComponent
-} from './components/examination/create-edit-examination/create-edit-examination.component';
-import { DiagnoseComponent } from './components/diagnose/diagnose.component';
+import {PatientDetailComponent} from './components/patient-detail/patient-detail.component';
+import {CreateEditExaminationComponent} from './components/examination/create-edit-examination/create-edit-examination.component';
+import {DiagnoseComponent} from './components/diagnose/diagnose.component';
 
 @NgModule({
   declarations: [

@@ -9,12 +9,12 @@
   <div class="text-xl mb-3 mt-3">Welcome to ClinicalMatcher!</div>
 </div>
 
-<div class="whitebox flex justify-center container text-in-button">
+<div class="whitebox flex justify-center container text-in-button mb-10">
   <div class="fw-bold grid grid-cols-1 justify-items-center container mt-3 ml-3">
     <div class="text-lg">Please select your profession:</div>
   </div>
 
-  <div class="fw-bold grid grid-cols-3 justify-items-center container mt-2 ml-2">
+  <div class="fw-bold grid md:grid-cols-3 flex-row justify-items-center container mt-2 ml-2">
     <label for="patient">
       <input (click)="toRegister.role = role.patient" type="radio" value="patient" id="patient" name="rad" class="mr-1" />
        Patient
@@ -31,31 +31,31 @@
 
   <hr class="container">
 
-  <div class="container grid grid-cols-2">
+  <div class="container lg:grid lg:grid-cols-2 flex flex-col">
     <div class="flex flex-row">
-      <div class="flex flex-col flex-initial">
+      <div class="flex flex-col flex-initial max-md:mr-2">
         <div class="fw-bold mb-3 mt-3"><i class="bi bi-person-fill mr-2"></i></div>
         <div class="fw-bold mb-3 mt-3"><i class="bi bi-envelope-at-fill mr-2"></i></div>
         <div class="fw-bold mb-3 mt-3"><i class="bi bi-key-fill mr-2"></i></div>
         <div class="fw-bold mb-3 mt-3" *ngIf="toRegister.role === role.patient"><i class="bi bi-calendar3-event mr-2"></i></div>
       </div>
-    <div class="flex flex-col flex-initial">
+    <div class="flex flex-col flex-initial max-md:hidden">
         <div class="fw-bold mb-3 mt-3">First Name:</div>
         <div class="fw-bold mb-3 mt-3">E-Mail:</div>
         <div class="fw-bold mb-3 mt-3">New Password:</div>
         <div class="fw-bold mb-3 mt-3" *ngIf="toRegister.role === role.patient">Birthdate:</div>
     </div>
     <div class="flex flex-col flex-1">
-      <input type="text" placeholder="Enter your First Name" class="ml-5 mr-5 h-10 mb-2 mt-2 inputfield border-0"
+      <input type="text" placeholder="Enter your First Name" class="lg:ml-5 md:ml-10 mr-5 h-10 mb-2 mt-2 inputfield border-0"
              [class]="dynamicCssClassesForInput(fNameModel)"
              [(ngModel)]="toRegister.firstName" #fNameModel="ngModel">
-      <input type="email" placeholder="Enter your E-Mail" class="ml-5 mr-5 h-10 mb-2 mt-2 inputfield border-0"
+      <input type="email" placeholder="Enter your E-Mail" class="lg:ml-5 mr-5 md:ml-10 h-10 mb-2 mt-2 inputfield border-0"
              [class]="dynamicCssClassesForInput(emailModel)"
              [(ngModel)]="toRegister.email" #emailModel="ngModel">
-      <input type="password" placeholder="Enter your New Password" class="ml-5 mr-5 h-10 mb-2 mt-2 inputfield border-0"
+      <input type="password" placeholder="Enter your New Password" class="lg:ml-5 md:ml-10 mr-5 h-10 mb-2 mt-2 inputfield border-0"
              [class]="dynamicCssClassesForInput(pwdModel)"
              [(ngModel)]="toRegister.password" #pwdModel="ngModel">
-      <input type="date" placeholder="Enter your Date of Birth" class="ml-5 mr-5 h-10 mb-2 mt-2 inputfield border-0"
+      <input type="date" placeholder="Enter your Date of Birth" class="lg:ml-5 md:ml-10 mr-5 h-10 mb-2 mt-2 inputfield border-0"
              [class]="dynamicCssClassesForInput(dobModel)"
              [(ngModel)]="toRegister.birthdate" #dobModel="ngModel"
              *ngIf="toRegister.role === role.patient">
@@ -63,29 +63,29 @@
     </div>
 
     <div class="flex flex-row">
-      <div class="flex flex-col flex-initial">
+      <div class="flex flex-col flex-initial max-md:mr-2">
         <div class="fw-bold mb-3 mt-3"><i class="bi bi-person-fill mr-2"></i></div>
         <div class="fw-bold mb-3 mt-3"><i class="bi bi-envelope-at-fill mr-2"></i></div>
         <div class="fw-bold mb-3 mt-3"><i class="bi bi-key mr-2"></i></div>
         <div class="fw-bold mb-3 mt-3" *ngIf="toRegister.role === role.patient"><i class="bi bi-gender-ambiguous mr-2"></i></div>
       </div>
-      <div class="flex flex-col flex-initial">
+      <div class="flex flex-col flex-initial max-md:hidden">
         <div class="fw-bold mb-3 mt-3">Last Name:</div>
         <div class="fw-bold mb-3 mt-3">Repeat E-Mail:</div>
         <div class="fw-bold mb-3 mt-3">Repeat Password:</div>
         <div class="fw-bold mb-3 mt-3" *ngIf="toRegister.role === role.patient">Gender:</div>
       </div>
       <div class="flex flex-col flex-1">
-        <input type="text" placeholder="Enter your Last Name" class="ml-5 mr-5 h-10 mb-2 mt-2 inputfield border-0"
+        <input type="text" placeholder="Enter your Last Name" class="md:ml-5 mr-5 h-10 mb-2 mt-2 inputfield border-0"
                [class]="dynamicCssClassesForInput(lNameModel)"
                [(ngModel)]="toRegister.lastName" #lNameModel="ngModel">
-        <input type="email" placeholder="Repeat your E-Mail" class="ml-5 mr-5 h-10 mb-2 mt-2 inputfield border-0"
+        <input type="email" placeholder="Repeat your E-Mail" class="md:ml-5 mr-5 h-10 mb-2 mt-2 inputfield border-0"
                [class]="dynamicCssClassesForInput(emailModel)"
                [(ngModel)]="checkmail" #emailModel="ngModel">
-        <input type="password" placeholder="Repeat your Password" class="ml-5 mr-5 h-10 mb-2 mt-2 inputfield border-0"
+        <input type="password" placeholder="Repeat your Password" class="md:ml-5 mr-5 h-10 mb-2 mt-2 inputfield border-0"
                [class]="dynamicCssClassesForInput(repeatModel)"
                [(ngModel)]="checkpwd" #repeatModel="ngModel">
-        <select class="inputfield border-0 ml-5 mr-5 h-10 mb-2 mt-2 hover:cursor-pointer"
+        <select class="inputfield border-0 md:ml-5 mr-5 h-10 mb-2 mt-2 hover:cursor-pointer"
                 id="gender"
                 name="gender"
                 style="background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIGZpbGw9J25vbmUnIHZpZXdCb3g9JzAgMCAyNCAyNCcgc3Ryb2tlLXdpZHRoPScxLjUnIHN0cm9rZT0nIzc4OThiZCcgY2xhc3M9J3ctNiBoLTYnPjxwYXRoIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCcgZD0nTTE5LjUgOC4yNWwtNy41IDcuNS03LjUtNy41JyAvPjwvc3ZnPgo=');                        background-position: right 0.5rem center;

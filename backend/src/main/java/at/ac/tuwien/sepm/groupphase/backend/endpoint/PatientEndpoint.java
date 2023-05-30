@@ -33,7 +33,7 @@ public class PatientEndpoint {
     @PermitAll
     @ResponseStatus(HttpStatus.CREATED)
     @PostMapping
-    public PatientDto saveTrial(@RequestBody PatientDto patient) {
+    public PatientDto savePatient(@RequestBody PatientDto patient) {
         LOG.info("Insert patient");
         LOG.info("request Body ({},{})", patient.firstName(), patient.lastName());
         return patientService.savePatient(patient);

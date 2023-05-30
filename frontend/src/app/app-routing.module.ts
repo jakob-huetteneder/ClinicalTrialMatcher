@@ -7,15 +7,9 @@ import {UserListComponent} from './components/user-list/user-list.component';
 import {RegisterPatientComponent} from './components/register/register-patient/register-patient.component';
 import {PatientDetailComponent} from './components/patient-detail/patient-detail.component';
 import {DiagnoseComponent} from './components/diagnose/diagnose.component';
-import {
-  DiagnoseCreateEditMode
-} from './components/diagnose/diagnose.component';
-import {
-  CreateEditExaminationComponent
-} from './components/examination/create-edit-examination/create-edit-examination.component';
-import {
-  ExaminationCreateEditMode
-} from './components/examination/create-edit-examination/create-edit-examination.component';
+import {DiagnoseCreateEditMode} from './components/diagnose/diagnose.component';
+import {CreateEditExaminationComponent} from './components/examination/create-edit-examination/create-edit-examination.component';
+import {ExaminationCreateEditMode} from './components/examination/create-edit-examination/create-edit-examination.component';
 
 const routes: Routes = [
   {path: '', component: HomeComponent},

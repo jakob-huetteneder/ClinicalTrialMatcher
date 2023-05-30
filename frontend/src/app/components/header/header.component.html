@@ -83,16 +83,16 @@
     </div>-->
     <!-- DOCTOR FUNCTIONS -->
     <div class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
-      <a class="group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row" *ngIf="authService.isLoggedIn()">
-        <div class="text-in-button mt-1">Manage Patients
-        <i class="bi-chevron-down w-4 text-blue-950 ml-2"></i></div>
+      <a class="group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row">
+        <div class="text-in-button mt-1">Patient Menu</div>
+        <i class="bi-chevron-down w-4 text-blue-950"></i>
         <div
           class="absolute z-[1000] mt-4 hidden list-none overflow-hidden rounded-lg bg-white opacity-85 backdrop-blur-md shadow-md group-hover:block right-0">
           <ul class="w-auto px-2 py-2 mb-0">
             <li>
               <a
                 class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
-                routerLink="/register/patient"
+                href="#"
               >Register New Patient</a
               >
             </li>
@@ -153,9 +153,11 @@
                   >Saved Trials</a
                   >
                 </li>
+                <hr
+                  class="my-2 h-0 border border-t-0 border-solid border-neutral-700 opacity-25 dark:border-neutral-200" />
                 <li>
                   <a
-                    class="block w-full whitespace-nowrap bg-transparent px-4 py-2 text-sm font-normal text-neutral-700 no-underline"
+                    class="block fw-bold w-full whitespace-nowrap bg-transparent px-4 py-0 text-sm font-normal text-neutral-700 hover:bg-neutral-100 active:text-neutral-800 active:no-underline disabled:pointer-events-none disabled:bg-transparent disabled:text-neutral-400 dark:text-neutral-200 dark:hover:bg-neutral-600"
                     (click)="authService.logoutUser()"
                   >Logout</a
                   >

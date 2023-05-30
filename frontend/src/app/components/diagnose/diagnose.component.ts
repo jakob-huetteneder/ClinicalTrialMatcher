@@ -76,7 +76,6 @@ export class DiagnoseComponent implements OnInit{
   }
 
   public formatDiseaseName(disease: Disease | null | undefined): string {
-    console.log('Test ', disease);
     return (disease == null)
       ? ''
       : `${disease.name}`;

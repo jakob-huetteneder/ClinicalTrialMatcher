@@ -1,5 +1,6 @@
 package at.ac.tuwien.sepm.groupphase.backend.service.impl;
 
+
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.PatientMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Diagnose;
@@ -24,14 +25,14 @@ public class PatientServiceImpl implements PatientService {
 
     private final PatientRepository patientRepository;
     private final PatientMapper patientMapper;
-    private final ExaminationRepository examinationsRepository;
+    private final ExaminationRepository examinationRepository;
     private final DiagnosesRepository diagnosesRepository;
 
     public PatientServiceImpl(PatientRepository patientRepository, PatientMapper patientMapper,
-                              ExaminationRepository examinationsRepository, DiagnosesRepository diagnosesRepository) {
+                              ExaminationRepository examinationRepository, DiagnosesRepository diagnosesRepository) {
         this.patientRepository = patientRepository;
         this.patientMapper = patientMapper;
-        this.examinationsRepository = examinationsRepository;
+        this.examinationRepository = examinationRepository;
         this.diagnosesRepository = diagnosesRepository;
     }
 
@@ -47,7 +48,7 @@ public class PatientServiceImpl implements PatientService {
             diagnosesRepository.saveAll(convertedDiagnoses);
         }
         if (!convertedExamination.isEmpty()) {
-            examinationsRepository.saveAll(convertedExamination);
+            examinationRepository.saveAll(convertedExamination);
         }
         LOG.info("Saved patient with id='{}'", convertedPatient.getId());
         return patientMapper.patientToPatientDto(convertedPatient);
@@ -76,7 +77,7 @@ public class PatientServiceImpl implements PatientService {
             throw new NotFoundException();
         } else {
             diagnosesRepository.deleteAll(patient.get().getDiagnoses());
-            examinationsRepository.deleteAll(patient.get().getExaminations());
+            examinationRepository.deleteAll(patient.get().getExaminations());
             patientRepository.deleteById(id);
             return patientMapper.patientToPatientDto(patient.get());
         }

@@ -3,7 +3,9 @@ import {Component, OnInit} from '@angular/core';
 import {NgModel} from '@angular/forms';
 import {Examination} from '../../../dtos/patient';
 import {ExaminationService} from 'src/app/services/examination.service';
+import {FilesService} from 'src/app/services/files.service';
 import {Observable} from 'rxjs';
+import {DomSanitizer, SafeResourceUrl, SafeUrl} from '@angular/platform-browser';
 
 export enum ExaminationCreateEditMode {
   create,
@@ -24,11 +26,17 @@ export class CreateEditExaminationComponent implements OnInit {
     type: '',
     patientId: undefined
   };
+  image: SafeUrl = '';
+  imageFocus = false;
+  imageOriginal: SafeUrl = '';
+  imageName = '';
 
   constructor(
     private router: Router,
     private route: ActivatedRoute,
-    private service: ExaminationService
+    private service: ExaminationService,
+    private sanitizer: DomSanitizer,
+    private fileService: FilesService
   ) {
   }
 
@@ -59,6 +67,7 @@ export class CreateEditExaminationComponent implements OnInit {
         return '?';
     }
   }
+
   ngOnInit(): void {
     this.route.data.subscribe(data => {
       this.mode = data.mode;
@@ -73,6 +82,7 @@ export class CreateEditExaminationComponent implements OnInit {
       });
     console.log(this.exam);
   }
+
   public dynamicCssClassesForInput(input: NgModel): any {
     return {
       // This names in this object are determined by the style library,
@@ -121,31 +131,70 @@ export class CreateEditExaminationComponent implements OnInit {
         //this.notification.error(error.error.errors, `Horse ${this.horse.name} could not be loaded`);
       }
     });
+    this.fileService.getById(this.exam.id).subscribe({
+      next: data => {
+        const TYPED_ARRAY = new Uint8Array(data);
+        const STRING_CHAR = String.fromCharCode.apply(null, TYPED_ARRAY);
+        const base64String = btoa(STRING_CHAR);
+        this.image = 'data:image/png;base64,' + base64String;
+        this.imageOriginal = 'data:image/png;base64,' + base64String;
+      },
+      error: error => {
+        console.error('Error loading medical image', error);
+      }
+    });
   }
 
-  submit() {
+  async submit() {
     let observable: Observable<Examination>;
+    const file = this.convertSafeUrlToFile(this.image, this.imageName).then();
     switch (this.mode) {
       case ExaminationCreateEditMode.create:
         observable = this.service.addNewExamination(this.exam);
+        //add image -> add examination
+        this.fileService.createImage(await file, this.exam.id).subscribe({
+          next: _ => {
+            console.log('Created image in backend');
+
+            observable.subscribe({
+              next: data => {
+                this.router.navigate(['/patient/' + this.exam.patientId]);
+              },
+              error: error => {
+                console.error('Error creating/editing examination', error);
+              }
+            });
+          },
+          error: error => {
+            console.error('Error creating/editing examination', error);
+          }
+        });
         break;
       case ExaminationCreateEditMode.edit:
         observable = this.service.updateExamination(this.exam);
+        //add image -> update examination
+        this.fileService.createImage(await file, this.exam.id).subscribe({
+          next: __ => {
+            console.log('Created image in backend');
+
+            observable.subscribe({
+              next: data => {
+                this.router.navigate(['/patient/' + this.exam.patientId]);
+              },
+              error: error => {
+                console.error('Error creating/editing examination', error);
+              }
+            });
+          },
+          error: error => {
+            console.error('Error creating image', error);
+          }
+        });
         break;
       default:
         console.error('Unknown ExaminationCreateEditMode', this.mode);
         return;
     }
-    observable.subscribe({
-      next: data => {
-        //this.notification.success(`Examination ${this.exam.name} successfully ${this.modeActionFinished}.`);
-        this.router.navigate(['/patient/' + this.exam.patientId]);
-      },
-      error: error => {
-        console.error('Error creating/editing examination', error);
-        //this.notification.error(error.error.errors, `Examination ${this.exam.name} could not be ${this.modeActionFinished}`);
-      }
-    });
   }
 
   delete() {
@@ -159,6 +208,61 @@ export class CreateEditExaminationComponent implements OnInit {
         console.error('Error deleting examination', error);
         //this.notification.error(error.error.errors, `Horse ${this.horse.name} could not be loaded`);
       }
+    });
+  }
+
+  deleteImage() {
+    this.imageFocus = false;
+    this.image = '';
+    //this.notification.success(`Horse ${this.horse.name} successfully loaded.`);
+  }
+
+  zoomImage(event) {
+    this.imageFocus = !this.imageFocus;
+    if (this.imageFocus) {
+      const image = event.target;
+      image.classList.toggle('top-0');
+      image.classList.toggle('left-0');
+      image.classList.toggle('right-0');
+      image.classList.toggle('bottom-0');
+      image.classList.toggle('transition-all');
+      image.classList.toggle('duration-1100');
+    }
+  }
+
+  handleTempImageUpload(event: any): void {
+    const file = event.target.files[0];
+    this.imageName = file.name;
+
+    if (!file.type.match(/image\/(jpeg|png)$/)) {
+      console.log('Invalid file type. Please select a JPEG or PNG image.');
+      return;
+    }
+    const maxSizeInBytes = 5 * 1024 * 1024; // 5MB
+    if (file.size > maxSizeInBytes) {
+      console.log('File size exceeds the limit. Please select a smaller image.');
+      return;
+    }
+    const reader = new FileReader();
+
+    reader.onload = (e: any) => {
+      this.image = e.target.result;
+    };
+
+    reader.readAsDataURL(file);
+  }
+
+  convertSafeUrlToFile(safeUrl: SafeUrl, filename: string): Promise<File> {
+    return new Promise<File>((resolve, reject) => {
+      fetch(safeUrl.toString())
+        .then(response => response.blob())
+        .then(blob => {
+          const file = new File([blob], filename);
+          resolve(file);
+        })
+        .catch(error => {
+          reject(error);
+        });
     });
   }
 }

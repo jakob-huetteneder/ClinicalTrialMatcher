@@ -64,7 +64,7 @@ export class RegisterComponent {
         console.log('Created User: ' + this.toRegister.email);
       },
       error: error => {
-        console.log('Something went wrong while deleting user: ' + error.error.message);
+        console.log('Something went wrong while creating user: ' + error.error.message);
       }
     });
   }

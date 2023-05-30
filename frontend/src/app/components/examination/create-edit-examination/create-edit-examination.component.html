@@ -5,39 +5,70 @@
   <title>Add Examination</title>
 </head>
 
-<div class="whitebox flex justify-center container mt-10">
+<div class="whitebox flex justify-center container mt-10 {{!imageFocus ? 'backdrop-filter backdrop-blur-md' : ''}}">
   <div class="fw-bold grid grid-cols-1 justify-items-center container mt-3 ml-3">
     <div class="text-lg">{{heading}}</div>
   </div>
   <hr class="container">
 
   <div class="container flex flex-col">
-      <div class="flex flex-col">
-        <div class="flex md:flex-row flex-col">
+    <div class="flex flex-col">
+      <div class="flex md:flex-row flex-col">
         <div class="flex flex-col flex-1">
-          <input type="text" placeholder="Name of Examination" class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 inputfield border-0"
+          <input type="text" placeholder="Name of Examination"
+                 class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 inputfield border-0"
                  [class]="dynamicCssClassesForInput(examName)"
                  [(ngModel)]="exam.name" #examName="ngModel">
         </div>
         <div class="flex flex-col flex-1">
-          <input type="date" placeholder="Date of Examination" class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 inputfield border-0"
+          <input type="date" placeholder="Date of Examination"
+                 class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 inputfield border-0"
                  [class]="dynamicCssClassesForInput(examDate)"
                  [(ngModel)]="exam.date" #examDate="ngModel">
         </div>
         <div class="flex flex-col flex-1">
-          <input type="text" placeholder="Type" class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 inputfield border-0"
+          <input type="text" placeholder="Type" class="max-h-[2.5rem] h-10 mb-2 mt-2 inputfield border-0"
                  [class]="dynamicCssClassesForInput(examType)"
                  [(ngModel)]="exam.type" #examType="ngModel">
         </div>
       </div>
-        <div class="flex flex-col flex-1">
-          <textarea maxlength="1000" class="mr-2 h-10 mb-2 inputfield border-0 min-h-[5rem]"
+      <div class="flex flex-col flex-1">
+          <textarea maxlength="1000" class="h-10 mb-2 inputfield border-0 min-h-[5rem]"
                     placeholder="Enter the examination notes for your patient"
                     [class]="dynamicCssClassesForInput(examNote)"
                     [(ngModel)]="exam.note" #examNote="ngModel"></textarea>
-        </div>
+      </div>
     </div>
   </div>
+
+  <hr class="container">
+
+  <div class="relative container flex items-center justify-center flex-col">
+    <button *ngIf="image !== ''" (click)="deleteImage()"
+            class="absolute top-0 right-0 mt-2 mr-2 transition ease-in-out delay-100 duration-300 bg-red-500 rounded w-35 p-2 h-10 text-white
+              hover:-translate-y-0 hover:scale-110 hover:bg-red-400 hover:cursor-pointer">
+      <i class="bi bi-trash"></i>
+    </button>
+
+    <label class="block mb-10">
+      <span class="sr-only">Choose profile photo</span>
+      <input type="file" #fileInput (change)="handleTempImageUpload($event)"
+             accept="image/jpeg, image/png"
+             class="block w-full text-sm text-slate-500
+      file:mr-4 file:py-2 file:px-4
+      file:rounded-full file:border-0
+      file:text-sm file:font-semibold
+      file:bg-blue-500 file:text-white
+      hover:file:bg-blue-400 hover:cursor-pointer" (click)="fileInput.click()"
+    />
+    </label>
+
+    <img *ngIf="image !== ''" [src]="image" alt="Selected Image" (click)="zoomImage($event)"
+         class="{{!imageFocus ? 'w-25 transition ease-in-out hover:cursor-pointer delay-100 ' +
+          'duration-300 hover:-translate-y-0 hover:scale-110' : ''}}" />
+  </div>
+
+  <hr class="container">
 
   <div class="flex flex-row container" style="justify-content: space-between;">
     <div>
@@ -50,7 +81,7 @@
         Cancel
       </button>
     </div>
-    <button (click)="delete()" routerLink="/patient/{{this.exam.patientId}}"
+    <button (click)="delete()"
             class="transition ease-in-out delay-100 duration-300 bg-red-500 rounded w-35 p-2 mt-2 mr-2 h-10 text-white
                   hover:-translate-y-0 hover:scale-110 hover:bg-red-400 hover:cursor-pointer">
       Delete
