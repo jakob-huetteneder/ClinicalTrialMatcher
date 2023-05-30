@@ -68,19 +68,6 @@ export class PatientDetailComponent implements OnInit{
     return this.patient.examinations.findIndex(exam => exam.id === id);
   }
 
-  zoomImage(event) {
-    this.imageFocus = !this.imageFocus;
-    if (this.imageFocus) {
-      const image = event.target;
-      image.classList.toggle('top-0');
-      image.classList.toggle('left-0');
-      image.classList.toggle('right-0');
-      image.classList.toggle('bottom-0');
-      image.classList.toggle('transition-all');
-      image.classList.toggle('duration-1100');
-    }
-  }
-
   submit() {
     this.service.deleteById(this.id).subscribe({
       next: _data => {
@@ -95,6 +82,10 @@ export class PatientDetailComponent implements OnInit{
   }
 
   public load(id: number): string {
+    if (this.examinationsImageHidden[this.getIndexById(id)] === false) {
+      this.examinationsImageHidden[this.getIndexById(id)] = true;
+      return '';
+    }
     let ret = '';
     this.fileService.getById(id).subscribe({
       next: data => {

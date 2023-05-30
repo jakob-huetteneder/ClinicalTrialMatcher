@@ -4,13 +4,12 @@ import {NgModel} from '@angular/forms';
 import {Examination} from '../../../dtos/patient';
 import {ExaminationService} from 'src/app/services/examination.service';
 import {FilesService} from 'src/app/services/files.service';
-import {Observable} from 'rxjs';
-import {DomSanitizer, SafeResourceUrl, SafeUrl} from '@angular/platform-browser';
+import {DomSanitizer, SafeUrl} from '@angular/platform-browser';
 
 export enum ExaminationCreateEditMode {
   create,
   edit,
-};
+}
 
 @Component({
   selector: 'app-create-edit-examination',
@@ -146,47 +145,78 @@ export class CreateEditExaminationComponent implements OnInit {
   }
 
   async submit() {
-    let observable: Observable<Examination>;
     const file = await this.convertSafeUrlToFile(this.image, this.imageName).then();
     switch (this.mode) {
       case ExaminationCreateEditMode.create:
         this.service.addNewExamination(this.exam).subscribe({
           next: examinationData => {
-            this.exam.id = examinationData.id;
-            this.fileService.createImage(file, this.exam.id).subscribe({
-              next: _ => {
-                console.log('Created image in backend');
+            if (this.image !== '') {
+              this.exam.id = examinationData.id;
+              this.fileService.createImage(file, this.exam.id).subscribe({
+                next: _ => {
+                  console.log('Created image in backend');
 
-                this.router.navigate(['/patient/' + this.exam.patientId]);
-              },
-              error: error => {
-                console.error('Error creating/editing examination', error);
-              }
-            });
+                  this.router.navigate(['/patient/' + this.exam.patientId]);
+                },
+                error: error => {
+                  console.error('Error creating/editing examination', error);
+                }
+              });
+            } else {
+              this.router.navigate(['/patient/' + this.exam.patientId]);
+            }
           }
-          });
+        });
         //add image -> add examination
         break;
       case ExaminationCreateEditMode.edit:
-        observable = this.service.updateExamination(this.exam);
         //add image -> update examination
-        this.fileService.createImage(await file, this.exam.id).subscribe({
-          next: __ => {
-            console.log('Created image in backend');
+        if (this.image !== this.imageOriginal && this.image === '') {
+          this.fileService.deleteById(this.exam.id).subscribe({
+            next: __ => {
+              console.log('Created image in backend');
 
-            observable.subscribe({
-              next: data => {
-                this.router.navigate(['/patient/' + this.exam.patientId]);
-              },
-              error: error => {
-                console.error('Error creating/editing examination', error);
-              }
-            });
-          },
-          error: error => {
-            console.error('Error creating image', error);
-          }
-        });
+              this.service.updateExamination(this.exam).subscribe({
+                next: data => {
+                  this.router.navigate(['/patient/' + this.exam.patientId]);
+                },
+                error: error => {
+                  console.error('Error creating/editing examination', error);
+                }
+              });
+            },
+            error: error => {
+              console.error('Error creating image', error);
+            }
+          });
+        } else if (this.image !== this.imageOriginal && this.image !== '') {
+          this.fileService.createImage(await file, this.exam.id).subscribe({
+            next: __ => {
+              console.log('Created image in backend');
+
+              this.service.updateExamination(this.exam).subscribe({
+                next: data => {
+                  this.router.navigate(['/patient/' + this.exam.patientId]);
+                },
+                error: error => {
+                  console.error('Error creating/editing examination', error);
+                }
+              });
+            },
+            error: error => {
+              console.error('Error creating image', error);
+            }
+          });
+        } else {
+          this.service.updateExamination(this.exam).subscribe({
+            next: data => {
+              this.router.navigate(['/patient/' + this.exam.patientId]);
+            },
+            error: error => {
+              console.error('Error creating/editing examination', error);
+            }
+          });
+        }
         break;
       default:
         console.error('Unknown ExaminationCreateEditMode', this.mode);
@@ -195,15 +225,24 @@ export class CreateEditExaminationComponent implements OnInit {
   }
 
   delete() {
-    console.log('is id valid?', this.exam);
-    this.service.delete(this.exam.id, this.exam.patientId).subscribe({
+    console.log(this.exam);
+    this.fileService.deleteById(this.exam.id).subscribe({ // TODO: backend with cascade delete
       next: data => {
-        this.exam = data;
-        //this.notification.success(`Horse ${this.horse.name} successfully loaded.`);
-      },
-      error: error => {
-        console.error('Error deleting examination', error);
-        //this.notification.error(error.error.errors, `Horse ${this.horse.name} could not be loaded`);
+        console.log('Deleted image in backend');
+        this.service.delete(this.exam.id, this.exam.patientId).subscribe({
+          next: () => {
+            this.router.navigate(['/patient/' + this.exam.patientId]);
+            //this.notification.success(`Horse ${this.horse.name} successfully loaded.`);
+          }
+        });
+      }, error: error => {
+        console.log('Image was not deleted', error);
+        this.service.delete(this.exam.id, this.exam.patientId).subscribe({
+          next: () => {
+            this.router.navigate(['/patient/' + this.exam.patientId]);
+            //this.notification.success(`Horse ${this.horse.name} successfully loaded.`);
+          }
+        });
       }
     });
   }
@@ -237,7 +276,8 @@ export class CreateEditExaminationComponent implements OnInit {
       console.log('Invalid file type. Please select a JPEG or PNG image.');
       return;
     }
-    const maxSizeInBytes = 5 * 1024 * 1024; // 5MB
+    const maxSizeInBytes = 246300; // maximal uint8array size (uint8 = 8 bit = 1 byte)
+    // TODO: adjust to a size of 1-10 MB
     if (file.size > maxSizeInBytes) {
       console.log('File size exceeds the limit. Please select a smaller image.');
       return;
