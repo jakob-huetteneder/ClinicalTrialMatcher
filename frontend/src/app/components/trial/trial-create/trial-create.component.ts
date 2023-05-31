@@ -66,7 +66,7 @@ export class CreateTrialComponent implements OnInit {
     this.service.create(this.trial).subscribe({
       next: data => {
         this.notification.success(`Trial ${this.trial.title} successfully created.`);
-        this.router.navigate(['/trials']);
+        this.router.navigate(['/researcher/trials']);
       },
       error: error => {
         console.error('error creating trial', error);

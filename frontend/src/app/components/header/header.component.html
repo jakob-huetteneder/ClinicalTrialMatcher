@@ -82,7 +82,7 @@
       </a>
     </div>-->
     <!-- DOCTOR FUNCTIONS -->
-    <div class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
+    <div *ngIf="authService.getUserRole() === role.doctor" class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
       <a class="group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row">
         <div class="text-in-button mt-1">Patient Menu</div>
         <i class="bi-chevron-down w-4 text-blue-950"></i>
@@ -122,6 +122,55 @@
         </div>
       </a>
     </div>
+
+    <!-- ADMIN FUNCTIONS -->
+    <div *ngIf="authService.getUserRole() === role.admin" class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
+      <a class="group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row">
+        <div class="text-in-button mt-1">Manage Users</div>
+        <i class="bi-chevron-down w-4 text-blue-950"></i>
+        <div
+          class="absolute z-[1000] mt-4 hidden list-none overflow-hidden rounded-lg bg-white opacity-85 backdrop-blur-md shadow-md group-hover:block right-0">
+          <ul class="w-auto px-2 py-2 mb-0">
+            <li>
+              <a
+                class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
+                routerLink="/admin/user-overview"
+              >View all users</a
+              >
+            </li>
+          </ul>
+        </div>
+      </a>
+    </div>
+
+
+    <!-- RESEARCHER FUNCTIONS -->
+    <div *ngIf="authService.getUserRole() === role.researcher" class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
+      <a class="group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row">
+        <div class="text-in-button mt-1">Manage Trials</div>
+        <i class="bi-chevron-down w-4 text-blue-950"></i>
+        <div
+          class="absolute z-[1000] mt-4 hidden list-none overflow-hidden rounded-lg bg-white opacity-85 backdrop-blur-md shadow-md group-hover:block right-0">
+          <ul class="w-auto px-2 py-2 mb-0">
+            <li>
+              <a
+                class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
+                routerLink="/researcher/trials"
+              >View own trials</a
+              >
+            </li>
+            <li>
+              <a
+                class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
+                routerLink="/researcher/trials/create"
+              >Create new trial</a
+              >
+            </li>
+          </ul>
+        </div>
+      </a>
+    </div>
+
     <div class="flex-initial single-button">
       <button class="flex-initial bg-blue-300 rounded w-35 py-2 px-4 h-10 text-blue-900 font-bold border-blue-950 drop-shadow-sm"
               *ngIf="!authService.isLoggedIn()" routerLink="/account/login" routerLinkActive="active">Login

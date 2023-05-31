@@ -71,7 +71,7 @@ export class EditTrialComponent implements OnInit {
     this.service.edit(this.trial).subscribe({
       next: data => {
         this.notification.success(`Trial ${this.trial.title} successfully updated.`);
-        this.router.navigate(['/trials']);
+        this.router.navigate(['/researcher/trials']);
       },
       error: error => {
         console.error('error editing trial', error);
