@@ -3,6 +3,7 @@ import {Router} from '@angular/router';
 import {AuthService} from '../../services/auth.service';
 import {Trial} from '../../dtos/trial';
 import {TrialService} from '../../services/trial.service';
+import {ToastrService} from 'ngx-toastr';
 
 
 @Component({
@@ -14,7 +15,8 @@ export class TrialComponent implements OnInit {
   trials: Trial[] = [];
   constructor(private authService: AuthService,
               private router: Router,
-              private trialService: TrialService) {}
+              private trialService: TrialService,
+              private notification: ToastrService) {}
 
 
   ngOnInit() {
@@ -30,6 +32,7 @@ export class TrialComponent implements OnInit {
         },
         error: error => {
           console.error('Error fetching trials', error);
+          this.notification.error(error.error.message, 'Error fetching trials');
         }
       });
   }
@@ -45,6 +48,7 @@ export class TrialComponent implements OnInit {
       },
       error: error => {
         console.error('Error fetching trials', error);
+        this.notification.error(error.error.message, 'Error fetching trials');
       }
     });
     return tmp;

@@ -5,6 +5,7 @@ import {Examination} from '../../../dtos/patient';
 import {ExaminationService} from 'src/app/services/examination.service';
 import {FilesService} from 'src/app/services/files.service';
 import {DomSanitizer, SafeUrl} from '@angular/platform-browser';
+import {ToastrService} from 'ngx-toastr';
 
 export enum ExaminationCreateEditMode {
   create,
@@ -35,7 +36,8 @@ export class CreateEditExaminationComponent implements OnInit {
     private route: ActivatedRoute,
     private service: ExaminationService,
     private sanitizer: DomSanitizer,
-    private fileService: FilesService
+    private fileService: FilesService,
+    private notification: ToastrService
   ) {
   }
 
@@ -127,6 +129,8 @@ export class CreateEditExaminationComponent implements OnInit {
       },
       error: error => {
         console.error('Error loading examination', error);
+        this.notification.error(error.error.message, 'Error loading examination');
+        this.router.navigate(['/doctor/view-patient/' + this.exam.patientId]);
         //this.notification.error(error.error.errors, `Horse ${this.horse.name} could not be loaded`);
       }
     });
@@ -139,7 +143,7 @@ export class CreateEditExaminationComponent implements OnInit {
         this.imageOriginal = 'data:image/png;base64,' + base64String;
       },
       error: error => {
-        console.error('Error loading medical image', error);
+        //console.error('Error loading medical image', error);
       }
     });
   }
@@ -156,14 +160,16 @@ export class CreateEditExaminationComponent implements OnInit {
                 next: _ => {
                   console.log('Created image in backend');
 
-                  this.router.navigate(['/patient/' + this.exam.patientId]);
+                  this.router.navigate(['/doctor/view-patient/' + this.exam.patientId]);
                 },
                 error: error => {
                   console.error('Error creating/editing examination', error);
+                  this.notification.error(error.error.message, 'Error creating examination');
                 }
               });
             } else {
-              this.router.navigate(['/patient/' + this.exam.patientId]);
+              this.router.navigate(['v/view-patient/' + this.exam.patientId]);
+              this.notification.info('Successfully created examination');
             }
           }
         });
@@ -178,15 +184,18 @@ export class CreateEditExaminationComponent implements OnInit {
 
               this.service.updateExamination(this.exam).subscribe({
                 next: data => {
-                  this.router.navigate(['/patient/' + this.exam.patientId]);
+                  this.notification.success('Successfully created examination');
+                  this.router.navigate(['/doctor/view-patient/' + this.exam.patientId]);
                 },
                 error: error => {
                   console.error('Error creating/editing examination', error);
+                  this.notification.error(error.error.message, 'Error updating examination');
                 }
               });
             },
             error: error => {
               console.error('Error creating image', error);
+              this.notification.error(error.error.message, 'Error saving medical image');
             }
           });
         } else if (this.image !== this.imageOriginal && this.image !== '') {
@@ -196,24 +205,29 @@ export class CreateEditExaminationComponent implements OnInit {
 
               this.service.updateExamination(this.exam).subscribe({
                 next: data => {
-                  this.router.navigate(['/patient/' + this.exam.patientId]);
+                  this.notification.success('Successfully updated examination');
+                  this.router.navigate(['/doctor/view-patient/' + this.exam.patientId]);
                 },
                 error: error => {
                   console.error('Error creating/editing examination', error);
+                  this.notification.error(error.error.message, 'Error updating examination');
                 }
               });
             },
             error: error => {
               console.error('Error creating image', error);
+              this.notification.error(error.error.message, 'Error saving medical image');
             }
           });
         } else {
           this.service.updateExamination(this.exam).subscribe({
             next: data => {
-              this.router.navigate(['/patient/' + this.exam.patientId]);
+              this.notification.success('Successfully updated examination');
+              this.router.navigate(['/doctor/view-patient/' + this.exam.patientId]);
             },
             error: error => {
               console.error('Error creating/editing examination', error);
+              this.notification.error(error.error.message, 'Error updating examination');
             }
           });
         }
@@ -231,16 +245,22 @@ export class CreateEditExaminationComponent implements OnInit {
         console.log('Deleted image in backend');
         this.service.delete(this.exam.id, this.exam.patientId).subscribe({
           next: () => {
-            this.router.navigate(['/patient/' + this.exam.patientId]);
+            this.router.navigate(['/doctor/view-patient/' + this.exam.patientId]);
+            this.notification.success('Successfully deleted examination');
             //this.notification.success(`Horse ${this.horse.name} successfully loaded.`);
+          },
+          error: err => {
+            this.notification.error(err.error.message, 'Error deleting examination');
           }
         });
       }, error: error => {
         console.log('Image was not deleted', error);
         this.service.delete(this.exam.id, this.exam.patientId).subscribe({
           next: () => {
-            this.router.navigate(['/patient/' + this.exam.patientId]);
+            this.router.navigate(['/doctor/view-patient/' + this.exam.patientId]);
             //this.notification.success(`Horse ${this.horse.name} successfully loaded.`);
+          }, error: err => {
+            this.notification.error(err.error.message, 'Error deleting examination');
           }
         });
       }
@@ -280,6 +300,7 @@ export class CreateEditExaminationComponent implements OnInit {
     // TODO: adjust to a size of 1-10 MB
     if (file.size > maxSizeInBytes) {
       console.log('File size exceeds the limit. Please select a smaller image.');
+      this.notification.info('File size exceeds the limit. Please select a smaller image.');
       return;
     }
     const reader = new FileReader();

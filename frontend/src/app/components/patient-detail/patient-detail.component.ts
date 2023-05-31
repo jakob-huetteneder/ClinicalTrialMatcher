@@ -4,6 +4,7 @@ import {ActivatedRoute, Router} from '@angular/router';
 import {PatientService} from '../../services/patient.service';
 import {SafeUrl} from '@angular/platform-browser';
 import {FilesService} from '../../services/files.service';
+import {ToastrService} from 'ngx-toastr';
 
 @Component({
   selector: 'app-patient-detail',
@@ -11,7 +12,6 @@ import {FilesService} from '../../services/files.service';
   styleUrls: ['./patient-detail.component.scss']
 })
 export class PatientDetailComponent implements OnInit{
-
 
   @ViewChildren('medicalImages') medicalImages;
 
@@ -40,7 +40,8 @@ export class PatientDetailComponent implements OnInit{
     private router: Router,
     private route: ActivatedRoute,
     private service: PatientService,
-    private fileService: FilesService
+    private fileService: FilesService,
+    private notification: ToastrService
   ) {
   }
 
@@ -58,7 +59,8 @@ export class PatientDetailComponent implements OnInit{
         },
         error: error => {
           console.error('Error, patient does not exist', error);
-          //return this.router.navigate(['']);
+          this.notification.error(error.error.message, 'Error fetching patient');
+          return this.router.navigate(['']);
         }
       });
     });
@@ -72,11 +74,13 @@ export class PatientDetailComponent implements OnInit{
     this.service.deleteById(this.id).subscribe({
       next: _data => {
         console.log('Successfully deleted patient {}', this.id);
+        this.notification.success('Successfully deleted patient');
         this.router.navigate(['']);
       },
       error: error => {
         console.error('Error, patient does not exist', error);
-        //return this.router.navigate(['']);
+        this.notification.error(error.error.message, 'Error fetching patient');
+        return this.router.navigate(['']);
       }
     });
   }
@@ -97,17 +101,16 @@ export class PatientDetailComponent implements OnInit{
         console.log(this.medicalImages._results[this.getIndexById(id)]);
         this.examinationsImageHidden[this.getIndexById(id)] = false;
         this.medicalImages._results[this.getIndexById(id)].nativeElement.setAttribute('src', ret);
-
       },
       error: error => {
-        console.error('Error loading medical image', error);
+        //console.error('Error loading medical image', error);
       }
     });
     return ret;
   }
 
   pulse(): string {
-    return this.loading ? 'animate-pulse' : '';
+    return this.loading ? 'hover:cursor-not-allowed animate-pulse' : '';
   }
 
 }

@@ -4,6 +4,8 @@ import {Role} from '../../dtos/role';
 import {NgModel} from '@angular/forms';
 import {UserService} from '../../services/user.service';
 import {Status} from '../../dtos/status';
+import {Router} from '@angular/router';
+import {ToastrService} from 'ngx-toastr';
 
 @Component({
   selector: 'app-register',
@@ -31,7 +33,9 @@ export class RegisterComponent {
     || (this.toRegister.role === Role.patient && (this.toRegister.gender === undefined || this.toRegister.birthdate === undefined));
   protected readonly role = Role;
   constructor(
-    private userService: UserService
+    private userService: UserService,
+    private router: Router,
+    private notification: ToastrService
   ) {
   }
   public dynamicCssClassesForInput(input: NgModel): any {
@@ -63,9 +67,12 @@ export class RegisterComponent {
     this.userService.createUser(this.toRegister).subscribe({
       next: () => {
         console.log('Created User: ' + this.toRegister.email);
+        this.notification.info('Please check your e-mail', 'Registration was successful');
+        this.router.navigate(['']).then();
       },
       error: error => {
         console.log('Something went wrong while creating user: ' + error.error.message);
+        this.notification.error(error.error.message, 'Registration failed');
       }
     });
   }

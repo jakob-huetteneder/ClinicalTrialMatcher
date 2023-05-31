@@ -5,6 +5,7 @@ import {Diagnose, Disease} from '../../dtos/patient';
 import {DiagnoseService} from 'src/app/services/diagnose.service';
 import {DiseaseService} from 'src/app/services/disease.service';
 import {Observable, of} from 'rxjs';
+import {ToastrService} from 'ngx-toastr';
 export enum DiagnoseCreateEditMode {
   create,
   edit,
@@ -32,7 +33,8 @@ export class DiagnoseComponent implements OnInit{
     private router: Router,
     private route: ActivatedRoute,
     private service: DiagnoseService,
-    private diseaseService: DiseaseService
+    private diseaseService: DiseaseService,
+    private notification: ToastrService
   ) {
   }
 
@@ -117,6 +119,8 @@ export class DiagnoseComponent implements OnInit{
       },
       error: error => {
         console.error('Error loading diagnosis', error);
+        this.notification.error(error.error.message, 'Error fetching diagnosis');
+        this.router.navigate(['']);
         //this.notification.error(error.error.errors, `Horse ${this.horse.name} could not be loaded`);
       }
     });
@@ -137,11 +141,12 @@ export class DiagnoseComponent implements OnInit{
     }
     observable.subscribe({
       next: data => {
-        //this.notification.success(`Examination ${this.exam.name} successfully ${this.modeActionFinished}.`);
+        this.notification.success(`Diagnosis successfully created/edited.`);
         this.router.navigate(['/patient/' + this.diagnosis.patientId]);
       },
       error: error => {
-        console.error('Error creating/editing examination', error);
+        console.error('Error creating/editing diagnosis', error);
+        this.notification.error(error.error.message, 'Error creating/updating diagnosis');
         //this.notification.error(error.error.errors, `Examination ${this.exam.name} could not be ${this.modeActionFinished}`);
       }
     });
@@ -152,10 +157,12 @@ export class DiagnoseComponent implements OnInit{
     this.service.delete(this.diagnosis.id, this.diagnosis.patientId).subscribe({
       next: data => {
         this.diagnosis = data;
+        this.notification.success(`Diagnosis successfully deleted.`);
         //this.notification.success(`Horse ${this.horse.name} successfully loaded.`);
       },
       error: error => {
         console.error('Error deleting examination', error);
+        this.notification.error(error.error.message, 'Error deleting diagnosis');
         //this.notification.error(error.error.errors, `Horse ${this.horse.name} could not be loaded`);
       }
     });

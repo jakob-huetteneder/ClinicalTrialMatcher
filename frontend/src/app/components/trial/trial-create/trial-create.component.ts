@@ -71,7 +71,6 @@ export class CreateTrialComponent implements OnInit {
       error: error => {
         console.error('error creating trial', error);
         this.notification.error(error.error.message, error.error.errors);
-
       }
     });
   }
@@ -85,14 +84,9 @@ export class CreateTrialComponent implements OnInit {
     }
   }
 
-
-
   public disable(): boolean {
     return (this.trial.title === '' || this.trial.studyType === '' || this.trial.location === '');
   }
-
-
-
 
   public dynamicCssClassesForInput(input: NgModel): any {
     return {

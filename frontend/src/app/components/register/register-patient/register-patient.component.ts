@@ -4,6 +4,8 @@ import {Diagnose, Disease, Examination, Patient} from '../../../dtos/patient';
 import {DiseaseService} from 'src/app/services/disease.service';
 import {PatientService} from 'src/app/services/patient.service';
 import {of} from 'rxjs';
+import {ToastrService} from 'ngx-toastr';
+import {Router} from '@angular/router';
 
 @Component({
   selector: 'app-register-patient',
@@ -25,7 +27,9 @@ export class RegisterPatientComponent {
 
   constructor(
     private diseaseService: DiseaseService,
-    private patientService: PatientService
+    private patientService: PatientService,
+    private notification: ToastrService,
+    private router: Router
   ) {
   }
 
@@ -62,6 +66,7 @@ export class RegisterPatientComponent {
     return  (this.toRegister.firstName === '' || this.toRegister.lastName === ''
       || this.toRegister.email === '' || this.checkmail !== this.toRegister.email ||
       this.toRegister.examinations.filter(e => e.type === '' || e.name === '' || e.date === undefined).length !== 0 ||
+      this.toRegister.birthdate === undefined || this.toRegister.gender === undefined ||
       this.toRegister.diagnoses.filter(d => d.disease.name === '' || d.date === undefined).length !== 0);
   }
 
@@ -80,9 +85,12 @@ export class RegisterPatientComponent {
     this.patientService.createPatient(this.toRegister).subscribe({
       next: () => {
         console.log('Created Patient: ' + this.toRegister.email);
+        this.notification.info('Successfully created patient ' + this.toRegister.email);
+        this.router.navigate(['']).then();
       },
       error: error => {
         console.log('Something went wrong while creating user: ' + error.error.message);
+        this.notification.error(error.error.message, 'Error while creating patient');
       }
     });
   }

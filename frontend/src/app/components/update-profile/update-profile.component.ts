@@ -86,6 +86,7 @@ export class UpdateProfileComponent implements OnInit {
       },
       error: error => {
         console.error('Error ', error.error.message);
+        this.notification.error(error.error.message, 'Error while deleting');
       }
     });
   }

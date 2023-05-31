@@ -98,7 +98,7 @@
                     [(ngModel)]="toRegister.admissionNote" #admissionModel="ngModel"></textarea>
         </div>
         <div class="flex flex-row flex-initial">
-          <button (click)="submit()" [disabled]="this.toRegister.admissionNote === ''"
+          <button [disabled]="this.toRegister.admissionNote === ''"
                   class="{{buttonstyleAdmission()}} rounded w-35 p-2 h-10 mr-5 text-white">
             Analyze Note
           </button>

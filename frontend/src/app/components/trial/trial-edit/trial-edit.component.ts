@@ -76,7 +76,6 @@ export class EditTrialComponent implements OnInit {
       error: error => {
         console.error('error editing trial', error);
         this.notification.error(error.error.message);
-
       }
     });
   }

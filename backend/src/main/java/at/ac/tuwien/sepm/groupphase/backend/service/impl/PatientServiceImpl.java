@@ -61,7 +61,7 @@ public class PatientServiceImpl implements PatientService {
         if (patient.isEmpty()) {
             //404 NOT FOUND
             LOG.warn("Patient with id {} does not exist!", id);
-            throw new NotFoundException();
+            throw new NotFoundException("Patient not found");
         } else {
             return patientMapper.patientToPatientDto(patient.get());
         }
@@ -74,7 +74,7 @@ public class PatientServiceImpl implements PatientService {
         if (patient.isEmpty()) {
             //404 NOT FOUND
             LOG.warn("Patient with id {} does not exist!", id);
-            throw new NotFoundException();
+            throw new NotFoundException("Patient not found");
         } else {
             diagnosesRepository.deleteAll(patient.get().getDiagnoses());
             examinationRepository.deleteAll(patient.get().getExaminations());

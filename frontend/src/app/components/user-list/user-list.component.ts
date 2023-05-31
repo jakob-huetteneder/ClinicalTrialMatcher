@@ -4,6 +4,8 @@ import {UserService} from '../../services/user.service';
 import {cloneDeep} from 'lodash';
 import {Role} from '../../dtos/role';
 import {Status} from '../../dtos/status';
+import {ToastrService} from 'ngx-toastr';
+import {Router} from '@angular/router';
 
 
 @Component({
@@ -31,7 +33,9 @@ export class UserListComponent implements OnInit {
   checkmail = '';
 
   constructor(
-    private userService: UserService
+    private userService: UserService,
+    private notification: ToastrService,
+    private router: Router
   ) {
   }
 
@@ -52,9 +56,12 @@ export class UserListComponent implements OnInit {
 
         // remove user from users
         this.users = this.users.filter(u => u.id !== user.id);
+
+        this.notification.info('Successfully deleted user ' + user.email);
       },
       error: error => {
         console.log('Something went wrong while deleting user: ' + error.error.message);
+        this.notification.error(error.error.message, 'Error deleting user');
       }
     });
   }
@@ -65,9 +72,11 @@ export class UserListComponent implements OnInit {
     this.userService.createUser(this.toRegister).subscribe({
       next: () => {
         console.log('Created User: ' + this.toRegister.email);
+        this.notification.info('Successfully created user ' + this.toRegister.email);
       },
       error: error => {
         console.log('Something went wrong while creating user: ' + error.error.message);
+        this.notification.error(error.error.message, 'Error creating user');
       }
     });
 
@@ -84,6 +93,7 @@ export class UserListComponent implements OnInit {
 
         // remove user from editedUsers
         this.editedUsers = this.editedUsers.filter(editedUser => editedUser.id !== user.id);
+        this.notification.info('Successfully updated user ' + updatedUser.email);
       },
       error: error => {
         // TODO: check if error is a validation error
@@ -92,6 +102,7 @@ export class UserListComponent implements OnInit {
         console.log(error);
         // reset user to old values
         this.resetUser(user.id);
+        this.notification.error(error.error.message, 'Error updating user');
       }
     });
   }
@@ -141,6 +152,7 @@ export class UserListComponent implements OnInit {
       },
       error => {
         console.log('Something went wrong while loading users: ' + error.error.message);
+        this.notification.error(error.error.message, 'Something went wrong while loading users');
         console.log(error);
       }
     );
