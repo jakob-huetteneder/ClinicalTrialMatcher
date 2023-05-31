@@ -66,7 +66,7 @@ public class EmailService {
             + "Thank you,<br>"
             + "Clinical Matcher";
         content = content.replace("[[name]]", user.getFirstName() + " " + user.getLastName());
-        String verifyUrl = "http://localhost:4200/#/password/password?code=" + user.getVerification();
+        String verifyUrl = "http://localhost:4200/#/account/set-password/" + user.getVerification();
 
         content = content.replace("[[URL]]", verifyUrl);
         try {

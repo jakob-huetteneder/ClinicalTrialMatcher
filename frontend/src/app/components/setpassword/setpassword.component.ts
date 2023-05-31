@@ -1,10 +1,8 @@
 import {Component, OnInit} from '@angular/core';
-import {User} from '../../dtos/user';
-import {Status} from '../../dtos/status';
-import {Role} from '../../dtos/role';
 import {UserService} from '../../services/user.service';
 import {NgModel} from '@angular/forms';
 import {ActivatedRoute, Router} from '@angular/router';
+import {ToastrService} from 'ngx-toastr';
 
 @Component({
   selector: 'app-setpassword',
@@ -12,35 +10,23 @@ import {ActivatedRoute, Router} from '@angular/router';
   styleUrls: ['./setpassword.component.scss']
 })
 export class SetpasswordComponent implements OnInit{
-  toRegister: User = {
-    firstName: '',
-    lastName: '',
-    email: '',
-    password: '',
-    role: undefined,
-    status: Status.suspended,
-    admin: false
-  };
-  checkpwd = '';
-  checkmail = '';
-  verificationCode = '';
-  disabled = this.toRegister.firstName === '' || this.toRegister.lastName === ''
-    || this.toRegister.email === '' || this.toRegister.password === '' || this.toRegister.role === undefined
-    || this.checkmail !== this.toRegister.email || this.checkpwd !== this.toRegister.password
-    || (this.toRegister.role === Role.patient && (this.toRegister.gender === undefined || this.toRegister.birthdate === undefined));
-  protected readonly role = Role;
 
+  password = '';
+  checkPassword = '';
+  verificationCode = '';
   constructor(
     private userService: UserService,
     private route: ActivatedRoute,
-    private router: Router
+    private router: Router,
+    private toaster: ToastrService
   ) {
   }
 
   ngOnInit() {
-    this.route.queryParams
+    this.route.params
       .subscribe(params => {
           this.verificationCode = params.code;
+          console.log(this.verificationCode);
         }
       );
   }
@@ -54,24 +40,21 @@ export class SetpasswordComponent implements OnInit{
     };
   }
 
-  public tmp(): void {
-    console.log(this.toRegister);
-  }
-
   submit() {
-    console.log('Create User: ' + this.checkmail);
 
-    const submitted = this.userService.setPassword(this.toRegister, this.verificationCode).subscribe({
+    if (this.password !== this.checkPassword) {
+      this.toaster.error('Passwords do not match!');
+      return;
+    }
+
+    this.userService.setPassword(this.password, this.verificationCode).subscribe({
       next: () => {
-        console.log('Created User: ' + this.toRegister.email);
+        this.toaster.success('Password successfully set!');
+        this.router.navigate(['/login']);
       },
       error: error => {
         console.log('Something went wrong while deleting user: ' + error.error.message);
       }
     });
-
-    if (submitted) {
-      this.router.navigate(['/verification']);
-    }
   }
 }

@@ -74,14 +74,14 @@ export class UserService {
   /**
    * Set the password for a new user.
    *
-   * @param user the user to set password
-   * @param code the identification of the user
-   * @return observable user
+   * @param password the user to set password
+   * @param verification the verification code of the user
+   * @return observable
    */
-  setPassword(user: User, code: string): Observable<boolean> {
+  setPassword(password: string, verification: string): Observable<void> {
     let queryParams = new HttpParams();
-    queryParams = queryParams.set('code', code).set('pass', user.password);
-    return this.http.get<boolean>(baseUri + '/password', {params: queryParams});
+    queryParams = queryParams.set('code', verification).set('pass', password);
+    return this.http.get<void>(baseUri + '/password', {params: queryParams});
   }
 
 }
