@@ -4,7 +4,7 @@
     <span aria-hidden="true">&times;</span>
   </button>
 </div>
-
+<!--
 <div class="pt-5">
   <div class="row">
     <div class="col-md-6 mx-auto">
@@ -20,7 +20,7 @@
 
             <div class="form-group">
               <label for="inputUsername">Username</label>
-              <input type="text" name="username" formControlName="username" class="form-control" id="inputUsername"
+              <input type="text" name="username" formControlName="username" class="form-control" id="inputUsernameOld"
                      aria-describedby="usernameHelp" placeholder="Enter username">
               <div *ngIf="submitted && loginForm.controls.username.errors" class="error">
                 <small class="form-text text-warning" *ngIf="loginForm.controls.username.errors.required">Your username is
@@ -31,7 +31,7 @@
 
             <div class="form-group">
               <label for="password">Password</label>
-              <input type="password" name="password" formControlName="password" class="form-control" id="password"
+              <input type="password" name="password" formControlName="password" class="form-control" id="passwordOld"
                      placeholder="Password">
               <div *ngIf="submitted && loginForm.controls.password.errors" class="error">
                 <small class="form-text text-warning" *ngIf="loginForm.controls.password.errors.required">Your password
@@ -53,4 +53,52 @@
 
     </div>
   </div>
+</div>-->
+
+
+<div class="whitebox flex mb-10 mt-20">
+
+  <div class="fw-bold grid grid-cols-1 justify-items-center container mt-3 ml-3">
+    <div class="text-lg">Enter your Username and Password</div>
+  </div>
+
+  <hr class="container">
+  <div class="flex container flex-col">
+    <form class="form" [formGroup]="loginForm" (ngSubmit)="loginUser()">
+      <div class="flex flex-row flex-initial max-md:hidden gap-2.5" style="align-items: center">
+        <div class="font-semibold my-3">Username:</div>
+        <input type="text" name="username" formControlName="username" class="form-control my-3" id="inputUsername"
+               aria-describedby="usernameHelp" placeholder="Enter username">
+        <div *ngIf="submitted && loginForm.controls.username.errors" class="error">
+          <small class="form-text text-warning" *ngIf="loginForm.controls.username.errors.required">Your username is
+            required!
+          </small>
+        </div>
+      </div>
+      <div class="flex flex-row flex-1 justify-content-between gap-3" style="align-items: center">
+        <div class="font-semibold my-3">Password:</div>
+        <input type="password" name="password" formControlName="password" class="form-control  my-3" id="password"
+               placeholder="Password">
+        <div *ngIf="submitted && loginForm.controls.password.errors" class="error">
+          <small class="form-text text-warning" *ngIf="loginForm.controls.password.errors.required">Your password
+            is
+            required!
+          </small>
+          <small class="form-text text-warning" *ngIf="loginForm.controls.password.errors.minlength">Your password
+            must be at least 8 characters long!
+          </small>
+        </div>
+      </div>
+    </form>
+  </div>
+  <div class="flex flex-row align-content-center mx-2.5" style="gap: 2.5rem">
+    <button (click)="loginUser()"
+            class="transition ease-in-out delay-100 duration-300 bg-blue-500
+           hover:-translate-y-0 hover:scale-110 hover:bg-blue-400 rounded w-35 p-2 h-10 text-white
+           float-right" style="align-self: center">
+      Login
+    </button>
+    <a routerLink="/account/register" style="font-size: 14px; align-self: center" class="flex no-underline h-5">Not a member? Register here.</a>
+  </div>
+
 </div>
