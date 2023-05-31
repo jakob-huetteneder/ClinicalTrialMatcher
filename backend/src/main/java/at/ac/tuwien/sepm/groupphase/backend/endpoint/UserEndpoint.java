@@ -103,7 +103,7 @@ public class UserEndpoint {
     @GetMapping(path = "/verify")
     public void verifyUser(@Param("code") String code, @Param("role") Role role, @Param("url") String url, HttpServletResponse resp) throws IOException {
         if (this.userService.verify(code, role)) {
-            resp.sendRedirect(url + "#/verification");
+            resp.sendRedirect(url + "#/account/verification");
         }
     }
 

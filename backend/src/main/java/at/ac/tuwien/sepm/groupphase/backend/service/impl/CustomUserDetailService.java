@@ -116,7 +116,7 @@ public class CustomUserDetailService implements UserService {
         LOGGER.debug("Create user with email {}", user.getEmail());
         user.setPassword(passwordEncoder.encode(user.getPassword()));
         ApplicationUser applicationUser = userMapper.userRegisterDtoToApplicationUser(user);
-        applicationUser.setVerification(passwordEncoder.encode(user.getEmail()));
+        applicationUser.setVerification(passwordEncoder.encode(user.getEmail()).replace("/", ""));
         applicationUser = userRepository.save(applicationUser);
         userRepository.flush();
         if (user.getRole() == Role.PATIENT) {
