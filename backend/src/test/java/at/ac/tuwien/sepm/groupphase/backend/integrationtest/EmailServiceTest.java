@@ -53,7 +53,7 @@ class EmailServiceTest {
     @Test
     void sendVerificationEmail() throws JSONException {
         JSONObject emailJsonObject = new JSONObject();
-        emailJsonObject.put("email", "tester@spring.com");
+        emailJsonObject.put("email", "tester1@spring.com");
         emailJsonObject.put("password", "test");
         emailJsonObject.put("firstName", "Angela");
         emailJsonObject.put("lastName", "Pesendorfer");
@@ -74,7 +74,7 @@ class EmailServiceTest {
             greenMail.purgeEmailFromAllMailboxes();
 
             Assertions.assertEquals(1, receivedMessage.getAllRecipients().length);
-            Assertions.assertEquals("tester@spring.com", receivedMessage.getAllRecipients()[0].toString());
+            Assertions.assertEquals("tester1@spring.com", receivedMessage.getAllRecipients()[0].toString());
             Assertions.assertEquals("Clinical Matcher <clinical.matcher@gmail.com>", receivedMessage.getFrom()[0].toString());
             Assertions.assertEquals("Please verify your registration", receivedMessage.getSubject());
         });

@@ -13,6 +13,7 @@ import jakarta.persistence.ManyToMany;
 import jakarta.persistence.OneToMany;
 import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
+import jakarta.validation.constraints.Email;
 
 import java.time.LocalDate;
 import java.util.Set;
@@ -35,7 +36,8 @@ public class Patient {
     @Column(name = "last_name", nullable = false)
     private String lastName;
 
-    @Column(name = "email", nullable = false)
+    //@Email
+    @Column(name = "email", nullable = false, unique = true)
     private String email;
 
     @Column(name = "admission_note", columnDefinition = "TEXT")

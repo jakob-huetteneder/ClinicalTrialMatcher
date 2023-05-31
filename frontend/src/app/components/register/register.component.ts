@@ -25,9 +25,10 @@ export class RegisterComponent {
     status: Status.suspended,
     admin: false
   };
+  submitted = false;
   checkpwd = '';
   checkmail = '';
-  disabled = this.toRegister.firstName === '' || this.toRegister.lastName === ''
+  disabled = this.toRegister.firstName === '' || this.toRegister.lastName === '' || this.checkpwd.length < 8
     || this.toRegister.email === '' || this.toRegister.password === '' || this.toRegister.role === undefined
     || this.checkmail !== this.toRegister.email || this.checkpwd !== this.toRegister.password
     || (this.toRegister.role === Role.patient && (this.toRegister.gender === undefined || this.toRegister.birthdate === undefined));
@@ -50,19 +51,23 @@ export class RegisterComponent {
     console.log(this.toRegister);
   }
   public buttonstyle(): string {
-    this.disabled = this.toRegister.firstName === '' || this.toRegister.lastName === ''
+    this.disabled = this.toRegister.firstName === '' || this.toRegister.lastName === '' || this.checkpwd.length < 8
       || this.toRegister.email === '' || this.toRegister.password === '' || this.toRegister.role === undefined
       || this.checkmail !== this.toRegister.email || this.checkpwd !== this.toRegister.password
       || (this.toRegister.role === Role.patient && (this.toRegister.gender === undefined || this.toRegister.birthdate === undefined));
 
     if (this.disabled) {
-      return 'bg-gray-400';
+      return 'bg-gray-400 hover:cursor-not-allowed';
     } else {
       return 'transition ease-in-out delay-100 duration-300 bg-blue-500 hover:-translate-y-0 hover:scale-110 hover:bg-blue-400';
     }
   }
   submit() {
     console.log('Create User: ' + this.checkmail);
+    this.submitted = true;
+    this.disabled = true;
+    this.checkmail = '';
+    this.checkpwd = '';
 
     this.userService.createUser(this.toRegister).subscribe({
       next: () => {
