@@ -33,6 +33,7 @@ hr {
   flex-direction: row;
   align-items: flex-start;
   border-radius: 2px;
+  padding: 4px;
 
   /* Inside auto layout */
 
@@ -44,6 +45,8 @@ hr {
 ::placeholder {
   color: #235491;
   font-size: 14px;
+  opacity: 60%;
+  font-weight: normal;
 }
 
 .text-in-button {

@@ -185,7 +185,7 @@
            [hidden]="examinationsImageHidden[getIndexById(examination.id)]" alt="Selected Image"
            (click)="examinationsImageHidden[getIndexById(examination.id)] = true"
                  />
-    </div>
+    </div><!--
     <div class="container mt-10">
       <button (click)="submit()"
               class="transition ease-in-out delay-100 duration-300 bg-red-600 float-right
@@ -193,6 +193,20 @@
            hover:-translate-y-0 hover:scale-110 hover:bg-red-700 hover:cursor-pointer">
         Delete
       </button>
+    </div>-->
+
+    <div class="container mt-10">
+      <app-delete-popup [prompt]="'Delete this patient?'" (delete)="submit()">
+        <button
+          class="transition ease-in-out delay-100 duration-300 bg-red-600 float-right
+           rounded w-35 p-2 mt-2 h-10 text-white
+           hover:-translate-y-0 hover:scale-110 hover:bg-red-700 hover:cursor-pointer"
+          data-inline="true"
+          style="width:130px"
+        >
+          Delete Patient
+        </button>
+      </app-delete-popup>
     </div>
   </div>
 

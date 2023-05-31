@@ -17,7 +17,6 @@ import {CreateTrialComponent} from './components/trial/trial-create/trial-create
 import {UpdateProfileComponent} from './components/update-profile/update-profile.component';
 import {RegisterComponent} from './components/register/register.component';
 import {UserListComponent} from './components/user-list/user-list.component';
-import {AutocompleteComponent} from './components/autocomplete/autocomplete.component';
 import {ToastrModule} from 'ngx-toastr';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import {DeletePopupComponent} from './components/delete-popup/delete-popup.component';
@@ -47,7 +46,6 @@ import {DiagnoseComponent} from './components/diagnose/diagnose.component';
     SetpasswordComponent,
     DeletePopupComponent,
     RegisterPatientComponent,
-    AutocompleteComponent,
     PatientDetailComponent,
     DiseaseAutocompleteComponent,
     PatientDetailComponent,
