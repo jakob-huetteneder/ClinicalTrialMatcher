@@ -91,11 +91,14 @@ export class EditTrialComponent implements OnInit {
   }
 
   public disable(): boolean {
-    return (this.trial.title === '' || this.trial.studyType === '' || this.trial.location === '');
+    return (this.trial.title === '' || this.trial.studyType === '' || this.trial.location === ''
+      || this.trial.briefSummary === '' || this.trial.detailedSummary === '' || this.trial.sponsor === ''
+      || this.trial.collaborator === '' || this.trial.crFreeText === '' || this.trial.crGender === null
+      || this.trial.startDate === null || this.trial.endDate === null || this.trial.status === null);
   }
 
   public buttonstyle(): string {
-    if (this.trial.title === '' || this.trial.studyType === '' || this.trial.location === '') {
+    if (this.disable()) {
       return 'bg-gray-400';
     } else {
       return 'transition ease-in-out delay-100 duration-300 bg-blue-500 '
