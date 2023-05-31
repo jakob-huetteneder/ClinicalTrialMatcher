@@ -1,5 +1,6 @@
 package at.ac.tuwien.sepm.groupphase.backend.integrationtest;
 
+import at.ac.tuwien.sepm.groupphase.backend.TestUtil;
 import at.ac.tuwien.sepm.groupphase.backend.config.properties.SecurityProperties;
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.TrialDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.UserDataGenerator;
@@ -41,6 +42,8 @@ public class TrialEndpointTest {
     @Autowired
     private MockMvc mockMvc;
     @Autowired
+    private TestUtil testUtil;
+    @Autowired
     private TrialDataGenerator trialDataGenerator;
     @Autowired
     private UserDataGenerator userDataGenerator;
@@ -55,7 +58,7 @@ public class TrialEndpointTest {
 
     @BeforeEach
     public void beforeEach() {
-        trialRepository.deleteAll();
+        testUtil.cleanAll();
         trialDataGenerator.generateTrials();
     }
 

@@ -1,6 +1,7 @@
 package at.ac.tuwien.sepm.groupphase.backend.integrationtest;
 
 
+import at.ac.tuwien.sepm.groupphase.backend.TestUtil;
 import at.ac.tuwien.sepm.groupphase.backend.config.properties.SecurityProperties;
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.UserDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserDetailDto;
@@ -48,6 +49,8 @@ public class UserEndpointTest {
     @Autowired
     private MockMvc mockMvc;
     @Autowired
+    private TestUtil testUtil;
+    @Autowired
     private UserDataGenerator userDataGenerator;
     @Autowired
     private UserRepository userRepository;
@@ -62,7 +65,7 @@ public class UserEndpointTest {
 
     @BeforeEach
     public void beforeEach() {
-        userRepository.deleteAll();
+        testUtil.cleanAll();
         userDataGenerator.generateUsers();
     }
 

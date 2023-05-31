@@ -2,15 +2,12 @@ package at.ac.tuwien.sepm.groupphase.backend.endpoint.exceptionhandler;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.exception.MessageExceptionDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.exception.ValidationExceptionDto;
-import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.exception.NotFoundExceptionDto;
-import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.exception.ValidationExceptionDto;
 import at.ac.tuwien.sepm.groupphase.backend.exception.NotFoundException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.authentication.BadCredentialsException;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
-import org.springframework.validation.FieldError;
 import org.springframework.validation.FieldError;
 import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.annotation.ControllerAdvice;

@@ -1,11 +1,6 @@
 package at.ac.tuwien.sepm.groupphase.backend;
 
-import at.ac.tuwien.sepm.groupphase.backend.repository.DiagnosesRepository;
-import at.ac.tuwien.sepm.groupphase.backend.repository.DiseaseRepository;
-import at.ac.tuwien.sepm.groupphase.backend.repository.ExaminationRepository;
-import at.ac.tuwien.sepm.groupphase.backend.repository.MedicalImageRepository;
-import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
-import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
+import at.ac.tuwien.sepm.groupphase.backend.repository.*;
 import jakarta.annotation.PostConstruct;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Profile;
@@ -26,15 +21,18 @@ public class TestUtil {
     @Autowired
     private PatientRepository patientRepository;
     @Autowired
+    private TrialRepository trialRepository;
+    @Autowired
     private UserRepository userRepository;
 
     @PostConstruct
     public void cleanAll() {
-        diagnosesRepository.deleteAll();
+        diagnosesRepository.deleteAll(); // Must be before Disease
         diseaseRepository.deleteAll();
+        medicalImageRepository.deleteAll(); // Must be before Examination
         examinationRepository.deleteAll();
-        medicalImageRepository.deleteAll();
-        patientRepository.deleteAll();
+        patientRepository.deleteAll(); // Must be before User
+        trialRepository.deleteAll(); // Must be before User
         userRepository.deleteAll();
     }
 

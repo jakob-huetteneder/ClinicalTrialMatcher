@@ -19,37 +19,40 @@ import {SetpasswordComponent} from './components/setpassword/setpassword.compone
 
 const routes: Routes = [
   {path: '', component: HomeComponent},
-  {path: 'login', component: LoginComponent},
-  {path: 'update-profile', component: UpdateProfileComponent},
-  {path: 'user-overview', component: UserListComponent},
-  {path: 'trials', children: [
-      {path: '' , component: TrialComponent},
-      {path: 'create', component: CreateTrialComponent},
-      {path: 'edit/:id', component: EditTrialComponent},
+  {path: 'account', children: [
+      {path: '', component: UpdateProfileComponent},
+      {path: 'login', component: LoginComponent},
+      {path: 'register', component: RegisterComponent},
+      {path: 'verification', component: VerificationComponent},
+      {path: 'set-password/:code', component: SetpasswordComponent},
     ]},
-  {path: 'user-overview', component: UserListComponent},
-  {
-    path: 'register', children: [
-      {path: '', component: RegisterComponent},
-      {path: 'patient', component: RegisterPatientComponent}
-    ]
-  },
-  {path: 'verification', component: VerificationComponent},
-  {path: 'password/:code', component: SetpasswordComponent},
-  {path: 'patient', children: [
-    {path: '', component: PatientDetailComponent},
-    {path: ':id', children: [
-      {path: '', component: PatientDetailComponent},
-      {path: 'examination', children: [
-        {path: 'create', component: CreateEditExaminationComponent, data: {mode: ExaminationCreateEditMode.create}},
-        {path: 'edit/:eid', component: CreateEditExaminationComponent, data: {mode: ExaminationCreateEditMode.edit}},
-      ]},
-        {path: 'diagnose', children: [
-          {path: 'create', component: DiagnoseComponent, data: {mode: DiagnoseCreateEditMode.create}},
-          {path: 'edit/:did', component: DiagnoseComponent, data: {mode: DiagnoseCreateEditMode.edit}},
+  {path: 'admin', children: [
+      {path: 'user-overview', component: UserListComponent},
+    ]},
+  {path: 'researcher', children: [
+      {path: 'trials', children: [
+          {path: '' , component: TrialComponent},
+          {path: 'create', component: CreateTrialComponent},
+          {path: 'edit/:id', component: EditTrialComponent},
         ]},
     ]},
-  ]},
+  {path: 'doctor', children: [
+      {path: 'register-patient', component: RegisterPatientComponent},
+      {path: 'view-patient/:id', children: [
+          {path: '', component: PatientDetailComponent},
+          {path: 'examination', children: [
+              {path: 'create', component: CreateEditExaminationComponent, data: {mode: ExaminationCreateEditMode.create}},
+              {path: 'edit/:eid', component: CreateEditExaminationComponent, data: {mode: ExaminationCreateEditMode.edit}},
+              ]},
+          {path: 'diagnose', children: [
+              {path: 'create', component: DiagnoseComponent, data: {mode: DiagnoseCreateEditMode.create}},
+              {path: 'edit/:did', component: DiagnoseComponent, data: {mode: DiagnoseCreateEditMode.edit}},
+              ]},
+          ]},
+
+    ]},
+
+
   {path: '**', redirectTo: ''},
 ];
 
