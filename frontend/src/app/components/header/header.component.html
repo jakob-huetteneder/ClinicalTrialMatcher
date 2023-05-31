@@ -124,7 +124,7 @@
     </div>
     <div class="flex-initial single-button">
       <button class="flex-initial bg-blue-300 rounded w-35 py-2 px-4 h-10 text-blue-900 font-bold border-blue-950 drop-shadow-sm"
-              *ngIf="!authService.isLoggedIn()" routerLink="/login" routerLinkActive="active">Login
+              *ngIf="!authService.isLoggedIn()" routerLink="/account/login" routerLinkActive="active">Login
       </button>
       <div *ngIf="authService.isLoggedIn()" routerLink="/" class="profile">
         <div class="single-button flex flex-initial">

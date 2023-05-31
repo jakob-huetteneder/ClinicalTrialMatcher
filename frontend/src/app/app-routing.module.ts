@@ -16,6 +16,8 @@ import {CreateEditExaminationComponent} from './components/examination/create-ed
 import {ExaminationCreateEditMode} from './components/examination/create-edit-examination/create-edit-examination.component';
 import {VerificationComponent} from './components/verification/verification.component';
 import {SetpasswordComponent} from './components/setpassword/setpassword.component';
+import {Role} from './dtos/role';
+import {AuthGuard} from './guards/auth.guard';
 
 const routes: Routes = [
   {path: '', component: HomeComponent},
@@ -26,17 +28,26 @@ const routes: Routes = [
       {path: 'verification', component: VerificationComponent},
       {path: 'set-password/:code', component: SetpasswordComponent},
     ]},
-  {path: 'admin', children: [
+  {path: 'admin', data: {allowedRoles: [Role.admin]},
+    canActivate: [AuthGuard],
+    canActivateChild: [AuthGuard],
+    children: [
       {path: 'user-overview', component: UserListComponent},
     ]},
-  {path: 'researcher', children: [
+  {path: 'researcher', data: {allowedRoles: [Role.researcher]},
+    canActivate: [AuthGuard],
+    canActivateChild: [AuthGuard],
+    children: [
       {path: 'trials', children: [
           {path: '' , component: TrialComponent},
           {path: 'create', component: CreateTrialComponent},
           {path: 'edit/:id', component: EditTrialComponent},
         ]},
     ]},
-  {path: 'doctor', children: [
+  {path: 'doctor', data: {allowedRoles: [Role.doctor]},
+    canActivate: [AuthGuard],
+    canActivateChild: [AuthGuard],
+    children: [
       {path: 'register-patient', component: RegisterPatientComponent},
       {path: 'view-patient/:id', children: [
           {path: '', component: PatientDetailComponent},
