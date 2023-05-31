@@ -23,6 +23,8 @@ export class UpdateProfileComponent implements OnInit {
   checkpwd = '';
   editForm: FormGroup;
 
+  oldEmail = '';
+
   constructor(
     private formBuilder: FormBuilder,
     private authService: AuthService,
@@ -37,15 +39,16 @@ export class UpdateProfileComponent implements OnInit {
       firstName: ['', [Validators.required, Validators.maxLength(255)]],
       lastName: ['', [Validators.required, Validators.maxLength(255)]],
       email: ['', [Validators.required, Validators.email]],
-      password: ['', [Validators.required, Validators.maxLength(255), Validators.minLength(8)]],
-      repeatMail: ['', [Validators.required, Validators.email]],
-      repeatPassword: ['', [Validators.required, Validators.maxLength(255), Validators.minLength(8)]],
-      oldPassword: ['', [Validators.required, Validators.maxLength(255), Validators.minLength(8)]],
+      password: ['', [Validators.maxLength(255), Validators.minLength(8)]],
+      repeatMail: ['', [Validators.email]],
+      repeatPassword: ['', [Validators.maxLength(255), Validators.minLength(8)]],
+      oldPassword: ['', [Validators.maxLength(255), Validators.minLength(8)]],
     });
     this.userService.getActiveUser()
       .subscribe({
         next: data => {
           this.user = data;
+          this.oldEmail = this.user.email;
           this.editForm.patchValue({
             firstName: this.user.firstName,
             lastName: this.user.lastName,
@@ -67,6 +70,29 @@ export class UpdateProfileComponent implements OnInit {
     this.user.password = this.editForm.value.password;
     this.user.oldPassword = this.editForm.value.oldPassword;
     console.log(this.user);
+
+    if (this.editForm.value.email !== this.editForm.value.repeatMail
+      && this.oldEmail !== this.editForm.value.email) {
+      this.notification.error('Emails do not match');
+      return;
+    }
+    if (this.editForm.value.password !== this.editForm.value.repeatPassword) {
+      this.notification.error('Passwords do not match');
+      return;
+    }
+    if (this.editForm.value.password === '') {
+      this.user.password = null;
+    } else if (this.editForm.value.oldPassword === '') {
+      this.notification.error('Please enter your old password');
+      return;
+    }
+    if (this.editForm.value.repeatPassword === '') {
+      this.user.oldPassword = null;
+    }
+    if (this.editForm.value.repeatMail === '') {
+      this.user.email = null;
+    }
+
     this.userService.updateUser(this.user).subscribe({
       next: () => {
         this.router.navigate(['']);
@@ -74,6 +100,7 @@ export class UpdateProfileComponent implements OnInit {
       },
       error: error => {
         console.error('Error ', error.error.message);
+        this.notification.error(error.error.message);
       }
     });
   }
