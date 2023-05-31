@@ -175,7 +175,7 @@
       <button class="flex-initial bg-blue-300 rounded w-35 py-2 px-4 h-10 text-blue-900 font-bold border-blue-950 drop-shadow-sm"
               *ngIf="!authService.isLoggedIn()" routerLink="/account/login" routerLinkActive="active">Login
       </button>
-      <div *ngIf="authService.isLoggedIn()" routerLink="/" class="profile">
+      <div *ngIf="authService.isLoggedIn()" class="profile">
         <div class="single-button flex flex-initial">
           <div class="group relative dropdown px-0 cursor-pointer text-base tracking-wide right-0">
             <div class="profile flex flex-row"><img class="flex-initial mr-1" src="assets/img/UserIcon.svg" alt="profile"> <i class="mt-1 bi-chevron-down ml-2"></i></div>

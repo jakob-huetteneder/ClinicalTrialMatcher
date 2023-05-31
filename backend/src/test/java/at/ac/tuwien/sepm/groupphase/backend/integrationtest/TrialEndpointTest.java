@@ -5,6 +5,7 @@ import at.ac.tuwien.sepm.groupphase.backend.config.properties.SecurityProperties
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.TrialDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.UserDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.TrialDto;
+import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Researcher;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Trial;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
@@ -150,6 +151,24 @@ public class TrialEndpointTest {
             () -> assertEquals(trial.getCrMaxAge(), trialDtos.get(0).crMaxAge()),
             () -> assertEquals(trial.getCrFreeText(), trialDtos.get(0).crFreeText())
         );
+    }
+
+    @Test
+    public void testGetOwnTrialsForUserWithWrongRole() throws Exception {
+        trialDataGenerator.generateTrial();
+
+        Doctor doctor = (Doctor) userDataGenerator.generateUser(Role.DOCTOR);
+        List<String> userRoles = new ArrayList<>() {
+            {
+                add("ROLE_DOCTOR");
+            }
+        };
+        MvcResult mvcResult = this.mockMvc.perform(get(TRIAL_BASE_URI + "/researcher")
+                .header(securityProperties.getAuthHeader(), jwtTokenizer.getAuthToken(doctor.getId().toString(), userRoles)))
+            .andDo(print())
+            .andReturn();
+        MockHttpServletResponse response = mvcResult.getResponse();
+        assertEquals(HttpStatus.FORBIDDEN.value(), response.getStatus());
     }
 
     @Test
