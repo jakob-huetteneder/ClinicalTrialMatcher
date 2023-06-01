@@ -1,9 +1,9 @@
 import {Component, OnInit} from '@angular/core';
-import {FormBuilder, FormGroup, NgModel, UntypedFormBuilder, Validators} from '@angular/forms';
+import {AbstractControl, FormBuilder, FormGroup, ValidationErrors, ValidatorFn, Validators} from '@angular/forms';
 import {AuthService} from '../../services/auth.service';
 import {Router} from '@angular/router';
 import {UserService} from '../../services/user.service';
-import {User} from '../../dtos/user';
+import {User, userToUserUpdate, UserUpdate} from '../../dtos/user';
 import {ToastrService} from 'ngx-toastr';
 
 @Component({
@@ -12,18 +12,11 @@ import {ToastrService} from 'ngx-toastr';
   styleUrls: ['./update-profile.component.scss']
 })
 export class UpdateProfileComponent implements OnInit {
-  user: User = {
-    firstName: '',
-    lastName: '',
-    email: '',
-    password: '',
-    oldPassword: '',
-  };
-  checkmail = '';
-  checkpwd = '';
+  user = new UserUpdate();
+  oldUser = new UserUpdate();
+
   editForm: FormGroup;
 
-  oldEmail = '';
 
   constructor(
     private formBuilder: FormBuilder,
@@ -47,8 +40,9 @@ export class UpdateProfileComponent implements OnInit {
     this.userService.getActiveUser()
       .subscribe({
         next: data => {
-          this.user = data;
-          this.oldEmail = this.user.email;
+          this.user = userToUserUpdate(data);
+          this.editForm.addValidators(this.changed(this.user));
+          this.editForm.addValidators(this.passwordChanged());
           this.editForm.patchValue({
             firstName: this.user.firstName,
             lastName: this.user.lastName,
@@ -62,35 +56,25 @@ export class UpdateProfileComponent implements OnInit {
       });
   }
 
-  public onSubmit(): void {
-    console.log(this.editForm.value);
+  public update(): void {
+    if (!this.editForm.valid) {
+
+      this.notification.error(this.getErrorString());
+      return;
+    }
+
     this.user.firstName = this.editForm.value.firstName;
     this.user.lastName = this.editForm.value.lastName;
     this.user.email = this.editForm.value.email;
     this.user.password = this.editForm.value.password;
     this.user.oldPassword = this.editForm.value.oldPassword;
-    console.log(this.user);
 
-    if (this.editForm.value.email !== this.editForm.value.repeatMail
-      && this.oldEmail !== this.editForm.value.email) {
-      this.notification.error('Emails do not match');
-      return;
-    }
-    if (this.editForm.value.password !== this.editForm.value.repeatPassword) {
-      this.notification.error('Passwords do not match');
-      return;
-    }
+
     if (this.editForm.value.password === '') {
       this.user.password = null;
-    } else if (this.editForm.value.oldPassword === '') {
-      this.notification.error('Please enter your old password');
-      return;
     }
     if (this.editForm.value.repeatPassword === '') {
       this.user.oldPassword = null;
-    }
-    if (this.editForm.value.repeatMail === '') {
-      this.user.email = null;
     }
 
     this.userService.updateUser(this.user).subscribe({
@@ -100,12 +84,26 @@ export class UpdateProfileComponent implements OnInit {
       },
       error: error => {
         console.error('Error ', error.error.message);
-        this.notification.error(error.error.message);
+        if (error.status === 409) {
+          this.notification.error('Email already exists, please choose another one');
+        } else if (error.status === 422) {
+          let listOfValidationErrors = '';
+          error.error.errors.forEach((validationError: string) => {
+            if (listOfValidationErrors !== '') {
+              listOfValidationErrors += ', ';
+            }
+            listOfValidationErrors += validationError;
+          });
+          this.notification.error(listOfValidationErrors, 'Invalid values');
+        } else {
+          this.notification.error(error.error.message);
+        }
       }
     });
   }
 
   delete(id: number) {
+    console.log('delete user with name ' + this.user.firstName + ' ' + this.user.lastName + ' and id ' + id);
     return this.userService.deleteUser(id).subscribe({
       next: () => {
         this.authService.logoutUser();
@@ -118,5 +116,94 @@ export class UpdateProfileComponent implements OnInit {
     });
   }
 
+  // Custom validators
+  changed(oldValue: User): ValidatorFn {
+    return (control: AbstractControl): ValidationErrors | null => {
+      const firstNameChanged = oldValue.firstName !== control.value.firstName;
+      const lastNameChanged = oldValue.lastName !== control.value.lastName;
+      const emailChanged = oldValue.email !== control.value.email;
+      const emailMatches = control.value.email === control.value.repeatMail;
 
+      if (emailChanged && !emailMatches) {
+        return { emailMismatch: true };
+      }
+      return firstNameChanged || lastNameChanged || emailChanged ? null : { noUpdateRequired: true };
+    };
+  }
+
+  passwordChanged(): ValidatorFn {
+    return (control: AbstractControl): ValidationErrors | null => {
+      if (control.value.password !== control.value.repeatPassword) {
+        return { passwordMismatch: true };
+      }
+      if (control.value.password !== '' && control.value.oldPassword === '') {
+        return { oldPasswordRequired: true };
+      }
+      return null;
+    };
+  }
+
+  getErrorString() {
+
+    const errors = [];
+    if (this.editForm.errors != null) {
+      Object.keys(this.editForm.errors).forEach(keyError => {
+        console.log('Key error: ' + keyError);
+        errors.push(this.validationErrorName(keyError));
+      });
+    }
+    Object.keys(this.editForm.controls).forEach(key => {
+      const controlErrors: ValidationErrors = this.editForm.get(key).errors;
+      if (controlErrors != null) {
+        Object.keys(controlErrors).forEach(keyError => {
+          console.log('Key control: ' + key + ', keyError: ' + keyError);
+          errors.push(this.fieldName(key) + ' ' + this.validationErrorName(keyError));
+        });
+      }
+    });
+
+    return errors.pop();
+  }
+
+  fieldName(field: string): string {
+    switch (field) {
+      case 'firstName':
+        return 'First name';
+      case 'lastName':
+        return 'Last name';
+      case 'email':
+        return 'Email';
+      case 'password':
+        return 'Password';
+      case 'repeatMail':
+        return 'Repeat email';
+      case 'repeatPassword':
+        return 'Repeat password';
+      case 'oldPassword':
+        return 'Old password';
+    }
+    return 'Invalid input';
+  }
+
+  validationErrorName(error: string): string {
+    switch (error) {
+      case 'required':
+        return 'is required';
+      case 'email':
+        return 'is not a valid email';
+      case 'minlength':
+        return 'is too short';
+      case 'maxlength':
+        return 'is too long';
+      case 'noUpdateRequired':
+        return 'No changes made';
+      case 'emailMismatch':
+        return 'Emails do not match';
+      case 'passwordMismatch':
+        return 'Passwords do not match';
+      case 'oldPasswordRequired':
+        return 'Old password required';
+    }
+    return 'Invalid input';
+  }
 }

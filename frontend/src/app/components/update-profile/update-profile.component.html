@@ -5,7 +5,7 @@
 
   <hr class="container">
 
-  <form [formGroup]="editForm" (ngSubmit)="onSubmit()" class="container">
+  <form [formGroup]="editForm" class="container">
     <div class=" grid grid-cols-2">
       <div class="flex flex-row">
         <div class="flex flex-col flex-initial">
@@ -78,7 +78,8 @@
           <button
             class="transition ease-in-out delay-100 duration-300 bg-blue-500 hover:-translate-y-0 hover:scale-110 hover:bg-blue-400 rounded w-35 p-2 mt-2 h-10 text-white mr-5"
             style="width:130px"
-            [disabled]="!editForm.valid"
+            [style.background-color]="(editForm.valid) ? 'rgb(59 130 246 / 100%)' : 'rgb(59 130 246 / 50%)'"
+            (click)="update()"
           >
             Update
           </button>
