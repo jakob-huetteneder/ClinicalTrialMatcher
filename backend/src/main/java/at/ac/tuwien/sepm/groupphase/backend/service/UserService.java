@@ -54,11 +54,9 @@ public interface UserService {
      * Create a user.
      *
      * @param user to Create
-     * @param siteUrl to send verification link
-     * @param redirectUrl to redirect user
      * @return created user
      */
-    UserDetailDto createUser(UserRegisterDto user, String siteUrl, String redirectUrl);
+    UserDetailDto createUser(UserRegisterDto user);
 
     /**
      * Verify a user.

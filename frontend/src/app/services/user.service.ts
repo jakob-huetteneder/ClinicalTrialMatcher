@@ -65,10 +65,7 @@ export class UserService {
    * @return observable user
    */
   createUser(user: User): Observable<User> {
-    const url = window.location.href;
-    let queryParams = new HttpParams();
-    queryParams = queryParams.set('url', url);
-    return this.http.post<User>(baseUri, user, { params: queryParams});
+    return this.http.post<User>(baseUri, user);
   }
 
   /**

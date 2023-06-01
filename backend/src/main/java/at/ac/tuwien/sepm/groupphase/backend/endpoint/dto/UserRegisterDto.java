@@ -3,6 +3,7 @@ package at.ac.tuwien.sepm.groupphase.backend.endpoint.dto;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
 import jakarta.validation.constraints.Email;
+import jakarta.validation.constraints.NotEmpty;
 import jakarta.validation.constraints.NotNull;
 
 import java.time.LocalDate;
@@ -10,16 +11,16 @@ import java.util.Objects;
 
 public class UserRegisterDto {
 
-    @NotNull(message = "Email must not be null")
-    @Email
+    @NotEmpty(message = "Email must not be empty")
+    @Email(message = "Email must be valid")
     private String email;
-    @NotNull(message = "Password must not be null")
+    @NotEmpty(message = "Password must not be empty")
     private String password;
-    @NotNull(message = "First name must not be null")
+    @NotEmpty(message = "First name must not be empty")
     private String firstName;
-    @NotNull(message = "Last name must not be null")
+    @NotEmpty(message = "Last name must not be empty")
     private String lastName;
-    @NotNull(message = "User role must not be null")
+    @NotNull(message = "User role must be selected")
     private Role role;
     private LocalDate birthdate;
     private Gender gender;

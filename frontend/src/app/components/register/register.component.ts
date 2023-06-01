@@ -1,5 +1,5 @@
 import {Component} from '@angular/core';
-import {User} from 'src/app/dtos/user';
+import {User, UserRegistration} from 'src/app/dtos/user';
 import {Role} from '../../dtos/role';
 import {NgModel} from '@angular/forms';
 import {UserService} from '../../services/user.service';
@@ -14,17 +14,7 @@ import {ToastrService} from 'ngx-toastr';
 })
 
 export class RegisterComponent {
-  toRegister: User = {
-    firstName: '',
-    lastName: '',
-    email: '',
-    password: '',
-    gender: undefined,
-    birthdate: undefined,
-    role: undefined,
-    status: Status.suspended,
-    admin: false
-  };
+  toRegister: UserRegistration = new UserRegistration();
   submitted = false;
   checkpwd = '';
   checkmail = '';

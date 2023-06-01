@@ -2,6 +2,7 @@ package at.ac.tuwien.sepm.groupphase.backend.endpoint.exceptionhandler;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.exception.MessageExceptionDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.exception.ValidationExceptionDto;
+import at.ac.tuwien.sepm.groupphase.backend.exception.AlreadyExistsException;
 import at.ac.tuwien.sepm.groupphase.backend.exception.NotFoundException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -46,6 +47,16 @@ public class GlobalExceptionHandler {
             .toList();
 
         return new ValidationExceptionDto("The input is not valid.", errors);
+    }
+
+    @ExceptionHandler(value = {AlreadyExistsException.class})
+    @ResponseStatus(HttpStatus.CONFLICT)
+    @ResponseBody
+    public MessageExceptionDto handleAlreadyExistsException(AlreadyExistsException alreadyExistsException) {
+
+        LOGGER.info("AlreadyExistsException: {}", alreadyExistsException.getMessage());
+
+        return new MessageExceptionDto(alreadyExistsException.getMessage());
     }
 
     @ExceptionHandler(value = {IllegalArgumentException.class})

@@ -10,8 +10,9 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
-import jakarta.persistence.OneToOne;
+import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
+import org.hibernate.annotations.OnDelete;
 
 import java.time.LocalDate;
 
@@ -34,8 +35,9 @@ public class Trial {
     @Column(name = "end_date", nullable = false)
     private LocalDate endDate;
 
-    @OneToOne(fetch = FetchType.EAGER)
+    @ManyToOne(fetch = FetchType.EAGER)
     @JoinColumn(name = "researcher_id", nullable = false)
+    @OnDelete(action = org.hibernate.annotations.OnDeleteAction.CASCADE)
     private Researcher researcher;
 
     @Column(name = "study_type", nullable = false)

@@ -25,7 +25,7 @@ const routes: Routes = [
       {path: '', component: UpdateProfileComponent},
       {path: 'login', component: LoginComponent},
       {path: 'register', component: RegisterComponent},
-      {path: 'verification', component: VerificationComponent},
+      {path: 'verified', component: VerificationComponent},
       {path: 'set-password/:code', component: SetpasswordComponent},
     ]},
   {path: 'admin', data: {allowedRoles: [Role.admin]},

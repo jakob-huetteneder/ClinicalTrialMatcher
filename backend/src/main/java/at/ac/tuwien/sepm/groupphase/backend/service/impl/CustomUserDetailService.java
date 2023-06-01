@@ -5,22 +5,21 @@ import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserLoginDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserRegisterDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserUpdateDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.UserMapper;
-import at.ac.tuwien.sepm.groupphase.backend.entity.Admin;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Status;
+import at.ac.tuwien.sepm.groupphase.backend.exception.AlreadyExistsException;
 import at.ac.tuwien.sepm.groupphase.backend.exception.NotFoundException;
 import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
 import at.ac.tuwien.sepm.groupphase.backend.security.AuthorizationService;
 import at.ac.tuwien.sepm.groupphase.backend.service.EmailService;
-import at.ac.tuwien.sepm.groupphase.backend.security.AuthorizationService;
 import at.ac.tuwien.sepm.groupphase.backend.service.UserService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-
+import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.data.domain.Sort;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.password.PasswordEncoder;
@@ -88,7 +87,13 @@ public class CustomUserDetailService implements UserService {
         if (user.status() != null) {
             foundUser.setStatus(user.status());
         }
-        return userMapper.applicationUserToUserDetailDto(userRepository.save(foundUser));
+        try {
+            foundUser = userRepository.save(foundUser);
+        } catch (DataIntegrityViolationException integrityException) {
+            throw new AlreadyExistsException("User with this email already exists.", integrityException);
+        }
+
+        return userMapper.applicationUserToUserDetailDto(foundUser);
     }
 
     @Override
@@ -111,23 +116,26 @@ public class CustomUserDetailService implements UserService {
         userRepository.deleteById(id);
     }
 
+
     @Override
-    public UserDetailDto createUser(UserRegisterDto user, String siteUrl, String redirectUrl) {
+    public UserDetailDto createUser(UserRegisterDto user) {
         LOGGER.debug("Create user with email {}", user.getEmail());
         user.setPassword(passwordEncoder.encode(user.getPassword()));
         ApplicationUser applicationUser = userMapper.userRegisterDtoToApplicationUser(user);
         applicationUser.setVerification(passwordEncoder.encode(user.getEmail()).replace("/", ""));
-        applicationUser = userRepository.save(applicationUser);
-        userRepository.flush();
+        try {
+            applicationUser = userRepository.save(applicationUser);
+        } catch (DataIntegrityViolationException integrityException) {
+            throw new AlreadyExistsException("User with this email already exists.", integrityException);
+        }
         if (user.getRole() == Role.PATIENT) {
-            applicationUser.setStatus(Status.ACTION_REQUIRED);
             Patient patient = userMapper.userRegisterDtoToPatient(user, applicationUser);
             patientRepository.save(patient);
         }
         if (user.isCreatedByAdmin()) {
-            this.emailService.setPasswordEmail(applicationUser);
+            this.emailService.sendSetPasswordEmail(applicationUser);
         } else {
-            this.emailService.sendVerificationEmail(applicationUser, siteUrl, user.getRole(), redirectUrl);
+            this.emailService.sendVerificationEmail(applicationUser, user.getRole());
         }
         return userMapper.applicationUserToUserDetailDto(applicationUser);
     }

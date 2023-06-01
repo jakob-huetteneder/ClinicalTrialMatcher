@@ -1,5 +1,5 @@
 import {Component, OnInit} from '@angular/core';
-import {User} from '../../dtos/user';
+import {User, UserRegistration} from '../../dtos/user';
 import {UserService} from '../../services/user.service';
 import {cloneDeep} from 'lodash';
 import {Role} from '../../dtos/role';
@@ -17,25 +17,13 @@ export class UserListComponent implements OnInit {
 
   users: User[] = [];
   editedUsers: User[] = []; // stores the old values of currently edited users
-  addingUser = false;
 
-  toRegister: User = {
-    firstName: '',
-    lastName: '',
-    email: '',
-    password: 'password',
-    gender: undefined,
-    birthdate: undefined,
-    role: undefined,
-    status: Status.suspended,
-    admin: true
-  };
-  checkmail = '';
+  registeringUser = false;
+  toRegister = new UserRegistration();
 
   constructor(
     private userService: UserService,
     private notification: ToastrService,
-    private router: Router
   ) {
   }
 
@@ -67,27 +55,42 @@ export class UserListComponent implements OnInit {
   }
 
   saveUser() {
-    console.log('Create User: ' + this.checkmail);
+    console.log('Create User: ' + this.toRegister.email);
+
+    this.toRegister.password = 'no password';
 
     this.userService.createUser(this.toRegister).subscribe({
-      next: () => {
-        console.log('Created User: ' + this.toRegister.email);
-        this.notification.info('Successfully created user ' + this.toRegister.email);
+      next: createdUser => {
+        this.notification.info('Successfully created user ' + createdUser.email);
+        this.users.push(createdUser);
+        this.registeringUser = false;
+        this.toRegister = new UserRegistration();
       },
       error: error => {
         console.log('Something went wrong while creating user: ' + error.error.message);
-        this.notification.error(error.error.message, 'Error creating user');
+        console.log(error);
+        if (error.status === 409) {
+          this.notification.error('User with email ' + this.toRegister.email + ' already exists');
+        } else if (error.status === 422) {
+          let listOfValidationErrors = '';
+          error.error.errors.forEach((validationError: string) => {
+            if (listOfValidationErrors !== '') {
+              listOfValidationErrors += ', ';
+            }
+            listOfValidationErrors += validationError;
+          });
+          this.notification.error(listOfValidationErrors, 'Invalid values');
+        } else {
+          this.notification.error(error.error.message, 'Error creating user');
+        }
       }
     });
-
-    window.location.reload();
   }
 
 
   confirmEditUser(user: User) {
     console.log('Update user: ' + user.email);
-    const updatedUserPromise = this.userService.updateUserById(user);
-    updatedUserPromise.subscribe({
+    this.userService.updateUserById(user).subscribe({
       next: updatedUser => {
         console.log('Updated user: ' + updatedUser.email);
 
@@ -96,13 +99,22 @@ export class UserListComponent implements OnInit {
         this.notification.info('Successfully updated user ' + updatedUser.email);
       },
       error: error => {
-        // TODO: check if error is a validation error
-        console.log('Something went wrong while updating user: ' + error.error.message);
-        console.log('The following values were invalid:\n' + JSON.stringify(error.error.errors));
-        console.log(error);
+        if (error.status === 409) {
+          this.notification.error('User with email ' + user.email + ' already exists');
+        } else if (error.status === 422) {
+          let listOfValidationErrors = '';
+          error.error.errors.forEach((validationError: string) => {
+            if (listOfValidationErrors !== '') {
+              listOfValidationErrors += ', ';
+            }
+            listOfValidationErrors += validationError;
+          });
+          this.notification.error(listOfValidationErrors, 'Invalid values');
+        } else {
+          this.notification.error(error.error.message, 'Error updating user');
+        }
         // reset user to old values
         this.resetUser(user.id);
-        this.notification.error(error.error.message, 'Error updating user');
       }
     });
   }
@@ -115,7 +127,7 @@ export class UserListComponent implements OnInit {
 
   discardAddUser() {
     console.log('Discard user: ');
-    this.addingUser = false;
+    this.registeringUser = false;
   }
 
   activateUser(user: User) {
@@ -130,11 +142,11 @@ export class UserListComponent implements OnInit {
   }
 
   addUser() {
-    this.addingUser = true;
+    this.registeringUser = true;
   }
 
   onAdd(): boolean {
-    return this.addingUser;
+    return this.registeringUser;
   }
 
   roleName(role: Role): string {
@@ -146,16 +158,16 @@ export class UserListComponent implements OnInit {
   }
 
   private loadUsers() {
-    this.userService.getAllUsers().subscribe(
-      (users: User[]) => {
+    this.userService.getAllUsers().subscribe({
+      next: (users: User[]) => {
         this.users = users;
       },
-      error => {
+      error: error => {
         console.log('Something went wrong while loading users: ' + error.error.message);
         this.notification.error(error.error.message, 'Something went wrong while loading users');
         console.log(error);
       }
-    );
+    });
   }
 
   private resetUser(userId: number) {

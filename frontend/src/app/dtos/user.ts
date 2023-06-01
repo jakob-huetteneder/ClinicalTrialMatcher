@@ -9,10 +9,19 @@ export interface User {
   lastName: string;
   email: string;
   password?: string;
-  birthdate?: Date;
-  gender?: Gender;
   role?: Role;
   status?: Status;
   oldPassword?: string;
+  admin?: boolean;
+}
+
+export class UserRegistration implements User {
+  firstName: string;
+  lastName: string;
+  email: string;
+  password: string;
+  birthdate?: Date;
+  gender?: Gender;
+  role: Role;
   admin?: boolean;
 }
