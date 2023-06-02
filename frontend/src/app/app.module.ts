@@ -13,14 +13,13 @@ import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import {httpInterceptorProviders} from './interceptors';
 import {NgOptimizedImage} from '@angular/common';
 import {TrialComponent} from './components/trial/trial.component';
-import {CreateTrialComponent} from './components/trial/trial-create/trial-create.component';
+import {CreateEditTrialComponent} from './components/trial/trial-create-edit/trial-create-edit.component';
 import {UpdateProfileComponent} from './components/update-profile/update-profile.component';
 import {RegisterComponent} from './components/register/register.component';
 import {UserListComponent} from './components/user-list/user-list.component';
 import {ToastrModule} from 'ngx-toastr';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import {DeletePopupComponent} from './components/delete-popup/delete-popup.component';
-import {EditTrialComponent} from './components/trial/trial-edit/trial-edit.component';
 import {VerificationComponent} from './components/verification/verification.component';
 import {SetpasswordComponent} from './components/setpassword/setpassword.component';
 import {RegisterPatientComponent} from './components/register/register-patient/register-patient.component';
@@ -37,9 +36,8 @@ import {DiagnoseComponent} from './components/diagnose/diagnose.component';
     HomeComponent,
     LoginComponent,
     TrialComponent,
-    CreateTrialComponent,
+    CreateEditTrialComponent,
     UpdateProfileComponent,
-    EditTrialComponent,
     RegisterComponent,
     UserListComponent,
     VerificationComponent,

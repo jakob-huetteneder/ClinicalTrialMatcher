@@ -37,7 +37,7 @@ public class TrialEndpoint {
     @PostMapping
     public TrialDto saveTrial(@RequestBody @Valid TrialDto trial) {
         LOG.info("Insert trial");
-        LOG.info("request Body ({},{}, Researcher: {},{})", trial.briefSummary(), trial.id(), trial.researcher().getId(), trial.researcher().getFirstName());
+        LOG.info("Request Body {}", trial);
 
         return trialService.saveTrial(trial);
     }

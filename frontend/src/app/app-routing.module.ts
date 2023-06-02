@@ -3,11 +3,13 @@ import {RouterModule, Routes} from '@angular/router';
 import {HomeComponent} from './components/home/home.component';
 import {LoginComponent} from './components/login/login.component';
 import {TrialComponent} from './components/trial/trial.component';
-import {CreateTrialComponent} from './components/trial/trial-create/trial-create.component';
+import {
+  CreateEditTrialComponent,
+  TrialCreateEditMode
+} from './components/trial/trial-create-edit/trial-create-edit.component';
 import {RegisterComponent} from './components/register/register.component';
 import {UserListComponent} from './components/user-list/user-list.component';
 import {UpdateProfileComponent} from './components/update-profile/update-profile.component';
-import {EditTrialComponent} from './components/trial/trial-edit/trial-edit.component';
 import {RegisterPatientComponent} from './components/register/register-patient/register-patient.component';
 import {PatientDetailComponent} from './components/patient-detail/patient-detail.component';
 import {DiagnoseComponent} from './components/diagnose/diagnose.component';
@@ -40,8 +42,8 @@ const routes: Routes = [
     children: [
       {path: 'trials', children: [
           {path: '' , component: TrialComponent},
-          {path: 'create', component: CreateTrialComponent},
-          {path: 'edit/:id', component: EditTrialComponent},
+          {path: 'create', component: CreateEditTrialComponent, data: {mode: TrialCreateEditMode.create}},
+          {path: 'edit/:id', component: CreateEditTrialComponent, data: {mode: TrialCreateEditMode.edit}},
         ]},
     ]},
   {path: 'doctor', data: {allowedRoles: [Role.doctor]},

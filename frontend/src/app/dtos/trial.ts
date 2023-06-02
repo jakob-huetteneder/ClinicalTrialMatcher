@@ -14,7 +14,7 @@ export interface Trial {
   detailedSummary: string;
   sponsor: string;
   collaborator: string;
-  status: string;
+  status: TrialStatus;
   location: string;
   crGender: Gender;
   crMinAge: number;

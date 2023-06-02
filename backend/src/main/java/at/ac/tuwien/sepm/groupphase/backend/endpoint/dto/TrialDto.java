@@ -16,7 +16,6 @@ public record TrialDto(
     String title,
     LocalDate startDate,
     LocalDate endDate,
-    @NotNull(message = "Researcher must not be null")
     Researcher researcher,
     @NotBlank(message = "Study type must not be Blank")
     String studyType,
