@@ -7,6 +7,7 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Status;
 import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -42,6 +43,12 @@ public class UserRepositoryTest {
     private UserMapper userMapper;
     @Autowired
     private UserDataGenerator userDataGenerator;
+
+    @BeforeEach
+    public void beforeEach() {
+        userRepository.deleteAll();
+        userDataGenerator.generateUsers();
+    }
 
     @Test
     public void testInheritanceOfApplicationUser() {

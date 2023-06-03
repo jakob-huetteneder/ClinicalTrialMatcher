@@ -1,7 +1,7 @@
 import {Component, OnInit} from '@angular/core';
 import {
-  AbstractControl,
-  FormBuilder,
+  AbstractControl, FormArray,
+  FormBuilder, FormControl,
   FormGroup,
   ValidationErrors,
   ValidatorFn,
@@ -32,7 +32,7 @@ export class CreateEditTrialComponent implements OnInit {
   oldTrial: Trial;
 
   constructor(
-    private formBuilder: FormBuilder,
+    public formBuilder: FormBuilder,
     private trialService: TrialService,
     private router: Router,
     private route: ActivatedRoute,
@@ -48,6 +48,14 @@ export class CreateEditTrialComponent implements OnInit {
       case TrialCreateEditMode.edit:
         return 'Edit';
     }
+  }
+
+  get inclusionCriteria() {
+    return this.trialForm.get('inclusionCriteria') as FormArray;
+  }
+
+  get exclusionCriteria() {
+    return this.trialForm.get('exclusionCriteria') as FormArray;
   }
 
   ngOnInit() {
@@ -66,7 +74,8 @@ export class CreateEditTrialComponent implements OnInit {
       crGender: ['', [Validators.required]],
       crMinAge: ['', [Validators.required, Validators.min(0)]],
       crMaxAge: ['', [Validators.required, Validators.min(0)]],
-      crFreeText: ['', [Validators.required, Validators.maxLength(255)]]
+      inclusionCriteria: this.formBuilder.array([]),
+      exclusionCriteria: this.formBuilder.array([]),
     }, {validators: this.trialValidator()});
 
     this.route.data.subscribe({
@@ -82,6 +91,8 @@ export class CreateEditTrialComponent implements OnInit {
                   this.oldTrial = trial;
                   this.trialForm.addValidators(this.changed());
                   this.trialForm.patchValue(trial);
+                  this.trialForm.setControl('inclusionCriteria', this.formBuilder.array(trial.inclusionCriteria));
+                  this.trialForm.setControl('exclusionCriteria', this.formBuilder.array(trial.exclusionCriteria));
                 },
                 error: error => {
                   console.log(error);
@@ -106,7 +117,7 @@ export class CreateEditTrialComponent implements OnInit {
       this.notification.error(this.getErrorString());
       return;
     }
-
+    console.log('trialForm: ', this.trialForm.value);
     if (this.mode === TrialCreateEditMode.edit) {
       const trial: Trial = this.trialForm.value;
       trial.id = this.oldTrial.id;
@@ -155,9 +166,21 @@ export class CreateEditTrialComponent implements OnInit {
       console.log('test');
       console.log(control.value);
       for (const key in control.value) {
-        if (control.value[key] !== this.oldTrial[key]) {
-          unchanged = false;
-          return null;
+        // if control.value[key] is an array, we need to check each element
+        if (Array.isArray(control.value[key])) {
+          for (const i in control.value[key]) {
+            if (control.value[key][i] !== this.oldTrial[key][i]) {
+              unchanged = false;
+              console.log('changed: ', key, control.value[key], this.oldTrial[key]);
+              return null;
+            }
+          }
+        } else {
+          if (control.value[key] !== this.oldTrial[key]) {
+            unchanged = false;
+            console.log('changed: ', key, control.value[key], this.oldTrial[key]);
+            return null;
+          }
         }
       }
       if (unchanged) {
@@ -247,4 +270,5 @@ export class CreateEditTrialComponent implements OnInit {
     }
     return '';
   }
+
 }

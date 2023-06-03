@@ -58,7 +58,7 @@ public class TrialServiceImpl implements TrialService {
     public TrialDto findTrialById(Long id) {
         LOG.trace("findTrialById()");
         Optional<Trial> trial = trialRepository.findById(id);
-        return trialMapper.trialToTrialDto(trial.orElseThrow());
+        return trialMapper.trialToTrialDto(trial.orElseThrow(() -> new NotFoundException("Trial does not exist.")));
     }
 
     @Override

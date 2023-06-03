@@ -1,0 +1,28 @@
+[
+    {
+        "title": "Efficacy of Drug Carolisol in Treating Hypertension",
+        "startDate": "2023-09-15",
+        "endDate": "2024-12-31",
+        "researcher": "Dr. Sarah Johnson",
+        "studyType": "Randomized Controlled Trial",
+        "briefSummary": "This clinical trial aims to assess the effectiveness and safety of Drug XYZ in reducing blood pressure levels in patients with hypertension.",
+        "detailedSummary": "The study will involve a double-blind, placebo-controlled trial with a sample size of 500 participants. The participants will be randomly assigned to either the experimental group receiving Drug XYZ or the control group receiving a placebo. The primary outcome measure will be the reduction in systolic and diastolic blood pressure levels after 12 weeks of treatment.",
+        "sponsor": "Anderlusia Pharmaceuticals",
+        "collaborator": "Central University Hospital",
+        "status": "Active",
+        "location": "Boston, USA",
+        "requiredGender": "Any",
+        "requiredMinAge": 30,
+        "requiredMaxAge": 65,
+        "inclusionCriteria": [
+            "Diagnosed with primary hypertension",
+            "Stable blood pressure medication for at least 4 weeks",
+            "Willingness to attend regular follow-up visits"
+        ],
+        "exclusionCriteria": [
+            "Pregnant or breastfeeding",
+            "History of severe cardiovascular diseases",
+            "Significant renal or hepatic impairment"
+        ]
+    }
+]

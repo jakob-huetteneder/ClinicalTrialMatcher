@@ -4,6 +4,7 @@ package at.ac.tuwien.sepm.groupphase.backend.unittests;
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.DiagnosisDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Diagnose;
 import at.ac.tuwien.sepm.groupphase.backend.repository.DiagnosesRepository;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -37,6 +38,12 @@ public class DiagnoseRepositoryTest {
     private DiagnosesRepository diagnosesRepository;
     @Autowired
     private DiagnosisDataGenerator diagnosisDataGenerator;
+
+    @BeforeEach
+    public void beforeEach() {
+        diagnosesRepository.deleteAll();
+        diagnosisDataGenerator.generateDiagnoses();
+    }
 
     @Test
     public void testInheritanceOfApplicationUser() {

@@ -19,6 +19,7 @@ export interface Trial {
   crGender: Gender;
   crMinAge: number;
   crMaxAge: number;
-  crFreeText: string;
+  inclusionCriteria: string[];
+  exclusionCriteria: string[];
 
 }

@@ -3,7 +3,9 @@ package at.ac.tuwien.sepm.groupphase.backend.entity;
 
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.TrialStatus;
+import jakarta.persistence.CollectionTable;
 import jakarta.persistence.Column;
+import jakarta.persistence.ElementCollection;
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
 import jakarta.persistence.GeneratedValue;
@@ -15,6 +17,8 @@ import jakarta.persistence.Table;
 import org.hibernate.annotations.OnDelete;
 
 import java.time.LocalDate;
+import java.util.ArrayList;
+import java.util.List;
 
 @Entity
 @Table(name = "trial")
@@ -70,8 +74,15 @@ public class Trial {
     @Column(name = "cr_max_age")
     private int crMaxAge;
 
-    @Column(name = "cr_free_text", columnDefinition = "TEXT")
-    private String crFreeText;
+    @ElementCollection(targetClass = String.class, fetch = FetchType.EAGER)
+    @CollectionTable(name = "inclusion_criteria", joinColumns = @JoinColumn(name = "trial_id"))
+    @Column(name = "cr_inclusion_criteria")
+    private List<String> inclusionCriteria = new ArrayList<>();
+
+    @ElementCollection(targetClass = String.class, fetch = FetchType.EAGER)
+    @CollectionTable(name = "exclusion_criteria", joinColumns = @JoinColumn(name = "trial_id"))
+    @Column(name = "cr_exclusion_criteria")
+    private List<String> exclusionCriteria = new ArrayList<>();
 
     public String getTitle() {
         return title;
@@ -154,12 +165,13 @@ public class Trial {
     }
 
 
-
-    public String getCrFreeText() {
-        return crFreeText;
+    public List<String> getInclusionCriteria() {
+        return inclusionCriteria;
     }
 
-
+    public List<String> getExclusionCriteria() {
+        return exclusionCriteria;
+    }
 
     public Long getId() {
         return id;
@@ -230,8 +242,13 @@ public class Trial {
         return this;
     }
 
-    public Trial setCrFreeText(String crFreeText) {
-        this.crFreeText = crFreeText;
+    public Trial setInclusionCriteria(List<String> inclusionCriteria) {
+        this.inclusionCriteria = inclusionCriteria;
+        return this;
+    }
+
+    public Trial setExclusionCriteria(List<String> exclusionCriteria) {
+        this.exclusionCriteria = exclusionCriteria;
         return this;
     }
 

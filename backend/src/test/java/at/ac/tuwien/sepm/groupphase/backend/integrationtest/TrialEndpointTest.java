@@ -148,8 +148,7 @@ public class TrialEndpointTest {
             () -> assertEquals(trial.getLocation(), trialDtos.get(0).location()),
             () -> assertEquals(trial.getCrGender(), trialDtos.get(0).crGender()),
             () -> assertEquals(trial.getCrMinAge(), trialDtos.get(0).crMinAge()),
-            () -> assertEquals(trial.getCrMaxAge(), trialDtos.get(0).crMaxAge()),
-            () -> assertEquals(trial.getCrFreeText(), trialDtos.get(0).crFreeText())
+            () -> assertEquals(trial.getCrMaxAge(), trialDtos.get(0).crMaxAge())
         );
     }
 

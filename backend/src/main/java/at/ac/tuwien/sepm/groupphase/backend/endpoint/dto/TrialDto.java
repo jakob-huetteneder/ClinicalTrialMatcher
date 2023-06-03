@@ -9,6 +9,7 @@ import jakarta.validation.constraints.NotNull;
 
 
 import java.time.LocalDate;
+import java.util.List;
 
 public record TrialDto(
     Long id,
@@ -37,85 +38,7 @@ public record TrialDto(
     int crMinAge,
     @Min(value = 0, message = "Maximum age must be greater than 0")
     int crMaxAge,
-    String crFreeText
+    List<String> inclusionCriteria,
+    List<String> exclusionCriteria
 ) {
-    @Override
-    public Long id() {
-        return id;
-    }
-
-    @Override
-    public String title() {
-        return title;
-    }
-
-    @Override
-    public LocalDate startDate() {
-        return startDate;
-    }
-
-    @Override
-    public LocalDate endDate() {
-        return endDate;
-    }
-
-    @Override
-    public Researcher researcher() {
-        return researcher;
-    }
-
-    @Override
-    public String studyType() {
-        return studyType;
-    }
-
-    @Override
-    public String briefSummary() {
-        return briefSummary;
-    }
-
-    @Override
-    public String detailedSummary() {
-        return detailedSummary;
-    }
-
-    @Override
-    public String sponsor() {
-        return sponsor;
-    }
-
-    @Override
-    public String collaborator() {
-        return collaborator;
-    }
-
-    @Override
-    public TrialStatus status() {
-        return status;
-    }
-
-    @Override
-    public String location() {
-        return location;
-    }
-
-    @Override
-    public Gender crGender() {
-        return crGender;
-    }
-
-    @Override
-    public int crMinAge() {
-        return crMinAge;
-    }
-
-    @Override
-    public int crMaxAge() {
-        return crMaxAge;
-    }
-
-    @Override
-    public String crFreeText() {
-        return crFreeText;
-    }
 }

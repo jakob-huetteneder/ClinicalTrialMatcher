@@ -5,16 +5,12 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Status;
 import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
-
-import jakarta.annotation.PostConstruct;
 import net.datafaker.Faker;
-import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Component;
 
 import java.util.Random;
 
 @Component
-@Profile("generateUsers")
 public class UserDataGenerator {
 
     private static final Faker faker = new Faker(new Random(1));
@@ -26,7 +22,6 @@ public class UserDataGenerator {
         this.userMapper = userMapper;
     }
 
-    @PostConstruct
     public void generateUsers() {
 
         for (int i = 0; i < 4; i++) {
@@ -39,10 +34,14 @@ public class UserDataGenerator {
     }
 
     public ApplicationUser generateUser(Role role) {
+        String firstName = faker.name().firstName();
+        String lastName = faker.name().lastName();
+        String email = firstName.toLowerCase() + "." + lastName.toLowerCase() + "@example.com";
+
         return generateUser(
-            faker.name().firstName(),
-            faker.name().lastName(),
-            faker.internet().emailAddress(),
+            firstName,
+            lastName,
+            email,
             "$2a$10$I4MVzZUBDmeiXBbuSDhWiu/867PRmxWsa4b09LHJCntT8yROgYs7S",
             role,
             Status.ACTIVE);

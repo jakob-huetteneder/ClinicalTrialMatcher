@@ -6,16 +6,15 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.TrialStatus;
 import at.ac.tuwien.sepm.groupphase.backend.repository.TrialRepository;
-import jakarta.annotation.PostConstruct;
 import net.datafaker.Faker;
-import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Component;
 
 import java.time.LocalDate;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Random;
 
 @Component
-@Profile("generateTrials")
 public class TrialDataGenerator {
     private static final Faker faker = new Faker(new Random(1));
     private final TrialRepository trialRepository;
@@ -27,12 +26,24 @@ public class TrialDataGenerator {
         this.userDataGenerator = userDataGenerator;
     }
 
-    @PostConstruct
     public void generateTrials() {
+        generateTrials(10);
+    }
 
-        for (int i = 0; i < 10; i++) {
+    public void generateTrials(int amount) {
+        for (int i = 0; i < amount; i++) {
+            generateTrial();
+        }
+    }
+
+    public void generateTrialsFor(Researcher researcher) {
+        generateTrialsFor(researcher, 10);
+    }
+
+    public void generateTrialsFor(Researcher researcher, int amount) {
+        for (int i = 0; i < amount; i++) {
             trialRepository.save(
-                generateTrial()
+                generateTrial(researcher)
             );
         }
     }
@@ -60,7 +71,8 @@ public class TrialDataGenerator {
             faker.options().option(Gender.class),
             faker.number().numberBetween(18, 50),
             faker.number().numberBetween(50, 100),
-            faker.lorem().paragraph());
+            new ArrayList<>(List.of(faker.lorem().sentence(), faker.lorem().sentence(), faker.lorem().sentence())),
+            new ArrayList<>(List.of(faker.lorem().sentence(), faker.lorem().sentence(), faker.lorem().sentence())));
     }
 
     public Trial generateTrial(
@@ -78,7 +90,8 @@ public class TrialDataGenerator {
         Gender crGender,
         Integer crMinAge,
         Integer crMaxAge,
-        String crFreeText) {
+        List<String> inclusionCriteria,
+        List<String> exclusionCriteria) {
         return trialRepository.save(new Trial()
             .setTitle(title)
             .setStartDate(startDate)
@@ -94,7 +107,8 @@ public class TrialDataGenerator {
             .setCrGender(crGender)
             .setCrMinAge(crMinAge)
             .setCrMaxAge(crMaxAge)
-            .setCrFreeText(crFreeText));
+            .setInclusionCriteria(inclusionCriteria)
+            .setExclusionCriteria(exclusionCriteria));
     }
 
 }

@@ -2,15 +2,12 @@ package at.ac.tuwien.sepm.groupphase.backend.datagenerator;
 
 import at.ac.tuwien.sepm.groupphase.backend.entity.Disease;
 import at.ac.tuwien.sepm.groupphase.backend.repository.DiseaseRepository;
-import jakarta.annotation.PostConstruct;
 import net.datafaker.Faker;
-import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Component;
 
 import java.util.Random;
 
 @Component
-@Profile("generateDiseases")
 public class DiseaseDataGenerator {
 
     private static final Faker faker = new Faker(new Random(1));
@@ -20,7 +17,6 @@ public class DiseaseDataGenerator {
         this.diseaseRepository = diseaseRepository;
     }
 
-    @PostConstruct
     public void generateDiseases() {
         for (int i = 0; i <= 200; i++) {
             generateDisease();
