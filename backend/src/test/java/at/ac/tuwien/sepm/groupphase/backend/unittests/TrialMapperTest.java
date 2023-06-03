@@ -12,6 +12,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.ActiveProfiles;
 
 import java.time.LocalDate;
+import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertAll;
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -22,12 +23,6 @@ public class TrialMapperTest {
 
     @Autowired
     private TrialMapper trialMapper;
-
-
-    @Test
-    public void test() {
-        assertEquals(1, 1);
-    }
 
     @Test
     public void testTrialDtoToTrial() {
@@ -47,7 +42,8 @@ public class TrialMapperTest {
             Gender.FEMALE,
             12,
             24,
-            "inclusion1");
+            List.of("inclusion1"),
+            List.of("exclusion1"));
 
         Trial mappedTrial = trialMapper.trialDtoToTrial(trialDto);
 
@@ -67,7 +63,8 @@ public class TrialMapperTest {
             () -> assertEquals(trialDto.crGender(), mappedTrial.getCrGender()),
             () -> assertEquals(trialDto.crMinAge(), mappedTrial.getCrMinAge()),
             () -> assertEquals(trialDto.crMaxAge(), mappedTrial.getCrMaxAge()),
-            () -> assertEquals(trialDto.crFreeText(), mappedTrial.getCrFreeText())
+            () -> assertEquals(trialDto.inclusionCriteria(), mappedTrial.getInclusionCriteria()),
+            () -> assertEquals(trialDto.exclusionCriteria(), mappedTrial.getExclusionCriteria())
         );
     }
 
@@ -91,7 +88,8 @@ public class TrialMapperTest {
             .setCrGender(Gender.FEMALE)
             .setCrMinAge(13)
             .setCrMaxAge(25)
-            .setCrFreeText("inclusion1");
+            .setInclusionCriteria(List.of("inclusion1"))
+            .setExclusionCriteria(List.of("exclusion1"));
 
         TrialDto mappedTrialDto = trialMapper.trialToTrialDto(trial);
 
@@ -111,7 +109,8 @@ public class TrialMapperTest {
             () -> assertEquals(trial.getCrGender(), mappedTrialDto.crGender()),
             () -> assertEquals(trial.getCrMinAge(), mappedTrialDto.crMinAge()),
             () -> assertEquals(trial.getCrMaxAge(), mappedTrialDto.crMaxAge()),
-            () -> assertEquals(trial.getCrFreeText(), mappedTrialDto.crFreeText())
+            () -> assertEquals(trial.getInclusionCriteria(), mappedTrialDto.inclusionCriteria()),
+            () -> assertEquals(trial.getExclusionCriteria(), mappedTrialDto.exclusionCriteria())
         );
 
     }
