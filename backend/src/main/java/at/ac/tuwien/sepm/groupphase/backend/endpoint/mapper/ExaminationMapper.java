@@ -6,6 +6,9 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
 import org.springframework.stereotype.Component;
 
+import java.util.Optional;
+import java.util.Set;
+
 @Component
 public class ExaminationMapper {
     private final PatientRepository patientRepository;
@@ -14,18 +17,28 @@ public class ExaminationMapper {
         this.patientRepository = patientRepository;
     }
 
-    public Examination patientExaminationDtotoExamination(ExaminationDto examinationDto) {
-        Patient patient = patientRepository.getReferenceById(examinationDto.patientId());
+    public Examination examinationDtoToExamination(ExaminationDto examinationDto, long patientId) {
+        Optional<Patient> patient = patientRepository.findById(patientId);
         return new Examination()
             .setId(examinationDto.id())
-            .setPatient(patient)
+            .setPatient(patient.orElseThrow(() -> new IllegalArgumentException("Patient does not exist.")))
             .setName(examinationDto.name())
             .setDate(examinationDto.date())
             .setType(examinationDto.type())
             .setNote(examinationDto.note());
     }
 
-    public ExaminationDto examinationtoPatientExaminationDto(Examination examination) {
+    public Set<Examination> examinationDtoToExamination(Set<ExaminationDto> examinations, long patientId) {
+        Set<Examination> convertedExaminations = new java.util.HashSet<>();
+        if (examinations != null) {
+            for (ExaminationDto examination : examinations) {
+                convertedExaminations.add(examinationDtoToExamination(examination, patientId));
+            }
+        }
+        return convertedExaminations;
+    }
+
+    public ExaminationDto examinationToExaminationDto(Examination examination) {
         return new ExaminationDto(
             examination.getId(),
             examination.getPatient() != null ? examination.getPatient().getId() : null,
@@ -36,4 +49,13 @@ public class ExaminationMapper {
         );
     }
 
+    public Set<ExaminationDto> examinationToExaminationDto(Set<Examination> examinations) {
+        Set<ExaminationDto> convertedExaminations = new java.util.HashSet<>();
+        if (examinations != null) {
+            for (Examination examination : examinations) {
+                convertedExaminations.add(examinationToExaminationDto(examination));
+            }
+        }
+        return convertedExaminations;
+    }
 }

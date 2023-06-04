@@ -1,16 +1,26 @@
 package at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientDto;
-import at.ac.tuwien.sepm.groupphase.backend.entity.Diagnose;
-import at.ac.tuwien.sepm.groupphase.backend.entity.Examination;
+import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import org.springframework.stereotype.Component;
 
-import java.util.LinkedList;
-import java.util.List;
+import java.util.HashSet;
+import java.util.stream.Collectors;
 
 @Component
 public class PatientMapper {
+
+    private final UserMapper userMapper;
+    private final DiagnosisMapper diagnosisMapper;
+    private final ExaminationMapper examinationMapper;
+
+    public PatientMapper(UserMapper userMapper, DiagnosisMapper diagnosisMapper, ExaminationMapper examinationMapper) {
+        this.userMapper = userMapper;
+        this.diagnosisMapper = diagnosisMapper;
+        this.examinationMapper = examinationMapper;
+    }
+
     public Patient patientDtoToPatient(PatientDto patientDto) {
         return new Patient()
             .setId(patientDto.id())
@@ -21,9 +31,14 @@ public class PatientMapper {
             .setAdmissionNote(patientDto.admissionNote())
             .setBirthdate(patientDto.birthdate())
             .setGender(patientDto.gender())
-            .setDoctors(patientDto.doctors())
-            .setDiagnoses(patientDto.diagnoses())
-            .setExaminations(patientDto.examinations());
+            .setDoctors(userMapper.userDetailDtoToApplicationUser(patientDto.doctors()).stream().map(user -> {
+                if (user instanceof Doctor) {
+                    return (Doctor) user;
+                }
+                return null;
+            }).collect(Collectors.toSet()))
+            .setDiagnoses(patientDto.id() != null ? diagnosisMapper.diagnosisDtoToDiagnosis(patientDto.diagnoses(), patientDto.id()) : new HashSet<>())
+            .setExaminations(patientDto.id() != null ? examinationMapper.examinationDtoToExamination(patientDto.examinations(), patientDto.id()) : new HashSet<>());
     }
 
 
@@ -36,21 +51,8 @@ public class PatientMapper {
             patient.getAdmissionNote(),
             patient.getBirthdate(),
             patient.getGender(),
-            patient.getDoctors(),
-            patient.getDiagnoses(),
-            patient.getExaminations());
+            patient.getDoctors() == null ? new HashSet<>() : patient.getDoctors().stream().map(userMapper::applicationUserToUserDetailDto).collect(Collectors.toSet()),
+            diagnosisMapper.diagnosisToDiagnosisDto(patient.getDiagnoses()),
+            examinationMapper.examinationToExaminationDto(patient.getExaminations()));
     }
-
-    public List<Diagnose> patientDtoToDiagnose(PatientDto patientDto, Patient patient) {
-        return patientDto.diagnoses() != null ? patientDto.diagnoses().stream().map(i -> new Diagnose()
-            .setPatient(patient).setNote(i.getNote())
-            .setDate(i.getDate()).setDisease(i.getDisease())).toList() : new LinkedList<>();
-    }
-
-    public List<Examination> patientDtoToExamination(PatientDto patientDto, Patient patient) {
-        return patientDto.examinations() != null ? patientDto.examinations().stream().map(i -> new Examination()
-            .setType(i.getType()).setName(i.getName()).setNote(i.getNote())
-            .setPatient(patient).setDate(i.getDate()).setId(i.getId())).toList() : new LinkedList<>();
-    }
-
 }

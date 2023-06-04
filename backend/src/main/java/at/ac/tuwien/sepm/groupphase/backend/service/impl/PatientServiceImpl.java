@@ -1,22 +1,22 @@
 package at.ac.tuwien.sepm.groupphase.backend.service.impl;
 
 
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.DiagnoseDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.ExaminationDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.PatientMapper;
-import at.ac.tuwien.sepm.groupphase.backend.entity.Diagnose;
-import at.ac.tuwien.sepm.groupphase.backend.entity.Examination;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import at.ac.tuwien.sepm.groupphase.backend.exception.NotFoundException;
-import at.ac.tuwien.sepm.groupphase.backend.repository.DiagnosesRepository;
-import at.ac.tuwien.sepm.groupphase.backend.repository.ExaminationRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
+import at.ac.tuwien.sepm.groupphase.backend.service.DiagnoseService;
+import at.ac.tuwien.sepm.groupphase.backend.service.ExaminationService;
 import at.ac.tuwien.sepm.groupphase.backend.service.PatientService;
+import jakarta.transaction.Transactional;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 
 import java.lang.invoke.MethodHandles;
-import java.util.List;
 import java.util.Optional;
 
 @Service
@@ -25,30 +25,38 @@ public class PatientServiceImpl implements PatientService {
 
     private final PatientRepository patientRepository;
     private final PatientMapper patientMapper;
-    private final ExaminationRepository examinationRepository;
-    private final DiagnosesRepository diagnosesRepository;
+    private final DiagnoseService diagnoseService;
+    private final ExaminationService examinationService;
 
     public PatientServiceImpl(PatientRepository patientRepository, PatientMapper patientMapper,
-                              ExaminationRepository examinationRepository, DiagnosesRepository diagnosesRepository) {
+                              DiagnoseService diagnoseService, ExaminationService examinationService) {
         this.patientRepository = patientRepository;
         this.patientMapper = patientMapper;
-        this.examinationRepository = examinationRepository;
-        this.diagnosesRepository = diagnosesRepository;
+        this.diagnoseService = diagnoseService;
+        this.examinationService = examinationService;
     }
 
 
     @Override
+    @Transactional
     public PatientDto savePatient(PatientDto patient) {
         LOG.trace("savePatient({})", patient);
         Patient convertedPatient = patientMapper.patientDtoToPatient(patient);
         convertedPatient = patientRepository.save(convertedPatient);
-        List<Diagnose> convertedDiagnoses = patientMapper.patientDtoToDiagnose(patient, convertedPatient);
-        List<Examination> convertedExamination = patientMapper.patientDtoToExamination(patient, convertedPatient);
-        if (!convertedDiagnoses.isEmpty()) {
-            diagnosesRepository.saveAll(convertedDiagnoses);
+
+        if (patient.diagnoses() != null) {
+            for (DiagnoseDto diagnose : patient.diagnoses()) {
+                diagnoseService.addNewDiagnosis(
+                    diagnose.withPatientId(convertedPatient.getId())
+                );
+            }
         }
-        if (!convertedExamination.isEmpty()) {
-            examinationRepository.saveAll(convertedExamination);
+        if (patient.examinations() != null) {
+            for (ExaminationDto examination : patient.examinations()) {
+                examinationService.addExamination(
+                    examination.withPatientId(convertedPatient.getId())
+                );
+            }
         }
         LOG.info("Saved patient with id='{}'", convertedPatient.getId());
         return patientMapper.patientToPatientDto(convertedPatient);
@@ -63,21 +71,23 @@ public class PatientServiceImpl implements PatientService {
             LOG.warn("Patient with id {} does not exist!", id);
             throw new NotFoundException("Patient not found");
         } else {
+            LOG.info("Found patient with '{}'", patientMapper.patientToPatientDto(patient.get()));
             return patientMapper.patientToPatientDto(patient.get());
         }
     }
 
     @Override
+    @Transactional
     public PatientDto deleteById(long id) {
         LOG.trace("deleteById({})", id);
         Optional<Patient> patient = patientRepository.findById(id);
         if (patient.isEmpty()) {
             //404 NOT FOUND
             LOG.warn("Patient with id {} does not exist!", id);
-            throw new NotFoundException("Patient not found");
+            return null;
         } else {
-            diagnosesRepository.deleteAll(patient.get().getDiagnoses());
-            examinationRepository.deleteAll(patient.get().getExaminations());
+            diagnoseService.deleteDiagnosesByPatientId(id);
+            examinationService.deleteExaminationsByPatientId(id);
             patientRepository.deleteById(id);
             return patientMapper.patientToPatientDto(patient.get());
         }

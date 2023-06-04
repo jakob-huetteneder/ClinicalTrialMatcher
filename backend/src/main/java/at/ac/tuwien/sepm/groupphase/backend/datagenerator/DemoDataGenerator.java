@@ -1,5 +1,6 @@
 package at.ac.tuwien.sepm.groupphase.backend.datagenerator;
 
+import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Researcher;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
 import at.ac.tuwien.sepm.groupphase.backend.util.DatabaseUtil;
@@ -42,10 +43,15 @@ public class DemoDataGenerator {
         examinationDataGenerator.generateExaminations();
         trialDataGenerator.generateTrials();
         generateResearcherWithTrials();
+        generateDoctorWithPatients();
     }
 
     public void generateResearcherWithTrials() {
         Researcher researcher = (Researcher) userDataGenerator.generateUser(Role.RESEARCHER);
         trialDataGenerator.generateTrialsFor(researcher, 15);
+    }
+
+    public void generateDoctorWithPatients() {
+        Doctor doctor = (Doctor) userDataGenerator.generateUser(Role.DOCTOR);
     }
 }

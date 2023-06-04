@@ -47,4 +47,11 @@ public interface DiagnoseService {
      * @return a list of all diagnoses
      */
     List<DiagnoseDto> getAllDiagnoses(long id);
+
+    /**
+     * Deletes all diagnosis for a patient.
+     *
+     * @param id the id of the patient
+     */
+    void deleteDiagnosesByPatientId(long id);
 }

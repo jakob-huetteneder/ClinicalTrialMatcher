@@ -6,6 +6,10 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
 import org.springframework.stereotype.Component;
 
+import java.util.HashSet;
+import java.util.Optional;
+import java.util.Set;
+
 @Component
 public class DiagnosisMapper {
     private final PatientRepository patientRepository;
@@ -16,14 +20,24 @@ public class DiagnosisMapper {
         this.diseaseMapper = diseaseMapper;
     }
 
-    public Diagnose diagnosisDtoToDiagnosis(DiagnoseDto diagnoseDto) {
-        Patient patient = patientRepository.getReferenceById(diagnoseDto.patientId());
+    public Diagnose diagnosisDtoToDiagnosis(DiagnoseDto diagnoseDto, long patientId) {
+        Optional<Patient> patient = patientRepository.findById(patientId);
         return new Diagnose()
             .setId(diagnoseDto.id())
-            .setPatient(patient)
+            .setPatient(patient.orElseThrow(() -> new IllegalArgumentException("Patient does not exist.")))
             .setDisease(diseaseMapper.diseaseDtoToDisease(diagnoseDto.disease()))
             .setDate(diagnoseDto.date())
             .setNote(diagnoseDto.note());
+    }
+
+    public Set<Diagnose> diagnosisDtoToDiagnosis(Set<DiagnoseDto> diagnoses, long patientId) {
+        Set<Diagnose> convertedDiagnoses = new HashSet<>();
+        if (diagnoses != null) {
+            for (DiagnoseDto diagnose : diagnoses) {
+                convertedDiagnoses.add(diagnosisDtoToDiagnosis(diagnose, patientId));
+            }
+        }
+        return convertedDiagnoses;
     }
 
     public DiagnoseDto diagnosisToDiagnosisDto(Diagnose diagnose) {
@@ -36,4 +50,13 @@ public class DiagnosisMapper {
         );
     }
 
+    public Set<DiagnoseDto> diagnosisToDiagnosisDto(Set<Diagnose> diagnoses) {
+        Set<DiagnoseDto> convertedDiagnoses = new HashSet<>();
+        if (diagnoses != null) {
+            for (Diagnose diagnose : diagnoses) {
+                convertedDiagnoses.add(diagnosisToDiagnosisDto(diagnose));
+            }
+        }
+        return convertedDiagnoses;
+    }
 }

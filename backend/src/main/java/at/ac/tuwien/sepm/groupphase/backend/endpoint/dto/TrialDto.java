@@ -1,6 +1,5 @@
 package at.ac.tuwien.sepm.groupphase.backend.endpoint.dto;
 
-import at.ac.tuwien.sepm.groupphase.backend.entity.Researcher;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.TrialStatus;
 import jakarta.validation.constraints.Min;
@@ -17,7 +16,7 @@ public record TrialDto(
     String title,
     LocalDate startDate,
     LocalDate endDate,
-    Researcher researcher,
+    UserDetailDto researcher,
     @NotBlank(message = "Study type must not be Blank")
     String studyType,
     @NotBlank(message = "Brief summary must not be blank")

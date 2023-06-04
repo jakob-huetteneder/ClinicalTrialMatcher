@@ -49,16 +49,16 @@ public class ExaminationServiceImpl implements ExaminationService {
         if (!(loggedInUser instanceof Doctor)) {
             throw new NotFoundException("Could not find a doctor for the logged in user.");
         }
-        Examination patientExamination = examinationRepository.save(examinationMapper.patientExaminationDtotoExamination(examinationDto));
+        Examination patientExamination = examinationRepository.save(examinationMapper.examinationDtoToExamination(examinationDto, examinationDto.patientId()));
         LOGGER.debug("Result: " + patientExamination);
-        return examinationMapper.examinationtoPatientExaminationDto(patientExamination);
+        return examinationMapper.examinationToExaminationDto(patientExamination);
     }
 
     @Override
     public ExaminationDto updateExamination(ExaminationDto examinationDto) {
         LOGGER.debug("Update Examination Result " + examinationDto + " for patient: " + examinationDto.patientId());
-        Examination patientExamination = examinationRepository.save(examinationMapper.patientExaminationDtotoExamination(examinationDto));
-        return examinationMapper.examinationtoPatientExaminationDto(patientExamination);
+        Examination patientExamination = examinationRepository.save(examinationMapper.examinationDtoToExamination(examinationDto, examinationDto.patientId()));
+        return examinationMapper.examinationToExaminationDto(patientExamination);
     }
 
 
@@ -71,11 +71,17 @@ public class ExaminationServiceImpl implements ExaminationService {
     }
 
     @Override
+    public void deleteExaminationsByPatientId(long id) {
+        LOGGER.debug("Delete all Examination Results for patient: " + id);
+        examinationRepository.deleteAllByPatient_Id(id);
+    }
+
+    @Override
     public ExaminationDto viewExamination(long id, long examinationId) {
         LOGGER.debug("View Examination Result with ID " + examinationId + " for patient: " + id);
         Examination patientExamination = examinationRepository.findById(examinationId).orElse(null);
         LOGGER.debug("Result: " + patientExamination);
-        return patientExamination != null ? examinationMapper.examinationtoPatientExaminationDto(patientExamination) : null;
+        return patientExamination != null ? examinationMapper.examinationToExaminationDto(patientExamination) : null;
     }
 
     @Override
@@ -84,7 +90,7 @@ public class ExaminationServiceImpl implements ExaminationService {
         List<Examination> patientExaminations = examinationRepository.findAll();
         List<ExaminationDto> examinationDtos = new ArrayList<>(patientExaminations.size());
         for (Examination examination : patientExaminations) {
-            examinationDtos.add(examinationMapper.examinationtoPatientExaminationDto(examination));
+            examinationDtos.add(examinationMapper.examinationToExaminationDto(examination));
         }
         return examinationDtos;
     }

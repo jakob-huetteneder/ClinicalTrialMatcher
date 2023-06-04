@@ -1,11 +1,19 @@
 import {ActivatedRoute, Router} from '@angular/router';
 import {Component, OnInit} from '@angular/core';
-import {NgModel} from '@angular/forms';
+import {
+  AbstractControl,
+  FormBuilder,
+  FormGroup,
+  ValidationErrors,
+  ValidatorFn,
+  Validators
+} from '@angular/forms';
 import {Diagnose, Disease} from '../../dtos/patient';
 import {DiagnoseService} from 'src/app/services/diagnose.service';
 import {DiseaseService} from 'src/app/services/disease.service';
 import {Observable, of} from 'rxjs';
 import {ToastrService} from 'ngx-toastr';
+
 export enum DiagnoseCreateEditMode {
   create,
   edit,
@@ -16,30 +24,23 @@ export enum DiagnoseCreateEditMode {
   templateUrl: './diagnose.component.html',
   styleUrls: ['./diagnose.component.scss']
 })
-export class DiagnoseComponent implements OnInit{
-  mode: DiagnoseCreateEditMode = DiagnoseCreateEditMode.create;
-  diagnosis: Diagnose = {
-    id: undefined,
-    disease: {
-      id: undefined,
-      name: '',
-      synonyms: '',
-    },
-    note: '',
-    date: undefined,
-  };
+export class DiagnoseComponent implements OnInit {
+
+  diagnosisForm: FormGroup;
+  mode: DiagnoseCreateEditMode;
+
+  id: number;
+  patientId: number;
+  oldDiagnosis: Diagnose;
 
   constructor(
     private router: Router,
     private route: ActivatedRoute,
+    private formBuilder: FormBuilder,
     private service: DiagnoseService,
     private diseaseService: DiseaseService,
     private notification: ToastrService
   ) {
-  }
-
-  get modeIsCreate(): boolean {
-    return this.mode === DiagnoseCreateEditMode.create;
   }
 
 
@@ -54,31 +55,34 @@ export class DiagnoseComponent implements OnInit{
         return '?';
     }
   }
+
   ngOnInit(): void {
+    this.diagnosisForm = this.formBuilder.group({
+      disease: [new Disease(), [Validators.required]],
+      date: ['', [Validators.required]],
+      note: ['', [Validators.maxLength(255)]],
+    }, {validators: [this.diagnosisValidator()]});
+
     this.route.data.subscribe(data => {
       this.mode = data.mode;
+      this.route.params.subscribe(
+        params => {
+          this.patientId = params.id;
+          if (this.mode === DiagnoseCreateEditMode.edit) {
+            this.id = params.did;
+            this.load();
+            this.diagnosisForm.addValidators(this.changed());
+          }
+        });
     });
-    this.route.params.subscribe(
-      params => {
-        this.diagnosis.patientId = params.id;
-        if (!this.modeIsCreate) {
-          this.diagnosis.id = params.did;
-          this.load();
-        }
-      });
-    console.log(this.diagnosis);
   }
-  public dynamicCssClassesForInput(input: NgModel): any {
-    return {
-      // This names in this object are determined by the style library,
-      // requiring it to follow TypeScript naming conventions does not make sense.
-      // eslint-disable-next-line @typescript-eslint/naming-convention
-      'is-invalid': !input.valid && !input.pristine,
-    };
+
+  isEditMode() {
+    return this.mode === DiagnoseCreateEditMode.edit;
   }
 
   public formatDiseaseName(disease: Disease | null | undefined): string {
-    return (disease == null)
+    return (disease == null || disease.name == null)
       ? ''
       : `${disease.name}`;
   }
@@ -87,53 +91,37 @@ export class DiagnoseComponent implements OnInit{
     ? of([])
     : this.diseaseService.searchByName(input, 5);
 
-  public buttonstyle(): string {
-    if (this.diagnosis.disease === undefined || this.diagnosis.note === '' || this.diagnosis.date === undefined) {
-      return 'bg-gray-400';
-    } else {
-      return 'transition ease-in-out delay-100 duration-300 bg-blue-500 '
-        + 'hover:-translate-y-0 hover:scale-110 hover:bg-blue-400 hover:cursor-pointer';
-    }
-  }
-
-  public cancelbuttonstyle(): string {
-    if (!(this.diagnosis.disease === undefined || this.diagnosis.note === '' || this.diagnosis.date === undefined)) {
-      return 'transition ease-in-out delay-100 duration-300 bg-gray-400 '
-        + 'hover:-translate-y-0 hover:scale-110 hover:bg-gray-500 hover:cursor-pointer';
-    } else {
-      return 'transition ease-in-out delay-100 duration-300 bg-blue-500 '
-        + 'hover:-translate-y-0 hover:scale-110 hover:bg-blue-400 hover:cursor-pointer';
-    }
-  }
-
-  public disable(): boolean {
-    return (this.diagnosis.disease === undefined || this.diagnosis.note === '' || this.diagnosis.date === undefined);
-  }
-
   public load(): void {
-    console.log('is id valid?', this.diagnosis);
-    this.service.load(this.diagnosis.id, this.diagnosis.patientId).subscribe({
+
+    this.service.load(this.id, this.patientId).subscribe({
       next: data => {
-        this.diagnosis = data;
-        //this.notification.success(`Horse ${this.horse.name} successfully loaded.`);
+        this.oldDiagnosis = data;
+        this.diagnosisForm.patchValue(data);
       },
       error: error => {
         console.error('Error loading diagnosis', error);
         this.notification.error(error.error.message, 'Error fetching diagnosis');
-        this.router.navigate(['']);
-        //this.notification.error(error.error.errors, `Horse ${this.horse.name} could not be loaded`);
+        this.returnToPatient();
       }
     });
   }
 
   submit() {
+    if (this.diagnosisForm.invalid) {
+      this.notification.error(this.getErrorString());
+      return;
+    }
+    console.log(this.diagnosisForm);
+    const diagnosis = this.diagnosisForm.value;
+    diagnosis.patientId = this.patientId;
     let observable: Observable<Diagnose>;
     switch (this.mode) {
       case DiagnoseCreateEditMode.create:
-        observable = this.service.addNewDiagnosis(this.diagnosis);
+        observable = this.service.addNewDiagnosis(diagnosis);
         break;
       case DiagnoseCreateEditMode.edit:
-        observable = this.service.updateDiagnosis(this.diagnosis);
+        diagnosis.id = this.id;
+        observable = this.service.updateDiagnosis(diagnosis);
         break;
       default:
         console.error('Unknown DiagnoseCreateEditMode', this.mode);
@@ -141,31 +129,112 @@ export class DiagnoseComponent implements OnInit{
     }
     observable.subscribe({
       next: data => {
-        this.notification.success(`Diagnosis successfully created/edited.`);
-        this.router.navigate(['/patient/' + this.diagnosis.patientId]);
+        this.notification.success(`Diagnosis successfully saved.`);
+        this.returnToPatient();
       },
       error: error => {
         console.error('Error creating/editing diagnosis', error);
-        this.notification.error(error.error.message, 'Error creating/updating diagnosis');
-        //this.notification.error(error.error.errors, `Examination ${this.exam.name} could not be ${this.modeActionFinished}`);
+        this.notification.error(error.error.message, 'Error saving diagnosis');
       }
     });
   }
 
   delete() {
-    console.log('is id valid?', this.diagnosis);
-    this.service.delete(this.diagnosis.id, this.diagnosis.patientId).subscribe({
+    this.service.delete(this.id, this.patientId).subscribe({
       next: data => {
-        this.diagnosis = data;
         this.notification.success(`Diagnosis successfully deleted.`);
-        //this.notification.success(`Horse ${this.horse.name} successfully loaded.`);
+        this.returnToPatient();
       },
       error: error => {
-        console.error('Error deleting examination', error);
+        console.error('Error deleting diagnosis', error);
         this.notification.error(error.error.message, 'Error deleting diagnosis');
-        //this.notification.error(error.error.errors, `Horse ${this.horse.name} could not be loaded`);
       }
     });
   }
+
+  returnToPatient() {
+    this.router.navigate(['/doctor/view-patient/' + this.patientId]);
+  }
+
+  private diagnosisValidator(): ValidatorFn {
+    return (control: AbstractControl): ValidationErrors | null => {
+      console.log('diagnosisValidator', control.value);
+      if (control.value.disease == null || control.value.disease.name === '') {
+        return {diseaseRequired: true};
+      }
+      return null;
+    };
+  }
+
+  private changed(): ValidatorFn {
+    return (control: AbstractControl): ValidationErrors | null => {
+      let unchanged = true;
+      console.log('test');
+      console.log(control.value);
+      for (const key in control.value) {
+        if (control.value[key] !== this.oldDiagnosis[key]) {
+          unchanged = false;
+          console.log('changed: ', key, control.value[key], this.oldDiagnosis[key]);
+          return null;
+        }
+      }
+      if (unchanged) {
+        return {noUpdateRequired: true};
+      }
+      return null;
+    };
+  }
+
+  private getErrorString() {
+
+    const errors = [];
+    if (this.diagnosisForm.errors != null) {
+      Object.keys(this.diagnosisForm.errors).forEach(keyError => {
+        console.log('Key error: ' + keyError);
+        errors.push(this.validationErrorName(keyError));
+      });
+    }
+    Object.keys(this.diagnosisForm.controls).forEach(key => {
+      const controlErrors: ValidationErrors = this.diagnosisForm.get(key).errors;
+      if (controlErrors != null) {
+        Object.keys(controlErrors).forEach(keyError => {
+          console.log('Key control: ' + key + ', keyError: ' + keyError);
+          errors.push(this.fieldName(key) + ' ' + this.validationErrorName(keyError));
+        });
+      }
+    });
+    if (errors.length === 0) {
+      return 'Unknown error';
+    }
+    return errors[0];
+  }
+
+  private validationErrorName(keyError: string): string {
+    switch (keyError) {
+      case 'required':
+        return 'is required';
+      case 'maxlength':
+        return 'is too long';
+      case 'noUpdateRequired':
+        return 'No changes made';
+      case 'diseaseRequired':
+        return 'Disease is required';
+      default:
+        return 'is invalid';
+    }
+  }
+
+  private fieldName(key: string): string {
+    switch (key) {
+      case 'disease':
+        return 'Disease';
+      case 'date':
+        return 'Date';
+      case 'note':
+        return 'Note';
+    }
+    return '';
+  }
+
 }
 

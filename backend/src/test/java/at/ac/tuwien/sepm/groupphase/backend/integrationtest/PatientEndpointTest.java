@@ -1,9 +1,11 @@
 package at.ac.tuwien.sepm.groupphase.backend.integrationtest;
 
 import at.ac.tuwien.sepm.groupphase.backend.TestUtil;
+import at.ac.tuwien.sepm.groupphase.backend.datagenerator.DiagnosisDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.PatientDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientDto;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
+import at.ac.tuwien.sepm.groupphase.backend.repository.DiagnosesRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.BeforeEach;
@@ -37,7 +39,11 @@ public class PatientEndpointTest {
     @Autowired
     private PatientDataGenerator patientDataGenerator;
     @Autowired
+    private DiagnosisDataGenerator diagnosisDataGenerator;
+    @Autowired
     private PatientRepository patientRepository;
+    @Autowired
+    private DiagnosesRepository diagnosesRepository;
     @Autowired
     private ObjectMapper objectMapper;
 
@@ -82,6 +88,8 @@ public class PatientEndpointTest {
     public void testDeleteSpecificPatient() throws Exception {
         Patient patient = patientDataGenerator.generatePatient();
         patient = patientRepository.save(patient);
+        diagnosisDataGenerator.generateDiagnose(patient);
+        assertEquals(1, diagnosesRepository.findAll().size());
         MvcResult mvcResult = this.mockMvc.perform(delete(USER_BASE_URI + "/" + patient.getId()))
             .andDo(print())
             .andReturn();
@@ -97,6 +105,9 @@ public class PatientEndpointTest {
         assertEquals(patientDto.lastName(), patient.getLastName());
         assertEquals(patientDto.birthdate(), patient.getBirthdate());
 
+        assertEquals(0, diagnosesRepository.findAll().size());
+
+
         //should no longer be accessible
 
         assertTrue(patientRepository.findById(patient.getId()).isEmpty());
@@ -109,7 +120,7 @@ public class PatientEndpointTest {
             .andReturn();
         MockHttpServletResponse response = mvcResult.getResponse();
 
-        assertEquals(HttpStatus.NOT_FOUND.value(), response.getStatus());
+        assertEquals(HttpStatus.OK.value(), response.getStatus());
     }
 
     @Test

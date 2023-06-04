@@ -14,7 +14,7 @@ export interface Patient {
   doctors?: User[];
 }
 
-export interface Examination {
+export class Examination {
   id?: number;
   date?: Date;
   name: string;
@@ -23,7 +23,7 @@ export interface Examination {
   patientId?: number;
 }
 
-export interface Diagnose {
+export class Diagnose {
   id?: number;
   date?: Date;
   note: string;
@@ -31,7 +31,7 @@ export interface Diagnose {
   disease: Disease;
 }
 
-export interface Disease {
+export class Disease {
   id?: number;
   name: string;
   synonyms?: string;

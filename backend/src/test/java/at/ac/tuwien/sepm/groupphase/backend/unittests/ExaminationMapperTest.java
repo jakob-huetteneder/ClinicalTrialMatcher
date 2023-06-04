@@ -1,5 +1,6 @@
 package at.ac.tuwien.sepm.groupphase.backend.unittests;
 
+import at.ac.tuwien.sepm.groupphase.backend.datagenerator.PatientDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.ExaminationDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.ExaminationMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Examination;
@@ -19,20 +20,23 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class ExaminationMapperTest {
 
     @Autowired
+    private PatientDataGenerator patientDataGenerator;
+    @Autowired
     private ExaminationMapper examinationMapper;
 
     @Test
     public void testExaminationDtoToExamination() {
+        Patient patient = patientDataGenerator.generatePatient();
         ExaminationDto examinationDto = new ExaminationDto(
             1L,
-            1L,
+            patient.getId(),
             "test",
             LocalDate.of(2000,2,2),
             "",
             ""
         );
 
-        Examination examination = examinationMapper.patientExaminationDtotoExamination(examinationDto);
+        Examination examination = examinationMapper.examinationDtoToExamination(examinationDto, examinationDto.patientId());
 
         assertAll(
             () -> assertEquals(examinationDto.id(), examination.getId()),
@@ -62,7 +66,7 @@ public class ExaminationMapperTest {
             .setNote("")
             ;
 
-        ExaminationDto examinationDto = examinationMapper.examinationtoPatientExaminationDto(examination);
+        ExaminationDto examinationDto = examinationMapper.examinationToExaminationDto(examination);
 
         assertAll(
             () -> assertEquals(examinationDto.id(), examination.getId()),

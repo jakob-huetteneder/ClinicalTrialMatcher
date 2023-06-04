@@ -15,4 +15,5 @@ public interface ExaminationRepository extends JpaRepository<Examination, Long> 
     @Query("SELECT e FROM Examination e WHERE e.name LIKE CONCAT('%',:name,'%')")
     List<Disease> findExaminationsWithPartOfName(@Param("name") String name);
 
+    void deleteAllByPatient_Id(Long patientId);
 }

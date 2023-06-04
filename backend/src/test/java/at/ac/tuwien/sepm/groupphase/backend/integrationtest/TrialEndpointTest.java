@@ -138,7 +138,7 @@ public class TrialEndpointTest {
             () -> assertEquals(trial.getTitle(), trialDtos.get(0).title()),
             () -> assertEquals(trial.getStartDate(), trialDtos.get(0).startDate()),
             () -> assertEquals(trial.getEndDate(), trialDtos.get(0).endDate()),
-            () -> assertEquals(trial.getResearcher().getId(), trialDtos.get(0).researcher().getId()),
+            () -> assertEquals(trial.getResearcher().getId(), trialDtos.get(0).researcher().id()),
             () -> assertEquals(trial.getStudyType(), trialDtos.get(0).studyType()),
             () -> assertEquals(trial.getBriefSummary(), trialDtos.get(0).briefSummary()),
             () -> assertEquals(trial.getDetailedSummary(), trialDtos.get(0).detailedSummary()),

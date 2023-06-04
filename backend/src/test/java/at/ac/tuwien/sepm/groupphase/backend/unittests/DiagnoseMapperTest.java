@@ -1,7 +1,9 @@
 package at.ac.tuwien.sepm.groupphase.backend.unittests;
 
+import at.ac.tuwien.sepm.groupphase.backend.datagenerator.PatientDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.DiagnoseDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.DiagnosisMapper;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.DiseaseMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Diagnose;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Disease;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
@@ -21,24 +23,29 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class DiagnoseMapperTest {
 
     @Autowired
+    private PatientDataGenerator patientDataGenerator;
+    @Autowired
     private DiagnosisMapper diagnosisMapper;
+    @Autowired
+    private DiseaseMapper diseaseMapper;
 
     @Test
     public void testDiagnoseDtoToDiagnose() {
+        Patient patient = patientDataGenerator.generatePatient();
         DiagnoseDto diagnoseDto = new DiagnoseDto(
             1L,
-            1L,
+            patient.getId(),
             null,
             LocalDate.of(2000,2,2),
             ""
         );
 
-        Diagnose diagnose = diagnosisMapper.diagnosisDtoToDiagnosis(diagnoseDto);
+        Diagnose diagnose = diagnosisMapper.diagnosisDtoToDiagnosis(diagnoseDto, diagnoseDto.patientId());
 
         assertAll(
             () -> assertEquals(diagnoseDto.id(), diagnose.getId()),
             () -> assertEquals(diagnoseDto.patientId(), diagnose.getPatient().getId()),
-            () -> assertEquals(diagnoseDto.disease(), diagnose.getDisease()),
+            () -> assertEquals(diagnoseDto.disease(), diseaseMapper.diseaseToDiseaseDto(diagnose.getDisease())),
             () -> assertEquals(diagnoseDto.date(), diagnose.getDate()),
             () -> assertEquals(diagnoseDto.note(), diagnose.getNote())
         );

@@ -115,9 +115,11 @@ export class DiseaseAutocompleteComponent implements OnInit, ControlValueAccesso
     if (selectedValue) {
       this.setValue(selectedValue);
     } else {
-      this.value.id = undefined;
-      this.value.name = input;
-      this.value.synonyms = '';
+      this.setValue({
+        id: undefined,
+        name: input,
+        synonyms: '',
+      });
     }
   }
 

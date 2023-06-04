@@ -47,4 +47,11 @@ public interface ExaminationService {
      * @return a list of all examinations
      */
     List<ExaminationDto> getAllExaminations(long id);
+
+    /**
+     * Deletes all examination results for a patient.
+     *
+     * @param id the id of the patient
+     */
+    void deleteExaminationsByPatientId(long id);
 }

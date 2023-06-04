@@ -1,13 +1,16 @@
 package at.ac.tuwien.sepm.groupphase.backend.endpoint.dto;
 
-import at.ac.tuwien.sepm.groupphase.backend.entity.Disease;
+import jakarta.validation.constraints.NotNull;
 
 import java.time.LocalDate;
 
 public record DiagnoseDto(
-    long id,
-    long patientId,
+    Long id,
+    @NotNull(message = "Patient must not be null")
+    Long patientId,
+    @NotNull(message = "Disease must not be null")
     DiseaseDto disease,
+    @NotNull(message = "Date must not be null")
     LocalDate date,
     String note
 ) {

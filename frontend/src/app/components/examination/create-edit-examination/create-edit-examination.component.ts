@@ -1,11 +1,12 @@
 import {ActivatedRoute, Router} from '@angular/router';
 import {Component, OnInit} from '@angular/core';
-import {NgModel} from '@angular/forms';
+import {AbstractControl, FormBuilder, FormGroup, ValidationErrors, ValidatorFn, Validators} from '@angular/forms';
 import {Examination} from '../../../dtos/patient';
 import {ExaminationService} from 'src/app/services/examination.service';
 import {FilesService} from 'src/app/services/files.service';
 import {DomSanitizer, SafeUrl} from '@angular/platform-browser';
 import {ToastrService} from 'ngx-toastr';
+import {Observable} from 'rxjs';
 
 export enum ExaminationCreateEditMode {
   create,
@@ -19,13 +20,12 @@ export enum ExaminationCreateEditMode {
 })
 export class CreateEditExaminationComponent implements OnInit {
   mode: ExaminationCreateEditMode = ExaminationCreateEditMode.create;
-  exam: Examination = {
-    date: undefined,
-    name: '',
-    note: '',
-    type: '',
-    patientId: undefined
-  };
+  examForm: FormGroup;
+
+  id: number;
+  patientId: number;
+  oldExam: Examination;
+
   image: SafeUrl = '';
   imageFocus = false;
   imageOriginal: SafeUrl = '';
@@ -34,17 +34,13 @@ export class CreateEditExaminationComponent implements OnInit {
   constructor(
     private router: Router,
     private route: ActivatedRoute,
+    private fromBuilder: FormBuilder,
     private service: ExaminationService,
     private sanitizer: DomSanitizer,
     private fileService: FilesService,
     private notification: ToastrService
   ) {
   }
-
-  get modeIsCreate(): boolean {
-    return this.mode === ExaminationCreateEditMode.create;
-  }
-
 
   public get heading(): string {
     console.log(this.mode);
@@ -58,109 +54,92 @@ export class CreateEditExaminationComponent implements OnInit {
     }
   }
 
-  private get modeActionFinished(): string {
-    switch (this.mode) {
-      case ExaminationCreateEditMode.create:
-        return 'created';
-      case ExaminationCreateEditMode.edit:
-        return 'edited';
-      default:
-        return '?';
-    }
-  }
-
   ngOnInit(): void {
+    this.examForm = this.fromBuilder.group({
+      name: ['', [Validators.required, Validators.maxLength(255)]],
+      date: ['', [Validators.required]],
+      type: ['', [Validators.required, Validators.maxLength(255)]],
+      note: ['', [Validators.maxLength(255)]],
+      image: [''],
+    });
+
     this.route.data.subscribe(data => {
       this.mode = data.mode;
+      this.route.params.subscribe(
+        params => {
+          this.patientId = params.id;
+          if (this.mode === ExaminationCreateEditMode.edit) {
+            this.id = params.eid;
+            this.load().subscribe({
+              next: () => {
+                console.log('loaded');
+                this.examForm.addValidators(this.changed());
+              }
+            });
+          }
+        });
     });
-    this.route.params.subscribe(
-      params => {
-        this.exam.patientId = params.id;
-        if (!this.modeIsCreate) {
-          this.exam.id = params.eid;
-          this.load();
+
+  }
+
+  isEditMode() {
+    return this.mode === ExaminationCreateEditMode.edit;
+  }
+
+  public load(): Observable<void> {
+    // return an observable that will be resolved when all requests are done
+    return new Observable<void>(observer => {
+      this.service.load(this.id, this.patientId).subscribe({
+        next: data => {
+          this.oldExam = data;
+          this.examForm.patchValue(data);
+          observer.next();
+        },
+        error: error => {
+          console.error('Error loading examination', error);
+          this.notification.error(error.error.message, 'Error loading examination');
+          this.returnToPatient();
         }
       });
-    console.log(this.exam);
-  }
+      this.fileService.getById(this.id).subscribe({
+        next: data => {
+          const TYPED_ARRAY = new Uint8Array(data);
+          const STRING_CHAR = String.fromCharCode.apply(null, TYPED_ARRAY);
+          const base64String = btoa(STRING_CHAR);
+          this.image = 'data:image/png;base64,' + base64String;
+          this.imageOriginal = 'data:image/png;base64,' + base64String;
 
-  public dynamicCssClassesForInput(input: NgModel): any {
-    return {
-      // This names in this object are determined by the style library,
-      // requiring it to follow TypeScript naming conventions does not make sense.
-      // eslint-disable-next-line @typescript-eslint/naming-convention
-      'is-invalid': !input.valid && !input.pristine,
-    };
-  }
-
-  public tmp(): void {
-    console.log(this.exam);
-  }
-
-  public buttonstyle(): string {
-    if (this.exam.type === '' || this.exam.name === '' || this.exam.note === '' || this.exam.date === undefined) {
-      return 'bg-gray-400';
-    } else {
-      return 'transition ease-in-out delay-100 duration-300 bg-blue-500 '
-        + 'hover:-translate-y-0 hover:scale-110 hover:bg-blue-400 hover:cursor-pointer';
-    }
-  }
-
-  public cancelbuttonstyle(): string {
-    if (!(this.exam.type === '' || this.exam.name === '' || this.exam.note === '' || this.exam.date === undefined)) {
-      return 'transition ease-in-out delay-100 duration-300 bg-gray-400 '
-        + 'hover:-translate-y-0 hover:scale-110 hover:bg-gray-500 hover:cursor-pointer';
-    } else {
-      return 'transition ease-in-out delay-100 duration-300 bg-blue-500 '
-        + 'hover:-translate-y-0 hover:scale-110 hover:bg-blue-400 hover:cursor-pointer';
-    }
-  }
-
-  public disable(): boolean {
-    return this.exam.type === '' || this.exam.name === '' || this.exam.note === '' || this.exam.date === undefined;
-  }
-
-  public load(): void {
-    console.log('is id valid?', this.exam);
-    this.service.load(this.exam.id, this.exam.patientId).subscribe({
-      next: data => {
-        this.exam = data;
-        //this.notification.success(`Horse ${this.horse.name} successfully loaded.`);
-      },
-      error: error => {
-        console.error('Error loading examination', error);
-        this.notification.error(error.error.message, 'Error loading examination');
-        this.router.navigate(['/doctor/view-patient/' + this.exam.patientId]);
-        //this.notification.error(error.error.errors, `Horse ${this.horse.name} could not be loaded`);
-      }
-    });
-    this.fileService.getById(this.exam.id).subscribe({
-      next: data => {
-        const TYPED_ARRAY = new Uint8Array(data);
-        const STRING_CHAR = String.fromCharCode.apply(null, TYPED_ARRAY);
-        const base64String = btoa(STRING_CHAR);
-        this.image = 'data:image/png;base64,' + base64String;
-        this.imageOriginal = 'data:image/png;base64,' + base64String;
-      },
-      error: error => {
-        //console.error('Error loading medical image', error);
-      }
+          this.examForm.patchValue({image: this.image});
+          observer.next();
+        },
+        error: () => {
+          //console.error('Error loading medical image', error);
+        }
+      });
     });
   }
 
   async submit() {
+    if (this.examForm.invalid) {
+      this.notification.error(this.getErrorString());
+      return;
+    }
+    const exam = this.examForm.value;
+    exam.id = this.id;
+    exam.patientId = this.patientId;
+
     const file = await this.convertSafeUrlToFile(this.image, this.imageName).then();
     switch (this.mode) {
       case ExaminationCreateEditMode.create:
-        this.service.addNewExamination(this.exam).subscribe({
+        this.service.addNewExamination(exam).subscribe({
           next: examinationData => {
             if (this.image !== '') {
-              this.exam.id = examinationData.id;
-              this.fileService.createImage(file, this.exam.id).subscribe({
+              this.id = examinationData.id;
+              this.fileService.createImage(file, this.id).subscribe({
                 next: _ => {
                   console.log('Created image in backend');
 
-                  this.router.navigate(['/doctor/view-patient/' + this.exam.patientId]);
+                  this.returnToPatient();
                 },
                 error: error => {
                   console.error('Error creating/editing examination', error);
@@ -168,8 +147,8 @@ export class CreateEditExaminationComponent implements OnInit {
                 }
               });
             } else {
-              this.router.navigate(['v/view-patient/' + this.exam.patientId]);
               this.notification.info('Successfully created examination');
+              this.returnToPatient();
             }
           }
         });
@@ -178,14 +157,14 @@ export class CreateEditExaminationComponent implements OnInit {
       case ExaminationCreateEditMode.edit:
         //add image -> update examination
         if (this.image !== this.imageOriginal && this.image === '') {
-          this.fileService.deleteById(this.exam.id).subscribe({
+          this.fileService.deleteById(this.id).subscribe({
             next: __ => {
               console.log('Created image in backend');
 
-              this.service.updateExamination(this.exam).subscribe({
+              this.service.updateExamination(exam).subscribe({
                 next: data => {
-                  this.notification.success('Successfully created examination');
-                  this.router.navigate(['/doctor/view-patient/' + this.exam.patientId]);
+                  this.notification.success('Successfully updated examination');
+                  this.returnToPatient();
                 },
                 error: error => {
                   console.error('Error creating/editing examination', error);
@@ -199,14 +178,14 @@ export class CreateEditExaminationComponent implements OnInit {
             }
           });
         } else if (this.image !== this.imageOriginal && this.image !== '') {
-          this.fileService.createImage(await file, this.exam.id).subscribe({
+          this.fileService.createImage(await file, this.id).subscribe({
             next: __ => {
               console.log('Created image in backend');
 
-              this.service.updateExamination(this.exam).subscribe({
+              this.service.updateExamination(exam).subscribe({
                 next: data => {
                   this.notification.success('Successfully updated examination');
-                  this.router.navigate(['/doctor/view-patient/' + this.exam.patientId]);
+                  this.returnToPatient();
                 },
                 error: error => {
                   console.error('Error creating/editing examination', error);
@@ -220,10 +199,10 @@ export class CreateEditExaminationComponent implements OnInit {
             }
           });
         } else {
-          this.service.updateExamination(this.exam).subscribe({
+          this.service.updateExamination(exam).subscribe({
             next: data => {
               this.notification.success('Successfully updated examination');
-              this.router.navigate(['/doctor/view-patient/' + this.exam.patientId]);
+              this.returnToPatient();
             },
             error: error => {
               console.error('Error creating/editing examination', error);
@@ -239,14 +218,13 @@ export class CreateEditExaminationComponent implements OnInit {
   }
 
   delete() {
-    console.log(this.exam);
-    this.fileService.deleteById(this.exam.id).subscribe({ // TODO: backend with cascade delete
+    this.fileService.deleteById(this.id).subscribe({ // TODO: backend with cascade delete
       next: data => {
         console.log('Deleted image in backend');
-        this.service.delete(this.exam.id, this.exam.patientId).subscribe({
+        this.service.delete(this.id, this.patientId).subscribe({
           next: () => {
-            this.router.navigate(['/doctor/view-patient/' + this.exam.patientId]);
             this.notification.success('Successfully deleted examination');
+            this.returnToPatient();
             //this.notification.success(`Horse ${this.horse.name} successfully loaded.`);
           },
           error: err => {
@@ -255,9 +233,10 @@ export class CreateEditExaminationComponent implements OnInit {
         });
       }, error: error => {
         console.log('Image was not deleted', error);
-        this.service.delete(this.exam.id, this.exam.patientId).subscribe({
+        this.service.delete(this.id, this.patientId).subscribe({
           next: () => {
-            this.router.navigate(['/doctor/view-patient/' + this.exam.patientId]);
+            this.notification.success('Successfully deleted examination');
+            this.returnToPatient();
             //this.notification.success(`Horse ${this.horse.name} successfully loaded.`);
           }, error: err => {
             this.notification.error(err.error.message, 'Error deleting examination');
@@ -267,9 +246,14 @@ export class CreateEditExaminationComponent implements OnInit {
     });
   }
 
+  returnToPatient() {
+    this.router.navigate(['/doctor/view-patient/' + this.patientId]);
+  }
+
   deleteImage(fileInput: HTMLInputElement) {
     this.imageFocus = false;
     this.image = '';
+    this.examForm.patchValue({image: ''});
     this.imageName = '';
     fileInput.value = '';
     //this.notification.success(`Horse ${this.horse.name} successfully loaded.`);
@@ -307,6 +291,9 @@ export class CreateEditExaminationComponent implements OnInit {
 
     reader.onload = (e: any) => {
       this.image = e.target.result;
+      this.examForm.patchValue({
+        image: this.image
+      });
     };
 
     reader.readAsDataURL(file);
@@ -324,5 +311,79 @@ export class CreateEditExaminationComponent implements OnInit {
           reject(error);
         });
     });
+  }
+
+  private changed(): ValidatorFn {
+    return (control: AbstractControl): ValidationErrors | null => {
+      let unchanged = true;
+      console.log('test');
+      console.log(control.value);
+      for (const key in control.value) {
+        if (key === 'image') {
+          if (control.value[key] !== this.imageOriginal) {
+           unchanged = false;
+          }
+        } else if (control.value[key] !== this.oldExam[key]) {
+          unchanged = false;
+          console.log('changed: ', key, control.value[key], this.oldExam[key]);
+          return null;
+        }
+      }
+      if (unchanged) {
+        return {noUpdateRequired: true};
+      }
+      return null;
+    };
+  }
+
+  private getErrorString() {
+
+    const errors = [];
+    if (this.examForm.errors != null) {
+      Object.keys(this.examForm.errors).forEach(keyError => {
+        console.log('Key error: ' + keyError);
+        errors.push(this.validationErrorName(keyError));
+      });
+    }
+    Object.keys(this.examForm.controls).forEach(key => {
+      const controlErrors: ValidationErrors = this.examForm.get(key).errors;
+      if (controlErrors != null) {
+        Object.keys(controlErrors).forEach(keyError => {
+          console.log('Key control: ' + key + ', keyError: ' + keyError);
+          errors.push(this.fieldName(key) + ' ' + this.validationErrorName(keyError));
+        });
+      }
+    });
+    if (errors.length === 0) {
+      return 'Unknown error';
+    }
+    return errors[0];
+  }
+
+  private validationErrorName(keyError: string): string {
+    switch (keyError) {
+      case 'required':
+        return 'is required';
+      case 'maxlength':
+        return 'is too long';
+      case 'noUpdateRequired':
+        return 'No changes made';
+      default:
+        return 'is invalid';
+    }
+  }
+
+  private fieldName(key: string): string {
+    switch (key) {
+      case 'name':
+        return 'Name';
+      case 'date':
+        return 'Date';
+      case 'type':
+        return 'Type';
+      case 'note':
+        return 'Note';
+    }
+    return '';
   }
 }

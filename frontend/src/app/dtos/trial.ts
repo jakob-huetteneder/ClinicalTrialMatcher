@@ -1,6 +1,5 @@
 import {Gender} from './gender';
-import {Researcher} from './researcher';
-import {TrialStatus} from './trial-status';
+import {User} from './user';
 
 
 export interface Trial {
@@ -8,7 +7,7 @@ export interface Trial {
   title: string;
   startDate: Date;
   endDate: Date;
-  researcher: Researcher;
+  researcher: User;
   studyType: string;
   briefSummary: string;
   detailedSummary: string;
@@ -22,4 +21,10 @@ export interface Trial {
   inclusionCriteria: string[];
   exclusionCriteria: string[];
 
+}
+
+export enum TrialStatus {
+  recruiting = 'RECRUITING',
+  notRecruiting = 'NOT_RECRUITING',
+  draft = 'DRAFT',
 }

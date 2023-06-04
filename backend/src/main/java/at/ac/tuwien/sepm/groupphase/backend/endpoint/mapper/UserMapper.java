@@ -12,6 +12,9 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Status;
 import org.springframework.stereotype.Component;
 
+import java.util.HashSet;
+import java.util.Set;
+
 @Component
 public class UserMapper {
 
@@ -22,6 +25,16 @@ public class UserMapper {
             .setLastName(userDetailDto.lastName())
             .setEmail(userDetailDto.email())
             .setStatus(userDetailDto.status());
+    }
+
+    public Set<ApplicationUser> userDetailDtoToApplicationUser(Set<UserDetailDto> userDetailDtos) {
+        Set<ApplicationUser> applicationUsers = new HashSet<>();
+        if (userDetailDtos != null) {
+            for (UserDetailDto userDetailDto1 : userDetailDtos) {
+                applicationUsers.add(userDetailDtoToApplicationUser(userDetailDto1));
+            }
+        }
+        return applicationUsers;
     }
 
     public ApplicationUser userUpdateDtoToApplicationUser(UserUpdateDto userUpdateDto) {
@@ -43,6 +56,16 @@ public class UserMapper {
             getRoleFromApplicationUser(applicationUser),
             applicationUser.getStatus()
         );
+    }
+
+    public Set<UserDetailDto> applicationUserToUserDetailDto(Set<? extends ApplicationUser> applicationUsers) {
+        Set<UserDetailDto> userDetailDtos = new HashSet<>();
+        if (applicationUsers != null) {
+            for (ApplicationUser applicationUser : applicationUsers) {
+                userDetailDtos.add(applicationUserToUserDetailDto(applicationUser));
+            }
+        }
+        return userDetailDtos;
     }
 
     public ApplicationUser userRegisterDtoToApplicationUser(UserRegisterDto userRegisterDto) {

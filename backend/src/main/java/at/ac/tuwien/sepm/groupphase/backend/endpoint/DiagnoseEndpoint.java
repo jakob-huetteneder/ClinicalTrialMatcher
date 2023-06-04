@@ -2,6 +2,7 @@ package at.ac.tuwien.sepm.groupphase.backend.endpoint;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.DiagnoseDto;
 import at.ac.tuwien.sepm.groupphase.backend.service.DiagnoseService;
+import jakarta.validation.Valid;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
@@ -32,26 +33,26 @@ public class DiagnoseEndpoint {
         this.diagnoseService = diagnoseService;
     }
 
-    @Secured({"ROLE_DOCTOR", "ROLE_PATIENT"})
+    @Secured({"ROLE_DOCTOR"})
     @ResponseStatus(HttpStatus.CREATED)
     @PostMapping(path = "/{id}/diagnose")
-    public DiagnoseDto addNewDiagnosis(@PathVariable("id") long id, @RequestBody DiagnoseDto diagnoseDto) {
+    public DiagnoseDto addNewDiagnosis(@PathVariable("id") long id, @RequestBody @Valid DiagnoseDto diagnoseDto) {
         LOG.info("POST " + BASE_PATH + "/");
         LOG.debug("Body of request: {}", diagnoseDto);
         return diagnoseService.addNewDiagnosis(diagnoseDto.withPatientId(id));
     }
 
 
-    @Secured({"ROLE_DOCTOR", "ROLE_PATIENT"})
+    @Secured({"ROLE_DOCTOR"})
     @ResponseStatus(HttpStatus.OK)
     @PutMapping(path = "/{id}/diagnose/{d_id}")
-    public DiagnoseDto updateDiagnosis(@PathVariable("id") long id, @PathVariable("d_id") long diagnosisId, @RequestBody DiagnoseDto diagnoseDto) {
+    public DiagnoseDto updateDiagnosis(@PathVariable("id") long id, @PathVariable("d_id") long diagnosisId, @RequestBody @Valid DiagnoseDto diagnoseDto) {
         LOG.info("POST " + BASE_PATH + "/");
         LOG.debug("Body of request: {}", diagnoseDto);
         return diagnoseService.updateDiagnosis(diagnoseDto.withDiagnosisId(diagnosisId).withPatientId(id));
     }
 
-    @Secured({"ROLE_DOCTOR", "ROLE_PATIENT"})
+    @Secured({"ROLE_DOCTOR"})
     @ResponseStatus(HttpStatus.OK)
     @DeleteMapping(path = "/{id}/diagnose/{d_id}")
     public DiagnoseDto deleteDiagnosis(@PathVariable("id") long id, @PathVariable("d_id") long diagnosisId) {
@@ -59,7 +60,7 @@ public class DiagnoseEndpoint {
         return diagnoseService.deleteDiagnosis(id, diagnosisId);
     }
 
-    @Secured({"ROLE_DOCTOR", "ROLE_PATIENT"})
+    @Secured({"ROLE_DOCTOR"})
     @ResponseStatus(HttpStatus.OK)
     @GetMapping(path = "/{id}/diagnose/{d_id}")
     public DiagnoseDto viewDiagnosis(@PathVariable("id") long id, @PathVariable("d_id") long diagnosisId) {
@@ -67,7 +68,7 @@ public class DiagnoseEndpoint {
         return diagnoseService.viewDiagnosis(id, diagnosisId);
     }
 
-    @Secured({"ROLE_DOCTOR", "ROLE_PATIENT"})
+    @Secured({"ROLE_DOCTOR"})
     @ResponseStatus(HttpStatus.OK)
     @GetMapping(path = "/{id}/diagnose")
     public List<DiagnoseDto> getAllDiagnoses(@PathVariable("id") long id) {

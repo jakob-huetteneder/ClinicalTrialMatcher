@@ -1,9 +1,12 @@
 package at.ac.tuwien.sepm.groupphase.backend.unittests;
 
+import at.ac.tuwien.sepm.groupphase.backend.datagenerator.UserDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.TrialDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.UserMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Researcher;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Trial;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
+import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.TrialStatus;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.TrialMapper;
 import org.junit.jupiter.api.Test;
@@ -23,6 +26,10 @@ public class TrialMapperTest {
 
     @Autowired
     private TrialMapper trialMapper;
+    @Autowired
+    private UserDataGenerator userDataGenerator;
+    @Autowired
+    private UserMapper userMapper;
 
     @Test
     public void testTrialDtoToTrial() {
@@ -31,7 +38,7 @@ public class TrialMapperTest {
             "title1",
             LocalDate.now(),
             LocalDate.now(),
-            new Researcher(),
+            userMapper.applicationUserToUserDetailDto(userDataGenerator.generateUser(Role.RESEARCHER)),
             "studyType1",
             "brief1",
             "detail1",
@@ -52,7 +59,7 @@ public class TrialMapperTest {
             () -> assertEquals(trialDto.title(), mappedTrial.getTitle()),
             () -> assertEquals(trialDto.startDate(), mappedTrial.getStartDate()),
             () -> assertEquals(trialDto.endDate(), mappedTrial.getEndDate()),
-            () -> assertEquals(trialDto.researcher(), mappedTrial.getResearcher()),
+            () -> assertEquals(trialDto.researcher().id(), mappedTrial.getResearcher().getId()),
             () -> assertEquals(trialDto.studyType(), mappedTrial.getStudyType()),
             () -> assertEquals(trialDto.briefSummary(), mappedTrial.getBriefSummary()),
             () -> assertEquals(trialDto.detailedSummary(), mappedTrial.getDetailedSummary()),
@@ -98,7 +105,7 @@ public class TrialMapperTest {
             () -> assertEquals(trial.getTitle(), mappedTrialDto.title()),
             () -> assertEquals(trial.getStartDate(), mappedTrialDto.startDate()),
             () -> assertEquals(trial.getEndDate(), mappedTrialDto.endDate()),
-            () -> assertEquals(trial.getResearcher(), mappedTrialDto.researcher()),
+            () -> assertEquals(trial.getResearcher().getId(), mappedTrialDto.researcher().id()),
             () -> assertEquals(trial.getStudyType(), mappedTrialDto.studyType()),
             () -> assertEquals(trial.getBriefSummary(), mappedTrialDto.briefSummary()),
             () -> assertEquals(trial.getDetailedSummary(), mappedTrialDto.detailedSummary()),
