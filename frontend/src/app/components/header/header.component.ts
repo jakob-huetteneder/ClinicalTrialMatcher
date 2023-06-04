@@ -1,6 +1,7 @@
 import {Component, OnInit} from '@angular/core';
 import {AuthService} from '../../services/auth.service';
 import {getRoleString, Role} from '../../dtos/role';
+import {Router} from '@angular/router';
 
 @Component({
   selector: 'app-header',
@@ -11,7 +12,10 @@ export class HeaderComponent implements OnInit {
 
   collapsed1 = false;
 
-  constructor(public authService: AuthService) { }
+  constructor(
+    public authService: AuthService,
+    public router: Router,
+  ) { }
 
   get roleString(): string {
     return getRoleString(this.authService.getUserRole());
@@ -22,6 +26,11 @@ export class HeaderComponent implements OnInit {
   }
 
   ngOnInit() {
+  }
+
+  logout() {
+    this.authService.logoutUser();
+    this.router.navigate(['/']);
   }
 
 }

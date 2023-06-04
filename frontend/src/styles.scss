@@ -8,6 +8,7 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 @import 'ngx-toastr/toastr';
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
 
 #toast-container {
   position: fixed;

@@ -1,0 +1,54 @@
+<div class="whitebox flex justify-center container mt-10">
+  <div class="fw-bold grid grid-cols-1 justify-items-center container mt-3 ml-3">
+    <div class="text-lg">{{heading}}</div>
+  </div>
+  <hr class="container">
+
+  <div [formGroup]="diagnosisForm" class="container flex flex-col">
+    <div class="flex flex-col">
+      <div class="flex md:flex-row flex-col">
+        <div class="flex flex-col flex-1">
+          <app-autocomplete
+            [formatModel]="formatDiseaseName"
+            [suggestions]="diseaseSuggestions"
+            class="flex-1 flex flex-row"
+            formControlName="disease"
+            name="disease"
+          ></app-autocomplete>
+        </div>
+        <div class="flex flex-col flex-1">
+          <input class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 inputfield border-0" formControlName="date"
+                 placeholder="Date of Diagnosis"
+                 type="date">
+        </div>
+      </div>
+      <div class="flex flex-col flex-1">
+          <textarea class="mr-2 h-10 mb-2 inputfield border-0 min-h-[5rem]" formControlName="note"
+                    maxlength="1000"
+                    placeholder="Enter the diagnosis notes for your patient"></textarea>
+      </div>
+    </div>
+  </div>
+
+  <div class="flex flex-row container" style="justify-content: space-between;">
+    <div>
+      <button (click)="submit()"
+              [style.background-color]="diagnosisForm.valid ? 'rgb(59 130 246 / 100%)' : 'rgb(59 130 246 / 50%)'"
+              class="transition ease-in-out delay-100 duration-300 bg-blue-500 hover:-translate-y-0 hover:scale-110 hover:bg-blue-400 hover:cursor-pointer rounded w-35 p-2 mt-2 h-10 text-white">
+        Submit Diagnosis
+      </button>
+      <app-confirm-button (confirm)="returnToPatient()" details="Changes will be lost.">
+        <button class="transition ease-in-out delay-100 duration-300 bg-gray-400 hover:-translate-y-0 hover:scale-110 hover:bg-gray-500 hover:cursor-pointer rounded w-35 p-2 mt-2 ml-3 h-10 text-white">
+          Cancel
+        </button>
+      </app-confirm-button>
+    </div>
+    <app-confirm-button (confirm)="delete()" details="Diagnose will be lost permanently.">
+      <button *ngIf="isEditMode()"
+              class="transition ease-in-out delay-100 duration-300 bg-red-500 rounded w-35 p-2 mt-2 mr-2 h-10 text-white
+                  hover:-translate-y-0 hover:scale-110 hover:bg-red-400 hover:cursor-pointer">
+        Delete
+      </button>
+    </app-confirm-button>
+  </div>
+</div>

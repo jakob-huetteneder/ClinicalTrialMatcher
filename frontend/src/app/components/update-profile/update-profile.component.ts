@@ -116,6 +116,10 @@ export class UpdateProfileComponent implements OnInit {
     });
   }
 
+  cancel() {
+    this.router.navigate(['']);
+  }
+
   // Custom validators
   changed(oldValue: User): ValidatorFn {
     return (control: AbstractControl): ValidationErrors | null => {

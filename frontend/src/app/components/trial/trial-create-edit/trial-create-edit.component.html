@@ -219,12 +219,13 @@
       </div>
       <div class="d-inline-flex align-items-center gap-1">
         <div class="btn-group">
-          <button [routerLink]="['/researcher/trials']"
-                  class="transition ease-in-out delay-100 duration-300 bg-slate-400 hover:-translate-y-0 hover:scale-110 hover:bg-slate-300 rounded w-35 p-2 mt-2 h-10 text-white mr-5"
+          <app-confirm-button (confirm)="cancel()" details="Changes will be lost.">
+          <button class="transition ease-in-out delay-100 duration-300 bg-slate-400 hover:-translate-y-0 hover:scale-110 hover:bg-slate-300 rounded w-35 p-2 mt-2 h-10 text-white mr-5"
                   data-inline="true"
                   style="width:130px">
             Cancel
           </button>
+          </app-confirm-button>
         </div>
       </div>
     </div>

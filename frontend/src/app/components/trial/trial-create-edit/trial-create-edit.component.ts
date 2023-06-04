@@ -1,7 +1,8 @@
 import {Component, OnInit} from '@angular/core';
 import {
-  AbstractControl, FormArray,
-  FormBuilder, FormControl,
+  AbstractControl,
+  FormArray,
+  FormBuilder,
   FormGroup,
   ValidationErrors,
   ValidatorFn,
@@ -37,7 +38,6 @@ export class CreateEditTrialComponent implements OnInit {
     private router: Router,
     private route: ActivatedRoute,
     private notification: ToastrService,
-
   ) {
   }
 
@@ -107,7 +107,8 @@ export class CreateEditTrialComponent implements OnInit {
             }
           });
         }
-      }});
+      }
+    });
   }
 
   public createTrial(): void {
@@ -148,13 +149,17 @@ export class CreateEditTrialComponent implements OnInit {
     }
   }
 
+  cancel() {
+    this.router.navigate(['/researcher/trials']);
+  }
+
   private trialValidator(): ValidatorFn {
     return (control: AbstractControl): ValidationErrors | null => {
       if (control.value.startDate > control.value.endDate) {
-        return { endDateBeforeStartDate: true };
+        return {endDateBeforeStartDate: true};
       }
       if (control.value.crMinAge > control.value.crMaxAge) {
-        return { maxAgeSmallerThanMinAge: true };
+        return {maxAgeSmallerThanMinAge: true};
       }
       return null;
     };
@@ -184,7 +189,7 @@ export class CreateEditTrialComponent implements OnInit {
         }
       }
       if (unchanged) {
-        return { noUpdateRequired: true };
+        return {noUpdateRequired: true};
       }
       return null;
     };
@@ -270,5 +275,4 @@ export class CreateEditTrialComponent implements OnInit {
     }
     return '';
   }
-
 }

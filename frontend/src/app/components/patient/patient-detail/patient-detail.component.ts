@@ -1,9 +1,9 @@
 import {Component, OnInit, ViewChildren} from '@angular/core';
-import {Patient} from '../../dtos/patient';
+import {Patient} from '../../../dtos/patient';
 import {ActivatedRoute, Router} from '@angular/router';
-import {PatientService} from '../../services/patient.service';
+import {PatientService} from '../../../services/patient.service';
 import {SafeUrl} from '@angular/platform-browser';
-import {FilesService} from '../../services/files.service';
+import {FilesService} from '../../../services/files.service';
 import {ToastrService} from 'ngx-toastr';
 
 @Component({

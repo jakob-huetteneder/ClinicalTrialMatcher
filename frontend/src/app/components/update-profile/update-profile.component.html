@@ -85,18 +85,19 @@
           </button>
         </div>
         <div class="flex flex-col flex-initial">
+          <app-confirm-button (confirm)="cancel()" details="Changes will be lost.">
           <button
             class="transition ease-in-out delay-100 duration-300 bg-slate-400 hover:-translate-y-0 hover:scale-110 hover:bg-slate-300 rounded w-35 p-2 mt-2 h-10 text-white mr-5"
             data-inline="true"
             style="width:130px"
-            [routerLink]="''"
           >
             Cancel
           </button>
+          </app-confirm-button>
         </div>
       </div>
       <div class="flex flex-row btn-holder mr-5">
-        <app-delete-popup [prompt]="'Delete your account?'" (delete)="delete(user.id)">
+        <app-confirm-button (confirm)="delete(user.id)" details="Your account will be lost permanently.">
           <button
             class="transition ease-in-out delay-100 duration-300 bg-red-500 hover:-translate-y-0 hover:scale-110 hover:bg-red-400 rounded w-35 p-2 mt-2 h-10 text-white"
             data-inline="true"
@@ -104,7 +105,7 @@
           >
             Delete Account
           </button>
-        </app-delete-popup>
+        </app-confirm-button>
       </div>
     </div>
   </form>

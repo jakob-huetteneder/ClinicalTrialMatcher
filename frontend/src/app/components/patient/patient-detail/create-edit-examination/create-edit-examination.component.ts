@@ -1,7 +1,7 @@
 import {ActivatedRoute, Router} from '@angular/router';
 import {Component, OnInit} from '@angular/core';
 import {AbstractControl, FormBuilder, FormGroup, ValidationErrors, ValidatorFn, Validators} from '@angular/forms';
-import {Examination} from '../../../dtos/patient';
+import {Examination} from '../../../../dtos/patient';
 import {ExaminationService} from 'src/app/services/examination.service';
 import {FilesService} from 'src/app/services/files.service';
 import {DomSanitizer, SafeUrl} from '@angular/platform-browser';
@@ -74,6 +74,7 @@ export class CreateEditExaminationComponent implements OnInit {
               next: () => {
                 console.log('loaded');
                 this.examForm.addValidators(this.changed());
+                this.examForm.updateValueAndValidity();
               }
             });
           }
@@ -321,6 +322,7 @@ export class CreateEditExaminationComponent implements OnInit {
       for (const key in control.value) {
         if (key === 'image') {
           if (control.value[key] !== this.imageOriginal) {
+            console.log('changed: ', key, control.value[key], this.imageOriginal);
            unchanged = false;
           }
         } else if (control.value[key] !== this.oldExam[key]) {

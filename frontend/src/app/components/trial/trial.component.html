@@ -55,11 +55,11 @@
         </div>
 
         <div class="flex flex-row dateloc">
-          <app-delete-popup [prompt]="'Delete your trial?'" (delete)="delete(trial)">
+          <app-confirm-button (confirm)="delete(trial)" details="Trial will be lost permanently.">
             <button class="btn btn-sm rounded border-danger">
               <i class="bi bi-trash text-red-500"></i>
             </button>
-          </app-delete-popup>
+          </app-confirm-button>
           <a class="btn btn-sm btn-outline-warning ml-1"
              [routerLink]="['edit', trial.id]"
              aria-label="Edit Trial">

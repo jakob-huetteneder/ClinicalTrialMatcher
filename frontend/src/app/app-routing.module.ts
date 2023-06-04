@@ -11,11 +11,13 @@ import {RegisterComponent} from './components/register/register.component';
 import {UserListComponent} from './components/user-list/user-list.component';
 import {UpdateProfileComponent} from './components/update-profile/update-profile.component';
 import {RegisterPatientComponent} from './components/register/register-patient/register-patient.component';
-import {PatientDetailComponent} from './components/patient-detail/patient-detail.component';
-import {DiagnoseComponent} from './components/diagnose/diagnose.component';
-import {DiagnoseCreateEditMode} from './components/diagnose/diagnose.component';
-import {CreateEditExaminationComponent} from './components/examination/create-edit-examination/create-edit-examination.component';
-import {ExaminationCreateEditMode} from './components/examination/create-edit-examination/create-edit-examination.component';
+import {PatientDetailComponent} from './components/patient/patient-detail/patient-detail.component';
+import {CreateEditDiagnoseComponent} from './components/patient/patient-detail/create-edit-diagnose/create-edit-diagnose.component';
+import {DiagnoseCreateEditMode} from './components/patient/patient-detail/create-edit-diagnose/create-edit-diagnose.component';
+import {
+  CreateEditExaminationComponent
+} from './components/patient/patient-detail/create-edit-examination/create-edit-examination.component';
+import {ExaminationCreateEditMode} from './components/patient/patient-detail/create-edit-examination/create-edit-examination.component';
 import {VerificationComponent} from './components/verification/verification.component';
 import {SetpasswordComponent} from './components/setpassword/setpassword.component';
 import {Role} from './dtos/role';
@@ -58,8 +60,8 @@ const routes: Routes = [
               {path: 'edit/:eid', component: CreateEditExaminationComponent, data: {mode: ExaminationCreateEditMode.edit}},
               ]},
           {path: 'diagnose', children: [
-              {path: 'create', component: DiagnoseComponent, data: {mode: DiagnoseCreateEditMode.create}},
-              {path: 'edit/:did', component: DiagnoseComponent, data: {mode: DiagnoseCreateEditMode.edit}},
+              {path: 'create', component: CreateEditDiagnoseComponent, data: {mode: DiagnoseCreateEditMode.create}},
+              {path: 'edit/:did', component: CreateEditDiagnoseComponent, data: {mode: DiagnoseCreateEditMode.edit}},
               ]},
           ]},
 

@@ -1,0 +1,15 @@
+<h2 mat-dialog-title>{{prompt}}</h2>
+<div mat-dialog-content>
+  <p>{{details}}</p>
+</div>
+
+<mat-dialog-actions class="justify-content-center">
+  <button
+    class="transition ease-in-out delay-100 duration-300 bg-blue-500 hover:-translate-y-0 hover:scale-110 hover:bg-blue-400 hover:cursor-pointer rounded w-35 p-2 h-10 text-white"
+    style="min-width: 130px;"
+    (click)="confirm()">{{confirmText}}</button>
+  <button
+    class="transition ease-in-out delay-100 duration-300 bg-gray-400 hover:-translate-y-0 hover:scale-110 hover:bg-gray-500 hover:cursor-pointer rounded w-35 p-2 ml-3 h-10 text-white"
+    style="min-width: 130px;"
+    (click)="cancel()">{{cancelText}}</button>
+</mat-dialog-actions>

@@ -24,9 +24,15 @@ import {VerificationComponent} from './components/verification/verification.comp
 import {SetpasswordComponent} from './components/setpassword/setpassword.component';
 import {RegisterPatientComponent} from './components/register/register-patient/register-patient.component';
 import {DiseaseAutocompleteComponent} from './components/disease-autocomplete/disease-autocomplete.component';
-import {PatientDetailComponent} from './components/patient-detail/patient-detail.component';
-import {CreateEditExaminationComponent} from './components/examination/create-edit-examination/create-edit-examination.component';
-import {DiagnoseComponent} from './components/diagnose/diagnose.component';
+import {PatientDetailComponent} from './components/patient/patient-detail/patient-detail.component';
+import {
+  CreateEditExaminationComponent
+} from './components/patient/patient-detail/create-edit-examination/create-edit-examination.component';
+import {CreateEditDiagnoseComponent} from './components/patient/patient-detail/create-edit-diagnose/create-edit-diagnose.component';
+import {MatDialogModule} from '@angular/material/dialog';
+import {ConfirmDialogComponent} from './components/confirm-button/confirm-dialog/confirm-dialog.component';
+import { ConfirmButtonComponent } from './components/confirm-button/confirm-button.component';
+import {MatButtonModule} from '@angular/material/button';
 
 @NgModule({
   declarations: [
@@ -48,7 +54,9 @@ import {DiagnoseComponent} from './components/diagnose/diagnose.component';
     DiseaseAutocompleteComponent,
     PatientDetailComponent,
     CreateEditExaminationComponent,
-    DiagnoseComponent
+    CreateEditDiagnoseComponent,
+    ConfirmDialogComponent,
+    ConfirmButtonComponent
   ],
   imports: [
     BrowserModule,
@@ -60,6 +68,8 @@ import {DiagnoseComponent} from './components/diagnose/diagnose.component';
     BrowserAnimationsModule,
     FormsModule,
     NgOptimizedImage,
+    MatDialogModule,
+    MatButtonModule
   ],
   providers: [httpInterceptorProviders],
   bootstrap: [AppComponent]

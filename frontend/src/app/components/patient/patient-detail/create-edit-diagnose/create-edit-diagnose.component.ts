@@ -8,7 +8,7 @@ import {
   ValidatorFn,
   Validators
 } from '@angular/forms';
-import {Diagnose, Disease} from '../../dtos/patient';
+import {Diagnose, Disease} from '../../../../dtos/patient';
 import {DiagnoseService} from 'src/app/services/diagnose.service';
 import {DiseaseService} from 'src/app/services/disease.service';
 import {Observable, of} from 'rxjs';
@@ -21,10 +21,10 @@ export enum DiagnoseCreateEditMode {
 
 @Component({
   selector: 'app-diagnose',
-  templateUrl: './diagnose.component.html',
-  styleUrls: ['./diagnose.component.scss']
+  templateUrl: './create-edit-diagnose.component.html',
+  styleUrls: ['./create-edit-diagnose.component.scss']
 })
-export class DiagnoseComponent implements OnInit {
+export class CreateEditDiagnoseComponent implements OnInit {
 
   diagnosisForm: FormGroup;
   mode: DiagnoseCreateEditMode;
