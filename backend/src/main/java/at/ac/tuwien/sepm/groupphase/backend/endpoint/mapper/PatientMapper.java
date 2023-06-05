@@ -8,17 +8,14 @@ import org.springframework.stereotype.Component;
 
 import java.util.HashSet;
 import java.util.Objects;
-import java.util.stream.Collectors;
 
 @Component
 public class PatientMapper {
 
-    private final UserMapper userMapper;
     private final DiagnosisMapper diagnosisMapper;
     private final ExaminationMapper examinationMapper;
 
-    public PatientMapper(UserMapper userMapper, DiagnosisMapper diagnosisMapper, ExaminationMapper examinationMapper) {
-        this.userMapper = userMapper;
+    public PatientMapper(DiagnosisMapper diagnosisMapper, ExaminationMapper examinationMapper) {
         this.diagnosisMapper = diagnosisMapper;
         this.examinationMapper = examinationMapper;
     }
@@ -33,12 +30,7 @@ public class PatientMapper {
             .setAdmissionNote(patientDto.admissionNote())
             .setBirthdate(patientDto.birthdate())
             .setGender(patientDto.gender())
-            .setDoctors(userMapper.userDetailDtoToApplicationUser(patientDto.doctors()).stream().map(user -> {
-                if (user instanceof Doctor) {
-                    return (Doctor) user;
-                }
-                return null;
-            }).collect(Collectors.toSet()))
+            .setTreats(null)
             .setDiagnoses(patientDto.id() != null ? diagnosisMapper.diagnosisDtoToDiagnosis(patientDto.diagnoses(), patientDto.id()) : new HashSet<>())
             .setExaminations(patientDto.id() != null ? examinationMapper.examinationDtoToExamination(patientDto.examinations(), patientDto.id()) : new HashSet<>());
     }
@@ -53,7 +45,6 @@ public class PatientMapper {
             patient.getAdmissionNote(),
             patient.getBirthdate(),
             patient.getGender(),
-            patient.getDoctors() == null ? new HashSet<>() : patient.getDoctors().stream().map(userMapper::applicationUserToUserDetailDto).collect(Collectors.toSet()),
             diagnosisMapper.diagnosisToDiagnosisDto(patient.getDiagnoses()),
             examinationMapper.examinationToExaminationDto(patient.getExaminations()));
     }

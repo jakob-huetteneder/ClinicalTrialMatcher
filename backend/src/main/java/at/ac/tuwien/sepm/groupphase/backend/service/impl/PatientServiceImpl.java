@@ -7,16 +7,13 @@ import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientRequestDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.PatientMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
-import at.ac.tuwien.sepm.groupphase.backend.entity.Diagnose;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
-import at.ac.tuwien.sepm.groupphase.backend.entity.Examination;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import at.ac.tuwien.sepm.groupphase.backend.exception.NotFoundException;
 import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
 import at.ac.tuwien.sepm.groupphase.backend.service.DiagnoseService;
 import at.ac.tuwien.sepm.groupphase.backend.service.ExaminationService;
-import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
 import at.ac.tuwien.sepm.groupphase.backend.service.PatientService;
 import jakarta.transaction.Transactional;
 import org.slf4j.Logger;
@@ -24,6 +21,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 
 import java.lang.invoke.MethodHandles;
+import java.util.List;
 import java.util.Optional;
 
 @Service

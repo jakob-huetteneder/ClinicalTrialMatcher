@@ -3,18 +3,14 @@ package at.ac.tuwien.sepm.groupphase.backend.unittests;
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.DiagnosisDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.ExaminationDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.PatientDataGenerator;
-import at.ac.tuwien.sepm.groupphase.backend.datagenerator.UserDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.DiagnosisMapper;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.ExaminationMapper;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.PatientMapper;
-import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.UserMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Diagnose;
-import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Examination;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
-import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -23,7 +19,8 @@ import org.springframework.test.context.ActiveProfiles;
 import java.time.LocalDate;
 import java.util.Collections;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertAll;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 
 @SpringBootTest
@@ -37,11 +34,7 @@ public class PatientMapperTest {
     @Autowired
     private ExaminationDataGenerator examinationDataGenerator;
     @Autowired
-    private UserDataGenerator userDataGenerator;
-    @Autowired
     private PatientMapper patientMapper;
-    @Autowired
-    private UserMapper userMapper;
     @Autowired
     private DiagnosisMapper diagnosisMapper;
     @Autowired
@@ -66,7 +59,6 @@ public class PatientMapperTest {
             () -> assertEquals(patientDto.admissionNote(), patient.getAdmissionNote()),
             () -> assertEquals(patientDto.birthdate(), patient.getBirthdate()),
             () -> assertEquals(patientDto.gender(), patient.getGender()),
-            () -> assertEquals(patientDto.doctors(), userMapper.applicationUserToUserDetailDto(patient.getDoctors())),
             () -> assertEquals(patientDto.examinations(), examinationMapper.examinationToExaminationDto(patient.getExaminations())),
             () -> assertEquals(patientDto.diagnoses(), diagnosisMapper.diagnosisToDiagnosisDto(patient.getDiagnoses())),
             () -> assertEquals(patientDto.applicationUser(), patient.getApplicationUser())
@@ -77,14 +69,12 @@ public class PatientMapperTest {
     public void testPatientDtoToPatient() {
         Diagnose diagnose = diagnosisDataGenerator.generateDiagnose();
         Examination examination = examinationDataGenerator.generateExamination();
-        Doctor doctor = (Doctor) userDataGenerator.generateUser(Role.DOCTOR);
         Patient storedPatient = patientDataGenerator.generatePatient();
         diagnose.setPatient(storedPatient);
         examination.setPatient(storedPatient);
         PatientDto patientDto = new PatientDto(storedPatient.getId(), null, "Max", "Mustermann",
             "max@mustermann.com", "Patient with severe abdominal pain...",
             LocalDate.of(2000, 5, 21), Gender.MALE,
-            Collections.singleton(userMapper.applicationUserToUserDetailDto(doctor)),
             Collections.singleton(diagnosisMapper.diagnosisToDiagnosisDto(diagnose)),
             Collections.singleton(examinationMapper.examinationToExaminationDto(examination)));
 
@@ -98,7 +88,6 @@ public class PatientMapperTest {
             () -> assertEquals(patientDto.admissionNote(), patient.getAdmissionNote()),
             () -> assertEquals(patientDto.birthdate(), patient.getBirthdate()),
             () -> assertEquals(patientDto.gender(), patient.getGender()),
-            () -> assertEquals(patientDto.doctors(), userMapper.applicationUserToUserDetailDto(patient.getDoctors())),
             () -> assertEquals(patientDto.examinations(), examinationMapper.examinationToExaminationDto(patient.getExaminations())),
             () -> assertEquals(patientDto.diagnoses(), diagnosisMapper.diagnosisToDiagnosisDto(patient.getDiagnoses())),
             () -> assertEquals(patientDto.applicationUser(), patient.getApplicationUser())
