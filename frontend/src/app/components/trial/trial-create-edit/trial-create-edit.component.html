@@ -170,8 +170,10 @@
                    value="{{criteria}}" type="text" [formControl]="criteria">
           </div>
           <div class="flex flex-row flex-initial">
-            <div class="fw-bold mb-2 mt-2 hover:cursor-pointer" (click)="inclusionCriteria.removeAt(i)"><i class="bi bi-dash-lg ml-2"></i>
+            <app-confirm-button (confirm)="inclusionCriteria.removeAt(i)" details="This inclusion criteria will be deleted.">
+            <div class="fw-bold mb-2 mt-2 hover:cursor-pointer"><i class="bi bi-dash-lg ml-2"></i>
             </div>
+            </app-confirm-button>
           </div>
         </div>
       </div>
@@ -198,8 +200,10 @@
                    value="{{criteria}}" type="text" [formControl]="criteria">
           </div>
           <div class="flex flex-row flex-initial">
-            <div class="fw-bold mb-2 mt-2 hover:cursor-pointer" (click)="exclusionCriteria.removeAt(i)"><i class="bi bi-dash-lg ml-2"></i>
+            <app-confirm-button (confirm)="exclusionCriteria.removeAt(i)" details="This exclusion criteria will be deleted.">
+            <div class="fw-bold mb-2 mt-2 hover:cursor-pointer"><i class="bi bi-dash-lg ml-2"></i>
             </div>
+            </app-confirm-button>
           </div>
         </div>
       </div>
