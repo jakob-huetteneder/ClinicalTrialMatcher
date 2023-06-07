@@ -22,6 +22,13 @@ import {VerificationComponent} from './components/verification/verification.comp
 import {SetpasswordComponent} from './components/setpassword/setpassword.component';
 import {Role} from './dtos/role';
 import {AuthGuard} from './guards/auth.guard';
+import {
+  RequestPatientComponent
+} from './components/doctor-patient-connection/request-patient/request-patient.component';
+import {
+  ViewConnectionsComponent
+} from './components/doctor-patient-connection/view-connections/view-connections.component';
+import {ViewRequestsComponent} from './components/doctor-patient-connection/view-requests/view-requests.component';
 
 const routes: Routes = [
   {path: '', component: HomeComponent},

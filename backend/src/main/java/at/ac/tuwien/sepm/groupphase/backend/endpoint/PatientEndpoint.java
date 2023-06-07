@@ -1,15 +1,14 @@
 package at.ac.tuwien.sepm.groupphase.backend.endpoint;
 
-import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.DiseaseDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientRequestDto;
-import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.SearchDto;
 import at.ac.tuwien.sepm.groupphase.backend.security.AuthorizationService;
 import at.ac.tuwien.sepm.groupphase.backend.service.impl.PatientServiceImpl;
 import jakarta.annotation.security.PermitAll;
 import jakarta.validation.Valid;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.data.repository.query.Param;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.access.annotation.Secured;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -23,7 +22,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.lang.invoke.MethodHandles;
 import java.util.List;
-import java.util.stream.Stream;
 
 
 @RestController
@@ -58,10 +56,10 @@ public class PatientEndpoint {
 
     @Secured("ROLE_DOCTOR")
     @GetMapping
-    public List<PatientRequestDto> getAll() {
+    public List<PatientRequestDto> getAll(@Param("search") String search) {
         LOG.info("GET all patients");
         Long doctorId = authorizationService.getSessionUserId();
-        List<PatientRequestDto> patients = patientService.getAllPatientsForDoctorId(doctorId);
+        List<PatientRequestDto> patients = patientService.getAllPatientsForDoctorId(doctorId, search);
         LOG.info("Found {} patients", patients.size());
         LOG.info("{} patients", patients);
         return patients;

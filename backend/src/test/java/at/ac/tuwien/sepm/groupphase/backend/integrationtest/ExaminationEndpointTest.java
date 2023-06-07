@@ -148,7 +148,6 @@ public class ExaminationEndpointTest {
     public void updateSpecificExaminationAsDoctor() throws Exception {
         Patient patient = patientDataGenerator.generatePatient();
         ApplicationUser doctor = userDataGenerator.generateUser(Role.DOCTOR);
-        doctor = userRepository.save(doctor);
         Examination examination = examinationDataGenerator.generateExamination();
         List<String> adminRoles = new ArrayList<>() {
             {

@@ -10,6 +10,7 @@ import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
+import org.hibernate.annotations.OnDelete;
 
 
 @Entity
@@ -21,6 +22,7 @@ public class MedicalImage {
 
     @OneToOne(fetch = FetchType.EAGER)
     @JoinColumn(name = "examination_id")
+    @OnDelete(action = org.hibernate.annotations.OnDeleteAction.CASCADE)
     private Examination examination;
 
     @Column(name = "image")

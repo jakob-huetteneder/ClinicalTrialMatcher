@@ -1,15 +1,9 @@
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script src="https://cdn.tailwindcss.com"></script>
-  <title>View Requests</title>
-</head>
-
 <div class="fw-bold grid grid-cols-1 justify-items-center container ml-3 text-in-button">
   <div class="text-xl mb-3 mt-3"></div>
 </div>
 
-<div class="whitebox flex flex-column justify-center text-in-button my-10">
+<div [style]="isEmpty ? 'display: block; text-align: center;': ''"
+     class="whitebox flex flex-column justify-center text-in-button my-10">
 
   <div class="hidden flex-row container w-full">
     <div class="flex flex-row w-full justify-between" style="align-items: center;">
@@ -20,16 +14,16 @@
   <div class="flex flex-row container w-full mb-2">
     <div class="flex flex-row w-full text-blue-950 bg-blue-50" style="align-items: center; border-radius: 4px;">
       <i class="bi-search opacity-60 ml-4" style="color: #235491"></i>
-      <input id="q" name="q" class="max-h-[2.5rem] my-0 inputfield mx-4 bg-blue-50"
-             placeholder="Search in Current List">
+      <input (input)="searchChanged($event)" [ngModel]="search" class="max-h-[2.5rem] my-0 inputfield mx-4 bg-blue-50"
+             id="q" name="q" placeholder="Search in Current List">
     </div>
-    <button class="bi-funnel-fill ml-4" style="color:#1e5075" onclick="q.value = '';"></button>
+    <button class="bi-funnel-fill ml-4" onclick="q.value = '';" style="color:#1e5075"></button>
   </div>
   <hr class="mt-0 ml-4 mb-4 w-full" style="border: 2px solid #CDE2F0;">
 
   <table class="container w-fit" style="max-width: 1200px !important;">
     <thead [hidden]="(requested === null || requested.length === 0)">
-    <tr class="disabled font-bold text-orange-700 h-8" [hidden]="requested === null || requested.length === 0">
+    <tr [hidden]="requested === null || requested.length === 0" class="disabled font-bold text-orange-700 h-8">
       <i class="bi-clock mr-2"></i>
       Pending
     </tr>
@@ -37,33 +31,34 @@
     <th style="font-weight: 600">Last Name</th>
     <th style="font-weight: 600">E-Mail</th>
     </thead>
-    <tbody [hidden]="(requested === null || requested.length === 0)">
-    <tr class="w-fit" *ngFor="let request of requested">
+    <tbody *ngIf="!isEmpty">
+    <tr *ngFor="let request of requested" class="w-fit">
       <td>{{request.doctor.firstName}}</td>
       <td>{{request.doctor.lastName}}</td>
       <td>{{request.doctor.email}}</td>
       <td style="width: 138px;">
 
         <button
-          class="flex-initial bg-green-100 rounded w-fit py-2 px-4 text-green-700 font-semibold border-green-700 drop-shadow-sm text-sm"
-          style="border-width: 1px;"
           (click)="accept(request)"
-          aria-label="Accept request of doctor">
+          aria-label="Accept request of doctor"
+          class="flex-initial bg-green-100 rounded w-fit py-2 px-4 text-green-700 font-semibold border-green-700 drop-shadow-sm text-sm"
+          style="border-width: 1px;">
           <i class="bi bi-check"></i>
         </button>
 
         <button
-          class="flex-initial bg-red-100 rounded w-fit py-2 px-4 text-red-700 font-semibold border-red-700 drop-shadow-sm ml-2 text-sm"
-          style="border-width: 1px;"
           (click)="decline(request)"
-          aria-label="Decline request of doctor">
+          aria-label="Decline request of doctor"
+          class="flex-initial bg-red-100 rounded w-fit py-2 px-4 text-red-700 font-semibold border-red-700 drop-shadow-sm ml-2 text-sm"
+          style="border-width: 1px;">
           <i class="bi bi-x"></i>
         </button>
       </td>
     </tr>
     </tbody>
 
-    <div class="m-4" [hidden]="((requested === null || requested.length === 0) || (accepted === null || accepted.length === 0))"></div>
+    <div [hidden]="((requested === null || requested.length === 0) || (accepted === null || accepted.length === 0))"
+         class="m-4"></div>
 
     <thead [hidden]="(accepted === null || accepted.length === 0)">
 
@@ -76,24 +71,26 @@
     <th style="font-weight: 600">E-Mail</th>
     </thead>
     <tbody [hidden]="accepted === null || accepted.length === 0">
-    <tr class="w-fit h-10" *ngFor="let request of accepted">
+    <tr *ngFor="let request of accepted" class="w-fit h-10">
       <td>{{request.doctor.firstName}}</td>
       <td>{{request.doctor.lastName}}</td>
       <td>{{request.doctor.email}}</td>
       <td style="width: 62px;">
-        <button
-          class="flex-initial bg-red-100 rounded w-fit py-2 px-4 text-red-700 font-semibold border-red-700 drop-shadow-sm text-sm"
-          (click)="delete(request)"
-          aria-label="Remove treating relationship">
-          <i class="bi bi-trash"></i>
-        </button>
+        <app-confirm-button (confirm)="decline(request)" details="Reject this connection.">
+          <button
+            aria-label="Remove treating relationship"
+            class="flex-initial bg-red-100 rounded w-fit py-2 px-4 text-red-700 font-semibold border-red-700 drop-shadow-sm text-sm">
+            <i class="bi bi-x"></i>
+          </button>
+        </app-confirm-button>
       </td>
     </tr>
-   </tbody>
+    </tbody>
 
-   <div class="m-4" [hidden]="((declined === null || declined.length === 0) || (accepted === null || accepted.length === 0))"></div>
+    <div [hidden]="((declined === null || declined.length === 0) || (accepted === null || accepted.length === 0))"
+         class="m-4"></div>
 
-   <thead [hidden]="(declined === null || declined.length === 0)">
+    <thead [hidden]="(declined === null || declined.length === 0)">
     <tr [hidden]="declined === null || declined.length === 0" class="disabled font-bold text-red-700 h-8">
       <i class="bi-x-lg mr-2"></i>
       Declined
@@ -103,20 +100,22 @@
     <th style="font-weight: 600">E-Mail</th>
     </thead>
     <tbody [hidden]="declined === null || declined.length === 0">
-    <tr class="w-fit h-10" *ngFor="let request of declined">
+    <tr *ngFor="let request of declined" class="w-fit h-10">
       <td>{{request.doctor.firstName}}</td>
       <td>{{request.doctor.lastName}}</td>
       <td>{{request.doctor.email}}</td>
       <td style="width: 62px;">
-        <button
-          class="flex-initial bg-red-100 rounded w-fit py-2 px-4 text-red-700 font-semibold border-red-700 drop-shadow-sm text-sm"
-          (click)="delete(request)"
-          aria-label="Remove treating relationship">
-          <i class="bi bi-trash"></i>
-        </button>
+        <app-confirm-button (confirm)="delete(request)" details="Remove this request from the history. The doctor will be able to send a new request.">
+          <button
+            aria-label="Remove treating relationship"
+            class="flex-initial bg-red-100 rounded w-fit py-2 px-4 text-red-700 font-semibold border-red-700 drop-shadow-sm text-sm">
+            <i class="bi bi-trash"></i>
+          </button>
+        </app-confirm-button>
       </td>
     </tr>
     </tbody>
   </table>
+  <p *ngIf="isEmpty" [innerHTML]="emptyListText" class="text-gray-400"></p>
 </div>
 

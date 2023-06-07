@@ -1,5 +1,5 @@
 import {Injectable} from '@angular/core';
-import {HttpClient} from '@angular/common/http';
+import {HttpClient, HttpParams} from '@angular/common/http';
 import {Observable} from 'rxjs';
 import {environment} from '../../environments/environment';
 import {Patient, PatientRequest} from '../dtos/patient';
@@ -37,10 +37,13 @@ export class PatientService {
   /**
    * Get all patients.
    *
+   * @param search a string that has to be included in the patient representation
+   *
    * @return observable list of patients
    */
-  getAllPatientsToRequest(): Observable<PatientRequest[]> {
-    return this.http.get<PatientRequest[]>(baseUri);
+  getAllPatientsToRequest(search: string): Observable<PatientRequest[]> {
+    const params = {params: new HttpParams().set('search', search)};
+    return this.http.get<PatientRequest[]>(baseUri, params);
   }
 
   /**

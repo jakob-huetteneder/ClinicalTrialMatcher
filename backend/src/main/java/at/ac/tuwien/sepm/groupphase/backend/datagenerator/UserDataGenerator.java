@@ -13,6 +13,8 @@ import java.util.Random;
 @Component
 public class UserDataGenerator {
 
+    private static final String PASSWORD_MOCK = "$2a$10$I4MVzZUBDmeiXBbuSDhWiu/867PRmxWsa4b09LHJCntT8yROgYs7S";
+
     private static final Faker faker = new Faker(new Random(1));
     private final UserRepository userRepository;
     private final UserMapper userMapper;
@@ -42,9 +44,19 @@ public class UserDataGenerator {
             firstName,
             lastName,
             email,
-            "$2a$10$I4MVzZUBDmeiXBbuSDhWiu/867PRmxWsa4b09LHJCntT8yROgYs7S",
+            PASSWORD_MOCK,
             role,
             Status.ACTIVE);
+    }
+
+    public ApplicationUser generateUser(String firstName, String lastName, String email, Role role, Status status) {
+        return generateUser(
+                firstName,
+                lastName,
+                email,
+                PASSWORD_MOCK,
+                role,
+                status);
     }
 
     public ApplicationUser generateUser(String firstName, String lastName, String email, String password, Role role, Status status) {

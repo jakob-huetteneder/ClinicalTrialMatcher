@@ -1,8 +1,8 @@
 import {Injectable} from '@angular/core';
-import {HttpClient} from '@angular/common/http';
+import {HttpClient, HttpParams} from '@angular/common/http';
 import {Observable} from 'rxjs';
 import {environment} from '../../environments/environment';
-import {Patient, PatientRequest, Treats} from '../dtos/patient';
+import {PatientRequest, Treats} from '../dtos/patient';
 
 const baseUri = environment.backendUrl + '/api/v1/treats';
 
@@ -12,15 +12,17 @@ const baseUri = environment.backendUrl + '/api/v1/treats';
 export class TreatsService {
   constructor(
     private http: HttpClient,
-  ) { }
+  ) {
+  }
 
   /**
    * Get all requests for the logged in.
    *
    * @Retruns a list of requests from doctors to treat the logged in patient
    */
-  getAllRequests(): Observable<Treats[]> {
-    return this.http.get<Treats[]>(baseUri + '/requests');
+  getAllRequests(search: string): Observable<Treats[]> {
+    const params = {params: new HttpParams().set('search', search)};
+    return this.http.get<Treats[]>(baseUri + '/requests', params);
   }
 
   /**

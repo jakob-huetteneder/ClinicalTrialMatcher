@@ -12,9 +12,11 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import at.ac.tuwien.sepm.groupphase.backend.exception.NotFoundException;
 import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
+import at.ac.tuwien.sepm.groupphase.backend.security.AuthorizationService;
 import at.ac.tuwien.sepm.groupphase.backend.service.DiagnoseService;
 import at.ac.tuwien.sepm.groupphase.backend.service.ExaminationService;
 import at.ac.tuwien.sepm.groupphase.backend.service.PatientService;
+import at.ac.tuwien.sepm.groupphase.backend.service.TreatsService;
 import jakarta.transaction.Transactional;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -33,14 +35,19 @@ public class PatientServiceImpl implements PatientService {
     private final UserRepository userRepository;
     private final DiagnoseService diagnoseService;
     private final ExaminationService examinationService;
+    private final TreatsService treatsService;
+    private final AuthorizationService authorizationService;
 
     public PatientServiceImpl(PatientRepository patientRepository, PatientMapper patientMapper, UserRepository userRepository,
-                              DiagnoseService diagnoseService, ExaminationService examinationService) {
+                              DiagnoseService diagnoseService, ExaminationService examinationService, TreatsService treatsService,
+                              AuthorizationService authorizationService) {
         this.patientRepository = patientRepository;
         this.patientMapper = patientMapper;
         this.userRepository = userRepository;
         this.diagnoseService = diagnoseService;
         this.examinationService = examinationService;
+        this.treatsService = treatsService;
+        this.authorizationService = authorizationService;
     }
 
 
@@ -48,6 +55,11 @@ public class PatientServiceImpl implements PatientService {
     @Transactional
     public PatientDto savePatient(PatientDto patient) {
         LOG.trace("savePatient({})", patient);
+        ApplicationUser user = userRepository.findById(authorizationService.getSessionUserId()).orElseThrow(() -> new NotFoundException("Logged in user does not exist"));
+        if (!(user instanceof Doctor doctor)) {
+            throw new NotFoundException("Logged in user needs to be a doctor to create a patient");
+        }
+
         Patient convertedPatient = patientMapper.patientDtoToPatient(patient);
         convertedPatient = patientRepository.save(convertedPatient);
 
@@ -65,6 +77,8 @@ public class PatientServiceImpl implements PatientService {
                 );
             }
         }
+
+        treatsService.doctorTreatsPatient(doctor, convertedPatient);
         LOG.info("Saved patient with id='{}'", convertedPatient.getId());
         return patientMapper.patientToPatientDto(convertedPatient);
     }
@@ -84,9 +98,9 @@ public class PatientServiceImpl implements PatientService {
     }
 
     @Override
-    public List<PatientRequestDto> getAllPatientsForDoctorId(Long doctorId) {
+    public List<PatientRequestDto> getAllPatientsForDoctorId(Long doctorId, String search) {
         LOG.trace("getAllPatientsForDoctorId({})", doctorId);
-        List<Patient> patients = patientRepository.findAll();
+        List<Patient> patients = patientRepository.findAllContaining(search);
         ApplicationUser user = userRepository.findById(doctorId).orElseThrow(NotFoundException::new);
         if (!(user instanceof Doctor doctor)) {
             throw new NotFoundException();
@@ -104,8 +118,6 @@ public class PatientServiceImpl implements PatientService {
             LOG.warn("Patient with id {} does not exist!", id);
             return null;
         } else {
-            diagnoseService.deleteDiagnosesByPatientId(id);
-            examinationService.deleteExaminationsByPatientId(id);
             patientRepository.deleteById(id);
             return patientMapper.patientToPatientDto(patient.get());
         }

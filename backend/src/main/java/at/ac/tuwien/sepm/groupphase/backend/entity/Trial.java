@@ -15,6 +15,7 @@ import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
 import org.hibernate.annotations.OnDelete;
+import org.hibernate.annotations.OnDeleteAction;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
@@ -77,11 +78,15 @@ public class Trial {
     @ElementCollection(targetClass = String.class, fetch = FetchType.EAGER)
     @CollectionTable(name = "inclusion_criteria", joinColumns = @JoinColumn(name = "trial_id"))
     @Column(name = "cr_inclusion_criteria")
+    @JoinColumn(name = "trial_id")
+    @OnDelete(action = OnDeleteAction.CASCADE)
     private List<String> inclusionCriteria = new ArrayList<>();
 
     @ElementCollection(targetClass = String.class, fetch = FetchType.EAGER)
     @CollectionTable(name = "exclusion_criteria", joinColumns = @JoinColumn(name = "trial_id"))
     @Column(name = "cr_exclusion_criteria")
+    @JoinColumn(name = "trial_id")
+    @OnDelete(action = OnDeleteAction.CASCADE)
     private List<String> exclusionCriteria = new ArrayList<>();
 
     public String getTitle() {

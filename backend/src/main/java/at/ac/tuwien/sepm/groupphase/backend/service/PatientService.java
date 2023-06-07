@@ -11,7 +11,7 @@ public interface PatientService {
 
     PatientDto getById(long id);
 
-    List<PatientRequestDto> getAllPatientsForDoctorId(Long doctorId);
+    List<PatientRequestDto> getAllPatientsForDoctorId(Long doctorId, String search);
 
     PatientDto deleteById(long id);
 

@@ -6,14 +6,15 @@ import jakarta.persistence.FetchType;
 import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
 
+import java.util.HashSet;
 import java.util.Set;
 
 @Entity
 @Table(name = "doctor")
 public class Doctor extends ApplicationUser {
 
-    @OneToMany(fetch = FetchType.EAGER, mappedBy = "doctor")
-    private Set<Treats> treats;
+    @OneToMany(fetch = FetchType.EAGER, mappedBy = "doctor", orphanRemoval = true)
+    private Set<Treats> treats = new HashSet<>();
 
     @JsonManagedReference(value = "doctor-treats")
     public Set<Treats> getTreats() {
@@ -21,7 +22,10 @@ public class Doctor extends ApplicationUser {
     }
 
     public Doctor setTreats(Set<Treats> treats) {
-        this.treats = treats;
+        this.treats.clear();
+        if (treats != null) {
+            this.treats.addAll(treats);
+        }
         return this;
     }
 }

@@ -1,15 +1,9 @@
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script src="https://cdn.tailwindcss.com"></script>
-  <title>View Requests</title>
-</head>
-
 <div class="fw-bold grid grid-cols-1 justify-items-center container ml-3 text-in-button">
   <div class="text-xl mb-3 mt-3"></div>
 </div>
 
-<div class="whitebox flex flex-column justify-center text-in-button my-10">
+<div class="whitebox flex flex-column justify-center text-in-button my-10"
+     [style]="isEmpty ? 'display: block; text-align: center;': ''">
   <div class="hidden flex-row container w-full">
     <div class="flex flex-row w-full justify-between" style="align-items: center;">
       <button class="text-blue-400 hover:text-blue-600">Edit Favourites</button>
@@ -19,13 +13,13 @@
   <div class="flex flex-row container w-full mb-2">
     <div class="flex flex-row w-full text-blue-950 bg-blue-50" style="align-items: center; border-radius: 4px;">
       <i class="bi-search opacity-60 ml-4" style="color: #235491"></i>
-      <input id="q" name="q" class="max-h-[2.5rem] my-0 inputfield mx-4 bg-blue-50"
-             placeholder="Search in Current List">
+      <input (input)="searchChanged($event)" class="max-h-[2.5rem] my-0 inputfield mx-4 bg-blue-50" id="q"
+             name="q" placeholder="Search in Current List">
     </div>
-    <button class="bi-funnel-fill ml-4" style="color:#1e5075" onclick="q.value = '';"></button>
+    <button class="bi-funnel-fill ml-4" onclick="q.value = '';" style="color:#1e5075"></button>
   </div>
   <hr class="mt-0 ml-4 w-full" style="border: 2px solid #CDE2F0;">
-  <table class="container w-fit">
+  <table *ngIf="!isEmpty" class="container w-fit">
     <thead>
     <th style="font-weight: 600">First Name</th>
     <th style="font-weight: 600">Last Name</th>
@@ -39,17 +33,17 @@
       <td style="width: 62px">
 
         <button
-          *ngIf="patient.treats === null"
-          class="flex-initial bg-blue-100 rounded w-fit py-2 px-4 text-blue-700 font-semibold border-blue-700 drop-shadow-sm text-sm"
           (click)="requestUser(patient)"
-          aria-label="Request to treat this user">
+          *ngIf="patient.treats === null"
+          aria-label="Request to treat this user"
+          class="flex-initial bg-blue-100 rounded w-fit py-2 px-4 text-blue-700 font-semibold border-blue-700 drop-shadow-sm text-sm">
           <i class="bi bi-clipboard-plus"></i>
         </button>
 
         <button
           *ngIf="patient.treats !== null && patient.treats.status === 'REQUESTED'"
-          class="flex-initial bg-orange-100 rounded w-fit py-2 px-4 text-orange-700 font-semibold border-orange-700 drop-shadow-sm text-sm"
           aria-label="Waiting on user to accept request"
+          class="flex-initial bg-orange-100 rounded w-fit py-2 px-4 text-orange-700 font-semibold border-orange-700 drop-shadow-sm text-sm"
           disabled>
           <i class="bi bi-hourglass"></i>
         </button>
@@ -57,6 +51,7 @@
     </tr>
     </tbody>
   </table>
+  <p *ngIf="isEmpty" class="text-gray-400" [innerHTML]="emptyListText"></p>
 </div>
 
 

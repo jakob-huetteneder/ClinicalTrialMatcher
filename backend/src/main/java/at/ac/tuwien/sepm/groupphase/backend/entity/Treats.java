@@ -7,6 +7,7 @@ import jakarta.persistence.FetchType;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
 import jakarta.persistence.MapsId;
+import org.hibernate.annotations.OnDelete;
 
 @Entity
 public class Treats {
@@ -23,11 +24,13 @@ public class Treats {
     @ManyToOne(fetch = FetchType.EAGER)
     @MapsId("patientId")
     @JoinColumn(name = "patient_id")
+    @OnDelete(action = org.hibernate.annotations.OnDeleteAction.CASCADE)
     private Patient patient;
 
     @ManyToOne(fetch = FetchType.EAGER)
     @MapsId("doctorId")
     @JoinColumn(name = "doctor_id")
+    @OnDelete(action = org.hibernate.annotations.OnDeleteAction.CASCADE)
     private Doctor doctor;
 
     private Status status;

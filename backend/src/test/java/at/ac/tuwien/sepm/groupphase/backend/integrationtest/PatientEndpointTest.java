@@ -1,13 +1,18 @@
 package at.ac.tuwien.sepm.groupphase.backend.integrationtest;
 
 import at.ac.tuwien.sepm.groupphase.backend.TestUtil;
+import at.ac.tuwien.sepm.groupphase.backend.config.properties.SecurityProperties;
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.DiagnosisDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.PatientDataGenerator;
+import at.ac.tuwien.sepm.groupphase.backend.datagenerator.UserDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.PatientMapper;
+import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
+import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
 import at.ac.tuwien.sepm.groupphase.backend.repository.DiagnosesRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
+import at.ac.tuwien.sepm.groupphase.backend.security.JwtTokenizer;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -21,9 +26,14 @@ import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.MvcResult;
 
+import java.util.List;
+import java.util.ArrayList;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
-import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.*;
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.delete;
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
@@ -48,7 +58,13 @@ public class PatientEndpointTest {
     @Autowired
     private DiagnosesRepository diagnosesRepository;
     @Autowired
+    private UserDataGenerator userDataGenerator;
+    @Autowired
     private ObjectMapper objectMapper;
+    @Autowired
+    private SecurityProperties securityProperties;
+    @Autowired
+    private JwtTokenizer jwtTokenizer;
 
     @BeforeEach
     public void beforeEach() {
@@ -128,10 +144,21 @@ public class PatientEndpointTest {
 
     @Test
     public void testCreatePatient() throws Exception {
+        Doctor doctor = (Doctor) userDataGenerator.generateUser(Role.DOCTOR);
+
+        List<String> doctorRoles = new ArrayList<>() {
+            {
+                add("ROLE_DOCTOR");
+                add("ROLE_USER");
+            }
+        };
+
+
         PatientDto patient = patientMapper.patientToPatientDto(patientDataGenerator.generatePatient());
         MvcResult mvcResult = this.mockMvc.perform(post(USER_BASE_URI)
                 .contentType(MediaType.APPLICATION_JSON)
-                .content(objectMapper.writeValueAsString(patient)))
+                .content(objectMapper.writeValueAsString(patient))
+                .header(securityProperties.getAuthHeader(), jwtTokenizer.getAuthToken(doctor.getId().toString(), doctorRoles)))
             .andDo(print())
             .andReturn();
         MockHttpServletResponse response = mvcResult.getResponse();

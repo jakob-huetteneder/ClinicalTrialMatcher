@@ -4,6 +4,7 @@ import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientRequestDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.TreatsDto;
 import at.ac.tuwien.sepm.groupphase.backend.security.AuthorizationService;
 import at.ac.tuwien.sepm.groupphase.backend.service.TreatsService;
+import org.springframework.data.repository.query.Param;
 import org.springframework.security.access.annotation.Secured;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -32,9 +33,9 @@ public class TreatsEndpoint {
 
     @Secured({"ROLE_DOCTOR", "ROLE_PATIENT"})
     @GetMapping("/requests")
-    public List<TreatsDto> getAllRequests() {
+    public List<TreatsDto> getAllRequests(@Param("search") String search) {
         long userId = authorizationService.getSessionUserId();
-        return treatsService.getAllRequests(userId);
+        return treatsService.getAllRequests(userId, search);
     }
 
     @Secured("ROLE_DOCTOR")

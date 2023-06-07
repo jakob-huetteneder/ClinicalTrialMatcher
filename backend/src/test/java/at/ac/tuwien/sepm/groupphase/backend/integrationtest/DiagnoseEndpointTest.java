@@ -152,7 +152,6 @@ public class DiagnoseEndpointTest {
     public void updateSpecificDiagnoseAsDoctor() throws Exception {
         Patient patient = patientDataGenerator.generatePatient();
         ApplicationUser doctor = userDataGenerator.generateUser(Role.DOCTOR);
-        doctor = userRepository.save(doctor);
         Diagnose diagnose = diagnosisDataGenerator.generateDiagnose();
         List<String> userRoles = new ArrayList<>() {
             {

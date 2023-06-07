@@ -9,6 +9,7 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Treats;
 import at.ac.tuwien.sepm.groupphase.backend.entity.TreatsId;
+import at.ac.tuwien.sepm.groupphase.backend.exception.NotFoundException;
 import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.TreatsRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
@@ -41,13 +42,17 @@ public class TreatsServiceImpl implements TreatsService {
     }
 
     @Override
-    public List<TreatsDto> getAllRequests(long userId) {
-        ApplicationUser user = userRepository.findById(userId).orElseThrow();
+    public List<TreatsDto> getAllRequests(long userId, String search) {
+        ApplicationUser user = userRepository.findById(userId).orElseThrow(() -> new NotFoundException("Logged in user does not exist"));
         Set<Treats> treats;
+        LOG.info("search={} userId={}", search, userId);
         if (user instanceof Doctor) {
-            treats = treatsRepository.findAllByDoctorId(userId);
+            treats = treatsRepository.findAllByDoctorId(userId, search);
         } else {
-            treats = treatsRepository.findAllByPatientId(userId);
+            LOG.info("User with id {} is not a doctor, searching for patient treats", userId);
+            treats = treatsRepository.findAllByPatientId(userId, search);
+            LOG.info("Found {} treats", treats.size());
+            LOG.info("Treats: {}", treatsMapper.treatsToTreatsDto(treats));
         }
 
         LOG.info("Found {} treating relationships", treats.size());
@@ -89,6 +94,15 @@ public class TreatsServiceImpl implements TreatsService {
             treats.setStatus(Treats.Status.DECLINED);
         }
         return treatsMapper.treatsToTreatsDto(treatsRepository.save(treats));
+    }
+
+    @Override
+    public void doctorTreatsPatient(Doctor doctor, Patient patient) {
+        Treats treats = new Treats();
+        treats.setDoctor(doctor);
+        treats.setPatient(patient);
+        treats.setStatus(Treats.Status.ACCEPTED);
+        treatsRepository.save(treats);
     }
 
     @Override

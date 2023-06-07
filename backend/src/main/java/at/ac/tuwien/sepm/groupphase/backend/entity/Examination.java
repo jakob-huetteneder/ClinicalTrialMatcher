@@ -12,6 +12,7 @@ import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
 import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
+import org.hibernate.annotations.OnDelete;
 
 import java.time.LocalDate;
 
@@ -28,6 +29,7 @@ public class Examination {
 
     @ManyToOne(fetch = FetchType.EAGER)
     @JoinColumn(name = "patient_id")
+    @OnDelete(action = org.hibernate.annotations.OnDeleteAction.CASCADE)
     private Patient patient;
 
     @Column(name = "name")

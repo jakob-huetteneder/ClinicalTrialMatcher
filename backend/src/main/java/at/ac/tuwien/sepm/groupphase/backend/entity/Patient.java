@@ -12,9 +12,10 @@ import jakarta.persistence.JoinColumn;
 import jakarta.persistence.OneToMany;
 import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
-import jakarta.validation.constraints.Email;
+import org.hibernate.annotations.OnDelete;
 
 import java.time.LocalDate;
+import java.util.HashSet;
 import java.util.Set;
 
 @Entity
@@ -27,6 +28,7 @@ public class Patient {
 
     @OneToOne(fetch = FetchType.EAGER)
     @JoinColumn(name = "user_id")
+    @OnDelete(action = org.hibernate.annotations.OnDeleteAction.CASCADE)
     private ApplicationUser applicationUser;
 
     @Column(name = "first_name", nullable = false)
@@ -51,14 +53,14 @@ public class Patient {
     @Column(name = "verification")
     private String verification;
 
-    @OneToMany(fetch = FetchType.EAGER, mappedBy = "patient")
-    private Set<Treats> treats;
+    @OneToMany(fetch = FetchType.EAGER, mappedBy = "patient", orphanRemoval = true)
+    private Set<Treats> treats = new HashSet<>();
 
-    @OneToMany(fetch = FetchType.EAGER, mappedBy = "patient")
-    private Set<Diagnose> diagnoses;
+    @OneToMany(fetch = FetchType.EAGER, mappedBy = "patient", orphanRemoval = true)
+    private Set<Diagnose> diagnoses = new HashSet<>();
 
-    @OneToMany(fetch = FetchType.EAGER, mappedBy = "patient")
-    private Set<Examination> examinations;
+    @OneToMany(fetch = FetchType.EAGER, mappedBy = "patient", orphanRemoval = true)
+    private Set<Examination> examinations = new HashSet<>();
 
     public Long getId() {
         return id;
@@ -138,7 +140,10 @@ public class Patient {
     }
 
     public Patient setTreats(Set<Treats> treats) {
-        this.treats = treats;
+        this.treats.clear();
+        if (treats != null) {
+            this.treats.addAll(treats);
+        }
         return this;
     }
 
@@ -148,7 +153,10 @@ public class Patient {
     }
 
     public Patient setDiagnoses(Set<Diagnose> diagnoses) {
-        this.diagnoses = diagnoses;
+        this.diagnoses.clear();
+        if (diagnoses != null) {
+            this.diagnoses.addAll(diagnoses);
+        }
         return this;
     }
 
@@ -158,7 +166,10 @@ public class Patient {
     }
 
     public Patient setExaminations(Set<Examination> examinations) {
-        this.examinations = examinations;
+        this.examinations.clear();
+        if (examinations != null) {
+            this.examinations.addAll(examinations);
+        }
         return this;
     }
 

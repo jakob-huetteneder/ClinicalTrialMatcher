@@ -1,6 +1,7 @@
 import {Component, OnInit} from '@angular/core';
 import {AuthService} from '../../services/auth.service';
-import {Role} from '../../dtos/role';
+import {getRoleString, Role} from '../../dtos/role';
+import {Router} from '@angular/router';
 
 @Component({
   selector: 'app-header',
