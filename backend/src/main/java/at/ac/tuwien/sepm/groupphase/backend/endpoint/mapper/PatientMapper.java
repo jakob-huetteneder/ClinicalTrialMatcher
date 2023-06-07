@@ -12,18 +12,22 @@ import java.util.Objects;
 @Component
 public class PatientMapper {
 
+    private final UserMapper userMapper;
     private final DiagnosisMapper diagnosisMapper;
     private final ExaminationMapper examinationMapper;
+    private final TreatsMapper treatsMapper;
 
-    public PatientMapper(DiagnosisMapper diagnosisMapper, ExaminationMapper examinationMapper) {
+    public PatientMapper(UserMapper userMapper, DiagnosisMapper diagnosisMapper, ExaminationMapper examinationMapper, TreatsMapper treatsMapper) {
+        this.userMapper = userMapper;
         this.diagnosisMapper = diagnosisMapper;
         this.examinationMapper = examinationMapper;
+        this.treatsMapper = treatsMapper;
     }
 
     public Patient patientDtoToPatient(PatientDto patientDto) {
         return new Patient()
             .setId(patientDto.id())
-            .setApplicationUser(patientDto.applicationUser())
+            .setApplicationUser(patientDto.applicationUser() != null ? userMapper.userDetailDtoToApplicationUser(patientDto.applicationUser()) : null)
             .setFirstName(patientDto.firstName())
             .setLastName(patientDto.lastName())
             .setEmail(patientDto.email())
@@ -38,7 +42,7 @@ public class PatientMapper {
 
     public PatientDto patientToPatientDto(Patient patient) {
         return new PatientDto(patient.getId(),
-            patient.getApplicationUser(),
+            patient.getApplicationUser() == null ? null : userMapper.applicationUserToUserDetailDto(patient.getApplicationUser()),
             patient.getFirstName(),
             patient.getLastName(),
             patient.getEmail(),
@@ -56,7 +60,7 @@ public class PatientMapper {
             patient.getLastName(),
             patient.getBirthdate(),
             patient.getGender(),
-            patient.getTreats().stream().filter(treats -> Objects.equals(treats.getDoctor().getId(), doctor.getId())).findFirst().orElse(null)
+            treatsMapper.treatsToTreatsDto(patient.getTreats().stream().filter(treats -> Objects.equals(treats.getDoctor().getId(), doctor.getId())).findFirst().orElse(null))
         );
     }
 }

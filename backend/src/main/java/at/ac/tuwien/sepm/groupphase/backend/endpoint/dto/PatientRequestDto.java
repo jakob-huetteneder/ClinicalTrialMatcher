@@ -1,6 +1,5 @@
 package at.ac.tuwien.sepm.groupphase.backend.endpoint.dto;
 
-import at.ac.tuwien.sepm.groupphase.backend.entity.Treats;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
 import jakarta.validation.constraints.NotNull;
 
@@ -16,7 +15,7 @@ public record PatientRequestDto(
     LocalDate birthdate,
     @NotNull(message = "Gender must not be null")
     Gender gender,
-    Treats treats
+    TreatsDto treats
 ) {
 
 }

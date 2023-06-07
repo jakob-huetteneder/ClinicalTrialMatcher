@@ -44,15 +44,17 @@ public class TreatsServiceImpl implements TreatsService {
     @Override
     public List<TreatsDto> getAllRequests(long userId, String search) {
         ApplicationUser user = userRepository.findById(userId).orElseThrow(() -> new NotFoundException("Logged in user does not exist"));
+
+        if (search == null) {
+            search = "";
+        }
+
         Set<Treats> treats;
-        LOG.info("search={} userId={}", search, userId);
         if (user instanceof Doctor) {
             treats = treatsRepository.findAllByDoctorId(userId, search);
         } else {
             LOG.info("User with id {} is not a doctor, searching for patient treats", userId);
             treats = treatsRepository.findAllByPatientId(userId, search);
-            LOG.info("Found {} treats", treats.size());
-            LOG.info("Treats: {}", treatsMapper.treatsToTreatsDto(treats));
         }
 
         LOG.info("Found {} treating relationships", treats.size());

@@ -100,6 +100,11 @@ public class PatientServiceImpl implements PatientService {
     @Override
     public List<PatientRequestDto> getAllPatientsForDoctorId(Long doctorId, String search) {
         LOG.trace("getAllPatientsForDoctorId({})", doctorId);
+
+        if (search == null) {
+            search = "";
+        }
+
         List<Patient> patients = patientRepository.findAllContaining(search);
         ApplicationUser user = userRepository.findById(doctorId).orElseThrow(NotFoundException::new);
         if (!(user instanceof Doctor doctor)) {

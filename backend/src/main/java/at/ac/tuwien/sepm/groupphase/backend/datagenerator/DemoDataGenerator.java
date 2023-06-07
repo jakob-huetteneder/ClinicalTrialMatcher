@@ -63,6 +63,9 @@ public class DemoDataGenerator {
     public void generateDoctorWithPatients() {
         Doctor doctor = (Doctor) userDataGenerator.generateUser(Role.DOCTOR);
         Patient patient = patientDataGenerator.generatePatientWithAccount();
-        treatsDataGenerator.generateTreatsBetween(patient, doctor, Treats.Status.REQUESTED);
+        treatsDataGenerator.generateTreatsBetween(patient, doctor, Treats.Status.ACCEPTED);
+        Patient patient2 = patientDataGenerator.generatePatientWithAccount();
+        treatsDataGenerator.generateTreatsBetween(patient2, doctor, Treats.Status.REQUESTED);
+        treatsDataGenerator.generateFor(patient, 10);
     }
 }

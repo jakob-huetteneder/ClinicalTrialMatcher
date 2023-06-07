@@ -1,6 +1,5 @@
 package at.ac.tuwien.sepm.groupphase.backend.endpoint.dto;
 
-import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
 import jakarta.validation.constraints.NotNull;
 
@@ -9,7 +8,7 @@ import java.util.Set;
 
 public record PatientDto(
     Long id,
-    ApplicationUser applicationUser,
+    UserDetailDto applicationUser,
     @NotNull(message = "First name must not be null")
     String firstName,
     @NotNull(message = "Last name must not be null")
