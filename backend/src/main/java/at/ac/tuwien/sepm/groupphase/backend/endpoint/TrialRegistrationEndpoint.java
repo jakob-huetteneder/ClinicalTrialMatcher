@@ -8,6 +8,8 @@ import org.springframework.security.access.annotation.Secured;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -47,5 +49,19 @@ public class TrialRegistrationEndpoint {
     public TrialRegistrationDto registerPatientForTrialAsDoctor(@PathVariable("trialId") Long trialId, @PathVariable("patientId") Long patientId) {
         LOG.info("Register for trial with id {}", trialId);
         return trialRegistrationService.requestRegistrationAsDoctor(patientId, trialId);
+    }
+
+    @Secured("ROLE_PATIENT")
+    @PutMapping(value = "/{trialId}/response")
+    public TrialRegistrationDto respondToRegistrationRequestProposal(@PathVariable("trialId") Long trialId, @RequestBody Boolean accepted) {
+        LOG.info("Respond to registration request for trial with id {}", trialId);
+        return trialRegistrationService.respondToRegistrationRequestProposal(trialId, accepted);
+    }
+
+    @Secured("ROLE_RESEARCHER")
+    @PutMapping(value = "/{trialId}/patient/{patientId}/response")
+    public TrialRegistrationDto respondToRegistrationRequest(@PathVariable("trialId") Long trialId, @PathVariable("patientId") Long patientId, @RequestBody Boolean accepted) {
+        LOG.info("Respond to registration request for trial with id {}", trialId);
+        return trialRegistrationService.respondToRegistrationRequest(patientId, trialId, accepted);
     }
 }

@@ -37,6 +37,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.put;
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
@@ -199,5 +200,143 @@ public class RegistrationEndpointTest {
         assertEquals(trial.getId(), trialRegistrationDto.trial().id());
         assertEquals(patient.getId(), trialRegistrationDto.patient().id());
         assertEquals(Registration.Status.PATIENT_ACCEPTED, trialRegistrationDto.status());
+    }
+
+    @Test
+    public void testPatientAcceptsProposedTrialFromDoctor() throws Exception {
+        Patient patient = patientDataGenerator.generatePatientWithAccount();
+        Trial trial = trialDataGenerator.generateTrial();
+        trialRegistrationDataGenerator.generateTrialRegistrationBetween(patient, trial, Registration.Status.PROPOSED);
+
+        List<String> patientRoles = new ArrayList<>() {
+            {
+                add("ROLE_PATIENT");
+                add("ROLE_USER");
+            }
+        };
+
+        MvcResult mvcResult = this.mockMvc.perform(put(TRIAL_REGISTRATION_BASE_URL + "/" + trial.getId().toString() + "/response")
+                .header(securityProperties.getAuthHeader(), jwtTokenizer.getAuthToken(patient.getApplicationUser().getId().toString(), patientRoles))
+                .contentType(MediaType.APPLICATION_JSON)
+                .content(objectMapper.writeValueAsString(true)))
+            .andDo(print())
+            .andReturn();
+        MockHttpServletResponse response = mvcResult.getResponse();
+
+        assertAll(
+            () -> assertEquals(HttpStatus.OK.value(), response.getStatus()),
+            () -> assertEquals(MediaType.APPLICATION_JSON_VALUE, response.getContentType())
+        );
+
+        TrialRegistrationDto trialRegistrationDto = objectMapper.readValue(response.getContentAsString(), TrialRegistrationDto.class);
+
+        assertNotNull(trialRegistrationDto);
+        assertEquals(trial.getId(), trialRegistrationDto.trial().id());
+        assertEquals(patient.getId(), trialRegistrationDto.patient().id());
+        assertEquals(Registration.Status.PATIENT_ACCEPTED, trialRegistrationDto.status());
+    }
+
+    @Test
+    public void testPatientDeclinesProposedTrialFromDoctor() throws Exception {
+        Patient patient = patientDataGenerator.generatePatientWithAccount();
+        Trial trial = trialDataGenerator.generateTrial();
+        trialRegistrationDataGenerator.generateTrialRegistrationBetween(patient, trial, Registration.Status.PROPOSED);
+
+        List<String> patientRoles = new ArrayList<>() {
+            {
+                add("ROLE_PATIENT");
+                add("ROLE_USER");
+            }
+        };
+
+        MvcResult mvcResult = this.mockMvc.perform(put(TRIAL_REGISTRATION_BASE_URL + "/" + trial.getId().toString() + "/response")
+                .header(securityProperties.getAuthHeader(), jwtTokenizer.getAuthToken(patient.getApplicationUser().getId().toString(), patientRoles))
+                .contentType(MediaType.APPLICATION_JSON)
+                .content(objectMapper.writeValueAsString(false)))
+            .andDo(print())
+            .andReturn();
+        MockHttpServletResponse response = mvcResult.getResponse();
+
+        assertAll(
+            () -> assertEquals(HttpStatus.OK.value(), response.getStatus()),
+            () -> assertEquals(MediaType.APPLICATION_JSON_VALUE, response.getContentType())
+        );
+
+        TrialRegistrationDto trialRegistrationDto = objectMapper.readValue(response.getContentAsString(), TrialRegistrationDto.class);
+
+        assertNotNull(trialRegistrationDto);
+        assertEquals(trial.getId(), trialRegistrationDto.trial().id());
+        assertEquals(patient.getId(), trialRegistrationDto.patient().id());
+        assertEquals(Registration.Status.DECLINED, trialRegistrationDto.status());
+    }
+
+    @Test
+    public void testResearcherAcceptsPatientForTrial() throws Exception {
+        Researcher researcher = (Researcher) userDataGenerator.generateUser(Role.RESEARCHER);
+        Patient patient = patientDataGenerator.generatePatientWithAccount();
+        Trial trial = trialDataGenerator.generateTrial();
+        trialRegistrationDataGenerator.generateTrialRegistrationBetween(patient, trial, Registration.Status.PATIENT_ACCEPTED);
+
+        List<String> researcherRoles = new ArrayList<>() {
+            {
+                add("ROLE_RESEARCHER");
+                add("ROLE_USER");
+            }
+        };
+
+        MvcResult mvcResult = this.mockMvc.perform(put(TRIAL_REGISTRATION_BASE_URL + "/" + trial.getId().toString() + "/patient/" + patient.getId().toString() + "/response")
+                .header(securityProperties.getAuthHeader(), jwtTokenizer.getAuthToken(researcher.getId().toString(), researcherRoles))
+                .contentType(MediaType.APPLICATION_JSON)
+                .content(objectMapper.writeValueAsString(true)))
+            .andDo(print())
+            .andReturn();
+        MockHttpServletResponse response = mvcResult.getResponse();
+
+        assertAll(
+            () -> assertEquals(HttpStatus.OK.value(), response.getStatus()),
+            () -> assertEquals(MediaType.APPLICATION_JSON_VALUE, response.getContentType())
+        );
+
+        TrialRegistrationDto trialRegistrationDto = objectMapper.readValue(response.getContentAsString(), TrialRegistrationDto.class);
+
+        assertNotNull(trialRegistrationDto);
+        assertEquals(trial.getId(), trialRegistrationDto.trial().id());
+        assertEquals(patient.getId(), trialRegistrationDto.patient().id());
+        assertEquals(Registration.Status.ACCEPTED, trialRegistrationDto.status());
+    }
+
+    @Test
+    public void testResearcherDeclinesPatientForTrial() throws Exception {
+        Researcher researcher = (Researcher) userDataGenerator.generateUser(Role.RESEARCHER);
+        Patient patient = patientDataGenerator.generatePatientWithAccount();
+        Trial trial = trialDataGenerator.generateTrial();
+        trialRegistrationDataGenerator.generateTrialRegistrationBetween(patient, trial, Registration.Status.PATIENT_ACCEPTED);
+
+        List<String> researcherRoles = new ArrayList<>() {
+            {
+                add("ROLE_RESEARCHER");
+                add("ROLE_USER");
+            }
+        };
+
+        MvcResult mvcResult = this.mockMvc.perform(put(TRIAL_REGISTRATION_BASE_URL + "/" + trial.getId().toString() + "/patient/" + patient.getId().toString() + "/response")
+                .header(securityProperties.getAuthHeader(), jwtTokenizer.getAuthToken(researcher.getId().toString(), researcherRoles))
+                .contentType(MediaType.APPLICATION_JSON)
+                .content(objectMapper.writeValueAsString(false)))
+            .andDo(print())
+            .andReturn();
+        MockHttpServletResponse response = mvcResult.getResponse();
+
+        assertAll(
+            () -> assertEquals(HttpStatus.OK.value(), response.getStatus()),
+            () -> assertEquals(MediaType.APPLICATION_JSON_VALUE, response.getContentType())
+        );
+
+        TrialRegistrationDto trialRegistrationDto = objectMapper.readValue(response.getContentAsString(), TrialRegistrationDto.class);
+
+        assertNotNull(trialRegistrationDto);
+        assertEquals(trial.getId(), trialRegistrationDto.trial().id());
+        assertEquals(patient.getId(), trialRegistrationDto.patient().id());
+        assertEquals(Registration.Status.DECLINED, trialRegistrationDto.status());
     }
 }
