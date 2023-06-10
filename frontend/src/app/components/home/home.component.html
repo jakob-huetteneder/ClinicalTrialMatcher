@@ -15,7 +15,7 @@
       <div class="w-full" style="align-items: center; max-width: 321px !important;">
         <button class="bi-x-lg mr-4" style="color:#1e5075" onclick="q.value = '';"></button>
         <button class="flex-initial bg-blue-300 rounded w-35 py-2 px-4 text-blue-900 font-semibold border-blue-950 drop-shadow-sm ml-2 text-sm"
-                onclick="window.location.href=`/#/?q=${q.value}`" routerLinkActive="active">Search
+                [routerLink]="['search']">Search
         </button>
         <button class="flex-initial bg-blue-50 rounded w-35 py-2 px-4 text-blue-900 font-semibold border-blue-950 drop-shadow-sm ml-2 text-sm"
                 routerLink="/" routerLinkActive="active">Advanced Filters <i class="bi-chevron-right"></i>

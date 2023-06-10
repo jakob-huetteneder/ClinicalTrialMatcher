@@ -15,7 +15,7 @@ import java.util.Set;
 
 @Entity
 @Table(name = "shared_list")
-public class SharedList extends List {
+public class SharedList {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

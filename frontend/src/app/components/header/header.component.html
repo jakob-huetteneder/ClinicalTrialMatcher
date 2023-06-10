@@ -143,6 +143,36 @@
       </a>
     </div>
 
+    <!-- TRIAL LIST FUNCTIONS -->
+    <div class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
+      <a class="group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row">
+        <div class="text-in-button mt-1">View Trial Lists</div>
+        <i class="bi-chevron-down w-4 text-blue-950"></i>
+        <div
+          class="absolute z-[1000] mt-4 hidden list-none overflow-hidden rounded-lg bg-white opacity-85 backdrop-blur-md shadow-md group-hover:block right-0">
+          <ul class="w-auto px-2 py-2 mb-0">
+            <form [formGroup]="trialListForm" class="container">
+              <input class="flex items-center h-8 px-3 text-sm border-b border-black hover:bg-gray-200 focus:outline-none" formControlName="name" name="" id="" placeholder="Insert name for new List">
+            </form>
+            <li>
+              <a
+                class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
+                (click)="createTrialList()"
+              >+ Create new Trial List</a
+              >
+              <hr
+                class="my-1 h-0 border border-t-0 border-solid border-blue-950 opacity-50"/>
+            </li>
+            <li *ngFor="let trialList of allLists">
+              <a
+                class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
+                routerLink="/researcher/trials/create"
+              >{{trialList.name}}</a
+              >
+          </ul>
+        </div>
+      </a>
+    </div>
 
     <!-- RESEARCHER FUNCTIONS -->
     <div *ngIf="authService.getUserRole() === role.researcher" class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">

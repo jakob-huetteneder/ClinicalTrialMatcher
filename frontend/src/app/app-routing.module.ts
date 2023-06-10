@@ -29,9 +29,11 @@ import {
   ViewConnectionsComponent
 } from './components/doctor-patient-connection/view-connections/view-connections.component';
 import {ViewRequestsComponent} from './components/doctor-patient-connection/view-requests/view-requests.component';
+import {SearchComponent} from './components/search/search.component';
 
 const routes: Routes = [
   {path: '', component: HomeComponent},
+  {path: 'search', component: SearchComponent},
   {path: 'account', children: [
       {path: '', component: UpdateProfileComponent},
       {path: 'login', component: LoginComponent},
