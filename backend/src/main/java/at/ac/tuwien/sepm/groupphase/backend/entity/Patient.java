@@ -13,7 +13,10 @@ import jakarta.persistence.OneToMany;
 import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
 import org.hibernate.annotations.OnDelete;
+import org.springframework.data.elasticsearch.annotations.DateFormat;
 import org.springframework.data.elasticsearch.annotations.Document;
+import org.springframework.data.elasticsearch.annotations.Field;
+import org.springframework.data.elasticsearch.annotations.FieldType;
 
 import java.time.LocalDate;
 import java.util.HashSet;
@@ -47,6 +50,7 @@ public class Patient {
     private String admissionNote;
 
     @Column(name = "birthdate", nullable = false)
+    @Field(type = FieldType.Date, format = DateFormat.custom, pattern = "uuuu-MM-dd")
     private LocalDate birthdate;
 
     @Column(name = "gender", nullable = false)

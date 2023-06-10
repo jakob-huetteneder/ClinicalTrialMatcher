@@ -18,7 +18,7 @@ public interface PatientSearchRepository extends ElasticsearchRepository<Patient
     //    "]}}")
     //@Query("{\"bool\": {\"must\": [{\"match\": {\"patient.admissionNote\": ?0}}]}}")
     @Query("{\"match_all\": {}}")
-    Stream<String> matchPatientsWithTrial(List<String> inclusion, List<String> exclusion, Pageable pageable);
+    List<Patient> matchPatientsWithTrial(List<String> inclusion, List<String> exclusion, Pageable pageable);
 
     //@Query("{\"bool\": {\"must\": [{\"match\": {\"authors.name\": \"?0\"}}]}}")
     //Page<Article> findByAuthorsNameUsingCustomQuery(String name, Pageable pageable);

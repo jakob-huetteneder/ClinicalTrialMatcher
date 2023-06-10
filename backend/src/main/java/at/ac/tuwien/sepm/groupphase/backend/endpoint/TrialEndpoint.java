@@ -1,5 +1,6 @@
 package at.ac.tuwien.sepm.groupphase.backend.endpoint;
 
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.TrialDto;
 import at.ac.tuwien.sepm.groupphase.backend.service.impl.PatientServiceImpl;
 import at.ac.tuwien.sepm.groupphase.backend.service.impl.TrialServiceImpl;
@@ -58,11 +59,10 @@ public class TrialEndpoint {
     @PermitAll
     @ResponseStatus(HttpStatus.OK)
     @GetMapping(value = "/match/{id}")
-    public List<String> matchByTrialId(@PathVariable("id") Long id) {
+    public List<PatientDto> matchByTrialId(@PathVariable("id") Long id) {
         LOG.info("Match trial with id {}", id);
         TrialDto trial = trialService.findTrialById(id);
-        Stream<String> stream = patientService.matchPatientsWithTrial(trial.inclusionCriteria(), trial.exclusionCriteria());
-        return stream != null ? stream.toList() : null;
+        return patientService.matchPatientsWithTrial(trial.inclusionCriteria(), trial.exclusionCriteria());
     }
 
     @Secured("ROLE_RESEARCHER")

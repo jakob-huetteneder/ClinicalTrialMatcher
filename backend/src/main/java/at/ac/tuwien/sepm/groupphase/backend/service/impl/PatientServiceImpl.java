@@ -60,16 +60,16 @@ public class PatientServiceImpl implements PatientService {
     }
 
     @Override
-    public Stream<String> matchPatientsWithTrial(List<String> inclusion, List<String> exclusion) {
+    public List<PatientDto> matchPatientsWithTrial(List<String> inclusion, List<String> exclusion) {
         LOG.info("Inclusion:");
         inclusion.forEach(LOG::info);
         LOG.info("Exclusion:");
         exclusion.forEach(LOG::info);
-        Stream<String> patientStream = patientSearchRepository.matchPatientsWithTrial(inclusion, exclusion, PageRequest.of(0, 10));
-        //if(patientStream != null)
-        return patientStream;
+        Stream<Patient> patientStream = patientSearchRepository.matchPatientsWithTrial(inclusion, exclusion, PageRequest.of(0, 10)).stream();
+        if(patientStream != null)
+            return patientStream.map(patientMapper::patientToPatientDto).toList();
         //return patientStream.map(patientMapper::patientToPatientDto);
-        //return null;
+        return null;
     }
 
     @Override
