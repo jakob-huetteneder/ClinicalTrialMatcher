@@ -1,6 +1,7 @@
 package at.ac.tuwien.sepm.groupphase.backend.endpoint;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.TrialDto;
+import at.ac.tuwien.sepm.groupphase.backend.service.impl.PatientServiceImpl;
 import at.ac.tuwien.sepm.groupphase.backend.service.impl.TrialServiceImpl;
 import jakarta.annotation.security.PermitAll;
 import jakarta.validation.Valid;
@@ -20,6 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.lang.invoke.MethodHandles;
 import java.util.List;
+import java.util.stream.Stream;
 
 @RestController
 @RequestMapping(path = TrialEndpoint.BASE_PATH)
@@ -27,9 +29,12 @@ public class TrialEndpoint {
     private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
     static final String BASE_PATH = "/api/v1/trials";
     private final TrialServiceImpl trialService;
+    private final PatientServiceImpl patientService;
 
-    public TrialEndpoint(TrialServiceImpl trialService) {
+    public TrialEndpoint(TrialServiceImpl trialService, PatientServiceImpl patientService
+    ) {
         this.trialService = trialService;
+        this.patientService = patientService;
     }
 
     @Secured("ROLE_RESEARCHER")
@@ -48,6 +53,16 @@ public class TrialEndpoint {
     public TrialDto findTrialById(@PathVariable("id") Long id) {
         LOG.info("Get trial with id {}", id);
         return trialService.findTrialById(id);
+    }
+
+    @PermitAll
+    @ResponseStatus(HttpStatus.OK)
+    @GetMapping(value = "/match/{id}")
+    public List<String> matchByTrialId(@PathVariable("id") Long id) {
+        LOG.info("Match trial with id {}", id);
+        TrialDto trial = trialService.findTrialById(id);
+        Stream<String> stream = patientService.matchPatientsWithTrial(trial.inclusionCriteria(), trial.exclusionCriteria());
+        return stream != null ? stream.toList() : null;
     }
 
     @Secured("ROLE_RESEARCHER")

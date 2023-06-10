@@ -13,6 +13,7 @@ import jakarta.persistence.OneToMany;
 import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
 import org.hibernate.annotations.OnDelete;
+import org.springframework.data.elasticsearch.annotations.Document;
 
 import java.time.LocalDate;
 import java.util.HashSet;
@@ -20,6 +21,7 @@ import java.util.Set;
 
 @Entity
 @Table(name = "patient")
+@Document(indexName = "patients")
 public class Patient {
 
     @Id

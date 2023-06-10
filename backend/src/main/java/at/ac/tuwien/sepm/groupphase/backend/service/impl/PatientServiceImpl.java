@@ -1,6 +1,7 @@
 package at.ac.tuwien.sepm.groupphase.backend.service.impl;
 
 
+import at.ac.tuwien.sepm.groupphase.backend.elasticrepository.PatientSearchRepository;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.DiagnoseDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.ExaminationDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientDto;
@@ -20,11 +21,14 @@ import at.ac.tuwien.sepm.groupphase.backend.service.TreatsService;
 import jakarta.transaction.Transactional;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.data.domain.PageRequest;
+import org.springframework.data.elasticsearch.core.ElasticsearchOperations;
 import org.springframework.stereotype.Service;
 
 import java.lang.invoke.MethodHandles;
 import java.util.List;
 import java.util.Optional;
+import java.util.stream.Stream;
 
 @Service
 public class PatientServiceImpl implements PatientService {
@@ -37,10 +41,13 @@ public class PatientServiceImpl implements PatientService {
     private final ExaminationService examinationService;
     private final TreatsService treatsService;
     private final AuthorizationService authorizationService;
+    private final PatientSearchRepository patientSearchRepository;
+    private final ElasticsearchOperations elasticsearchOperations;
 
     public PatientServiceImpl(PatientRepository patientRepository, PatientMapper patientMapper, UserRepository userRepository,
                               DiagnoseService diagnoseService, ExaminationService examinationService, TreatsService treatsService,
-                              AuthorizationService authorizationService) {
+                              AuthorizationService authorizationService, PatientSearchRepository patientSearchRepository,
+                              ElasticsearchOperations elasticsearchOperations) {
         this.patientRepository = patientRepository;
         this.patientMapper = patientMapper;
         this.userRepository = userRepository;
@@ -48,8 +55,22 @@ public class PatientServiceImpl implements PatientService {
         this.examinationService = examinationService;
         this.treatsService = treatsService;
         this.authorizationService = authorizationService;
+        this.elasticsearchOperations = elasticsearchOperations;
+        this.patientSearchRepository = patientSearchRepository;
     }
 
+    @Override
+    public Stream<String> matchPatientsWithTrial(List<String> inclusion, List<String> exclusion) {
+        LOG.info("Inclusion:");
+        inclusion.forEach(LOG::info);
+        LOG.info("Exclusion:");
+        exclusion.forEach(LOG::info);
+        Stream<String> patientStream = patientSearchRepository.matchPatientsWithTrial(inclusion, exclusion, PageRequest.of(0, 10));
+        //if(patientStream != null)
+        return patientStream;
+        //return patientStream.map(patientMapper::patientToPatientDto);
+        //return null;
+    }
 
     @Override
     @Transactional
@@ -62,6 +83,7 @@ public class PatientServiceImpl implements PatientService {
 
         Patient convertedPatient = patientMapper.patientDtoToPatient(patient);
         convertedPatient = patientRepository.save(convertedPatient);
+        elasticsearchOperations.save(convertedPatient);
 
         if (patient.diagnoses() != null) {
             for (DiagnoseDto diagnose : patient.diagnoses()) {
@@ -116,7 +138,7 @@ public class PatientServiceImpl implements PatientService {
     @Override
     @Transactional
     public PatientDto deleteById(long id) {
-        LOG.trace("deleteById({})", id);
+        LOG.trace("deleteById({})", id); //TODO delete patient in elastic repo
         Optional<Patient> patient = patientRepository.findById(id);
         if (patient.isEmpty()) {
             //404 NOT FOUND
