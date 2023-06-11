@@ -10,12 +10,18 @@ import java.util.List;
 @Component
 public class TrialListMapper {
 
+    private final TrialMapper trialMapper;
+
+    public TrialListMapper(TrialMapper trialMapper) {
+        this.trialMapper = trialMapper;
+    }
+
     public TrialListDto trialListToTrialListDto(TrialList triallist) {
         TrialListDto trialListDto = new TrialListDto();
         trialListDto.setId(triallist.getId());
         trialListDto.setName(triallist.getName());
         trialListDto.setUser(triallist.getUser());
-        trialListDto.setTrial(triallist.getTrial());
+        trialListDto.setTrial(trialMapper.trialToTrialDto(triallist.getTrial()));
         return trialListDto;
     }
 
@@ -24,7 +30,7 @@ public class TrialListMapper {
         trialList.setId(trialListDto.getId());
         trialList.setName(trialListDto.getName());
         trialList.setUser(trialListDto.getUser());
-        trialList.setTrial(trialListDto.getTrial());
+        trialList.setTrial(trialMapper.trialDtosToTrials(trialListDto.getTrial()));
         return trialList;
     }
 

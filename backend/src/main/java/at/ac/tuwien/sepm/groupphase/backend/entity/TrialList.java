@@ -12,7 +12,6 @@ import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
 
 import java.util.List;
-import java.util.Set;
 
 @Entity
 @Table(name = "triallist")
@@ -44,6 +43,10 @@ public class TrialList {
         return this;
     }
 
+    public void addTrial(Trial trial) {
+        this.trial.add(trial);
+    }
+
     public ApplicationUser getUser() {
         return user;
     }
@@ -56,8 +59,9 @@ public class TrialList {
         return trial;
     }
 
-    public void setTrial(List<Trial> trial) {
+    public TrialList setTrial(List<Trial> trial) {
         this.trial = trial;
+        return this;
     }
 
     public String getName() {

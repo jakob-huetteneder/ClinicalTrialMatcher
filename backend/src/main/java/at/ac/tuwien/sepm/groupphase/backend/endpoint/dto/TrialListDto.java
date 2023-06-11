@@ -10,7 +10,7 @@ public class TrialListDto {
     private Long id;
     private String name;
     private ApplicationUser user;
-    private List<Trial> trial;
+    private List<TrialDto> trial;
 
     public Long getId() {
         return id;
@@ -29,11 +29,11 @@ public class TrialListDto {
         this.user = user;
     }
 
-    public List<Trial> getTrial() {
+    public List<TrialDto> getTrial() {
         return trial;
     }
 
-    public void setTrial(List<Trial> trial) {
+    public void setTrial(List<TrialDto> trial) {
         this.trial = trial;
     }
 

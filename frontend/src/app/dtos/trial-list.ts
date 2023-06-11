@@ -5,5 +5,5 @@ export interface TrialList {
   id?: number;
   name: string;
   user: User;
-  trials: Trial[];
+  trial: Trial[];
 }

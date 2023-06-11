@@ -46,4 +46,18 @@ export class SearchComponent implements OnInit {
       }
     });
   }
+
+  addTrialToList(trial: Trial, list: TrialList) {
+    console.log('addTrialToList', trial, list);
+    this.trialListService.addTrialToList(trial, list).subscribe({
+      next: data => {
+        this.notification.success('Successfully added trial to ' + list.name, 'Success');
+        this.reload();
+      },
+      error: error => {
+        console.error('Error adding trial to list', error);
+        this.notification.error(error.error.message, 'Error adding trial to list');
+      }
+    });
+  }
 }

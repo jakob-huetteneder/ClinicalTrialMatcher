@@ -40,4 +40,28 @@ export class TrialListService {
     );
   }
 
+  addTrialToList(trial: Trial, list: TrialList): Observable<TrialList> {
+    return this.http.put<TrialList>(
+      baseUri + '/' + list.id,
+      trial
+    );
+  }
+
+  deleteTrialList(list: TrialList): Observable<TrialList> {
+    return this.http.delete<TrialList>(
+      baseUri + '/' + list.id
+    );
+  }
+
+  getTrialListById(id: number): Observable<TrialList> {
+    return this.http.get<TrialList>(
+      baseUri + '/' + id
+    );
+  }
+
+  // delete trial from trial list with update:
+  deleteTrialFromList(trialId: number, list: TrialList): Observable<TrialList> {
+    return this.http.put<TrialList>(
+      baseUri + '/' + trialId + '/' + list.id, list);
+  }
 }

@@ -29,7 +29,7 @@ export class HeaderComponent implements OnInit {
       role: null,
       email: '',
     },
-    trials: [],
+    trial: [],
   };
   collapsed1 = false;
 
@@ -73,6 +73,7 @@ export class HeaderComponent implements OnInit {
         console.log('allLists: ', this.allLists);
       }
     });
+    this.trialListForm.get('name').setValue('');
   }
 
   logout() {
@@ -94,4 +95,17 @@ export class HeaderComponent implements OnInit {
     });
   }
 
+  deleteTrialList(trialList: TrialList) {
+    console.log('deleteTrialList', trialList);
+    this.trialListService.deleteTrialList(trialList).subscribe({
+      next: data => {
+        this.reload();
+        this.notification.success(`Trial List ${trialList.name} successfully deleted.`);
+      },
+      error: error => {
+        console.error('error deleting Trial List', error);
+        this.notification.error(error.error.message, error.error.errors);
+      }
+    });
+  }
 }

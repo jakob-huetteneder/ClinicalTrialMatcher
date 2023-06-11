@@ -64,7 +64,7 @@
                 <li *ngFor="let trialList of allLists">
                   <a
                     class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
-                    routerLink="/researcher/trials/create"
+                    (click)="addTrialToList(trial, trialList)"
                   >{{trialList.name}}</a
                   >
               </ul>

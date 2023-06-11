@@ -14,4 +14,7 @@ public interface TrialMapper {
     TrialDto trialToTrialDto(Trial trial);
 
     Trial trialDtoToTrial(TrialDto trialDto);
+
+    List<Trial> trialDtosToTrials(List<TrialDto> trials);
+
 }

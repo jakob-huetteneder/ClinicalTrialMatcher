@@ -1,0 +1,73 @@
+<div class="whitebox flex justify-center container mt-5 text-blue-950 relative">
+  <div class="fw-bold grid grid-cols-1 justify-items-center container mt-3 ml-3">
+    <div class="text-lg">{{trialList.name}}</div>
+  </div>
+
+  <hr class="container">
+
+  <div class="flex flex-col divide-y-[3px] w-[96%] mx-auto divide-[#CDE2F0]/[0.25]">
+    <div *ngIf="trialList.trial">
+      <div *ngFor="let trial of trialList.trial" class="py-2">
+
+        <div class="container grid grid-cols-2 align-items-center">
+          <div class="flex flex-row align-items-center">
+            <div class="flex flex-col">
+              <div class="fw-bold text-cool-blue-500">{{trial.title}}</div>
+            </div>
+            <div class="flex flex-col">
+              <div class="text-sm font-semibold text-cool-blue-500 ml-4"><i
+                class="bi bi-geo-alt-fill mr-1"></i>{{trial.location}}</div>
+            </div>
+          </div>
+
+          <div class="flex flex-row dateloc">
+            <div class="text-sm font-semibold text-cool-blue-500">
+              <i class="bi bi-calendar-week mr-2"></i>
+              {{trial.startDate}} - {{trial.endDate}}
+            </div>
+          </div>
+
+        </div>
+
+        <div class="container">
+          <div class="flex flex-row">
+            <div class="font-semibold mr-3">Details:</div>
+            <div>{{trial.briefSummary}}</div>
+          </div>
+        </div>
+
+        <div class="container grid grid-cols-2 align-items-center">
+          <div class="flex flex-row">
+
+            <div class="flex flex-col">
+              <div class="flex flex-row">
+                <div class="font-semibold mr-3">
+                  Requirements:
+                </div>
+                <div>Age: {{trial.crMinAge}} - {{trial.crMaxAge}}, Gender: {{trial.crGender}}</div>
+              </div>
+              <div class="flex flex-row">
+                <div class="font-semibold mr-3">
+                  Status:
+                </div>
+                <div>{{trial.status}}</div>
+              </div>
+            </div>
+          </div>
+          <!-- Deleting from list -->
+          <div class="flex flex-row dateloc">
+            <app-confirm-button (confirm)="deleteTrialFromList(trial.id)" details="Trial will be deleted from your list.">
+              <button class="btn btn-sm rounded border-danger">
+                <i class="bi bi-trash text-red-500"></i>
+              </button>
+            </app-confirm-button>
+          </div>
+
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+</div>

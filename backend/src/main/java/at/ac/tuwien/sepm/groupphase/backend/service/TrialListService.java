@@ -12,5 +12,14 @@ public interface TrialListService {
 
     TrialListDto saveTrialList(TrialListDto trialListDto);
 
+    TrialListDto addTrialToTrialList(Long id, TrialDto trial);
+
+    void deleteTrialList(Long id);
+
+    TrialListDto getTrialListById(Long id);
+
+    TrialListDto deleteTrialFromTrialList(Long trialId, Long listId);
+
+
 
 }

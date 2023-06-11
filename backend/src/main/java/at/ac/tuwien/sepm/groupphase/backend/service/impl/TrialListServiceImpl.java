@@ -26,7 +26,8 @@ public class TrialListServiceImpl implements TrialListService {
 
     private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
     private final TrialListRepository trialListRepository;
-
+    private final TrialRepository trialRepository;
+    private final TrialMapper trialMapper;
     private final TrialListMapper trialListMapper;
     private final AuthorizationService authorizationService;
     private final UserRepository userRepository;
@@ -34,11 +35,14 @@ public class TrialListServiceImpl implements TrialListService {
 
 
     public TrialListServiceImpl(AuthorizationService authorizationService, TrialListRepository trialListRepository,
-                                TrialListMapper trialListMapper, UserRepository userRepository) {
+                                TrialListMapper trialListMapper, UserRepository userRepository, TrialMapper trialMapper,
+                                TrialRepository trialRepository) {
         this.authorizationService = authorizationService;
         this.trialListRepository = trialListRepository;
         this.trialListMapper = trialListMapper;
         this.userRepository = userRepository;
+        this.trialMapper = trialMapper;
+        this.trialRepository = trialRepository;
     }
 
 
@@ -63,4 +67,44 @@ public class TrialListServiceImpl implements TrialListService {
         return trialListMapper.trialListToTrialListDto(savedTrialList);
     }
 
+    @Override
+    public TrialListDto addTrialToTrialList(Long id, TrialDto trial) {
+        LOG.trace("addTrialToTrialList()");
+        TrialList trialList = trialListRepository.findById(id)
+            .orElseThrow(() -> new NotFoundException("Could not find a trial list with the id " + id + "."));
+        Trial convertedTrial = trialMapper.trialDtoToTrial(trial);
+        trialList.addTrial(convertedTrial);
+        TrialList savedTrialList = trialListRepository.save(trialList);
+        LOG.info("Added trial to trial list");
+        return trialListMapper.trialListToTrialListDto(savedTrialList);
+    }
+
+    @Override
+    public void deleteTrialList(Long id) {
+        LOG.trace("deleteTrialList()");
+        TrialList trialList = trialListRepository.findById(id)
+            .orElseThrow(() -> new NotFoundException("Could not find a trial list with the id " + id + "."));
+        trialListRepository.delete(trialList);
+        LOG.info("Deleted trial list " +  trialList.getName());
+    }
+
+    @Override
+    public TrialListDto getTrialListById(Long id) {
+        LOG.trace("getTrialListById()");
+        TrialList trialList = trialListRepository.findById(id)
+            .orElseThrow(() -> new NotFoundException("Could not find a trial list with the id " + id + "."));
+        LOG.info("Found trial list " +  trialList.getName());
+        return trialListMapper.trialListToTrialListDto(trialList);
+    }
+
+    @Override
+    public TrialListDto deleteTrialFromTrialList(Long trialId, Long listId) {
+        LOG.trace("deleteTrialFromTrialList()");
+        TrialList deleteTrial = trialListRepository.findById(listId)
+            .orElseThrow(() -> new NotFoundException("Could not find a trial with the id " + trialId + "."));
+        deleteTrial.getTrial().removeIf(trial -> trial.getId().equals(trialId));
+        TrialList savedTrialList = trialListRepository.save(deleteTrial);
+        LOG.info("Deleted trial from trial list");
+        return trialListMapper.trialListToTrialListDto(savedTrialList);
+    }
 }

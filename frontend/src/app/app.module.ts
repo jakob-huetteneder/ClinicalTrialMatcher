@@ -37,6 +37,7 @@ import {RequestPatientComponent} from './components/doctor-patient-connection/re
 import {ViewRequestsComponent} from './components/doctor-patient-connection/view-requests/view-requests.component';
 import {ViewConnectionsComponent} from './components/doctor-patient-connection/view-connections/view-connections.component';
 import {SearchComponent} from './components/search/search.component';
+import {TrialListComponent} from './components/trial/trial-list/trial-list.component';
 
 @NgModule({
   declarations: [
@@ -64,7 +65,8 @@ import {SearchComponent} from './components/search/search.component';
     RequestPatientComponent,
     ViewRequestsComponent,
     ViewConnectionsComponent,
-    SearchComponent
+    SearchComponent,
+    TrialListComponent
   ],
   imports: [
     BrowserModule,
