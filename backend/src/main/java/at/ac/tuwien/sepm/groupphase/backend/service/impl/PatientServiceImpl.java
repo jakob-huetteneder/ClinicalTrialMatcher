@@ -66,8 +66,9 @@ public class PatientServiceImpl implements PatientService {
         LOG.info("Exclusion:");
         exclusion.forEach(LOG::info);
         Stream<Patient> patientStream = patientSearchRepository.matchPatientsWithTrial(inclusion, exclusion, PageRequest.of(0, 10)).stream();
-        if(patientStream != null)
+        if (patientStream != null) {
             return patientStream.map(patientMapper::patientToPatientDto).toList();
+        }
         //return patientStream.map(patientMapper::patientToPatientDto);
         return null;
     }
@@ -83,7 +84,6 @@ public class PatientServiceImpl implements PatientService {
 
         Patient convertedPatient = patientMapper.patientDtoToPatient(patient);
         convertedPatient = patientRepository.save(convertedPatient);
-        elasticsearchOperations.save(convertedPatient);
 
         if (patient.diagnoses() != null) {
             for (DiagnoseDto diagnose : patient.diagnoses()) {
@@ -102,6 +102,9 @@ public class PatientServiceImpl implements PatientService {
 
         treatsService.doctorTreatsPatient(doctor, convertedPatient);
         LOG.info("Saved patient with id='{}'", convertedPatient.getId());
+        patient.examinations().forEach(i -> LOG.info(i.toString()));
+        convertedPatient.getExaminations().forEach(i -> LOG.info(i.toString()));
+        elasticsearchOperations.save(convertedPatient);
         return patientMapper.patientToPatientDto(convertedPatient);
     }
 

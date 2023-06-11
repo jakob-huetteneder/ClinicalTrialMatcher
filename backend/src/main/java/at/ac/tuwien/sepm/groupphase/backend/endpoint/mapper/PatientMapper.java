@@ -35,8 +35,8 @@ public class PatientMapper {
             .setBirthdate(patientDto.birthdate())
             .setGender(patientDto.gender())
             .setTreats(null)
-            .setDiagnoses(patientDto.id() != null ? diagnosisMapper.diagnosisDtoToDiagnosis(patientDto.diagnoses(), patientDto.id()) : new HashSet<>())
-            .setExaminations(patientDto.id() != null ? examinationMapper.examinationDtoToExamination(patientDto.examinations(), patientDto.id()) : new HashSet<>());
+            .setDiagnoses(patientDto.diagnoses() != null ? diagnosisMapper.diagnosisDtoToDiagnosis(patientDto.diagnoses(), patientDto.id()) : new HashSet<>())
+            .setExaminations(patientDto.examinations() != null ? examinationMapper.examinationDtoToExamination(patientDto.examinations(), patientDto.id()) : new HashSet<>());
     }
 
 

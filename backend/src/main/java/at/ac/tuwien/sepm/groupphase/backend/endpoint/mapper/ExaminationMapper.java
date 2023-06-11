@@ -17,18 +17,18 @@ public class ExaminationMapper {
         this.patientRepository = patientRepository;
     }
 
-    public Examination examinationDtoToExamination(ExaminationDto examinationDto, long patientId) {
-        Optional<Patient> patient = patientRepository.findById(patientId);
+    public Examination examinationDtoToExamination(ExaminationDto examinationDto, Long patientId) {
+        Optional<Patient> patient = patientId != null ? patientRepository.findById(patientId) : Optional.empty();
         return new Examination()
             .setId(examinationDto.id())
-            .setPatient(patient.orElseThrow(() -> new IllegalArgumentException("Patient does not exist.")))
+            .setPatient(patient.isPresent() ? patient.orElseThrow(() -> new IllegalArgumentException("Patient does not exist.")) : null)
             .setName(examinationDto.name())
             .setDate(examinationDto.date())
             .setType(examinationDto.type())
             .setNote(examinationDto.note());
     }
 
-    public Set<Examination> examinationDtoToExamination(Set<ExaminationDto> examinations, long patientId) {
+    public Set<Examination> examinationDtoToExamination(Set<ExaminationDto> examinations, Long patientId) {
         Set<Examination> convertedExaminations = new java.util.HashSet<>();
         if (examinations != null) {
             for (ExaminationDto examination : examinations) {

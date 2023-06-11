@@ -20,17 +20,17 @@ public class DiagnosisMapper {
         this.diseaseMapper = diseaseMapper;
     }
 
-    public Diagnose diagnosisDtoToDiagnosis(DiagnoseDto diagnoseDto, long patientId) {
-        Optional<Patient> patient = patientRepository.findById(patientId);
+    public Diagnose diagnosisDtoToDiagnosis(DiagnoseDto diagnoseDto, Long patientId) {
+        Optional<Patient> patient = patientId != null ? patientRepository.findById(patientId) : Optional.empty();
         return new Diagnose()
             .setId(diagnoseDto.id())
-            .setPatient(patient.orElseThrow(() -> new IllegalArgumentException("Patient does not exist.")))
+            .setPatient(patient.isPresent() ? patient.orElseThrow(() -> new IllegalArgumentException("Patient does not exist.")) : null)
             .setDisease(diseaseMapper.diseaseDtoToDisease(diagnoseDto.disease()))
             .setDate(diagnoseDto.date())
             .setNote(diagnoseDto.note());
     }
 
-    public Set<Diagnose> diagnosisDtoToDiagnosis(Set<DiagnoseDto> diagnoses, long patientId) {
+    public Set<Diagnose> diagnosisDtoToDiagnosis(Set<DiagnoseDto> diagnoses, Long patientId) {
         Set<Diagnose> convertedDiagnoses = new HashSet<>();
         if (diagnoses != null) {
             for (DiagnoseDto diagnose : diagnoses) {
