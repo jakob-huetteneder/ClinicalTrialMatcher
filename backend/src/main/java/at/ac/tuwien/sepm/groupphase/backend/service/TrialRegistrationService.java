@@ -13,4 +13,6 @@ public interface TrialRegistrationService {
     TrialRegistrationDto requestRegistrationAsDoctor(Long patientId, Long trialId);
 
     TrialRegistrationDto respondToRegistrationRequest(Long patientId, Long trialId, boolean accepted);
+
+    boolean checkIfAlreadyRegistered(Long trialId);
 }

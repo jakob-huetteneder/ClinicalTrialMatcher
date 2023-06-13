@@ -48,4 +48,11 @@ public class TrialRegistrationEndpoint {
         LOG.info("Register for trial with id {}", trialId);
         return trialRegistrationService.requestRegistrationAsDoctor(patientId, trialId);
     }
+
+    @Secured("ROLE_PATIENT")
+    @GetMapping(value = "/patient/{trialId}")
+    public boolean checkIfAlreadyRegistered(@PathVariable("trialId") Long trialId) {
+        LOG.info("Check if already registered for trial with id {}", trialId);
+        return trialRegistrationService.checkIfAlreadyRegistered(trialId);
+    }
 }

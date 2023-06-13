@@ -69,5 +69,12 @@ export class TrialService {
     return this.http.get<Trial>(baseUri + '/' + id);
   }
 
+  registerAsUser(trialId: number): Observable<void> {
+    return this.http.post<void>(baseUri + '/registration/' + trialId, undefined);
+  }
+
+  checkIfAlreadyApplied(trialId: number): Observable<boolean> {
+    return this.http.get<boolean>(baseUri + '/registration/patient/' + trialId);
+  }
 
 }

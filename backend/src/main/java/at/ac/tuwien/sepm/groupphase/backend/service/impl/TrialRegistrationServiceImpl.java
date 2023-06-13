@@ -99,4 +99,15 @@ public class TrialRegistrationServiceImpl implements TrialRegistrationService {
             throw new NotFoundException("No registration found for patient with id " + patientId + " for trial with id " + trialId);
         }
     }
+
+    @Override
+    public boolean checkIfAlreadyRegistered(Long trialId) {
+        Long patientUserId = authorizationService.getSessionUserId();
+        Optional<Patient> patient = patientRepository.findByApplicationUser_Id(patientUserId);
+        if (patient.isEmpty()) {
+            throw new NotFoundException("Patient could not be found");
+        }
+
+        return trialRegistrationRepository.findByRegistrationId_PatientIdAndRegistrationId_TrialId(patient.get().getId(), trialId).isPresent();
+    }
 }
