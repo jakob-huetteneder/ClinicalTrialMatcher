@@ -87,6 +87,26 @@ public class TrialRegistrationServiceImpl implements TrialRegistrationService {
     }
 
     @Override
+    public TrialRegistrationDto respondToRegistrationRequestProposal(Long trialId, boolean accepted) {
+        LOG.info("Responding to registration request proposal for trial with id {} ({})", trialId, accepted ? "accepted" : "rejected");
+        Long patientUserId = authorizationService.getSessionUserId();
+        Optional<Patient> patient = patientRepository.findByApplicationUser_Id(patientUserId);
+        if (patient.isEmpty()) {
+            throw new NotFoundException("Patient could not be found");
+        }
+
+        Optional<Registration> registration = trialRegistrationRepository.findByRegistrationId_PatientIdAndRegistrationId_TrialId(patient.get().getId(), trialId);
+        if (registration.isPresent() && registration.get().getStatus() == Registration.Status.PROPOSED) {
+            Registration r = registration.get();
+            r.setStatus(accepted ? Registration.Status.PATIENT_ACCEPTED : Registration.Status.DECLINED);
+            r = trialRegistrationRepository.save(r);
+            return trialRegistrationMapper.trialRegistrationToTrialRegistrationDto(r);
+        } else {
+            throw new NotFoundException("No registration found that needs action.");
+        }
+    }
+
+    @Override
     public TrialRegistrationDto respondToRegistrationRequest(Long patientId, Long trialId, boolean accepted) {
         LOG.info("Responding to registration of patient with id {} for trial with id {} ({})", patientId, trialId, accepted ? "accepted" : "rejected");
         Optional<Registration> registration = trialRegistrationRepository.findByRegistrationId_PatientIdAndRegistrationId_TrialId(patientId, trialId);
@@ -96,7 +116,7 @@ public class TrialRegistrationServiceImpl implements TrialRegistrationService {
             r = trialRegistrationRepository.save(r);
             return trialRegistrationMapper.trialRegistrationToTrialRegistrationDto(r);
         } else {
-            throw new NotFoundException("No registration found for patient with id " + patientId + " for trial with id " + trialId);
+            throw new NotFoundException("No registration found that needs action.");
         }
     }
 
