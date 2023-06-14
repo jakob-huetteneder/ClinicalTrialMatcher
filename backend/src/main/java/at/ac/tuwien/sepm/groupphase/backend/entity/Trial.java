@@ -30,7 +30,7 @@ public class Trial {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @Column(name = "title", nullable = false)
+    @Column(name = "title", nullable = false, columnDefinition = "TEXT")
     private String title;
 
     @Column(name = "start_date", nullable = false)
@@ -48,7 +48,7 @@ public class Trial {
     @Column(name = "study_type", nullable = false)
     private String studyType;
 
-    @Column(name = "brief_summary", nullable = false)
+    @Column(name = "brief_summary", nullable = false, columnDefinition = "TEXT")
     private String briefSummary;
 
     @Column(name = "detailed_summary", nullable = false, columnDefinition = "TEXT")

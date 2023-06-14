@@ -45,7 +45,7 @@ public class DemoDataGenerator {
         patientDataGenerator.generatePatients();
         diagnosisDataGenerator.generateDiagnoses();
         examinationDataGenerator.generateExaminations();
-        trialDataGenerator.generateTrials();
+        trialDataGenerator.parseTrialsFromJson();
         generateAdmin();
         generateResearcherWithTrials();
         generateDoctorWithPatients();
