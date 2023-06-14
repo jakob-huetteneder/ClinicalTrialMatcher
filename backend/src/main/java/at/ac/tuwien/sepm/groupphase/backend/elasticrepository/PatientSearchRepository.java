@@ -11,20 +11,5 @@ import java.util.stream.Stream;
 
 @Repository
 public interface PatientSearchRepository extends ElasticsearchRepository<Patient, Long> {
-    //@Query("{\"bool\": {\"must\": [" +
-    //    "{\"terms\": {\"inclusionCriteria\": []}}" +
-    //    "], \"must_not\": [" +
-    //    "{\"terms\": {\"exclusionCriteria\": []}}" +
-    //    "]}}")
-    //@Query("{\"bool\": {\"must\": [{\"match\": {\"patient.admissionNote\": ?0}}]}}")
-    @Query("{\"match_all\": {}}")
-    List<Patient> matchPatientsWithTrial(List<String> inclusion, List<String> exclusion, Pageable pageable);
-
-    //@Query("{\"bool\": {\"must\": [{\"match\": {\"authors.name\": \"?0\"}}]}}")
-    //Page<Article> findByAuthorsNameUsingCustomQuery(String name, Pageable pageable);
-
-
-
-
-
+    void deletePatientById(Long id);
 }

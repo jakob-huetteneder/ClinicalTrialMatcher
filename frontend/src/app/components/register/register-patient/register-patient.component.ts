@@ -6,6 +6,8 @@ import {PatientService} from 'src/app/services/patient.service';
 import {of} from 'rxjs';
 import {ToastrService} from 'ngx-toastr';
 import {Router} from '@angular/router';
+import {AnalyzerService} from '../../../services/analyzer.service';
+import {forEach} from 'lodash';
 
 @Component({
   selector: 'app-register-patient',
@@ -29,7 +31,8 @@ export class RegisterPatientComponent {
     private diseaseService: DiseaseService,
     private patientService: PatientService,
     private notification: ToastrService,
-    private router: Router
+    private router: Router,
+    private analyzerService: AnalyzerService
   ) {
   }
 
@@ -109,5 +112,21 @@ export class RegisterPatientComponent {
 
   removeExam(examination: Examination) {
     this.toRegister.examinations = this.toRegister.examinations.filter(e => e !== examination);
+  }
+
+  analyze() {
+    this.analyzerService.analyzeNote(this.toRegister.admissionNote).subscribe({
+      next: data => {
+        console.log(data);
+        data.forEach((d: string) => {
+          this.toRegister.diagnoses.push({note: '', disease: {name: d}, date: new Date(Date.now())});
+        });
+        this.notification.info('Successfully analyzed admission note!');
+      },
+      error: error => {
+        console.log('Error analyzing note: ' + error);
+        this.notification.error(error.error.message, 'Error analyzing note');
+      }
+    });
   }
 }

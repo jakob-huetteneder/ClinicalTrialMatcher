@@ -2,6 +2,7 @@ package at.ac.tuwien.sepm.groupphase.backend.endpoint;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.TrialDto;
+import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
 import at.ac.tuwien.sepm.groupphase.backend.service.impl.PatientServiceImpl;
 import at.ac.tuwien.sepm.groupphase.backend.service.impl.TrialServiceImpl;
 import jakarta.annotation.security.PermitAll;
@@ -21,6 +22,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.lang.invoke.MethodHandles;
+import java.time.LocalDate;
 import java.util.List;
 import java.util.stream.Stream;
 
@@ -62,7 +64,11 @@ public class TrialEndpoint {
     public List<PatientDto> matchByTrialId(@PathVariable("id") Long id) {
         LOG.info("Match trial with id {}", id);
         TrialDto trial = trialService.findTrialById(id);
-        return patientService.matchPatientsWithTrial(trial.inclusionCriteria(), trial.exclusionCriteria());
+        Gender gender = trial.crGender();
+        LocalDate now = LocalDate.now();
+        LocalDate minAge = LocalDate.of(now.getYear() - trial.crMinAge(), now.getMonth(), now.getDayOfMonth());
+        LocalDate maxAge = LocalDate.of(now.getYear() - trial.crMaxAge(), now.getMonth(), now.getDayOfMonth());
+        return patientService.matchPatientsWithTrial(trial.inclusionCriteria(), trial.exclusionCriteria(), minAge, maxAge, gender);
     }
 
     @Secured("ROLE_RESEARCHER")
