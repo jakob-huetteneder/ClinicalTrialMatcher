@@ -2,6 +2,7 @@ package at.ac.tuwien.sepm.groupphase.backend.endpoint;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.ExaminationDto;
 import at.ac.tuwien.sepm.groupphase.backend.service.ExaminationService;
+import at.ac.tuwien.sepm.groupphase.backend.service.PatientService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
@@ -26,10 +27,12 @@ public class ExaminationEndpoint {
     static final String BASE_PATH = "/api/v1/patients";
     private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
     private final ExaminationService examinationService;
+    private final PatientService patientService;
 
 
-    public ExaminationEndpoint(ExaminationService examinationService) {
+    public ExaminationEndpoint(ExaminationService examinationService, PatientService patientService) {
         this.examinationService = examinationService;
+        this.patientService = patientService;
     }
 
     @Secured({"ROLE_DOCTOR", "ROLE_PATIENT"})
@@ -38,7 +41,9 @@ public class ExaminationEndpoint {
     public ExaminationDto addNewExamination(@PathVariable("id") long id, @RequestBody ExaminationDto examinationDto) {
         LOG.info("POST " + BASE_PATH + "/");
         LOG.debug("Body of request: {}", examinationDto);
-        return examinationService.addExamination(examinationDto.withPatientId(id));
+        ExaminationDto dto = examinationService.addExamination(examinationDto.withPatientId(id));
+        patientService.synchronizeWithElasticSearchDb(id);
+        return dto;
     }
 
     @Secured({"ROLE_DOCTOR", "ROLE_PATIENT"})
@@ -47,7 +52,9 @@ public class ExaminationEndpoint {
     public ExaminationDto updateExamination(@PathVariable("id") long id, @PathVariable("ex_id") long examinationId, @RequestBody ExaminationDto examinationDto) {
         LOG.info("POST " + BASE_PATH + "/");
         LOG.debug("Body of request: {}", examinationDto);
-        return examinationService.updateExamination(examinationDto.withExaminationId(examinationId).withPatientId(id));
+        ExaminationDto dto = examinationService.updateExamination(examinationDto.withExaminationId(examinationId).withPatientId(id));
+        patientService.synchronizeWithElasticSearchDb(id);
+        return dto;
     }
 
     @Secured({"ROLE_DOCTOR", "ROLE_PATIENT"})
@@ -55,7 +62,9 @@ public class ExaminationEndpoint {
     @DeleteMapping(path = "/{id}/examination/{ex_id}")
     public ExaminationDto deleteExamination(@PathVariable("id") long id, @PathVariable("ex_id") long examinationId) {
         LOG.info("POST " + BASE_PATH + "/");
-        return examinationService.deleteExamination(id, examinationId);
+        ExaminationDto dto = examinationService.deleteExamination(id, examinationId);
+        patientService.synchronizeWithElasticSearchDb(id);
+        return dto;
     }
 
     @Secured({"ROLE_DOCTOR", "ROLE_PATIENT"})

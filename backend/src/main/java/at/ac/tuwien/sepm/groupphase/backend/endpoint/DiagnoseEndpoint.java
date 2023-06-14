@@ -2,6 +2,7 @@ package at.ac.tuwien.sepm.groupphase.backend.endpoint;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.DiagnoseDto;
 import at.ac.tuwien.sepm.groupphase.backend.service.DiagnoseService;
+import at.ac.tuwien.sepm.groupphase.backend.service.PatientService;
 import jakarta.validation.Valid;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -27,10 +28,12 @@ public class DiagnoseEndpoint {
     static final String BASE_PATH = "/api/v1/patients";
     private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
     private final DiagnoseService diagnoseService;
+    private final PatientService patientService;
 
 
-    public DiagnoseEndpoint(DiagnoseService diagnoseService) {
+    public DiagnoseEndpoint(DiagnoseService diagnoseService, PatientService patientService) {
         this.diagnoseService = diagnoseService;
+        this.patientService = patientService;
     }
 
     @Secured({"ROLE_DOCTOR"})
@@ -39,7 +42,9 @@ public class DiagnoseEndpoint {
     public DiagnoseDto addNewDiagnosis(@PathVariable("id") long id, @RequestBody @Valid DiagnoseDto diagnoseDto) {
         LOG.info("POST " + BASE_PATH + "/");
         LOG.debug("Body of request: {}", diagnoseDto);
-        return diagnoseService.addNewDiagnosis(diagnoseDto.withPatientId(id));
+        DiagnoseDto dto = diagnoseService.addNewDiagnosis(diagnoseDto.withPatientId(id));
+        patientService.synchronizeWithElasticSearchDb(dto.patientId());
+        return dto;
     }
 
 
@@ -49,7 +54,9 @@ public class DiagnoseEndpoint {
     public DiagnoseDto updateDiagnosis(@PathVariable("id") long id, @PathVariable("d_id") long diagnosisId, @RequestBody @Valid DiagnoseDto diagnoseDto) {
         LOG.info("POST " + BASE_PATH + "/");
         LOG.debug("Body of request: {}", diagnoseDto);
-        return diagnoseService.updateDiagnosis(diagnoseDto.withDiagnosisId(diagnosisId).withPatientId(id));
+        DiagnoseDto dto = diagnoseService.updateDiagnosis(diagnoseDto.withDiagnosisId(diagnosisId).withPatientId(id));
+        patientService.synchronizeWithElasticSearchDb(dto.patientId());
+        return dto;
     }
 
     @Secured({"ROLE_DOCTOR"})
@@ -57,7 +64,9 @@ public class DiagnoseEndpoint {
     @DeleteMapping(path = "/{id}/diagnose/{d_id}")
     public DiagnoseDto deleteDiagnosis(@PathVariable("id") long id, @PathVariable("d_id") long diagnosisId) {
         LOG.info("POST " + BASE_PATH + "/");
-        return diagnoseService.deleteDiagnosis(id, diagnosisId);
+        DiagnoseDto dto =  diagnoseService.deleteDiagnosis(id, diagnosisId);
+        patientService.synchronizeWithElasticSearchDb(dto.patientId());
+        return dto;
     }
 
     @Secured({"ROLE_DOCTOR"})
