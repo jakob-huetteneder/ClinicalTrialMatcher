@@ -100,6 +100,15 @@ public class Examination {
         return this;
     }
 
+    public MedicalImage getMedicalImage() {
+        return medicalImage;
+    }
+
+    public Examination setMedicalImage(MedicalImage medicalImage) {
+        this.medicalImage = medicalImage;
+        return this;
+    }
+
     public Long getId() {
         return this.id;
     }

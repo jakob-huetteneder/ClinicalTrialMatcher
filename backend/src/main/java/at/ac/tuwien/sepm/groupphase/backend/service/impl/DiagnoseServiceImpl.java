@@ -1,25 +1,30 @@
 package at.ac.tuwien.sepm.groupphase.backend.service.impl;
 
+import at.ac.tuwien.sepm.groupphase.backend.elasticrepository.PatientSearchRepository;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.DiagnoseDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.DiagnosisMapper;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.DiseaseMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Diagnose;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Disease;
+import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import at.ac.tuwien.sepm.groupphase.backend.exception.NotFoundException;
 import at.ac.tuwien.sepm.groupphase.backend.repository.DiagnosesRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.DiseaseRepository;
+import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
 import at.ac.tuwien.sepm.groupphase.backend.security.AuthorizationService;
 import at.ac.tuwien.sepm.groupphase.backend.service.DiagnoseService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.elasticsearch.core.ElasticsearchOperations;
 import org.springframework.stereotype.Service;
 
 import java.lang.invoke.MethodHandles;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
+import java.util.Set;
 
 
 @Service
@@ -30,14 +35,22 @@ public class DiagnoseServiceImpl implements DiagnoseService {
     private final DiagnosisMapper diagnosisMapper;
     private final DiseaseRepository diseaseRepository;
     private final DiseaseMapper diseaseMapper;
-
+    private final PatientSearchRepository patientSearchRepository;
+    private final PatientRepository patientRepository;
+    private final ElasticsearchOperations elasticsearchOperations;
 
     @Autowired
-    public DiagnoseServiceImpl(DiagnosesRepository diagnosesRepository, DiagnosisMapper diagnosisMapper, DiseaseRepository diseaseRepository, DiseaseMapper diseaseMapper) {
+    public DiagnoseServiceImpl(DiagnosesRepository diagnosesRepository, DiagnosisMapper diagnosisMapper,
+                               DiseaseRepository diseaseRepository, DiseaseMapper diseaseMapper,
+                               PatientSearchRepository patientSearchRepository, PatientRepository patientRepository,
+                               ElasticsearchOperations elasticsearchOperations) {
         this.diagnosesRepository = diagnosesRepository;
         this.diagnosisMapper = diagnosisMapper;
         this.diseaseRepository = diseaseRepository;
         this.diseaseMapper = diseaseMapper;
+        this.patientSearchRepository = patientSearchRepository;
+        this.patientRepository = patientRepository;
+        this.elasticsearchOperations = elasticsearchOperations;
     }
 
 
@@ -77,6 +90,7 @@ public class DiagnoseServiceImpl implements DiagnoseService {
             return null;
         }
         diagnosesRepository.delete(toDelete.get());
+
         return diagnosisMapper.diagnosisToDiagnosisDto(toDelete.get());
     }
 

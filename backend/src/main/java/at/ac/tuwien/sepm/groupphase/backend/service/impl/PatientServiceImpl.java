@@ -8,6 +8,7 @@ import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientRequestDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.PatientMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
+import at.ac.tuwien.sepm.groupphase.backend.entity.Diagnose;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
@@ -169,6 +170,7 @@ public class PatientServiceImpl implements PatientService {
         LOG.info("Saved patient with id='{}'", convertedPatient.getId());
         patient.examinations().forEach(i -> LOG.info(i.toString()));
         convertedPatient.getExaminations().forEach(i -> LOG.info(i.toString()));
+        LOG.info(patientMapper.patientToPatientDto(convertedPatient).toString());
         elasticsearchOperations.save(convertedPatient);
         return patientMapper.patientToPatientDto(convertedPatient);
     }
@@ -206,7 +208,7 @@ public class PatientServiceImpl implements PatientService {
     @Override
     @Transactional
     public PatientDto deleteById(long id) {
-        LOG.trace("deleteById({})", id); //TODO delete patient in elastic repo
+        LOG.trace("deleteById({})", id);
         Optional<Patient> patient = patientRepository.findById(id);
         if (patient.isEmpty()) {
             //404 NOT FOUND
@@ -215,6 +217,34 @@ public class PatientServiceImpl implements PatientService {
         } else {
             patientRepository.deleteById(id);
             patientSearchRepository.deletePatientById(id);
+            return patientMapper.patientToPatientDto(patient.get());
+        }
+    }
+
+    @Override
+    public PatientDto synchronizeWithElasticSearchDb(long id) {
+        Optional<Patient> patient = patientRepository.findById(id);
+        if (patient.isEmpty()) {
+            //404 NOT FOUND
+            LOG.warn("Patient with id {} does not exist!", id);
+            return null;
+        } else {
+            patient.get().setTreats(null);
+            patient.get().setDiagnoses(patient.get().getDiagnoses().stream().map(
+                diagnose -> {
+                    diagnose.setPatient(null);
+                    diagnose.setDisease(diagnose.getDisease().setId(null));
+                    diagnose.setId(null);
+                    return diagnose;
+                }).collect(Collectors.toSet()));
+            patient.get().setExaminations(patient.get().getExaminations().stream().map(
+                examination -> {
+                    examination.setPatient(null);
+                    examination.setMedicalImage(null);
+                    return examination;
+                }).collect(Collectors.toSet()));
+            patientSearchRepository.deletePatientById(id);
+            elasticsearchOperations.save(patient.get(), IndexCoordinates.of("patients"));
             return patientMapper.patientToPatientDto(patient.get());
         }
     }
