@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9266">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05701709</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SHR-A2102-I-102</org_study_id>
+    <nct_id>NCT05701709</nct_id>
+  </id_info>
+  <brief_title>Phase I Study of SHR-A2102 in Patients With Advanced Solid Tumors</brief_title>
+  <official_title>An Open-Label, Single-Arm, Multi-Center Phase I Clinical Study to Evaluate the Safety, Tolerability, Efficacy and Pharmacokinetics of SHR-A2102 in Patients With Advanced Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shanghai Hengrui Pharmaceutical Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Shanghai Hengrui Pharmaceutical Co., Ltd.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study was designed to evaluate the efficacy, safety, and pharmacokinetics of SHR2102 in&#xD;
+      patients with advanced solid tumors. The objective of this study was to determine the&#xD;
+      dose-limiting toxicity, maximum tolerance and recommended dose of SHR-A2102 in phase II&#xD;
+      study.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 6, 2023</start_date>
+  <completion_date type="Anticipated">August 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2025</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>SHR-A2102 single arm</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with adverse events</measure>
+    <time_frame>24 months</time_frame>
+    <description>Adverse events are assessed by CTCAE v5.0</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum tolerated dose (MTD)</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>MTD is defined as the maximum dose within the first 3 weeks of multiple dosing that does not exceed the proportion of subjects who develop DLT as specified in the protocol's BOIN design.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Recommended Phase 2 dose (RP2D)</measure>
+    <time_frame>24 months</time_frame>
+    <description>RP2D will be determined based on the available data for toxicity and PK.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Dose Limiting Toxicity (DLT)</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>Adverse events that occurred during the DLT observation period (the first period of study administration, a total of 21 days) that were determined to be related to the study drug (see protocol for details).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Peak plasma concentration (Cmax)</measure>
+    <time_frame>12 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the plasma concentration versus time curve (AUC）</measure>
+    <time_frame>12 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>T1/2 (Half-life)</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>The time required for the plasma concentration of a drug to be reduced by 50%</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity: Number of subjects with anti-SHR-A2102 antibody (ADA), incidence, occurrence time, duration, etc</measure>
+    <time_frame>12 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate (ORR)</measure>
+    <time_frame>24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>duration of response (DoR)</measure>
+    <time_frame>24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>disease control rate (DCR)</measure>
+    <time_frame>24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>progression-free survival (PFS)</measure>
+    <time_frame>24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>overall survival (OS)</measure>
+    <time_frame>24 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Advanced Solid Tumors</condition>
+  <arm_group>
+    <arm_group_label>SHR-A2102</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SHR-A2102</intervention_name>
+    <description>SHR-A2102 was given intravenously. Patients may continue to use SHR-A2102 until disease progression or unacceptable toxicity occurs.</description>
+    <arm_group_label>SHR-A2102</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Able and willing to provide a written informed consent;&#xD;
+&#xD;
+          2. Age ≥18 years old, gender unlimited;&#xD;
+&#xD;
+          3. The physical status score of the Eastern Tumor Cooperative Group (ECOG) was 0 ~ 1;&#xD;
+&#xD;
+          4. Life expectancy Predicted survival ≥3 months;&#xD;
+&#xD;
+          5. Histologically or cytologically confirmed advanced or metastatic malignant tumor;&#xD;
+             Patients with advanced solid tumors confirmed by pathology who have failed or been&#xD;
+             intolerant to standard treatment, have no standard treatment or refuse standard&#xD;
+             treatment;&#xD;
+&#xD;
+          6. There is at least one measurable lesion that meets the RECIST 1.1 criteria.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Plan to receive any other antitumor therapy during this trial;&#xD;
+&#xD;
+          2. Receiving other investigational drugs or treatments that are not on the market within&#xD;
+             4 weeks prior to the initial administration of the study drug;&#xD;
+&#xD;
+          3. Received antitumor therapy such as chemotherapy, radiotherapy, biotherapy, targeted&#xD;
+             therapy, or immunotherapy within 4 weeks prior to first administration of the study&#xD;
+             drug (nitrosourea or mitomycin C within 6 weeks prior to first administration; Oral&#xD;
+             fluorouracil within 2 weeks prior to initial first administration); Palliative&#xD;
+             radiotherapy or local therapy within 2 weeks before first administration use of the&#xD;
+             study drug;&#xD;
+&#xD;
+          4. Had major surgery other than diagnosis or biopsy within 4 weeks prior to the study's&#xD;
+             initial dosing;&#xD;
+&#xD;
+          5. Treatment with CYP3A4, CYP2D6, P-gp or BCRP booster or inducer is less than 5 drug&#xD;
+             half-life from the date of first administration;&#xD;
+&#xD;
+          6. According to NCI-CTCAE v5.0, adverse events caused by previous antitumor therapy did&#xD;
+             not recover to ≤ grade 1 (except hair loss; In the judgment of the investigator, after&#xD;
+             consultation with the sponsor, some tolerable chronic grade 2 toxicity may be&#xD;
+             excluded);&#xD;
+&#xD;
+          7. Inadequately treated central nervous system (CNS) metastases, or the presence of&#xD;
+             uncontrolled or symptomatic active CNS metastases, may be characterized by the&#xD;
+             presence of clinical symptoms, cerebral edema, spinal cord compression, cancerous&#xD;
+             meningitis, pia meningeal disease, and/or rapid progression. Patients with CNS&#xD;
+             metastases that have been adequately treated and whose neurological symptoms return to&#xD;
+             baseline at least 4 weeks prior to randomization (except for residual signs or&#xD;
+             symptoms associated with CNS treatment) may be enrolled. In addition, subjects must&#xD;
+             either stop corticosteroids or receive prednisone (or an equivalent dose of another&#xD;
+             corticosteroid) at least 4 weeks prior to randomization;&#xD;
+&#xD;
+          8. Any other malignancies, excluding cured basal cell carcinoma of the skin and carcinoma&#xD;
+             in situ of the cervix, etc. within 5 years prior to initial administration;&#xD;
+&#xD;
+          9. A history of clinically significant lung disease (such as interstitial pneumonia,&#xD;
+             radiation pneumonia, pulmonary fibrosis) or chest imaging during screening suggests&#xD;
+             any such disease;&#xD;
+&#xD;
+         10. Severe infections that require intravenous antibiotic, antiviral or antifungal&#xD;
+             control;&#xD;
+&#xD;
+         11. Active HBV or HCV infection (HBsAg positive and viral copy number ≥2000 IU/mL, HCV&#xD;
+             antibody positive and HCV RNA higher than the lower limit of detection method);&#xD;
+&#xD;
+         12. History of immunodeficiency (including HIV positive, other acquired or congenital&#xD;
+             immunodeficiency diseases) or organ transplantation;&#xD;
+&#xD;
+         13. Concomitant diseases (such as severe diabetes, thyroid disease, and psychosis) or any&#xD;
+             other conditions that, in the investigator's judgment, seriously endanger the&#xD;
+             patient's safety or affect the patient's ability to complete the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Fei Luo</last_name>
+    <phone>+0518-81220121</phone>
+    <email>fei.luo@hengrui.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Shanghai Chest Hospital</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200030</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Hua Zhong</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 18, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>May 28, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 28, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

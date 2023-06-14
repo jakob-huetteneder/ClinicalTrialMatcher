@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9002">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05707299</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022ZX010-fNIRS</org_study_id>
+    <nct_id>NCT05707299</nct_id>
+  </id_info>
+  <brief_title>The Effect of Intradermal Acupuncture on Gallbladder Meridian Points on Cerebral Hemodynamics in Relevant Brain Regions for Major Depressive Disorder Based on fNIRS Technology</brief_title>
+  <official_title>The Effect of Intradermal Acupuncture on Gallbladder Meridian Points on Cerebral Hemodynamics in Relevant Brain Regions for Major Depressive Disorder Based on fNIRS Technology: Study Protocol of a Prospective, Single-center, Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Third Affiliated hospital of Zhejiang Chinese Medical University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The Third Affiliated hospital of Zhejiang Chinese Medical University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Gallbladder meridian(GB) acupoints may play an important role in the treatment of major&#xD;
+      depressive disorder (MDD). Therefore, this study is designed to focus on the traditional&#xD;
+      Chinese medicine (TCM) theory of &quot; gallbladder dominating decision &quot;, take the GB as the&#xD;
+      entry point, and use functional Near-Infrared Spectroscopy(fNIRS) technology to observe the&#xD;
+      effect of intradermal acupuncture on the cerebral hemodynamic indexes of the prefrontal&#xD;
+      cortex and bilateral temporal cortex of patients with MDD.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will include 20 patients with MDD (observation group) and 20 healthy control&#xD;
+      participants without MDD (control group). fNIRS will be adopted to assess regional oxygen&#xD;
+      saturation of the blood in the MDD-related cerebral cortex: the prefrontal and bilateral&#xD;
+      temporal cortex. Based on the results of the fNIRS, to explore cerebral hemodynamic changes&#xD;
+      in the prefrontal and bilateral temporal cortex in patients with MDD. By observing the&#xD;
+      changes of hemodynamic characteristics of the prefrontal cortex and bilateral temporal cortex&#xD;
+      of the observation group and the control group during the course of intradermal acupuncture,&#xD;
+      explore the immediate response of the hemodynamic characteristics of the prefrontal cortex&#xD;
+      and bilateral temporal cortex of the observation group to the intervention of the GB&#xD;
+      acupoints.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2023</start_date>
+  <completion_date type="Anticipated">May 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">May 31, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>total hemoglobin (Total-Hb）</measure>
+    <time_frame>During the whole acupuncture operation</time_frame>
+    <description>Total hemoglobin was calculated using the combined concentrations of oxygenated hemoglobin and deoxygenated hemoglobin [Total-Hb = oxy-Hb + deoxy-Hb].</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>oxygenated hemoglobin (oxy-Hb)</measure>
+    <time_frame>During the whole acupuncture operation</time_frame>
+    <description>Oxygenated hemoglobin is the combination of hemoglobin plus oxygen.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>deoxygenated hemoglobin (deoxy-Hb)</measure>
+    <time_frame>During the whole acupuncture operation</time_frame>
+    <description>Deoxygenated hemoglobin is the unbound form of hemoglobin with oxygen.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Major Depressive Disorder</condition>
+  <arm_group>
+    <arm_group_label>Observation group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This group will include 20 patients with MDD. Before signal collection, the subject will wear a helmet embedded with numerous near-infrared light sensors, covering the prefrontal region and both temporal lobes. The whole process will be monitored in real time by fNIRS. During needle retention, participants will be asked to keep their eyes closed and quiet throughout the intervention and to avoid physical movement as much as possible.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>This group will include 20 healthy control participants without MDD. Before signal collection, the subject will wear a helmet embedded with numerous near-infrared light sensors, covering the prefrontal region and both temporal lobes. The whole process will be monitored in real time by fNIRS. During needle retention, participants will be asked to keep their eyes closed and quiet throughout the intervention and to avoid physical movement as much as possible.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Intradermal acupuncture</intervention_name>
+    <description>Procedure/Surgery: Bilateral Fengchi（GB20）and Qiuxu（GB40） will be stimulated. According to the position of the acupoints, the needle of φ0.20*1.5mm will be chosen. After acupuncture point localization and routine disinfection, all subjects will receive the acupuncture in the same order, and follow the steps of &quot;resting- stimulating-preparing-stimulating-resting&quot; to complete the acupuncture operation alternately.Before acupuncture, rest for 60s as the baseline period, and then stimulate the bilateral Fengchi（GB20） for 2 mins. After stopping stimulation, wait for fNIRS to return to the resting level (i.e., the preparation period), then stimulate the bilateral Qiuxu（GB40） for another 2 mins, and stop the near-infrared scanning when the image of fNIRS returns to the resting level.</description>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_label>Observation group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Inclusion criteria for control group:&#xD;
+&#xD;
+          1. Healthy control participants who could provide a recent depression screening report,&#xD;
+             and confirm they have not any cardiovascular, respiratory, digestive, urinary,&#xD;
+             hematological, endocrine, or neurological disease;&#xD;
+&#xD;
+          2. 15 ≤ age ≤22 years, male or female;&#xD;
+&#xD;
+          3. Participants have clear consciousness and could communicate with others normally;&#xD;
+&#xD;
+          4. Participants could understand the full study protocol and have high adherence. Written&#xD;
+             informed consent is signed by adult participants themselves，and the minor participants&#xD;
+             is signed by a guardian;&#xD;
+&#xD;
+          5. Participants should be right-handed;&#xD;
+&#xD;
+        Inclusion criteria for observation group:&#xD;
+&#xD;
+          1. MDD patients should meet the diagnostic criteria of the International Classification&#xD;
+             of Diseases 11th Edition (ICD-11) diagnostic criteria for MDD;&#xD;
+&#xD;
+          2. 15≤ age ≤22, male or female;&#xD;
+&#xD;
+          3. Participants have clear consciousness and could communicate with others normally;&#xD;
+&#xD;
+          4. Participants could understand the full study protocol and have high adherence. Written&#xD;
+             informed consent is signed by adult participants themselves，and the minor participants&#xD;
+             is signed by a guardian;&#xD;
+&#xD;
+          5. Not taking antidepressants or antipsychotic drugs for at least 4 weeks before&#xD;
+             enrollment;&#xD;
+&#xD;
+          6. Participants should be right-handed;&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Exclusion criteria for control group:&#xD;
+&#xD;
+          1. Participants with serious primary diseases of cardiovascular diseases, liver diseases,&#xD;
+             kidney diseases, urinary diseases, and hematological diseases;&#xD;
+&#xD;
+          2. Participants have an illness, alcohol dependence, or a history of drug abuse;&#xD;
+&#xD;
+          3. Pregnant or lactating participants;&#xD;
+&#xD;
+          4. Participants with intellectual disabilities who can't cooperate with the questionnaire&#xD;
+             survey;&#xD;
+&#xD;
+          5. Participants with bleeding tendency, skin disease, allergic constitution, and allergic&#xD;
+             to adhesive tape;&#xD;
+&#xD;
+          6. The test site of participants has scars, hyperpigmentation, red and swollen;&#xD;
+&#xD;
+          7. Participants are participating in other trials;&#xD;
+&#xD;
+        Exclusion criteria for observation group:&#xD;
+&#xD;
+          1. Participants with serious primary diseases of cardiovascular, respiratory, digestive,&#xD;
+             urinary, hematological, endocrine, neurological disease, and other serious primary&#xD;
+             diseases, and the disease cannot be effectively controlled clinically;&#xD;
+&#xD;
+          2. MDD caused by organic mental disorders, schizophrenia, bipolar disorder, psychoactive&#xD;
+             substances, and non-addictive substances;&#xD;
+&#xD;
+          3. Participants with suicidal tendencies;&#xD;
+&#xD;
+          4. Pregnant or lactating participants;&#xD;
+&#xD;
+          5. Participants with intellectual disabilities who cannot cooperate with the&#xD;
+             questionnaire survey;&#xD;
+&#xD;
+          6. Participants with bleeding tendency, skin disease, allergic constitution, and allergic&#xD;
+             to adhesive tape;&#xD;
+&#xD;
+          7. The skin at the test site of participants has scars, hyperpigmentation, red and&#xD;
+             swollen;&#xD;
+&#xD;
+          8. Participants are participating in other trials;&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>15 Years</minimum_age>
+    <maximum_age>22 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Xiaomei Shao, Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Third Affiliated hospital of Zhejiang Chinese Medical University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Xiaomei Shao, Ph.D</last_name>
+    <phone>+8618957130287</phone>
+    <email>shaoxiaomei@zcmu.edu.cn</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sangsang Xiong</last_name>
+    <phone>+86152671382513</phone>
+    <email>376815403@qq.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>the Third affiliated hospital of Zhejiang Chinese Medical university [Recruiting]</name>
+      <address>
+        <city>Hangzhou</city>
+        <state>Zhejiang</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Xiaomei Shao, Ph.D</last_name>
+      <phone>+8618957130287</phone>
+      <email>shaoxiaomei@zcmu.edu.cn</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sangsang Xiong</last_name>
+      <phone>+86152671382513</phone>
+      <email>376815403@qq.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 22, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 22, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 31, 2023</study_first_posted>
+  <last_update_submitted>January 22, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 22, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The Third Affiliated hospital of Zhejiang Chinese Medical University</investigator_affiliation>
+    <investigator_full_name>Xiaomei Shao</investigator_full_name>
+    <investigator_title>Prof</investigator_title>
+  </responsible_party>
+  <keyword>Major depressive disorder</keyword>
+  <keyword>Intradermal acupuncture</keyword>
+  <keyword>functional Near-Infrared Spectroscopy</keyword>
+  <keyword>Gallbladder meridian</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder, Major</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

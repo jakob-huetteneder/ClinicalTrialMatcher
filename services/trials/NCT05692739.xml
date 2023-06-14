@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9682">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05692739</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22/211-EC_M</org_study_id>
+    <nct_id>NCT05692739</nct_id>
+  </id_info>
+  <brief_title>Clinical Trial To Determine The Effectiveness And Safety Of Topical Insulin In Dry Eye</brief_title>
+  <official_title>Ensayo Clínico Para Determinar La Eficacia Y Seguridad Del Colirio De Insulina En El Tratamiento Del Ojo Seco En Pacientes Con Ojo Seco</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Barbara Burgos Blasco</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospital San Carlos, Madrid</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a parallel randomized controlled trial for the treatment of dry eye disease. The main&#xD;
+      objective is to investigate the efficacy and safety of the use of insulin eye drops in the&#xD;
+      control of moderate-severe dry eye disease. Topical insulin drops will be compared to the&#xD;
+      current gold standard treatment, cyclosporin and placebo (artificial tears).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients will be recruited in Madrid. Patients with dry eye disease and no topical treatment&#xD;
+      other than artificial tears will be identified through the Ophthalmology clinic. They will be&#xD;
+      directly referred to a physician who is participating in this study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 5, 2022</start_date>
+  <completion_date type="Anticipated">October 2024</completion_date>
+  <primary_completion_date type="Anticipated">October 2024</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This will be a randomized controlled trial for the treatment of dry eye disease with three arms: topical insulin, topical cyclosporin (gold standard) and artificial tears (placebo)</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change of corneal staining from baseline to 6 months after treatment</measure>
+    <time_frame>From baseline to 6 months after treatment</time_frame>
+    <description>Corneal staining will be evaluated on the slit-lamp and on slit-lamp images (masked evaluator)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in dry eye symptoms from baseline to 6 months after treatment time</measure>
+    <time_frame>From baseline to 6 months after treatment</time_frame>
+    <description>Dry eye symptoms will be evaluated using OSDI</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in esthesiometry from baseline to 6 months after treatment time</measure>
+    <time_frame>From baseline to 6 months after treatment</time_frame>
+    <description>Esthesiometry will be evaluated using an esthesiometer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in tear rupture time from baseline to 6 months after treatment time</measure>
+    <time_frame>From baseline to 6 months after treatment</time_frame>
+    <description>Tear rupture time will be evaluated using the Keratograph (Oculus)</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Dry Eye</condition>
+  <condition>Insulin</condition>
+  <arm_group>
+    <arm_group_label>Insulin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Topical insulin 1UI/ml 4 times a day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cyclosporin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Cyclosporin 0,05% every 12 hours</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Artificial tears</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Artificial tears 4 times a day</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Insulin</intervention_name>
+    <description>see arm description</description>
+    <arm_group_label>Insulin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclosporins</intervention_name>
+    <description>see arm description</description>
+    <arm_group_label>Cyclosporin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Artificial tears</intervention_name>
+    <description>see arm description</description>
+    <arm_group_label>Artificial tears</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients older than 18 years&#xD;
+&#xD;
+          -  Dry eye disease diagnosis&#xD;
+&#xD;
+          -  Treatment with artificial tears or hyaluronic acid gels for at least 3 months&#xD;
+&#xD;
+          -  Signed informed consent by the patient&#xD;
+&#xD;
+          -  Staining equal to or greater than Oxford II&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Under 18 years old&#xD;
+&#xD;
+          -  Corneal staining under Oxford II&#xD;
+&#xD;
+          -  Treatment for dry eye disease other than artificial tears or hyaluronic acid gels&#xD;
+&#xD;
+          -  Severe dry eye disease that requires immediate treatment&#xD;
+&#xD;
+          -  Eye surgery in the last 6 months&#xD;
+&#xD;
+          -  Other concomitant corneal pathology, eyelid malpositions, nasolacrimal drainage&#xD;
+             abnormalities, blinking alterations&#xD;
+&#xD;
+          -  Contact lenses&#xD;
+&#xD;
+          -  Other treatment besides artificial tears or hyaluronic acid gels&#xD;
+&#xD;
+          -  Visual acuity less than 0.1&#xD;
+&#xD;
+          -  Allergy or intolerance to any of the components included in the study&#xD;
+&#xD;
+          -  Modifications in systemic immunosuppressive treatment&#xD;
+&#xD;
+          -  Pregnancy or lactation&#xD;
+&#xD;
+          -  Women of childbearing age who do not use a highly effective contraceptive method&#xD;
+&#xD;
+          -  History of alcohol or drug abuse&#xD;
+&#xD;
+          -  Participation in another clinical trial in the last 30 days&#xD;
+&#xD;
+          -  Systemic pathology (cardiopulmonary pathology, connective tissue disorders,&#xD;
+             neurological or psychiatric pathology) or baseline situation of the patient that does&#xD;
+             not allow the examination (such as mental or psychomotor retardation)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Barbara Burgos Blasco, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Clinico San Carlos</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Barbara Burgos Blasco, MD, PhD</last_name>
+    <phone>+34 913303000</phone>
+    <phone_ext>3132</phone_ext>
+    <email>barbara.burgos@salud.madrid.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital Clinico San Carlos</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Barbara Burgos Blasco, MD, PhD</last_name>
+      <phone>+34 9133303000</phone>
+      <phone_ext>3132</phone_ext>
+      <email>barbara.burgos@salud.madrid.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <reference>
+    <citation>Diaz-Valle D, Burgos-Blasco B, Rego-Lorca D, Puebla-Garcia V, Perez-Garcia P, Benitez-Del-Castillo JM, Herrero-Vanrell R, Vicario-de-la-Torre M, Gegundez-Fernandez JA. Comparison of the efficacy of topical insulin with autologous serum eye drops in persistent epithelial defects of the cornea. Acta Ophthalmol. 2022 Jun;100(4):e912-e919. doi: 10.1111/aos.14997. Epub 2021 Aug 18.</citation>
+    <PMID>34407296</PMID>
+  </reference>
+  <reference>
+    <citation>Diaz-Valle D, Burgos-Blasco B, Gegundez-Fernandez JA, Garcia-Caride S, Puebla-Garcia V, Pena-Urbina P, Benitez-Del-Castillo JM. Topical insulin for refractory persistent corneal epithelial defects. Eur J Ophthalmol. 2021 Sep;31(5):2280-2286. doi: 10.1177/1120672120958307. Epub 2020 Sep 21.</citation>
+    <PMID>32951459</PMID>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 10, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>January 18, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 18, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Hospital San Carlos, Madrid</investigator_affiliation>
+    <investigator_full_name>Barbara Burgos Blasco</investigator_full_name>
+    <investigator_title>Ophthalmologist</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dry Eye Syndromes</mesh_term>
+    <mesh_term>Keratoconjunctivitis Sicca</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclosporine</mesh_term>
+    <mesh_term>Lubricant Eye Drops</mesh_term>
+    <mesh_term>Cyclosporins</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

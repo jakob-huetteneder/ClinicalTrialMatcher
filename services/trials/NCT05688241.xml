@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9881">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05688241</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-01210; am22Khanna</org_study_id>
+    <nct_id>NCT05688241</nct_id>
+  </id_info>
+  <brief_title>EBV-Tscm Cytotoxic T Cells (CTLs) for EBV- Driven Lymphomas/ Diseases</brief_title>
+  <acronym>ESPECT</acronym>
+  <official_title>Epstein-Barr Virus (EBV) -Specific T Memory Stem Cell (Tscm) Therapy to Treat EBV- Driven Lymphomas/ Diseases</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Basel, Switzerland</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Basel, Switzerland</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this multi-center open-label, non-randomized phase I/II intervention study three&#xD;
+      consecutive doses of donor-derived EBV Tscm-CTLs will be administered to 10 patients with&#xD;
+      treatment-refractory EBV lymphoma, diseases or PTLDs. EBV Tscm-CTLs will derive from&#xD;
+      hematopoietic cell transplant (HCT) or third-party donors.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Epstein Barr virus (EBV)-driven lymphomas and diseases are associated with poor prognosis.&#xD;
+      EBV proteins are recognized by T cells providing opportunities for EBV-specific T-cell&#xD;
+      therapy. Recent findings show that early differentiated T cells (T memory stem cells, Tscm)&#xD;
+      improve the prognosis in chronic viral diseases and are associated with effective tumor cell&#xD;
+      killing in melanoma patients. Tscm might be superior to highly differentiated T cells because&#xD;
+      of their longevity, robust proliferative potential, and capacity to reconstitute a wide&#xD;
+      T-cell receptor (TCR) diversity. This project will test the hypothesis that Tscm are&#xD;
+      efficacious for EBV-specific T-cell therapy. Clinical-grade enriched EBV-specific Tscm-CTLs&#xD;
+      will be prepared and used to treat patients with primary EBV lymphomas, diseases or&#xD;
+      post-transplant lymphoproliferative disease (PTLD) with limited other treatment options.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2023</start_date>
+  <completion_date type="Anticipated">December 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 2025</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Multi-center open-label, non-randomized phase I/II study.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Assessment of feasibility to expand Tscm-enriched EBV CTLs</measure>
+    <time_frame>one time assessment on day 9-11 of expansion before cryopreservation (plus at least 7 days for microbiological culture)</time_frame>
+    <description>Feasibility is defined as meeting the release criteria of EBV Tscm-CTL endproduct.&#xD;
+Release criteria for the EBV Tscm-CTL follow Swissmedic Investigational Medicinal Product Dossier (IMPD). This includes viability of cluster of differentiation 3 (CD3)+ &gt;70%, absolute CD3 count per kg of body weight per dose (≤2x10e6/kg), and a purity of CD3+ &gt;90%. These criteria will be assessed before cryopreservation. A negative culture for bacteria and fungi for at least 7 days, endotoxin testing ≤5 EU/ml and negative result for Mycoplasma is required.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety of EBV Tscm-CTL infusion assessed by number of early infusion-related events</measure>
+    <time_frame>up to 12 hours after first dose of EBV Tscm-CTL infusion</time_frame>
+    <description>Number of early infusion-related events (early infusion-related events are clinically significant alterations of vital signs)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety of EBV Tscm-CTL infusion assessed by number of late clinical reaction to EBV Tscm-CTLs</measure>
+    <time_frame>from 12 hours after first dose until 3 months after the last dose of EBV CTLs</time_frame>
+    <description>Late clinical reaction to EBV Tscm-CTLs are signs of acute graft-versus-host disease (GvHD). Acute GVHD will be graded according to the modified Glucksberg criteria.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>EBV Lymphoma</condition>
+  <condition>Post-transplant Lymphoproliferative Disease (PTLD)</condition>
+  <arm_group>
+    <arm_group_label>Group A: patients who undergo allogeneic HCT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with EBV driven lymphomas (e.g., natural killer (NK)/T-cell lymphoma), with EBV complications (e.g. haemophagocytic lymphohistiocytosis (HLH), CAEBV) or patients with primary immunodeficiency disorders with high risk for EBV complications (e.g. SCID) with planned allogeneic HCT.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group B: patients after HCT or SOT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>EBV-driven PTLD that develop after a HCT or solid organ transplantation (SOT) and show decreased response to rituximab.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Donor-derived ex-vivo expanded EBV Tscm CTL</intervention_name>
+    <description>Cryopreserved cells will be thawed and infused at three time points. Dosing will be 2x10e6 EBV CTLs per kg of body weight. No prior lymphodepletion will be performed.</description>
+    <arm_group_label>Group A: patients who undergo allogeneic HCT</arm_group_label>
+    <arm_group_label>Group B: patients after HCT or SOT</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Patients' inclusion criteria:&#xD;
+&#xD;
+          -  Group A: Patients with EBV driven lymphomas (e.g., NK/T-cell lymphoma), with EBV&#xD;
+             complications (e.g. HLH, CAEBV) or patients with primary immunodeficiency disorders&#xD;
+             with high risk for EBV complications (e.g. SCID) with planned allogeneic HCT&#xD;
+&#xD;
+          -  Group B: EBV-driven PTLD that develop after a HCT or SOT&#xD;
+&#xD;
+        For both groups:&#xD;
+&#xD;
+          -  All age groups&#xD;
+&#xD;
+          -  Negative pregnancy test in female patients of childbearing potential.&#xD;
+&#xD;
+          -  Signed written informed consent of patient or/and parents&#xD;
+&#xD;
+        Patients' exclusion criteria:&#xD;
+&#xD;
+          -  Patients receiving anti-thymocyte globulin or Campath within 28 days of infusion&#xD;
+&#xD;
+          -  Patients with active, acute GvHD grades III-IV&#xD;
+&#xD;
+          -  Previous severe reaction to dimethylsulfoxide (DMSO)&#xD;
+&#xD;
+        Donors' inclusion criteria:&#xD;
+&#xD;
+          -  EBV positive serology (VCA and Epstein-Barr nuclear antigen (EBNA) immunoglobulin G&#xD;
+             (IgG) positive)&#xD;
+&#xD;
+          -  Detectable interferon (IFN)-y-secreting T cells (&gt;100 SFC/10e6 PBMC) measured by&#xD;
+             Elispot to the EBV consensus peptide pool&#xD;
+&#xD;
+          -  Suitability for blood or HCT donation meeting requirements of local institutional&#xD;
+             guidelines&#xD;
+&#xD;
+          -  An informed consent for EBV Tscm CTL manufacturing&#xD;
+&#xD;
+          -  Age &gt; 18 years&#xD;
+&#xD;
+        Donors' exclusion criteria:&#xD;
+&#xD;
+          -  Detectable IFN-y-secreting T-cells &lt;100 spot-forming cell (SFC)/10e6 PBMC measured by&#xD;
+             Elispot to EBV select&#xD;
+&#xD;
+          -  Unwilling and/or unable to donate, according to the donor center&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nina Khanna, Prof. Dr. med.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Klinik für Infektiologie und Spitalhygiene, University Hospital of Basel</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nina Khanna, Prof. Dr. med.</last_name>
+    <phone>+41 61 328 73 25</phone>
+    <email>nina.khanna@usb.ch</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University Hospital Basel, Klinik für Infektiologie und Spitalhygiene</name>
+      <address>
+        <city>Basel</city>
+        <zip>4031</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Nina Khanna, Prof. Dr. med.</last_name>
+      <phone>+41 61 328 73 25</phone>
+      <email>nina.khanna@usb.ch</email>
+    </contact>
+    <investigator>
+      <last_name>Nina Khanna, Prof. Dr. med.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Andreas Holbro, Prof. Dr. med.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Universitäts-Kinderspital beider Basel (UKBB)</name>
+      <address>
+        <city>Basel</city>
+        <zip>4056</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Tamara Diesch- Furlanetto, Dr. med.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Tamara Diesch- Furlanetto, Dr. med.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsspital Bern, Klinik für Infektiologie</name>
+      <address>
+        <city>Bern</city>
+        <zip>3010</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Urban Novak, Prof. Dr. med.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Urban Novak, Prof. Dr. med.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpitaux Universitaires de Genève, Hôpital des Enfants</name>
+      <address>
+        <city>Genève</city>
+        <zip>1205</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Marc Ansari, Prof. Dr. med.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Marc Ansari, Prof. Dr. med.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpitaux Universitaires de Genève, Service d'Hématologie</name>
+      <address>
+        <city>Genève</city>
+        <zip>1211</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Yves Chalandon, Prof. Dr. med.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Yves Chalandon, Prof. Dr. med.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre hospitalier universitaire vaudois, Service et Laboratoire central d'hématologie</name>
+      <address>
+        <city>Lausanne</city>
+        <zip>1011</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Michel Duchosal, Prof. Dr. med.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Michel Duchosal, Prof. Dr. med.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kinderspital Zürich</name>
+      <address>
+        <city>Zürich</city>
+        <zip>8032</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Tayfun Güngör, Prof. Dr. med.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Tayfun Güngör, Prof. Dr. med.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Zurich, Hämatologie</name>
+      <address>
+        <city>Zürich</city>
+        <zip>8091</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Dominik Schneidawind, PD Dr. med.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Nathan Wolfensberger, Dr. med.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Dominik Schneidawind, PD Dr. med.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>December 21, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>March 31, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 31, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>EBV-driven Lymphomas</keyword>
+  <keyword>EBV disease</keyword>
+  <keyword>Epstein-Barr Virus (EBV)</keyword>
+  <keyword>Memory Stem Cell Therapy</keyword>
+  <keyword>Epstein-Barr Virus-specific T Memory Stem Cell Therapy (EBV-Tscm)</keyword>
+  <keyword>cytotoxic T-cell line (CTL)</keyword>
+  <keyword>T memory stem cells (Tscm)</keyword>
+  <keyword>T-cell receptor (TCR)</keyword>
+  <keyword>post-transplant lymphoproliferative disease (PTLD)</keyword>
+  <keyword>Wnt-β-catenin inhibition</keyword>
+  <keyword>hematopoietic cell transplantation (HCT)</keyword>
+  <keyword>Hematopoietic stem cell transplantation (HSCT)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoproliferative Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

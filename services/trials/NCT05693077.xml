@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9669">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05693077</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CloDiCo</org_study_id>
+    <nct_id>NCT05693077</nct_id>
+  </id_info>
+  <brief_title>Clostridioides Difficile Colonisation</brief_title>
+  <acronym>CloDiCo</acronym>
+  <official_title>Establishing Colonisation With Non-toxigenic Clostridioides Difficile in Healthy Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Leiden University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Leiden University Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will investigate experimental colonisation with non-toxigenic C.difficile (NTCD)&#xD;
+      in healthy volunteers. Main outcomes will be safety, tolerability, dose needed to obtain&#xD;
+      colonisation with NTCD and host microbiota factors associated with colonisation.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This will be an adaptive design, randomised double-blind controlled clinical trial&#xD;
+      investigating oral exposure to NTCD spores in healthy volunteers, who are not colonised with&#xD;
+      C.difficile prior to the study and have not used antibiotics within one month prior to&#xD;
+      inclusion. A total of 50 volunteers will be included, divided over two consecutive&#xD;
+      intervention phases. The first phase will consist of 25 volunteers, randomised in three&#xD;
+      groups: group A (N=10) will receive 5 doses of 10E4 NTCD spores, group B (N=10) will receive&#xD;
+      5 doses of 10E7 NTCD spores and group C (N=5) will receive 5 doses of placebo. Depending on&#xD;
+      the outcome of phase 1, the dose given in phase 2 will either be reduced (if colonisation&#xD;
+      frequency in phase 1 is high), or the doses will be preceded by vancomycin pre-treatment (if&#xD;
+      the colonisation frequency in phase 1 is low) according to predefined criteria. The second&#xD;
+      phase will also consist of 25 volunteers, randomized in 3 groups: group D (N=10), group E&#xD;
+      (N=10) and the control group F (N=5).&#xD;
+&#xD;
+      All volunteers in both phases will visit the trial center on the days of spores or placebo&#xD;
+      ingestion, with collection of feces for C.difficile and microbiota analysis before ingestion.&#xD;
+      During the four follow-up weeks volunteers will visit the trial center three times a week for&#xD;
+      fecal sample collection (for Cdiff and microbiota analysis), with weekly follow-up visit for&#xD;
+      AE collection and 2 times a safety blood tests. After three months there will be a final&#xD;
+      follow-up visit for AEs and fecal sample collection. Should a volunteer still be positive for&#xD;
+      C.difficile at the three month timepoint, the volunteer is asked to return for follow-up&#xD;
+      every one to two months for fecal sample collection until the sample is negative for&#xD;
+      C.difficile, up till a maximum of one year after the start of the trial. Because colonisation&#xD;
+      with NTCD is very common in the general population, NTCD colonisation will not be terminated&#xD;
+      with antibiotics. Rescue treatment for NTCD is available in case of unexpected adverse&#xD;
+      events.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2023</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The trial consists of two sequential phases with each three parallel intervention arms. Both phases consist of 25 volunteers divided over the three intervention arms.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>The trial is double-blind, placebo-controlled.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety and tolerability of colonisation with non-toxigenic C.difficile</measure>
+    <time_frame>During the first month after ingestion of NTCD spores.</time_frame>
+    <description>Number and grade of related adverse events from day 1 to 28 after ingestion of (two different doses of) NTCD spores or placebo</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Dose needed to obtain colonisation with non-toxigenic C. difficile.</measure>
+    <time_frame>During the first month after ingestion of NTCD spores.</time_frame>
+    <description>The number of volunteers successfully colonised with non-toxigenic C.difficile. Colonisation is defined as a positive PCR for C.difficile on stool or a positive culture for C.difficile on at least two timepoints between three days and four weeks post-exposure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determine markers in the host microbiota prior to exposure associated with colonisation.</measure>
+    <time_frame>3 months after ingestion of NTCD spores.</time_frame>
+    <description>Microbiota markers prior to exposure which are associated with C.difficile colonisation through microbiota analysis with 16S amplicon sequencing.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Determine changes in the host microbiota following colonisation.</measure>
+    <time_frame>3 months after ingestion of NTCD spores.</time_frame>
+    <description>Identification of changes in microbiota components following C.difficile colonisation through microbiota analysis with 16S amplicon sequencing.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Investigate C. difficile in-vivo evolution.</measure>
+    <time_frame>3 months after ingestion of NTCD spores.</time_frame>
+    <description>Identification of genetic changes of C.difficile after passage through the human host through C.difficile PCR and culturing.</description>
+  </other_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Clostridioides Difficile Infection</condition>
+  <arm_group>
+    <arm_group_label>Group A (phase 1) (N=10)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>5 doses of 10E4 NTCD spores on day 0-4.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group B (phase 1) (N=10)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>5 doses of 10E7 NTCD spores on day 0-4.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group C (phase 1) (N=5)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>5 doses of placebo on day 0-4.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group D (phase 2) (N=10)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Based upon the colonisation results of phase 1, there are three dosing options for this group, one of the three options will be chosen, the chosen option number will be congruent for all of the groups:&#xD;
+Option 1: 3 doses of 10E4 NTCD spores on day 0-2.&#xD;
+Option 2: 3 doses of 10E7 NTCD spores on day 0-2.&#xD;
+Option 3: 1 dose of vancomycin on day -7, followed by 5 doses of 10E4 NTCD spores on day 0-4.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group E (phase 2) (N=10)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Based upon the colonisation results of phase 1, there are three dosing options for this group, one of the three options will be chosen, the chosen option number will be congruent for all of the groups:&#xD;
+Option 1: 1 dose of 10E4 NTCD spores on day 0, and 2 doses of placebo on day 1-2.&#xD;
+Option 2: 1 dose of 10E7 NTCD spores on day 0, and 2 doses of placebo on day 1-2.&#xD;
+Option 3: 1 dose vancomycin on day -7 folllowed by 5 doses of 10E7 NTCD spores on day 0-4.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group F (phase 2) (N=5)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Based upon the colonisation results of phase 1, there are three dosing options for this group, one of the three options will be chosen, the chosen option number will be congruent for all of the groups:&#xD;
+Option 1: 3 doses of placebo on day 0-2.&#xD;
+Option 2: 3 doses of placebo on day 0-2.&#xD;
+Option 3: 1 dose of vancomycin on day -7, followed by 5 doses of placebo on day 0-4.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>10E4 NTCD spores</intervention_name>
+    <description>in enteric capsule for oral ingestion.</description>
+    <arm_group_label>Group A (phase 1) (N=10)</arm_group_label>
+    <arm_group_label>Group D (phase 2) (N=10)</arm_group_label>
+    <arm_group_label>Group E (phase 2) (N=10)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>10E7 NTCD spores</intervention_name>
+    <description>in enteric capsule for oral ingestion.</description>
+    <arm_group_label>Group B (phase 1) (N=10)</arm_group_label>
+    <arm_group_label>Group D (phase 2) (N=10)</arm_group_label>
+    <arm_group_label>Group E (phase 2) (N=10)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>placebo</intervention_name>
+    <description>in enteric capsule for oral ingestion.</description>
+    <arm_group_label>Group C (phase 1) (N=5)</arm_group_label>
+    <arm_group_label>Group F (phase 2) (N=5)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vancomycin</intervention_name>
+    <description>One dose of Vancomycin (250mg)</description>
+    <arm_group_label>Group D (phase 2) (N=10)</arm_group_label>
+    <arm_group_label>Group E (phase 2) (N=10)</arm_group_label>
+    <arm_group_label>Group F (phase 2) (N=5)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        In order to be eligible to participate in this study, a subject must meet all of the&#xD;
+        following criteria:&#xD;
+&#xD;
+          1. Subject is aged ≥ 18 and ≤ 45 years and in good health.&#xD;
+&#xD;
+          2. Subject has adequate understanding of the procedures of the study and is able and&#xD;
+             willing to abide strictly thereby.&#xD;
+&#xD;
+          3. For female subjects: subject agrees to use adequate contraception and not to&#xD;
+             breastfeed for the duration of study.&#xD;
+&#xD;
+          4. Subject has signed informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        A potential subject who meets any of the following criteria will be excluded from&#xD;
+        participation in this study:&#xD;
+&#xD;
+          1. Any physical or psychiatric illness or conditions that could threaten or compromise&#xD;
+             the health of the subject during the study, influence their ability to participate in&#xD;
+             the trial or interfere with the interpretation of the study results, as determined by&#xD;
+             the trial physician.&#xD;
+&#xD;
+          2. Use of antibiotics within one month prior to inclusion.&#xD;
+&#xD;
+          3. Known immunosuppressive condition, including infection with Human Immunodeficiency&#xD;
+             Virus (HIV), use of systemic corticosteroids or other immune modifying drugs (with&#xD;
+             exception of antihistamines and topical steroids).&#xD;
+&#xD;
+          4. Regular use (defined by more than once weekly) of proton-pump inhibitors or H2-&#xD;
+             blockers during one month prior to inclusion.&#xD;
+&#xD;
+          5. The use of strong P-glycoprotein-inhibitors (like Ciclosporin, Ketoconazole,&#xD;
+             Erythromycin, Clarithromycin, Verapamil and Amiodaron).&#xD;
+&#xD;
+          6. Known allergy to vancomycin, metronidazole or fidaxomicin.&#xD;
+&#xD;
+          7. Known allergy to glycerol.&#xD;
+&#xD;
+          8. Known immunodeficiency disorders.&#xD;
+&#xD;
+          9. Known gastro-intestinal disease including but not limited to inflammatory bowel&#xD;
+             diseases (Crohn's disease, Colitis Ulcerosa), recent gastro-intestinal surgery,&#xD;
+             constipation defined by bowel movements less than every second day.&#xD;
+&#xD;
+         10. Positive fecal culture or PCR with Clostridiodes or SSYC (Salmonella, Shigella,&#xD;
+             Yersinia or Campylobacter spp.) at screening.&#xD;
+&#xD;
+         11. Any condition that would put household members at a greater risk for transmission e.g.&#xD;
+             no access or use of flush toilet, household members belonging to vulnerable&#xD;
+             populations such as persons who are immunocompromised, children younger than 2 years&#xD;
+             of age and elderly older than 70 years of age.&#xD;
+&#xD;
+         12. For women of child bearing potential: a positive serological pregnancy test at&#xD;
+             screening or lactating at screening / during the trial.&#xD;
+&#xD;
+         13. Being an employee or student of the Experimental bacteriology group or the controlled&#xD;
+             human infection center at LUMC.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Meta Roestenberg, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Leiden University Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Meta Roestenberg, MD, PhD</last_name>
+    <phone>+31715262102</phone>
+    <email>M.Roestenberg@lumc.nl</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Leiden University Medical Center</name>
+      <address>
+        <city>Leiden</city>
+        <zip>2333 ZA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 21, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>January 11, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 11, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Leiden University Medical Center</investigator_affiliation>
+    <investigator_full_name>Meta Roestenberg</investigator_full_name>
+    <investigator_title>Prof. dr.</investigator_title>
+  </responsible_party>
+  <keyword>Colonization</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Clostridium Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vancomycin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

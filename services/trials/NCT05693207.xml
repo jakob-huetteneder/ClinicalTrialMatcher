@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9665">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05693207</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TASMC-21-NG-0515-CTIL</org_study_id>
+    <nct_id>NCT05693207</nct_id>
+  </id_info>
+  <brief_title>EMG to Detect and Monitor Freezing of Gait Among People With Parkinson's Disease</brief_title>
+  <official_title>EMG to Detect and Monitor Freezing of Gait Among People With Parkinson's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tel-Aviv Sourasky Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Tel-Aviv Sourasky Medical Center</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main goal of this study is to evaluate, via EMG (electromyography) system, the muscle&#xD;
+      activity in the lower limbs, to understand the contribution of the muscle activity to FOG&#xD;
+      (freezing of gait) in Parkinson's patients. The phenomenon of FOG appears in advanced cases&#xD;
+      of Parkinson's disease (PD) and can lead to an increased risk of falls. There are several&#xD;
+      approaches claiming that there is abnormal activity in the calf muscles and the freezing&#xD;
+      events in Parkinson's patients. In the clinic, monitoring FOG is done subjectively, usually&#xD;
+      through observations or through questionnaires. As a result, the information about the&#xD;
+      phenomenon may be biased and insensitive. With an electromyographic monitor (EMG), objective&#xD;
+      information about the muscular activity during normal walking and during unusual events can&#xD;
+      be obtained.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The subject will arrive independently at the Tel Aviv Medical Center. After explaining the&#xD;
+      course of the study and signing a consent form, the subject will be administered the MoCA&#xD;
+      questionnaire to assess the cognitive state.&#xD;
+&#xD;
+      During this session, the patient will undergo gait evaluation using motion sensors and an EMG&#xD;
+      device.&#xD;
+&#xD;
+      This meeting will last up to an hour, according to the following breakdown:&#xD;
+&#xD;
+      Explanation of the test (10 min) Preparing the skin (light disinfection with alcohol) for EMG&#xD;
+      adhesion (10 min.) Performing of the test (20 minutes) Summary and discharge (5 min).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 7, 2021</start_date>
+  <completion_date type="Anticipated">December 23, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 23, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage time of co-contractions</measure>
+    <time_frame>60 minutes</time_frame>
+    <description>The time of co-contraction during walking will be higher among people with FOG.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Evaluation of Muscle Contraction in People With PD</condition>
+  <arm_group>
+    <arm_group_label>People with iPD with freezing of gait</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>People with iPD without freezing of gait</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>control group</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>EMG</intervention_name>
+    <description>wearables EMG</description>
+    <arm_group_label>People with iPD with freezing of gait</arm_group_label>
+    <arm_group_label>People with iPD without freezing of gait</arm_group_label>
+    <other_name>Accelerometers and gyroscopes</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria for patients:&#xD;
+&#xD;
+          1. Men and women aged 40-89.&#xD;
+&#xD;
+          2. Patients with idiopathic Parkinson's disease according to the diagnosis of a&#xD;
+             neurologist, who are able to walk with or without a walking aid for at least 5&#xD;
+             minutes.&#xD;
+&#xD;
+          3. 21 or above in MoCA test.&#xD;
+&#xD;
+          4. people who gave their written and oral consent to participate in the study.&#xD;
+&#xD;
+        Inclusion criteria for healthy people:&#xD;
+&#xD;
+          1. Men and women aged 40-89.&#xD;
+&#xD;
+          2. 24 or above in MoCA test.&#xD;
+&#xD;
+          3. Without a neurological, cardiovascular or orthopedic disorder, which could affect the&#xD;
+             normal walking pattern, and all within the researcher's decision.&#xD;
+&#xD;
+        Criteria for exclusion from the experiment:&#xD;
+&#xD;
+          1. The patient has serious side effects that are not suitable for continuing in the&#xD;
+             study.&#xD;
+&#xD;
+          2. The patient does not wish to continue his participation in the study.&#xD;
+&#xD;
+        Exclusion criteria for Parkinson's patients:&#xD;
+&#xD;
+          1. Neurological or other psychiatric disorder (such as MSA, PSP, after a stroke with&#xD;
+             neurological signs, dementia diseases, clinical depression) at the researcher's&#xD;
+             decision.&#xD;
+&#xD;
+          2. History of head injury - traumatic brain injury or cerebrovascular accident (CVA)&#xD;
+&#xD;
+          3. This study will not include pregnant women and children.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>89 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nir Giladi, Prof</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Study Principal Investigator Tel-Aviv Sourasky Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jeffrey Hausdorff, Phd</last_name>
+    <phone>972-3-6974958</phone>
+    <email>jhausdor@tasmc.health.gov.il</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>David Buzaglo, B.pt</last_name>
+    <email>davidbuz@tlvmc.gov.il</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Tel aviv medical center</name>
+      <address>
+        <city>Tel Aviv</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Buzaglo, B.pt</last_name>
+      <phone>+972 36947513</phone>
+      <email>davidbuz@tlvmc.gov.il</email>
+    </contact>
+    <contact_backup>
+      <last_name>Marina Brozgol, M.sc</last_name>
+      <phone>+972 36947513</phone>
+      <email>marinab@tlvmc.gov.il</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+  </location_countries>
+  <reference>
+    <citation>Pringsheim T, Jette N, Frolkis A, Steeves TD. The prevalence of Parkinson's disease: a systematic review and meta-analysis. Mov Disord. 2014 Nov;29(13):1583-90. doi: 10.1002/mds.25945. Epub 2014 Jun 28.</citation>
+    <PMID>24976103</PMID>
+  </reference>
+  <reference>
+    <citation>Bloem BR, Hausdorff JM, Visser JE, Giladi N. Falls and freezing of gait in Parkinson's disease: a review of two interconnected, episodic phenomena. Mov Disord. 2004 Aug;19(8):871-84. doi: 10.1002/mds.20115.</citation>
+    <PMID>15300651</PMID>
+  </reference>
+  <reference>
+    <citation>Silva de Lima AL, Evers LJW, Hahn T, Bataille L, Hamilton JL, Little MA, Okuma Y, Bloem BR, Faber MJ. Freezing of gait and fall detection in Parkinson's disease using wearable sensors: a systematic review. J Neurol. 2017 Aug;264(8):1642-1654. doi: 10.1007/s00415-017-8424-0. Epub 2017 Mar 1.</citation>
+    <PMID>28251357</PMID>
+  </reference>
+  <reference>
+    <citation>Hanein Y, Mirelman A. The Home-Based Sleep Laboratory. J Parkinsons Dis. 2021;11(s1):S71-S76. doi: 10.3233/JPD-202412.</citation>
+    <PMID>33682729</PMID>
+  </reference>
+  <reference>
+    <citation>Inzelberg L, David-Pur M, Gur E, Hanein Y. Multi-channel electromyography-based mapping of spontaneous smiles. J Neural Eng. 2020 Apr 9;17(2):026025. doi: 10.1088/1741-2552/ab7c18.</citation>
+    <PMID>32271717</PMID>
+  </reference>
+  <reference>
+    <citation>Mazzetta I, Zampogna A, Suppa A, Gumiero A, Pessione M, Irrera F. Wearable Sensors System for an Improved Analysis of Freezing of Gait in Parkinson's Disease Using Electromyography and Inertial Signals. Sensors (Basel). 2019 Feb 23;19(4):948. doi: 10.3390/s19040948.</citation>
+    <PMID>30813411</PMID>
+  </reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>December 27, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 12, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>January 12, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 12, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Parkinson Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

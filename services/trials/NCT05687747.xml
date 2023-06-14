@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9906">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05687747</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022/00487</org_study_id>
+    <nct_id>NCT05687747</nct_id>
+  </id_info>
+  <brief_title>Single Centre Prospective Evaluation of 68Gallium-FAPI PET/MRI in Hepatocellular Carcinoma</brief_title>
+  <official_title>Single Centre Prospective Evaluation of 68Gallium-FAPI PET/MRI in Hepatocellular Carcinoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National University Hospital, Singapore</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National University of Singapore</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National University Hospital, Singapore</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Single centre prospective evaluation of 68Gallium(Ga68)-FAPI-46 PET/MRI in patients diagnosed&#xD;
+      with Hepatocellular Carcinoma (HCC). 68Gallium-FAPI-46 PET/MRI and standard contrasted&#xD;
+      multiphasic MRI imaging will be acquired in patients with radiological or histological&#xD;
+      diagnosis of HCC. The PET scan results will be compared to standard imaging to evaluate its&#xD;
+      role in lesion detection, characterisation and staging in patients with HCC.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2023</start_date>
+  <completion_date type="Anticipated">December 2025</completion_date>
+  <primary_completion_date type="Anticipated">March 2025</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Sensitivity of FAPI-PET/MRI to detect intrahepatic HCC using contrasted multiphasic MRI liver as standard comparison</measure>
+    <time_frame>1 year</time_frame>
+    <description>Calculated as: Number of MRI detected HCC lesions with FAPI-46 uptake / number of MRI detected intrahepatic HCC lesions</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Determine the proportion of cases whereby use of FAPI-46 PET/MRI leds to AJCC TNM/BCLC stage being, i) unchanged, ii) up-staged and iii) down-staged</measure>
+    <time_frame>1 year</time_frame>
+    <description>Calculated as: number of HCC lesions identified on standard of care imaging with FAPI-46 uptake / total number of HCC lesions on standard of care imaging</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sensitivity estimation of 68Gallium-FAPI-46 PET/MRI in per-lesion analysis for all lesions with available surgical resection samples for histopathology assessment</measure>
+    <time_frame>1 year</time_frame>
+    <description>Calculated as: Number of pathologically confirmed HCC lesions identified on FAPI PET/MRI / total number of pathological confirmed HCC lesions</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Hepatocellular Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>68Gallium-FAPI-46 PET/MRI</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receiving Ga68-FAPI-46 will be injected at a dose of 4mCi +/- 2mCi (0.05mCi/kg). Whole body PET scans will be acquired 45mins post injection from head to mid thighs</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Radiolabelled tracer, 68Gallium-FAPI-46 PET/MRI</intervention_name>
+    <description>68Gallium-FAPI-46 PET/MRI is a novel radioactive diagnostic tracer used with Positron Emission Tomography imaging. It defects Fibroblast Activation Protein positive cancer cells and cancer associated fibroblasts.</description>
+    <arm_group_label>68Gallium-FAPI-46 PET/MRI</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 21-99 years&#xD;
+&#xD;
+          -  Diagnosis of HCC based on histological assessment, or meeting consensus radiological&#xD;
+             criteria for diagnosis of HCC based on American Association for the Study of Liver&#xD;
+             Diseases practice guidelines(18)&#xD;
+&#xD;
+          -  No prior locoregional therapy for HCC&#xD;
+&#xD;
+          -  Creatinine clearance &gt; 30ml/min based on Cockcroft Gault formula&#xD;
+&#xD;
+          -  Able to provide informed signed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Allergy to 68Ga-FAPI contrast agents&#xD;
+&#xD;
+          -  Contraindication to MRI, including but not limited to MRI incompatible metallic&#xD;
+             implants, cardiac pacemaker, claustrophobia&#xD;
+&#xD;
+          -  Weight &gt; 150kg&#xD;
+&#xD;
+          -  Known active malignancy other than HCC&#xD;
+&#xD;
+          -  Hepatic surgery within the last 30 days.&#xD;
+&#xD;
+          -  Active inflammatory conditions that may affect FAPI imaging in opinion of&#xD;
+             investigator. Including but not limited to active infection, IgG4-related disease,&#xD;
+             inflammatory bowel disease,&#xD;
+&#xD;
+          -  Pregnancy (all women of childbearing age are required to undertake a urine pregnancy&#xD;
+             test)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Sung H, Ferlay J, Siegel RL, Laversanne M, Soerjomataram I, Jemal A, Bray F. Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. CA Cancer J Clin. 2021 May;71(3):209-249. doi: 10.3322/caac.21660. Epub 2021 Feb 4.</citation>
+    <PMID>33538338</PMID>
+  </reference>
+  <reference>
+    <citation>Wang G, Zhu S, Li X. Comparison of values of CT and MRI imaging in the diagnosis of hepatocellular carcinoma and analysis of prognostic factors. Oncol Lett. 2019 Jan;17(1):1184-1188. doi: 10.3892/ol.2018.9690. Epub 2018 Nov 12.</citation>
+    <PMID>30655882</PMID>
+  </reference>
+  <reference>
+    <citation>Wong S. Update on Positron Emission Tomography for Hepatocellular Carcinoma. Hong Kong J Radiol. 2017;20:192-204.</citation>
+  </reference>
+  <reference>
+    <citation>Aertgeerts K, Levin I, Shi L, Snell GP, Jennings A, Prasad GS, Zhang Y, Kraus ML, Salakian S, Sridhar V, Wijnands R, Tennant MG. Structural and kinetic analysis of the substrate specificity of human fibroblast activation protein alpha. J Biol Chem. 2005 May 20;280(20):19441-4. doi: 10.1074/jbc.C500092200. Epub 2005 Apr 4.</citation>
+    <PMID>15809306</PMID>
+  </reference>
+  <reference>
+    <citation>Koustoulidou S, Hoorens MWH, Dalm SU, Mahajan S, Debets R, Seimbille Y, de Jong M. Cancer-Associated Fibroblasts as Players in Cancer Development and Progression and Their Role in Targeted Radionuclide Imaging and Therapy. Cancers (Basel). 2021 Mar 4;13(5):1100. doi: 10.3390/cancers13051100.</citation>
+    <PMID>33806468</PMID>
+  </reference>
+  <reference>
+    <citation>Wang XM, Yu DM, McCaughan GW, Gorrell MD. Fibroblast activation protein increases apoptosis, cell adhesion, and migration by the LX-2 human stellate cell line. Hepatology. 2005 Oct;42(4):935-45. doi: 10.1002/hep.20853.</citation>
+    <PMID>16175601</PMID>
+  </reference>
+  <reference>
+    <citation>Ju MJ, Qiu SJ, Fan J, Xiao YS, Gao Q, Zhou J, Li YW, Tang ZY. Peritumoral activated hepatic stellate cells predict poor clinical outcome in hepatocellular carcinoma after curative resection. Am J Clin Pathol. 2009 Apr;131(4):498-510. doi: 10.1309/AJCP86PPBNGOHNNL.</citation>
+    <PMID>19289585</PMID>
+  </reference>
+  <reference>
+    <citation>Henry LR, Lee HO, Lee JS, Klein-Szanto A, Watts P, Ross EA, Chen WT, Cheng JD. Clinical implications of fibroblast activation protein in patients with colon cancer. Clin Cancer Res. 2007 Mar 15;13(6):1736-41. doi: 10.1158/1078-0432.CCR-06-1746.</citation>
+    <PMID>17363526</PMID>
+  </reference>
+  <reference>
+    <citation>Gascard P, Tlsty TD. Carcinoma-associated fibroblasts: orchestrating the composition of malignancy. Genes Dev. 2016 May 1;30(9):1002-19. doi: 10.1101/gad.279737.116.</citation>
+    <PMID>27151975</PMID>
+  </reference>
+  <reference>
+    <citation>Giesel FL, Adeberg S, Syed M, Lindner T, Jimenez-Franco LD, Mavriopoulou E, Staudinger F, Tonndorf-Martini E, Regnery S, Rieken S, El Shafie R, Rohrich M, Flechsig P, Kluge A, Altmann A, Debus J, Haberkorn U, Kratochwil C. FAPI-74 PET/CT Using Either 18F-AlF or Cold-Kit 68Ga Labeling: Biodistribution, Radiation Dosimetry, and Tumor Delineation in Lung Cancer Patients. J Nucl Med. 2021 Feb;62(2):201-207. doi: 10.2967/jnumed.120.245084. Epub 2020 Jun 26.</citation>
+    <PMID>32591493</PMID>
+  </reference>
+  <reference>
+    <citation>Watabe T, Liu Y, Kaneda-Nakashima K, Shirakami Y, Lindner T, Ooe K, Toyoshima A, Nagata K, Shimosegawa E, Haberkorn U, Kratochwil C, Shinohara A, Giesel F, Hatazawa J. Theranostics Targeting Fibroblast Activation Protein in the Tumor Stroma: 64Cu- and 225Ac-Labeled FAPI-04 in Pancreatic Cancer Xenograft Mouse Models. J Nucl Med. 2020 Apr;61(4):563-569. doi: 10.2967/jnumed.119.233122. Epub 2019 Oct 4.</citation>
+    <PMID>31586001</PMID>
+  </reference>
+  <reference>
+    <citation>Giesel FL, Kratochwil C, Schlittenhardt J, Dendl K, Eiber M, Staudinger F, Kessler L, Fendler WP, Lindner T, Koerber SA, Cardinale J, Sennung D, Roehrich M, Debus J, Sathekge M, Haberkorn U, Calais J, Serfling S, Buck AL. Head-to-head intra-individual comparison of biodistribution and tumor uptake of 68Ga-FAPI and 18F-FDG PET/CT in cancer patients. Eur J Nucl Med Mol Imaging. 2021 Dec;48(13):4377-4385. doi: 10.1007/s00259-021-05307-1. Epub 2021 Jun 17.</citation>
+    <PMID>34137945</PMID>
+  </reference>
+  <reference>
+    <citation>Sollini M, Kirienko M, Gelardi F, Fiz F, Gozzi N, Chiti A. State-of-the-art of FAPI-PET imaging: a systematic review and meta-analysis. Eur J Nucl Med Mol Imaging. 2021 Dec;48(13):4396-4414. doi: 10.1007/s00259-021-05475-0. Epub 2021 Jun 25.</citation>
+    <PMID>34173007</PMID>
+  </reference>
+  <reference>
+    <citation>Shi X, Xing H, Yang X, Li F, Yao S, Congwei J, Zhao H, Hacker M, Huo L, Li X. Comparison of PET imaging of activated fibroblasts and 18F-FDG for diagnosis of primary hepatic tumours: a prospective pilot study. Eur J Nucl Med Mol Imaging. 2021 May;48(5):1593-1603. doi: 10.1007/s00259-020-05070-9. Epub 2020 Oct 24.</citation>
+    <PMID>33097975</PMID>
+  </reference>
+  <reference>
+    <citation>Giesel FL, Kratochwil C, Lindner T, Marschalek MM, Loktev A, Lehnert W, Debus J, Jager D, Flechsig P, Altmann A, Mier W, Haberkorn U. 68Ga-FAPI PET/CT: Biodistribution and Preliminary Dosimetry Estimate of 2 DOTA-Containing FAP-Targeting Agents in Patients with Various Cancers. J Nucl Med. 2019 Mar;60(3):386-392. doi: 10.2967/jnumed.118.215913. Epub 2018 Aug 2.</citation>
+    <PMID>30072500</PMID>
+  </reference>
+  <reference>
+    <citation>Meyer C, Dahlbom M, Lindner T, Vauclin S, Mona C, Slavik R, Czernin J, Haberkorn U, Calais J. Radiation Dosimetry and Biodistribution of 68Ga-FAPI-46 PET Imaging in Cancer Patients. J Nucl Med. 2020 Aug;61(8):1171-1177. doi: 10.2967/jnumed.119.236786. Epub 2019 Dec 13.</citation>
+    <PMID>31836685</PMID>
+  </reference>
+  <reference>
+    <citation>Marrero JA, Kulik LM, Sirlin CB, Zhu AX, Finn RS, Abecassis MM, Roberts LR, Heimbach JK. Diagnosis, Staging, and Management of Hepatocellular Carcinoma: 2018 Practice Guidance by the American Association for the Study of Liver Diseases. Hepatology. 2018 Aug;68(2):723-750. doi: 10.1002/hep.29913. No abstract available.</citation>
+    <PMID>29624699</PMID>
+  </reference>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>January 8, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 8, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>January 8, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 8, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 18, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Hepatocellular Carcinoma</keyword>
+  <keyword>68Ga-FAPI-46 PET/MRI</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Hepatocellular</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>FAPI-46</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

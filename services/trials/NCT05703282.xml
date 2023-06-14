@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9191">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05703282</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AD-104PK_N</org_study_id>
+    <nct_id>NCT05703282</nct_id>
+  </id_info>
+  <brief_title>A Study to Assess the Safety and Pharmacokinetics of AD-104-A</brief_title>
+  <official_title>A Parallel, Open-Label, Single-Dose Administration, Phase 1 Clinical Study to Assess the Safety and Pharmacokinetics of AD-104-A in Healthy Adult Volunteers and Patients With Renal Impairment</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Addpharma Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Addpharma Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Primary endpoint of this study is to evaluate the pharmacokinetic characteristics of AD-104-A&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this study is to evaluate the pharmacokinetic characteristics of AD-104-A in&#xD;
+      Healthy Adult Volunteers and Patients with Renal Impairment&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2023</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">November 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cmax</measure>
+    <time_frame>pre-dose to 192 hours</time_frame>
+    <description>To assess the Cmax of AD-104-A</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>AUC</measure>
+    <time_frame>pre-dose to 192 hours</time_frame>
+    <description>To assess the AUC of AD-104-A</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">32</enrollment>
+  <condition>Hyperlipidemias</condition>
+  <arm_group>
+    <arm_group_label>Renal Impairment 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Test Drug: AD-104-A</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Renal Impairment 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Test Drug: AD-104-A</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Renal Impairment 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Test Drug: AD-104-A</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Normal</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Test Drug: AD-104-A</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>AD-104-A</intervention_name>
+    <description>PO, Single-Dose, AD-104-A</description>
+    <arm_group_label>Normal</arm_group_label>
+    <arm_group_label>Renal Impairment 1</arm_group_label>
+    <arm_group_label>Renal Impairment 2</arm_group_label>
+    <arm_group_label>Renal Impairment 3</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        For all subjects&#xD;
+&#xD;
+          -  Adults aged 19 years and older&#xD;
+&#xD;
+          -  Body mass index(BMI) of 18 to 30 kg/m2&#xD;
+&#xD;
+          -  Voluntarily given written informed consent&#xD;
+&#xD;
+        For renal Impairment subjects&#xD;
+&#xD;
+          -  30 ≤ eGFR &lt; 90 mL/min/1.73m^2&#xD;
+&#xD;
+        For healthy subjects&#xD;
+&#xD;
+          -  eGFR ≥ 90 mL/min/1.73m^2&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participation in another clinical study with an investigational drug within the 6&#xD;
+             months from scheduled first administration&#xD;
+&#xD;
+          -  Other exclusions applied&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jeong Eun Park</last_name>
+    <phone>82-031-891-6989</phone>
+    <email>parkje@addpharma.co.kr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Seung Hwan Lee, M.D., Ph.D.</last_name>
+    <phone>+82-2-2072-2343</phone>
+    <email>leejh413@snu.ac.kr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <state>Jongno-gu</state>
+        <zip>03080</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Seung Hwan Lee, M.D., Ph.D.</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 18, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>January 26, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 26, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hyperlipidemias</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

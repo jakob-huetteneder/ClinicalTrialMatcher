@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9078">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05705687</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-006638-38</org_study_id>
+    <secondary_id>CSET 2021/3282</secondary_id>
+    <nct_id>NCT05705687</nct_id>
+  </id_info>
+  <brief_title>Validation of a Treatment Algorithm for Poor-Risk NSGCTnon Seminomatous Germ-cell Tumors</brief_title>
+  <acronym>VAPOR</acronym>
+  <official_title>A Prospective Program Aiming at Improving Outcome for Young Adults With Poor-prognosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Gustave Roussy, Cancer Campus, Grand Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Gustave Roussy, Cancer Campus, Grand Paris</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a prospective multicenter, non-randomized research program that includes:&#xD;
+&#xD;
+        -  a phase IV study (for all patients) with a collection of tissue specimens of tumor,&#xD;
+&#xD;
+        -  a phase II study (for patients with primary mediastinal tumors and an unfavorable&#xD;
+           decline in tumor markers),&#xD;
+&#xD;
+        -  and a diagnostic study (for all patients, except patients with brain metastases at&#xD;
+           baseline or patients for whom any brain MRI is contra-indicated).&#xD;
+&#xD;
+      The main question it aims to answer is improving outcome for young adults with poor-prognosis&#xD;
+      Non Seminomatous Germ Cell Tumor (NSGCT) is to validate prospectively the efficacy and safety&#xD;
+      of a personalized treatment based on early tumor marker kinetic assessment in real life for&#xD;
+      patients with poor-prognosis NSGCT.&#xD;
+&#xD;
+      Participants will be followed-up according to the assessment of decline kinetics of the tumor&#xD;
+      markers at the end of a first chemotherapy cycle and according to the localisation of the&#xD;
+      primary lesion if unfavorable.&#xD;
+&#xD;
+        -  In the case of a patient with a favorable decline of the tumor markers, he will be&#xD;
+           treated by 3 additional standard chemotherapy cycles.&#xD;
+&#xD;
+        -  In the case of a patient with a testicular or peritoneal primary tumor and an&#xD;
+           unfavorable decline of the tumor markers, the patient will be treated by a dose-dense&#xD;
+           standard therapy.&#xD;
+&#xD;
+        -  The patient with a mediastinal primary tumor and an unfavorable decline of the tumor&#xD;
+           markers will be proposed to enter the phase II part of the study or to enter the&#xD;
+           dose-dense regimen like the other primary localisations. If the patient consents and is&#xD;
+           eligible for phase II part, he will undergo either an early surgery if feasible or a&#xD;
+           high-dose chemotherapy if the early surgery is not possible.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 5, 2023</start_date>
+  <completion_date type="Anticipated">February 2037</completion_date>
+  <primary_completion_date type="Anticipated">February 2031</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free survival</measure>
+    <time_frame>From date of registration until the date of first documented progression or date of death from any cause, whichever came first, assessed up to 108 months after treatment</time_frame>
+    <description>Progression-free survival</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Non-Seminomatous Germ Cell Tumor</condition>
+  <arm_group>
+    <arm_group_label>Favorable-BEP group</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Favorable decline of tumor markers&#xD;
+3 subsequent cycles of protocol BEP every 3 weeks&#xD;
+Cisplatin 20 mg/m2/day IV x 5 days (D1 to D5),&#xD;
+Etoposide 100 mg/m2/day IV x 5 days (D1 to D5)&#xD;
+Bleomycin 30 mg/day IV or IM D1, D8, and D15.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Unfavorable-dose-dense group</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Unfavorable decline of tumor markers, testicular or peritoneal primary tumor&#xD;
+2 cycles every 3 weeks of :&#xD;
+Paclitaxel 175 mg/m2 IV over 3 hours on Day 1,&#xD;
+Cisplatin 20 mg/m2/day IV x 5 days (D1 to D5),&#xD;
+Etoposide 100 mg/m2/day IV x 5 days (D1 to D5)&#xD;
+Bleomycin 30 mg/day IV or IM D1, D8, and D15.&#xD;
+Oxaliplatin 130 mg/m2 IV over 3 hours, given on Day 10,&#xD;
+G-CSF 263 microg/day SC, to be started one day after chemotherapy and stopped one day before the next scheduled chemotherapy cycle (D6-7, D9, D11-14, D16-20).&#xD;
+Then, 2 cycles every 3 weeks of :&#xD;
+Cisplatin 100 mg/m2 IV over 2 hours on Day 1,&#xD;
+Bleomycin 25 mg/day, by continuous IV infusion over 24 hours for 5 days from Day 10 to Day 14,&#xD;
+Ifosfamide 2 g/m2 IV over 3 hours on Days 10, 12, and 14,&#xD;
+Mesna 500 mg/m2 IV at time-points 0, 3, 7 and 11 hours on the days when ifosfamide is administered (mesna could also be given orally),&#xD;
+G-CSF 263 microg/day SC on Days 2 to 9 and Days 16 to 20.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Unfavorable-phase II group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Unfavorable decline of tumor markers, mediastinal primary tumor, proposal to the patient to enter the phase II part. If patient refusal or ineligible for phase II group, the patient will enter the Unfavorable-dose-dense group.&#xD;
+1 additional cycle of&#xD;
+Paclitaxel 250 mg/m² on Day 1 over the day,&#xD;
+Ifosfamide 1,5 mg/m²,&#xD;
+Mesna 500 mg/m2 IV at time-points 0, 3, 7 and 11 hours on the days when ifosfamide is administered (mesna could also be given orally),&#xD;
+Cisplatin 25 mg/m² from Day 1 to Day 5,&#xD;
+Collection of HSC.&#xD;
+Then&#xD;
+if no metastases are detectable and the resection is technically feasible : early surgery whenever possible, followed by 2 additional cycles of TIP chemotherapy every 3 weeks&#xD;
+if surgery is not possible or in case of metastatic disease : HDCT (including 3 cycles of the CE regimen (carboplatin AUC 8, using the Calvert formula, from Day 1 to Day 3 and etoposide 400 mg/m² from Day 1 to Day 3)) plus HSC support, followed by surgery of residual deposits.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BEP Protocol</intervention_name>
+    <description>anticancer therapy</description>
+    <arm_group_label>Favorable-BEP group</arm_group_label>
+    <other_name>Dose-dense protocol</other_name>
+    <other_name>Early surgery or high-dose chemotherapy</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dose-dense regimen</intervention_name>
+    <description>T-BEP-Oxaliplatin followed by Cisplatin - Ifosfamide - Paclitaxel</description>
+    <arm_group_label>Unfavorable-dose-dense group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Early tumor resection or HD-CT</intervention_name>
+    <description>TIP protocol + early surgery or high-dose chemotherapy if surgery not feasible or metastatic disease</description>
+    <arm_group_label>Unfavorable-phase II group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male patient older than 16 years old on day of signing informed consent&#xD;
+&#xD;
+          -  Patient with evidence of NSGCT based on histologic examination or based on clinical&#xD;
+             evidence and elevated serum hCG or AFP levels (in case of clinical emergency, therapy&#xD;
+             can be started before pathologic sample is obtained if tumor markers are highly&#xD;
+             elevated)&#xD;
+&#xD;
+          -  Patient with testicular, retroperitoneal, or mediastinal primary site&#xD;
+&#xD;
+          -  Patient with evidence of disseminated disease (clinical stages II or III according to&#xD;
+             AJCC 8th edition)&#xD;
+&#xD;
+          -  Patient with disease classified as poor prognosis according to IGCCCG criteria:&#xD;
+&#xD;
+          -  Primary mediastinal NSGCT or,&#xD;
+&#xD;
+          -  Non-pulmonary visceral metastases or,&#xD;
+&#xD;
+          -  hCG &gt; 50 000 UI/L, or AFP &gt; 10 000 ng/mL, or LDH &gt; 10 times the upper normal value&#xD;
+&#xD;
+          -  Patient with adequate renal function: measured or calculated (by Cockcroft formula)&#xD;
+             creatinine clearance &gt; 60 mL/min. Cockcroft formula: CrCl = [(140-age) x weight in&#xD;
+             kg]/[72 x serum creatinine (mg/dL)]&#xD;
+&#xD;
+          -  Patient with absolute granulocyte count &gt; or = 1,500/mm^3, platelets &gt; or = 100,000&#xD;
+             mm^3, bilirubin &lt; or = 1.5x the upper limit of normal value.&#xD;
+&#xD;
+          -  Patient with a contra-indication of undergoing any brain MRI are eligible, but will&#xD;
+             not be part of the diagnostic study part&#xD;
+&#xD;
+          -  Patient (and his legal guardian for under-18 patient) who had understood, signed and&#xD;
+             dated the informed consent form&#xD;
+&#xD;
+          -  Patient affiliated to social security system or beneficiary of the same&#xD;
+&#xD;
+          -  Male of child-bearing potential, must agree to use two methods (one for the patient&#xD;
+             and one for the partner) of medically acceptable forms of contraception during the&#xD;
+             study and for 6 months after the last treatment intake.&#xD;
+&#xD;
+        Inclusion criteria specific to the phase 2 study in patients with unfavorable serum marker&#xD;
+        decrease and mediastinal primary tumor (to be confirmed before the end of the 1st BEP&#xD;
+        cycle)&#xD;
+&#xD;
+          -  Patient (and his legal guardian for under-18 patient) who had understood, signed and&#xD;
+             dated the specific Phase II informed consent form&#xD;
+&#xD;
+          -  Patient with mediastinal primary site&#xD;
+&#xD;
+          -  Patient with unfavorable serum marker decrease evaluated at D18-D21 of the first&#xD;
+             BEP-chemotherapy&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient infected by the Human Immunodeficiency Virus (HIV)&#xD;
+&#xD;
+          -  Patient under guardianship or deprived of his liberty by a judicial or administrative&#xD;
+             decision or incapable of giving its consent&#xD;
+&#xD;
+          -  Patient with prior chemotherapy. Patients who have received a first cycle of&#xD;
+             cisplatin-base chemotherapy (BEP) for their poor-prognosis NSGCT are eligible as far&#xD;
+             as tumor marker decline can be assessed at day 18-21.&#xD;
+&#xD;
+          -  Patient with previous malignancy, except for basal-cell carcinoma of the skin&#xD;
+&#xD;
+          -  Known allergy or hypersensitivity to any of the study drugs&#xD;
+&#xD;
+        Non inclusion criteria specific to the phase 2 study in patients with unfavorable serum&#xD;
+        marker decrease and mediastinal primary tumor (to be confirmed before the end of the 1st&#xD;
+        BEP cycle)&#xD;
+&#xD;
+          -  Patient (and his legal guardian for under-18 patient) who withdraws his consent&#xD;
+&#xD;
+          -  Patient with Human T-cell Leukemia Virus (HTLV) type 1 and 2&#xD;
+&#xD;
+          -  Patient with Hepatitis B surface antigen&#xD;
+&#xD;
+          -  Patient with Hepatitis C antibody&#xD;
+&#xD;
+          -  Patient with prior high-dose chemotherapy (HDCT) plus hematopoietic stem cell HSCs&#xD;
+             transplant&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Thibault RAOULT, MSc</last_name>
+    <phone>+33 (0)1 42 11 42 11</phone>
+    <email>thibault.raoult@gustaveroussy.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Elodie LECERF, MSc</last_name>
+    <phone>+33 (0)1 42 11 42 11</phone>
+    <email>elodie.lecerf@gustaveroussy.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Gustave Roussy</name>
+      <address>
+        <city>Villejuif</city>
+        <zip>94800</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karim FIZAZI, MD</last_name>
+      <phone>+33 (0)1 42 11 42 11</phone>
+      <email>karim.fizazi@gustaveroussy.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 27, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 31, 2023</study_first_posted>
+  <last_update_submitted>May 17, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 17, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 18, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms, Germ Cell and Embryonal</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

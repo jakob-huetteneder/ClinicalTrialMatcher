@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9340">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05700084</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BG02-2101</org_study_id>
+    <nct_id>NCT05700084</nct_id>
+  </id_info>
+  <brief_title>Tolerability and Bioavailability of Utidelone Capsule in Patients With Advanced Solid Tumors</brief_title>
+  <official_title>Phase I Clinical Trial on Tolerability and Bioavailability of Utidelone Capsule in Patients With Advanced Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Beijing Biostar Pharmaceuticals Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Beijing Biostar Pharmaceuticals Co., Ltd.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study has two parts. Part 1 is a dose-escalation trial and Part 2 is a pharmacokinetic&#xD;
+      comparison and food effect study. The primary objectives are to evaluate the safety and&#xD;
+      tolerability of Utidelone Capsules in patients with advanced solid tumors and to determine&#xD;
+      the Maximum Tolerated Dose (MTD) and Dose Limiting Toxicity (DLT). The secondary objectives&#xD;
+      are: 1. to evaluate the absolute bioavailability of Utidelone capsules relative to Utidelone&#xD;
+      injection; 2. to evaluate the pharmacokinetic profile of Utidelone capsules in patients with&#xD;
+      advanced solid tumors; 3. to preliminarily evaluate the efficacy and safety of Utidelone&#xD;
+      capsules in patients with advanced solid tumors; and 4. to recommend doses and dosing&#xD;
+      regimens for subsequent clinical trials.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Part 1 is a dose-escalation trial, and it's an open design; Part 2 is a pharmacokinetic&#xD;
+      comparison and food effect study, and it's an open, controlled study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 15, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>This study has two parts. Part 1 is a dose-escalation trial and Part 2 is a pharmacokinetic comparison and food effect study. The primary objectives are to evaluate the safety and tolerability of Utidelone Capsules (UTD2) in patients with advanced solid tumors and to determine the Maximum Tolerated Dose (MTD) and Dose Limiting Toxicity (DLT).&#xD;
+Study design: Part 1 is a dose-escalation trial, and it's an open design; Part 2 is for pharmacokinetic comparison and food effect study, and it's an open, controlled design.&#xD;
+In the Part 1 dose-escalation trial, there is no control; in the Part 2 pharmacokinetic comparison and food effect study, Utidelone Injection is chosen as the control drug in Cycle 0 and 1; in Cycle 2, high-fat postprandial dosing is served as the control.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximum Tolerated Dose, MTD</measure>
+    <time_frame>8 months</time_frame>
+    <description>The maximum tolerated dose (MTD) is defined as the highest dose tested in which none or only one patient experienced DLT attributable to the study drug(s), when 6 patients were treated at that dose and are evaluable for toxicity. The MTD is one dose level below the lowest dose tested in which 2 or more patients experienced DLT attributable to the study drug(s).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Dose-Limiting Toxicity, DLT</measure>
+    <time_frame>8 months</time_frame>
+    <description>DLT is observed during Cycle 1 in the dose escalation trial. Any toxicity meeting the criteria outlined in the protocol, at least possibly related to study drug (i.e. definitely, probably, or possibly attributed), will be considered a DLT.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Bioavailability of Utidelone Capsule</measure>
+    <time_frame>8 months</time_frame>
+    <description>Endpoint indicator: F</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum (or peak) serum concentration-Cmax</measure>
+    <time_frame>8 months</time_frame>
+    <description>Cmax of Utidelone Capsule</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to peak drug concentration-Tmax</measure>
+    <time_frame>8 months</time_frame>
+    <description>Tmax of Utidelone Capsule</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>the area under the concentration-time curve from dosing (time 0) to time t-AUC0-t</measure>
+    <time_frame>8 months</time_frame>
+    <description>the AUC0-t of Utidelone Capsule</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>the time required for plasma concentration of a drug to decrease by 50%-t1/2</measure>
+    <time_frame>8 months</time_frame>
+    <description>the t1/2 of Utidelone Capsule</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate-ORR</measure>
+    <time_frame>12 months</time_frame>
+    <description>The percentage of patients who have a partial response or complete response to the treatment within a certain period of time.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment-related Adverse Event-TRAE</measure>
+    <time_frame>12 months</time_frame>
+    <description>Number of participants with treatment-related adverse events as assessed by CTCAE v5.0</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">38</enrollment>
+  <condition>Advanced Solid Tumor</condition>
+  <arm_group>
+    <arm_group_label>Utidelone Capsule (Part 1)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Utidelone Capsule, available as 10 mg/capsule and 15 mg /capsule. Doses between 50 mg/m2/d and 120 mg/m2/d administered orally will be explored. Patients will be dosed for 5/7 consecutive days in a 21 day cycle.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Utidelone Capsule/Utidelone Injection (Group A-B, Part 2)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>At cycle 0, patients will take Utidelone Capsule in fasted status at 60 mg/m2/d. At cycle 1, patients will be administered Utidelone Injection by iv drip at 30 mg/m2/d. At Cycle 2, patients will take Utidelone Capsule (after meals) at 60 mg/m2/d.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Utidelone Injection/Utidelone Capsule (Group B-A, Part 2)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>At cycle 0, patients will be administered Utidelone Injection by iv drip at 30 mg/m2/d. At cycle 1, patients will take Utidelone Capsule in fasted status at 60 mg/m2/d. At cycle 2, patients will take Utidelone Capsule (after meals) at 60 mg/m2/d.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Utidelone Capsule (Part 1)</intervention_name>
+    <description>At least 3 dose cohorts are planned, and 14-26 cases are expected. Cohort 1: 2 cases are planned, and the subjects will receive Utidelone Capsule at a dose of 50 mg/m2/d for 5 days.&#xD;
+Other dose-escalation cohorts: 3-6 cases are planned in each cohort, following the 3 + 3 design. The subjects in these cohorts will receive Utidelone Capsule at 75 mg/m2/d for 5 days, 100 mg/m2/d for 5 days, 100 mg/m2/d for 7 days, and 120 mg/m2/d for 7 days, in a 21-day cycle respectively.</description>
+    <arm_group_label>Utidelone Capsule (Part 1)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Drug A Utidelone Capsule (Part 2: Group A-B)</intervention_name>
+    <description>Utidelone Capsule at Part 2 in Group A-B will be administered at 60 mg/m2/d.&#xD;
+At Cycle 0, on day 1, all patients will receive the drug in fasted status with a glass (approximately 240 ml) of warm water (2 h of fasting before administration; 2 h of fasting after administration).&#xD;
+At Cycle 2, subjects will receive the drug after meals on days 1-5 (high-fat meal, drug taken 30 min after the meal; 2 h fasting after administration). Subjects will receive the drug on day 1-5 with 21 days as a cycle.&#xD;
+For the subsequent treatment period, there is no special requirements for food. Subjects will receive the drug on day 1-5 with 21 days as a cycle.</description>
+    <arm_group_label>Utidelone Capsule/Utidelone Injection (Group A-B, Part 2)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Drug A Utidelone Capsule (Part 2: Group B-A)</intervention_name>
+    <description>Utidelone Capsule at Part 2 in Group B-A will be administered at 60 mg/m2/d.&#xD;
+At Cycle 1, on day 1-5, all patients will receive the drug in fasted status with a glass (approximately 240 ml) of warm water (2 h of fasting before administration; 2 h of fasting after administration), with 21 days as a cycle.&#xD;
+At Cycle 2, subjects will receive the drug after meals on days 1-5 (high-fat meal, drug taken 30 min after the meal; 2 h fasting after administration), with 21 days as a cycle.&#xD;
+For the subsequent treatment period, there is no special requirements for food. Subjects will receive the drug on day 1-5 with 21 days as a cycle.</description>
+    <arm_group_label>Utidelone Injection/Utidelone Capsule (Group B-A, Part 2)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Drug B Utidelone Injection (Part 2: Group A-B)</intervention_name>
+    <description>Utidelone Injection at Part 2 in Group A-B will be administered at 30 mg/m2/d in 250 mL normal saline, intravenous drip over1.5 h.&#xD;
+For Cycle 1, subjects will be administered Utidelone Injection on day 1-5 with 21 days as a cycle.</description>
+    <arm_group_label>Utidelone Capsule/Utidelone Injection (Group A-B, Part 2)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Drug B Utidelone Injection (Part 2: Group B-A)</intervention_name>
+    <description>Utidelone Injection at Part 2 in Group B-A will be administered at 30 mg/m2/d in 250 mL normal saline, intravenous drip over1.5 h.&#xD;
+For Cycle 0, all patients will be administered Utidelone Injection on day 1, with 21 days as a cycle.</description>
+    <arm_group_label>Utidelone Injection/Utidelone Capsule (Group B-A, Part 2)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Subjects must meet all of the following criteria to be enrolled into the study:&#xD;
+&#xD;
+          1. Patients who have fully understood the objectives, content, process of the study and&#xD;
+             possible adverse events, voluntarily serves as a subject and signs the informed&#xD;
+             consent form.&#xD;
+&#xD;
+          2. Patients with definitive histopathological diagnosis of advanced solid tumors.&#xD;
+&#xD;
+          3. Male or female subjects aged ≥18 and ≤65, with ECOG performance status scored 0-1.&#xD;
+&#xD;
+          4. Expected survival time ≥ 12 weeks;&#xD;
+&#xD;
+          5. Baseline routine blood tests within 1 week prior to enrollment is normal, with CTCAE&#xD;
+             grade ≤1 (based on normal values at each site's laboratory): a) Neutrophil count (ANC)&#xD;
+             ≥ 1.5 × 109/L; b) platelet count (PLT ) ≥ 100 × 109/L; c) Hemoglobin ≥9.0 g/dL.&#xD;
+&#xD;
+          6. Liver and kidney function test results are normal within 1 week prior to enrollment,&#xD;
+             with CTCAE grade ≤1 (based on normal values at each site's laboratory): a) Total&#xD;
+             bilirubin (TBIL) ≤ 1.5× the upper limit of normal value (ULN); b) Serum Glutamic&#xD;
+             Pyruvic Transaminase/Alanine Aminotransferease (SGPT /ALT) ≤ 2.5× ULN; c) Serum&#xD;
+             Glutamic-oxaloacetic Transaminase/Aspartate Aminotransferase (SGOT /AST) ≤ 2.5× ULN;&#xD;
+             d) Creatinine clearance (Ccr) ≥60 ml/min.&#xD;
+&#xD;
+          7. Patients with no functional disorders of major organs.&#xD;
+&#xD;
+          8. Fertile males and females of childbearing potential must agree to use effective&#xD;
+             contraception (so do their partners, using hormonal or barrier contraception, or&#xD;
+             abstinence) during the study and within at least 12 weeks after the last dose. The&#xD;
+             blood or urine pregnancy test for female patients of childbearing potential prior to&#xD;
+             enrollment must be negative.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Subjects who fulfill any one of the following exclusion criteria will be excluded from the&#xD;
+        study:&#xD;
+&#xD;
+          1. Patients who have received non-investigational anti-tumor therapies (such as&#xD;
+             chemotherapy, radiotherapy, immunotherapy, biological therapy or traditional Chinese&#xD;
+             medicine treatment) within 2 weeks prior to study drug administration.&#xD;
+&#xD;
+          2. Subjects with severe hypersensitivity to castor oil (this criteria is applicable to&#xD;
+             Part 2 of the study), and subjects who had hypersensitivity reaction caused by&#xD;
+             previous anti-microtubule drugs.&#xD;
+&#xD;
+          3. Patients with uncontrollable brain metastases (brain metastatic lesion confirmed by&#xD;
+             examination within 2 months after radiotherapy or other localized treatment); patients&#xD;
+             with uncontrollable bone metastases (patients who have had fracture or have the risk&#xD;
+             of fracture in recent days, patients who need surgery or localized radiotherapy in&#xD;
+             recent days, patients with other critical conditions)&#xD;
+&#xD;
+          4. Patients with serious comorbidities, such as severe heart disease, cerebrovascular&#xD;
+             disease, uncontrolled diabetes, uncontrolled hypertension, severe infections, active&#xD;
+             peptic ulcers, etc.&#xD;
+&#xD;
+          5. Patients with mental illnesses which are hard to control, patients who lack legal&#xD;
+             capacity or have limited legal capacity.&#xD;
+&#xD;
+          6. Patients with gastrointestinal diseases such as esophageal obstruction, pyloric&#xD;
+             obstruction, intestinal obstruction, or who are post-operative of gastrointestinal&#xD;
+             resection, or who have difficulty in swallowing due to other factors, interfering with&#xD;
+             oral administration and absorption of the drug.&#xD;
+&#xD;
+          7. Patients with active hepatitis B infections.&#xD;
+&#xD;
+          8. Patients with peripheral neuropathy grade&gt;1 within 4 weeks prior to enrollment (NCI&#xD;
+             CTCAE 5.0).&#xD;
+&#xD;
+          9. Patients who still experience ≥ Grade 2 acute toxicities caused by previous anti-tumor&#xD;
+             therapies (e.g. chemotherapy, radiotherapy, immunotherapy, biological therapy or TCM&#xD;
+             treatment) prior to enrollment (NCI-CTCAE 5.0, except alopecia).&#xD;
+&#xD;
+         10. Patients who have undergone any major surgery or have major trauma within 4 weeks&#xD;
+             prior to administration of the investigational product or are expected to undergo&#xD;
+             major surgery during the treatment.&#xD;
+&#xD;
+         11. Patients who have participated in another clinical trial or have received other&#xD;
+             investigational treatments within 4 weeks prior to administration of the&#xD;
+             investigational product.&#xD;
+&#xD;
+         12. Patients who, in the opinion of the investigator, are not suitable to participate in&#xD;
+             this study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Binghe Xu, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Cancer Institute and Hospital, Chinese Academy of Medical Sciences</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>RONGGUO QIU, PhD</last_name>
+    <phone>01186-56315388</phone>
+    <email>rqiu2001@yahoo.com</email>
+  </overall_contact>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 30, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 16, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>January 16, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 16, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Tolerability</keyword>
+  <keyword>Bioavailability</keyword>
+  <keyword>Advanced Solid Tumor</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

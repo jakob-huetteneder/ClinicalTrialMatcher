@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9759">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05690841</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-36417</org_study_id>
+    <secondary_id>1U01AI157962</secondary_id>
+    <nct_id>NCT05690841</nct_id>
+  </id_info>
+  <brief_title>FocaL Mass Drug Administration for Vivax Malaria Elimination</brief_title>
+  <acronym>FLAME</acronym>
+  <official_title>FocaL Mass Drug Administration for Vivax Malaria Elimination (FLAME)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Universidad Peruana Cayetano Heredia- subcontractor to UCSF as local Sponsor</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>PATH</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Eijkman Oxford Clinical Research Unit, Indonesia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Menzies School of Health Research</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, San Francisco</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      FLAME is an open-label cluster-randomized controlled trial that aims to determine the&#xD;
+      effectiveness of focal mass drug administration (fMDA) to reduce the incidence of Plasmodium&#xD;
+      vivax malaria in the Loreto Department in Peru. Standard interventions, including symptomatic&#xD;
+      and asymptomatic screening for malaria infections, provision of insecticide-treated bednets,&#xD;
+      and environmental transmission monitoring, will be compared to clusters of villages&#xD;
+      randomized to receive anti-malarial drugs.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In several countries where malaria is nearing elimination, Plasmodium falciparum (Pf) and&#xD;
+      Plasmodium vivax (Pv) are co-endemic. Plasmodium vivax infections pose unique challenges for&#xD;
+      malaria elimination, including that Pv cases are more easily missed through standard&#xD;
+      diagnostics and that Pv has the ability to remain latent in liver-stage (hypnozoites), which&#xD;
+      can cause relapses for weeks to years.&#xD;
+&#xD;
+      Active case detection (ACD) is an effective tool used by many malaria elimination programs,&#xD;
+      however, asymptomatic infections can still be missed due to limited sensitivity of ACD&#xD;
+      diagnostic tools. Mass drug administration (MDA) has been recommended for Pf elimination as&#xD;
+      an alternative approach to ACD in regions where there is sufficient access to treatment.&#xD;
+      Recommendations for use of MDA do not yet extend to Pv as a result of limited evidence and&#xD;
+      difficulty in administering existing anti-malarial drugs daily for one to two weeks.&#xD;
+&#xD;
+      This study aims to assess the effectiveness of MDA in the Loreto Department in Peru by&#xD;
+      implementing a more targeted approach: focal MDA. This approach targets drug administration&#xD;
+      to households at the highest risk of infection to minimize the potential adverse effects of&#xD;
+      MDA and promote uptake. Further, preliminary data from the study site region suggests that&#xD;
+      recurrences of malaria infections in index cases and clustering of infections around these&#xD;
+      index cases drive continued transmission of Pv. Thus, fMDA is an appropriate approach to&#xD;
+      study in this region.&#xD;
+&#xD;
+      The primary research objectives are:&#xD;
+&#xD;
+        1. To determine the effectiveness of three rounds of fMDA to reduce Pv transmission in the&#xD;
+           Loreto Department, Peru compared to standard interventions.&#xD;
+&#xD;
+        2. To evaluate the safety and tolerability of fMDA by measuring incidence of severe adverse&#xD;
+           events or severe malaria in the treatment arm.&#xD;
+&#xD;
+        3. To measure the cost-effectiveness and acceptability of fMDA by calculating the cost per&#xD;
+           malaria case averted for intervention and control arms.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 1, 2023</start_date>
+  <completion_date type="Anticipated">December 1, 2028</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2028</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cumulative Incidence of Plasmodium vivax infections</measure>
+    <time_frame>From enrollment through study completion, over 36-month follow-up study period</time_frame>
+    <description>Number of microscopy-confirmed, Plasmodium vivax malaria cases in residents reported from health facilities per population over the 36-month follow-up study period</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence of Plasmodium vivax infection</measure>
+    <time_frame>At endline survey in trial year 4, 3 years after enrollment in study in trial year 1</time_frame>
+    <description>Proportion of individuals with polymerase chain reaction (PCR)-confirmed infection in an endline survey</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasmodium vivax seroprevalence</measure>
+    <time_frame>At endline survey in trial year 4, 3 years after enrollment in study in trial year 1</time_frame>
+    <description>Proportion of participants who are seropositive, rate at which seronegative individuals became seropositive estimated from age-specific seroprevalence from endline survey, adjusted by modeling longitudinal individual serological status and/or antibody titers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Genetic diversity of Plasmodium vivax</measure>
+    <time_frame>From enrollment through study completion, over 4 trial years</time_frame>
+    <description>Diversity of locally acquired infections as defined by sequencing results</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tolerability of study drugs</measure>
+    <time_frame>Over drug administration period, unique for each study drug (7 days for CQ/PQ regimens and 3 days for CQ/TQ regimens)</time_frame>
+    <description>Vomiting following administration of study drugs and non-adherence related to adverse effects</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adherence to study drugs</measure>
+    <time_frame>Unique for each patient based on drug regimen (7 days for CQ/PQ regimens and 3 days for CQ/TQ regimens)</time_frame>
+    <description>Number of missed doses</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Refusal rates</measure>
+    <time_frame>During each fMDA round, twice per year for 3 consecutive years</time_frame>
+    <description>Number of refusals divided by number of individuals invited to participate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Program costs per unit fMDA round</measure>
+    <time_frame>From enrollment through study completion, over 4 years</time_frame>
+    <description>Total costs divided by number of fMDA rounds</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Program costs per unit</measure>
+    <time_frame>From enrollment through study completion, over 4 years</time_frame>
+    <description>Total costs divided by number of individuals receiving intervention</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cost per incident case averted</measure>
+    <time_frame>From enrollment through study completion, over 4 years</time_frame>
+    <description>Difference in cost between fMDA and control divided by the difference in the effect (incidence)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cost per disability life year (DALY)</measure>
+    <time_frame>From enrollment through study completion, over 4 years</time_frame>
+    <description>Difference in cost between fMDA and control divided by the difference in the effect (DALYs)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cost per economic dollar due to malaria saved</measure>
+    <time_frame>From enrollment through study completion, over 4 years</time_frame>
+    <description>Difference in cost between fMDA and control divided by the difference in the effect (economic dollar due to malaria)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">7700</enrollment>
+  <condition>Malaria, Vivax</condition>
+  <condition>Malaria</condition>
+  <arm_group>
+    <arm_group_label>Control: Standard Interventions</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Standard interventions for the control cluster will include providing participants with long-lasting insecticide-treated bednets, management of known and possible mosquito breeding sites, passive case detection through detection and diagnosis of symptomatic cases of malaria in health facilities and through community health workers (conducted in villagers with fever), microscopy testing in households of recent index cases to detect asymptomatic malaria cases, and treatment of active cases of malaria (artesunate-mefloquine (AS-MQ) for Plasmodium falciparum and Chloroquine (CQ) (10 mg/kg on days 1 and 2, followed by 5 mg/kg on day 3) + PQ (0.5mg/kg x 7 days).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Focal Mass Drug Administration (fMDA)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Standard interventions in addition to focal mass drug administration. Focal mass drug administration, using primaquine, chloroquine, and tafenoquine, for high-risk individuals residing in households that are within 200 meters of a Plasmodium vivax (Pv) index case households from the prior 2 years (including individuals in the index case household). Pv index cases include symptomatic cases detected at health facilities or in fever screenings, and asymptomatic cases identified during routine active case detection by health facilities. Households will then be notified regarding their potential to receive two rounds fMDA that year. Eligibility to receive medications as part of fMDA will be assessed prior to each administration and include glucose 6 phosphate dehydrogenase (G6PD) testing and counseling if not previously conducted or result is not available on the participant's identification card.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Focal Mass Drug Administration (fMDA)</intervention_name>
+    <description>Twice-yearly focal mass drug administration for high-risk individuals residing in households that are within 200 meters of a Plasmodium vivax index case households from the prior 2 years (including individuals in the index case household). Intervention to be administered for 3 consecutive years.&#xD;
+Each year will include 2 rounds of fMDA.&#xD;
+Round 1) Chloroquine (CQ)+ Tafenoquine (TQ) for &gt;= 16y (CQ: Day1 600 mg, Day 2 600 mg, Day 3 300 mg CQ, TQ 300 mg on Day 1); CQ+ Primaquine (PQ) for &lt;16y (CQ: age-based dosing, PQ age-based dosing); CQ+PQ for G6PD intermediate individuals &gt;=6mo and &lt;16y ((CQ: Day1 600 mg, Day 2 600 mg, Day 3 300 mg, PQ age-based dosing).&#xD;
+Round 2) single dose CQ+TQ for &gt;= 16y (CQ: Day1 600 mg, TQ 300 mg on Day 1); single dose CQ+PQ for &lt;16y (CQ: age-based dosing, PQ age-based dosing); single dose CQ+PQ for G6PD intermediate individuals &gt;=6mo and &lt;16y ((CQ: Day1 600 mg, PQ age-based dosing).</description>
+    <arm_group_label>Focal Mass Drug Administration (fMDA)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Cluster eligibility&#xD;
+&#xD;
+               -  Within 8 hours transport of Iquitos&#xD;
+&#xD;
+               -  Incidence &lt;250/1000 and &gt;2 cases year prior to trial&#xD;
+&#xD;
+               -  Population size (&lt;650)&#xD;
+&#xD;
+          2. Chloroquine (CQ) eligibility&#xD;
+&#xD;
+               -  Resides in neighboring household but within 200 m of Plasmodium vivax index case&#xD;
+                  in the past 2 years&#xD;
+&#xD;
+               -  Age ≥6 months old&#xD;
+&#xD;
+               -  Present for intervention&#xD;
+&#xD;
+               -  Provides informed consent&#xD;
+&#xD;
+          3. Tafenoquine (TQ) eligibility&#xD;
+&#xD;
+               -  Eligible to receive CQ&#xD;
+&#xD;
+               -  Age ≥16 years old&#xD;
+&#xD;
+               -  Provides informed consent&#xD;
+&#xD;
+          4. Primaquine eligibility&#xD;
+&#xD;
+               -  Eligible to receive CQ and ineligible to receive TQ&#xD;
+&#xD;
+               -  Age ≥6 months old&#xD;
+&#xD;
+               -  Provides informed consent&#xD;
+&#xD;
+          5. Baseline evaluation and informed consent&#xD;
+&#xD;
+             -Villagers will be eligible to participate in surveys if they slept in a household in&#xD;
+             cluster randomized to control or focal mass drug administration (fMDA) for at least&#xD;
+             one night in the past four weeks&#xD;
+&#xD;
+          6. Eligibility for fMDA&#xD;
+&#xD;
+               -  High-risk villagers are defined as individuals residing in households that are&#xD;
+                  within 200 meters of a Plasmodium vivax index case households from the prior 2&#xD;
+                  years (including individuals in the index case household) will be eligible to&#xD;
+                  receive fMDA that study year in August and October.&#xD;
+&#xD;
+               -  Villagers that were eligible but missed in the 1st annual round, or become&#xD;
+                  eligible in the next two months, can receive fMDA in the 2nd annual round.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Chloroquine eligibility&#xD;
+&#xD;
+               -  Retinal or visual field changes&#xD;
+&#xD;
+               -  Known hypersensitivity or adverse reaction to CQ&#xD;
+&#xD;
+               -  Have taken CQ in the past four weeks&#xD;
+&#xD;
+               -  Ineligible for TQ or PQ&#xD;
+&#xD;
+               -  Hemoglobin is measured &lt;7 g/dL at a study visit&#xD;
+&#xD;
+          2. Tafenoquine eligibility&#xD;
+&#xD;
+               -  G6PD deficiency or intermediate status (defined as activity ≤6 UI/gHb per SD&#xD;
+                  biosensor)&#xD;
+&#xD;
+               -  G6PD status unknown or refusal of G6PD status test&#xD;
+&#xD;
+               -  Acute illness or severe malaria&#xD;
+&#xD;
+               -  Pregnancy (known or identified by pregnancy test)&#xD;
+&#xD;
+               -  Refusal of pregnancy test if new amenorrhea in the past 4 weeks&#xD;
+&#xD;
+               -  Breastfeeding child that is G6PD deficient or with unknown G6PD status&#xD;
+&#xD;
+               -  Known hypersensitivity or adverse reaction to TQ or PQ&#xD;
+&#xD;
+               -  Have taken mefloquine (i.e. artesunate- mefloquine), TQ or PQ, or other&#xD;
+                  antimalarial in the past four weeks&#xD;
+&#xD;
+               -  Hemoglobin is measured &lt;7 g/dL at a study visit&#xD;
+&#xD;
+          3. Primaquine eligibility&#xD;
+&#xD;
+               -  G6PD deficiency (defined as activity &lt;4.0 UI/gHb per SD biosensor)&#xD;
+&#xD;
+               -  G6PD status unknown or refusal of G6PD status test&#xD;
+&#xD;
+               -  Acute illness or severe malaria&#xD;
+&#xD;
+               -  Pregnancy (known or identified by pregnancy test)&#xD;
+&#xD;
+               -  Refusal of pregnancy test if new amenorrhea in the past 4 weeks&#xD;
+&#xD;
+               -  Breastfeeding to child with documented or unknown G6PD deficiency status&#xD;
+&#xD;
+               -  Known hypersensitivity or adverse reaction to TQ or PQ&#xD;
+&#xD;
+               -  Have taken mefloquine (i.e. artesunate- mefloquine), TQ or PQ, or other&#xD;
+                  antimalarial in the past four weeks&#xD;
+&#xD;
+               -  Hemoglobin is measured &lt;7 g/dL at a study visit&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michelle Hsiang, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, San Francisco</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Alejandro Llanos-Cuentas, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universidad Peruana Cayetano Heredia</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sydney Fine, MPH</last_name>
+    <phone>415-476-5494</phone>
+    <email>sydney.fine@ucsf.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Universidad Peruana de Cayetano Heredia</name>
+      <address>
+        <city>Lima</city>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Veronica Soto Calle, MD, PhD</last_name>
+      <email>veronica.soto.c@upch.pe</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Peru</country>
+  </location_countries>
+  <reference>
+    <citation>PAHO. Fourth Meeting of the Malaria Technical Advisory Group (TAG) to the Pan American Health Organization (PAHO). Washington D.C.: Pan American Health Organization, World Health Organization, Americas. https://www.paho.org/hq/index.php?option=com_docman&amp;view=download&amp;alias=50391-fourthmalaria-technical-advisory-group-meeting-report-may-washington-dc&amp;category_slug=malariatechnical-advisory-group&amp;Itemid=270&amp;lang=en; 2019.</citation>
+  </reference>
+  <reference>
+    <citation>Hsiang MS, Ntuku H, Roberts KW, Dufour MK, Whittemore B, Tambo M, McCreesh P, Medzihradsky OF, Prach LM, Siloka G, Siame N, Gueye CS, Schrubbe L, Wu L, Scott V, Tessema S, Greenhouse B, Erlank E, Koekemoer LL, Sturrock HJW, Mwilima A, Katokele S, Uusiku P, Bennett A, Smith JL, Kleinschmidt I, Mumbengegwi D, Gosling R. Effectiveness of reactive focal mass drug administration and reactive focal vector control to reduce malaria transmission in the low malaria-endemic setting of Namibia: a cluster-randomised controlled, open-label, two-by-two factorial design trial. Lancet. 2020 Apr 25;395(10233):1361-1373. doi: 10.1016/S0140-6736(20)30470-0.</citation>
+    <PMID>32334702</PMID>
+  </reference>
+  <reference>
+    <citation>Ntuku H, Smith-Gueye C, Scott V, Njau J, Whittemore B, Zelman B, Tambo M, Prach LM, Wu L, Schrubbe L, Kang Dufour MS, Mwilima A, Uusiku P, Sturrock H, Bennett A, Smith J, Kleinschmidt I, Mumbengegwi D, Gosling R, Hsiang M. Cost and cost effectiveness of reactive case detection (RACD), reactive focal mass drug administration (rfMDA) and reactive focal vector control (RAVC) to reduce malaria in the low endemic setting of Namibia: an analysis alongside a 2x2 factorial design cluster randomised controlled trial. BMJ Open. 2022 Jun 23;12(6):e049050. doi: 10.1136/bmjopen-2021-049050.</citation>
+    <PMID>35738650</PMID>
+  </reference>
+  <reference>
+    <citation>Hsiang MS, Hwang J, Tao AR, Liu Y, Bennett A, Shanks GD, Cao J, Kachur SP, Feachem RG, Gosling RD, Gao Q. Mass drug administration for the control and elimination of Plasmodium vivax malaria: an ecological study from Jiangsu province, China. Malar J. 2013 Nov 1;12:383. doi: 10.1186/1475-2875-12-383.</citation>
+    <PMID>24175930</PMID>
+  </reference>
+  <reference>
+    <citation>Llanos-Cuentas A, Lacerda MVG, Hien TT, Velez ID, Namaik-Larp C, Chu CS, Villegas MF, Val F, Monteiro WM, Brito MAM, Costa MRF, Chuquiyauri R, Casapia M, Nguyen CH, Aruachan S, Papwijitsil R, Nosten FH, Bancone G, Angus B, Duparc S, Craig G, Rousell VM, Jones SW, Hardaker E, Clover DD, Kendall L, Mohamed K, Koh GCKW, Wilches VM, Breton JJ, Green JA. Tafenoquine versus Primaquine to Prevent Relapse of Plasmodium vivax Malaria. N Engl J Med. 2019 Jan 17;380(3):229-241. doi: 10.1056/NEJMoa1802537.</citation>
+    <PMID>30650326</PMID>
+  </reference>
+  <reference>
+    <citation>World Health Organization (WHO). WHO Guidelines for malaria. 3 June 2022. https://reliefweb.int/report/world/who-guidelines-malaria-3-june-2022#:~:text=The%20WHO%20global%20malaria%20strategy,residual%20foci%20of%20malaria%20transmission.</citation>
+  </reference>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>January 9, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>April 12, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 12, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 18, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Antimalarial drugs</keyword>
+  <keyword>Primaquine</keyword>
+  <keyword>Chloroquine</keyword>
+  <keyword>Tafenoquine</keyword>
+  <keyword>Parasitic disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Malaria</mesh_term>
+    <mesh_term>Malaria, Vivax</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>After completion of the trial, un-blinding will be performed and results will be disseminated widely at scientific meetings and in publications in peer-reviewed journals. Upon publication of the trial results, data will be made available for to other individuals in the scientific community upon request. Informed consent documents for the study will include a specific statement relating to posting and sharing of study information and that no individual identities will ever be used in these materials and forums.&#xD;
+Human genomic data will consist of G6PD and CYP2D6 single nucleotide polymorphisms (SNPs). Plasmodium parasite genomic data will consist of microhaplotype SNPs. All genomic data will be shared in accordance with institutional and NIH policies. Informed consent forms will indicate that we may share genetic data and no individual identities will be linked to these data. All genetic information generated will be analyzed through pipelines in Git.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

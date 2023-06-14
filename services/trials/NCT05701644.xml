@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9269">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05701644</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C1K-101</org_study_id>
+    <nct_id>NCT05701644</nct_id>
+  </id_info>
+  <brief_title>Study To Evaluate the Safety, Tolerability, and Pharmacokinetics After Subcutaneous Administration of C1K in Healthy Subjects</brief_title>
+  <official_title>A Dose-block Randomized, Double-blind, Placebo-controlled, Single and Multiple Ascending Dose, First-in-human, Phase 1 Clinical Trial to Evaluate the Safety, Tolerability, and Pharmacokinetics After Subcutaneous Administration of C1K in Healthy Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ensol Bioscience</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ensol Bioscience</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A dose-block randomized, double-blind, placebo-controlled, single and multiple ascending&#xD;
+      dose, first-in-human, phase 1 first in human clinical trial to evaluate the safety,&#xD;
+      tolerability, and pharmacokinetics after subcutaneous administration of C1K in healthy Korean&#xD;
+      subjects.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 2, 2023</start_date>
+  <completion_date type="Anticipated">July 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety and Tolerability Assessment</measure>
+    <time_frame>Day -1 to Day 23</time_frame>
+    <description>Percentage of occurrences observed Adverse Event in each group.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and Tolerability Assessment by Value Changes in Vital Signs</measure>
+    <time_frame>Day -1 to Day 23</time_frame>
+    <description>Vital Signs including blood pressure and heart rate changes from baseline.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and Tolerability Assessment by Value Changes in Physical Examination</measure>
+    <time_frame>Day -1 to Day 23</time_frame>
+    <description>physical examination changes from baseline.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and Tolerability Assessment by Value Changes in Laboratory Test</measure>
+    <time_frame>Day -1 to Day 23</time_frame>
+    <description>laboratory test changes from baseline assessed through hematology, blood biochemistry, urinalysis and blood coagulation.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and Tolerability Assessment by Value Changes in 12-Lead Electrocardiogram</measure>
+    <time_frame>Day -1 to Day 23</time_frame>
+    <description>12-Lead Electrocardiogram(ECG) changes from baseline.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and Tolerability Assessment by Response Change of Injection site.</measure>
+    <time_frame>Day 1 to Day 23</time_frame>
+    <description>Percentage of occurrences observed response change of injection site.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetic Assessment by Maximum concentration of C1K in plasma</measure>
+    <time_frame>Day 1/ Day 15 pre-dose(0 hour), 0.17, 0.33, 0.5, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 12, 24 hour at Day 1 and Day 15</time_frame>
+    <description>Maximum concentration of C1K in plasma (Cmax)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetic Assessment by Area Under the Plasma Concentration-Time Curve of C1K from Time Zero to the Last Measurable Point</measure>
+    <time_frame>Day 1/ Day 15 pre-dose(0 hour), 0.17, 0.33, 0.5, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 12, 24 hour at Day 1 and Day 15</time_frame>
+    <description>Area under the plasma C1K concentration-time curve from 0 to last(AUClast)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetic Assessment by Area under the plasma C1K concentration-time curve from 0 to infinity</measure>
+    <time_frame>Day 1/ Day 15 pre-dose(0 hour), 0.17, 0.33, 0.5, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 12, 24 hour at Day 1 and Day 15</time_frame>
+    <description>Area under the plasma C1K concentration-time curve from 0 to last(AUCinf)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetic Assessment by The time of peak concentration of C1K</measure>
+    <time_frame>Day 1/ Day 15 pre-dose(0 hour), 0.17, 0.33, 0.5, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 12, 24 hour at Day 1 and Day 15</time_frame>
+    <description>The time of peak concentration(Tmax)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetic Assessment by Elimination half-life of C1K</measure>
+    <time_frame>Day 1/ Day 15 pre-dose(0 hour), 0.17, 0.33, 0.5, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 12, 24 hour at Day 1 and Day 15</time_frame>
+    <description>Elimination half-life(t1/2)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetic Assessment by Apparent Clearance of C1K</measure>
+    <time_frame>Day 1/ Day 15 pre-dose(0 hour), 0.17, 0.33, 0.5, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 12, 24 hour at Day 1 and Day 15</time_frame>
+    <description>Apparent Clearance(CL/F)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetic Assessment by Apparent Volume of Distribution After extravascular administration of C1K</measure>
+    <time_frame>Day 1/ Day 15 pre-dose(0 hour), 0.17, 0.33, 0.5, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 12, 24 hour at Day 1 and Day 15</time_frame>
+    <description>Apparent Volume of Distribution After extravascular administration(Vz/F)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetic Assessment by Accumulation Ratio of C1K</measure>
+    <time_frame>Day 1/ Day 15 pre-dose(0 hour), 0.17, 0.33, 0.5, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 12, 24 hour at Day 1 and Day 15</time_frame>
+    <description>Accumulation Ratio(Rac)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetic Assessment by Minimum concentration of C1K in plasma</measure>
+    <time_frame>Day 1/ Day 15 pre-dose(0 hour), 0.17, 0.33, 0.5, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 12, 24 hour at Day 1 and Day 15</time_frame>
+    <description>Minimum concentration of C1K in plasma(Cmin,ss)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetic Assessment by Average concentration of C1K in plasma</measure>
+    <time_frame>Day 1/ Day 15 pre-dose(0 hour), 0.17, 0.33, 0.5, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 12, 24 hour at Day 1 and Day 15</time_frame>
+    <description>Average concentration of C1K in plasma(Cav)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetic Assessment by Peak to trough fluctuation ratio</measure>
+    <time_frame>Day 1/ Day 15 pre-dose(0 hour), 0.17, 0.33, 0.5, 0.75, 1, 1.5, 2, 3, 4, 6, 8, 12, 24 hour at Day 1 and Day 15</time_frame>
+    <description>Peak to trough fluctuation ratio(PTF)</description>
+  </primary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">35</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>C1K 150mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subcutaneous Administration C1K 150mg single or multi dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>C1K 300mg or placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subcutaneous Administration C1K 300mg or placebo single or multi dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>C1K 600mg or placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subcutaneous Administration C1K 600mg or placebo single or multi dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>C1K 900mg or placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subcutaneous Administration C1K 900mg or placebo single or multi dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>C1K 1200mg or placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subcutaneous Administration C1K 1200mg or placebo single or multi dose</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>C1K 150mg</intervention_name>
+    <description>Subcutaneously administrate C1K 150mg at Day 1, Day 8, Day 15</description>
+    <arm_group_label>C1K 150mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>C1K 300mg</intervention_name>
+    <description>Subcutaneously administrate C1K 300mg at Day 1, Day 8, Day 15</description>
+    <arm_group_label>C1K 300mg or placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo with the same volume of C1K 300mg</intervention_name>
+    <description>Subcutaneously administrate placebo with the same volume of C1K 300mg at Day 1, Day 8, Day 15</description>
+    <arm_group_label>C1K 300mg or placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>C1K 600mg</intervention_name>
+    <description>Subcutaneously administrate C1K 600mg at Day 1, Day 8, Day 15</description>
+    <arm_group_label>C1K 600mg or placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo with the same volume of C1K 600mg</intervention_name>
+    <description>Subcutaneously administrate placebo with the same volume of C1K 600mg at Day 1, Day 8, Day 15</description>
+    <arm_group_label>C1K 600mg or placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>C1K 900mg</intervention_name>
+    <description>Subcutaneously administrate C1K 900mg at Day 1, Day 8, Day 15</description>
+    <arm_group_label>C1K 900mg or placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo with the same volume of C1K 900mg</intervention_name>
+    <description>Subcutaneously administrate placebo with the same volume of C1K 900mg at Day 1, Day 8, Day 15</description>
+    <arm_group_label>C1K 900mg or placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>C1K 1200mg</intervention_name>
+    <description>Subcutaneously administrate C1K 1200mg at Day 1, Day 8, Day 15</description>
+    <arm_group_label>C1K 1200mg or placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo with the same volume of C1K 1200mg</intervention_name>
+    <description>Subcutaneously administrate placebo with the same volume of C1K 1200mg at Day 1, Day 8, Day 15</description>
+    <arm_group_label>C1K 1200mg or placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Healthy subjects aged 19 - 45 years at the time of screening visit procedure.&#xD;
+&#xD;
+          2. The subject weighs in the range of 50.0 - 90.0 kg and has a body mass index (BMI) in&#xD;
+             the range 18-27 kg/m2.&#xD;
+&#xD;
+          3. Sufficient ability to understand the study after being informed about the study and&#xD;
+             provide written informed consent.&#xD;
+&#xD;
+          4. Based on physical examination, vital sign, 12-lead ECG and laboratory test etc. and in&#xD;
+             the opinion of the investigator, the subject is suitable for the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. A subject with clinically significant hepatobiliary, renal, neurologic, respiratory,&#xD;
+             endocrine, blood•oncology, cardiovascular, urinary, or, psychical diseases or a&#xD;
+             history&#xD;
+&#xD;
+          2. A subject who has difficulty with sub-cutaneous injection(ex: tattoo, allergy on skin&#xD;
+             etc.)&#xD;
+&#xD;
+          3. A subject who has hypersensitivity to the drugs of the drugs containing the same&#xD;
+             class, or other drugs, or a history of clinically significant hypersensitivity&#xD;
+&#xD;
+          4. A subject who has ventricular tachycardia, ventricular tachycardia, ventricular&#xD;
+             flutter or confirmed other ventricular flutter and QTc interval: &gt; 450 ms or the other&#xD;
+             clinically significant medical findings&#xD;
+&#xD;
+          5. A subject with the following results in the screening test:&#xD;
+&#xD;
+               -  Blood AST (GOT), ALT (GPT): &gt; Normal range upper × 1.5&#xD;
+&#xD;
+               -  Blood CPK &gt; Normal range upper × 1.5&#xD;
+&#xD;
+               -  eGFR (CKD-EPI equation) &lt; 60 mL/min/1.73 m2&#xD;
+&#xD;
+          6. Positive serological test (syphilis test, hepatitis B test, hepatitis C test, human&#xD;
+             immunodeficiency virus (HIV) test)&#xD;
+&#xD;
+          7. A subject with the following results in the screening test:&#xD;
+&#xD;
+               -  systolic blood pressure &lt; 80 mmHg or &gt; 140 mmHg&#xD;
+&#xD;
+               -  diastolic blood pressure &lt; 50 mmHg or &gt; 90 mmHg&#xD;
+&#xD;
+          8. A subject with a history of drug abuse or positive urine screening test for drug abuse&#xD;
+&#xD;
+          9. A subject who administered any prescription drugs or herbal medicine within 2 weeks&#xD;
+             prior to the expected date of the first dose, or any over-the-counter drug (OTC drug)&#xD;
+             or vitamin within 1 week prior to the expected date of the first dose (However, can&#xD;
+             participate in the study if otherwise decided eligible by the investigator).&#xD;
+&#xD;
+         10. A subject who participated in other clinical trial and administered investigational&#xD;
+             drug within 6 months prior to the expected date of the first dose&#xD;
+&#xD;
+         11. A subject who donated whole blood within 2 months or the component blood within 1&#xD;
+             month prior to the expected date of the first dose, or received blood transfusion&#xD;
+             within 1 month prior to the expected date of the first dose&#xD;
+&#xD;
+         12. Smokers who smoke more than 10 cigarettes/day in the last 3 months as of screening&#xD;
+             day.&#xD;
+&#xD;
+         13. A subject with persistent alcohol intake (&gt; 21 units/week, 1 unit = 10 g of pure&#xD;
+             alcohol), or inability to abstain from drinking from 3 days before the expected date&#xD;
+             of the first dose until the last discharge&#xD;
+&#xD;
+         14. A male subject who has plan to have a baby or to donate sperm. A female subject who is&#xD;
+             pregnant or lactating or has plan to lactate within 3 months after administration of&#xD;
+             IP&#xD;
+&#xD;
+         15. A subject who is intending to become pregnant during this study or with inability to&#xD;
+             use a medically acceptable contraception method(ex. sterilization operation,&#xD;
+             intrauterine device etc. for Subject or subject's partner&#xD;
+&#xD;
+             ※ medically acceptable contraception method&#xD;
+&#xD;
+               -  Use of intrauterine device which is proven pregnancy failure rates in spouses (or&#xD;
+                  partners).&#xD;
+&#xD;
+               -  Use combined blocking contraceptives (for male or female) and antiseptic drugs&#xD;
+&#xD;
+               -  Subject or partner's operation(vasectomized, bilateral tubal occlusion,&#xD;
+                  hysterectomy)&#xD;
+&#xD;
+         16. Subject who is considered inadequate to participation in the study due to other reason&#xD;
+             under investigator's discretion&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jiang Xu</last_name>
+      <phone>+82220724083</phone>
+      <email>kangwook@snu.ac.kr</email>
+    </contact>
+    <investigator>
+      <last_name>Jaeseong Oh, M.D., Ph.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 22, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 25, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>January 25, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 25, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

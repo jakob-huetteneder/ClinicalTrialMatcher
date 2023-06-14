@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9263">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05701748</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-019941</org_study_id>
+    <nct_id>NCT05701748</nct_id>
+  </id_info>
+  <brief_title>EEG to Monitor Propofol Anesthetic Depth in Infants and Toddlers</brief_title>
+  <official_title>EEG to Monitor Propofol Anesthetic Depth in Infants and Toddlers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Children's Hospital of Philadelphia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Children's Hospital of Philadelphia</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this study is monitor anesthetic depth of children undergoing propofol anesthesia&#xD;
+      using electroencephalography (EEG). The main questions it aims to answer are:&#xD;
+&#xD;
+        1. EEG spectral edge frequency (SEF) readings where 50% of patients do not respond to three&#xD;
+           stimuli.&#xD;
+&#xD;
+        2. The propofol blood concentration that corresponds to each of the three EEG SEF readings&#xD;
+           Participants will undergo EEG monitoring, stimuli (placement of oral pacifier,&#xD;
+           electrical stimulation, and laryngoscopy), and blood collection.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Sevoflurane inhalation and propofol intravenous anesthesia are the mainstays of delivering&#xD;
+      general anesthesia in children. Propofol anesthesia in children is gaining popularity due to&#xD;
+      fewer respiratory complications, less post-operative nausea vomiting and emergence delirium,&#xD;
+      compared to sevoflurane. However, unlike sevoflurane, the pharmacodynamics of propofol is&#xD;
+      less studied in infants and toddlers, particularly the biomarker for propofol brain effect&#xD;
+      site concentration (Ce), indicative of anesthetic depth. The lack of a real-time biomarker&#xD;
+      often results in over- or under-dosing of propofol in clinical practice. The goal of this&#xD;
+      study is to utilize electroencephalography (EEG) as the biomarker of propofol effect site&#xD;
+      concentration and clinical anesthetic depth, thereby improving the safety and efficacy of&#xD;
+      propofol anesthesia in this population. In infants and toddlers receiving propofol&#xD;
+      anesthesia, EEG will be recorded while the patient undergoes three stimuli used to assess&#xD;
+      anesthetic depth (placement of oral pacifier, electrical stimulation, and laryngoscopy). The&#xD;
+      EEG index (spectral edge frequency-SEF) where 50% of patients do not respond to each of the&#xD;
+      three stimuli will be determined as the biomarker of propofol clinical anesthetic depth.: In&#xD;
+      the same cohort, the regression between EEG SEF and plasma propofol levels will be determined&#xD;
+      to assess relationship between EEG SEF and propofol Ce.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 3, 2023</start_date>
+  <completion_date type="Anticipated">January 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>EEG SEF50 value for placement of oral pacifier</measure>
+    <time_frame>20 minutes</time_frame>
+    <description>Observation in OR and EEG data analysis</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>EEG SEF50 value for electrical stimulation</measure>
+    <time_frame>20 minutes</time_frame>
+    <description>Observation in OR and EEG data analysis</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>EEG SEF50 value for laryngoscopy</measure>
+    <time_frame>20 minutes</time_frame>
+    <description>Observation in OR and EEG data analysis</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Propofol blood concentration at EEG SEF50 for placement of oral pacifier</measure>
+    <time_frame>20 minutes</time_frame>
+    <description>Blood collection and testing</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Propofol blood concentration at EEG SEF50 for electrical stimulation</measure>
+    <time_frame>20 minutes</time_frame>
+    <description>Blood collection and testing</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Propofol blood concentration at EEG SEF50 for laryngoscopy</measure>
+    <time_frame>20 minutes</time_frame>
+    <description>Blood collection and testing</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">75</enrollment>
+  <condition>Electroencephalography Spectral Edge Frequency</condition>
+  <condition>Anesthetic Depth</condition>
+  <arm_group>
+    <arm_group_label>EEG SEF values in response to stimuli</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>EEG SEF values that correspond to the three stimuli being applied</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Stimuli</intervention_name>
+    <description>placement of oral pacifier, electrical stimulation, and laryngoscopy</description>
+    <arm_group_label>EEG SEF values in response to stimuli</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Children 3 to 24 month old undergoing surgery.&#xD;
+&#xD;
+          2. Planned laryngoscopy and endotracheal intubation for clinical care.&#xD;
+&#xD;
+          3. Planned propofol anesthesia for anesthesia maintenance.&#xD;
+&#xD;
+          4. American Society of Anesthesiologists (ASA ) &lt; III.&#xD;
+&#xD;
+          5. Muscle relaxant not indicated per planned clinical care for laryngoscopy/intubation.&#xD;
+&#xD;
+          6. Anticipated surgery duration approximately &lt; 2h40min&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients undergoing emergency surgery.&#xD;
+&#xD;
+          2. Known severe neurological disease which might result in abnormal EEG SEF.&#xD;
+&#xD;
+          3. Deformities of forehead (difficult EEG sensor placement).&#xD;
+&#xD;
+          4. Known difficult airway.&#xD;
+&#xD;
+          5. Allergy to propofol.&#xD;
+&#xD;
+          6. Attending anesthesiologist on record caring for patient plans to administer additional&#xD;
+             IV medication besides propofol during study phase.&#xD;
+&#xD;
+          7. Currently on anti-seizure medication (might alter propofol pharmacodynamics).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>3 Months</minimum_age>
+    <maximum_age>24 Months</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ian Yuan, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Children's Hospital of Philadelphia</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Paula Hu, RN, MSPH</last_name>
+    <phone>267-426-2961</phone>
+    <email>hup@chop.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Children's Hospital of Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paula Hu, RN, MSPH</last_name>
+    </contact>
+    <investigator>
+      <last_name>Ian Yuan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Charles D Kurth</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Brioni JD, Varughese S, Ahmed R, Bein B. A clinical review of inhalation anesthesia with sevoflurane: from early research to emerging topics. J Anesth. 2017 Oct;31(5):764-778. doi: 10.1007/s00540-017-2375-6. Epub 2017 Jun 5.</citation>
+    <PMID>28585095</PMID>
+  </reference>
+  <reference>
+    <citation>Chidambaran V, Costandi A, D'Mello A. Propofol: a review of its role in pediatric anesthesia and sedation. CNS Drugs. 2015 Jul;29(7):543-63. doi: 10.1007/s40263-015-0259-6. Erratum In: CNS Drugs. 2018 Sep;32(9):873.</citation>
+    <PMID>26290263</PMID>
+  </reference>
+  <reference>
+    <citation>Morse J, Hannam JA, Cortinez LI, Allegaert K, Anderson BJ. A manual propofol infusion regimen for neonates and infants. Paediatr Anaesth. 2019 Sep;29(9):907-914. doi: 10.1111/pan.13706. Epub 2019 Aug 12.</citation>
+    <PMID>31325395</PMID>
+  </reference>
+  <reference>
+    <citation>Sepulveda P, Cortinez LI, Saez C, Penna A, Solari S, Guerra I, Absalom AR. Performance evaluation of paediatric propofol pharmacokinetic models in healthy young children. Br J Anaesth. 2011 Oct;107(4):593-600. doi: 10.1093/bja/aer198. Epub 2011 Jul 9.</citation>
+    <PMID>21743068</PMID>
+  </reference>
+  <reference>
+    <citation>Oberer C, von Ungern-Sternberg BS, Frei FJ, Erb TO. Respiratory reflex responses of the larynx differ between sevoflurane and propofol in pediatric patients. Anesthesiology. 2005 Dec;103(6):1142-8. doi: 10.1097/00000542-200512000-00007.</citation>
+    <PMID>16306725</PMID>
+  </reference>
+  <reference>
+    <citation>Chandler JR, Myers D, Mehta D, Whyte E, Groberman MK, Montgomery CJ, Ansermino JM. Emergence delirium in children: a randomized trial to compare total intravenous anesthesia with propofol and remifentanil to inhalational sevoflurane anesthesia. Paediatr Anaesth. 2013 Apr;23(4):309-15. doi: 10.1111/pan.12090.</citation>
+    <PMID>23464658</PMID>
+  </reference>
+  <reference>
+    <citation>Sneyd JR, Carr A, Byrom WD, Bilski AJ. A meta-analysis of nausea and vomiting following maintenance of anaesthesia with propofol or inhalational agents. Eur J Anaesthesiol. 1998 Jul;15(4):433-45. doi: 10.1046/j.1365-2346.1998.00319.x.</citation>
+    <PMID>9699101</PMID>
+  </reference>
+  <reference>
+    <citation>Sarner JB, Levine M, Davis PJ, Lerman J, Cook DR, Motoyama EK. Clinical characteristics of sevoflurane in children. A comparison with halothane. Anesthesiology. 1995 Jan;82(1):38-46. doi: 10.1097/00000542-199501000-00006.</citation>
+    <PMID>7832332</PMID>
+  </reference>
+  <reference>
+    <citation>Lerman J, Sikich N, Kleinman S, Yentis S. The pharmacology of sevoflurane in infants and children. Anesthesiology. 1994 Apr;80(4):814-24. doi: 10.1097/00000542-199404000-00014.</citation>
+    <PMID>8024136</PMID>
+  </reference>
+  <reference>
+    <citation>Kim TK, Niklewski PJ, Martin JF, Obara S, Egan TD. Enhancing a sedation score to include truly noxious stimulation: the Extended Observer's Assessment of Alertness and Sedation (EOAA/S). Br J Anaesth. 2015 Oct;115(4):569-77. doi: 10.1093/bja/aev306.</citation>
+    <PMID>26385665</PMID>
+  </reference>
+  <reference>
+    <citation>Fuentes R, Cortinez I, Ibacache M, Concha M, Munoz H. Propofol concentration to induce general anesthesia in children aged 3-11 years with the Kataria effect-site model. Paediatr Anaesth. 2015 Jun;25(6):554-9. doi: 10.1111/pan.12657. Epub 2015 Apr 16.</citation>
+    <PMID>25880448</PMID>
+  </reference>
+  <reference>
+    <citation>Xu T, Kurth CD, Yuan I, Vutskits L, Zhu T. An approach to using pharmacokinetics and electroencephalography for propofol anesthesia for surgery in infants. Paediatr Anaesth. 2020 Dec;30(12):1299-1307. doi: 10.1111/pan.14021. Epub 2020 Oct 28.</citation>
+    <PMID>32965066</PMID>
+  </reference>
+  <reference>
+    <citation>Purdon PL, Sampson A, Pavone KJ, Brown EN. Clinical Electroencephalography for Anesthesiologists: Part I: Background and Basic Signatures. Anesthesiology. 2015 Oct;123(4):937-60. doi: 10.1097/ALN.0000000000000841.</citation>
+    <PMID>26275092</PMID>
+  </reference>
+  <reference>
+    <citation>Chan MTV, Hedrick TL, Egan TD, Garcia PS, Koch S, Purdon PL, Ramsay MA, Miller TE, McEvoy MD, Gan TJ; Perioperative Quality Initiative (POQI) 6 Workgroup. American Society for Enhanced Recovery and Perioperative Quality Initiative Joint Consensus Statement on the Role of Neuromonitoring in Perioperative Outcomes: Electroencephalography. Anesth Analg. 2020 May;130(5):1278-1291. doi: 10.1213/ANE.0000000000004502.</citation>
+    <PMID>31764163</PMID>
+  </reference>
+  <reference>
+    <citation>Yuan I, Xu T, Skowno J, Zhang B, Davidson A, von Ungern-Sternberg BS, Sommerfield D, Zhang J, Song X, Zhang M, Zhao P, Liu H, Jiang Y, Zuo Y, de Graaff JC, Vutskits L, Olbrecht VA, Szmuk P, Kurth CD; BRAIN Collaborative Investigators. Isoelectric Electroencephalography in Infants and Toddlers during Anesthesia for Surgery: An International Observational Study. Anesthesiology. 2022 Aug 1;137(2):187-200. doi: 10.1097/ALN.0000000000004262.</citation>
+    <PMID>35503999</PMID>
+  </reference>
+  <reference>
+    <citation>FDA. Propofol FDA https://www.accessdata.fda.gov/drugsatfda_docs/label/2014/019627s062lbl.pdf. Accessed</citation>
+  </reference>
+  <reference>
+    <citation>Yuan I, Xu T, Kurth CD. Using Electroencephalography (EEG) to Guide Propofol and Sevoflurane Dosing in Pediatric Anesthesia. Anesthesiol Clin. 2020 Sep;38(3):709-725. doi: 10.1016/j.anclin.2020.06.007.</citation>
+    <PMID>32792193</PMID>
+  </reference>
+  <reference>
+    <citation>Hayashi K, Shigemi K, Sawa T. Neonatal electroencephalography shows low sensitivity to anesthesia. Neurosci Lett. 2012 May 31;517(2):87-91. doi: 10.1016/j.neulet.2012.04.028. Epub 2012 Apr 19.</citation>
+    <PMID>22542892</PMID>
+  </reference>
+  <reference>
+    <citation>Davidson AJ, Wong A, Knottenbelt G, Sheppard S, Donath S, Frawley G. MAC-awake of sevoflurane in children. Paediatr Anaesth. 2008 Aug;18(8):702-7. doi: 10.1111/j.1460-9592.2008.02664.x.</citation>
+    <PMID>18613929</PMID>
+  </reference>
+  <reference>
+    <citation>Zbinden AM, Maggiorini M, Petersen-Felix S, Lauber R, Thomson DA, Minder CE. Anesthetic depth defined using multiple noxious stimuli during isoflurane/oxygen anesthesia. I. Motor reactions. Anesthesiology. 1994 Feb;80(2):253-60. doi: 10.1097/00000542-199402000-00004.</citation>
+    <PMID>8311307</PMID>
+  </reference>
+  <reference>
+    <citation>Inomata S, Kihara S, Yaguchi Y, Baba Y, Kohda Y, Toyooka H. Reduction in standard MAC and MAC for intubation after clonidine premedication in children. Br J Anaesth. 2000 Nov;85(5):700-4. doi: 10.1093/bja/85.5.700.</citation>
+    <PMID>11094583</PMID>
+  </reference>
+  <reference>
+    <citation>Dixon W. The up-and-down method for small samples. Journal of the American Statistical Association. 1965;60(312):967-978.</citation>
+  </reference>
+  <reference>
+    <citation>Pace NL, Stylianou MP. Advances in and limitations of up-and-down methodology: a precis of clinical use, study design, and dose estimation in anesthesia research. Anesthesiology. 2007 Jul;107(1):144-52. doi: 10.1097/01.anes.0000267514.42592.2a.</citation>
+    <PMID>17585226</PMID>
+  </reference>
+  <reference>
+    <citation>Gorges M, Zhou G, Brant R, Ansermino JM. Sequential allocation trial design in anesthesia: an introduction to methods, modeling, and clinical applications. Paediatr Anaesth. 2017 Mar;27(3):240-247. doi: 10.1111/pan.13088. Epub 2017 Feb 17.</citation>
+    <PMID>28211193</PMID>
+  </reference>
+  <reference>
+    <citation>Kataria BK, Ved SA, Nicodemus HF, Hoy GR, Lea D, Dubois MY, Mandema JW, Shafer SL. The pharmacokinetics of propofol in children using three different data analysis approaches. Anesthesiology. 1994 Jan;80(1):104-22. doi: 10.1097/00000542-199401000-00018.</citation>
+    <PMID>8291699</PMID>
+  </reference>
+  <reference>
+    <citation>Coppens MJ, Eleveld DJ, Proost JH, Marks LA, Van Bocxlaer JF, Vereecke H, Absalom AR, Struys MM. An evaluation of using population pharmacokinetic models to estimate pharmacodynamic parameters for propofol and bispectral index in children. Anesthesiology. 2011 Jul;115(1):83-93. doi: 10.1097/ALN.0b013e31821a8d80.</citation>
+    <PMID>21555936</PMID>
+  </reference>
+  <reference>
+    <citation>Absalom A, Amutike D, Lal A, White M, Kenny GN. Accuracy of the 'Paedfusor' in children undergoing cardiac surgery or catheterization. Br J Anaesth. 2003 Oct;91(4):507-13. doi: 10.1093/bja/aeg220.</citation>
+    <PMID>14504151</PMID>
+  </reference>
+  <reference>
+    <citation>Rigouzzo A, Girault L, Louvet N, Servin F, De-Smet T, Piat V, Seeman R, Murat I, Constant I. The relationship between bispectral index and propofol during target-controlled infusion anesthesia: a comparative study between children and young adults. Anesth Analg. 2008 Apr;106(4):1109-16, table of contents. doi: 10.1213/ane.0b013e318164f388.</citation>
+    <PMID>18349180</PMID>
+  </reference>
+  <reference>
+    <citation>Sahinovic MM, Struys MMRF, Absalom AR. Clinical Pharmacokinetics and Pharmacodynamics of Propofol. Clin Pharmacokinet. 2018 Dec;57(12):1539-1558. doi: 10.1007/s40262-018-0672-3.</citation>
+    <PMID>30019172</PMID>
+  </reference>
+  <reference>
+    <citation>Olbrecht VA, Jiang Y, Viola L, Walter CM, Liu H, Kurth CD. Characterization of the functional near-infrared spectroscopy response to nociception in a pediatric population. Paediatr Anaesth. 2018 Feb;28(2):103-111. doi: 10.1111/pan.13301. Epub 2017 Dec 27.</citation>
+    <PMID>29280254</PMID>
+  </reference>
+  <reference>
+    <citation>Hammer GB, Litalien C, Wellis V, Drover DR. Determination of the median effective concentration (EC50) of propofol during oesophagogastroduodenoscopy in children. Paediatr Anaesth. 2001;11(5):549-53. doi: 10.1046/j.1460-9592.2001.00731.x.</citation>
+    <PMID>11696118</PMID>
+  </reference>
+  <reference>
+    <citation>Yuan I, Landis WP, Topjian AA, Abend NS, Lang SS, Huh JW, Kirschen MP, Mensinger JL, Zhang B, Kurth CD. Prevalence of Isoelectric Electroencephalography Events in Infants and Young Children Undergoing General Anesthesia. Anesth Analg. 2020 Feb;130(2):462-471. doi: 10.1213/ANE.0000000000004221.</citation>
+    <PMID>31107263</PMID>
+  </reference>
+  <reference>
+    <citation>Disma N, Veyckemans F, Virag K, Hansen TG, Becke K, Harlet P, Vutskits L, Walker SM, de Graaff JC, Zielinska M, Simic D, Engelhardt T, Habre W; NECTARINE Group of the European Society of Anaesthesiology Clinical Trial Network; Austria; Belgium; Croatia; Czech Republic; Denmark; Estonia; Finland; France; Germany; Greece; Hungary; Ireland; Italy; Latvia; Lithuania; Luxembourg; Malta; Netherlands; Norway; Poland; Portugal; Romania; Serbia; Slovakia; Slovenia; Spain; Switzerland; Turkey; Ukraine; United Kingdom. Morbidity and mortality after anaesthesia in early life: results of the European prospective multicentre observational study, neonate and children audit of anaesthesia practice in Europe (NECTARINE). Br J Anaesth. 2021 Jun;126(6):1157-1172. doi: 10.1016/j.bja.2021.02.016. Epub 2021 Apr 1.</citation>
+    <PMID>33812668</PMID>
+  </reference>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>February 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 22, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

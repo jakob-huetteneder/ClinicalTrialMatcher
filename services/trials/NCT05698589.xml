@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9400">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05698589</url>
+  </required_header>
+  <id_info>
+    <org_study_id>8566</org_study_id>
+    <nct_id>NCT05698589</nct_id>
+  </id_info>
+  <brief_title>COMpassion for Psychiatric Disorders And Self-Stigma</brief_title>
+  <acronym>COMPASS</acronym>
+  <official_title>Compassion Focused Therapy (CFT) for the Reduction of the Internalized Stigma of Mental Disorders: a Multi-center, Prospective, Randomized, Controlled Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Strasbourg, France</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Strasbourg, France</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      People with mental disorders face frequent stigmatizing attitudes and behaviors from others .&#xD;
+      In response to this, they tend to isolate themselves, with the risk of impeding care and the&#xD;
+      process of recovery and integration into society . Stigmatization can also be assimilated by&#xD;
+      patients themselves - i.e. self-stigma. Self-stigma is involved in diminished coping skills&#xD;
+      that lead to social avoidance and difficulties in adhering to care . Reducing self-stigma and&#xD;
+      its emotional corollary, shame, is thus crucial to attenuate the disability associated with&#xD;
+      mental illness. Shame is inherent to self-stigma and leads to difficulties in adhering to&#xD;
+      care as well as greater severity of clinical presentations . Compassion Focused Therapy (CFT)&#xD;
+      is a third wave cognitive behavioral therapy that targets shame reduction and hostile&#xD;
+      self-to-self relationship and allows for symptom improvement while increasing&#xD;
+      self-compassion, a major resilience factor . Although shame is a prominent part of the&#xD;
+      concept of self-stigma, the efficacy of CFT has never been evaluated in individuals with high&#xD;
+      levels of self-stigma.&#xD;
+&#xD;
+      In this study, the investigators will evaluate the efficacy and acceptability of a group&#xD;
+      based CFT program on decreasing self-stigma, compared to treatment as usual (TAU) and a&#xD;
+      psychoeducation program whose efficacy has been assessed in a previous trial.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 3, 2023</start_date>
+  <completion_date type="Anticipated">March 1, 2028</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2028</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Internalized Stigma of Mental Illness inventory (ISMI)</measure>
+    <time_frame>Day 0</time_frame>
+    <description>ISMI is : Internalized Stigma of Mental Illness Scale , The participant must select their response on a 4-point Likert scale ranging from strongly disagree (1) to strongly agree (4), hence the minimum and maximum score values are respectively 1 and 4. Higher scores mean worse outcome</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Internalized Stigma of Mental Illness inventory (ISMI)</measure>
+    <time_frame>Month 1</time_frame>
+    <description>ISMI is : Internalized Stigma of Mental Illness Scale , The participant must select their response on a 4-point Likert scale ranging from strongly disagree (1) to strongly agree (4), hence the minimum and maximum score values are respectively 1 and 4. Higher scores mean worse outcome</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Internalized Stigma of Mental Illness inventory (ISMI)</measure>
+    <time_frame>Month 2</time_frame>
+    <description>ISMI is : Internalized Stigma of Mental Illness Scale , The participant must select their response on a 4-point Likert scale ranging from strongly disagree (1) to strongly agree (4), hence the minimum and maximum score values are respectively 1 and 4. Higher scores mean worse outcome</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Internalized Stigma of Mental Illness inventory (ISMI)</measure>
+    <time_frame>Month 3</time_frame>
+    <description>ISMI is : Internalized Stigma of Mental Illness Scale , The participant must select their response on a 4-point Likert scale ranging from strongly disagree (1) to strongly agree (4), hence the minimum and maximum score values are respectively 1 and 4. Higher scores mean worse outcome</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">336</enrollment>
+  <condition>Bipolar Disorder</condition>
+  <condition>Schizophrenia</condition>
+  <condition>Depression</condition>
+  <condition>Borderline Personality Disorder</condition>
+  <condition>Autism Spectrum Disorder</condition>
+  <arm_group>
+    <arm_group_label>Compassion Focused Therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ending Self Stigma</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment As Usual</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Compassion Focused Therapy</intervention_name>
+    <description>CFT is an experiential therapy. As such, in addition to psychoeducation components (e.g.: compassion from an evolutionary and neuroscientific perspective, the tricky brain problem, emotion regulation systems) and explicit learning of emotion regulation skills (in particular, shame), experiential exercises are provided in-sessions (e.g. : chair work, role plays, guided mental imagery, …) and between sessions practices will be provided with video guides, made available for the participants online (e.g. : soothing rhythm breathing, safe place imagery, compassionate self-imagery, …). The overall aim of the CFT program is to help participants shift from a hostile and critical self-to-self relationship to a more compassionate relationship to self.</description>
+    <arm_group_label>Compassion Focused Therapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Ending Self Stigma</intervention_name>
+    <description>Psychoeducation sessions cover topics such as the path from public stigma to self-stigma and modifying self-stigmatizing thoughts. Participants will be encouraged to do home practices (e.g. writing about the pros and cons of self-stigmatizing thoughts) between sessions. The overall aim of the ESS program is to help participants address self-stigma with concrete tools to increase their self-esteem and achieve their goals</description>
+    <arm_group_label>Ending Self Stigma</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patient ≥18 years of age&#xD;
+&#xD;
+          2. Patient informed of the results of the preliminary medical examination&#xD;
+&#xD;
+          3. Patient affiliated to a social health insurance plan (beneficiary or beneficiary's&#xD;
+             family)&#xD;
+&#xD;
+          4. Patient with one or several diagnoses of chronic psychiatric disorder (schizophrenia,&#xD;
+             schizoaffective disorder, bipolar disorder, recurrent major depression, borderline&#xD;
+             personality disorder) or a neurodevelopmental disorder (autism spectrum disorder)&#xD;
+             treated as an outpatient or in a day hospital&#xD;
+&#xD;
+          5. CGI-Severity score&lt;6 assessed by the psychiatrist (Berk et al., 2008) ISMI score&#xD;
+             indicating moderate to high self-stigma (&gt;2.5; Lysaker et al., 2007)&#xD;
+&#xD;
+             Exclusion criteria:&#xD;
+&#xD;
+          6. Patient in an exclusion period determined by a previous or ongoing study&#xD;
+&#xD;
+          7. Patient participating in an interventional study involving psychotherapy or an&#xD;
+             experimental drug&#xD;
+&#xD;
+          8. Patient in acute episode of their disorder according to the CGI Severity score&#xD;
+&#xD;
+          9. Patient in a medical emergency or immediate life-threatening situation&#xD;
+&#xD;
+         10. Patients with an intellectual disability (IQ&lt;70) estimated via the fNART (Mackinnon &amp;&#xD;
+             Mulligan, 2005)&#xD;
+&#xD;
+        12. Legal issues: care under constraint or patient deprived of freedom because of a&#xD;
+        judicial measure 13. Patient who does not speak and read French sufficiently&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Luisa Weiner</last_name>
+    <phone>0033388116312</phone>
+    <email>weiner@unistra.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Pôle de Psychiatrie Adulte, Hôpital Charles Perrens</name>
+      <address>
+        <city>Bordeaux</city>
+        <zip>33076</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>David MISDRAHI, MD</last_name>
+      <phone>33.5.56.56.34.49</phone>
+      <email>david.misdrahi@u-bordeaux.fr</email>
+    </contact>
+    <investigator>
+      <last_name>David MISDRAHI, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ch Le Vinatier</name>
+      <address>
+        <city>Bron</city>
+        <zip>69678</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Nicolas FRANCK, MD</last_name>
+      <phone>33.6.98.52.68.89</phone>
+      <email>Nicolas.franck@ch-le-vinatier.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Nicolas FRANCK, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Clermont-Ferrand, Hôpital Gabriel Montpied, Service de Psychiatrie B</name>
+      <address>
+        <city>Clermont-Ferrand</city>
+        <zip>63003</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Pierre-Michel LLORCA, MD</last_name>
+      <phone>33.4.73.75.20.78</phone>
+      <email>pllorca@chu-clermontferrand.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Pierre-Michel LLORCA, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Pôle Hospitalo-Universitaire de Psychiatrie d'adultes et d'addictologie du Grand Nancy, Centre Psychothérapique de Nancy</name>
+      <address>
+        <city>Laxou</city>
+        <zip>54520</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>David MASSON, MD</last_name>
+      <phone>33.6.09.63.20.45</phone>
+      <email>david.masson@cpn-laxou.com</email>
+    </contact>
+    <investigator>
+      <last_name>David MASSON, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Montpellier, Psychiatrie d'adultes, Hôpital la Colombière</name>
+      <address>
+        <city>Montpellier</city>
+        <zip>34295</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Delphine CAPDEVIELLE, MD</last_name>
+      <phone>33.6.87.12.44.56</phone>
+      <email>d-capdevielle@chu-montpellier.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Delphine CAPDEVIELLE, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Etablissement Public de Santé Mentale (EPSM) de la Marne, Site Pierre-Briquet, Unité de réhabilitation psychosociale</name>
+      <address>
+        <city>Reims</city>
+        <zip>51100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Martina TRAYKOVA- BOGOVA, MD</last_name>
+      <phone>33.3.26.86.86.14</phone>
+      <email>traykovam@epsm-mame.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Martina TRAYKOVA- BOGOVA, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Service de Psychiatrie, Hôpital Civil, Hôpitaux Universitaires de Strasbourg</name>
+      <address>
+        <city>Strasbourg</city>
+        <zip>67091</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Luisa WEINER, MD</last_name>
+      <phone>33.3.88.11.65.11</phone>
+      <email>weiner@unistra.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sébastien WEIBEL, MD</last_name>
+      <phone>33.3.88.11.51.57</phone>
+      <email>sebastien.weibel@chru-strasbourg.fr</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Sébastien WEIBEL, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>December 9, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 24, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>April 14, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 14, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 19, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Schizophrenia</mesh_term>
+    <mesh_term>Bipolar Disorder</mesh_term>
+    <mesh_term>Autism Spectrum Disorder</mesh_term>
+    <mesh_term>Personality Disorders</mesh_term>
+    <mesh_term>Borderline Personality Disorder</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

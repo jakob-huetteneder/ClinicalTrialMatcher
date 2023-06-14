@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9870">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05688423</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20221134</org_study_id>
+    <secondary_id>UG1DA013720</secondary_id>
+    <nct_id>NCT05688423</nct_id>
+  </id_info>
+  <brief_title>Integrated Care and Treatment for Severe Infectious Diseases and Substance Use Disorders Among Hospitalized Patients</brief_title>
+  <acronym>CTN0121</acronym>
+  <official_title>Integrated Care and Treatment for Severe Infectious Diseases and Substance Use Disorders Among Hospitalized Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Columbia University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Miami</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Emory University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Emmes Company, LLC</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Columbia University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to test the effectiveness of an integrated infectious&#xD;
+      disease/substance use disorder (SUD) clinical team intervention approach in patients&#xD;
+      hospitalized with severe injection-related infections (SIRI) who use drugs. The main question&#xD;
+      this study aims to answer is whether this intervention approach will be associated with lower&#xD;
+      mortality and fewer hospital readmissions. Participants will participate in the integrated&#xD;
+      SUD/ID care team intervention (SIRI Team). Researchers will compare this intervention to&#xD;
+      treatment as usual (TUA) to see if there are any differences in health outcomes.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study intervention (&quot;SIRI Team&quot;) consists of a hospital-based multidisciplinary (ID/SUD&#xD;
+      consult) team that will provide intensive, integrated care for participants' ID and SUD both&#xD;
+      during the hospital stay and post-discharge for up to four months post-randomization. The&#xD;
+      SIRI Team will provide low barrier access to medications and harm reduction services for SUD;&#xD;
+      streamline ID/SUD treatment; provide longitudinal care with familiar providers; leverage&#xD;
+      different areas of expertise between physicians, advance practice providers, and patient&#xD;
+      navigators; and create patient-centered treatment plans, tailored to the individual, and&#xD;
+      informed by each patient's social circumstances, substance use, and personal goals/desires.&#xD;
+      The SIRI Team intervention will be grounded in a harm reduction approach. The intervention&#xD;
+      duration is approximately 4 months. Participants will complete follow-up visits at 4-, 8-,&#xD;
+      and 12-months post-randomization.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 1, 2023</start_date>
+  <completion_date type="Anticipated">September 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The study will recruit patients at bedside in the hospital setting at approximately six hospitals and randomly assign approximately 480 inpatients in 1:1 ratio to the SIRI Team vs. TAU. Randomization will be stratified by 1) hospital site, 2) primary drug (opioid versus non-opioid), and 3) admission to intensive care unit (ICU) as part of the index hospitalization (ICU versus non-ICU) as a proxy for severity of infection.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mortality and Hospital Readmissions</measure>
+    <time_frame>4 months post-randomization</time_frame>
+    <description>Binary: A participant is alive with no hospital readmission 4 months post-randomization vs. a participant has died or been readmitted to the hospital within 4 months post-randomization</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Initiation of treatment before hospital discharge</measure>
+    <time_frame>Course of hospital visit (expected to be within 1 month of randomization)</time_frame>
+    <description>Binary: If patient initiated any of the treatments listed in protocol vs. if they did not engage</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Receipt of post-discharge treatment</measure>
+    <time_frame>This will be a repeated assessment at each of the follow-up times. The main test of the secondary hypothesis is at the 4th month. An additional contrast will assess if this maintains on average at the 8th and 12th month.</time_frame>
+    <description>Binary: If patient initiated any of the treatments listed in protocol vs. if they did not engage</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Completion of planned antibiotic course for the index infection</measure>
+    <time_frame>Course of antibiotic treatment (Length varies by severity of infection); Assessed at the 4 month follow-up time</time_frame>
+    <description>Binary: If patient completed planned antibiotic course for the index infection vs. if they did not complete antibiotic course</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient-directed discharge from index hospitalization</measure>
+    <time_frame>Course of hospital visit (expected to be within 1 month of randomization)</time_frame>
+    <description>Binary: Patient discharges themselves from the hospital prior to the attending physician's orders to discharge vs. does not discharge themselves</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post-discharge hospital visits</measure>
+    <time_frame>This will be a repeated assessment at each of the follow-up times. The main test of the secondary hypothesis is at the 4th month. An additional contrast will assess if this maintains on average at the 8th and 12th month.</time_frame>
+    <description>Count: # of post-discharge hospital visits using repeated measures across all 3 follow-up visits</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>New or recurrent acute bacterial or fungal infection post-index hospitalization</measure>
+    <time_frame>This will be a repeated assessment at each of the follow-up times. The main test of the secondary hypothesis is at the 4th month. An additional contrast will assess if this maintains on average at the 8th and 12th month.</time_frame>
+    <description>Binary: Participant has a recurrent or persistent acute bacterial or fungal infection during the period of assessment vs. does not have a recurrent or persistent acute bacterial or fungal infection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Substance use severity</measure>
+    <time_frame>The main test of the secondary hypothesis is at the 4th month. An additional contrast will assess if this maintains on average at the 8th and 12th month.</time_frame>
+    <description>Continuous: Assessed via Drug Abuse Screening Test (DAST-10) scale; Range of scores [0 - 10], higher scores indicate worse outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Alcohol use severity</measure>
+    <time_frame>The main test of the secondary hypothesis is at the 4th month. An additional contrast will assess if this maintains on average at the 8th and 12th month.</time_frame>
+    <description>Continuous: Assessed via Alcohol Use Disorders Identification Test (AUDIT) scale; Range of scores [0 - 40], higher scores indicate worse outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>At each of the follow-up times (4, 8 and 12 months)</time_frame>
+    <description>Binary: Mortality from all causes at any of the follow-up timepoints vs. alive at all timepoints</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">480</enrollment>
+  <condition>Injection Site Infection</condition>
+  <condition>Substance Use Disorders</condition>
+  <arm_group>
+    <arm_group_label>SIRI Team</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The study intervention (&quot;SIRI Team&quot;) consists of a hospital-based multidisciplinary (ID/SUD consult) team that will provide intensive, integrated care for participants' ID and SUD both during the hospital stay and post-discharge for up to four months post-randomization. The SIRI Team will provide low barrier access to medications and harm reduction services for SUD; streamline ID/SUD treatment; provide longitudinal care with familiar providers; leverage different areas of expertise between physicians, advance practice providers, and patient navigators; and create patient-centered treatment plans, tailored to the individual, and informed by each patient's social circumstances, substance use, and personal goals/desires.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment as Usual</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Treatment as Usual (TAU) will consist of the current healthcare landscape at each participating hospital site.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>SIRI Team</intervention_name>
+    <description>Participants randomized to the intervention will receive integrated ID and SUD care (SIRI Team) both during the hospitalization and after hospital discharge for 4 months post-randomization. The intervention is based upon six general principles for treating PWID with infectious complications and is informed by harm reduction.&#xD;
+Medications for SUD as integral to management of infectious complications&#xD;
+Integration of ID and SUD care&#xD;
+Longitudinal care with familiar providers&#xD;
+Multidisciplinary care and care coordination&#xD;
+Tailored antibiotic options and care settings&#xD;
+Harm reduction</description>
+    <arm_group_label>SIRI Team</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Treatment as Usual</intervention_name>
+    <description>Participants assigned to the TAU group will receive the standard treatment for their severe injection-related infection and substance use disorder at each hospital. While TAU may differ between sites, it is typically comprised of a patient being cared for primarily by a hospital medicine physician (hospitalist) with consultation by infectious diseases (ID) and either psychiatry or addiction medicine physician. If the ID or addiction teams believe post-hospitalization follow up is indicated, each service will follow local protocols for arranging post-discharge continuation of care.</description>
+    <arm_group_label>Treatment as Usual</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Be admitted to a participating hospital at the time of randomization&#xD;
+&#xD;
+          -  Be 18 years of age or older&#xD;
+&#xD;
+          -  Currently be experiencing a severe injection-related infection/SIRI&#xD;
+&#xD;
+          -  Have an indication of injecting drugs in the prior year&#xD;
+&#xD;
+          -  Provide informed consent&#xD;
+&#xD;
+          -  Ability to communicate in English or Spanish&#xD;
+&#xD;
+          -  Provide sufficient locator information&#xD;
+&#xD;
+          -  Sign a HIPAA form and/or EHR release to facilitate record abstraction&#xD;
+&#xD;
+          -  Report being willing to return for follow-up visits&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        All individuals meeting any of the exclusion criteria will be excluded from study&#xD;
+        participation. Specifically, individuals will be excluded from participation if they:&#xD;
+&#xD;
+          -  have significant cognitive or developmental impairment to the extent that they are&#xD;
+             unable to provide informed consent&#xD;
+&#xD;
+          -  (or their legal guardian/representative) are unable or unwilling to give written&#xD;
+             informed consent&#xD;
+&#xD;
+          -  are currently in jail, prison or other overnight facility as required by court of law&#xD;
+             or have pending legal action that could prevent participation in study activities&#xD;
+&#xD;
+          -  are terminated via site principal investigator decision with agreement from one of the&#xD;
+             study lead investigators.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lisa R Metsch, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Columbia University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>David P Serota, MD, MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Miami</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Daniel J Feaster, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Miami</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Carlos del Rio, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Emory University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lauren K Gooden, PhD, MPH</last_name>
+    <phone>7867039819</phone>
+    <email>lkg2129@columbia.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Terri Liguori, M.Ed., Ed.S.</last_name>
+    <email>tl2547@columbia.edu</email>
+  </overall_contact_backup>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>November 21, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>January 17, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 17, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 18, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Columbia University</investigator_affiliation>
+    <investigator_full_name>Lisa Metsch</investigator_full_name>
+    <investigator_title>Dean of Columbia University School of General Studies, Professor in Department of Sociomedical Sciences</investigator_title>
+  </responsible_party>
+  <keyword>substance use disorders</keyword>
+  <keyword>severe injection-related infections</keyword>
+  <keyword>randomized controlled trial</keyword>
+  <keyword>hospital-based care</keyword>
+  <keyword>harm reduction</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infections</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Substance-Related Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Information about the study and the de-identified study data will be available at https://datashare.nida.nih.gov/ within 18 months of the date the data are locked, as per the procedures of the National Drug Abuse Treatment Clinical Trials Network.</ipd_description>
+    <ipd_time_frame>Within 18 months</ipd_time_frame>
+    <ipd_access_criteria>Information will be de-identified.</ipd_access_criteria>
+    <ipd_url>https://datashare.nida.nih.gov/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

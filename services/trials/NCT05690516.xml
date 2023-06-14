@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9772">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05690516</url>
+  </required_header>
+  <id_info>
+    <org_study_id>536544</org_study_id>
+    <nct_id>NCT05690516</nct_id>
+  </id_info>
+  <brief_title>The Protective Effect of Mask Wearing Against Respiratory Tract Infections</brief_title>
+  <official_title>The Protective Effect of Mask Wearing Against Respiratory Tract Infections: a Pragmatic Randomized Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Norwegian Institute of Public Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Basel</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Norwegian Institute of Public Health</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this trial the researchers plan to recruit 4,000 volunteers to be randomly allocated&#xD;
+      either wearing face masks in public spaces where they are close to other people, or not wear&#xD;
+      face masks in such circumstances. For each participant the trial period is 2 weeks, after&#xD;
+      which they will be asked to complete a brief questionnaire which includes questions about&#xD;
+      whether they experienced the common cold, influenzas or COVID-19 symptoms during the trail&#xD;
+      period.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is a pragmatic, two-armed cluster randomized superiority trial including&#xD;
+      participants in Norway. Participants will be randomized to one of the following two arms:&#xD;
+      control group or medical masks in a 1:1 ratio. The primary outcome is self-reported&#xD;
+      respiratory infection.&#xD;
+&#xD;
+      The intervention is to ask participants in the intervention groups to wear face masks when&#xD;
+      close to others outside their home, e.g., in public spaces like shopping centres, and streets&#xD;
+      and on public transport. The control group will be asked not to wear face masks when close to&#xD;
+      others outside their home, e.g., in public spaces like shopping centres, and streets and on&#xD;
+      public transport. Participants will continue to use, or not use, face masks at work&#xD;
+      independent of which group they are allocated to.&#xD;
+&#xD;
+      The trial will be fully remote and without any personal interaction between investigators and&#xD;
+      participants.&#xD;
+&#xD;
+      The researchers aim to include about 4,000 participants to have a statistical power of 80% to&#xD;
+      detect a relative risk reduction of 30% for the primary outcome.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 10, 2023</start_date>
+  <completion_date type="Anticipated">May 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Sequence generation. We will use a simple 1:1 randomization by means of computer-generated random numbers.&#xD;
+The allocation will be concealed as the participant themselves will be directly informed of their allocation as soon as they have agreed to take part in the trial and have completed the online consent and baseline form. Generation of allocation sequence, enrolment of participants and assignment of participants will all be handled by the digital recruitment platform.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Respiratory symptoms of the common cold, influenza or COVID-19</measure>
+    <time_frame>Day 1 to 17</time_frame>
+    <description>Self-report</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Covid-19 prevalence</measure>
+    <time_frame>Day 1 to 17</time_frame>
+    <description>Self-report</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positive test for SARS-CoV-2</measure>
+    <time_frame>Day 3 to 17 after start of tiral period</time_frame>
+    <description>We will compare the incidence of notified cases of COVID-19 (i.e. registered positive SARS-CoV-tests)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health care use for respiratory symptoms</measure>
+    <time_frame>Day 1 to 17</time_frame>
+    <description>Self-report</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health care use for injuries</measure>
+    <time_frame>Day 1 to 17</time_frame>
+    <description>Self-report</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health care use (all causes)</measure>
+    <time_frame>Day 1 to 17</time_frame>
+    <description>Self-report</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">4000</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Respiratory Tract Infections</condition>
+  <arm_group>
+    <arm_group_label>Face masks</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in the experimental arm are asked to wear face masks when close to others outside their home, e.g., in public spaces like shopping centres, and streets and on public transport.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Not face masks</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants in the no intervention arm arm are asked not to wear face masks when close to others outside their home, e.g., in public spaces like shopping centres, and streets and on public transport.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Wearing face masks</intervention_name>
+    <description>Participants are asked to wear face masks in public spaces.</description>
+    <arm_group_label>Face masks</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Are at least 18 years of age&#xD;
+&#xD;
+          -  Are willing to be randomized to wear, or not to wear, face masks outside their home&#xD;
+             when close to others for a 14-day period&#xD;
+&#xD;
+          -  Provide informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  None&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Runar Solberg, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Norwegian Institute of Public Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Runar Solberg, PhD</last_name>
+    <phone>+4790979648</phone>
+    <email>Runar.Solberg@fhi.no</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Atle Fretheim, PhD</last_name>
+    <email>Atle.Fretheim@fhi.no</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Norwegian Institute of Public Health</name>
+      <address>
+        <city>Oslo</city>
+        <zip>0213</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Runar S, PhD</last_name>
+      <email>runar.solberg@fhi.no</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Norway</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 11, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>March 2, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 2, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infections</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Respiratory Tract Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The researchers intend to give full access to the protocol, participant level-data dataset and statistical code to anyone who is interested, after securing that the dataset is fully anonymized.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>The investigators expect to be able to share unidentifiable dataset with partners inside the European Union (EU) by May 2023, and an anonymous dataset for wide distribution at a later stage.</ipd_time_frame>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

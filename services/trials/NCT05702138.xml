@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9244">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05702138</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB#1947316-1</org_study_id>
+    <nct_id>NCT05702138</nct_id>
+  </id_info>
+  <brief_title>High Intensity Step Training After Traumatic Brain Injury</brief_title>
+  <acronym>B-HIST</acronym>
+  <official_title>Improving Balance and Mobility After Traumatic Brain Injury: A Randomized Controlled Trial Evaluating High Intensity Step Training</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Craig Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Craig Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will explore whether the types and intensity of the interventions being delivered&#xD;
+      will yield measurable cognitive benefits in addition to improved mobility and balance.&#xD;
+&#xD;
+      The study evaluates three therapeutic approaches to improve mobility and balance after&#xD;
+      traumatic brain injury (TBI): Conventional Gait and Balance Training, high intensity step&#xD;
+      training, and high intensity step training with virtual reality.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Individuals with traumatic brain injury (TBI) walk more slowly, demonstrate greater&#xD;
+      imbalance, and have reduced endurance. There is strong evidence that a single bout of&#xD;
+      physical activity has substantial cognitive benefits among older adults and stroke survivors,&#xD;
+      yet similar studies have not been conducted in TBI. This study will explore whether the types&#xD;
+      and intensity of the interventions being delivered will yield measurable cognitive benefits&#xD;
+      in addition to improved mobility and balance.&#xD;
+&#xD;
+      The study evaluates three therapeutic approaches to improve mobility and balance after TBI:&#xD;
+      the first approach, Conventional Gait and Balance Training (CGBT), represents the current&#xD;
+      approach for walking retraining. CGBT focuses on walking training in a variety of conditions,&#xD;
+      obstacle management training, functional independence training, strength training, and&#xD;
+      standing dynamic balance training. The second approach, high intensity step training (HIST),&#xD;
+      focuses on the repetition of stepping at higher cardiovascular intensities and yielding a&#xD;
+      greater number of steps per training session with promising evidence already published in&#xD;
+      stroke and spinal cord injury (SCI). The third approach combines virtual reality with HIST,&#xD;
+      designed to increase cortical excitability while concurrently activating the neuromuscular&#xD;
+      system.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 20, 2023</start_date>
+  <completion_date type="Anticipated">August 31, 2027</completion_date>
+  <primary_completion_date type="Anticipated">December 2026</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Walking Speed</measure>
+    <time_frame>6 Weeks</time_frame>
+    <description>10 Meter Walk Test (10MWT)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Walking Endurance</measure>
+    <time_frame>6 Weeks</time_frame>
+    <description>6 Minute Walk Test (6MWT)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Balance</measure>
+    <time_frame>6 Weeks</time_frame>
+    <description>Functional Gait Assessment and Berg Balance Scale (FGA) and (BBS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participant Enjoyment</measure>
+    <time_frame>6 Weeks</time_frame>
+    <description>Physical Activity Enjoyment Scale</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Cognition</measure>
+    <time_frame>6 Weeks</time_frame>
+    <description>Brief Test of Adult Cognition by Telephone (BTACT):</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">111</enrollment>
+  <condition>Traumatic Brain Injury</condition>
+  <arm_group>
+    <arm_group_label>Conventional Gait and Balance Training (CGBT)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The current approach for walking retraining, Conventional Gait and Balance Training (CGBT) focuses on walking training in a variety of conditions, obstacle management training, functional independence training, strength training, and standing dynamic balance training.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High Intensity Step Training (HIST)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>High Intensity Step Training (HIST) focuses on the repetition of stepping at higher cardiovascular intensities and yielding a greater number of steps per training session.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High Intensity Step Training with Virtual Reality (HISTVR)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The third arm combines virtual reality with HIST, designed to increase cortical excitability while concurrently activating the neuromuscular system.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Physical therapy</intervention_name>
+    <description>The study evaluates three physical therapeutic approaches to improve mobility and balance after traumatic brain injury (TBI).</description>
+    <arm_group_label>Conventional Gait and Balance Training (CGBT)</arm_group_label>
+    <arm_group_label>High Intensity Step Training (HIST)</arm_group_label>
+    <arm_group_label>High Intensity Step Training with Virtual Reality (HISTVR)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  TBI definition: damage to brain tissue caused by an external mechanical force as&#xD;
+             evidenced by loss of consciousness (LOC) or post traumatic amnesia (PTA) due to brain&#xD;
+             trauma or by objective neurological findings that can be reasonably attributed to TBI&#xD;
+             on physical examination or mental status examination&#xD;
+&#xD;
+          -  Less than 6m post injury at time of consent&#xD;
+&#xD;
+          -  Weight less than 298 pounds and height less than 6'2&quot; (based on treadmill&#xD;
+             contraindications)&#xD;
+&#xD;
+          -  Intact skin (no open lesions/bandages) in the area of treadmill harness contact&#xD;
+&#xD;
+          -  Able to walk ten feet requiring the physical assistance of not more than one person&#xD;
+             and/or bracing, assistive devices&#xD;
+&#xD;
+          -  Impaired walking speed of &lt; than 1.4 meters/second&#xD;
+&#xD;
+          -  Ability to follow directions/standardized instructions&#xD;
+&#xD;
+          -  Minimum 18 years of age at consent&#xD;
+&#xD;
+          -  Completing or have completed initial inpatient rehabilitation for TBI&#xD;
+&#xD;
+          -  Out of PTA (&gt; 25 O-Log score for three consecutive days)&#xD;
+&#xD;
+          -  Medically cleared for HIST by a physician&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Uncontrolled cardiopulmonary, metabolic, or infectious disorder&#xD;
+&#xD;
+          -  History of orthopedic or additional neurological disorder that limited motor function&#xD;
+             before TBI&#xD;
+&#xD;
+          -  Any reason that, in the opinion of the study investigators or medical team, would&#xD;
+             interfere with completing the study protocol such as behavioral concerns&#xD;
+&#xD;
+          -  Uncontrolled seizure disorder&#xD;
+&#xD;
+          -  Pregnant or lactating females&#xD;
+&#xD;
+          -  Current participation in any other interventional trials&#xD;
+&#xD;
+          -  History of an untreated or a poorly controlled psychiatric condition such as&#xD;
+             depression, schizophrenia, or bipolar disorder&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Candy Tefertiller, DPT, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Craig Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marissa Lundstern, MPH</last_name>
+    <phone>303-789-8970</phone>
+    <email>mlundstern@craighospital.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kaitlin Hays, DPT</last_name>
+    <email>khays@craighospital.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Craig Hospital</name>
+      <address>
+        <city>Englewood</city>
+        <state>Colorado</state>
+        <zip>80113</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marissa Lundstern, MPH</last_name>
+      <phone>303-789-8970</phone>
+      <email>mlundstern@craighospital.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Katie Hays, DPT</last_name>
+      <phone>303-789-8000</phone>
+      <email>khays@craighospital.org</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 18, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>May 3, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 3, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>balance</keyword>
+  <keyword>mobility</keyword>
+  <keyword>physical therapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Brain Injuries</mesh_term>
+    <mesh_term>Brain Injuries, Traumatic</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

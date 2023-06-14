@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9058">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05706129</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Debio 0228-101</org_study_id>
+    <secondary_id>2022-002573-28</secondary_id>
+    <nct_id>NCT05706129</nct_id>
+  </id_info>
+  <brief_title>A Study to Assess Safety, Tolerability and Imaging Characteristics of [68Ga]Ga-DPI-4452 and to Assess Safety, Tolerability, and Efficacy of [177Lu]Lu-DPI-4452 in Participants With Unresectable Locally Advanced or Metastatic Solid Tumors</brief_title>
+  <official_title>A Multicenter, Open-Label, Non-Randomized Phase 1/2 Study to Assess Safety, Tolerability and Imaging Characteristics of [68Ga]Ga-DPI-4452 and to Assess Safety, Tolerability, and Efficacy of [177Lu]Lu-DPI-4452 in Patients With Unresectable Locally Advanced or Metastatic Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Debiopharm International SA</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Debiopharm International SA</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main purpose of Part A of the study is to evaluate safety, tolerability and tracer uptake&#xD;
+      after a single intravenous (IV) administration of [68Ga]Ga-DPI-4452; Part B: is to determine&#xD;
+      the recommended phase 2 dose (RP2D) [maximum tolerated dose (MTD) or lower dose] for&#xD;
+      [177Lu]Lu-DPI-4452 for each tumor type; Part C: is to evaluate the preliminary antitumor&#xD;
+      activity of [177Lu]Lu-DPI-4452 as monotherapy.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 14, 2023</start_date>
+  <completion_date type="Anticipated">January 2027</completion_date>
+  <primary_completion_date type="Anticipated">January 2026</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Part A: Number of Participants With Treatment Emergent Adverse Events (TEAEs) and Serious Adverse Events (SAEs)</measure>
+    <time_frame>Up to Day 7</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part B: Number of Participants Experiencing Dose-Limiting Toxicities (DLTs)</measure>
+    <time_frame>Cycle 1 (28 days)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part C: Objective Response Rate (ORR)</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Part A: Concentration of [68Ga]Ga-DPI-4452 in Blood</measure>
+    <time_frame>Pre-dose and at multiple time points 6 hours post-dose on Day 1</time_frame>
+    <description>Pharmacokinetics (PK) will be evaluated in blood for radioactivity of [68Ga]Ga-DPI-4452.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part A: Radioligand [68Ga]Ga-DPI-4452 Positron Emission Tomography (PET) Scan Time-Window for Optimal Imaging</measure>
+    <time_frame>Day 1</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B: Objective Response Rate (ORR)</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parts B and C: Concentration of [177Lu]Lu-DPI-4452 in Blood and Plasma</measure>
+    <time_frame>Pre-dose and at multiple time points up to 72 hours post-dose of Cycles 1, 2 and 3 (84 days) {each cycle= 28 days}</time_frame>
+    <description>PK will be evaluated in blood and plasma for radioactivity of [177Lu]Lu-DPI-4452.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parts B and C: Progression Free Survival (PFS) Rate at 6 Months</measure>
+    <time_frame>6 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parts B and C: Progression Free Survival (PFS)</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parts B and C: Overall Survival (OS)</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parts B and C: Duration of Response (DoR)</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parts B and C: Number of Participants With Treatment Emergent Adverse Events (TEAEs) and Serious Adverse Events (SAEs)</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parts A, B and C: Concentration of [68Ga]Ga-DPI-4452 and [177Lu]Lu-DPI-4452 in Urine</measure>
+    <time_frame>Part A: Pre-dose and at multiple time points 6 hours post-dose on Day 1; Part B: Cycle 1 (each cycle= 28 days); Part C: Pre-dose and at multiple time points up to 72 hours post-dose of Cycle 1 (each cycle= 28 days)</time_frame>
+    <description>PK will be evaluated in urine for radioactivity of [68Ga]Ga-DPI-4452 and [177Lu]Lu-DPI-4452.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parts A, B and C: Number of Positive Tumor Lesions Detected by Imaging</measure>
+    <time_frame>Part A: Day 1; Part B and C: Baseline</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parts B and C: Disease Control Rate (DCR)</measure>
+    <time_frame>Up to approximately 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parts A, B and C: Human Dosimetry [68Ga]Ga-DPI-4452</measure>
+    <time_frame>Part A: Day 1; Parts B and C: Cycle 1 (each cycle= 28 days)</time_frame>
+    <description>Whole body effective dose will be calculated using the PET scan.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">147</enrollment>
+  <condition>Clear Cell Renal Cell Cancer (ccRCC)</condition>
+  <condition>Pancreatic Ductal Adenocarcinoma (PDAC)</condition>
+  <condition>Colorectal Cancer (CRC)</condition>
+  <arm_group>
+    <arm_group_label>Part A: [68Ga]Ga-DPI-4452</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive [68Ga]Ga-DPI-4452, a single dose on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B: [177Lu]Lu-DPI-4452</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a single dose of [68Ga]Ga-DPI-4452, at screening then escalating doses of [177Lu]Lu-DPI-4452, on Day 1 of each 28-cycle and RP2D will be determined.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part C: [177Lu]Lu-DPI-4452</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a single dose of [68Ga]Ga-DPI-4452, at screening and RP2D dose of [177Lu]Lu-DPI-4452, on Day 1 of each 28-day cycle during the treatment period.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>[68Ga]Ga-DPI-4452</intervention_name>
+    <description>[68Ga]Ga-DPI-4452, administered as IV injection.</description>
+    <arm_group_label>Part A: [68Ga]Ga-DPI-4452</arm_group_label>
+    <arm_group_label>Part B: [177Lu]Lu-DPI-4452</arm_group_label>
+    <arm_group_label>Part C: [177Lu]Lu-DPI-4452</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>[177Lu]Lu-DPI-4452</intervention_name>
+    <description>[177Lu]Lu-DPI-4452, administered as IV infusion.</description>
+    <arm_group_label>Part B: [177Lu]Lu-DPI-4452</arm_group_label>
+    <arm_group_label>Part C: [177Lu]Lu-DPI-4452</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Part A, B and C:&#xD;
+&#xD;
+          -  Written informed consent, dated and signed by the patient prior to any study-specific&#xD;
+             procedure&#xD;
+&#xD;
+          -  Has histologically or cytologically confirmed, unresectable locally advanced or&#xD;
+             metastatic solid tumors of:&#xD;
+&#xD;
+          -  clear cell renal cell cancer (ccRCC) - participants must have received at least one&#xD;
+             line containing Tyrosine kinase inhibitor (TKI) treatment and at least one line&#xD;
+             containing Immune Checkpoint Inhibitor treatment in metastatic setting, meaning at&#xD;
+             least two lines of treatment in metastatic setting,&#xD;
+&#xD;
+          -  pancreatic ductal adenocarcinoma (PDAC) - participants must have received at least one&#xD;
+             line of platinum- and/or gemcitabine based regimen; or&#xD;
+&#xD;
+          -  colorectal cancer (CRC) - participants must have received at least one line of&#xD;
+             FOLFIRINOX or FOLFOX/FOLFIRI in two lines in combination with anti-Vascular&#xD;
+             Endothelial Growth Factor (VEGF) or anti-Epidermal Growth Factor Receptor (EGFR).&#xD;
+&#xD;
+          -  Participants with CRC or PDAC: availability of fresh biopsy, OR an archival&#xD;
+             biopsy/surgical specimen of the tumor (preferably, taken after last prior line of&#xD;
+             therapy).&#xD;
+&#xD;
+          -  Presence of at least 1 non-irradiated tumor lesion detected at conventional imaging&#xD;
+             (computed tomography / magnetic resonance imaging (CT/MRI)) documented within 4 weeks&#xD;
+             prior to the [68Ga]Ga-DPI-4452 administration.&#xD;
+&#xD;
+          -  Measurable disease per response evaluation criteria in solid tumors (RECIST) v1.1&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any major surgery within 12 weeks before enrollment&#xD;
+&#xD;
+          -  Inability to stay in the scanner bed with the arms resting out of the thoracic and&#xD;
+             abdominal fields (i.e., arms alongside the body or raised arm position) for the&#xD;
+             duration of the scan&#xD;
+&#xD;
+        Part A:&#xD;
+&#xD;
+          -  Has known hypersensitivity to the active substance, to any of the excipients of the&#xD;
+             DPI-4452, or to radiographic contrast agents.&#xD;
+&#xD;
+          -  Bladder outflow obstruction or unmanageable urinary incontinence.&#xD;
+&#xD;
+          -  Participants who have not had resolution of clinically significant toxic effects of&#xD;
+             prior systemic cancer therapy, surgery, or radiotherapy to Grade ≤1 (except for&#xD;
+             laboratory parameters specified above, Grade 2 alopecia, and/or stable Grade 2 sensory&#xD;
+             neuropathy, according to National Cancer Institute Common Terminology Criteria for&#xD;
+             Adverse Events [NCI-CTCAE]).&#xD;
+&#xD;
+          -  Administration of a radiopharmaceutical within a period corresponding to 10 half-lives&#xD;
+             of the radionuclide used prior to injection of [68Ga]Ga-DPI-4452.&#xD;
+&#xD;
+          -  Previous Carbonic anhydrase (CA) IX-targeting treatment.&#xD;
+&#xD;
+          -  Prior external beam radiation therapy (EBRT) to more than 25% of the bone marrow, as&#xD;
+             judged by the Investigator.&#xD;
+&#xD;
+        Part B and Part C:&#xD;
+&#xD;
+          -  Known hypersensitivity to the active substance, to any of the excipients of the&#xD;
+             DPI-4452, or to radiographic contrast agents.&#xD;
+&#xD;
+          -  Bladder outflow obstruction or unmanageable urinary incontinence.&#xD;
+&#xD;
+          -  Participants who have not had resolution of clinically significant toxic effects of&#xD;
+             prior systemic cancer therapy, surgery, or radiotherapy to Grade ≤1 (except for&#xD;
+             laboratory parameters specified above, Grade 2 alopecia, or stable Grade 2 sensory&#xD;
+             neuropathy, according to NCI-CTCAE).&#xD;
+&#xD;
+          -  Administration of a radiopharmaceutical with therapeutic intent within a period of 6&#xD;
+             months prior to injection of [68Ga]Ga-DPI-4452.&#xD;
+&#xD;
+          -  Any previous CA IX-targeting treatment for more than 1 cycle or 1 month.&#xD;
+&#xD;
+          -  Participants who received any systemic antineoplastic therapy for the underlying&#xD;
+             disease and/or other investigational agents within a period which is ≤5 half-lives or&#xD;
+             ≤4 weeks (whichever is shorter).&#xD;
+&#xD;
+          -  Inflammatory bowel disease (e.g Crohn's disease, ulcerative colitis, etc).&#xD;
+&#xD;
+        Note: Other inclusion/exclusion criteria mentioned in the protocol may apply.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Debiopharm International S.A</last_name>
+    <phone>+41 21 321 01 11</phone>
+    <email>clinicaltrials@debiopharm.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Peter MacCallum Cancer Centre</name>
+      <address>
+        <city>Melbourne</city>
+        <zip>VIC 3000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UNSW Sydney, St Vincent's Hospital Sydney</name>
+      <address>
+        <city>Sydney</city>
+        <zip>NSW 2010</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>December 21, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 31, 2023</study_first_posted>
+  <last_update_submitted>May 12, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 12, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 15, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma, Renal Cell</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

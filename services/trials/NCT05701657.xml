@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9268">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05701657</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00062970</org_study_id>
+    <secondary_id>UG1HD107692</secondary_id>
+    <secondary_id>U24HD107676</secondary_id>
+    <secondary_id>UG1HD107691</secondary_id>
+    <secondary_id>UG1HD107697</secondary_id>
+    <secondary_id>UG1HD107688</secondary_id>
+    <secondary_id>UG1HD107696</secondary_id>
+    <secondary_id>UG1HD107711</secondary_id>
+    <secondary_id>U54TR004279</secondary_id>
+    <secondary_id>U24CA268153</secondary_id>
+    <secondary_id>U24DK131617</secondary_id>
+    <secondary_id>U24CA268228</secondary_id>
+    <secondary_id>U24OD023121</secondary_id>
+    <secondary_id>OT2OD035404</secondary_id>
+    <nct_id>NCT05701657</nct_id>
+  </id_info>
+  <brief_title>Nutrition for Precision Health, Powered by the All of Us</brief_title>
+  <official_title>Nutrition for Precision Health, Powered by the All of Us Research Program</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>RTI International</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of North Carolina, Chapel Hill</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Northwestern University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Illinois Institute of Technology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Chicago</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Pennington Biomedical Research Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Louisiana State University Health Sciences Center in New Orleans</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of California, Davis</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of California, Los Angeles</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Cedars-Sinai Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Alabama at Birmingham</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tufts University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Center for Advancing Translational Sciences (NCATS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>City University of New York, School of Public Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Mayo Clinic</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of California, San Diego</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Hawaii</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Vanderbilt University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Center for Complementary and Integrative Health (NCCIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Drug Abuse</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Public Health Informatics Computational and Operations Research</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Southern California</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Cornell University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Alabama, Tuscaloosa</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>North Carolina State University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of North Carolina, Charlotte</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Duke University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Stevens Institute of Technology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Purdue University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>United States Military Academy at West Point</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>USDA, Western Human Nutrition Research Center</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>North Carolina Central University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Wake Forest University Health Sciences</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Boston University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Children's Hospital of Richmond</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Virginia Commonwealth University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Verily Life Sciences LLC</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Indiana University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Fred Hutchinson Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Columbia University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>RTI International</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this investigational study is to develop algorithms that predict human response&#xD;
+      to foods. The main question it aims to answer are:&#xD;
+&#xD;
+        -  How does varying foods and eating patterns impact one's biological and physiological&#xD;
+           responses?&#xD;
+&#xD;
+        -  In what ways can novel dietary assessment measures be used to improve dietary&#xD;
+           assessments and to prescribe assessments to people in future research with increased&#xD;
+           precision?&#xD;
+&#xD;
+        -  Can artificial intelligence and machine learning techniques be combined to prescribe&#xD;
+           foods and eating patterns to individuals for optimization of their health?&#xD;
+&#xD;
+      There are 3 Modules participants may take part in:&#xD;
+&#xD;
+        -  Module 1- A participant's dietary intake and accompanying nutritional status, biological&#xD;
+           and other measures will be observed over 10 days, as well as physiological responses to&#xD;
+           a liquid mixed meal tolerance test will be measured.&#xD;
+&#xD;
+        -  Module 2- Participants will undergo three controlled dietary interventions provided for&#xD;
+           14-days each and separated by washout periods of at least 14 days. Physiological&#xD;
+           responses following a diet-specific meal test will be measured.&#xD;
+&#xD;
+        -  Module 3- Participants will undergo the same three dietary interventions during the same&#xD;
+           14 day periods as Module 2 while being studied in-residence. Physiological responses&#xD;
+           following a liquid mixed meal tolerance test and a diet-specific meal test will be&#xD;
+           measured.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The NPH study design includes three modules: Module 1, a study of participants' dietary&#xD;
+      intake; Module 2, a randomized crossover trial with three dietary interventions among&#xD;
+      participants in a community-dwelling setting; and Module 3, a similar trial to Module 2&#xD;
+      except with participants in residence, all detailed in the following text. Briefly, Module 1&#xD;
+      will observe participants for 8-10 days while consuming their usual diet. Modules 2 and 3&#xD;
+      will include 3 dietary interventions, each administered for 14 days, followed by a washout&#xD;
+      period between each diet. The study will be conducted at multiple sites managed by 6 clinical&#xD;
+      centers throughout the United States.&#xD;
+&#xD;
+      An interdisciplinary team of clinical nutrition research experts will evaluate dietary&#xD;
+      assessment methods, microbial metagenomics and metatranscriptomics, targeted and untargeted&#xD;
+      metabolomics, computational and data science to advance our current understanding of&#xD;
+      nutrition which will inform personalized nutrition recommendations. The resulting artificial&#xD;
+      intelligence (AI) algorithms to predict individual responses to food will provide a&#xD;
+      foundation to create customized dietary approaches to optimize short- and long-term health.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 14, 2023</start_date>
+  <completion_date type="Anticipated">January 31, 2027</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Module 1- Response to liquid mixed meal tolerance test (LMMTT) Module 2- Dietary intervention and response to diet-specific meal test Module 3- Dietary intervention and response to diet-specific meal test and LMMTT</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>Participants are masked to the 3 different diets (i.e., Diet A, Diet B, Diet C).</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Phenotypic Responses</measure>
+    <time_frame>4 years</time_frame>
+    <description>Characterization of response phenotypes to dietary intake, meal challenges, and study diets and the factors associated with inter-individual variability in those responses.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Metabolomic and Microbiome Research</measure>
+    <time_frame>4 years</time_frame>
+    <description>Bioinformatic identification, and characterization of diet and gut microbiome interactions for future predictive studies.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Novel Dietary Methods</measure>
+    <time_frame>4 years</time_frame>
+    <description>Validity assessment of at least one novel dietary assessment method.&#xD;
+There are 4 novel methods:&#xD;
+Mobile Food Record (mFR) is an image-based method that uses before and after eating images with a credit card sized colored checkboard, referred to as a fiducial marker, to aid with food identification and portion size estimation.&#xD;
+Automatic Ingestion Monitor v2 (AIM-2) uses a camera sensor worn on eyeglasses to automatically detect eating occurrences.&#xD;
+Automated Self-Administered 24-Hour Dietary Assessment Tool for Food Records (ASA24 record). Participants will record foods eaten in real-time over a 24-hour period (midnight to midnight) using a secure website. Participants will be provided a weblink to access the ASA24 interface.&#xD;
+ASA24+mFR is comprised of the ASA24 recall method assisted by images from the mFR.</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">10000</enrollment>
+  <condition>Nutrition</condition>
+  <condition>Health</condition>
+  <condition>Dietary Habits</condition>
+  <arm_group>
+    <arm_group_label>Module 1</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Module 1 is approximately 10 days (minimum of 8 days) and includes two study visits and remote data collection. Visit 1 will include application of an accelerometer and continuous glucose monitoring device for remote data collection over the next 8 to 10 days. A stool sample collection kit and instructions for stool collection and completion of dietary assessments during the observation period will be provided.&#xD;
+At Visit 2, anthropometry (height, weight and body circumferences), body composition by bioelectrical impedance (BIA), vital signs (temperature, respiratory rate and blood pressure), resting heart rate variability and grip strength will be measured. Medications will be recorded. A liquid MMTT with timed biospecimen collection (blood, urine, saliva, hair, and nails) and visual analogue assessments will be completed.&#xD;
+Participants in Module 1 will be asked to adhere to their usual routine (e.g., diet, exercise, sleep, supplements, medication use, etc.) throughout the study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Module 2</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Module 2 is a minimum of 10 weeks long. It includes a total of six (6) study visits that occur before and after each of the three (3), 14-day dietary intervention periods (i.e., Diets A, B, and C), separated by washout periods of at least 14 days. Participants will be asked to consume only the foods provided and to adhere to their other usual routines throughout the study.&#xD;
+At the beginning of each diet period, anthropometry (weight and circumferences), vital signs (temperature, respiratory rate and blood pressure) and body composition by BIA will be measured. Biospecimens (blood, urine and saliva) will be collected. An accelerometer and a continuous glucose monitoring device will be applied for remote data collection. A stool sample collection kit will be provided together with instructions for stool collection and dietary assessments. At the end of each diet, a diet-specific meal test with timed biospecimen blood collection and visual analogue assessments will be completed.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Module 3</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Module 3 is a minimum of 10 weeks long. It includes three (3), 14-day dietary interventions (i.e. Diets A, B, and C) completed while participants are domiciled under the supervision of study staff. At the end of each dietary intervention period, participants return to their usual residence and routine for a minimum of 2 weeks.&#xD;
+At the beginning of each diet period, anthropometry (weight and circumferences), vital signs (temperature, respiratory rate and blood pressure) and body composition by BIA and DXA, and physical measures will be measured. Biospecimens (blood, urine and saliva) will be collected. An accelerometer and a continuous glucose monitoring device will be applied. Excluding pregnant females, participants will receive a dose of doubly labeled water. Weight and vital signs will be measured daily and questionnaires administered.&#xD;
+A diet-specific MMTT and a separate liquid MMTT with timed blood biospecimen collection and visual analogue assessments will be completed.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Diet A</intervention_name>
+    <description>This diet has high amounts of fruits/vegetables, whole grains, and beans, moderate amounts of dairy, meat/poultry/eggs, fish, nuts/seeds, and vegetable oils, and very low amounts of sugar sweetened drinks and desserts. Menus are developed for 1600kcal, 2100kcal, 2600kcal and 3200 kcal.</description>
+    <arm_group_label>Module 2</arm_group_label>
+    <arm_group_label>Module 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Diet B</intervention_name>
+    <description>This diet has high amounts of refined grains, meat/poultry/egg, sugar sweetened drinks, sweets, snacks, desserts, and processed foods. It has a moderate amount of dairy and low amounts of fruits/vegetables, whole grains, and fish. Menus are developed for 1600kcal, 2100kcal, 2600kcal and 3200 kcal.</description>
+    <arm_group_label>Module 2</arm_group_label>
+    <arm_group_label>Module 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Diet C</intervention_name>
+    <description>This diet has moderate-high amounts of vegetables, meat/poultry/egg, fish, nuts/seeds, and fats/oils, low amounts of fruits and dairy, and very low amounts of grains and sugars. Menus are developed for 1600kcal, 2100kcal, 2600kcal and 3200 kcal.</description>
+    <arm_group_label>Module 2</arm_group_label>
+    <arm_group_label>Module 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Liquid Mixed Meal Tolerance Test</intervention_name>
+    <description>A liquid mixed meal tolerance test will occur in Module 1 and Module 3. For this test, participants will drink two servings of Ensure® Original, vanilla flavor. The meal will also contain acetaminophen (Tylenol) which will show how the smoothie moves through the participant's gut.</description>
+    <arm_group_label>Module 1</arm_group_label>
+    <arm_group_label>Module 3</arm_group_label>
+    <other_name>LMMTT</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Diet-Specific Mixed Meal Tolerance Test</intervention_name>
+    <description>The diet-specific mixed meal tolerance test is administered at the end of each dietary intervention period in Modules 2 and 3. The meal test is a breakfast meal similar to the one eaten on the 14-day diets. Thus, three test meals will be used, one for each of the three test diets (Diet A, Diet B, Diet C). The energy (kcal) level of the breakfast meal will be based on each participant's diet prescription. The nutritional composition diet-specific MMTT will be the same test meal for all participants.</description>
+    <arm_group_label>Module 2</arm_group_label>
+    <arm_group_label>Module 3</arm_group_label>
+    <other_name>Diet-Specific MMTT</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Overall Inclusion -- Participants 18 years of age or older who have completed the&#xD;
+             primary All of Us consent process, Electronic Health Record consent process, and&#xD;
+             genetic Return of Results consent process (any answer), have provided at least one All&#xD;
+             of Us biospecimen suitable for DNA sequencing, and have completed All of Us&#xD;
+             Participant Provided Information (PPI) Modules 1-3 (Basics, Overall Health, and&#xD;
+             Lifestyle); Speak English or Spanish; Able and willing to comply with study&#xD;
+             requirements and consent to participate.&#xD;
+&#xD;
+          -  Module 1 -- Must be willing and able to comply with Module 1 protocol; Must provide&#xD;
+             informed consent for Module 1.&#xD;
+&#xD;
+          -  Module 2 -- Must have completed Module 1; Must provide informed consent for Module 2;&#xD;
+             Must agree to comply with protocol over a period of approximately 10 to 12 weeks and&#xD;
+             up to six months. This includes consuming only the foods provided during periods of&#xD;
+             controlled feeding. Module 2 has three controlled feeding periods each lasting two&#xD;
+             weeks with at least two weeks between feeding periods, and up to 6 months allowed for&#xD;
+             completion of the Module.&#xD;
+&#xD;
+          -  Module 3 -- Must have completed Module 1; Must provide informed consent for Module 3;&#xD;
+             Must agree to comply with protocol over a period of approximately 10 to 12 weeks and&#xD;
+             up to 6 months. This includes being domiciled three times, for two weeks each, and&#xD;
+             consuming only the foods provided during the domiciled periods. There is at least two&#xD;
+             weeks between domiciled periods, and up to 6 months allowed for completion of the&#xD;
+             Module.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Module 1&#xD;
+&#xD;
+               1. Any change to the participant's status from the time of All of Us enrollment that&#xD;
+                  would render them ineligible for All of Us (e.g., being incarcerated, no longer&#xD;
+                  living in the United States, or withdrawn from that study).&#xD;
+&#xD;
+               2. Inability to provide informed consent and engage in informed consent procedures&#xD;
+&#xD;
+               3. Participants who suffer from allergic reactions to, or are unwilling to consume,&#xD;
+                  any components of the liquid mixed meal (e.g., milk products, soy products)&#xD;
+&#xD;
+               4. Barriers to safe insertion of peripheral IV canula:&#xD;
+&#xD;
+                    1. Contraindications to peripheral IV canula insertion such as local skin&#xD;
+                       infection, inflammation, trauma or burns if all the upper extremities were&#xD;
+                       involved and there is no unaffected extremity available for IV placement; or&#xD;
+&#xD;
+                    2. A need for long-term IV access (e.g., ESRD); or&#xD;
+&#xD;
+                    3. Lymphedema or deep vein thrombosis (DVT) in the extremity of the IV (in the&#xD;
+                       case where another extremity is not available); or&#xD;
+&#xD;
+                    4. Coagulopathy requiring blood thinning products; or&#xD;
+&#xD;
+                    5. Arteriovenous (AV) graft or fistula in the extremity of the IV (in the case&#xD;
+                       where another extremity is not available)&#xD;
+&#xD;
+               5. Pregnancy-related conditions:&#xD;
+&#xD;
+                    1. Gestational age precluding completion of the Module by 36 weeks. A pregnant&#xD;
+                       participant should complete visit 1 by gestational age 34 weeks, 0 days and&#xD;
+                       complete Module 1 by week 36.&#xD;
+&#xD;
+                    2. Severe morning sickness limiting mixed meal tolerance test (MMTT)&#xD;
+                       consumption&#xD;
+&#xD;
+               6. Certain types of disease states:&#xD;
+&#xD;
+                    1. Dumping syndrome or inability to consume the volume of the MMTT liquid&#xD;
+&#xD;
+                    2. Severe malabsorption such as history of short gut syndrome or need for&#xD;
+                       parenteral or enteral nutrition&#xD;
+&#xD;
+                    3. Less than 12-months post-metabolic or bariatric surgery&#xD;
+&#xD;
+                    4. History of chronic pancreatitis (e.g., Cystic fibrosis) complicated by&#xD;
+                       inability to tolerate the volume of the MMTT liquid&#xD;
+&#xD;
+                    5. Health conditions requiring chronic blood transfusions or iron infusions&#xD;
+&#xD;
+                    6. Hemoglobin &lt;9.5 g/dL at screening&#xD;
+&#xD;
+               7. Serious illness and in hospice or palliative care for terminal disease&#xD;
+&#xD;
+               8. Swallowing issues&#xD;
+&#xD;
+                    1. Self-reported difficulty tolerating solids or liquids&#xD;
+&#xD;
+                    2. Aspiration risks that require change in thickness of liquid or dietary&#xD;
+                       modifications&#xD;
+&#xD;
+               9. Active antibiotics use for an ongoing acute infection&#xD;
+&#xD;
+              10. Any disorder, unwillingness, or inability not covered by any other exclusion&#xD;
+                  criteria which, in the investigator's and/or team's opinion jeopardizes the&#xD;
+                  safety of the participant or others or would interfere with adherence to the&#xD;
+                  protocol.&#xD;
+&#xD;
+          -  Module 2&#xD;
+&#xD;
+               1. Any change to the participant's status from the time of All of Us enrollment that&#xD;
+                  would render them ineligible for All of Us (e.g., being incarcerated, no longer&#xD;
+                  living in the United States, or withdrawn from that study)&#xD;
+&#xD;
+               2. Inability to provide informed consent and engage in informed consent procedures&#xD;
+&#xD;
+               3. Inability or failure to complete all critical elements from Module 1 (dietary,&#xD;
+                  physical activity and sleep assessments, continuous glucose monitoring, MMTT)&#xD;
+&#xD;
+               4. Participants who are already enrolled in Module 3&#xD;
+&#xD;
+               5. Participants who are unlikely to be able to adhere to the protocol, based on&#xD;
+                  structured adherence assessment by a study registered dietitian or other trained&#xD;
+                  staff. This includes participants who have known allergic reactions to, or&#xD;
+                  unwillingness to consume, study foods in Module 2 (e.g., gluten, meat, fish,&#xD;
+                  dairy products) that cannot be reasonably accommodated by the metabolic kitchen&#xD;
+                  within allowable criteria for the test diets.&#xD;
+&#xD;
+               6. Participants who plan to relocate to an area not served by NPH or travel plans&#xD;
+                  that do not permit completion of the Module over a period of up to 6 months&#xD;
+&#xD;
+               7. Pregnancy-related conditions:&#xD;
+&#xD;
+                    1. Gestational age precluding completion of the Module by week 36. A pregnant&#xD;
+                       participant must be able to begin the first dietary intervention by&#xD;
+                       gestational age 26 weeks, 0 days and complete the Module by week 36.&#xD;
+&#xD;
+                    2. High risk pregnancy defined as fetal anomaly, gestational hypertension (SBP&#xD;
+                       &gt;140 mmHg and DBP &gt;90 mmHg), pre-eclampsia, or gestational diabetes mellitus&#xD;
+&#xD;
+               8. Possible ethanol (alcohol) use disorder defined by Alcohol Use Disorders&#xD;
+                  Identification Test (AUDIT) score of &gt;15&#xD;
+&#xD;
+               9. History of surgery for the treatment of obesity and:&#xD;
+&#xD;
+                    1. Self-reported dumping syndrome; or&#xD;
+&#xD;
+                    2. Following a special diet prescribed by their practitioner&#xD;
+&#xD;
+              10. Uncontrolled disease states:&#xD;
+&#xD;
+                    1. Hypertension &gt;160/100mmHg&#xD;
+&#xD;
+                    2. Exacerbation of underlying gastrointestinal disease, including inflammatory&#xD;
+                       bowel disease or other malabsorptive disorders&#xD;
+&#xD;
+                    3. Decompensated cirrhosis&#xD;
+&#xD;
+                    4. Previously diagnosed diabetes Mellitus with HbA1c &gt;12% at screening&#xD;
+&#xD;
+                    5. Newly diagnosed diabetes within the past three months or HbA1c &gt; 6.5% at&#xD;
+                       screening in a person not previously diagnosed with diabetes&#xD;
+&#xD;
+              11. Participants with a history of end-stage renal disease (ESRD) on hemodialysis&#xD;
+&#xD;
+              12. Active infectious diseases (e.g., active tuberculosis &lt; 3 months from symptom&#xD;
+                  onset or positive test, COVID &lt; 1 month from symptom onset or positive test)&#xD;
+&#xD;
+              13. Malignancy (e.g., cancer) actively receiving cytotoxic chemotherapy (oral or&#xD;
+                  infusions) treatment except for nonmelanoma skin cancers during the study period&#xD;
+&#xD;
+              14. Participants who require dietary restrictions due to a medical condition or are&#xD;
+                  on a prescribed diet for underlying chronic diseases&#xD;
+&#xD;
+              15. Participants with Type 1 or Type 2 diabetes on insulin&#xD;
+&#xD;
+              16. Participants aged ≥ 75 years with Type 2 diabetes taking prescribed medications&#xD;
+                  that can cause hypoglycemia (e.g. sulfonylureas, glinides), or on a prescribed&#xD;
+                  diet&#xD;
+&#xD;
+              17. Hospitalization for a chronic disease (e.g., congestive heart failure, stroke)&#xD;
+                  within the past three months&#xD;
+&#xD;
+              18. Requiring transfusions/apheresis during study period&#xD;
+&#xD;
+              19. Participants with a current diagnosis of, or who have received treatment for,&#xD;
+                  bulimia or anorexia nervosa within the past 3 years&#xD;
+&#xD;
+              20. Participants with major psychiatric disorders, including major depression,&#xD;
+                  schizophrenia, or psychosis, who have been hospitalized in the past six (6)&#xD;
+                  months or are currently enrolled in treatment programs&#xD;
+&#xD;
+              21. Hemoglobin &lt;9.5 g/dL at screening&#xD;
+&#xD;
+              22. Myocardial infarction, invasive cardiac procedure, participation in a cardiac or&#xD;
+                  acute rehabilitation programs, transient ischemic attacks, or unstable&#xD;
+                  arrhythmias within the past 3 months&#xD;
+&#xD;
+              23. Any disorder, unwillingness, or inability not covered by any other exclusion&#xD;
+                  criteria which, in the investigator's opinion, might jeopardize the safety of the&#xD;
+                  participant or others, or be expected to interfere with adherence to the&#xD;
+                  protocol.&#xD;
+&#xD;
+          -  Module 3&#xD;
+&#xD;
+               1. All the above mentioned exclusion criteria for Module 2&#xD;
+&#xD;
+               2. Participants who are already enrolled in Module 2&#xD;
+&#xD;
+               3. Any disorder, unwillingness, or inability not covered by any other exclusion&#xD;
+                  criteria which, in the investigator's opinion, might jeopardize the safety of the&#xD;
+                  participant or others, or would interfere with adherence to the protocol&#xD;
+&#xD;
+               4. Inability to abstain from tobacco or nicotine use, vaping, alcohol, illicit drug&#xD;
+                  use, or recreational drug use for two (2) consecutive weeks while domiciled in&#xD;
+                  the clinical unit. Nicotine gum or patch are permitted.&#xD;
+&#xD;
+               5. Any condition requiring in-person treatments or visits during the study period.&#xD;
+                  This will not be accommodated by the domiciling protocol; however, tele-health&#xD;
+                  visits with the participants regular doctor are permitted.&#xD;
+&#xD;
+               6. Lactation or other infant care needs that cannot be accommodated while domiciled&#xD;
+                  in the clinical unit&#xD;
+&#xD;
+               7. Depression as assessed by:&#xD;
+&#xD;
+                    1. Patient Health Questionnaire (PHQ-9) score ≥ 15; or&#xD;
+&#xD;
+                    2. Affirmative answer to PHQ-9 suicidality question: &quot;Thoughts that you would&#xD;
+                       be better off dead or of hurting yourself in some way&quot;&#xD;
+&#xD;
+               8. Unable to engage in daily self-care activities (e.g., bathing, transferring,&#xD;
+                  toileting, feeding, dressing)&#xD;
+&#xD;
+               9. Uncontrolled endocrine disorders (such as Cushing's disease, pituitary disorders,&#xD;
+                  diabetes)&#xD;
+&#xD;
+              10. Uncontrolled pain requiring frequent or daily treatment, or adjustment of&#xD;
+                  medication requiring weekly or bi-weekly visits. Pain medications used on an&#xD;
+                  as-needed basis (PRN), such as acetaminophen or NSAIDs, are not excluded.&#xD;
+&#xD;
+              11. Chronic prescription medications that would pose logistical and safety issues for&#xD;
+                  participation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marie G Gantz, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>RTI International</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Carolyn P Huitema, MS</last_name>
+    <phone>833-947-2583</phone>
+    <email>info@nutritionforprecisionhealth.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sarah Ehrlicher, PhD, RDN</last_name>
+      <phone>205-934-0027</phone>
+      <email>nph@uab.edu</email>
+    </contact>
+    <investigator>
+      <last_name>James Hill, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Barbara Gower, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>USDA Western Human Nutrition Research Center</name>
+      <address>
+        <city>Davis</city>
+        <state>California</state>
+        <zip>95616</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Skye Stewart, MC, CCRP</last_name>
+      <phone>916-296-8378</phone>
+      <email>nph@ucdavis.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Brian Bennett, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jeraldine Guzman</last_name>
+      <phone>310-206-8292</phone>
+      <email>jbguzman@mednet.ucla.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Zhaoping Li, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, Davis</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Skye Stewart, MS, CCRP</last_name>
+      <phone>916-296-8378</phone>
+      <email>nph@ucdavis.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Alexander Borowsky, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sean Adams, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Francene Steinberg, PhD, RD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cedars Sinai Medical Center</name>
+      <address>
+        <city>West Hollywood</city>
+        <state>California</state>
+        <zip>90069</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christina Lombardi, PhD</last_name>
+      <phone>310-423-1001</phone>
+      <email>allofus@cshs.org</email>
+    </contact>
+    <investigator>
+      <last_name>Marc Goodman, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Northwestern Medicine</last_name>
+      <phone>312-695-6077</phone>
+      <email>joinallofus@northwestern.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Linda Van Horn, PhD, RD, LDN</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Joyce Ho, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Marilyn Cornelis, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Illinois Institute of Technology</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60616</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Illinois Institute of Technology</last_name>
+      <phone>312-567-5300</phone>
+      <email>nph-group@iit.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Linda Van Horn, PhD, RD, LDN</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Britt Burton-Freeman, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kendall Bahl</last_name>
+      <phone>773-795-3484</phone>
+      <email>nph@bsd.uchicago.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Linda Van Horn, Phd, RD, LDN</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Briseis Aschebrook-Kilfoy, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Pennington Biomedical Research Center</name>
+      <address>
+        <city>Baton Rouge</city>
+        <state>Louisiana</state>
+        <zip>70808</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Melissa Harris, MPA</last_name>
+      <phone>225-763-3091</phone>
+      <email>melissa.harris@pbrc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Eric Ravussin, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Leanne Redman, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Louisiana State University Health Sciences Center</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Connie Romaine, NP, RN</last_name>
+      <phone>504-568-5111</phone>
+      <email>NPHStudy@lsuhsc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Eric Ravussin, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Leanne Redman, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tufts University</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul Fuss</last_name>
+      <phone>617-556-3381</phone>
+      <email>paul.fuss@tufts.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Sai Das, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Hamed Khalili, MD, MPH</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jessica McGoldrick, MBA</last_name>
+      <phone>617-724-6503</phone>
+      <email>jmcgoldrick2@mgh.harvard.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Sai Das, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Hamed Khalili, MD, MPH</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of North Carolina at Chapel Hill - Chapel Hill Clinic</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27514</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Joan Thomas, MS, RD</last_name>
+      <phone>919-808-5686</phone>
+      <email>joan_thomas@unc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Elizabeth Mayer-Davis, Phd, RD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of North Carolina at Chapel Hill - Nutrition Research Institute Clinic</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>28081</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Julie Stegall, MSW</last_name>
+      <phone>704-250-5048</phone>
+      <email>julie_stegall@unc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Elizabeth Mayer-Davis, PhD, RD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 11, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>May 25, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 25, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

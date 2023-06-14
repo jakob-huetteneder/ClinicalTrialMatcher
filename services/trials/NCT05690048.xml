@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9794">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05690048</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Version 1.0/07.12.2022</org_study_id>
+    <nct_id>NCT05690048</nct_id>
+  </id_info>
+  <brief_title>Fecal Microbiota Transfer in Liver Cancer to Overcome Resistance to Atezolizumab/Bevacizumab (FLORA)</brief_title>
+  <acronym>FLORA</acronym>
+  <official_title>Fecal Microbiota Transfer in Liver Cancer to Overcome Resistance to Atezolizumab/Bevacizumab (FLORA)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Michael Dill</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Center for Tumor Diseases, Heidelberg</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>German Cancer Research Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Heidelberg University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Cologne</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Universitätsmedizin Mannheim</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital Heidelberg</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The interventional, randomized, placebo-controlled, single blind phase II-trial FLORA will&#xD;
+      assess safety and immunogenicity of fecal microbiota transfer in combination with standard of&#xD;
+      care immunotherapy in advanced hepatocellular carcinoma (HCC) in a parallel group design.&#xD;
+&#xD;
+      Subjects will be randomized 2:1 into either the FMT or placebo group.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Eligible HCC patients visiting the outpatient clinics of LCCH at the study sites at NCT&#xD;
+      Heidelberg and University Medical Center Mannheim will be enrolled into the study after&#xD;
+      informed consent. Patients undergo 2:1 randomization into either the FMT or placebo group.&#xD;
+      Study lead in with a first sonographically guided tumor biopsy, if not already performed for&#xD;
+      diagnostic purposes, and a sigmoidoscopy will be scheduled within 10 days after study&#xD;
+      enrollment in an outpatient setting. Start of active pharmacotherapy with A/B will begin&#xD;
+      within five working days after sigmoidoscopy. A/B administration will be administered as&#xD;
+      standard of care every 21 days. At day -3 to 0 oral Vancomycin will be given 4x 250mg to the&#xD;
+      verum group. At day 0 and 21, concurrent to the first and second cycle of A/B, encapsulated&#xD;
+      FMT will be administered on the same day. At day 40-42, before the third cycle of A/B, a&#xD;
+      second biopsy of the liver lesion and a sigmoidoscopy will be performed. Clinical efficacy&#xD;
+      and safety will be assessed as indicated per protocol analysis.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 1, 2024</start_date>
+  <completion_date type="Anticipated">March 1, 2027</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2026</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Interventional, randomized, controlled, single blind trial phase II with two arms (verum/placebo) in a parallel group design</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Differential tumoral CD8 T-cell infiltration</measure>
+    <time_frame>6 weeks after treatment initiation</time_frame>
+    <description>Tumoral CD8 T-cells in IHC before treatment initiation and 6 weeks after (CD8-cells/area of tumor tissue in formalin embedded tumor tissue)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adverse event documentation of FMT in advanced HCC</measure>
+    <time_frame>Follow up 3 months after treatment initiation</time_frame>
+    <description>Adverse event documentation [AE] &amp; immune-related adverse events [irAE])</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>Follow up 3 months after treatment initiation</time_frame>
+    <description>Progression-free survival as by RECIST1.1 criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>Follow up 12 months after treatment initiation</time_frame>
+    <description>Overall survival</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of Hepatic function</measure>
+    <time_frame>Follow up 3 months after treatment initiation</time_frame>
+    <description>Assessment of Model of End-Stage Liver Disease Score in blood (MELD-Score, 6-40, higher score refers to worse hepatic function)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">48</enrollment>
+  <condition>Immunotherapy</condition>
+  <arm_group>
+    <arm_group_label>Vancomycin + A/B + FMT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Atezolizumab 1200mg i.v. &amp; Bevacizumab 15mg/kg body weight i.v. (A/B) as standard of care (SOC).&#xD;
+Vancomycin orally (125 mg 4xd, day -3 to 0) for reduction of original patient gut microbiota.&#xD;
+Fecal microbiota transfer (FMT) via capsule (50 g of fecal matter) on day 0 and day 21.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Vancomycin + A/B + Placebo FMT</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Atezolizumab 1200mg i.v. &amp; Bevacizumab 15mg/kg body weight i.v. (A/B) as standard of care (SOC).&#xD;
+Placebo Vancomycin orally (125 mg 4xd, day -3 to 0) for reduction of original patient gut microbiota.&#xD;
+Placebo Fecal microbiota transfer (FMT) via capsule (50 g of fecal matter) on day 0 and day 21.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fecal microbiota transfer</intervention_name>
+    <description>FMT via capsule (50 g of fecal matter) on day 0 and day 21.</description>
+    <arm_group_label>Vancomycin + A/B + FMT</arm_group_label>
+    <other_name>FMT</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vancomycin Oral Capsule</intervention_name>
+    <description>Vancomycin orally (125 mg 4xd, day -3 to 0).</description>
+    <arm_group_label>Vancomycin + A/B + FMT</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Atezolizumab + Bevacizumab</intervention_name>
+    <description>Atezolizumab 1200mg i.v. &amp; Bevacizumab 15mg/kg body weight i.v. (A/B) as standard of care (SOC).</description>
+    <arm_group_label>Placebo Vancomycin + A/B + Placebo FMT</arm_group_label>
+    <arm_group_label>Vancomycin + A/B + FMT</arm_group_label>
+    <other_name>A/B</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo Vancomycin Oral Capsule</intervention_name>
+    <description>Placebo Vancomycin orally (125 mg 4xd, day -3 to 0).</description>
+    <arm_group_label>Placebo Vancomycin + A/B + Placebo FMT</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo Fecal microbiota transfer</intervention_name>
+    <description>Placebo Fecal microbiota transfer (FMT) via capsule (50 g of fecal matter) on day 0 and day 21.</description>
+    <arm_group_label>Placebo Vancomycin + A/B + Placebo FMT</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age 18 years or older&#xD;
+&#xD;
+          2. Confirmed imaging or histological diagnosis of unresectable HCC, BCLC stadium C&#xD;
+&#xD;
+          3. ECOG performance status of 0-1&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Advanced liver cirrhosis (Child-Pugh Score C)&#xD;
+&#xD;
+          2. Diagnosis of immunodeficiency (e.g. HIV, immunosuppressants)&#xD;
+&#xD;
+          3. Usage of antibiotics within 2 weeks prior enrollment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Michael T Dill, PhD</last_name>
+    <phone>06221 568611</phone>
+    <email>michael.dill@med.uni-heidelberg.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Conrad Rauber, MD/PhD</last_name>
+    <phone>06221568611</phone>
+    <email>conrad.rauber@med.uni-heidelberg.de</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University Hospital Heidelberg</name>
+      <address>
+        <city>Heidelberg</city>
+        <state>Baden-Württemberg</state>
+        <zip>69120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Michael Dill, PhD</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Conrad Rauber, PhD</last_name>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Heidelberg</name>
+      <address>
+        <city>Heidelberg</city>
+        <state>Baden-Württemberg</state>
+        <zip>69120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 13, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 9, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>January 19, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 19, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University Hospital Heidelberg</investigator_affiliation>
+    <investigator_full_name>Michael Dill</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>immunotherapy</keyword>
+  <keyword>fecal microbiota transfer</keyword>
+  <keyword>HCC</keyword>
+  <keyword>gut microbiota</keyword>
+  <keyword>tumor microenvironment</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Liver Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vancomycin</mesh_term>
+    <mesh_term>Bevacizumab</mesh_term>
+    <mesh_term>Atezolizumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9451">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05697484</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CL(3017)</org_study_id>
+    <nct_id>NCT05697484</nct_id>
+  </id_info>
+  <brief_title>The Impact of Arabic Gamified Mobile Application on Diabetes Control in Egyptian Pediatric Patients With Type 1 Diabetes.</brief_title>
+  <official_title>The Impact of Arabic Gamified Mobile Application on Diabetes Control in Egyptian Pediatric Patients With Type 1 Diabetes.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cairo University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cairo University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a prospective randomized parallel two group pharmacist-led interventional study. The&#xD;
+      study will involve introduction of the mobile game to pediatric diabetic patients to improve&#xD;
+      their blood glucose level. The outcomes to be measured are diabetes control and behavioral&#xD;
+      change in pediatric patients with type1 diabetes mellitus&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2023</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>diabetes control</measure>
+    <time_frame>3 months</time_frame>
+    <description>diabetes control that will be assessed by measuring the HbA1c level at baseline and at the end of the study in both groups</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Behavioral change</measure>
+    <time_frame>3 months</time_frame>
+    <description>The disease care activities of pediatric diabetic patients will be measured at baseline and at the end of the study after 3 months using The Arabic Summary of Diabetes Self-Care Activities measure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Measurement of blood glucose control</measure>
+    <time_frame>3 months</time_frame>
+    <description>the random blood glucose level of pediatric patients will be measured by themselves or by their parents on daily basis using glucometer and the reading will be recorded until next visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Usability and satisfaction</measure>
+    <time_frame>3 months</time_frame>
+    <description>Usability and satisfaction of the patients will be assessed using a 10-item Arabic System Usability Scale (A-SUS) for mobile applications.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">76</enrollment>
+  <condition>Diabetic Pediatric Patients With Type 1 Diabetes</condition>
+  <arm_group>
+    <arm_group_label>intervention group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>educational game</intervention_name>
+    <description>Control group will be provided with usual care. Intervention group will be provided in addition to the usual care, an access to the mobile game after a simple training for game usage. Both groups will be followed for a period of 3 months.&#xD;
+The mobile game is planned to have the following design:&#xD;
+Game will be presented in Arabic language.&#xD;
+The game will consist of four levels. a. At the beginning of each level there will be an educational video that the patient must watch in order to be allowed to start the level.</description>
+    <arm_group_label>intervention group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Pediatric patients age from 7 to 14 years old to be able to deal with and understand&#xD;
+             the game.&#xD;
+&#xD;
+          2. Children previously diagnosed with type1 DM.&#xD;
+&#xD;
+          3. Arabic speaker.&#xD;
+&#xD;
+          4. Smart phone (android) access at home, either the mobile of the child or his/her&#xD;
+             parents.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Severe cognitive or psychiatric conditions that prevent a patient from understanding&#xD;
+             the game. any disorder that significantly impairs the cognitive function of an&#xD;
+             individual to the point where normal functioning in society is impossible without&#xD;
+             treatment ,examples: dementia- developmental disorders-motor skills disorders-&#xD;
+             amnesia- substance induced cognitive impairment)25&#xD;
+&#xD;
+          2. Diabetic pediatric patients at goal with HbA1c &lt; 7.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>7 Years</minimum_age>
+    <maximum_age>14 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 14, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 14, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>January 14, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 14, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Cairo University</investigator_affiliation>
+    <investigator_full_name>Sara Mohammed Esmail Alsadek Sherif</investigator_full_name>
+    <investigator_title>Teaching Assistant at faculty of pharmacy, Cairo university</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 1</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

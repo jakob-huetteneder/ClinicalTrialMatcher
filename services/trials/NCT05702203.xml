@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9242">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05702203</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BOND</org_study_id>
+    <nct_id>NCT05702203</nct_id>
+  </id_info>
+  <brief_title>Creative Music Therapy in Newborns With Congenital Heart Disease</brief_title>
+  <acronym>BOND</acronym>
+  <official_title>Creative Music Therapy in Newborns With Congenital Heart Disease: A Randomized Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Children's Hospital, Zurich</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Children's Hospital, Zurich</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In the context of a clinical trial, the investigators will evaluate if parent-infant&#xD;
+      interaction can be improved by a family integrated, individualised, interactive resource- and&#xD;
+      needs-oriented music therapy approach in the dyads of infants with congenital heart disease&#xD;
+      and their parents.&#xD;
+&#xD;
+      This intervention will be compared with the standard of care. Infants allocated to the&#xD;
+      control group will receive standard care during admission. Standard care includes involvement&#xD;
+      of a multi-professional team consisting of medical and nursing team,&#xD;
+      psychologists/psychiatrists, social workers, breastfeeding counsellor, speech therapist,&#xD;
+      nutritional counsellor and physiotherapists.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Open label single-centre randomised controlled interventional trial. All infants with&#xD;
+      congenital heart disease (CHD) and age &lt;28 days admitted to the neonatal and paediatric&#xD;
+      intensive care unit at the University Children's Hospital in Zurich are eligible. Infants&#xD;
+      will be allocated 1:1 to creative music therapy (CMT) and standard care using block&#xD;
+      randomization with stratification by socio-economic score (SES, &lt;8 vs &gt;8) and risk of CHD&#xD;
+      according to the Risk Stratification for Congenital Heart Surgery (RACHS-2). CMT will be&#xD;
+      conducted 3x/week with a minimum of ten sessions. The primary outcome is mother-infant&#xD;
+      interaction at age 6 months assessed using a video of a feeding interaction at home, coded in&#xD;
+      a blinded manner with the Parent-Child Early Relational Assessment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 22, 2022</start_date>
+  <completion_date type="Anticipated">October 24, 2026</completion_date>
+  <primary_completion_date type="Anticipated">October 21, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mother-infant interaction as assessed by Parent-Child Early Relational Assessment (PCERA P1)</measure>
+    <time_frame>at age 6 months</time_frame>
+    <description>A video of a mother-infant interaction such as a feeding sequence is chosen as primary outcome. The video will be scored blinded according to the PCERA coding system. The variables/items in each scale are averaged together to form a total score between 1 and 5. Each variable/item is coded on a 5-point Likert-type scale from 1 (less positive and/or more negative affect or behaviour) to 5 (more positive and/or less negative affect or behaviour)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Parent-infant interaction as assessed by Maternal postnatal attachment scale (MPAS)</measure>
+    <time_frame>from baseline to six months of age</time_frame>
+    <description>All items are rated with a score of 1 (low bonding) to 5 (high bonding), with higher scores indicating higher feelings of attachment toward the infant. The sum of the 19 items forms the total MPAS scale. The MPAS is composed of three scales: (1) quality of attachment, (2) absence of hostility, and (3) pleasure in interaction</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parent-infant interaction as assessed by Postpartum Bonding Questionnaire (PBQ)</measure>
+    <time_frame>from baseline until six months age</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parent-infant interaction as assessed by Pictorial Representation of Attachment Measure</measure>
+    <time_frame>from baseline until six months age</time_frame>
+    <description>PBQ is a self-report screening measure of difficulties in the maternal-infant relationship and has been validated in the sample of mothers with different forms of maternal-infant disorders. The PBQ has 25 items rated on a 6-point scale (from 0 never to 5 always), with several reversely scored items, where a higher score indicates more disturbed bonding. Four subscales measure general factor (12 items), rejection and pathological anger (7 items), anxiety about infant (4 items), and incipient abuse (2 items)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parent-infant interaction as assessed by saliva oxytocin measurements (before/after CMT intervention)</measure>
+    <time_frame>from baseline until six months age</time_frame>
+    <description>Levels of oxytocin will be compraed before and after the CMT session in infants and parents</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parental mental health as assessed by General health (GHQ-12)</measure>
+    <time_frame>from baseline until six months age</time_frame>
+    <description>The 12-Item General Health Questionnaire (GHQ-12) consists of 12 items, assessing the severity of a psychological distress over the past few weeks using a 4-point Likert-type scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parental mental health as assessed by Patient Health Questionnaire</measure>
+    <time_frame>from baseline until six months age</time_frame>
+    <description>The Patient Health Questionnaire is a self-administered version of the PRIME-MD diagnostic instrument to screen for depression. Respondents must recall how often certain symptoms have been experienced over the last two weeks</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parental mental health as assessed by Edinburgh Postnatal Depression Scale (EPDS)</measure>
+    <time_frame>from baseline until six months age</time_frame>
+    <description>The EPDS is the most common 10-item scale questionnaire used to measure mother's postpartum depression symptoms; parents are asked to respond to ten items on a four-point Likert scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parental mental health as assessed by Spielberger State Anxiety Scale (STAI)</measure>
+    <time_frame>from baseline until six months age</time_frame>
+    <description>The STAI is widely used a 40-item self-report scale that assesses separate dimensions of &quot;state&quot; and &quot;trait&quot; anxiety. The state measurement assesses how the individual feels &quot;right now&quot; or at this moment. The trait anxiety measure addresses how the individuals feel generally. The rating is done on a four-point Likert scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parental mental health as assessed by Perceived Stress SCale (PSS-10)</measure>
+    <time_frame>from baseline until six months age</time_frame>
+    <description>The 10-item Perceived Stress Scale is widely used to measure self-reported stress. The questions are answered on a 5-point scale from 'never' to 'very often' and a total PSS score can be calculated by summing across all items</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parental mental health as assessed by Parental stress scale (PSS:NICU)</measure>
+    <time_frame>from baseline until six months age</time_frame>
+    <description>The German version of the scale consists of 13 items and assesses the extent of stress caused by experiences in the ICU. It comprises two subscales: infant behavior and appearance, and parental role alterations. Responses are given on a 6-point scale from 1 to 5</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parental mental health as assessed by Post traumatic diagnostic scale DSM-5 (PDS)</measure>
+    <time_frame>from baseline until six months age</time_frame>
+    <description>The PDS is a very commonly used 17-item self-report instrument that rates symptoms of PTSD according to their frequency on a 4-point scale from 0 (not at all) to 3 (almost always).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Paternal-infant interaction and protective factors as assessed by F-Soz U Social Support Questionnaire (FSozU)</measure>
+    <time_frame>baseline and at six months age</time_frame>
+    <description>This widely used German self-report 22-item questionnaire will be used to assess social support. The answers a based on a 5-point Likert scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Socioeconomic status (SES)</measure>
+    <time_frame>baseline</time_frame>
+    <description>The parents will complete a questionnaire that assesses their education, occupation, and salary. SES is calculated according to Largo et al. by means of a 6-point score of both maternal education and paternal occupation. The lowest possible SES score for either the mother or the father is 1, the highest 6. The overall SES score is a simple addition of the 2 individual scores resulting in a value between 2 and 12</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Paternal-infant interaction and protective factors as assessed by Resilience Scale 13</measure>
+    <time_frame>baseline an at six months age</time_frame>
+    <description>RS13 is a self-assessment procedure to assess coping ability in terms of personal competence and individual resilience. This scale includes central aspects of resilience, such as emotional stability, joie de vivre, energy, openness to new things, optimism, and the ability to change perspective. A 7-point Likert scale forms the response options from 1 (No, not true) to 7 (Yes, exactly true).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Paternal-infant interaction and protective factors as assessed by Big five inventory-10</measure>
+    <time_frame>baseline</time_frame>
+    <description>The BFI-10 is a 10-item scale measuring the Big Five personality traits Extraversion, Agreeableness, Conscientiousness, Emotional Stability, and Openness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Infant secondary outcome as assessed by Brain magnetic resonance imaging</measure>
+    <time_frame>baseline and before discharge from hospital</time_frame>
+    <description>Resting state functional MRI (functional connectivity), diffusion weighted and tensor imaging (structural connectomics), magnetic resonance spectroscopy (brain metabolism), arterial spin labeling (cerebral perfusion), multi-component T2 relaxometry (myelination) and susceptible weighted imaging will be acquired.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Infant secondary outcome as assessed by The Infant Behavior Questionnaire Revised (IBQ-R), Infant Temperament</measure>
+    <time_frame>at six months age</time_frame>
+    <description>This is a well-established caregiver report measure of temperament for infants aged 3 to 12 months. This instrument assesses 6 domains of infant temperament (activity level, soothability, fear, distress to limitations, smiling and laughter, and duration of orienting). It consists of 91 items and 14 scales. Parents are asked to report, on a 7-point scale, the frequency with which infants have showed specific behaviors in common situations during the past week or 2 weeks.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Infant secondary outcome as assessed by Questionnaire about screaming, feeding and sleeping (SFS)</measure>
+    <time_frame>at six months age</time_frame>
+    <description>The SFS gives an overview of the child behavior regulation and the associated difficulties within the frame of parental assessments. Duration of crying, length of sleep, distractibility, dysfunctional communication patterns in calming strategies, bedtime rituals, feeding procedures and interpretations and explanations for the parents' problem, their own burden will be evaluated</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">164</enrollment>
+  <condition>Congenital Heart Disease</condition>
+  <condition>Mother Child Interaction</condition>
+  <arm_group>
+    <arm_group_label>Standard Care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Infants allocated to the control group will receive standard care during admission. Standard care includes involvement of a multi-professional team consisting of medical and nursing team, psychologists/psychiatrists, social workers, breastfeeding counsellor, speech therapist, nutritional counsellor and physiotherapists</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Creative Music Therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A certified, well-trained and experienced music therapist will formulate an individualized, culturally adapted treatment plan based on an initial infant-parent assessment, which includes assessment of parental needs, musical heritage, culture, context, and parental integration in the therapeutic process. During hospitalization 3 times per week 20 minutes of creative music therapy sessions will be performed, a minimum of 10 therapy session. After discharge, every other two weeks a music therapy session will be performed at home until the age of six months.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Creative Music Therapy</intervention_name>
+    <description>Creative Music Therapy 3x20 minutes per week during admission, at least 10 session during admission, after discharge once every other week until 6 months of age.</description>
+    <arm_group_label>Creative Music Therapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  All newborn infants with CHD born &gt;35 weeks of gestational and &lt;28 days at diagnosis&#xD;
+             of CHD irrespective of severity of the heart disease&#xD;
+&#xD;
+          -  Admitted to Neonatal Intensiv Care Unit/Pediatric Intensiv Care Unit (NICU/PICU) at&#xD;
+             the Children's University Hospital&#xD;
+&#xD;
+          -  Infants with syndromes and /or confirmed chromosomal abnormalities&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        - Gestational age at birth &lt;35 weeks, age &gt;28 days at diagnosis of CHD&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Minute</minimum_age>
+    <maximum_age>28 Days</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Cornelia Hagmann, Prof. Dr.</last_name>
+    <phone>041 44 266 35 27</phone>
+    <email>cornelia.hagmann@kispi.uzh.ch</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University Children's Hospital Zurich</name>
+      <address>
+        <city>Zurich</city>
+        <zip>8032</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cornelia Hagmann, Prof. Dr. med.</last_name>
+      <phone>041442663527</phone>
+      <email>Cornelia.Hagmann@kispi.uzh.ch</email>
+    </contact>
+    <investigator>
+      <last_name>Cornelia Hagmann, Prof. Dr. med.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>October 5, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>January 17, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 17, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Parental mental health</keyword>
+  <keyword>Magnetic resonance Imaging</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Diseases</mesh_term>
+    <mesh_term>Heart Defects, Congenital</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>July 21, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/03/NCT05702203/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9116">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05704933</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MCC-21273</org_study_id>
+    <secondary_id>CA209-6D9</secondary_id>
+    <nct_id>NCT05704933</nct_id>
+  </id_info>
+  <brief_title>Pilot Study of Nivolumab w/Ipilimumab or Relatlimab in Surgically Resectable Melanoma Brain Metastases</brief_title>
+  <official_title>A Randomized, Pilot Study to Evaluate the Molecular and Cellular Response to Treatment With Nivolumab With Either Adjuvant Ipilimumab or Relatlimab in Adult Patients With Surgically Resectable Melanoma Brain Metastases</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>H. Lee Moffitt Cancer Center and Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Bristol-Myers Squibb</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>H. Lee Moffitt Cancer Center and Research Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this pilot study is to determine the safety and feasibility of giving a single&#xD;
+      dose of Nivolumab with Ipilimumab or Relatlimab in participants with brain metastases from&#xD;
+      melanoma who can undergo surgery for removal of their brain metastases 7- 10 days after&#xD;
+      receiving the study drug.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 19, 2023</start_date>
+  <completion_date type="Anticipated">January 2027</completion_date>
+  <primary_completion_date type="Anticipated">January 2027</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility: Ability to recruit per treatment arm</measure>
+    <time_frame>At 30 months</time_frame>
+    <description>Feasibility is defined as being able to recruit 8 patients per treatment arm (24 total) within 30 months.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Comparison of immune cell population per treatment arm</measure>
+    <time_frame>Up to 15 months</time_frame>
+    <description>Investigators will compare immune cell population between treatment arms (control vs Nivolumab + Ipilimumab vs Nivolumab +Relatlimab). The expression of PD-1 and PD-L1 in all samples collected will be evaluated, as well as the expression of cytokines and inflammatory cells including CD4+ T cells, CD8+ T cells, NK cells, T regulatory cells, B cells, plasma cells, IL-2, IFN-γ, TNF-β, GM-CSF, IL-3, IL-4, IL-5, IL-10, IL-13, myeloid-derived suppressor cells(MDSCs), dendritic cells (DCs), and macrophages. Size of immune cell population will be summarized in the following two ways. One is normalized per 100 cells so that the numbers are comparable between samples. The other estimation is the proportion of cells for each cell population. Other characterizations will be performed.</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">24</enrollment>
+  <condition>Metastatic Melanoma</condition>
+  <condition>Metastasis to Brain</condition>
+  <arm_group>
+    <arm_group_label>Pre-Surgery Nivolumab + Ipilimumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will be given one dose of Nivolumab (1mg/kg IV) and Ipilimumab (3mg/kg IV) prior to standard of care surgery for tumor resection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pre-Surgery Nivolumab + Relatlimab(Opdualag)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will be given one dose of Opdualag (Nivolumab 480 mg IV + Relatlimab160 mg IV), prior to standard of care surgery for tumor resection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No Pre-Surgery treatment (Standard of Care)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients will be on standard of care treatment, therefore no infusion will be given prior to standard of care surgery for tumor resection.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nivolumab</intervention_name>
+    <description>Nivolumab is a monoclonal antibody o PD-1 protein, which is normally express on the surface of activated T cells. The interaction of PD-1 with its ligand (PD-L1) on T cells decreases their cytotoxic activity, helping protect normal cells in the setting of chronic inflammation. Tumor cells can utilize mechanisms to evade T cell mediated cytotoxicity by expressing PD-L1 on their surface or on the surface of T cells. Nivo, by blocking the interaction between PD-1 and its ligands, PD-L1 and PD-L2, allows T cells to remain active.</description>
+    <arm_group_label>Pre-Surgery Nivolumab + Ipilimumab</arm_group_label>
+    <other_name>Opdivo</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ipilimumab</intervention_name>
+    <description>Ipilimumab is a recombinant, human antibody to CTLA-4.[18-20] CTLA-4 regulates T cell activation by binding with CD80 or CD86 with higher affinity than CD28, resulting in blockage of the co-stimulation signal and preventing further T cell activation. Blockade of CTLA-4 results in further T cell activation.</description>
+    <arm_group_label>Pre-Surgery Nivolumab + Ipilimumab</arm_group_label>
+    <other_name>Yervoy</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nivolumab + Relatlimab</intervention_name>
+    <description>Opdualag (Nivolumab and Relatlimab-rmbw) is a human monoclonal antibody to LAG-3, currently under investigation.[6] Relatlimab is an antibody (IgG4 isotype) that has a stabilizing hinge mutation for attenuated Fc receptor binding to decrease or get rid of the possibility of antibody-mediated and/or complement-mediated target cell killing. Rela binds to an epitope on LAG-3 with high affinity and specificity, with subsequent blockade of LAG-3 and its interaction with its ligand, MHC class II. This antibody displays compelling in vitro functional activity in reversing LAG-3 that facilitates inhibition of an antigen-specific murine T cell hybridoma overexpressing human LAG-3 . Relatlimab was also shown to improve the activation of human T cells in superantigen stimulation assays when added either alone or in combination with Nivolumab.</description>
+    <arm_group_label>Pre-Surgery Nivolumab + Relatlimab(Opdualag)</arm_group_label>
+    <other_name>Opdualag</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Standard of Care Craniotomy</intervention_name>
+    <description>Participants will undergo craniotomy for surgical resection of melanoma brain metastases.</description>
+    <arm_group_label>No Pre-Surgery treatment (Standard of Care)</arm_group_label>
+    <arm_group_label>Pre-Surgery Nivolumab + Ipilimumab</arm_group_label>
+    <arm_group_label>Pre-Surgery Nivolumab + Relatlimab(Opdualag)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18 years old or older on day of signing the informed consent.&#xD;
+&#xD;
+          -  Histological confirmation of systemic cancer from melanoma.&#xD;
+&#xD;
+          -  Surgery for metastatic brain lesions (i.e., MBM) is needed but not imminent. Imminent&#xD;
+             defined as requiring emergent intervention. A multidisciplinary team, including at&#xD;
+             least a neurosurgeon, radiation-oncologist, and neuro-oncologist, will determine the&#xD;
+             appropriateness for resection via craniotomy and level of urgency for surgery of the&#xD;
+             MBM.&#xD;
+&#xD;
+          -  Resectable metastatic brain lesions (i.e., MBM) in whom surgical resection is a&#xD;
+             reasonable therapeutic option. A resectable metastatic brain lesion is defined as a&#xD;
+             lesion that is ≥10 mm in size of longest diameter and in a location outside of the&#xD;
+             brainstem. (Other target lesions, i.e. those that are not resected but are followed&#xD;
+             for response, can be ≥5 mm). A multidisciplinary team, including at least a&#xD;
+             neurosurgeon, radiation-oncologist, and neuro-oncologist, will determine the&#xD;
+             appropriateness for resection via craniotomy and level of urgency for surgery of the&#xD;
+             MBM.&#xD;
+&#xD;
+          -  Patient is on ≤3 mg/day dexamethasone or equivalent/day over pre-op period.&#xD;
+&#xD;
+          -  Patient did not receive treatment with immunotherapy within 6 months prior to day 1 of&#xD;
+             treatment on study.&#xD;
+&#xD;
+          -  No treatment with dabrafenib and/or trametinib (BRAF MEKi) for 1 month.&#xD;
+&#xD;
+          -  MRI with enhancing metastatic brain lesions (i.e., MBM) amenable to resection of&#xD;
+             contrast-enhancing tumor (determined by neurosurgeon). A multidisciplinary team,&#xD;
+             including at least a neurosurgeon, radiation-oncologist, and neuro-oncologist, will&#xD;
+             determine the appropriateness for resection via craniotomy and level of urgency for&#xD;
+             surgery of the MBM.&#xD;
+&#xD;
+          -  Patient willing to undergo craniotomy and resection.&#xD;
+&#xD;
+          -  Patient eligible for surgery in the 7-10 days after initial treatment.&#xD;
+&#xD;
+          -  Patients who had prior surgical resection of MBM are eligible to enroll.&#xD;
+&#xD;
+          -  Usual acceptable lab parameters, demonstrating adequate organ function as defined in&#xD;
+             protocol. All screening labs should be performed within 21 days of treatment&#xD;
+             initiation.&#xD;
+&#xD;
+          -  Resting baseline O2 saturation by pulse oximetry of 92% or higher at rest.&#xD;
+&#xD;
+          -  Be willing and able to provide written informed consent for the trial.&#xD;
+&#xD;
+          -  Willing to provide tissue and blood samples for correlative research purposes.&#xD;
+&#xD;
+          -  Has ECOG Performance Status (PS) of 0, 1 or 2.&#xD;
+&#xD;
+          -  Adequate seizure prophylaxis in the pre- and perioperative period.&#xD;
+&#xD;
+          -  Prior whole Brain radiation therapy (WBRT), single fraction radiation therapy (e.g.,&#xD;
+             SRS), or multiple fraction radiation therapy (e.g., fSRT) to the brain is permitted.&#xD;
+&#xD;
+          -  A negative serum pregnancy test must be documented at the screening visit.&#xD;
+             Additionally, female patients must exhibit a negative urine pregnancy test (minimum&#xD;
+             sensitivity 25 IU/L or equivalent units of HCG) within 72 hours prior to the start of&#xD;
+             study drug, therefore the screening pregnancy test may need to be repeated prior to&#xD;
+             the start of study drug dosing. A urine pregnancy test can be used for this. A&#xD;
+             pre-dosing urine pregnancy test must be performed prior to each dose during study&#xD;
+             phase. A urine pregnancy test will also be conducted at End of Treatment Visit.&#xD;
+&#xD;
+          -  Female patients of childbearing potential must be willing to use an adequate method of&#xD;
+             contraception as outlined in Section 13.1.2 Contraception Guidance for Female&#xD;
+             Participants of Child Bearing Potential. Contraception, for the duration of treatment&#xD;
+             and an additional 5 months after the last dose of the study drug. Abstinence is&#xD;
+             acceptable if this is the usual lifestyle and preferred contraception for the patient.&#xD;
+&#xD;
+          -  Male patients of childbearing potential who are sexually active with Women of Child&#xD;
+             Bearing Potential do not require contraception.&#xD;
+&#xD;
+          -  Patients with an LVEF &gt;50% within the last 6 months prior to start of study treatment.&#xD;
+             If Patient's LVEF &lt;50% they can be re-assessed. If an LVEF assessment has not been&#xD;
+             completed within the last 6 months it would require an LVEF assessment.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Under 18 years old.&#xD;
+&#xD;
+          -  Patient is on &gt; 3 mg of dexamethasone/day or equivalent/day&#xD;
+&#xD;
+          -  Has a metastatic brain lesion (or all brain lesions) that is (are) unresectable.&#xD;
+             Unresectable defined as located in the brainstem or measuring &lt;10 mm in longest&#xD;
+             diameter. Note, patients with multiple metastatic brain lesions that include&#xD;
+             non-targetable lesions of &lt;10 mm are allowed to enroll in the study as long as they&#xD;
+             have at least 1 lesion that is ≥10 mm in size of longest diameter.&#xD;
+&#xD;
+          -  Has ECOG Performance Status of &gt;2.&#xD;
+&#xD;
+          -  Has clear evidence of leptomeningeal disease.&#xD;
+&#xD;
+          -  Is currently participating and receiving study therapy or has participated in a study&#xD;
+             of an investigational agent and received study therapy or used an investigational&#xD;
+             device within 4 weeks of the first dose of treatment, or has not recovered (i.e., ≤&#xD;
+             Grade 1 or at baseline) from AEs due to a previously administered agent.&#xD;
+&#xD;
+          -  Has a diagnosis of immunodeficiency or is receiving systemic steroid therapy or any&#xD;
+             other form of immunosuppressive therapy within 7 days prior to the first dose of trial&#xD;
+             treatment. Physiologic doses of steroid therapy (≤ 3 mg/day dexamethasone equivalents)&#xD;
+             by the time of first dose of treatment are allowed.&#xD;
+&#xD;
+          -  Has a known history of active Bacillus Tuberculosis.&#xD;
+&#xD;
+          -  Hypersensitivity to either Nivolumab, Ipilimumab, or Relatlimab or any of its&#xD;
+             excipients.&#xD;
+&#xD;
+          -  Has had a prior anti-cancer monoclonal antibody (mAb) within 4 weeks prior to study&#xD;
+             Day 1 or who has not recovered (i.e., ≤ Grade 1 or at baseline) from adverse events&#xD;
+             (AEs) due to agents administered more than 4 weeks earlier.&#xD;
+&#xD;
+          -  Has had prior chemotherapy, targeted small molecule therapy, or radiation therapy&#xD;
+             within 2 weeks prior to study Day 1 or who has not recovered (i.e., ≤ Grade 1 or at&#xD;
+             baseline) from AEs due to a previously administered agent. Note: Patients with ≤ Grade&#xD;
+             2 neuropathy are an exception to this criterion and may qualify for the study. Note:&#xD;
+             If patient received major surgery, they must have recovered adequately from the&#xD;
+             toxicity and/or complications from the intervention prior to starting therapy.&#xD;
+&#xD;
+          -  Has a known additional malignancy that is progressing or requires active treatment.&#xD;
+             Exceptions include basal cell carcinoma of the skin or squamous cell carcinoma of the&#xD;
+             skin that has undergone potentially curative therapy or in situ cervical cancer.&#xD;
+&#xD;
+          -  Has active autoimmune disease that has required systemic treatment in the past 2 years&#xD;
+             (i.e. with the use of disease modifying agents, corticosteroids or immunosuppressive&#xD;
+             drugs). Replacement therapy (e.g., thyroxine, insulin, or physiologic corticosteroid&#xD;
+             replacement therapy for adrenal or pituitary insufficiency, etc.) is not considered a&#xD;
+             form of systemic treatment. Patients with vitiligo or resolved childhood asthma/atopy&#xD;
+             would be an exception to this rule. Patients that require intermittent use of&#xD;
+             bronchodilators or local steroid injections would not be excluded from the study.&#xD;
+             Patients with hypothyroidism stable on hormone replacement or Sjogren's syndrome will&#xD;
+             not be excluded from the study.&#xD;
+&#xD;
+          -  Has a prior history of life-threatening toxicity related to prior immune therapy&#xD;
+             (i.e., anti-CTLA-4 or anti- PD-1/PD-L1 treatment or any other antibody or drug&#xD;
+             specifically targeting T-cell co-stimulation or immune checkpoint pathways) except&#xD;
+             those that are unlikely to re-occur with standard countermeasures (i.e., hormone&#xD;
+             replacement after adrenal crisis).&#xD;
+&#xD;
+          -  Has prior treatment with Relatlimab or any other LAG-3 targeted agent at least 6&#xD;
+             months prior to signing informed consent.&#xD;
+&#xD;
+          -  Other than the medications explicitly stated in the exclusion criteria or elsewhere in&#xD;
+             the protocol, other medications or prior treatments are allowed.&#xD;
+&#xD;
+          -  Has known history of, or any evidence of active, interstitial lung disease or&#xD;
+             noninfectious pneumonitis requiring corticosteroid therapy.&#xD;
+&#xD;
+          -  Has history of myocarditis&#xD;
+&#xD;
+          -  Has documented LVEF &lt;50% within 6 months prior to start of study treatment and unable&#xD;
+             to be re-assessed with an LVEF &gt;50%.&#xD;
+&#xD;
+          -  Has an active infection requiring systemic therapy.&#xD;
+&#xD;
+          -  Had major surgical procedure, open biopsy, or significant traumatic injury within 21&#xD;
+             days prior to day 1 of treatment on study.&#xD;
+&#xD;
+          -  Has a history or current evidence of any condition, therapy, or laboratory abnormality&#xD;
+             that might confound the results of the trial, interfere with the patient's&#xD;
+             participation for the full duration of the trial, or is not in the best interest of&#xD;
+             the patient to participate, in the opinion of the treating investigator.&#xD;
+&#xD;
+          -  Has known psychiatric or substance abuse disorders that would interfere with&#xD;
+             cooperation with the requirements of the trial.&#xD;
+&#xD;
+          -  Is pregnant, breastfeeding, or expecting to conceive children within the projected&#xD;
+             duration of the trial, starting with the pre-screening or screening visit through 5&#xD;
+             months after the last dose of study drug. Patients must not have a positive pregnancy&#xD;
+             test at enrollment or prior to administration of study medication. Male patients of&#xD;
+             childbearing potential who are sexually active with Women of Child Bearing Potential&#xD;
+             do not require contraception.&#xD;
+&#xD;
+          -  Has received prior therapy with an anti-PD-1, anti-PD-L1, anti-PD-L2, or anti-LAG-3&#xD;
+             agent within 6 months prior to day 1 of treatment on study.&#xD;
+&#xD;
+          -  Patients with prior focal radiation to the lesion planned for resection will be&#xD;
+             excluded from the study, as distinguishing radiation necrosis from progression cannot&#xD;
+             be definitely performed until after surgery.&#xD;
+&#xD;
+          -  Has a known history of a positive test for Human Immunodeficiency Virus (HIV) (HIV 1/2&#xD;
+             antibodies), or known acquired immunodeficiency syndrome (AIDS). NOTE: Testing for HIV&#xD;
+             must be performed at sites where mandated locally.&#xD;
+&#xD;
+          -  Has known active Hepatitis B (e.g., HBsAg reactive) or Hepatitis C (e.g., HCV RNA&#xD;
+             [qualitative] is detected). Patients must not have any positive test result for&#xD;
+             hepatitis B virus or hepatitis C virus indicating presence of virus, eg, Hepatitis B&#xD;
+             surface antigen (HBsAg, Australia antigen) positive, or Hepatitis C antibody&#xD;
+             (anti-HCV) positive (except if HCV-RNA negative).&#xD;
+&#xD;
+          -  Has received a live / attenuated vaccine within 30 days of first treatment.&#xD;
+             Inactivated vaccines are permitted.&#xD;
+&#xD;
+          -  Has received treatment with botanical preparations (e.g., herbal supplements or&#xD;
+             traditional Chinese medicines) intended for general health support or to treat the&#xD;
+             disease under study within 2 weeks prior to treatment.&#xD;
+&#xD;
+          -  Participants must not be prisoners or involuntarily incarcerated.&#xD;
+&#xD;
+          -  Participants must not be compulsorily detained for treatment of either a psychiatric&#xD;
+             or physical (e.g., infectious disease) illness.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Peter Forsyth, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Moffitt Cancer Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Yolanda Pina, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Moffitt Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Moffitt Cancer Center</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cecily Piteo</last_name>
+      <phone>813-745-6936</phone>
+      <email>cecily.piteo@moffitt.org</email>
+    </contact>
+    <investigator>
+      <last_name>Peter Forsyth, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Yolanda Pina, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Arnold Etame, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Nikhil Khushalani, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>James Liu, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sepideh Mokhtari, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Keiran Smalley, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Nam Tran, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Michael Vogelbaum, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>M.D. Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Hussein Tawbi, MD</last_name>
+      <phone>713-792-6800</phone>
+      <email>htawbi@mdanderson.org</email>
+    </contact>
+    <investigator>
+      <last_name>Hussain A Tawbi, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.moffitt.org/research--clinical-trials/clinical-trials</url>
+    <description>Moffitt Cancer Center Clinical Trials website</description>
+  </link>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 20, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 27, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>January 30, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 30, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 1, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Melanoma</mesh_term>
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Brain Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nivolumab</mesh_term>
+    <mesh_term>Ipilimumab</mesh_term>
+    <mesh_term>Relatlimab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

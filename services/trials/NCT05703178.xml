@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9196">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05703178</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STU00216520</org_study_id>
+    <nct_id>NCT05703178</nct_id>
+  </id_info>
+  <brief_title>Web-based Pain Coping Skills Training for Breast Cancer Survivors With AI-Associated Arthralgia</brief_title>
+  <official_title>Web-based Pain Coping Skills Training to Improve Pain and Poor Adherence Caused by Aromatase Inhibitor-Associated Arthralgia In Breast Cancer Survivors (SKIP-Arthralgia): A Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Northwestern University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Duke University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Northwestern University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main goal of this clinical trial is to test benefits of completing online pain coping&#xD;
+      skills training program in women who have been diagnosed with stage I-III breast cancer, who&#xD;
+      have completed their primary cancer treatment, who are taking an AI medication, and who have&#xD;
+      arthralgia. Arthralgia is a type of joint, bone, and muscle pain that is a common side effect&#xD;
+      of AI medications. The main questions it aims to answer are:&#xD;
+&#xD;
+        1. Whether online pain coping skills training reduces the severity of pain and the&#xD;
+           interference it causes in women's daily lives.&#xD;
+&#xD;
+        2. Whether online pain coping skills training improves emotional distress, quality of life,&#xD;
+           and adherence to AI medications.&#xD;
+&#xD;
+        3. Whether benefits of online pain coping skills training are at least partially caused by&#xD;
+           women's increased confidence that they can manage their pain and a reduction in&#xD;
+           unhelpful thinking patterns about pain.&#xD;
+&#xD;
+        4. Whether online pain coping skills training improves effects of AI medications on sleep&#xD;
+           problems and symptoms of menopause like hot flashes and night sweats.&#xD;
+&#xD;
+      Participants can complete all parts of the study at home. They will:&#xD;
+&#xD;
+        1. Complete four sets of questionnaires throughout the study, which will take about 9 to 10&#xD;
+           months.&#xD;
+&#xD;
+        2. Attend 3 meetings in the first month of the study, all of which can be held via a video&#xD;
+           conference.&#xD;
+&#xD;
+        3. Use an electronic pill bottle to track their use of their AI medication.&#xD;
+&#xD;
+        4. Be randomized (like flipping a coin) to one of two study arms: They will either receive&#xD;
+           education about AIs and arthralgia or they will receive this education along with access&#xD;
+           to an online pain coping skills training program.&#xD;
+&#xD;
+      Research will compare the education group to the education plus online pain coping skills&#xD;
+      training group to see if online pain coping skills training has the benefits mentioned above.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 19, 2023</start_date>
+  <completion_date type="Anticipated">November 30, 2026</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2026</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Brief Pain Inventory pain severity subscale</measure>
+    <time_frame>Change in BPI pain severity from baseline to 10-14 weeks post-baseline (Follow up 1)</time_frame>
+    <description>We will calculate the mean of the four items on this subscale, as recommended by the scale's developers, to yield a score ranging from 0 to 10; higher scores indicate more severe pain. Analyses will examine group differences in change in pain severity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Brief Pain Inventory pain interference subscale</measure>
+    <time_frame>Change in BPI pain interference from baseline to 10-14 weeks post-baseline (Follow up 1)</time_frame>
+    <description>We will calculate the mean of the seven items on this subscale, as recommended by the scale's developers, to yield a score ranging from 0 to 10; higher scores indicate greater interference. Analyses will examine group differences in change in pain interference.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Brief Pain Inventory pain severity subscale</measure>
+    <time_frame>Change in BPI pain severity score from baseline to 22-26 weeks post-baseline (Follow up 2)</time_frame>
+    <description>We will calculate the mean of the four items on this subscale, as recommended by the scale's developers, to yield a score ranging from 0 to 10; higher scores indicate more severe pain. Analyses will examine group differences in change in pain severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Brief Pain Inventory pain severity subscale</measure>
+    <time_frame>Change in BPI pain severity score from baseline to 34-38 weeks post-baseline (Follow up 3)</time_frame>
+    <description>We will calculate the mean of the four items on this subscale, as recommended by the scale's developers, to yield a score ranging from 0 to 10; higher scores indicate more severe pain. Analyses will examine group differences in change in pain severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Brief Pain Inventory pain interference subscale</measure>
+    <time_frame>Change in BPI pain severity score from baseline to 22-26 weeks post-baseline (Follow up 2)</time_frame>
+    <description>We will calculate the mean of the seven items on this subscale, as recommended by the scale's developers, to yield a score ranging from 0 to 10; higher scores indicate greater interference. Analyses will examine group differences in change in pain interference.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Brief Pain Inventory pain interference subscale</measure>
+    <time_frame>Change in BPI pain severity score from baseline to 34-38 weeks post-baseline (Follow up 3)</time_frame>
+    <description>We will calculate the mean of the seven items on this subscale, as recommended by the scale's developers, to yield a score ranging from 0 to 10; higher scores indicate greater interference. Analyses will examine group differences in change in pain interference.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Hospital Anxiety and Depression Scale</measure>
+    <time_frame>Change in HADS score from baseline to 10-14 weeks post-baseline (Follow up 1)</time_frame>
+    <description>We will reverse score items as necessary, and then sum responses to the measure's 14 items to yield a total score ranging from 0 to 42; higher scores indicate greater emotional distress. Analyses will examine group differences in change in emotional distress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Hospital Anxiety and Depression Scale</measure>
+    <time_frame>Change in HADS score from baseline to 22-26 weeks post-baseline (Follow up 2)</time_frame>
+    <description>We will reverse score items as necessary, and then sum responses to the measure's 14 items to yield a total score ranging from 0 to 42; higher scores indicate greater emotional distress. Analyses will examine group differences in change in emotional distress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Hospital Anxiety and Depression Scale</measure>
+    <time_frame>Change in HADS score from baseline to 34-38 weeks post-baseline (Follow up 3)</time_frame>
+    <description>We will reverse score items as necessary, and then sum responses to the measure's 14 items to yield a total score ranging from 0 to 42; higher scores indicate greater emotional distress. Analyses will examine group differences in change in emotional distress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Functional Assessment of Cancer Therapy-Lymphedema (FACT-B)</measure>
+    <time_frame>Change in FACT-B total score from baseline to 10-14 weeks post-baseline (Follow up 1)</time_frame>
+    <description>We will use the total score for the FACT-B, normalizing scores according to standard scoring methods to yield a score from 0-100; higher scores indicate greater Health-Related Quality of Life (HRQoL). Analyses will examine group differences in change in HRQoL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Functional Assessment of Cancer Therapy-Lymphedema (FACT-B)</measure>
+    <time_frame>Change in FACT-B total score from baseline to 22-26 weeks post-baseline (Follow up 2)</time_frame>
+    <description>We will use the total score for the FACT-B, normalizing scores according to standard scoring methods to yield a score from 0-100; higher scores indicate greater Health-Related Quality of Life (HRQoL). Analyses will examine group differences in change in HRQoL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Functional Assessment of Cancer Therapy-Lymphedema (FACT-B)</measure>
+    <time_frame>Change in FACT-B total score from baseline to 34-38 weeks post-baseline (Follow up 3)</time_frame>
+    <description>We will use the total score for the FACT-B, normalizing scores according to standard scoring methods to yield a score from 0-100; higher scores indicate greater Health-Related Quality of Life (HRQoL). Analyses will examine group differences in change in HRQoL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Medication Adherence Rating Scale</measure>
+    <time_frame>Change in MARS scores from baseline to 10-14 weeks post-baseline (Follow up 1)</time_frame>
+    <description>Using standard scoring instructions, we will first rescore each of the 10 items on this scale to indicate adherence (=1) or non-adherence (=0), then sum them to yield a score from 0 to 10; higher scores indicate better self-reported medication adherence. Analyses will examine group differences in change in adherence.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Medication Adherence Rating Scale</measure>
+    <time_frame>Change in MARS scores from baseline to 22-26 weeks post-baseline (Follow up 2)</time_frame>
+    <description>Using standard scoring instructions, we will first rescore each of the 10 items on this scale to indicate adherence (=1) or non-adherence (=0), then sum them to yield a score from 0 to 10; higher scores indicate better self-reported medication adherence. Analyses will examine group differences in change in adherence.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Medication Adherence Rating Scale</measure>
+    <time_frame>Change in MARS scores from baseline to 34-38 weeks post-baseline (Follow up 3)</time_frame>
+    <description>Using standard scoring instructions, we will first rescore each of the 10 items on this scale to indicate adherence (=1) or non-adherence (=0), then sum them to yield a score from 0 to 10; higher scores indicate better self-reported medication adherence. Analyses will examine group differences in change in adherence.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Use event data from electronic pill bottle (Medication Event Monitoring System or MEMS Cap pill bottles)</measure>
+    <time_frame>Change in MEMS-recorded adherence from baseline to 10-14 weeks post-baseline (Follow up 1)</time_frame>
+    <description>We will use data from these pill bottles, gathered daily throughout the study, to compute an adherence score (percentage of days on which the prescribed dose of medication was taken) and evaluate group differences in change in adherence from baseline to each of the post-intervention assessments.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Use event data from electronic pill bottle (Medication Event Monitoring System or MEMS Cap pill bottles)</measure>
+    <time_frame>Change in MEMS-recorded adherence from baseline to 22-26 weeks post-baseline (Follow up 2)</time_frame>
+    <description>We will use data from these pill bottles, gathered daily throughout the study, to compute an adherence score (percentage of days on which the prescribed dose of medication was taken) and evaluate group differences in change in adherence from baseline to each of the post-intervention assessments.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Use event data from electronic pill bottle (Medication Event Monitoring System or MEMS Cap pill bottles)</measure>
+    <time_frame>Change in MEMS-recorded adherence from baseline to 34-38 weeks post-baseline (Follow up 3</time_frame>
+    <description>We will use data from these pill bottles, gathered daily throughout the study, to compute an adherence score (percentage of days on which the prescribed dose of medication was taken) and evaluate group differences in change in adherence from baseline to each of the post-intervention assessments.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Probability of optimal adherence using event data from electronic pill bottle (Medication Event Monitoring System or MEMS Cap pill bottles)</measure>
+    <time_frame>Probability of MEMS-recorded optimal adherence from baseline to 34-38 weeks post-baseline (Follow up 3)</time_frame>
+    <description>We will use data from these pill bottles, gathered daily throughout the study, to compute an adherence score (percentage of days on which the prescribed dose of medication was taken) and evaluate group differences in probability of optimal adherence, using a dichotomous variable using a cutoff of &lt;80% to identify sub-optimal adherence (where 80% or greater adherence is optimal).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change in Chronic Pain Self-Efficacy Scale Pain Management Subscale</measure>
+    <time_frame>Change in Self-efficacy for pain management from baseline to 10-14 weeks post-baseline (Follow up 1)</time_frame>
+    <description>Using standard scoring procedures, we will calculate the mean of responses to this subscale's 5 items to yield a total score ranging from 10-100, where higher scores indicate greater self-efficacy for managing chronic pain. Analyses will examine change in pain self-efficacy.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Chronic Pain Self-Efficacy Scale Pain Management Subscale</measure>
+    <time_frame>Change in Self-efficacy for pain management from baseline to 22-26 weeks post-baseline (Follow up 2)</time_frame>
+    <description>Using standard scoring procedures, we will calculate the mean of responses to this subscale's 5 items to yield a total score ranging from 10-100, where higher scores indicate greater self-efficacy for managing chronic pain. Analyses will examine change in pain self-efficacy.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Chronic Pain Self-Efficacy Scale Pain Management Subscale</measure>
+    <time_frame>Change in Self-efficacy for pain management from baseline to 34-38 weeks post-baseline (Follow up 3)</time_frame>
+    <description>Using standard scoring procedures, we will calculate the mean of responses to this subscale's 5 items to yield a total score ranging from 10-100, where higher scores indicate greater self-efficacy for managing chronic pain. Analyses will examine change in pain self-efficacy.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Pain Catastrophizing Scale</measure>
+    <time_frame>Change in PCS scale scores from baseline to 10-14 weeks post-baseline (Follow up 1)</time_frame>
+    <description>Using standard scoring methods, we will sum responses for the 13 items on this scale to yield a score ranging from 0-52, where higher scores indicate greater pain catastrophizing. Analyses will examine change in pain catastrophizing from baseline; change from baseline to post-intervention (follow up 1) will also be examined as a potential mediator of changes in pain severity and interference.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Pain Catastrophizing Scale</measure>
+    <time_frame>Change in PCS scale scores from baseline to 22-24 weeks post-baseline (Follow up 2)</time_frame>
+    <description>Using standard scoring methods, we will sum responses for the 13 items on this scale to yield a score ranging from 0-52, where higher scores indicate greater pain catastrophizing. Analyses will examine change in pain catastrophizing.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Pain Catastrophizing Scale</measure>
+    <time_frame>Change in PCS scale scores from baseline to 34-38 weeks post-baseline (Follow up 3)</time_frame>
+    <description>Using standard scoring methods, we will sum responses for the 13 items on this scale to yield a score ranging from 0-52, where higher scores indicate greater pain catastrophizing. Analyses will examine change in pain catastrophizing.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Patient Reported Outcomes Measurement Information System (PROMIS) 8-item Sleep Disturbance</measure>
+    <time_frame>Change in PROMIS sleep disturbance scores from baseline to 10-14 weeks post-baseline (Follow up 1)</time_frame>
+    <description>Using standard scoring procedures for this scale, we will sum responses and calculate T-scores that rescale raw scores into a standardized score with a mean of 50 and a standard deviation of 10; higher scores indicate greater sleep disturbance. Analyses will examine group differences in change in sleep disturbance.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Patient Reported Outcomes Measurement Information System (PROMIS) 8-item Sleep Disturbance</measure>
+    <time_frame>Change in PROMIS sleep disturbance scores from baseline to 22-26 weeks post-baseline (Follow up 2)</time_frame>
+    <description>Using standard scoring procedures for this scale, we will sum responses and calculate T-scores that rescale raw scores into a standardized score with a mean of 50 and a standard deviation of 10; higher scores indicate greater sleep disturbance. Analyses will examine group differences in change in sleep disturbance.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Patient Reported Outcomes Measurement Information System (PROMIS) 8-item Sleep Disturbance</measure>
+    <time_frame>Change in PROMIS sleep disturbance scores from baseline to 34-38 weeks post-baseline (Follow up 3)</time_frame>
+    <description>Using standard scoring procedures for this scale, we will sum responses and calculate T-scores that rescale raw scores into a standardized score with a mean of 50 and a standard deviation of 10; higher scores indicate greater sleep disturbance. Analyses will examine group differences in change in sleep disturbance.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in PROMIS 8-item Sleep-Related Impairment</measure>
+    <time_frame>Change in PROMIS sleep-related impairment scores from baseline to 10-14 weeks post-baseline (Follow up 1)</time_frame>
+    <description>Using standard scoring procedures for this scale, we will sum responses and calculate T-scores that rescale raw scores into a standardized score with a mean of 50 and a standard deviation of 10; higher scores indicate greater sleep-related impairment. Analyses will examine group differences in change in sleep-related impairment.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in PROMIS 8-item Sleep-Related Impairment</measure>
+    <time_frame>Change in PROMIS sleep-related impairment scores from baseline to 22-26 weeks post-baseline (Follow up 2)</time_frame>
+    <description>Using standard scoring procedures for this scale, we will sum responses and calculate T-scores that rescale raw scores into a standardized score with a mean of 50 and a standard deviation of 10; higher scores indicate greater sleep-related impairment. Analyses will examine group differences in change in sleep-related impairment.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in PROMIS 8-item Sleep-Related Impairment</measure>
+    <time_frame>Change in PROMIS sleep-related impairment scores from baseline to 34-38 weeks post-baseline (Follow up 3)</time_frame>
+    <description>Using standard scoring procedures for this scale, we will sum responses and calculate T-scores that rescale raw scores into a standardized score with a mean of 50 and a standard deviation of 10; higher scores indicate greater sleep-related impairment. Analyses will examine group differences in change in sleep-related impairment.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Menopause Specific quality of Life Questionnaire (MENQOL) Vasomotor Subscale</measure>
+    <time_frame>Change in MENQOL scores from baseline to 10-14 weeks post-baseline (Follow up 1)</time_frame>
+    <description>Using standard scoring procedures for the 3-item vasomotor subscale, we will calculate the mean of responses to yield a score ranging from 1 to 8; higher scores indicated higher vasomotor symptoms. Analyses will examine change in vasomotor symptoms.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Menopause Specific quality of Life Questionnaire (MENQOL) Vasomotor Subscale</measure>
+    <time_frame>Change in MENQOL scores from baseline to 22-26 weeks post-baseline (Follow up 2)</time_frame>
+    <description>Using standard scoring procedures for the 3-item vasomotor subscale, we will calculate the mean of responses to yield a score ranging from 1 to 8; higher scores indicated higher vasomotor symptoms. Analyses will examine change in vasomotor symptoms.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Menopause Specific quality of Life Questionnaire (MENQOL) Vasomotor Subscale</measure>
+    <time_frame>Change in MENQOL scores from baseline to 34-38 weeks post-baseline (Follow up 3)</time_frame>
+    <description>Using standard scoring procedures for the 3-item vasomotor subscale, we will calculate the mean of responses to yield a score ranging from 1 to 8; higher scores indicated higher vasomotor symptoms. Analyses will examine change in vasomotor symptoms.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">452</enrollment>
+  <condition>Breast Cancer</condition>
+  <condition>Arthralgia</condition>
+  <condition>Pain, Chronic</condition>
+  <arm_group>
+    <arm_group_label>Education + Online Pain Coping Skill Training</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive their usual medical care and an educational booklet with information about Aromatase Inhibitors (AIs), side effects they cause including painful arthralgia, methods for managing arthralgia, and tips for talking with doctors about arthralgia and other AI side effects. They will also be given access to an online pain coping skills training program and asked to complete it at home over 8 to 10 weeks. This interactive, web-based program teaches cognitive and behavioral skills that research has shown can reduce pain and pain-related interference with daily activities. The program includes eight sessions that participants will complete at a rate of about 1 per week. Each session takes 35-45 minutes. Participants will be shown how to use the program and can contact the study team if they have any problems with it. Participants who do not have a device capable of accessing the program will be loaned a tablet computer for the study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Education</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will receive their usual medical care and an educational booklet with information about Aromatase Inhibitors (AIs), side effects they cause including painful arthralgia, methods for managing arthralgia, and tips for talking with doctors about arthralgia and other AI side effects.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Online Pain Coping Skills Training</intervention_name>
+    <description>The intervention is completed online, using a personal computer, tablet computer, or smartphone. It includes 8 interactive sessions, each of which teaches users a different pain coping skill. Participants are asked to practice these skills in their daily lives to manage pain and pain-related symptoms and problems. Each session takes 35 to 45 minutes to complete. Participants can take breaks during the sessions and review them at any time after completing them.</description>
+    <arm_group_label>Education + Online Pain Coping Skill Training</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Education</intervention_name>
+    <description>Participants will receive their usual medical care and an educational booklet with information about Aromatase Inhibitors (AIs), side effects they cause including painful arthralgia, methods for managing arthralgia, and tips for talking with doctors about arthralgia and other AI side effects.</description>
+    <arm_group_label>Education</arm_group_label>
+    <arm_group_label>Education + Online Pain Coping Skill Training</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Female sex&#xD;
+&#xD;
+          -  Aged 18 years old or older&#xD;
+&#xD;
+          -  Diagnosed with Stage I-III hormone receptor positive breast cancer&#xD;
+&#xD;
+          -  Completed primary cancer treatment (surgery, chemotherapy, and/or radiation therapy)&#xD;
+&#xD;
+          -  Postmenopausal&#xD;
+&#xD;
+          -  Currently taking AI therapy (letrozole, exemestane, or anastrozole)&#xD;
+&#xD;
+          -  Reporting musculoskeletal pain that developed or worsened since starting AI therapy&#xD;
+&#xD;
+          -  Reporting at least 15 days of pain in the past 30 days&#xD;
+&#xD;
+          -  A worst pain rating of 4 or more on an 11 point (0-10) numerical rating scale in the&#xD;
+             past week&#xD;
+&#xD;
+          -  Based on known factors affecting their prognosis, patient is likely to be able to&#xD;
+             complete the study protocol&#xD;
+&#xD;
+          -  ECOG performance status of 0-2&#xD;
+&#xD;
+          -  English proficient&#xD;
+&#xD;
+          -  If participants are taking analgesics, they must be on a stable analgesic regimen for&#xD;
+             at least 14 days prior to enrollment and should not have planned upward dose titration&#xD;
+             of their analgesics during the study period. (Note: Patients may elect to decrease&#xD;
+             their analgesic use during the study as per discussion with their provider. Unexpected&#xD;
+             dose adjustments including dose escalations due to unforeseen clinical need is&#xD;
+             allowed. Cannabis taken for pain relief would qualify as an analgesic)&#xD;
+&#xD;
+          -  Comfortable using a tablet computer, a computer, or a smartphone to access online&#xD;
+             training&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  • Evidence of metastatic disease&#xD;
+&#xD;
+               -  Other active cancer (with the exception of non-melanoma skin cancer)&#xD;
+&#xD;
+               -  Postmenopausal due to ovarian suppression rather than natural menopause&#xD;
+&#xD;
+               -  Completed chemotherapy or radiation therapy less than four weeks prior to&#xD;
+                  enrollment (these treatments can cause temporary exacerbation of musculoskeletal&#xD;
+                  symptoms that typically resolve spontaneously)&#xD;
+&#xD;
+               -  Completed surgery less than 8 weeks prior to enrollment (because surgery can&#xD;
+                  cause temporary post-surgical pain that typically resolves in this period of&#xD;
+                  time); minor surgeries may be allowed more recently than 8 weeks at the&#xD;
+                  discretion of the study team&#xD;
+&#xD;
+               -  Have diagnosed or suspected condition that would interfere with informed consent&#xD;
+                  or completion of study activities (e.g., significant impairment in cognition or&#xD;
+                  uncorrected hearing/vision)&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Christine Rini, PhD</last_name>
+    <phone>312-503-7715</phone>
+    <email>christine.rini@northwestern.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Rahma Omar</last_name>
+    <phone>312-503-1725</phone>
+    <email>Rahma.Omar@northwestern.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Northwestern University</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christine Rini, PhD</last_name>
+      <phone>312-503-7715</phone>
+      <email>christine.rini@northwestern.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Rahma Omar</last_name>
+      <phone>312-503-1725</phone>
+      <email>Rahma.Omar@northwestern.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27708</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tamara Somers</last_name>
+      <phone>919-416-3408</phone>
+      <email>tamara.somers@duke.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Shannon Miller</last_name>
+      <email>shannon.n.miller@duke.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>January 11, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>March 28, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 28, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Northwestern University</investigator_affiliation>
+    <investigator_full_name>Christine Rini, PhD</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Breast Cancer, Arthralgia, Aromatase Inhibitors, Pain Coping Skills Training, Cognitive Behavioral Therapy, Non-Pharmacologic Pain Treatments</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Arthralgia</mesh_term>
+    <mesh_term>Chronic Pain</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Data will be shared according to the most recent NIH guidelines for sharing research data (https://grants.nih.gov/grants/policy/data_sharing/). Findings will be disseminated through presentations at national scientific meetings and peer-reviewed manuscripts. We will make our data available for review and/or research to qualified individuals after the main findings from the final dataset are accepted for publication. Individuals requesting data will be asked to describe their goals, data needs and planned analyses including statistical power. Requests will be reviewed by a Data Access Committee made up of the project's key personnel. This committee will evaluate scientific validity, statistical power, overlap with other analyses/publications, and ethical aspects of the proposed use of the data. We will protect the rights and privacy of our study participants by de-identifying the data and taking any other steps necessary to eliminate potential deductive disclosure.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

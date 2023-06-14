@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9795">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05690035</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SL-B2022-653-01</org_study_id>
+    <nct_id>NCT05690035</nct_id>
+  </id_info>
+  <brief_title>Tislelizumab Combined With Fruquintinib for Metastatic pMMR/MSS Colorectal Cancer</brief_title>
+  <official_title>PD-1 Antibody (Tislelizumab) Combined With VEGFR 1/2/3 Inhibitor (Fruquintinib) for ARID1A-mutated Metastatic pMMR/MSS Colorectal Cancer: an Open-label, Multi-center, Phase II Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sun Yat-sen University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hutchmed</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>BeiGene</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Sun Yat-sen University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open-label phase II study, with the aim of investigating the efficacy and safety&#xD;
+      of Tislelizumab + Fruquintinib combination therapy in ARID1A-mutated pMMR/MSS metastatic&#xD;
+      colorectal cancer who have been treated with standard chemotherapy that includes&#xD;
+      fluoropyrimidine, oxaliplatin, and irinotecan. Patients with hypermutated CRC that carries&#xD;
+      POLE/POLD1 mutations cannot be included.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In this open-label phase II study, patients with ARID1A-mutated pMMR/MSS metastatic&#xD;
+      colorectal cancer who have been treated with standard chemotherapy that includes&#xD;
+      fluoropyrimidine, oxaliplatin, and irinotecan, will be scheduled for Tislelizumab (200mg&#xD;
+      ivdrip Q3W day1) + Fruquintinib (5mg/day Q3W day1-14) until intolerable toxicity, disease&#xD;
+      progression or death. Primary endpoint of this study is ORR and secondary endpoints are OS,&#xD;
+      PFS, DCR and safety.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2023</start_date>
+  <completion_date type="Anticipated">January 2026</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Objective Response Rate (ORR)</measure>
+    <time_frame>up to 3 years</time_frame>
+    <description>The proportion of patients with a confirmed complete response or partial response</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival (PFS)</measure>
+    <time_frame>up to 3 years</time_frame>
+    <description>PFS is defined as the time from enrollment to the first documented progressive disease (PD) or death due to any cause, whichever occurred first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>up to 3 years</time_frame>
+    <description>OS is defined as the time from enrollment to death due to any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate</measure>
+    <time_frame>up to 3 years</time_frame>
+    <description>The proportion of patients with a best overall response of confirmed complete or partial response, or stable disease (CR+ PR + SD).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Treatment-Emergent Adverse Events</measure>
+    <time_frame>until 60 days after last patient last study drug treatment</time_frame>
+    <description>Safety and tolerance evaluated by incidence, severity and outcomes of adverse events (AEs) and categorized by severity in accordance with the NCI CTC AE Version 5.0.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Metastatic Colorectal Cancer</condition>
+  <condition>mCRC</condition>
+  <arm_group>
+    <arm_group_label>patients with mCRC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Tislelizumab 200mg ivdrip every 3 weeks; Fruquintinib 5mg qd day 1-14, every 3 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tislelizumab &amp; Fruquintinib</intervention_name>
+    <description>combinational treatment of Tislelizumab and Fruquintinib until PD, intolerable toxicity, death or withdrawal of informed consent</description>
+    <arm_group_label>patients with mCRC</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18-80 years old (including 18 and 80);&#xD;
+&#xD;
+          -  Histologically confirmed colorectal adenocarcinoma and biopsy pathology confirmed&#xD;
+             MSS/pMMR;&#xD;
+&#xD;
+          -  Gene testing confirmed ARID1A gene mutation (nonsynonymous);&#xD;
+&#xD;
+          -  No signs of intestinal obstruction; Or intestinal obstruction has been relieved after&#xD;
+             proximal colostomy;&#xD;
+&#xD;
+          -  Has received and failed ≥ 2 line of chemotherapy or progressed on or intolerable to&#xD;
+             oxaliplatin, irinotecan and fluorouracil chemotherapy after diagnosed with mCRC;&#xD;
+&#xD;
+          -  ECOG PS 0-2;&#xD;
+&#xD;
+          -  Able to swallow tablets;&#xD;
+&#xD;
+          -  Life expectancy of greater than 3 months;&#xD;
+&#xD;
+          -  Adequate bone marrow and organ function;&#xD;
+&#xD;
+          -  If female and of childbearing potential, must:&#xD;
+&#xD;
+          -  Have a negative pregnancy test ≤14 days prior to initiating study treatment&#xD;
+&#xD;
+          -  Agree to avoid pregnancy during and for 3 months after study treatment&#xD;
+&#xD;
+        If male with a partner of childbearing potential, must:&#xD;
+&#xD;
+          -  Agree to use adequate, medically approved, contraceptive precautions during and for 3&#xD;
+             months after the last dose of study treatment.&#xD;
+&#xD;
+          -  Able and willing to provide written informed consent for the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any active autoimmune disease or history of autoimmune disease;&#xD;
+&#xD;
+          -  Those who are using immunosuppressive agents, or systemic or absorbable local hormone&#xD;
+             therapy to achieve immunosuppressive purpose, and continue to use within 2 weeks&#xD;
+             before enrollment;&#xD;
+&#xD;
+          -  Severe allergic reaction to other monoclonal antibodies;&#xD;
+&#xD;
+          -  Subjects with clinical symptoms of untreated active brain metastasis or meningeal&#xD;
+             metastasis;&#xD;
+&#xD;
+          -  Have received other PD-1 antibody therapy or other immunotherapy targeting PD-1/PD-L1&#xD;
+             in the past;&#xD;
+&#xD;
+          -  Patients with high TMB (≥ 30Muts/Mb) and germline or somatic POLE/POLD1 gene mutations&#xD;
+             in the exonuclease domain;&#xD;
+&#xD;
+          -  There are clinical symptoms or diseases of heart that are not well controlled, such&#xD;
+             as: (a) heart failure of NYHA level 2 or above (b) unstable angina pectoris (c)&#xD;
+             myocardial infarction occurred within 1 year (d) clinically significant&#xD;
+             supraventricular or ventricular arrhythmia needs treatment or intervention;&#xD;
+&#xD;
+          -  Known hereditary or acquired bleeding and thrombophilia or being treated with&#xD;
+             thrombolysis or anticoagulation;&#xD;
+&#xD;
+          -  Urinary protein ≥ ++, or the 24-hour urine protein quantification greater than 1.0g;&#xD;
+&#xD;
+          -  Clinically significant bleeding symptoms or clear bleeding tendency within 3 months&#xD;
+             before enrollment;&#xD;
+&#xD;
+          -  Subjects with active infection;&#xD;
+&#xD;
+          -  Congenital or acquired immune deficiency (such as HIV infected persons), or active&#xD;
+             hepatitis (hepatitis B: HBsAg positive and HBV DNA ≥ 10^4 copies/ml; hepatitis C: HCV&#xD;
+             antibody positive);&#xD;
+&#xD;
+          -  Other advanced malignant tumors within 5 years (except cured skin basal cell&#xD;
+             carcinoma, cervical carcinoma in situ, ovarian cancer, thyroid cancer and breast&#xD;
+             cancer);&#xD;
+&#xD;
+          -  Live vaccine may be inoculated less than 4 weeks before the study medication or during&#xD;
+             the study period;&#xD;
+&#xD;
+          -  Known or suspected to be allergic to the study drug or to any drug given in this&#xD;
+             trial;&#xD;
+&#xD;
+          -  Have any other disease, metabolic disorder, physical examination anomaly, abnormal&#xD;
+             laboratory result, or any other conditions that makes the subject not eligible&#xD;
+             according to the judgment of the investigator.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Peirong Ding, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Sun Yat-sen University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Peirong Ding, M.D.</last_name>
+    <phone>00862087343124</phone>
+    <email>dingpr@sysucc.org.cn</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Peirong Ding, M.D.</last_name>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Sun Yat-sen University, Cancer Center</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510060</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Xiaoshi Zhang</name>
+      <address>
+        <city>Guangzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Xiaoshi Zhang, M.D.</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 10, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 10, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>January 25, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 25, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Sun Yat-sen University</investigator_affiliation>
+    <investigator_full_name>Pei-Rong Ding</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colorectal Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tislelizumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

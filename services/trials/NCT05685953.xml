@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9986">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05685953</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Open Corona 1</org_study_id>
+    <nct_id>NCT05685953</nct_id>
+  </id_info>
+  <brief_title>A Randomized, Phase I Study of DNA Vaccine OC-007 as a Booster Dose of COVID-19 Vaccine</brief_title>
+  <acronym>OpenCorona1</acronym>
+  <official_title>A Randomized, Placebo-controlled, Double-blinded Phase I Study to Evaluate Safety and Immunogenicity of DNA Vaccine OC-007 as a Booster Dose of COVID-19 Vaccine</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Matti Sällberg</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Karolinska Institutet</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized, placebo-controlled, double-blinded phase I study, designed to evaluate&#xD;
+      the safety including reactogenicity and immunogenicity of this investigational DNA vaccine&#xD;
+      delivered intramuscularly by in vivo EP in human adults. The vaccine doses will be given to&#xD;
+      healthy adults aged 18 to 60 years, who have been previously vaccinated against COVID-19 with&#xD;
+      3 doses of either Comirnaty® or Spikevax®, or both in any combination ≥3 months ago.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      One dose of the investigational vaccine or placebo will be given as a fourth booster dose.&#xD;
+      The vaccine will be administered intramuscularly at 3 dose levels or given as placebo&#xD;
+      (containing a 0.9 % NaCl solution), in combination with in vivo EP. The EP method used in the&#xD;
+      study is a class IIa &quot;EPS Gun&quot; from IGEA optimized for Electro Gene Transfer (EGT)&#xD;
+      vaccination and CE marked for the intended use in this clinical trial.&#xD;
+&#xD;
+      Primary objective:&#xD;
+&#xD;
+      • The primary objective of this study is to assess the safety and reactogenicity of the&#xD;
+      investigational vaccine OC-007 DNA delivered by in vivo EP, as a booster dose given at ≥ 3&#xD;
+      months post-initial mRNA vaccination.&#xD;
+&#xD;
+      The secondary objectives:&#xD;
+&#xD;
+      • To investigate the humoral immune response to the investigational vaccine administered as&#xD;
+      one dose, by measuring changes in spike and of nucleocapsid antibody levels.&#xD;
+&#xD;
+      Exploratory objective:&#xD;
+&#xD;
+        -  To investigate in more detail the humoral response and analyze the cellular immune&#xD;
+           response to the investigational vaccine&#xD;
+&#xD;
+        -  To evaluate the number of SARS-CoV-2 infections documented by positive PCR test during&#xD;
+           the study period.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 8, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Randomized, placebo-controlled, double-blinded phase I study including three dose levels of the DNA vaccine OC-007.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double-blinding: subjects, study personnel and outcome assessors are blinded to treatment.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Local reactions after the vaccine/placebo dose</measure>
+    <time_frame>Up to 7 days after the vaccine/placebo dose</time_frame>
+    <description>Local reactions (pain at the injection site, redness, and swelling) for up to 7 days after the vaccine/placebo dose</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Visual analogue scale pain rating scale score</measure>
+    <time_frame>At 0, 5, 15, 30 and 60 minutes post-EP.</time_frame>
+    <description>Visual analogue scale (VAS) score to rate the level of pain experienced immediately (0 minutes), and after 5, 15, 30 and 60 minutes post-EP. Scale is continous and the farther right on the scale line the more pain.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Systemic events for 7 days after each vaccine/placebo dose.</measure>
+    <time_frame>For 7 days after each vaccine/placebo dose.</time_frame>
+    <description>Systemic events (fever, fatigue, headache, chills, vomiting, diarrhea, new or worsened muscle pain, and new or worsened joint pain) for 7 days after each vaccine/placebo dose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Unsolicited AEs</measure>
+    <time_frame>From the study dose to 28 days after vaccination.</time_frame>
+    <description>Unsolicited AEs from the study dose to 28 days after vaccination.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serious Adverse Events (SAEs)/SUSARs</measure>
+    <time_frame>From the study dose until the study end at 3 months after vaccination.</time_frame>
+    <description>Serious Adverse Events (SAEs)/suspected unexpected serious adverse reactions (SUSARs) from the study dose until the study end at 3 months after vaccination.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in antibody levels to the SARS-CoV-2 spike and nucleocapsid protein.</measure>
+    <time_frame>Day 7, Day 14, 1 Month and 3 Months.</time_frame>
+    <description>Change from baseline sample (a two-fold increase in endpoint titer or a 50% increase in optical density at a 1:62, 1:125, 1:250, 1:500, or 1:1000 serum dilution) in antibody levels to the SARS-CoV-2 spike and nucleocapsid protein by inhouse and/or commercial assays during the study period.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Exploratory: In depth humoral and cellular immunological responses</measure>
+    <time_frame>Day 7, Day 14, 1 Month and 3 Months</time_frame>
+    <description>Description of in depth humoral and cellular immunological responses after receiving investigational vaccine at each sampling. Immunoglobulin levels analysed by Enzyme-Linked Immunosorbent Assays (ELISAs). Antibody titer analysed by CPE based microneutralization assay. Isolated Peripheral Blood Mononuclear Cell behavior analysed by enzyme-linked immunospot (ELISpot) assay. Flow cytometry will be used for functional and phenotypic characterization of T-cells.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Exploratory: SARS-CoV-2 infections</measure>
+    <time_frame>Up to 3 Months</time_frame>
+    <description>Number and severity of SARS-CoV-2 infections during the study period.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">16</enrollment>
+  <condition>COVID-19 Respiratory Infection</condition>
+  <condition>COVID-19 Vaccine Adverse Reaction</condition>
+  <arm_group>
+    <arm_group_label>Active vaccine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Plasmid DNA vaccine, OC-007</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Sodium chloride solution (0.9 %)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>DNA vaccine OC-007</intervention_name>
+    <description>Plasmid DNA vaccine</description>
+    <arm_group_label>Active vaccine</arm_group_label>
+    <other_name>COVID-19 vaccine</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>0.9% NaCl solution</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Men and women between the ages of 18 and 60 years (at the time of consent).&#xD;
+&#xD;
+          2. All study subjects have received three doses of registered mRNA vaccine/s, the last&#xD;
+             dose given ≥ 3 months before inclusion in this study.&#xD;
+&#xD;
+          3. Healthy participant, according to the investigator's clinical judgment, as established&#xD;
+             by medical history, vital signs, physical examination, and laboratory assessments.&#xD;
+&#xD;
+          4. No clinically significant laboratory abnormalities as determined by the investigator&#xD;
+             at screening.&#xD;
+&#xD;
+             Note: one retest of lab tests is allowed within the screening window.&#xD;
+&#xD;
+          5. Negative HIV 1/2 antibody/antigen test, hepatitis B surface antigen (HBsAg), and&#xD;
+             hepatitis C virus (HCV) antibody at screening.&#xD;
+&#xD;
+          6. Participant with a body mass index (BMI) 20-30.0 kg/m2.&#xD;
+&#xD;
+          7. Provide written informed consent before initiation of any study procedures.&#xD;
+&#xD;
+          8. A female participant is eligible for this study if she is one of the following:&#xD;
+&#xD;
+               -  of non-childbearing potential (i.e., women who have had a hysterectomy or tubal&#xD;
+                  ligation or are postmenopausal, as defined by no menses in greater than or equal&#xD;
+                  to 1 year)&#xD;
+&#xD;
+               -  of childbearing potential but agrees to practice highly effective contraception&#xD;
+                  or abstinence (if this is the preferred and usual lifestyle of the participant)&#xD;
+                  from 30 days prior to vaccination up to 3 months after vaccination.&#xD;
+&#xD;
+             Highly effective methods of contraception include one or more of the following:&#xD;
+&#xD;
+               1. male partner who is sterile (vasectomised) prior to the female study subject's&#xD;
+                  entry into the study and is the sole sexual partner for the female subject;&#xD;
+&#xD;
+               2. hormonal (oral, intravaginal, transdermal, implantable or injectable)&#xD;
+&#xD;
+               3. an intrauterine hormone-releasing system (IUS)&#xD;
+&#xD;
+               4. an intrauterine device (IUD) with a documented failure rate of &lt; 1%.&#xD;
+&#xD;
+          9. A female participant is eligible if she is willing to abstain from donating oocyte&#xD;
+             from the screening visit up to 3 months after vaccination.&#xD;
+&#xD;
+         10. A male participant who is sexually active is eligible if he is willing to use a condom&#xD;
+             from the screening visit up to 3 months after vaccination except if the male&#xD;
+             participant is sterile (e.g. vasectomised); the unique female sexual partner is&#xD;
+             postmenopausal, is permanently sterilized (e.g. hysterectomy or tubal ligation), or&#xD;
+             use a highly effective method of contraception.&#xD;
+&#xD;
+         11. Able to understand and comply with planned study procedures and willing to be&#xD;
+             available for all study-required procedures, visits and calls for the duration of the&#xD;
+             study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Previous vaccination with investigational or registered non-mRNA vaccines against&#xD;
+             COVID-19.&#xD;
+&#xD;
+          2. History of presence of pulmonary disorders (chronic obstructive pulmonary lung disease&#xD;
+             etc) or asthma (exception of allergic asthma, which is allowed).&#xD;
+&#xD;
+          3. History or presence of thrombocytopenia and/or bleeding disorders.&#xD;
+&#xD;
+          4. A positive serum pregnancy test at screening or urine pregnancy test prior to study&#xD;
+             injection, women who are planning to become pregnant during the study, or women who&#xD;
+             are breastfeeding.&#xD;
+&#xD;
+          5. Clinically relevant history of renal, hepatic, gastrointestinal, cardiovascular,&#xD;
+             respiratory, skin, haematological, endocrine, inflammatory, autoimmune, central&#xD;
+             nervous system or neurological diseases.&#xD;
+&#xD;
+          6. Use of immunosuppressive drugs as e.g. corticosteroids (excluding topical preparations&#xD;
+             and inhalers) within 3 months prior to vaccination or 6 months for chemotherapies and&#xD;
+             all along the study.&#xD;
+&#xD;
+          7. Vaccination within 2 weeks prior to vaccination or planning to receive a licensed&#xD;
+             vaccine before month 3 (e.g. inactivated influenza vaccine).&#xD;
+&#xD;
+          8. History of severe adverse reactions to vaccine administration, including anaphylaxis&#xD;
+             and related symptoms, such as urticaria, respiratory difficulty, angioedema and&#xD;
+             abdominal pain to vaccines, or history of known or suspected allergic reaction likely&#xD;
+             to be exacerbated by any component of the Investigational vaccine.&#xD;
+&#xD;
+          9. Participation in another investigational clinical study within four weeks before the&#xD;
+             screening visit or planned before the study completion.&#xD;
+&#xD;
+         10. Subjects with confirmed or suspected immunodeficiency.&#xD;
+&#xD;
+         11. SARS-CoV-2 infection within the past 2 weeks3 months prior to enrolment, or ongoing&#xD;
+             symptom of COVID-19.&#xD;
+&#xD;
+         12. Any condition that in the opinion of the principal investigator (PI) would jeopardize&#xD;
+             the safety or rights of a person participating in the trial or would render the person&#xD;
+             unable to comply with the protocol.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Matti Sällberg, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Department of Laboratory Medicine, Karolinska Institute, Stockholm</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Matti Sällberg, PhD</last_name>
+    <phone>+46852483803</phone>
+    <email>matti.sallberg@ki.se</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Phase I Study Unit, Karolinska University Hospital</name>
+      <address>
+        <city>Stockholm</city>
+        <state>Region Stockholm</state>
+        <zip>141 86</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Soo Aleman, MD, PhD</last_name>
+      <phone>+46725957225</phone>
+      <email>soo.aleman@regionstockholm.se</email>
+    </contact>
+    <investigator>
+      <last_name>Soo Aleman, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 11, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 17, 2023</study_first_posted>
+  <last_update_submitted>February 16, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 16, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 17, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Karolinska Institutet</investigator_affiliation>
+    <investigator_full_name>Matti Sällberg</investigator_full_name>
+    <investigator_title>Study Sponsor</investigator_title>
+  </responsible_party>
+  <keyword>Covid-19</keyword>
+  <keyword>DNA vaccine</keyword>
+  <keyword>booster dose</keyword>
+  <keyword>in vivo electroporation</keyword>
+  <keyword>adverse reactions</keyword>
+  <keyword>antibody levels</keyword>
+  <keyword>cellular immune response</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Respiratory Tract Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

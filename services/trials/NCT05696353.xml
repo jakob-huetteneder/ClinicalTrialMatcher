@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9510">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05696353</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY00001081</org_study_id>
+    <nct_id>NCT05696353</nct_id>
+  </id_info>
+  <brief_title>Teen Driving Translation Study (NIH)</brief_title>
+  <official_title>Adoption and Implementation of an Evidence-based Safe Driving Program for High-Risk Teen Drivers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ginger Yang</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Iowa</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ohio State University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Nebraska</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Nationwide Children's Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To translate our evidence-based, parent-engagement safe teen driving intervention to a&#xD;
+      high-risk, rural and urban teen drivers with a traffic violation, and to test the&#xD;
+      implementation, effectiveness, and cost-effectiveness of the proposed intervention.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      For this study, 290 teen and parent/guardian dyads will be randomized into one of three study&#xD;
+      groups for 12 months with 6 months of active data collection. Teens will be aged 16-17 who&#xD;
+      committed a moving-related traffic violation and their parent/legal guardian who is most&#xD;
+      involved with their driving. Dyads will be recruited from both urban and rural counties in&#xD;
+      Ohio following the teen's moving violation conviction. The study will determine the&#xD;
+      effectiveness and cost-effectiveness of the intervention on teens' risky driving events,&#xD;
+      unsafe driving behaviors, traffic violation recidivism, and motor vehicle collisions (MVCs),&#xD;
+      as well as frequency and quality of parent-teen communications about safe driving practices.&#xD;
+      Additionally, the study will determine the effectiveness and cost-effectiveness of the&#xD;
+      peer-delivered intervention vs. expert-delivered intervention on the outcomes of the&#xD;
+      interest. Finally, the study will assess the barriers/facilitators to the adoption and&#xD;
+      implementation of the intervention in rural and urban families.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 1, 2022</start_date>
+  <completion_date type="Anticipated">June 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">January 15, 2025</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Risky driving events</measure>
+    <time_frame>Daily overtime for six months following enrollment</time_frame>
+    <description>Risky driving events (hard braking, sudden acceleration) will be collected among teens in the intervention groups and control group using the Azūga™ in-vehicle device. The number and type of driving event, including hard breaking (≤ -0.45 g-force) and sudden acceleration (&gt; 0.35 g-force), will be automatically coded and counted in the system. The rates will be computed by dividing events by miles driven then multiplying by 1000.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Unsafe driving behaviors</measure>
+    <time_frame>Daily overtime for six months following enrollment</time_frame>
+    <description>Using the Azūga™ in-vehicle device and smart phone app, the investigators will collect data in both intervention groups and the control group on teen's unsafe driving behaviors (speeding, distracted driving, no seatbelt use). The duration (e.g., miles driven) and type of driving behaviors, including speeding (&gt;10 miles over the posted speed limit), and no seatbelt use, will be automatically coded and counted in the system. The proportions will be calculated by dividing by miles driven then multiplying by 1000 (e.g., proportion of 1,000 miles in which a seatbelt was not worn).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Direct Costs: 3 Years</measure>
+    <time_frame>3 years</time_frame>
+    <description>Direct costs refer to the personnel and non-personnel costs that can be assigned to the intervention (i.e., STS+). Personnel costs include service time and the proportion of staff time allocated to implement STS+ and non-personnel costs refer to other items needed for delivering STS+, such as equipment, supplies and materials. Examples of direct costs include staff time required to 1) deliver the intervention, 2) train the peer trainers, 3) install, manage, and maintain the driving feedback technology, 4) manage the STS+ website platform, and 5) train participants to use the driving feedback technology and STS+ website platform.&#xD;
+Direct cost data will be collected yearly from all dyads using a cost data collection protocol and template that includes annual costs for personnel, technology, training requirements, supplies, and infrastructure.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adoption - Courts: 3 Years</measure>
+    <time_frame>3 years</time_frame>
+    <description>Adoption will be measured by comparing characteristics of participating county courts (Franklin, Greene, Perry, and Wyandot Juvenile Traffic Courts) to county courts in the rest of Ohio (e.g., court hours, location, the number of staff, the number of cases). The investigators will also conduct interviews with participating court officials to identify facilitators and barriers to program adoption.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adoption - Participants</measure>
+    <time_frame>At 6-month follow-up</time_frame>
+    <description>The investigators will also conduct interviews with a randomly selected sample of dyads in each intervention group (n=116, 58 dyads for each intervention group) to identify facilitators and barriers to program adoption.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Reach</measure>
+    <time_frame>Yearly for 3 years</time_frame>
+    <description>Reach will be measured by comparing characteristics of teens who enrolled in the study to those who declined participation (e.g., demographics, residence location, citation history). The investigators will assess the number of eligible participants who are offered participation on each recruitment day, the number of those who were offered participation and declined as well as participation and drop-out rates.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Implementation Fidelity - BECCI</measure>
+    <time_frame>After completion of each intervention session, up to three years</time_frame>
+    <description>Implementation fidelity will be measured among parents in both intervention groups, and among the expert and peer trainers immediately after the intervention using the Behavior Change Counseling Index (BECCI). The BECCI measures the degree to which the intervention is delivered as intended and involves 11 items rated on a scale of 0 to 4. The average of all items will be calculated, with higher scores representing greater fidelity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Implementation Fidelity - Fidelity Checklist</measure>
+    <time_frame>After completion of each intervention session, up to three years</time_frame>
+    <description>Implementation fidelity will be measured among the expert and peer trainers immediately after the intervention using a fidelity checklist. The fidelity checklist will measure intervention fidelity including conceptual accuracy and adherence, and responsiveness to the needs of participants. Trained Raters will review a sample of recorded training and booster sessions and complete the fidelity checklist.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Parent-teen communications about driving safety</measure>
+    <time_frame>During 6 months of enrollment</time_frame>
+    <description>All participating dyads will be asked to rate the frequency of parent-teen conversations on each of the 24 common driving skills/safety principles, discussed in the past month (0=never to 3=often) and level of success (1=poor to 10=excellent). Frequency of parent-teen communication scores will range from 0 to 78, with higher scores indicating more frequent communication. Quality of parent-teen communication scores will be calculated by averaging ratings for all skills/principles addressed, and then weighting them based on the maximum score possible, and then recording scores as a percentage (possible range= 1% - 100%).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Traffic Violation Recidivism</measure>
+    <time_frame>At 12 months following enrollment</time_frame>
+    <description>Traffic violation recidivism will be measured among teens in both intervention groups and the control group by linking traffic citations and court disposition data with the participating teen's driver's license number. Recidivism during the 12 months following enrollment, including date and type of violation, and days from index violation to subsequent violation will be analyzed. The time of recidivism may not be observed when the 12-month study participation is completed and thus, it will be considered as censored at month 12 (end of study participation).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Motor Vehicle Collision</measure>
+    <time_frame>At 12 months following enrollment</time_frame>
+    <description>Motor vehicle collision (MVC) will be measured among teens in both intervention groups and the control group by linking crash report data with the participating teen's driver's license number. Motor vehicle collision (MVC) during the 12 months following enrollment, including date and type of crash will be analyzed. The time of MVC may not be observed when the 12-month study participation is completed and thus, it will be considered as censored at month 12 (end of study participation).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Indirect Costs: 3 Years</measure>
+    <time_frame>3 years</time_frame>
+    <description>Indirect costs are those costs that are not directly associated with the intervention but that support the delivery of the intervention (e.g., provide private space in court house for the recruitment). For indirect costs, staff interviews will be used to determine the percent of their time and resources needed to support the delivery of the intervention.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maintenance</measure>
+    <time_frame>At 6-month follow-up</time_frame>
+    <description>Maintenance will be measured by assessing parents' intention to continue using the STS+ program and teens' intention to continue using the in-vehicle device and app. The investigators will interview court officials, peer trainers, and parent-teen dyads in each intervention group (approximately 50% of intervention dyads) at the end of the study to explore perceived facilitators and barriers to program implementation and sustainability in their community.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Engagement with communication training and booster session</measure>
+    <time_frame>After completion of each intervention session, up to three years</time_frame>
+    <description>Engagement with communication training and the booster session will be measured among parents in the intervention groups using self-report following the individualized communication training and booster session, and at three and six months follow-up. Using a 10-point Likert scale, parents will report (i) frequency of communication strategies used in their parent-teen discussions on driving safety during the past month, (ii) helpfulness of these strategies and techniques, and (iii) their perceived level of mastery of the strategies and techniques. Additionally, online tracking via Google Analytics will track parents' use of the safe driving communication guide, including the number of logins, visited sub-links, and time spent at each link.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Engagement with device feedback</measure>
+    <time_frame>During 6 months of enrollment</time_frame>
+    <description>Engagement with device feedback will be measured among teens and parents in the intervention groups via online tracking of the participant's web interface using Google Analytics. The number of times each of the driving summaries is accessed (links clicked), and the amount of time spent at each link will be recorded. Composite scores will be computed and compared between urban vs. rural dyads, and the expert- vs. peer-delivered intervention.</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">580</enrollment>
+  <condition>Drive</condition>
+  <condition>Recidivism</condition>
+  <condition>Communication</condition>
+  <condition>Feedback, Psychological</condition>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The Control Group will have an in-vehicle device installed in the teen's car, but all feedback features will be disabled. Parents assigned into this group will receive no communication training on how to motivate their teen to adopt safe driving habits.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Feedback and Expert-Delivered Parent Communication Intervention Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Teens will have an in-vehicle device installed in their car and the smart phone app downloaded on their smart phone. Teens will receive real-time and cumulative driving feedback generated by the in-vehicle device and app; parents will have access to their teen's cumulative driving data at any time via study web portal. Parents will also receive communication training on how to motivate their teen to adopt safe driving habits via online modules and a video call with a teen driving safety communication expert. A second booster session will occur two months after the initial training. Both teens and parents will also receive a biweekly summary report of the teen's driving events prepared by the research team.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Feedback and Peer-Delivered Parent Communication Intervention Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Teens will have an in-vehicle device installed in their car and the smart phone app download on their smart phone. Teens will receive real-time and cumulative driving feedback generated by the in-vehicle device and app; parents will have access to their teen's cumulative driving data at any time via study web portal. Parents will also receive communication training on how to motivate their teen to adopt safe driving habits via online modules and a video call with a peer trainer who is a parent of teen with a traffic violation and who has received the Expert-delivered Intervention and met the defined peer trainer criteria. A second booster session delivered by the peer trainer will also occur two months after the initial training. Both teens and parents will also receive a biweekly summary report of the teen's driving events prepared by the research team.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Combination Product</intervention_type>
+    <intervention_name>In-vehicle Device</intervention_name>
+    <description>The Azūga™ in-vehicle driving feedback technology, which consists of a pager-sized device plugged into the vehicle's on-board diagnostic port (installed in the teen's car) and a smart phone app (downloaded on the teen's smart phone), will be installed/downloaded. Three types of feedback will be provided to intervention teens: 1) Direct audio feedback from the installed device; 2) Detailed cumulative driving data via the smart phone app and study website; and 3) A customized biweekly driving summary report via study website.</description>
+    <arm_group_label>Feedback and Expert-Delivered Parent Communication Intervention Group</arm_group_label>
+    <arm_group_label>Feedback and Peer-Delivered Parent Communication Intervention Group</arm_group_label>
+    <other_name>Azuga Device</other_name>
+    <other_name>OBD-II Device</other_name>
+    <other_name>In-vehicle Driving Feedback Technology</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Expert-Delivered Parent Communication Training</intervention_name>
+    <description>An individualized virtual training in communication strategies about teen driving safety along with a booster session will be delivered by a traffic safety communication specialist to parents in the Feedback and Expert-Delivered Parent Communication Intervention Group. Intervention parents in this group will also be provided with access to an online parent-teen safe driving communication guide.</description>
+    <arm_group_label>Feedback and Expert-Delivered Parent Communication Intervention Group</arm_group_label>
+    <other_name>Expert-Delivered Parent Training</other_name>
+    <other_name>Steering Teens Safe (Expert)</other_name>
+    <other_name>Expert-Delivered Motivational Interviewing Training</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Peer-Delivered Parent Communication Training</intervention_name>
+    <description>An individualized virtual training in communication strategies about teen driving safety along with a booster session will be delivered by a peer trainer who is a parent of teen with traffic citation and has participated in the Feedback and Peer-Delivered Parent Communication Intervention Group. Intervention parents in this group will also be provided with access to an online parent-teen safe driving communication guide.</description>
+    <arm_group_label>Feedback and Peer-Delivered Parent Communication Intervention Group</arm_group_label>
+    <other_name>Peer-Delivered Parent Training</other_name>
+    <other_name>Steering Teens Safe (Peer)</other_name>
+    <other_name>Peer-Delivered Motivational Interviewing Training</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Teen must be 16 or 17 years old at the time of the moving-related violation&#xD;
+&#xD;
+          -  Teen must be a first-time offender and be found guilty of committing the violation&#xD;
+&#xD;
+          -  Teen must possess a valid Ohio provisional driver's license and proof of car insurance&#xD;
+&#xD;
+          -  Teen must have access to a vehicle with an On-board Diagnostics II system port (i.e.,&#xD;
+             cars made after 1996) in which they are the primary driver&#xD;
+&#xD;
+          -  Teen must have a smart phone with Bluetooth capabilities&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Teen is unable to drive due to injury, has a suspended driver's license, and/or car&#xD;
+             damage&#xD;
+&#xD;
+          -  Teen has previously received a traffic citation&#xD;
+&#xD;
+          -  Vehicle already has an in-vehicle driving feedback system installed&#xD;
+&#xD;
+          -  Teen has non-English speaking parents&#xD;
+&#xD;
+          -  Teen is currently enrolled in another driving-related study&#xD;
+&#xD;
+          -  Teen is a ward of the State&#xD;
+&#xD;
+          -  Adults unable to consent&#xD;
+&#xD;
+          -  Pregnant women&#xD;
+&#xD;
+          -  Prisoners&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jingzhen (Ginger) Yang, PhD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Nationwide Children's Hospital - Center for Injury Research and Policy</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jingzhen (Ginger) Yang, PhD, MPH</last_name>
+    <phone>614-355-5852</phone>
+    <email>ginger.yang@nationwidechildrens.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Robyn Feiss, PhD</last_name>
+    <phone>614-355-1830</phone>
+    <email>robyn.feiss@nationwidechildrens.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Nationwide Children's Hospital</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ginger Yang, PhD, MPH</last_name>
+      <phone>614-355-5852</phone>
+      <email>ginger.yang@natonwidechildrens.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Robyn Feiss, PhD</last_name>
+      <phone>614-355-1830</phone>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Masten SV, Foss RD, Marshall SW. Graduated driver licensing and fatal crashes involving 16- to 19-year-old drivers. JAMA. 2011 Sep 14;306(10):1098-103. doi: 10.1001/jama.2011.1277.</citation>
+    <PMID>21917580</PMID>
+  </reference>
+  <reference>
+    <citation>Mayhew DR, Simpson HM, Pak A. Changes in collision rates among novice drivers during the first months of driving. Accid Anal Prev. 2003 Sep;35(5):683-91. doi: 10.1016/s0001-4575(02)00047-7.</citation>
+    <PMID>12850069</PMID>
+  </reference>
+  <reference>
+    <citation>McCartt AT, Shabanova VI, Leaf WA. Driving experience, crashes and traffic citations of teenage beginning drivers. Accid Anal Prev. 2003 May;35(3):311-20. doi: 10.1016/s0001-4575(02)00006-4.</citation>
+    <PMID>12643948</PMID>
+  </reference>
+  <reference>
+    <citation>Insurance Institute for Highway Safety (IIHS). Fatality Facts: Teenagers 2015. Arlington (VA): The Institute; 2017</citation>
+  </reference>
+  <reference>
+    <citation>Rajalin S. The connection between risky driving and involvement in fatal accidents. Accid Anal Prev. 1994 Oct;26(5):555-62. doi: 10.1016/0001-4575(94)90017-5.</citation>
+    <PMID>7999200</PMID>
+  </reference>
+  <reference>
+    <citation>Summala H, Rajalin S, Radun I. Risky driving and recorded driving offences: a 24-year follow-up study. Accid Anal Prev. 2014 Dec;73:27-33. doi: 10.1016/j.aap.2014.08.008. Epub 2014 Aug 27.</citation>
+    <PMID>25171522</PMID>
+  </reference>
+  <reference>
+    <citation>Alver Y, Demirel MC, Mutlu MM. Interaction between socio-demographic characteristics: traffic rule violations and traffic crash history for young drivers. Accid Anal Prev. 2014 Nov;72:95-104. doi: 10.1016/j.aap.2014.06.015. Epub 2014 Jul 12.</citation>
+    <PMID>25019690</PMID>
+  </reference>
+  <reference>
+    <citation>Ayuso M, Guillen M, Alcaniz M. The impact of traffic violations on the estimated cost of traffic accidents with victims. Accid Anal Prev. 2010 Mar;42(2):709-17. doi: 10.1016/j.aap.2009.10.020. Epub 2009 Nov 22.</citation>
+    <PMID>20159098</PMID>
+  </reference>
+  <reference>
+    <citation>Factor R. The effect of traffic tickets on road traffic crashes. Accid Anal Prev. 2014 Mar;64:86-91. doi: 10.1016/j.aap.2013.11.010. Epub 2013 Dec 2.</citation>
+    <PMID>24342150</PMID>
+  </reference>
+  <reference>
+    <citation>Gebers MA, Peck RC. Using traffic conviction correlates to identify high accident-risk drivers. Accid Anal Prev. 2003 Nov;35(6):903-12. doi: 10.1016/s0001-4575(02)00098-2.</citation>
+    <PMID>12971925</PMID>
+  </reference>
+  <reference>
+    <citation>Goldenbeld C, Reurings M, Van Norden Y, Stipdonk H. Crash involvement of motor vehicles in relationship to the number and severity of traffic offenses. An exploratory analysis of Dutch traffic offenses and crash data. Traffic Inj Prev. 2013;14(6):584-91. doi: 10.1080/15389588.2012.743125.</citation>
+    <PMID>23859422</PMID>
+  </reference>
+  <reference>
+    <citation>Curry AE, Peek-Asa C, Hamann CJ, Mirman JH. Effectiveness of Parent-Focused Interventions to Increase Teen Driver Safety: A Critical Review. J Adolesc Health. 2015 Jul;57(1 Suppl):S6-14. doi: 10.1016/j.jadohealth.2015.01.003.</citation>
+    <PMID>26112737</PMID>
+  </reference>
+  <reference>
+    <citation>Beck KH, Shattuck T, Raleigh R. Parental predictors of teen driving risk. Am J Health Behav. 2001 Jan-Feb;25(1):10-20. doi: 10.5993/ajhb.25.1.2.</citation>
+    <PMID>11289724</PMID>
+  </reference>
+  <reference>
+    <citation>Hartos J, Eitel P, Simons-Morton B. Parenting practices and adolescent risky driving: a three-month prospective study. Health Educ Behav. 2002 Apr;29(2):194-206. doi: 10.1177/109019810202900205.</citation>
+    <PMID>11942714</PMID>
+  </reference>
+  <reference>
+    <citation>Simons-Morton B. Parent involvement in novice teen driving: rationale, evidence of effects, and potential for enhancing graduated driver licensing effectiveness. J Safety Res. 2007;38(2):193-202. doi: 10.1016/j.jsr.2007.02.007. Epub 2007 Mar 26.</citation>
+    <PMID>17478190</PMID>
+  </reference>
+  <reference>
+    <citation>Simons-Morton BG, Ouimet MC, Catalano RF. Parenting and the young driver problem. Am J Prev Med. 2008 Sep;35(3 Suppl):S294-303. doi: 10.1016/j.amepre.2008.06.018.</citation>
+    <PMID>18702985</PMID>
+  </reference>
+  <reference>
+    <citation>Zakrajsek JS, Shope JT, Greenspan AI, Wang J, Bingham CR, Simons-Morton BG. Effectiveness of a brief parent-directed teen driver safety intervention (Checkpoints) delivered by driver education instructors. J Adolesc Health. 2013 Jul;53(1):27-33. doi: 10.1016/j.jadohealth.2012.12.010. Epub 2013 Mar 6.</citation>
+    <PMID>23481298</PMID>
+  </reference>
+  <reference>
+    <citation>Goodwin AH, Foss RD, Margolis LH, Harrell S. Parent comments and instruction during the first four months of supervised driving: an opportunity missed? Accid Anal Prev. 2014 Aug;69:15-22. doi: 10.1016/j.aap.2014.02.015. Epub 2014 Mar 2.</citation>
+    <PMID>24641793</PMID>
+  </reference>
+  <reference>
+    <citation>Mirman JH, Albert WD, Curry AE, Winston FK, Fisher Thiel MC, Durbin DR. TeenDrivingPlan effectiveness: the effect of quantity and diversity of supervised practice on teens' driving performance. J Adolesc Health. 2014 Nov;55(5):620-6. doi: 10.1016/j.jadohealth.2014.04.010. Epub 2014 Jun 9.</citation>
+    <PMID>24925492</PMID>
+  </reference>
+  <reference>
+    <citation>Mirman JH, Curry AE, Winston FK, Wang W, Elliott MR, Schultheis MT, Fisher Thiel MC, Durbin DR. Effect of the teen driving plan on the driving performance of teenagers before licensure: a randomized clinical trial. JAMA Pediatr. 2014 Aug;168(8):764-71. doi: 10.1001/jamapediatrics.2014.252.</citation>
+    <PMID>24957844</PMID>
+  </reference>
+  <reference>
+    <citation>Simons-Morton BG, Hartos JL, Leaf WA, Preusser DF. Persistence of effects of the Checkpoints program on parental restrictions of teen driving privileges. Am J Public Health. 2005 Mar;95(3):447-52. doi: 10.2105/AJPH.2003.023127.</citation>
+    <PMID>15727975</PMID>
+  </reference>
+  <reference>
+    <citation>Ramirez M, Yang J, Young T, Roth L, Garinger A, Snetselaar L, Peek-Asa C. Implementation evaluation of steering teens safe: engaging parents to deliver a new parent-based teen driving intervention to their teens. Health Educ Behav. 2013 Aug;40(4):426-34. doi: 10.1177/1090198112459517. Epub 2012 Oct 4.</citation>
+    <PMID>23041706</PMID>
+  </reference>
+  <reference>
+    <citation>Peek-Asa C, Cavanaugh JE, Yang J, Chande V, Young T, Ramirez M. Steering teens safe: a randomized trial of a parent-based intervention to improve safe teen driving. BMC Public Health. 2014 Jul 31;14:777. doi: 10.1186/1471-2458-14-777.</citation>
+    <PMID>25082132</PMID>
+  </reference>
+  <reference>
+    <citation>Yang J, Campo S, Ramirez M, Krapfl JR, Cheng G, Peek-Asa C. Family communication patterns and teen drivers' attitudes toward driving safety. J Pediatr Health Care. 2013 Sep-Oct;27(5):334-41. doi: 10.1016/j.pedhc.2012.01.002. Epub 2012 Feb 22.</citation>
+    <PMID>22361241</PMID>
+  </reference>
+  <reference>
+    <citation>Winston FK, Mirman JH, Curry AE, Pfeiffer MR, Elliott MR, Durbin DR. Engagement with the TeenDrivingPlan and diversity of teens' supervised practice driving: lessons for internet-based learner driver interventions. Inj Prev. 2015 Feb;21(1):4-9. doi: 10.1136/injuryprev-2014-041212. Epub 2014 Jun 10.</citation>
+    <PMID>24916684</PMID>
+  </reference>
+  <reference>
+    <citation>McCartt AT, Farmer CM, Jenness JW. Perceptions and experiences of participants in a study of in-vehicle monitoring of teenage drivers. Traffic Inj Prev. 2010 Aug;11(4):361-70. doi: 10.1080/15389588.2010.486428.</citation>
+    <PMID>20730683</PMID>
+  </reference>
+  <reference>
+    <citation>Winston FK, Puzino K, Romer D. Precision prevention: time to move beyond universal interventions. Inj Prev. 2016 Apr;22(2):87-91. doi: 10.1136/injuryprev-2015-041691. Epub 2015 Aug 13. No abstract available.</citation>
+    <PMID>26271260</PMID>
+  </reference>
+  <reference>
+    <citation>Peek-Asa C, Reyes ML, Hamann CJ, Butcher BD, Cavanaugh JE. A randomized trial to test the impact of parent communication on improving in-vehicle feedback systems. Accid Anal Prev. 2019 Oct;131:63-69. doi: 10.1016/j.aap.2019.06.006. Epub 2019 Jun 21.</citation>
+    <PMID>31233996</PMID>
+  </reference>
+  <reference>
+    <citation>Gielen AC, Frattaroli S, Pollack KM, Peek-Asa C, Yang JG. How the science of injury prevention contributes to advancing home fire safety in the USA: successes and opportunities. Inj Prev. 2018 Jun;24(Suppl 1):i7-i13. doi: 10.1136/injuryprev-2017-042356. Epub 2018 Feb 26.</citation>
+    <PMID>29483239</PMID>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>March 7, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 12, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>January 12, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 12, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Nationwide Children's Hospital</investigator_affiliation>
+    <investigator_full_name>Ginger Yang</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>De-identified data used and/or analyzed during this study, along with detailed study protocol, are available from the PI, Dr. Jingzhen Yang, on reasonable request. The data are not publicly available due to privacy restrictions.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Starting 6 months after the summary data are published.</ipd_time_frame>
+    <ipd_access_criteria>De-identified data for the study and a data dictionary will be made available to other researchers following approval of a study proposal by the PI, Dr. Jingzhen Yang (ginger.yang@nationwidechildrens.org). The study protocol and statistical analysis plan are also available from the PI, Dr. Jingzhen Yang.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

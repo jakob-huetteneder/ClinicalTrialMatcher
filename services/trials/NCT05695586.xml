@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9549">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05695586</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PID2021-125918OB-I00</org_study_id>
+    <nct_id>NCT05695586</nct_id>
+  </id_info>
+  <brief_title>Effects of the Mindful Self-Compassion (MSC) Program</brief_title>
+  <acronym>MSC-Health</acronym>
+  <official_title>Effects of the Mindful Self-Compassion (MSC) Program on Psychological Well-being, Health, and Inflammatory Response: An ex Post Facto Study and a Longitudinal RCT Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universidad Pontificia de Salamanca</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ministerio de Ciencia e Innovación, Spain</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Universidad Pontificia de Salamanca</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The efficacy of the Mindfulness Based Stress Reduction (MBSR) program has been widely&#xD;
+      researched. However, research on the efficacy of a standardized program, specifically focused&#xD;
+      on self-compassion skills, such as the Mindful Self-Compassion (MSC) program remains scarce.&#xD;
+      Moreover, the use of long-term follow-ups and the analysis of regular practice of mindfulness&#xD;
+      and self-compassion over time to identify possible changes in inflammatory activity and in&#xD;
+      biomarkers associated with diseases has been even less analysed and represent a gap in this&#xD;
+      area. In this context, a main hypothesis is proposed: MSC training and the subsequent regular&#xD;
+      practice will contribute to improve mental health, self-reported health status, psychological&#xD;
+      wellbeing and health-related biomarkers. This research uses a RCT design to analyse our main&#xD;
+      hypothesis. Our RCT design includes three conditions, i.e. MSC group compared to a&#xD;
+      well-established protocol MBSR training group and to a waitlist control group (CG), and four&#xD;
+      moments of measure, i.e. pre- and post-training, 6-month, and 12-month follow-ups.&#xD;
+      Participants in the experimental conditions will receive, respectively, the MSC and MBSR&#xD;
+      8-week trainings and afterwards they will go on with weekly MSC/MBSR guided practices over a&#xD;
+      12-month period. In addition to an analysis of the relative efficacy of MSC compared to MBSR&#xD;
+      and CG, we will also study the mechanisms involved in the efficacy of MSC training.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 14, 2022</start_date>
+  <completion_date type="Anticipated">March 2025</completion_date>
+  <primary_completion_date type="Anticipated">March 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in perceived general health status from pre-intervention at 8-week, 6-month and 12-month.</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>Perceived general health status will be measured using the SF-36(v2) Health Survey general health items (Alonso et al., 2003). This subscale comprises 5 items and uses a 5-point Likert-type response format. Total scores are obtained following instructions provided by Ware et al. (1993). A higher total score (ranging from 1 to 5) indicates a better self-assessment of general health status.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Subjective Happiness Scale scores (Lyubomirsky &amp; Lepper, 1999.; Extremera, 2013) from pre-intervention at 8-week, 6-month and 12-month.</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>The Subjective Happiness Scale (SHS) is a 4-item scale used to measure the global level of perceived happiness. All items use a 7-point Likert-type scale. The total scores of subjective happiness are calculated for each participant by averaging responses to the 4 items (range 1-7), with higher scores indicating greater subjective happiness.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Satisfaction with Life Scale scores (Diener et al., 1985; Atienza et al., 2003) from pre-intervention at 8-week, 6-month and 12-month.</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>The SWLS consists of 5 items representing statements indicative of contentment with one's life and its conditions. The response format is a 7-point Likert-type scale, ranging from 1 = Strongly disagree to 7 = Strongly agree. The scale's total scores are calculated by averaging answers to the 5 items, with higher scores (ranging from 1 to 7) indicating greater satisfaction with life.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Self-Compassion Scale (SCS) scores (Neff, 2003; García-Campayo et al., 2014) from pre-intervention at 8-week, 6-month and 12-month.</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>The Spanish version of the 26-item Self-Compassion Scale (Garcia-Campayo et al., 2014; Neff, 2003) measures the construct of self-compassion as defined by Neff (2003), that is, considering that self-compassion entails being kind toward oneself, seeing one's experiences as part of the larger human condition, and being mindfully aware of one's inner experiences, instead of being unkindly, self-critical, feeling isolated or strange, and over-identification with painful thoughts and feelings. Participants respond on a 5-points Likert-type scale, where 1 = Never and 5 = Always. Total scores are calculated by averaging each participant's responses to the items (range, 1-5), with higher scores representing greater self-compassion.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Mindful Attention Awareness Scale (MAAS) scores (Brown &amp; Ryan, 2003; Soler et al. 2012) from pre-intervention at 8-week, 6-month and 12-month.</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>This scale comprises 15 items designed to measure the individual's general mindfulness capacity. It uses a 6-point Likert-type response format where 1 = &quot;Almost always&quot; and 6 = &quot;Almost never&quot;.Total scores are obtained by averaging each participant's responses to the items, with higher scores meaning a greater mindfulness capacity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Meaning in Life Questionnaire (MLQ) scores (Steger et al., 2006) from pre-intervention at 8-week, 6-month and 12-month.</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>A 10-item questionnaire designed to measure two dimensions of meaning in life: (1) Presence of Meaning (how much respondents feel their lives have meaning), and (2) Search for Meaning (how much respondents strive to find meaning and understanding in their lives). Respondents answer each item on a 7-point Likert-type scale ranging from 1 (Absolutely True) to 7 (Absolutely Untrue). Higher scores represent experiencing higher levels of meaning in life (presence of meaning) and higher levels of search for meaning.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Acceptance and Action Questionnaire-II (AAQ-II) scores (Bond et al., 2011;Ruiz et al. 2013) from pre-intervention at 8-week, 6-month and 12-month.</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>This measure comprises 7 items intended to measure experiential avoidance, that is, an individual's unwillingness to be exposed to and accept difficult inner experiences (e.g., thoughts, feelings, sensations) even when doing so leads to behaving in a manner that could be inconsistent with one's values and goals. Participants rate each item on a 7-point Likert-type scale, with 1 = Never true to 7 = Always true. Total scores are obtained for each participant by averaging his/her responses to the items, with higher scores representing a higher level of experiential avoidance.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in the Activation Subscale of the Behavioural Activation for Depression Scale (BADS) scores (Kanter et al., 2007; Barraca et al., 2011) from pre-intervention at 8-week, 6-month and 12-month.</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>The 7-item &quot;Activation&quot; subscale of the Behavioral Activation for Depression Scale (BADS), measures focused, goal-directed activation and completion of planned activities, e.g., &quot;I did things even though they were hard because they fit in with my long-term goals for myself&quot;. Responses are made on a 7-point Likert-type scale from 0 = &quot;Not at all&quot; to 6 = &quot;Completely&quot;. Items were averaged to obtain a total score for each participant. Higher scores reflect a higher level of behavioral activation.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Positive and Negative Affect Schedule (PANAS) scores (Watson, Clark &amp; Tellegen, 1988; López-Gómez et al., 2015) from pre-intervention at 8-week, 6-month and 12-month.</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>This instrument consists of 10 items representing positive moods (e.g., interested, enthusiastic, inspired) and 10 items representing negative moods (e.g., irritable, upset, afraid). Participants are asked to rate the extent to which they had recently experienced each of the twenty feelings or emotions on a 5-point Likert-type scale, ranging from 1 = Very slightly or not at all to 5 = Extremely. Two separate total scores corresponding to positive and negative affect are obtained for each participant. Total scores (ranging from 1 to 5) are calculated by averaging each respondent's answers to the ten items included in the positive/negative affect scales, with higher scores indicating experiencing more positive/negative moods.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Cognitive Fusion Questionnaire (CFQ) scores (Gillanders et al.,2014; Romero-Moreno et al., 2014) from pre-intervention at 8-week, 6-month and 12-month.</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>This questionnaire uses 7 items scored from 1 (never) to 7 (always) on a Likert-type scale.&#xD;
+Total scores are obtained for each participant by averaging his/her responses to the items, with higher scores representing a higher level of cognitive fusion.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in psychological flexibility scores from pre-intervention at 8-week, 6-month and 12-month.</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>Change in psychological flexibility will be measured using Psy-Flex scale (Gloster et al., 2021; Spanish translation by Ruiz Jiménez et al., 2021). This scale uses 6 items scored from 1 (never) to 5 (very often) on a Likert-type scale. Total scores are obtained for each participant, with higher scores representing a higher level of psychological flexibility.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in depression and anxiety scores from pre-intervention at 8-week, 6-month and 12-month.</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>Change in depression and anxiety will be measured using Hospital Anxiety and Depression Scale (HAD-S), (Zigmond &amp; Snaith, 1983; Terol et al., 2007). This scale comprises 14 items intended as a screening instrument to detect possible anxiety (7 items) and depression (7 items problems). Examples items are &quot;I get sudden feelings of panic&quot; (anxiety) and &quot;I have lost interest in my appearance&quot; (depression). Participants respond by selecting 1 of 4 alternatives that are scored from 0 to 3. Scores for anxiety and depression are calculated by adding the individual's responses to the items in each subscale, with higher scores indicating higher levels of anxiety and depression.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in mental health self-informed status from pre-intervention at 8-week, 6-month and 12-month.</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>Change in mental health self-informed status will be measured using the Mental Health Subscale of the SF-36(v2) Health Survey (Alonso et al., 2003). The Mental Health subscale of the SF-36 Health Survey (Ware et al. 1993; Spanish adaptation by Alonso et al. 1995) is used to identify possible symptoms of depression (e.g., 'Have you felt downhearted and blue?') and anxiety (e.g., 'Have you been a very nervous person?'). This subscale comprises 5 items and uses a 5-point Likert-type response format. Total scores are obtained following instructions provided by Ware et al. (1993). A higher total score (ranging from 1 to 5) indicates a better self-assessment of mental health status.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Perceived Stress Scale (PSS) scores (Cohen et al. 1983; Remor &amp; Carrobles, 2001) from pre-intervention at 8-week, 6-month and 12-month.</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>This scale uses 14 items scored from 0 (never) to 4 (very often) on a Likert-type scale.&#xD;
+Total scores are obtained for each participant, with higher scores representing a higher level of perceived stress.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in burnout scores from pre-intervention at 8-week, 6-month and 12-month.</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>A single-item measure designed by Dolan et al.(2014) will be used to measure burnout levels. Higher scores (1-5) represent higher levels of burnout.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in basal glucose levels</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>Basal glucose level is measured in mg/dL (milligrams per decilitre). Reference value: 60 - 100 mg/dL.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in cholesterol levels</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>Cholesterol level is measured in mg/dL (milligrams per decilitre). Reference value: &lt; 200 mg/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in triglyceride levels</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>Triglyceride levels are measured in mg/dL (milligrams per decilitre). Reference values: &lt; 150 mg/dL After fasting 8 - 10 hours ; &lt; 175 mg/dL Without fasting 8 - 10 hours</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in High-density lipoprotein (HDL)-Cholesterol levels</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>HDL-Cholesterol levels are measured in mg/dL (milligrams per decilitre). Reference value: &gt; 40 mg/dL.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Low-density lipoprotein (LDL)-Cholesterol levels.</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>LDL-Cholesterol levels are measured in mg/dL (milligrams per decilitre). Reference values: &lt; 116 mg/dL for patients with low CV risk; &lt; 100 mg/dL for patients with moderate CV risk; &lt; 70 mg/dL for patients at high CV risk; &lt; 55 mg/dL for patients with very high CV risk.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change ultrasensitive C-Reactive Protein (CRP) levels</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>Ultrasensitive C-Reactive Protein (CRP) levels are measured in mg/dL (milligrams per decilitre). Reference value: &lt; 0.3 mg/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in the lipemia index</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>Lipemia index is measured in mg/dL (milligrams per decilitre). Reference values for 5 levels indicating a progressive increase in index intensity: 0 - 50 mg/dL (No); 50 - 100 mg/dL ; 100 - 150 mg/dL; 150 - 200 mg/dL;200 - 9999999 mg/dL (Higher).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in the jaundice index</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>Jaundice index is measured in mg/dL (milligrams per decilitre). Reference values for 5 levels indicating a progressive increase in index intensity: 0 - 2 mg/dL (No); 2 - 4 mg/dL; 4 - 10 mg/dL;10 - 20 mg/dL; 20 - 9999999 mg/dL (Higher).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in the hemolysis index</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>Hemolysis index is measured in mg/dL (milligrams per decilitre). Reference values for 5 levels indicating a progressive increase in index intensity: &lt; 30 mg/dL (No); 30 - 100 mg/dL; 100 - 200 mg/dL; 200 - 500 mg/dL; 500 - 9999999 mg/dL (Higher).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in the levels of aspartate aminotransferase (GOT/AST)</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>The levels of aspartate aminotransferase (GOT/AST) are measured in U/L (units per liter) at 37ºC. Reference value: 8 - 43 U/L at 37 ºC</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in lactate dehydrogenase (LDH) levels</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>Lactate dehydrogenase (LDH) levels are measured in U/L (units per liter) at 37ºC. Reference value: 125 - 220 U/L at 37 ºC</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Creatin Kinase (CK) levels</measure>
+    <time_frame>T1 (pre), T2 (8-week), T3 (6-month), T4 (12-month)</time_frame>
+    <description>Creatin Kinase (CK) levels levels are measured in U/L (units per liter) at 37ºC. Reference value: &lt; 167 U/L at 37 ºC.</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Self-compassion</condition>
+  <condition>Mindfulness</condition>
+  <condition>Mental Health</condition>
+  <condition>Well-being</condition>
+  <condition>Inflammatory Response</condition>
+  <condition>Cardiovascular Health</condition>
+  <arm_group>
+    <arm_group_label>Mindful Self-Compassion (MSC) training</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in the MSC group will be trained in the standard 8-week Mindfulness Self-Compassion (MSC) protocol (Germer and Neff, 2013a, b; Germer and Neff, 2019). Once participants have completed the 8-week MSC training they will enter a 12-month phase of regular supervised practice, in which they will continue to perform MSC exercises on a guided basis. Supervised practice will be provided on a weekly basis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mindfulness Based Stress Reduction (MBSR) training</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in the MBSR group will receive the standard 8-week Mindfulness-Based Stress Reduction (Stahl &amp; Goldstein, 2010). Once participants have completed the 8-week MBSR training they will enter a 12-month phase of regular supervised practice, in which they will continue to perform MBSR exercises on a guided basis. Supervised practice will be provided on a weekly basis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The waitlist CG will comprise subjects with no MBSR/MSC related practice, who will not receive the MSC or MBSR training. However, subjects in the CG will be waitlisted to receive a MBSR or MSC training once the present project will be finished.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Mindful Self-Compassion (MSC) training</intervention_name>
+    <description>8-week Mindful Self-Compassion (MSC) intervention protocol, developed by Germer and Neff (2013, 2019). After the training, participants will enter a 12-month phase of regular MSC-based supervised practice.</description>
+    <arm_group_label>Mindful Self-Compassion (MSC) training</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Mindfulness Based Stress Reduction (MBSR) training</intervention_name>
+    <description>8-week Mindfulness Based Stress Reduction (MBSR) intervention protocol, as developed by Stahl &amp; Goldstein (2010). After the training, participants will enter a 12-month phase of regular MBSR-based supervised practice.</description>
+    <arm_group_label>Mindfulness Based Stress Reduction (MBSR) training</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy individuals&#xD;
+&#xD;
+          -  Not having previous experience in mindfulness and/or self-compassion practices.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Having suffered or currently suffer from a psychiatric disorder, being in psychiatric&#xD;
+             or psychological treatment,&#xD;
+&#xD;
+          -  Suffering from a severe medical disorder that could affect inflammatory response, as&#xD;
+             well as systemic inflammation (cancer, AIDS or any other chronic disease that occurs&#xD;
+             with inflammation, including COVID-19).&#xD;
+&#xD;
+          -  Having received psychotropic medication within 2 weeks prior to blood extractions (as&#xD;
+             it interferes with the immune and neuroendocrine systems), or having signs of acute&#xD;
+             infection on the day of the blood extraction.&#xD;
+&#xD;
+          -  The influence of variables that may affect some of the biomarkers (e.g., time of&#xD;
+             sample collection, seasonality, BMI, diet, omega-3, vitamin D, nutritional&#xD;
+             supplements, etc.) will also be taken into account.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>José Ramón Yela, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universidad Pontificia de Salamanca</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Antonio Crego, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universidad Pontificia de Salamanca</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>José Ramón Yela, PhD</last_name>
+    <phone>0034923277150</phone>
+    <phone_ext>7624</phone_ext>
+    <email>jryelabe@upsa.es</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Universidad Pontificia de Salamanca</name>
+      <address>
+        <city>Salamanca</city>
+        <state>Salamanca (Castilla Y León)</state>
+        <zip>37002</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>José Ramón Yela, PhD</last_name>
+      <phone>0034923277150</phone>
+      <phone_ext>7624</phone_ext>
+      <email>autocuidado@upsa.es</email>
+    </contact>
+    <contact_backup>
+      <last_name>Antonio Crego, PhD</last_name>
+      <phone>0034923277150</phone>
+      <phone_ext>7610</phone_ext>
+      <email>autocuidado@upsa.es</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <link>
+    <url>https://www.upsa.es/investigacion/autocuidado</url>
+    <description>Research project website</description>
+  </link>
+  <reference>
+    <citation>Neff KD, Germer CK. A pilot study and randomized controlled trial of the mindful self-compassion program. J Clin Psychol. 2013 Jan;69(1):28-44. doi: 10.1002/jclp.21923. Epub 2012 Oct 15.</citation>
+    <PMID>23070875</PMID>
+  </reference>
+  <reference>
+    <citation>Germer CK, Neff KD. Self-compassion in clinical practice. J Clin Psychol. 2013 Aug;69(8):856-67. doi: 10.1002/jclp.22021. Epub 2013 Jun 17.</citation>
+    <PMID>23775511</PMID>
+  </reference>
+  <reference>
+    <citation>Germer, C. &amp; Neff, K. (2013b). The Mindful Self-Compassion training program. In T. Singer &amp; M. Bolz (Eds.) Compassion: Bridging theory and practice: A multimedia book (pp. 365-396). Leipzig, Germany: Max-Planck Institute. Retrieved from: http://www.compassion-training.org/</citation>
+  </reference>
+  <reference>
+    <citation>Germer, C., &amp; Neff, K. (2019). Teaching the mindful self-compassion program: A guide for professionals. New York: Guilford Publications.</citation>
+  </reference>
+  <reference>
+    <citation>Neff, K., &amp; Germer, C. (2017). Self-Compassion and psychological well-being. In Seppälä, E. M., Simon-Thomas, E., Brown, S. L., Worline, M. C., Cameron, C. D., &amp; Doty, J. R. (Eds.). (2017). The Oxford Handbook of Compassion Science (pp. 371-386). Oxford: Oxford University Press.</citation>
+  </reference>
+  <reference>
+    <citation>Neff, K. D., &amp; Germer, C. K. (2018). The Mindful Self-Compassion workbook: A proven way to accept yourself, find inner strength, and thrive. New York: The Guilford Press.</citation>
+  </reference>
+  <reference>
+    <citation>Yela, J.R., Gómez Martínez, Mª. A., Crego, A., &amp; Jiménez, L. (2020a). Effects of the Mindful Self-Compassion Programme on Clinical and Health Psychology Trainees' well-being: a Pilot Study. Clinical Psychologist, 24, 41-54. https://doi.org/10.1111/cp.12204</citation>
+  </reference>
+  <reference>
+    <citation>Yela JR, Crego A, Gomez-Martinez MA, Jimenez L. Self-compassion, meaning in life, and experiential avoidance explain the relationship between meditation and positive mental health outcomes. J Clin Psychol. 2020 Sep;76(9):1631-1652. doi: 10.1002/jclp.22932. Epub 2020 Jan 24.</citation>
+    <PMID>31981226</PMID>
+  </reference>
+  <reference>
+    <citation>Yela JR, Crego A, Buz J, Sanchez-Zaballos E, Gomez-Martinez MA. Reductions in experiential avoidance explain changes in anxiety, depression and well-being after a mindfulness and self-compassion (MSC) training. Psychol Psychother. 2022 Jun;95(2):402-422. doi: 10.1111/papt.12375. Epub 2021 Dec 13.</citation>
+    <PMID>34904363</PMID>
+  </reference>
+  <reference>
+    <citation>Jiménez-Gómez, L., Yela, J.R., Crego, A. et al. Effectiveness of the Mindfulness-Based Stress Reduction (MBSR) vs. the Mindful Self-Compassion (MSC) Programs in Clinical and Health Psychologist Trainees. Mindfulness 13, 584-599 (2022). https://doi.org/10.1007/s12671-021-01814-2</citation>
+  </reference>
+  <reference>
+    <citation>Melero, A. R., Yela, J. R., Crego, A., &amp; Cortés-Rodríguez, M. (2020). Effectiveness of a Mindfulness-Based Cognitive Therapy Group Intervention in Reducing Gambling-Related Craving. Journal of Evidence-Based Psychotherapies, 20(1), 107-134.</citation>
+  </reference>
+  <reference>
+    <citation>Stahl, B., &amp; Goldstein, E. (2019). A mindfulness-based stress reduction workbook. New Harbinger publications.</citation>
+  </reference>
+  <reference>
+    <citation>Goldstein, E., &amp; Stahl, B. (2015). MBSR every day: Daily practices from the heart of mindfulness-based stress reduction. New Harbinger Publications.</citation>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 21, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>January 19, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 19, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Self-compassion</keyword>
+  <keyword>Mindfulness</keyword>
+  <keyword>Mindful Self-Compassion (MSC)</keyword>
+  <keyword>Mindfulness Based Stress Reduction (MBSR)</keyword>
+  <keyword>Mental health</keyword>
+  <keyword>Well-being</keyword>
+  <keyword>Inflammatory Response</keyword>
+  <keyword>Cardiovascular Health</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

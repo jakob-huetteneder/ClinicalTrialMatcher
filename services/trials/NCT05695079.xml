@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9578">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05695079</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H-11-21-7572</org_study_id>
+    <nct_id>NCT05695079</nct_id>
+  </id_info>
+  <brief_title>Efficacy of Electric Fans for Mitigating Thermal Strain in Older Adults During Heat Waves</brief_title>
+  <official_title>Evaluating the Efficacy of Pedestal Fans for Limiting Heat Strain in Elderly Adults During Extreme Heat Events</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Ottawa</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Ottawa</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      With the increasing regularity and intensity of hot weather and heat waves, there is an&#xD;
+      urgent need to develop heat-alleviation strategies able to provide targeted protection for&#xD;
+      heat-vulnerable older adults. While air-conditioning provides the most effective protection&#xD;
+      from extreme heat, it is inaccessible for many individuals. Air-conditioning is also energy&#xD;
+      intensive, which can strain the electrical grid and, depending on the source of electricity&#xD;
+      generation, contribute to increasing green house gas emissions. For these reasons, recent&#xD;
+      guidance has advocated the use of electric fans as a simple and sustainable alternative to&#xD;
+      air-conditioning. To date, however, only one study has assessed the efficacy of fan use in&#xD;
+      older adults and demonstrated that fans accelerate increases in body temperature and heart&#xD;
+      rate in a short-duration (~2 hours) resting exposure to 42°C with increasing ambient humidity&#xD;
+      from 30-70%. While subsequent modelling has suggested that fans can improve heat loss via&#xD;
+      sweat evaporation in healthy older adults at air temperatures up to 38°C, there is currently&#xD;
+      no empirical data to support these claims. Further, that work assumed older adults were&#xD;
+      seated in front of a pedestal fan generating an airflow of 3·5-4·5 m/s at the front of the&#xD;
+      body. This airflow cannot be attained by most marketed pedestal fans. Studies are therefore&#xD;
+      needed to evaluate the efficacy of fans for preventing hyperthermia and the associated&#xD;
+      physiological burden in older adults in air temperatures below 38°C and determine whether the&#xD;
+      cooling effect of fans, if any, is evident at lower rates of airflow.&#xD;
+&#xD;
+      To address these knowledge gaps, this randomized crossover trial will evaluate body core&#xD;
+      temperature, cardiovascular strain, dehydration, and thermal comfort in adults aged 65-85&#xD;
+      years exposed for 8 hours to conditions experienced during hot weather and heat waves in&#xD;
+      North America simulated using a climate chamber (36°C, 45% relative humidity). Each&#xD;
+      participant will complete three randomized exposures that will differ only in the airflow&#xD;
+      generated at the front of the body via an electric pedestal fan: no airflow (control), low&#xD;
+      airflow (~2 m/s), and high airflow (~4 m/s). While participants will spend most of the 8-hour&#xD;
+      exposure seated in front of the fan, they will also complete 4 x 10 min periods of&#xD;
+      'activities of daily living' (~2-2.5 METS, light stepping) at ~2 hour intervals to more&#xD;
+      accurately reflect activity patterns in the home.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 1, 2022</start_date>
+  <completion_date type="Anticipated">June 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Each participant will complete 3 simulated heat wave exposures in random order: i) no electric fan (control); ii) electric fan generating air flow of 2 m/s at the front of the body; and iii) electric fan generating air flow of 4 m/s at the front of the body.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+    <masking_description>Participants will be informed of the study interventions before providing informed consent but will be masked to the order of the arms until exposure (i.e., participants will not know the fan conditions). Data will be blinded prior to analysis.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Core temperature (peak)</measure>
+    <time_frame>End of heat exposure (hour 8)</time_frame>
+    <description>Peak rectal temperature (15 min average) during exposure. Rectal temperature is measured continuously throughout each simulated heat wave.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Core temperature (AUC)</measure>
+    <time_frame>End of heat exposure (hour 8)</time_frame>
+    <description>Area under the curve of rectal temperature (in degree-hours).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Core temperature (end-exposure)</measure>
+    <time_frame>End of heat exposure (hour 8)</time_frame>
+    <description>Rectal temperature measured at hour 8 of the simulated heat wave exposure (15-min average)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heart rate (peak)</measure>
+    <time_frame>End of heat exposure (hour 8)</time_frame>
+    <description>Peak heart rate (15 min average) during exposure. Heart rate is measured continuously via 3-lead ECG throughout each simulated heat wave</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heart rate (AUC)</measure>
+    <time_frame>End of heat exposure (hour 8)</time_frame>
+    <description>Area under the curve of rectal temperature (total beats).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heart rate (end-exposure)</measure>
+    <time_frame>End of heat exposure (hour 8)</time_frame>
+    <description>Heart rate measured at hour 8 of the simulated heat wave exposure via 3-lead ECG (15-min average)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Systolic blood pressure (end-exposure)</measure>
+    <time_frame>End of heat exposure (hour 8)</time_frame>
+    <description>Systolic blood pressure measured in triplicate via automated oscillometry (~60 seconds between measures)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Diastolic blood pressure (end-exposure)</measure>
+    <time_frame>End of heat exposure (hour 8)</time_frame>
+    <description>Diastolic blood pressure measured in triplicate via automated oscillometry (~60 seconds between measures)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate pressure product (end-exposure)</measure>
+    <time_frame>End of heat exposure (hour 8)</time_frame>
+    <description>Rate pressure product, an index of myocardial work and strain, calculated as systolic blood pressure x heart rate.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heart rate variability: SDNN (end-exposure)</measure>
+    <time_frame>End of heat exposure (hour 8)</time_frame>
+    <description>Standard deviation of normal-to-normal RR intervals (SDNN) measured during 5 minutes of paced breathing (15 breaths/min) with participants in the seated position. SDNN will be evaluated twice, during two paced breathing periods (separated by 4 min of seated rest).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heart rate variability: RMSSD (end-exposure)</measure>
+    <time_frame>End of heat exposure (hour 8)</time_frame>
+    <description>Root mean squared standard deviation of normal-to-normal RR intervals (RMSSD) measured during 5 minutes of paced breathing (15 breaths/min) with participants in the seated position. RMSSD will be evaluated twice, during two paced breathing periods (separated by 4 min of seated rest).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fluid consumption</measure>
+    <time_frame>End of heat exposure (hour 8)</time_frame>
+    <description>Cumulative fluid consumption calculated by weighing participant water intake at the start and end of each hour of exposure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fluid loss</measure>
+    <time_frame>End of heat exposure (hour 8)</time_frame>
+    <description>Fluid loss calculated as the change in body mass during each exposure presented as a percentage of baseline body mass (corrected for food consumption)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in plasma volume</measure>
+    <time_frame>End of heat exposure (hour 8)</time_frame>
+    <description>Change in plasma volume from baseline values calculated from duplicate measurements of hemoglobin and hematocrit at the start and end of each exposure using the technique by Dill and Costill.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Thermal comfort scale (end-exposure)</measure>
+    <time_frame>End of heat exposure (hour 8)</time_frame>
+    <description>Thermal comfort assessed via a visual analog scale (&quot;How comfortable does your body temperature feel?&quot;) ranging from &quot;extremely uncomfortable&quot; to &quot;extremely comfortable&quot;(midpoint: neutral).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Air movement scale (end-exposure)</measure>
+    <time_frame>End of heat exposure (hour 8)</time_frame>
+    <description>Perception of air movement assessed via a visual analog scale (&quot;How do you feel about the air movement in this room?&quot;) ranging from &quot;much too still&quot; to &quot;much too breezy&quot; (midpoint: neutral).</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">15</enrollment>
+  <condition>Hyperthermia</condition>
+  <condition>Weather; Heat</condition>
+  <condition>Heat Stress</condition>
+  <condition>Aging</condition>
+  <arm_group>
+    <arm_group_label>No cooling intervention (control)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Adults aged 65-85 years with or without type 2 diabetes and/or hypertension</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Fan generating low airflow</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Adults aged 65-85 years with or without type 2 diabetes and/or hypertension</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Fan generating high airflow</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Adults aged 65-85 years with or without type 2 diabetes and/or hypertension</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>No cooling (control)</intervention_name>
+    <description>Participants are exposed to 36°C, 45% relative humidity for 8 hours without cooling intervention (control condition). Drinking water is available ad libitum. Participants are seated throughout exposure, except for during 10 min periods of simulated activities of daily living (light stepping at 2-2.5 METS) performed at hours 1, 3, 5, and 7.</description>
+    <arm_group_label>No cooling intervention (control)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Electric fan (low airflow)</intervention_name>
+    <description>Participants are exposed to 36°C, 45% relative humidity for 8 hours without cooling interventions (control condition). Drinking water is available ad libitum. Participants are seated throughout exposure, except for during 10 min periods of simulated activities of daily living (light stepping at 2-2.5 METS) performed at hours 1, 3, 5, and 7. While participants are seated, an electric pedestal fan positioned 1 m away will deliver a continuous airflow of 2 m/s to the front of the body.</description>
+    <arm_group_label>Fan generating low airflow</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Electric fan (high airflow)</intervention_name>
+    <description>Participants are exposed to 36°C, 45% relative humidity for 8 hours without cooling interventions (control condition). Drinking water is available ad libitum. Participants are seated throughout exposure, except for during 10 min periods of simulated activities of daily living (light stepping at 2-2.5 METS) performed at hours 1, 3, 5, and 7. While participants are seated, an electric pedestal fan positioned 1 m away will deliver a continuous airflow of 4 m/s to the front of the body.</description>
+    <arm_group_label>Fan generating high airflow</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female adults.&#xD;
+&#xD;
+          -  Aged 65-85 years.&#xD;
+&#xD;
+          -  Non-smoking.&#xD;
+&#xD;
+          -  English or French speaking.&#xD;
+&#xD;
+          -  Ability to provide informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Physical restriction (e.g., due to disease: intermittent claudication, renal&#xD;
+             impairment, active proliferative retinopathy, unstable cardiac or pulmonary disease,&#xD;
+             disabling stroke, severe arthritis, etc.).&#xD;
+&#xD;
+          -  Use of or changes in medication judged by the patient or investigators to make&#xD;
+             participation in this study inadvisable (e.g., medications increasing risk of&#xD;
+             heat-related illness; beta blockers, anticholinergics, etc.)&#xD;
+&#xD;
+          -  Cardiac abnormalities identified via 12-lead ECG during an incremental exercise test&#xD;
+             to volitional fatigue (performed for all participants).&#xD;
+&#xD;
+          -  Peak aerobic capacity (VO2peak), as measured during an incremental exercise test to&#xD;
+             volitional fatigue, exceeding the 50th percentile of age- and sex-specific normative&#xD;
+             values published by the American College of Sports Medicine (ACSM).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Glen P Kenny, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Ottawa</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ronald J Sigal, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Calgary</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Glen P Kenny, PhD</last_name>
+    <phone>6135625800</phone>
+    <phone_ext>4282</phone_ext>
+    <email>gkenny@uottawa.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Robert D Meade, PhD</last_name>
+    <phone>6136986071</phone>
+    <email>rmead015@uottawa.ca</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Ottawa</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1N6N5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Glen P Kenny, PhD</last_name>
+      <phone>6135625800</phone>
+      <phone_ext>4282</phone_ext>
+      <email>gkenny@uottawa.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Robert D Meade, PhD</last_name>
+      <phone>6136986071</phone>
+      <email>rmead015@uottawa.ca</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 12, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 12, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>January 12, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 12, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Ottawa</investigator_affiliation>
+    <investigator_full_name>Glen P. Kenny</investigator_full_name>
+    <investigator_title>Full Professor, University Research Chair</investigator_title>
+  </responsible_party>
+  <keyword>Heat wave</keyword>
+  <keyword>Cooling intervention</keyword>
+  <keyword>Electric fans</keyword>
+  <keyword>Cardiovascular strain</keyword>
+  <keyword>Extreme heat events</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hyperthermia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Deidentified participant data will be made available with approved analysis plan and signed access agreement</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Following publication of the main study report(s)</ipd_time_frame>
+    <ipd_access_criteria>Approved analysis plan and signed access agreement</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

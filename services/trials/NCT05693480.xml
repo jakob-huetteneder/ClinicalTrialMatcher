@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9654">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05693480</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ITB/FBL/4018/21/P</org_study_id>
+    <nct_id>NCT05693480</nct_id>
+  </id_info>
+  <brief_title>Development and Applications of Daily-use Fall Risk Assessment Device to Prevent Elderly People From Falling</brief_title>
+  <acronym>ITF-Balance</acronym>
+  <official_title>Development and Applications of Daily-use Fall Risk Assessment Device to Prevent Elderly People From Falling</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The University of Hong Kong</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Aberdeen Kai-fong Welfare Association Social Service</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hong Kong Young Women's Christian Association</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The University of Hong Kong</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This research attempts to develop an artificial intelligence (AI) enabled device for&#xD;
+      measuring the dynamic balance ability of older people with a sensor using an optical&#xD;
+      principle called Frustrated Total Internal Reflection. The AI-based algorithm embedded in the&#xD;
+      device performs the data analysis for balance ability assessment and falling risk prediction.&#xD;
+      As a critical part of the research, a large-scale user study is needed to test the validity&#xD;
+      of the device regarding the dynamic balance ability assessment and the accuracy of the&#xD;
+      falling risk prediction provided by the device. Also, we plan to study the factors&#xD;
+      influencing user engagement in this device through the questionnaire-based survey and&#xD;
+      interview.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Falling is a significant threat to the health and independent living quality of the elderly.&#xD;
+      The loss of balance leads to falls. Balance is a very complex neuromuscular reflex function&#xD;
+      that may be affected by the general condition of the body and one or more impairments in the&#xD;
+      sensory, nervous, cardiovascular, and musculoskeletal systems. Currently, no test or tool can&#xD;
+      directly measure balancing capability in the clinical setting. Most clinicians use&#xD;
+      proxy-based methods to estimate the likelihood of falling, such as the Timed Up and Go Test&#xD;
+      which has low diagnostic accuracy. Other commonly used observational fall assessment tools&#xD;
+      (e.g., Berg Balance Scale and Performance-Oriented Mobility Assessment) require long&#xD;
+      administration time, suffering ceiling effects and subjective judgment. The computerized&#xD;
+      dynamic posturography devices are used in specialized fall assessment and rehabilitation&#xD;
+      centers. However, these devices are not routinely used in clinical or home settings due to&#xD;
+      high user costs and special training requirements.&#xD;
+&#xD;
+      To overcome the abovementioned limitations of extant approaches for measuring dynamic balance&#xD;
+      ability and predicting the risk of falling. This research attempts to develop an artificial&#xD;
+      intelligence (AI) enabled device for measuring the dynamic balance ability of older people&#xD;
+      with a sensor using an optical principle called Frustrated Total Internal Reflection (FTIR).&#xD;
+      The AI-based algorithm embedded in the device performs the data analysis for balance ability&#xD;
+      assessment and falling risk prediction.&#xD;
+&#xD;
+      As a critical part of the research, a large-scale user study is needed to test the validity&#xD;
+      of the device regarding the dynamic balance ability assessment compared with the common&#xD;
+      clinical assessment tools used by doctors and other healthcare professionals. In addition,&#xD;
+      this large-scale user study will also investigate the accuracy of the falling risk prediction&#xD;
+      provided by the device. Also, the investigators plan to study the factors influencing user&#xD;
+      engagement in this device through the questionnaire-based survey.&#xD;
+&#xD;
+      The targeted direct user group of this device is people aged 60 years old or above who live&#xD;
+      in Hong Kong. The whole study will last six months, and the outcome will be assessed pre-and&#xD;
+      post-implementation for comparison and validation. The major testing criteria include the&#xD;
+      device specifications for validity and reliability, user experiences and adoption, prediction&#xD;
+      model accuracy.&#xD;
+&#xD;
+      First Round: The participant will be invited to take three tests: A device test, a time up&#xD;
+      and go test, and a Berg balance test. The device test involves five simple tasks that require&#xD;
+      participants to complete while using the balance sensor to assess the balance ability. In&#xD;
+      addition, participants will be required to complete physical data measurements to collect the&#xD;
+      weight, height, blood pressure, muscle mass, body mass index (BMI), and other physical data.&#xD;
+      Besides, participants will be required to complete questionnaires.&#xD;
+&#xD;
+      Second Round (after 90 days): Participants will be invited to participate in the device test:&#xD;
+      The device test involves five simple tasks that request participants to finish when using the&#xD;
+      device to assess participants' balance ability. Besides, after the tests, participants are&#xD;
+      invited to fill out a questionnaire.&#xD;
+&#xD;
+      Third Round (after 180 days): Participants will be invited to participate in the device test:&#xD;
+      The device test involves five simple tasks that request participants to finish when using the&#xD;
+      device to assess the balance ability. Besides, after the tests, participants are invited to&#xD;
+      fill out a questionnaire.&#xD;
+&#xD;
+      Investigators will conduct three types of analysis to suit the project needs. First, the&#xD;
+      investigators will use Descriptive Statistics to summarize demographic information, test&#xD;
+      results of baseline test and device test, as well as the participant responses to the&#xD;
+      surveys. Also, the investigators will transform any skewed variables and correct their&#xD;
+      skewness by means of log transformation before inferential analysis. To assess normality, the&#xD;
+      investigators will perform the Shapiro-Wilk test of normality as well as the normal Q-Q Plot.&#xD;
+      Second, the investigators will apply Bivariate Correlation Analysis (Pearson, Two-tailed) to&#xD;
+      verify the validity of the balance ability assessment of the device. Third, the investigators&#xD;
+      will apply the Discriminant Analysis (i.e., sensitivity and specificity analysis) to verify&#xD;
+      the precision of the falling risk prediction provided by the device.&#xD;
+&#xD;
+      The principal investigator will be responsible for the safekeeping of the personal data of&#xD;
+      participants during and after the experiment. These data will be used for academic and&#xD;
+      clinical research only. Moreover, the data with the identifiable information will be kept for&#xD;
+      up to 5 years after the first publication. Anonymous data will be kept for up to 10 years&#xD;
+      after the first publication arising from this project. All information obtained will be used&#xD;
+      for research purposes only. All the data will be stored in an encrypted workstation and on&#xD;
+      password-protected online cloud storage.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 1, 2022</start_date>
+  <completion_date type="Anticipated">October 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Reference group:&#xD;
+A total of 300 older adults who do not have any fall history in the past twelve months will be recruited for participating in three rounds of tests.&#xD;
+Intervention group:&#xD;
+A total of 1000 older adults who have fall history in the past twelve months will be recruited for participating in three rounds of tests.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Precision assessment of falling risk prediction</measure>
+    <time_frame>Six Months</time_frame>
+    <description>A primary outcome is the precision assessment of falling risk prediction. The specific measurement variables for this primary outcome are the classification results of high/low falling risk based on the scoring results (a composite result, namely Falling Probability (FP)) of the device test and participants' actual falling incident indicators, including the number of falls, the severity of falling incidents after the device test, and medical history of the participants (say, the falls history within past six months). The FP ranges from zero to one, in which the higher score indicates a higher possibility of fall. The analysis metric for this primary outcome is sensitivity and specificity performance analysis of the device assessment.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Validity of the balance ability measurement made by the device</measure>
+    <time_frame>Six Months</time_frame>
+    <description>The secondary outcome is the validity of the balance ability measurement made by the device. The specific measurement variables for this secondary outcome are the balance ability score measured by the baseline tests and the balance ability score measured by the device test. The analysis metric for this secondary outcome is the correlation coefficient and the significant level of the correlation between the balance ability score of the device test and the balance ability score of baseline tests.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>User Experience</measure>
+    <time_frame>Six Months</time_frame>
+    <description>The survey data about user experience and adoption would also be a secondary measurement. We will conduct structural equation modeling to identify an effective model explaining user adoption. This model could guide us in improving our device development.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">1300</enrollment>
+  <condition>Fall</condition>
+  <condition>Balanced</condition>
+  <arm_group>
+    <arm_group_label>Intervention Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Older adults with zero time of falls in the past twelve months will be treated as the reference group. Older adults with at least one time of falls in the past twelve months will use the device to assess their balance ability by attending three rounds of the tests.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Balance sensor</intervention_name>
+    <description>Participants will engage in the device test, clinical assessment tests, and related user experience surveys to uncover problems in the effectiveness, efficiency, and acceptance of the device prototype. The whole test will last six months, and the outcome will be assessed pre- and post-implementation for comparison and validation. The major testing criteria include the validity and reliability of the device, user experiences, and the accuracy of the device's fall prediction.</description>
+    <arm_group_label>Intervention Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria for reference group participants:&#xD;
+&#xD;
+          -  Age ≥ 60&#xD;
+&#xD;
+          -  Ability to communicate with experiment operators (in Chinese or English)&#xD;
+&#xD;
+          -  Ability to provide informed consent to participate after being given information about&#xD;
+             the experiment and other information that the participant must know to participate&#xD;
+&#xD;
+        Exclusion Criteria for reference group participants:&#xD;
+&#xD;
+        • Do not fall in the past twelve months&#xD;
+&#xD;
+        Inclusion Criteria for intervention group participants:&#xD;
+&#xD;
+          -  Age ≥ 60&#xD;
+&#xD;
+          -  Ability to communicate with experiment operators (in Chinese or English)&#xD;
+&#xD;
+          -  Ability to provide informed consent to participate after being given information about&#xD;
+             the experiment and other information that the participant must know to participate&#xD;
+&#xD;
+        Exclusion Criteria for intervention group participants:&#xD;
+&#xD;
+          -  Inability to give written informed consent (e.g., illiterate or with cognitive&#xD;
+             impairment)&#xD;
+&#xD;
+          -  Inability to stand still without any assistance for 30 seconds&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Vivian W. Q. Lou</last_name>
+    <phone>2831-5334/3917-4835</phone>
+    <email>wlou@hku.hk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Name: The University of Hong Kong</name>
+      <address>
+        <city>Hong Kong</city>
+        <zip>999777</zip>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xiaobo Ke</last_name>
+      <phone>3917-0060</phone>
+      <email>xiaoboke@hku.hk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Hong Kong</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 11, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>February 5, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 5, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 8, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The University of Hong Kong</investigator_affiliation>
+    <investigator_full_name>Prof. Xi Ning</investigator_full_name>
+    <investigator_title>Chair Professor of Robotics and Automation; Director of Emerging Technologies Institute</investigator_title>
+  </responsible_party>
+  <keyword>Fall prevention</keyword>
+  <keyword>Older adults</keyword>
+  <keyword>Balance ability assessement systems</keyword>
+  <keyword>Technology acceptance</keyword>
+  <keyword>Sensor</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data collected in this study will be published and submitted to academic journals to share with other researchers.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>No limitations on the publications</ipd_time_frame>
+    <ipd_access_criteria>No limitations on the publications</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

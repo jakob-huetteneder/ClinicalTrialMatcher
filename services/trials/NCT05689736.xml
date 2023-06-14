@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9807">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05689736</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HD101634</org_study_id>
+    <nct_id>NCT05689736</nct_id>
+  </id_info>
+  <brief_title>Optimizing an Evidence-Based, Disseminable, Free Internet-Based Parenting Program</brief_title>
+  <official_title>Optimizing an Evidence-Based, Disseminable, Free Internet-Based Parenting Program</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>New York University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Westat</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>New York University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The CDC's Essentials for Parenting Toddlers and Preschoolers program (EFP) is a free Internet&#xD;
+      resource with the potential to break down barriers to population-wide access to&#xD;
+      scientifically-based parenting interventions. EFP has considerable promise, but parental&#xD;
+      engagement, a major issue in the success of universal parenting interventions, remains a&#xD;
+      challenge. The objective of the proposed research is to optimize EFP by identifying&#xD;
+      engagement-focused intervention elements to add to EFP that enhance its effects on parenting&#xD;
+      skills.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study is a longitudinal factorial optimization trial in a community sample of 800 parents&#xD;
+      with 1.5- to 3-year-old children. There are 4 experimental factors; each corresponds to the&#xD;
+      presence vs. absence of an engagement-focused intervention element. This experiment enables&#xD;
+      the estimation of the individual and combined effects of each element. The specific aims&#xD;
+      follow.&#xD;
+&#xD;
+      Aim 1: Optimize the effects of EFP on parenting skills by determining which combination of&#xD;
+      the four experimental engagement-focused intervention elements results in the greatest&#xD;
+      success of EFP, as reflected in increasing parent warmth and reducing corporal punishment,&#xD;
+      overreactive and lax discipline.&#xD;
+&#xD;
+      Aim 2: Determine the extent to which boosted meaningful parent engagement in EFP is the&#xD;
+      mechanism driving the effects of the four engagement-focused intervention elements on&#xD;
+      parenting skills, and which aspect(s) of engagement (e.g., content consumption; behavioral&#xD;
+      skills practice) are the key mediators that translate the effects of the four&#xD;
+      engagement-focused intervention elements into improved parenting.&#xD;
+&#xD;
+      Aim 3: Examine parent (e.g., change readiness; race) and child characteristics (e.g.,&#xD;
+      externalizing behavior; sex) to determine if the optimal intervention package differs among&#xD;
+      subgroups. Cracking the code of providing parents with an intervention that they actually&#xD;
+      use, and that improves parenting, could have far-reaching effects (e.g., improving&#xD;
+      population-level child outcomes).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 1, 2023</start_date>
+  <completion_date type="Anticipated">June 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <intervention_model_description>Multiphase Optimization Strategy (MOST) factorial experiment. There are 4 experimental factors; each corresponds to the presence vs. absence of an engagement-focused intervention element. This experiment enables the estimation of the individual and combined effects of each element.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Parent Behavior Inventory, item average of Supportive/Engaged subscale</measure>
+    <time_frame>6 months</time_frame>
+    <description>Parental warmth (e.g., physical affection) will be measured by parent completing the 10-item self-report Supportive Engaged subscale of the Parent Behavior Inventory.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Parent-Child Conflict Tactics Scale, item average of Corporal Punishment subscale</measure>
+    <time_frame>6 months</time_frame>
+    <description>Corporal punishment (noninjurious physical discipline, e.g., spanking) will be measured by parent completing the 6-item self-report corporal punishment subscale of the Parent-Child Conflict Tactics Scale</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Parenting Scale, item average of Overreactivity subscale</measure>
+    <time_frame>6 months</time_frame>
+    <description>Parents' use of harsh or otherwise overreactive discipline (i.e., angry discipline) will be measured by parent completing the 10-item self-report Overreactivity subscale of the Parenting Scale.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Parenting Scale, item average of Laxness subscale</measure>
+    <time_frame>6 months</time_frame>
+    <description>Use of permissive or lax discipline (e.g., failure to enforce rules) will be measured by parent completing the 11-item self-report Laxness subscale of the Parenting Scale</description>
+  </primary_outcome>
+  <number_of_arms>16</number_of_arms>
+  <enrollment type="Anticipated">800</enrollment>
+  <condition>Parenting Practices</condition>
+  <arm_group>
+    <arm_group_label>Motivational Enhancements + Simplification + Gamification + Low Engagement Nudge</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive the Core Essentials for Parenting (EFP) intervention and all additional engagement-focused intervention elements: motivational enhancements, simplification, gamification, and low engagement nudges.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Motivational Enhancements + Simplification + Gamification</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive the Core EFP intervention and motivational enhancement, simplification, and gamification intervention elements.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Motivational Enhancements + Simplification + Low Engagement Nudge</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive the Core EFP intervention and motivational enhancement, simplification, and low engagement nudges as intervention elements.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Motivational Enhancements + Simplification</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive the Core EFP intervention and motivational enhancement and simplification as intervention elements.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Motivational Enhancements + Gamification + Low Engagement Nudge</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive the Core EFP intervention and motivational enhancement, gamification, and low engagement nudge as intervention elements.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Motivational Enhancements + Gamification</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive the Core EFP intervention and motivational enhancement and gamification as intervention elements.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Motivational Enhancements + Low Engagement Nudge</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive the Core EFP intervention and motivational enhancement and low engagement nudge as intervention elements.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Motivational Enhancements</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive the Core EFP intervention and motivational enhancement as an additional intervention element.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Simplification + Gamification + Low Engagement Nudge</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive the Core EFP intervention and simplification, gamification, and low engagement nudge as additional intervention elements.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Simplification + Gamification</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive the Core EFP intervention and simplification and gamification as additional intervention elements.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Simplification + Low Engagement Nudge</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive the Core EFP intervention and simplification and low engagement nudge as intervention elements.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Simplification</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive the Core EFP intervention and simplification as an additional intervention element.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Gamification + Low Engagement Nudge</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive the Core EFP intervention and gamification and low engagement nudge as additional intervention elements.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Gamification</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will view the Core EFP and will be exposed only to gamification as an additional intervention element.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low Engagement Nudge</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive the Core EFP intervention and low engagement nudge as an additional intervention element.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>EFP Only</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive the Core EFP intervention and not be exposed to any additional intervention elements.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Motivational Enhancement</intervention_name>
+    <description>Motivational Enhancements (ME) will include three features:&#xD;
+Personalized change plan. Parents will describe their intervention goals, motivation for participation, steps they are willing to take to meet those goals, as well as potential barriers to engagement and strategies to try to overcome such barriers. We will display the change plan to remind parents of their personalized responses. ME will also integrate participants' change plan responses into intervention content.&#xD;
+Assessment feedback. We will provide norm-referenced feedback for each selected parenting measure after the week 1 assessment. For simplicity, feedback will graphically categorize the parent or child in 3 categories per outcome: red (≥90th %ile), yellow (70-89th %ile), and green (&lt;70th %ile).&#xD;
+Modified, personalized SMS text nudges. Parents will receive 2 weekly personalized SMS messages based on their change plan responses.</description>
+    <arm_group_label>Motivational Enhancements</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Gamification</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Gamification + Low Engagement Nudge</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Low Engagement Nudge</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Simplification</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Simplification + Gamification</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Simplification + Gamification + Low Engagement Nudge</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Simplification + Low Engagement Nudge</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Simplification</intervention_name>
+    <description>We will follow recommendations of research on improving the readability of patient-directed text (e.g., fewer, shorter, less complex words, minimizing colons, semicolons, and decimal points). We will employ the Dale-Chall Readability (DCRI) score, which was developed for health education materials and, compared to other readability metrics, has higher correlations with comprehension. The target DCR score is 7 (8th grade reading level). We will avoid lower DCR scores because moderate levels of complexity enhance, attention, absorption, satisfaction, and ultimately engagement.</description>
+    <arm_group_label>Motivational Enhancements + Simplification</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Simplification + Gamification</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Simplification + Gamification + Low Engagement Nudge</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Simplification + Low Engagement Nudge</arm_group_label>
+    <arm_group_label>Simplification</arm_group_label>
+    <arm_group_label>Simplification + Gamification</arm_group_label>
+    <arm_group_label>Simplification + Gamification + Low Engagement Nudge</arm_group_label>
+    <arm_group_label>Simplification + Low Engagement Nudge</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Gamification</intervention_name>
+    <description>Gamification will include four features:&#xD;
+Game-like graphical environment (e.g., avatars to represent the participant).&#xD;
+Digital rewards. Parents will receive points and badges for completing intervention activities.&#xD;
+Leaderboard. A leaderboard will be used to activate competitive motives and social referencing. The leaderboard will display the points/badges of the participant relative to 4 other actual or simulated anonymized parents who are at a similar point in the intervention; their number of points and badges will be determined by those of the participant.&#xD;
+Modified, personalized SMS text nudges. SMS text nudges will alternate between Core content (e.g., reminder to complete a module) and reminders about game features such as badges and standings.</description>
+    <arm_group_label>Gamification</arm_group_label>
+    <arm_group_label>Gamification + Low Engagement Nudge</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Gamification</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Gamification + Low Engagement Nudge</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Simplification + Gamification</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Simplification + Gamification + Low Engagement Nudge</arm_group_label>
+    <arm_group_label>Simplification + Gamification</arm_group_label>
+    <arm_group_label>Simplification + Gamification + Low Engagement Nudge</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Low Engagement Nudges</intervention_name>
+    <description>SMS text nudges will be sent to participants who have fallen behind in completing specific intervention tasks within a given time window; e.g., failing to log-in to the next module by a predetermined date, timed to program enrollment or in a prespecified number of days since completing the previous module.</description>
+    <arm_group_label>Gamification + Low Engagement Nudge</arm_group_label>
+    <arm_group_label>Low Engagement Nudge</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Gamification + Low Engagement Nudge</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Low Engagement Nudge</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Simplification + Gamification + Low Engagement Nudge</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Simplification + Low Engagement Nudge</arm_group_label>
+    <arm_group_label>Simplification + Gamification + Low Engagement Nudge</arm_group_label>
+    <arm_group_label>Simplification + Low Engagement Nudge</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Essentials for Parenting Toddlers and Pre-schoolers (EFP)</intervention_name>
+    <description>All parents will receive the Core intervention content, including text, demonstrations (videos and vignettes), and interactive activities (e.g., skill-building), and comprising five modules: Communicating with Your Child; (2) Giving Directions; (3) Creating Structure; (4) Using Discipline and Consequences; and (5) Using Time-out. The Core intervention will be augmented with more prescriptive behavioral skills practice exercises and SMS text nudges to remind participants to complete intervention modules.&#xD;
+All conditions will be housed on Westat servers accessible through any device that can use the Internet, including computers, tablets, and smartphones. Westat has extensive technical capacities for web programming/hosting.</description>
+    <arm_group_label>EFP Only</arm_group_label>
+    <arm_group_label>Gamification</arm_group_label>
+    <arm_group_label>Gamification + Low Engagement Nudge</arm_group_label>
+    <arm_group_label>Low Engagement Nudge</arm_group_label>
+    <arm_group_label>Motivational Enhancements</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Gamification</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Gamification + Low Engagement Nudge</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Low Engagement Nudge</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Simplification</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Simplification + Gamification</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Simplification + Gamification + Low Engagement Nudge</arm_group_label>
+    <arm_group_label>Motivational Enhancements + Simplification + Low Engagement Nudge</arm_group_label>
+    <arm_group_label>Simplification</arm_group_label>
+    <arm_group_label>Simplification + Gamification</arm_group_label>
+    <arm_group_label>Simplification + Gamification + Low Engagement Nudge</arm_group_label>
+    <arm_group_label>Simplification + Low Engagement Nudge</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. 18- to 36-month-old child&#xD;
+&#xD;
+          2. ≥18-year-old parent&#xD;
+&#xD;
+          3. Internet access&#xD;
+&#xD;
+          4. willingness to commit to intervention/assessment procedures&#xD;
+&#xD;
+          5. proficiency in speaking and reading English&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. child older than 36 months&#xD;
+&#xD;
+          2. parent younger than 18 years&#xD;
+&#xD;
+          3. no access to internet&#xD;
+&#xD;
+          4. not willing to commit to intervention/assessment procedures OR&#xD;
+&#xD;
+          5. not proficient with speaking and reading English&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael F Lorber, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>New York University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Michael F Lorber, Ph.D.</last_name>
+    <phone>212-998-9815</phone>
+    <email>mfl317@nyu.edu</email>
+  </overall_contact>
+  <verification_date>December 2022</verification_date>
+  <study_first_submitted>December 19, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 10, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>March 21, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 21, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>There is not a plan to make IPD available.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

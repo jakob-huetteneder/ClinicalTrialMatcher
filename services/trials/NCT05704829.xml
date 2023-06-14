@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9123">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05704829</url>
+  </required_header>
+  <id_info>
+    <org_study_id>WSG-AM12</org_study_id>
+    <nct_id>NCT05704829</nct_id>
+  </id_info>
+  <brief_title>NeoAdjuvant Therapy With Trastuzumab-deruxtecan Versus Chemotherapy+Trastuzumab+Pertuzumab in HER2+ Early Breast Cancer</brief_title>
+  <acronym>ADAPTHER2-IV</acronym>
+  <official_title>NeoAdjuvant Dynamic Marker - Adjusted Personalized Therapy Comparing Trastuzumab-deruxtecan Versus Pacli-/Docetaxel+Carboplatin+Trastuzumab+Pertuzumab in HER2+ Early Breast Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>West German Study Group</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>West German Study Group</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      ADAPT-HER2-IV will address question of optimal neoadjuvant therapy in patients with less&#xD;
+      advanced -HER2+ EBC.&#xD;
+&#xD;
+      ADAPT-HER2-IV is planned as a superiority trial to demonstrate higher pCR rates in both&#xD;
+      clinically relevant subgroups of low-intermediate risk HER2+ EBC. Moreover, it aims to&#xD;
+      demonstrate excellent survival in patients treated by T-DXd (with the use of standard&#xD;
+      chemotherapy at investigator´s decision restricted only to patients with substantial residual&#xD;
+      tumour burden after T-DXd-treatment).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      As the ADAPT-trials have clearly shown, pCR after 12 weeks of therapy, independent of the&#xD;
+      specific de-escalated neoadjuvant regimen and independent of further use of systemic&#xD;
+      chemotherapy, is an independent predictor of excellent prognosis4,19, also in patients&#xD;
+      treated by an antibody-drug conjugate alone (T-DM1), or in those receiving&#xD;
+      pertuzumab+trastuzumab+/-weekly paclitaxel.&#xD;
+&#xD;
+      In contrast to the adjuvant setting, none of the neoadjuvant trials so far has focused on&#xD;
+      HER2+ patients with a low-intermediate risk profile (e.g., node-negative patients with cT1-2&#xD;
+      tumours). The ADAPT-HER2-IV trial aims to close this evidence gap.&#xD;
+&#xD;
+      Since there is some uncertainty about the optimal treatment duration in intermediate- to&#xD;
+      high-risk HER2+ EBC (e.g., tumour size &gt;3 cm), we recommend using a longer 18-week&#xD;
+      taxane-based treatment (+/- carboplatin, at investigator´s decision) due to a large body of&#xD;
+      evidence for taxane + carboplatin combinations in patients in locally advanced stages.&#xD;
+&#xD;
+      Antibody-drug conjugates appear to be ideal candidate drugs for a &quot;de-escalated&quot; treatment&#xD;
+      due to their favourable safety (reduced alopecia, polyneuropathy rates, etc.) and a high&#xD;
+      efficacy profile (e.g., comparable pCR rates after 18 weeks of T-DM1 and&#xD;
+      taxane+pertuzumab+trastuzumab in the PREDIX HER2 trial20). Similarly to the classical&#xD;
+      chemotherapy landscape, optimal duration of antibody-drug conjugate-based neoadjuvant therapy&#xD;
+      remains unclear. pCR rates of around 40% to 60% were observed after 12 and 18 weeks of T-DM1&#xD;
+      treatment (+/-pertuzumab) in the ADAPT TP, KRISTINE and PREDIX HER2 trials in HR+/HER2+&#xD;
+      disease21,22. Moreover, long-term survival seem to be comparable between T-DM1+pertuzumab and&#xD;
+      older chemotherapy-containing regimens (docetaxel+carboplatin+trastuzumab+pertuzumab) despite&#xD;
+      of higher local progression rates and lower pCR in one study22.&#xD;
+&#xD;
+      Trastuzumab-deruxtecan (T-DXd) has shown promising activity in a small cohort of metastatic&#xD;
+      patients, including both HER2+ and HER2-low BC, pre-treated with several lines of therapy.&#xD;
+      Doi et al. reported overall response rates (ORR) of 58% and a disease control rate of 100%&#xD;
+      with overall survival at 12 months at in HER2+ disease pre-treated by T-DM1+/-pertuzumab in a&#xD;
+      late line setting23. T-DXd-therapy was associated with a manageable safety profile. Recently,&#xD;
+      clearly higher efficacy of T-DXd vs. T-DM1 was shown in second line metastatic breast cancer&#xD;
+      (MBC) in the DESTINY-03 trial24. Median progression free survival was not reached in&#xD;
+      T-DM1-arm vs. 6.8 months in the T-DXd-arm. This effect was independent of hormone receptor&#xD;
+      status, prior pertuzumab treatment, visceral metastases, number of prior therapy lines and&#xD;
+      presence of brain metastases. ORR was doubled (34.2 vs. 79.7%), favouring the T-DXd arm.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">August 2023</start_date>
+  <completion_date type="Anticipated">June 2028</completion_date>
+  <primary_completion_date type="Anticipated">June 2026</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>This is a multicentre, interventional, prospective, two-arm, randomised, open-label, controlled (neo-)adjuvant, phase-II trial evaluating the efficacy and safety of trastuzumab-deruxtecan (T-DXd) vs. standard-of-care paclitaxel + trastuzumab + pertuzumab (PAC+T+P) in low- to intermediate-risk or docetaxel/paclitaxel + carboplatin + trastuzumab + pertuzumab in intermediate- to high-risk HER2+ early breast cancer in pre- and postmenopausal women.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>1. pCR rate after neoadjuvant treatment</measure>
+    <time_frame>after 12 weeks of neoadjuvant treatment</time_frame>
+    <description>defined as ypT0is/ypN0, to be compared between all T-DXd treated patients versus standard-of-care (PAC+T+P or PAC/DOC+Carbo+T+P) (pooled across cohorts)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>1. pCR rate after neoadjuvant treatment</measure>
+    <time_frame>after 18 weeks of neoadjuvant treatment</time_frame>
+    <description>defined as ypT0is/ypN0, to be compared between all T-DXd treated patients versus standard-of-care (PAC+T+P or PAC/DOC+Carbo+T+P) (pooled across cohorts)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>2. distant disease-free survival (dDFS, according to STEEP 2.0 criteria)</measure>
+    <time_frame>after 3 years</time_frame>
+    <description>distant disease-free survival (dDFS, according to STEEP 2.0 criteria) in T-DXd treated patients (pooled across cohorts)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>clinical response</measure>
+    <time_frame>after 6 weeks of treatment</time_frame>
+    <description>clinical response after 6 weeks of treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>clinical response</measure>
+    <time_frame>after 12 weeks of treatment</time_frame>
+    <description>clinical response after 12 weeks of treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>clinical response</measure>
+    <time_frame>after 18 (cohort 2) weeks of treatment</time_frame>
+    <description>clinical response after 18 (cohort 2) weeks of treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>dDFS in patients with pCR</measure>
+    <time_frame>after 3 years</time_frame>
+    <description>dDFS in patients with pCR after neoadjuvant treatment without further chemotherapy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>pCR rates after different treatment durations</measure>
+    <time_frame>12 versus 18 weeks</time_frame>
+    <description>Comparison of pCR rates after different treatment durations (12 versus 18 weeks) of both treatments in pooled cohorts</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>pCR rates in T-DXd 12 weeks versus PAC+T+P</measure>
+    <time_frame>after 12 weeks</time_frame>
+    <description>Comparison of pCR rates in T-DXd 12 weeks versus PAC+T+P</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>pCR rates in T-DXd 18 weeks versus PAC/DOC+Carbo+T+P</measure>
+    <time_frame>after 18 weeks</time_frame>
+    <description>Comparison of pCR rates in T-DXd18 weeks versus PAC/DOC+Carbo+T+P</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>iDFS</measure>
+    <time_frame>at end of study</time_frame>
+    <description>survival endpoint STEEP 2.0</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>OS</measure>
+    <time_frame>at end of study</time_frame>
+    <description>survival endpoint STEEP 2.0</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>LRFS</measure>
+    <time_frame>at end of study</time_frame>
+    <description>survival endpoint STEEP 2.0</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>BCFS</measure>
+    <time_frame>at end of study</time_frame>
+    <description>survival endpoint STEEP 2.0</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DRFI</measure>
+    <time_frame>at end of study</time_frame>
+    <description>survival endpoint STEEP 2.0</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>QOL</measure>
+    <time_frame>after 1 year</time_frame>
+    <description>health-related quality of life</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">402</enrollment>
+  <condition>HER2-positive Early Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>T-DXd: HER2+ and low-intermediate risk for recurrence</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>12 weeks T-DXd i.v. in neoadjuvant treatment; pCR dependent T-DXd for 1 year in total in postneoadjuvant treatment</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>T-DXd: HER2+ and intermediate-high risk for recurrence</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>18 weeks T-DXd i.v. in neoadjuvant treatment; pCR dependent T-DXd for 1 year in total in postneoadjuvant treatment</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control: HER2+ and low-intermediate risk for recurrence</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Standard-of-Care-Treatment: 12 weeks PAC+T+P (standard-of-care) in neoadjuvant treatment; pCR dependent SOC chemotherapy +T+/-P or SOC T+/-P for 1 year in total in postneoadjuvant treatment</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control: HER2+ and intermediate-high risk for recurrence</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Standard-of-Care-Treatment: 18 weeks PAC/DOC+Carbo+T+P (standard-of-care) in neoadjuvant treatment; pCR dependent SOC chemotherapy +T+/-P or SOC T+/-P for 1 year in total in postneoadjuvant treatment</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Trastuzumab deruxtecan</intervention_name>
+    <description>T-DXd i.v.</description>
+    <arm_group_label>T-DXd: HER2+ and intermediate-high risk for recurrence</arm_group_label>
+    <arm_group_label>T-DXd: HER2+ and low-intermediate risk for recurrence</arm_group_label>
+    <other_name>ENHERTU</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Standard-of-Care</intervention_name>
+    <description>Chemotherapy+T+P</description>
+    <arm_group_label>Control: HER2+ and intermediate-high risk for recurrence</arm_group_label>
+    <arm_group_label>Control: HER2+ and low-intermediate risk for recurrence</arm_group_label>
+    <other_name>Chemotherapy+T+P</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Patients eligible for inclusion in this study must meet all the following criteria:&#xD;
+&#xD;
+          1. Female patients with invasive, untreated HER2+ breast cancer (as assessed by local&#xD;
+             pathology) maximum 6 weeks before registration (standard-of-care diagnostic biopsy&#xD;
+             according to current AGO guidelines)&#xD;
+&#xD;
+          2. Age ≥18 years 3a. Cohort 1: low- to intermediate-risk for recurrence as per&#xD;
+             investigator´s decision (recommendation: cT1c - cT2 (1 - ≤3cm), cN0; cT1a/b excluded),&#xD;
+             OR 3b. Cohort 2: intermediate- to high-risk for recurrence as per investigator´s&#xD;
+             decision (recommendation: cT2 (&gt;3 - ≤5cm), cN0) 3c. Elderly patients (≥ 65 years) may&#xD;
+             be assigned to any cohort as per investigator's decision&#xD;
+&#xD;
+        4. Written informed consent 5. LVEF ≥ 50% within 28 days before randomisation 6. Eastern&#xD;
+        Cooperative Oncology Group performance status (ECOG PS) 0-1 7. Adequate organ and bone&#xD;
+        marrow function within 14 days before randomisation 8. Adequate treatment washout period&#xD;
+        before randomisation (refer to protocol for detailed information) 9. Evidence of&#xD;
+        post-menopausal status or negative serum pregnancy test for females of childbearing&#xD;
+        potential (refer to protocol for detailed information) 10. Female subjects must not donate,&#xD;
+        or retrieve for their own use, ova from the time of randomisation and throughout the study&#xD;
+        treatment period, and for at least 7 months after the final study drug administration.&#xD;
+        (refer to protocol for detailed information)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Patients eligible for inclusion in this study must not meet any of the following criteria:&#xD;
+&#xD;
+          1. Non-operable breast cancer including inflammatory breast cancer&#xD;
+&#xD;
+          2. cT1a/b breast cancer&#xD;
+&#xD;
+          3. Any previous history of invasive breast cancer&#xD;
+&#xD;
+          4. Primary malignancies within 5 years, with the exception of adequately resected&#xD;
+             non-melanoma skin cancer, curatively treated in-situ disease&#xD;
+&#xD;
+          5. Any evidence for existing metastatic disease (confirmed by CT Thorax/Abdomen, bone&#xD;
+             scan, or other methods according to clinical practice&#xD;
+&#xD;
+          6. Previous or concurrent treatment with cytotoxic agents for any reason (except&#xD;
+             non-oncological reasons)&#xD;
+&#xD;
+          7. Concurrent treatment with other experimental drugs and participation in another&#xD;
+             clinical trial with any investigational drug within 30 days prior to study entry&#xD;
+&#xD;
+          8. Severe and relevant co-morbidity that would interact with the application of cytotoxic&#xD;
+             agents or the participation in the study/inadequate organ function&#xD;
+&#xD;
+          9. Reasons indicating risk of poor compliance&#xD;
+&#xD;
+         10. Woman of child-bearing potential defined as a woman physiologically capable of&#xD;
+             becoming pregnant, and not using highly effective methods of contraception during the&#xD;
+             study treatment and for 3 months after stopping the treatment.&#xD;
+&#xD;
+         11. Use of oral (oestrogen and progesterone), transdermal, injected, or implanted hormonal&#xD;
+             methods of contraception as well as hormonal replacement therapy.&#xD;
+&#xD;
+         12. Has substance abuse or any other medical conditions such as clinically significant&#xD;
+             cardiac or psychological conditions, that may, in the opinion of the investigator,&#xD;
+             interfere with the subject's participation in the clinical study or evaluation of the&#xD;
+             clinical study results.&#xD;
+&#xD;
+         13. Patients with a medical history of myocardial infarction (MI) within 6 months before&#xD;
+             randomisation, symptomatic congestive heart failure (CHF) (New York Heart Association&#xD;
+             Class II to IV), Subjects with troponin levels above ULN at screening (as defined by&#xD;
+             the manufacturer), and without any myocardial related symptoms, should have a&#xD;
+             cardiologic consultation before enrolment to rule out MI.&#xD;
+&#xD;
+         14. Corrected QT interval (QTcF) prolongation to &gt; 470 msec (females) based on average of&#xD;
+             the screening triplicate12-lead ECG.&#xD;
+&#xD;
+         15. History of (non-infectious) ILD / pneumonitis that required steroids, has current&#xD;
+             ILD/pneumonitis, or where suspected ILD/pneumonitis cannot be ruled out by imaging at&#xD;
+             screening.&#xD;
+&#xD;
+         16. Lung criteria: Lung-specific intercurrent clinically significant illnesses including,&#xD;
+             but not limited to, any underlying pulmonary disorder; Any autoimmune, connective&#xD;
+             tissue or inflammatory disorders (e.g., Rheumatoid arthritis, Sjogren's, sarcoidosis&#xD;
+             etc.) where there is documented, or a suspicion of pulmonary involvement at the time&#xD;
+             of randomisation; Prior pneumonectomy (complete); Uncontrolled infection requiring IV&#xD;
+             antibiotics, antivirals, or antifungals&#xD;
+&#xD;
+         17. Active primary immunodeficiency, known human immunodeficiency virus (HIV) infection,&#xD;
+             or active hepatitis B or C infection. Patients positive for hepatitis C (HCV) antibody&#xD;
+             are eligible only if polymerase chain reaction is negative for HCV RNA. Patients&#xD;
+             should be tested for HIV prior to randomisation if required by local regulations or&#xD;
+             ethics committee (EC).&#xD;
+&#xD;
+         18. Receipt of live, attenuated vaccine (mRNA and replication deficient adenoviral&#xD;
+             vaccines are not considered attenuated live vaccines) within 30 days prior to the&#xD;
+             first dose of trastuzumab deruxtecan.&#xD;
+&#xD;
+             Note: Patients, if enrolled, should not receive live vaccine during the study and up&#xD;
+             to 30 days after the last dose of IMP.&#xD;
+&#xD;
+         19. Known allergy or hypersensitivity to study treatment (T-DXd) or any of the study drug&#xD;
+             excipients.&#xD;
+&#xD;
+         20. History of severe hypersensitivity reactions to other monoclonal antibodies.&#xD;
+&#xD;
+         21. Pregnant or breastfeeding female patients, or patients who are planning to become&#xD;
+             pregnant.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nadia Harbeck, Prof. Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Breast Centre, Dept. Obstetrics &amp; Gynaecology and CCC Munich LMU University Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Sherko Kuemmel, PRof. Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Breast Centre, Kliniken Essen Mitte Essen</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Oleg Gluz, PD Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Breast Centre, Evang. Bethesda-Hospital Moenchengladbach</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Michael Braun, Prof. Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Breast Centre Rotkreuzklinikum Munich</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Monika Graeser, PD Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Breast Centre, Evang. Bethesda-Hospital Moenchengladbach</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Anja Braschoß, MD</last_name>
+    <phone>+4917682119153</phone>
+    <email>anja.braschoss@wsg-online.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Marcel Tahlheim</last_name>
+    <phone>+492161566230</phone>
+    <email>marcel.tahlheim@wsg-online.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Breast Center of the University of Munich (LMU) Universitätsfrauenklinik</name>
+      <address>
+        <city>Munich</city>
+        <state>Bavaria</state>
+        <zip>81377</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rotkreuz Klinikum München</name>
+      <address>
+        <city>Muenchen</city>
+        <state>Bayern</state>
+        <zip>80637</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Niels-Stensen-Kliniken Franziskus-Hospital</name>
+      <address>
+        <city>Georgsmarienhütte</city>
+        <state>Niedersachsen</state>
+        <zip>49124</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kliniken Essen-Mitte, Klinik für Senologie/Interdisziplinäres Brustzentrum</name>
+      <address>
+        <city>Essen</city>
+        <state>NRW</state>
+        <zip>45136</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Brustzentrum Niederrhein, Johanniter Bethesda Krankenhaus</name>
+      <address>
+        <city>Moenchengladbach</city>
+        <state>NRW</state>
+        <zip>41061</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum Mittelbaden, Brustzentrum</name>
+      <address>
+        <city>Baden-Baden</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Onkologische Schwerpunktpraxis Bielefeld</name>
+      <address>
+        <city>Bielefeld</city>
+        <zip>33604</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Essen, Burstzentrum</name>
+      <address>
+        <city>Essen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Onkodok Gütersloh</name>
+      <address>
+        <city>Gütersloh</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Brustzentrum am Krankenhaus Jerusalem</name>
+      <address>
+        <city>Hamburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Barbara Klinik</name>
+      <address>
+        <city>Hamm</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Helios-Klinik Wuppertal</name>
+      <address>
+        <city>Wuppertal</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>December 28, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>April 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 21, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>HER2+</keyword>
+  <keyword>T-DXd</keyword>
+  <keyword>Trastuzumab-deruxtecan</keyword>
+  <keyword>pCR</keyword>
+  <keyword>intermediate risk</keyword>
+  <keyword>high risk</keyword>
+  <keyword>low risk</keyword>
+  <keyword>recurrence</keyword>
+  <keyword>neoadjuvant</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Trastuzumab</mesh_term>
+    <mesh_term>Trastuzumab deruxtecan</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

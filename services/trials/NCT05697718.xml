@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9440">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05697718</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LC-MSC-IS21004</org_study_id>
+    <nct_id>NCT05697718</nct_id>
+  </id_info>
+  <brief_title>Clinical Trial of Human Umbilical Cord Mesenchymal Stem Cells (IxCell hUC-MSC-S) in the Treatment of Ischemic Stroke</brief_title>
+  <official_title>A Phase I Study of Safety and Tolerability of Single-dose Human Umbilical Cord Mesenchymal Stem Cell (IxCell hUC-MSC-S) in Patients With Convalescent Phase of Ischemic Stroke</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shanghai IxCell Biotechnology Co., LTD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Shanghai IxCell Biotechnology Co., LTD</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the safety and tolerability of IxCellhUC-MSC-S as a single intravenous infusion&#xD;
+      in convalescent patients with ischemic stroke.&#xD;
+&#xD;
+      To explore the efficacy of IxCellhUC-MSC-S as a single intravenous infusion in patients with&#xD;
+      convalescent ischemic stroke.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      MSCs are a type of stem cells derived from mesoderm with multidirectional differentiation&#xD;
+      potential. Studies have shown that MSCs have the potential to differentiate not only to bone,&#xD;
+      cartilage, fat and myogenic cells, but also to neurons.Among them, human cord blood&#xD;
+      mesenchymal stem cells are a kind of mature mesenchymal stem cells currently used. Human cord&#xD;
+      blood mesenchymal stem cells are ideal seed cells for tissue engineering. In addition to the&#xD;
+      advantages of convenient acquisition, rich source, easy expansion, etc., human cord blood&#xD;
+      collection also has the following advantages: (1) Collection of cord blood has no harm to&#xD;
+      maternal and newborn;(2) The cells are more primitive and have stronger ability of&#xD;
+      proliferation and differentiation;(3) Low immunogenicity, strong tolerance to human leukocyte&#xD;
+      antigen and low incidence of rejection;(4) The infection and transmission probability of&#xD;
+      tumor cells, viruses and pathogenic microorganisms is relatively low;(5) It does not involve&#xD;
+      many controversies in social, ethical and legal aspects.Current studies believe that the&#xD;
+      possible mechanisms of human umbilical cord mesenchymal stem cells in the treatment of stroke&#xD;
+      include replacing damaged nerve cells, promoting the proliferation and differentiation of&#xD;
+      endogenous nerve cells, secreting neurotrophic factors, promoting angiogenesis, reducing&#xD;
+      nerve cell apoptosis, and inhibiting inflammation.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 15, 2023</start_date>
+  <completion_date type="Anticipated">September 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2024</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>adverse events</measure>
+    <time_frame>week 1</time_frame>
+    <description>assessed by CTCAE grade</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>adverse events</measure>
+    <time_frame>week 4</time_frame>
+    <description>assessed by CTCAE grade</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>adverse events</measure>
+    <time_frame>week 12</time_frame>
+    <description>assessed by CTCAE grade</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>adverse events</measure>
+    <time_frame>week 24</time_frame>
+    <description>assessed by CTCAE grade</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>serious adverse events</measure>
+    <time_frame>week 1</time_frame>
+    <description>assessed by CTCAE grade</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>serious adverse events</measure>
+    <time_frame>week 4</time_frame>
+    <description>assessed by CTCAE grade</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>serious adverse events</measure>
+    <time_frame>week 12</time_frame>
+    <description>assessed by CTCAE grade</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>serious adverse events</measure>
+    <time_frame>week 24</time_frame>
+    <description>assessed by CTCAE grade</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">18</enrollment>
+  <condition>Ischemic Stroke</condition>
+  <arm_group>
+    <arm_group_label>group 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Human umbilical cord mesenchymal stem cells（hMSCs）5.0×10^7 cells</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>group 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Human umbilical cord mesenchymal stem cells（hMSCs）10.0×10^7 cells</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>group 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Human umbilical cord mesenchymal stem cells（hMSCs）20.0×10^7 cells</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>MSC</intervention_name>
+    <description>a single injection dose i.v.</description>
+    <arm_group_label>group 1</arm_group_label>
+    <arm_group_label>group 2</arm_group_label>
+    <arm_group_label>group 3</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age range from 18 to 80, gender unlimited (including 18 and 80 years old);&#xD;
+&#xD;
+          2. Patients who were diagnosed as convalescent with ischemic stroke on imaging&#xD;
+             (convalescent period was defined as 12 to 24 weeks after the first symptom of stroke&#xD;
+             (including W12 and W24)) and met the diagnosis of anterior circulation infarction;&#xD;
+&#xD;
+          3. Life expectancy ≥12 months;&#xD;
+&#xD;
+          4. Understand and follow study procedures and voluntarily sign written informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Current or previous epilepsy, dementia, Parkinson's disease, major depression, or&#xD;
+             other neurological disorders or mental illnesses that the investigator believes will&#xD;
+             affect their ability to participate in the study or affect the study evaluation;&#xD;
+&#xD;
+          2. Current or past intracranial hemorrhagic diseases (such as: cerebral hemorrhage,&#xD;
+             epidural hematoma, subdural hematoma, subarachnoid hemorrhage, ventricle hemorrhage,&#xD;
+             traumatic cerebral hemorrhage, etc.) or cerebral tumors, history of brain trauma,&#xD;
+             encephalitis and other symptoms leading to apoplexy;&#xD;
+&#xD;
+          3. Current or past severe cardiovascular disease；&#xD;
+&#xD;
+          4. Patients with pulmonary embolism, interstitial pneumonia, radiation pneumonia,&#xD;
+             drug-related pneumonia, severe impairment of lung function and other severe lung&#xD;
+             infections or other lung diseases (except those caused by stroke, bed rest after&#xD;
+             stroke or stroke treatment);&#xD;
+&#xD;
+          5. Have any other clinically serious medical conditions currently or in the past that the&#xD;
+             investigators judge unsuitable for inclusion in this study, including but not limited&#xD;
+             to severe liver (e.g., cirrhosis, etc.), kidney (e.g., kidney diseases requiring&#xD;
+             hemodialysis or peritoneal dialysis, etc.), blood (e.g., hemophilia with bleeding&#xD;
+             tendencies, etc.), endocrine (e.g.,Diabetes mellitus with difficult blood glucose&#xD;
+             control (blood glucose &gt; 16.8mmol/L or &lt; 2.8mmol/L), or complicated with severe&#xD;
+             neurovascular complications, etc.), immune system (active or uncontrolled autoimmune&#xD;
+             diseases, primary or secondary immune deficiencies, etc.), malignant tumors (except&#xD;
+             cured non-melanoma skin cancer, cervical or breast ductal carcinoma in situ), etc.;&#xD;
+&#xD;
+          6. Hepatitis B virus surface antigen (HBsAg) or hepatitis B core antibody (HBcAb)&#xD;
+             positive for HBV-DNA, positive for hepatitis C virus antibody (HCVAb), treponema&#xD;
+             pallidum antibody (TPAb/RPR) or human immunodeficiency virus antibody (HIV), or within&#xD;
+             14 days prior to receiving the test drug treatment,The emergence of any infected&#xD;
+             persons in need of systematic anti-infective treatment;&#xD;
+&#xD;
+          7. Allergic constitution or history, or allergic to the test drug or any component of the&#xD;
+             test drug;&#xD;
+&#xD;
+          8. Patients with MRI contraindications;&#xD;
+&#xD;
+          9. Positive blood pregnancy test results for female subjects of reproductive age within 7&#xD;
+             days prior to receiving the experimental drug treatment;All women of reproductive age,&#xD;
+             fertile men or their spouses who refused to use appropriate contraception (including&#xD;
+             at least one barrier contraceptive) throughout the study period, and lactating women;&#xD;
+&#xD;
+         10. Those who required systemic corticosteroids (&gt; 10mg/ day prednisone therapeutic dose)&#xD;
+             or other immunosuppressive agents within 14 days prior to receiving the trial drug or&#xD;
+             during the study period;&#xD;
+&#xD;
+         11. Patients who used butylphthalein within 3 weeks before receiving the experimental&#xD;
+             drug;&#xD;
+&#xD;
+         12. participated in any clinical trial and took any investigational drug within 3 months&#xD;
+             prior to receiving the investigational drug treatment (or the last time receiving the&#xD;
+             investigational drug did not exceed 5 half-lives, whichever is longer);&#xD;
+&#xD;
+         13. Patients who had severe trauma or major surgery within 3 months before receiving the&#xD;
+             experimental drug treatment, or who plan to undergo surgery during the trial&#xD;
+             period;Patients with a history of blood transfusion within 3 months before receiving&#xD;
+             the experimental drug treatment;&#xD;
+&#xD;
+         14. Those who had a history of drug abuse or alcoholism within 1 year before receiving the&#xD;
+             experimental drug treatment;&#xD;
+&#xD;
+         15. Those who have previously received other stem cell treatments;&#xD;
+&#xD;
+         16. Participants with other severe, acute, or chronic medical conditions that may increase&#xD;
+             the patient's risk or may interfere with the interpretation of the test results are&#xD;
+             judged by the investigator to be unsuitable for clinical trials.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>junwei Hao, Doctor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Xuanwu Hospital of Capital Medical University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>junwei Hao, Doctor</last_name>
+    <phone>18822395565</phone>
+    <email>haojunwei@vip.163.com</email>
+  </overall_contact>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>December 27, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 24, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>April 10, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 10, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 12, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+    <mesh_term>Ischemic Stroke</mesh_term>
+    <mesh_term>Cerebral Infarction</mesh_term>
+    <mesh_term>Ischemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

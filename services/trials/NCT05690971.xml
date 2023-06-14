@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9756">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05690971</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-503</org_study_id>
+    <nct_id>NCT05690971</nct_id>
+  </id_info>
+  <brief_title>Psychosocial Mobile App for Chronic Graft-Versus-Host Disease</brief_title>
+  <official_title>Randomized Controlled Trial of a Psychosocial Mobile Application (App) to Promote Coping for Patients With Chronic Graft-Versus-Host Disease (GVHD)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The Leukemia and Lymphoma Society</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this research study is to see whether a psychosocial mobile app called&#xD;
+      Horizons is effective at improving quality of life, symptom burden, psychological distress,&#xD;
+      and coping in patients living with chronic graft-versus host disease (GVHD)&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Frequently patients living with chronic GVHD experience physical and emotional symptoms&#xD;
+      during the course of illness that impacts their quality of life. Patients also often report&#xD;
+      difficulty managing many of the tasks they need to do to manage their chronic GVHD. They also&#xD;
+      frequently have a lot of questions about chronic GVHD and the expected trajectory of this&#xD;
+      illness.&#xD;
+&#xD;
+      The purpose of this research study is to see whether a psychosocial mobile app called&#xD;
+      Horizons is effective at improving quality of life, symptom burden, and psychological&#xD;
+      distress in patients with chronic GVHD&#xD;
+&#xD;
+        -  This study will randomly assign participants to either receiving Horizons plus usual&#xD;
+           care or usual care alone.&#xD;
+&#xD;
+        -  Enrolled participants will be on the research study for up to sixteen weeks and it is&#xD;
+           expected that about 120 people will take part in this research study.&#xD;
+&#xD;
+      The Leukemia and Lymphoma Society is supporting this research by providing funding.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 23, 2023</start_date>
+  <completion_date type="Anticipated">April 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Quality of life (QOL): Functional Assessment of Cancer Therapy - Bone Marrow Transplant (FACT-BMT)</measure>
+    <time_frame>8 Weeks</time_frame>
+    <description>Compare patient QOL (FACT-BMT) between usual care and Horizon at 8 weeks using ANCOVA. FACT-BMT score range 0-164, with higher scores indicating better quality of life.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life (QOL) longitudinal using FACT-BMT</measure>
+    <time_frame>Up to sixteen weeks</time_frame>
+    <description>Compare patient QOL (FACT-BMT) longitudinally between Horizons and usual care group using mixed linear effect models. FACT-BMT score range 0-164, with higher scores indicating better quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anxiety symptoms using the Hospital Anxiety and Depression Scale (HADS-Anxiety)</measure>
+    <time_frame>up to sixteen weeks</time_frame>
+    <description>Compare anxiety symptoms (HADS-Anxiety) between study groups. The HADS anxiety subscale range from 0-21 with higher scores indicating worse anxiety symptoms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Depression symptoms using HADS-Depression</measure>
+    <time_frame>up to sixteen weeks</time_frame>
+    <description>Compare depression symptoms (HADS-depression) between study groups. The HADS depression subscale range from 0-21 with higher scores indicating worse depression symptoms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chronic GVHD symptom burden (Lee Scale)</measure>
+    <time_frame>up to sixteen weeks</time_frame>
+    <description>compare chronic GVHD symptom burden (Lee Scale) between the study groups. The Lee Scale ranges from 0-100 with higher scores indicating worse symptom burden</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Self-efficacy (PROMIS self-efficacy scale)</measure>
+    <time_frame>up to sixteen weeks</time_frame>
+    <description>Compare self-efficacy (PROMIS-self-efficacy scale) between the study groups. The PROMIS self-efficacy for managing symptoms scale ranges from 0-100 with higher scores indicating better self-efficacy</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>patient coping using Measure of Current Status (MOCS)</measure>
+    <time_frame>up to sixteen weeks</time_frame>
+    <description>Comparing coping (MOCS) between study groups (MOCS score range 0-52, with higher scores indicating greater coping skill).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>social support using Medical Outcomes Study Social Support Survey (MOS SSS)</measure>
+    <time_frame>up to sixteen weeks</time_frame>
+    <description>Compare patient social support (MOS SSS) between study groups. MOS SSS score range 0-100, with higher scores indicating greater support.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Usability of the Horizons app using the system usability scale</measure>
+    <time_frame>eight weeks</time_frame>
+    <description>We will use the system usability scale at 8 weeks post-intervention (for those randomized to Horizons) to assess the usability of HORIZONS. the system usability scale score range from 0-100 with higher scores indicating better usability</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Chronic Graft-Versus-Host Disease</condition>
+  <condition>Allogeneic Stem Cell Transplant</condition>
+  <arm_group>
+    <arm_group_label>Horizons mobile app</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomly assigned to the Horizons group, will use the Horizons app over an eight-week period in addition to receiving usual care from transplant team.&#xD;
+Participants will complete study questionnaires at the time of enrollment (baseline) and at eight and sixteen weeks after enrollment</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Usual Care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participant in the usual care group will receive usual care from the transplant oncology team including all the supportive care measures implemented by the transplant oncology team.&#xD;
+Participants will complete study questionnaires at the time of enrollment (baseline) nad at eight and sixteen weeks after enrollment</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>App</intervention_name>
+    <description>HORIZONS is self-administered with several features to promote engagement and health behavior change including gamification strategies, videos of chronic GVHD survivors, and optional content.&#xD;
+HORIZONS includes five interactive modules to be completed during an eight week period. HORIZONS also includes a sixth optional helpful resources section with a review of the domains and skills covered in the first five modules</description>
+    <arm_group_label>Horizons mobile app</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Usual Care</intervention_name>
+    <description>Patients in the usual care group will receive usual care from the transplant oncology team including all the supportive care measures implemented by the transplant oncology team.</description>
+    <arm_group_label>Usual Care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult patients (≥18 years) who underwent allogeneic hematopoietic stem cell transplant&#xD;
+             (HCT).&#xD;
+&#xD;
+          -  Have moderate to severe chronic GVHD based on their oncology clinician assessment as&#xD;
+             documented in the Electronic Health Record.&#xD;
+&#xD;
+          -  Ability to comprehend and speak English as the HORIZONs app is only available in&#xD;
+             English.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        -Patients with acute or unstable psychiatric or cognitive conditions which the treating&#xD;
+        clinicians believes prohibits informed consent or compliance with study procedures.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Areej El-Jawahri, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Massachusetts General Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Areej El-Jawahri, MD</last_name>
+    <phone>617-643-4003</phone>
+    <email>AEL-JAWAHRI@PARTNERS.ORG</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital Cancer Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Areej El-Jawahri, MD</last_name>
+      <phone>617-643-4003</phone>
+      <email>AEL-JAWAHRI@PARTNERS.ORG</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 10, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 10, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>January 24, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 24, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>El-Jawahri, Areej,M.D.</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Chronic Graft-Versus-Host Disease</keyword>
+  <keyword>Allogeneic Stem Cell Transplant</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bronchiolitis Obliterans Syndrome</mesh_term>
+    <mesh_term>Graft vs Host Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The Dana-Farber / Harvard Cancer Center encourages and supports the responsible and ethical sharing of data from clinical trials. De-identified participant data from the final research dataset used in the published manuscript may only be shared under the terms of a Data Use Agreement. Requests may be directed to: [contact information for Sponsor Investigator or designee]. The protocol and statistical analysis plan will be made available on Clinicaltrials.gov only as required by federal regulation or as a condition of awards and agreements supporting the research.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Data can be shared no earlier than 1 year following the date of publication</ipd_time_frame>
+    <ipd_access_criteria>Contact the Partners Innovations team at http://www.partners.org/innovation</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

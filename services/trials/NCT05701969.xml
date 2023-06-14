@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9251">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05701969</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HSR210118</org_study_id>
+    <nct_id>NCT05701969</nct_id>
+  </id_info>
+  <brief_title>Effect of Melatonin on Sleep Patterns of Resident Trainees During Night Float Shift</brief_title>
+  <official_title>Effect of Melatonin on Sleep Patterns of Resident Trainees During Night Float Shift</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Virginia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Virginia</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Anesthesiology residency requires extended and overnight shifts, which may negatively impact&#xD;
+      the quantity and quality of sleep.&#xD;
+&#xD;
+      Previous studies have investigated the effect of night float shift work on anesthesiology&#xD;
+      resident sleep and performance and demonstrated that total sleep quantity and time spent in&#xD;
+      deep and REM sleep were significantly reduced during night float and did not return to&#xD;
+      baseline after 3 nights of recovery.&#xD;
+&#xD;
+      Melatonin is a hormone produced by the pineal gland, which regulates the circadian rhythm&#xD;
+      that governs sleep. Exogenous melatonin may be used as a sleep aid and is available over the&#xD;
+      counter in the United States. Melatonin is effective in realigning the circadian rhythm&#xD;
+      disorder caused by night shift work and increasing sleep duration; however, melatonin's&#xD;
+      effect on improving sleep in resident trainees has not been investigated. The investigators&#xD;
+      propose a prospective double-blinded randomized control trial to investigate the effect of&#xD;
+      melatonin on sleep quantity and quality in resident physicians assigned to a night float&#xD;
+      system.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Residents in Post-Graduate Years 1-7 enrolled in residency programs with a night float system&#xD;
+      (anesthesiology, general surgery, obstetrics and gynecology, general medicine, and&#xD;
+      pediatrics) will be invited to participate in the study. A clinical study coordinator will&#xD;
+      assist in obtaining informed consent. After informed consent is obtained, participants will&#xD;
+      be randomized to receive either 3 mg melatonin or a matching placebo control. Medications&#xD;
+      will be prepared and randomization performed by the UVA Pharmacy. Both participants and study&#xD;
+      coordinators will be blinded to the treatment group. Participants will be provided with a&#xD;
+      12-day supply of medication at the start of the night float week. They will be instructed to&#xD;
+      take one capsule at least 20 minutes prior to going to bed at night or during the day after&#xD;
+      completing their night float shift. Subjects will be given a portable EEG monitor (ZMachine©&#xD;
+      Insight+ monitor (General Sleep Corporation, Euclid, OH))12 and will be shown how to apply&#xD;
+      the machine, monitor its functionality, and troubleshoot minor issues. They will be asked to&#xD;
+      wear the device for 2-3 nights of baseline sleep, 5-6 days of sleep during night float, and&#xD;
+      3-4 nights of recovery following night float, for a total of 12 consecutive days. Baseline&#xD;
+      sleep data will serve as a control for each subject. EEG data collected will include: Light&#xD;
+      Sleep, Deep Sleep, REM, Arousals, Total Sleep Time, Sleep Efficiency, Latency to Persistent&#xD;
+      Sleep, Wake After Sleep Onset, Total Deep Sleep, Total REM Sleep, and Time Out of Bed. Data&#xD;
+      from two different night float periods separated by at least 2 weeks will be collected&#xD;
+      (one-week melatonin and one-week placebo in random order). Residents will also be asked to&#xD;
+      complete a daily questionnaire assessing daytime sleepiness (Epworth Sleepiness Scale) and&#xD;
+      the use of caffeine or other stimulants.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 30, 2022</start_date>
+  <completion_date type="Anticipated">June 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2024</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>a prospective double-blinded randomized control trial to investigate the effect of melatonin on sleep quantity and quality in resident physicians assigned to a night float system.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>The research pharmacy will randomize the study.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Total Sleep Time (TST)</measure>
+    <time_frame>2 weeks</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Light Sleep</measure>
+    <time_frame>2 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Deep Sleep</measure>
+    <time_frame>2 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rapid Eye Movement Sleep</measure>
+    <time_frame>2 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Latency to Persistent Sleep (LPS)</measure>
+    <time_frame>2 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Wake after Sleep Onset (WASO)</measure>
+    <time_frame>2 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sleep Efficiency (SE)</measure>
+    <time_frame>2 weeks</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Epworth Sleepiness Scale</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Score 0-24</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Sleep Disorders, Circadian Rhythm</condition>
+  <arm_group>
+    <arm_group_label>Melatonin group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>These subjects will receive melatonin</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>These subjects will receive placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Melatonin</intervention_name>
+    <description>Melatonin</description>
+    <arm_group_label>Melatonin group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo control</description>
+    <arm_group_label>Placebo group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Post-Graduate Year 1-5&#xD;
+&#xD;
+          -  Current enrollment in anesthesiology, general surgery, obstetrics and gynecology,&#xD;
+             general medicine, or pediatrics residency at the Unversity of Virginia&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Current use of sleep aids&#xD;
+&#xD;
+          -  Diagnosed sleep disorder&#xD;
+&#xD;
+          -  History of a pacemaker or other medical device.&#xD;
+&#xD;
+          -  pregnant or breast-feeding females&#xD;
+&#xD;
+          -  Bleeding disorders&#xD;
+&#xD;
+          -  Depression&#xD;
+&#xD;
+          -  High blood pressure&#xD;
+&#xD;
+          -  Seizure disorders&#xD;
+&#xD;
+          -  History of transplant on immunosuppression therapy.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Keita Ikeda, PHD</last_name>
+    <phone>9195931174</phone>
+    <email>ki2d@uvahealth.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Virginia</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22908-0710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Keita Ikeda, PhD</last_name>
+      <phone>919-593-1174</phone>
+      <email>ki2d@uvahealth.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 6, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>January 18, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 18, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Virginia</investigator_affiliation>
+    <investigator_full_name>Lauren Dunn, MD</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sleep Wake Disorders</mesh_term>
+    <mesh_term>Sleep Disorders, Circadian Rhythm</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Melatonin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

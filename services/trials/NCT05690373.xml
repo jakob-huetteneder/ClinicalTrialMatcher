@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9778">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05690373</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CTB2022TN106</org_study_id>
+    <secondary_id>200918</secondary_id>
+    <nct_id>NCT05690373</nct_id>
+  </id_info>
+  <brief_title>Probiotics and Influenza Vaccination Response</brief_title>
+  <acronym>VERB</acronym>
+  <official_title>Effects of Probiotics in Immune Response to Influenza Vaccination in Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Archer-Daniels-Midland Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>NIZO Food Research</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The Archer-Daniels-Midland Company</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Assess efficacy of oral ingestion of a probiotic product on immune function in a population&#xD;
+      of healthy adult men and women in a clinical vaccination study.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2023</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Seroconversion rate</measure>
+    <time_frame>From baseline to week 6</time_frame>
+    <description>Percentage of subjects achieving at least a 4-fold increase or an increase from &gt;10 to 40 in Antibody titer for seronegative subjects</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in plasma cytokine levels</measure>
+    <time_frame>Baseline, week 2 and week 6</time_frame>
+    <description>Change in plasma cytokine levels (IL-10, IL-4, TFN alpha, IFN gamma)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in IgA antibodies against influenza</measure>
+    <time_frame>baseline, week 2, week 6</time_frame>
+    <description>Titer of plasma anti-influenza IgA</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in IgG antibodies against influenza</measure>
+    <time_frame>baseline, week 2, week 6</time_frame>
+    <description>Titer of plasma anti-influenza IgG</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in IgM antibodies against influenza</measure>
+    <time_frame>baseline, week 2, week 6</time_frame>
+    <description>Titer of plasma anti-influenza IgM</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Gastrointestinal symptoms</measure>
+    <time_frame>baseline, week 2, week 6</time_frame>
+    <description>Gastrointestinal manifestations documented through Gastrointestinal Symptom Rating Scale (GSRS, 7-point graded Likert-type scale and includes 15 items combined into 5 symptom clusters - 1 represents absence of troublesome symptoms and 7 represents very troublesome symptoms)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Incidence of respiratory infections</measure>
+    <time_frame>baseline, week 2, week 6</time_frame>
+    <description>Assessment of respiratory infection through questionnaire (4-point graded Likert-type scale and includes 11 items, including the 8 items comprising the Jackson common cold questionnaire - 0 = absent, 1 = mild, 2 = moderate, 3 = severe)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Vaccine Response</condition>
+  <arm_group>
+    <arm_group_label>Probiotic</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2B Colony Forming Unit/ day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Equivalent placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Probiotic effect on influenza vaccine response</intervention_name>
+    <description>Seroconversion rate: the percentage of subjects achieving at least a 4-fold increase or an increase from &gt;10 to 40 in Ab titre for seronegative subjects.</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_label>Probiotic</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men and women&#xD;
+&#xD;
+          -  Age 16 - 65 y and healthy&#xD;
+&#xD;
+          -  Self-reported regular Dutch eating habits as assessed by questionnaire (3 main meals&#xD;
+             per day)&#xD;
+&#xD;
+          -  No influenza vaccination in 2022&#xD;
+&#xD;
+          -  Non-smokers&#xD;
+&#xD;
+          -  BMI 18.5-28&#xD;
+&#xD;
+          -  Adherence to habitual diet&#xD;
+&#xD;
+          -  no changes during study period&#xD;
+&#xD;
+          -  Signed informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Recent vaccination&#xD;
+&#xD;
+          -  Acute or chronic illness (e.g., diabetes mellitus)&#xD;
+&#xD;
+          -  Gastrointestinal disorders (e.g., inflammatory bowel disease)&#xD;
+&#xD;
+          -  Acute gastroenteritis in the past 2 months&#xD;
+&#xD;
+          -  Immunodeficiency disorder&#xD;
+&#xD;
+          -  Use of immunosuppressive drugs (e.g. cyclosporine, azathioprine, systemic&#xD;
+             corticosteroids, antibodies)&#xD;
+&#xD;
+          -  Unexplained weight loss or weight gain of &gt; 3 kg in the 3 months prior to pre-study&#xD;
+             screening&#xD;
+&#xD;
+          -  Alcohol or drug abuse&#xD;
+&#xD;
+          -  Mental status that is incompatible with the proper conduct of the study&#xD;
+&#xD;
+          -  History of cancer&#xD;
+&#xD;
+          -  Use of immune boosting supplements within 4 weeks before screening To be extended &amp;&#xD;
+             specified in protocol phase&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alwine Kardinaal, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>NIZO food research B.V</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Vineetha Vijayakumar, PhD</last_name>
+    <phone>07885966211</phone>
+    <email>vineetha.vijayakumar@adm.com</email>
+  </overall_contact>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 10, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 10, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>January 23, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 23, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>vaccine response</keyword>
+  <keyword>seroconversion</keyword>
+  <keyword>antibody</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

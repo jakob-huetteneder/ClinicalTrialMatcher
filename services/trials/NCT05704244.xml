@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9153">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05704244</url>
+  </required_header>
+  <id_info>
+    <org_study_id>000381</org_study_id>
+    <nct_id>NCT05704244</nct_id>
+  </id_info>
+  <brief_title>Safety and Efficacy of FE 999326 Administered Intravesically to Japanese Subjects With High-grade, BCG Unresponsive, Non-muscle Invasive Bladder Cancer (NMIBC)</brief_title>
+  <official_title>A Phase 3, Open Label Trial to Evaluate the Safety and Efficacy of FE 999326 Administered Intravesically to Japanese Subjects With High-grade, BCG Unresponsive, Non-muscle Invasive Bladder Cancer (NMIBC)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ferring Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ferring Pharmaceuticals</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the safety and efficacy of FE 999326 in Japanese subjects with high-grade, BCG&#xD;
+      unresponsive NMIBC.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 21, 2022</start_date>
+  <completion_date type="Anticipated">December 27, 2028</completion_date>
+  <primary_completion_date type="Anticipated">December 27, 2024</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Whether or not a subject with CIS (with or without concomitant high-grade Ta or T1 papillary disease) responds to treatment, defined as complete response at any time after first administration of FE 999326</measure>
+    <time_frame>At Month 12 assessment</time_frame>
+    <description>A subject with CIS (with or without concomitant high-grade Ta or T1 papillary disease) has achieved a complete response at an efficacy assessment if urine cytology is negative and there are no lesions on cystoscopy. If biopsy of the bladder is performed, this must be negative.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Duration of complete response in subjects with CIS (with or without concomitant high-grade Ta or T1 papillary disease) who show a complete response at any time after first administration of FE 999326</measure>
+    <time_frame>Up to 5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Whether or not a subject with high-grade Ta or T1 papillary disease (without concomitant CIS) responds to treatment, defined as absence of recurrence of high-grade disease</measure>
+    <time_frame>Up to 4 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of event-free survival in subjects with high-grade Ta or T1 papillary disease (without concomitant CIS) and in subjects with CIS (with or without papillary disease)</measure>
+    <time_frame>Up to 5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of cystectomy</measure>
+    <time_frame>Up to 4 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to cystectomy</measure>
+    <time_frame>Up to 4 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>Up to 5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Concentration of FE 999326-specific DNA levels in urine</measure>
+    <time_frame>Up to day 1 of month 4 after start of treatment; and 3, 6, 9 and 12 months after last dose (up to 5 years after start of treatment)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Type, incidence, relatedness and severity of treatment emergent adverse events</measure>
+    <time_frame>Up to 5 years</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">24</enrollment>
+  <condition>Bladder Cancer</condition>
+  <arm_group>
+    <arm_group_label>FE 999326</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>FE 999326</intervention_name>
+    <description>75 mL FE 999326 (3 x 10^11 vp/mL) of sterile suspension instilled once every 3 months into the bladder via a urinary catheter</description>
+    <arm_group_label>FE 999326</arm_group_label>
+    <other_name>nadofaragene firadenovec</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Have at entry, confirmed by a pathology report:&#xD;
+&#xD;
+               1. Carcinoma in situ (CIS) only&#xD;
+&#xD;
+               2. Ta/T1 high-grade disease with concomitant CIS or&#xD;
+&#xD;
+               3. Ta/T1 high-grade disease without concomitant CIS&#xD;
+&#xD;
+          -  Subjects who did not respond to BCG treatment and have a persistent high-grade&#xD;
+             recurrence within 12 months after BCG was initiated, and those who despite an initial&#xD;
+             complete response to BCG, relapse with CIS within 12 months of their last intravesical&#xD;
+             treatment with BCG or relapse with high-grade Ta/T1 NMIBC within 6 months of their&#xD;
+             last intravesical treatment with BCG.&#xD;
+&#xD;
+          -  Life expectancy &gt;2 years, in the opinion of the investigator&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) status 2 or less&#xD;
+&#xD;
+          -  Absence of concomitant upper tract urothelial carcinoma or urothelial carcinoma within&#xD;
+             the prostatic urethra&#xD;
+&#xD;
+          -  Subjects with prostate cancer on active surveillance at low risk for progression,&#xD;
+             defined as prostate-specific antigen (PSA) &lt;10 ng/dL&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Current or previous evidence of muscle invasive (muscularis propria) or metastatic&#xD;
+             disease presented at the screening visit.&#xD;
+&#xD;
+          -  Current systemic therapy for bladder cancer&#xD;
+&#xD;
+          -  Current or prior investigational treatment for BCG unresponsive NMIBC or any other&#xD;
+             investigational drug within 1 month prior to screening&#xD;
+&#xD;
+          -  Current or prior pelvic external beam radiotherapy within 5 years of entry&#xD;
+&#xD;
+          -  Use of other adenovirus vector medications, including COVID-19 vaccines, within 2&#xD;
+             weeks before and after instillation&#xD;
+&#xD;
+          -  History of malignancy of other organ system within past 5 years, except treated basal&#xD;
+             cell carcinoma or squamous cell carcinoma of the skin and ≤pT2 upper tract urothelial&#xD;
+             carcinoma at least 24 months after nephroureterectomy.&#xD;
+&#xD;
+          -  Subjects who cannot hold instillation for 1 hour&#xD;
+&#xD;
+          -  Subjects who cannot tolerate intravesical dosing or intravesical surgical manipulation&#xD;
+&#xD;
+          -  Intravesical therapy within 8 weeks prior to beginning trial treatment, with the&#xD;
+             exception of:&#xD;
+&#xD;
+               -  Cytotoxic agents when administered as a single instillation immediately following&#xD;
+                  a TURBT procedure&#xD;
+&#xD;
+               -  Previous intravesical BCG therapy&#xD;
+&#xD;
+          -  Systemic immunosuppressive therapy within 3 months prior to screening&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Global Clinical Compliance</last_name>
+    <role>Study Director</role>
+    <affiliation>Ferring Pharmaceuticals</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Global Clinical Compliance</last_name>
+    <phone>+1 833-548-1402 (US/Canada)</phone>
+    <email>DK0-Disclosure@ferring.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Global Clinical Compliance</last_name>
+    <phone>+1 862-286-5200 (outside US)</phone>
+    <email>DK0-Disclosure@ferring.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Ferring Investigational Site</name>
+      <address>
+        <city>Hakodate-shi</city>
+        <state>Hokkaido</state>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ferring Investigational Site</name>
+      <address>
+        <city>Hitachi-shi</city>
+        <state>Ibaraki</state>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ferring Investigational Site</name>
+      <address>
+        <city>Tsukuba-shi</city>
+        <state>Ibaraki</state>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ferring Investigational Site</name>
+      <address>
+        <city>Kawasaki-shi</city>
+        <state>Kanagawa</state>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ferring Investigational Site</name>
+      <address>
+        <city>Yokohama-shi</city>
+        <state>Kanagawa</state>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ferring Investigational Site</name>
+      <address>
+        <city>Nankoku-shi</city>
+        <state>Kochi</state>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ferring Investigational Site</name>
+      <address>
+        <city>Tsu-shi</city>
+        <state>Mie</state>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ferring Investigational Site</name>
+      <address>
+        <city>Kashihara-shi</city>
+        <state>Nara</state>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ferring Investigational Site</name>
+      <address>
+        <city>Okayama-shi</city>
+        <state>Okayama</state>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ferring Investigational Site</name>
+      <address>
+        <city>Takatsuki-shi</city>
+        <state>Osaka</state>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ferring Investigational Site</name>
+      <address>
+        <city>Bunkyo-ku</city>
+        <state>Tokyo</state>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ferring Investigational Site</name>
+      <address>
+        <city>Toyama-shi</city>
+        <state>Toyama</state>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Japan</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>December 21, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>May 1, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 1, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Urinary Bladder Neoplasms</mesh_term>
+    <mesh_term>Non-Muscle Invasive Bladder Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

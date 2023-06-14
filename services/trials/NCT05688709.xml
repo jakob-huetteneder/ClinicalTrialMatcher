@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9859">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05688709</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DRCUganda</org_study_id>
+    <nct_id>NCT05688709</nct_id>
+  </id_info>
+  <brief_title>Acceptability, Feasibility and Effectiveness of Online Peer Support Group for ART Adherence Among Youth</brief_title>
+  <official_title>Acceptability, Feasibility and Effectiveness of a WhatsApp Peer Support Group as a Strategy to Improve Antiretroviral Therapy Adherence Among Youth in Kampala District</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Infectious Diseases Research Collaboration, Uganda</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Makerere University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Infectious Diseases Research Collaboration, Uganda</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In Uganda, Youth living with HIV/AIDS (YLHIVA) enrolled in HIV treatment experience&#xD;
+      suboptimal treatment adherence and have lower viral load suppression (VLS) rates compared to&#xD;
+      younger children or adults. VLS is essential in reducing AIDS related morbidity and mortality&#xD;
+      yet AIDS-related deaths remain high among YLHIVA. To improve these poor outcomes, there has&#xD;
+      been an effort by Ministry of Health Uganda (MoH) to prioritize and scale up new adolescent&#xD;
+      and youth-targeted models of service delivery. &quot;Peer support&quot; increasingly forms part of&#xD;
+      adolescent and youth-responsive service packages as a class of implementation strategies that&#xD;
+      can support adolescents to access, engage, and sustain treatment. However, peer support&#xD;
+      activities in Uganda occur face to face at health care settings(2). This approach presents&#xD;
+      structural limitations such as the need to travel or schedule an appointment, inconvenient&#xD;
+      working hours and inadequate safe space for peer support activities. Thus, peer support&#xD;
+      services may not be readily available at the time when youth need them. With the rapid&#xD;
+      increase in mobile phone availability among Ugandan youth, online peer support groups (PSGs)&#xD;
+      have the potential to help YLHIVA access regular support without significant effort or cost.&#xD;
+      The rollout of online PSGs among YLHIVA in Uganda requires evidence on there acceptability&#xD;
+      feasibility and effectiveness.&#xD;
+&#xD;
+      Aim: The aim of this study is to explore a WhatsApp peer support group as a strategy to&#xD;
+      improve ART adherence care among youth aged 15-24 years in Kampala district.&#xD;
+&#xD;
+      Methods: The study will use a mixed methods approach. It will be conducted in two phases;&#xD;
+      first a formative phase to refine the aspects of the WhatsApp peer support group. These&#xD;
+      findings will then guide the design and implementation of the second phase; an RCT to assess&#xD;
+      the acceptability, feasibility and effectiveness of WhatsApp PSG as strategy to improve ART&#xD;
+      adherence among YLHIVA in Kampala. The RCT is a multicentre, open label assessor-blind, with&#xD;
+      balanced randomisation (1:1) parallel group superiority trial. Study participants randomized&#xD;
+      to the control arm will remain on the current standard of care only, while those in the&#xD;
+      intervention arm will be enrolled on a WhatsApp PSG and receive the current standard. Data&#xD;
+      will be collected using structured questionnaires, Key Informant Interviews, focus group&#xD;
+      discussions and in-depth interviews. Quantitative data will be analysed using summary&#xD;
+      statistics, logistic regression models, generalized linear models and Generalized Estimating&#xD;
+      Equations while for the qualitative verbatim transcription and thematic analysis will be&#xD;
+      used.&#xD;
+&#xD;
+      Utility: The study findings will help to advance the knowledge on virtual support as a peer&#xD;
+      support model in Uganda.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Adolescents and young people living with HIV (AYPLHIV) account for 45% of new HIV infections&#xD;
+      globally, with 70% of this population residing in sub-Saharan Africa. In Sub-Saharan Africa&#xD;
+      (SSA), 37% of youth living with HIV/AIDS (YLHIVA) on antiretroviral therapy (ART) have viral&#xD;
+      load suppression (VLS). This is way below the UNAIDS target of 95% VLS. VLS reduces mortality&#xD;
+      rate and the risk of HIV transmission. In Uganda, only 44.9% of female and 32.5% male youth&#xD;
+      aged 15 to 24 years have VLS. ART adherence is essential in achieving VLS. However, in&#xD;
+      Uganda, ART adherence is suboptimal among the youth (67% -87%) and is lower compared to other&#xD;
+      age groups.&#xD;
+&#xD;
+      The sub-optimal ART adherence among YLHIVA result from complex personal, interpersonal, and&#xD;
+      contextual challenges. Among these challenges are the psychosocial barriers exacerbated by&#xD;
+      the social cognitive development changes that occur during adolescence and young adulthood.&#xD;
+      Social acceptance is more critical for this age group than any other, yet many YLHIVA&#xD;
+      experience stigma and bulling, leading to negative self-images, low self-efficacy, anxiety&#xD;
+      and depression. Depressed YLHIVA are more likely to abuse alcohol and drugs. World Health&#xD;
+      Organisation (WHO) and Ministry Of Health Uganda (MoH) recommend peer support groups to offer&#xD;
+      psychosocial support to YLHIVA. However, in Uganda and most Sub-Saharan countries, peer&#xD;
+      support group activities occur face-to-face and often in health facilities . This approach&#xD;
+      presents structural limitations such as the need to travel, inconvenient working hours and&#xD;
+      inadequate safe space for psychosocial services. The ongoing COVID-19 pandemic has worsened&#xD;
+      this situation; social distancing requires more space and curfew hours limit the time for&#xD;
+      providing psychosocial services. Thus, these psychosocial services may not be available at&#xD;
+      the time when youth need them and hence the need for more real-time and widely feasible&#xD;
+      interventions.&#xD;
+&#xD;
+      With the rapid increase in mobile phone availability in SSA, online peer support groups have&#xD;
+      the potential to help YLHIVA access regular support without significant effort or cost . In&#xD;
+      Uganda, 60.7% of youth own a mobile phone, 90% use their phone to call, 87.9% use them for&#xD;
+      social media and 64% use their phones for text messaging. Text messaging and phone call&#xD;
+      interventions have showed improved ART adherence but these function to automate individual&#xD;
+      level cues to action. Social media platforms permit virtual communities and can serve as a&#xD;
+      place for peer support group activities. However, it is not clear what is the best way to&#xD;
+      create online peer support groups in m-Health interventions, either through integration into&#xD;
+      established social media platforms or developing &quot;new&quot; social media platforms. &quot;New&quot; social&#xD;
+      media platforms have an advantage of broad complement functionality, but these need time to&#xD;
+      develop and phones that are more advanced not readily available in low income setting like&#xD;
+      Uganda. Besides concerns about stigma associated with mobile apps developed for HIV-positive&#xD;
+      people may make them unacceptable in communities where HIV is stigmatised . In low-income&#xD;
+      settings, peer support groups integrated into established social media platforms may be more&#xD;
+      feasible. Established social media platforms used to offer peer support among People Living&#xD;
+      with HIV/AIDS (PLWHIVA) include we chat, WhatsApp, Weibo in China and Facebook. Youth largely&#xD;
+      use Facebook to connect with their peers, but impression management is a major challenge&#xD;
+      among young Facebook users. This might be exacerbated among YLHIVA as they struggle with&#xD;
+      self-images. In a recent study conducted in south Africa, YLHIVA expressed preference for&#xD;
+      online peer support groups integrated into established social media platforms which use&#xD;
+      minimal data such as WhatsApp. Further more recent research on m-Health interventions for&#xD;
+      youth, have stressed the need for multifaceted approaches. These include; provision of&#xD;
+      credible, up-to-date information on HIV and general health and wellness, reminders that focus&#xD;
+      on ART adherence, those that ease connections to providers and other YLHIVA . WhatsApp offers&#xD;
+      the flexibility needed for the multifaceted m- health approach and permits virtual&#xD;
+      communities for peer support groups. WhatsApp documents and videos features offer an avenue&#xD;
+      for group education. WhatsApp calls and texts ease direct connections to providers, thus&#xD;
+      enhancing real-time engagement to receive individualized support. In addition, the public&#xD;
+      uses WhatsApp and so they may not refer to it as an &quot;HIV App&quot;.&#xD;
+&#xD;
+      There is growing evidence that online peer support groups improve psychosocial outcomes, ART&#xD;
+      adherence and VLS among PLHIVA . However, majority of the studies have been conducted among&#xD;
+      key populations and very few have examined its benefits among YLHIVA. Among YLHIVA in the US,&#xD;
+      an online peer support group improved VLS from 64.1% to 91.4% and ART adherence (90.1% vs&#xD;
+      57.5% at eight weeks follow-up; difference=31.1, p=.02). On the other hand, in SSA no&#xD;
+      significant improvements in ART adherence were observed among youth enrolled into online peer&#xD;
+      support groups. However, these studies had limited sample size and short follow-up periods.&#xD;
+      Given the mixed results, further evidence on the effectiveness of online peer support groups&#xD;
+      in improving HIV treatment outcomes among YLHIVA in SSA is required.&#xD;
+&#xD;
+      In Sub-Saharan Africa, qualitative work has underscored the psychosocial benefits of online&#xD;
+      peer support groups for YLHIVA. Youth have reported that online peer support groups reduced&#xD;
+      isolation, increased self-esteem, helped them to sustain efforts towards healthy living and&#xD;
+      work through the everyday struggles of ART adherence .Youth have described online peer&#xD;
+      support group as a safe and private community where one could be understood and valued.&#xD;
+      Furthermore, online peer support groups have improved HIV knowledge but their effect on HIV&#xD;
+      stigma among YLHIVA in SSA remains unknown. Yet stigma attached to HIV is believed to&#xD;
+      underpin many of the social, cultural, and psychological barriers to ART adherence.&#xD;
+      Furthermore, a meta-analysis by Ninke and colleagues, showed that ART adherence was strongly&#xD;
+      related to adherence self-efficacy. Therefore, the effect of online peer support groups on&#xD;
+      adherence self-efficacy needs to be understood. In addition, previous studies found that&#xD;
+      youth with HIV on online support groups felt helpless when group members posted suicidal&#xD;
+      thoughts. Such discussions are associated with increased depression, though online peer&#xD;
+      support groups have shown decreased depression among youth with mental problems. The effect&#xD;
+      of online peer support groups on depression among YLHIVA remains unknown and there is need&#xD;
+      further investigation in this area.&#xD;
+&#xD;
+      The utility of online peer support groups has potential to improve ART adherence among YLHIVA&#xD;
+      in Uganda. Thus, the aim of this study is to explore a WhatsApp peer support group as a&#xD;
+      strategy to improve ART adherence among youth aged 15-24 years in Kampala district. The study&#xD;
+      findings will help to advance the knowledge on virtual support as a peer support model in&#xD;
+      sub-Saharan Africa. The social cognitive theory will guide the study to capture the complex&#xD;
+      psychosocial profiles of youth ART adherence and retention in care.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 1, 2022</start_date>
+  <completion_date type="Anticipated">June 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>This is an open-assessor blinded study-we will not blind study participants and staff to treatment arms after the point of randomization except for the outcome assessors.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>ART adherence</measure>
+    <time_frame>Six months</time_frame>
+    <description>ART adherence defined as an adherence score of ≥ 95% calculated from the number of pills taken divided by the total number of pills expected to have been taken determined using self-reports[18]. We will calculate the proportion of youth who adhere to treatment from the number of youth with an adherence score of ≥ 95% divided by the total the number of youth enrolled in the study for each study arm at the specified time points</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Stigma,</measure>
+    <time_frame>Six months</time_frame>
+    <description>Stigma will be assessed using Berger HIV Stigma Scale. The total HIV Stigma Scale, scores can range from 40 to 160 with higher scores indicating greater experiences of stigma.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>adherence self-efficacy</measure>
+    <time_frame>Six months</time_frame>
+    <description>We shall evaluate adherence self-efficacy using the HIV Treatment Adherence Self-Efficacy Scale. The total adherence scale scores can range from 12 to 120 with higher scores indicating higher adherence self-efficacy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>depression</measure>
+    <time_frame>Six months</time_frame>
+    <description>Depression will be assessed using the Beck depression inventory</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">488</enrollment>
+  <condition>HIV Disease Progression</condition>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Psychosocial services (PSS) are offered by a trained health worker in a designated space within the health facility. They assess youth for PSS needs and depending on the identified needs, health workers determine the relevant approach for providing PSS. Health workers refer PSS they cannot offer to established referral networks. Specifically, for ART adherence, health workers use the 5As principles to offer adherence psychosocial support. These are;&#xD;
+Assess patient psychosocial concerns and needs that may hinder adherence to ART.&#xD;
+Advise on the benefits of disclosure and support systems to adherence.&#xD;
+Assist patients identify the support systems that will enable them to adhere to treatment.&#xD;
+Agree on family and community support systems (expert client in the community).&#xD;
+Arrange for the patient to join psychosocial support groups and use support systems.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In addition to MOH standard care, we will enrol YLHIVA on a WhatsApp PSG and assign them trained peer counsellors. We will allocate YLHIVA to a WhatsApp group depending on their age and the health facility where they seek care (12). YLHIVA will interact with each other and their peer counsellors through one-on-one private communications and on the group chat.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>WhatsApp peer support group</intervention_name>
+    <description>YLHIVA assigned to the WhatsApp group will interact with each other and their peer counsellors through one-on-one private communications and on the group chat. The group chat will allow YLHIVA to ask questions, post comments, and reply to one another at any time. We shall share education videos once a week at a time agreed upon with study participants to optimize assimilation of information. In addition, peer counsellor will engage in private WhatsApp calls with youth once a week, to monitor psychosocial state, medication adherence, identify barriers to adherence and counsel YLHIVA. However, youth may initiate in more private communications' when need arises. The peer counsellor will also engage with YLHIVA daily through WhatsApp messages. We will tailor the messages to young people's treatment schedules, clinic appointments, and psychosocial state. Again, youth may text a peer counsellor whenever they wish to do so.</description>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        YLHIVA aged 15-24 years seeking services at the study sites during the study period.&#xD;
+&#xD;
+          -  YLHIVA who know their status&#xD;
+&#xD;
+          -  Own a phone with at least android 4.3&#xD;
+&#xD;
+          -  Demonstrated ability to understand basic on-line charts and English&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Currently enrolled in another research study related to HIV service retention or ART&#xD;
+             adherence.&#xD;
+&#xD;
+          -  Severely ill requiring hospitalization or such that the individual cannot provide&#xD;
+             informed consent at the time of study recruitment.&#xD;
+&#xD;
+          -  Attending a boarding school where access to phones is prohibited.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>15 Years</minimum_age>
+    <maximum_age>24 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yerusa Ms Kiirya, Masters</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Makerere University School of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yerusa Ms Kiirya, Masters</last_name>
+    <phone>773963245</phone>
+    <phone_ext>+256</phone_ext>
+    <email>ykiirya@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Anne Ms Katahoire, PhD</last_name>
+    <phone>772723729</phone>
+    <phone_ext>+256</phone_ext>
+    <email>anne.ruhweza.katahoire@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Kiswa HCIV</name>
+      <address>
+        <city>Kampala</city>
+        <state>Bugolobi</state>
+        <zip>256</zip>
+        <country>Uganda</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Brenda Samanya, Diploma</last_name>
+      <phone>703431820</phone>
+      <phone_ext>Ms</phone_ext>
+      <email>brendasamanya@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Muniru Dr Magomu, Bachelors</last_name>
+      <phone>703431820</phone>
+      <phone_ext>+256</phone_ext>
+      <email>mmagomu@idi.co.ug</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Komamboga HCIII</name>
+      <address>
+        <city>Kampala</city>
+        <state>Kawempe Division</state>
+        <zip>256</zip>
+        <country>Uganda</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Samuel Mr Ndahura, Bachelor</last_name>
+      <phone>702690382</phone>
+      <phone_ext>+256</phone_ext>
+      <email>ndasamuel@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Doglous Mr Mbogo, Certificat</last_name>
+      <phone>705799160</phone>
+      <phone_ext>+256</phone_ext>
+      <email>mbogodouglas5@gmail.com</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Kawala HCIV</name>
+      <address>
+        <city>Kampala</city>
+        <state>Lubaga Division</state>
+        <zip>256</zip>
+        <country>Uganda</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bitira Lyness, Bachelors</last_name>
+      <phone_ext>256</phone_ext>
+      <email>lbitira@idi.co.ug</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Uganda</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 9, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 9, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>February 5, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 5, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 8, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Infectious Diseases Research Collaboration, Uganda</investigator_affiliation>
+    <investigator_full_name>Kiirya Yerusa</investigator_full_name>
+    <investigator_title>Ms</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Disease Progression</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

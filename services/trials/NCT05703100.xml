@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9200">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05703100</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-061</org_study_id>
+    <nct_id>NCT05703100</nct_id>
+  </id_info>
+  <brief_title>Lactate Profile and Fat Oxidation During Exercise</brief_title>
+  <acronym>LacFat</acronym>
+  <official_title>Relationship Between Lactate Profile and Fat Oxidation During Exercise</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Technical University of Madrid</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Technical University of Madrid</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to test whether changes in lactate kinetics during&#xD;
+      exercise (due to glycogen depletion or hyperthermia) alter the pattern of fat oxidation&#xD;
+      during a maximal incremental cycle ergometer test in healthy young active people. The main&#xD;
+      questions it aims to answer are:&#xD;
+&#xD;
+        -  Will a rightward shift in lactate kinetics, induced by a previous glycogen depletion,&#xD;
+           produce a rightward shift in fat oxidation?&#xD;
+&#xD;
+        -  Will a leftward shift in lactate kinetics due to an increase in ambient temperature&#xD;
+           produce a leftward shift in fat oxidation?&#xD;
+&#xD;
+      Participants will perform three maximal incremental tests in three different conditions:&#xD;
+&#xD;
+        -  one in the control condition;&#xD;
+&#xD;
+        -  one with glycogen depletion;&#xD;
+&#xD;
+        -  and one with ambient heat (the latter two in randomized, counterbalanced order).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Introduction Lactate has three major functions: it is an energy substrate, it is a&#xD;
+      gluconeogenic precursor, and it is a signalling molecule (1). Among the signalling functions&#xD;
+      is that of modulating skeletal muscle metabolism, as a regulator of fat oxidation at both the&#xD;
+      autocrine and paracrine levels. At the autocrine level, lactate increases the levels of&#xD;
+      Acetyl-coenzyme A (CoA) inside the mitochondria and, consequently, the levels of Malonyl-CoA.&#xD;
+      The increase in Malonyl-CoA concentration inhibits Carnitine PalmitoylTransferase 1 (CPT1),&#xD;
+      which is one of the transporters of fatty acids into the mitochondria (2). At the paracrine&#xD;
+      level, an increase in blood lactate concentration reduces the release of fatty acids into the&#xD;
+      blood by adipose tissue (3). This occurs because the G protein-coupled receptor present in&#xD;
+      adipose tissue inhibits the release of fatty acids into the blood when the blood lactate&#xD;
+      concentration increases (4). However, in vivo, only an inverse correlation between blood&#xD;
+      lactate concentration and fatty acid oxidation has been demonstrated (5,6). Therefore, the&#xD;
+      main objective of the study is to observe whether the pattern of fat oxidation during a&#xD;
+      maximal incremental cycle ergometer trial is altered due to changes in lactate kinetics&#xD;
+      during the given trial. For this purpose, three maximal trials will be performed with the&#xD;
+      same loading protocol (intensity and progression of the same), but different physiological&#xD;
+      conditions (normal vs. previous glycogen depletion vs. environmental hyperthermia).&#xD;
+&#xD;
+      Procedures Consent to participate (signature of informed consent) will be requested from all&#xD;
+      volunteers who meet the inclusion criteria.&#xD;
+&#xD;
+      The tests that will be performed throughout this study will be the following:&#xD;
+&#xD;
+        1. At the first appointment, you will be asked about your medical history. Then, if&#xD;
+           appropriate, an assessment of your body composition by dual X-ray absorptiometry (DEXA)&#xD;
+           will be performed,&#xD;
+&#xD;
+        2. In the second appointment, spirometry, an electrocardiogram at rest, and finally, an&#xD;
+           ergospirometric trial will be performed.&#xD;
+&#xD;
+        3. In the third, fourth, and fifth visits, three maximal exercise trials will be performed,&#xD;
+           one each day. Of the three maximum ergospirometric trials that will be performed, one&#xD;
+           will be in a hot environment -approximately 38º Celsius (ºC) ambient temperature- and&#xD;
+           the other in a state of glycogen depletion. A glycogen depletion protocol and a&#xD;
+           low-carbohydrate diet will be performed before the maximal ergospirometric trial in the&#xD;
+           glycogen-depleted state, while the other two trials (simple maximal trial and&#xD;
+           hot-environment maximal trial) will be performed after 24h of a high-carbohydrate diet.&#xD;
+&#xD;
+        4. The order of performance of each protocol will be randomized, provided that the glycogen&#xD;
+           depletion protocol is performed at the visit prior to the maximal ergospirometric trial&#xD;
+           under glycogen depletion. The depletion protocol consists of a 60-minute continuous&#xD;
+           cycle ergometer effort at the power associated with 60% of the maximal oxygen uptake&#xD;
+           (VO2) followed by six 30-second maximal efforts with four minutes of recovery. After&#xD;
+           this glycogen depletion exercise protocol, the participant will follow a&#xD;
+           low-carbohydrate diet (2% carbohydrate, 78% fat, and 20% protein), until the time of the&#xD;
+           ergospirometric trial under glycogen depletion status.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 28, 2023</start_date>
+  <completion_date type="Anticipated">May 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>No Masking is possible since participants and investigators know which type of test (control, hyperthermia and glycogen depletion) is being performed.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Blood lactate concentration</measure>
+    <time_frame>Through study completion, an average of 5 months</time_frame>
+    <description>Lactate concentration, expressed in mMol/L (Millimoles Per Liter), measured in capillary blood using a lactate analyser. Lactate concentration is measured in the capillary blood extracted from the fingertip, during the tests performed in the different situations (control, glycogen depletion and hyperthermia)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fat oxidation</measure>
+    <time_frame>Through study completion, an average of 5 months</time_frame>
+    <description>Fat oxidation, expressed in g/min, is indirectly measured through the analysis of the gas composition of breathing (O2 and CO2), using a gas analyser. Fat oxidation is measured during the tests performed in the different situations (control, glycogen depletion and hyperthermia)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Heart Rate</measure>
+    <time_frame>Through study completion, an average of 5 months</time_frame>
+    <description>Heart rate, expressed in bpm (beats per minute), is measured using a pulsometer. Heart rate is measured during the tests performed in the different situations (control, glycogen depletion and hyperthermia)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Power output</measure>
+    <time_frame>Through study completion, an average of 5 months</time_frame>
+    <description>Power output, expressed in watts, is measured with a cycle ergometer. Power output is measured during the tests performed in the different situations (control, glycogen depletion and hyperthermia)</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Energy Metabolism</condition>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Maximal test on a cycle ergometer</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Hyperthermia</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Maximal test on a cycle ergometer at 35º-38º C room temperature</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Glycogen depletion</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Maximal test on a cycle ergometer after a glycogen depletion protocol</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Incremental exercise test</intervention_name>
+    <description>Maximal incremental exercise test on a cycle ergometer (5 min warm-up at 30W, and subsequent steps of 3 min with power increases of 30W)</description>
+    <arm_group_label>Control</arm_group_label>
+    <other_name>Maximal incremental ergometry</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Incremental exercise test under hyperthermia</intervention_name>
+    <description>Maximal incremental exercise test on a cycle ergometer (5 min warm-up at 30W, and subsequent steps of 3 min with power increases of 30W) performed at a room temperature of 35-38ºC (degrees Celsius).</description>
+    <arm_group_label>Hyperthermia</arm_group_label>
+    <other_name>Maximal incremental ergometry with hyperthermia</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Incremental exercise test under glycogen depletion</intervention_name>
+    <description>Maximal incremental exercise test on a cycle ergometer (5 min warm-up at 30W, and subsequent steps of 3 min with power increases of 30W) under glycogen depletion by performing an exercise protocol to deplete glycogen stores plus a low-carbohydrate diet 24 h before incremental testing</description>
+    <arm_group_label>Glycogen depletion</arm_group_label>
+    <other_name>Maximal incremental ergometry with glycogen depletion</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Perform endurance training with a volume of between 3 and 12h/week&#xD;
+&#xD;
+          -  In women, having regular menstrual cycles (25-35 days length)&#xD;
+&#xD;
+          -  In women, being able to perform the test without menstrual discomfort or pain and&#xD;
+             without having taken anti-inflammatory or analgesic drugs&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Suffering from any previous disease, disorder or ailment that could affect the results&#xD;
+             of the study variables&#xD;
+&#xD;
+          -  Smoking&#xD;
+&#xD;
+          -  In women, using any type of hormonal contraceptive&#xD;
+&#xD;
+          -  In women, having heavy menstrual bleeding, detected with the menstrual bleeding&#xD;
+             questionnaire proposed by Wyatt et al. (2001)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rocío Cupeiro, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universidad Politécnica de Madrid.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jose A Benítez-Muñoz, MS</last_name>
+    <phone>+34910677866</phone>
+    <email>joseantonio.benitez.munoz@upm.es</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Rocío Cupeiro, PhD</last_name>
+    <phone>+34910677990</phone>
+    <email>rocio.cupeiro@upm.es</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Laboratorio de Fisiología del Esfuerzo. Facultad de Ciencias de la Actividad Física y del Deporte (INEF)</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jose A Benítez-Muñoz, MS</last_name>
+      <phone>+34910677866</phone>
+      <email>joseantonio.benitez.munoz@upm.es</email>
+    </contact>
+    <contact_backup>
+      <last_name>Rocío Cupeiro, PhD</last_name>
+      <phone>+34910677990</phone>
+      <email>rocio.cupeiro@upm.es</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Rocío Cupeiro, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jose A Benítez-Muñoz, MS</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ana B Peinado, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Isabel Guisado, MS</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Miguel A Rojo-Tirado, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Nuria Romero-Parra</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>María Alcocer-Ayuga, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <reference>
+    <citation>Wyatt KM, Dimmock PW, Walker TJ, O'Brien PM. Determination of total menstrual blood loss. Fertil Steril. 2001 Jul;76(1):125-31. doi: 10.1016/s0015-0282(01)01847-7.</citation>
+    <PMID>11438330</PMID>
+  </reference>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>January 11, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>April 12, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 12, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Technical University of Madrid</investigator_affiliation>
+    <investigator_full_name>Rocío Cupeiro, PhD</investigator_full_name>
+    <investigator_title>Physical Activity and Sports PhD (Associate Professor)</investigator_title>
+  </responsible_party>
+  <keyword>lactate kinetics</keyword>
+  <keyword>exercise</keyword>
+  <keyword>energy metabolism</keyword>
+  <keyword>hyperthermia</keyword>
+  <keyword>glycogen depletion</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9107">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05705115</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Volu-Flow</org_study_id>
+    <nct_id>NCT05705115</nct_id>
+  </id_info>
+  <brief_title>Acetated Ringer´s Solution in Experimental Hypovolemia</brief_title>
+  <acronym>Volu-Flow</acronym>
+  <official_title>A Randomized Study to Investigate Central and Cerebral Hemodynamic Effects and Volume Kinetics of Ringer´s Acetate Compared With no Intravenous Fluids, During Experimental Hypovolemia Compared With Euvolemia, in Healthy Human Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Oslo University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University Hospital, Akershus</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Oslo University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Intravenous fluids are often given to increase stroke volume and thereby improve global&#xD;
+      oxygen delivery. The effect is however often transient, but the effect of a fluid bolus on&#xD;
+      stroke volume and other hemodynamic variables over time are poorly described. The volume&#xD;
+      effect of a fluid bolus (effect on blood volume) can be calculated by measuring Haemoglobin.&#xD;
+      The purpose of this study is to elucidate the hemodynamic effects of a fluid bolus during&#xD;
+      normovolemia and hypovolemia in healthy volunteers. Study details include:&#xD;
+&#xD;
+      • Study Duration: 2 visits of approximately 2 h duration each + follow-up visit. Visits 1 and&#xD;
+      2 are at least 2 days apart. Number of Participants: A maximum of 15 participants will be&#xD;
+      enrolled to study intervention such that 12 evaluable participants complete the study&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Administration of intravenous fluids is one of the most commonly performed procedures in&#xD;
+      anaesthesia, critical care and emergency medicine. Intravenous fluids can be given to achieve&#xD;
+      specific goals depending on the type of fluid, but often, fluid is given simply to expand the&#xD;
+      intravascular volume. The volume-expanding effect of intravenous fluids is however&#xD;
+      time-dependent, and often of limited duration as fluid is distributed out of the&#xD;
+      intravascular space and eliminated mainly in the kidneys.&#xD;
+&#xD;
+      The goal of intravascular volume expansion is to improve haemodynamic variables, such as SV,&#xD;
+      CO and ABP. The reasoning is that volume expansion increases SV mainly mediated by the&#xD;
+      Frank-Starling mechanism. The degree to which SV increases with volume expansion is termed&#xD;
+      fluid responsiveness.1 The increase in SV does however in most cases seem to be transient.&#xD;
+      The reason for the transient nature of the hemodynamic response is not known, but may be&#xD;
+      related to reduction in intravascular volume expansion as described above or other factors,&#xD;
+      such as vasodilation.&#xD;
+&#xD;
+      Calculation of volume expansion:&#xD;
+&#xD;
+      The volume-expanding effect of intravenous fluids has been studied by measuring concentration&#xD;
+      of hemoglobin. Under the assumption that hemoglobin is evenly distributed in, and does not&#xD;
+      leave the intravascular space, intravascular volume can be calculated and kinetic studies of&#xD;
+      the volume effect (volume kinetics) can be performed.&#xD;
+&#xD;
+      Hb = intravascular amount of hemoglobin V0 = Intravascular volume at time 0 Vt =&#xD;
+      Intravascular volume at time t [Hb]0 = Hemoglobin concentration at time 0 [Hb]t = Hemoglobin&#xD;
+      concentration at time t Eq1: (Hb)o= Hb/Vo. Vo = Hb/(Hb)o Eq 2: (Hb)t= Hb/Vt. Vo = Hb/(Hb)t.&#xD;
+&#xD;
+      Assuming that the amount of hemoglobin is constant, from Eq 1 ang Eq 2, it follows that:&#xD;
+&#xD;
+      Eq 3: Vt/V0=(Hb)o/(Hb)t which therefore gives the relative value of intravascular volume at&#xD;
+      time=t to compared to time=0; Vt_rel.&#xD;
+&#xD;
+      Kinetic model of outcomes:&#xD;
+&#xD;
+      Similar to the volume expansion, the relative value of the hemodynamic variables compared to&#xD;
+      baseline can be calculated, expressed as value at time=t, Vt.&#xD;
+&#xD;
+      A pharmacokinetic model can then be fitted to the observations. In a two-compartment model,&#xD;
+      the relative value (e.g. volume) of the observed value at time=t (Vt) can be described as:&#xD;
+&#xD;
+      Eq 4: V_(t_rel)=D(〖Ae〗^(-αt)+〖Be〗^(-βt))&#xD;
+&#xD;
+      A one-compartment model can be described as:&#xD;
+&#xD;
+      Eq 5: V_(t_rel)=D(〖Ae〗^(-αt)) A two-compartment model will typically describe a rapid&#xD;
+      equilibration with one compartment and a slower elimination. Initially the reduction in Vt is&#xD;
+      dominated by distribution, and later by the slower elimination. Each of these effects have&#xD;
+      their own half-lives, given by α and β. For a one-compartment model, the reduction in Vt is&#xD;
+      best described by a single half-life.&#xD;
+&#xD;
+      LBNP-model:&#xD;
+&#xD;
+      LBNP is a model that has been used for several decades. Lower body negative pressure (LBNP)&#xD;
+      is a model of central hypovolemia where negative pressure is applied to the body from the&#xD;
+      waist-down. Thereby, blood is displaced from the central compartment of the upper body to the&#xD;
+      lower extremities and pelvis. The model has been used for more than half a century and is&#xD;
+      considered useful model for studying hypovolemia in conscious volunteers.&#xD;
+&#xD;
+      The volume kinetics of intravenous fluids has been shown to be affected by volume status,&#xD;
+      with a longer lasting volume effect during hypovolaemia.The effects of volume status on the&#xD;
+      hemodynamic response to intravenous fluids has been less explored.&#xD;
+&#xD;
+      Aim of the study The aim of the present study is to explore the effects over time of an&#xD;
+      intravenous fluid bolus. The effects on the volume expanding effects and the hemodynamic&#xD;
+      effects will be measured.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2023</start_date>
+  <completion_date type="Anticipated">July 29, 2024</completion_date>
+  <primary_completion_date type="Anticipated">July 29, 2024</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Block randomized&#xD;
+Placebo controlled&#xD;
+Single center&#xD;
+Crossover&#xD;
+Factorial 2x2</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>Open-label using blinded randomization. The intervention to be taken by a participant will be assigned using randomization envelopes, opened at visit 1.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cardiac stroke volume</measure>
+    <time_frame>120 minutes</time_frame>
+    <description>Half-life of change in cardiac stroke volume</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Intravascular volume</measure>
+    <time_frame>120 minutes</time_frame>
+    <description>Half-life of change in intravascular volume</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Middle cerebral artery blood flow velocity</measure>
+    <time_frame>120 minutes</time_frame>
+    <description>Half-life of change in middle cerebral artery blood flow velocity</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Hemodynamic response</measure>
+    <time_frame>120 minutes</time_frame>
+    <description>Half-lives of mean arterial pressure, heart rate and cardiac output</description>
+  </other_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Hypovolemia</condition>
+  <condition>Fluid Loss</condition>
+  <condition>Hemodynamic Instability</condition>
+  <arm_group>
+    <arm_group_label>LBNP 0 + no intravenous fluid</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>LBNP 0 + Ringer's acetate</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>LBNP 40 + no intravenous fluid</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>LBNP 40 + Ringer's acetate</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ringer acetate</intervention_name>
+    <description>Ringer acetate 5 ml/kg.</description>
+    <arm_group_label>LBNP 0 + Ringer's acetate</arm_group_label>
+    <arm_group_label>LBNP 40 + Ringer's acetate</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Lower body negative pressure</intervention_name>
+    <description>Lower body negative pressure, 40 mmHg. Experimental hypovolemia.</description>
+    <arm_group_label>LBNP 40 + Ringer's acetate</arm_group_label>
+    <arm_group_label>LBNP 40 + no intravenous fluid</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants who are overtly healthy as determined by medical evaluation including&#xD;
+             medical history, physical examination and focused cardiac ultrasound&#xD;
+&#xD;
+          -  Capable of giving signed informed consent which includes compliance with the&#xD;
+             requirements and restrictions listed in the informed consent form (ICF) and in this&#xD;
+             protocol&#xD;
+&#xD;
+          -  Sex and Contraceptive/Barrier Requirements Male participants: Not applicable. Female&#xD;
+             participants: Use of adequate birth control for women of childbearing potential.&#xD;
+&#xD;
+          -  A woman is considered of childbearing potential (WOCBP), i.e. fertile, following&#xD;
+             menarche and until becoming post-menopausal unless permanently sterile when sexually&#xD;
+             active. Permanent sterilisation methods include hysterectomy, bilateral salpingectomy&#xD;
+             and bilateral oophorectomy. A postmenopausal state is defined as no menses for 12&#xD;
+             months without an alternative medical cause. A high follicle stimulating hormone (FSH)&#xD;
+             level in the postmenopausal range may be used to confirm a post-menopausal state in&#xD;
+             women not using hormonal contraception or hormonal replacement therapy. However, in&#xD;
+             the absence of 12 months of amenorrhea, a single FSH measurement is insufficient.&#xD;
+&#xD;
+          -  Inclusion of WOCBP is possible when either:&#xD;
+&#xD;
+          -  Using at least an acceptable effective contraceptive measure (combined (estrogen and&#xD;
+             progestogen containing) hormonal contraception, progestogen-only hormonal&#xD;
+             contraception associated with inhibition of ovulation, intrauterine device,&#xD;
+             intrauterine hormone-releasing system, bilateral tubal occlusion, vasectomised partner&#xD;
+             or sexual abstinence). As a minimum contraception should be maintained until treatment&#xD;
+             discontinuation. or&#xD;
+&#xD;
+          -  Confirmed negative highly sensitive urine or serum pregnancy test at screening. A&#xD;
+             pregnancy test is performed at any visit before administering IMP if more than 14 days&#xD;
+             have passed since last pregnancy test. There will be no demand for post-intervention&#xD;
+             contraception.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Participants are excluded from the study if any of the following criteria apply:&#xD;
+&#xD;
+        Medical Conditions&#xD;
+&#xD;
+          1. Any medical condition limiting physical exertional capacity or requiring regular&#xD;
+             medication (allergy and contraceptives excepted).&#xD;
+&#xD;
+          2. Pregnancy.&#xD;
+&#xD;
+          3. Breastfeeding.&#xD;
+&#xD;
+          4. History of syncope (syncope of presumed vasovagal nature with known precipitating&#xD;
+             factor excepted).&#xD;
+&#xD;
+          5. Any known cardiac arrhythmia. Prior/Concomitant Therapy&#xD;
+&#xD;
+          6. Any drug (contraceptives excepted) used on a regular basis for a chronic condition&#xD;
+             (allergy excepted).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Oslo University Hospital</name>
+      <address>
+        <city>Oslo</city>
+        <zip>0586</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Norway</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 21, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 21, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>February 7, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 7, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 9, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Oslo University Hospital</investigator_affiliation>
+    <investigator_full_name>Lars Øivind Høiseth</investigator_full_name>
+    <investigator_title>M.D., PhD</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypovolemia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

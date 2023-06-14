@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9169">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05703945</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21CH246</org_study_id>
+    <secondary_id>ANSM</secondary_id>
+    <nct_id>NCT05703945</nct_id>
+  </id_info>
+  <brief_title>Efficacy of a Toe Flexion Training Protocol on Older Adults' Mobility</brief_title>
+  <acronym>PRP-Pied-AUT</acronym>
+  <official_title>Efficacy of a Toe Flexion Training Protocol on Older Adults' Mobility</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire de Saint Etienne</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire de Saint Etienne</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This randomized controlled trial aims to explore the effect of a toe flexion resistance&#xD;
+      training protocol on toe flexion strength and morphology, as well as in older adults (65-85&#xD;
+      completed years) mobility related construct. The study consists of a 4 weeks control period,&#xD;
+      followed by 8 weeks intervention period and 4 weeks follow up.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      During the first period participants are unaware of their allocation, while in the&#xD;
+      intervention period they will be allocated to a training intervention or a control group&#xD;
+      (habits maintenance). The primary outcome is the toes maximal voluntary isometric&#xD;
+      plantarflexion. The treatment effectiveness estimand is the same as in a pretest-posttest&#xD;
+      case control study, considering considering the end of the control period as pre-point. An&#xD;
+      estimation of the individual variability in response to the treatment will be provided.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 6, 2022</start_date>
+  <completion_date type="Anticipated">May 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a randomized controlled trial with repeated measures, monocentric, in 2 parallel groups of elderly subjects (60-85 years) in good general health: one receiving an 8-week muscle strengthening program (PRP group), the other not (control group).</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>A centralized randomization will be performed at the 3rd visit so that participants do not know which group they will be assigned to during the control period.&#xD;
+Participants do not know which group they will be assigned to during the control period.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>maximum isometric muscle force of flexion of the metatarsophalangeal (MTP) joints</measure>
+    <time_frame>Baseline to Week 18</time_frame>
+    <description>the maximum isometric muscle force of joint flexion MTP (in N) measured with an ergometer composed of a 3-dimensional sensor (Nano 25, ATI Industrial Automation, Garner, NC) during the 3 periods of the randomized controlled trial (control, intervention and follow-up) and repeatedly each week during the intervention protocol. The measure is defined as the difference between the highest point and the baseline (week 1) in the signal time series.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Week 18 in development of joint flexion strength</measure>
+    <time_frame>Baseline to Week 18</time_frame>
+    <description>The rate of force development measured by the area under the curve (Impulse - N/s) in the force time series during a specific task. The 0-200ms windows will be considered.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Week 18 in Deformation of the foot</measure>
+    <time_frame>Baseline to Week 18</time_frame>
+    <description>It's a composite outcome.&#xD;
+To assess foot deformity measurements will be taken:&#xD;
+By measuring in cm: height of the navicular, total length of the foot, truncated length of the foot, width of the midfoot and height of the dorsal arch when the participant is seated and then when standing on one foot thanks to the device By the &quot;Manchester Scale&quot; allowing to classify the severity of the hallux valgus (in arbitrary unit) by means of an observation of the deformity according to 4 levels: no deformity, slight deformity, average deformity and severe deformity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Week 18 in Foot posture</measure>
+    <time_frame>Baseline to Week 18</time_frame>
+    <description>Foot posture will be measured using the Foot Posture Index (FPI-6). It is a diagnostic tool used to quantify the degree to which a foot is pronated, neutral or supinated.&#xD;
+There are six criteria for the Foot Posture Index for the physical therapist to observe. They include: Talar head palpation, Supra and infra lateral malleoli curvature (viewed from behind), Calcaneal frontal plane position (viewed from behind), Prominence in region of TNJ (viewed at an angle from inside, Congruence of medial longitudinal arch (viewed from inside), Abduction/adduction of forefoot on rearfoot (view from behind). All criteria are graded from -2 to +2.&#xD;
+Features commensurate with an approximately neutral foot posture are graded as zero, while Pronated postures are given a positive value, the higher the value the more pronated.&#xD;
+Supinated features are given a negative value, the more negative the value the more supinated.&#xD;
+For a neutral foot the final FPI aggregate score should lie somewhere around zero</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Week 18 in Morphology of the foot muscles</measure>
+    <time_frame>Baseline to Week 18</time_frame>
+    <description>The morphology of the foot muscles will be evaluated with the AixPlorer Ultrasonic scanner, version 6.1.1; Supersonic Imagine, Aix-en-Provence, France</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Week 18 in Static postural balance</measure>
+    <time_frame>Baseline to Week 18</time_frame>
+    <description>Static postural balance will be evaluated using a force platform (Kistler, Winterhur, Switzerland) during 2 balance tasks: unipodal support with eyes open on the dominant foot and on the non dominant foot.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Month 4 in Force production of the foot complex</measure>
+    <time_frame>Baseline to Month 4</time_frame>
+    <description>The force production of the foot complex during walking will be evaluated using a 3D analysis system (Motion analysis corporation, Raptor 4, Santa Rosa, CA, USA)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Week 18 in the time taken during the &quot;Time Up and Go Test&quot;</measure>
+    <time_frame>Baseline to Week 18</time_frame>
+    <description>It will be evaluated using :&#xD;
+the time taken during the &quot;Time Up and Go Test&quot; (in seconds)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Week 18 in the distance covered in the &quot;6-minute walk test&quot; (in meters)</measure>
+    <time_frame>Baseline to Week 18</time_frame>
+    <description>it will be evaluated using the distance covered in the &quot;6-minute walk test&quot; (in meters)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Week 18 in Fall Efficacy Scale (FES-Fr)</measure>
+    <time_frame>Baseline to Week 18</time_frame>
+    <description>The Fall Efficacy Scale (FES-Fr) in French version to evaluate the apprehension/fear of falling by the participants.&#xD;
+It is a tool that measures the level of concern about falling during social and physical activities inside and outside the home whether or not the person actually does the activity. The level of concern is measured on a four point Likert scale (1=not at all concerned to 4=very concerned) Minimum 16 (no concern about falling) to maximum 64 (severe concern about falling)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Week 18 in Modified Falls Efficacy Scale (MFES-Fr)</measure>
+    <time_frame>Baseline to Week 18</time_frame>
+    <description>The Modified Falls Efficacy Scale (MFES-Fr) to assess self-efficacy in the face of falls.&#xD;
+The MFES includes outdoor activities (transportation, crossing roads and light gardening and hanging out the washing). Each item is scored on the 10-point visual analogue scale: 0 = not confident or not sure at all, 5 = fairly confident or fairly sure, and 10 = completely confident or completely sure. The total score is the average of all the item scores.&#xD;
+Hence, the total score ranges from zero to ten. Higher scores reflect more confidence and less fear of falling while lower scores reflect less confidence and more fear of falling. Participants are classified as either fearful (MFES score &lt; 8) or not fearful (MFES score ≥ 8) based on an earlier proposition</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">72</enrollment>
+  <condition>Healthy Ageing</condition>
+  <arm_group>
+    <arm_group_label>Training group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants benefit from an 8-week training program of muscle strengthening</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Participants in the control group will be asked to maintain their habits and lifestyle (without training program) for the duration of the study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Progressive training program</intervention_name>
+    <description>The intervention consists of progressive training program : toe plantar flexion isometric at 30° of dorsal flexion of the metatarsophalangeal joint (0° is considered the anatomical position). The training will be performed in the same customized device used for the measurement. Each session consists of four sets at 80% of the maximal voluntary contraction performed until task failure. Between the sets, 2 minutes of rest will be allowed. Maximal voluntary contraction estimate will be updated every session of training, testing it before the start. The test is considered part of the training intervention. The total impulse performed during the single session will be recorded. Participants will train twice a week for 8 weeks. Training will be performed with both the feet.</description>
+    <arm_group_label>Training group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Control group</intervention_name>
+    <description>The control group will not perform the progressive training program after visit 2 and will continue all of their daily activities during the 8-week intervention period.</description>
+    <arm_group_label>Control group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age between 60 and 85 completed years;&#xD;
+&#xD;
+          -  To be male or female;&#xD;
+&#xD;
+          -  To be in good health meaning to be in a complete state of physical, mental and social&#xD;
+             well-being with the absence of pathologies, pain or complaints to the lower limbs,&#xD;
+&#xD;
+          -  Be affiliated or beneficiary of a social security insurance;&#xD;
+&#xD;
+          -  Having freely given their written consent after having been informed of the purpose,&#xD;
+             the procedure and the potential risks involved.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Use of pharmacological therapy to match gander identity; Have a major comorbidity&#xD;
+             corresponding to a score &gt;4 points on the Charlson Comorbidity Index (French Version);&#xD;
+&#xD;
+          -  Score &lt;24 points in the MMSE-Fr;&#xD;
+&#xD;
+          -  Have spasticity or severe cerebellar ataxia in the leg;&#xD;
+&#xD;
+          -  Have an abnormal range of motion of the toes and/or ankle;&#xD;
+&#xD;
+          -  Have a neurological or vestibular deficit that may affect walking or balance&#xD;
+             (lumbar-sacral radiculopathy, peripheral nerve pathology, Marfan or Eehlers-Danlos&#xD;
+             syndrome, etc.);&#xD;
+&#xD;
+          -  Have a musculoskeletal injury that impairs walking or balance;&#xD;
+&#xD;
+          -  Have a high resting heart rate (&gt; 90 beats per minute) and blood pressure &gt; 144/94&#xD;
+             mmHg;&#xD;
+&#xD;
+          -  Have a history of illness or conditions that would compromise the safety of the&#xD;
+             participant during the study;&#xD;
+&#xD;
+          -  Participate at the same time in another medical interventional experiment or have&#xD;
+             participated in such a study in the 30 days preceding this study;&#xD;
+&#xD;
+          -  Being unable to understand the purpose and conditions of the study, and to give&#xD;
+             consent;&#xD;
+&#xD;
+          -  Being deprived of liberty or under guardianship.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pascal EDOUARD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Centre Hospitalier Universitaire de Saint Etienne</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pascal EDOUARD, PhD</last_name>
+    <phone>(0)4 77 12 79 85</phone>
+    <phone_ext>+33</phone_ext>
+    <email>pascal.edouard@univ-st-etienne.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Florence RANCON, CRA</last_name>
+    <phone>(0)477829458</phone>
+    <phone_ext>+33</phone_ext>
+    <email>florence.rancon@chu-st-etienne.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>CHU de Saint-Etienne</name>
+      <address>
+        <city>Saint-Étienne</city>
+        <zip>42055</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pascal EDOUARD, PhD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Clément FOSCHIA, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Marine SORG, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Pascal EDOUARD, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>David HUPIN, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Léonard FEASSON, MD PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>October 3, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>January 19, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 19, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>top flexion</keyword>
+  <keyword>individual variability</keyword>
+  <keyword>intrinsic muscle</keyword>
+  <keyword>resistance training</keyword>
+  <keyword>healthy ageing</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

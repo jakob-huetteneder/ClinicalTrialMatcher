@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9649">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05693571</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-14314</org_study_id>
+    <nct_id>NCT05693571</nct_id>
+  </id_info>
+  <brief_title>Engagement and Depression in CHildhood-Onset Systemic Lupus</brief_title>
+  <acronym>ECHOS</acronym>
+  <official_title>Engagement and Depression in Adolescents and Young Adults With CHildhood-Onset Systemic Lupus</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Montefiore Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Childhood Arthritis and Rheumatology Research Alliance</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Montefiore Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this observational and pilot study is to better understand how depression&#xD;
+      symptoms may contribute to how well adolescent and young adults with lupus follow-up with&#xD;
+      their lupus clinical care. The main questions it aims to answer are:&#xD;
+&#xD;
+        1. Whether anhedonia (a core symptom of depression) predicts disengagement in care&#xD;
+&#xD;
+        2. Whether a patient-tailored mobile health application built to improve both engagement in&#xD;
+           care and depression symptoms will be feasible and acceptable to adolescents and young&#xD;
+           adults with lupus.&#xD;
+&#xD;
+      Participants with systemic lupus, ages 15-24 from the Bronx, New York will be asked to&#xD;
+      complete questionnaires; some will be asked to participate in focus groups to help adapt the&#xD;
+      mobile health app; participants will also be invited to join a pilot study to try the mobile&#xD;
+      health app for 6 months and answer questionnaires to document the experience.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 15, 2023</start_date>
+  <completion_date type="Anticipated">November 30, 2026</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Participants who utilize the Valera Application (Feasibility - Application Utilization)</measure>
+    <time_frame>6 months</time_frame>
+    <description>Feasibility of the Valera health application will determined by the percentage of participants who utilize the Valera platform. Participants with repeated (i.e., &gt;2) log-ins to both the care management and educational platforms will be considered users. A successful target percentage of ≥ 80% of enrolled participants logging into the care plan on the application and utilizing the messenger system at least twice during the 6-month pilot will be considered highly feasible.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility of the Intervention Measure (Participant Rating of Application Feasibility)</measure>
+    <time_frame>6 months</time_frame>
+    <description>Feasibility of the Intervention Measure (FIM) will be assessed by administration of a 4-item questionnaire at the end of the pilot study. Responses to each of the 4 questions will be evaluated on a 5-point scale Response (1 = Completely disagree, 2 = Disagree, 3 = Neither agree nor disagree, 4 = Agree, 5 = Completely agree). A higher aggregate score denotes a more favorable participant rating of feasibility of the application.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Acceptability of the Intervention Measure (Participant Rating of Application Acceptability)</measure>
+    <time_frame>6 months</time_frame>
+    <description>Acceptability of the Intervention Measure (AIM) will be assessed by administration of a 4-item questionnaire at the end of the pilot study. Responses to each of the 4 questions will be evaluated on a 5-point scale Response (1 = Completely disagree, 2 = Disagree, 3 = Neither agree nor disagree, 4 = Agree, 5 = Completely agree). A higher aggregate score denotes a more favorable participant rating of the application.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Engagement in Care - Number of participants with one or more visits</measure>
+    <time_frame>6 months</time_frame>
+    <description>Engagement in Care will be defined by the number of participants who have completed at least 1 clinical cSLE visit during the 6-month pilot window.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>SLE disease activity - patient reported</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Patient reported cSLE disease activity as defined by the SLE Activity Questionnaire (SLAQ). The SLAQ is a binary assessment tool which asks a single Patient Global Assessment question about presence and severity of lupus activity; questions on 24 specific symptoms of disease activity; and a single Numerical Rating Scale (NRS) asking the patient to rate disease activity on a scale of 0 - 10 (0 = 'no activity' and 10 = 'most activity'). Likert responses with four response categories (no problem, mild, moderate, and severe) are used for the single Patient Global Assessment as well as the 24 specific symptom questions. A higher composite score indicates increased lupus disease activity.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>SLE disease activity - patient reported</measure>
+    <time_frame>6 months</time_frame>
+    <description>Patient reported cSLE disease activity as defined by the SLE Activity Questionnaire (SLAQ). The SLAQ is a binary assessment tool which asks a single Patient Global Assessment question about presence and severity of lupus activity; questions on 24 specific symptoms of disease activity; and a single Numerical Rating Scale (NRS) asking the patient to rate disease activity on a scale of 0 - 10 (0 = 'no activity' and 10 = 'most activity'). Likert responses with four response categories (no problem, mild, moderate, and severe) are used for the single Patient Global Assessment as well as the 24 specific symptom questions. A higher composite score indicates increased lupus disease activity.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>SLE disease activity - clinically assessed, 12 weeks</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Clinically assessed lupus disease activity defined by SLE disease activity index (SLEDAI 2K). SLEDAI-2K is a binary scoring system based on the presence of 24 descriptors in nine organ systems assessed over the preceding 30 days. Descriptors of SLEDAI-2K are documented as either present or absent. Each of the descriptors has a weighted score and the total score of SLEDAI-2K is the sum of all 24 descriptor scores.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>SLE disease activity - clinically assessed, 6 months</measure>
+    <time_frame>6 months</time_frame>
+    <description>Clinically assessed lupus disease activity defined by SLE disease activity index (SLEDAI 2K). SLEDAI-2K is a binary scoring system based on the presence of 24 descriptors in nine organ systems assessed over the preceding 30 days. Descriptors of SLEDAI-2K are documented as either present or absent. Each of the descriptors has a weighted score and the total score of SLEDAI-2K is the sum of all 24 descriptor scores.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Depression symptom severity, 12 weeks</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Patient reported depression symptoms severity defined by Beck Depression Inventory-II (BDI-II). This questionnaire consists of a 21-item self reporting inventory answered by the participant based on a 4-point scale of increased severity of depression symptoms over the period. The results are totaled and a higher composite score is used as an indicator of increased severity of depression symptoms.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Depression symptom severity, 6 months</measure>
+    <time_frame>6 months</time_frame>
+    <description>Patient reported depression symptoms severity defined by Beck Depression Inventory-II (BDI-II). This questionnaire consists of a 21-item self reporting inventory answered by the participant based on a 4-point scale of increased severity of depression symptoms over the period. The results are totaled and a higher composite score is used as an indicator of increased severity of depression symptoms.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Lupus Erythematosus, Systemic</condition>
+  <condition>Depression</condition>
+  <arm_group>
+    <arm_group_label>Valera Pilot Study</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All participants in the open-label pilot study will be provided with the Valera smart phone application and online care manager dashboard</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Valera Smart Phone Application and Care Manager Dashboard</intervention_name>
+    <description>Valera mobile health application will provide educational materials around mental health and Systemic Lupus Erythematosus (SLE) and the ability to connect to a SLE care team via a care manager.</description>
+    <arm_group_label>Valera Pilot Study</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants 15-24 years old meeting American College of Rheumatology (ACR) Revised&#xD;
+             SLE Classification Criteria and/or European League Against Rheumatism/ACR&#xD;
+             Classification Criteria and/or 2012 SLE International Collaborating Clinic Criteria&#xD;
+             and followed at the Children's Hospital at Montefiore.&#xD;
+&#xD;
+          -  Must be diagnosed with SLE before 19 years of age (based on Childhood-onset systemic&#xD;
+             lupus erythematosus (cSLE) definition)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Non-Spanish or non-English speaking&#xD;
+&#xD;
+          -  Participants anticipating transitioning to an outside rheumatologist for lupus care&#xD;
+             within the period of study follow-up&#xD;
+&#xD;
+          -  Current psychotic disorders. However, attention-deficit/hyperactivity disorder,&#xD;
+             anxiety disorders, obsessive-compulsive disorder, posttraumatic stress disorder,&#xD;
+             eating disorders, and substance abuse disorders are not uncommon among adolescents and&#xD;
+             young adults (AYA) and will be allowed. Suicidal ideations (SI) and self-injurious&#xD;
+             acts (cutting) are common in depression and will be allowed (defined as passive SI).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>15 Years</minimum_age>
+    <maximum_age>24 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Tamar Rubinstein, MD, MS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Montefiore Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Tamar Rubinstein, MD, MS</last_name>
+    <phone>718-696-2604</phone>
+    <email>trubinst@montefiore.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Evin F Rothschild</last_name>
+    <email>evin.rothschild@einsteinmed.edu</email>
+  </overall_contact_backup>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>December 5, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>March 10, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 10, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 14, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Engagement in care</keyword>
+  <keyword>Mobile health</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lupus Erythematosus, Systemic</mesh_term>
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9054">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05706207</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HB0030-01</org_study_id>
+    <nct_id>NCT05706207</nct_id>
+  </id_info>
+  <brief_title>A Study of HB0030 Injection in Patients With Advanced Solid Tumors</brief_title>
+  <official_title>A Phase Ia,Single Center,Open-label,Dose-escalation Study to Evaluate the Safety and Pharmacokinetics of HB0030 Injection in Patients With Advanced Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Huabo Biopharm Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>First Affiliated Hospital Bengbu Medical College</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Huabo Biopharm Co., Ltd.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase Ia single-center, open-label, dose escalation study.The objectives of this&#xD;
+      study are to evaluate the safety, toxicity, tolerability,&#xD;
+      pharmacokinetics/pharmacodynamics(PK/PD), immunogenicity, biomarkers, and antitumor activity&#xD;
+      of HB0030 in advanced solid tumor subjects.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The phase Ia study will enroll up to 19-36 subjects with advanced solid tumor who have&#xD;
+      progressing tumor after standard therapy and have no better treatment option.The conventional&#xD;
+      3+3 design will be applied for dose escalation.This study will set up 8 dose groups.HB0030&#xD;
+      injection is administered once every 3 weeks.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 21, 2021</start_date>
+  <completion_date type="Anticipated">September 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Subjects were enrolled from low to high doses. The dose groups were 0.03 mg/kg, 0.3 mg/kg, 1 mg/kg, 3 mg/kg, 10 mg/kg, 20 mg/kg, 30 mg/kg and 40 mg/kg, a total of 8 dose levels.For the first dose group (0.03mg/kg), the dose was increased according to the principle of accelerated titration combined with 3+3 dose acceleration.from 0.3mg/kg dose group,the study will adopt the 3+3 dose acceleration principle.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Dose Limiting Toxicity(DLT)</measure>
+    <time_frame>Up to 21 days</time_frame>
+    <description>DLT refers to the following toxicity related to HB0030 occurred during the DLT evaluation period (the first treatment cycle):&#xD;
+Hematological Dose Limiting toxicity include：&#xD;
+Grade 4 anaemia&#xD;
+Grade IV neutropenia confirmed by reexamination.&#xD;
+Grade 3 or higher febrile neutropenia&#xD;
+Grade 4 thrombocytopenia or grade 3 thrombocytopenia with bleeding&#xD;
+Nonhematologic Dose Limiting toxicity include：&#xD;
+Grade IV Nonhematologic Toxicity&#xD;
+Grade 3 non-hematological toxicity, which cannot be recovered to ≤ Grade 2 within 3 days after the best treatment&#xD;
+Failure to control grade III hypertension (uncontrolled &lt;160/100 mmHg in 7 days with appropriate antihypertensive therapy)&#xD;
+Other toxicities judged by investigators to require permanent discontinuation of HB0030&#xD;
+the above toxic reaction is evaluated by laboratory ,physical ,ECG, radiographic examination and etc.&#xD;
+Adverse events will be graded by NCI CTCAE v5.0</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum Tolerated Dose(MTD)</measure>
+    <time_frame>Up to 24 Months</time_frame>
+    <description>- Maximum Tolerated Dose is defined as the highest dose in which the number of cases of DLT is less than 1/3 of the total patients in the first treatment cycle (DLT evaluation period) of the dose increasing stage.Six subjects are required to confirm MTD</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maximum serum concentration(Cmax)</measure>
+    <time_frame>within 48 hours after single HB0030 administered</time_frame>
+    <description>Cmax refers to The maximum blood concentration of HB0030 after administration.&#xD;
+Sample concentration analysis method adopts ELISA .&#xD;
+parameters will be calculated by Phoenix WinNonlin version 8.3 using noncompartmental analysis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>half-life (t1/2)</measure>
+    <time_frame>within 3 months after first dose of HB0030 administered</time_frame>
+    <description>t1/2 refers to time of a half reduction of total drug concentration in Body.&#xD;
+parameters will be calculated by Phoenix WinNonlin version 8.3 using noncompartmental analysis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>time of maximum concentration(Tmax)</measure>
+    <time_frame>within 48 hours after single HB0030 administered</time_frame>
+    <description>- peak time after HB0030 administration.parameters will be calculated by Phoenix WinNonlin version 8.3 using noncompartmental analysis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUClast</measure>
+    <time_frame>Up to 24 Months</time_frame>
+    <description>AUClast refers to Area under the curve (AUC) from the time of 0 to the last measurable concentration.&#xD;
+parameters will be calculated by Phoenix WinNonlin version 8.3 using noncompartmental analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate (ORR)</measure>
+    <time_frame>Up to 24 Months</time_frame>
+    <description>ORR defined as the number of patients were confirmed complete response(CR) and/or partial response(PR) according to RECIST 1.1 divided by the patients with at least one tumour evaluation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate (DCR)</measure>
+    <time_frame>Up to 24 Months</time_frame>
+    <description>DCR defined as the number of patients were confirmed CR and/or PR and/or stable disease(SD) according to RECIST 1.1 divided by the patients with at least one tumour evaluation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DOR)</measure>
+    <time_frame>Up to 24 Months</time_frame>
+    <description>DOR defined as time from the first record of CR or PR to the first record of disease progression or death of subjects</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-drug antibody (ADA)</measure>
+    <time_frame>Up to 24 Months</time_frame>
+    <description>Using the ELISA method to detect the anti-drug antibody production in peripheral blood after HB0030 administration.</description>
+  </secondary_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">36</enrollment>
+  <condition>Advanced Solid Tumor</condition>
+  <arm_group>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment with 0.03 mg/kg HB0030 injection administered intravenously</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment with 0.3 mg/kg HB0030 injection administered intravenously</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment with 1 mg/kg HB0030 injection administered intravenously</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment with 3 mg/kg HB0030 injection administered intravenously</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 5</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment with 10 mg/kg HB0030 injection administered intravenously</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 6</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment with 20 mg/kg HB0030 injection administered intravenously</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 7</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment with 30 mg/kg HB0030 injection administered intravenously</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 8</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment with 40 mg/kg HB0030 injection administered intravenously</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>HB0030 injection</intervention_name>
+    <description>0.03 mg/kg intravenously, every 3 weeks, till tumor progress or intolerance</description>
+    <arm_group_label>Arm 1</arm_group_label>
+    <other_name>Recombinant Humanized Anti-TIGIT Monoclonal Antibody</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>HB0030 injection</intervention_name>
+    <description>0.3 mg/kg intravenously, every 3 weeks, till tumor progress or intolerance</description>
+    <arm_group_label>Arm 2</arm_group_label>
+    <other_name>Recombinant Humanized Anti-TIGIT Monoclonal Antibody</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>HB0030 injection</intervention_name>
+    <description>1 mg/kg intravenously, every 3 weeks, till tumor progress or intolerance</description>
+    <arm_group_label>Arm 3</arm_group_label>
+    <other_name>Recombinant Humanized Anti-TIGIT Monoclonal Antibody</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>HB0030 injection</intervention_name>
+    <description>3 mg/kg intravenously, every 3 weeks, till tumor progress or intolerance</description>
+    <arm_group_label>Arm 4</arm_group_label>
+    <other_name>Recombinant Humanized Anti-TIGIT Monoclonal Antibody</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>HB0030 injection</intervention_name>
+    <description>10 mg/kg intravenously, every 3 weeks, till tumor progress or intolerance</description>
+    <arm_group_label>Arm 5</arm_group_label>
+    <other_name>Recombinant Humanized Anti-TIGIT Monoclonal Antibody</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>HB0030 injection</intervention_name>
+    <description>20 mg/kg intravenously, every 3 weeks, till tumor progress or intolerance</description>
+    <arm_group_label>Arm 6</arm_group_label>
+    <other_name>Recombinant Humanized Anti-TIGIT Monoclonal Antibody</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>HB0030 injection</intervention_name>
+    <description>30 mg/kg intravenously, every 3 weeks, till tumor progress or intolerance</description>
+    <arm_group_label>Arm 7</arm_group_label>
+    <other_name>Recombinant Humanized Anti-TIGIT Monoclonal Antibody</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>HB0030 injection</intervention_name>
+    <description>40 mg/kg intravenously, every 3 weeks, till tumor progress or intolerance</description>
+    <arm_group_label>Arm 8</arm_group_label>
+    <other_name>Recombinant Humanized Anti-TIGIT Monoclonal Antibody</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female Age ≥ 18 years.&#xD;
+&#xD;
+          -  Patients with histologically or cytologically confirmed advanced malignant solid tumor&#xD;
+             who have been intolerant of all standard therapies or recurrence after all standard&#xD;
+             therapies, and there is no better treatment option.&#xD;
+&#xD;
+          -  At least one measurable tumor lesion According to RECIST criteria v1.1&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group(ECOG) performance status of 0 or 1&#xD;
+&#xD;
+          -  Life expectancy ≥3 months&#xD;
+&#xD;
+          -  Adequate organ function defined as:（No blood transfusion or hematopoietic stimulator&#xD;
+             treatment within 14 days before screening）&#xD;
+&#xD;
+               1. Adequate Hematological function defined as:&#xD;
+&#xD;
+                    1. Absolute neutrophil count ≥1.5×109/L&#xD;
+&#xD;
+                    2. Platelet count≥75×109/L&#xD;
+&#xD;
+                    3. Hemoglobin ≥ ≥90g/L&#xD;
+&#xD;
+               2. Adequate hepatic function defined as:&#xD;
+&#xD;
+                    1. Total bilirubin ≤ 1.5 × upper limit of normal (ULN)&#xD;
+&#xD;
+                    2. aspartate aminotransferase (AST) and alanine aminotransferase (ALT) ≤ 3 ×&#xD;
+                       ULN; AST or ALT ≤ 5 × ULN if subjects have liver metastases or liver cancer&#xD;
+&#xD;
+               3. Adequate renal function defined as:&#xD;
+&#xD;
+                  creatinine clearance (CrCL) &gt; 50 mL/min (calculated by Cockcroft-Gault Equation).&#xD;
+&#xD;
+               4. Adequate Coagulation function defined as:&#xD;
+&#xD;
+                    1. Activated partial thromboplastin time (APTT) ≤1.5×ULN&#xD;
+&#xD;
+                    2. International Normalized Ratio (INR)≤1.5×ULN&#xD;
+&#xD;
+               5. Urine protein: qualitative urine protein ≤ 1+ or qualitative urine protein≥&#xD;
+                  2+,24h urine protein&lt;1g&#xD;
+&#xD;
+          -  The fertile subjects (male and female) must agree to use reliable contraceptive&#xD;
+             methods (hormone or barrier method or abstinence) with their partners during the test&#xD;
+             period and at least 90 days after the last medication; The blood or urine pregnancy&#xD;
+             test of female patients of childbearing age within 7 days before the first&#xD;
+             administration must be negative&#xD;
+&#xD;
+          -  Subjects can fully understand this study and voluntarily sign the informed consent&#xD;
+             form before the trial, and are willing and able to follow the clinical research and&#xD;
+             follow-up visit process.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Symptomatic central nervous system(CNS) metastases; or there is other evidence that&#xD;
+             the patient's central nervous system metastasis or meningeal metastasis has not been&#xD;
+             controlled, which is not suitable for enrollment according to the judgment of the&#xD;
+             investigator; or patients with asymptomatic CNS metastases who are radiologically and&#xD;
+             neurologically stable &gt; 4 weeks following CNS directed therapy, and are on a stable or&#xD;
+             decreasing dose of corticosteroids equivalent to &lt; 10 mg prednisone/day for at least 2&#xD;
+             weeks prior to study treatment are eligible for study entry.&#xD;
+&#xD;
+          -  Active autoimmune disease or history of autoimmune disease requiring systemic therapy&#xD;
+             &lt; 2 years prior to screening except hypothyroidism, vitiligo, Grave's disease,&#xD;
+             Hashimoto's disease, or Type I diabetes. Patients with childhood asthma or atopy that&#xD;
+             has not been active in the 2 years prior to study screening are eligible.&#xD;
+&#xD;
+          -  History of Grade 3-4 immune-related adverse events (irAEs) or irAEs requiring&#xD;
+             discontinuation of prior therapies, (except for grade 3 endocrinopathy that is managed&#xD;
+             with hormone replacement therapy).&#xD;
+&#xD;
+          -  Use of systemic corticosteroids in a dose equivalent to &gt; 10 mg/day of prednisone or&#xD;
+             other immunosuppressive agent &lt; 2 weeks prior to screening; the use of topical,&#xD;
+             intraocular, intra-articular, intranasal or inhaled corticosteroids (systemic&#xD;
+             absorption is low) will be allowed to prevent (e.g. allergy to contrast agents) or&#xD;
+             treat non-autoimmune condition (e.g. delayed hypersensitivity caused by exposure to&#xD;
+             allergens)&#xD;
+&#xD;
+          -  Patients who Have a history of serious cardiovascular and cerebrovascular diseases,&#xD;
+             including but not limited to:&#xD;
+&#xD;
+               1. Acute coronary syndrome, congestive heart failure, aortic dissection, stroke or&#xD;
+                  other cardiovascular and cerebrovascular events of grade 3 or above occurred&#xD;
+                  within 6 months before enrollment&#xD;
+&#xD;
+               2. Serious cardiac rhythm or conduction abnormality, such as ventricular arrhythmia&#xD;
+                  requiring clinical intervention, II-III degree atrioventricular block, QTcF≥450&#xD;
+                  ms, etc&#xD;
+&#xD;
+               3. New York Heart Association（NYHA）cardiac function grade ≥ Grade II or left&#xD;
+                  ventricular ejection fraction(LVEF)&lt;50%&#xD;
+&#xD;
+               4. Uncontrolled arterial hypertension even after standard treatment (systolic blood&#xD;
+                  pressure ≥ 160 mmHg or diastolic blood pressure ≥ 100 mmHg)&#xD;
+&#xD;
+          -  Uncontrolled diabetes mellitus with hemoglobin A1c &gt; 8%.&#xD;
+&#xD;
+          -  Patients who Have received TIGIT inhibitor treatment in the past&#xD;
+&#xD;
+          -  Patients who Have received chemotherapy, biotherapy, endocrine therapy, immunotherapy&#xD;
+             and other anti-tumor drugs within 4 weeks before enrollment， Except for the following：&#xD;
+&#xD;
+               1. Nitrosourea or mitomycin C within 6 weeks before the first use of the study drug&#xD;
+&#xD;
+               2. Oral fluorouracil and small molecule targeted drugs are taken 2 weeks before the&#xD;
+                  first use of the study drug or within 5 half-life of the drug(according to&#xD;
+                  whichever is longer)&#xD;
+&#xD;
+               3. The Chinese medicine with anti-tumor indication is within 2 weeks before the&#xD;
+                  first use of the study drug&#xD;
+&#xD;
+          -  Patients who Have received stem cell, bone marrow or solid organ transplantation in&#xD;
+             the past&#xD;
+&#xD;
+          -  Any of the following infections：&#xD;
+&#xD;
+               1. Active infection within 2 weeks before screening, requiring intravenous&#xD;
+                  medication&#xD;
+&#xD;
+               2. Active tuberculosis (via medical history).&#xD;
+&#xD;
+               3. Positive test for HIV antibody at screening.&#xD;
+&#xD;
+               4. Active hepatitis B or C. HBV carriers without active disease (HBV DNA titer &lt;&#xD;
+                  1000 cps/mL or 200 IU/mL), or cured Hepatitis C (negative hepatitis C virus RNA&#xD;
+                  test) may be enrolled.&#xD;
+&#xD;
+          -  patients who have received major surgical treatment (excluding diagnostic puncture,&#xD;
+             venous catheterization, etc.), interventional treatment, radiotherapy and ablation&#xD;
+             treatment within 4 weeks before screening&#xD;
+&#xD;
+          -  patients who have a history of severe allergy, has experienced 3-4 grade allergic&#xD;
+             reaction when receiving other monoclonal antibodies, or is known to be allergic to&#xD;
+             protein drugs or recombinant proteins or HB0030 drug components&#xD;
+&#xD;
+          -  Patients who have received live virus vaccine within 30 days before screening except&#xD;
+             for Corona Virus Disease 2019(COVID-19) vaccine&#xD;
+&#xD;
+          -  Pregnant or breast-feeding females&#xD;
+&#xD;
+          -  Patient who has participated in other clinical studies and received study drugs within&#xD;
+             30 days before the first dose Administration of study.&#xD;
+&#xD;
+          -  Any other serious diseases (e.g. active gastric ulcer, uncontrolled seizures,&#xD;
+             cerebrovascular incidents, gastrointestinal bleeding, severe symptoms and signs of&#xD;
+             blood coagulation disorder, heart disease).or in the judgment of the Investigator,&#xD;
+             there are some situation may interfere with the planned staging, treatment and&#xD;
+             follow-up. Or The patient's compliance is affected or the subject is at high risk of&#xD;
+             treatment complications.&#xD;
+&#xD;
+          -  COVID-19 infected persons with positive quantitative real time(qRT) polymerase chain&#xD;
+             reaction(PCR )and/or serological test results during screening.&#xD;
+&#xD;
+          -  Severe dyspnea or pulmonary dysfunction or need for continuous supportive oxygen&#xD;
+             inhalation.&#xD;
+&#xD;
+          -  The skin wound, surgical site, wound site, mucosa serious ulcer or fracture did not&#xD;
+             fully heal, and the investigator judged that it was not suitable for enrollment.&#xD;
+&#xD;
+          -  Patients with gastrointestinal bleeding within 12 weeks before the administration of&#xD;
+             the first study drug or with active gastrointestinal bleeding judged by the&#xD;
+             investigator.&#xD;
+&#xD;
+          -  Patients with a history of interstitial lung disease or non-infectious pneumonia,&#xD;
+             except those caused by radiotherapy (enrollment shall be determined after discussion&#xD;
+             with the medical supervisor)&#xD;
+&#xD;
+          -  Inability to comply with study and follow-up procedures&#xD;
+&#xD;
+          -  Patients unable to comply with study procedures&#xD;
+&#xD;
+          -  Patients who in the judgement of the Investigator are not suited to participate in&#xD;
+             this trial&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>huan zhou, master</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>First Affiliated Hospital Bengbu Medical College</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>huan zhou, Master</last_name>
+    <phone>+8613665527160</phone>
+    <email>zhouhuanbest@vip.163.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>the First Affiliated Hospital of Bengbu Medical College</name>
+      <address>
+        <city>Bengbu</city>
+        <state>Anhui</state>
+        <zip>233004</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>huan zhou, master</last_name>
+      <phone>+8613665527160</phone>
+      <email>zhouhuanbest@vip.163.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 6, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 31, 2023</study_first_posted>
+  <last_update_submitted>January 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antineoplastic Agents, Immunological</mesh_term>
+    <mesh_term>Antibodies</mesh_term>
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

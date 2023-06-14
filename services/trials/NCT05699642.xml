@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9360">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05699642</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022P000891</org_study_id>
+    <nct_id>NCT05699642</nct_id>
+  </id_info>
+  <brief_title>Online Tai Chi Plus Fitbit After ACS</brief_title>
+  <acronym>Mind2Move</acronym>
+  <official_title>Tai Chi Exercise and Wearable Feedback Technology to Promote Physical Activity in Acute Coronary Syndrome Survivors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Beth Israel Deaconess Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Lifespan</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Beth Israel Deaconess Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This projects studies the role of tai chi exercise and wearable fitness trackers to promote&#xD;
+      physical activity in acute coronary syndrome (ACS) survivors.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a two-site randomized controlled trial taking place at Beth Israel Deaconess Medical&#xD;
+      Center in Boston, MA and The Miriam Hospital in Providence, RI. Seventy (n=70) physically&#xD;
+      inactive ACS survivors will be randomized to either a 6-month group tai chi program&#xD;
+      (remotely-delivered classes on Zoom) integrated with a wearable self-monitoring/feedback&#xD;
+      device plus enhanced usual care (EUC), or to EUC alone. EUC will include usual care provided&#xD;
+      by participants' providers integrated with printed CHD risk factor education materials.&#xD;
+      Assessments will be conducted in-person at baseline, 6 months (end of treatment), and 9&#xD;
+      months. Our primary outcomes will be focused on study feasibility and acceptability.&#xD;
+      Secondary outcomes include the following patient-centered outcomes: objectively measured (via&#xD;
+      accelerometry) moderate-vigorous physical activity, light physical activity, sedentary time,&#xD;
+      cognitive-behavioral constructs (exercise self-efficacy, intrinsic motivation, depression,&#xD;
+      stress, HRQL), and cardiometabolic measures (exercise capacity, body weight, lipid profile,&#xD;
+      blood pressure, fasting plasma glucose).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 1, 2023</start_date>
+  <completion_date type="Anticipated">May 1, 2028</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2027</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Recruitment rate</measure>
+    <time_frame>Through study completion (an average of 3 years)</time_frame>
+    <description>Recruitment rate will be evaluated with respect to rate of enrollment, defined as randomization into the trial.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Retention rate</measure>
+    <time_frame>Through study completion (an average of 3 years)</time_frame>
+    <description>Retention rate will be quantified by the proportion of subjects who remain in the study to complete our 9-month visit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Intervention enjoyment</measure>
+    <time_frame>6 months</time_frame>
+    <description>Intervention enjoyment will be assessed via qualitative interviews</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Intervention adherence</measure>
+    <time_frame>Through study completion (an average of 3 years)</time_frame>
+    <description>Intervention adherence will be measured by collection of class attendance and home practice data.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Physical activity</measure>
+    <time_frame>Baseline, 6 and 9 months</time_frame>
+    <description>Physical activity will be measured using accelerometers (Actigraph model wGT3X-BT, LLC, Fort Walton Beach, FL).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Systolic and diastolic blood pressure</measure>
+    <time_frame>Baseline, 6 and 9 months</time_frame>
+    <description>Blood pressure will be measured using a Dinamap XL automated BP monitor according to current recommendations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Body weight</measure>
+    <time_frame>Baseline, 6 and 9 months</time_frame>
+    <description>Body weight will be measured using an electronic scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Height</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Height will be measured using a tape measure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fasting glucose</measure>
+    <time_frame>Baseline, 6 and 9 months</time_frame>
+    <description>Fasting glucose will be measured after a 12-hour fast according to standardized procedures. All blood samples will be sent to and analyzed at the Lifespan Laboratory located at the Rhode Island Hospital/The Miriam Hospital.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lipid panel</measure>
+    <time_frame>Baseline, 6 and 9 months</time_frame>
+    <description>Lipid panel will be measured after a 12-hour fast according to standardized procedures. All blood samples will be sent to and analyzed at the Lifespan Laboratory located at the Rhode Island Hospital/The Miriam Hospital.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>hs-CRP</measure>
+    <time_frame>Baseline, 6 and 9 months</time_frame>
+    <description>hs-CRP will be measured after a 12-hour fast according to standardized procedures. All blood samples will be sent to and analyzed at the Lifespan Laboratory located at the Rhode Island Hospital/The Miriam Hospital.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life assessed by SF-36</measure>
+    <time_frame>Baseline, 6 and 9 months</time_frame>
+    <description>Quality of life will be measured using a short version (8 items) of the Health Survey Short Form (SF-36). Scores range from 0-100, with a higher score indicating a higher quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intrinsic motivation</measure>
+    <time_frame>Baseline, 6 and 9 months</time_frame>
+    <description>Intrinsic Motivation Inventory is a 22-item scale validated with four sub-scales: interest/enjoyment, perceived competence, perceived choice, and pressure/tension. A higher score is better, with a scoring range of 22-154.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anxiety, Depression</measure>
+    <time_frame>Baseline, 6 and 9 months</time_frame>
+    <description>Anxiety, Depression will be assessed using the Hospital Anxiety and Depression Scale, a self-administered questionnaire with two sub-scales (0-21) measuring anxiety and depression, with higher scores indicating greater psychological morbidity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stress</measure>
+    <time_frame>Baseline, 6 and 9 months</time_frame>
+    <description>Stress will be measured using the Perceived Stress Scale (PSS) - a 10 items survey with scores ranging from 0 to 40, and higher scores indicating greater stress burden.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mindful awareness</measure>
+    <time_frame>Baseline, 6 and 9 months</time_frame>
+    <description>Mindful awareness will be assessed using the Five Facets of Mindfulness questionnaire (short form) a 15-item questionnaire that measures the five identified components of mindfulness meditation: observing, acting with awareness, non-judging of inner experience, and non-reactivity to inner experience. Scores ranges from 39-19, with a higher score being better.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Exercise self-efficacy</measure>
+    <time_frame>Baseline, 6 and 9 months</time_frame>
+    <description>Exercise self-efficacy will be measured using the Self-Efficacy for Exercise Scale. This is a 9-item validated scale from McAuley's original barriers scale. Scores range form 9-28, with a higher score meaning more self-efficacy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Exercise capacity</measure>
+    <time_frame>Baseline, 6 and 9 months</time_frame>
+    <description>Exercise capacity will be assessed via the 6 min walk test (6MWT), a simple, safe and reliable first-line assessment of functional status that correlates with peak oxygen uptake.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Socio-demographics</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Age, sex, race/ethnicity, education, income, insurance status will be collected from the EMR using standard abstraction forms.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Medical history</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Coronary risk factors; coronary revascularization procedures; ejection fraction; New York Heart Association class; CHD severity (one-, two- or three-vessel from coronary angiogram); co-morbidities; CR information (history of participation, reasons for decline); comorbidities (Charlson index); medications] will be abstracted from medical records using standard abstraction forms that have been validated in previous studies.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Social support</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Social support will be measured with the Multidimensional Scale of Perceived Social Support is a 12-item, unidimensional tool to measure how one perceives their social support system, including the individual's sources of social support (i.e., family, friends, and significant others). Scores range from 12-84, with a higher score meaning more perceived social support.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Neighborhood barriers to physical activity</measure>
+    <time_frame>Baseline</time_frame>
+    <description>PANES (Physical Activity Neighborhood Environment Survey) also known as the International Physical Activity Prevalence Study Self-Administered Environmental Module is a 17-item Scale that can be used to assess the environmental factors for walking and bicycling in various neighborhoods. Scores range from 17-68, with higher scores indicating a neighborhood environment that is more conducive to physical activity.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>Acute Coronary Syndrome</condition>
+  <condition>Physical Inactivity</condition>
+  <arm_group>
+    <arm_group_label>Tai chi + wearable</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>48 virtual tai chi classes on Zoom over 6 months plus assigned home practice of tai chi 3x a week plus daily use of a Fitbit fitness tracker will be required for this group.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Enhanced usual care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Printed educational materials based on existing resources (e.g., AHA; Centers for Disease Control and Prevention) will be shared with subjects in this group.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Tai chi + wearable</intervention_name>
+    <description>The tai chi intervention will be delivered remotely via Zoom Enterprise. Participants will access classes on a phone, tablet, laptop, or desktop computer. Participants will attend 3 classes/week (each lasting 60 min) during weeks 1-12, 2 classes/week during weeks 13-16, and then 1 class every other week during weeks 17-24. Classes include tai chi warm-up exercises, breathing exercises, review and practice of tai chi forms, and cool-down exercises. Participants will be asked to practice tai chi at home 3x per week during the 6 month intervention period using an instructional video provided to them. The Fitbit fitness tracker will be given to each participant along with instructions on how to use the tracker and the Fitbit app on their personal device.</description>
+    <arm_group_label>Tai chi + wearable</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. History of ACS (unstable angina, NSTEMI, and STEMI, defined per current AHA/ACC&#xD;
+             criteria);&#xD;
+&#xD;
+          2. Age ≥ 18;&#xD;
+&#xD;
+          3. Being physically inactive (i.e., &lt; 150 min/week of moderate-intensity aerobic PA);&#xD;
+&#xD;
+          4. Absence of contraindications to physical exercise per the participant's provider&#xD;
+             evaluation;&#xD;
+&#xD;
+          5. Access to a digital device with internet connection;&#xD;
+&#xD;
+          6. Having an active email account and ability to check email at least weekly;&#xD;
+&#xD;
+          7. Physician clearance to participate in low-moderate intensity exercise (tai chi),&#xD;
+             including a statement that there is no contraindication to exercise based on post-ACS&#xD;
+             stress test and other factors, as appropriate;&#xD;
+&#xD;
+          8. English speaking&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Inability or unwillingness to give informed consent;&#xD;
+&#xD;
+          2. Blood pressure &gt;200/110 or orthostatic systolic blood pressure decrease &gt;20 mmHg at&#xD;
+             the baseline visit;&#xD;
+&#xD;
+          3. Uncontrolled/untreated atrial or ventricular arrhythmias or 3rd degree AV block;&#xD;
+&#xD;
+          4. Within 3 months of a diagnosis of pericarditis or myocarditis;&#xD;
+&#xD;
+          5. Medical conditions likely to limit lifespan to less than one year;&#xD;
+&#xD;
+          6. New York Heart Association (NYHA) functional class IV;&#xD;
+&#xD;
+          7. Severe cognitive impairment (BOMC &gt;10);139&#xD;
+&#xD;
+          8. Orthopedic problems prohibiting TC practice;&#xD;
+&#xD;
+          9. Ongoing TC or other mind-body training (i.e., meditation, TC, or yoga) at least&#xD;
+             weekly;&#xD;
+&#xD;
+         10. Current enrollment in cardiac rehabilitation;&#xD;
+&#xD;
+         11. Untreated severe depression (PHQ&gt;=20);&#xD;
+&#xD;
+         12. Conditions likely to affect study compliance (i.e., moving out of study area,&#xD;
+             substance use, ongoing untreated psychosis);&#xD;
+&#xD;
+         13. Symptoms of unstable cardiovascular disease (e.g., shortness of breath or chest pain&#xD;
+             at rest and/or Canadian Cardiovascular Society Angina Class III-IV)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Daniel Litrownik, BA</last_name>
+    <phone>617-754-1423</phone>
+    <email>dlitrown@bwh.harvard.edu</email>
+  </overall_contact>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 6, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>January 17, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 17, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Beth Israel Deaconess Medical Center</investigator_affiliation>
+    <investigator_full_name>Gloria Y. Yeh</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>tai chi</keyword>
+  <keyword>fitness tracker</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Acute Coronary Syndrome</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9662">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05693246</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20221202</org_study_id>
+    <nct_id>NCT05693246</nct_id>
+  </id_info>
+  <brief_title>Effect of Perioperative Use of Glycopyrrolate on Lung Function in Patients Under General Anesthesia</brief_title>
+  <official_title>Effect of Perioperative Use of Glycopyrrolate on Lung Function in Patients Under General Anesthesia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Zhuan Zhang</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Yangzhou University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Gastrointestinal tumor is one of the highest incidence of malignant tumors in our country,&#xD;
+      with the incidence increasing year by year. Laparoscopic gastrointestinal surgery ,due to&#xD;
+      having less bleeding ,small trauma ,Rapid recovery ,has become the main means for the&#xD;
+      treatment of gastrointestinal surgery. Under general anesthesia, mechanical ventilation can&#xD;
+      lead to repeated mechanical dilation of alveoli, which can lead to mechanical injury of&#xD;
+      alveolar epithelium, reduce lung compliance, affect lung function, and increase postoperative&#xD;
+      complications and hospital stay of patients. Glycopyrrolate acts selectively on M1 and M3&#xD;
+      receptors, and is 3-5 times more selective to M3 and M1 receptors than M2 receptors.&#xD;
+      Therefore, as preoperative medication for elderly patients, it has less effect on the&#xD;
+      cardiovascular system and can stabilize the heart rate,compared with atropine.However, its&#xD;
+      influence on the respiratory system in the field of anesthesia is only limited to the study&#xD;
+      of inhibiting glandular secretion at present, and there are no clear reports on the study of&#xD;
+      respiratory mechanics .The purpose of this study was to investigate the effects of&#xD;
+      glycopyrrolate on lung function and respiratory mechanics in elderly patients after general&#xD;
+      anesthesia, in order to guide clinical medication.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 1, 2022</start_date>
+  <completion_date type="Anticipated">March 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">March 30, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>the changes in lung compliance</measure>
+    <time_frame>10 minutes after intubation; 10 minutes after pneumoperitoneum; 1 hour after pneumoperitoneum; End of pneumoperitoneum for 10 minutes</time_frame>
+    <description>Lung compliance refers to the degree to which the lungs change under external forces</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>the changes in oxygenation index</measure>
+    <time_frame>10 minutes after intubation; 10 minutes after pneumoperitoneum; 1 hour after pneumoperitoneum; End of pneumoperitoneum for 10 minutes</time_frame>
+    <description>Oxygenation index is an important indicator of lung function</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>the changes in systolic blood pressure</measure>
+    <time_frame>10 minutes after intubation;10 minutes after pneumoperitoneum; 1 hour after pneumoperitoneum; End of pneumoperitoneum for 10 minutes</time_frame>
+    <description>Record changes in systolic blood pressure</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">90</enrollment>
+  <condition>Glycopyrrolate</condition>
+  <arm_group>
+    <arm_group_label>Glycopyrrolate</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Glycopyrrolate</intervention_name>
+    <description>At 10 minutes after endotracheal intubation, the Glycopyrrolate group was injected intravenously with 0.004mg/kg glycopyrrolate.</description>
+    <arm_group_label>Glycopyrrolate</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>normal saline</intervention_name>
+    <description>At 10 minutes after endotracheal intubation, the Control group was intravenously injected with equal dose of normal saline.</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Elderly patients undergoing elective laparoscopic radical gastrectomy;&#xD;
+&#xD;
+          2. ASA Grade I-III;&#xD;
+&#xD;
+          3. BMI 18 to 30 kg /㎡；&#xD;
+&#xD;
+          4. Operation time≥2 hours.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Hypersensitivity to glycopyrrolate；&#xD;
+&#xD;
+          2. Clinical diagnosis of hepatic and renal insufficiency；&#xD;
+&#xD;
+          3. Complicated myasthenia gravis；&#xD;
+&#xD;
+          4. Prolonged QT interval and other abnormal electrocardiogram；&#xD;
+&#xD;
+          5. History of mechanical ventilation within six months before surgery；&#xD;
+&#xD;
+          6. Combined with glaucoma；&#xD;
+&#xD;
+          7. The patient refused.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>zhuan zhang, professor</last_name>
+    <phone>+8615062791355</phone>
+    <email>zhangzhuancg@163.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>the Affiliated Hospital of Yangzhou University, Yangzhou University</name>
+      <address>
+        <city>Yangzhou</city>
+        <state>Jiangsu</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zhuan Zhang, professor</last_name>
+      <phone>+8615062791355</phone>
+      <phone_ext>+8615062791355</phone_ext>
+      <email>zhangzhuancg@163.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 3, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 12, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>January 12, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 12, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Yangzhou University</investigator_affiliation>
+    <investigator_full_name>Zhuan Zhang</investigator_full_name>
+    <investigator_title>:: Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Glycopyrrolate</keyword>
+  <keyword>Perioperative period</keyword>
+  <keyword>Lung compliance</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glycopyrrolate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

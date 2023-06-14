@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9949">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05686876</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LXM-230107</org_study_id>
+    <nct_id>NCT05686876</nct_id>
+  </id_info>
+  <brief_title>FAPI-PET/CT in Psoriatic Arthritis</brief_title>
+  <official_title>Fibroblast Activation Protein-Targeted PET/CT With 68Ga-FAPI for Imaging Psoriatic Arthritis: Comparison to 18F-NAF PET/CT</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Peking Union Medical College Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Peking Union Medical College Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      68Ga-FAPI has been developed as a tumor-targeting agent as fibroblast activation protein is&#xD;
+      overexpressed in cancer-associated fibroblasts and some inflammation, such as IgG4-related&#xD;
+      disease. Therefore, this prospective study is going to investigate whether 68Ga-FAPI PET/CT&#xD;
+      may be superior for disease activity assessment and follow-up of psoriatic arthritis than&#xD;
+      18F-NAF PET/CT.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Psoriatic arthritis (PsA) is a chronic inflammatory disease that develops in up to 30% of&#xD;
+      patients with psoriasis and characterized by diverse clinical features including peripheral&#xD;
+      and axial arthritis, enthesitis, dactylitis and nail dystrophy, leading to impaired function&#xD;
+      and reduced quality of life. Positron emission tomography (PET) allows for highly sensitive&#xD;
+      depiction of targets at the molecular level and can be used to specifically visualize immune&#xD;
+      cells of interest through the use of specific tracers. In this study, we used two tracers:&#xD;
+      68Ga-fibroblast activation protein inhibitor (FAPI) and 18F-sodium fluoride (18F-NaF) to&#xD;
+      evaluate both joint inflammation and bone metabolism in patients with PsA. And the study is&#xD;
+      going to investigate whether 68Ga-FAPI PET/CT may be superior for disease activity assessment&#xD;
+      and follow-up of psoriatic arthritis than 18F-NAF PET/CT.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 1, 2022</start_date>
+  <completion_date type="Anticipated">February 28, 2023</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2023</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Diagnostic value</measure>
+    <time_frame>Through study completion, an average of 3months</time_frame>
+    <description>Diagnostic value of 68Ga-FAPI PET/CT for PsA in comparison with 18F-FDG PET/CT.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Disease activity assessment</measure>
+    <time_frame>Through study completion, an average of 3months.</time_frame>
+    <description>Correlation between disease activity assessed on 68Ga-FAPI PET/CT and clinical parameters for PsA.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Psoriatic Arthritis</condition>
+  <arm_group>
+    <arm_group_label>68Ga-FAPI, PET/CT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Inject 68Ga-FAPI and then perform PET/CT scan.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>68Ga-FAPI</intervention_name>
+    <description>Intravenous injection of one dosage of 74-148 MBq (2-4 mCi) 68Ga-FAPI. Tracer doses of 68Ga-FAPI will be used to image lesions of PsA by PET/CT.</description>
+    <arm_group_label>68Ga-FAPI, PET/CT</arm_group_label>
+    <other_name>68Ga-fibroblast activating protein inhibitors</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  fulfilled the 2006 Classification Criteria for Psoriatic Arthritis (CASPAR)&#xD;
+&#xD;
+          -  18F-NAF PET/CT within two weeks&#xD;
+&#xD;
+          -  signed written consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  pregnancy&#xD;
+&#xD;
+          -  breast feeding&#xD;
+&#xD;
+          -  known allergy against FAPI&#xD;
+&#xD;
+          -  any medical condition that in the opinion of the investigator may significantly&#xD;
+             interfere with study compliance.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Xiaomei Leng, MD</last_name>
+    <phone>+8615811217379</phone>
+    <email>lpumch@126.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Chinese Academy of Medical Sciences &amp; Peking Union Medical College</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100730</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xiaomei Leng</last_name>
+      <phone>+8613681057089</phone>
+      <email>lpumch@126.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 7, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 7, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 17, 2023</study_first_posted>
+  <last_update_submitted>January 7, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 7, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 17, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Arthritis</mesh_term>
+    <mesh_term>Arthritis, Psoriatic</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

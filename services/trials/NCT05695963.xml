@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9530">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05695963</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CHUBX 2022/30</org_study_id>
+    <nct_id>NCT05695963</nct_id>
+  </id_info>
+  <brief_title>Ecological Momentary Assessment in Patients With Restless Legs Syndrome</brief_title>
+  <acronym>DAILY-REST</acronym>
+  <official_title>Feasibility, Validity and Clinical Utility of Ecological Momentary Assessment in Patients With Restless Legs Syndrome: a Prospective Study. DAILY-REST</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Bordeaux</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Bordeaux</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Restless Legs Syndrome (RLS) is a sensorimotor disorder better characterized by an urge&#xD;
+      to move the legs at rest. Although treatments are available, many patients experience periods&#xD;
+      of symptoms relief and exacerbation. Whether this is due to the natural history of the&#xD;
+      disease or to health-related behaviors of daily life is presently unknown. The primary&#xD;
+      objective is to examine the feasibility of mobile technology to assess RLS symptoms severity&#xD;
+      fluctuations in daily life by collecting real-time data. The secondary objectives will be to&#xD;
+      examine the validity of this technic in the context of RLS and to use these real-time data to&#xD;
+      identify daily life risk factors for symptom onset or aggravation.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The Restless Legs Syndrome is a common sensorimotor disorder that disturbs sleep and quality&#xD;
+      of life. One of the key diagnostic criteria of RLS is the complaint of an irresistible urge&#xD;
+      to move the legs. This urge to move is often triggered by unpleasant sensations; it occurs at&#xD;
+      rest, particularly late in the day or at sleep time, and is temporarily relieved with&#xD;
+      movement. The negative impact on quality of life is profound and the disease is associated&#xD;
+      with a substantial economic burden. Dopamine agonists show efficacy which is, however,&#xD;
+      moderate, and many patients do not experience full remission. Tolerance, paradoxical&#xD;
+      aggravation of RLS symptoms (dopamine-induced augmentation) and impulse control disorders are&#xD;
+      frequently seen in patients with RLS on dopamine agonists. Therefore, although medications&#xD;
+      are available, many patients either experience side effects or show treatment response&#xD;
+      fluctuations with periods of symptoms' remission/alleviation or exacerbation. Whether RLS&#xD;
+      symptom fluctuation is related to the natural history of the disease (independent of&#xD;
+      appropriate medical treatment) is presently unknown. Furthermore, it is unknown if such&#xD;
+      fluctuation may be due to the impact of health-related behaviors in the context of daily life&#xD;
+      (e.g. physical activity, sleep quality, mood, alcohol consumption, smoking, or specific food&#xD;
+      intake), although this question warrants further research as any potential association would&#xD;
+      provide important opportunities for prevention and intervention strategies. For these&#xD;
+      reasons, the investigators aim to test the feasibility, validity and clinical utility of&#xD;
+      ambulatory monitoring techniques such as Ecological Momentary Assessment (EMA) to document&#xD;
+      RLS symptoms severity and risk factors in daily life by collecting real-time data, and by&#xD;
+      using such information to reduce risk factor exposure and thus improve symptoms. Eligible&#xD;
+      participants will be given a study-dedicated smartphone to carry with them for a two-week&#xD;
+      period and will be equipped with wearable actigraph for the same period to monitor&#xD;
+      activity-rest cycle.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2023</start_date>
+  <completion_date type="Anticipated">December 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility of Ecological Momentary Assessment (EMA)</measure>
+    <time_frame>14 days after baseline (Day 0)</time_frame>
+    <description>This outcome measure is composite and will be established by:&#xD;
+Sufficient acceptability of the EMA methodology (at least 50% of patients who are solicited to participate in the EMA study accept the invitation);&#xD;
+Low loss of EMA materials (less than 5% of participants lose or break the study-dedicated smartphone); and&#xD;
+High compliance rate in the completion of daily assessments (participants completing the EMA phase of the study respond to at least half of all programmed assessments, i.e. on average 50% of the total 56 sessions).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Validity of Ecological Momentary Assessment (EMA)</measure>
+    <time_frame>14 days after baseline (Day 0)</time_frame>
+    <description>This outcome measure is composite and will be established by:&#xD;
+A lack of fatigue effect, operationalized by the absence of correlation between the frequency of missing data and the number of days that the individual has participated in the study;&#xD;
+Expected correlations among conceptually-associated EMA variables (i.e., internal validity: hours of sleep should be significantly correlated with energy levels; event negativity should be significantly correlated with the severity of negative affect, etc.); and&#xD;
+Significant correlations between traditional clinical measures of RLS symptoms and EMA-based measures of RLS symptoms (convergent validity). Correlations would also be sought between validated scales (PSQI, ISI, ESS and HADS) and EMA-based measures of RLS symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Risk factors for RLS</measure>
+    <time_frame>Between baseline (day 0) and 14 days after baseline</time_frame>
+    <description>To examine if specific daily-life behaviors or experiences on any given day as assessed by EMA (activities, environments, psychological states and mood, substance use, food, sleep habits and quality) are prospectively associated with the frequency or severity of RLS symptoms later that evening/night.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">62</enrollment>
+  <condition>Restless Legs Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Restless Legs Syndrome</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Clinical assessment</intervention_name>
+    <description>RLS history, RLS treatments, and International Restless Legs Syndrome Rating Scale (IRLSRS) will be recorded</description>
+    <arm_group_label>Restless Legs Syndrome</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>auto-questionnaires</intervention_name>
+    <description>To evaluate sleep quality, daytime somnolence and mood disorders (Pittsburgh Sleep Quality Index (PSQI), Insomnia Severity Index (ISI), Epworth Sleepiness Scale (ESS) and Hospital Anxiety and Depression Scale (HADS)).</description>
+    <arm_group_label>Restless Legs Syndrome</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Ecological Momentary Assessment (EMA)</intervention_name>
+    <description>4 electronic interviews administred per day during 14 days by a study-dedicated Android OS smartphone</description>
+    <arm_group_label>Restless Legs Syndrome</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>activity-rest cycle</intervention_name>
+    <description>To further investigate the mutual influence of sleep quality on RLS symptoms and mood, the activity-rest cycle will be monitored by wearable actigraph to be placed on the non-dominant wrist during a period of 13 days and 14 nights.</description>
+    <arm_group_label>Restless Legs Syndrome</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient over 18 years old and less than 65&#xD;
+&#xD;
+          -  Any patient with a diagnosis of idiopathic RLS based on medical history and the&#xD;
+             presence of the 5 RLS diagnostic criteria&#xD;
+&#xD;
+          -  Normal clinical examination&#xD;
+&#xD;
+          -  Person affiliated or benefiting from a social security scheme&#xD;
+&#xD;
+          -  Free, informed and written consent signed by the participant and the investigator (no&#xD;
+             later than the day of inclusion and prior to any review required by the research).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any significant psychiatric illness (schizophrenia, bipolar disorder, severe&#xD;
+             depression, dementia, obsessive compulsive disorder, attention-deficit/hyperactivity&#xD;
+             disorder ...) or mood disorder&#xD;
+&#xD;
+          -  History or presence of chronic pain other than that associated with RLS, history of&#xD;
+             epilepsy or serious head injury, history of peripheral neuropathy, diabetes&#xD;
+&#xD;
+          -  Clinically significant sleep apnea, narcolepsy, or any secondary causes of RLS (e.g.&#xD;
+             chronic renal failure/hemodialysis, pregnancy)&#xD;
+&#xD;
+          -  Other active clinically significant illness, including unstable cardiovascular, or&#xD;
+             neoplasic pathology which could interfere with the study conduct or interfere with&#xD;
+             study assessments or compromise the study participation&#xD;
+&#xD;
+          -  Pregnant or breastfeeding woman&#xD;
+&#xD;
+          -  Persons referred to in articles L.1121-5 to L.1121-8 (persons deprived of liberty by&#xD;
+             judicial or administrative decision, minors, adults subject to a legal protection&#xD;
+             measure or unable to express their consent).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Imad Marc Antoine GHORAYEB, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CHU Bordeaux</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Gwénaëlle CATHELINE, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Université de Bordeaux - INCIA</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Imad Marc Antoine GHORAYEB, MD, PhD</last_name>
+    <phone>(0)5.56.79.55.13</phone>
+    <phone_ext>+33</phone_ext>
+    <email>marc-antoine.ghorayeb@chu-bordeaux.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Olivier BRANCHARD</last_name>
+    <phone>(0)5.57.82.06.97</phone>
+    <phone_ext>+33</phone_ext>
+    <email>olivier.branchard@chu-bordeaux.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>CHU de Bordeaux - Neurophysiologie Clinique de l'Enfant et de l'Adulte</name>
+      <address>
+        <city>Bordeaux</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Imad Marc-Antoine GHORAYEB, MD, PhD</last_name>
+      <phone>(0)5.56.79.55.13</phone>
+      <phone_ext>+33</phone_ext>
+      <email>marc-antoine.ghorayeb@chu-bordeaux.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Olivier BRANCHARD</last_name>
+      <phone>(0)5.57.82.06.97</phone>
+      <phone_ext>+33</phone_ext>
+      <email>olivier.branchard@chu-bordeaux.fr</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Imad Marc-Antoine GHORAYEB, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 13, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>January 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Restless Legs Syndrome</keyword>
+  <keyword>Risk Factor</keyword>
+  <keyword>Ecological Momentary Assessment</keyword>
+  <keyword>Mobile Technology</keyword>
+  <keyword>Sleep</keyword>
+  <keyword>Actigraphy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Psychomotor Agitation</mesh_term>
+    <mesh_term>Restless Legs Syndrome</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

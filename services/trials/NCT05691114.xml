@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9748">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05691114</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SA-HAES-102</org_study_id>
+    <nct_id>NCT05691114</nct_id>
+  </id_info>
+  <brief_title>Precise Transplantation of Human Amniotic Epithelial Stem Cells Into Lateral Ventricle for Parkinson's Disease</brief_title>
+  <official_title>Precise Transplantation of Human Amniotic Epithelial Stem Cells Into Lateral Ventricle for Parkinson's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shanghai East Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Shanghai iCELL Biotechnology Co., Ltd, Shanghai, China</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Shanghai East Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a single-center, single-arm, dose escalation study, to explore the safety,&#xD;
+      tolerability and efficacy of human amniotic epithelial stem cells (hAESCs) for idiopathic&#xD;
+      Parkinson's disease (PD).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      hAESCs will be administration through the Ommaya reservoir implanted into the lateral&#xD;
+      ventricle of subjects with idiopathic PD.&#xD;
+&#xD;
+      This dose escalation will be followed by an exploratory expansion phase in 3 cohorts.&#xD;
+&#xD;
+        -  Dose A (5×10^7 cells/dose)&#xD;
+&#xD;
+        -  Dose B (1.0×10^8 cells/dose)&#xD;
+&#xD;
+        -  Dose C (1.5×10^8 cells/dose).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">February 2023</start_date>
+  <completion_date type="Anticipated">February 2026</completion_date>
+  <primary_completion_date type="Anticipated">February 2025</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Dose limiting toxicity (DLT)</measure>
+    <time_frame>12 months</time_frame>
+    <description>The occurrence of DLT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with adverse event (AE), serious adverse event(SAE) and adverse events of special interest (AESI)</measure>
+    <time_frame>12 Months</time_frame>
+    <description>According to CTCAE V5.0, AE, SAE and AESI evaluated by laboratory examination, measurement of vital signs, physical examination, and subjects' symptoms to detect new abnormalities and/or deterioration of previous conditions.&#xD;
+AESI is defined as intracranial infection, hemorrhage, rejection, edema, as well as acute allergic reactions and ectopic mass formation associated with the therapy.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in the UPDRS-III (Unified Parkinson's Rating Scale part III/motor part) scores</measure>
+    <time_frame>12 months</time_frame>
+    <description>UPDRS is used for evaluating the impairment and disability associated with PD. It consists of 4 sections: I Mentation, behavior, and mood; II Activities of daily living (ADLs); III Motor; and IV Complications.The UPDRS score ranges from 0 to 199, with higher score indicating greater disability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in the UPDRS off-time total scores</measure>
+    <time_frame>12 months</time_frame>
+    <description>UPDRS is used for evaluating the impairment and disability associated with PD. It consists of 4 sections: I Mentation, behavior, and mood; II Activities of daily living (ADLs); III Motor; and IV Complications.The UPDRS score ranges from 0 to 199, with higher score indicating greater disability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in the UPDRS on-time total scores</measure>
+    <time_frame>12 months</time_frame>
+    <description>UPDRS is used for evaluating the impairment and disability associated with PD. It consists of 4 sections: I Mentation, behavior, and mood; II Activities of daily living (ADLs); III Motor; and IV Complications.The UPDRS score ranges from 0 to 199, with higher score indicating greater disability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in sum of the UPDRS-II and UPDRS-III scores</measure>
+    <time_frame>12 months</time_frame>
+    <description>UPDRS is used for evaluating the impairment and disability associated with PD. It consists of 4 sections: I Mentation, behavior, and mood; II Activities of daily living (ADLs); III Motor; and IV Complications.The UPDRS score ranges from 0 to 199, with higher score indicating greater disability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in the Parkinson's Disease Questionnaire (PDQ-39) scores</measure>
+    <time_frame>12 months</time_frame>
+    <description>The PDQ-39 is a self-completed questionnaire assessing how often people with Parkinson's experience difficulties across 8 dimensions of daily living with 39 questions . Questions are answered using a 5-point ordinal scoring system: 0 = never, 1 = occasionally, 2 = sometimes, 3 = often, 4 = always. Each scores range from 0 = never have difficulty to 100 = always have difficulty.The higher the score, the lower the quality of life of PD patients.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the Hamilton Depression-17 (HAMD-17) Scale scores</measure>
+    <time_frame>12 months</time_frame>
+    <description>The HAMD-17 Scale is the most widely used scale in clinical evaluation of depression in PD patients. This project takes 8 points as the critical value of depression, and the total score over 35 points is considered as severe depression, more than 20 points is likely to be diagnosed with depression, less than 8 points is not depressed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in the Parkinson's Disease Sleep Scale (PDSS) scores</measure>
+    <time_frame>12 months</time_frame>
+    <description>The PDSS is a visual analogue scale addressing 15 commonly reported symptoms associated with sleep disturbance overall quality of night's sleep (item 1), sleep onset and maintenance insomnia (items 2 and 3), nocturnal restlessness (items 4 and 5), nocturnal psychosis (items 6 and 7), nocturia (items 8 and 9), nocturnal motor symptoms (items 10-13), sleep refreshment (item 14) and daytime dozing (item 15). Scores range from 0 (poorly or often) to 10 (very good or never), with a total score of &lt;90 indicating sleep disturbance, with higher scores indicating better sleep quality.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in the Hoehn and Yahr scale (H-Y)</measure>
+    <time_frame>12 months</time_frame>
+    <description>The Hoehn and Yahr scale is used to provide a general estimate of clinical function of PD patients, combining functional deficits (disability) and objective signs (impairment). The Hoehn and Yahr score ranges from 0 to 5, with higher score indicating higher dysfunction of PD patients.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in the Mini-Mental State Examination (MMSE)</measure>
+    <time_frame>12 months</time_frame>
+    <description>The total score of tne MMSE ranges from 0 to 30, with a higher score indicating better function for Cognitive assessment.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">18</enrollment>
+  <condition>Idiopathic Parkinson's Disease</condition>
+  <arm_group>
+    <arm_group_label>hAESCs treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>hAESCs will be administration through Ommaya reservoir implanted into the lateral ventricle.&#xD;
+The tolerability, safety, and efficacy will be examined of 4 monthly doses of hAESCs for 3 months followed by 2 doses every 3 months in dose escalation through 3 cohorts.&#xD;
+Dose A (5×10^7 cells/dose)&#xD;
+Dose B (1.0×10^8 cells/dose)&#xD;
+Dose C (1.5×10^8 cells/dose).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>hAESCs</intervention_name>
+    <description>human Amniotic Epithelial Stem Cells</description>
+    <arm_group_label>hAESCs treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. 40-70 years old, with more than 5 years of idiopathic PD history&#xD;
+&#xD;
+          2. UPDRS-III off-time scores ≤49&#xD;
+&#xD;
+          3. MMSE scores ≥24&#xD;
+&#xD;
+          4. HAMD-17 scores &lt; 25&#xD;
+&#xD;
+          5. H-Y on-time scores ≤4&#xD;
+&#xD;
+          6. reactive to levodopa or dopa agonists&#xD;
+&#xD;
+          7. PD medication dose is stable for more than 2 months&#xD;
+&#xD;
+          8. no general anesthesia contraindications, no stereotactic surgery contraindications or&#xD;
+             other conditions that interfere with clinical evaluation&#xD;
+&#xD;
+          9. no abnormalities affecting cell transplantation by cranial MRI&#xD;
+&#xD;
+         10. no participation of other clinical trials 3 months before signing the informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. secondary PD or Parkinson's syndrome&#xD;
+&#xD;
+          2. subcutaneous apomorphine treatment&#xD;
+&#xD;
+          3. scoring ≥ 2 on UPDRS-I item 2, or ≥ 2 on UPDRS-II item 13; or ≥ 3 on UPDRS-II item14&#xD;
+&#xD;
+          4. history of intracranial surgery or device implantation, including deep brain&#xD;
+             stimulation, within 2 years prior to signing informed consent&#xD;
+&#xD;
+          5. history of seizures or prophylactic application of antiepileptic drugs&#xD;
+&#xD;
+          6. other serious central nervous system disorders&#xD;
+&#xD;
+          7. history of stem cell therapy&#xD;
+&#xD;
+          8. subject who had undergone a major surgery within 3 months and will undergo a major&#xD;
+             surgery within the next 6 months prior to signing informed consent&#xD;
+&#xD;
+          9. autoimmune disease or current use of Immunosuppressants&#xD;
+&#xD;
+         10. subjects with comorbid cardiac disease, for example, but not limited to, ischemic&#xD;
+             heart disease, congestive heart failure, significant arrhythmias or cardiac conduction&#xD;
+             block&#xD;
+&#xD;
+         11. poorly controlled hypertension, diabetes mellitus, or comorbid endocrine system&#xD;
+             disorders, pulmonary disorders, gastrointestinal system disorders, serious infections,&#xD;
+             malignancies, etc.&#xD;
+&#xD;
+         12. positive for hepatitis B surface antigen (HBsAg), hepatitis C virus (HCV) antibodies,&#xD;
+             human immunodeficiency virus (HIV) antibodies, or Treponema pallidum antibody&#xD;
+&#xD;
+         13. abnormalities in liver or kidney function tests, including alanine aminotransferase&#xD;
+             (ALT), aspartate aminotransferase (AST) is less than 2.5 times the upper limit of&#xD;
+             normal, blood urea nitrogen (BUN) or creatinine(Cr) are less than 1.5 times the upper&#xD;
+             limit of normal, or serum albumin &lt; 30.0 g/L&#xD;
+&#xD;
+         14. abnormalities in hematologic test: coagulation disorders or ongoing anticoagulation&#xD;
+             therapy; moderate to severe anemia; platelet count &lt; 80 × 10^9/L&#xD;
+&#xD;
+         15. inability to undergo MRI and positron emission tomography (PET) examinations&#xD;
+&#xD;
+         16. subject with severe allergies&#xD;
+&#xD;
+         17. women of childbearing potential (WOCBP) or subject is a man with a WOCBP partner, who&#xD;
+             are unwilling to take contraception during the trial&#xD;
+&#xD;
+         18. pregnant or lactating females&#xD;
+&#xD;
+         19. other conditions deemed by the investigator to be inappropriate for enrollment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jingwen Wu, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Shanghai East Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jingwen Wu, M.D.</last_name>
+    <phone>021-38804518</phone>
+    <email>wujingwendongfang@163.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Shanghai East Hospital</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jingwen Wu, M.D.</last_name>
+      <phone>18916111526</phone>
+      <email>wujingwendongfang@163.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 10, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 10, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>February 16, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 16, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 17, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Shanghai East Hospital</investigator_affiliation>
+    <investigator_full_name>Jingwen WU</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Parkinson Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

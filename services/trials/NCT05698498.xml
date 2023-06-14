@@ -1,0 +1,2086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9406">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05698498</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-35573</org_study_id>
+    <nct_id>NCT05698498</nct_id>
+  </id_info>
+  <brief_title>Silicon Valley Guaranteed Income Project</brief_title>
+  <acronym>SVGIP</acronym>
+  <official_title>Silicon Valley Guaranteed Income Project</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Destination: Home SV</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Sí Se Puede Collective</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Sacred Heart Community Service</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>County of Santa Clara Office of Supportive Housing</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, San Francisco</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to learn about how unconditional cash payments equivalent&#xD;
+      to $1,000 for 24 months (also called 'guaranteed income') might help families experiencing&#xD;
+      homelessness and/or unstable housing in Santa Clara County, California.&#xD;
+&#xD;
+      The main questions it aims to answer are:&#xD;
+&#xD;
+        1. What is the impact of guaranteed income on homelessness and housing stability among&#xD;
+           families experiencing homelessness or housing instability?&#xD;
+&#xD;
+        2. What is the impact of guaranteed income on the health and well-being of families&#xD;
+           experiencing homelessness or housing instability?&#xD;
+&#xD;
+        3. In terms of size and frequency of cash payments, do families prefer monthly recurrent&#xD;
+           payments ($1,000/month) vs a larger up front amount followed by smaller monthly payments&#xD;
+           ($6,500/month, then $500/month)? Is one payment strategy more helpful than the other in&#xD;
+           terms of achieving improved housing stability, health, or other measures of well-being?&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Study design and overall objective: This is a mixed-methods randomized controlled trial (RCT)&#xD;
+      to assess the effectiveness of guaranteed income on improving housing stability, health,&#xD;
+      economic and overall well-being among 300 families experiencing homelessness in Santa Clara&#xD;
+      County.&#xD;
+&#xD;
+      The specific aims are:&#xD;
+&#xD;
+      Aim 1. Assess the effect of guaranteed income on housing stability and homelessness. The&#xD;
+      investigators will randomly select 150 households experiencing homelessness to receive&#xD;
+      guaranteed income equivalent to $1000 per month for 24 months in addition to usual care, with&#xD;
+      the remaining 150 households receiving usual care only (control group). The investigators&#xD;
+      will assess and compare measures of housing stability, housing services use and emergency&#xD;
+      shelter use at baseline, 6, 12, 18, 24, 27, 30, and 36 months after randomization.&#xD;
+      Hypothesis: Guaranteed income will improve housing stability and reduce the risk of&#xD;
+      continuing homelessness.&#xD;
+&#xD;
+      Aim 2. Assess the effect of guaranteed income on the health and well-being of families&#xD;
+      experiencing homelessness and their social networks. The investigators will assess and&#xD;
+      compare self-reported physical and mental health and well-being, health and social service&#xD;
+      use, employment and income volatility, financial assets and spending, food insecurity,&#xD;
+      agency, and network strain and support at baseline and then at 6, 12, 18, 24, 27, 30, and 36&#xD;
+      months after randomization. The investigators will use a mixed methods approach, employing&#xD;
+      both validated survey instruments and qualitative interviews to assess measures of interest.&#xD;
+      Hypothesis: Families receiving guaranteed income will have improved health and well-being,&#xD;
+      and multiplier effects will accrue to their social networks.&#xD;
+&#xD;
+      Aim 3. Assess the effect of monthly vs a hybrid payment strategy (larger up-front lump sum&#xD;
+      plus a smaller monthly sum) on housing stability, health, and well-being. Individuals in the&#xD;
+      guaranteed income group (intervention group) will self-select whether they prefer to receive&#xD;
+      payments in a a) monthly ($1,000/month x 12 months) vs b) hybrid payment schedule ($6,500 x 1&#xD;
+      month, then $500 x 11 month), with the option to change payment schedules after the first 12&#xD;
+      months. Hypothesis: Individuals receiving a hybrid model of payments will obtain and sustain&#xD;
+      positive changes in stable housing and well-being more successfully over time compared to&#xD;
+      monthly payments.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 10, 2022</start_date>
+  <completion_date type="Anticipated">December 2026</completion_date>
+  <primary_completion_date type="Anticipated">June 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+    <masking_description>Single-blinded study</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of days experiencing homelessness</measure>
+    <time_frame>At 24 months after randomization</time_frame>
+    <description>'Experiencing homelessness' will be defined as: 1) per the Homeless Emergency Assistance and Rapid Transition to Housing Act (HEARTH) Defining Homeless Final Rule published in the Federal Register in 2011; and/or 2) living in a public or private space intended for temporary (≤6 month) residence, such as residing in a hotel/motel; 3) residing in a space without a legal right to the space and therefore being at threat of being asked to leave at any time (i.e., no lease); and/or 4) being in a shared living situation intended to be temporary (i.e., being 'doubled up' due to lack of available and/or affordable housing).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of days experiencing homelessness</measure>
+    <time_frame>At 6 months after randomization</time_frame>
+    <description>'Stable housing' will be defined as any form of housing that does not meet the definition of 'experiencing homelessness' as above</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days experiencing homelessness</measure>
+    <time_frame>At 12 months after randomization</time_frame>
+    <description>'Stable housing' will be defined as any form of housing that does not meet the definition of 'experiencing homelessness' as above</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days experiencing homelessness</measure>
+    <time_frame>At 18 months after randomization</time_frame>
+    <description>'Stable housing' will be defined as any form of housing that does not meet the definition of 'experiencing homelessness' as above</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days experiencing homelessness</measure>
+    <time_frame>At 27 months after randomization</time_frame>
+    <description>'Stable housing' will be defined as any form of housing that does not meet the definition of 'experiencing homelessness' as above</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days experiencing homelessness</measure>
+    <time_frame>At 30 months after randomization</time_frame>
+    <description>'Stable housing' will be defined as any form of housing that does not meet the definition of 'experiencing homelessness' as above</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days experiencing homelessness</measure>
+    <time_frame>At 36 months after randomization</time_frame>
+    <description>'Stable housing' will be defined as any form of housing that does not meet the definition of 'experiencing homelessness' as above</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to stable housing from randomization</measure>
+    <time_frame>Up to 24 months after randomization</time_frame>
+    <description>'Stable housing' will be defined as any form of housing that does not meet the definition of 'experiencing homelessness' as above</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families who obtain stable housing</measure>
+    <time_frame>At 6 months after randomization</time_frame>
+    <description>'Stable housing' will be defined as any form of housing that does not meet the definition of 'experiencing homelessness' as above</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families who obtain stable housing</measure>
+    <time_frame>At 12 months after randomization</time_frame>
+    <description>'Stable housing' will be defined as any form of housing that does not meet the definition of 'experiencing homelessness' as above</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families who obtain stable housing</measure>
+    <time_frame>At 18 months after randomization</time_frame>
+    <description>'Stable housing' will be defined as any form of housing that does not meet the definition of 'experiencing homelessness' as above</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families who obtain stable housing</measure>
+    <time_frame>At 24 months after randomization</time_frame>
+    <description>'Stable housing' will be defined as any form of housing that does not meet the definition of 'experiencing homelessness' as above</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families who retain stable housing after the end of the 24-month intervention period</measure>
+    <time_frame>At 27 months after randomization</time_frame>
+    <description>'Stable housing' will be defined as any form of housing that does not meet the definition of 'experiencing homelessness' as above</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families who retain stable housing after the end of the 24-month intervention period</measure>
+    <time_frame>At 30 months after randomization</time_frame>
+    <description>'Stable housing' will be defined as any form of housing that does not meet the definition of 'experiencing homelessness' as above</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families who retain stable housing after the end of the 24-month intervention period</measure>
+    <time_frame>At 36 months after randomization</time_frame>
+    <description>'Stable housing' will be defined as any form of housing that does not meet the definition of 'experiencing homelessness' as above</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days experiencing unsheltered homelessness in previous 6 months</measure>
+    <time_frame>At baseline</time_frame>
+    <description>Number of days spent living in a homeless shelter, in a place not typically used for sleeping, such as on the street, in a car, in an abandoned building, or in a bus or train station, or temporarily in an institution</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days experiencing unsheltered homelessness in previous 6 months</measure>
+    <time_frame>At 6 months after randomization</time_frame>
+    <description>Number of days spent living in a homeless shelter, in a place not typically used for sleeping, such as on the street, in a car, in an abandoned building, or in a bus or train station, or temporarily in an institution</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days experiencing unsheltered homelessness in previous 6 months</measure>
+    <time_frame>At 12 months after randomization</time_frame>
+    <description>Number of days spent living in a homeless shelter, in a place not typically used for sleeping, such as on the street, in a car, in an abandoned building, or in a bus or train station, or temporarily in an institution</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days experiencing unsheltered homelessness in previous 6 months</measure>
+    <time_frame>At 18 months after randomization</time_frame>
+    <description>Number of days spent living in a homeless shelter, in a place not typically used for sleeping, such as on the street, in a car, in an abandoned building, or in a bus or train station, or temporarily in an institution</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days experiencing unsheltered homelessness in previous 6 months</measure>
+    <time_frame>At 24 months after randomization</time_frame>
+    <description>Number of days spent living in a homeless shelter, in a place not typically used for sleeping, such as on the street, in a car, in an abandoned building, or in a bus or train station, or temporarily in an institution</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days experiencing unsheltered homelessness in previous 6 months</measure>
+    <time_frame>At 30 months after randomization</time_frame>
+    <description>Number of days spent living in a homeless shelter, in a place not typically used for sleeping, such as on the street, in a car, in an abandoned building, or in a bus or train station, or temporarily in an institution</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days experiencing unsheltered homelessness in previous 6 months</measure>
+    <time_frame>At 36 months after randomization</time_frame>
+    <description>Number of days spent living in a homeless shelter, in a place not typically used for sleeping, such as on the street, in a car, in an abandoned building, or in a bus or train station, or temporarily in an institution</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of days experiencing unsheltered homelessness in previous 6 months</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 30 months, 36 months after randomization</time_frame>
+    <description>Number of days spent living in a homeless shelter, in a place not typically used for sleeping, such as on the street, in a car, in an abandoned building, or in a bus or train station, or temporarily in an institution</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days residing in a hotel or motel in previous 6 months</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Number of days spent residing in a hotel or motel as a form of temporary housing</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days residing in a hotel or motel in previous 6 months</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Number of days spent residing in a hotel or motel as a form of temporary housing</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days residing in a hotel or motel in previous 6 months</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Number of days spent residing in a hotel or motel as a form of temporary housing</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days residing in a hotel or motel in previous 6 months</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Number of days spent residing in a hotel or motel as a form of temporary housing</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days residing in a hotel or motel in previous 6 months</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Number of days spent residing in a hotel or motel as a form of temporary housing</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days residing in a hotel or motel in previous 6 months</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Number of days spent residing in a hotel or motel as a form of temporary housing</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days residing in a hotel or motel in previous 6 months</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Number of days spent residing in a hotel or motel as a form of temporary housing</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of days residing in a hotel or motel in previous 6 months</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 30 months, 36 months after randomization</time_frame>
+    <description>Number of days spent residing in a hotel or motel as a form of temporary housing</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families who are unleased</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Residing in a space without any legal right to the space (i.e., residing in a space without a lease)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families who are unleased</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Residing in a space without any legal right to the space (i.e., residing in a space without a lease)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families who are unleased</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Residing in a space without any legal right to the space (i.e., residing in a space without a lease)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families who are unleased</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Residing in a space without any legal right to the space (i.e., residing in a space without a lease)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families who are unleased</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Residing in a space without any legal right to the space (i.e., residing in a space without a lease)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families who are unleased</measure>
+    <time_frame>27 months after randomization</time_frame>
+    <description>Residing in a space without any legal right to the space (i.e., residing in a space without a lease)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families who are unleased</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Residing in a space without any legal right to the space (i.e., residing in a space without a lease)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families who are unleased</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Residing in a space without any legal right to the space (i.e., residing in a space without a lease)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of proportion of families who are unleased</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 27 months 30 months, 36 months after randomization</time_frame>
+    <description>Will assess change in proportion of families who are unleased over time (i.e, residing in a space without a lease)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in proportion of families who are unleased at baseline vs 24 months</measure>
+    <time_frame>Will include measurements at baseline and 24 months after randomization</time_frame>
+    <description>Residing in a space without any legal right to the space (i.e., residing in a space without a lease)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in proportion of families who are unleased at baseline vs 36 months</measure>
+    <time_frame>Will include measurements at baseline and 36 months after randomization</time_frame>
+    <description>Residing in a space without any legal right to the space (i.e., residing in a space without a lease)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in proportion of families who are unleased at 24 vs 36 months</measure>
+    <time_frame>Will include measurements at 24 and 36 months after randomization</time_frame>
+    <description>Residing in a space without any legal right to the space (i.e., residing in a space without a lease)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days doubled up in previous 6 months</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Number of days spent in a shared living situation intended to be temporary ('doubled up' with a friend or relative due to being unable to find or afford own housing)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days doubled up in previous 6 months</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Number of days spent in a shared living situation intended to be temporary ('doubled up' with a friend or relative due to being unable to find or afford own housing)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days doubled up in previous 6 months</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Number of days spent in a shared living situation intended to be temporary ('doubled up' with a friend or relative due to being unable to find or afford own housing)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days doubled up in previous 6 months</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Number of days spent in a shared living situation intended to be temporary ('doubled up' with a friend or relative due to being unable to find or afford own housing)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days doubled up in previous 6 months</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Number of days spent in a shared living situation intended to be temporary ('doubled up' with a friend or relative due to being unable to find or afford own housing)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days doubled up in previous 6 months</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Number of days spent in a shared living situation intended to be temporary ('doubled up' with a friend or relative due to being unable to find or afford own housing)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days doubled up in previous 6 months</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Number of days spent in a shared living situation intended to be temporary ('doubled up' with a friend or relative due to being unable to find or afford own housing)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of days doubled up in previous 6 months</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 30 months, 36 months after randomization</time_frame>
+    <description>Number of days spent in a shared living situation intended to be temporary ('doubled up' with a friend or relative due to being unable to find or afford own housing)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total proportion of families experiencing any homelessness</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Proportion of of families experiencing homelessness for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families experiencing any homelessness in previous 6 months</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Proportion of of families experiencing homelessness for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families experiencing any homelessness in previous 6 months</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Proportion of of families experiencing homelessness for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families experiencing any homelessness in previous 6 months</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Proportion of of families experiencing homelessness for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families experiencing any homelessness in previous 6 months</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Proportion of of families experiencing homelessness for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families experiencing any homelessness in previous 6 months</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Proportion of of families experiencing homelessness for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families experiencing any homelessness in previous 6 months</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Proportion of of families experiencing homelessness for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families experiencing any homelessness in previous 6 months</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Proportion of of families experiencing homelessness for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of proportion of families experiencing any homelessness in previous 6 months</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 30 months, 36 months after randomization</time_frame>
+    <description>Proportion of of families experiencing homelessness for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total proportion of families ever experiencing unsheltered homelessness</measure>
+    <time_frame>At 24 months after randomization</time_frame>
+    <description>Proportion of families living in a homeless shelter, in a place not typically used for sleeping, such as on the street, in a car, in an abandoned building, or in a bus or train station, or temporarily, in an institution for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families experiencing unsheltered homelessness in previous 6 months</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Proportion of families living in a homeless shelter, in a place not typically used for sleeping, such as on the street, in a car, in an abandoned building, or in a bus or train station, or temporarily, in an institution for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families experiencing unsheltered homelessness in previous 6 months</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Proportion of families living in a homeless shelter, in a place not typically used for sleeping, such as on the street, in a car, in an abandoned building, or in a bus or train station, or temporarily, in an institution for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families experiencing unsheltered homelessness in previous 6 months</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Proportion of families living in a homeless shelter, in a place not typically used for sleeping, such as on the street, in a car, in an abandoned building, or in a bus or train station, or temporarily, in an institution for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families experiencing unsheltered homelessness in previous 6 months</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Proportion of families living in a homeless shelter, in a place not typically used for sleeping, such as on the street, in a car, in an abandoned building, or in a bus or train station, or temporarily, in an institution for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families experiencing unsheltered homelessness in previous 6 months</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Proportion of families living in a homeless shelter, in a place not typically used for sleeping, such as on the street, in a car, in an abandoned building, or in a bus or train station, or temporarily, in an institution for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families experiencing unsheltered homelessness in previous 6 months</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Proportion of families living in a homeless shelter, in a place not typically used for sleeping, such as on the street, in a car, in an abandoned building, or in a bus or train station, or temporarily, in an institution for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families experiencing unsheltered homelessness in previous 6 months</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Proportion of families living in a homeless shelter, in a place not typically used for sleeping, such as on the street, in a car, in an abandoned building, or in a bus or train station, or temporarily, in an institution for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of proportion of families experiencing unsheltered homelessness in previous 6 months</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 30 months, 36 months after randomization</time_frame>
+    <description>Proportion of families living in a homeless shelter, in a place not typically used for sleeping, such as on the street, in a car, in an abandoned building, or in a bus or train station, or temporarily, in an institution for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total proportion of families ever residing in a hotel or motel</measure>
+    <time_frame>At 24 months after randomization; and changes between baseline and 6 months, 12 months, 18 months, 24 months after randomization; and changes between 24 and 36 months after randomization</time_frame>
+    <description>Proportion of families living in a hotel or motel as a form of temporary housing for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families residing in a hotel or motel in previous 6 months</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Proportion of families living in a hotel or motel as a form of temporary housing for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families residing in a hotel or motel in previous 6 months</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Proportion of families living in a hotel or motel as a form of temporary housing for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families residing in a hotel or motel in previous 6 months</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Proportion of families living in a hotel or motel as a form of temporary housing for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families residing in a hotel or motel in previous 6 months</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Proportion of families living in a hotel or motel as a form of temporary housing for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families residing in a hotel or motel in previous 6 months</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Proportion of families living in a hotel or motel as a form of temporary housing for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families residing in a hotel or motel in previous 6 months</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Proportion of families living in a hotel or motel as a form of temporary housing for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families residing in a hotel or motel in previous 6 months</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Proportion of families living in a hotel or motel as a form of temporary housing for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of proportion of families residing in a hotel or motel in previous 6 months</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 30 months, 36 months after randomization</time_frame>
+    <description>Proportion of families living in a hotel or motel as a form of temporary housing for ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families doubled up in previous 6 months</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Proportion of families in a shared living situation intended to be temporary ('doubled up' with a friend or relative due to being unable to find or afford own housing) ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families doubled up in previous 6 months</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Proportion of families in a shared living situation intended to be temporary ('doubled up' with a friend or relative due to being unable to find or afford own housing) ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families doubled up in previous 6 months</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Proportion of families in a shared living situation intended to be temporary ('doubled up' with a friend or relative due to being unable to find or afford own housing) ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families doubled up in previous 6 months</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Proportion of families in a shared living situation intended to be temporary ('doubled up' with a friend or relative due to being unable to find or afford own housing) ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families doubled up in previous 6 months</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Proportion of families in a shared living situation intended to be temporary ('doubled up' with a friend or relative due to being unable to find or afford own housing) ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families doubled up in previous 6 months</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Proportion of families in a shared living situation intended to be temporary ('doubled up' with a friend or relative due to being unable to find or afford own housing) ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of families doubled up in previous 6 months</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Proportion of families in a shared living situation intended to be temporary ('doubled up' with a friend or relative due to being unable to find or afford own housing) ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of proportion of families doubled up in previous 6 months</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 30 months, 36 months after randomization</time_frame>
+    <description>Proportion of families in a shared living situation intended to be temporary ('doubled up' with a friend or relative due to being unable to find or afford own housing) ≥1 night during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total proportion of families returning to a homeless shelter</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Proportion of families with any return to a homeless shelter at any time between randomization and the end of the 24-month study period. Assessed only in the subgroup of families who reported living in a shelter at baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total proportion of families returning to a homeless shelter</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Proportion of families with any return to a homeless shelter at any time between 24 months and 36 months after randomization. Assessed only in the subgroup of families who reported living in a shelter at baseline.Assessed only in the subgroup of families who reported living in a shelter at baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total proportion of families living in a homeless shelter</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Proportion of families who report any stay in a homeless shelter at baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total proportion of families living in a homeless shelter</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Proportion of families who report any stay in a homeless shelter after randomization and before the end of the 24-month intervention period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total proportion of families living in a homeless shelter</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Proportion of families who report any stay in a homeless shelter at the end of the 36-month data collection period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in total proportion of families living in a homeless shelter from baseline to 24 months</measure>
+    <time_frame>Will include measurements at baseline and 24 months</time_frame>
+    <description>Proportion of families who report any stay in a homeless shelter at baseline vs 24 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in total proportion of families living in a homeless shelter from baseline to 36 months</measure>
+    <time_frame>Will include measurements at baseline and 36 months</time_frame>
+    <description>Proportion of families who report any stay in a homeless shelter at baseline vs 36 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in total proportion of families living in a homeless shelter from 24 to 36 months</measure>
+    <time_frame>Will include measurements at 24 and 36 months</time_frame>
+    <description>Proportion of families who report any stay in a homeless shelter at 24 vs 36 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of monthly income spent on housing-related expenses (composite of expenses for rent, mortgage, other shelter, and/or hotel/motel)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Housing affordability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of monthly income spent on housing-related expenses (composite of expenses for rent, mortgage, other shelter, and/or hotel/motel)</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Housing affordability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of monthly income spent on housing-related expenses (composite of expenses for rent, mortgage, other shelter, and/or hotel/motel)</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Housing affordability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of monthly income spent on housing-related expenses (composite of expenses for rent, mortgage, other shelter, and/or hotel/motel)</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Housing affordability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of monthly income spent on housing-related expenses (composite of expenses for rent, mortgage, other shelter, and/or hotel/motel)</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Housing affordability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of monthly income spent on housing-related expenses (composite of expenses for rent, mortgage, other shelter, and/or hotel/motel)</measure>
+    <time_frame>27 months after randomization</time_frame>
+    <description>Housing affordability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of monthly income spent on housing-related expenses (composite of expenses for rent, mortgage, other shelter, and/or hotel/motel)</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Housing affordability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of monthly income spent on housing-related expenses (composite of expenses for rent, mortgage, other shelter, and/or hotel/motel)</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Housing affordability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of proportion of monthly income spent on housing-related expenses (composite of expenses for rent, mortgage, other shelter, and/or hotel/motel)</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 27 months, 30 months, 36 months after randomization</time_frame>
+    <description>Housing affordability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in proportion of monthly income spent on housing-related expenses at baseline vs 24 months (composite of expenses for rent, mortgage, other shelter, and/or hotel/motel)</measure>
+    <time_frame>Will include measurements at baseline and 24 months after randomization</time_frame>
+    <description>Housing affordability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in proportion of monthly income spent on housing-related expenses at baseline vs 36 months (composite of expenses for rent, mortgage, other shelter, and/or hotel/motel)</measure>
+    <time_frame>Will include measurements at baseline and 36 months after randomization</time_frame>
+    <description>Housing affordability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in proportion of monthly income spent on housing-related expenses at 24 vs 36 months (composite of expenses for rent, mortgage, other shelter, and/or hotel/motel)</measure>
+    <time_frame>Will include measurements at 24 and 36 months after randomization</time_frame>
+    <description>Housing affordability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of moves in prior 6 months</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Housing stability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of moves in prior 6 months</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Housing stability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of moves in prior 6 months</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Housing stability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of moves in prior 6 months</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Housing stability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of moves in prior 6 months</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Housing stability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of moves in prior 6 months</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Housing stability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of moves in prior 6 months</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Housing stability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of number of moves in prior 6 months</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 30 months, 36 months after randomization</time_frame>
+    <description>Housing stability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of moves out of Santa Clara County in prior 6 months</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Housing stability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of moves out of Santa Clara County in prior 6 months</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Housing stability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of moves out of Santa Clara County in prior 6 months</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Housing stability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of moves out of Santa Clara County in prior 6 months</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Housing stability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of moves out of Santa Clara County in prior 6 months</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Housing stability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of moves out of Santa Clara County in prior 6 months</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Housing stability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of number of moves out of Santa Clara County in prior 6 months</measure>
+    <time_frame>Times series will include measurements at 6 months, 12 months, 18 months, 24 months, 30 months, 36 months after randomization</time_frame>
+    <description>Housing stability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Monthly household expenditures</measure>
+    <time_frame>Baseline, 6 months, 12 months, 18 months, 24 months, 27 months, 30 months, 36 months after randomization</time_frame>
+    <description>Proportion/amount of monthly expenses on key household expenditure categories, assessed through selected questions adapted from the US Bureau of Labor Statistics Consumer Expenditures Survey</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical well-being</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Measured through the Short-Form 12 v2 (SF12v2). The SF12v2 data calculate two summary component scores, Physical Component Summary Score (PCS) and Mental Health Component Summary Score (MCS) with eight sub-domains. Scores range from 0 to 100, where a zero score indicates the lowest level of health and 100 indicates the highest level of health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical well-being</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Measured through the Short-Form 12 v2 (SF12v2). The SF12v2 data calculate two summary component scores, Physical Component Summary Score (PCS) and Mental Health Component Summary Score (MCS) with eight sub-domains. Scores range from 0 to 100, where a zero score indicates the lowest level of health and 100 indicates the highest level of health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical well-being</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Measured through the Short-Form 12 v2 (SF12v2). The SF12v2 data calculate two summary component scores, Physical Component Summary Score (PCS) and Mental Health Component Summary Score (MCS) with eight sub-domains. Scores range from 0 to 100, where a zero score indicates the lowest level of health and 100 indicates the highest level of health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical well-being</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Measured through the Short-Form 12 v2 (SF12v2). The SF12v2 data calculate two summary component scores, Physical Component Summary Score (PCS) and Mental Health Component Summary Score (MCS) with eight sub-domains. Scores range from 0 to 100, where a zero score indicates the lowest level of health and 100 indicates the highest level of health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical well-being</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Measured through the Short-Form 12 v2 (SF12v2). The SF12v2 data calculate two summary component scores, Physical Component Summary Score (PCS) and Mental Health Component Summary Score (MCS) with eight sub-domains. Scores range from 0 to 100, where a zero score indicates the lowest level of health and 100 indicates the highest level of health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical well-being</measure>
+    <time_frame>27 months after randomization</time_frame>
+    <description>Measured through the Short-Form 12 v2 (SF12v2). The SF12v2 data calculate two summary component scores, Physical Component Summary Score (PCS) and Mental Health Component Summary Score (MCS) with eight sub-domains. Scores range from 0 to 100, where a zero score indicates the lowest level of health and 100 indicates the highest level of health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical well-being</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Measured through the Short-Form 12 v2 (SF12v2). The SF12v2 data calculate two summary component scores, Physical Component Summary Score (PCS) and Mental Health Component Summary Score (MCS) with eight sub-domains. Scores range from 0 to 100, where a zero score indicates the lowest level of health and 100 indicates the highest level of health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical well-being</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Measured through the Short-Form 12 v2 (SF12v2). The SF12v2 data calculate two summary component scores, Physical Component Summary Score (PCS) and Mental Health Component Summary Score (MCS) with eight sub-domains. Scores range from 0 to 100, where a zero score indicates the lowest level of health and 100 indicates the highest level of health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of physical well-being</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 30 months, 36 months after randomization</time_frame>
+    <description>Measured through the Short-Form 12 v2 (SF12v2). The SF12v2 data calculate two summary component scores, Physical Component Summary Score (PCS) and Mental Health Component Summary Score (MCS) with eight sub-domains. Scores range from 0 to 100, where a zero score indicates the lowest level of health and 100 indicates the highest level of health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in physical well-being at baseline vs 24 months</measure>
+    <time_frame>Will include measurements at baseline and 24 months after randomization</time_frame>
+    <description>Measured through the Short-Form 12 v2 (SF12v2). The SF12v2 data calculate two summary component scores, Physical Component Summary Score (PCS) and Mental Health Component Summary Score (MCS) with eight sub-domains. Scores range from 0 to 100, where a zero score indicates the lowest level of health and 100 indicates the highest level of health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in physical well-being at baseline vs 36 months</measure>
+    <time_frame>Will include measurements at baseline and 36 months after randomization</time_frame>
+    <description>Measured through the Short-Form 12 v2 (SF12v2). The SF12v2 data calculate two summary component scores, Physical Component Summary Score (PCS) and Mental Health Component Summary Score (MCS) with eight sub-domains. Scores range from 0 to 100, where a zero score indicates the lowest level of health and 100 indicates the highest level of health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in physical well-being at 24 vs 36 months</measure>
+    <time_frame>Will include measurements at 24 and 36 months after randomization</time_frame>
+    <description>Measured through the Short-Form 12 v2 (SF12v2). The SF12v2 data calculate two summary component scores, Physical Component Summary Score (PCS) and Mental Health Component Summary Score (MCS) with eight sub-domains. Scores range from 0 to 100, where a zero score indicates the lowest level of health and 100 indicates the highest level of health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Psychological well-being</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Measured through the Kessler 6 (K6) scale. Each of the six items of the K6 is scored using a 5-level response scale, ranging from 0 to 4 (0 = none of the time, 1 = a little of the time, 2 = some of the time, 3 = most of the time, 4 = all of the time). The six items are summed to yield a total score with a range between zero and 24 with higher scores indicating higher psychological distress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Psychological well-being</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Measured through the Kessler 6 (K6) scale. Each of the six items of the K6 is scored using a 5-level response scale, ranging from 0 to 4 (0 = none of the time, 1 = a little of the time, 2 = some of the time, 3 = most of the time, 4 = all of the time). The six items are summed to yield a total score with a range between zero and 24 with higher scores indicating higher psychological distress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Psychological well-being</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Measured through the Kessler 6 (K6) scale. Each of the six items of the K6 is scored using a 5-level response scale, ranging from 0 to 4 (0 = none of the time, 1 = a little of the time, 2 = some of the time, 3 = most of the time, 4 = all of the time). The six items are summed to yield a total score with a range between zero and 24 with higher scores indicating higher psychological distress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Psychological well-being</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Measured through the Kessler 6 (K6) scale. Each of the six items of the K6 is scored using a 5-level response scale, ranging from 0 to 4 (0 = none of the time, 1 = a little of the time, 2 = some of the time, 3 = most of the time, 4 = all of the time). The six items are summed to yield a total score with a range between zero and 24 with higher scores indicating higher psychological distress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Psychological well-being</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Measured through the Kessler 6 (K6) scale. Each of the six items of the K6 is scored using a 5-level response scale, ranging from 0 to 4 (0 = none of the time, 1 = a little of the time, 2 = some of the time, 3 = most of the time, 4 = all of the time). The six items are summed to yield a total score with a range between zero and 24 with higher scores indicating higher psychological distress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Psychological well-being</measure>
+    <time_frame>27 months after randomization</time_frame>
+    <description>Measured through the Kessler 6 (K6) scale. Each of the six items of the K6 is scored using a 5-level response scale, ranging from 0 to 4 (0 = none of the time, 1 = a little of the time, 2 = some of the time, 3 = most of the time, 4 = all of the time). The six items are summed to yield a total score with a range between zero and 24 with higher scores indicating higher psychological distress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Psychological well-being</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Measured through the Kessler 6 (K6) scale. Each of the six items of the K6 is scored using a 5-level response scale, ranging from 0 to 4 (0 = none of the time, 1 = a little of the time, 2 = some of the time, 3 = most of the time, 4 = all of the time). The six items are summed to yield a total score with a range between zero and 24 with higher scores indicating higher psychological distress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Psychological well-being</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Measured through the Kessler 6 (K6) scale. Each of the six items of the K6 is scored using a 5-level response scale, ranging from 0 to 4 (0 = none of the time, 1 = a little of the time, 2 = some of the time, 3 = most of the time, 4 = all of the time). The six items are summed to yield a total score with a range between zero and 24 with higher scores indicating higher psychological distress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of psychological well-being</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 30 months, 36 months after randomization</time_frame>
+    <description>Measured through the Kessler 6 (K6) scale. Each of the six items of the K6 is scored using a 5-level response scale, ranging from 0 to 4 (0 = none of the time, 1 = a little of the time, 2 = some of the time, 3 = most of the time, 4 = all of the time). The six items are summed to yield a total score with a range between zero and 24 with higher scores indicating higher psychological distress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in psychological well-being at baseline vs 24 months</measure>
+    <time_frame>Will include measurements at baseline and 24 months after randomization</time_frame>
+    <description>Measured through the Kessler 6 (K6) scale. Each of the six items of the K6 is scored using a 5-level response scale, ranging from 0 to 4 (0 = none of the time, 1 = a little of the time, 2 = some of the time, 3 = most of the time, 4 = all of the time). The six items are summed to yield a total score with a range between zero and 24 with higher scores indicating higher psychological distress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in psychological well-being at baseline vs 36 months</measure>
+    <time_frame>Will include measurements at baseline and 36 months after randomization</time_frame>
+    <description>Measured through the Kessler 6 (K6) scale. Each of the six items of the K6 is scored using a 5-level response scale, ranging from 0 to 4 (0 = none of the time, 1 = a little of the time, 2 = some of the time, 3 = most of the time, 4 = all of the time). The six items are summed to yield a total score with a range between zero and 24 with higher scores indicating higher psychological distress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in psychological well-being at 24 vs 36 months</measure>
+    <time_frame>Will include measurements at 24 and 36 months after randomization</time_frame>
+    <description>Measured through the Kessler 6 (K6) scale. Each of the six items of the K6 is scored using a 5-level response scale, ranging from 0 to 4 (0 = none of the time, 1 = a little of the time, 2 = some of the time, 3 = most of the time, 4 = all of the time). The six items are summed to yield a total score with a range between zero and 24 with higher scores indicating higher psychological distress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overcrowding</measure>
+    <time_frame>Baseline</time_frame>
+    <description>People per room excluding bathrooms and kitchens. A higher number of people per room is associated with increased overcrowding.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overcrowding</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>People per room excluding bathrooms and kitchens. A higher number of people per room is associated with increased overcrowding.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overcrowding</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>People per room excluding bathrooms and kitchens. A higher number of people per room is associated with increased overcrowding.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overcrowding</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>People per room excluding bathrooms and kitchens. A higher number of people per room is associated with increased overcrowding.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overcrowding</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>People per room excluding bathrooms and kitchens. A higher number of people per room is associated with increased overcrowding.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overcrowding</measure>
+    <time_frame>27 months after randomization</time_frame>
+    <description>People per room excluding bathrooms and kitchens. A higher number of people per room is associated with increased overcrowding.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overcrowding</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>People per room excluding bathrooms and kitchens. A higher number of people per room is associated with increased overcrowding.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overcrowding</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>People per room excluding bathrooms and kitchens. A higher number of people per room is associated with increased overcrowding.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of overcrowding</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 30 months, 36 months after randomization</time_frame>
+    <description>People per room excluding bathrooms and kitchens. A higher number of people per room is associated with increased overcrowding.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in overcrowding at baseline vs 24 months</measure>
+    <time_frame>Will include measurements at baseline and 24 months after randomization</time_frame>
+    <description>People per room excluding bathrooms and kitchens. A higher number of people per room is associated with increased overcrowding.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in overcrowding at baseline vs 36 months</measure>
+    <time_frame>Will include measurements at baseline and 36 months after randomization</time_frame>
+    <description>People per room excluding bathrooms and kitchens. A higher number of people per room is associated with increased overcrowding.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in overcrowding at 24 vs 36 months</measure>
+    <time_frame>Will include measurements at 24 and 36 months after randomization</time_frame>
+    <description>People per room excluding bathrooms and kitchens. A higher number of people per room is associated with increased overcrowding.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Measured through proportion of households describing overall housing condition as 'excellent' or 'good'. Measured only in the subset of households who respond that they are currently living in a house, apartment/condo, garage, or basement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Measured through proportion of households describing overall housing condition as 'excellent' or 'good'. Measured only in the subset of households who respond that they are currently living in a house, apartment/condo, garage, or basement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Measured through proportion of households describing overall housing condition as 'excellent' or 'good'. Measured only in the subset of households who respond that they are currently living in a house, apartment/condo, garage, or basement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Measured through proportion of households describing overall housing condition as 'excellent' or 'good'. Measured only in the subset of households who respond that they are currently living in a house, apartment/condo, garage, or basement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Measured through proportion of households describing overall housing condition as 'excellent' or 'good'. Measured only in the subset of households who respond that they are currently living in a house, apartment/condo, garage, or basement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality</measure>
+    <time_frame>27 months after randomization</time_frame>
+    <description>Measured through proportion of households describing overall housing condition as 'excellent' or 'good'. Measured only in the subset of households who respond that they are currently living in a house, apartment/condo, garage, or basement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Measured through proportion of households describing overall housing condition as 'excellent' or 'good'. Measured only in the subset of households who respond that they are currently living in a house, apartment/condo, garage, or basement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Measured through proportion of households describing overall housing condition as 'excellent' or 'good'. Measured only in the subset of households who respond that they are currently living in a house, apartment/condo, garage, or basement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of housing quality</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 27 months, 30 months, 36 months after randomization</time_frame>
+    <description>Measured through proportion of households describing overall housing condition as 'excellent' or 'good'. Measured only in the subset of households who respond that they are currently living in a house, apartment/condo, garage, or basement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in housing quality from baseline to 24 months</measure>
+    <time_frame>Will include measurements from baseline and 24 months</time_frame>
+    <description>Measured through proportion of households describing overall housing condition as 'excellent' or 'good'. Measured only in the subset of households who respond that they are currently living in a house, apartment/condo, garage, or basement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in housing quality from baseline to 36 months</measure>
+    <time_frame>Will include measurements from baseline and 36 months</time_frame>
+    <description>Measured through proportion of households describing overall housing condition as 'excellent' or 'good'. Measured only in the subset of households who respond that they are currently living in a house, apartment/condo, garage, or basement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in housing quality from 24 to 36 months</measure>
+    <time_frame>Will include measurements from 24 and 36 months</time_frame>
+    <description>Measured through proportion of households describing overall housing condition as 'excellent' or 'good'. Measured only in the subset of households who respond that they are currently living in a house, apartment/condo, garage, or basement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality: infrastructure and appliances</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Composite score assessing presence of a working stove/cooktop, refrigerator, kitchen sink, hot and cold water, bathroom sink with running water, toilet, and bathtub/shower. Range of total items present is 0-7, with higher score suggesting higher housing quality in terms of infrastructure and appliances. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality: infrastructure and appliances</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Composite score assessing presence of a working stove/cooktop, refrigerator, kitchen sink, hot and cold water, bathroom sink with running water, toilet, and bathtub/shower. Range of total items present is 0-7, with higher score suggesting higher housing quality in terms of infrastructure and appliances. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality: infrastructure and appliances</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Composite score assessing presence of a working stove/cooktop, refrigerator, kitchen sink, hot and cold water, bathroom sink with running water, toilet, and bathtub/shower. Range of total items present is 0-7, with higher score suggesting higher housing quality in terms of infrastructure and appliances. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality: infrastructure and appliances</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Composite score assessing presence of a working stove/cooktop, refrigerator, kitchen sink, hot and cold water, bathroom sink with running water, toilet, and bathtub/shower. Range of total items present is 0-7, with higher score suggesting higher housing quality in terms of infrastructure and appliances. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality: infrastructure and appliances</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Composite score assessing presence of a working stove/cooktop, refrigerator, kitchen sink, hot and cold water, bathroom sink with running water, toilet, and bathtub/shower. Range of total items present is 0-7, with higher score suggesting higher housing quality in terms of infrastructure and appliances. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality: infrastructure and appliances</measure>
+    <time_frame>27 months after randomization</time_frame>
+    <description>Composite score assessing presence of a working stove/cooktop, refrigerator, kitchen sink, hot and cold water, bathroom sink with running water, toilet, and bathtub/shower. Range of total items present is 0-7, with higher score suggesting higher housing quality in terms of infrastructure and appliances. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality: infrastructure and appliances</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Composite score assessing presence of a working stove/cooktop, refrigerator, kitchen sink, hot and cold water, bathroom sink with running water, toilet, and bathtub/shower. Range of total items present is 0-7, with higher score suggesting higher housing quality in terms of infrastructure and appliances. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality: infrastructure and appliances</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Composite score assessing presence of a working stove/cooktop, refrigerator, kitchen sink, hot and cold water, bathroom sink with running water, toilet, and bathtub/shower. Range of total items present is 0-7, with higher score suggesting higher housing quality in terms of infrastructure and appliances. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of housing quality: infrastructure and appliances</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 27 months, 30 months, 36 months after randomization</time_frame>
+    <description>Composite score assessing presence of a working stove/cooktop, refrigerator, kitchen sink, hot and cold water, bathroom sink with running water, toilet, and bathtub/shower. Range of total items present is 0-7, with higher score suggesting higher housing quality in terms of infrastructure and appliances. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in housing quality: infrastructure and appliances from baseline to 24 months</measure>
+    <time_frame>Will include measurements from baseline and at 24 months</time_frame>
+    <description>Composite score assessing presence of a working stove/cooktop, refrigerator, kitchen sink, hot and cold water, bathroom sink with running water, toilet, and bathtub/shower. Range of total items present is 0-7, with higher score suggesting higher housing quality in terms of infrastructure and appliances. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in housing quality: infrastructure and appliances from baseline to 36 months</measure>
+    <time_frame>Will include measurements from baseline and at 36 months</time_frame>
+    <description>Composite score assessing presence of a working stove/cooktop, refrigerator, kitchen sink, hot and cold water, bathroom sink with running water, toilet, and bathtub/shower. Range of total items present is 0-7, with higher score suggesting higher housing quality in terms of infrastructure and appliances. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in housing quality: infrastructure and appliances from 24 to 36 months</measure>
+    <time_frame>Will include measurements from 24 months and at 36 months</time_frame>
+    <description>Composite score assessing presence of a working stove/cooktop, refrigerator, kitchen sink, hot and cold water, bathroom sink with running water, toilet, and bathtub/shower. Range of total items present is 0-7, with higher score suggesting higher housing quality in terms of infrastructure and appliances. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality: safety issues</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Composite score assessing presence of exposed electrical wiring (or lack thereof), mildew/water damage, flooring problems, holes/cracks, bad odors, bathroom plumbing problems, nonfunctioning toilet, electrical outages, lack of heating, rodents, cockroaches. Range of potential safety problems present is 0-11, with higher score suggesting worse housing safety. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality: safety issues</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Composite score assessing presence of exposed electrical wiring (or lack thereof), mildew/water damage, flooring problems, holes/cracks, bad odors, bathroom plumbing problems, nonfunctioning toilet, electrical outages, lack of heating, rodents, cockroaches. Range of potential safety problems present is 0-11, with higher score suggesting worse housing safety. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality: safety issues</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Composite score assessing presence of exposed electrical wiring (or lack thereof), mildew/water damage, flooring problems, holes/cracks, bad odors, bathroom plumbing problems, nonfunctioning toilet, electrical outages, lack of heating, rodents, cockroaches. Range of potential safety problems present is 0-11, with higher score suggesting worse housing safety. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality: safety issues</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Composite score assessing presence of exposed electrical wiring (or lack thereof), mildew/water damage, flooring problems, holes/cracks, bad odors, bathroom plumbing problems, nonfunctioning toilet, electrical outages, lack of heating, rodents, cockroaches. Range of potential safety problems present is 0-11, with higher score suggesting worse housing safety. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality: safety issues</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Composite score assessing presence of exposed electrical wiring (or lack thereof), mildew/water damage, flooring problems, holes/cracks, bad odors, bathroom plumbing problems, nonfunctioning toilet, electrical outages, lack of heating, rodents, cockroaches. Range of potential safety problems present is 0-11, with higher score suggesting worse housing safety. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality: safety issues</measure>
+    <time_frame>27 months after randomization</time_frame>
+    <description>Composite score assessing presence of exposed electrical wiring (or lack thereof), mildew/water damage, flooring problems, holes/cracks, bad odors, bathroom plumbing problems, nonfunctioning toilet, electrical outages, lack of heating, rodents, cockroaches. Range of potential safety problems present is 0-11, with higher score suggesting worse housing safety. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality: safety issues</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Composite score assessing presence of exposed electrical wiring (or lack thereof), mildew/water damage, flooring problems, holes/cracks, bad odors, bathroom plumbing problems, nonfunctioning toilet, electrical outages, lack of heating, rodents, cockroaches. Range of potential safety problems present is 0-11, with higher score suggesting worse housing safety. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Housing quality: safety issues</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Composite score assessing presence of exposed electrical wiring (or lack thereof), mildew/water damage, flooring problems, holes/cracks, bad odors, bathroom plumbing problems, nonfunctioning toilet, electrical outages, lack of heating, rodents, cockroaches. Range of potential safety problems present is 0-11, with higher score suggesting worse housing safety. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of housing quality: safety issues</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 27 months, 30 months, 36 months after randomization</time_frame>
+    <description>Composite score assessing presence of exposed electrical wiring (or lack thereof), mildew/water damage, flooring problems, holes/cracks, bad odors, bathroom plumbing problems, nonfunctioning toilet, electrical outages, lack of heating, rodents, cockroaches. Range of potential safety problems present is 0-11, with higher score suggesting worse housing safety. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in housing quality: safety issues from baseline to 24 months</measure>
+    <time_frame>Will include measurements at baseline and at 24 months</time_frame>
+    <description>Composite score assessing presence of exposed electrical wiring (or lack thereof), mildew/water damage, flooring problems, holes/cracks, bad odors, bathroom plumbing problems, nonfunctioning toilet, electrical outages, lack of heating, rodents, cockroaches. Range of potential safety problems present is 0-11, with higher score suggesting worse housing safety. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in housing quality: safety issues from baseline to 36 months</measure>
+    <time_frame>Will include measurements at baseline and at 36 months</time_frame>
+    <description>Composite score assessing presence of exposed electrical wiring (or lack thereof), mildew/water damage, flooring problems, holes/cracks, bad odors, bathroom plumbing problems, nonfunctioning toilet, electrical outages, lack of heating, rodents, cockroaches. Range of potential safety problems present is 0-11, with higher score suggesting worse housing safety. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in housing quality: safety issues from 24 to 36 months</measure>
+    <time_frame>Will include measurements at 24 and 36 months</time_frame>
+    <description>Composite score assessing presence of exposed electrical wiring (or lack thereof), mildew/water damage, flooring problems, holes/cracks, bad odors, bathroom plumbing problems, nonfunctioning toilet, electrical outages, lack of heating, rodents, cockroaches. Range of potential safety problems present is 0-11, with higher score suggesting worse housing safety. Adapted from composite measures of material hardship from the Survey of Income and Program Participation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Measured through the Consumer Financial Protection Bureau Financial Well-Being survey. The ten items are scored on a 5-point Likert scale with each answer scored 0-4. A raw score is calculated from the sum of the ten items (range 0-40); the raw score is converted to a financial well-being score with adjustments for age and mode of survey administration. The range of financial well-being scores in adults 18 and older is 16-91 with higher scores corresponding to higher financial well-being.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Measured through the Consumer Financial Protection Bureau Financial Well-Being survey. The ten items are scored on a 5-point Likert scale with each answer scored 0-4. A raw score is calculated from the sum of the ten items (range 0-40); the raw score is converted to a financial well-being score with adjustments for age and mode of survey administration. The range of financial well-being scores in adults 18 and older is 16-91 with higher scores corresponding to higher financial well-being.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Measured through the Consumer Financial Protection Bureau Financial Well-Being survey. The ten items are scored on a 5-point Likert scale with each answer scored 0-4. A raw score is calculated from the sum of the ten items (range 0-40); the raw score is converted to a financial well-being score with adjustments for age and mode of survey administration. The range of financial well-being scores in adults 18 and older is 16-91 with higher scores corresponding to higher financial well-being.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Measured through the Consumer Financial Protection Bureau Financial Well-Being survey. The ten items are scored on a 5-point Likert scale with each answer scored 0-4. A raw score is calculated from the sum of the ten items (range 0-40); the raw score is converted to a financial well-being score with adjustments for age and mode of survey administration. The range of financial well-being scores in adults 18 and older is 16-91 with higher scores corresponding to higher financial well-being.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Measured through the Consumer Financial Protection Bureau Financial Well-Being survey. The ten items are scored on a 5-point Likert scale with each answer scored 0-4. A raw score is calculated from the sum of the ten items (range 0-40); the raw score is converted to a financial well-being score with adjustments for age and mode of survey administration. The range of financial well-being scores in adults 18 and older is 16-91 with higher scores corresponding to higher financial well-being.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being</measure>
+    <time_frame>27 months after randomization</time_frame>
+    <description>Measured through the Consumer Financial Protection Bureau Financial Well-Being survey. The ten items are scored on a 5-point Likert scale with each answer scored 0-4. A raw score is calculated from the sum of the ten items (range 0-40); the raw score is converted to a financial well-being score with adjustments for age and mode of survey administration. The range of financial well-being scores in adults 18 and older is 16-91 with higher scores corresponding to higher financial well-being.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Measured through the Consumer Financial Protection Bureau Financial Well-Being survey. The ten items are scored on a 5-point Likert scale with each answer scored 0-4. A raw score is calculated from the sum of the ten items (range 0-40); the raw score is converted to a financial well-being score with adjustments for age and mode of survey administration. The range of financial well-being scores in adults 18 and older is 16-91 with higher scores corresponding to higher financial well-being.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Measured through the Consumer Financial Protection Bureau Financial Well-Being survey. The ten items are scored on a 5-point Likert scale with each answer scored 0-4. A raw score is calculated from the sum of the ten items (range 0-40); the raw score is converted to a financial well-being score with adjustments for age and mode of survey administration. The range of financial well-being scores in adults 18 and older is 16-91 with higher scores corresponding to higher financial well-being.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of financial well-being</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 27 months, 30 months, 36 months after randomization</time_frame>
+    <description>Measured through the Consumer Financial Protection Bureau Financial Well-Being survey. The ten items are scored on a 5-point Likert scale with each answer scored 0-4. A raw score is calculated from the sum of the ten items (range 0-40); the raw score is converted to a financial well-being score with adjustments for age and mode of survey administration. The range of financial well-being scores in adults 18 and older is 16-91 with higher scores corresponding to higher financial well-being.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in financial well-being from baseline to 24 months</measure>
+    <time_frame>Will include measurements at baseline and 24 months after randomization</time_frame>
+    <description>Measured through the Consumer Financial Protection Bureau Financial Well-Being survey. The ten items are scored on a 5-point Likert scale with each answer scored 0-4. A raw score is calculated from the sum of the ten items (range 0-40); the raw score is converted to a financial well-being score with adjustments for age and mode of survey administration. The range of financial well-being scores in adults 18 and older is 16-91 with higher scores corresponding to higher financial well-being.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in financial well-being from baseline to 36 months</measure>
+    <time_frame>Will include measurements at baseline and 36 months after randomization</time_frame>
+    <description>Measured through the Consumer Financial Protection Bureau Financial Well-Being survey. The ten items are scored on a 5-point Likert scale with each answer scored 0-4. A raw score is calculated from the sum of the ten items (range 0-40); the raw score is converted to a financial well-being score with adjustments for age and mode of survey administration. The range of financial well-being scores in adults 18 and older is 16-91 with higher scores corresponding to higher financial well-being.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in financial well-being from 24 to 36 months</measure>
+    <time_frame>Will include measurements at 24 and 36 months after randomization</time_frame>
+    <description>Measured through the Consumer Financial Protection Bureau Financial Well-Being survey. The ten items are scored on a 5-point Likert scale with each answer scored 0-4. A raw score is calculated from the sum of the ten items (range 0-40); the raw score is converted to a financial well-being score with adjustments for age and mode of survey administration. The range of financial well-being scores in adults 18 and older is 16-91 with higher scores corresponding to higher financial well-being.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (emergency expenses)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $400 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (emergency expenses)</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $400 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (emergency expenses)</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $400 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (emergency expenses)</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $400 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (emergency expenses)</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $400 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (emergency expenses)</measure>
+    <time_frame>27 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $400 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (emergency expenses)</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $400 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (emergency expenses)</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $400 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of financial well-being (emergency expenses)</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 27 months, 30 months, 36 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $400 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in financial well-being (emergency expenses) at baseline vs 24 months</measure>
+    <time_frame>Will include measurements at baseline and 24 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $400 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in financial well-being (emergency expenses) at baseline vs 36 months</measure>
+    <time_frame>Will include measurements at baseline and 36 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $400 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in financial well-being (emergency expenses) at 24 vs 36 months</measure>
+    <time_frame>Will include measurements at 24 and 36 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $400 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (larger emergency expenses)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $2000 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED) and Urban Institute Survey of Well-Being and Basic Needs. This question is asked only of the subset of households who respond they are 'somewhat' or 'very' confident they could handle a $400 expense in the next month.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (larger emergency expenses)</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $2000 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED) and Urban Institute Survey of Well-Being and Basic Needs. This question is asked only of the subset of households who respond they are 'somewhat' or 'very' confident they could handle a $400 expense in the next month.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (larger emergency expenses)</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $2000 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED) and Urban Institute Survey of Well-Being and Basic Needs. This question is asked only of the subset of households who respond they are 'somewhat' or 'very' confident they could handle a $400 expense in the next month.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (larger emergency expenses)</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $2000 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED) and Urban Institute Survey of Well-Being and Basic Needs. This question is asked only of the subset of households who respond they are 'somewhat' or 'very' confident they could handle a $400 expense in the next month.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (larger emergency expenses)</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $2000 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED) and Urban Institute Survey of Well-Being and Basic Needs. This question is asked only of the subset of households who respond they are 'somewhat' or 'very' confident they could handle a $400 expense in the next month.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (larger emergency expenses)</measure>
+    <time_frame>27 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $2000 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED) and Urban Institute Survey of Well-Being and Basic Needs. This question is asked only of the subset of households who respond they are 'somewhat' or 'very' confident they could handle a $400 expense in the next month.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (larger emergency expenses)</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $2000 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED) and Urban Institute Survey of Well-Being and Basic Needs. This question is asked only of the subset of households who respond they are 'somewhat' or 'very' confident they could handle a $400 expense in the next month.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (larger emergency expenses)</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $2000 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED) and Urban Institute Survey of Well-Being and Basic Needs. This question is asked only of the subset of households who respond they are 'somewhat' or 'very' confident they could handle a $400 expense in the next month.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of financial well-being (larger emergency expenses)</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 27 months, 30 months, 36 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $2000 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED) and Urban Institute Survey of Well-Being and Basic Needs. This question is asked only of the subset of households who respond they are 'somewhat' or 'very' confident they could handle a $400 expense in the next month.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in financial well-being (larger emergency expenses) at baseline vs 24 months</measure>
+    <time_frame>Will include measurements at baseline and 24 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $2000 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED) and Urban Institute Survey of Well-Being and Basic Needs. This question is asked only of the subset of households who respond they are 'somewhat' or 'very' confident they could handle a $400 expense in the next month.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in financial well-being (larger emergency expenses) at baseline vs 36 months</measure>
+    <time_frame>Will include measurements at baseline and 36 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $2000 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED) and Urban Institute Survey of Well-Being and Basic Needs. This question is asked only of the subset of households who respond they are 'somewhat' or 'very' confident they could handle a $400 expense in the next month.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in financial well-being (larger emergency expenses) at 24 vs 36 months</measure>
+    <time_frame>Will include measurements at 24 and 36 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they are 'somewhat' or 'very confident' they could handle a $2000 emergency expense in the next month. Adapted from the Survey of Household Economics and Decisionmaking (or SHED) and Urban Institute Survey of Well-Being and Basic Needs. This question is asked only of the subset of households who respond they are 'somewhat' or 'very' confident they could handle a $400 expense in the next month.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (monthly finances)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Measured through proportion of families responding they have 'just enough money to make ends meet' or 'some money left over' at the end of each month, as an indicator of stable monthly finances. Adapted from the Family Options Study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (monthly finances)</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they have 'just enough money to make ends meet' or 'some money left over' at the end of each month, as an indicator of stable monthly finances. Adapted from the Family Options Study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (monthly finances)</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they have 'just enough money to make ends meet' or 'some money left over' at the end of each month, as an indicator of stable monthly finances. Adapted from the Family Options Study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (monthly finances)</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they have 'just enough money to make ends meet' or 'some money left over' at the end of each month, as an indicator of stable monthly finances. Adapted from the Family Options Study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (monthly finances)</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they have 'just enough money to make ends meet' or 'some money left over' at the end of each month, as an indicator of stable monthly finances. Adapted from the Family Options Study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (monthly finances)</measure>
+    <time_frame>27 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they have 'just enough money to make ends meet' or 'some money left over' at the end of each month, as an indicator of stable monthly finances. Adapted from the Family Options Study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (monthly finances)</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they have 'just enough money to make ends meet' or 'some money left over' at the end of each month, as an indicator of stable monthly finances. Adapted from the Family Options Study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Financial well-being (monthly finances)</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they have 'just enough money to make ends meet' or 'some money left over' at the end of each month, as an indicator of stable monthly finances. Adapted from the Family Options Study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of financial well-being (monthly finances)</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 27 months, 30 months, 36 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they have 'just enough money to make ends meet' or 'some money left over' at the end of each month, as an indicator of stable monthly finances. Adapted from the Family Options Study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in financial well-being (monthly finances) at baseline vs 24 months</measure>
+    <time_frame>Will include measurements at baseline and 24 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they have 'just enough money to make ends meet' or 'some money left over' at the end of each month, as an indicator of stable monthly finances. Adapted from the Family Options Study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in financial well-being (monthly finances) at baseline vs 36 months</measure>
+    <time_frame>Will include measurements at baseline and 36 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they have 'just enough money to make ends meet' or 'some money left over' at the end of each month, as an indicator of stable monthly finances. Adapted from the Family Options Study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in financial well-being (monthly finances) at 24 vs 36 months</measure>
+    <time_frame>Will include measurements at 24 and 36 months after randomization</time_frame>
+    <description>Measured through proportion of families responding they have 'just enough money to make ends meet' or 'some money left over' at the end of each month, as an indicator of stable monthly finances. Adapted from the Family Options Study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Material hardship</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Composite score assessing the presence of: use of payday loan, overdrawn checking account, missed credit card payment, missed loan payment, contacted by a debt collection agency, late gas/electric bill payment, gas/electricity turned off due to non-payment, late phone bill payment, phone service turned off due to non-payment, difficulty paying medical bills, late rent/mortgage payment, and partial rent/mortgage payment. Range of material hardship domains is 0-11 with higher score associated with material hardship. Individual items are adapted from questions from the Survey of Income and Program Participation and the Urban Institute Well-Being and Basic Needs Survey.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Material hardship</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Composite score assessing the presence of: use of payday loan, overdrawn checking account, missed credit card payment, missed loan payment, contacted by a debt collection agency, late gas/electric bill payment, gas/electricity turned off due to non-payment, late phone bill payment, phone service turned off due to non-payment, difficulty paying medical bills, late rent/mortgage payment, and partial rent/mortgage payment. Range of material hardship domains is 0-11 with higher score associated with material hardship. Individual items are adapted from questions from the Survey of Income and Program Participation and the Urban Institute Well-Being and Basic Needs Survey.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Material hardship</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Composite score assessing the presence of: use of payday loan, overdrawn checking account, missed credit card payment, missed loan payment, contacted by a debt collection agency, late gas/electric bill payment, gas/electricity turned off due to non-payment, late phone bill payment, phone service turned off due to non-payment, difficulty paying medical bills, late rent/mortgage payment, and partial rent/mortgage payment. Range of material hardship domains is 0-11 with higher score associated with material hardship. Individual items are adapted from questions from the Survey of Income and Program Participation and the Urban Institute Well-Being and Basic Needs Survey.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Material hardship</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Composite score assessing the presence of: use of payday loan, overdrawn checking account, missed credit card payment, missed loan payment, contacted by a debt collection agency, late gas/electric bill payment, gas/electricity turned off due to non-payment, late phone bill payment, phone service turned off due to non-payment, difficulty paying medical bills, late rent/mortgage payment, and partial rent/mortgage payment. Range of material hardship domains is 0-11 with higher score associated with material hardship. Individual items are adapted from questions from the Survey of Income and Program Participation and the Urban Institute Well-Being and Basic Needs Survey.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Material hardship</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Composite score assessing the presence of: use of payday loan, overdrawn checking account, missed credit card payment, missed loan payment, contacted by a debt collection agency, late gas/electric bill payment, gas/electricity turned off due to non-payment, late phone bill payment, phone service turned off due to non-payment, difficulty paying medical bills, late rent/mortgage payment, and partial rent/mortgage payment. Range of material hardship domains is 0-11 with higher score associated with material hardship. Individual items are adapted from questions from the Survey of Income and Program Participation and the Urban Institute Well-Being and Basic Needs Survey.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Material hardship</measure>
+    <time_frame>27 months after randomization</time_frame>
+    <description>Composite score assessing the presence of: use of payday loan, overdrawn checking account, missed credit card payment, missed loan payment, contacted by a debt collection agency, late gas/electric bill payment, gas/electricity turned off due to non-payment, late phone bill payment, phone service turned off due to non-payment, difficulty paying medical bills, late rent/mortgage payment, and partial rent/mortgage payment. Range of material hardship domains is 0-11 with higher score associated with material hardship. Individual items are adapted from questions from the Survey of Income and Program Participation and the Urban Institute Well-Being and Basic Needs Survey.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Material hardship</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Composite score assessing the presence of: use of payday loan, overdrawn checking account, missed credit card payment, missed loan payment, contacted by a debt collection agency, late gas/electric bill payment, gas/electricity turned off due to non-payment, late phone bill payment, phone service turned off due to non-payment, difficulty paying medical bills, late rent/mortgage payment, and partial rent/mortgage payment. Range of material hardship domains is 0-11 with higher score associated with material hardship. Individual items are adapted from questions from the Survey of Income and Program Participation and the Urban Institute Well-Being and Basic Needs Survey.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Material hardship</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Composite score assessing the presence of: use of payday loan, overdrawn checking account, missed credit card payment, missed loan payment, contacted by a debt collection agency, late gas/electric bill payment, gas/electricity turned off due to non-payment, late phone bill payment, phone service turned off due to non-payment, difficulty paying medical bills, late rent/mortgage payment, and partial rent/mortgage payment. Range of material hardship domains is 0-11 with higher score associated with material hardship. Individual items are adapted from questions from the Survey of Income and Program Participation and the Urban Institute Well-Being and Basic Needs Survey.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of material hardship</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 27 months, 30 months, 36 months after randomization</time_frame>
+    <description>Change over time in composite score assessing the presence of: use of payday loan, overdrawn checking account, missed credit card payment, missed loan payment, contacted by a debt collection agency, late gas/electric bill payment, gas/electricity turned off due to non-payment, late phone bill payment, phone service turned off due to non-payment, difficulty paying medical bills, late rent/mortgage payment, and partial rent/mortgage payment. Range of material hardship domains is 0-11 with higher score associated with material hardship. Individual items are adapted from questions from the Survey of Income and Program Participation and the Urban Institute Well-Being and Basic Needs Survey.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in material hardship from baseline to 24 months</measure>
+    <time_frame>Will include measurements at baseline and 24 months after randomization</time_frame>
+    <description>Change in composite score assessing the presence of: use of payday loan, overdrawn checking account, missed credit card payment, missed loan payment, contacted by a debt collection agency, late gas/electric bill payment, gas/electricity turned off due to non-payment, late phone bill payment, phone service turned off due to non-payment, difficulty paying medical bills, late rent/mortgage payment, and partial rent/mortgage payment. Range of material hardship domains is 0-11 with higher score associated with material hardship. Individual items are adapted from questions from the Survey of Income and Program Participation and the Urban Institute Well-Being and Basic Needs Survey.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in material hardship from baseline to 36 months</measure>
+    <time_frame>Will include measurements at baseline and 36 months after randomization</time_frame>
+    <description>Change in composite score assessing the presence of: use of payday loan, overdrawn checking account, missed credit card payment, missed loan payment, contacted by a debt collection agency, late gas/electric bill payment, gas/electricity turned off due to non-payment, late phone bill payment, phone service turned off due to non-payment, difficulty paying medical bills, late rent/mortgage payment, and partial rent/mortgage payment. Range of material hardship domains is 0-11 with higher score associated with material hardship. Individual items are adapted from questions from the Survey of Income and Program Participation and the Urban Institute Well-Being and Basic Needs Survey.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in material hardship from 24 to 36 months</measure>
+    <time_frame>Will include measurements at 24 and 36 months after randomization</time_frame>
+    <description>Change in composite score assessing the presence of: use of payday loan, overdrawn checking account, missed credit card payment, missed loan payment, contacted by a debt collection agency, late gas/electric bill payment, gas/electricity turned off due to non-payment, late phone bill payment, phone service turned off due to non-payment, difficulty paying medical bills, late rent/mortgage payment, and partial rent/mortgage payment. Range of material hardship domains is 0-11 with higher score associated with material hardship. Individual items are adapted from questions from the Survey of Income and Program Participation and the Urban Institute Well-Being and Basic Needs Survey.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total debt to monthly income ratio</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Sum of total debt (composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage) divided by reported average monthly income. A higher ratio indicates a higher burden of debt relative to monthly income.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total debt to monthly income ratio</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Sum of total debt (composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage) divided by reported average monthly income. A higher ratio indicates a higher burden of debt relative to monthly income.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total debt to monthly income ratio</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Sum of total debt (composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage) divided by reported average monthly income. A higher ratio indicates a higher burden of debt relative to monthly income.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total debt to monthly income ratio</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Sum of total debt (composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage) divided by reported average monthly income. A higher ratio indicates a higher burden of debt relative to monthly income.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total debt to monthly income ratio</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Sum of total debt (composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage) divided by reported average monthly income. A higher ratio indicates a higher burden of debt relative to monthly income.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total debt to monthly income ratio</measure>
+    <time_frame>27 months after randomization</time_frame>
+    <description>Sum of total debt (composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage) divided by reported average monthly income. A higher ratio indicates a higher burden of debt relative to monthly income.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total debt to monthly income ratio</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Sum of total debt (composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage) divided by reported average monthly income. A higher ratio indicates a higher burden of debt relative to monthly income.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total debt to monthly income ratio</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Sum of total debt (composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage) divided by reported average monthly income. A higher ratio indicates a higher burden of debt relative to monthly income.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of total debt to monthly income ratio</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 27 months, 30 months, 36 months after randomization</time_frame>
+    <description>Sum of total debt (composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage) divided by reported average monthly income. A higher ratio indicates a higher burden of debt relative to monthly income.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in total debt to monthly income ratio at baseline vs 24 months</measure>
+    <time_frame>Will include measurements at baseline and 24 months after randomization</time_frame>
+    <description>Sum of total debt (composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage) divided by reported average monthly income. A higher ratio indicates a higher burden of debt relative to monthly income.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in total debt to monthly income ratio at baseline vs 36 months</measure>
+    <time_frame>Will include measurements at baseline and 36 months after randomization</time_frame>
+    <description>Sum of total debt (composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage) divided by reported average monthly income. A higher ratio indicates a higher burden of debt relative to monthly income.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in total debt to monthly income ratio at 24 vs 36 months</measure>
+    <time_frame>Will include measurements at 24 and 36 months after randomization</time_frame>
+    <description>Sum of total debt (composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage) divided by reported average monthly income. A higher ratio indicates a higher burden of debt relative to monthly income.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total debt</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Total self-reported debt (dollar amount, composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage). A higher amount indicates a higher burden of debt.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total debt</measure>
+    <time_frame>6 months</time_frame>
+    <description>Total self-reported debt (dollar amount, composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage). A higher amount indicates a higher burden of debt.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total debt</measure>
+    <time_frame>12 months</time_frame>
+    <description>Total self-reported debt (dollar amount, composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage). A higher amount indicates a higher burden of debt.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total debt</measure>
+    <time_frame>18 months</time_frame>
+    <description>Total self-reported debt (dollar amount, composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage). A higher amount indicates a higher burden of debt.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total debt</measure>
+    <time_frame>24 months</time_frame>
+    <description>Total self-reported debt (dollar amount, composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage). A higher amount indicates a higher burden of debt.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total debt</measure>
+    <time_frame>27 months</time_frame>
+    <description>Total self-reported debt (dollar amount, composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage). A higher amount indicates a higher burden of debt.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total debt</measure>
+    <time_frame>30 months</time_frame>
+    <description>Total self-reported debt (dollar amount, composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage). A higher amount indicates a higher burden of debt.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total debt</measure>
+    <time_frame>36 months</time_frame>
+    <description>Total self-reported debt (dollar amount, composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage). A higher amount indicates a higher burden of debt.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of total debt</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 27 months, 30 months, 36 months after randomization</time_frame>
+    <description>Total self-reported debt (dollar amount, composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage). A higher amount indicates a higher burden of debt.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in total debt at baseline vs 24 months</measure>
+    <time_frame>Will include measurements at baseline and 24 months after randomization</time_frame>
+    <description>Total self-reported debt (dollar amount, composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage). A higher amount indicates a higher burden of debt.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in total debt at baseline vs 36 months</measure>
+    <time_frame>Will include measurements at baseline and 36 months after randomization</time_frame>
+    <description>Total self-reported debt (dollar amount, composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage). A higher amount indicates a higher burden of debt.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in total debt at 24 vs 36 months</measure>
+    <time_frame>Will include measurements at 24 and 36 months after randomization</time_frame>
+    <description>Total self-reported debt (dollar amount, composite of balance of loans/credit card debt, balance for overdue bills, and balance for overdue rent/mortgage). A higher amount indicates a higher burden of debt.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Household food security</measure>
+    <time_frame>Baseline</time_frame>
+    <description>The United States Department of Agriculture (USDA) U.S. Household Food Security Survey Module: Six-Item Short Form. Responses to each of the six items are coded as 'affirmative' or 'negative', with each affirmative response assigned a score of 1. Scores are summed across the six items to yield a total score ranging from 0 to 6, with higher scores indicating lower household food security.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Household food security</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>The United States Department of Agriculture (USDA) U.S. Household Food Security Survey Module: Six-Item Short Form. Responses to each of the six items are coded as 'affirmative' or 'negative', with each affirmative response assigned a score of 1. Scores are summed across the six items to yield a total score ranging from 0 to 6, with higher scores indicating lower household food security.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Household food security</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>The United States Department of Agriculture (USDA) U.S. Household Food Security Survey Module: Six-Item Short Form. Responses to each of the six items are coded as 'affirmative' or 'negative', with each affirmative response assigned a score of 1. Scores are summed across the six items to yield a total score ranging from 0 to 6, with higher scores indicating lower household food security.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Household food security</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>The United States Department of Agriculture (USDA) U.S. Household Food Security Survey Module: Six-Item Short Form. Responses to each of the six items are coded as 'affirmative' or 'negative', with each affirmative response assigned a score of 1. Scores are summed across the six items to yield a total score ranging from 0 to 6, with higher scores indicating lower household food security.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Household food security</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>The United States Department of Agriculture (USDA) U.S. Household Food Security Survey Module: Six-Item Short Form. Responses to each of the six items are coded as 'affirmative' or 'negative', with each affirmative response assigned a score of 1. Scores are summed across the six items to yield a total score ranging from 0 to 6, with higher scores indicating lower household food security.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Household food security</measure>
+    <time_frame>27 months after randomization</time_frame>
+    <description>The United States Department of Agriculture (USDA) U.S. Household Food Security Survey Module: Six-Item Short Form. Responses to each of the six items are coded as 'affirmative' or 'negative', with each affirmative response assigned a score of 1. Scores are summed across the six items to yield a total score ranging from 0 to 6, with higher scores indicating lower household food security.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Household food security</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>The United States Department of Agriculture (USDA) U.S. Household Food Security Survey Module: Six-Item Short Form. Responses to each of the six items are coded as 'affirmative' or 'negative', with each affirmative response assigned a score of 1. Scores are summed across the six items to yield a total score ranging from 0 to 6, with higher scores indicating lower household food security.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Household food security</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>The United States Department of Agriculture (USDA) U.S. Household Food Security Survey Module: Six-Item Short Form. Responses to each of the six items are coded as 'affirmative' or 'negative', with each affirmative response assigned a score of 1. Scores are summed across the six items to yield a total score ranging from 0 to 6, with higher scores indicating lower household food security.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of household food security</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 30 months, 36 months after randomization</time_frame>
+    <description>The United States Department of Agriculture (USDA) U.S. Household Food Security Survey Module: Six-Item Short Form. Responses to each of the six items are coded as 'affirmative' or 'negative', with each affirmative response assigned a score of 1. Scores are summed across the six items to yield a total score ranging from 0 to 6, with higher scores indicating lower household food security.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in household food security from baseline to 24 months</measure>
+    <time_frame>Will include measurements at baseline and 24 months after randomization</time_frame>
+    <description>The United States Department of Agriculture (USDA) U.S. Household Food Security Survey Module: Six-Item Short Form. Responses to each of the six items are coded as 'affirmative' or 'negative', with each affirmative response assigned a score of 1. Scores are summed across the six items to yield a total score ranging from 0 to 6, with higher scores indicating lower household food security.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in household food security from baseline to 36 months</measure>
+    <time_frame>Will include measurements at baseline and 36 months after randomization</time_frame>
+    <description>The United States Department of Agriculture (USDA) U.S. Household Food Security Survey Module: Six-Item Short Form. Responses to each of the six items are coded as 'affirmative' or 'negative', with each affirmative response assigned a score of 1. Scores are summed across the six items to yield a total score ranging from 0 to 6, with higher scores indicating lower household food security.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in household food security from 24 to 36 months</measure>
+    <time_frame>Will include measurements at 24 and 36 months after randomization</time_frame>
+    <description>The United States Department of Agriculture (USDA) U.S. Household Food Security Survey Module: Six-Item Short Form. Responses to each of the six items are coded as 'affirmative' or 'negative', with each affirmative response assigned a score of 1. Scores are summed across the six items to yield a total score ranging from 0 to 6, with higher scores indicating lower household food security.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-efficacy</measure>
+    <time_frame>Baseline</time_frame>
+    <description>General Self-Efficacy Scale (GSE). Items are scored on a 4-point Likert scale; the total score is calculated by finding the sum of all items (range 6-24) with a higher score indicating greater self-efficacy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-efficacy</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>General Self-Efficacy Scale (GSE). Items are scored on a 4-point Likert scale; the total score is calculated by finding the sum of all items (range 6-24) with a higher score indicating greater self-efficacy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-efficacy</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>General Self-Efficacy Scale (GSE). Items are scored on a 4-point Likert scale; the total score is calculated by finding the sum of all items (range 6-24) with a higher score indicating greater self-efficacy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-efficacy</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>General Self-Efficacy Scale (GSE). Items are scored on a 4-point Likert scale; the total score is calculated by finding the sum of all items (range 6-24) with a higher score indicating greater self-efficacy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-efficacy</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>General Self-Efficacy Scale (GSE). Items are scored on a 4-point Likert scale; the total score is calculated by finding the sum of all items (range 6-24) with a higher score indicating greater self-efficacy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-efficacy</measure>
+    <time_frame>27 months after randomization</time_frame>
+    <description>General Self-Efficacy Scale (GSE). Items are scored on a 4-point Likert scale; the total score is calculated by finding the sum of all items (range 6-24) with a higher score indicating greater self-efficacy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-efficacy</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>General Self-Efficacy Scale (GSE). Items are scored on a 4-point Likert scale; the total score is calculated by finding the sum of all items (range 6-24) with a higher score indicating greater self-efficacy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-efficacy</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>General Self-Efficacy Scale (GSE). Items are scored on a 4-point Likert scale; the total score is calculated by finding the sum of all items (range 6-24) with a higher score indicating greater self-efficacy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of self-efficacy</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 30 months, 36 months after randomization</time_frame>
+    <description>General Self-Efficacy Scale (GSE). Items are scored on a 4-point Likert scale; the total score is calculated by finding the sum of all items (range 6-24) with a higher score indicating greater self-efficacy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in self-efficacy at baseline vs 24 months</measure>
+    <time_frame>Will include measurements at baseline and 24 months after randomization</time_frame>
+    <description>General Self-Efficacy Scale (GSE). Items are scored on a 4-point Likert scale; the total score is calculated by finding the sum of all items (range 6-24) with a higher score indicating greater self-efficacy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in self-efficacy at baseline vs 36 months</measure>
+    <time_frame>Will include measurements at baseline and 36 months after randomization</time_frame>
+    <description>General Self-Efficacy Scale (GSE). Items are scored on a 4-point Likert scale; the total score is calculated by finding the sum of all items (range 6-24) with a higher score indicating greater self-efficacy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in self-efficacy at 24 vs 36 months</measure>
+    <time_frame>Will include measurements at 24 and 36 months after randomization</time_frame>
+    <description>General Self-Efficacy Scale (GSE). Items are scored on a 4-point Likert scale; the total score is calculated by finding the sum of all items (range 6-24) with a higher score indicating greater self-efficacy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Resilience</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Brief Resilience Scale (BRS). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items divided by 6 (range 1-5). Higher scores indicate more resilience.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Resilience</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Brief Resilience Scale (BRS). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items divided by 6 (range 1-5). Higher scores indicate more resilience.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Resilience</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Brief Resilience Scale (BRS). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items divided by 6 (range 1-5). Higher scores indicate more resilience.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Resilience</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Brief Resilience Scale (BRS). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items divided by 6 (range 1-5). Higher scores indicate more resilience.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Resilience</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Brief Resilience Scale (BRS). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items divided by 6 (range 1-5). Higher scores indicate more resilience.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Resilience</measure>
+    <time_frame>27 months after randomization</time_frame>
+    <description>Brief Resilience Scale (BRS). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items divided by 6 (range 1-5). Higher scores indicate more resilience.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Resilience</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Brief Resilience Scale (BRS). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items divided by 6 (range 1-5). Higher scores indicate more resilience.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Resilience</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Brief Resilience Scale (BRS). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items divided by 6 (range 1-5). Higher scores indicate more resilience.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of resilience</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 30 months, 36 months after randomization</time_frame>
+    <description>Brief Resilience Scale (BRS). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items divided by 6 (range 1-5). Higher scores indicate more resilience.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in resilience from baseline vs 24 months</measure>
+    <time_frame>Will include measurements at baseline and 24 months after randomization</time_frame>
+    <description>Brief Resilience Scale (BRS). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items divided by 6 (range 1-5). Higher scores indicate more resilience.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in resilience from baseline vs 36 months</measure>
+    <time_frame>Will include measurements at baseline and 36 months after randomization</time_frame>
+    <description>Brief Resilience Scale (BRS). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items divided by 6 (range 1-5). Higher scores indicate more resilience.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in resilience from 24 vs 36 months</measure>
+    <time_frame>Will include measurements at 24 and 36 months after randomization</time_frame>
+    <description>Brief Resilience Scale (BRS). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items divided by 6 (range 1-5). Higher scores indicate more resilience.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Perceived stress</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Perceived Stress Scale (PSS-4). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 0-16), with higher scores correlating to more stress</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Perceived stress</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Perceived Stress Scale (PSS-4). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 0-16), with higher scores correlating to more stress</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Perceived stress</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Perceived Stress Scale (PSS-4). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 0-16), with higher scores correlating to more stress</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Perceived stress</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Perceived Stress Scale (PSS-4). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 0-16), with higher scores correlating to more stress</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Perceived stress</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Perceived Stress Scale (PSS-4). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 0-16), with higher scores correlating to more stress</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Perceived stress</measure>
+    <time_frame>27 months after randomization</time_frame>
+    <description>Perceived Stress Scale (PSS-4). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 0-16), with higher scores correlating to more stress</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Perceived stress</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Perceived Stress Scale (PSS-4). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 0-16), with higher scores correlating to more stress</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Perceived stress</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Perceived Stress Scale (PSS-4). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 0-16), with higher scores correlating to more stress</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of perceived stress</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 30 months, 36 months after randomization</time_frame>
+    <description>Perceived Stress Scale (PSS-4). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 0-16), with higher scores correlating to more stress</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in perceived stress at baseline vs 24 months</measure>
+    <time_frame>Will include measurements at baseline and 24 months after randomization</time_frame>
+    <description>Perceived Stress Scale (PSS-4). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 0-16), with higher scores correlating to more stress</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in perceived stress at baseline vs 36 months</measure>
+    <time_frame>Will include measurements at baseline and 36 months after randomization</time_frame>
+    <description>Perceived Stress Scale (PSS-4). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 0-16), with higher scores correlating to more stress</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in perceived stress at 24 vs 36 months</measure>
+    <time_frame>Will include measurements at 24 and 36 months after randomization</time_frame>
+    <description>Perceived Stress Scale (PSS-4). Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 0-16), with higher scores correlating to more stress</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chaos, Hubbub and Order Scale (CHAOS)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Validated measure of household environment. Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 6-30) with higher scores corresponding to higher household chaos.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chaos, Hubbub and Order Scale (CHAOS)</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Validated measure of household environment. Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 6-30) with higher scores corresponding to higher household chaos.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chaos, Hubbub and Order Scale (CHAOS)</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Validated measure of household environment. Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 6-30) with higher scores corresponding to higher household chaos.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chaos, Hubbub and Order Scale (CHAOS)</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Validated measure of household environment. Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 6-30) with higher scores corresponding to higher household chaos.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chaos, Hubbub and Order Scale (CHAOS)</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Validated measure of household environment. Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 6-30) with higher scores corresponding to higher household chaos.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chaos, Hubbub and Order Scale (CHAOS)</measure>
+    <time_frame>27 months after randomization</time_frame>
+    <description>Validated measure of household environment. Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 6-30) with higher scores corresponding to higher household chaos.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chaos, Hubbub and Order Scale (CHAOS)</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Validated measure of household environment. Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 6-30) with higher scores corresponding to higher household chaos.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chaos, Hubbub and Order Scale (CHAOS)</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Validated measure of household environment. Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 6-30) with higher scores corresponding to higher household chaos.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of Chaos, Hubbub and Order Scale (CHAOS)</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 30 months, 36 months after randomization</time_frame>
+    <description>Validated measure of household environment. Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 6-30) with higher scores corresponding to higher household chaos.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Chaos, Hubbub and Order Scale (CHAOS) at baseline vs 24 months</measure>
+    <time_frame>Will include measurements at baseline and 24 months after randomization</time_frame>
+    <description>Validated measure of household environment. Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 6-30) with higher scores corresponding to higher household chaos.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Chaos, Hubbub and Order Scale (CHAOS) at baseline vs 36 months</measure>
+    <time_frame>Will include measurements at baseline and 36 months after randomization</time_frame>
+    <description>Validated measure of household environment. Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 6-30) with higher scores corresponding to higher household chaos.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Chaos, Hubbub and Order Scale (CHAOS) at 24 vs 36 months</measure>
+    <time_frame>Will include measurements at 24 and 36 months after randomization</time_frame>
+    <description>Validated measure of household environment. Items are scored on a 5-point Likert scale. The total score is calculated from the sum of all items (range 6-30) with higher scores corresponding to higher household chaos.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Agency</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Adult State Hope Scale (modified from the Future Scale). Items are scored from 1-8. The total hope score is calculated from the sum of all items (range 6 to 48) with higher scores representing higher hope levels. The agency sub scale score is calculated from the sum of items 2, 4, 6 (range 3 to 24) with higher scores indicating higher levels of agency thinking. The pathways sub scale score is calculated from the sum of items 1, 3, and 5 (range 3 to 24) with higher scores indicating higher levels of pathways thinking.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Agency</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Adult State Hope Scale (modified from the Future Scale). Items are scored from 1-8. The total hope score is calculated from the sum of all items (range 6 to 48) with higher scores representing higher hope levels. The agency sub scale score is calculated from the sum of items 2, 4, 6 (range 3 to 24) with higher scores indicating higher levels of agency thinking. The pathways sub scale score is calculated from the sum of items 1, 3, and 5 (range 3 to 24) with higher scores indicating higher levels of pathways thinking.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Agency</measure>
+    <time_frame>12 months after randomization</time_frame>
+    <description>Adult State Hope Scale (modified from the Future Scale). Items are scored from 1-8. The total hope score is calculated from the sum of all items (range 6 to 48) with higher scores representing higher hope levels. The agency sub scale score is calculated from the sum of items 2, 4, 6 (range 3 to 24) with higher scores indicating higher levels of agency thinking. The pathways sub scale score is calculated from the sum of items 1, 3, and 5 (range 3 to 24) with higher scores indicating higher levels of pathways thinking.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Agency</measure>
+    <time_frame>18 months after randomization</time_frame>
+    <description>Adult State Hope Scale (modified from the Future Scale). Items are scored from 1-8. The total hope score is calculated from the sum of all items (range 6 to 48) with higher scores representing higher hope levels. The agency sub scale score is calculated from the sum of items 2, 4, 6 (range 3 to 24) with higher scores indicating higher levels of agency thinking. The pathways sub scale score is calculated from the sum of items 1, 3, and 5 (range 3 to 24) with higher scores indicating higher levels of pathways thinking.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Agency</measure>
+    <time_frame>24 months after randomization</time_frame>
+    <description>Adult State Hope Scale (modified from the Future Scale). Items are scored from 1-8. The total hope score is calculated from the sum of all items (range 6 to 48) with higher scores representing higher hope levels. The agency sub scale score is calculated from the sum of items 2, 4, 6 (range 3 to 24) with higher scores indicating higher levels of agency thinking. The pathways sub scale score is calculated from the sum of items 1, 3, and 5 (range 3 to 24) with higher scores indicating higher levels of pathways thinking.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Agency</measure>
+    <time_frame>27 months after randomization</time_frame>
+    <description>Adult State Hope Scale (modified from the Future Scale). Items are scored from 1-8. The total hope score is calculated from the sum of all items (range 6 to 48) with higher scores representing higher hope levels. The agency sub scale score is calculated from the sum of items 2, 4, 6 (range 3 to 24) with higher scores indicating higher levels of agency thinking. The pathways sub scale score is calculated from the sum of items 1, 3, and 5 (range 3 to 24) with higher scores indicating higher levels of pathways thinking.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Agency</measure>
+    <time_frame>30 months after randomization</time_frame>
+    <description>Adult State Hope Scale (modified from the Future Scale). Items are scored from 1-8. The total hope score is calculated from the sum of all items (range 6 to 48) with higher scores representing higher hope levels. The agency sub scale score is calculated from the sum of items 2, 4, 6 (range 3 to 24) with higher scores indicating higher levels of agency thinking. The pathways sub scale score is calculated from the sum of items 1, 3, and 5 (range 3 to 24) with higher scores indicating higher levels of pathways thinking.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Agency</measure>
+    <time_frame>36 months after randomization</time_frame>
+    <description>Adult State Hope Scale (modified from the Future Scale). Items are scored from 1-8. The total hope score is calculated from the sum of all items (range 6 to 48) with higher scores representing higher hope levels. The agency sub scale score is calculated from the sum of items 2, 4, 6 (range 3 to 24) with higher scores indicating higher levels of agency thinking. The pathways sub scale score is calculated from the sum of items 1, 3, and 5 (range 3 to 24) with higher scores indicating higher levels of pathways thinking.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time series analysis of agency</measure>
+    <time_frame>Times series will include measurements at baseline, 6 months, 12 months, 18 months, 24 months, 27 months, 30 months, 36 months after randomization</time_frame>
+    <description>Adult State Hope Scale (modified from the Future Scale). Items are scored from 1-8. The total hope score is calculated from the sum of all items (range 6 to 48) with higher scores representing higher hope levels. The agency sub scale score is calculated from the sum of items 2, 4, 6 (range 3 to 24) with higher scores indicating higher levels of agency thinking. The pathways sub scale score is calculated from the sum of items 1, 3, and 5 (range 3 to 24) with higher scores indicating higher levels of pathways thinking.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in agency at baseline vs 24 months</measure>
+    <time_frame>Will include measurements at baseline and 24 months after randomization</time_frame>
+    <description>Adult State Hope Scale (modified from the Future Scale). Items are scored from 1-8. The total hope score is calculated from the sum of all items (range 6 to 48) with higher scores representing higher hope levels. The agency sub scale score is calculated from the sum of items 2, 4, 6 (range 3 to 24) with higher scores indicating higher levels of agency thinking. The pathways sub scale score is calculated from the sum of items 1, 3, and 5 (range 3 to 24) with higher scores indicating higher levels of pathways thinking.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in agency at baseline vs 36 months</measure>
+    <time_frame>Will include measurements at baseline and 36 months after randomization</time_frame>
+    <description>Adult State Hope Scale (modified from the Future Scale). Items are scored from 1-8. The total hope score is calculated from the sum of all items (range 6 to 48) with higher scores representing higher hope levels. The agency sub scale score is calculated from the sum of items 2, 4, 6 (range 3 to 24) with higher scores indicating higher levels of agency thinking. The pathways sub scale score is calculated from the sum of items 1, 3, and 5 (range 3 to 24) with higher scores indicating higher levels of pathways thinking.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in agency at 24 vs 36 months</measure>
+    <time_frame>Will include measurements at 24 and 36 months after randomization</time_frame>
+    <description>Adult State Hope Scale (modified from the Future Scale). Items are scored from 1-8. The total hope score is calculated from the sum of all items (range 6 to 48) with higher scores representing higher hope levels. The agency sub scale score is calculated from the sum of items 2, 4, 6 (range 3 to 24) with higher scores indicating higher levels of agency thinking. The pathways sub scale score is calculated from the sum of items 1, 3, and 5 (range 3 to 24) with higher scores indicating higher levels of pathways thinking.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Families Experiencing Homelessness and/or Housing Instability</condition>
+  <arm_group>
+    <arm_group_label>Usual Care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants in the active comparator control group will receive usual care, which includes usual public benefit, assistance and social service programs that are available at the local, county, state, and federal levels to all residents of Santa Clara County. They will also be offered the option to attend a Public Benefits Information Session.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Guaranteed Income</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in the intervention group will receive guaranteed income gift payments equivalent to $1,000/month for a total of 24 months in addition to usual care. They will also have the option to attend the same Public Benefits Information Session being offered to the control group as above.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Guaranteed Income</intervention_name>
+    <description>Guaranteed income payments will be disbursed monthly for a total of 24 months to participants who are randomized to the guaranteed income intervention group. Participants will be given the choice to select from one of two different payment strategies (equal monthly payments of $1,000/month vs hybrid payment schedule with initial amount of $6,500 the first month followed by $500/month x 11 months); payment strategy preferences will be re-assessed after 12 months. The choice of payment strategy will be strictly left to participants to specify.</description>
+    <arm_group_label>Guaranteed Income</arm_group_label>
+    <other_name>Unconditional cash transfer</other_name>
+    <other_name>Unconditional cash assistance</other_name>
+    <other_name>Cash assistance</other_name>
+    <other_name>Basic income</other_name>
+    <other_name>Universal income</other_name>
+    <other_name>Universal basic income</other_name>
+    <other_name>UBI</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Public Benefits Information Session</intervention_name>
+    <description>All participants (both the control and intervention groups) will be offered the option of attending a Public Benefits Information Session during which they will receive a comprehensive resource directory of public benefit, assistance, and social service programs available to residents of Santa Clara County, have the opportunity to ask questions about enrolling in those programs, and also have the opportunity to seek additional benefits navigation assistance from our community partner, Sacred Heart Community Service. This session is intended to be optional, with the decision to attend and participant to be left to the discretion of each study participant. Attendance is not required for study participation.</description>
+    <arm_group_label>Guaranteed Income</arm_group_label>
+    <arm_group_label>Usual Care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. ≥18 years of age at baseline visit/assessment&#xD;
+&#xD;
+          2. Experiencing homelessness, as defined by:&#xD;
+&#xD;
+               1. The HEARTH Act; or&#xD;
+&#xD;
+               2. Living in a public or private space intended for temporary (≤6 month) residence,&#xD;
+                  such as residing in a hotel/motel;&#xD;
+&#xD;
+               3. Residing in a space without a legal right to the space and therefore being at&#xD;
+                  threat of being asked to leave at any time (i.e., no lease); and/or&#xD;
+&#xD;
+               4. Being in a shared living situation intended to be temporary (i.e., being 'doubled&#xD;
+                  up' due to lack of available and/or affordable housing).&#xD;
+&#xD;
+          3. Vulnerability-Index Service Prioritization Decision Assistance Tool (VI-SPDAT) score&#xD;
+             within the eligibility range for referral to rapid rehousing assistance programs in&#xD;
+             Santa Clara County (score of 4-8 for households), if available at the time of study&#xD;
+             entry.&#xD;
+&#xD;
+             - The VI-SPDAT score is commonly used by housing assistance service providers to&#xD;
+             prioritize households for housing assistance programs, where households with scores of&#xD;
+             0-3 are lower priority for referral to programs, and households with scores of 9+ are&#xD;
+             recommended for referral to more intensive housing services such as permanent&#xD;
+             supportive housing (which combine affordable housing assistance with voluntary support&#xD;
+             services including health and mental health care, case management and other social&#xD;
+             supportive services). Households with a score of 4-8 are considered most appropriate&#xD;
+             for referral to housing assistance programs that may not offer additional supportive&#xD;
+             services.&#xD;
+&#xD;
+          4. Living in a household with ≥1 dependent children (i.e., ≤17 years of age at the time&#xD;
+             of study entry)&#xD;
+&#xD;
+          5. Written informed consent (and assent when applicable) obtained from participant or&#xD;
+             participant's legal representative and ability for participant to comply with the&#xD;
+             requirements of the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Substantial to severe level of problematic substance use as defined by the validated&#xD;
+             Drug Abuse Screening Test (DAST-10) (score of 6-8 or 9-10, respectively).&#xD;
+&#xD;
+          2. Hazardous or harmful alcohol consumption, or active and severe alcohol use disorder as&#xD;
+             defined by the validated Alcohol Use Disorders Identification Test (AUDIT) (score of&#xD;
+             8-14 and ≥15, respectively).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Oanh K Nguyen, MD, MAS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, San Francisco</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Oanh K Nguyen, MD, MAS</last_name>
+    <phone>628-206-3755</phone>
+    <email>oanh.nguyen@ucsf.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Celeste Enriquez</last_name>
+    <phone>415-697-9021</phone>
+    <email>celeste.enriquez@ucsf.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>¡Sí Se Puede! Collective</name>
+      <address>
+        <city>San Jose</city>
+        <state>California</state>
+        <zip>95116</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gabriel Hernandez</last_name>
+      <email>gabriel@sspcmayfair.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Stephanie Jayne</last_name>
+      <email>sjayne@amigosdeguadalupe.org</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Clara County Office of Supportive Housing</name>
+      <address>
+        <city>San Jose</city>
+        <state>California</state>
+        <zip>95131</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jazmine Wong</last_name>
+      <email>jazmine.wong@hhs.sccgov.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ingrid Granados</last_name>
+      <email>ingrid@destinationhomesv.org</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://static1.squarespace.com/static/6039d612b17d055cac14070f/t/605029f652a6b53e3dd39044/1615866358804/SEED+Pre-analysis+Plan.pdf</url>
+    <description>Pre-Analysis Plan: Stockton Economic Empowerment Demonstration. Martin-West S, Castro Baker A, Balakrishnan S, Rao K, Tan GY. December 2018.</description>
+  </link>
+  <link>
+    <url>https://sftreasurer.org/files/2021-12/Protecting%20Benefits%20Report_v4.4.pdf</url>
+    <description>Protecting Benefits in Guaranteed Income Pilots: Lessons Learned From the Abundant Birth Project. San Francisco Office of Financial Empowerment. December 2021.</description>
+  </link>
+  <reference>
+    <citation>Gibson M, Hearty W, Craig P. The public health effects of interventions similar to basic income: a scoping review. Lancet Public Health. 2020 Mar;5(3):e165-e176. doi: 10.1016/S2468-2667(20)30005-0.</citation>
+    <PMID>32113520</PMID>
+  </reference>
+  <reference>
+    <citation>Bastagli F., Hagen-Zanker J., Harman L., Barca V., Sturge G., Schmidt T. (2019). The Impact of Cash Transfers: A Review of the Evidence from Low- and Middle-income Countries. Journal of Social Policy, 48(3), 569-594. doi:10.1017/S0047279418000715</citation>
+  </reference>
+  <reference>
+    <citation>Aubry T, Bloch G, Brcic V, Saad A, Magwood O, Abdalla T, Alkhateeb Q, Xie E, Mathew C, Hannigan T, Costello C, Thavorn K, Stergiopoulos V, Tugwell P, Pottie K. Effectiveness of permanent supportive housing and income assistance interventions for homeless individuals in high-income countries: a systematic review. Lancet Public Health. 2020 Jun;5(6):e342-e360. doi: 10.1016/S2468-2667(20)30055-4.</citation>
+    <PMID>32504587</PMID>
+  </reference>
+  <reference>
+    <citation>Pinto AD, Perri M, Pedersen CL, Aratangy T, Hapsari AP, Hwang SW. Exploring different methods to evaluate the impact of basic income interventions: a systematic review. Int J Equity Health. 2021 Jun 16;20(1):142. doi: 10.1186/s12939-021-01479-2.</citation>
+    <PMID>34134715</PMID>
+  </reference>
+  <reference>
+    <citation>Gubits D, Shinn M, Wood M, Brown SR, Dastrup SR, Bell SH. What Interventions Work Best for Families Who Experience Homelessness? Impact Estimates from the Family Options Study. J Policy Anal Manage. 2018;37(4):735-66.</citation>
+    <PMID>30272428</PMID>
+  </reference>
+  <reference>
+    <citation>Forchuk C, MacClure SK, Van Beers M, Smith C, Csiernik R, Hoch J, Jensen E. Developing and testing an intervention to prevent homelessness among individuals discharged from psychiatric wards to shelters and 'No Fixed Address'. J Psychiatr Ment Health Nurs. 2008 Sep;15(7):569-75. doi: 10.1111/j.1365-2850.2008.01266.x.</citation>
+    <PMID>18768009</PMID>
+  </reference>
+  <reference>
+    <citation>Forget E.L. The town with no poverty: The health effects of a Canadian guaranteed annual income field experiment. Canadian Public Policy. 2011;37(3):283-305.</citation>
+  </reference>
+  <reference>
+    <citation>Morton, M. H., Chavez, R., Kull, M. A., Carreon, E. D., Bishop, J., Daferede, S., Wood, E., Cohen, L., &amp; Barreyro, P. (2020). Developing a direct cash transfer program for youth experiencing homelessness: Results of a mixed methods, multistakeholder design process. Chicago, IL: Chapin Hall at the University of Chicago.</citation>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 27, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>January 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Homelessness</keyword>
+  <keyword>Homeless persons</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <study_docs>
+    <study_doc>
+      <doc_type>CDSS Waiver Request Approval Letter</doc_type>
+      <doc_url>http://tinyurl.com/SVGIP</doc_url>
+      <doc_comment>California Department of Social Services (CDSS) approval letter in response to Silicon Valley Guaranteed Income Project (SVGIP) waiver request to exclude SVGIP guaranteed income payments from CalWORKS and CalFresh eligibility determination, re-determination, and benefit amount</doc_comment>
+    </study_doc>
+  </study_docs>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>November 27, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/98/NCT05698498/Prot_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

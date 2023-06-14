@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9500">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05696587</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STATUT 2020</org_study_id>
+    <nct_id>NCT05696587</nct_id>
+  </id_info>
+  <brief_title>Physical and Psychological Changes in CRPS Patients Undergoing Multimodal Rehabilitation</brief_title>
+  <official_title>Physical and Psychological Changes in Complex Regional Pain Syndrome (CRPS) Patients Undergoing Multimodal Rehabilitation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Geriatrics, Rheumatology and Rehabilitation, Poland</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Geriatrics, Rheumatology and Rehabilitation, Poland</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to learn about cognitive changes during rehabilitation in&#xD;
+      CRPS patients. The main questions it aims to answer are:&#xD;
+&#xD;
+        -  What are the cognitive changes in CRPS?&#xD;
+&#xD;
+        -  Do cognitive functions change during multimodal rehabilitation in CRPS?&#xD;
+&#xD;
+        -  What is the effect of multimodal rehabilitation on pain, functioning, mood, active range&#xD;
+           of motion, cognitive functions.&#xD;
+&#xD;
+      Participants will undergo a 4-week program of multimodal rehabilitation of physical therapy,&#xD;
+      education and Graded Motor Imagery. Assessment will be made at baseline and after 4 weeks.&#xD;
+&#xD;
+      Researchers will compare the interventional arm with healthy control to see if the observed&#xD;
+      psychological results are exclusive to CRPS group.&#xD;
+&#xD;
+      There is no expanded access scheduled for this study.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">October 10, 2021</start_date>
+  <completion_date type="Anticipated">January 2023</completion_date>
+  <primary_completion_date type="Anticipated">January 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Treatment arm will undergo a 4-week multimodal rehabilitation program with outcome measures recorded at baseline and at 4 weeks. Healthy control will be assessed for psychological outcome measures at baseline and at 4 weeks, with no intervention applied.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean change from baseline in Reproduction score on the Rey's Complex Figure Test (RCFT) score at 4 weeks.</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The RCFT is a task-based test assessing visual-spatial abilities. Reproduction score measures learning and planning on visual material. Possible scores range from 0 (significant deficit) to 36 (highest possible score). Change = (week 4 score - baseline score).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in Copy score on the Rey's Complex Figure Test (RCFT) score at 4 weeks.</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The RCFT is a task-based test assessing visual-spatial abilities. Copy score measures planning on visual material. Possible scores range from 0 (significant deficit) to 36 (highest possible score). Change = (week 4 score - baseline score).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in pain score on the Numeric Rating Scale (NRS) at 4 weeks</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The NRS is a self-reported instrument assessing average pain intensity over the past 24 hour period. Possible scores range from 0 (no pain) to 10 (worst possible pain). Change = (week 4 score - baseline score).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in Disabilities of the Arm, Shoulder, and Hand Questionnaire (DASH) at 4 weeks in Participants with upper extremity CRPS</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The DASH is a self-reported instrument assessing ability to perform certain upper extremity activities. Possible scores range from 0 (no disability) to 100 (complete disability). Change = (week 4 score - baseline score).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in Lower Extremity Functional Scale (LEFS) at 4 weeks in Participants with lower extremity CRPS</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The LEFS is a self-reported instrument assessing ability to perform certain lower extremity activities. Possible scores range from 0 (complete disability) to 80 (no disability). Change = (week 4 score - baseline score).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants meeting the Budapest Criteria for CRPS at baseline as percent of Participants in the CRPS arm</measure>
+    <time_frame>Baseline</time_frame>
+    <description>The Budapest Criteria are a set of clinical criteria used to diagnose CRPS. Possible outcomes include: CRPS-I, CRPS-II, CRPS-RSF, not meeting Budapest Criteria. Number = ((number of CRPS-I + number of CRPS-II + number of CRPS-RSF) / total Participants in CRPS arm) * 100%.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in active range of motion (aROM) of affected joint at 4 weeks</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The aROM is a clinical measure calculated as an angle between extreme positions of a joint. Possible scores range from 0° (no motion) to 360° (full rotation). Change = ((week 4 score / baseline score) * 100%).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in Central Sensitization Inventory (CSI) part A at 4 weeks</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The CSI is a self-reported instrument assessing overlapping health-related symptom dimensions of central sensitization. Possible scores range from 0 (subclinical) to 100 (extreme). Change = (week 4 score - baseline score).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in Short-Form McGill Pain Questionnaire (SF-MPQ) part A score at 4 weeks</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The SF-MPQ is a self-reported instrument assessing different types of pain. Possible scores range from 0 (no pain) to 45 (severe pain). Change = (week 4 score - baseline score).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in PainDetect Questionnaire (PDQ) score at 4 weeks</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The PDQ is a self-reported instrument assessing neuropathic pain. Possible scores range from -1 (neuropathic component &lt;15%) to 38 (neuropathic component &gt;90%). Change = (week 4 score - baseline score).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in Diverting Attention score in the Coping Strategy Questionnaire (CSQ) at 4 weeks.</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The CSQ is a self-reported instrument assessing different pain coping strategies. The Diverting Attention score measures the use of attention diversion as a pain-coping strategy. Possible scores range from 0 (strategy not engaged) to 36 (strategy significantly engaged). Change = (week 4 score - baseline score).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in Reinterpreting Pain Sensations score in the Coping Strategy Questionnaire (CSQ) at 4 weeks.</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The CSQ is a self-reported instrument assessing different pain coping strategies. The Reinterpreting Pain Sensations score measures the use of pain sensation reinterpretation as a pain-coping strategy. Possible scores range from 0 (strategy not engaged) to 36 (strategy significantly engaged). Change = (week 4 score - baseline score).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in Catastrophizing score in the Coping Strategy Questionnaire (CSQ) at 4 weeks.</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The CSQ is a self-reported instrument assessing different pain coping strategies. The Catastrophizing score measures the use of catastrophising as a pain-coping strategy. Possible scores range from 0 (strategy not engaged) to 36 (strategy significantly engaged). Change = (week 4 score - baseline score).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in Ignoring Sensation score in the Coping Strategy Questionnaire (CSQ) at 4 weeks.</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The CSQ is a self-reported instrument assessing different pain coping strategies. The Ignoring Sensation score measures the use of ignoring pain sensation as a pain-coping strategy. Possible scores range from 0 (strategy not engaged) to 36 (strategy significantly engaged). Change = (week 4 score - baseline score).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in Praying or Hoping score in the Coping Strategy Questionnaire (CSQ) at 4 weeks.</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The CSQ is a self-reported instrument assessing different pain coping strategies. The Praying or Hoping score measures the use of prayer and wishful thinking as a pain-coping strategy. Possible scores range from 0 (strategy not engaged) to 36 (strategy significantly engaged). Change = (week 4 score - baseline score).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in Coping Self Statements score in the Coping Strategy Questionnaire (CSQ) at 4 weeks.</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The CSQ is a self-reported instrument assessing different pain coping strategies. The Coping Self Statements score measures positive self-affirmations as a pain-coping strategy. Possible scores range from 0 (strategy not engaged) to 36 (strategy significantly engaged). Change = (week 4 score - baseline score).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in Increased Behavioral Activity score in the Coping Strategy Questionnaire (CSQ) at 4 weeks.</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The CSQ is a self-reported instrument assessing different pain coping strategies. The Increased Behavioral Activity score measures the use of behavioral activity increase as a pain-coping strategy. Possible scores range from 0 (strategy not engaged) to 36 (strategy significantly engaged). Change = (week 4 score - baseline score).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in Control Over Pain score in the Coping Strategy Questionnaire (CSQ) at 4 weeks.</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The CSQ is a self-reported instrument assessing different pain coping strategies. The Control Over Pain score measures the notion of control over pain as a pain-coping strategy. Possible scores range from 0 (strategy not engaged) to 6 (strategy significantly engaged). Change = (week 4 score - baseline score).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in Ability to Decrease Pain score in the Coping Strategy Questionnaire (CSQ) at 4 weeks.</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The CSQ is a self-reported instrument assessing different pain coping strategies. The Ability to Decrease Pain score measures the notion of being able to decrease pain as a pain-coping strategy. Possible scores range from 0 (strategy not engaged) to 6 (strategy significantly engaged). Change = (week 4 score - baseline score).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean score on the Mini-Mental State Examination (MMSE) at baseline.</measure>
+    <time_frame>Baseline</time_frame>
+    <description>The MMSE is a clinician-reported screening test assessing general cognitive functioning. Possible scores range from 0 (severe cognitive deficit) to 30 (no cognitive deficit).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in Total Number Correct score in Benton Visual Retention Test (BVRT) at 4 weeks.</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The BVRT is a task-based test assessing visual-spatial working memory and visual-spatial abilities. Total Number Correct score counts correct answers. Possible scores range from 0 (significant deficit) to 10 (highest possible score). Change = (week 4 score - baseline score).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in Number of Errors score in the Benton Visual Retention Test (BVRT) at 4 weeks.</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The BVRT is a task-based test assessing visual-spatial working memory and visual-spatial abilities. Number of Errors score counts wrong answers. Possible scores range from 0 (best possible score) to 10 (worst possible score). Change = (week 4 score - baseline score).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in Digit Span (DS) score in Wechsler's Adult Intelligence Scale Revised (WAIS-R) at 4 weeks.</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>WAIS-R is a task-based test assessing intelligence. The DS score measures attention and working memory. Possible scores range from 0 (significant deficit) to 28 (highest possible score). Change = (week 4 score - baseline score).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in Beck Depression Inventory - II (BDI-II) score at 4 weeks.</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The BDI-II is a self-reported questionnaire assessing depression severity. Possible scores range from 0 (no depression) to 66 (severe depression). Change = (week 4 score - baseline score).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in Speed of Work score in the Attention and Perceptiveness Test (TUS) - at 4 weeks.</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The TUS is a task-based test assessing attention. Speed of Work measures number of tasks completed in a fixed amount of time. Possible scores range from 0 (lowest possible speed) to 972 (highest possible speed). Change = (week 4 score - baseline score).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in Number of Mistakes score in the Attention and Perceptiveness Test (TUS) at 4 weeks.</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The TUS is a task-based test assessing attention. Number of Mistakes score measures resistance to distraction. Possible scores range from 0 (perfect score) to 972 (worst possible score). Change = (week 4 score - baseline score).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in Number of Omissions in the Attention and Perceptiveness Test (TUS) at 4 weeks.</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The TUS is a task-based test assessing attention. Number of Omissions score measures resistance to distraction. Possible scores range from 0 (perfect score) to 349 (worst possible score). Change = (week 4 score - baseline score).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in execution time in the Color-Trials Test part 1 (CTT-1) at 4 weeks.</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The CTT-1 is a task-based test assessing psychomotor speed in time (seconds). Possible scores range from 0s (impossibly fast) to infinite time (unable to complete). Change = (week 4 time in seconds - baseline time in seconds).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in shifting attention score on the Color-Trials Test part 2 (CTT-2) at 4 weeks.</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The CTT-2 is a task-based test assessing shifting attention in time (seconds). Possible scores range from 0s (impossibly fast) to infinite time (unable to complete task). Change = (week 4 time in seconds - baseline time in seconds).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Mean change from baseline in Emotion-oriented Coping score in the Coping Strategy Questionnaire (CSQ) at 4 weeks.</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The CSQ is a self-reported instrument assessing 3 targets for pain-coping. The Emotion-oriented Coping score measures the tendency to have a strong emotional response to pain as a pain-coping strategy. Possible scores range from 0 (strategy not engaged) to 72 (strategy significantly engaged). Change = (week 4 score - baseline score).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mean change from baseline in Avoidance-oriented Coping score in the Coping Strategy Questionnaire (CSQ) at 4 weeks.</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The CSQ is a self-reported instrument assessing 3 targets for pain-coping. The Avoidance-oriented Coping score measures the tendency to avoid the source of pain as a pain-coping strategy. Possible scores range from 0 (strategy not engaged) to 72 (strategy significantly engaged). Change = (week 4 score - baseline score).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mean change from baseline in Task-oriented Coping score in the Coping Strategy Questionnaire (CSQ) at 4 weeks.</measure>
+    <time_frame>At baseline and in 4 weeks</time_frame>
+    <description>The CSQ is a self-reported instrument assessing 3 targets for pain-coping. The Task-oriented Coping score measures the tendency to address the source of pain as a pain-coping strategy. Possible scores range from 0 (strategy not engaged) to 108 (strategy significantly engaged). Change = (week 4 score - baseline score).</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">42</enrollment>
+  <condition>Complex Regional Pain Syndromes</condition>
+  <arm_group>
+    <arm_group_label>CRPS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants meeting inclusion and exclusion criteria undergoing 4-week multimodal rehabilitation, undergoing assessment at baseline and at 4 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants matched according to sex, age and education to experimental arm, undergoing psychological assessment at baseline and at 4 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Multimodal rehabilitation</intervention_name>
+    <description>The multimodal rehabilitation program included comprehensive therapy 5 times a week during the 4 weeks between assessments. The therapy consists of:&#xD;
+Individual physical therapy focused on improving range of motion and alleviating pain in the affected limb;&#xD;
+Mechanical desensitization;&#xD;
+Transcutaneous electric nerve stimulation (TENS) electrotherapy;&#xD;
+Aquatherapy (arm or leg whirlpool bath of the affected extremity);&#xD;
+Graded Motor Imagery, including the Recognise™ app and mirror therapy;&#xD;
+Psychoeducation on relaxation and coping with chronic pain.</description>
+    <arm_group_label>CRPS</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Clinical diagnosis of CRPS (or equivalent);&#xD;
+&#xD;
+          -  MMSE &gt;24 points;&#xD;
+&#xD;
+          -  Has signed an informed consent to the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  MMSE ≤24 points;&#xD;
+&#xD;
+          -  Inability to perform scheduled tasks (multimodal rehabilitation program).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Beata Tarnacka, ASSC PROF</last_name>
+    <role>Study Director</role>
+    <affiliation>National Institute of Geriatrics, Rheumatology and Rehabilitation</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Adam Zalewski, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Institute of Geriatrics, Rheumatology and Rehabilitation</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>National Institute of Geriatrics, Rheumatology and Rehabilitation</name>
+      <address>
+        <city>Warsaw</city>
+        <zip>02-637</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Poland</country>
+  </location_countries>
+  <reference>
+    <citation>Fallico N, Padmanabhan R, Rahman S, Somma F, Spagnoli AM. A randomised placebo-controlled clinical trial on the efficacy of local lidocaine injections and oral citalopram for the treatment of complex regional pain syndrome. J Plast Reconstr Aesthet Surg. 2022 Mar;75(3):970-979. doi: 10.1016/j.bjps.2021.11.022. Epub 2021 Nov 14.</citation>
+    <PMID>34903493</PMID>
+  </reference>
+  <reference>
+    <citation>Yoo Y, Lee CS, Kim J, Jo D, Moon JY. Botulinum Toxin Type A for Lumbar Sympathetic Ganglion Block in Complex Regional Pain Syndrome: A Randomized Trial. Anesthesiology. 2022 Feb 1;136(2):314-325. doi: 10.1097/ALN.0000000000004084.</citation>
+    <PMID>34890455</PMID>
+  </reference>
+  <reference>
+    <citation>Defina S, Niedernhuber M, Shenker N, Brown CA, Bekinschtein TA. Attentional modulation of neural dynamics in tactile perception of complex regional pain syndrome patients. Eur J Neurosci. 2021 Aug;54(4):5601-5619. doi: 10.1111/ejn.15387. Epub 2021 Jul 22.</citation>
+    <PMID>34250660</PMID>
+  </reference>
+  <reference>
+    <citation>Lunden LK, Jorum E. The challenge of recognizing severe pain and autonomic abnormalities for early diagnosis of CRPS. Scand J Pain. 2021 Apr 12;21(3):548-559. doi: 10.1515/sjpain-2021-0036. Print 2021 Jul 27.</citation>
+    <PMID>33838088</PMID>
+  </reference>
+  <reference>
+    <citation>Beales D, Carolan D, Chuah-Choong J, Hammond S, O'Brien E, Boyle E, Ranelli S, Holthouse D, Mitchell T, Slater H. Exploring peoples' lived experience of complex regional pain syndrome in Australia: a qualitative study. Scand J Pain. 2021 Jan 6;21(2):393-405. doi: 10.1515/sjpain-2020-0142. Print 2021 Apr 27.</citation>
+    <PMID>34387965</PMID>
+  </reference>
+  <reference>
+    <citation>Canos-Verdecho A, Abejon D, Robledo R, Izquierdo R, Bermejo A, Gallach E, Argente P, Peraita-Costa I, Morales-Suarez-Varela M. Randomized Prospective Study in Patients With Complex Regional Pain Syndrome of the Upper Limb With High-Frequency Spinal Cord Stimulation (10-kHz) and Low-Frequency Spinal Cord Stimulation. Neuromodulation. 2021 Apr;24(3):448-458. doi: 10.1111/ner.13358. Epub 2021 Jan 18.</citation>
+    <PMID>33462918</PMID>
+  </reference>
+  <reference>
+    <citation>Halicka M, Vitterso AD, McCullough H, Goebel A, Heelas L, Proulx MJ, Bultitude JH. Prism adaptation treatment for upper-limb complex regional pain syndrome: a double-blind randomized controlled trial. Pain. 2021 Feb 1;162(2):471-489. doi: 10.1097/j.pain.0000000000002053.</citation>
+    <PMID>32833791</PMID>
+  </reference>
+  <reference>
+    <citation>Yavuz Keles B, Onder B, Kesiktas FN, Ones K, Paker N. Acute effects of contrast bath on sympathetic skin response in patients with poststroke complex regional pain syndrome. Somatosens Mot Res. 2020 Dec;37(4):320-325. doi: 10.1080/08990220.2020.1830756. Epub 2020 Oct 14.</citation>
+    <PMID>33135537</PMID>
+  </reference>
+  <reference>
+    <citation>Frederico TN, da Silva Freitas T. Peripheral Nerve Stimulation of the Brachial Plexus for Chronic Refractory CRPS Pain of the Upper Limb: Description of a New Technique and Case Series. Pain Med. 2020 Aug 1;21(Suppl 1):S18-S26. doi: 10.1093/pm/pnaa201.</citation>
+    <PMID>32804227</PMID>
+  </reference>
+  <reference>
+    <citation>Halicka M, Vitterso AD, McCullough H, Goebel A, Heelas L, Proulx MJ, Bultitude JH. Disputing space-based biases in unilateral complex regional pain syndrome. Cortex. 2020 Jun;127:248-268. doi: 10.1016/j.cortex.2020.02.018. Epub 2020 Mar 13.</citation>
+    <PMID>32251901</PMID>
+  </reference>
+  <reference>
+    <citation>Benedetti MG, Cavazzuti L, Mosca M, Fusaro I, Zati A. Bio-Electro-Magnetic-Energy-Regulation (BEMER) for the treatment of type I complex regional pain syndrome: A pilot study. Physiother Theory Pract. 2020 Apr;36(4):498-506. doi: 10.1080/09593985.2018.1491661. Epub 2018 Jul 9.</citation>
+    <PMID>29985719</PMID>
+  </reference>
+  <reference>
+    <citation>Levy RM, Mekhail N, Kramer J, Poree L, Amirdelfan K, Grigsby E, Staats P, Burton AW, Burgher AH, Scowcroft J, Golovac S, Kapural L, Paicius R, Pope J, Samuel S, McRoberts WP, Schaufele M, Kent AR, Raza A, Deer TR. Therapy Habituation at 12 Months: Spinal Cord Stimulation Versus Dorsal Root Ganglion Stimulation for Complex Regional Pain Syndrome Type I and II. J Pain. 2020 Mar-Apr;21(3-4):399-408. doi: 10.1016/j.jpain.2019.08.005. Epub 2019 Sep 5.</citation>
+    <PMID>31494275</PMID>
+  </reference>
+  <reference>
+    <citation>Mancini F, Wang AP, Schira MM, Isherwood ZJ, McAuley JH, Iannetti GD, Sereno MI, Moseley GL, Rae CD. Fine-Grained Mapping of Cortical Somatotopies in Chronic Complex Regional Pain Syndrome. J Neurosci. 2019 Nov 13;39(46):9185-9196. doi: 10.1523/JNEUROSCI.2005-18.2019. Epub 2019 Sep 30.</citation>
+    <PMID>31570533</PMID>
+  </reference>
+  <reference>
+    <citation>Lewis JS, Kellett S, McCullough R, Tapper A, Tyler C, Viner M, Palmer S. Body Perception Disturbance and Pain Reduction in Longstanding Complex Regional Pain Syndrome Following a Multidisciplinary Rehabilitation Program. Pain Med. 2019 Nov 1;20(11):2213-2219. doi: 10.1093/pm/pnz176.</citation>
+    <PMID>31373373</PMID>
+  </reference>
+  <reference>
+    <citation>Kim YH, Kim SY, Lee YJ, Kim ED. A Prospective, Randomized Cross-Over Trial of T2 Paravertebral Block as a Sympathetic Block in Complex Regional Pain Syndrome. Pain Physician. 2019 Sep;22(5):E417-E424.</citation>
+    <PMID>31561653</PMID>
+  </reference>
+  <reference>
+    <citation>van Velzen GAJ, Huygen FJPM, van Kleef M, van Eijs FV, Marinus J, van Hilten JJ. Sex matters in complex regional pain syndrome. Eur J Pain. 2019 Jul;23(6):1108-1116. doi: 10.1002/ejp.1375. Epub 2019 Mar 18.</citation>
+    <PMID>30735277</PMID>
+  </reference>
+  <reference>
+    <citation>Sezgin Ozcan D, Tatli HU, Polat CS, Oken O, Koseoglu BF. The Effectiveness of Fluidotherapy in Poststroke Complex Regional Pain Syndrome: A Randomized Controlled Study. J Stroke Cerebrovasc Dis. 2019 Jun;28(6):1578-1585. doi: 10.1016/j.jstrokecerebrovasdis.2019.03.002. Epub 2019 Mar 30.</citation>
+    <PMID>30940426</PMID>
+  </reference>
+  <reference>
+    <citation>Verfaille C, Filbrich L, Cordova Bulens D, Lefevre P, Berquin A, Barbier O, Libouton X, Fraselle V, Mouraux D, Legrain V. Robot-assisted line bisection in patients with Complex Regional Pain Syndrome. PLoS One. 2019 May 2;14(5):e0213732. doi: 10.1371/journal.pone.0213732. eCollection 2019.</citation>
+    <PMID>31048861</PMID>
+  </reference>
+  <reference>
+    <citation>Elomaa M, Hotta J, de C Williams AC, Forss N, Ayrapaa A, Kalso E, Harno H. Symptom reduction and improved function in chronic CRPS type 1 after 12-week integrated, interdisciplinary therapy. Scand J Pain. 2019 Apr 24;19(2):257-270. doi: 10.1515/sjpain-2018-0098.</citation>
+    <PMID>30789827</PMID>
+  </reference>
+  <reference>
+    <citation>Zlatkovic-Svenda MI, Leitner C, Lazovic B, Petrovic DM. Complex Regional Pain Syndrome (Sudeck Atrophy) Prevention Possibility and Accelerated Recovery in Patients with Distal Radius at the Typical Site Fracture Using Polarized, Polychromatic Light Therapy. Photobiomodul Photomed Laser Surg. 2019 Apr;37(4):233-239. doi: 10.1089/photob.2018.4544. Epub 2019 Feb 21.</citation>
+    <PMID>31050956</PMID>
+  </reference>
+  <reference>
+    <citation>Schrier E, Geertzen JHB, Scheper J, Dijkstra PU. Psychosocial factors associated with poor outcomes after amputation for complex regional pain syndrome type-I. PLoS One. 2019 Mar 13;14(3):e0213589. doi: 10.1371/journal.pone.0213589. eCollection 2019.</citation>
+    <PMID>30865687</PMID>
+  </reference>
+  <reference>
+    <citation>Kumowski N, Hegelmaier T, Kolbenschlag J, Mainka T, Michel-Lauter B, Maier C. Short-Term Glucocorticoid Treatment Normalizes the Microcirculatory Response to Remote Ischemic Conditioning in Early Complex Regional Pain Syndrome. Pain Pract. 2019 Feb;19(2):168-175. doi: 10.1111/papr.12730. Epub 2018 Nov 5.</citation>
+    <PMID>30269438</PMID>
+  </reference>
+  <reference>
+    <citation>Skaribas IM, Peccora C, Skaribas E. Single S1 Dorsal Root Ganglia Stimulation for Intractable Complex Regional Pain Syndrome Foot Pain After Lumbar Spine Surgery: A Case Series. Neuromodulation. 2019 Jan;22(1):101-107. doi: 10.1111/ner.12780. Epub 2018 Apr 27.</citation>
+    <PMID>29701900</PMID>
+  </reference>
+  <reference>
+    <citation>McGee C, Skye J, Van Heest A. Graded motor imagery for women at risk for developing type I CRPS following closed treatment of distal radius fractures: a randomized comparative effectiveness trial protocol. BMC Musculoskelet Disord. 2018 Jun 26;19(1):202. doi: 10.1186/s12891-018-2115-6.</citation>
+    <PMID>29940926</PMID>
+  </reference>
+  <reference>
+    <citation>Barnhoorn K, Staal JB, van Dongen RT, Frolke JPM, Klomp FP, van de Meent H, Adang E, Nijhuis-van der Sanden MW. Pain Exposure Physical Therapy versus conventional treatment in complex regional pain syndrome type 1-a cost-effectiveness analysis alongside a randomized controlled trial. Clin Rehabil. 2018 Jun;32(6):790-798. doi: 10.1177/0269215518757050. Epub 2018 Feb 12.</citation>
+    <PMID>29430970</PMID>
+  </reference>
+  <reference>
+    <citation>Durham MJ, Mekhjian HS, Goad JA, Lou M, Ding M, Richeimer SH. Topical Ketamine in the Treatment of Complex Regional Pain Syndrome. Int J Pharm Compd. 2018 Mar-Apr;22(2):172-175.</citation>
+    <PMID>29877864</PMID>
+  </reference>
+  <reference>
+    <citation>Lagueux E, Bernier M, Bourgault P, Whittingstall K, Mercier C, Leonard G, Laroche S, Tousignant-Laflamme Y. The Effectiveness of Transcranial Direct Current Stimulation as an Add-on Modality to Graded Motor Imagery for Treatment of Complex Regional Pain Syndrome: A Randomized Proof of Concept Study. Clin J Pain. 2018 Feb;34(2):145-154. doi: 10.1097/AJP.0000000000000522.</citation>
+    <PMID>28654557</PMID>
+  </reference>
+  <reference>
+    <citation>den Hollander M, Heijnders N, de Jong JR, Vlaeyen JWS, Smeets RJEM, Goossens MEJB. EXPOSURE IN VIVO VERSUS PAIN-CONTINGENT PHYSICAL THERAPY IN COMPLEX REGIONAL PAIN SYNDROME TYPE I: A COST-EFFECTIVENESS ANALYSIS. Int J Technol Assess Health Care. 2018 Jan;34(4):400-409. doi: 10.1017/S0266462318000429. Epub 2018 Jul 26.</citation>
+    <PMID>30047357</PMID>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 13, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>January 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>CRPS</keyword>
+  <keyword>cognitive functions</keyword>
+  <keyword>physical therapy</keyword>
+  <keyword>pain</keyword>
+  <keyword>Graded Motor Imagery</keyword>
+  <keyword>mirror therapy</keyword>
+  <keyword>rehabilitation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Complex Regional Pain Syndromes</mesh_term>
+    <mesh_term>Reflex Sympathetic Dystrophy</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All of the individual participant data collected during the trial, after deidentification will be made published on Open Science Framework.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Immediately following publication. No end date.</ipd_time_frame>
+    <ipd_access_criteria>Anyone who wishes to access the data.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

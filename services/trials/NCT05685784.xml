@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9989">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05685784</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BC-07811</org_study_id>
+    <secondary_id>CIV-BE-20-09-034669</secondary_id>
+    <nct_id>NCT05685784</nct_id>
+  </id_info>
+  <brief_title>Multiple Sclerosis Prediction and Monitoring of Progression Study</brief_title>
+  <acronym>PREMONITION</acronym>
+  <official_title>Multiple Sclerosis Prediction and Monitoring of Progression Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Ghent</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University Ghent</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Byteflies</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Ghent</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Multiple sclerosis (MS) is a auto-immune disease that is mostly characterized by acute&#xD;
+      clinical relapses and/or focal inflammation in the central nervous system (CNS) followed by&#xD;
+      recovery. Yet, a significant part of the patients also experience a progressive decline in&#xD;
+      function. This progressive phase usually has an insidious onset causing a delay for diagnosis&#xD;
+      and adjusted therapies. There are plenty of clinical assessments available to measure walking&#xD;
+      speed, cognition, sleep,.... . But these assessments are merely a snapshot of the patient 's&#xD;
+      symptoms. By monitoring these parameters at home, real life data can be provided to capture&#xD;
+      subclinical signs of progression. The goal of this study is to detect a digital biomarker for&#xD;
+      progressive MS at an earlier stage next to validating wearables by comparing them to golden&#xD;
+      standard measurements such a polysomnography or gait analysis in a specialized lab.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background:&#xD;
+&#xD;
+      Multiple sclerosis (MS) is the most common cause of non-traumatic neurological disability in&#xD;
+      young adults leading to an important personal and socio-economic burden. From a&#xD;
+      pathophysiological point of view MS is considered to be an autoimmune disease in which the&#xD;
+      immune system mistakenly attacks the central nervous system (CNS). MS is usually devided into&#xD;
+      three clinical phases. Most people with MS experience sudden relapses followed by a remitting&#xD;
+      periode (RRMS). Fot this type of MS, the therapeutic landscape has evolved extensively over&#xD;
+      the last decade. Unfortunately, a significant part of the patients still experience&#xD;
+      progressive decline in function despite not experiencing discrete clinical relapses. The&#xD;
+      progressive MS phenotype can be divided in two subtypes known as SPMS and primary progressive&#xD;
+      MS (PPMS) dependent on preceding RRMS or not. A variety of clinical measures has enabled us&#xD;
+      to compose a valid follow-up of the disease course, yet they do not evaluate outpatient or&#xD;
+      long-term monitoring and they also lack sensitivity for early detection of disability&#xD;
+      progression. Up-to-date, there is no clear consensus on how to diagnose SPMS and it remains&#xD;
+      difficult to define when a patient enters the progressive phase as the diagnosis is usually&#xD;
+      made retrospectively. Implementing digital biomarkers would potentially provide us with a&#xD;
+      more realistic and more sensitive view of the progressive evolution in different spheres of&#xD;
+      functioning. This also counts for autonomic dysfunction and sleeping disorders, where no&#xD;
+      standardized monitoring is available for MS. Using wearables to capture the digital&#xD;
+      biomarkers could fill the gap of knowledge in evaluating, monitoring and predicting&#xD;
+      disability progression in MS. to this day there is no precise biomarker or composite tool&#xD;
+      that can differentiate the MS phenotypes or help us initiate/adjust therapy earlier on in&#xD;
+      progression. Introducing wearable's that could collect basic clinical parameters on a&#xD;
+      day-to-day basis would potentially give researchers a more realistic and more sensitive&#xD;
+      insight of the general course of the disease.&#xD;
+&#xD;
+      Rationale:&#xD;
+&#xD;
+      Evolution in machine learning enables unbiased detection of biomarkers encoded in different&#xD;
+      biosignal modalities. The ability to track MS disease-related physiological and behavioral&#xD;
+      signals over longer periods of time on an outpatient basis serves the unmet need of early&#xD;
+      diagnosis and adequate monitoring of (relapse independent) disease progression. This has&#xD;
+      major clinical implications since biomonitoring could be a critical tool for MS care&#xD;
+      practitioners in patient-centered multidisciplinary care.&#xD;
+&#xD;
+      Study design:&#xD;
+&#xD;
+      This is an open-label, monocentric diagnostic study where the investigators will test the&#xD;
+      feasibility and validity (as compared to golden standard measures) of wearables, provided by&#xD;
+      Byteflies, in adequate extended outpatient evaluation and monitoring of PwMS. The&#xD;
+      investigators will further evaluate how these biosignals correlate with conventional outcome&#xD;
+      measures at their primary visit to evaluate the prognostic potential of wearable monitoring&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 1, 2022</start_date>
+  <completion_date type="Anticipated">December 12, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 12, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Open-label, monocentric diagnostic study</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To validate outpatient gait analysis using sensor dots, with regards to the golden standard</measure>
+    <time_frame>1 single study visit which takes approximately 2 hours</time_frame>
+    <description>Participants (healthy volunteers and MS patients) will perform a gait analysis on the Gait Real-time Analysis Interactive Lab (GRAIL), which is considered to be the golden standard, whilst simultaneously wearing the byteflies sensor dots.&#xD;
+By comparing data from the GRAIL (golden standard) with the data from the sensor dots, which uses gyroscopic and accelerometric data, we aim to be able to validate the following gait parameters for outpatient use:&#xD;
+Stride length&#xD;
+Stride time&#xD;
+Stance (%)&#xD;
+Total double support (%)&#xD;
+Single support (%)&#xD;
+Walking speed&#xD;
+Cadence</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To validate outpatient polysomnography using sensor dots, with regards to the golden standard</measure>
+    <time_frame>Healthy participants: 1 study visit which encompasses an overnight stay in the hospital. Duration: about 15 hours. PwMS: 1 overnight stay, followed by outpatient sleep analysis for 2 nights. Total duration: 3 days</time_frame>
+    <description>Participants (non-MS and MS patients)with an indication for polysomnography(PSG) will undergo a standard PSG with a simultaneous Byteflies sensor dot registration for comparising. Patients with MS will undergo an additional outpatient sleep analysis with the byteflieskit during 2 consecutive nights.&#xD;
+The following parameters will monitored by the byteflies sensor dots.&#xD;
+Electrooculography (EOG): for eye movements.&#xD;
+Electroencephalografphy (EEG): EEG signals to define the sleeping stages&#xD;
+Oxygenation&#xD;
+Chest wall expansion: calculated with accelerometric and gyroscopic monitoring&#xD;
+Electrocardiography(ECG): ECG signals to measure heart rate and heart rate variability&#xD;
+Leg movement: calculated with accelerometric and gyroscopic monitoring</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Skin-device contact safety</measure>
+    <time_frame>GAIT: 2 hours; Sleep (healthy volunteers): 15 hours; Sleep (PwMS): 3 days</time_frame>
+    <description>A clinical evaluation of subjects for possible local reactions at the skin-device contact sites will be performed.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>Progressive Multiple Sclerosis</condition>
+  <arm_group>
+    <arm_group_label>Healthy volunteer</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20 Healthy volunteers required for gait measurement: Standard gait analysis whilst simultaneously wearing the investigational sensor dots&#xD;
+15 Non-MS patients with an indication for polysomnography (PSG): Standard PSG whilst simultaneously wearing the investigational sensor dots</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>People with MS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20 patients with MS required for gait measurement: Standard gait analysis whilst simultaneously wearing the investigational sensor dots&#xD;
+15 MS patients with an indication for polysomnography (PSG): Standard PSG whilst simultaneously wearing the investigational sensor dots</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Bytelfies kit - sensor dot</intervention_name>
+    <description>Participants will be asked to undergo a standard of care gait analysis and PSG whilst simultaneously wearing sensor dots.&#xD;
+GAIT: sensor dots will be placed in the neck, on the chest and one on both ankles.&#xD;
+PSG: sensor dots will be placed on the forehead, chin, chest, abdomen, both legs(tibialis anterior) and an SpO2 device will be placed on the finger middle finger of the non-dominant hand</description>
+    <arm_group_label>Healthy volunteer</arm_group_label>
+    <arm_group_label>People with MS</arm_group_label>
+    <other_name>Gait analysis validation</other_name>
+    <other_name>PSG validation</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Relapsing Remitting (RR) or Primary Progressive (PPMS) MS as defined by 2017 Mc Donald&#xD;
+             criteria, or Secondary Progressive (SPMS) according to Lorscheider criteria AND having&#xD;
+             an EDSS ≤ 6.5&#xD;
+&#xD;
+          -  Healthy control&#xD;
+&#xD;
+          -  Non-MS Patient with an indication for polysomnography&#xD;
+&#xD;
+          -  Age 18-60 years inclusive&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients who were prescribed 4-aminopyridin during the last 30 days.&#xD;
+&#xD;
+          -  Patients with severe cardiac, pneumological, neurological, hematological,&#xD;
+             immunological, infectious, rheumatoid, endocrinological, gastro-intestinal, urological&#xD;
+             comorbidity that may interfere with outcome measures as determined by the&#xD;
+             investigators.&#xD;
+&#xD;
+          -  Confirmed clinical relapses or new lesions on MRI during the last six months&#xD;
+&#xD;
+          -  Known allergy to electrodes used as part of the study protocol&#xD;
+&#xD;
+          -  Having an implanted device, such as (but not limited to) a pacemaker, cardioverter&#xD;
+             defibrillator (ICD), and/or neural stimulation device.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Guy Laureys, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital, Ghent</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Liesbeth Van Hijfte, Master</last_name>
+    <phone>+3293321168</phone>
+    <email>liesbeth.vanhijfte@uzgent.be</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Cathérine Dekeyser, MD</last_name>
+    <phone>+32 9 33 25609</phone>
+    <email>catherine.dekeyser@uzgent.be</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University Hospital Ghent</name>
+      <address>
+        <city>Ghent</city>
+        <state>Oost-Vlaanderen</state>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Liesbeth Van Hijfte, M.Sc.</last_name>
+      <phone>+3293321168</phone>
+      <email>liesbeth.vanhijfte@uzgent.be</email>
+    </contact>
+    <contact_backup>
+      <last_name>Guy Laureys, MD, PhD</last_name>
+      <email>guy.laureys@uzgent.be</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>October 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>January 5, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 17, 2023</study_first_posted>
+  <last_update_submitted>January 5, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 5, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 17, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>wearables</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple Sclerosis</mesh_term>
+    <mesh_term>Multiple Sclerosis, Chronic Progressive</mesh_term>
+    <mesh_term>Sclerosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>on request, depending on terms</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

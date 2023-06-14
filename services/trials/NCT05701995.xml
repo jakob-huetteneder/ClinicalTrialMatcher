@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9249">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05701995</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IM011-237</org_study_id>
+    <secondary_id>U1111-1276-5158</secondary_id>
+    <nct_id>NCT05701995</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Effect of Deucravacitinib on Quality of Life in Participants With Plaque Psoriasis in a Community Setting</brief_title>
+  <acronym>ARTISTYK</acronym>
+  <official_title>A Multicenter, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Effect of Deucravacitinib on Quality of Life in Participants With Plaque Psoriasis in a Community Setting</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bristol-Myers Squibb</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bristol-Myers Squibb</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the effect of deucravacitinib on quality of life&#xD;
+      (QoL) in participants with plaque psoriasis in a community setting.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 31, 2023</start_date>
+  <completion_date type="Anticipated">January 29, 2025</completion_date>
+  <primary_completion_date type="Anticipated">April 22, 2024</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of participants who achieve Dermatology Life Quality Index (DLQI) score 0 or 1</measure>
+    <time_frame>At week 16</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who achieve a ≥4-point reduction from baseline in DLQI</measure>
+    <time_frame>At week 16</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in whole-body itch Numerical Rating Scale (NRS) score at week 16</measure>
+    <time_frame>Baseline, Week 16</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with adverse events (AEs)</measure>
+    <time_frame>Up to week 56</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with serious adverse events (SAEs)</measure>
+    <time_frame>Up to week 56</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with clinical laboratory abnormalities</measure>
+    <time_frame>Up to week 56</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with vital sign abnormalities</measure>
+    <time_frame>Up to week 56</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with physical examination abnormalities</measure>
+    <time_frame>Up to week 56</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>Psoriasis</condition>
+  <arm_group>
+    <arm_group_label>Deucravacitinib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo then Deucravacitinib</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Deucravacitinib</intervention_name>
+    <description>Specified dose on specified days.</description>
+    <arm_group_label>Deucravacitinib</arm_group_label>
+    <arm_group_label>Placebo then Deucravacitinib</arm_group_label>
+    <other_name>BMS-986165</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Specified dose on specified days.</description>
+    <arm_group_label>Placebo then Deucravacitinib</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+          -  Men and women diagnosed with stable plaque psoriasis for 6 months or more. Stable&#xD;
+             psoriasis is defined as no morphology changes or significant flares of disease&#xD;
+             activity in the opinion of the investigator.&#xD;
+&#xD;
+          -  Deemed by the investigator to be a candidate for phototherapy or systemic therapy.&#xD;
+&#xD;
+          -  ≥ 3% of Body Surface Area (BSA) involvement at Screening Visit and Day 1&#xD;
+&#xD;
+          -  Dermatology Life Quality Index (DLQI) score &gt; 5 at Screening Visit and Day 1&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Target Disease Exceptions:&#xD;
+&#xD;
+          -  Non-plaque psoriasis (that is, guttate, pustular, erythrodermic, palmoplantar only&#xD;
+             involvement or drug-induced psoriasis) at Screening Visit or Day 1&#xD;
+&#xD;
+        Other protocol-defined inclusion/exclusion criteria apply.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bristol-Myers Squibb</last_name>
+    <role>Study Director</role>
+    <affiliation>Bristol-Myers Squibb</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>BMS Study Connect Contact Center www.BMSStudyConnect.com</last_name>
+    <phone>855-907-3286</phone>
+    <email>Clinical.Trials@bms.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>First line of the email MUST contain the NCT# and Site #.</last_name>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Medical Dermatology Specialists</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Lindsay Ackerman, Site 0006</last_name>
+      <phone>602-354-5770</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Arkansas Research Trials, Inc.</name>
+      <address>
+        <city>North Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72117</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Scott Dinehart, Site 0015</last_name>
+      <phone>15018703299952</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bakersfield Dermatology Skin Cancer Med.Group</name>
+      <address>
+        <city>Bakersfield</city>
+        <state>California</state>
+        <zip>93309</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey Crowley, Site 0004</last_name>
+      <phone>661-327-3756</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Integrative Skin Science and Research</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95815</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Raja Sivamani, Site 0009</last_name>
+      <phone>510-847-6713</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MedDerm Associates</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Michelle Pelle, Site 0022</last_name>
+      <phone>619-243-7015</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Foxhall Research Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alison Ehrlich, Site 0024</last_name>
+      <phone>202-695-1000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Academic Centers Research and Education, LLC</name>
+      <address>
+        <city>Coral Gables</city>
+        <state>Florida</state>
+        <zip>33134</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Francisco Kerdel, Site 0016</last_name>
+      <phone>305-324-2110</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Riverchase Dermatology</name>
+      <address>
+        <city>Pembroke Pines</city>
+        <state>Florida</state>
+        <zip>33028</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Robert Snyder, Site 0011</last_name>
+      <phone>954-435-5100</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Gwinnett Clinical Research Center</name>
+      <address>
+        <city>Snellville</city>
+        <state>Georgia</state>
+        <zip>30078</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jonathan Weiss, Site 0020</last_name>
+      <phone>770-972-2241</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Arlington Dermatology SC</name>
+      <address>
+        <city>Rolling Meadows</city>
+        <state>Illinois</state>
+        <zip>60008</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Bukhalo, Site 0007</last_name>
+      <phone>716-859-5600</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>NorthShore University Health System</name>
+      <address>
+        <city>Skokie</city>
+        <state>Illinois</state>
+        <zip>60077</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Stephanie Mehlis, Site 0025</last_name>
+      <phone>847-663-8530</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>DelRicht Research</name>
+      <address>
+        <city>Baton Rouge</city>
+        <state>Louisiana</state>
+        <zip>70809</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ira Thorla, Site 0003</last_name>
+      <phone>225-412-0316</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>DermAssociates</name>
+      <address>
+        <city>Rockville</city>
+        <state>Maryland</state>
+        <zip>20850</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Benjamin Lockshin, Site 0018</last_name>
+      <phone>301-355-3183</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Oakland Hills Dermatology PC</name>
+      <address>
+        <city>Auburn Hills</city>
+        <state>Michigan</state>
+        <zip>48326</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Chris Buatti, Site 0010</last_name>
+      <phone>248-858-2255</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Michigan Dermatology Institute - Waterford</name>
+      <address>
+        <city>Waterford</city>
+        <state>Michigan</state>
+        <zip>48328</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Cory Rubin, Site 0002</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>JDR Dermatology Research</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89148</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>James Del Rosso, Site 0017</last_name>
+      <phone>702-596-6137</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Markowitz Medical</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10128</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Orit Markowitz, Site 0013</last_name>
+      <phone>212-828-3120</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Skin Search of Rochester</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14623</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Tu, Site 0001</last_name>
+      <phone>585-697-1818</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bexley Dermatology Research</name>
+      <address>
+        <city>Bexley</city>
+        <state>Ohio</state>
+        <zip>43209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Matthew Zirwas, Site 0005</last_name>
+      <phone>614-725-5010</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Apex Clinical Research Center</name>
+      <address>
+        <city>Mayfield Heights</city>
+        <state>Ohio</state>
+        <zip>44124</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jorge Garcia-Zuazaga, Site 0012</last_name>
+      <phone>14404404430440</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>DermDox Centers for Dermatology</name>
+      <address>
+        <city>Sugarloaf</city>
+        <state>Pennsylvania</state>
+        <zip>18249</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Stephen Schleicher, Site 0023</last_name>
+      <phone>570-459-0029</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Center of the Carolinas</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29407</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Todd Schlesinger, Site 0019</last_name>
+      <phone>843-556-8886</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Jordan Valley Dermatology and Research Center</name>
+      <address>
+        <city>South Jordan</city>
+        <state>Utah</state>
+        <zip>84095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Douglass Forsha, Site 0008</last_name>
+      <phone>801-316-0266</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bellevue Dermatology Clinic</name>
+      <address>
+        <city>Bellevue</city>
+        <state>Washington</state>
+        <zip>98004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Clive Liu, Site 0021</last_name>
+      <phone>425-455-2275</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Premier Clinical Research LLC</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>William Werschler, Site 0014</last_name>
+      <phone>509-343-3710</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html</url>
+    <description>BMS Clinical Trial Information</description>
+  </link>
+  <link>
+    <url>https://www.bmsstudyconnect.com/s/US/English/USenHome</url>
+    <description>BMS Clinical Trial Patient Recruiting</description>
+  </link>
+  <link>
+    <url>https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html</url>
+    <description>Investigator Inquiry Form</description>
+  </link>
+  <link>
+    <url>https://www.fda.gov/Safety/MedWatch/SafetyInformation/default.htm</url>
+    <description>FDA Safety Alerts and Recalls</description>
+  </link>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 16, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>February 21, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 21, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 22, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>plaque psoriasis</keyword>
+  <keyword>deucravacitinib</keyword>
+  <keyword>BMS-986165</keyword>
+  <keyword>Health related quality of life (HrQoL)</keyword>
+  <keyword>QoL (quality of life)</keyword>
+  <keyword>SOTYKTU</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Psoriasis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Deucravacitinib</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>BMS will provide access to individual anonymized participant data upon request from qualified researchers, and subject to certain criteria. Additional information regarding Bristol-Myers Squibb's data sharing policy and process can be found at: https://www.bms.com/researchers-and-partners/clinical-trials-and-research/disclosure-commitment.html</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>See Plan Description</ipd_time_frame>
+    <ipd_access_criteria>See Plan Description</ipd_access_criteria>
+    <ipd_url>https://www.bms.com/researchers-and-partners/clinical-trials-and-research/disclosure-commitment.html</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

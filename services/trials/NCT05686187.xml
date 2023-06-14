@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9978">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05686187</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FJU-IRB-C111100</org_study_id>
+    <nct_id>NCT05686187</nct_id>
+  </id_info>
+  <brief_title>Establishing and Evaluating the Effectiveness of an Augmented Reality Technology in Gender Empowerment System</brief_title>
+  <official_title>Establishing and Evaluating the Effectiveness of an Augmented Reality Technology in Gender Empowerment System for Long-term Care Workers: A Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Taipei University of Nursing and Health Sciences</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Taipei University of Nursing and Health Sciences</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background: In the interventional study of gender mainstreaming, few studies have been&#xD;
+      conducted on gender empowerment in long-term care. And there are still some limitations in&#xD;
+      the gender curriculum of current in-service education. This research will cooperate with the&#xD;
+      digital learning promotion plan to stimulate learners' senses to strengthen their feelings&#xD;
+      about gender equality issues and events to have a more flexible and diverse learning&#xD;
+      experience and enhance geriatric care competencies.&#xD;
+&#xD;
+      Purpose: This study is a two-year plan, and the purpose of each year are as follows: 1). To&#xD;
+      conduct learning needs assessment of long-term care workers, and to develop and construct an&#xD;
+      educational training module for gender empowerment system of AR interactive experience.&#xD;
+&#xD;
+      2). To verify the effectiveness of the gender equality knowledge, attitude, awareness, and&#xD;
+      self-confidence of the research subjects after the &quot;Apply of augmented reality technology&quot;&#xD;
+      was introduced into the gender curriculum.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background: In the interventional study of gender mainstreaming, few studies have been&#xD;
+      conducted on gender empowerment in long-term care. And there are still some limitations in&#xD;
+      the gender curriculum of current in-service education. This research will cooperate with the&#xD;
+      digital learning promotion plan to stimulate learners' senses to strengthen their feelings&#xD;
+      about gender equality issues and events to have a more flexible and diverse learning&#xD;
+      experience and enhance geriatric care competencies.&#xD;
+&#xD;
+      Purpose: This study is a two-year plan, and the purpose of each year are as follows: 1). To&#xD;
+      conduct learning needs assessment of long-term care workers, and to develop and construct an&#xD;
+      educational training module for gender empowerment system of AR interactive experience.&#xD;
+&#xD;
+      2). To verify the effectiveness of the gender equality knowledge, attitude, awareness, and&#xD;
+      self-confidence of the research subjects after the &quot;Apply of augmented reality technology&quot;&#xD;
+      was introduced into the gender curriculum.&#xD;
+&#xD;
+      Methods: This study will adopt a mixed research approach. We'll conduct focus group&#xD;
+      interviews in the first year. The interviewers want to invite specialists in the fields of&#xD;
+      long-term care/geriatric nursing education, scholars from the gender talent pool of the&#xD;
+      Ministry of Education, and specialists in the engineering of digital smart systems.&#xD;
+      Additionally, it is intended to include senior front-line long-term care providers in the&#xD;
+      planning and creation of lesson plans for this platform system. A randomized clinical trial&#xD;
+      (RCT) will be adopted which uses a 2-armed, controlled experiment, parallel-group design, and&#xD;
+      multi-center in the second year. The setting and participants will be recruited from four&#xD;
+      long-term care institution in Taipei and New Taipei city. Through the cluster random sampling&#xD;
+      method, two institutions will be randomly selected from the computer based on the &quot;&#xD;
+      institution &quot; from each long-term care institution, and then the allocation concealment&#xD;
+      mechanism will be based on the inclusion criteria to recruit research participants, then&#xD;
+      according to their willingness to participate in this project. The intervention will be&#xD;
+      divided into two groups, namely treatment group (AR intervention group) and control group&#xD;
+      (waiting list control group). The experimental group's intervention consists of a course that&#xD;
+      embraces AR's platform for gender empowerment. The intervention course will require 50-60&#xD;
+      minutes for preliminary planning, and participants in the experimental group can design at&#xD;
+      least three course modules to suit their learning needs. The control group will adopt the&#xD;
+      classroom narration method. The following are the primary outcome indicators: gender equality&#xD;
+      knowledge scale, gender equality attitude and awareness scale, self-confidence visual analog&#xD;
+      scale, learning effectiveness and System Usability Scale (SUS). The researcher uses&#xD;
+      structured questionnaires to collect data before intervention (To) and after intervention&#xD;
+      (T1), 1 month (T2) after the intervention. Data will be analyzed using the Generalized&#xD;
+      Estimating Equation to analyze the repeated measurements and intention-to-treat analysis for&#xD;
+      reducing attrition bias.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2023</start_date>
+  <completion_date type="Anticipated">July 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Attitudes and Consciousness Awareness Scale for Gender Equality</measure>
+    <time_frame>pre-intervention</time_frame>
+    <description>This scale will refer to the Sustainable Development Goals development attitude and awareness (Álvarez-Nieto et al., 2022), and initially formulate the attitude of gender equality (8 items) and the self-awareness scale of practical awareness (4 items), with a total of 12 items ( One of the questions is a reverse question), and its answer options range from 1 (strongly disagree) to 7 (strongly agree) on a Likert scale, with a maximum score of 84 points. The higher the score, the attitude towards Sustainable Development Goals 5 (gender equality) and The self-awareness of practical awareness is better; and as mentioned above, the expert validity will be checked again, and the internal consistency analysis of the tool use of this research object will be carried out</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Knowledge Scale for Gender Equality</measure>
+    <time_frame>pre-intervention</time_frame>
+    <description>According to the literature, aiming at friendly sex discrimination (Clow, Ricciardelli, &amp; Bartfay, 2014 ), gender concept and workplace sexual harassment prevention law (Xie, Huang, 2018), which are easy to be ignored, a 10-item cognitive topic is initially formulated. Higher means that the knowledge of personal gender equality is better; and as mentioned above, the expert validity will be checked again, and the internal consistency analysis of the tool use of this research object will be carried out.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Self-Attitude toward Gender Roles</measure>
+    <time_frame>pre-intervention</time_frame>
+    <description>This scale was developed by the Industrial Bureau of the Ministry of Economic Affairs of the Chinese government (2012) with reference to World Health Organization (2011) and foreign research, with a total of 6 items (Council of Europe, 2004; Su, , Richardson &amp; Wang, 2010), and after four sessions After the expert meeting, it was confirmed that it conforms to the measurement concept of gender mainstreaming construction (Industrial Bureau, Ministry of Economic Affairs, 2012). In addition, it was found to have good internal consistency in the study of gender equality, and the Cronbach's α value was .82 (Hsieh et al., 2022), the higher the score of this scale, the better the individual's gender awareness; and as mentioned above, the expert validity will be checked again, and the internal consistency analysis of the tool use of the research objects will be carried out.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Gender Awareness toward Health Care</measure>
+    <time_frame>pre-intervention</time_frame>
+    <description>This scale is mainly developed after referring to the literature of &quot;Attitudes towards Women Scale&quot;, with a total of 5 items (Spence, Helmreich &amp; Stapp, 1978). It is better to verify the reliability and validity of domestic scholars surnamed Lu (1988). And this study also cites this scale in the field of health care. The higher the score of this scale, the more serious the gender awareness bias in health care. The scale itself has good expert content validity, and Cronbach's α value is .90 (Hsieh et al., 2022)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical Executive Confidence Scale (Visual Analog Scale)</measure>
+    <time_frame>pre-intervention</time_frame>
+    <description>Based on the effectiveness evaluation of past literature courses, the research subjects are evaluated based on their own handling of clinical cases or the actual situation of event items, and self-assessment of the degree of confidence in mastering the situation, measured by Visual Analogue Scale (VAS) 0-100mm 0 means the lowest level of confidence in mastering the care, and 100 means the highest level of confidence in mastering the care (Xu, Wang, Liu, Zheng, Yang, 2018).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Attitudes and Consciousness Awareness Scale for Gender Equality</measure>
+    <time_frame>one week after intervention</time_frame>
+    <description>This scale will refer to the Sustainable Development Goals development attitude and awareness (Álvarez-Nieto et al., 2022), and initially formulate the attitude of gender equality (8 items) and the self-awareness scale of practical awareness (4 items), with a total of 12 items ( One of the questions is a reverse question), and its answer options range from 1 (strongly disagree) to 7 (strongly agree) on a Likert scale, with a maximum score of 84 points. The higher the score, the attitude towards Sustainable Development Goals 5 (gender equality) and The self-awareness of practical awareness is better; and as mentioned above, the expert validity will be checked again, and the internal consistency analysis of the tool use of this research object will be carried out</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Knowledge Scale for Gender Equality</measure>
+    <time_frame>one week after intervention</time_frame>
+    <description>According to the literature, aiming at friendly sex discrimination (Clow, Ricciardelli, &amp; Bartfay, 2014 ), gender concept and workplace sexual harassment prevention law (Xie, Huang, 2018), which are easy to be ignored, a 10-item cognitive topic is initially formulated. Higher means that the knowledge of personal gender equality is better; and as mentioned above, the expert validity will be checked again, and the internal consistency analysis of the tool use of this research object will be carried out.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Self-Attitude toward Gender Roles</measure>
+    <time_frame>one week after intervention</time_frame>
+    <description>This scale was developed by the Industrial Bureau of the Ministry of Economic Affairs of the Chinese government (2012) with reference to World Health Organization (2011) and foreign research, with a total of 6 items (Council of Europe, 2004; Su, , Richardson &amp; Wang, 2010), and after four sessions After the expert meeting, it was confirmed that it conforms to the measurement concept of gender mainstreaming construction (Industrial Bureau, Ministry of Economic Affairs, 2012). In addition, it was found to have good internal consistency in the study of gender equality, and the Cronbach's α value was .82 (Hsieh et al., 2022), the higher the score of this scale, the better the individual's gender awareness; and as mentioned above, the expert validity will be checked again, and the internal consistency analysis of the tool use of the research objects will be carried out.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Gender Awareness toward Health Care</measure>
+    <time_frame>one week after intervention</time_frame>
+    <description>This scale is mainly developed after referring to the literature of &quot;Attitudes towards Women Scale&quot;, with a total of 5 items (Spence, Helmreich &amp; Stapp, 1978). It is better to verify the reliability and validity of domestic scholars surnamed Lu (1988). And this study also cites this scale in the field of health care. The higher the score of this scale, the more serious the gender awareness bias in health care. The scale itself has good expert content validity, and Cronbach's α value is .90 (Hsieh et al., 2022)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical Executive Confidence Scale (Visual Analog Scale)</measure>
+    <time_frame>one week after intervention</time_frame>
+    <description>Based on the effectiveness evaluation of past literature courses, the research subjects are evaluated based on their own handling of clinical cases or the actual situation of event items, and self-assessment of the degree of confidence in mastering the situation, measured by Visual Analogue Scale (VAS) 0-100mm 0 means the lowest level of confidence in mastering the care, and 100 means the highest level of confidence in mastering the care (Xu, Wang, Liu, Zheng, Yang, 2018).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Learning Effectiveness and Usability Assessment scale</measure>
+    <time_frame>one week after intervention</time_frame>
+    <description>This assessment refers to questions (8 items) by which the reference literature was used to understand the usefulness and ease of use of the lessons and scenarios taught. The validity of the content of this assessment was determined through discussions among nursing practice educators and experts (Álvarez-Nieto et al .,2022), used to examine the perceived reality and relevance of teaching methods and content, this scale responds to a seven-point Likert-style scale, where 1 (strongly disagree) to 7 (strongly agree), the score The higher the value, the better the effectiveness of the teaching and learning and the ease of operation of the equipment; and as mentioned above, the expert validity will be checked again, and the internal consistency analysis of the tool use of the research object will be carried out</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Attitudes and Consciousness Awareness Scale for Gender Equality</measure>
+    <time_frame>from enrollment to end of treatment at one month</time_frame>
+    <description>This scale will refer to the Sustainable Development Goals development attitude and awareness (Álvarez-Nieto et al., 2022), and initially formulate the attitude of gender equality (8 items) and the self-awareness scale of practical awareness (4 items), with a total of 12 items ( One of the questions is a reverse question), and its answer options range from 1 (strongly disagree) to 7 (strongly agree) on a Likert scale, with a maximum score of 84 points. The higher the score, the attitude towards Sustainable Development Goals 5 (gender equality) and The self-awareness of practical awareness is better; and as mentioned above, the expert validity will be checked again, and the internal consistency analysis of the tool use of this research object will be carried out</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Knowledge Scale for Gender Equality</measure>
+    <time_frame>from enrollment to end of treatment at one month</time_frame>
+    <description>According to the literature, aiming at friendly sex discrimination (Clow, Ricciardelli, &amp; Bartfay, 2014 ), gender concept and workplace sexual harassment prevention law (Xie, Huang, 2018), which are easy to be ignored, a 10-item cognitive topic is initially formulated. Higher means that the knowledge of personal gender equality is better; and as mentioned above, the expert validity will be checked again, and the internal consistency analysis of the tool use of this research object will be carried out.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Self-Attitude toward Gender Roles</measure>
+    <time_frame>from enrollment to end of treatment at one month</time_frame>
+    <description>This scale was developed by the Industrial Bureau of the Ministry of Economic Affairs of the Chinese government (2012) with reference to World Health Organization (2011) and foreign research, with a total of 6 items (Council of Europe, 2004; Su, , Richardson &amp; Wang, 2010), and after four sessions After the expert meeting, it was confirmed that it conforms to the measurement concept of gender mainstreaming construction (Industrial Bureau, Ministry of Economic Affairs, 2012). In addition, it was found to have good internal consistency in the study of gender equality, and the Cronbach's α value was .82 (Hsieh et al., 2022), the higher the score of this scale, the better the individual's gender awareness; and as mentioned above, the expert validity will be checked again, and the internal consistency analysis of the tool use of the research objects will be carried out.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Gender Awareness toward Health Care</measure>
+    <time_frame>from enrollment to end of treatment at one month</time_frame>
+    <description>This scale is mainly developed after referring to the literature of &quot;Attitudes towards Women Scale&quot;, with a total of 5 items (Spence, Helmreich &amp; Stapp, 1978). It is better to verify the reliability and validity of domestic scholars surnamed Lu (1988). And this study also cites this scale in the field of health care. The higher the score of this scale, the more serious the gender awareness bias in health care. The scale itself has good expert content validity, and Cronbach's α value is .90 (Hsieh et al., 2022)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical Executive Confidence Scale (Visual Analog Scale)</measure>
+    <time_frame>from enrollment to end of treatment at one month</time_frame>
+    <description>Based on the effectiveness evaluation of past literature courses, the research subjects are evaluated based on their own handling of clinical cases or the actual situation of event items, and self-assessment of the degree of confidence in mastering the situation, measured by Visual Analogue Scale (VAS) 0-100mm 0 means the lowest level of confidence in mastering the care, and 100 means the highest level of confidence in mastering the care (Xu, Wang, Liu, Zheng, Yang, 2018).</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Gender</condition>
+  <condition>Empowerment</condition>
+  <condition>Long Term Care</condition>
+  <arm_group>
+    <arm_group_label>AR's platform for gender empowerment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The experimental group's intervention consists of a course that embraces AR's platform for gender empowerment. The intervention course will require 50-60 minutes for preliminary planning, and participants in the experimental group can design at least three course modules to suit their learning needs.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The control group will adopt the classroom narration method.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>AR's platform for gender empowerment</intervention_name>
+    <description>The intervention of the experimental group is to accept the courses of the gender empowerment platform introduced by AR. The preliminary plan is 50-60 minutes each time. The content of the teaching plan course will adopt the course module design. Group content, and among the three module courses, there must be a core module course unit that is the workplace sexual harassment prevention unit</description>
+    <arm_group_label>AR's platform for gender empowerment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Acceptance conditions for research subjects&#xD;
+&#xD;
+               1. have worked in the home care institution for at least one year&#xD;
+&#xD;
+               2. have normal vision and hearing, and can operate digital mobile phones or tablets&#xD;
+&#xD;
+               3. are willing to participate in this research.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  The exclusion conditions are&#xD;
+&#xD;
+               1. under the age of 20&#xD;
+&#xD;
+               2. the staff member is currently an administrative post and does not belong to the&#xD;
+                  front-line long-term care staff.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Chia-Jung Hsieh</last_name>
+    <phone>+886(2)2822-7101</phone>
+    <phone_ext>3135</phone_ext>
+    <email>chiajung@ntunhs.edu.tw</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ya-Ling Shih</last_name>
+    <phone>+886(3)538-1183</phone>
+    <phone_ext>8608</phone_ext>
+    <email>tiffanysyl0902@gmail.com</email>
+  </overall_contact_backup>
+  <results_reference>
+    <citation>Altman DG, Moher D, Schulz KF. Improving the reporting of randomised trials: the CONSORT Statement and beyond. Stat Med. 2012 Nov 10;31(25):2985-97. doi: 10.1002/sim.5402. Epub 2012 Aug 18.</citation>
+    <PMID>22903776</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Alvarez-Nieto C, Alvarez-Garcia C, Parra-Anguita L, Sanz-Martos S, Lopez-Medina IM. Effectiveness of scenario-based learning and augmented reality for nursing students' attitudes and awareness toward climate change and sustainability. BMC Nurs. 2022 Sep 3;21(1):245. doi: 10.1186/s12912-022-01023-9.</citation>
+    <PMID>36057567</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ball S, Hussey LC. The Effects of Augmented Reality on Prelicensure Nursing Students' Anxiety Levels. J Nurs Educ. 2020 Mar 1;59(3):142-148. doi: 10.3928/01484834-20200220-04.</citation>
+    <PMID>32130415</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Beaton DE, Bombardier C, Guillemin F, Ferraz MB. Guidelines for the process of cross-cultural adaptation of self-report measures. Spine (Phila Pa 1976). 2000 Dec 15;25(24):3186-91. doi: 10.1097/00007632-200012150-00014. No abstract available.</citation>
+    <PMID>11124735</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Bejan A, Gundogdu R, Butz K, Muller N, Kunze C, Konig P. Using multimedia information and communication technology (ICT) to provide added value to reminiscence therapy for people with dementia : Lessons learned from three field studies. Z Gerontol Geriatr. 2018 Jan;51(1):9-15. doi: 10.1007/s00391-017-1347-7. Epub 2017 Dec 7.</citation>
+    <PMID>29218401</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Chen PJ, Liou WK. The effects of an augmented reality application developed for paediatric first aid training on the knowledge and skill levels of nursing students: An experimental controlled study. Nurse Educ Today. 2023 Jan;120:105629. doi: 10.1016/j.nedt.2022.105629. Epub 2022 Nov 8.</citation>
+    <PMID>36375385</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Choi J, Thompson CE, Choi J, Waddill CB, Choi S. Effectiveness of Immersive Virtual Reality in Nursing Education: Systematic Review. Nurse Educ. 2022 May-Jun 01;47(3):E57-E61. doi: 10.1097/NNE.0000000000001117. Epub 2021 Oct 12.</citation>
+    <PMID>34657101</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Dielissen P, Verdonk P, Waard MW, Bottema B, Lagro-Janssen T. The effect of gender medicine education in GP training: a prospective cohort study. Perspect Med Educ. 2014 Nov;3(5):343-56. doi: 10.1007/s40037-014-0122-3.</citation>
+    <PMID>24895104</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Gasteiger N, van der Veer SN, Wilson P, Dowding D. How, for Whom, and in Which Contexts or Conditions Augmented and Virtual Reality Training Works in Upskilling Health Care Workers: Realist Synthesis. JMIR Serious Games. 2022 Feb 14;10(1):e31644. doi: 10.2196/31644.</citation>
+    <PMID>35156931</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Hsieh CJ, Pan K, Lee HC, Shih YL. Gender Equality in Employment among Health Care Undergraduate Students: A Cross-Sectional Survey. Healthcare (Basel). 2022 Mar 15;10(3):543. doi: 10.3390/healthcare10030543.</citation>
+    <PMID>35327021</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Lemonaki E, Manstead AS, Maio GR. Hostile sexism (de)motivates women's social competition intentions: The contradictory role of emotions. Br J Soc Psychol. 2015 Sep;54(3):483-99. doi: 10.1111/bjso.12100. Epub 2015 Jan 7.</citation>
+    <PMID>25564748</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Kramida G. Resolving the Vergence-Accommodation Conflict in Head-Mounted Displays. IEEE Trans Vis Comput Graph. 2016 Jul;22(7):1912-31. doi: 10.1109/TVCG.2015.2473855. Epub 2015 Aug 27.</citation>
+    <PMID>26336129</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Lynn MR. Determination and quantification of content validity. Nurs Res. 1986 Nov-Dec;35(6):382-5. No abstract available.</citation>
+    <PMID>3640358</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Milner A, Kavanagh A, Scovelle AJ, O'Neil A, Kalb G, Hewitt B, King TL. Gender Equality and Health in High-Income Countries: A Systematic Review of Within-Country Indicators of Gender Equality in Relation to Health Outcomes. Womens Health Rep (New Rochelle). 2021 Apr 27;2(1):113-123. doi: 10.1089/whr.2020.0114. eCollection 2021.</citation>
+    <PMID>33937909</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Miloff A, Lindner P, Dafgard P, Deak S, Garke M, Hamilton W, Heinsoo J, Kristoffersson G, Rafi J, Sindemark K, Sjolund J, Zenger M, Reuterskiold L, Andersson G, Carlbring P. Automated virtual reality exposure therapy for spider phobia vs. in-vivo one-session treatment: A randomized non-inferiority trial. Behav Res Ther. 2019 Jul;118:130-140. doi: 10.1016/j.brat.2019.04.004. Epub 2019 Apr 16.</citation>
+    <PMID>31075675</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Moon S, Park K. The effect of digital reminiscence therapy on people with dementia: a pilot randomized controlled trial. BMC Geriatr. 2020 May 6;20(1):166. doi: 10.1186/s12877-020-01563-2.</citation>
+    <PMID>32375661</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Muecke MA. Community health diagnosis in nursing. Public Health Nurs. 1984 Mar;1(1):23-35. doi: 10.1111/j.1525-1446.1984.tb00427.x. No abstract available.</citation>
+    <PMID>6567925</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Nielsen MBD, Kjaer S, Aldrich PT, Madsen IEH, Friborg MK, Rugulies R, Folker AP. Sexual harassment in care work - Dilemmas and consequences: A qualitative investigation. Int J Nurs Stud. 2017 May;70:122-130. doi: 10.1016/j.ijnurstu.2017.02.018. Epub 2017 Feb 24.</citation>
+    <PMID>28260613</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Laberge M, Lefrancois M, Chadoin M, Probst I, Riel J, Casse C, Messing K. Gender and work in ergonomics: recent trends. Ergonomics. 2022 Nov;65(11):1451-1455. doi: 10.1080/00140139.2022.2129806. Epub 2022 Oct 11.</citation>
+    <PMID>36166412</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Shorey S, Ng ED. The use of virtual reality simulation among nursing students and registered nurses: A systematic review. Nurse Educ Today. 2021 Mar;98:104662. doi: 10.1016/j.nedt.2020.104662. Epub 2020 Nov 11.</citation>
+    <PMID>33203545</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Urresti-Gundlach M, Tolks D, Kiessling C, Wagner-Menghin M, Hartl A, Hege I. Do virtual patients prepare medical students for the real world? Development and application of a framework to compare a virtual patient collection with population data. BMC Med Educ. 2017 Sep 22;17(1):174. doi: 10.1186/s12909-017-1013-1.</citation>
+    <PMID>28938884</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Uymaz P, Uymaz AO. Assessing acceptance of augmented reality in nursing education. PLoS One. 2022 Feb 17;17(2):e0263937. doi: 10.1371/journal.pone.0263937. eCollection 2022.</citation>
+    <PMID>35176073</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Woon APN, Mok WQ, Chieng YJS, Zhang HM, Ramos P, Mustadi HB, Lau Y. Effectiveness of virtual reality training in improving knowledge among nursing students: A systematic review, meta-analysis and meta-regression. Nurse Educ Today. 2021 Mar;98:104655. doi: 10.1016/j.nedt.2020.104655. Epub 2020 Nov 28.</citation>
+    <PMID>33303246</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wuller H, Behrens J, Garthaus M, Marquard S, Remmers H. A scoping review of augmented reality in nursing. BMC Nurs. 2019 May 16;18:19. doi: 10.1186/s12912-019-0342-2. eCollection 2019.</citation>
+    <PMID>31123428</PMID>
+  </results_reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 31, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 8, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 17, 2023</study_first_posted>
+  <last_update_submitted>January 8, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 8, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 17, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>National Taipei University of Nursing and Health Sciences</investigator_affiliation>
+    <investigator_full_name>Chia Jung Hsieh</investigator_full_name>
+    <investigator_title>Ph.D., RN, Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>augmented reality</keyword>
+  <keyword>e-Learning</keyword>
+  <keyword>gender empowerment</keyword>
+  <keyword>gender awareness and attitude of gender</keyword>
+  <keyword>gender equality</keyword>
+  <keyword>long-term care</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

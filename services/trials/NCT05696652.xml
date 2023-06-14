@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9496">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05696652</url>
+  </required_header>
+  <id_info>
+    <org_study_id>68827</org_study_id>
+    <nct_id>NCT05696652</nct_id>
+  </id_info>
+  <brief_title>Identifying Markers of Exercise Training in Heart Failure</brief_title>
+  <official_title>Identifying Markers of Exercise Training in Heart Failure</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The heart failure syndrome that occurs when the heart is too sick to properly do its job. One&#xD;
+      of the main symptoms is difficulty with exercise. One way to improve symptoms is to start&#xD;
+      patients in a 12 week exercise program called cardiac rehabilitation. Cardiac rehabilitation&#xD;
+      been shown to improve symptoms for heart failure patients. However, we do not know exactly&#xD;
+      what exercise does to the molecules that make up the human body. If we could answer this&#xD;
+      question, we might find a whole new way to treat the symptoms of heart failure. Therefore we&#xD;
+      want to know what molecules might be responsible for the benefits of exercise. The plan for&#xD;
+      this study is to measure the levels of thousands of proteins in blood samples which come from&#xD;
+      people with heart failure and see how those levels change after 12 weeks of cardiac&#xD;
+      rehabilitation, compared to the protein levels in patients whose cardiac rehabilitation is&#xD;
+      delayed until after the study period. If we know the proteins that change with exercise, we&#xD;
+      can then look to see if targeting these proteins with medicines can mimic the benefits of&#xD;
+      exercise. The long term goal of our work is to identify &quot;exercise-in-a-pill&quot; medicines that&#xD;
+      will help people with heart failure.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2023</start_date>
+  <completion_date type="Anticipated">October 2026</completion_date>
+  <primary_completion_date type="Anticipated">October 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Proteomic Profile</measure>
+    <time_frame>Baseline vs week 12 proteomic profile</time_frame>
+    <description>Patients will have proteomic profiling performed at baseline, prior to the intervention period, and again following the 12 week intervention. Proteomic profiling measures levels of ~3000 proteins in the blood, so the changes in the global proteome can be assessed after the intervention period.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">90</enrollment>
+  <condition>Heart Failure</condition>
+  <arm_group>
+    <arm_group_label>12 weeks Cardiac Rehabilitation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be randomized to either immediate entry to cardiac rehabilitation, or no intervention (their clinical cardiac rehabilitation will be delayed during the 12 weeks of the study)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of Care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants will be randomized to either immediate entry to cardiac rehabilitation, or no intervention (their clinical cardiac rehabilitation will be delayed during the 12 weeks of the study)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Cardiac rehabilitation</intervention_name>
+    <description>12 week program of standard clinical cardiac rehabilitation for patients with symptomatic heart failure. Patients undergo 3-times weekly sessions of monitored exercise for 12 weeks. This is the same cardiac rehabilitation patients would get as part of clinical care.</description>
+    <arm_group_label>12 weeks Cardiac Rehabilitation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Be 18-89 years of age&#xD;
+&#xD;
+          -  Not be pregnant or lactating in the last 12 months, or planning to become pregnant for&#xD;
+             the next 4 months. A pregnancy test will be performed on the day of DXA scan in women&#xD;
+             of child-bearing potential. Not be post-partum during the last 12 months.&#xD;
+&#xD;
+          -  patients must carry a diagnosis of heart failure with ejection fraction &lt; 40%&#xD;
+&#xD;
+          -  Be willing to provide informed consent for all study procedures&#xD;
+&#xD;
+          -  be willing to participate in cardiac rehabilitation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Diabetes (self-report and screening tests), which includes: i) treatment with any&#xD;
+             hypoglycemic agents (self-report, even for non-diabetic reasons) or ii) fasting&#xD;
+             glucose &gt;125 or A1c &gt;6.4 (screening test).&#xD;
+&#xD;
+          -  Chronic renal insufficiency (screening test): estimated glomerular filtration rate &lt;60&#xD;
+             mL/min/1.73 m2 from serum creatinine (mg/dL) by the Chronic Kidney Disease&#xD;
+             Epidemiology Collaboration equation&#xD;
+&#xD;
+          -  Individuals receiving any active treatment for autoimmune disorders (including&#xD;
+             monoclonal antibodies) within the last 6 months.&#xD;
+&#xD;
+          -  Alcohol consumption (self-report): i) more than 7 drinks per week for women and more&#xD;
+             than 14 drinks per week for men; ii) history of binge drinking.&#xD;
+&#xD;
+          -  Hospitalization for any psychiatric condition within one year (self-report).&#xD;
+&#xD;
+          -  Any musculoskeletal or ligamentous injury, amputation or congenital neurological&#xD;
+             defect that, in the opinion of the team clinician, would negatively impact or mitigate&#xD;
+             participation in and completion of the protocol.&#xD;
+&#xD;
+          -  Mental incapacity and/or cognitive impairment on the part of the participant that&#xD;
+             would inhibit adequate understanding of or cooperation with the study protocol.&#xD;
+&#xD;
+          -  Taking Androgenic anabolic steroids, anti-estrogens, anti-androgens&#xD;
+&#xD;
+          -  Taking Growth hormone, insulin like growth factor-I, growth hormone releasing hormone&#xD;
+&#xD;
+          -  Taking Any drugs used to treat diabetes mellitus or to lower blood glucose&#xD;
+&#xD;
+          -  Taking Any drugs used specifically to induce weight loss&#xD;
+&#xD;
+          -  Taking Any drugs used specifically to induce muscle growth/hypertrophy or augment&#xD;
+             exercise-induced muscle hypertrophy&#xD;
+&#xD;
+          -  Taking Narcotics and narcotic receptor agonists&#xD;
+&#xD;
+          -  Taking Monoclonal antibodies&#xD;
+&#xD;
+          -  Taking Any other medications that, in the opinion of local clinicians, would&#xD;
+             negatively impact or mitigate full participation and completion.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>89 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Daniel H Katz, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stanford Health Care</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Sanford JA, Nogiec CD, Lindholm ME, Adkins JN, Amar D, Dasari S, Drugan JK, Fernandez FM, Radom-Aizik S, Schenk S, Snyder MP, Tracy RP, Vanderboom P, Trappe S, Walsh MJ; Molecular Transducers of Physical Activity Consortium. Molecular Transducers of Physical Activity Consortium (MoTrPAC): Mapping the Dynamic Responses to Exercise. Cell. 2020 Jun 25;181(7):1464-1474. doi: 10.1016/j.cell.2020.06.004.</citation>
+    <PMID>32589957</PMID>
+  </reference>
+  <reference>
+    <citation>Contrepois K, Wu S, Moneghetti KJ, Hornburg D, Ahadi S, Tsai MS, Metwally AA, Wei E, Lee-McMullen B, Quijada JV, Chen S, Christle JW, Ellenberger M, Balliu B, Taylor S, Durrant MG, Knowles DA, Choudhry H, Ashland M, Bahmani A, Enslen B, Amsallem M, Kobayashi Y, Avina M, Perelman D, Schussler-Fiorenza Rose SM, Zhou W, Ashley EA, Montgomery SB, Chaib H, Haddad F, Snyder MP. Molecular Choreography of Acute Exercise. Cell. 2020 May 28;181(5):1112-1130.e16. doi: 10.1016/j.cell.2020.04.043.</citation>
+    <PMID>32470399</PMID>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 13, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>January 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Stanford University</investigator_affiliation>
+    <investigator_full_name>Daniel Katz</investigator_full_name>
+    <investigator_title>Study Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Failure</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9846">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05688982</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UH3/UG3DE031920</org_study_id>
+    <nct_id>NCT05688982</nct_id>
+  </id_info>
+  <brief_title>MOLAR: Mapping Oral Health and Local Area Resources</brief_title>
+  <official_title>MOLAR: Mapping Oral Health and Local Area Resources</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Dental and Craniofacial Research (NIDCR)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to test the impact of a screening and linkage intervention&#xD;
+      for adverse social determinants of health (aSDoH) on oral health linkage to care for&#xD;
+      emergency department patients. Researchers will compare three groups: Patients in Arm A will&#xD;
+      receive paper handouts with general oral health and aSDoH resources. Patients in Arm B will&#xD;
+      receive paper handouts with geographically-proximate oral health and aSDoH resources.&#xD;
+      Patients in Arm C will receive geographically-proximate oral health and aSDoH resources plus&#xD;
+      active navigational assistance.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 15, 2023</start_date>
+  <completion_date type="Anticipated">April 15, 2027</completion_date>
+  <primary_completion_date type="Anticipated">October 15, 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Linkage to oral health care</measure>
+    <time_frame>Within 12 months of randomization</time_frame>
+    <description>binary, completion of a dental appointment or not</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to completion of dental appointment at the individual level</measure>
+    <time_frame>Within 12 months of randomization</time_frame>
+    <description>continuous, days from randomization to completion of dental appointment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Repeat visits for oral health problems</measure>
+    <time_frame>Within 12 months of randomization</time_frame>
+    <description>binary, any return visit or not</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of linkage to oral health care at the neighborhood level</measure>
+    <time_frame>Within 12 months of randomization</time_frame>
+    <description>continuous rate, ranges from 0-100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oral health quality of life</measure>
+    <time_frame>Within 12 months of randomization</time_frame>
+    <description>Total score on OHIP-14 (continuous, ranges from 0-56).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Return visits</measure>
+    <time_frame>Within 12 months of initial visit</time_frame>
+    <description>Number of return visits to the ED, outpatient visits, inpatient admissions, and ICU admissions (each continuous).</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">2049</enrollment>
+  <condition>Dental Diseases</condition>
+  <arm_group>
+    <arm_group_label>A--general information</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Patients in Arm A will receive paper handouts with general oral health and aSDoH resources</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B--geographic information</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Patients in Arm B will receive paper handouts with geographically-proximate oral health and aSDoH resources.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>C--geographic information and navigational assistance</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Patients in Arm C will receive geographically-proximate oral health and aSDoH resources plus active navigational assistance.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>General information provision</intervention_name>
+    <description>Patients will receive information with general oral health and aSDoH resources.</description>
+    <arm_group_label>A--general information</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Geographic information provision</intervention_name>
+    <description>Patients will receive information with geographically-proximate oral health and aSDoH resources based on a directory created by the study team.</description>
+    <arm_group_label>B--geographic information</arm_group_label>
+    <arm_group_label>C--geographic information and navigational assistance</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Navigational assistance</intervention_name>
+    <description>Patients will receive phone-based navigational assistance from the study navigator.</description>
+    <arm_group_label>C--geographic information and navigational assistance</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  To be eligible to participate in this study, an individual must meet all of the&#xD;
+             following criteria:&#xD;
+&#xD;
+               -  No evidence of lack of capacity to provide verbal informed consent (as documented&#xD;
+                  in the chart).&#xD;
+&#xD;
+               -  Willing to comply with all study procedures and be available by phone for the&#xD;
+                  duration of the study (as reported by the patient)&#xD;
+&#xD;
+               -  Unmet oral health needs as ascertained by the Hope Home (adult) or Gazzaz&#xD;
+                  (pediatric) questions&#xD;
+&#xD;
+               -  Adult (age ≥18 years old) ED patient or pediatric ED patient (&gt;1 year of age)&#xD;
+                  presenting with parent or legal guardian. Parent will be the primary study&#xD;
+                  participant but if age &gt; 7 years, the child will provide assent for medical&#xD;
+                  record review.&#xD;
+&#xD;
+               -  Ability to communicate in English or Spanish (as reported by the patient)&#xD;
+&#xD;
+               -  Emergency severity index (ESI) 2-5 (as documented in the electronic medical&#xD;
+                  record)&#xD;
+&#xD;
+               -  Residence within catchment area of 3-hospital region (defined by MGB home&#xD;
+                  hospital catchment area) at initial enrollment (as reported by the patient)&#xD;
+&#xD;
+               -  Working phone number&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients on involuntary holds (per electronic medical record review)&#xD;
+&#xD;
+          -  Presenting from carceral facilities (per electronic medical record review)&#xD;
+&#xD;
+          -  Presenting for acute mental health care under evaluation for Section 12 (per&#xD;
+             electronic medical record review)&#xD;
+&#xD;
+          -  Patients presenting for assistance with intimate partner violence (IPV) or care&#xD;
+             following sexual assault&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Year</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 9, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 9, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>January 9, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 9, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 18, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>Margaret Samuels-Kalow</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stomatognathic Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

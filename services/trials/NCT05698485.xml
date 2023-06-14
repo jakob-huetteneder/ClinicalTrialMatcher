@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9407">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05698485</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ARB_SKIN3</org_study_id>
+    <nct_id>NCT05698485</nct_id>
+  </id_info>
+  <brief_title>The Effects of a 3-Part Skin Care Regimen on Facial Wrinkles and Biophysical Attributes</brief_title>
+  <official_title>The Effects of a 3-Part Skin Care Regimen on Facial Wrinkles and Biophysical Attributes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Integrative Skin Science and Research</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Arbonne</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Integrative Skin Science and Research</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to analyze various cosmetic endpoints, subjective assessments,&#xD;
+      and skin parameters such as hydration, transepidermal water loss, fine lines, and wrinkles&#xD;
+      with the use of a 3-part skin care regimen.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 1, 2023</start_date>
+  <completion_date type="Anticipated">December 16, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 16, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Appearance of facial wrinkles</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Change in wrinkle severity measured by photographic analysis (BTBP 3D Camera System)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Skin hydration</measure>
+    <time_frame>1 week</time_frame>
+    <description>Change in skin hydration by SkinMoistureMeterSC measurement</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skin hydration</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Change in skin hydration by SkinMoistureMeterSC measurement</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skin hydration</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Change in skin hydration by SkinMoistureMeterSC measurement</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Transepidermal water loss</measure>
+    <time_frame>1 week</time_frame>
+    <description>Change in transepidermal water loss measurement by Vapometer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Transepidermal water loss</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Change in transepidermal water loss measurement by Vapometer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Transepidermal water loss</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Change in transepidermal water loss measurement by Vapometer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skin volume</measure>
+    <time_frame>1 week</time_frame>
+    <description>Change in skin volume/plumpness by photographic image analysis (BTBP 3D Camera System)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skin volume</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Change in skin volume/plumpness by photographic image analysis (BTBP 3D Camera System)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skin volume</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Change in skin volume/plumpness by photographic image analysis (BTBP 3D Camera System)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skin texture/roughness</measure>
+    <time_frame>1 week</time_frame>
+    <description>Change in the appearance of photographic analysis of texture/roughness with BTBP 3D Camera System</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skin texture/roughness</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Change in the appearance of photographic analysis of texture/roughness with BTBP 3D Camera System</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skin texture/roughness</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Change in the appearance of photographic analysis of texture/roughness with BTBP 3D Camera System</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-perception of skin parameters</measure>
+    <time_frame>1 week</time_frame>
+    <description>Survey based self-assessment of facial fine lines and wrinkles, skin smoothness, skin firmness</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-perception of skin parameters</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Survey based self-assessment of facial fine lines and wrinkles, skin smoothness, skin firmness</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-perception of skin parameters</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Survey based self-assessment of facial fine lines and wrinkles, skin smoothness, skin firmness</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tolerability of products</measure>
+    <time_frame>1 week</time_frame>
+    <description>Questionnaire based self-assessment about the tolerability of the topical skin products</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tolerability of products</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Questionnaire based self-assessment about the tolerability of the topical skin products</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tolerability of products</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Questionnaire based self-assessment about the tolerability of the topical skin products</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Appearance of facial wrinkles</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Change in wrinkle severity measured by photographic analysis (BTBP 3D Camera System)</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">36</enrollment>
+  <condition>Wrinkle</condition>
+  <arm_group>
+    <arm_group_label>3 Step Skin Care Regimen</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>3 different skin care products will be applied to the face</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Cleansing Balm</intervention_name>
+    <description>DermResults Cleansing Balm w/ Avocado Oil twice daily</description>
+    <arm_group_label>3 Step Skin Care Regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Facial Serum</intervention_name>
+    <description>DermResults Advanced Serum w/ Hyaluronic Acid twice daily</description>
+    <arm_group_label>3 Step Skin Care Regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Moisturizer</intervention_name>
+    <description>DermResults Advanced Moisturizer w/ Hyaluronic Acid twice daily</description>
+    <arm_group_label>3 Step Skin Care Regimen</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men and women between the ages of 35 years old and 65 years old.&#xD;
+&#xD;
+          -  Must have facial fine lines and wrinkles.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Individuals who are pregnant or breastfeeding.&#xD;
+&#xD;
+          -  Prisoners&#xD;
+&#xD;
+          -  Adults unable to consent&#xD;
+&#xD;
+          -  Individuals who have changed any of their hormonal based contraception within 1 months&#xD;
+             prior to joining the study.&#xD;
+&#xD;
+          -  Subjects using any topical retinoid, bakuchiol, hyaluronic acid or benzoyl peroxide&#xD;
+             containing topical product within 2 weeks of starting study or any subject unwilling&#xD;
+             to refrain from washout prior to enrollment.&#xD;
+&#xD;
+          -  Subjects with any cosmetic treatments in the past 6 months and who are unwilling to&#xD;
+             withhold facial cosmetic treatments during the study including botulinum toxin,&#xD;
+             injectable fillers, microdermabrasion, intense pulsed light (IPL), peels, laser&#xD;
+             treatments, acid treatments, tightening treatments, facial plastic surgery, or any&#xD;
+             other medical treatment administered by a physician or skin care professional which is&#xD;
+             designed to improve the appearance of facial skin.&#xD;
+&#xD;
+          -  Current tobacco smoker or a tobacco smoking history of greater than 10 pack-years&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>35 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jessica Maloh, ND</last_name>
+    <phone>9167502463</phone>
+    <email>jessica@integrativeskinresearch.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Integrative Skin Science and Research</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95815</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Raja Sivamani, M.D.</last_name>
+      <phone>916-524-1216</phone>
+      <email>research@integrativeskinresearch.com</email>
+    </contact>
+    <investigator>
+      <last_name>Raja Sivamani, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Waqas Burney, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 6, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 24, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>February 27, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 27, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 1, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

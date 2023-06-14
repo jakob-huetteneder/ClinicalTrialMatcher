@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9119">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05704894</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ERITROBLA1222</org_study_id>
+    <nct_id>NCT05704894</nct_id>
+  </id_info>
+  <brief_title>Asses the Impact of Early Starting Erythropoetin in the Reduction of Transfusions Blood in Childrens</brief_title>
+  <official_title>Phase III Study, Multi-center, Open, Randomized, to Assess the Impact of Early Starting Erythropoetin in the Reduction of Transfusions Blood and Improvement of Quality of Life and Fatigue in Children Under Chemotherapy Treatment.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Blau Farmaceutica S.A.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Blau Farmaceutica S.A.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Anemia is a frequent complication among cancer patients, both as a result of the malignancy&#xD;
+      of the disease and the aggressiveness of the treatment. Regardless of the degree of anemia,&#xD;
+      cancer patients produce less erythropoietin (EPO) and, consequently, cannot compensate for&#xD;
+      the deficit in the production of red blood cells, a situation that can worsen in presence of&#xD;
+      inflammation or infection. In the pediatric oncology population, studies vary in relation to&#xD;
+      anemia treatment protocols, indications for starting treatment and even there is no robust&#xD;
+      evidence that treatment with erythropoiesis stimulators results in increased hemoglobin&#xD;
+      levels, even in mild and moderate anemia, with improvement in quality of life scores and&#xD;
+      fatigue. Therefore, the proposed study aims to test the efficacy and safety of erythropoietin&#xD;
+      therapy in the treatment of cancer-related anemia in children and adolescents aged 2 to 17&#xD;
+      years. As a secondary objective, to evaluate the benefit of early initiation of EPO&#xD;
+      (Hb&lt;12g/dL) in children undergoing chemotherapy in improving quality of life and reducing&#xD;
+      fatigue.&#xD;
+&#xD;
+      For the evaluation of secondary outcomes, the Student's t test can be applied and analyzes of&#xD;
+      variance or covariance (ANOVA or ANCOVA) (with treatment group as a factor, and baseline&#xD;
+      hemoglobin level as a covariate) will be used to compare the outcomes of efficacy defined by&#xD;
+      variation (change) time point post versus baseline between 2 groups. Adjusted means (&quot;least&#xD;
+      square means&quot;) with 95% CI will be reported. When applicable, secondary outcomes defined by&#xD;
+      continuous variables evaluated over time (3 or more instants) will be analyzed using mixed&#xD;
+      model analysis of variance for repeated measures&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2023</start_date>
+  <completion_date type="Anticipated">November 2025</completion_date>
+  <primary_completion_date type="Anticipated">May 2025</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This study will be carried out in approximately 10 participating Brazilian centers.&#xD;
+This is a multicenter, open-label, randomized, national study. Randomization will be performed in a 1:1 ratio, in which 160 participants will be allocated to the intervention arm (Erythropoietin 150UI/Kg/week, divided into 3 doses, IV) and 160 participants to the local institution's standard care arm: Iron, Vitamin B12 and Folic Acid. Doses should be prescribed at the physician's discretion.&#xD;
+Every week (1 to 12), the study medication will be administered 3 times, according to the proposed treatment, for those allocated in the intervention group. All evaluations, procedures and notes must be recorded in a source document and in a CRF (case report form) The use of Iron, Vitamin B12 and folic acid will be allowed both in the intervention arm and in the control arm. Doses should be prescribed at the physician's discretion.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>hemoglobin levels</measure>
+    <time_frame>12 weeks (from baseline to the level at 12 weeks)</time_frame>
+    <description>Increase of at least 1g/dL in hemoglobin levels within 12 weeks. The main outcome will be described in absolute and relative numbers. 95% Confidence Intervals</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Need for red blood cell transfusion;</measure>
+    <time_frame>16 weeks (weekly assessment)</time_frame>
+    <description>Requirement of blood cell transfusion will be assessed as number of units received on a weekly basis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Best Quality of Life Scores;</measure>
+    <time_frame>16 weeks (weekly assessment)</time_frame>
+    <description>We will apply the POQOLS (Pediatric Oncology Quality of Life Scale) and the PedsQL TM Multidimensional Fatigue Scale, both validated for pediatric population and in Portuguese language. The POQOLS includes 21 items distributed in three dimensions, which include &quot;physical function and normal activities restriction&quot; (09 items), &quot;emotional problems&quot; (07 items), and &quot;response to active medical treatment&quot; (05 items). Each answer is given on an ordinal scale of 7 points ranging from &quot;never&quot; to &quot;very often&quot;. The resulting total score is given on a scale, and higher values mean lower quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Best Scores on the Fatigue Questionnaire;</measure>
+    <time_frame>16 weeks (weekly assessment)</time_frame>
+    <description>We will apply the POQOLS (Pediatric Oncology Quality of Life Scale) and the PedsQL TM Multidimensional Fatigue Scale, both validated for pediatric population and in Portuguese language. The PedsQL TM Multidimensional Fatigue Scale items are reverse-scored and linearly transformed to a 0-100 scale (0 = 100, 1 = 75, 2 = 50, 3 = 25, 4 = 0), so that higher PedsQL Multidimensional Fatigue Scale scores indicate fewer symptoms of fatigue.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Analysis of adverse events and side effects associated with medication.</measure>
+    <time_frame>16 weeks (weekly assessment)</time_frame>
+    <description>Adverse events will be monitored from the time the participant gives informed consent and up to 30 days after the last dose of study medication. Adverse events will be classified according to their severity and causality, being reported to the sponsor according to regulatory deadlines.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">320</enrollment>
+  <condition>Anemia</condition>
+  <condition>Neoplasms</condition>
+  <condition>Chemotherapeutic-Induced Anemia</condition>
+  <arm_group>
+    <arm_group_label>Intervention group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Administration of Erythropoietin 150UI/Kg/week divided into 3 doses, IV, for a period of 12 weeks, in patients with hemoglobin between &lt;12g/dL.&#xD;
+Every week (1 to 12), the study medication will be administered 3 times, according to the proposed treatment, for those allocated in the intervention group. All assessments, procedures and notes must be recorded in a source document and in a CRF.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>For the control group, the procedures will be performed according to the institution's standard treatment (Vitamin B12 and folic acid). The use of Iron, Vitamin B12 and folic acid will be allowed both in the intervention arm and in the control arm. Doses should be prescribed at the physician's discretion.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Erythropoietin</intervention_name>
+    <description>Administration of Erythropoietin 150UI/Kg/week divided into 3 doses, IV, for a period of 12 weeks, in patients with hemoglobin between &lt;12g/dL</description>
+    <arm_group_label>Intervention group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Children between 2-17 years old&#xD;
+&#xD;
+          -  Hemoglobin &lt;12g/dL&#xD;
+&#xD;
+          -  Solid tumors without bone metastasis&#xD;
+&#xD;
+          -  Being on current chemotherapy treatment&#xD;
+&#xD;
+          -  Adequate serum levels of iron, folic acid and Vitamin B12&#xD;
+&#xD;
+          -  Signature of the Free and Informed Consent Form by the person responsible and Term of&#xD;
+             Assent by the patient&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Refusal to sign the Free and Informed Consent Form and/or Term of assent&#xD;
+&#xD;
+          -  Estimated survival less than 12 weeks&#xD;
+&#xD;
+          -  Previous adverse reactions associated with EPO&#xD;
+&#xD;
+          -  Estar em uso de EPO e inibidores do fator de indução de hipóxia.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>2 Years</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Research</last_name>
+    <role>Study Director</role>
+    <affiliation>Blau Farmaceutica S.A.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Blau Farmacêutica</last_name>
+    <phone>114615-9400</phone>
+    <email>pesquisaclinica@blau.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Research Operations</last_name>
+  </overall_contact_backup>
+  <verification_date>December 2022</verification_date>
+  <study_first_submitted>December 8, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 27, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>January 27, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 27, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>children</keyword>
+  <keyword>anemia</keyword>
+  <keyword>chemotherapy treatment</keyword>
+  <keyword>quality of life</keyword>
+  <keyword>erythropoietin</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Anemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Epoetin Alfa</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

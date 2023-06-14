@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9781">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05690308</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ONZ-2022-0404</org_study_id>
+    <nct_id>NCT05690308</nct_id>
+  </id_info>
+  <brief_title>Visual Perturbation Training to Reduce Fall Risk in People With Parkinson's Disease</brief_title>
+  <acronym>Vesti-PD</acronym>
+  <official_title>A Novel Training Method to Reduce Fall Risk in People With Parkinson's Disease: The Role of the Balance Organ</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Ghent</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Ghent</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Falls during walking are common in people with Parkinson's Disease (PD). Fall risk can be&#xD;
+      attributed in part to the loss of automaticity in walking and an increased reliance on&#xD;
+      sensory cues, such as the input from the balance organ. In this project the investigators&#xD;
+      want to assess the effectiveness of rehabilitation training aiming to improve this vestibular&#xD;
+      input. The effects of a visual perturbation training in a virtual reality environment will be&#xD;
+      compared to conventional treadmill training.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Fifty participants (50-65 years) with idiopathic PD (Hoehn &amp; Yahr scale 2-3) will be randomly&#xD;
+      assigned to the intervention group receiving four weeks of VPT in a VR environment using the&#xD;
+      Gait Real-time Analysis Interactive Lab system (GRAIL) or a control group receiving four&#xD;
+      weeks of regular treadmill training. Primary outcome measures are spatio-temporal outcome&#xD;
+      parameters of gait and dynamic stability (gait speed, stride time/length, cadence,&#xD;
+      step-to-step variability, step width variability and trunk sway), and self-reported falls,&#xD;
+      and will be recorded at all testing phases (pre-test, after baseline, after intervention and&#xD;
+      after detraining). Secondary outcome measures will include assessments of central and&#xD;
+      peripheral vestibular function (Cervical and ocular Vestibular Evoked Myogenic Potentials)&#xD;
+      for correlation with the primary outcome measures. The secondary outcomes will be recorded at&#xD;
+      pre-testing and directly after the intervention phase.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 20, 2022</start_date>
+  <completion_date type="Anticipated">September 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">March 30, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized Controlled Trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>Participants will not be informed if they are allocated to the experimental intervention or the control 'sham' intervention.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline in gait speed after 6 weeks training</measure>
+    <time_frame>Week 1 to week 6 of training intervention</time_frame>
+    <description>Delta in average gait speed in m/s</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in cadence after 6 weeks training</measure>
+    <time_frame>Week 1 to week 6 of training intervention</time_frame>
+    <description>Delta in steps per minute</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in stride time after 6 weeks training</measure>
+    <time_frame>Week 1 to week 6 of training intervention</time_frame>
+    <description>Delta in average duration (+variability) of a single step in ms</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in step length after 6 weeks training</measure>
+    <time_frame>Week 1 to week 6 of training intervention</time_frame>
+    <description>Delta in average length (+variability) of a single step in cm</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in step width after 6 weeks training</measure>
+    <time_frame>Week 1 to week 6 of training intervention</time_frame>
+    <description>Delta in average width(+variability) of a single step in cm</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in trunk sway after 6 weeks training</measure>
+    <time_frame>Week 1 to week 6 of training intervention</time_frame>
+    <description>Delta in medio-lateral and anterior-posterior movement of the center of mass as determined using 3D motion capturing in cm</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Assessments of central and peripheral vestibular function</measure>
+    <time_frame>Pre-test 1 at start of the study</time_frame>
+    <description>Cervical and ocular vestibular evoked myogenic potentials</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessments of central and peripheral vestibular function</measure>
+    <time_frame>Post-test within 1 week after conclusion of the training intervention</time_frame>
+    <description>Cervical and ocular vestibular evoked myogenic potentials</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-reported falls</measure>
+    <time_frame>Monthly up to six months after last training</time_frame>
+    <description>Falls recorded in fall diary</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Assessment of fear of falling</measure>
+    <time_frame>Pre-test 2 at start of the study</time_frame>
+    <description>Fear of falling recorded using the Iconographical Falls Efficacy Scale</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Assessment of fear of falling</measure>
+    <time_frame>Post-test within 1 week after conclusion of the training intervention</time_frame>
+    <description>Fear of falling recorded using the Iconographical Falls Efficacy Scale</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Parkinson Disease</condition>
+  <condition>Vestibular Disorder</condition>
+  <condition>Gait</condition>
+  <condition>Falling</condition>
+  <arm_group>
+    <arm_group_label>Experimental visual perturbation treadmill training</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants assigned to the experimental intervention will receive 6 weeks, 2x per week of visual perturbation treadmill training using the GRAIL system. This will consist of maximum 30 minutes of walking on the treadmill while translations and rotations of the projected environment are applied.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control treadmill training</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Participants assigned to the control intervention will receive 6 weeks, 2x per week of treadmill only training. This will consist of maximum 30 minutes of walking on the treadmill without any visual perturbations.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Visual perturbation treadmill training</intervention_name>
+    <description>12 sessions of (max 30 minutes) walking at comfortable speed on an instrumented treadmill in a virtual reality environment (Gait Real-time Analysis Interactive Lab system, MOTEK) with projected visual perturbations.</description>
+    <arm_group_label>Experimental visual perturbation treadmill training</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Regular treadmill training</intervention_name>
+    <description>12 sessions of (max 30 minutes) walking at comfortable speed on an instrumented treadmill</description>
+    <arm_group_label>Control treadmill training</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Idiopathic Parkinson's disease&#xD;
+&#xD;
+          -  Aged between 50-65 years&#xD;
+&#xD;
+          -  Bilateral symptoms&#xD;
+&#xD;
+          -  Able to walk unassisted for 20 minutes (Hoehn &amp; Yahr stage II-III)&#xD;
+&#xD;
+          -  Stable medication dosage (if any)&#xD;
+&#xD;
+          -  No cognitive disablity&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Non-idiopathic Parkinson's disease&#xD;
+&#xD;
+          -  Strong variation in expressed symptoms&#xD;
+&#xD;
+          -  Inability to walk unassisted for 20 minutes&#xD;
+&#xD;
+          -  Underwent a medical procedure to treat Parkinson symptoms (e.g. duodopa pump, deep&#xD;
+             brain stimulator)&#xD;
+&#xD;
+          -  Cognitive disability (score &lt; 21 on the Montreal Cognitive Assessment)&#xD;
+&#xD;
+          -  Illness other than Parkinson's disease (flu, Covid-19) or disabilities that may affect&#xD;
+             gait or equilibrium&#xD;
+&#xD;
+          -  Clogged ear(s)&#xD;
+&#xD;
+          -  Regular fainting episodes&#xD;
+&#xD;
+          -  Weight over 120 kg&#xD;
+&#xD;
+          -  Participation in other clinical studies&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Patrick Santens, Prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UZ Gent</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Remco Baggen, PhD</last_name>
+    <phone>+32 9 332 46 57</phone>
+    <email>remco.baggen@ugent.be</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>UZ Gent</name>
+      <address>
+        <city>Ghent</city>
+        <state>East-Flanders</state>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Patrick Santens, PhD.</last_name>
+      <email>patrick.santens@ugent.be</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>September 1, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 9, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>January 9, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 9, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Virtual reality</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vestibular Diseases</mesh_term>
+    <mesh_term>Parkinson Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

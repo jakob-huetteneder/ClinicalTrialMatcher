@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9515">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05696275</url>
+  </required_header>
+  <id_info>
+    <org_study_id>N202208012</org_study_id>
+    <nct_id>NCT05696275</nct_id>
+  </id_info>
+  <brief_title>Using Combine Walking and Elastic Band to Decrease Fatigue</brief_title>
+  <official_title>Exercise-aided Caring System With Dual-mode Assessment Method Using ePRO and Wearables for Cancer-related Fatigue</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Taipei Medical University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Taipei Medical University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is expected to propose an industry-university cooperation research case for the&#xD;
+      next two years. When cancer patients use ePRO to record subjective fatigue, and smart watches&#xD;
+      with 4G communication record objective fatigue, they will be given according to the patient's&#xD;
+      current degree of mild, moderate and severe fatigue. Suffer from 'exercise or activity'&#xD;
+      advice and lead the implementation of appropriate exercise advice. This study is expected to&#xD;
+      design aerobic + anaerobic exercise suitable for mild or moderate patients, and use the&#xD;
+      sensor of the smart watch to monitor the effect of exercise and fatigue. To sum up, the&#xD;
+      first-year plan is expected to use the established ePRO electronic records, combined with the&#xD;
+      LINE communication system, to integrate into a &quot;cancer-related fatigue electronic&#xD;
+      registration and care system&quot;; the second-year plan will integrate objective fatigue&#xD;
+      classifiers, Establish the exercise care option in the fatigue care system, and use the smart&#xD;
+      watch to establish a technology record function of the exercise process to help track the&#xD;
+      fatigue level of cancer patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 16, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>cancer fatigue--BFI</measure>
+    <time_frame>Change from Baseline post exercise 5 min</time_frame>
+    <description>severity of fatigue level; measurement tool: Brief Fatigue Index</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>cancer fatigue--BFI</measure>
+    <time_frame>Change from Baseline at 1 month.</time_frame>
+    <description>severity of fatigue level; measurement tool: Brief Fatigue Index</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Physical Activity assessment--IPAQ</measure>
+    <time_frame>Change from Baseline post exercise 5 min</time_frame>
+    <description>International Physical Activity Questionnaire (IPAQ), the questionnaire consists of seven questions regarding types of physical activity that constitute elements of everyday life. The questions refer to physical activity in the last seven days and concern the time spent sitting and walking as well as the time devoted to vigorous and moderate physical activity. Activities done for at least 10 min at a time are taken into account. This instrument is used to assess physical activity levels-according to the IPAQ scoring protocol, three levels are distinguished, i.e., low, moderate and high.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical Activity assessment--IPAQ</measure>
+    <time_frame>Change from Baseline at 1 month.</time_frame>
+    <description>International Physical Activity Questionnaire (IPAQ), the questionnaire consists of seven questions regarding types of physical activity that constitute elements of everyday life. The questions refer to physical activity in the last seven days and concern the time spent sitting and walking as well as the time devoted to vigorous and moderate physical activity. Activities done for at least 10 min at a time are taken into account. This instrument is used to assess physical activity levels-according to the IPAQ scoring protocol, three levels are distinguished, i.e., low, moderate and high.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chinese version of the Edmonton Symptom Assessment System，C-ESAS</measure>
+    <time_frame>Change from Baseline post exercise 5 min</time_frame>
+    <description>The ESAS includes 11 symptoms: pain, tiredness, nausea, depression, anxiety, drowsiness, appetite, sleep, well-being, shortness of breath, and other. It uses a 0-10 numerical scale: 0 shows the absence of a symptom, and 10 shows the worst experience of the symptom.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chinese version of the Edmonton Symptom Assessment System，C-ESAS</measure>
+    <time_frame>Change from Baseline at 1 month.</time_frame>
+    <description>The ESAS includes 11 symptoms: pain, tiredness, nausea, depression, anxiety, drowsiness, appetite, sleep, well-being, shortness of breath, and other. It uses a 0-10 numerical scale: 0 shows the absence of a symptom, and 10 shows the worst experience of the symptom.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sleep quality--PSQI</measure>
+    <time_frame>Change from Baseline post exercise 5 min</time_frame>
+    <description>Pittsburgh Sleep Quality Index (PSQI) scores, is used to assess the quality of sleep of patients - with scores ranging from 0 to 21 - with lower scores indicating better sleep quality.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sleep quality--PSQI</measure>
+    <time_frame>Change from Baseline at 1 month.</time_frame>
+    <description>Pittsburgh Sleep Quality Index (PSQI) scores, is used to assess the quality of sleep of patients - with scores ranging from 0 to 21 - with lower scores indicating better sleep quality.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Steps count</measure>
+    <time_frame>Change from Baseline post exercise 5 min</time_frame>
+    <description>more steps means good for ability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Steps count</measure>
+    <time_frame>Change from Baseline at 1 month.</time_frame>
+    <description>more steps means good for ability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>walking distance</measure>
+    <time_frame>Change from Baseline post exercise 5 min</time_frame>
+    <description>Longer distances mean better movement</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>walking distance</measure>
+    <time_frame>Change from Baseline at 1 month.</time_frame>
+    <description>Longer distances mean better movement</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>strength ability</measure>
+    <time_frame>Change from Baseline post exercise 5 min</time_frame>
+    <description>Muscle strength is measured with a muscle strength meter, and an increase in value means an increase in muscle strength</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>strength ability</measure>
+    <time_frame>Change from Baseline at 1 month.</time_frame>
+    <description>Muscle strength is measured with a muscle strength meter, and an increase in value means an increase in muscle strength</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Smart bracelet_Heart rate variability (HRV)</measure>
+    <time_frame>Continue wear bracelet five days to record HRV data.</time_frame>
+    <description>HRV is the physiological phenomenon of the variation in the time interval between consecutive heartbeats in milliseconds. A normal, healthy heart does not tick evenly like a metronome, but instead, when looking at the milliseconds between heartbeats, there is constant variation.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Cancer Related Fatigue</condition>
+  <arm_group>
+    <arm_group_label>exercise</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>combine walking and elastic band exercise</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>usual care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>as usual care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>exercise</intervention_name>
+    <description>20-30 minutes of walking and elastic band exercise per day</description>
+    <arm_group_label>exercise</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. age 20 years old;&#xD;
+&#xD;
+          2. diagnosis of cancer;&#xD;
+&#xD;
+          3. can continuous wearing bracelet for 14 days or more&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Unclear and unable to answer the questionnaire；&#xD;
+&#xD;
+          2. Not able to walk；&#xD;
+&#xD;
+          3. platelet &lt;50,000/mm3；&#xD;
+&#xD;
+          4. ANC 500/cumm&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Tsai-Wei Huang, PhD</last_name>
+    <phone>+886-2-27361661</phone>
+    <phone_ext>6350</phone_ext>
+    <email>tsaiwei@tmu.edu.tw</email>
+  </overall_contact>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>November 16, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>January 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Taipei Medical University</investigator_affiliation>
+    <investigator_full_name>Tsai-Wei Huang</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fatigue</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

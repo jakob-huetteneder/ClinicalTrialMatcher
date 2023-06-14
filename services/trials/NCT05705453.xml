@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9089">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05705453</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB-FY2022-365</org_study_id>
+    <nct_id>NCT05705453</nct_id>
+  </id_info>
+  <brief_title>Epidural Stimulation After Neurologic Damage: Long-Term Outcomes</brief_title>
+  <acronym>LTO</acronym>
+  <official_title>Epidural Stimulation After Neurologic Damage: Long-Term Outcomes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Minnesota</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Minnesota</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will evaluate the long-term effect of chronic spinal cord stimulation to restore&#xD;
+      volitional movement for patients with chronic spinal cord injuries.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Participants will be enrolled in this study for the duration of 10 years. They will need to&#xD;
+      come to Minneapolis twice a year for the Brain Motor Control Assessment and will be given&#xD;
+      different settings within their Spinal Cord Stimulator (SCS) programing.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 1, 2023</start_date>
+  <completion_date type="Anticipated">April 1, 2034</completion_date>
+  <primary_completion_date type="Anticipated">April 1, 2033</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Volitional electromyography (EMG) power</measure>
+    <time_frame>10 years</time_frame>
+    <description>The measurement of volitional change using EMG during the Brain Motor Control assessment between nonstimulation baseline and stimulation</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Prediction of power preferences</measure>
+    <time_frame>10 years</time_frame>
+    <description>Prediction of power of preference models built based on evaluations of stimulation settings.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>SCI - Spinal Cord Injury</condition>
+  <arm_group>
+    <arm_group_label>Volitional EMG power</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Assessing the change in volitional EMG power during the Brain Motor Control Assement (BMCA) between nonstimulation baseline and stimulation.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Epidural Spinal Cord Stimulation</intervention_name>
+    <description>Stimulation of the spinal cord from the epidural space.</description>
+    <arm_group_label>Volitional EMG power</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  22 years of age or older&#xD;
+&#xD;
+          -  Able to undergo the informed consent process&#xD;
+&#xD;
+          -  Stable spinal cord injury&#xD;
+&#xD;
+          -  International Standards for Neurological Classification of Spinal Cord Injury&#xD;
+             (ISNCSCI) neurologic level of injury below C5&#xD;
+&#xD;
+          -  No ventilator dependency within the last year&#xD;
+&#xD;
+          -  American Spinal Injury Association (AISA) imparement scale&quot;A&quot; or &quot;B&quot; in the absence of&#xD;
+             spinal cord stimulation&#xD;
+&#xD;
+          -  Medically stable in the judgment of the Principal investigator&#xD;
+&#xD;
+          -  Greater than 1 year since initial injury and at least 6 months from any required&#xD;
+             spinal instrumentation and 2 months from spinal cord stimulator surgery&#xD;
+&#xD;
+          -  Has an existing and functional implanted spinal cord stimulator system that is FDA&#xD;
+             approved and can be corroborated by hospital documentation&#xD;
+&#xD;
+          -  Spinal imaging of the stimulator system&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Current and anticipated need for opioid pain medications or pain that would prevent&#xD;
+             full participation in the rehabilitation program in the judgment of the principal&#xD;
+             investigator&#xD;
+&#xD;
+          -  Use of botulinum toxin (Botox) injections in the previous six months&#xD;
+&#xD;
+          -  Clinically significant mental illness in the judgment of the principal investigator&#xD;
+&#xD;
+          -  Other conditions or medications that would make the subject unable to participate in&#xD;
+             testing/rehabilitation in the judgment of the principal investigator&#xD;
+&#xD;
+          -  Nonfunctional spinal cord stimulator or near end-of-life, determined by the PI&#xD;
+&#xD;
+          -  Current Pregnancy&#xD;
+&#xD;
+          -  Current pain relief from the spinal cord stimulator if the indication for implantation&#xD;
+             was for management of chronic pain.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>22 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David Darrow, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Minnesota</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Study Coordinator</last_name>
+    <phone>612-873-9113</phone>
+    <email>estand@umn.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Study Coordinator</last_name>
+    <phone>612-873-9113</phone>
+    <email>rnl@umn.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hennepin County Medical Center</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55415</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tara Nash, FNP</last_name>
+      <phone>612-873-9113</phone>
+      <email>estand@umn.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Study Coordinator</last_name>
+      <email>rnl@umn.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://estand.org</url>
+    <description>Clinical Trial Website</description>
+  </link>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>January 4, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>April 6, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 7, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>spinal cord stimulation</keyword>
+  <keyword>epidural stimulation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Spinal Cord Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

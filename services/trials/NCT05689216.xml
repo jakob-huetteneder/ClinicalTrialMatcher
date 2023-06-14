@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9835">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05689216</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2023-0027</org_study_id>
+    <nct_id>NCT05689216</nct_id>
+  </id_info>
+  <brief_title>Timed Awake Prone and Repositioning for Patients With Covid-19-induced Hypoxic Respiratory Failure.</brief_title>
+  <official_title>Efficacy of Timed Awake Prone and Repositioning in Patients With Covid-19-induced Hypoxic Respiratory Failure: a Multi-center, Randomized Controlled Trial.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Second Affiliated Hospital, School of Medicine, Zhejiang University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Second Affiliated Hospital, School of Medicine, Zhejiang University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Awake prone positioning has been reported to improve oxygenation for patients with COVID-19.&#xD;
+      Awake timed and repositioning is a novel method to improve patients' compliance and prolong&#xD;
+      the prone time. This study aims to explore the impact of timed prone and repositioning on the&#xD;
+      intubation rate and prognosis of COVID-19 patients with hypoxic respiratory failure.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients with COVID-19 may develop severe illness characterized by progressive hypoxic&#xD;
+      respiratory failure, resulting in the need for invasive mechanical ventilation. Reducing the&#xD;
+      rate of endotracheal intubation in patients with hypoxic respiratory failure can be&#xD;
+      beneficial to the prognosis, economize iatrical resources and reduce sanitary investment.&#xD;
+      Some studies have shown that prone positioning can improve oxygenation to some extent in&#xD;
+      patients receiving invasive mechanical ventilation due to severe ARDS.&#xD;
+&#xD;
+      Whether awake prone positioning can reduce endotracheal intubation and mortality in COVID-19&#xD;
+      patients with hypoxic respiratory failure is still controversial. A meta-analysis found that&#xD;
+      the awake prone positioning was safe and feasible to reduce the risk of intubation or death.&#xD;
+      However, the multicenter randomized controlled trial (RCT) conducted by Alhazzani et al&#xD;
+      pointed out that the awake prone positioning group did not significantly reduce the rate of&#xD;
+      endotracheal intubation when compared with the standard of care.&#xD;
+&#xD;
+      Some researchers thought the time of prone positioning is an important factor for the&#xD;
+      different results. In previous studies, the median duration of prone positioning was only&#xD;
+      4.8-5 hours per day but some guidelines recommend the duration should be more than 8 hours.&#xD;
+      Therefore, increasing patient adherence in the awake prone positioning and extending prone&#xD;
+      positioning time are of great importance.&#xD;
+&#xD;
+      Awake timed prone and repositioning is a novel method proposed in recent years, which can&#xD;
+      improve patients' compliance and prolong the time of treatment. This study intends to ask&#xD;
+      whether awake timed prone and repositioning could impact the intubation rate and prognosis of&#xD;
+      unincubated patients with hypoxic respiratory failure induced by COVID-19.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 18, 2023</start_date>
+  <completion_date type="Anticipated">February 18, 2024</completion_date>
+  <primary_completion_date type="Anticipated">February 18, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Endotracheal Intubation rate</measure>
+    <time_frame>Day 30</time_frame>
+    <description>The incidence of endotracheal Intubation within 30 days of study enrollment</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Day 30</time_frame>
+    <description>All-cause death within 30 days of study enrollment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days of non-invasive ventilation</measure>
+    <time_frame>Day 30</time_frame>
+    <description>Number of days alive and free of mechanical ventilation within 30 days of study enrollment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days alive and outside the ICU</measure>
+    <time_frame>Day 30</time_frame>
+    <description>Number of days alive and outside the ICU within 30 days of study enrollment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical events</measure>
+    <time_frame>Day 30</time_frame>
+    <description>Clinical events include time to treatment failure( treatment failure defined as intubation or death); time to intubation; time to death; duration of invasive mechanical ventilation in intubated patients surviving to day 30; mortality in invasively mechanically ventilated patients; and physiological response to awake prone positioning, including the ratio of SpO2:FiO2 to respiratory rate, known as the ROX index.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">286</enrollment>
+  <condition>Corona Virus Infection</condition>
+  <condition>Hypoxic Respiratory Failure</condition>
+  <arm_group>
+    <arm_group_label>Awake timed prone and repositioning group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients' cumulative prone and repositioning time is encouraged to reach 8-10 hours per day for 4 days following a timed prone and repositioning strategy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard care group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients can change their positions freely according to their own needs. Health providers do not take the initiative to give guidance on prone and repositioning.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Awake timed prone and repositioning</intervention_name>
+    <description>Patients were instructed to adopt a timed prone and repositioning strategy with 4 sessions for four consecutive days.&#xD;
+Session 1, lying on the belly; Session 2, lying on the right side; Session 3, sitting up; Session 4, lying on the left side; then back to session 1 (30 minutes to two hours for each session). The daily duration of timed prone and repositioning is strongly recommended for 8-10 hours.</description>
+    <arm_group_label>Awake timed prone and repositioning group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults ≥ 18 years of age&#xD;
+&#xD;
+          -  Awake patients without endotracheal intubation&#xD;
+&#xD;
+          -  Suspected or confirmed infection of COVID-19&#xD;
+&#xD;
+          -  Hypoxemia requiring oxygen supplementation ≥ 0.4 FiO2 or ≥ 5L/min via nasal cannula&#xD;
+&#xD;
+          -  Bilateral or unilateral chest infiltrates on x-ray or HRCT&#xD;
+&#xD;
+          -  Admitted to the ICU or an acute care unit where hemodynamic and respiratory&#xD;
+&#xD;
+          -  Willingness to comply with the protocol and provide written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Risk of airway obstruction or even asphyxia&#xD;
+&#xD;
+          -  Need for emergent intubation after admission&#xD;
+&#xD;
+          -  Respiratory failure caused by cardiogenic pulmonary edema&#xD;
+&#xD;
+          -  Unable to implement timed prone and repositioning due to any cause&#xD;
+&#xD;
+          -  Injury or wound on the ventral body surface affecting the prone position&#xD;
+&#xD;
+          -  Unstable fracture of cervical vertebra and spine&#xD;
+&#xD;
+          -  Glaucoma or other sharp increases in intraocular pressure&#xD;
+&#xD;
+          -  Intracranial hypertension caused by traumatic brain injury etc.&#xD;
+&#xD;
+          -  Significantly high risk of pulmonary embolism&#xD;
+&#xD;
+          -  Acute hemorrhagic disease&#xD;
+&#xD;
+          -  Respiratory rate &gt;40 breaths/min, with significant dyspnea&#xD;
+&#xD;
+          -  Transcutaneous oxygen saturation can not be continuously monitored&#xD;
+&#xD;
+          -  Hemodynamic instability requiring vasoactive drugs (systolic blood pressure &lt;90 mmHg&#xD;
+             or mean arterial pressure &lt;65 mmHg despite adequate volume resuscitation)&#xD;
+&#xD;
+          -  Awareness disorder or inability to accept instructions, communication barrier with the&#xD;
+             nursing team, inability to use language or pager to call for help&#xD;
+&#xD;
+          -  Difficulty or limitation in autonomous movement, inability to adjust the position&#xD;
+             without assistance from others&#xD;
+&#xD;
+          -  Body mass index &gt; 37 kg/m2&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Min Yan, M.D.</last_name>
+    <role>Study Chair</role>
+    <affiliation>Second Affiliated Hospital, School of Medicine, Zhejiang University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yuanyuan Yao, M.D.</last_name>
+    <phone>+86-18058783258</phone>
+    <email>yuanyuan58@126.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Changxing People's Hospital</name>
+      <address>
+        <city>Changxing</city>
+        <state>Zhejiang</state>
+        <zip>313199</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>jingfen Jin</last_name>
+      <phone>+86-13757118239</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Second Affiliated Hospital Zhejiang University School of Medicine</name>
+      <address>
+        <city>Hangzhou</city>
+        <state>Zhejiang</state>
+        <zip>310000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Min Yan, Doctor</last_name>
+      <email>zryanmin@zju.edu.cn</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Lishui Municipal Central Hospital</name>
+      <address>
+        <city>Lishui</city>
+        <state>Zhejiang</state>
+        <zip>323020</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Meifen Chen, Doctor</last_name>
+      <phone>+86-13567618608</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <link>
+    <url>https://ics.ac.uk/resource/guidance-for-conscious-proning.html</url>
+    <description>https://emcrit.org/wp-content/uploads/2020/04/2020-04-12-Guidance-for-conscious-proning.pdf</description>
+  </link>
+  <reference>
+    <citation>Fralick M, Colacci M, Munshi L, Venus K, Fidler L, Hussein H, Britto K, Fowler R, da Costa BR, Dhalla I, Dunbar-Yaffe R, Branfield Day L, MacMillan TE, Zipursky J, Carpenter T, Tang T, Cooke A, Hensel R, Bregger M, Gordon A, Worndl E, Go S, Mandelzweig K, Castellucci LA, Tamming D, Razak F, Verma AA; COVID Prone Study Investigators. Prone positioning of patients with moderate hypoxaemia due to covid-19: multicentre pragmatic randomised trial (COVID-PRONE). BMJ. 2022 Mar 23;376:e068585. doi: 10.1136/bmj-2021-068585.</citation>
+    <PMID>35321918</PMID>
+  </reference>
+  <reference>
+    <citation>Sun Q, Qiu H, Huang M, Yang Y. Lower mortality of COVID-19 by early recognition and intervention: experience from Jiangsu Province. Ann Intensive Care. 2020 Mar 18;10(1):33. doi: 10.1186/s13613-020-00650-2. No abstract available.</citation>
+    <PMID>32189136</PMID>
+  </reference>
+  <reference>
+    <citation>Wright AD, Flynn M. Using the prone position for ventilated patients with respiratory failure: a review. Nurs Crit Care. 2011 Jan-Feb;16(1):19-27. doi: 10.1111/j.1478-5153.2010.00425.x.</citation>
+    <PMID>21199551</PMID>
+  </reference>
+  <reference>
+    <citation>Murray TA, Patterson LA. Prone positioning of trauma patients with acute respiratory distress syndrome and open abdominal incisions. Crit Care Nurse. 2002 Jun;22(3):52-6. No abstract available.</citation>
+    <PMID>12092293</PMID>
+  </reference>
+  <reference>
+    <citation>Langer T, Brioni M, Guzzardella A, Carlesso E, Cabrini L, Castelli G, Dalla Corte F, De Robertis E, Favarato M, Forastieri A, Forlini C, Girardis M, Grieco DL, Mirabella L, Noseda V, Previtali P, Protti A, Rona R, Tardini F, Tonetti T, Zannoni F, Antonelli M, Foti G, Ranieri M, Pesenti A, Fumagalli R, Grasselli G; PRONA-COVID Group. Prone position in intubated, mechanically ventilated patients with COVID-19: a multi-centric study of more than 1000 patients. Crit Care. 2021 Apr 6;25(1):128. doi: 10.1186/s13054-021-03552-2.</citation>
+    <PMID>33823862</PMID>
+  </reference>
+  <reference>
+    <citation>Tasaka S, Ohshimo S, Takeuchi M, Yasuda H, Ichikado K, Tsushima K, Egi M, Hashimoto S, Shime N, Saito O, Matsumoto S, Nango E, Okada Y, Hayashi K, Sakuraya M, Nakajima M, Okamori S, Miura S, Fukuda T, Ishihara T, Kamo T, Yatabe T, Norisue Y, Aoki Y, Iizuka Y, Kondo Y, Narita C, Kawakami D, Okano H, Takeshita J, Anan K, Okazaki SR, Taito S, Hayashi T, Mayumi T, Terayama T, Kubota Y, Abe Y, Iwasaki Y, Kishihara Y, Kataoka J, Nishimura T, Yonekura H, Ando K, Yoshida T, Masuyama T, Sanui M; ARDS Clinical Practice Guideline 2021 committee from the Japanese Society of Intensive Care Medicine, the Japanese Respiratory Society, and the Japanese Society of Respiratory Care Medicine. ARDS Clinical Practice Guideline 2021. J Intensive Care. 2022 Jul 8;10(1):32. doi: 10.1186/s40560-022-00615-6.</citation>
+    <PMID>35799288</PMID>
+  </reference>
+  <reference>
+    <citation>Serpa Neto A, Checkley W, Sivakorn C, Hashmi M, Papali A, Schultz MJ; COVID-LMIC Task Force and the Mahidol-Oxford Research Unit (MORU). Pragmatic Recommendations for the Management of Acute Respiratory Failure and Mechanical Ventilation in Patients with COVID-19 in Low- and Middle-Income Countries. Am J Trop Med Hyg. 2021 Jan 13;104(3_Suppl):60-71. doi: 10.4269/ajtmh.20-0796.</citation>
+    <PMID>33534774</PMID>
+  </reference>
+  <reference>
+    <citation>Ehrmann S, Li J, Ibarra-Estrada M, Perez Y, Pavlov I, McNicholas B, Roca O, Mirza S, Vines D, Garcia-Salcido R, Aguirre-Avalos G, Trump MW, Nay MA, Dellamonica J, Nseir S, Mogri I, Cosgrave D, Jayaraman D, Masclans JR, Laffey JG, Tavernier E; Awake Prone Positioning Meta-Trial Group. Awake prone positioning for COVID-19 acute hypoxaemic respiratory failure: a randomised, controlled, multinational, open-label meta-trial. Lancet Respir Med. 2021 Dec;9(12):1387-1395. doi: 10.1016/S2213-2600(21)00356-8. Epub 2021 Aug 20.</citation>
+    <PMID>34425070</PMID>
+  </reference>
+  <reference>
+    <citation>Alhazzani W, Parhar KKS, Weatherald J, Al Duhailib Z, Alshahrani M, Al-Fares A, Buabbas S, Cherian SV, Munshi L, Fan E, Al-Hameed F, Chalabi J, Rahmatullah AA, Duan E, Tsang JLY, Lewis K, Lauzier F, Centofanti J, Rochwerg B, Culgin S, Nelson K, Abdukahil SA, Fiest KM, Stelfox HT, Tlayjeh H, Meade MO, Perri D, Solverson K, Niven DJ, Lim R, Moller MH, Belley-Cote E, Thabane L, Tamim H, Cook DJ, Arabi YM; COVI-PRONE Trial Investigators and the Saudi Critical Care Trials Group. Effect of Awake Prone Positioning on Endotracheal Intubation in Patients With COVID-19 and Acute Respiratory Failure: A Randomized Clinical Trial. JAMA. 2022 Jun 7;327(21):2104-2113. doi: 10.1001/jama.2022.7993.</citation>
+    <PMID>35569448</PMID>
+  </reference>
+  <reference>
+    <citation>Li J, Luo J, Pavlov I, Perez Y, Tan W, Roca O, Tavernier E, Kharat A, McNicholas B, Ibarra-Estrada M, Vines DL, Bosch NA, Rampon G, Simpson SQ, Walkey AJ, Fralick M, Verma A, Razak F, Harris T, Laffey JG, Guerin C, Ehrmann S; Awake Prone Positioning Meta-Analysis Group. Awake prone positioning for non-intubated patients with COVID-19-related acute hypoxaemic respiratory failure: a systematic review and meta-analysis. Lancet Respir Med. 2022 Jun;10(6):573-583. doi: 10.1016/S2213-2600(22)00043-1. Epub 2022 Mar 16.</citation>
+    <PMID>35305308</PMID>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 14, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 14, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>January 14, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 14, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Second Affiliated Hospital, School of Medicine, Zhejiang University</investigator_affiliation>
+    <investigator_full_name>Min Yan</investigator_full_name>
+    <investigator_title>Chief of Department of Anesthesia and Surgery</investigator_title>
+  </responsible_party>
+  <keyword>Awake prone positioning</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+    <mesh_term>Hypoxia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

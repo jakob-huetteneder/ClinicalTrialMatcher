@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9259">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05701839</url>
+  </required_header>
+  <id_info>
+    <org_study_id>XJTU1AF2022LSK-402</org_study_id>
+    <nct_id>NCT05701839</nct_id>
+  </id_info>
+  <brief_title>Airway Management During Deep Sedation in Hysteroscopy</brief_title>
+  <official_title>The Effect of Two Different Airway Management on Oxygenation During Deep Sedation in Patients Undergoing Hysteroscopy, Based on Oxygen Reserve Index Monitoring</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>First Affiliated Hospital Xi'an Jiaotong University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>First Affiliated Hospital Xi'an Jiaotong University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Hysteroscopy is used to examine and treat uterine diseases. Because of severe pain due to&#xD;
+      uterine distention and cervical dilatation, deep sedation usually be provided during this&#xD;
+      procedure. Respiratory depression and upper airway obstruction are main respiratory&#xD;
+      complications during deep sedation. Face mask and nasopharyngeal airway are main airway&#xD;
+      management during deep sedation. Oxygen reserve index is a non-invasive parameter, it&#xD;
+      reflects the moderate hyperoxia statues. In this study, investigators compare the effect of&#xD;
+      face mask and nasopharyngeal airway management on oxygenation during deep sedation in&#xD;
+      participants undergoing hysteroscopy. Investigators also investigate whether oxygen reserve&#xD;
+      index monitoring reduce the incidence of hypoxemia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Randomization:&#xD;
+&#xD;
+      Participants are divided into four groups: face mask airway management without oxygen reserve&#xD;
+      index (ORi) monitoring group (FM-ORi group), face mask airway management with ORi monitoring&#xD;
+      group (FM+ORi group), nasopharyngeal tube airway management without ORi monitoring group&#xD;
+      (NT-ORi group), nasopharyngeal tube with ORi monitoring group (NT+ORi group).&#xD;
+&#xD;
+      Deep sedation process:&#xD;
+&#xD;
+      Participants fasting solid and liquid for 8 and 4 hours respectively. Electrocardiogram&#xD;
+      (ECG), oxygen saturation (SpO2), blood pressure (BP) and bispectral index (BIS) were&#xD;
+      monitored. Sufentanil 5 μg injected for 30 seconds, followed by target-control infusion of&#xD;
+      propofol (plasma target concentration 3-6 ug/ml) to maintain BIS between 50-70. Criteria for&#xD;
+      deep sedation: participants have purposeful response after repeated and/or painful&#xD;
+      stimulation, there is minimal effect on hemodynamic stability.&#xD;
+&#xD;
+      Airway management:&#xD;
+&#xD;
+      In FM-ORi and FM+ORi group, participants spontaneous inhaled oxygen through face mask at a&#xD;
+      flow rate of 5 L/min. in FM-ORi group, assist ventilation through face mask was performed&#xD;
+      when SpO2 dropped to 95%, it lasted for another 10 seconds when SpO2 restored to 100%. In&#xD;
+      FM+ORi group, assist ventilation through face mask was performed when ORi dropped to 0.1, it&#xD;
+      lasted for another 10 seconds when ORi restored to 0.1.&#xD;
+&#xD;
+      In NT-ORi and NT+ORi group, participants spontaneous inhaled oxygen through face mask before&#xD;
+      induction and through nasopharyngeal tube after consciousness disappear at a flow rate of 5&#xD;
+      L/min. in NT-ORi group, assist ventilation through face mask was performed when SpO2 dropped&#xD;
+      to 95%, it lasted for another 10 seconds when SpO2 restored to 100%. In NT+ORi group, assist&#xD;
+      ventilation through face mask was performed when ORi dropped to 0.1, it lasted for another 10&#xD;
+      seconds when ORI restored to 0.1.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2023</start_date>
+  <completion_date type="Anticipated">November 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The incidence of low oxygen saturation</measure>
+    <time_frame>Procedure (from anesthesia induction to anesthesia recovery)</time_frame>
+    <description>oxygen saturation less than 95% last for at least 10 seconds</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Total duration of assist ventilation</measure>
+    <time_frame>Procedure (from anesthesia induction to anesthesia recovery)</time_frame>
+    <description>cumulative assist ventilation time during sedation in one patient</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The lowest oxygen saturation</measure>
+    <time_frame>Procedure (from anesthesia induction to anesthesia recovery)</time_frame>
+    <description>the lowest oxygen saturation during sedation</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Deep Sedation</condition>
+  <arm_group>
+    <arm_group_label>face mask airway management without oxygen reserve index monitoring</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants inhale oxygen through face mask at a flow rate of 5 L/min and will be monitored with oxygen saturation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>face mask airway management with oxygen reserve index monitoring</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants inhale oxygen through face mask at a flow rate of 5 L/min and will be monitored with oxygen reserve index.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>nasopharyngeal tube airway management without oxygen reserve index monitoring</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants inhale oxygen through face mask before induction and through nasopharyngeal tube after consciousness disappear at a flow rate of 5 L/min and will be monitored with oxygen saturation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>nasopharyngeal tube airway management with oxygen reserve index monitoring</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants inhale oxygen through face mask before induction and through nasopharyngeal tube after consciousness disappear at a flow rate of 5 L/min and will be monitored with oxygen reserve index.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>face mask ventilation</intervention_name>
+    <description>In participants with face mask ventilation, oxygen inhaled through face mask at a flow rate of 5 L/min.</description>
+    <arm_group_label>face mask airway management with oxygen reserve index monitoring</arm_group_label>
+    <arm_group_label>face mask airway management without oxygen reserve index monitoring</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>nasopharyngeal tube ventilation</intervention_name>
+    <description>In participants with nasopharyngeal tube ventilation, oxygen inhaled through face mask before induction and through nasopharyngeal tube after consciousness disappear at a flow rate of 5 L/min.</description>
+    <arm_group_label>nasopharyngeal tube airway management with oxygen reserve index monitoring</arm_group_label>
+    <arm_group_label>nasopharyngeal tube airway management without oxygen reserve index monitoring</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>oxygen saturation monitoring</intervention_name>
+    <description>In participants with oxygen saturation monitoring, assist ventilation through face mask will be performed when oxygen saturation drops to 95%, it lasts for another 10 seconds when oxygen saturation restores to 100%.</description>
+    <arm_group_label>face mask airway management without oxygen reserve index monitoring</arm_group_label>
+    <arm_group_label>nasopharyngeal tube airway management without oxygen reserve index monitoring</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>oxygen reserve index monitoring</intervention_name>
+    <description>In participants with oxygen reserve index monitoring, assist ventilation through face mask will be performed when oxygen reserve index drops to 0.1, it lasts for another 10 seconds when oxygen reserve index restores to 0.1.</description>
+    <arm_group_label>face mask airway management with oxygen reserve index monitoring</arm_group_label>
+    <arm_group_label>nasopharyngeal tube airway management with oxygen reserve index monitoring</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Female, 18-60 years old&#xD;
+&#xD;
+          -  Scheduled for hysteroscopy&#xD;
+&#xD;
+          -  Predict operation duration more than 10 minutes&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants refuse&#xD;
+&#xD;
+          -  Predict the presence of difficult airway&#xD;
+&#xD;
+          -  Combined with obstructive sleep apnea syndrome&#xD;
+&#xD;
+          -  Combined with upper respiratory tract infection, and/or pulmonary inflammation&#xD;
+&#xD;
+          -  Combined with chronic obstructive pulmonary disease&#xD;
+&#xD;
+          -  Combined with asthma&#xD;
+&#xD;
+          -  Body mass index (BMI) &gt;30 kg/m2&#xD;
+&#xD;
+          -  Coagulation dysfunction, and/or undergo anticoagulant therapy&#xD;
+&#xD;
+          -  Nasal deformity&#xD;
+&#xD;
+          -  Pregnancy, positive urine pregnancy test&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Zheng Guan, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>First Affiliated Hospital Xi'an Jiaotong University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Zheng Guan, MD</last_name>
+    <phone>0086-13572592715</phone>
+    <email>guanzheng1980@126.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>First Affiliated Hospital of Xi'an Jiaotong University</name>
+      <address>
+        <city>Xi'an</city>
+        <state>Shaanxi</state>
+        <zip>710061</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Zheng Guan, MD</last_name>
+      <phone>0086-13572592715</phone>
+      <email>guanzheng1980@126.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>December 28, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>January 30, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 30, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 1, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Investigators have no plan to make individual participant data available to other researchers</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

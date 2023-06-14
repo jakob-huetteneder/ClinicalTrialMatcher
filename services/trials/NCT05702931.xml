@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9210">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05702931</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-501170-20-00</org_study_id>
+    <nct_id>NCT05702931</nct_id>
+  </id_info>
+  <brief_title>Semaglutide Treatment for Hyperglycaemia After Renal Transplantation</brief_title>
+  <acronym>Sema-RTx</acronym>
+  <official_title>Safety and Efficacy of Oral Semaglutide in Hyperglycaemic Patients After Renal Transplantation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rigshospitalet, Denmark</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Aarhus University Hospital, Department of Nephrology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Odense University Hospital, Department of Nephrology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Rigshospitalet, Denmark</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background: Post-transplant hyperglycaemia occurs frequently in renal transplant recipients&#xD;
+      within the first two weeks after transplantation. Standard-of-care is primarily based on&#xD;
+      insulin treatment with the adherent risk of hypoglycaemia and weight gain. Semaglutide&#xD;
+      produces an effective lowering of plasma glucose in diabetes patients with chronic kidney&#xD;
+      disease (CKD) and leads to a reduction in weight and the incidence of hypoglycaemia. The&#xD;
+      efficacy of semaglutide is untested in renal transplant recipients, and safety concerns&#xD;
+      remain, primarily on renal graft function.&#xD;
+&#xD;
+      Objectives: The primary objective is to establish whether tablet semaglutide (Rybelsus)&#xD;
+      compared with placebo, both as add-on to standard-of-care, is non-inferior in regulating&#xD;
+      plasma glucose in patients with hyperglycaemia after renal transplantation. Secondary&#xD;
+      objectives aim to evaluate the effect of tablet semaglutide on renal graft function, weight,&#xD;
+      use of insulin, cardiovascular parameters and safety parameters (plasma semaglutide&#xD;
+      concentration, gastrointestinal side effects, dose of immunosuppressants).&#xD;
+&#xD;
+      Design: An investigator-initiated, placebo-controlled, double-blinded, parallel-group,&#xD;
+      randomised trial.&#xD;
+&#xD;
+      Population: Patients (n = 104) with post-transplant hyperglycaemia and an estimated&#xD;
+      glomerular filtration rate (eGFR) &gt; 15 ml/min/1.73 m2.&#xD;
+&#xD;
+      Methods: Participants diagnosed with post-transplant hyperglycaemia, 10 to 15 days&#xD;
+      post-transplant, will be randomised 1:1 to either 14 weeks of tablet semaglutide once daily&#xD;
+      or placebo both as add-on to standard glucose-lowering therapy. Participants will maintain&#xD;
+      weekly contact with the clinic during the first five weeks and at two to four weeks intervals&#xD;
+      during the remaining study period. During the trial, each patient will be monitored according&#xD;
+      to blood laboratory values with safety assessed at every visit by a nephrologist.&#xD;
+      Pre-prandial plasma glucose will be measured in the morning and evening to adjust&#xD;
+      glucose-lowering therapy after consultation with an endocrinologist. Double blinded&#xD;
+      continuous glucose monitoring (CGM) will be performed for 10-14 days from baseline and at&#xD;
+      weeks 5, 9, and 13.&#xD;
+&#xD;
+      Primary endpoint:&#xD;
+&#xD;
+      - Mean sensor glucose (mmol/L) evaluated by CGM&#xD;
+&#xD;
+      Key secondary endpoints:&#xD;
+&#xD;
+        -  Incidence of hypoglycaemia&#xD;
+&#xD;
+        -  Body weight (kg)&#xD;
+&#xD;
+        -  Creatinine (μmol/L)&#xD;
+&#xD;
+        -  Daily insulin dose (IE per day)&#xD;
+&#xD;
+        -  Plasma concentration of semaglutide (nmol/L)&#xD;
+&#xD;
+        -  Blood concentrations of cyclosporine and tacrolimus (μg/L)&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Introduction:&#xD;
+&#xD;
+      In renal transplant recipients, hyperglycaemia develops frequently in the immediate period&#xD;
+      after renal transplantation. Insulin is the primary choice of treatment but carries the&#xD;
+      adherent risk of hypoglycaemia and weight gain. Tablet semaglutide is a potent&#xD;
+      glucose-lowering agent that can reduce weight and the incidence of hypoglycaemia. It also has&#xD;
+      the ability to delay progression of chronic kidney disease (CKD). However, semaglutide is not&#xD;
+      recommended for renal transplant recipients, as safety and efficacy has yet to be&#xD;
+      established. The aim of this study is to prove that semaglutide is safe in renal transplant&#xD;
+      recipients and potentially just as effective as insulin-treatment. We expect that semaglutide&#xD;
+      can reduce daily insulin-usage and, for a large number of patients, even completely replace&#xD;
+      insulin as treatment, thereby avoiding the harmful side-effects of this drug.&#xD;
+&#xD;
+      Objectives:&#xD;
+&#xD;
+      The primary aim is to establish if tablet semaglutide (Rybelsus) compared with placebo, both&#xD;
+      as add-on to standard-of-care, is non-inferior in regulating plasma glucose in patients with&#xD;
+      hyperglycaemia in the immediate weeks after renal transplantation.&#xD;
+&#xD;
+      Secondary objectives aim to evaluate the effect of tablet semaglutide on renal allograft&#xD;
+      function, weight, daily use of insulin and safety parameters (plasma semaglutide&#xD;
+      concentration, gastrointestinal side effects, dose of immunosuppressants).&#xD;
+&#xD;
+      Background:&#xD;
+&#xD;
+      Patients developing end-stage renal disease require renal replacement therapy by either&#xD;
+      haemodialysis, peritoneal dialysis, or renal transplantation. Renal transplantation is&#xD;
+      considered the best option for renal replacement therapy in terms of both quality of life and&#xD;
+      cost-effectiveness. However, in the immediate weeks after renal transplantation&#xD;
+      hyperglycaemia can develop - a condition termed post-transplant hyperglycaemia that is&#xD;
+      defined by a plasma glucose ≥ 7.0 mmol/L, or 2-h plasma glucose ≥ 11.1 mmol/L after an oral&#xD;
+      glucose tolerance test. A cohort study of renal transplant recipients (n=319), without&#xD;
+      pre-transplant diabetes, found that 66% required glucose-lowering treatment when discharge&#xD;
+      after renal transplantation. The primary reason for hyperglycaemia is high-dose prednisone in&#xD;
+      combination with surgical stress and other immunosuppressants. The condition post-transplant&#xD;
+      diabetes mellitus can be diagnosed once the patient is on stable and minimum immune&#xD;
+      suppressive treatment.&#xD;
+&#xD;
+      Current guidelines recommend that oral glucose-lowering agents are used for mild&#xD;
+      hyperglycaemia and insulin for more pronounced hyperglycaemia. Only oral sulfonylureas and&#xD;
+      dipeptidyl peptidase-4 (DPP-4) inhibitors are permitted for use shortly after renal&#xD;
+      transplantation. However, sulfonylureas, as with insulin, carry the risk of hypoglycaemia,&#xD;
+      and DPP-4 inhibitors have only a modest glucose-lowering effect. Therefor insulin treatment&#xD;
+      is primarily used with the adherent risk of hypoglycaemia, weight gain and the discomfort of&#xD;
+      daily subcutaneous injections.&#xD;
+&#xD;
+      Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are relatively new glucose-lowering&#xD;
+      agents that effective lowers plasma glucose by enhancing glucose-dependent insulin secretion,&#xD;
+      regulating postprandial glucagon, and reducing food intake. GLP-1 RAs are not tested&#xD;
+      prospectively in the renal transplanted population and only two small and retrospective&#xD;
+      studies have evaluated the safety and efficacy of GLP-1RAs. Here treatment with a GLP-1 RA&#xD;
+      was associated with a reduced daily insulin dose and lower incidence of hypoglycaemia.&#xD;
+      Importantly, renal allograft function remained stable with no required adjustment in&#xD;
+      immunosuppression. In the general diabetes population, the SUSTAIN-6 trial and the PIONEER-6&#xD;
+      trial both found that semaglutide yielded a reduction in haemoglobin A1c (HbA1c) and weight.&#xD;
+      In addition, the SUSTAIN-6 trial found a delay in progression of renal impairment and a lower&#xD;
+      risk of cardiovascular mortality.&#xD;
+&#xD;
+      Semaglutide is metabolised by proteolytic cleavage and alterations in renal function are not&#xD;
+      expected to influence pharmacokinetics. This notion is supported by studies of patients&#xD;
+      treated with semaglutide where various degrees of renal impairment, including end-stage renal&#xD;
+      disease, did not influence pharmacokinetics of semaglutide.&#xD;
+&#xD;
+      Several concerns remain before semaglutide can be used more widely in renal transplanted&#xD;
+      population. Semaglutide can induce gastrointestinal symptoms (nausea, vomiting, and&#xD;
+      diarrhoea) that carries a risk of dehydration and gastric paresis that can cause acute kidney&#xD;
+      injury. Alterations in gastric emptying could change the uptake of immunosuppressive drugs,&#xD;
+      which in turn can affect renal allograft function.&#xD;
+&#xD;
+      Study hypothesis:&#xD;
+&#xD;
+      The investigators expect in the semaglutide group compared to the placebo group to show:&#xD;
+&#xD;
+        -  Similar mean sensor glucose (mmol/L)&#xD;
+&#xD;
+        -  Similar time-in-range (3.9-10.0 mmol/L)&#xD;
+&#xD;
+        -  Reduction in glucose variability&#xD;
+&#xD;
+        -  Reduction in the incidence of hypoglycaemia&#xD;
+&#xD;
+        -  Reduction in daily dose of insulin&#xD;
+&#xD;
+        -  Reduction in weight&#xD;
+&#xD;
+        -  Unaffected renal function of the transplanted kidney&#xD;
+&#xD;
+        -  Unchanged uptake of immunosuppressive medication&#xD;
+&#xD;
+      Methods and assessments:&#xD;
+&#xD;
+      Participants diagnosed with post-transplant hyperglycaemia, 10 to 15 days post-transplant,&#xD;
+      will be randomised 1:1 to either 14 weeks of tablet semaglutide or placebo both as add-on to&#xD;
+      standard glucose-lowering therapy. Participants will be in weekly contact with the clinic&#xD;
+      during the first five weeks and with two to four weeks intervals during the remaining study&#xD;
+      period (Appendix 1). During the trial, each patient will be monitored according to blood&#xD;
+      laboratory values and with safety assessed at every visit by a nephrologist. Pre-prandial&#xD;
+      plasma glucose will be measured morning and evening to adjust glucose-lowering therapy in&#xD;
+      consultation with an endocrinologist. Blinded CGM will be used for 10-14 days from baseline&#xD;
+      and at weeks 5, 9, and 13.&#xD;
+&#xD;
+      Questionnaires on gastrointestinal side effects:&#xD;
+&#xD;
+      Questionnaires on gastrointestinal side effects will be evaluated using the Gastrointestinal&#xD;
+      symptom rating scale (GSRS). The 15 items in the GSRS questionnaire combine into five symptom&#xD;
+      clusters: Reflux, Abdominal pain, Indigestion, Diarrhoea and Constipation. The reliability&#xD;
+      and validity of the GSRS are well-documented, and norm values for a general population are&#xD;
+      available.&#xD;
+&#xD;
+      Continuous glucose monitoring:&#xD;
+&#xD;
+      A blinded professional Free Style Libre iQ or Dexcom 6G will be used. The sensor is placed on&#xD;
+      the back of the upper arm and will record interstitial sensor glucose readings every 5-15 min&#xD;
+      for 10-14 days. The sensor is water-resistant, and no limitations on physical activity exist.&#xD;
+      CGM data are double blinded. A minium of three CGM-days must be completed for each CGM-period&#xD;
+      for inclusion in the data analysis.&#xD;
+&#xD;
+      Blood samples:&#xD;
+&#xD;
+      Blood samples will be taken at screening (visit 2) and weeks 2, 3, 4, 5, 7, 9, 12, 13, 14&#xD;
+      (end of trial). The following laboratory variables will be measured:&#xD;
+&#xD;
+        -  Haemoglobin, leukocytes, platelets&#xD;
+&#xD;
+        -  ALAT, amylase&#xD;
+&#xD;
+        -  Creatinine, urea, sodium, potassium&#xD;
+&#xD;
+        -  C-reactive protein&#xD;
+&#xD;
+        -  Ionised calcium, total phosphate, intact parathyroid hormone&#xD;
+&#xD;
+        -  Plasma glucose, HbA1c&#xD;
+&#xD;
+        -  LDL, HDL, triglycerides, total cholesterol&#xD;
+&#xD;
+        -  Blood cyclosporine (µg/L) and blood tacrolimus (µg/L)&#xD;
+&#xD;
+      Trial medication:&#xD;
+&#xD;
+      At baseline participants will initiate treatment with 3mg of oral semaglutide dosing from&#xD;
+      weeks 1 to 4. Depending on tolerability the dose will increase to 7 mg daily from weeks 5 to&#xD;
+      8 and 14 mg from week 9. Trial medication will be dispensed to subjects for the first time&#xD;
+      immediately after randomisation and adjusted week 5 and week 9.&#xD;
+&#xD;
+      Glucose-lowering therapy during the study period:&#xD;
+&#xD;
+      Semaglutide or placebo will be added on top of standard-of-care treatment. Standard-of-care&#xD;
+      is generally insulin-based treatment, but sulfonylurea may be used. DPP-4 inhibitors are&#xD;
+      contraindicated during semaglutide treatment. Standard-of-care is not well defined in the&#xD;
+      renal transplanted population immediately after transplantation. The investigators suggest&#xD;
+      the following approach:&#xD;
+&#xD;
+      Study initiation:&#xD;
+&#xD;
+      Oral semaglutide 3mg or placebo plus standard-of-care defined as:&#xD;
+&#xD;
+        -  If fasting plasma glucose is 7.0-8.4 mmol/L then administration of 0.1 IE/kg (Insulin&#xD;
+           glargin)&#xD;
+&#xD;
+        -  If fasting plasma glucose is 8.5-9.4 mmol/L then administration of 0.15 IE/kg (Insulin&#xD;
+           glargin)&#xD;
+&#xD;
+        -  If fasting plasma glucose is 9.5-10.4 mmol/L then administration of 0.25 IE/kg (Insulin&#xD;
+           glargin)&#xD;
+&#xD;
+        -  If OGTT ≥ 11.0 mmol/L then administration of 0.1 IE/kg (Insulin glargin)&#xD;
+&#xD;
+      During the study:&#xD;
+&#xD;
+      Glycaemic monitoring will be performed using pre-prandial plasma glucose (finger prick) in&#xD;
+      the morning and evening. Based on these measures, and in consultant with an endocrinologist,&#xD;
+      the glucose-lowering therapy will be adjusted. The glycaemic target is 4-7 mmol/L morning and&#xD;
+      6-10 mmol/L evening (both pre-prandial). When increasing semaglutide long-acting insulin is&#xD;
+      recommended adjusted at the following due to modest effect of semaglutide within the first&#xD;
+      week. Add-on therapy with sliding scale of fast-acting insulin or sulfonylureas may be added&#xD;
+      at the discretion of the endocrinologist. At study completion semaglutide and placebo are&#xD;
+      discontinued and participants returne to standard-of-care.&#xD;
+&#xD;
+      Reduction in glucose-lowering therapy should be initiated if morning plasma glucose&#xD;
+      (pre-prandal) &lt; 4 mmol/L 2 out of 3 days or evening plasma glucose (pre-prandial) &lt; 6 mmol/l&#xD;
+      2 out of 3 days or if symptomatic hypoglycaemia occurs. Reduction can be performed by the&#xD;
+      endocrinologist or by the participant. In the study protocol the investigatorsrecommend the&#xD;
+      following steps but adjustments are at the discretion of the endocrinologist:&#xD;
+&#xD;
+      Step 1) Patients in Insulin glargine treatment should be reduced by following regime: Firstly&#xD;
+      reduce by 4 IU of long-acting insulin. If plasma glucose continuously below target reduce by&#xD;
+      another 4 IU.&#xD;
+&#xD;
+      Step 2) If plasma glucose is below target and Insulin glargine is &lt; 8 IU, insulin glargine&#xD;
+      treatment is stopped completely. Secondly, sulfonylurea is stopped.&#xD;
+&#xD;
+      Step 3) If insulin glargin/sulfonylurea treatment is discontinued and further reductions is&#xD;
+      required semaglutide is dose reduced from 14mg to 7mg, then from 7mg to 3mg and then from 3mg&#xD;
+      to 0mg (patient is still required to complete the full study period if glucose-lowering&#xD;
+      therapy is discontinued).&#xD;
+&#xD;
+      Statistical evaluation:&#xD;
+&#xD;
+      The primary endpoint and the secondary endpoints will be reported based on a per protocol&#xD;
+      analysis with a compliance &gt;80% of the prescribed trial medication. Some secondary endpoints&#xD;
+      (safety parameters) will be reported based on the intention-to-treat analysis, thus including&#xD;
+      all randomized participants.&#xD;
+&#xD;
+      Justification of sample size/power calculation:&#xD;
+&#xD;
+      The investigators will test the hypothesis if treatment with semaglutide is non-inferior to&#xD;
+      standard-of-care, with mean sensor glucose (mmol/L) as the primary endpoint in a homogeneous&#xD;
+      group of renal-transplanted patients with hyperglycaemia. The trial is powered for the&#xD;
+      primary endpoint, change in mean sensor glucose to assess non-inferiority. The power&#xD;
+      calculation is based on CGM data from 30 haemodialysis patients with type 2 diabetes that&#xD;
+      resembles renal transplant recipients with hyperglycaemia as both groups are primarily&#xD;
+      treated with insulin as standard-of-care. The group of haemodialysis patients are compared&#xD;
+      with 36 patients with type 2 diabetes and eGFR above 60ml/min/1.73m2 where the majority was&#xD;
+      treated with without insulin and with antidiabetic medication such as semaglutide.&#xD;
+&#xD;
+      Sample size calculation is based on a two-sample one-sided t-test with non-inferiority margin&#xD;
+      of 2mmol/L, expected difference of 0.9 mmol/L, standard deviation of 1.8, power of 90 % and&#xD;
+      significance level of 5%. This resulted in 47 patients needed in each group, accounting for&#xD;
+      possible dropout, 10 % expected, a final sample size of 52 patients in each group is needed.&#xD;
+&#xD;
+      Effect analysis:&#xD;
+&#xD;
+      Distribution and changes to endpoints will be described and expressed as means± standard&#xD;
+      error of the mean or median (range or interquartile range) for continues endpoints and&#xD;
+      frequencies and percentages for categorical endpoints. Comparison of continues outcomes&#xD;
+      between groups are done by two-sample t-tests if variables are normally distributed,&#xD;
+      otherwise Wilcoxon sum-rank test is used instead. Comparison of categorical outcomes are done&#xD;
+      by chi-squared test or fisher's exact test. Repeated measures are compared by mixed&#xD;
+      regression models. P-values of less than 5 % will be considered statistically significant.&#xD;
+&#xD;
+      Analysis of safety parameters:&#xD;
+&#xD;
+      The safety analysis will be performed based on all randomised subjects. A quantitative&#xD;
+      description of serious and non-serious adverse events will be presented. A qualitative&#xD;
+      presentation of serious adverse event will be provided.&#xD;
+&#xD;
+      Feasibility:&#xD;
+&#xD;
+      Participants will be recruited from Rigshospitalet, Copenhagen; Aarhus, Aarhus University&#xD;
+      Hospital and Odense, Odense University hospital. Approximately 250 renal transplants are&#xD;
+      performed in Denmark and we expect with 20-40% will have post-transplant hyperglycaemia 10-15&#xD;
+      days after transplantation equivalent to approximately 40 to 80 patients per year. With an&#xD;
+      aim of 104 included participants the study is expected to last three years.&#xD;
+&#xD;
+      Ethical considerations:&#xD;
+&#xD;
+      Semaglutide is well tested in the general diabetes population and not affected by variations&#xD;
+      in renal function. Participants will be thoroughly monitored throughout the study period to&#xD;
+      ensure safety. When the trial has ended, concluded and results have been published,&#xD;
+      participants will be informed of the results of the trial.&#xD;
+&#xD;
+      The study is registered at ClinicalTrials.gov prior to initiation and the protocol is&#xD;
+      compliant with the principles of Helsinki Declaration II. The trial will be conducted in&#xD;
+      compliance with the Good Clinical Practice (GCP) guidelines. A local GCP monitor from the GCP&#xD;
+      unit at Copenhagen University Hospital, Frederiksberg Hospital will be allocated to the&#xD;
+      study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2023</start_date>
+  <completion_date type="Anticipated">April 1, 2026</completion_date>
+  <primary_completion_date type="Anticipated">April 1, 2026</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>An investigator-initiated, placebo-controlled, double-blinded, parallel-group, randomised trial.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>double-blinded</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean sensor glucose (mmol/L)</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Mean sensor glucose evaluated by 10 days of CGM obtained at baseline, week 5, week 9 and week 13.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage time in target range (3.9-10.0 mmol/L)</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Percentage time in target range evaluated by 10-14 days of CGM obtained at baseline, week 5, week 9 and week 13</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage time in hypoglycaemia (level 1 [3.0-3.8 mmol/L] and level 2 [below 3.0 mmol/L])</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Percentage time in hypoglycaemia evaluated by 10-14 days of CGM obtained at baseline, week 5, week 9 and week 13</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage time in hyperglycaemia (level 1 (10.1-13.9 mmol/L) and level 2 (above 13.9 mmol/L)</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Percentage time in hyperglycaemia evaluated by 10-14 days of CGM obtained at baseline, week 5, week 9 and week 13</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Glucose variability (standard deviation [mmol/L] and coefficient of variation [%])</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Glucose variability evaluated by 10-14 days of CGM obtained at baseline, week 5, week 9 and week 13</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Glucose management indicator (mmol/mol and %)</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Glucose management indicator evaluated by 10-14 days of CGM obtained at baseline, week 5, week 9 and week 13</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>HbA1c (mmol/mol)</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Measured at week 2, 3, 4, 5, 7, 9, 12, 13 and 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>HbA1c (%)</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Measured at week 2, 3, 4, 5, 7, 9, 12, 13 and 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Body weight (kg)</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Measure at baseline, week 5, 9 and 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Body mass index (kg/m2)</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Measure at baseline, week 5, 9 and 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Creatinine (μmol/L)</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Measured at week 2, 3, 4, 5, 7, 9, 12, 13 and 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>eGFR (ml/min/1.73m2)</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Measured at week 2, 3, 4, 5, 7, 9, 12, 13 and 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Systolic and diastolic blood pressure (mmHg)</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Measured at week 2, 3, 4, 5, 7, 9, 12, 13 and 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Urinary albumin-to-creatinine ratio (mg/g)</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Measure at baseline, week 5, 9 and 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma concentrations of cholesterol</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Measure at baseline, week 5, 9 and 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma concentrations of low-density lipoproteins</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Measure at baseline, week 5, 9 and 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PPlasma concentrations of high-density lipoproteins</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Measure at baseline, week 5, 9 and 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma concentrations of triglycerides</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Measure at baseline, week 5, 9 and 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Daily insulin dose (IE per day)</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Assessed at week 2, 3, 4, 5, 7, 9, 12, 13 and 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Daily dose of immunosuppressant (prednisone, cyclosporine, tacrolimus, mycophenolate mofetile)</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Assessed at week 2, 3, 4, 5, 7, 9, 12, 13 and 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma concentration of semaglutide (nmol/L)</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Measure at baseline, week 5, 9 and 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dose-corrected plasma concentration of semaglutide (nmol/L)</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Measure at baseline, week 5, 9 and 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma insulin (pmol/L)</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Measure at baseline, week 5, 9 and 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C-peptide (nmol/L)</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Measure at baseline, week 5, 9 and 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Homeostatic model assessment (HOMA) for assessing beta-cell function and insulin 192 resistance</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Measure at baseline, week 5, 9 and 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma alanine transaminase (ALAT) (U/L)</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Measured at week 2, 3, 4, 5, 7, 9, 12, 13 and 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma amylase (U/L)</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Measured at week 2, 3, 4, 5, 7, 9, 12, 13 and 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gastrointestinal side effects evaluated using the Gastrointestinal symptom rating scale (GSRS)</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Assessed at baseline, week 5, 9 and 14. Consist of 15 gastrointestinal symptomes that are each rated on a 7-point scale with 1 being &quot;no discomfort&quot; and 7 being &quot;very severe discomfort&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events and serious adverse events</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Measured at week 2, 3, 4, 5, 7, 9, 12, 13 and 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of self-reported hypoglycaemic episodes</measure>
+    <time_frame>14 weeks</time_frame>
+    <description>Measured at week 2, 3, 4, 5, 7, 9, 12, 13 and 14</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">104</enrollment>
+  <condition>Hyperglycemia</condition>
+  <condition>Renal Transplant Complication Primary Non-Function</condition>
+  <condition>Diabetes</condition>
+  <arm_group>
+    <arm_group_label>Semaglutide treated group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Oral semaglutide once-daily as add-on to standard-of-care for post-transplant hyperglycaemia</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo treated group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Oral placebo once-daily as add-on to standard-of-care for post-transplant hyperglycaemia</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Semaglutide 14 MG [Rybelsus]</intervention_name>
+    <description>At baseline participants will initiate treatment with 3mg of oral semaglutide dosing from weeks 1 to 4. Depending on tolerability the dose will increase to 7 mg daily from weeks 5 to 8 and 14 mg from week 9. Trial medication will be dispensed to subjects for the first time immediately after randomisation and adjusted week 5 and week 9.</description>
+    <arm_group_label>Semaglutide treated group</arm_group_label>
+    <other_name>Rybelsus</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Saline</description>
+    <arm_group_label>Placebo treated group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Written informed consent obtained before any trial-related procedures are performed&#xD;
+&#xD;
+          2. Male or female; age: 18-80 years&#xD;
+&#xD;
+          3. Diagnosis of post-transplant hyperglycaemia 10 to 15 days after transplantation:&#xD;
+             Fasting plasma glucose ≥ 7.0 mmol/L or an oral glucose tolerance test with at plasma&#xD;
+             glucose ≥ 11.1 mmol/L&#xD;
+&#xD;
+          4. An eGFR &gt; 15 ml/min/1.73 m2 10 to 15 days after renal transplantation&#xD;
+&#xD;
+          5. Subject must be willing and able to comply with trial protocol&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Type 1 diabetes&#xD;
+&#xD;
+          2. Type 2 diabetes pre-transplant (except HbA1c ≤ 55mmol/mol and lifestyle-treated)&#xD;
+&#xD;
+          3. Dialysis&#xD;
+&#xD;
+          4. High risk immunological transplantation (not including ABO-incompatible or&#xD;
+             re-transplantation)&#xD;
+&#xD;
+          5. Early graft rejection Sema-RTx study&#xD;
+&#xD;
+          6. Chronic pancreatitis/previous acute pancreatitis&#xD;
+&#xD;
+          7. Known or suspected hypersensitivity to trial or related products&#xD;
+&#xD;
+          8. Use of DPP-4 inhibitors within five days prior to screening&#xD;
+&#xD;
+          9. Use of GLP-1RA within 10 days prior to screening&#xD;
+&#xD;
+         10. Malignancy (except basal cell carcinoma)&#xD;
+&#xD;
+         11. Inflammatory bowel disease&#xD;
+&#xD;
+         12. Previous bowel resection&#xD;
+&#xD;
+         13. Cardiac disease defined as decompensated heart failure (New York Heart Association&#xD;
+             class III-IV) and/or diagnosis of unstable angina pectoris and/or myocardial&#xD;
+             infarction within the last six months&#xD;
+&#xD;
+         14. Any acute condition or exacerbation of chronic condition that would in the&#xD;
+             investigator's opinion interfere with the initial trial visit schedule and procedures.&#xD;
+&#xD;
+         15. Females of childbearing potential who are pregnant, breast-feeding, intend to become&#xD;
+             pregnant, or are not using adequate contraceptive methods&#xD;
+&#xD;
+         16. Impaired liver function (plasma ALAT &gt; two times upper reference levels)&#xD;
+&#xD;
+         17. Elevated amylase (plasma amylase &gt; two times upper reference levels)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Tobias Bomholt, MD, PhD</last_name>
+    <phone>+4535457952</phone>
+    <email>Tobias.bomholt@regionh.dk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Mads Hornum, MD, PhD</last_name>
+    <phone>+453451762</phone>
+    <email>mads.hornum@regionh.dk</email>
+  </overall_contact_backup>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>December 23, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>February 1, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 1, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rigshospitalet, Denmark</investigator_affiliation>
+    <investigator_full_name>Bo Feldt-Rasmussen</investigator_full_name>
+    <investigator_title>MD, Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hyperglycemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

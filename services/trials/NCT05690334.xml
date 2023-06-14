@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9779">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05690334</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Yi Chen-2023-2</org_study_id>
+    <nct_id>NCT05690334</nct_id>
+  </id_info>
+  <brief_title>Different Crystalloid Coload Volumes on the 90% ED of Norepinephrine</brief_title>
+  <official_title>Up-and-Down Determination of Different Crystalloid Coload Volumes on the 90% Effective Dose of Prophylactic Norepinephrine Infusions for Preventing Postspinal Anesthesia Hypotension During Cesarean Section</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>General Hospital of Ningxia Medical University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>General Hospital of Ningxia Medical University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to investigate the effect of different crystalloid coload&#xD;
+      volumes on the 90% effective dose of prophylactic norepinephrine infusions for preventing&#xD;
+      postspinal anesthesia hypotension during cesarean section.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Post-spinal anesthesia hypotension is a frequent complication during spinal anesthesia for&#xD;
+      cesarean section. The incidence of post-spinal anesthesia hypotension is as high as&#xD;
+      62.1-89.7% if prophylactic measures are not taken. Coload has been highly demonstrated for&#xD;
+      prevention and/or treatment of post-spinal anesthesia hypotension. In addition, there's some&#xD;
+      evidence that prophylactic infusion of norepinephrine could effectively reduce the incidence&#xD;
+      of post-spinal anesthesia hypotension in parturients undergoing cesarean section. The purpose&#xD;
+      of this study is to investigate the effect of different crystalloid coload volumes on the 90%&#xD;
+      effective dose of norepinephrine infusion prophylaxis for hypotension during spinal&#xD;
+      anesthesia for cesarean section.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 21, 2023</start_date>
+  <completion_date type="Anticipated">December 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>ED50 and ED90</measure>
+    <time_frame>1-15 minutes after spinal anesthesia</time_frame>
+    <description>The dose of prophylactic norepinephrine that would be effective in preventing postspinal anesthesia hypotension in 50% (effective dose, ED 50) and 90% (ED90) of patients</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The incidence of post-spinal anesthesia hypotension</measure>
+    <time_frame>1-15 minutes after spinal anesthesia</time_frame>
+    <description>Systolic blood pressure (SBP) &lt; 80% of the baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The incidence of severe post-spinal anesthesia hypotension</measure>
+    <time_frame>1-15 minutes after spinal anesthesia</time_frame>
+    <description>Systolic blood pressure (SBP) &lt; 60% of the baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The incidence of bradycardia</measure>
+    <time_frame>1-15 minutes after spinal anesthesia</time_frame>
+    <description>Heart rate &lt; 60 beats/min</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The incidence of nausea and vomiting</measure>
+    <time_frame>1-15 minutes after spinal anesthesia</time_frame>
+    <description>Presence of nausea and vomiting in patients after spinal anesthesia</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The incidence of hypertension</measure>
+    <time_frame>1-15 minutes after spinal anesthesia</time_frame>
+    <description>Systolic blood pressure (SBP) &gt;120% of the baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>pH</measure>
+    <time_frame>Immediately after delivery</time_frame>
+    <description>From umbilical arterial blood gases</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Partial pressure of oxygen (PO2)</measure>
+    <time_frame>Immediately after delivery</time_frame>
+    <description>From umbilical arterial blood gases</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Base excess (BE)</measure>
+    <time_frame>Immediately after delivery</time_frame>
+    <description>From umbilical arterial blood gases</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>APGAR score</measure>
+    <time_frame>1 minute after delivery</time_frame>
+    <description>A= Appearance P=Pulse G=Grimace A=Attitude R=Respiration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>APGAR score</measure>
+    <time_frame>5 minute after delivery</time_frame>
+    <description>A= Appearance P=Pulse G=Grimace A=Attitude R=Respiration</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Adverse Effect</condition>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>No fluid coload was given. An initial infusion dose of prophylactic norepinephrine simultaneous with spinal anesthesia</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Crystalloid - 5 ml/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>5 ml/kg crystalloid coload combined with an initial infusion dose of prophylactic norepinephrine simultaneous with spinal anesthesia.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Crystalloid - 10 ml/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 ml/kg crystalloid coload combined with an initial infusion dose of prophylactic norepinephrine simultaneous with spinal anesthesia.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Crystalloid - 0 ml/kg</intervention_name>
+    <description>No fluid coload was given. An initial infusion dose of prophylactic norepinephrine (0.025 ug/kg/min) simultaneous with spinal anesthesia. The dose administered to subsequent patients varied by increments or decrements of 0.005 ug/kg/min of prophylactic norepinephrine according to the responses of previous patients according to the up-down sequential allocation.</description>
+    <arm_group_label>Control group</arm_group_label>
+    <other_name>Crystalloid</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Crystalloid - 5 ml/kg</intervention_name>
+    <description>5 ml/kg crystalloid coload combined with an initial infusion dose of prophylactic norepinephrine (0.025 ug/kg/min) simultaneous with spinal anesthesia. The dose administered to subsequent patients varied by increments or decrements of 0.005 ug/kg/min of prophylactic norepinephrine according to the responses of previous patients according to the up-down sequential allocation.</description>
+    <arm_group_label>Crystalloid - 5 ml/kg</arm_group_label>
+    <other_name>Crystalloid</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Crystalloid - 10 ml/kg</intervention_name>
+    <description>10 ml/kg crystalloid coload combined with an initial infusion dose of prophylactic norepinephrine (0.025 ug/kg/min) simultaneous with spinal anesthesia. The dose administered to subsequent patients varied by increments or decrements of 0.005 ug/kg/min of prophylactic norepinephrine according to the responses of previous patients according to the up-down sequential allocation.</description>
+    <arm_group_label>Crystalloid - 10 ml/kg</arm_group_label>
+    <other_name>Crystalloid</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18-45 years&#xD;
+&#xD;
+          -  Primipara or multipara&#xD;
+&#xD;
+          -  Singleton pregnancy ≥37 weeks&#xD;
+&#xD;
+          -  American Society of Anesthesiologists physical status classification I to II&#xD;
+&#xD;
+          -  Scheduled for cesarean section under spinal anesthesia&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Body height &lt; 150 cm&#xD;
+&#xD;
+          -  Body weight &gt; 100 kg or body mass index (BMI) ≥ 40 kg/m2&#xD;
+&#xD;
+          -  Eclampsia or chronic hypertension or baseline blood pressure ≥180 mmHg&#xD;
+&#xD;
+          -  Hemoglobin &lt; 7g/dl&#xD;
+&#xD;
+          -  Fetal distress, or known fetal developmental anomaly&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yi Chen, M.D.</last_name>
+    <role>Study Chair</role>
+    <affiliation>General Hospital of Ningxia Medical University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Xiangsheng Xiong, M.D.</last_name>
+    <role>Study Chair</role>
+    <affiliation>The Fifth People's Hospital of Huaian</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yi Chen, M.D.</last_name>
+    <phone>86-951-674-3252</phone>
+    <email>czzyxgp@163.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Xiangsheng Xiong, M.D.</last_name>
+    <email>158193942@qq.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>General Hospital of Ningxia Medical University</name>
+      <address>
+        <city>Yinchuan</city>
+        <state>Ningxia</state>
+        <zip>750004</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yi Chen, M.D.</last_name>
+      <email>czzyxgp@163.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Xiangsheng Xiong, M.D.</last_name>
+      <email>158193942@qq.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 10, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 10, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>March 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 22, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Norepinephrine</keyword>
+  <keyword>Postspinal anesthesia hypotension</keyword>
+  <keyword>Coload</keyword>
+  <keyword>Cesarean section</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypotension</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

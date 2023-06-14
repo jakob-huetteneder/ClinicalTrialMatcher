@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9088">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05705466</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KRT-232-119</org_study_id>
+    <nct_id>NCT05705466</nct_id>
+  </id_info>
+  <brief_title>Study of Navtemadlin Plus Pembrolizumab as Maintenance Therapy in Locally Advanced and Metastatic Non-Small Cell Lung Cancer</brief_title>
+  <official_title>A Two-Part, Phase 1b/2, Multicenter, Open-Label, Dose Escalation and Double-Blind, Randomized, Placebo-Controlled, Dose Expansion Study of the Safety, Efficacy and Pharmacokinetics of Navtemadlin Plus Pembrolizumab as Maintenance Therapy in Subjects With Locally Advanced and Metastatic Non-Small Cell Lung Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Kartos Therapeutics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Kartos Therapeutics, Inc.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study evaluates Navtemadlin (KRT-232) in combination with Pembrolizumab as a maintenance&#xD;
+      therapy in patients with locally advanced and metastatic non small cell lung cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a 2 part, phase 1b/2, maintenance study for patients who have achieved a partial&#xD;
+      response (PR) or complete response (CR) after completion of up to 4 cycles of a combination&#xD;
+      platinum-based chemotherapy plus CPI regimen.&#xD;
+&#xD;
+      Phase 1b is a 3+3 dose escalation design that will be used to determine the maximum tolerated&#xD;
+      dose (MTD) and/or the recommended phase 2 dose (RP2D) of navtemadlin in combination with&#xD;
+      pembrolizumab. A Safety Review Committee (SRC) will review the safety data during the dose&#xD;
+      escalation to decide on dose escalation and/or exploration of intermediate doses.&#xD;
+&#xD;
+      Phase 2 will evaluate the efficacy and safety of the RP2D of navtemadlin plus pembrolizumab&#xD;
+      compared to navtemadlin placebo plus pembrolizumab. Each Arm will have approximately 40&#xD;
+      subjects enrolled for a total of approximately 80 subjects. Eligible subjects will be&#xD;
+      randomized 1:1. This part of the study has a randomized, controlled, double-blind design. A&#xD;
+      stratified, permuted-block randomization scheme will be used for treatment allocation.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 2023</start_date>
+  <completion_date type="Anticipated">December 2027</completion_date>
+  <primary_completion_date type="Anticipated">December 2025</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Phase 1b- To determine the recommended Phase 2 dose (RP2D)</measure>
+    <time_frame>21 days</time_frame>
+    <description>The Safety Review Committee will determine the RP2D based on safety data of the combination of navtemadlin and pembrolizumab.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 2- To assess the treatment effect of navtemadlin plus pembrolizumab treatment on PFS compared with the treatment effect of navtemadlin placebo plus pembrolizumab treatment.</measure>
+    <time_frame>64 Months</time_frame>
+    <description>PFS is defined as the time from randomization date to disease progression (assessed by the Independent Review Committee [IRC] per RECIST v1.1) or death, whichever occurs first</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b- To characterize the pharmacokinetic (PK) profile of navtemadlin</measure>
+    <time_frame>1 day</time_frame>
+    <description>Will determine the Maximum observed concentration (Cmax) on Cycle 1 Day 1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b- To characterize the pharmacokinetic (PK) profile of navtemadlin</measure>
+    <time_frame>1 day</time_frame>
+    <description>Will determine the area under the plasma concentration versus time curve (AUC) on Cycle 1 Day 1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b- To characterize the pharmacokinetic (PK) profile of navtemadlin</measure>
+    <time_frame>1 day</time_frame>
+    <description>Will determine the time of maximum plasma concentration (Tmax) on Cycle 1 Day 1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 1b- To assess the treatment effect on progression-free survival (PFS)</measure>
+    <time_frame>64 Months</time_frame>
+    <description>PFS is defined as the time from first dose date to disease progression (assessed by the IRC and Investigator per RECIST v1.1) or death, whichever occurs first</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2- To assess the treatment effect of navtemadlin plus pembrolizumab treatment on PFS compared with the treatment effect of navtemadlin placebo plus pembrolizumab treatment.</measure>
+    <time_frame>64 Months</time_frame>
+    <description>PFS is defined as the time from randomization date to disease progression (assessed by the Investigator per RECIST v1.1) or death, whichever occurs first</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">92</enrollment>
+  <condition>Non Small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Navtemadlin in combination with pembrolizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Navtemadlin will be administered orally, once daily (QD), on days 1-7 in a 21-day cycle.&#xD;
+Pembrolizumab will be administered intravenously on Day 1 of a 21-day cycle.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Navtemadlin placebo in combination with pembrolizumab</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Navtemadlin placebo will be administered orally, once daily (QD), on days 1-7 in a 21-day cycle.&#xD;
+Pembrolizumab will be administered intravenously on Day 1 of a 21-day cycle.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Navtemadlin</intervention_name>
+    <description>Navtemadlin is an experimental MDM2 anticancer drug taken by mouth.</description>
+    <arm_group_label>Navtemadlin in combination with pembrolizumab</arm_group_label>
+    <other_name>KRT-232</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Navtemadlin Placebo</intervention_name>
+    <description>Navtemadlin placebo is a placebo that is the same in appearance to navtemadlin drug taken by mouth.</description>
+    <arm_group_label>Navtemadlin placebo in combination with pembrolizumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pembrolizumab</intervention_name>
+    <description>Pembrolizumab is a humanized antibody used in cancer immunotherapy that will be administered intravenously</description>
+    <arm_group_label>Navtemadlin in combination with pembrolizumab</arm_group_label>
+    <arm_group_label>Navtemadlin placebo in combination with pembrolizumab</arm_group_label>
+    <other_name>Keytruda</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  ECOG 0-1&#xD;
+&#xD;
+          -  Histologically or cytologically confirmed diagnosis of NSCLC documented as TP53WT&#xD;
+&#xD;
+          -  Locally advanced or metastatic disease; must have completed up to 4 cycles of&#xD;
+             platinum-based chemo plus CPI and achieved a CR or PR per RECIST V1.1&#xD;
+&#xD;
+          -  Adequate hematologic, hepatic and renal function (within 14 days)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Symptomatic or uncontrolled central nervous system (CNS) metastases&#xD;
+&#xD;
+          -  Prior treatment with a MDM2 inhibitor&#xD;
+&#xD;
+          -  Grade 2 or higher QTc prolongation (&gt;480 msec per NCI-CTCAE criteria version 5.0)&#xD;
+&#xD;
+          -  History of bleeding diathesis; major hemorrhage or intracranial hemorrhage within 24&#xD;
+             weeks&#xD;
+&#xD;
+          -  History of major organ transplant&#xD;
+&#xD;
+          -  Active pneumonitis or known history of interstitial lung disease, drug-related&#xD;
+             pneumonitis, or radiation pneumonitis&#xD;
+&#xD;
+          -  Prior radiotherapy, cytoreductive therapy, cytokine therapy or any investigational&#xD;
+             therapy within 28 days&#xD;
+&#xD;
+          -  Medical condition, serious intercurrent illness, psychiatric condition or other&#xD;
+             circumstance that, in the Investigator's judgment could jeopardize the subject's&#xD;
+             safety, or that could interfere with study objectives&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>John Mei</last_name>
+    <phone>650-542-0136</phone>
+    <email>jmei@kartosthera.com</email>
+  </overall_contact>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 27, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>January 27, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 27, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Navtemadlin</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pembrolizumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

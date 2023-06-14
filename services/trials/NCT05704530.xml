@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9139">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05704530</url>
+  </required_header>
+  <id_info>
+    <org_study_id>S67328</org_study_id>
+    <nct_id>NCT05704530</nct_id>
+  </id_info>
+  <brief_title>Liquid Biopsies in Esophageal Cancer</brief_title>
+  <official_title>Personalized Multimodal Treatment for Resectable Esophageal Cancer by Detecting Minimal Residual Disease Using Circulating Tumor DNA: a Multicentric Prospective Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universitaire Ziekenhuizen KU Leuven</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Kom Op Tegen Kanker</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Universitaire Ziekenhuizen KU Leuven</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Purpose of this study is to determine the value of liquid biopsies, e.g. testing of minimal&#xD;
+      residual disease (MRD) by using liquid biopsies to measure circulating tumour DNA (ctDNA) at&#xD;
+      diagnosis and during the multimodal and multidisciplinary curative-intent treatment of&#xD;
+      resectable esophageal cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Multicentric, retrospective and prospective components.&#xD;
+&#xD;
+      Retrospective collection of leftover tissue from standard of care biopsies or resection&#xD;
+      specimens and prospective collection of additional blood samples for study-specific analyses&#xD;
+      at specific timepoints, at the same time as routine labs are foreseen. No additional&#xD;
+      venipunctures are expected.&#xD;
+&#xD;
+      Three distinct patient groups are defined, depending on the therapeutic scenario patients&#xD;
+      undertake:&#xD;
+&#xD;
+      Scenario 1: primary resection then follow-up - Study-specific liquid biopsies will be&#xD;
+      collected in 98 patients, at the time of routine labs. Samples will be acquired before&#xD;
+      resection, at 6-8 weeks, 6 and 12 months after resection.&#xD;
+&#xD;
+      Scenario 2: chemoradiation followed by resection and follow-up - Study-specific liquid&#xD;
+      biopsies will be collected in 50 patients. Samples will be acquired before the start of&#xD;
+      chemoradiation, before surgery, 6-8 weeks, 6 and 12 months after surgery. A subgroup of&#xD;
+      patients will undertake adjuvant immunotherapy and will constitute Group 3. Timing of&#xD;
+      sampling will be adjusted accordingly as per study flowcharts.&#xD;
+&#xD;
+      Scenario 3: chemoradiation followed by resection followed by adjuvant immunotherapy -&#xD;
+      Study-specific liquid biopsies will be collected in 100 patients. Samples will be acquired&#xD;
+      before the start of chemoradiation, before surgery, 6-8 weeks after surgery and during&#xD;
+      adjuvant immunotherapy every 3 months including a sample at the end of treatment.&#xD;
+&#xD;
+      Patient management is standard of care. No investigational medicinal product (IMP) is&#xD;
+      involved.&#xD;
+&#xD;
+      Specific clinicopathological variables will be collected in a RedCap electronic Case Report&#xD;
+      Form and analysed as per statistical analysis plan.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 29, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2026</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Three distinct patient groups are defined, depending on the therapeutic scenario patients undertake. Patient management is standard of care. No investigational medicinal product (IMP) is involved.&#xD;
+Trial is considered low interventional due to addition of extra blood samples, otherwise would be observational.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To assess the potency of ctDNA MRD variant allele frequency to improve clinical staging at diagnosis of esophageal cancer.</measure>
+    <time_frame>12 months</time_frame>
+    <description>To assess whether ctDNA concentration can significantly contribute to preoperative staging in esophageal cancer, to define a significant cut-off value of ctDNA concentration with optimal sensitivity and specificity and validate the results.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To correlate the presence of minimal residual disease after resection as assessed by ctDNA with disease recurrence.</measure>
+    <time_frame>12 months</time_frame>
+    <description>To compare the two groups ctDNA positive and negative post-resection in terms of progression-free survival and overall survival (Kaplan-Meier time-to-event) and evaluate the performance of ctDNA to predict disease recurrence (Cox proportional hazards model).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To observe the ctDNA MRD dynamics during adjuvant immunotherapy .</measure>
+    <time_frame>12 months</time_frame>
+    <description>To describe the dynamics of ctDNA concentration (proportion of clearance of positive ctDNA) during standard of care adjuvant immunotherapy.</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">248</enrollment>
+  <condition>Esophageal Cancer</condition>
+  <arm_group>
+    <arm_group_label>1. primary resection then follow-up</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Scenario 1: primary resection then follow-up - Study-specific liquid biopsies will be collected in 98 patients, at the time of routine labs. Samples will be acquired before resection, at 6-8 weeks, 6 and 12 months after resection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2. chemoradiation followed by resection and follow-up</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Scenario 2: chemoradiation followed by resection and follow-up - Study-specific liquid biopsies will be collected in 50 patients. Samples will be acquired before the start of chemoradiation, before surgery, 6-8 weeks, 6 and 12 months after surgery. A subgroup of patients will undertake adjuvant immunotherapy and will constitute Group 3. Timing of sampling will be adjusted accordingly as per study flowcharts.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>3. chemoradiation followed by resection followed by adjuvant immunotherapy</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>chemoradiation followed by resection followed by adjuvant immunotherapy - Study-specific liquid biopsies will be collected in 100 patients. Samples will be acquired before the start of chemoradiation, before surgery, 6-8 weeks after surgery and during adjuvant immunotherapy every 3 months including a sample at the end of treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Blood sample</intervention_name>
+    <description>Retrospective collection of leftover tissue from standard of care biopsies or resection specimens and prospective collection of additional blood samples for study-specific analyses at specific timepoints, at the same time as routine labs are foreseen. No additional venipunctures are expected.</description>
+    <arm_group_label>1. primary resection then follow-up</arm_group_label>
+    <arm_group_label>2. chemoradiation followed by resection and follow-up</arm_group_label>
+    <arm_group_label>3. chemoradiation followed by resection followed by adjuvant immunotherapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key inclusion criteria are:&#xD;
+&#xD;
+          1. Male or female, age &gt; 18 years&#xD;
+&#xD;
+          2. New diagnosis of esophageal cancer, pathologically confirmed squamous cell carcinoma&#xD;
+             (ESCC) or adenocarcinoma (EAC)&#xD;
+&#xD;
+          3. Clinically staged - cT1-4 N0-2 M0 (local or locally advanced, resectable)&#xD;
+&#xD;
+          4. Eligible for multidisciplinary treatment as assessed by MDT&#xD;
+&#xD;
+          5. Able to provide informed consent (ICF) according to Good Clinical Practice and&#xD;
+             national/European regulations&#xD;
+&#xD;
+        Key exclusion criteria are:&#xD;
+&#xD;
+          1. (Oligo)metastatic disease&#xD;
+&#xD;
+          2. Histologically or cytologically confirmed diagnosis other than squamous cell carcinoma&#xD;
+             or adenocarcinoma (eg. neuroendocrine carcinoma, lymphoma…)&#xD;
+&#xD;
+          3. Other active malignancies&#xD;
+&#xD;
+          4. Previous exposure to chemoradiation (prior to MDT)&#xD;
+&#xD;
+          5. Treatment plan after MDT: neoadjuvant chemotherapy with no radiation or chemoradiation&#xD;
+             with definitive intent (surgery is not planned)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jeroen Dekervel, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universitaire Ziekenhuizen KU Leuven</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jeroen Dekervel, MD</last_name>
+    <phone>016344225</phone>
+    <email>jeroen.dekervel@uzleuven.be</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Filip Van Herpe, MD</last_name>
+    <phone>016344225</phone>
+    <email>filip.vanherpe@uzleuven.be</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>UZA</name>
+      <address>
+        <city>Antwerpen</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Timon Vandamme, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UZ Gent</name>
+      <address>
+        <city>Gent</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Karen Geboes</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UZLeuven</name>
+      <address>
+        <city>Leuven</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Filip Van Herpe, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Jeroen Dekervel, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>AZ Delta</name>
+      <address>
+        <city>Roeselare</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Katleen Kerstens</last_name>
+    </contact>
+    <investigator>
+      <last_name>Jochen Decaestecker, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>January 19, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>April 7, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 7, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 10, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Esophageal Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

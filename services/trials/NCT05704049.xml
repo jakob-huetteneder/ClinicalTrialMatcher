@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9162">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05704049</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACT17453</org_study_id>
+    <secondary_id>U1111-1280-5090</secondary_id>
+    <nct_id>NCT05704049</nct_id>
+  </id_info>
+  <brief_title>A Study to Investigate Subcutaneous Isatuximab in Combination With Carfilzomib and Dexamethasone in Adult Participants With Relapsed and/or Refractory Multiple Myeloma</brief_title>
+  <official_title>A Randomized, Phase 2, Open Label Study Evaluating Subcutaneous Administration of Isatuximab in Combination With Carfilzomib and Dexamethasone in Adult Participants With Relapsed and/or Refractory Multiple Myeloma (RRMM)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sanofi</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sanofi</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main purpose of this study is to measure the efficacy (Myeloma response) of subcutaneous&#xD;
+      (SC) isatuximab treatment in combination with carfilzomib and dexamethasone in adult&#xD;
+      participants with RRMM having received 1 to 3 prior lines of therapy. After confirmation of&#xD;
+      the feasibility of SC isatuximab by manual administration, patient will be randomized to 1 of&#xD;
+      the 2 delivery method of SC isatuximab.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The duration of the study for a participant will include a period for screening of up to 28&#xD;
+      days. A cycle duration is 28 days. Participants will be allowed to continue therapy until&#xD;
+      disease progression, unacceptable adverse events (AEs), participant request to discontinue&#xD;
+      treatment, or any other reason, as well as the study treatment is commercially available and&#xD;
+      reimbursed in the participant's country, or is available from another source, whichever is&#xD;
+      first. The overall study duration will be of approximately 45 months.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 5, 2023</start_date>
+  <completion_date type="Anticipated">October 12, 2026</completion_date>
+  <primary_completion_date type="Anticipated">June 20, 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall response rate (ORR)</measure>
+    <time_frame>6 months after the Last Participant In (LPI) i.e., approximately 16 months</time_frame>
+    <description>ORR defined as the proportion of participants with stringent complete response (sCR), complete response (CR), very good partial response (VGPR), and partial response (PR) according to the 2016 International Myeloma Working Group (IMWG) criteria assessed by Independent Review Committee (IRC).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants preferring OBDS over manual administration of isatuximab SC at Day 15 of Cycle 6</measure>
+    <time_frame>6 months from LPI i.e., approximately 16 months</time_frame>
+    <description>Patient preference for method of administration defined as the proportion of participants preferring OBDS over manual administration of isatuximab SC at Day 15 of Cycle 6 using the patient experience and satisfaction questionnaire version 2 (PESQ v2).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence rate of infusion reactions (IRs)</measure>
+    <time_frame>18 months after LPI i.e., approximately 28 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with treatment-emergent adverse events (TEAEs), serious adverse events (SAEs), and changes in laboratory parameters</measure>
+    <time_frame>From the signing of the informed consent to 30 days following the last administration of any study treatment i.e., up to approximately 45 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence rate of injection site reactions (ISRs)</measure>
+    <time_frame>18 months after LPI i.e., approximately 28 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK concentration: trough plasma concentration (Ctrough)</measure>
+    <time_frame>Cycle 2 Day 1 and Cycle 6 Day 1 (1 Cycle = 28 days)</time_frame>
+    <description>Blood samples will be collected for measurement of isatuximab concentrations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with sCR, CR, VGPR, and PR according to the 2016 IMWG criteria assessed by IRC</measure>
+    <time_frame>18 months after LPI i.e., approximately 28 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DOR)</measure>
+    <time_frame>18 months after LPI i.e., approximately 28 months</time_frame>
+    <description>DOR defined as time from date of first IRC-determined response for participants achieving PR or better to first documentation of progressive disease (PD) determined by IRC or death, whichever occurred first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to first response (TT1R)</measure>
+    <time_frame>18 months after LPI i.e., approximately 28 months</time_frame>
+    <description>TT1R defined as time from randomization to first IRC determined response (PR or better) that is subsequently confirmed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to best response (TTBR)</measure>
+    <time_frame>18 months after LPI i.e., approximately 28 months</time_frame>
+    <description>TTBR defined as time from randomization to first occurrence of IRC determined best response (PR or better) that is subsequently confirmed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression free survival (PFS)</measure>
+    <time_frame>18 months after LPI i.e., approximately 28 months</time_frame>
+    <description>PFS defined as time from the date of randomization to the date of first documentation of PD as determined by IRC or the date of death from any cause, whichever comes first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>18 months after LPI i.e., approximately 28 months</time_frame>
+    <description>OS defined as time from the date of randomization to death from any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of participants with anti-drug antibodies (ADA) against isatuximab</measure>
+    <time_frame>From Cycle 1 Day 1 to follow-up (90 days from last administration) i.e., approximately 13 months (1 Cycle = 28 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Expectations Questionnaire at Baseline (PEQ-BL v2) with isatuximab administered subcutaneously</measure>
+    <time_frame>Baseline</time_frame>
+    <description>PEQ-BL v2 is a participant assessed questionnaire. It will be completed at baseline prior to study treatment administration or other study related procedures. This questionnaire has been designed to assess the expectations of the participants regarding both the treatment (side effects, worth taking) and the administration method (confidence, comfortability, pain, side effects, potential time-savings), as well as to understand previous treatment experience from the participant (experience with injection methods for oncology medication).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient experience and satisfaction questionnaires (PESQ v2) with isatuximab administered subcutaneously</measure>
+    <time_frame>18 months after LPI i.e., approximately 28 months</time_frame>
+    <description>PESQ v2 is a participant assessed questionnaire. It has been designed to follow up on participant experience and satisfaction regarding the treatment (side effects, worth taking and overall satisfaction) and the administration method (confidence, comfortability, pain, side effects, potential time-savings and overall satisfaction). The PESQ v2 includes items to assess preference on subcutaneous injection method. This questionnaire has been developed using industry standard for instrument development and has been debriefed and adapted based on qualitative interviews with oncology patients. The more general treatment expectations instrument (v1) was further adapted and debriefed with patients to assess manual and OBDS subcutaneous delivery (v2). The PESQ v2 contains a total of 9 items. There are 6 items that are administered for the duration of treatment, and 3 preference items administered only after patient experience of both manual and OBDS.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health state utility assessed using Health Resource Utilization and Productivity Questionnaire (HRUPQ)</measure>
+    <time_frame>18 months after LPI i.e., approximately 28 months</time_frame>
+    <description>Medical resource utilization and participant productivity will be collected from participants through a specific questionnaire developed by Sanofi. The data collected include number, nature (emergency or routine) and duration of hospitalizations, emergency room visits and outpatient medical encounters and employment history.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health Related Quality of Life (HRQL)</measure>
+    <time_frame>18 months after LPI i.e., approximately 28 months</time_frame>
+    <description>HRQL is assessed using the European Organization for Research and Treatment of Cancer (EORTC) myeloma module with 20 items (QLQ-MY20) and EORTC quality of life questionnaire with 30 questions (QLQ-C30); a total of 50 items. The EORTC QLQ-C30 provides a comprehensive assessment of the principal HRQL dimensions identified as relevant by cancer patients. The EORTC QLQ-MY20 is to be used in conjunction with the EORTC QLQ-C30 to assess symptoms and side effects due to the treatment or the disease which impact HRQL in participants with MM.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>European Quality of Life Group questionnaire with 5 dimensions and 5 levels per dimension (EQ-5D-5L)</measure>
+    <time_frame>18 months after LPI i.e., approximately 28 months</time_frame>
+    <description>Health status is assessed using the EQ-5D-5L, a standardized measure of health status that provides a simple, generic measure of health utility, and consists of 2 sections: descriptive and VAS. The descriptive system consists of 5 dimensions: mobility, self-care, usual activities, pain/discomfort, and anxiety/depression. The VAS records the respondent's self-rated health on a 20 cm vertical VAS with endpoints labelled 'the best health you can imagine' and 'the worst health you can imagine'. This information can be used as a quantitative measure of health as judged by the individual respondents.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">68</enrollment>
+  <condition>Relapsed/Refractory Multiple Myeloma</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1: manual administration</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Isatuximab will be administered manually for 8 minutes on Day 1 of Cycle 1 followed by 6 minutes from Day 8 of Cycle 1 and thereafter.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1 Cohort 2: manual administration</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Isatuximab will be administered manually for 6 minutes on Day 1 of Cycle 1 and thereafter.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2 Randomized Cohort: OBDS to manual</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Isatuximab will be administered via OBDS from Cycle 1 to 3. For Cycle 4 to 6, the method of administration will be switched for each participant from OBDS to manual administration.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2 Randomized Cohort: Manual to OBDS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Isatuximab will be administered manually from Cycle 1 to 3. For Cycle 4 to 6, the method of administration will be switched for each participant from manual to OBDS administration.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Isatuximab</intervention_name>
+    <description>Pharmaceutical form: Solution for Subcutaneous administration; Route of administration: Subcutaneous</description>
+    <arm_group_label>Cohort 1: manual administration</arm_group_label>
+    <arm_group_label>Part 1 Cohort 2: manual administration</arm_group_label>
+    <arm_group_label>Part 2 Randomized Cohort: Manual to OBDS</arm_group_label>
+    <arm_group_label>Part 2 Randomized Cohort: OBDS to manual</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carfilzomib</intervention_name>
+    <description>Pharmaceutical form: Powder for solution for infusion; Route of administration: Intravenous</description>
+    <arm_group_label>Cohort 1: manual administration</arm_group_label>
+    <arm_group_label>Part 1 Cohort 2: manual administration</arm_group_label>
+    <arm_group_label>Part 2 Randomized Cohort: Manual to OBDS</arm_group_label>
+    <arm_group_label>Part 2 Randomized Cohort: OBDS to manual</arm_group_label>
+    <other_name>Kyprolis</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexamethasone</intervention_name>
+    <description>Pharmaceutical form: Tablet; Route of administration: Oral</description>
+    <arm_group_label>Cohort 1: manual administration</arm_group_label>
+    <arm_group_label>Part 1 Cohort 2: manual administration</arm_group_label>
+    <arm_group_label>Part 2 Randomized Cohort: Manual to OBDS</arm_group_label>
+    <arm_group_label>Part 2 Randomized Cohort: OBDS to manual</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexamethasone IV</intervention_name>
+    <description>Pharmaceutical form: Powder for solution for infusion; Route of administration: Intravenous</description>
+    <arm_group_label>Cohort 1: manual administration</arm_group_label>
+    <arm_group_label>Part 1 Cohort 2: manual administration</arm_group_label>
+    <arm_group_label>Part 2 Randomized Cohort: Manual to OBDS</arm_group_label>
+    <arm_group_label>Part 2 Randomized Cohort: OBDS to manual</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Participants must have a documented diagnosis of multiple myeloma (MM)&#xD;
+&#xD;
+          -  Participants with measurable disease defined as at least one of the following:&#xD;
+&#xD;
+               -  Serum M-protein ≥0.5 g/dL measured using serum protein immunoelectrophoresis&#xD;
+                  and/or&#xD;
+&#xD;
+               -  Urine M-protein ≥200 mg/24 hours measured using urine protein&#xD;
+                  immunoelectrophoresis and/or&#xD;
+&#xD;
+               -  Serum free light chain (FLC) assay: Involved FLC assay ≥10 mg/dL (≥100 mg/L) and&#xD;
+                  an abnormal serum FLC ratio (&lt;0.26 or &gt;1.65).&#xD;
+&#xD;
+          -  Participant with relapsed and/or refractory MM with at least 1 prior line of therapy&#xD;
+             and no more than 3 prior lines of therapy.&#xD;
+&#xD;
+          -  A female participant is eligible to participate if she is not pregnant, not&#xD;
+             breastfeeding, and either is not a female of childbearing potential (FCBP) or agrees&#xD;
+             to practice complete abstinence or use approved contraception methods.&#xD;
+&#xD;
+          -  Male participants agree to practice true abstinence or agree to use approved&#xD;
+             contraception methods while receiving study treatment, during dose interruptions and&#xD;
+             at least 3 months following study treatment discontinuation, even if has undergone a&#xD;
+             successful vasectomy.&#xD;
+&#xD;
+          -  Capable of giving signed informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Primary refractory MM defined as participants who have never achieved at least a&#xD;
+             minimal response (MR) with any treatment during the disease course -Participants with&#xD;
+             prior anti-CD38 treatment are excluded if: a) Progression on or within 60 days after&#xD;
+             end of anti-CD38 mAb treatment or failure to achieve at least MR to treatment (ie,&#xD;
+             refractory to anti-CD38) with a washout period inferior to 9 months before the first&#xD;
+             isatuximab administration or, b) Intolerant to the anti-CD38 previously received&#xD;
+&#xD;
+          -  Prior treatment with carfilzomib&#xD;
+&#xD;
+          -  Known history of allergy to captisol (a cyclodextrin derivative used to solubilize&#xD;
+             carfilzomib), prior hypersensitivity to sucrose, histidine (as base and hydrochloride&#xD;
+             salt), polysorbate 80, or any of the components (active substance or excipient) of&#xD;
+             study treatment that are not amenable to premedication with steroids, or intolerance&#xD;
+             to arginine and Poloxamer 188 that would prohibit further treatment with these agents&#xD;
+&#xD;
+          -  Uncontrolled or active infection with hepatitis A, B, and C virus; known acquired&#xD;
+             immunodeficiency syndrome (AIDS)-related illness; active primary amyloid light chain&#xD;
+             (AL) amyloidosis -Any severe acute or chronic medical condition which could impair the&#xD;
+             ability of the participant to participate in the study or interfere with&#xD;
+             interpretation of study results (eg, systemic infection unless specific anti-infective&#xD;
+             therapy is employed) or participant unable to comply with the study procedures.&#xD;
+&#xD;
+        The above information is not intended to contain all considerations relevant to a potential&#xD;
+        participation in a clinical trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Sciences &amp; Operations</last_name>
+    <role>Study Director</role>
+    <affiliation>Sanofi</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Trial Transparency email recommended (Toll free for US &amp; Canada)</last_name>
+    <phone>800-633-1610</phone>
+    <phone_ext>option 6</phone_ext>
+    <email>Contact-US@sanofi.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Investigational Site Number :0360002</name>
+      <address>
+        <city>Wollongong</city>
+        <state>New South Wales</state>
+        <zip>2500</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :0360001</name>
+      <address>
+        <city>Fitzroy</city>
+        <state>Victoria</state>
+        <zip>3065</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :3000002</name>
+      <address>
+        <city>Athens</city>
+        <zip>11528</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :3920001</name>
+      <address>
+        <city>Kashiwa-shi</city>
+        <state>Chiba</state>
+        <zip>277-8577</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number :3920002</name>
+      <address>
+        <city>Okayama-shi</city>
+        <state>Okayama</state>
+        <zip>701-1192</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Greece</country>
+    <country>Japan</country>
+  </location_countries>
+  <verification_date>June 2, 2023</verification_date>
+  <study_first_submitted>January 20, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>June 2, 2023</last_update_submitted>
+  <last_update_submitted_qc>June 2, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 5, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple Myeloma</mesh_term>
+    <mesh_term>Neoplasms, Plasma Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dexamethasone</mesh_term>
+    <mesh_term>Dexamethasone acetate</mesh_term>
+    <mesh_term>BB 1101</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers may request access to patient level data and related study documents including the clinical study report, study protocol with any amendments, blank case report form, statistical analysis plan, and dataset specifications. Patient level data will be anonymized and study documents will be redacted to protect the privacy of trial participants. Further details on Sanofi's data sharing criteria, eligible studies, and process for requesting access can be found at: https://vivli.org</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

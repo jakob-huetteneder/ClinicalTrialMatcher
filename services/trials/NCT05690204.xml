@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9786">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05690204</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SAP001-202</org_study_id>
+    <nct_id>NCT05690204</nct_id>
+  </id_info>
+  <brief_title>Dose Finding Study to Evaluate Safety and Efficacy of 3 Dosages of SAP 001.</brief_title>
+  <official_title>A Phase 2B Study to Evaluate the Efficacy and Safety in Combination With Standard of Care in Adult Subjects With Gout, and Hyperuricemia Refractory to Conventional XOI Therapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shanton Pharma Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Shanton Pharma Co., Ltd.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to confirm the safety and pharmacological characteristics of&#xD;
+      SAP-001, evaluate its efficacy in lowering sUA and tophus burden, and identify the&#xD;
+      appropriate dose regimen for future studies in adult subjects with gout, with or without&#xD;
+      tophi, and hyperuricemia refractory to SoC XOI therapy.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A Phase 2B, multicenter, randomized, double-blind, placebo-controlled, dose-finding study to&#xD;
+      assess the safety, PK, PD, and efficacy of 3 orally administered dosages of SAP-001 (10 mg&#xD;
+      QD, 30 mg QD, and 60 mg QD) compared to placebo QD in adult subjects with gout, with or&#xD;
+      without tophi, and hyperuricemia refractory to standard-of-care (SoC) XOI therapy. In the&#xD;
+      completed Phase 1 and Phase 2 studies, SAP-001 was well tolerated at single doses up to 120&#xD;
+      mg and at dosages up to 60 mg QD for 28-days in subjects with gout and hyperuricemia and&#xD;
+      demonstrated statistically significant reductions in sUA levels compared to placebo.&#xD;
+&#xD;
+      The aim of this study is to confirm the safety and pharmacological characteristics of SAP-001&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 12, 2022</start_date>
+  <completion_date type="Anticipated">February 2024</completion_date>
+  <primary_completion_date type="Anticipated">November 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>primary</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>assess the proportion of subjects who achieved sUA levels less than 6 mg/dl by laboratory results</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>AE</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Incidence of AEs including SAE and TEAEs by CTCAE criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline on PE measure</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Changes from baseline in Physical Exam based on number of participants with abnormal findings</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from Baseline on ECGs</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Changes from baseline in ECG parameters by QTc intervals</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Gout</condition>
+  <arm_group>
+    <arm_group_label>Placebo versus SAP 001</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Placebo arm</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SAP001 10 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SAP001 10 mg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SAP001 30 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SAP001 30mg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SAP001 60 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SAP001 60 mg</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SAP001</intervention_name>
+    <description>Test the efficacy and safety of SAP 001 versus placebo</description>
+    <arm_group_label>Placebo versus SAP 001</arm_group_label>
+    <arm_group_label>SAP001 10 mg</arm_group_label>
+    <arm_group_label>SAP001 30 mg</arm_group_label>
+    <arm_group_label>SAP001 60 mg</arm_group_label>
+    <other_name>Xanthine Oxidase Inhibitor</other_name>
+    <other_name>Colchicine</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Male or female ≥18 and ≤65 years of age, willing and able to provide informed consent and&#xD;
+        to adhere to the requirements and guidelines of the protocol.&#xD;
+&#xD;
+        2. Body mass index ≥19 and ≤40 kg/m2 at the Screening Visit (Visit 1). 3. Subject must&#xD;
+        already have been diagnosed with symptomatic gout according to the current American College&#xD;
+        of Rheumatology (ACR) scoring criteria for the classification of primary gout or had&#xD;
+        symptomatic gout with at least 3 gout flares in the previous 18 months or at least 1 gout&#xD;
+        tophus or gouty arthritis, and be refractory to SoC XOI therapy as defined by a medical&#xD;
+        history of failure to normalize sUA to &lt;6 mg/dL (the ACR target for gout) with at least 3&#xD;
+        months of SoC XOI treatment at the maximum medically appropriate dose or a self-reported&#xD;
+        medical contraindication to SoC XOI therapy or in whom SoC XOI therapy is not considered&#xD;
+        medically appropriate treatment for symptomatic gout.&#xD;
+&#xD;
+        4. Subject must have been on SoC XOI therapy for gout and hyperuricemia for at least 4&#xD;
+        weeks immediately before the Randomization Visit (Day 1, Visit 4) unless SoC XOI therapy is&#xD;
+        contraindicated or not medically appropriate.&#xD;
+&#xD;
+        5. Subject must have sUA levels ≥7.5 mg/dL at the Screening Visit (Visit 1) and&#xD;
+        Randomization (Day 1, Visit 4) Visits&#xD;
+&#xD;
+        -&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Subjects not previously diagnosed as having gout before the Screening Visit. 2. Subject has&#xD;
+        used any prescription drugs (eg, losartan, pegloticase, URAT1 inhibitors), over-the-counter&#xD;
+        (OTC) medications, herbal medications or products, vitamins, or minerals that are known to&#xD;
+        lower sUA levels (except SoC XOI therapies) within 14 days prior to the Randomization Visit&#xD;
+        (Day 1, Visit 4). Subjects who are already taking losartan for blood-pressure control are&#xD;
+        allowed to enroll in the study and continue taking losartan if they have been on a stable&#xD;
+        dose for at least 6 months prior to Randomization Visit (Day 1, Visit 4).&#xD;
+&#xD;
+        3. Subject was not compliant with taking placebo during the Run-in Period (defined as&#xD;
+        taking &lt;80% or &gt;120% of planned placebo doses) or the investigator determines that the&#xD;
+        subject was not compliant with SoC XOI gout medications (unless SoC XOI SAP-001 SHANTON&#xD;
+        PHARMA PTE. LTD. Clinical Trial Protocol: SAP-001-202 Version 3.0 (Amendment 2) 10 October&#xD;
+        2022 Confidential Page 9 of 125 therapy is contraindicated or not medically appropriate)&#xD;
+        during the Run-in Period as assessed at the Randomization Visit (Visit 4).&#xD;
+&#xD;
+        4. Subject had an acute gout flare (exclusive of symptomology associated with chronic&#xD;
+        synovitis/arthritis) that did not resolve at least 14 days prior to the Randomization Visit&#xD;
+        (Day 1, Visit 4). If an acute gout flare occurs during the Screening or Run-in Periods, the&#xD;
+        subject may be rescreened after a period of at least 14 days has passed following&#xD;
+        resolution of the flare.&#xD;
+&#xD;
+        5. Serum creatinine level &gt;1.5 mg/dL and/or estimated glomerular filtration rate (eGFR) ≤60&#xD;
+        mL/min/1.73 m2 calculated using the Chronic Kidney Disease Epidemiology Collaboration&#xD;
+        (CKD-EPI) equation by central laboratory results at the Screening Visit (Visit 1) or prior&#xD;
+        to randomization at the Randomization Visit (Day 1, Visit 4).&#xD;
+&#xD;
+        6. Abnormal liver function tests, defined as aspartate aminotransferase (AST) or alanine&#xD;
+        aminotransferase (ALT) &gt;1.5 × upper limit of normal (ULN) or total bilirubin &gt;ULN by&#xD;
+        central laboratory results at the Screening Visit (Visit 1) or prior to randomization at&#xD;
+        the Randomization Visit (Day 1, Visit 4). Subjects with a history of Gilbert's syndrome may&#xD;
+        be enrolled if total bilirubin &lt;2 × ULN by central laboratory results at the Screening&#xD;
+        Visit (Visit 1) and prior to randomization at the Randomization Visit (Day 1, Visit 4).&#xD;
+&#xD;
+        7. Subjects diagnosed with acute liver disease within 2 years prior to the Screening Visit&#xD;
+        (Visit 1).&#xD;
+&#xD;
+        8. Subjects previously diagnosed with chronic liver disease or hepatic insufficiency before&#xD;
+        the Screening Visit (Visit 1).&#xD;
+&#xD;
+        9. Subjects with a current or history of suspected hepatic steatosis (fatty liver)&#xD;
+        Historical liver ultrasound may be used to evaluate hepatic steatosis&#xD;
+&#xD;
+        -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Celina Cabale-Scholl</last_name>
+    <role>Study Director</role>
+    <affiliation>Shanton Pharma</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Celina Cabale-Scholl</last_name>
+    <phone>609-651-6291</phone>
+    <email>ccabale-scholl@shantonpharma.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>San Diego clinic</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92119</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Celina Cabale-Scholl</last_name>
+      <phone>609-651-6291</phone>
+      <email>ccabale-scholl@shantonpharma.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Site</name>
+      <address>
+        <city>Miami Lakes</city>
+        <state>Florida</state>
+        <zip>33014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Celina Cabale-Scholl</last_name>
+      <phone>609-651-6291</phone>
+      <email>ccabale-scholl@shantonpharma.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Miami clinic</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Celina Cabale-Scholl</last_name>
+      <phone>609-651-6291</phone>
+      <email>ccabale-scholl@shantonpharma.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Orlando clinic</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32713</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Celina Cabale-Scholl</last_name>
+      <phone>609-651-6291</phone>
+      <email>ccabale-scholl@shantonpharma.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Idaho Clinical Site</name>
+      <address>
+        <city>Boise</city>
+        <state>Idaho</state>
+        <zip>83713</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Celina Cabale-Scholl</last_name>
+      <phone>609-651-6291</phone>
+      <email>ccabale-scholl@shantonpharma.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Jackson Clinic</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>39202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Celina Cabale-Scholl</last_name>
+      <phone>609-651-6291</phone>
+      <email>ccabale-scholl@shantonpharma.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>New York Medical Clinic</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10036</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Celina Cabale-Scholl</last_name>
+      <phone>609-651-6291</phone>
+      <email>ccabale-scholl@shantonpharma.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Houston Clinical Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77832</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Celina Cabale-Scholl</last_name>
+      <phone>609-651-6291</phone>
+      <email>ccabale-scholl@shantonpharma.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mesquite Clinical Site</name>
+      <address>
+        <city>Mesquite</city>
+        <state>Texas</state>
+        <zip>75150</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Celina Cabale-Scholl</last_name>
+      <phone>609-651-6291</phone>
+      <email>ccabale-scholl@shantonpharma.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>December 12, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 9, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>April 11, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 11, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 14, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Gout</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colchicine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

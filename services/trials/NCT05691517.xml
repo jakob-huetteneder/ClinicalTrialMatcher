@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9727">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05691517</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2022-11034</org_study_id>
+    <secondary_id>NCI-2022-11034</secondary_id>
+    <secondary_id>001031</secondary_id>
+    <secondary_id>10577</secondary_id>
+    <secondary_id>10577</secondary_id>
+    <nct_id>NCT05691517</nct_id>
+  </id_info>
+  <brief_title>Testing How the Body Responds to the Drug CBX-12 in Patients With Advanced Solid Cancers</brief_title>
+  <official_title>Pilot Study of CBX-12 Pharmacodynamics in Patients With Advanced Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I trial studies how well CBX-12 works in treating patients with solid tumors that&#xD;
+      have spread from where they first started (primary site) to started to nearby tissue, lymph&#xD;
+      nodes, or distant parts of the body (advanced) or other places in the body (metastatic).&#xD;
+      CBX-12 works by binding to a protein called TOP1 that is present inside the cells. This&#xD;
+      allows CBX-12 to kill the cancer cells by damaging their DNA, resulting in cancer cell death.&#xD;
+      This trial is being done to find out if this approach is better or worse than the usual&#xD;
+      approach for advanced cancers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVE:&#xD;
+&#xD;
+      I. Assess the effects of CBX-12 on biomarkers of DDR in biopsy specimens from patients with&#xD;
+      advanced solid tumors at baseline and 24-30 hours post-first dose to establish the degree and&#xD;
+      duration of CBX-12 target engagement.&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. Assess the effects of CBX-12 on tumor TOP1 molecular response at baseline and 24-30 hours&#xD;
+      post-first dose.&#xD;
+&#xD;
+      II. Determine any association between tumor TOP1 and DDR modulation and plasma exatecan&#xD;
+      concentrations.&#xD;
+&#xD;
+      III. Evaluate the effects of CBX-12 on CD8 T cell infiltration and activation in tumor.&#xD;
+&#xD;
+      EXPLORATORY OBJECTIVES:&#xD;
+&#xD;
+      I. Measure the effects of CBX-12 on molecular markers of apoptosis. II. Examine any genomic&#xD;
+      or gene expression characteristics in tumor that may be associated with sensitivity or&#xD;
+      resistance to CBX-12.&#xD;
+&#xD;
+      III. Examine any genomic alterations in circulating tumor deoxyribonucleic acid (DNA) (ctDNA)&#xD;
+      that may be associated with sensitivity or resistance to CBX-12.&#xD;
+&#xD;
+      IV. Measure changes in levels of any anti-drug antibodies that may develop during CBX-12&#xD;
+      therapy (Cybrexa assay).&#xD;
+&#xD;
+      V. Examine the molecular context of drug sensitivity or resistance (e.g., SLFN11 expression).&#xD;
+&#xD;
+      OUTLINE:&#xD;
+&#xD;
+      Patients receive CBX-12 intravenously (IV) on study. Patients undergo tumor biopsy and&#xD;
+      computed tomography (CT) scans on study and undergo blood sample collection throughout the&#xD;
+      trial.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 21, 2023</start_date>
+  <completion_date type="Anticipated">March 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2025</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Early Rad51/deoxyribonucleic acid (DNA) damage response (DDR)</measure>
+    <time_frame>At cycle 1 day 2 (1 cycle = 28 days)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Late Rad51/DDR response</measure>
+    <time_frame>At cycle 3 day 1</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Tumor TOP1 molecular response</measure>
+    <time_frame>Up to 24-30 hours post-first dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DDR modulation and plasma exatecan concentrations</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Association between tumor TOP1 and DDR modulation and plasma exatecan concentrations will be determined.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CD8 T cell infiltration and activation in tumor</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>The effects of CBX-12 on CD8 T cell infiltration and activation in tumor will be evaluated.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Molecular markers of apoptosis</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Non-parametric analyses will be used for these evaluations. In view of the exploratory nature of these analyses, any p-values reported will not be adjusted for multiple comparisons, and any such analyses will be stated carefully as being hypothesis-generating.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Genomic or gene expression characteristics in tumor that may be associated with sensitivity or resistance to CBX-12</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Non-parametric analyses will be used for these evaluations. In view of the exploratory nature of these analyses, any p-values reported will not be adjusted for multiple comparisons, and any such analyses will be stated carefully as being hypothesis-generating.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Genomic alterations in circulating tumor DNA that may be associated with sensitivity or resistance to CBX-12</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Non-parametric analyses will be used for these evaluations. In view of the exploratory nature of these analyses, any p-values reported will not be adjusted for multiple comparisons, and any such analyses will be stated carefully as being hypothesis-generating.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Changes in levels of any anti-drug antibodies</measure>
+    <time_frame>Baseline up to 2 years</time_frame>
+    <description>Non-parametric analyses will be used for these evaluations. In view of the exploratory nature of these analyses, any p-values reported will not be adjusted for multiple comparisons, and any such analyses will be stated carefully as being hypothesis-generating.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Molecular context of drug sensitivity or resistance</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Non-parametric analyses will be used for these evaluations. In view of the exploratory nature of these analyses, any p-values reported will not be adjusted for multiple comparisons, and any such analyses will be stated carefully as being hypothesis-generating.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">35</enrollment>
+  <condition>Advanced Malignant Solid Neoplasm</condition>
+  <condition>Metastatic Malignant Solid Neoplasm</condition>
+  <arm_group>
+    <arm_group_label>Treatment (CBX-12)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive CBX-12 IV on study. Patients undergo tumor biopsy and CT scans on study and undergo blood sample collection throughout the trial.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Biopsy</intervention_name>
+    <description>Undergo tumor biopsy</description>
+    <arm_group_label>Treatment (CBX-12)</arm_group_label>
+    <other_name>BIOPSY_TYPE</other_name>
+    <other_name>Bx</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Biospecimen Collection</intervention_name>
+    <description>Undergo blood sample collection</description>
+    <arm_group_label>Treatment (CBX-12)</arm_group_label>
+    <other_name>Biological Sample Collection</other_name>
+    <other_name>Biospecimen Collected</other_name>
+    <other_name>Specimen Collection</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Computed Tomography</intervention_name>
+    <description>Undergo CT scan</description>
+    <arm_group_label>Treatment (CBX-12)</arm_group_label>
+    <other_name>CAT</other_name>
+    <other_name>CAT Scan</other_name>
+    <other_name>Computed Axial Tomography</other_name>
+    <other_name>Computerized Axial Tomography</other_name>
+    <other_name>Computerized axial tomography (procedure)</other_name>
+    <other_name>Computerized Tomography</other_name>
+    <other_name>CT</other_name>
+    <other_name>CT Scan</other_name>
+    <other_name>tomography</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>pH Low Insertion Peptide-exatecan Conjugate CBX-12</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (CBX-12)</arm_group_label>
+    <other_name>Alphalex Conjugate CBX-12</other_name>
+    <other_name>Alphalex-exatecan Conjugate CBX-12</other_name>
+    <other_name>CBX 12</other_name>
+    <other_name>CBX-12</other_name>
+    <other_name>CBX12</other_name>
+    <other_name>Low pH Targeting Alphalex-exatecan Conjugate CBX-12</other_name>
+    <other_name>pHLIP-exatecan Conjugate CBX-12</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients must have histologically confirmed solid tumors with metastatic disease that&#xD;
+             have progressed after &gt;= 1 line of prior therapy&#xD;
+&#xD;
+          -  Patients must have measurable disease as defined by Response Evaluation Criteria in&#xD;
+             Solid Tumors (RECIST) version (v)1.1, with at least one lesion that can be accurately&#xD;
+             measured in at least one dimension (longest diameter to be recorded for non-nodal&#xD;
+             lesions and short axis for nodal lesions) as &gt;= 20 mm (&gt;= 2 cm) by chest x-ray or as&#xD;
+             &gt;= 10 mm (&gt;= 1 cm) with CT scan, MRI, or calipers by clinical exam)&#xD;
+&#xD;
+          -  Patients must have a tumor site amenable to biopsy&#xD;
+&#xD;
+          -  Age &gt;= 18 years of age&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status =&lt; 2 (Karnofsky &gt;= 60%)&#xD;
+&#xD;
+          -  Absolute neutrophil count &gt;= 1,500/mcL&#xD;
+&#xD;
+          -  Hemoglobin &gt;= 9 g/L&#xD;
+&#xD;
+          -  Platelets &gt;= 100,000/mcL&#xD;
+&#xD;
+          -  Total bilirubin =&lt; 1.5 x institutional upper limit of normal (ULN)&#xD;
+&#xD;
+               -  However, patients with known Gilbert disease who have serum bilirubin level of up&#xD;
+                  to 3 mg/dl may be enrolled&#xD;
+&#xD;
+          -  International normalized ratio (INR) or activated partial thromboplastin time (aPTT)&#xD;
+             =&lt; 1.5 institutional upper limit of normal (ULN)&#xD;
+&#xD;
+          -  Aspartate aminotransferase (AST) serum glutamic oxaloacetic transaminase&#xD;
+             (SGOT)/alanine aminotransferase (ALT) serum glutamic pyruvic transaminase (SGPT) =&lt; 3&#xD;
+             x institutional ULN&#xD;
+&#xD;
+               -  AST and/or ALT =&lt; 5 x ULN for patients with liver involvement&#xD;
+&#xD;
+          -  Creatinine =&lt; 1.5 x institutional ULN or creatinine clearance levels &gt;= 30 mL/min/1.73&#xD;
+             m^2 are permitted as the study agents are not secreted by the kidney&#xD;
+&#xD;
+          -  Human immunodeficiency virus (HIV)-infected patients on effective anti-retroviral&#xD;
+             therapy with undetectable viral load within 6 months are eligible for this trial. For&#xD;
+             these patients, an HIV viral load test must be completed within 28 days prior to&#xD;
+             enrollment&#xD;
+&#xD;
+          -  For patients with evidence of chronic hepatitis B virus (HBV) infection, the HBV viral&#xD;
+             load must be undetectable on suppressive therapy, if indicated&#xD;
+&#xD;
+          -  Patients with a history of hepatitis C virus (HCV) infection must have been treated&#xD;
+             and cured. For patients with HCV infection who are currently on treatment, they are&#xD;
+             eligible if they have an undetectable HCV viral load&#xD;
+&#xD;
+          -  Patients with treated brain metastases are eligible if follow-up brain imaging after&#xD;
+             central nervous system (CNS)-directed therapy shows no evidence of progression for &gt;=&#xD;
+             1 month after treatment of the brain metastases&#xD;
+&#xD;
+          -  Patients with a prior or concurrent malignancy whose natural history or treatment does&#xD;
+             not have the potential to interfere with the safety or efficacy assessment of the&#xD;
+             investigational regimen are eligible for this trial&#xD;
+&#xD;
+          -  Patients with known history or current symptoms of cardiac disease, or history of&#xD;
+             treatment with cardiotoxic agents, should have a clinical risk assessment of cardiac&#xD;
+             function using the New York Heart Association Functional Classification. To be&#xD;
+             eligible for this trial, patients should be class 2B or better&#xD;
+&#xD;
+          -  The effects of CBX-12 on the developing human fetus are unknown. For this reason and&#xD;
+             because biologicals conjugated to topoisomerase 1 inhibitor agents are known to be&#xD;
+             teratogenic, women of child-bearing potential and men must agree to use adequate&#xD;
+             contraception (hormonal or barrier method of birth control or abstinence) prior to&#xD;
+             study entry and for the duration of study participation and for at least 4 months&#xD;
+             after the last dose of study drug. Should a woman become pregnant or suspect she is&#xD;
+             pregnant while she or her partner is participating in this study, she should inform&#xD;
+             her treating physician immediately. Women should not breastfeed while taking CBX-12&#xD;
+             and for 4 months after cessation of treatment. Men treated or enrolled on this&#xD;
+             protocol must also agree to use adequate contraception prior to the study, for the&#xD;
+             duration of study participation, and 4 months after completion of CBX-12&#xD;
+             administration&#xD;
+&#xD;
+          -  Willingness to provide biopsy samples for research purposes&#xD;
+&#xD;
+          -  Ability to understand and the willingness to sign a written informed consent document.&#xD;
+             Legally authorized representatives may sign and give informed consent on behalf of&#xD;
+             study participants&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients must have recovered from clinically-significant adverse-events of their most&#xD;
+             recent cancer immunotherapy to grade 1 or less (with the exception for alopecia or&#xD;
+             lymphopenia)&#xD;
+&#xD;
+          -  Eligibility of subjects receiving any medications or substances known to affect or&#xD;
+             with the potential to affect the activity of CBX-12 or exatecan will be determined&#xD;
+             following review of their cases by the Principal Investigator&#xD;
+&#xD;
+          -  Patients who are receiving any other investigational agents&#xD;
+&#xD;
+          -  History of allergic reactions attributed to compounds of similar chemical or biologic&#xD;
+             composition to CBX-12 (e.g., other topoisomerase I inhibitors) or the inactive&#xD;
+             ingredients in the drug product&#xD;
+&#xD;
+          -  Patients with uncontrolled intercurrent illness that would limit compliance with study&#xD;
+             requirements&#xD;
+&#xD;
+          -  Pregnant women are excluded from this study because CBX-12 is an investigational agent&#xD;
+             with unknown potential for teratogenic or abortifacient effects. For this reason,&#xD;
+             women of child-bearing potential must agree to use adequate contraception (hormonal or&#xD;
+             barrier method of birth control or abstinence) for the duration of study participation&#xD;
+             and for at least 4 months after the last dose of the study. Because there is an&#xD;
+             unknown but potential risk for adverse events in nursing infants secondary to&#xD;
+             treatment of the mother and because it is not known if the agent can be excreted in&#xD;
+             human milk, breastfeeding should be discontinued while the mother is taking CBX-12 and&#xD;
+             for 4 months after cessation of treatment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Geraldine O'Sullivan Coyne</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Cancer Institute LAO</affiliation>
+  </overall_official>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 18, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>April 25, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 25, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Exatecan</mesh_term>
+    <mesh_term>Camptothecin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>NCI is committed to sharing data in accordance with NIH policy. For more details on how clinical trial data is shared, access the link to the NIH data sharing policy page.</ipd_description>
+    <ipd_url>https://grants.nih.gov/policy/sharing.htm</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

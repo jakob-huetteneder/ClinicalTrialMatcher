@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9633">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05693935</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TV44749-CNS-30096</org_study_id>
+    <secondary_id>2022-001865-11</secondary_id>
+    <nct_id>NCT05693935</nct_id>
+  </id_info>
+  <brief_title>A Randomized, Double-Blind, Placebo-Controlled Study With an Open-Label, Long-Term Safety Phase to Evaluate the Efficacy and Safety of TV-44749 in Adults With Schizophrenia</brief_title>
+  <acronym>SOLARIS</acronym>
+  <official_title>A Multinational, Multicenter, Randomized, Double-Blind, Parallel-Group, Placebo-Controlled Study With an Open-Label, Long-Term Safety Phase to Evaluate the Efficacy, Safety, and Tolerability of Olanzapine for Extended-Release Injectable Suspension (TV-44749) for Subcutaneous Use as Treatment of Adult Patients With Schizophrenia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Teva Branded Pharmaceutical Products R&amp;D, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Teva Branded Pharmaceutical Products R&amp;D, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this study is to evaluate the efficacy of TV-44749 in adult patients&#xD;
+      with schizophrenia.&#xD;
+&#xD;
+      A key secondary objective is to further evaluate the efficacy of TV-44749 based on additional&#xD;
+      parameters in adult patients with schizophrenia.&#xD;
+&#xD;
+      A secondary objective is to evaluate the safety and tolerability of TV-44749 in adult&#xD;
+      patients with schizophrenia&#xD;
+&#xD;
+      Another secondary objective of this study is to evaluate the efficacy of TV-44749 from&#xD;
+      baseline to endpoint in Period 1 in adult patients with schizophrenia.&#xD;
+&#xD;
+      Total study duration is up to 61 weeks, and treatment duration is up to 56 weeks, with weekly&#xD;
+      visits during the first 8 weeks and then monthly in-clinic visits with weekly calls during&#xD;
+      the remainder of the treatment period.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients with exacerbation of schizophrenia may be included. The study will be composed of 2&#xD;
+      periods: Period 1 (the double-blind, placebo-controlled, efficacy and safety period) and&#xD;
+      Period 2 (open-label long term safety period). For each patient, the duration of Period 1&#xD;
+      will be 8 weeks, and the duration of Period 2 will be up to 48 weeks. In Period 1, patients&#xD;
+      will be randomized to one of 3 TV-44749 treatment groups or a placebo group in a 1:1:1:1&#xD;
+      ratio. All patients will be randomized again to one of the TV44749 treatment groups in a&#xD;
+      1:1:1 ratio for Period 2. The end-of-treatment and follow-up visits will be at 4 and 8 weeks&#xD;
+      after the last dose of investigational medicinal product administration, respectively.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 24, 2023</start_date>
+  <completion_date type="Anticipated">October 16, 2025</completion_date>
+  <primary_completion_date type="Anticipated">October 27, 2024</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline to week 8 in the Positive and Negative Syndrome Scale (PANSS) total score</measure>
+    <time_frame>Baseline, Week 8</time_frame>
+    <description>Data gathered from this assessment procedure are applied to the PANSS ratings. Each of the 30 items is accompanied by a specific definition as well as detailed anchoring criteria for all seven rating points. These seven points represent increasing levels of psychopathology, as follows: 1- absent 2- minimal 3- mild 4- moderate 5- moderate severe 6- severe 7- extreme.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Clinical Global Impression-Severity (CGI-S) scale score from baseline to week 8</measure>
+    <time_frame>Baseline, Week 8</time_frame>
+    <description>The CGI-S rates this severity of a 1-7 scale, with (1) representing normal symptoms, meaning the patient is not ill. The highest on the scale, (7), represents patients among the most severely ill. Right in the middle at (4), a patient will be defined as moderately ill.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Personal and Social Performance Scale (PSP) score from baseline to week 8</measure>
+    <time_frame>Baseline, Week 8</time_frame>
+    <description>The PSP is a clinician-based rating instrument providing an overall rating of personal and social functioning in psychiatric patients on a scale of 0 (grossly impaired functioning) to 100 (excellent functioning).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants reporting at least one Adverse Event</measure>
+    <time_frame>Baseline to Week 8</time_frame>
+    <description>Adverse events (including serious adverse events, extrapyramidal symptoms, injection pain and other injection site reactions), vital signs (blood pressure, pulse and orthostatic changes, and temperature), body weight, lab tests and ECGs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants reporting at least one Adverse Event</measure>
+    <time_frame>Week 8 to Week 60</time_frame>
+    <description>Adverse events (including serious adverse events, extrapyramidal symptoms, injection pain and other injection site reactions), vital signs (blood pressure, pulse and orthostatic changes, and temperature), body weight, lab tests and ECGs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in total PANSS score from baseline to weeks 1, 2, and 4</measure>
+    <time_frame>Baseline, Week 1, Week 2, Week 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Clinical Global Impression-Improvement (CGI-I) scale score from baseline to weeks 4 and 8</measure>
+    <time_frame>Baseline, Week 4, Week 8</time_frame>
+    <description>CGI-I scores range from 1 to 7: 0=not assessed (missing), 1=very much improved, 2=much improved, 3=minimally improved, 4=no change, 5=minimally worse, 6=much worse, 7=very much worse.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in CGI-S scale score from baseline to weeks 1, 2, and 4</measure>
+    <time_frame>Baseline, Week 1, Week 2, Week 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Patient Global Impression-Improvement (PGI-I) scale score from baseline to week 8</measure>
+    <time_frame>Baseline, Week 8</time_frame>
+    <description>The PGI-I score ranges from 1 (Very much better) through to 7 (Very much worse). The lower the score, the better the improvement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in PGI-I scale score from baseline to weeks 2 and 4</measure>
+    <time_frame>Baseline, Week 2, Week 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Schizophrenia Quality of Life Scale (SQLS) score from baseline to weeks 4 and 8</measure>
+    <time_frame>Baseline, Week 4, Week 8</time_frame>
+    <description>The SQLS questionnaire assesses schizophrenia quality of life. A higher score indicates worse quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in PSP score from baseline to week 4</measure>
+    <time_frame>Baseline, Week 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants reporting use of at least one Concomitant Medication</measure>
+    <time_frame>Baseline to Week 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants reporting use of at least one Concomitant Medication</measure>
+    <time_frame>Week 8 to Week 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants that discontinued the trial</measure>
+    <time_frame>Baseline to Week 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants that discontinued the trial</measure>
+    <time_frame>Week 8 to Week 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who Discontinued the trial due to Adverse Events</measure>
+    <time_frame>Baseline to Week 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who Discontinued the trial due to Adverse Events</measure>
+    <time_frame>Week 8 to Week 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Abnormal Involuntary Movement Scale (AIMS) total score</measure>
+    <time_frame>Baseline to Week 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in total score in Abnormal Involuntary Movement Scale (AIMS)</measure>
+    <time_frame>Week 8 to Week 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in Simpson-Angus Scale (SAS) mean score</measure>
+    <time_frame>Baseline to Week 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in Simpson-Angus Scale (SAS) mean score</measure>
+    <time_frame>Week 8 to Week 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in Barnes Akathisia Rating Scale (BARS) total score</measure>
+    <time_frame>Baseline to Week 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in Barnes Akathisia Rating Scale (BARS) total score</measure>
+    <time_frame>Week 8 to Week 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with any suicidal ideation or suicidal behavior according to the Columbia Suicide Severity Rating Scale (C-SSRS)</measure>
+    <time_frame>Baseline to Week 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with any suicidal ideation or suicidal behavior according to the Columbia Suicide Severity Rating Scale (C-SSRS)</measure>
+    <time_frame>Week 8 to Week 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in Calgary Depression Scale for Schizophrenia (CDSS)</measure>
+    <time_frame>Baseline to Week 8</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in Calgary Depression Scale for Schizophrenia (CDSS)</measure>
+    <time_frame>Week 8 to Week 60</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">640</enrollment>
+  <condition>Schizophrenia</condition>
+  <arm_group>
+    <arm_group_label>TV-44749 - Dose level 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Low dose regimen</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>TV-44749 - Dose level 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Medium dose regimen</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>TV-44749 - Dose level 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>High dose regimen</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matching Placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>TV-44749 - Dose level 1</intervention_name>
+    <description>In Period 1, 2 monthly injections. In Period 2, up to 12 monthly injections</description>
+    <arm_group_label>TV-44749 - Dose level 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>TV-44749 - Dose level 2</intervention_name>
+    <description>In Period 1, 2 monthly injections, In Period 2 up to 12 monthly injections</description>
+    <arm_group_label>TV-44749 - Dose level 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>TV-44749 - Dose level 3</intervention_name>
+    <description>In Period 1, 2 monthly injections. In Period 2, up to 12 monthly injections</description>
+    <arm_group_label>TV-44749 - Dose level 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>In Period 1, 2 monthly injections (Period 1 only)</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  The participant has a current confirmed diagnosis of schizophrenia according to the&#xD;
+             DSM-5, for &gt;1 year&#xD;
+&#xD;
+          -  The participant has exacerbation of schizophrenia that started ≤8 weeks prior to&#xD;
+             screening and would benefit from psychiatric hospitalization or continued&#xD;
+             hospitalization for symptoms of schizophrenia.&#xD;
+&#xD;
+          -  Participants who have received an antipsychotic treatment (other than clozapine) in&#xD;
+             the past year must have been responsive based on the investigator's judgment (and&#xD;
+             based on discussions with family members, caregivers, or healthcare professionals, as&#xD;
+             applicable).&#xD;
+&#xD;
+          -  Body mass index between 18.0 and 40.0 kg/m2, inclusive, at the time of screening&#xD;
+&#xD;
+          -  Women may be included only if they have a negative beta-human chorionic gonadotropin&#xD;
+             (β-HCG) test at screening and baseline&#xD;
+&#xD;
+          -  Women of childbearing potential must agree not to try to become pregnant, and, unless&#xD;
+             they have exclusively same-sex partners, must agree to use a highly effective method&#xD;
+             of contraception prior to the first administration of IMP, and agree to continue the&#xD;
+             use of this method for the duration of the study, and for 70 days after the last dose&#xD;
+             of IMP&#xD;
+&#xD;
+          -  The participant is in adequate health as determined by medical and psychiatric&#xD;
+             history, medical examination, electrocardiogram (ECG), serum chemistry, hematology,&#xD;
+             coagulation urinalysis, and serology.&#xD;
+&#xD;
+          -  NOTE- Additional criteria apply, please contact the investigator for more information&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  The participant has a current clinically significant DSM-5 diagnosis other than&#xD;
+             schizophrenia (has a primary current diagnosis other than schizophrenia or a comorbid&#xD;
+             diagnosis that is primarily responsible for the current symptoms and functional&#xD;
+             impairment).&#xD;
+&#xD;
+          -  The participant has a known history of the following: (a) borderline personality&#xD;
+             disorder, antisocial personality disorder, or bipolar disorder; (b) traumatic brain&#xD;
+             injury causing ongoing cognitive difficulties, Alzheimer's disease, or another form of&#xD;
+             dementia, or any chronic organic disease of the central nervous system; and (c)&#xD;
+             intellectual disability of a severity that would impact ability to participate in the&#xD;
+             study.&#xD;
+&#xD;
+          -  The participant was hospitalized for &gt;14 days (with the exception of social or&#xD;
+             administrative hospitalization) in the current exacerbation episode prior to&#xD;
+             screening.&#xD;
+&#xD;
+          -  The participant has a significant risk of violent behavior based on the participant's&#xD;
+             medical history or investigator's judgment.&#xD;
+&#xD;
+          -  The participant has a significant risk of committing suicide based on the&#xD;
+             participant's medical history or C-SSRS, and the investigator's judgment.&#xD;
+&#xD;
+          -  The participant is currently using an LAI antipsychotic or is still under the coverage&#xD;
+             period of the specific LAI at time of screening.&#xD;
+&#xD;
+          -  The participant has taken clozapine or has received electroconvulsive therapy within&#xD;
+             the last 12 months prior to screening.&#xD;
+&#xD;
+          -  The participant is currently receiving daily oral olanzapine at a dose &gt;20 mg/day.&#xD;
+&#xD;
+          -  The participant has current or a history of known hypersensitivity to olanzapine or&#xD;
+             any of the excipients of TV-44749 or the oral formulation of olanzapine.&#xD;
+&#xD;
+          -  The participant has had a significant sedation or delirium after antipsychotic&#xD;
+             treatment according to medical and psychiatric history and as judged by the&#xD;
+             investigator or suffered from delirium due to a medical condition.&#xD;
+&#xD;
+          -  The participant has a non-fasting glucose level of ≥200 mg/dL at screening&#xD;
+&#xD;
+          -  The participant meets criteria for moderate to severe substance use disorder (based on&#xD;
+             DSM-5 criteria) within the past 6 months (excluding those related to caffeine or&#xD;
+             nicotine)&#xD;
+&#xD;
+          -  NOTE- Additional criteria apply, please contact the investigator for more information&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Teva Medical Expert, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Teva Branded Pharmaceutical Products R&amp;D, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Teva U.S. Medical Information</last_name>
+    <phone>1-888-483-8279</phone>
+    <email>USMedInfo@tevapharm.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15453</name>
+      <address>
+        <city>Bentonville</city>
+        <state>Arkansas</state>
+        <zip>72712</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15460</name>
+      <address>
+        <city>Bentonville</city>
+        <state>Arkansas</state>
+        <zip>72712</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15465</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72211</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15470</name>
+      <address>
+        <city>Anaheim</city>
+        <state>California</state>
+        <zip>92805</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15449</name>
+      <address>
+        <city>Colton</city>
+        <state>California</state>
+        <zip>92324</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15481</name>
+      <address>
+        <city>Escondido</city>
+        <state>California</state>
+        <zip>92025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15490</name>
+      <address>
+        <city>Garden Grove</city>
+        <state>California</state>
+        <zip>92845</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15474</name>
+      <address>
+        <city>La Habra</city>
+        <state>California</state>
+        <zip>90631</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15482</name>
+      <address>
+        <city>Panorama City</city>
+        <state>California</state>
+        <zip>91402</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15455</name>
+      <address>
+        <city>Pico Rivera</city>
+        <state>California</state>
+        <zip>90660</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15471</name>
+      <address>
+        <city>Riverside</city>
+        <state>California</state>
+        <zip>92506</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15444</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15450</name>
+      <address>
+        <city>Santa Ana</city>
+        <state>California</state>
+        <zip>92701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15497</name>
+      <address>
+        <city>Santa Ana</city>
+        <state>California</state>
+        <zip>92701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15459</name>
+      <address>
+        <city>Santa Ana</city>
+        <state>California</state>
+        <zip>92705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15461</name>
+      <address>
+        <city>Sherman Oaks</city>
+        <state>California</state>
+        <zip>91403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15483</name>
+      <address>
+        <city>Torrance</city>
+        <state>California</state>
+        <zip>90502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15488</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15467</name>
+      <address>
+        <city>Miami Lakes</city>
+        <state>Florida</state>
+        <zip>03301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15494</name>
+      <address>
+        <city>Miami Lakes</city>
+        <state>Florida</state>
+        <zip>33014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15457</name>
+      <address>
+        <city>Miami Springs</city>
+        <state>Florida</state>
+        <zip>33166</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15484</name>
+      <address>
+        <city>Miami Springs</city>
+        <state>Florida</state>
+        <zip>33166</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15452</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15473</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15458</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33125</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15489</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33144</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15456</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33155</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15496</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33176-2302</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15468</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30331</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15469</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15485</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60640</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15480</name>
+      <address>
+        <city>Lincolnwood</city>
+        <state>Illinois</state>
+        <zip>60712</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15447</name>
+      <address>
+        <city>Shreveport</city>
+        <state>Louisiana</state>
+        <zip>71115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15442</name>
+      <address>
+        <city>Gaithersburg</city>
+        <state>Maryland</state>
+        <zip>20877</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15466</name>
+      <address>
+        <city>Flowood</city>
+        <state>Mississippi</state>
+        <zip>39232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15487</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15451</name>
+      <address>
+        <city>Berlin</city>
+        <state>New Jersey</state>
+        <zip>08009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15454</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45417</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15472</name>
+      <address>
+        <city>North Canton</city>
+        <state>Ohio</state>
+        <zip>44720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15443</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75243</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15486</name>
+      <address>
+        <city>DeSoto</city>
+        <state>Texas</state>
+        <zip>75115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 15464</name>
+      <address>
+        <city>Irving</city>
+        <state>Texas</state>
+        <zip>75062</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 52123</name>
+      <address>
+        <city>Iasi</city>
+        <zip>700282</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Teva Investigational Site 52126</name>
+      <address>
+        <city>Iasi</city>
+        <zip>700282</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Romania</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2023</verification_date>
+  <study_first_submitted>January 12, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 12, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>June 6, 2023</last_update_submitted>
+  <last_update_submitted_qc>June 6, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 7, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Schizophrenia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers may request access to patient level data and related study documents including the study protocol and the statistical analysis plan. Requests will be reviewed for scientific merit, product approval status, and conflicts of interest. Patient level data will be de-identified and study documents will be redacted to protect the privacy of trial participants and to protect commercially confidential information. Please visit www.clinicalstudydatarequest.com to make your request.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9667">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05693142</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RGX-202-1101</org_study_id>
+    <nct_id>NCT05693142</nct_id>
+  </id_info>
+  <brief_title>AFFINITY DUCHENNE: RGX-202 Gene Therapy in Participants With Duchenne Muscular Dystrophy (DMD)</brief_title>
+  <official_title>A Phase 1/2 Open-label, Dose Escalation and Dose Expansion Study to Evaluate the Safety, Tolerability, Pharmacodynamics, and Pharmacokinetics of Intravenous RGX-202 Gene Therapy in Males With Duchenne Muscular Dystrophy (DMD)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>REGENXBIO Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>REGENXBIO Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RGX-202 is a gene therapy designed to deliver a transgene for a novel microdystrophin that&#xD;
+      includes functional elements of naturally-occurring dystrophin including the C-Terminal (CT)&#xD;
+      domain.&#xD;
+&#xD;
+      This is a multicenter, open-label dose evaluation clinical study to assess the safety,&#xD;
+      tolerability and clinical efficacy of a one-time intravenous (IV) dose of RGX-202 in&#xD;
+      participants with Duchenne.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Duchenne muscular dystrophy (Duchenne) is a rare genetic disorder, caused by mutations in the&#xD;
+      gene responsible for making dystrophin, a protein of central importance for muscle cell&#xD;
+      structure and function. The absence of functional dystrophin protein in individuals with&#xD;
+      Duchenne results in cell damage during muscle contraction leading to cell death,&#xD;
+      inflammation, and fibrosis in muscle tissues, and ultimately progressive muscle weakness.&#xD;
+      RGX-202 is designed to use the AAV8 vector to deliver a transgene to muscle cells that&#xD;
+      encodes a novel microdystrophin that includes the functional elements of naturally occurring&#xD;
+      dystrophin including the C-Terminal (CT) domain. This is a Phase 1/2, multicenter,&#xD;
+      open-label, dose evaluation clinical study to assess the safety, tolerability,&#xD;
+      pharmacodynamics (microdystrophin protein levels), pharmacokinetics, and preliminary clinical&#xD;
+      efficacy of RGX-202 in 2 dose groups over 52 weeks when administered by one-time intravenous&#xD;
+      infusion (IV) in ambulatory male pediatric participants with Duchenne.&#xD;
+&#xD;
+      Six ambulatory, pediatric participants (ages 4-11 years old) with Duchenne are expected to&#xD;
+      enroll in two dose groups, with doses of 1x10^14 genome copies (GC)/kg body weight (n=3) and&#xD;
+      2x10^14 GC/kg body weight (n=3). The first 3 participants in each dose group will be dosed in&#xD;
+      staggered fashion, at least 4 weeks apart, following increasing body weight: ≤20kg, ≤30kg and&#xD;
+      ≤40kg. After an independent safety data review for each dose group, an expansion phase of the&#xD;
+      trial may allow for up to six additional participants to be enrolled at each dose (for a&#xD;
+      total of up to nine participants in each dose group). A total of up to 18 participants may be&#xD;
+      enrolled in the study.&#xD;
+&#xD;
+      A comprehensive, short-term, prophylactic immunosuppression regimen will be administered&#xD;
+      during treatment to mitigate a potential immune response.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 4, 2023</start_date>
+  <completion_date type="Anticipated">December 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 2025</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Dose Evaluation</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety measured by incidence of Adverse Events and Serious Adverse Events</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Evaluate incidences of AEs and SAEs</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy measured by change in Functional Assessment</measure>
+    <time_frame>Multiple timepoints through 52 weeks</time_frame>
+    <description>Longitudinal trajectory (mean and change from baseline) in North Star Ambulatory Assessment (NSAA) raw and total score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Microdystrophin protein expression</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>RGX-202 microdystrophin protein levels determined in muscle biopsy and vector genome concentrations in muscle</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics (PK)</measure>
+    <time_frame>Multiple timepoints through 52 weeks</time_frame>
+    <description>Vector genome concentrations as measured by polymerase chain reaction [PCR] to RGX-202 deoxyribonucleic acid [DNA] in serum.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vector Shedding</measure>
+    <time_frame>Multiple timepoints through 52 weeks</time_frame>
+    <description>Vector genome concentrations as measured by polymerase chain reaction [PCR] to RGX-202 deoxyribonucleic acid [DNA] in urine.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">18</enrollment>
+  <condition>Duchenne Muscular Dystrophy</condition>
+  <arm_group>
+    <arm_group_label>RGX-202 Dose 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A single IV infusion of RGX-202 at a dose of 1×10^14 GC/kg body weight</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>RGX-202 Dose 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A single IV infusion of RGX-202 at a dose of 2x10^14 GC/kg body weight</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>RGX-202</intervention_name>
+    <description>RGX-202 is a recombinant AAV8 containing a transgene encoding a novel microdystrophin</description>
+    <arm_group_label>RGX-202 Dose 1</arm_group_label>
+    <arm_group_label>RGX-202 Dose 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  DMD gene mutation in exons 18 and above, and a clinical picture consistent with&#xD;
+             typical DMD.&#xD;
+&#xD;
+          -  Participant is able to walk 100 meters independently without assistive devices, as&#xD;
+             assessed at screening.&#xD;
+&#xD;
+          -  Participant is able to complete the TTSTAND per protocol-specific criteria.&#xD;
+&#xD;
+          -  Participant has been on a stable dose of systemic glucocorticoids according to the&#xD;
+             standard of care for at least 12 weeks prior to screening.&#xD;
+&#xD;
+          -  Clinical laboratory test results, including hepatic and renal function, are within the&#xD;
+             normal range during screening, or if abnormal, are not clinically significant, in the&#xD;
+             opinion of the investigator.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participant has any condition that would contraindicate treatment with&#xD;
+             immunosuppression.&#xD;
+&#xD;
+          -  Participant has received ataluren (a protein restoration therapy) or an exon-skipping&#xD;
+             therapy for the treatment of DMD within 6 months of study entry or is unable to&#xD;
+             refrain from taking ataluren or exon-skipping therapy for a duration of 5 years from&#xD;
+             the time of RGX-202 administration.&#xD;
+&#xD;
+          -  Participant has received any investigational or commercial gene therapy product over&#xD;
+             his lifetime.&#xD;
+&#xD;
+          -  Participant is currently taking any other investigational intervention or has taken&#xD;
+             any other investigational intervention within 3 months prior to the scheduled Day 1&#xD;
+             intervention.&#xD;
+&#xD;
+          -  Participant has detectable AAV8 total binding antibodies in serum.&#xD;
+&#xD;
+          -  Participant has impaired cardiac function defined as a left ventricular ejection&#xD;
+             fraction on screening cardiac MRI &lt;55%.&#xD;
+&#xD;
+          -  Participant is not a good candidate for the study, in the opinion of the investigator.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <gender_based>Yes</gender_based>
+    <minimum_age>4 Years</minimum_age>
+    <maximum_age>11 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Patient Advocacy</last_name>
+    <phone>866-860-0117</phone>
+    <email>Duchenne@regenxbio.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Arkansas Children's Hospital</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kimberly Voight</last_name>
+      <phone>501-364-5112</phone>
+      <email>voightke@archildrens.org</email>
+    </contact>
+    <investigator>
+      <last_name>Aravindhan Veerapandiyan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ann &amp; Robert H. Lurie Children's Hospital of Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kiana King</last_name>
+      <phone>312-227-2201</phone>
+      <email>kiking@luriechildrens.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Pauline Tan</last_name>
+      <phone>312-227-2937</phone>
+      <email>ptan@luriechildrens.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Vamshi Rao, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>January 4, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 12, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>March 8, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 8, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 9, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Gene therapy</keyword>
+  <keyword>DMD</keyword>
+  <keyword>Duchenne Muscular Dystrophy</keyword>
+  <keyword>Duchenne</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Muscular Dystrophies</mesh_term>
+    <mesh_term>Muscular Dystrophy, Duchenne</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

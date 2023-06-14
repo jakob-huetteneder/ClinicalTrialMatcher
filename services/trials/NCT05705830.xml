@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9072">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05705830</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-0704</org_study_id>
+    <nct_id>NCT05705830</nct_id>
+  </id_info>
+  <brief_title>A Multicenter Randomized Controlled Study of Pulse Magnetotherapy Combined Medication in Anxiety Combined With Insomnia</brief_title>
+  <official_title>A Multicenter Randomized Controlled Study of Pulse Magnetotherapy Combined Medication in the Treatment of Patients With Anxiety Disorder and Insomnia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Second Affiliated Hospital, School of Medicine, Zhejiang University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Second Affiliated Hospital, School of Medicine, Zhejiang University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to explore the therapeutic effect of pulse magnetic&#xD;
+      therapy system combined with drug therapy on patients with anxiety and insomnia. The main&#xD;
+      questions it aims to answer are:&#xD;
+&#xD;
+        1. Whether the pulse magnetic therapy system is benefit on improving insomnia in anxiety&#xD;
+           patients.&#xD;
+&#xD;
+        2. This improvement is not due to the placement of the instrument。 Participants will accept&#xD;
+           pulse magnetic therapy (stimulation/sham stimulation) and accept scale evaluation before&#xD;
+           and after treatment.&#xD;
+&#xD;
+      Researchers will compare the pulse magnetic stimulation group, sham stimulation group and&#xD;
+      healthy controls to see if the pulse magnetic stimulation do effect on insomnia of anxiety&#xD;
+      patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Insomnia is the most common symptom of anxiety disorder, which has an important impact on the&#xD;
+      prognosis of anxiety. Pulse magnetic therapy system, with its advantages of compact,&#xD;
+      convenient, easy to carry, and not limited by the scene and time, has gradually become a&#xD;
+      common tool for sleep monitoring and treatment. This study is a multicenter randomized&#xD;
+      controlled design, including 150 cases in the pulse magnetic stimulation+drug treatment&#xD;
+      group, 150 cases in the sham pulse magnetic stimulation+drug treatment group and 100 healthy&#xD;
+      controls. Before and after treatment, the patients were comprehensively measured and&#xD;
+      evaluated with Insomnia Severity Index (ISI), Hamilton Depression Rating Scale 17 (HAMD),&#xD;
+      Hamilton Anxiety Rating Scale (HAMA), Pittsburgh Sleep Quality Index (PSQI), Self-Rating&#xD;
+      Sleep Scale (SSRS), Self-Rating Symptom Scale 90 (SCL-90), Quality of Life Scale (SF-36), and&#xD;
+      Treatment Adverse Reaction Scale (TESS), and sleep monitoring was conducted at the same time,&#xD;
+      To explore the therapeutic effect of pulse magnetic therapy system detector combined with&#xD;
+      drug therapy on patients with anxiety and insomnia.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 1, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Insomnia Severity Index (ISI)</measure>
+    <time_frame>Change value of insomnia severity index (ISI) from baseline in the fourth week of intervention</time_frame>
+    <description>Insomnia Severity Index total score reduction&gt;50%, the range of Insomnia Severity Index total score is 0-28.</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Anxiety Disorder</condition>
+  <condition>Insomnia</condition>
+  <arm_group>
+    <arm_group_label>Pulse Magnetotherapy+medication group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>150 patients with anxiety disorder and insomnia who met the inclusion criteria received pulse magnetic therapy and conventional antianxiety drugs</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>medication group</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>150 patients with anxiety disorder and insomnia who met the inclusion criteria received sham magnetic therapy and conventional antianxiety drugs</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy control</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>100 healthy controls who met the inclusion criteria received sham magnetic therapy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Pulse magnetic therapy</intervention_name>
+    <description>Pulse magnetic therapy SM-II (2019102133903)</description>
+    <arm_group_label>Pulse Magnetotherapy+medication group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Selective serotonin reuptake inhibitors （SSRI）</intervention_name>
+    <description>Anti-anxiety Drugs</description>
+    <arm_group_label>Pulse Magnetotherapy+medication group</arm_group_label>
+    <arm_group_label>medication group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Shame magnetic therapy</intervention_name>
+    <description>Shame magnetic therapy</description>
+    <arm_group_label>Healthy control</arm_group_label>
+    <arm_group_label>medication group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients who met the diagnostic criteria for anxiety disorder in the Diagnostic and&#xD;
+             Statistical Manual of Mental Disorders (Fifth edition; DSM-5) and were accompanied by&#xD;
+             insomnia with 14 &lt;HAMA&lt;21 , HAMD&lt;17 , and PSQI&gt;7 ;&#xD;
+&#xD;
+          2. Education level is unlimited;&#xD;
+&#xD;
+          3. Age: 18-55 years old.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Have bipolar disorder, schizophrenia, depression and other mental diseases;&#xD;
+&#xD;
+          2. Have a clear history of head trauma, alcoholism, brain tumors, diabetes, hypertension,&#xD;
+             and serious primary heart, liver, kidney, and blood system diseases;&#xD;
+&#xD;
+          3. At present, patients with sleep disorders are being treated by other means besides&#xD;
+             drugs;&#xD;
+&#xD;
+          4. Pregnant and lactating women;&#xD;
+&#xD;
+          5. Have a history of seizures or strong positive family history of epilepsy;&#xD;
+&#xD;
+          6. Implantation of cardiac pacemaker;&#xD;
+&#xD;
+          7. Those receiving deep brain stimulation treatment;&#xD;
+&#xD;
+          8. There are metal or magnetic implants in the body (including but not limited to the&#xD;
+             brain);&#xD;
+&#xD;
+          9. Participated in clinical trials of other drugs and medical devices in recent 3 months;&#xD;
+&#xD;
+         10. Other researchers believe that they do not meet the conditions for inclusion.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Zheng Lin</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Second Affiliated Hospital, School of Medicine, Zhejiang University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Zheng Lin, Doctor</last_name>
+    <phone>86-13757118261</phone>
+    <email>Linzzr@126.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Changxing County People's Hospita</name>
+      <address>
+        <city>Changxing</city>
+        <state>Zhejiang</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tao Yan, Master</last_name>
+      <phone>86-13957258775</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Linping First People's Hospital</name>
+      <address>
+        <city>Linping</city>
+        <state>Zhejiang</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yuze Sheng, Master</last_name>
+      <phone>86-15990077882</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Fourth Affiliated Hospital of Zhejiang University School of medicine</name>
+      <address>
+        <city>Yiwu</city>
+        <state>Zhejiang</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yunrong Lu, Doctor</last_name>
+      <phone>86-13757118257</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>October 25, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 30, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 31, 2023</study_first_posted>
+  <last_update_submitted>February 15, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 15, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 16, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Anxiety</keyword>
+  <keyword>Insomnia</keyword>
+  <keyword>Pulse Magnetotherapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sleep Initiation and Maintenance Disorders</mesh_term>
+    <mesh_term>Anxiety Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Serotonin</mesh_term>
+    <mesh_term>Selective Serotonin Reuptake Inhibitors</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

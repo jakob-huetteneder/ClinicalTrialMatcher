@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9168">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05703971</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ONC-005</org_study_id>
+    <nct_id>NCT05703971</nct_id>
+  </id_info>
+  <brief_title>Quaratusugene Ozeplasmid (Reqorsa) and Atezolizumab Maintenance Therapy in ES-SCLC Patients</brief_title>
+  <acronym>Acclaim-3</acronym>
+  <official_title>A Phase 1/2 Clinical Trial of Quaratusugene Ozeplasmid and Atezolizumab Maintenance Therapy in Patients With Extensive Stage Small Cell Lung Cancer (ES-SCLC)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Genprex, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Genprex, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This clinical trial will evaluate the combination of quaratusugene ozeplasmid with&#xD;
+      atezolizumab as maintenance therapy for patients with Extensive Stage Small Cell Lung Cancer&#xD;
+      (ES-SCLC).&#xD;
+&#xD;
+      The study will be conducted in 2 phases, a dose selection phase (Phase 1) and a safety and&#xD;
+      efficacy evaluation phase (Phase 2).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Acclaim-3 is an open-label, multi-center, Phase 1/2 study evaluating the combination of&#xD;
+      quaratusugene ozeplasmid with atezolizumab as maintenance therapy for patients with ES-SCLC&#xD;
+      who did not develop tumor progression after receiving at least 3 cycles, and no more than 4&#xD;
+      cycles, of induction therapy with carboplatin plus etoposide and atezolizumab.&#xD;
+&#xD;
+      Toxicities will be assessed by the Investigator using United States National Cancer Institute&#xD;
+      (NCI) Common Terminology Criteria for Adverse Events (CTCAE), version 5.0. Serious Adverse&#xD;
+      Events and Dose Limiting Toxicities (DLTs) will be reviewed by a safety review committee.&#xD;
+&#xD;
+      Phase 1: In Phase 1 dose selection, patients will be enrolled in sequential cohorts treated&#xD;
+      with successively higher doses of quaratusugene ozeplasmid in combination with atezolizumab.&#xD;
+      The recommended Phase 2 dose (RP2D) of quaratusugene ozeplasmid when given in combination&#xD;
+      with atezolizumab will be identified.&#xD;
+&#xD;
+      Phase 2: Quaratusugene ozeplasmid in combination with atezolizumab will be further evaluated&#xD;
+      using the RP2D identified in Phase 1.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 2023</start_date>
+  <completion_date type="Anticipated">August 2027</completion_date>
+  <primary_completion_date type="Anticipated">February 2026</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Phase 1: 3+3 dose selection to identify RP2D. Phase 2: open label, non-randomized treatment with quaratusugene ozeplasmid at RP2D in combination with atezolizumab.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximum Tolerated Dose (MTD)/Recommended Phase 2 Dose (RP2D) - Phase 1</measure>
+    <time_frame>First 21-days at each dose level</time_frame>
+    <description>The MTD and/or RP2D of the combination of quaratusugene ozeplasmid and atezolizumab.&#xD;
+Note: if a MTD is not determined, the RP2D will be selected based on all available data (safety, PK, PD, and preliminary efficacy).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Progression-Free Survival Rate (PFSR) - Phase 2</measure>
+    <time_frame>18-weeks from Day 1 of maintenance therapy</time_frame>
+    <description>PFSR at 18 weeks according to Response Evaluation Criteria in Solid Tumors, version 1.1 (RECIST 1.1).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Safety Profile - Phase 1</measure>
+    <time_frame>Approximately 6 months</time_frame>
+    <description>Adverse events according to CTCAE v5.0</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free Survival (PFS) - Phase 1 &amp; Phase 2</measure>
+    <time_frame>Approximately 5 months</time_frame>
+    <description>PFS per RECIST 1.1. PFS is defined as time from Day 1 of maintenance therapy to disease progression or death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics (PK) of Quaratusugene Ozeplasmid - Phase 1 &amp; Phase 2</measure>
+    <time_frame>First 21-day treatment cycle</time_frame>
+    <description>Concentration of quaratusugene ozeplasmid in whole blood samples.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS) - Phase 1 &amp; Phase 2</measure>
+    <time_frame>Approximately 18 months</time_frame>
+    <description>Number of months from Day 1 of maintenance therapy to the date of death.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">62</enrollment>
+  <condition>Small Cell Lung Cancer Extensive Stage</condition>
+  <arm_group>
+    <arm_group_label>Phase 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Up to 2 sequential dose selection cohorts will be treated with quaratusugene ozeplasmid (intravenous (IV) administration once every 21 days) plus atezolizumab (1200 mg IV administration once every 21 days) until disease progression or unacceptable toxicity.&#xD;
+Quaratusugene ozeplasmid doses will be evaluated (0.09 [starting dose], and 0.12 mg/kg) until the RP2D is identified.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will be treated with the RP2D of quaratusugene ozeplasmid (IV administration once every 21 days) plus atezolizumab (1200 mg IV administration once every 21 days) until disease progression or unacceptable toxicity</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>quaratusugene ozeplasmid</intervention_name>
+    <description>Quaratusugene ozeplasmid is an experimental nonviral immunogene therapy utilizing the TUSC2 gene, designed to target cancer cells by interrupting cell signaling pathways that allow cancer cells to grow, reestablishing pathways that promote cancer cell death and modulating the immune response against cancer cells.</description>
+    <arm_group_label>Phase 1</arm_group_label>
+    <arm_group_label>Phase 2</arm_group_label>
+    <other_name>REQORSA</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>atezolizumab</intervention_name>
+    <description>Atezolizumab is a monoclonal antibody that belongs to a class of drugs that binds to the programmed death-receptor 1 ligand 1 (PD-L1), blocking the PD-1/PD-L1 pathway, thereby removing inhibition of the immune response, potentially breaking peripheral tolerance and inducing immune-mediated adverse reactions.</description>
+    <arm_group_label>Phase 1</arm_group_label>
+    <arm_group_label>Phase 2</arm_group_label>
+    <other_name>TECENTRIQ</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Documented history of histologically or cytologically confirmed ES-SCLC, prior to&#xD;
+             starting treatment with the combination of atezolizumab, carboplatin, and etoposide&#xD;
+&#xD;
+          -  Complete Response (CR), Partial Response (PR), or Stable Disease (SD) after receiving&#xD;
+             at least 3 cycles, and no more than 4 cycles, of atezolizumab, carboplatin, and&#xD;
+             etoposide.&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group performance status (ECOG PS) score from 0 to 1.&#xD;
+&#xD;
+          -  Must be ≥28 days beyond major surgical procedures such as thoracotomy, laparotomy, or&#xD;
+             joint replacement, and must be ≥10 days beyond minor surgical procedures such as&#xD;
+             biopsy of subcutaneous tumors, pleuroscopy, etc., and must not have evidence of wound&#xD;
+             dehiscence, active wound infection, or comparable major residual complications of the&#xD;
+             surgery per investigator assessment.&#xD;
+&#xD;
+          -  Asymptomatic brain metastases must meet ALL criteria of the following (a-d): a. No&#xD;
+             history of seizures in the preceding 6 months; b. Definitive treatment must be&#xD;
+             completed ≥21 days prior to enrollment; c. Must be off steroids administered because&#xD;
+             of brain metastases or related symptoms for ≥7 days; d. If had previous brain&#xD;
+             irradiation, post-treatment imaging must demonstrate stability or regression of the&#xD;
+             brain metastases.&#xD;
+&#xD;
+          -  Absolute neutrophil count (ANC) &gt;1500/mm3, platelet count &gt;100,000/mm3 within ≤21&#xD;
+             days.&#xD;
+&#xD;
+          -  Adequate renal function documented by serum creatinine of ≤1.5 mg/dL or calculated&#xD;
+             creatinine clearance &gt;50 ml/min within ≤21 days.&#xD;
+&#xD;
+          -  Adequate hepatic function as documented by serum bilirubin &lt;1.5 mg/dL and aspartate&#xD;
+             aminotransferase (AST) and alanine aminotransferase (ALT) ≤2.5 X upper limit of normal&#xD;
+             (ULN) within ≤21 days.&#xD;
+&#xD;
+          -  Stable cardiac condition with a left ventricular ejection fraction ≥40% within ≤21&#xD;
+             days.&#xD;
+&#xD;
+          -  If female of childbearing potential (FOCBP), must have negative serum pregnancy test&#xD;
+             (serum beta-human chorionic gonadotropin [β-hCG]) within ≤7 days of first dose.&#xD;
+&#xD;
+          -  FOCBP and men who are sexually active with FOCBP must agree to use 2 forms of&#xD;
+             contraception during the study period and for 4 months following the last dose of&#xD;
+             study treatment.&#xD;
+&#xD;
+          -  If male, must agree to no sperm donation during study treatment and for an additional&#xD;
+             4 months following the last dose of study treatment.&#xD;
+&#xD;
+          -  Must have voluntarily signed an informed consent in accordance with institutional&#xD;
+             policies.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Unable to tolerate atezolizumab treatment, leading to early treatment discontinuation&#xD;
+             or prolonged/frequent dosage modifications in previous atezolizumab treatment as&#xD;
+             determined by the investigator.&#xD;
+&#xD;
+          -  Received prior gene therapy.&#xD;
+&#xD;
+          -  Received prophylactic cranial irradiation or consolidation thoracic radiation.&#xD;
+&#xD;
+          -  Active systemic viral, bacterial, or fungal infection(s) requiring treatment.&#xD;
+&#xD;
+          -  Serious concurrent illness or psychological, familial, sociological, geographical, or&#xD;
+             other concomitant conditions that, in the opinion of the investigator, would not&#xD;
+             permit adequate follow-up and compliance with the study protocol.&#xD;
+&#xD;
+          -  History of autoimmune disease requiring immunosuppression.&#xD;
+&#xD;
+          -  History of myocardial infarction or unstable angina within ≤6 months.&#xD;
+&#xD;
+          -  Known human immunodeficiency virus (HIV) infection or has active hepatitis infection.&#xD;
+&#xD;
+          -  Female who is pregnant or breastfeeding.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mark S Berger, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Genprex, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sr Director, Clinical Operations</last_name>
+    <phone>1-877-774-GNPX</phone>
+    <email>kcombs@genprex.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Chief Medical Officer</last_name>
+    <phone>1-877-774-GNPX</phone>
+    <email>mberger@genprex.com</email>
+  </overall_contact_backup>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>January 19, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>March 22, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 22, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 24, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>atezolizumab</keyword>
+  <keyword>Tumor Suppressor Gene 2 (TUSC2)</keyword>
+  <keyword>Lipid Nanoparticle (LNP)</keyword>
+  <keyword>Gene Therapy</keyword>
+  <keyword>TECENTRIQ</keyword>
+  <keyword>ES-SCLC</keyword>
+  <keyword>Reqorsa</keyword>
+  <keyword>quaratusugene ozeplasmid</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Small Cell Lung Carcinoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Atezolizumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

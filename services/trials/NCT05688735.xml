@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9858">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05688735</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IDEAS_PEDS_AD</org_study_id>
+    <nct_id>NCT05688735</nct_id>
+  </id_info>
+  <brief_title>Assessment of the Effect of Coconut and Sunflower Seed Oil Derived Isosorbide Diseters and Colloidial Oatmeal</brief_title>
+  <official_title>Prospective Randomized Vehicle-Controlled, Double-Blind Assessment of the Effect of Coconut and Sunflower Seed Oil Derived Isosorbide Diseters and Colloidial Oatmeal</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Integrative Skin Science and Research</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Sytheon Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Integrative Skin Science and Research</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this study is to compare coconut oil and sunflower seed oil derived isosorbide&#xD;
+      disesters and colloidal oatmeal, and observe their effect on pediatric atopic dermatitis&#xD;
+      among males and females aged 2-17.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 20, 2023</start_date>
+  <completion_date type="Anticipated">March 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>Double-blind, randomized</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Eczema Area and Severity Index (EASI)</measure>
+    <time_frame>8 Weeks</time_frame>
+    <description>Percent Achieving EASI 75</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Itch</measure>
+    <time_frame>8 Weeks</time_frame>
+    <description>Change in the Itch Visual Analog Scale from Baseline</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Eczema Area and Severity Index (EASI)</measure>
+    <time_frame>1 Week</time_frame>
+    <description>Change in the EASI score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Eczema Area and Severity Index (EASI)</measure>
+    <time_frame>4 Weeks</time_frame>
+    <description>Change in the EASI score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Eczema Area and Severity Index (EASI)</measure>
+    <time_frame>8 Weeks</time_frame>
+    <description>Change in the EASI score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Itch</measure>
+    <time_frame>1 Week</time_frame>
+    <description>Change in the Itch Visual Analog Scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Itch</measure>
+    <time_frame>4 Weeks</time_frame>
+    <description>Change in the Itch Visual Analog Scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Topical steroid use</measure>
+    <time_frame>1 Week</time_frame>
+    <description>Cumulative use of topical steroid use</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Topical steroid use</measure>
+    <time_frame>4 Weeks</time_frame>
+    <description>Cumulative use of topical steroid use</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Topical steroid use</measure>
+    <time_frame>8 Weeks</time_frame>
+    <description>Cumulative use of topical steroid use</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skin Transepidermal Water Loss (TEWL)</measure>
+    <time_frame>1 Week</time_frame>
+    <description>TEWL measured with a Vapometer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skin Transepidermal Water Loss (TEWL)</measure>
+    <time_frame>4 Weeks</time_frame>
+    <description>TEWL measured with a Vapometer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skin Transepidermal Water Loss (TEWL)</measure>
+    <time_frame>8 Weeks</time_frame>
+    <description>TEWL measured with a Vapometer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skin Hydration</measure>
+    <time_frame>1 week</time_frame>
+    <description>Level of skin hydration measured SkinMoistureMeterSC</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skin Hydration</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Level of skin hydration measured SkinMoistureMeterSC</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skin Hydration</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Level of skin hydration measured SkinMoistureMeterSC</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Shift in the Skin Microbiome</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Change in the relative abundance of Staphylococcus aureus on the skin</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Atopic Dermatitis</condition>
+  <arm_group>
+    <arm_group_label>Experimental Topical Product</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Topical moisturizer With Colloidal Oatmeal and Isosorbide Diesters + Topical Steroids</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Topical Product</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Topical moisturizer With Colloidal Oatmeal WITHOUT Isosorbide Diesters + Topical Steroids</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Isosorbide Diester Moisturizer</intervention_name>
+    <description>Isosorbide Diesters (with 0.1% colloidal oatmeal) + Topical Hydrocortisone 2.5% ointment</description>
+    <arm_group_label>Experimental Topical Product</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Control Moisturizer</intervention_name>
+    <description>Topical vehicle (with 0.1% colloidal oatmeal) + Topical Hydrocortisone 2.5 % ointment</description>
+    <arm_group_label>Control Topical Product</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Males and females ages 2-17 years old at the time of consent.&#xD;
+&#xD;
+          -  Clinical diagnosis of active atopic dermatitis&#xD;
+&#xD;
+          -  vIGA-AD (validated Investigator Global Assessment-Atopic Dermatitis) score of &quot;mild&quot;&#xD;
+             (2) or &quot;moderate&quot; (3) at Baseline&#xD;
+&#xD;
+          -  EASI (Eczema Area and Severity Index) score of &gt;/= 5 at Baseline&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Individuals who have a known allergy to isosorbide diesters, coconut oil, or sunflower&#xD;
+             seed oil&#xD;
+&#xD;
+          -  Individuals who have solely hand and/or foot eczema without evidence of eczema&#xD;
+             anywhere else on their body.&#xD;
+&#xD;
+          -  Individuals who have been on topical calcineurin inhibitors or crisaborole to the&#xD;
+             predetermined areas within two weeks of initiation of participation or unwilling to&#xD;
+             undergo a washout period.&#xD;
+&#xD;
+          -  Subjects with an ongoing secondary infection of the skin.&#xD;
+&#xD;
+          -  Subjects who are on systemic therapy or who need systemic therapy at the discretion of&#xD;
+             the investigator. Systemic therapies include cyclosporine, systemic steroids,&#xD;
+             methotrexate, and dupilumab. Subjects who have been on cyclosporine, systemic&#xD;
+             steroids, or methotrexate in the month prior to initiation of study intervention or&#xD;
+             are unwilling to undergo a washout period. Subjects who have been on dupilumab in two&#xD;
+             months prior to initiation of study intervention or are unwilling to undergo a washout&#xD;
+             period.&#xD;
+&#xD;
+          -  Subjects with a diagnosis of Scabies.&#xD;
+&#xD;
+          -  Pregnant women&#xD;
+&#xD;
+          -  Prisoners&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>2 Years</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Raja Sivamani, MD</last_name>
+    <phone>(916) 750-2463</phone>
+    <email>raja.sivamani@integrativeskinresearch.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Integrative Skin Science and Research</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95815</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Caitlin Dion</last_name>
+      <phone>916-750-2463</phone>
+      <email>caitlin@integrativeskinresearch.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>January 9, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 9, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>April 12, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 12, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 14, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dermatitis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Isosorbide</mesh_term>
+    <mesh_term>Isosorbide Dinitrate</mesh_term>
+    <mesh_term>Isosorbide-5-mononitrate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

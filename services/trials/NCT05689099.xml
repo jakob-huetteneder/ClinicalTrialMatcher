@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9839">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05689099</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NN9535-7560</org_study_id>
+    <secondary_id>U1111-1280-1368</secondary_id>
+    <nct_id>NCT05689099</nct_id>
+  </id_info>
+  <brief_title>A Research Trial Looking at the Comparability of 2 Different Concentrations of Semaglutide for the 0.5 Milligram (mg) Dose</brief_title>
+  <official_title>A Study to Demonstrate Bioequivalence Between Semaglutide Drug Product Concentrations 0.68 mg/mL and 1.34 mg/mL</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novo Nordisk A/S</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novo Nordisk A/S</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this study, a known investigational medicine called 'semaglutide' will be tested in 2 drug&#xD;
+      concentrations of 0.68 milligram per milliliter (mg/mL) and 1.34 mg/mL. Both drug&#xD;
+      concentrations are tested for the treatment of type 2 diabetes. The U.S. Food and Drug&#xD;
+      Administration (FDA), has approved semaglutide in prefilled pen-injector form. Currently, the&#xD;
+      drug concentration of 1.34 mg/ml can be prescribed in some countries including U.S. The&#xD;
+      objective of the study is to compare the amount of investigational drug taken up in the body&#xD;
+      for the 2 drug concentrations. Participants will be divided by chance into 2 groups. Group A&#xD;
+      will receive a single dose of 0.5 mg semaglutide of the drug concentration 1.34 mg/mL in the&#xD;
+      first study period; and will receive a single dose of 0.5 mg semaglutide of the drug&#xD;
+      concentration 0.68 mg/mL in the second study period. Participants assigned to group B will&#xD;
+      receive the two drug concentrations in the reverse order. Participants will get 1&#xD;
+      subcutaneous injection on Day 1 of each of the two study periods. The two injections are&#xD;
+      separated by 7-11 weeks. The study will last up to approximately 87 to 141 days for each&#xD;
+      participant. This includes a screening period (up to 4 weeks), study period 1 (5 weeks),&#xD;
+      washout period (2-6 weeks), and study period 2 (5 weeks). At some periods during the study,&#xD;
+      participant should not get vaccinations. Participant should agree on timing of vaccination&#xD;
+      with study doctor. Women cannot take part if pregnant, breast-feeding or plan to get pregnant&#xD;
+      during the study period.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 17, 2023</start_date>
+  <completion_date type="Anticipated">May 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 30, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>AUC0-last,sema 0.5mg: Area under the semaglutide concentration time curve from time 0 until last quantifiable measurement after single dose of subcutaneous semaglutide 0.5 mg</measure>
+    <time_frame>0-840 hours after a single dose of s.c. semaglutide 0.5 mg</time_frame>
+    <description>Measured in hours*nanomoles per liter (h*nmol/L).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cmax,sema,0.5mg: maximum observed semaglutide concentration-time after single dose of subcutaneous semaglutide 0.5 mg administration</measure>
+    <time_frame>0-840 hours after a single dose of s.c. semaglutide 0.5 mg</time_frame>
+    <description>Measured in nanomoles per liter (nmol/L).</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Diabetes Mellitus, Type 2</condition>
+  <condition>Healthy Participants</condition>
+  <arm_group>
+    <arm_group_label>Sequence A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be administered a single subcutaneous (s.c.) dose of 0.5 mg semaglutide B (1.34 mg/mL) in Period 1 followed by a single s.c. dose of 0.5 mg semaglutide B (0.68 mg/mL) in Period 2.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sequence B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be administered a single s.c. dose of 0.5 mg semaglutide B (0.68 mg/mL) in Period 1 followed by a single s.c. dose of 0.5 mg semaglutide B (1.34 mg/mL) in Period 2.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Semaglutide B, 1.34 mg/mL</intervention_name>
+    <description>Participants will receive single dose of 0.5 mg Semaglutide B, 1.34 mg/mL subcutaneously.</description>
+    <arm_group_label>Sequence A</arm_group_label>
+    <arm_group_label>Sequence B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Semaglutide B, 0.68 mg/mL</intervention_name>
+    <description>Participants will receive single dose of 0.5 mg Semaglutide B, 0.68 mg/mL subcutaneously.</description>
+    <arm_group_label>Sequence A</arm_group_label>
+    <arm_group_label>Sequence B</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female&#xD;
+&#xD;
+          -  Aged 18-55 years (both inclusive) at the time of signing informed consent&#xD;
+&#xD;
+          -  Body mass index (BMI) between 20.0 and 29.9 kilograms per meter square (kg/m^2) (both&#xD;
+             inclusive)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Female who is pregnant, breast-feeding or intends to become pregnant or is of&#xD;
+             childbearing potential and not using highly effective contraceptive method&#xD;
+&#xD;
+          -  Any disorder which in the investigator's opinion might jeopardise participant's safety&#xD;
+             or compliance with the protocol&#xD;
+&#xD;
+          -  Use of prescription medicinal products or non-prescription drugs, except routine&#xD;
+             vitamins, topical medications, highly effective contraceptives and occasional use of&#xD;
+             paracetamol, ibuprofen and acetylsalicylic acid, within 14 days prior to the day of&#xD;
+             screening&#xD;
+&#xD;
+          -  Abuse or intake of alcohol, defined as any of the below:&#xD;
+&#xD;
+               1. Known or suspected alcohol abuse within 1 year before screening (defined as&#xD;
+                  regular intake of more than an average intake of 24 grams (g) alcohol daily for&#xD;
+                  men and 12 g alcohol daily for women - 12 g of alcohol equals about 300&#xD;
+                  milliliters (mL) of beer or lager, 100 mL of wine, or 25 mL spirits)&#xD;
+&#xD;
+               2. Positive alcohol test at screening&#xD;
+&#xD;
+          -  Abuse or intake of drugs, defined as any of the below:&#xD;
+&#xD;
+               1. Known or suspected drug or chemical substance abuse within 1 year before&#xD;
+                  screening&#xD;
+&#xD;
+               2. Positive drug of abuse test at screening&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Transparency dept. 2834</last_name>
+    <role>Study Director</role>
+    <affiliation>Novo Nordisk A/S</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Novo Nordisk</last_name>
+    <phone>(+1) 866-867-7178</phone>
+    <email>clinicaltrials@novonordisk.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Cypress</city>
+        <state>California</state>
+        <zip>90630</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 9, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 9, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>February 2, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 2, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>According to the Novo Nordisk disclosure commitment on novonordisk-trials.com</ipd_description>
+    <ipd_url>http://novonordisk-trials.com</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

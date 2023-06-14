@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9599">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05694689</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB # 22-0217</org_study_id>
+    <nct_id>NCT05694689</nct_id>
+  </id_info>
+  <brief_title>Randomized Trial of Enteral Vitamin D Supplementation in Infants &lt; 28 Weeks Gestational Age or &lt;1000 Grams Birth Weight</brief_title>
+  <official_title>Randomized Trial of Enteral Vitamin D Supplementation in Infants &lt; 28 Weeks Gestational Age or &lt;1000 Grams Birth Weight</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The University of Texas Health Science Center, Houston</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The University of Texas Health Science Center, Houston</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of the study is to compare supplementation with vitamin D at 800 IU/day to&#xD;
+      usual care for the first 28 days after birth with respect to 25 (OH) vitamin D levels and&#xD;
+      indicators of likely or plausible effects of vitamin D supplementation on the function or&#xD;
+      structure of the lung, bones, immune system, and brain in extremely premature (EP) infants&#xD;
+      who are &lt;28 weeks gestational age (GA) or &lt;1000 grams of birth weight (BW). The study results&#xD;
+      will be analyzed as intention to treat Bayesian analyses (Frequentist analyses will also be&#xD;
+      performed).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 15, 2023</start_date>
+  <completion_date type="Anticipated">June 1, 2026</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>25-hydroxyvitamin D (25[OH]D) level</measure>
+    <time_frame>about 28 days after birth</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>25-hydroxyvitamin D (25[OH]D) level</measure>
+    <time_frame>36 weeks after birth</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Type of respiratory support required at 36 weeks postmenstrual age</measure>
+    <time_frame>36 weeks postmenstrual age (or at the time of discharge home if earlier)</time_frame>
+    <description>Data will be reported categorically as:&#xD;
+Number of participants who survive without respiratory support&#xD;
+Number of participants who survive with nasal cannula at ≤ 2 liters (L)/minute&#xD;
+Number of participants who survive with nasal cannula &gt;2 L/minute or noninvasive positive airway pressure&#xD;
+Number of participants who survive with invasive mechanical ventilation&#xD;
+Number of participants who die</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of Hospital stay</measure>
+    <time_frame>from time of birth to time of discharge (about 0 to 60 weeks after birth)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who are still on respiratory support</measure>
+    <time_frame>22 to 26 months corrected age</time_frame>
+    <description>Respiratory support includes supplemental oxygen and positive pressure ventilation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days of supplemental oxygen</measure>
+    <time_frame>from time of birth to time of discharge (about 0 to 60 weeks after birth)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days of mechanical ventilation</measure>
+    <time_frame>from time of birth to time of discharge (about 0 to 60 weeks after birth)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days of positive pressure support</measure>
+    <time_frame>from time of birth to time of discharge (about 0 to 60 weeks after birth)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who receive steroid treatment to decrease respiratory support</measure>
+    <time_frame>from baseline to 36 weeks postmenstrual age</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with pulmonary hypertension</measure>
+    <time_frame>36 weeks postmenstrual age</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with wheezing</measure>
+    <time_frame>2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Weight as assessed by sex-specific Z-score on the Fenton 2013 Growth Calculator</measure>
+    <time_frame>28 days of life</time_frame>
+    <description>Z-scores range from -4 standard deviations to +4 standard deviations. A higher Z-score indicates a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Weight as assessed by sex-specific Z-score on the Fenton 2013 Growth Calculator</measure>
+    <time_frame>36 weeks postmenstrual age</time_frame>
+    <description>Z-scores range from -4 standard deviations to +4 standard deviations. A higher Z-score indicates a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Weight as assessed by sex-specific Z-score on the Fenton 2013 Growth Calculator</measure>
+    <time_frame>2 years</time_frame>
+    <description>Z-scores range from -4 standard deviations to +4 standard deviations. A higher Z-score indicates a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length as assessed by sex-specific Z-score on the Fenton 2013 Growth Calculator</measure>
+    <time_frame>28 days of life</time_frame>
+    <description>Z-scores range from -4 standard deviations to +4 standard deviations. A higher Z-score indicates a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length as assessed by sex-specific Z-score on the Fenton 2013 Growth Calculator</measure>
+    <time_frame>36 weeks postmenstrual age</time_frame>
+    <description>Z-scores range from -4 standard deviations to +4 standard deviations. A higher Z-score indicates a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length as assessed by sex-specific Z-score on the Fenton 2013 Growth Calculator</measure>
+    <time_frame>2 years</time_frame>
+    <description>Z-scores range from -4 standard deviations to +4 standard deviations. A higher Z-score indicates a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Head circumference as assessed by sex-specific Z-score on the Fenton 2013 Growth Calculator</measure>
+    <time_frame>28 days of life</time_frame>
+    <description>Z-scores range from -4 standard deviations to +4 standard deviations. A higher Z-score indicates a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Head circumference as assessed by sex-specific Z-score on the Fenton 2013 Growth Calculator</measure>
+    <time_frame>36 weeks postmenstrual age</time_frame>
+    <description>Z-scores range from -4 standard deviations to +4 standard deviations. A higher Z-score indicates a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Head circumference as assessed by sex-specific Z-score on the Fenton 2013 Growth Calculator</measure>
+    <time_frame>2 years</time_frame>
+    <description>Z-scores range from -4 standard deviations to +4 standard deviations. A higher Z-score indicates a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with any fractures</measure>
+    <time_frame>from baseline to 36 weeks postmenstrual age</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with hospital-acquired sepsis</measure>
+    <time_frame>from day 3 after birth to the time of discharge (which is 0 to 60 weeks after birth)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Calcium level</measure>
+    <time_frame>0 to 36 weeks postmenstrual age</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phosphorus level</measure>
+    <time_frame>0 to 36 weeks postmenstrual age</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Alkaline phosphatase level</measure>
+    <time_frame>0 to 36 weeks postmenstrual age</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neurodevelopment as assessed by the Bayley-IV Scale of Infant and Toddler Development (Cognitive composite score)</measure>
+    <time_frame>2 years</time_frame>
+    <description>Cognitive composite score ranges from 40 to 160, with a higher score indicating a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neurodevelopment as assessed by the Bayley-IV Scale of Infant and Toddler Development (Language composite score)</measure>
+    <time_frame>2 years</time_frame>
+    <description>Language composite score ranges from 40 to 160, with a higher score indicating a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neurodevelopment as assessed by the Bayley-IV Scale of Infant and Toddler Development (Motor composite score)</measure>
+    <time_frame>2 years</time_frame>
+    <description>Motor composite score ranges from 40 to 160, with a higher score indicating a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with neurodevelopmental impairment (NDI)</measure>
+    <time_frame>2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who die or have a morbidity</measure>
+    <time_frame>36 weeks postmenstrual age</time_frame>
+    <description>Morbidities include retinopathy of prematurity (ROP), intraventricular hemorrhage (IVH), bronchopulmonary dysplasia (BPD), neurodevelopmental impairment (NDI), necrotizing enterocolitis (NEC), and patent ductus arteriosus (PDA).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vitamin D status as indicated by serum concentration of 24,25(OH)2D3 as assessed by Liquid Chromatography with tandem mass spectrometry (LC-MS/MS)</measure>
+    <time_frame>about 28 days after birth</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vitamin D status as indicated by serum concentration of 24,25(OH)2D3 as assessed by LC-MS/MS</measure>
+    <time_frame>36 weeks postmenstrual age</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vitamin D status as indicated by serum concentration of 3-epi-25(OH)D3 as assessed by LC-MS/MS</measure>
+    <time_frame>about 28 days after birth</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vitamin D status as indicated by serum concentration of 3-epi-25(OH)D3 as assessed by LC-MS/MS</measure>
+    <time_frame>36 weeks postmenstrual age</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vitamin D status as indicated by serum concentration of 25(OH)D3 as assessed by LC-MS/MS</measure>
+    <time_frame>about 28 days after birth</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vitamin D status as indicated by serum concentration of 25(OH)D3 as assessed by LC-MS/MS</measure>
+    <time_frame>36 weeks postmenstrual age</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Vitamin D Deficiency</condition>
+  <arm_group>
+    <arm_group_label>Usual care plus placebo</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Infants will receive placebo (normal saline) in the first 28 days after birth. Co-interventions will be unaffected and provided based on the judgment of the attending neonatal faculty and NICU policies and routine practices.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Usual care plus vitamin D supplementation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Infants will receive cholecalciferol 800 IU/day in the first 28 days after birth, given enterally four times per day (0.5mL per dose = 200 IU) until the infant is provided 400 IU/day. At that point the study cholecalciferol will be reduced to 400 IU/day for a total supplementation of 800 IU/day.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo is normal saline, given in the first 28 days after birth, prepared to have the same volume and appearance as vitamin D, which is a clear odorless solution.</description>
+    <arm_group_label>Usual care plus placebo</arm_group_label>
+    <other_name>Normal saline</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>800 IU/day vitamin D supplementation with feedings in the first 28 days after birth</intervention_name>
+    <description>800 IU/day Vitamin D supplementation until 400 IU/ day are provided as part of usual care. At that point the intervention becomes a supplement of 400 IU/day above that given with usual care. In this way all infants in the intervention group receive 800 IU/day of vitamin D total supplementation in the first 28 days after birth with feedings.</description>
+    <arm_group_label>Usual care plus vitamin D supplementation</arm_group_label>
+    <other_name>Cholecalciferol</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Usual Care</intervention_name>
+    <description>Co-interventions will be unaffected and provided based on the judgment of the attending neonatal faculty and NICU policies and routine practices</description>
+    <arm_group_label>Usual care plus placebo</arm_group_label>
+    <arm_group_label>Usual care plus vitamin D supplementation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Infants born at &lt; 28 weeks gestational age (GA) or &lt;1000 grams birth weight (BW)&#xD;
+&#xD;
+          -  Inborn&#xD;
+&#xD;
+          -  Informed written consent in an Institutional Review Board (IRB)-approved manner&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  GA &gt;32 weeks regardless of birth weight (BW)&#xD;
+&#xD;
+          -  Any major congenital anomaly&#xD;
+&#xD;
+          -  An known congenital nonbacterial infection&#xD;
+&#xD;
+          -  Prenatal diagnosis of disorders that affect vitamin D absorption (e.g, cystic&#xD;
+             fibrosis)&#xD;
+&#xD;
+          -  Such severe illness or immaturity that the attending neonatologist judges intensive&#xD;
+             care to be unjustified.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>24 Hours</minimum_age>
+    <maximum_age>96 Hours</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sunil Jain, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The University of Texas Medical Branch</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sunil Jain, MD</last_name>
+    <phone>409-772-2815</phone>
+    <email>skjain@utmb.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jordan Burdine, PharmD, MBA, BCPPS</last_name>
+    <phone>409-772-5070</phone>
+    <email>jlburdin@utmb.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>The University of Texas Medical Branch</name>
+      <address>
+        <city>Galveston</city>
+        <state>Texas</state>
+        <zip>77555</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sunil Jain, MD</last_name>
+      <phone>409-772-2815</phone>
+      <email>skjain@utmb.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jordan Burdine, PharmD, MBA, BCPPS</last_name>
+      <phone>409-772-5070</phone>
+      <email>jlburdin@utmb.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Sunil Jain, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jordan Burdine, PharmD, MBA, BCPPS</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 11, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>February 18, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 18, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 21, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The University of Texas Health Science Center, Houston</investigator_affiliation>
+    <investigator_full_name>Maria del Mar Romero López</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>Premature infant</keyword>
+  <keyword>Vitamin D</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vitamin D Deficiency</mesh_term>
+    <mesh_term>Birth Weight</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vitamin D</mesh_term>
+    <mesh_term>Cholecalciferol</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

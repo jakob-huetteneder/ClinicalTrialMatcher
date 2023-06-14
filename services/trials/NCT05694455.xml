@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9608">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05694455</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-0349</org_study_id>
+    <nct_id>NCT05694455</nct_id>
+  </id_info>
+  <brief_title>Micro and Macro Circulation in Sepsis</brief_title>
+  <acronym>DAISY</acronym>
+  <official_title>Clinical Utility of Longitudinal Measurement of Hemodynamic Incoherence and Endothelial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Denver Health and Hospital Authority</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Denver Health and Hospital Authority</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Purpose: To assess the prognostic role of Handheld Vital Microscopy (HVM) and evaluate levels&#xD;
+      of endothelial glycocalyx (eGC) breakdown in patients demonstrating Hemodynamic Incoherence&#xD;
+      (HI), to elucidate a mechanistic link between the eGC and HI in order to inform prognostic&#xD;
+      enrichment of future resuscitation trials. We will serially evaluate MiH and the perfused&#xD;
+      boundary region (PBR, an visual proxy for eGC thickness) using HVM, and a validated&#xD;
+      circulating biomarker of eGC integrity.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      There are few reliable prognostic indicators in early sepsis to predict disease progression,&#xD;
+      in part because the pathophysiologic mechanism of vascular dysregulation remains incompletely&#xD;
+      understood. The global COVID-19 pandemic has increased the number of patients with sepsis,&#xD;
+      straining hospital systems and illustrating the need for research into prognostic and&#xD;
+      therapeutic strategies.1 An important area of research is the role of the eGC, a thin&#xD;
+      vascular lining composed of proteoglycans, glycosaminoglycan side-chains, and plasma proteins&#xD;
+      that play a central role in microvascular homeostasis, the function of which is compromised&#xD;
+      in sepsis.2, 3 Another growing field of inquiry is the phenomenon of HI, a condition in which&#xD;
+      MiH remain dysfunctional despite normalization of conventionally targeted MaH measures such&#xD;
+      as mean arterial pressure (MAP), leading to poor end-organ perfusion.4, 5 It has been&#xD;
+      hypothesized that HI due to persistently deranged MiH and reduced end-organ perfusion result&#xD;
+      in an ongoing state of &quot;microvascular shock&quot;, leading to worsening end-organ damage despite&#xD;
+      apparent normalization of conventionally targeted parameters.5 Importantly, HI has been shown&#xD;
+      to predict poor patient outcomes, with abnormal MiH predicting patient mortality despite&#xD;
+      normalization of MAP after administration of vasoactive medications.4, 6 MiH measures have&#xD;
+      also been shown to differ significantly between septic patients and healthy controls.2 In one&#xD;
+      study of a large sepsis cohort, MiH parameters were predictive of adverse outcomes, while MaH&#xD;
+      parameters were not, suggesting that MiH measurements, and HI in particular may be more&#xD;
+      sensitive than conventional measures for predicting outcomes in sepsis.7 One hypothesis is&#xD;
+      that HI in sepsis is mediated by degradation of the eGC, with subsequent loss of&#xD;
+      microvascular homeostasis, though the role of the eGC as a vascular barrier remains&#xD;
+      controversial.8&#xD;
+&#xD;
+      One question that remains is whether or not microvascular changes can predict patient&#xD;
+      outcomes in patients judged to be adequately fluid resuscitated, as measured by MAP or NICOM&#xD;
+      testing.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 1, 2022</start_date>
+  <completion_date type="Anticipated">June 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Patients diagnosed with septic shock in the emergency department admitted to the hospital will be enrolled within 4 hours of the emergency physician's decision to admit the patient to the hospital.&#xD;
+On enrollment, On enrollment and at hours 10-14, 22-26, and 44-48, the research team will assess MiH and MaH as well as the total amount of IV fluids and vasoactive medications administered, demographics, charlston morbidity scale and Sofa score.&#xD;
+Healthy controls will have sublingual microscopy and urine collection performed at time of intubation for elextive procedure</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Need for Renal Replacement Therapy</measure>
+    <time_frame>90 day</time_frame>
+    <description>Renal Replacement Therapy will be monitored whil hospitalized for Sepsis/Septic Shock.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Inpatient Mortality</measure>
+    <time_frame>90 day</time_frame>
+    <description>Patient Death while hospitalized for the admission of Sepsis/Septic Shock</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>90 day survival</measure>
+    <time_frame>90 day</time_frame>
+    <description>Patient death within 90 days of admission to the hospital for Sepsis/Septic Shock</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Sepsis</condition>
+  <condition>Septic Shock</condition>
+  <arm_group>
+    <arm_group_label>Septic Patient Interventions</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Septic Patients will have all interventions performed: Urine collection, Passive Leg Raise, Ultrasound and sublingual microscopy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Patient Interventions</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Control patients will have urine collection and sublingual microscopy performed when intubated</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Starling SV- Passive Leg Raise</intervention_name>
+    <description>All septic patients will have a passive leg raise performed with the assistance of an starling SV device to look at SV change. This will be performed at admission and 4 hours after admission. This intervention will not be performed on healthy controls</description>
+    <arm_group_label>Control Patient Interventions</arm_group_label>
+    <arm_group_label>Septic Patient Interventions</arm_group_label>
+    <other_name>Baxter Starling SV</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Microscan Sublingual Microscopy</intervention_name>
+    <description>All septic patients will have sublingual microscopic images performed at admission, 8-16 hours, 48 hours and 72 hours. Control patients will have a sublingual microscope imaging perfomed after intubation for the elective procedure. This is a process of a 2cm probe tip gently placed on patients' mouth and 3 different images of 5-8 seconds are recorded.</description>
+    <arm_group_label>Septic Patient Interventions</arm_group_label>
+    <other_name>Microvision Sublingual Microscopy</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Vexus Ultrasound Scoring</intervention_name>
+    <description>All septic Patients will have this performed on all patients at admission, 8-16 hours, 48 hours and 72 hours. Ultrasound images and blood flow waves will be collected of the IVC diameter, hepatic vein, portal vein, renal veins and scored using the Venous Excess Ultrasound (VExUS scale). Healthy controls will not have ultrasound performed</description>
+    <arm_group_label>Septic Patient Interventions</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Urine Collection</intervention_name>
+    <description>The urine assay is collected passively from the patient will be ran through a DMMB assay- could provide future beneficial information to resuscitation efforts. This will be performed on all septic patients at admission, 8-16 hours, 48 hours and 72 hours. Urine will be collected on healthy controls at time of intubation for elective procedure.</description>
+    <arm_group_label>Control Patient Interventions</arm_group_label>
+    <arm_group_label>Septic Patient Interventions</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Septic Patient Cohort:&#xD;
+&#xD;
+          1. Greater than or equal to 18 years of age&#xD;
+&#xD;
+          2. Diagnosed with sepsis or septic shock&#xD;
+&#xD;
+          3. Require admission to the Hospital&#xD;
+&#xD;
+        Control Cohort:&#xD;
+&#xD;
+          1. Greater than or equal to 18 years of age&#xD;
+&#xD;
+          2. Undergoing elective surgery requiring intubation and general anesthesia&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Patients with any of the following characteristics will be excluded&#xD;
+&#xD;
+          1. Less than 18 years old&#xD;
+&#xD;
+          2. Chronic Kidney disease on dialysis&#xD;
+&#xD;
+          3. Currently pregnant&#xD;
+&#xD;
+          4. Incarcerated persons&#xD;
+&#xD;
+        Control Cohort:&#xD;
+&#xD;
+          1. Less than 18 years old&#xD;
+&#xD;
+          2. History of Chronic Kidney disease on dialysis, uncontrolled diabetes, cirrhosis, heart&#xD;
+             failure, or nephritic or nephrotic syndromes.&#xD;
+&#xD;
+          3. Currently pregnant&#xD;
+&#xD;
+          4. Incarcerated persons&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>August Longino, MD</last_name>
+    <phone>801-9033258</phone>
+    <email>August.longino@cuanschutz.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Terra Hiller, MSN, RN</last_name>
+    <phone>720-602-1438</phone>
+    <email>Terra.Hiller@dhha.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Denver Health Medical Center</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ivor Douglas, MD</last_name>
+      <phone>303-602-5012</phone>
+      <email>ivor.douglas@dhha.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Terra Hiller, RN</last_name>
+      <phone>303-602-1438</phone>
+      <email>terra.hiller@dhha.org</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 5, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>January 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Denver Health and Hospital Authority</investigator_affiliation>
+    <investigator_full_name>Ivor Douglas</investigator_full_name>
+    <investigator_title>Chief Pulmonary Critical Care</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sepsis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>currently individual participant data will not be made available to other researchers</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9147">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05704361</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BP42230</org_study_id>
+    <secondary_id>2020-004122-33</secondary_id>
+    <nct_id>NCT05704361</nct_id>
+  </id_info>
+  <brief_title>A Study to Investigate the Safety, Tolerability, and Processing by the Body of Intravenous RO7121932 in Participants With Multiple Sclerosis.</brief_title>
+  <official_title>A Multiple-center, Non-randomized, Open-label, Adaptive, Single Ascending Dose, Phase I Study to Investigate the Safety, Tolerability, Immunogenicity, Pharmacokinetics, and Pharmacodynamics of RO7121932 Following Intravenous Administration in Patients With Multiple Sclerosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hoffmann-La Roche</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary purpose of the study is to evaluate the safety and tolerability of single&#xD;
+      ascending intravenous (IV) doses of RO7121932 in participants with multiple sclerosis (MS)&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 11, 2021</start_date>
+  <completion_date type="Anticipated">January 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2025</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Participants With Adverse Events (AEs) and Serious Adverse Events (SAEs) with Severity of AEs Measured According to National Cancer Institute Common Terminology Criteria for Adverse Events version 5 (NCI CTCAE v 5)</measure>
+    <time_frame>Day 1 to Day 169</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With Abnormal Laboratory Findings</measure>
+    <time_frame>Day 1 to Day 169</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With Abnormal Vital Signs and Electrocardiogram (ECG) Parameters</measure>
+    <time_frame>Day 1 to Day 169</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change From Baseline in Suicide Risk as Assessed Using the Columbia-Suicide Severity Rating Scale (C-SSRS)</measure>
+    <time_frame>Day 1 to Day 169</time_frame>
+    <description>The C-SSRS is an interview-based instrument used to assess baseline incidence of suicidal ideation and behavior. The assessment includes &quot;yes&quot; or &quot;no&quot; responses for 5 questions, each related to suicidal ideation (wish to be dead, non-specific active suicidal thoughts, active suicidal ideation with any methods, active suicidal ideation with some intent, active suicidal ideation with specific plan) and suicidal behavior (preparatory acts or behavior, aborted attempt, interrupted attempt, actual attempt, suicide). Numeric ratings are provided for severity of ideation (if present), from 0 to 5. A score of 0 is assigned if no suicide risk is present. A score of 1 or higher indicates suicidal ideation or behavior, with 5 being the most severe.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to Maximum Observed Concentration (Tmax) of RO7121932</measure>
+    <time_frame>Predose and post dose at 0.5 hour, 1 hour (or end of infusion), 2 hour, 3 hour (or end of infusion), 8 hour on Day 1, and on Days 2, 3, 5, 8, 15, 22, 29, 57, 85, 113, 169</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Observed Serum Concentration (Cmax) of RO7121932</measure>
+    <time_frame>Predose and post dose at 0.5 hour, 1 hour (or end of infusion), 2 hour, 3 hour (or end of infusion), 8 hour on Day 1, and on Days 2, 3, 5, 8, 15, 22, 29, 57, 85, 113, 169</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Serum Concentration-Time Curve From Time 0 to 168 Hours (h) (AUC0-168h) Postdose</measure>
+    <time_frame>Predose and post dose at 0.5 hour, 1 hour (or end of infusion), 2 hour, 3 hour (or end of infusion), 8 hour on Day 1, and on Days 2, 3, 5, 8, 15, 22, 29, 57, 85, 113, 169</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Serum Concentration-Time Curve up to the Last Measurable Concentration (AUClast)</measure>
+    <time_frame>Predose and post dose at 0.5 hour, 1 hour (or end of infusion), 2 hour, 3 hour (or end of infusion), 8 hour on Day 1, and on Days 2, 3, 5, 8, 15, 22, 29, 57, 85, 113, 169</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC From Time 0 to Infinity (AUCinf)</measure>
+    <time_frame>Predose and post dose at 0.5 hour, 1 hour (or end of infusion), 2 hour, 3 hour (or end of infusion), 8 hour on Day 1, and on Days 2, 3, 5, 8, 15, 22, 29, 57, 85, 113, 169</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total Body Clearance (CL) Of RO7121932</measure>
+    <time_frame>Predose and post dose at 0.5 hour, 1 hour (or end of infusion), 2 hour, 3 hour (or end of infusion), 8 hour on Day 1, and on Days 2, 3, 5, 8, 15, 22, 29, 57, 85, 113, 169</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Terminal Rate Constant of RO7121932</measure>
+    <time_frame>Predose and post dose at 0.5 hour, 1 hour (or end of infusion), 2 hour, 3 hour (or end of infusion), 8 hour on Day 1, and on Days 2, 3, 5, 8, 15, 22, 29, 57, 85, 113, 169</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Apparent Terminal Half-Life (T1/2) of RO7121932</measure>
+    <time_frame>Predose and post dose at 0.5 hour, 1 hour (or end of infusion), 2 hour, 3 hour (or end of infusion), 8 hour on Day 1, and on Days 2, 3, 5, 8, 15, 22, 29, 57, 85, 113, 169</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cerebrospinal Fluid (CSF) Concentration of RO7121932 (Cohorts 5 and 6, and later cohorts, as appropriate)</measure>
+    <time_frame>Day 1 to Day 169</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Anti-RO7121932 Antibodies</measure>
+    <time_frame>Predose on Day 1, and on Days 8, 22, 29, 57, 85, 169</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time Course of B cells in Blood and CSF</measure>
+    <time_frame>Day 1 to Day 169</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in B-cell count in Blood and CSF</measure>
+    <time_frame>Day 1 to Day 169</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">63</enrollment>
+  <condition>Multiple Sclerosis</condition>
+  <arm_group>
+    <arm_group_label>RO7121932: Dose Escalation Cohorts 1 to 6</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a single IV dose of RO7121932 on treatment Day 1. The planned starting dose of RO7121932 is 7 milligrams (mg) and will be escalated up to 2000 mg. The maximum dose will not exceed 4000 mg. Doses may be repeated, adjusted downwards, or intermediate doses may be investigated based on emerging data.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>RO7121932</intervention_name>
+    <description>Participants will receive a single dose of RO7121932 administered as IV infusion.</description>
+    <arm_group_label>RO7121932: Dose Escalation Cohorts 1 to 6</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Expanded Disability Status Scale (EDSS) score ≤7.0 at Screening&#xD;
+&#xD;
+          -  Participants with RMS or PMS who fulfil international panel criteria for diagnosis&#xD;
+             (McDonald 2017 criteria)&#xD;
+&#xD;
+          -  Participants not treated with any approved MS treatment at Screening and not planning&#xD;
+             to start on any MS therapy during the study (including follow-up)&#xD;
+&#xD;
+          -  Female participants must practice abstinence or otherwise use contraception&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Evidence of recent clinical disease activity&#xD;
+&#xD;
+          -  Evidence of recent MRI activity&#xD;
+&#xD;
+          -  Participants who have active progressive multifocal leukoencephalopathy (PML), have&#xD;
+             had confirmed PML, or have a high degree of suspicion for PML&#xD;
+&#xD;
+          -  Known presence of other neurological disorders that may mimic MS including but not&#xD;
+             limited to: neuromyelitis optica spectrum disease, Lyme disease, untreated Vitamin B12&#xD;
+             deficiency, neurosarcoidosis, cerebrovascular disorders, and untreated hypothyroidism&#xD;
+&#xD;
+          -  Known active or uncontrolled bacterial, viral, fungal, mycobacterial infection or&#xD;
+             other infection, excluding fungal infection of nail beds, including participants&#xD;
+             exhibiting symptoms consistent with severe acute respiratory syndrome coronavirus 2&#xD;
+             (SARS-CoV-2) within 6 weeks prior to Day 1&#xD;
+&#xD;
+          -  Participants with a current diagnosis of epilepsy&#xD;
+&#xD;
+          -  Clinically significant cardiac, metabolic, hematologic, hepatic, immunologic,&#xD;
+             urologic, endocrinologic, neurologic, pulmonary, psychiatric, dermatologic, allergic,&#xD;
+             renal, or other major diseases&#xD;
+&#xD;
+          -  History of cancer, including hematologic malignancy and solid tumors, within 10 years&#xD;
+             of screening. Basal or squamous cell carcinoma of the skin that has been excised and&#xD;
+             is considered cured and in situ carcinoma of the cervix treated with apparent success&#xD;
+             by curative therapy &gt;1 year prior to screening is not exclusionary&#xD;
+&#xD;
+          -  Any concomitant disease that may require treatment with systemic corticosteroids or&#xD;
+             immunosuppressants during course of the study&#xD;
+&#xD;
+          -  History of currently active primary or secondary (non-drug-related) immunodeficiency&#xD;
+&#xD;
+          -  History of hypersensitivity to biologic agents or any of the excipients in the&#xD;
+             formulation&#xD;
+&#xD;
+          -  Cohorts 5 and 6 and later cohorts, as appropriate: Participants with a history of&#xD;
+             spinal cord compression, raised intra-cerebral pressure, clinically significant&#xD;
+             vertebral joint pathology or any other current abnormalities in the lumbar region&#xD;
+             which could prevent the lumbar puncture procedure.&#xD;
+&#xD;
+        Prior/Concomitant Therapy:&#xD;
+&#xD;
+          -  Treatment with any approved MS treatment at Screening. Participants may become&#xD;
+             eligible after completion of a washout period prior to acquiring any screening&#xD;
+             laboratory tests but should not be withdrawn from therapies for the sole purpose of&#xD;
+             meeting eligibility for the trial&#xD;
+&#xD;
+          -  Previous treatment with alemtuzumab, cladribine, mitoxantrone, cyclophosphamide, total&#xD;
+             body irradiation, bone marrow transplantation, and hematopoietic stem cell&#xD;
+             transplantation. For the USA only, previous treatment with daclizumab&#xD;
+&#xD;
+          -  Previous treatment with anti-CD20 B-cell-depleting therapies (e.g., rituximab,&#xD;
+             ocrelizumab, or ofatumumab)&#xD;
+&#xD;
+               -  &lt;12 months prior to acquiring any screening laboratory tests,&#xD;
+&#xD;
+               -  ≥12 months prior to acquiring any screening laboratory tests, if B-cells are&#xD;
+                  outside the normal range, or not back to individual baseline ± 20% (if data are&#xD;
+                  available),&#xD;
+&#xD;
+               -  if discontinuation of a prior B-cell depletion therapy was motivated by safety&#xD;
+                  reasons&#xD;
+&#xD;
+          -  Current or prior treatment with natalizumab (if &lt;24 months prior to acquiring any&#xD;
+             screening laboratory tests)&#xD;
+&#xD;
+        Prior/Concurrent Clinical Study Experience:&#xD;
+&#xD;
+        - Participation in an investigational drug medicinal product or medical device study within&#xD;
+        30 days before Screening or within five times the PD or PK half-life (if known), whichever&#xD;
+        is longer&#xD;
+&#xD;
+        Diagnostic Assessments:&#xD;
+&#xD;
+          -  Positive result on human immunodeficiency virus (HIV1) and HIV2, hepatitis C, or&#xD;
+             hepatitis B&#xD;
+&#xD;
+          -  Participants with suicidal ideation or behavior within 6 months prior to Screening or&#xD;
+             participants who, in the Investigator's judgment, pose a suicidal or homicidal risk&#xD;
+&#xD;
+          -  Vaccination with a live or live-attenuated vaccine within 6 weeks prior to Day 1&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>Hoffmann-La Roche</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Reference Study ID Number: BP42230 https://forpatients.roche.com/</last_name>
+    <phone>888-662-6728 (U.S. Only)</phone>
+    <email>global-roche-genentech-trials@gene.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Stanford University Medical Center; Stanford Neuroscience Health Center</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yale University Multiple Sclerosis Center</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06473</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of South Florida</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Massachusetts Medical School</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01655</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UC Health, LLC.</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UZ Gent</name>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum &quot;Carl Gustav Carus&quot;; MS Center Dresden</name>
+      <address>
+        <city>Dresden</city>
+        <zip>01307</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsmedizin Göttingen Georg-August-Universität; Klinik für Neurologie</name>
+      <address>
+        <city>Göttingen</city>
+        <zip>37075</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum rechts der Isar der TU Muenchen; Neurologische Klinik und Poliklinik im Neuro-Kopf-Zentrum</name>
+      <address>
+        <city>München</city>
+        <zip>81675</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Münster Klinik u. Poliklinik f. Neurologie</name>
+      <address>
+        <city>Münster</city>
+        <zip>48149</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hadassah University Hospital - Ein Kerem</name>
+      <address>
+        <city>Jerusalem</city>
+        <zip>9112001</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tel Aviv Sourasky Medical Center; Department of Neurology</name>
+      <address>
+        <city>Tel Aviv</city>
+        <zip>6423906</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>IRCCS Ospedale San Raffaele; Neurologia Neurofisiologia Neuroriabilitazione-Centro Sclerosi Multipla</name>
+      <address>
+        <city>Milano</city>
+        <state>Lombardia</state>
+        <zip>20132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fond. Istituto Neurologico C.Besta; UO Neurologia IV - Neuroimmunologia Malattie Neuromuscolari</name>
+      <address>
+        <city>Milano</city>
+        <state>Lombardia</state>
+        <zip>20133</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Uniwersyteckie Centrum Kliniczne; Osrodek Badan Wczesnych Faz</name>
+      <address>
+        <city>Gda?sk</city>
+        <zip>80-214</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regionalny Szpital Specjalistyczny im. W. Bieganskiego; Oddzial Neurologiczny</name>
+      <address>
+        <city>Grudzi?dz</city>
+        <zip>86-300</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MedPolonia</name>
+      <address>
+        <city>Poznan</city>
+        <zip>60-693</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Osrodek Badan Klinicznych Euromedis</name>
+      <address>
+        <city>Szczecin</city>
+        <zip>70-111</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instytut Psychiatrii i Neurologii II Klinika Neurologiczna</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>02-957</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Braga; Centro Clínico Académico (Piso 1, Ala E)</name>
+      <address>
+        <city>Braga</city>
+        <zip>4710-243</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Germany</country>
+    <country>Israel</country>
+    <country>Italy</country>
+    <country>Poland</country>
+    <country>Portugal</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 4, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>May 18, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 18, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 19, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple Sclerosis</mesh_term>
+    <mesh_term>Sclerosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers may request access to individual patient level data through the clinical study data request platform (www.vivli.org). Further details on Roche's criteria for eligible studies are available here (https://vivli.org/ourmember/roche/). For further details on Roche's Global Policy on the Sharing of Clinical Information and how to request access to related clinical study documents, see here (https://www.roche.com/research_and_development/who_we_are_how_we_work/clinical_trials/our_commitment_to_data_sharing.htm).</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

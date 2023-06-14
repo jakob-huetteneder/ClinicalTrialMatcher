@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9271">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05701566</url>
+  </required_header>
+  <id_info>
+    <org_study_id>8177-21-IV-CTIL</org_study_id>
+    <nct_id>NCT05701566</nct_id>
+  </id_info>
+  <brief_title>Use of Virtual Reality Technology as a Sedation Replacement During Colonoscopy</brief_title>
+  <official_title>Use of Virtual Reality Technology as a Sedation Replacement During Colonoscopy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sheba Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sheba Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A pilot non-randomized controlled study examined whether the use of VR technology can serve&#xD;
+      as an appropriate substitute for sedation in a colonoscopy examination.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      VR is an attention-distracting technology via visual and auditory signals by a&#xD;
+      computer-generated virtual engulfing environment. This technology has already been used in a&#xD;
+      variety of medical conditions and previous studies have demonstrated the benefit of using it&#xD;
+      as an additional tool for pain relief and as a substitute to sedation in invasive procedure.&#xD;
+      In this study we examined the use of VR as a substitute for sedation in colonoscopy. In this&#xD;
+      randomized control study, 60 patients were sequentially enrolled in a 1:1 ratio to either&#xD;
+      standard sedated colonoscopy or VR-unsedated procedure. The primary outcome was the overall&#xD;
+      satisfaction of patients who underwent unsedated colonoscopy with VR headset compared with&#xD;
+      patients who underwent standard sedation colonoscopy. Pain during the procedure, PDR,&#xD;
+      colonoscopy duration, post colonoscopy adverse events, post colonoscopy recovery and&#xD;
+      time-to-return to daily functions and turnaround time at the endoscopy unit were secondary&#xD;
+      outcomes.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 1, 2022</start_date>
+  <completion_date type="Anticipated">December 1, 2023</completion_date>
+  <primary_completion_date type="Actual">February 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>pilot randomized controled study</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall satisfaction of patients who underwent un-sedated colonoscopy with virtual reality (VR) headset compared with patients who underwent standard sedation colonoscopy.</measure>
+    <time_frame>1 day</time_frame>
+    <description>Questionnaire (1 - not satisfied at all, 5 - very satisfied)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pain during the procedure</measure>
+    <time_frame>1 day</time_frame>
+    <description>Questionnaire (1- severe pain, 5 - no pain at all)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>polyp detection rate (PDR)</measure>
+    <time_frame>during colonoscopy procedure</time_frame>
+    <description>number of polyps detected during colonoscopy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Colonoscopy duration</measure>
+    <time_frame>during colonoscopy procedure</time_frame>
+    <description>in minutes starting at insertion of the colonoscope to the anus until final withdrawal</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post colonoscopy adverse events</measure>
+    <time_frame>1 day</time_frame>
+    <description>Questionnaire: Did you suffer from a general bad feeling after the test, including dizziness, nausea, abdominal pain (1 - no complaints at all, 5 - serious complaints)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time-to-return to daily activities (work, driving)</measure>
+    <time_frame>1 day</time_frame>
+    <description>hours</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Turn-around time at the endoscopy Unit (overall duration of stay at the Endoscopy unit)</measure>
+    <time_frame>1 day</time_frame>
+    <description>overall time at the unit</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Patient Satisfaction</condition>
+  <arm_group>
+    <arm_group_label>virtual reality group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>unsedated colonoscopy using virtual reality headset.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>colonoscopy with standard sedation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>standard sedated colonoscopy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>virtual reality headset</intervention_name>
+    <description>use of virtual reality headset during colonoscopy as a substitute to sedation.</description>
+    <arm_group_label>virtual reality group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>colonoscopy with standard sedation.</intervention_name>
+    <description>use of standard sedation during colonoscopy.</description>
+    <arm_group_label>colonoscopy with standard sedation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  adult patients (≥18) with any elective indication for colonoscopy.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  known seizures' disorders, cognitive, visual or auditory impairment.&#xD;
+&#xD;
+          -  patients who were unable or unwilling to sign an informed consent.&#xD;
+&#xD;
+          -  Pregnant women.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ido Veisman, Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Sheba Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ido Veisman, Dr.</last_name>
+    <phone>+97235307072</phone>
+    <phone_ext>7072</phone_ext>
+    <email>Ido.Veisman@sheba.health.gov.il</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Revital Dvir, Mrs.</last_name>
+    <phone>+97235307072</phone>
+    <email>revital.dvir@sheba.health.gov.il</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Gastroenterology department, Sheba Medical Center</name>
+      <address>
+        <city>Tel HaShomer</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ido Veisman, Dr.</last_name>
+      <phone>+97235307072</phone>
+      <email>ido.veisman@sheba.health.gov.il</email>
+    </contact>
+    <contact_backup>
+      <last_name>Revital Dvir</last_name>
+      <phone>+97235307072</phone>
+      <email>revital.dvir@sheba.health.gov.il</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 18, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>April 6, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 10, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

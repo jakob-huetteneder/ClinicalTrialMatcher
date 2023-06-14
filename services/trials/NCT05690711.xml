@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9764">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05690711</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HRS8179-201</org_study_id>
+    <nct_id>NCT05690711</nct_id>
+  </id_info>
+  <brief_title>A Trial of HRS8179 on Brain Swelling After Large Hemispheric Infarction</brief_title>
+  <official_title>Efficacy and Safety of Intravenous HRS8179 on Brain Swelling After Large Hemispheric Infarction: a Randomised, Double-blind, Placebo-controlled Phase II Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Beijing Suncadia Pharmaceuticals Co., Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Beijing Suncadia Pharmaceuticals Co., Ltd</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective is to explore if HRS8179 could improve midline shift at 72 hours (or at&#xD;
+      time of decompressive craniectomy or comfort measures only, if earlier) in participants with&#xD;
+      large hemispheric infarction. The secondary objective is to explore if HRS8179 could improve&#xD;
+      acute neurologic status, functional outcomes, treatment requirements and safety.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 15, 2023</start_date>
+  <completion_date type="Anticipated">January 15, 2024</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The change between baseline and 72-78 hours in midline shift measured by MRI or CT</measure>
+    <time_frame>Baseline up to 72 hours</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>modified Rankin Scale (mRS) Score</measure>
+    <time_frame>Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>Baseline up to Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Who Achieved mRS 0-4</measure>
+    <time_frame>Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse Events (AEs) and Serious Adverse Events (SAEs)</measure>
+    <time_frame>Baseline up to Day 90</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Brain Swelling, Large Hemispheric Infarction</condition>
+  <arm_group>
+    <arm_group_label>HRS8179</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>HRS8179</intervention_name>
+    <description>HRS8179 injection</description>
+    <arm_group_label>HRS8179</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>physiological saline</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Fully understand and voluntarily participate in this research, and sign the informed&#xD;
+             consent form (the informed consent form can be signed voluntarily by the person or&#xD;
+             legal representative);&#xD;
+&#xD;
+          2. Aged 18~80, regardless of gender;&#xD;
+&#xD;
+          3. A clinical diagnosis of acute ischemic stroke in the middle cerebral artery (MCA)&#xD;
+             territory;&#xD;
+&#xD;
+          4. NIHSS ≥ 10 points at screening;&#xD;
+&#xD;
+          5. A large hemispheric infarction is defined as: lesion volume of 80 to 300 cm3 on&#xD;
+             magnetic resonance imaging (MRI) diffusion-weighted imaging (DWI), or computed&#xD;
+             tomography perfusion (CTP).&#xD;
+&#xD;
+          6. The study drug initiated must be no later than 10 hours when stroke onset;&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. The investigator judges that the subject may withdrawn the supportive treatment on the&#xD;
+             first day; The investigator believes that there is evidence indicating a concurrent&#xD;
+             infarction in the contralateral hemisphere sufficiently serious to affect functional&#xD;
+             outcome.3. There are clinical signs of brain hernia;&#xD;
+&#xD;
+          2. CT/MRI suggested that the anterior septal/pineal excursion was &gt;2 mm due to brain&#xD;
+             edema;&#xD;
+&#xD;
+          3. CT/MRI indicates cerebral hemorrhage (excluding small ecchymosis/punctate hemorrhage);&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Pengfei Wang</last_name>
+    <phone>+86 18701040733</phone>
+    <email>pengfei.wang.pw5@hengrui.com</email>
+  </overall_contact>
+  <verification_date>December 2022</verification_date>
+  <study_first_submitted>December 27, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>January 17, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 17, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Brain Edema</mesh_term>
+    <mesh_term>Infarction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

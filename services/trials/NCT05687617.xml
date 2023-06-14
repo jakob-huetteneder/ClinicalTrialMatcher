@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9914">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05687617</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MP-20-2023-6524</org_study_id>
+    <nct_id>NCT05687617</nct_id>
+  </id_info>
+  <brief_title>Near-infrared Imaging With Indocyanine Green for Detection of Peritoneal Metastases for Gastric Adenocarcinoma.</brief_title>
+  <official_title>Diagnostic Value of Intraoperative Near-infrared Imaging With Indocyanine Green for Detection of Peritoneal Metastases During Staging Laparoscopy for Gastric Adenocarcinoma: a Prospective, Multicentric Study.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Laval University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ciusss de L'Est de l'Île de Montréal</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Laval University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Peritoneal disease at initial presentation for patients with gastric adenocarcinoma (GA) is&#xD;
+      frequent, with 15-31% of patients presenting with peritoneal metastases (PM) at surgical&#xD;
+      exploration. The prognosis of patients with PM is poor, overall survival (OS) ranging from 8&#xD;
+      to 13 months, reinforcing the importance of optimal patient selection before surgical&#xD;
+      management of GA.&#xD;
+&#xD;
+      Indocyanine Green (ICG) fluorescence imaging for intraoperative detection of PM has been&#xD;
+      described in recent literature as a useful tool in patients undergoing cytoreductive surgery&#xD;
+      (CRS) with hyperthermic intraperitoneal chemotherapy (HIPEC) for peritoneal malignancies to&#xD;
+      increase the detection of PM during surgery. However, the role of ICG for patients with GA,&#xD;
+      and its role during diagnosic laparoscopy (DL), remain unknown.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a multicentric, prospective study . Patients will be referred to one of seven&#xD;
+      surgeons specialized in the surgical management of gastric cancer. Patients will undergo DL,&#xD;
+      with intravenous (IV) injection of 0.25 mg/kg of free ICG at the start of the surgery. DL&#xD;
+      will be first performed without fluorescence imaging in the standard fashion, with&#xD;
+      identification of potential PM. A first peritoneal cancer index (PCI) score will be&#xD;
+      calculated. Fluorescence imaging will then be performed, and correlation with previously&#xD;
+      identified lesions will be assessed and a second PCI score (with ICG) will be calculated.&#xD;
+      Biopsies will be performed to confirm the metastatic status of the lesions. Any suspicion for&#xD;
+      additional lesions visualized only under fluorescence imaging will be biopsied as well.&#xD;
+      Peritoneal fluid cytology will be performed at the beginning of the surgery.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 15, 2022</start_date>
+  <completion_date type="Anticipated">December 15, 2024</completion_date>
+  <primary_completion_date type="Anticipated">June 15, 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of patients with additional lesions detected with ICG.</measure>
+    <time_frame>18 months</time_frame>
+    <description>Patients with peritoneal metastases, in whom additional lesions are detected with ICG.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of patients with peritoneal metastases detected only with ICG.</measure>
+    <time_frame>18 months</time_frame>
+    <description>Patients with peritoneal metastases, in whom lesions are detected only with ICG and diagnostic laparoscopy would be negative otherwise.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Gastric Cancer</condition>
+  <condition>Gastric Adenocarcinoma</condition>
+  <condition>Peritoneal Carcinomatosis</condition>
+  <condition>Peritoneal Metastases</condition>
+  <arm_group>
+    <arm_group_label>Gastric cancer with ICG</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patient to receive IV ICG during diagnostic laparoscopy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Indocyanine green</intervention_name>
+    <description>0,25mg/kg IV at the start of the surgery,</description>
+    <arm_group_label>Gastric cancer with ICG</arm_group_label>
+    <other_name>ICG</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Confirmed diagnosis of gastric adenocarcinoma.&#xD;
+&#xD;
+          -  Clinical stage cT2 or higher.&#xD;
+&#xD;
+          -  No evidence of metastatic disease on preoperative imaging.&#xD;
+&#xD;
+          -  Patient fit for surgery (ECOG 0 or 1).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Indocyanine allergy.&#xD;
+&#xD;
+          -  Gastric cancer subtype other than gastric adenocarcinoma.&#xD;
+&#xD;
+          -  Unconfirmed diagnosis of gastric adenocarcinoma (unable to confirm diagnosis).&#xD;
+&#xD;
+          -  Clinical stage cT1b or lower.&#xD;
+&#xD;
+          -  Evidence of metastatic disease on preoperative imaging.&#xD;
+&#xD;
+          -  Patient unfit for surgery (ECOG 2 or more).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alexandre Brind'Amour, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Laval University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alexandre Brind'Amour, MD</last_name>
+    <phone>4185254444</phone>
+    <phone_ext>15925</phone_ext>
+    <email>godonco@chudequebec.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>CIUSSS de l'Est-de-l'Île-de-Montréal</name>
+      <address>
+        <city>Montréal</city>
+        <state>Quebec</state>
+        <zip>H1T 2M4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mai-Kim Gervais, MD</last_name>
+      <phone>+14182523400</phone>
+      <phone_ext>5766</phone_ext>
+    </contact>
+    <investigator>
+      <last_name>Pierre Dubé, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Lucas Sidéris, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jean-François Tremblay, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mikaël L. Soucisse, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Québec</name>
+      <address>
+        <city>Quebec City</city>
+        <state>Quebec</state>
+        <zip>G1R 2J6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alexandre Brind'Amour</last_name>
+      <phone>+14185254444</phone>
+      <phone_ext>15925</phone_ext>
+      <email>godonco@chudequebec.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Cindy Boulanger-Gobeil, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Philippe Bouchard, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jean-Pierre Gagné, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Éric Poirier, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <reference>
+    <citation>Siegel RL, Miller KD, Fuchs HE, Jemal A. Cancer Statistics, 2021. CA Cancer J Clin. 2021 Jan;71(1):7-33. doi: 10.3322/caac.21654. Epub 2021 Jan 12. Erratum In: CA Cancer J Clin. 2021 Jul;71(4):359.</citation>
+    <PMID>33433946</PMID>
+  </reference>
+  <reference>
+    <citation>Ma J, Shen H, Kapesa L, Zeng S. Lauren classification and individualized chemotherapy in gastric cancer. Oncol Lett. 2016 May;11(5):2959-2964. doi: 10.3892/ol.2016.4337. Epub 2016 Mar 16.</citation>
+    <PMID>27123046</PMID>
+  </reference>
+  <reference>
+    <citation>Ajani JA, D'Amico TA, Bentrem DJ, Chao J, Cooke D, Corvera C, Das P, Enzinger PC, Enzler T, Fanta P, Farjah F, Gerdes H, Gibson MK, Hochwald S, Hofstetter WL, Ilson DH, Keswani RN, Kim S, Kleinberg LR, Klempner SJ, Lacy J, Ly QP, Matkowskyj KA, McNamara M, Mulcahy MF, Outlaw D, Park H, Perry KA, Pimiento J, Poultsides GA, Reznik S, Roses RE, Strong VE, Su S, Wang HL, Wiesner G, Willett CG, Yakoub D, Yoon H, McMillian N, Pluchino LA. Gastric Cancer, Version 2.2022, NCCN Clinical Practice Guidelines in Oncology. J Natl Compr Canc Netw. 2022 Feb;20(2):167-192. doi: 10.6004/jnccn.2022.0008.</citation>
+    <PMID>35130500</PMID>
+  </reference>
+  <reference>
+    <citation>Al-Batran SE, Homann N, Pauligk C, Goetze TO, Meiler J, Kasper S, Kopp HG, Mayer F, Haag GM, Luley K, Lindig U, Schmiegel W, Pohl M, Stoehlmacher J, Folprecht G, Probst S, Prasnikar N, Fischbach W, Mahlberg R, Trojan J, Koenigsmann M, Martens UM, Thuss-Patience P, Egger M, Block A, Heinemann V, Illerhaus G, Moehler M, Schenk M, Kullmann F, Behringer DM, Heike M, Pink D, Teschendorf C, Lohr C, Bernhard H, Schuch G, Rethwisch V, von Weikersthal LF, Hartmann JT, Kneba M, Daum S, Schulmann K, Weniger J, Belle S, Gaiser T, Oduncu FS, Guntner M, Hozaeel W, Reichart A, Jager E, Kraus T, Monig S, Bechstein WO, Schuler M, Schmalenberg H, Hofheinz RD; FLOT4-AIO Investigators. Perioperative chemotherapy with fluorouracil plus leucovorin, oxaliplatin, and docetaxel versus fluorouracil or capecitabine plus cisplatin and epirubicin for locally advanced, resectable gastric or gastro-oesophageal junction adenocarcinoma (FLOT4): a randomised, phase 2/3 trial. Lancet. 2019 May 11;393(10184):1948-1957. doi: 10.1016/S0140-6736(18)32557-1. Epub 2019 Apr 11.</citation>
+    <PMID>30982686</PMID>
+  </reference>
+  <reference>
+    <citation>Granieri S, Bonomi A, Frassini S, Chierici AP, Bruno F, Paleino S, Kusamura S, Germini A, Facciorusso A, Deraco M, Cotsoglou C. Prognostic impact of cytoreductive surgery (CRS) with hyperthermic intraperitoneal chemotherapy (HIPEC) in gastric cancer patients: A meta-analysis of randomized controlled trials. Eur J Surg Oncol. 2021 Nov;47(11):2757-2767. doi: 10.1016/j.ejso.2021.05.016. Epub 2021 May 11.</citation>
+    <PMID>34001385</PMID>
+  </reference>
+  <reference>
+    <citation>Sarela AI, Lefkowitz R, Brennan MF, Karpeh MS. Selection of patients with gastric adenocarcinoma for laparoscopic staging. Am J Surg. 2006 Jan;191(1):134-8. doi: 10.1016/j.amjsurg.2005.10.015.</citation>
+    <PMID>16399124</PMID>
+  </reference>
+  <reference>
+    <citation>Al-Batran SE, Hartmann JT, Probst S, Schmalenberg H, Hollerbach S, Hofheinz R, Rethwisch V, Seipelt G, Homann N, Wilhelm G, Schuch G, Stoehlmacher J, Derigs HG, Hegewisch-Becker S, Grossmann J, Pauligk C, Atmaca A, Bokemeyer C, Knuth A, Jager E; Arbeitsgemeinschaft Internistische Onkologie. Phase III trial in metastatic gastroesophageal adenocarcinoma with fluorouracil, leucovorin plus either oxaliplatin or cisplatin: a study of the Arbeitsgemeinschaft Internistische Onkologie. J Clin Oncol. 2008 Mar 20;26(9):1435-42. doi: 10.1200/JCO.2007.13.9378.</citation>
+    <PMID>18349393</PMID>
+  </reference>
+  <reference>
+    <citation>Bang YJ, Van Cutsem E, Feyereislova A, Chung HC, Shen L, Sawaki A, Lordick F, Ohtsu A, Omuro Y, Satoh T, Aprile G, Kulikov E, Hill J, Lehle M, Ruschoff J, Kang YK; ToGA Trial Investigators. Trastuzumab in combination with chemotherapy versus chemotherapy alone for treatment of HER2-positive advanced gastric or gastro-oesophageal junction cancer (ToGA): a phase 3, open-label, randomised controlled trial. Lancet. 2010 Aug 28;376(9742):687-97. doi: 10.1016/S0140-6736(10)61121-X. Epub 2010 Aug 19. Erratum In: Lancet. 2010 Oct 16;376(9749):1302.</citation>
+    <PMID>20728210</PMID>
+  </reference>
+  <reference>
+    <citation>Abdalla EK, Pisters PW. Staging and preoperative evaluation of upper gastrointestinal malignancies. Semin Oncol. 2004 Aug;31(4):513-29. doi: 10.1053/j.seminoncol.2004.04.014.</citation>
+    <PMID>15297943</PMID>
+  </reference>
+  <reference>
+    <citation>Mezhir JJ, Shah MA, Jacks LM, Brennan MF, Coit DG, Strong VE. Positive peritoneal cytology in patients with gastric cancer: natural history and outcome of 291 patients. Ann Surg Oncol. 2010 Dec;17(12):3173-80. doi: 10.1245/s10434-010-1183-0. Epub 2010 Jun 29.</citation>
+    <PMID>20585870</PMID>
+  </reference>
+  <reference>
+    <citation>De Andrade JP, Mezhir JJ. The critical role of peritoneal cytology in the staging of gastric cancer: an evidence-based review. J Surg Oncol. 2014 Sep;110(3):291-7. doi: 10.1002/jso.23632. Epub 2014 May 22.</citation>
+    <PMID>24850538</PMID>
+  </reference>
+  <reference>
+    <citation>Spolverato G, Ejaz A, Kim Y, Squires MH, Poultsides GA, Fields RC, Schmidt C, Weber SM, Votanopoulos K, Maithel SK, Pawlik TM. Rates and patterns of recurrence after curative intent resection for gastric cancer: a United States multi-institutional analysis. J Am Coll Surg. 2014 Oct;219(4):664-75. doi: 10.1016/j.jamcollsurg.2014.03.062. Epub 2014 Jun 26.</citation>
+    <PMID>25154671</PMID>
+  </reference>
+  <reference>
+    <citation>Bonnot PE, Lintis A, Mercier F, Benzerdjeb N, Passot G, Pocard M, Meunier B, Bereder JM, Abboud K, Marchal F, Quenet F, Goere D, Msika S, Arvieux C, Pirro N, Wernert R, Rat P, Gagniere J, Lefevre JH, Courvoisier T, Kianmanesh R, Vaudoyer D, Rivoire M, Meeus P, Villeneuve L, Piessen G, Glehen O; FREGAT and BIG-RENAPE Networks. Prognosis of poorly cohesive gastric cancer after complete cytoreductive surgery with or without hyperthermic intraperitoneal chemotherapy (CYTO-CHIP study). Br J Surg. 2021 Oct 23;108(10):1225-1235. doi: 10.1093/bjs/znab200.</citation>
+    <PMID>34498666</PMID>
+  </reference>
+  <reference>
+    <citation>Brandl A, Yonemura Y, Glehen O, Sugarbaker P, Rau B. Long term survival in patients with peritoneal metastasised gastric cancer treated with cytoreductive surgery and HIPEC: A multi-institutional cohort from PSOGI. Eur J Surg Oncol. 2021 Jan;47(1):172-180. doi: 10.1016/j.ejso.2020.10.006. Epub 2020 Oct 14.</citation>
+    <PMID>33071173</PMID>
+  </reference>
+  <reference>
+    <citation>Baiocchi GL, Gheza F, Molfino S, Arru L, Vaira M, Giacopuzzi S. Indocyanine green fluorescence-guided intraoperative detection of peritoneal carcinomatosis: systematic review. BMC Surg. 2020 Jul 17;20(1):158. doi: 10.1186/s12893-020-00821-9.</citation>
+    <PMID>32680492</PMID>
+  </reference>
+  <reference>
+    <citation>Liberale G, Vankerckhove S, Caldon MG, Ahmed B, Moreau M, Nakadi IE, Larsimont D, Donckier V, Bourgeois P; Group R&amp;D for the Clinical Application of Fluorescence Imaging of the Jules Bordet's Institute.. Fluorescence Imaging After Indocyanine Green Injection for Detection of Peritoneal Metastases in Patients Undergoing Cytoreductive Surgery for Peritoneal Carcinomatosis From Colorectal Cancer: A Pilot Study. Ann Surg. 2016 Dec;264(6):1110-1115. doi: 10.1097/SLA.0000000000001618.</citation>
+    <PMID>27828822</PMID>
+  </reference>
+  <reference>
+    <citation>Lieto E, Auricchio A, Cardella F, Mabilia A, Basile N, Castellano P, Orditura M, Galizia G. Fluorescence-Guided Surgery in the Combined Treatment of Peritoneal Carcinomatosis from Colorectal Cancer: Preliminary Results and Considerations. World J Surg. 2018 Apr;42(4):1154-1160. doi: 10.1007/s00268-017-4237-7.</citation>
+    <PMID>28929277</PMID>
+  </reference>
+  <reference>
+    <citation>Shirakawa S, Toyama H, Kido M, Fukumoto T. A prospective single-center protocol for using near-infrared fluorescence imaging with indocyanine green during staging laparoscopy to detect small metastasis from pancreatic cancer. BMC Surg. 2019 Nov 7;19(1):165. doi: 10.1186/s12893-019-0635-0.</citation>
+    <PMID>31699083</PMID>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 8, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 8, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>January 8, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 8, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 18, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Laval University</investigator_affiliation>
+    <investigator_full_name>Alexandre Brind'Amour</investigator_full_name>
+    <investigator_title>Doctor</investigator_title>
+  </responsible_party>
+  <keyword>Diagnostic laparoscopy</keyword>
+  <keyword>ICG</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Adenocarcinoma</mesh_term>
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Peritoneal Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

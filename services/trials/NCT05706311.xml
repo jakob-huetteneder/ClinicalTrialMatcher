@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9051">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05706311</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CTN-0138</org_study_id>
+    <secondary_id>3UG1DA049444-04S2</secondary_id>
+    <nct_id>NCT05706311</nct_id>
+  </id_info>
+  <brief_title>Community Pharmacy-Based Prescription Drug Monitoring Program Opioid Risk Assessment Tool</brief_title>
+  <acronym>PharmTool</acronym>
+  <official_title>Adaption and Implementation of a Community Pharmacy-Based Prescription Drug Monitoring Program Opioid Risk Assessment Tool (PharmTool)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Utah</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Cincinnati</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Utah</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This goal of this observational study is to develop and test the Opioid Risk Reduction&#xD;
+      Clinical Decision Support (ORRCDS) tool. The tool will be an opioid medication risk screener&#xD;
+      and decision support platform that will be used by pharmacists upon dispensing prescription&#xD;
+      opioid medication. Once the Opioid Risk Reduction has been developed, we will examine the&#xD;
+      impact of the ORRCDS within two divisions of a large chain retail pharmacy. Pharmacies will&#xD;
+      be randomized to using the Opioid Risk Reduction Clinical Decision Support (ORRCDS) tool or&#xD;
+      standard of care opioid dispensation. We hypothesize that patients at pharmacies randomized&#xD;
+      to the ORRCDS tool will be more likely to reduce their risk status to low or moderate&#xD;
+      compared to the patients at standard of care pharmacies.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In our previous research, patients have reported a willingness to answer questions and&#xD;
+      discuss opioid medication use with pharmacists in these settings. Therefore, community&#xD;
+      pharmacy settings are an underused resource with great promise for screening and engaging&#xD;
+      patients to reduce opioid medication misuse. Currently, prescription drug monitoring programs&#xD;
+      (PDMP) are the most available tool to pharmacists for monitoring opioid use among patients.&#xD;
+      As a result, PDMP users must rely on their &quot;best judgment&quot; in clinical decision-making and&#xD;
+      often provide patient care and referrals with a limited evidence base. The question of&#xD;
+      highest importance in the field of prescription medication misuse is: How can PDMP&#xD;
+      information/output be most usefully utilized for patient intervention within an&#xD;
+      evidence-based opioid risk reduction clinical decision support (ORRCDS) tool.&#xD;
+&#xD;
+      This study will develop and test the Opioid Risk Reduction Clinical Decision Support (ORRCDS)&#xD;
+      tool and examining facilitators and barriers to sustainability and broader dissemination. The&#xD;
+      study is organized into 3 aims:&#xD;
+&#xD;
+      Aim 1: ORRCDS Tool development which will include a universal opioid medication risk screener&#xD;
+      and decision support platform.&#xD;
+&#xD;
+      Aim 2: Once the ORRCDS has been developed, we will conduct a type-1 cluster 2-arm randomized&#xD;
+      trial to examine the impact of the ORRCDS tool within two divisions of a large chain retail&#xD;
+      pharmacy. We hypothesize that patients with moderate or high opioid risk will be more likely&#xD;
+      to reduce risk status to low or moderate following ORRCDS implementation compared to standard&#xD;
+      care.&#xD;
+&#xD;
+      Aim 3: Following the completion of the cluster randomized trial, qualitative interviews will&#xD;
+      be conducted with pharmacists and leaders from a large chain retail pharmacy and PDMP vendor&#xD;
+      about the potential barriers and facilitators to the sustainability (continued use at the&#xD;
+      stores in this project) and broader dissemination (implementation at other stores outside of&#xD;
+      those in this project) of the ORRCDS.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2024</start_date>
+  <completion_date type="Anticipated">March 2027</completion_date>
+  <primary_completion_date type="Anticipated">July 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a type-1 cluster 2-arm randomized trial. Randomization will take place at the pharmacy level and will be stratified by zip code level of poverty and pharmacy patient volume.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Stage 1: Development of the Opioid Risk Reduction Clinical Decision Support (ORRCDS) tool</measure>
+    <time_frame>24 months</time_frame>
+    <description>This outcome will be assessed using the System Usability Scale (SUS).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Stage 2: Improvement in patient opioid-related risks</measure>
+    <time_frame>24 months</time_frame>
+    <description>This outcome will be assessed using the Narcotic Score (NS).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Stage 3: ORRCDS sustainability within the system and pharmacy chain systems</measure>
+    <time_frame>24 months</time_frame>
+    <description>Using the Consolidated Framework for Implementation Research the investigators will interview staff from the PDMP vendor and large chain retail pharmacy to assesses the barriers of tool sustainability.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Opioid Abuse</condition>
+  <condition>Prescription Opioid Abuse</condition>
+  <arm_group>
+    <arm_group_label>Intervention Pharmacy Site</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Pharmacies randomized to the experimental arm will be exposed to the intervention condition.&#xD;
+Patients at the intervention pharmacy identified as at elevated risk will receive confirmatory screening for opioid risk. Those with confirmed moderate risk will receive a brief motivational intervention for medication misuse and an offer of naloxone dispensation. Those with high risk will receive a brief motivational intervention leading to warm handoff treatment linkage intervention to primary or specialty substance use care with an offer for naloxone dispensation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Pharmacy Site</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Standard of Care is the treatment as usual condition, which follows federal and Ohio state pharmacy requirements for pharmacists where in patients filling prescriptions receive information and opt-in counseling. Ohio State law requires pharmacist to not dispense an opioid supply &gt;90 days, with a specific prohibition on dispensations ≥14 days after prescriptions are issued. Pharmacists are also required to perform a universal prescription drug medication review before initial dispensation and offer brief counseling (e.g., unstandardized information about medication safety) for new/modified prescription therapies.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Clinical Decision Support Tool (Moderate Risk)</intervention_name>
+    <description>Moderate risk patients will get brief motivational intervention for medication misuse and an offer of naloxone dispensation.</description>
+    <arm_group_label>Intervention Pharmacy Site</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Clinical Decision Support Tool (High Risk)</intervention_name>
+    <description>Those with high risk will receive a brief motivational intervention leading to warm handoff treatment linkage intervention to primary or specialty substance use care with an offer for naloxone dispensation.</description>
+    <arm_group_label>Intervention Pharmacy Site</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of Care</intervention_name>
+    <description>Ohio State law requires pharmacist to not dispense an opioid supply &gt;90 days, with a specific prohibition on dispensations ≥14 days after prescriptions are issued. Pharmacists are also required to perform a universal prescription drug medication review before initial dispensation and offer brief counseling (e.g., unstandardized information about medication safety) for new/modified prescription therapies.</description>
+    <arm_group_label>Control Pharmacy Site</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  A large chain retail pharmacy chain in the Cincinnati or Columbus, Ohio area&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  None&#xD;
+&#xD;
+        This study does not involve individual patients as randomization will occur among&#xD;
+        pharmacies.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jerry Cochran, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Associate Professor</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jerry Cochran, PhD</last_name>
+    <phone>801-213-0654</phone>
+    <email>jerry.cochran@hsc.utah.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Nicole Mauerman, MS</last_name>
+    <phone>801-898-8696</phone>
+    <email>nicole.mauerman@hsc.utah.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Cincinnati</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45267</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Utah</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 6, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 31, 2023</study_first_posted>
+  <last_update_submitted>January 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Utah</investigator_affiliation>
+    <investigator_full_name>Jerry Cochran</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Opioid-Related Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9241">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05702216</url>
+  </required_header>
+  <id_info>
+    <org_study_id>N° 2021-A03116-35</org_study_id>
+    <nct_id>NCT05702216</nct_id>
+  </id_info>
+  <brief_title>Non-inferiority Study of a Cardiac Tele-rehabilitation in Hybrid Form Compared to a Cardiac Rehabilitation</brief_title>
+  <acronym>TELEREHAB</acronym>
+  <official_title>Étude de Non-infériorité d'un Programme de télé-réadaptation Cardiovasculaire Sous Une Forme Hybride Par Rapport à Une rééducation réadaptation Cardiovasculaire Classique</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Clinique de la Mitterie</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Clinique de la Mitterie</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Cardiac tele-rehabilitation in a hybrid form can be a choise for the management of&#xD;
+      cardiovascular diseases. The aim is to increase the participation rate of patients in cardiac&#xD;
+      rehabilitation.&#xD;
+&#xD;
+      This new form of care can be as effective as traditional care.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The Covid-19 pandemic has had indirect effects on the health system, particularly in the&#xD;
+      management of cardiovascular diseases. Rehabilitation centres had to adapt their operation to&#xD;
+      the recommendations of health authorities. The choice appeared to be unavoidable:&#xD;
+      tele-rehabilitation care in a hybrid form. Moreover, Many patients do not participate at this&#xD;
+      kind of care. Many identified factors can explain this low rate of participation : a lack of&#xD;
+      proximity facilities does not promote patient participation.&#xD;
+&#xD;
+      The objective of this study is to demonstrate a comparable effectiveness between a cardiac&#xD;
+      telerehabilitation programme in hybrid form and a cardiac classic rehabilitation programme.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 5, 2022</start_date>
+  <completion_date type="Anticipated">January 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 18, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomization in two groups: a Hybrid Tele-pulmonary Rehabilitation group and a classic Rehabilitation group.</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>6-minute walk test</measure>
+    <time_frame>6 weeks before baseline</time_frame>
+    <description>Distance covered in the 6-minute walk test</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Stress test</measure>
+    <time_frame>6 weeks before baseline</time_frame>
+    <description>12-lead electrocardiogram</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Wall Squat Test</measure>
+    <time_frame>6 weeks before baseline</time_frame>
+    <description>Muscular endurance</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>Cardiac Tele-rehabilitation</condition>
+  <arm_group>
+    <arm_group_label>Cardiac rehabilitation</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cardiac Tele-rehabilitation</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Tele cardiac rehabilitation in hybrid form</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Rehabilitation</intervention_name>
+    <description>Hybrid approach in cardiac telerehabilitation. Patients underwent 20 cardiac rehabilitation sessions: alternatively, patients underwent 10 classical cardiac rehabilitation sessions in the clinic and 10 cardiac telerehabilitation sessions at home.</description>
+    <arm_group_label>Cardiac Tele-rehabilitation</arm_group_label>
+    <arm_group_label>Cardiac rehabilitation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 18 ans&#xD;
+&#xD;
+          -  Patients with heart disease&#xD;
+&#xD;
+          -  Inclusion in the rehabilitation program&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Cardiac decompensation&#xD;
+&#xD;
+          -  No stabilised acute coronary syndrome&#xD;
+&#xD;
+          -  Decompensated heart failure&#xD;
+&#xD;
+          -  Severe ventricular rhythm disorders&#xD;
+&#xD;
+          -  Severe functional limitation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michaël RACODON, Ph.D</last_name>
+    <role>Study Director</role>
+    <affiliation>CLINIQUE LA MITTERIE</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Michaël RACODON, Ph.D</last_name>
+    <phone>+33320223457</phone>
+    <email>mracodon@clinique-mitterie.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Clinique la Mitterie</name>
+      <address>
+        <city>Lille</city>
+        <zip>59160</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michaël RACODON, Ph.D</last_name>
+      <phone>+33320223457</phone>
+      <email>mracodon@clinique-mitterie.com</email>
+    </contact>
+    <investigator>
+      <last_name>Amandine SECQ, Ph.D</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <reference>
+    <citation>Racodon M, Peze T, Masson P. Analysis of physical exercise in cardiac patients following cardiovascular rehabilitation. Acta Cardiol. 2020 Nov;75(7):598-603. doi: 10.1080/00015385.2019.1639269. Epub 2019 Jul 17.</citation>
+    <PMID>31314680</PMID>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 18, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>January 27, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 27, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Clinique de la Mitterie</investigator_affiliation>
+    <investigator_full_name>Michaël RACODON</investigator_full_name>
+    <investigator_title>clinical research coordinator</investigator_title>
+  </responsible_party>
+  <keyword>Cardiac tele-rehabilitation, cardiac rehabilitation</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

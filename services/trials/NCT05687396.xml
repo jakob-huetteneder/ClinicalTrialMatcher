@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9924">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05687396</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Doktora</org_study_id>
+    <nct_id>NCT05687396</nct_id>
+  </id_info>
+  <brief_title>Virtual Reality in COPD Exacerbation</brief_title>
+  <official_title>Virtual Reality in Chronic Obstructive Pulmonary Disease: Randomized Contolled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pamukkale University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pamukkale University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In addition to conventional pulmonary rehabilitation, virtual reality will be applied during&#xD;
+      the hospitalization period of individuals hospitalized for COPD exacerbation. It is aimed to&#xD;
+      get more efficiency from the interventions in this short time.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Subjects with COPD exacerbation will be divided two groups. Group-1 will exercise with a&#xD;
+      bicycle ergometer until fatigue in addition to pulmonary rehabilitation. Group-2 will do the&#xD;
+      same exercises. Subjects in Group-2 will use virtual reality simulation, which is designed as&#xD;
+      cycling in the forest while cycling. Treatment will continue until discharge. CAT score, mMRC&#xD;
+      dyspnea score, hospital anxiety and depression score and London chest daily living activity&#xD;
+      score will be examined before and after treatment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 1, 2022</start_date>
+  <completion_date type="Anticipated">August 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>1 minute sit and stand test</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>performance</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Chronic Obstructive Pulmonary Disease Assessment Test</measure>
+    <time_frame>3-7 days</time_frame>
+    <description>The test assessts COPD symptoms, higher scores mean bad stiation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>London chest activity of daily living</measure>
+    <time_frame>3-7 days</time_frame>
+    <description>The test assessts dyspnea that occurs during daily living activities. The total score can range from 0 to 75 points, with higher values translating to greater limitation in activities of daily living.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Hospital anxiety and depression scale</measure>
+    <time_frame>3-7 days</time_frame>
+    <description>The test has 2 subparameter as anxiety and depression. Each question in the test contains 4 options expressing frequency on a scale 0 to 3. Higher scores mean bad stiation for each parameter.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Modified Medical Research Council</measure>
+    <time_frame>3-7 days</time_frame>
+    <description>The test has 5 options thas describe dyspnea. Higher scores mean higher dyspnea.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>COPD Exacerbation</condition>
+  <condition>Pulmonary Rehabilitation</condition>
+  <arm_group>
+    <arm_group_label>Virtual reality</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Virtual reality while cycling with ergometer in addition to conventional pulmonary rehabilitation. virtual reality designed as cylcling in the forest.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Conventional pulmonary rehabilitation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Deep diafragmatic breathing exercise, chest expansion exercies, pursed lip exhalation, coughing and huffing, upper limp exercies with deep breathing exercise, standing up-right position, cycling with ergometer.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>virtual reality</intervention_name>
+    <description>virtual reality designed as cycling in the forest</description>
+    <arm_group_label>Virtual reality</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>conventional pulmonary rehabilitation</intervention_name>
+    <description>pulmonary rehabilitation</description>
+    <arm_group_label>Conventional pulmonary rehabilitation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Individuals who are in COPD exacerbation period, FEV1 &lt;70%, GOLD 2-3 spirometric&#xD;
+             stage, Hodkinson mental test score &gt; 6 and who want to participate in the study&#xD;
+             voluntarily will be included in the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  If there is respiratory disease considered more significant than COPD (bronchiectasis,&#xD;
+             lung cancer requiring active therapy, or asthma), Heart failure New York Heart&#xD;
+             Association (NYHA) stage 3-4, Significant hemoptysis, surgical or non-surgical lung&#xD;
+             volume in the past 6 months Individuals with reduction procedures, Lung&#xD;
+             transplantation or pneumonectomy surgery in the last 6 months, pulmonary embolism or&#xD;
+             pulmonary edema, acute myocardial infarction, acute heart failure, vertigo, epilepsy&#xD;
+             and visual impairment will be excluded from the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Erhan Kızmaz, Msc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Pamukkale University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Orçin Telli Atalay, professor</last_name>
+    <role>Study Director</role>
+    <affiliation>Pamukkale University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Erhan Kızmaz</last_name>
+    <phone>+905418966676</phone>
+    <email>erhankizmaz@hotmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Pamukkale University</name>
+      <address>
+        <city>Denizli</city>
+        <state>Pamukkale</state>
+        <zip>20000</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Erhan Kızmaz</last_name>
+      <phone>05418966676</phone>
+      <email>erhankizmaz@hotmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>December 25, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 15, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>March 14, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 14, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 17, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Pamukkale University</investigator_affiliation>
+    <investigator_full_name>Erhan KIZMAZ</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>COPD, pulmonary rehabilitation, virtual reality</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pulmonary Disease, Chronic Obstructive</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

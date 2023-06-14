@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9380">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05699018</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-A02148-35</org_study_id>
+    <nct_id>NCT05699018</nct_id>
+  </id_info>
+  <brief_title>Screening in Primary Care of Advanced Liver Fibrosis in NAFLD and/or Alcoholic Patients</brief_title>
+  <acronym>SOPRANO</acronym>
+  <official_title>Screening in Primary Care of Advanced Liver Fibrosis in NAFLD and/or Alcoholic Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Angers</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Angers</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of the SOPRANO study is to compare two blood fibrosis tests, the eLIFT&#xD;
+      and the FibroMeter, for the screening of advanced liver fibrosis in patients with NAFLD&#xD;
+      and/or ALD from primary care centers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Chronic liver diseases (CLD) are responsible for 17 000 deaths each year in France&#xD;
+      (cirrhosis: 8 000, liver cancer: 9 000). Non-alcoholic fatty liver disease (NAFLD) and&#xD;
+      alcoholic liver disease (ALD) are the two main causes of CLD in France, affecting&#xD;
+      respectively 25% and 12% of the adult general population. A subset of these patients develops&#xD;
+      advanced liver fibrosis (ALF), which requires referral to the specialist for specific&#xD;
+      evaluation and management to avoid the occurrence of cirrhosis and its life-threatening&#xD;
+      complications. General practitioners (GPs) are the first-line physicians in front of the&#xD;
+      large population of NAFLD and/or ALD patients. It is very difficult for GPs to identify the&#xD;
+      patients who develop ALF and require referral to the specialist, as their physical&#xD;
+      examination, usual biology and ultrasonography remain normal.&#xD;
+&#xD;
+      The non-invasive diagnosis of liver fibrosis is now available with elastography devices and&#xD;
+      blood tests. Elastography is a very accurate method but it is available only in few&#xD;
+      specialised centers. Specialised blood tests are available to all physicians, but they are&#xD;
+      quite expensive and not reimbursed with therefore limited use in clinical practice.&#xD;
+      Consequently, liver fibrosis remains unevaluated in most patients with NAFLD and/or ALD,&#xD;
+      which explains why a lot are too late diagnosed at the stage of cirrhosis complications with&#xD;
+      poor short-term survival.&#xD;
+&#xD;
+      The eLIFT isa new blood fibrosis test specifically dedicated for GPs with simple parameters&#xD;
+      and easy &quot;by head&quot; calculation. The simple eLIFT was compared with the specialised blood test&#xD;
+      FibroMeter for the diagnosis of ALF in an cohort of 1024 biopsy-proven NAFLD and/or ALD&#xD;
+      patients. eLIFT was little less accurate than FibroMeter (AUROC: 0.78 vs 0.81). Using the&#xD;
+      recommended cut-offs (eLIFT ≥8, FibroMeter ≥0.46), eLIFT was more sensitive than FibroMeter&#xD;
+      (86% vs 77%), whereas FibroMeter was highly more specific (71% vs 51%). These results&#xD;
+      position eLIFT and FibroMeter as interesting tools for the screening of ALF in large&#xD;
+      populations.&#xD;
+&#xD;
+      As the preliminary results come from very selected patients, i.e. patients from tertiary&#xD;
+      centers who underwent a liver biopsy, it's necessary nox to evaluate in the real condition of&#xD;
+      primary care setting whether the use of eLIFT or FibroMeter will help GPs to screen ALF in&#xD;
+      their asymptomatic NAFLD and ALD patients.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 13, 2023</start_date>
+  <completion_date type="Anticipated">September 15, 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 15, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>The SOPRANO study is a multicenter prospective comparative diagnostic study . Evaluation of a simple blood test (e-LIFT) for the diagnosis of advanced liver fibrosis.&#xD;
+Reference for advanced liver diagnosis : composite criteria :&#xD;
+Elastometry between 8 kPa and 14.9 kPa and histologic evaluation of fibrosis ≥ F3 (NASH CRN ) OR&#xD;
+Elastometry ≥ 15 kPa</intervention_model_description>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Sensitivity of the eLIFT test for advanced liver fibrosis</measure>
+    <time_frame>1 day</time_frame>
+    <description>Rate of patients with advanced liver fibrosis correctly identified by the eLIFT test</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Sensitivity of the Fibrometer test for advanced liver fibrosis</measure>
+    <time_frame>1 day</time_frame>
+    <description>Rate of patients with advanced liver fibrosis correctly identified by the Fibrometer test</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>rate of patients referred to the specialist following the screening procedure, with eLIFT test</measure>
+    <time_frame>1 day</time_frame>
+    <description>Rate of patients with positive screening test (eLIFT ≥8)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>rate of patients referred to the specialist following the screening procedure, with FibroMeter test</measure>
+    <time_frame>1 day</time_frame>
+    <description>Rate of patients with positive screening test (FibroMeter ≥0.46)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of &quot;unnecessary referrals&quot; to the specialist with eLIFT test</measure>
+    <time_frame>1 month</time_frame>
+    <description>Rate of patients with positive screening test (eLIFT ≥8) but without final diagnosis of ALF</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of &quot;unnecessary referrals&quot; to the specialist with Fibrometer test</measure>
+    <time_frame>1 month</time_frame>
+    <description>Rate of patients with positive screening test (FibroMeter ≥0.46) but without final diagnosis of ALF</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of hepatocellular carcinoma adetected following the screening procedure, with comparison between eLIFT and FibroMeter strategies</measure>
+    <time_frame>1 month</time_frame>
+    <description>Number of patients with hepatocellular carcinoma (diagnosed on MRI by the recommended radiological criteria: hyperenhancement on the arterial phase and washout on the portal venous phase, or by liver biopsy);</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of gastroesophageal varices at risk of bleeding detected following the screening procedure, with comparison between eLIFT and FibroMeter strategies</measure>
+    <time_frame>1 month</time_frame>
+    <description>Number of patients with gastroesophageal varices at risk of bleeding (diagnosed by upper-gastrointestinal endoscopy: medium-large varices or small varices with red wall marks)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>directs costs by type of disease such as ALF, hepatocellular carcinoma, gastroesophageal varices at risk of bleeding with comparison between eLIFT and FibroMeter strategies</measure>
+    <time_frame>1 month</time_frame>
+    <description>Mean direct cost per patient; mean direct cost generated to detect one patient with ALF, one patient with hepatocellular carcinoma, one patient with gastroesophageal varices at risk of bleeding</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>eLIFT and FibroMeter screening procedures as a function of the cause of the underlying liver disease (NAFLD, ALD, or mixed NAFLD+ALD)</measure>
+    <time_frame>1 month</time_frame>
+    <description>Rate of patient with ALF, positive screening test, hepatocellular carcinoma, gastroesophageal varices at risk of bleeding, and mean cost, with comparison between NAFLD, ALD, and mixed NAFLD+ALD subgroups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>the accuracy of a sequential strategy using eLIFT as first-line test and FibroMeter as second-line test</measure>
+    <time_frame>1 day</time_frame>
+    <description>Rate of patients with ALF diagnosed by a stepwise algorithm using eLIFT ≥8 then, if positive, FibroMeter ≥0.46</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>patient adherence to the screening of advanced liver fibrosis</measure>
+    <time_frame>1 month</time_frame>
+    <description>Rate of patients included in the study who did not achieve the required screening procedures</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>most relevant risk factor of advanced liver fibrosis in patients with NAFLD and/or ALD from primary care</measure>
+    <time_frame>1 day</time_frame>
+    <description>Risk factors among clinical characteristics, alcohol consumption, metabolic parameters independently associated with ALF diagnosis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>specialized blood test ELF for the screening of advanced liver fibrosis in patients with NAFLD and/or ALD from primary care centers</measure>
+    <time_frame>1 day</time_frame>
+    <description>Same endpoints than primary and secondaries 1 to 11, but using the recommended 9.8 threshold for ELF</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Camden and Islington pathway (FIB4 then ELF) for the screening of advanced liver fibrosis in patients with NAFLD and/or ALD from primary care centers,</measure>
+    <time_frame>1 day</time_frame>
+    <description>Same endpoints than primary and secondaries 1 to 11, but using using the Camden and Islington pathway</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Camden and Islington pathway , with comparison of sequential strategy eLIFT then FibroMeter</measure>
+    <time_frame>1 day</time_frame>
+    <description>Same endpoints than primary and secondaries 1 to 11, but using using the Camden and Islington pathway</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">1788</enrollment>
+  <condition>Non-alcoholic Fatty Liver Disease (NAFLD)</condition>
+  <condition>Alcoholic Liver Disease (ALD)</condition>
+  <condition>Liver Fibrosis</condition>
+  <arm_group>
+    <arm_group_label>Diagnostic Test: e-LIFT</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>only one arm because diagnostic study evaluating blood test using elastometry and liver biopsy as reference</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>eLIFT</intervention_name>
+    <description>Diagnostic procedure: elastography devices, blood tests (e-LIFT + Fibrometer), liver biopsy if necessary (elstometry ≥ 8 kPa and &lt; 15 kPa)</description>
+    <arm_group_label>Diagnostic Test: e-LIFT</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  NAFLD and/or ALD patient defined by at least 1 of the following criteria:&#xD;
+&#xD;
+               -  Excessive alcohol consumption: higher than 210 g / week (men), or 140 g / week&#xD;
+                  (women)&#xD;
+&#xD;
+               -  Type 2 diabetes&#xD;
+&#xD;
+               -  at least 2 metabolic factors among BMI higher than or equal to 25 kg / m 2;&#xD;
+                  Elevated blood pressure (antihypertensive drug, or systolic blood pressure higher&#xD;
+                  than or equal to 130mmHg, or diastolic blood pressure higher than or equal to&#xD;
+                  85mmHg), Dyslipidemia (lipid-lowering drug, or HDL cholesterol lower to 40mg/dl&#xD;
+                  (men) / 50mg/dl (women), or triglycerides higher than or equal to150mg/dl);&#xD;
+                  Hyperferritinemia (higher than upper limit of normal from the laboratory)&#xD;
+&#xD;
+               -  Bright liver at ultrasonography without steatosis-inducing drug(systemic&#xD;
+                  corticosteroids, tamoxifen, amiodarone, methotrexate)&#xD;
+&#xD;
+          -  Patient's agreement to have a blood sample collected in a local laboratory&#xD;
+             participating in the study&#xD;
+&#xD;
+          -  Subjects covered by or having the rights to medical care assurance&#xD;
+&#xD;
+          -  Written informed consent obtained from subject&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Already ongoing specialized follow-up for a chronic liver disease&#xD;
+&#xD;
+          -  Altered health status with poor short-term prognosis, not compatible with a screening&#xD;
+             procedure&#xD;
+&#xD;
+          -  Decompensated cirrhosis (hepatic encephalopathy, jaundice, ascites, variceal bleeding,&#xD;
+             hepatorenal syndrome)&#xD;
+&#xD;
+          -  Acute infection&#xD;
+&#xD;
+          -  Pregnancy, breastfeeding&#xD;
+&#xD;
+          -  Persons in detention by judicial or administrative decision&#xD;
+&#xD;
+          -  Person admitted to a health or social establishment for purposes other than research&#xD;
+&#xD;
+          -  Person subject to a legal protection measure&#xD;
+&#xD;
+          -  Person unable to express consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>William BELLANGER, PH</last_name>
+    <phone>02 41 73 58 10</phone>
+    <phone_ext>+33</phone_ext>
+    <email>william.bellanger@univ-angers.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Marc De Saint Loup</last_name>
+    <phone>0241357812</phone>
+    <phone_ext>+33</phone_ext>
+    <email>madesaintloup@chu-angers.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>ANGERS</name>
+      <address>
+        <city>Angers</city>
+        <zip>49000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>David FORTIER, PHD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Angers</name>
+      <address>
+        <city>Angers</city>
+        <zip>49000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jérôme BOURSIER, PHD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>BECON</name>
+      <address>
+        <city>Bécon-les-Granits</city>
+        <zip>49370</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jean François MOREUL, PHD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Chalonnes</name>
+      <address>
+        <city>Chalonnes-sur-Loire</city>
+        <zip>49290</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Mickaël BAUDRY, PHD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Montreuil</name>
+      <address>
+        <city>Montreuil-Bellay</city>
+        <zip>49260</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Laurence GAUDREE, PHD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SEGRE</name>
+      <address>
+        <city>Segré</city>
+        <zip>49500</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Héloïse GISLARD, phd</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>December 28, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 16, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>May 22, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 22, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 24, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Liver Diseases</mesh_term>
+    <mesh_term>Fatty Liver</mesh_term>
+    <mesh_term>Non-alcoholic Fatty Liver Disease</mesh_term>
+    <mesh_term>Liver Cirrhosis</mesh_term>
+    <mesh_term>Liver Diseases, Alcoholic</mesh_term>
+    <mesh_term>Fibrosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9341">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05700071</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C21-27</org_study_id>
+    <secondary_id>2021-A03015-36</secondary_id>
+    <nct_id>NCT05700071</nct_id>
+  </id_info>
+  <brief_title>MRS of Glioma Genomics</brief_title>
+  <acronym>GLIOMRS</acronym>
+  <official_title>Magnetic Resonance Spectroscopy Markers of Glioma Genomics</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Institut National de la Santé Et de la Recherche Médicale, France</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Institut National de la Santé Et de la Recherche Médicale, France</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In France, about 5000 new people with a primary malignant brain tumor are diagnosed each&#xD;
+      year. The most common primary tumors are gliomas, originating from glial cells (astrocytomas&#xD;
+      and oligodendrogliomas). Low-grade gliomas are mildly aggressive, but they often evolve into&#xD;
+      a more malignant form.&#xD;
+&#xD;
+      Mutations in the genes encoding isocitrate dehydrogenase (IDH) are found in about 80% of&#xD;
+      low-grade gliomas and are associated with a favorable prognosis. Remarkably, IDH-mutated&#xD;
+      gliomas are characterized by a specific cellular metabolism causing the accumulation of&#xD;
+      D-2-hydroxyglutarate (2HG) in tumor cells. 2HG can be detected in vivo using 1H magnetic&#xD;
+      resonance spectroscopy (MRS) and is recognized as a unique, noninvasive biomarker of&#xD;
+      IDH-mutated gliomas. Noninvasive detection of IDH mutations via 2HG MRS represents a crucial&#xD;
+      step for decision-making and patient care.&#xD;
+&#xD;
+      A subset of IDH-mutated tumors also presents a complete deletion of 1p and 19q chromosome&#xD;
+      arms (1p/19q codeletion). The 1p/19q codeletion is specifically linked to the&#xD;
+      oligodendroglial histologic subtype and it has been associated with a better patient outcome.&#xD;
+      However, the biological effects of this genetic alteration are still unclear and in vivo&#xD;
+      markers are lacking. Recently, we reported the first in vivo detection of the cystathionine&#xD;
+      molecule in human brain gliomas using MRS and explored the association between cystathionine&#xD;
+      accumulation and 1p/19q codeletion in gliomas.&#xD;
+&#xD;
+      In this project, the investigation team will combine cutting edge MRI and MRS techniques for&#xD;
+      metabolic and microstructural characterization of brain tumors with the aim of providing&#xD;
+      novel reliable noninvasive biomarkers of tumor genetic subtypes. These methods will enable&#xD;
+      noninvasive identification of IDH-mutated gliomas and, potentially, 1p/19q codeleted gliomas.&#xD;
+      In addition, the researchers will investigate the utility of 2HG, cystathionine and MRI&#xD;
+      microstructural markers to monitor tumor response to anti-cancer treatments and tumor&#xD;
+      progression.&#xD;
+&#xD;
+      The outputs of this project, altogether, may open new avenues to a better understanding of&#xD;
+      the pathophysiological mechanisms of oncogenesis and the design of new treatments for&#xD;
+      gliomas.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 15, 2023</start_date>
+  <completion_date type="Anticipated">November 24, 2026</completion_date>
+  <primary_completion_date type="Anticipated">November 24, 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Metabolite concentrations by MRS</measure>
+    <time_frame>1.5 hour</time_frame>
+    <description>Concentrations of 2-hydroxyglutarate and cystahionine measured by MRS will be correlated with IDH mutational status and 1p19q codeletion derived from ex vivo analyses in tumor tissue samples</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Diffusion MRI metrics</measure>
+    <time_frame>1,5 hours</time_frame>
+    <description>Diffusion MRI metrics will be correlated with the 1p19q codeletion status derived from ex vivo analyses in tumor tissue samples</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Metabolic changes during an anti-tumor treatment</measure>
+    <time_frame>1 year</time_frame>
+    <description>The changes in concentration of 2-hydroxyglutarate, cystathionine and choline will be compared to the changes in tumor volumes and to the clinical response</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Diffusion MRI and amide proton transfer signal changes during an anti-tumor treatment.</measure>
+    <time_frame>1 year</time_frame>
+    <description>Diffusion MRI and amide proton transfer signal changes will be compared to the changes in metabolism, tumor volumes and to the clinical response</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Glioma</condition>
+  <arm_group>
+    <arm_group_label>MRI examination</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>MRI</intervention_name>
+    <description>MRI without contrast agent</description>
+    <arm_group_label>MRI examination</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Affiliation à un régime de sécurité sociale (bénéficiaire ou ayant droit)&#xD;
+&#xD;
+          -  Recueil du consentement écrit et éclairé&#xD;
+&#xD;
+          -  Une des deux situations suivantes :&#xD;
+&#xD;
+        Groupe 1 : Probable gliome de grade II/III, dont l'exérèse est programmée&#xD;
+&#xD;
+        Groupe 2 : gliome de grade II ou III prouvé histologiquement avec statut IDH1/IDH2 connu,&#xD;
+        n'ayant reçu aucun autre traitement que la chirurgie, et devant débuter un traitement autre&#xD;
+        que la chirurgie.&#xD;
+&#xD;
+          -  Présence d'un résidu tumoral évaluable (&gt;2 cm de diamètre en FLAIR)&#xD;
+&#xD;
+          -  Index de Karnofsky &gt; 60&#xD;
+&#xD;
+          -  Contraception efficace pendant la durée de la recherche, complété par un test de&#xD;
+             grossesse négatif pour les femmes en âge de procréer.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Contrindications à l'IRM:&#xD;
+&#xD;
+        pace maker ou stimulateur neuronal, corps étranger métallique intraoculaire ou&#xD;
+        intracérébral, implant cochléaire, valve cardiaque ou matériel artériel chirurgical&#xD;
+        métallique non compatible IRM, matériel métallique susceptible de concentrer les impulsions&#xD;
+        de radio fréquence, claustrophobie&#xD;
+&#xD;
+          -  femmes enceintes ou allaitantes&#xD;
+&#xD;
+          -  Critères réglementaires :&#xD;
+&#xD;
+        Femme enceinte, parturiente, allaitante; Absence de signature du consentement ou refus du&#xD;
+        participant; Mesure de protection juridique (tutelle, curatelle, sauvegarde de justice);&#xD;
+        Participation à une autre recherche ne permettant pas de respecter la période; d'exclusion&#xD;
+        entre les 2 recherches; Personne ne bénéficiant pas d'un régime d'assurance maladie&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Francesca Branzoli, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Paris Brain Institute, Paris, France</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Marc Sanson, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Paris Brain Institute, AP-HP, Paris, France</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marc Sanson, MD, PhD</last_name>
+    <phone>(0)1 42 16 03 91</phone>
+    <phone_ext>0033</phone_ext>
+    <email>marc.sanson@aphp.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Francesca Branzoli, PhD</last_name>
+    <phone>(0)1 57 27 46 46</phone>
+    <phone_ext>0033</phone_ext>
+    <email>francesca.branzoli@icm-institute.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Pitié-Salpetrière Hospital</name>
+      <address>
+        <city>Paris</city>
+        <zip>75013</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Marc Sanson, MD, PhD</last_name>
+      <phone>(0)1 42 16 03 91</phone>
+      <phone_ext>0033</phone_ext>
+      <email>marc.sanson@aphp.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>January 27, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 27, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Gliomas</keyword>
+  <keyword>Isocitrate dehydrogenase</keyword>
+  <keyword>1p19q codeletion</keyword>
+  <keyword>MR Spectroscopy</keyword>
+  <keyword>MRI</keyword>
+  <keyword>Diagnosis</keyword>
+  <keyword>Treatment monitoring</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glioma</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9809">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05689710</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CARDIO_INO22</org_study_id>
+    <nct_id>NCT05689710</nct_id>
+  </id_info>
+  <brief_title>The Effects of Inositol on Glucose Metabolism in Patients With Metabolic Syndrome at Risk of Cardiac Fibrosis</brief_title>
+  <official_title>The Action of Inositols and Alpha-lactalbumin on Glucose Metabolism, Arterial Stiffness and Vascular Damage in Patients With Metabolic Syndrome at Risk of Cardiac Fibrosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lo.Li.Pharma s.r.l</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Lo.Li.Pharma s.r.l</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study aims to evaluate the effects of an oral supplementation based on inositols and&#xD;
+      alpha-lactalbumin on principals metabolic parameters in patients with metabolic syndrome at&#xD;
+      risk of cardiac fibrosis&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 23, 2022</start_date>
+  <completion_date type="Anticipated">September 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Body weight</measure>
+    <time_frame>Four time points: changes in body weight (kg) from the baseline to 30, 90, 180 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Tryglicerides</measure>
+    <time_frame>Four time points: changes in blood levels of tryglycerides from the baseline to 30, 90, 180 days</time_frame>
+    <description>Plasmatic levels of tryglicerides</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hypertension</measure>
+    <time_frame>Four time points: changes in values of systolic and diastolic blood pressure from the baseline to 30, 90, 180 days</time_frame>
+    <description>sphygmomanometer</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Metabolic Syndrome</condition>
+  <condition>Cardiac Fibrosis</condition>
+  <arm_group>
+    <arm_group_label>No intervention</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Experimental</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dietary Supplement with inositols and alpha-lactalbumin</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Inositol and alpha-lactalbumin</intervention_name>
+    <description>The administration of an oral formulation based on inositol and alpha-lactalbumin (two sachets/day for 180 days)</description>
+    <arm_group_label>Experimental</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        At least 3 of the following inclusion criteria:&#xD;
+&#xD;
+          -  triglycerides levels ≥ 150 mg/dL&#xD;
+&#xD;
+          -  HDL ≤ 40 mg/dL&#xD;
+&#xD;
+          -  Fasting glycemia &gt; 100 mg/dL &lt;126 mg/dl&#xD;
+&#xD;
+          -  Systolic Pressure ≥ 130 mmHg or Diastolic pressure ≥ 85 mmHg&#xD;
+&#xD;
+          -  Hip circumference &gt; 102 cm in men or 88 cm in women&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Davide Grassi, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UOC Medicina Interna e Nefrologia P.O. AQ</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Claudio Ferri, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UOC Medicina Interna e Nefrologia P.O. AQ</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Davide Grassi, MD</last_name>
+    <phone>+393332123716</phone>
+    <email>davide.grassi@cc.univaq.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>UOC Medicina Interna e Nefrologia P.O. AQ</name>
+      <address>
+        <city>L'Aquila</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Davide Grassi, MD</last_name>
+      <phone>333 2123716</phone>
+      <email>davide.grassi@cc.univaq.it</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 23, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 10, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>January 18, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 18, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Metabolic Syndrome</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+    <mesh_term>Fibrosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Inositol</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

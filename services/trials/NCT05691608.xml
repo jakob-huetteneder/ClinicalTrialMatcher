@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9724">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05691608</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-A02990-41</org_study_id>
+    <secondary_id>2021-3321</secondary_id>
+    <nct_id>NCT05691608</nct_id>
+  </id_info>
+  <brief_title>MoleculAr Profiling for Pediatric and Young Adult Cancer Treatment Stratification 2</brief_title>
+  <acronym>MAPPYACTS2</acronym>
+  <official_title>MoleculAr Profiling for Pediatric and Young Adult Cancer Treatment Stratification 2</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Gustave Roussy, Cancer Campus, Grand Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Gustave Roussy, Cancer Campus, Grand Paris</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      FMG2025 continues the previous efforts to propose treatment for patients based on the&#xD;
+      molecular characteristics of their tumor at treatment failure in cancer precision medicine&#xD;
+      trials within standard of care in France. However, whereas FMG2025 is a descriptive effort&#xD;
+      providing the basis for clinical decisions, MAPPYACTS 2 will translate these findings to&#xD;
+      clinical actions. The symbiosis is critical to advance patient care.&#xD;
+&#xD;
+      Since 2012, the molecular profiling trials &quot;MOlecular Screening for CAncer Treatment&#xD;
+      Optimization&quot; (MOSCATO-01) and &quot;MoleculAr Profiling for Pediatric and Young Adult Cancer&#xD;
+      Treatment Stratification&quot; (MAPPYACTS) have included pediatric and adolescent patients with&#xD;
+      recurrent or refractory malignancy that underwent on-purpose biopsy or surgical intervention.&#xD;
+      Whole Exome Sequencing of tumor and normal tissue and RNA Sequencing of tumor tissue have&#xD;
+      been applied to detect genomic alterations that could lead to an adapted targeted treatment.&#xD;
+      Furthermore, ancillary studies were associated exploring circulating tumor DNA, the immune&#xD;
+      contexture of tumors and developing Patient-Derived Xenografts (PDX).&#xD;
+&#xD;
+      The FMG2025 project transfers the molecular profiling of advanced pediatric cancers into a&#xD;
+      global approach that is now considered standard of care in France. Subsequent clinical&#xD;
+      recommendations and decisions will be made based on discussions with biologists, scientist&#xD;
+      and physicians in the molecular and clinical molecular tumor boards. Associated ancillary&#xD;
+      research studies and links to clinical interventional studies remain essential elements of&#xD;
+      the program to provide clinical, translational and basic research in order to improve&#xD;
+      scientific knowledge.&#xD;
+&#xD;
+      The program is articulated in two main parts that are closely interacting:&#xD;
+&#xD;
+      FMG2025 - Cancers et leucémies pédiatriques en échec de traitement or equivalent&#xD;
+      international projects that cover the sequencing of tumor and blood samples and provide&#xD;
+      molecular reports.&#xD;
+&#xD;
+      The clinical study MAPPYACTS 2 that provides clinical and therapeutic discussions of the&#xD;
+      sequencing results and therapy recommendations via the clinical molecular tumor board&#xD;
+      reports. It collects molecular and comprehensive clinical data of the patients registered in&#xD;
+      FMG2025 or equivalent international projects and thereby constitutes the critical link to&#xD;
+      clinical interventional studies and its sponsors ensuring facilitated access to these trials.&#xD;
+      It also covers and coordinates ancillary research studies.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      MAPPYACTS 2 is a prospective international multicentric clinical study to provide clinical&#xD;
+      therapeutic recommendations, to set up the molecular and comprehensive clinical database of&#xD;
+      patients with relapsed or refractory pediatric malignancies in FMG2025 - Cancers et leucémies&#xD;
+      pédiatriques en échec de traitement or equivalent international projects, to collect the&#xD;
+      follow-up data on treatment and patients' outcome, in order to determine the outcome of the&#xD;
+      program in regard to benefit to the patient, all the patients and to health care. It will&#xD;
+      also serve as a central link to interventional study platforms and international precision&#xD;
+      medicine programs, and to cover and coordinate ancillary research studies that lead to&#xD;
+      improved treatment and outcome for children with advanced malignancies.&#xD;
+&#xD;
+      Subsequent clinical recommendations and decisions will be made based on discussions with&#xD;
+      biologists, scientists and physicians in the molecular and clinical molecular tumor boards&#xD;
+      run by the MAPPYACTS 2 study teams.&#xD;
+&#xD;
+      Associated ancillary research studies and links to clinical interventional studies are&#xD;
+      essential components of the program to perform clinical, translational and basic research in&#xD;
+      order to generate scientific knowledge and develop new treatment strategies that improve&#xD;
+      outcome of these patients. Research projects will be discussed and agreed on in the MAPPYACTS&#xD;
+      2 study committee.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 9, 2022</start_date>
+  <completion_date type="Anticipated">September 9, 2030</completion_date>
+  <primary_completion_date type="Anticipated">September 9, 2030</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>3 years</time_frame>
+    <description>Defined as the time from study entry to death whatever the cause of death, after 3 years, for the whole cohort and according to cancer type.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The number of additional technologies and new treatment strategies that are introduced in the care for advanced pediatric cancers through this research program.</measure>
+    <time_frame>3 years</time_frame>
+    <description>The number of patients receiving matched targeted treatments The number of new treatment strategies that are introduced in the care for advanced pediatric cancers through this research program The number of additional technologies that are introduced in the care for advanced pediatric cancers through this research program</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The types of additional technologies and new treatment strategies that are introduced in the care for advanced pediatric cancers through this research program.</measure>
+    <time_frame>3 years</time_frame>
+    <description>The type of patients receiving matched targeted treatments The type of new treatment strategies that are introduced in the care for advanced pediatric cancers through this research program The type of additional technologies that are introduced in the care for advanced pediatric cancers through this research program</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate on treatment attributed by the molecular tumor board in the clinical trial, overall and according to the treatment decision</measure>
+    <time_frame>3 years</time_frame>
+    <description>Objective tumor response measured according to the standard for each tumor entity (i.e. RECIST 1.1, INRC, RANO, etc.).&#xD;
+Assessed for the whole cohort, for each disease entity as well as for each suggested treatment and until last follow-up.&#xD;
+The number and proportion of patients that are suggested to receive a matched targeted agent Direct medical costs including the planned or recently performed intervention</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>3 years</time_frame>
+    <description>Defined as the time interval from start of attributed treatment (targeted or not) to progression or death.&#xD;
+They will be assessed for the whole cohort, for each disease entity as well as for each suggested treatment and until last follow-up.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>5-year overall survival</measure>
+    <time_frame>5 years</time_frame>
+    <description>Defined as the time from study entry to death whatever the cause of death, after 5 years.&#xD;
+They will be assessed for the whole cohort, for each disease entity as well as for each suggested treatment and until last follow-up.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">1800</enrollment>
+  <condition>Solid Tumor</condition>
+  <condition>Leukemia</condition>
+  <arm_group>
+    <arm_group_label>Patient with solid tumor or leukemia (no treatment)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patient with solid tumor or leukemia (no treatment)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Solid tumor and CT DNA</intervention_name>
+    <description>Biopsy and blood sample</description>
+    <arm_group_label>Patient with solid tumor or leukemia (no treatment)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient referred for sequencing of the tumor within the FMG2025 or equivalent program&#xD;
+             and written informed consent for FMG2025 &quot;Cancers et leucémies pédiatriques en échec&#xD;
+             de traitement&quot; or equivalent, according to local regulations&#xD;
+&#xD;
+          -  Written informed consent of MAPPYACTS 2 to collect molecular and comprehensive&#xD;
+             clinical data on cancer diagnosis, therapies, therapy outcomes, to provide clinical&#xD;
+             therapeutic recommendations, to collect follow-up data on treatment and patients'&#xD;
+             outcome; optional written consents to perform to ancillary research studies, according&#xD;
+             to local regulations. The written consent will include access to reimbursement data&#xD;
+             from the French national health insurance through linkage with the Système National&#xD;
+             des Données de Santé (SNDS) or equivalent.&#xD;
+&#xD;
+          -  Patient with histologically/cytologically confirmed solid tumor or leukemia which is&#xD;
+             relapsed or refractory to standard treatment and who is potentially eligible for an&#xD;
+             experimental treatment or an early phase clinical trial&#xD;
+&#xD;
+          -  Planned tumor biopsy, surgical resection, bone marrow or blood sample or recently&#xD;
+             (preferably within the last 3 months) archived frozen tumor material available of the&#xD;
+             current recurrent or refractory disease&#xD;
+&#xD;
+          -  Patients aged ≤ 25 years at the time of initial diagnosis&#xD;
+&#xD;
+          -  Performance status and life expectancy &gt; 3 months expected to allow enrolment into an&#xD;
+             clinical trial&#xD;
+&#xD;
+          -  Patients affiliated with a Social Security Regimen or beneficiary of the same, as per&#xD;
+             local regulatory requirements&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any concurrent illness or laboratory abnormality that, in the opinion of the&#xD;
+             investigator, is likely to interfere with the interpretation of study results&#xD;
+&#xD;
+          -  Pregnant women&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>6 Years</minimum_age>
+    <maximum_age>25 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Birgit GEOERGER, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Gustave Roussy, Cancer Campus, Grand Paris</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Birgit GEOERGER, MD</last_name>
+    <phone>+33 (0)1 42 11 46 61</phone>
+    <email>Birgit.GEOERGER@gustaveroussy.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jean-Luc JOANNIC, PhD</last_name>
+    <phone>+33 (0)1 42 11 42 11</phone>
+    <phone_ext>47 94</phone_ext>
+    <email>jeanluc.joannic@gustaveroussy.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Gustave Roussy</name>
+      <address>
+        <city>Paris</city>
+        <state>Villejuif</state>
+        <zip>94800</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Birgit GEOERGER, MD</last_name>
+      <email>birgit.geoerger@gustaveroussy.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jean-Luc JOANNIC, PhD</last_name>
+      <email>jeanluc.joannic@gustaveroussy.fr</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 12, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>January 19, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 19, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Study protocol Informed Consent Form</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Data will become available in January 2023 The duration of the availability is up to 2030.</ipd_time_frame>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

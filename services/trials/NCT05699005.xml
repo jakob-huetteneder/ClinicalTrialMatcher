@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9381">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05699005</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020_04</org_study_id>
+    <secondary_id>2021-A01925-36</secondary_id>
+    <nct_id>NCT05699005</nct_id>
+  </id_info>
+  <brief_title>Individualized or Conventional Transfusion Strategies During Peripheral VA-ECMO</brief_title>
+  <acronym>ICONE</acronym>
+  <official_title>Comparison of an Individualized Transfusion Strategy to a Conventional Strategy in Patients Undergoing Peripheral Veno-arterial ECMO for Refractory Cardiogenic Shock: a Randomized Controlled Trial - ICONE</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Lille</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Amiens University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University Hospital, Caen</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University Hospital, Rouen</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Centre Hospitalier Universitaire Dijon</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Centre hospitalier de Dunkerque</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Centre Hospitalier de Lens</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Lille</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This multicenter randomized controlled trial compare two transfusion strategies of red blood&#xD;
+      cells transfusion in patients supported by veno-arterial extracorporeal membrane oxygenation&#xD;
+      for refractory cardiogenic shock.&#xD;
+&#xD;
+      An individualized transfusion strategy based on ScVO2 level, is compared to a conventionnal&#xD;
+      strategy based on predefined hemoglobin threshold. The primary endpoint is the consumption of&#xD;
+      packed red blod cells, secondary endpoints are subgroup analysis, mortality, morbidity, and&#xD;
+      cost-effectiveness&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Peripheral VA-ECMO is the mainstay of mechanical circulatory support in refractory&#xD;
+      cardiogenic shock. This treatment is associated with a high consumption of packed red blood&#xD;
+      cells (PRBCs), which can reach 1 to 3 units of PRBCs per day of support. The main reasons for&#xD;
+      such a high consumption of PRBCs are the very frequent hemorrhagic complications and the&#xD;
+      prevalence of anemias not directly related to the hemorrhagic episodes. These anemias are&#xD;
+      frequent during VA-ECMO support owing to hemolysis, hemodilution, previous bleeding episodes,&#xD;
+      thrombosis, etc.&#xD;
+&#xD;
+      In order to restore, maintain, or increase oxygen delivery (DO2) to peripheral organs, RGCs&#xD;
+      are often performed when anemia is observed. Several studies have reported an association&#xD;
+      between transfusion of these PRBCs with morbidity and mortality in this ECMO setting.&#xD;
+&#xD;
+      There is no appropriate strategy to reduce PRBC consumption, taking into account other&#xD;
+      determinants of DO2. In addition, there is currently no validated or consensus hemoglobin&#xD;
+      threshold to guide transfusion in this specific population. Furthermore, this predefined&#xD;
+      threshold-based approach may be inappropriate in the setting of VA-ECMO due to differences in&#xD;
+      DO2 requirements between patients based on their etiology, disease severity, and ECMO&#xD;
+      modality. In addition, large variations in DO2 can be observed in the same patient and&#xD;
+      between ECMO settings. Therefore, a more individualized strategy guided by a DO2 surrogate,&#xD;
+      ScVO2, may be more appropriate in this population. This ScVO2 approach has recently been&#xD;
+      shown to be associated with reduced PRBCs in two randomized controlled trials in cardiac&#xD;
+      surgery patients.&#xD;
+&#xD;
+      The objective of this multicenter randomized controlled trial is to compare two red cell&#xD;
+      transfusion strategies in patients receiving extracorporeal veno-arterial membrane&#xD;
+      oxygenation for refractory cardiogenic shock.&#xD;
+&#xD;
+      An individualized transfusion strategy based on ScVO2 level is compared with a conventional&#xD;
+      strategy based on a predefined hemoglobin threshold. The primary endpoint is red blood cell&#xD;
+      consumption, the secondary endpoints are subgroup analysis, mortality, morbidity, and&#xD;
+      cost-effectiveness.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2023</start_date>
+  <completion_date type="Anticipated">January 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2025</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+    <masking_description>Patients and datamanagement responsible for statistical analysis will be blinded of the patient allocation group until the study completion</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of PRBCs transfused per VA-ECMO day of support</measure>
+    <time_frame>From randomisation until VA-ECMO weanning assessed up to 28 days</time_frame>
+    <description>Total number of PRBCs transfused during support adjusted for VA- ECMO duration</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of PRBCs transfused per VA-ECMO day of support in postcardiotomy patients</measure>
+    <time_frame>From randomisation until VA-ECMO weanning assessed up to 28 days</time_frame>
+    <description>Total number of PRBCs transfused during support adjusted for VA- ECMO duration in patients that underwent cardiac surgery</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total number of PRBCs transfused during the 28-day following cannulation</measure>
+    <time_frame>From randomisation until 28 days</time_frame>
+    <description>Total number of PRBCs transfused during the 28-day following cannulation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in hemoglobin levels during VA-ECMO support</measure>
+    <time_frame>From randomisation until VA-ECMO weanning assessed up to 28 days</time_frame>
+    <description>daily hemoglobin levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in ScVO2 levels during VA-ECMO support</measure>
+    <time_frame>From randomisation until VA-ECMO weanning assessed up to 28 days</time_frame>
+    <description>daily ScVO2 levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in vosoactive index score levels during VA-ECMO support</measure>
+    <time_frame>From randomisation until VA-ECMO weanning assessed up to 28 days</time_frame>
+    <description>daily vasoactive index score levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality under ECMO support</measure>
+    <time_frame>From randomisation until VA-ECMO weanning assessed up to 28 days</time_frame>
+    <description>All cause mortality before ECMO weaning</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>90-day Mortality</measure>
+    <time_frame>90 days from cannulation</time_frame>
+    <description>All cause mortality from cannulation untill 90 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ECMO removal modalities</measure>
+    <time_frame>From randomisation until VA-ECMO weanning assessed up to 28 days</time_frame>
+    <description>Proportion of patients that according to each reason for removal ( Recovery, heart transplantation, Left ventricle or biventricle assist device or death under support)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of mechanical ventilation</measure>
+    <time_frame>28 days from cannulation</time_frame>
+    <description>Duration of mechnanical ventilation from cannulation untill 28 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patient that received a renal replacement therapy and its duration</measure>
+    <time_frame>28 days from cannulation</time_frame>
+    <description>Number of patient that underwent a renal replacement therapy and duration of renal replacement therapy from cannulation untill 28 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of vasoactive support</measure>
+    <time_frame>28 days from cannulation</time_frame>
+    <description>Duration of vasoactive drug support from cannulation untill 28 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital lenght of stay</measure>
+    <time_frame>28 days from cannulation</time_frame>
+    <description>Length of stay from cannulation censored at 90 day</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>HLA immuno-sensitisation</measure>
+    <time_frame>28 and 90 days from cannulation</time_frame>
+    <description>Proportion of HLA immunosensitisation occuring after cannulation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patient with Transfusion related immunologic ( non HLA-related) complications</measure>
+    <time_frame>From randomisation until 28 days</time_frame>
+    <description>Transfusion related acute lung injury, hemolytic anemia, irregular antibodies</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with nex onset of sepsis</measure>
+    <time_frame>From randomisation until 28 days</time_frame>
+    <description>Sepsis is defined according to Surviving Sepsis Campaign guideline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with a new onset of acute kidney injury</measure>
+    <time_frame>From randomisation until 28 days</time_frame>
+    <description>Acute kidney injury is define according to KDIGO classification</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with liver failure</measure>
+    <time_frame>From randomisation until 28 days</time_frame>
+    <description>Liver failure is defined as Hepatic component of SOFA score, Transaminasis Levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ischemic stroke</measure>
+    <time_frame>From randomisation until 28 days</time_frame>
+    <description>Ischemic stroke is defined as clinical symptoms confirmed by aCT Scan of MRI imaging</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Myocardial infarction</measure>
+    <time_frame>From randomisation until 28 days</time_frame>
+    <description>According to the Universal definition of myocardial infarction, ESC guidelines</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary oedema</measure>
+    <time_frame>From randomisation until 28 days</time_frame>
+    <description>Dignose by the attending physician based on (Dyspnae, Thoracic X-rays), bowel ischemia ( Abdominal CT or endoscopy proven)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anaphylactic complications</measure>
+    <time_frame>From randomisation until 28 days</time_frame>
+    <description>Anaphylaxis defined according to Ring and Messer Classification</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bowel Ischemia</measure>
+    <time_frame>From randomisation until 28 days</time_frame>
+    <description>Proven by Abdominal CT or endoscopy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cost effectiveness analysis</measure>
+    <time_frame>28 days, 90 days and 5 years from randomisation</time_frame>
+    <description>Actual costs at 28 and 90 days and modelisation for 5 years</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">238</enrollment>
+  <condition>Cardiogenic Shock</condition>
+  <condition>Extracorporeal Membrane Oxygenation</condition>
+  <condition>Transfusion Related Complication</condition>
+  <condition>Anemia</condition>
+  <condition>Oxygen Delivery</condition>
+  <arm_group>
+    <arm_group_label>Individulised transfusion strategy group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will recieve red blood cells transfusion in case of a drop of ScVO2 &lt;65% after an assessment for the optimisation of SaO2 normalisation (SaO2&gt;94%), volume optimisation, ECMO output increase, Fever (body temperature 38°3 C°), Anxiety and Pain</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Conventionnal transfusion strategy group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Transfusion will be performed in case of a hemoglobin drop &lt;9 g/dL</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Packed Red Blood Cells (PRBCs)</intervention_name>
+    <description>Patient will recieve PRBCs transfusion only in case of ScVO2 level&lt;65% after assessment of patient for optimisation of SaO2 targeting 100%, volume status, ECMO flow (increase to 20% in relevant), pain, anxiety and fever (body temperature &gt;38°3).&#xD;
+In both groups transfusion may be performed in case massive bleeding according to local protocols, STEMI, Hyperlactatemia &gt;4 that can be related to oxygen demand and supply DO2/VO2 ratio impairement, in all groups, transfusion should be performed in case of hemolobin level &lt;7g/dL or worsening of neurological condition (Increase in Neurological SOFA component of 1 and more) related to DO2/VO2 impairement.</description>
+    <arm_group_label>Conventionnal transfusion strategy group</arm_group_label>
+    <arm_group_label>Individulised transfusion strategy group</arm_group_label>
+    <other_name>ScVO2 assesment to guide transfusion</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age of 18 and older,&#xD;
+&#xD;
+          -  supported by peripheral VA-ECMO&#xD;
+&#xD;
+          -  for cardiogenic shock&#xD;
+&#xD;
+          -  Life expentency &gt;90 days&#xD;
+&#xD;
+          -  Central venous line available ScVO2 measurement&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnancy,&#xD;
+&#xD;
+          -  Lack of health insurance,&#xD;
+&#xD;
+          -  Opposition to blood transfusion,&#xD;
+&#xD;
+          -  Known congenital hemoglobin disease or disorder,&#xD;
+&#xD;
+          -  Metabolic alcaloosis with pH&gt;7.8,&#xD;
+&#xD;
+          -  eCPR,&#xD;
+&#xD;
+          -  Legally incapacitated adults&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mouhamed MOUSSA, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital, Lille</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mouhamed MOUSSA, MD</last_name>
+    <phone>0320445962</phone>
+    <email>mouhamed.moussa@chru-lille.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Service d'Anesthésie-Réanimation CCV Hôpital Cardiologique Centre Hospitalier et Universitaire de Lille</name>
+      <address>
+        <city>Lille</city>
+        <state>Nord</state>
+        <zip>59000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <reference>
+    <citation>Mazer CD, Whitlock RP, Fergusson DA, Hall J, Belley-Cote E, Connolly K, Khanykin B, Gregory AJ, de Medicis E, McGuinness S, Royse A, Carrier FM, Young PJ, Villar JC, Grocott HP, Seeberger MD, Fremes S, Lellouche F, Syed S, Byrne K, Bagshaw SM, Hwang NC, Mehta C, Painter TW, Royse C, Verma S, Hare GMT, Cohen A, Thorpe KE, Juni P, Shehata N; TRICS Investigators and Perioperative Anesthesia Clinical Trials Group. Restrictive or Liberal Red-Cell Transfusion for Cardiac Surgery. N Engl J Med. 2017 Nov 30;377(22):2133-2144. doi: 10.1056/NEJMoa1711818. Epub 2017 Nov 12.</citation>
+    <PMID>29130845</PMID>
+  </reference>
+  <reference>
+    <citation>Fischer MO, Guinot PG, Debroczi S, Huette P, Beyls C, Babatasi G, Bafi K, Guilbart M, Caus T, Lorne E, Dupont H, Hanouz JL, Diouf M, Abou-Arab O. Individualised or liberal red blood cell transfusion after cardiac surgery: a randomised controlled trial. Br J Anaesth. 2022 Jan;128(1):37-44. doi: 10.1016/j.bja.2021.09.037. Epub 2021 Nov 30.</citation>
+    <PMID>34862002</PMID>
+  </reference>
+  <results_reference>
+    <citation>Vallet B, Robin E, Lebuffe G. Venous oxygen saturation as a physiologic transfusion trigger. Crit Care. 2010;14(2):213. doi: 10.1186/cc8854. Epub 2010 Mar 9.</citation>
+    <PMID>20236457</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Aubron C, Cheng AC, Pilcher D, Leong T, Magrin G, Cooper DJ, Scheinkestel C, Pellegrino V. Factors associated with outcomes of patients on extracorporeal membrane oxygenation support: a 5-year cohort study. Crit Care. 2013 Apr 18;17(2):R73. doi: 10.1186/cc12681.</citation>
+    <PMID>23594433</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Mazzeffi M, Greenwood J, Tanaka K, Menaker J, Rector R, Herr D, Kon Z, Lee J, Griffith B, Rajagopal K, Pham S. Bleeding, Transfusion, and Mortality on Extracorporeal Life Support: ECLS Working Group on Thrombosis and Hemostasis. Ann Thorac Surg. 2016 Feb;101(2):682-9. doi: 10.1016/j.athoracsur.2015.07.046. Epub 2015 Oct 9.</citation>
+    <PMID>26443879</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Holst LB. Benefits and harms of red blood cell transfusions in patients with septic shock in the intensive care unit. Dan Med J. 2016 Feb;63(2):B5209.</citation>
+    <PMID>26836806</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Rohde JM, Dimcheff DE, Blumberg N, Saint S, Langa KM, Kuhn L, Hickner A, Rogers MA. Health care-associated infection after red blood cell transfusion: a systematic review and meta-analysis. JAMA. 2014 Apr 2;311(13):1317-26. doi: 10.1001/jama.2014.2726. Erratum In: JAMA. 2014 Nov 19;312(19):2045.</citation>
+    <PMID>24691607</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Leffell MS, Kim D, Vega RM, Zachary AA, Petersen J, Hart JM, Rossert J, Bradbury BD. Red blood cell transfusions and the risk of allosensitization in patients awaiting primary kidney transplantation. Transplantation. 2014 Mar 15;97(5):525-33. doi: 10.1097/01.tp.0000437435.19980.8f.</citation>
+    <PMID>24300013</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Vlaar AP, Hofstra JJ, Determann RM, Veelo DP, Paulus F, Kulik W, Korevaar J, de Mol BA, Koopman MM, Porcelijn L, Binnekade JM, Vroom MB, Schultz MJ, Juffermans NP. The incidence, risk factors, and outcome of transfusion-related acute lung injury in a cohort of cardiac surgery patients: a prospective nested case-control study. Blood. 2011 Apr 21;117(16):4218-25. doi: 10.1182/blood-2010-10-313973. Epub 2011 Feb 16.</citation>
+    <PMID>21325598</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Lorusso R, Gelsomino S, Parise O, Mendiratta P, Prodhan P, Rycus P, MacLaren G, Brogan TV, Chen YS, Maessen J, Hou X, Thiagarajan RR. Venoarterial Extracorporeal Membrane Oxygenation for Refractory Cardiogenic Shock in Elderly Patients: Trends in Application and Outcome From the Extracorporeal Life Support Organization (ELSO) Registry. Ann Thorac Surg. 2017 Jul;104(1):62-69. doi: 10.1016/j.athoracsur.2016.10.023. Epub 2017 Jan 26.</citation>
+    <PMID>28131429</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Kim HS, Park S. Blood Transfusion Strategies in Patients Undergoing Extracorporeal Membrane Oxygenation. Korean J Crit Care Med. 2017 Feb;32(1):22-28. doi: 10.4266/kjccm.2016.00983. Epub 2017 Feb 28.</citation>
+    <PMID>31723612</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Hebert PC, Wells G, Blajchman MA, Marshall J, Martin C, Pagliarello G, Tweeddale M, Schweitzer I, Yetisir E. A multicenter, randomized, controlled clinical trial of transfusion requirements in critical care. Transfusion Requirements in Critical Care Investigators, Canadian Critical Care Trials Group. N Engl J Med. 1999 Feb 11;340(6):409-17. doi: 10.1056/NEJM199902113400601. Erratum In: N Engl J Med 1999 Apr 1;340(13):1056.</citation>
+    <PMID>9971864</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Holst LB, Petersen MW, Haase N, Perner A, Wetterslev J. Restrictive versus liberal transfusion strategy for red blood cell transfusion: systematic review of randomised trials with meta-analysis and trial sequential analysis. BMJ. 2015 Mar 24;350:h1354. doi: 10.1136/bmj.h1354.</citation>
+    <PMID>25805204</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Mueller MM, Van Remoortel H, Meybohm P, Aranko K, Aubron C, Burger R, Carson JL, Cichutek K, De Buck E, Devine D, Fergusson D, Follea G, French C, Frey KP, Gammon R, Levy JH, Murphy MF, Ozier Y, Pavenski K, So-Osman C, Tiberghien P, Volmink J, Waters JH, Wood EM, Seifried E; ICC PBM Frankfurt 2018 Group. Patient Blood Management: Recommendations From the 2018 Frankfurt Consensus Conference. JAMA. 2019 Mar 12;321(10):983-997. doi: 10.1001/jama.2019.0554.</citation>
+    <PMID>30860564</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Guimbretiere G, Anselmi A, Roisne A, Lelong B, Corbineau H, Langanay T, Flecher E, Verhoye JP. Prognostic impact of blood product transfusion in VA and VV ECMO. Perfusion. 2019 Apr;34(3):246-253. doi: 10.1177/0267659118814690. Epub 2018 Nov 16.</citation>
+    <PMID>30444173</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Mazzeffi MA, Tanaka K, Roberts A, Rector R, Menaker J, Kon Z, Deatrick KB, Kaczorowski D, Griffith B, Herr D. Bleeding, Thrombosis, and Transfusion With Two Heparin Anticoagulation Protocols in Venoarterial ECMO Patients. J Cardiothorac Vasc Anesth. 2019 May;33(5):1216-1220. doi: 10.1053/j.jvca.2018.07.045. Epub 2018 Aug 3.</citation>
+    <PMID>30181084</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zeroual N, Blin C, Saour M, David H, Aouinti S, Picot MC, Colson PH, Gaudard P. Restrictive Transfusion Strategy after Cardiac Surgery. Anesthesiology. 2021 Mar 1;134(3):370-380. doi: 10.1097/ALN.0000000000003682.</citation>
+    <PMID>33475735</PMID>
+  </results_reference>
+  <verification_date>December 2022</verification_date>
+  <study_first_submitted>December 21, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 16, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>January 16, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 16, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>ECMO</keyword>
+  <keyword>ECLS</keyword>
+  <keyword>Refractory cardiogenic shock</keyword>
+  <keyword>Transfusion</keyword>
+  <keyword>ScVO2</keyword>
+  <keyword>Outcome</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Shock, Cardiogenic</mesh_term>
+    <mesh_term>Shock</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

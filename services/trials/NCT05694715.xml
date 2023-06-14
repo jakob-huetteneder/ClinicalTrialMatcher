@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9598">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05694715</url>
+  </required_header>
+  <id_info>
+    <org_study_id>229510</org_study_id>
+    <secondary_id>NCI-2023-00373</secondary_id>
+    <nct_id>NCT05694715</nct_id>
+  </id_info>
+  <brief_title>Combination Therapy in Cancers With Mutations in DNA Repair Genes</brief_title>
+  <official_title>Combination Therapy of Niraparib and Irinotecan in Cancers With Mutations in DNA Repair Genes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, San Francisco</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this phase 1 clinical trials is to determine whether niraparib (a Poly&#xD;
+      (ADP-ribose) polymerase inhibitor (PARPi)) can be safely combined with irinotecan with&#xD;
+      manageable toxicity and reasonable efficacy. Emerging evidence suggest that PARPi is an&#xD;
+      effective therapeutic strategy in a wider subset of solid tumors that may have defective&#xD;
+      homologous recombination (HR) or DNA repair gene mutations. BReast CAncer gene (BRCA),&#xD;
+      partner and localizer of BRCA2 (PALB2), and various other DNA repair germline mutations&#xD;
+      predispose carriers to cancers of the breast, ovaries, pancreas, prostate and melanoma. A&#xD;
+      number of preclinical studies have demonstrated that PARP inhibitors can work as&#xD;
+      chemopotentiators. There is significant interest in this combination, and the recommended&#xD;
+      phase II dose will be used in the upcoming NCI ComboMatch trial.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an open label, non-randomized phase Ib dose finding study of niraparib and irinotecan&#xD;
+      combination therapy. For this study, individuals with metastatic solid tumor malignancies and&#xD;
+      BRCA1/2, ataxia telangiectasia mutated gene (ATM), or PALB2 mutations will be enrolled with&#xD;
+      specific tumors of interest including gastrointestinal cancers (e.g. colon, pancreas,&#xD;
+      gastric, cholangiocarcinoma), ovarian cancer, and breast cancer.&#xD;
+&#xD;
+      PRIMARY OBJECTIVES:&#xD;
+&#xD;
+      I. To assess safety and tolerability of niraparib and irinotecan combination therapy in&#xD;
+      patients with metastatic solid tumor malignancies and BRCA1/2, ATM, or PALB2 mutations.&#xD;
+&#xD;
+      II. To determine the MTD and recommended phase II dose of niraparib with irinotecan&#xD;
+      combination therapy.&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. To determine the preliminary efficacy of niraparib and irinotecan combination therapy in&#xD;
+      patients with metastatic solid tumor malignancies and BRCA1/2, ATM, or PALB2 mutations.&#xD;
+&#xD;
+      OVERVIEW:&#xD;
+&#xD;
+      Participants will be treated in cohorts of size three to six, and the dosage will be&#xD;
+      escalated if the clinical toxicity is acceptable. Participants may continue treatment until&#xD;
+      disease progression, unacceptable toxicity, withdrawal of consent, start of new anti-cancer&#xD;
+      therapy, or death. Participants will be followed for 30 days after study drug discontinuation&#xD;
+      for safety and every 12 weeks (+/- 2 weeks) for up to 2 years after start of therapy until&#xD;
+      disease progression or death from any cause (whichever occurs first).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 23, 2023</start_date>
+  <completion_date type="Anticipated">January 31, 2028</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2028</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of participants with treatment-emergent adverse events</measure>
+    <time_frame>30 days after the last dose</time_frame>
+    <description>The percentage of participants with treatment-emergent adverse events as classified and graded by the NCI Common Terminology Criteria for Adverse Events (CTCAE) version 5 will be reported</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum Tolerated Dose (MTD)</measure>
+    <time_frame>30 days after the last dose</time_frame>
+    <description>The MTD is defined as the highest dose studied for which the observed incidence of DLT is less than 33% or occurs within at most one out of six patients treated at any given dose level.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants with Dose Limiting Toxicities (DLTs)</measure>
+    <time_frame>30 days after the last dose</time_frame>
+    <description>The percentage of participants with documented dose-limiting toxicities will be reported by dose level.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Recommended Phase 2 Dose (RP2D)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>The RP2D will be selected based on the evaluation of dose-limiting toxicities and adverse events measured using CTCAE v5.0.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall response rate (ORR)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Defined as the proportion of participants who achieve a Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 best overall response of confirmed complete response (CR) or confirmed partial response (PR)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of overall response (DOR)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Defined as the duration of time from when measurement criteria are met for CR or PR (whichever is first recorded) until the date that recurrent/ progressive disease (PD) is objectively documented (taking as reference for PD the smallest measurements recorded since the treatment started).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median duration of stable disease (SD)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Defined as the duration of time from measurement criteria are met for SD or better until the date that recurrent/ progressive disease (PD) is objectively documented (taking as reference for PD the smallest measurements recorded since the treatment started).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median Progression-Free Survival (PFS)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Defined as the duration of time from start of treatment to time of disease recurrence/ progression (PD) or death from any cause, whichever occurs first.</description>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">24</enrollment>
+  <condition>Metastatic Solid Tumor</condition>
+  <condition>BRCA1 Mutation</condition>
+  <condition>BRCA2 Mutation</condition>
+  <condition>ATM Gene Mutation</condition>
+  <condition>PALB2 Gene Mutation</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1 (Niraparib, Irinotecan)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a starting dose of 100 mg of niraparib on days 1-7 each 21-day cycle, and 100 mg/m^2 of irinotecan on day 1 of each 21 day cycle until unacceptable toxicity, disease progression or participant withdrawal.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2 (Niraparib, Irinotecan)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a starting dose of 200 mg of niraparib on days 1-7 each 21-day cycle, and 100 mg/m^2 of irinotecan on day 1 of each 21 day cycle until unacceptable toxicity, disease progression or participant withdrawal.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3a (Niraparib, Irinotecan)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants weighing &lt; 77 kg will receive a starting dose of 200 mg of niraparib on days 1-7 each 21-day cycle, and 100 mg/m^2 of irinotecan on day 1 of each 21 day cycle until unacceptable toxicity, disease progression or participant withdrawal.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3b (Niraparib, Irinotecan)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants weighing &gt;= 77 kg will receive a starting dose of 300 mg of niraparib on days 1-7 each 21-day cycle, and 100 mg/m^2 of irinotecan on day 1 of each 21 day cycle until unacceptable toxicity, disease progression or participant withdrawal.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 4a (Niraparib, Irinotecan)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants weighing &lt; 77 kg will receive a starting dose of 200 mg of niraparib on days 1-7 each 21-day cycle, and 150 mg/m^2 of irinotecan on day 1 of each 21 day cycle until unacceptable toxicity, disease progression or participant withdrawal.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 4b (Niraparib, Irinotecan)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants weighing &gt;= 77 kg will receive a starting dose of 300 mg of niraparib on days 1-7 each 21-day cycle, and 150 mg/m^2 of irinotecan on day 1 of each 21 day cycle until unacceptable toxicity, disease progression or participant withdrawal.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Niraparib</intervention_name>
+    <description>Given orally</description>
+    <arm_group_label>Cohort 1 (Niraparib, Irinotecan)</arm_group_label>
+    <arm_group_label>Cohort 2 (Niraparib, Irinotecan)</arm_group_label>
+    <arm_group_label>Cohort 3a (Niraparib, Irinotecan)</arm_group_label>
+    <arm_group_label>Cohort 3b (Niraparib, Irinotecan)</arm_group_label>
+    <arm_group_label>Cohort 4a (Niraparib, Irinotecan)</arm_group_label>
+    <arm_group_label>Cohort 4b (Niraparib, Irinotecan)</arm_group_label>
+    <other_name>Zejula</other_name>
+    <other_name>Small molecule inhibitor</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Irinotecan</intervention_name>
+    <description>Given intravenously (IV)</description>
+    <arm_group_label>Cohort 1 (Niraparib, Irinotecan)</arm_group_label>
+    <arm_group_label>Cohort 2 (Niraparib, Irinotecan)</arm_group_label>
+    <arm_group_label>Cohort 3a (Niraparib, Irinotecan)</arm_group_label>
+    <arm_group_label>Cohort 3b (Niraparib, Irinotecan)</arm_group_label>
+    <arm_group_label>Cohort 4a (Niraparib, Irinotecan)</arm_group_label>
+    <arm_group_label>Cohort 4b (Niraparib, Irinotecan)</arm_group_label>
+    <other_name>Camptosar</other_name>
+    <other_name>Irinotecan hydrochloride</other_name>
+    <other_name>CPT-11</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Individuals 18 years of age or older.&#xD;
+&#xD;
+          2. Ability to understand and willingness to voluntarily sign a written informed consent&#xD;
+             document prior to any study-related assessments or procedures are conducted; and&#xD;
+             willing and able to adhere to the study visit schedule and other protocol&#xD;
+             requirements.&#xD;
+&#xD;
+          3. Solid tumors where topoisomerase I inhibitors have shown efficacy, including&#xD;
+             gastrointestinal tumors (e.g., colon, pancreatic, gastric cancer and&#xD;
+             cholangiocarcinoma), breast cancer, and ovarian cancer (prostate cancer is excluded),&#xD;
+             with one or more of the following DNA repair defects:&#xD;
+&#xD;
+             a. BRCA1, BRCA2, ATM, and/or PALB2 (based upon archival tumor tissue or germ line&#xD;
+             testing from any Clinical Laboratory Improvement Amendments (CLIA) approved lab). This&#xD;
+             testing must occur prior to study enrollment.&#xD;
+&#xD;
+          4. Presence of at least one lesion with measurable disease as defined by RECIST 1.1&#xD;
+             criteria for response assessment&#xD;
+&#xD;
+          5. Advanced solid tumor malignancy without curative options&#xD;
+&#xD;
+          6. At least 5 half-lives or 3 weeks (whichever is shorter) must have passed since last&#xD;
+             anticancer therapy&#xD;
+&#xD;
+          7. The washout period for investigational agents without published half-lives should be 3&#xD;
+             weeks since last therapy, and all treatment related toxicities must have recovered to&#xD;
+             less than grade 2.&#xD;
+&#xD;
+          8. Eastern Cooperative Oncology Group (ECOG) Performance Status of &lt;=1 (Karnofsky &gt; 60%;&#xD;
+             Appendix 1).&#xD;
+&#xD;
+          9. Adequate organ function:&#xD;
+&#xD;
+               1. Absolute neutrophil count (ANC) &gt;= 1.5 X 109/L (no growth factors allowed within&#xD;
+                  14 days of enrollment)&#xD;
+&#xD;
+               2. Hemoglobin (Hgb) ≥10 g/dL (no transfusion allowed within 7 days of enrollment)&#xD;
+&#xD;
+               3. Platelets (plt) &gt;= 100 x 109/L&#xD;
+&#xD;
+               4. Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) &lt;=2.5 x Upper&#xD;
+                  Limit Normal (ULN), or AST and ALT &lt;5 x ULN in patients with known liver&#xD;
+                  metastases or known primary liver tumor(s)&#xD;
+&#xD;
+               5. Serum total bilirubin &lt;= 1.5 x ULN&#xD;
+&#xD;
+               6. Creatinine &lt;1.5 x ULN, or Estimated Glomerular filtration rate (GFR) &gt;= 50ml/min&#xD;
+                  by Cockcroft-Gault&#xD;
+                  (http://www.mdcalc.com/creatinine-clearance-cockcroft-gault-equation/)&#xD;
+&#xD;
+         10. Must have recovered to less than Grade 2 (CTCAE v5.0) in terms of toxicity from prior&#xD;
+             treatments (excluding neuropathy which can be ≤ Grade 2, alopecia, nail changes/nail&#xD;
+             loss or other chronic minor grade 2 AEs).&#xD;
+&#xD;
+         11. Must be able to take oral medications.&#xD;
+&#xD;
+         12. Based on its mechanism of action and pre-clinical findings, irinotecan can cause fetal&#xD;
+             harm when administered to a pregnant woman. Additionally, the effects of niraparib on&#xD;
+             the developing fetus are unknown. Therefore:&#xD;
+&#xD;
+             a. Females of childbearing potential and their male partners are advised to practice a&#xD;
+             highly effective method of contraception during treatment with niraparib and/or&#xD;
+             irinotecan and for 180 days following the last dose for females and 90 days following&#xD;
+             the last dose for males. A woman is considered to be of childbearing potential unless&#xD;
+             one of the following applies: i. Is considered to be permanently sterile. Permanent&#xD;
+             sterilization methods include hysterectomy, bilateral salpingectomy and bilateral&#xD;
+             oophorectomy.&#xD;
+&#xD;
+             ii. Is postmenopausal, defined as no menses for 12 months without an alternative&#xD;
+             medical cause. A high follicle-stimulating hormone (FSH) level consistently in the&#xD;
+             postmenopausal range (30 milli-international units per millilitre (mIU/mL) or higher)&#xD;
+             may be used to confirm a postmenopausal state in women not using hormonal&#xD;
+             contraception or hormonal replacement therapy; however, in the absence of 12 months of&#xD;
+             amenorrhea, a single FSH measurement is insufficient to confirm a postmenopausal&#xD;
+             state.&#xD;
+&#xD;
+             b. A male participant of reproductive potential is eligible to participate if he&#xD;
+             agrees to the following starting with the first dose of study treatment through at&#xD;
+             least 90 days (a spermatogenesis cycle) after the last dose of study treatment: i.&#xD;
+             refrain from donating sperm ii. Must agree to use a male condom (and should also be&#xD;
+             advised of the benefit for a female partner to use a highly effective method of&#xD;
+             contraception as a condom may break or leak) c. Highly effective contraception is&#xD;
+             considered to be a method with a &lt; 1% per year failure rate. Recommendations for&#xD;
+             highly effective contraception while taking niraparib include: i. Ongoing use of&#xD;
+             injectable or implantable progesterone ii. Placement of an intrauterine device or&#xD;
+             intrauterine system iii. Bilateral tubal occlusion iv. Complete (as opposed to&#xD;
+             periodic) abstinence v. Male sterilization, with appropriate post-vasectomy&#xD;
+             documentation of absence of sperm in ejaculate&#xD;
+&#xD;
+         13. Human immunodeficiency virus (HIV)-infected individuals on effective anti-retroviral&#xD;
+             therapy with undetectable viral load within 6 months are eligible for this trial.&#xD;
+&#xD;
+         14. For participants with evidence of chronic hepatitis B virus (HBV) infection, the HBV&#xD;
+             viral load must be undetectable on suppressive therapy, if indicated.&#xD;
+&#xD;
+         15. Individuals with a history of hepatitis C virus (HCV) infection must have been treated&#xD;
+             and cured. For individuals with HCV infection who are currently on treatment, they are&#xD;
+             eligible if they have an undetectable HCV viral load.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Any significant medical condition, laboratory abnormalities, which places the subject&#xD;
+             at unacceptable risk if he/she were to participate in the study at clinician's&#xD;
+             discretion and not otherwise stated below.&#xD;
+&#xD;
+          2. Prior allergic reaction to PARP inhibitor or irinotecan or their excipients. Prior&#xD;
+             PARP inhibitor or irinotecan (or topoisomerase 1 inhibitors) use is allowed.&#xD;
+&#xD;
+          3. Individuals with known toxicity to irinotecan (e.g., grade 3 or 4 neutropenia) or&#xD;
+             suspected sensitivity.&#xD;
+&#xD;
+          4. Individuals with homozygous or compound heterozygous UGT1A1 polymorphisms (e.g.,&#xD;
+             alleles *28/*28, *6/*6, or *6/*28) predicted to be associated with increased risk of&#xD;
+             irinotecan-related toxicity&#xD;
+&#xD;
+          5. Individuals receiving any other investigational agents concurrently with the study&#xD;
+             drugs within 3 weeks or 5 half-lives, whichever is shorter, of the first dose of&#xD;
+             therapy preceding the study.&#xD;
+&#xD;
+          6. Participants with unstable brain metastases are excluded. Patients with a history of&#xD;
+             brain metastases (&gt;1cm) are permitted to enroll if they have been treated and have&#xD;
+             been stable for a minimum of one month on imaging. Patients may not currently receive&#xD;
+             steroids for their brain metastases. Patients with small, asymptomatic brain&#xD;
+             metastases (&lt;1cm) may enroll.&#xD;
+&#xD;
+          7. Individuals with a second primary malignancy&#xD;
+&#xD;
+          8. Individuals with a prior history of posterior reversible encephalopathy syndrome&#xD;
+             (PRES)&#xD;
+&#xD;
+          9. Individuals with systolic blood pressure &gt;140 mmHg or diastolic blood pressure &gt;90&#xD;
+             mmHg that has not been adequately treated or controlled&#xD;
+&#xD;
+         10. History of a malabsorption syndrome or uncontrolled nausea, vomiting, or diarrhea that&#xD;
+             may interfere with the absorption of oral study medication in the opinion of the&#xD;
+             investigator.&#xD;
+&#xD;
+         11. Known or suspected diagnosis of Myelodysplastic syndromes (MDS) or Acute myeloid&#xD;
+             leukemia (AML).&#xD;
+&#xD;
+         12. Known Gilbert's disease&#xD;
+&#xD;
+         13. Individuals who are pregnant and/or breast feeding, or expecting to conceive children&#xD;
+             while receiving study treatment and/or for up to 180 days after the last dose of study&#xD;
+             treatment.&#xD;
+&#xD;
+         14. Inability to comply with study procedures or unwilling to use adequate highly&#xD;
+             effective contraception&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pamela Munster, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, San Francisco</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Early Phase Cancer Clinical Trials Recruitment</last_name>
+    <phone>877-827-3222</phone>
+    <email>EarlyPhaseClinicalTrials@ucsf.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of California, San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Early Phase Clinical Trials Recruitment</last_name>
+      <phone>877-827-3222</phone>
+      <email>EarlyPhaseClinicalTrials@ucsf.edu</email>
+    </contact>
+    <contact_backup>
+      <email>cancertrials@ucsf.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Pamela Munster, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 12, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 12, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>May 31, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 31, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 1, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of California, San Francisco</investigator_affiliation>
+    <investigator_full_name>Pamela Munster</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>DNA Repair Gene Mutations</keyword>
+  <keyword>Small Molecule Inhibitor</keyword>
+  <keyword>Poly (ADP-ribose) polymerase inhibitor therapy (PARPi)</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Irinotecan</mesh_term>
+    <mesh_term>Niraparib</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

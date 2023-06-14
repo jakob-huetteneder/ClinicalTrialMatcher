@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9141">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05704478</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-2321</org_study_id>
+    <nct_id>NCT05704478</nct_id>
+  </id_info>
+  <brief_title>Impact of Vericiguat on Hemodynamics of Heart Failure</brief_title>
+  <official_title>Impact of Vericiguat on Vascular Biology, as Well as Resting and Exertional Cardiovascular Performance Among Patients With Heart Failure With Reduced Ejection Fraction</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Colorado, Denver</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Colorado, Denver</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Vericiguat is a new drug that was recently approved by the Food and Drug Administration for&#xD;
+      patients with heart failure. In a large randomized controlled trial, this drug was found to&#xD;
+      help patients with heart failure live longer and stay out of the hospital more than normal&#xD;
+      treatment for heart failure. However, it is unclear how this drug positively impacts&#xD;
+      &quot;hemodynamics&quot;, meaning how the heart functions during activity/exercise, and how it may also&#xD;
+      help blood pressure and health of the blood vessels and autonomic nervous system. This study,&#xD;
+      funded by the drug manufacturer, Merck Corp, will enroll 30 patients with heart failure. The&#xD;
+      patients will undergo baseline testing, and then be randomized to either receive vericiguat&#xD;
+      or a placebo for about three months, and then come back for follow-up testing to learn more&#xD;
+      about how the drug impacts heart function.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Vericiguat is an oral soluble guanylate cyclase (sGC) stimulator, which enhances sGC&#xD;
+      sensitivity to nitric oxide (NO). Patients with heart failure with reduced ejection fraction&#xD;
+      (HFrEF) are known to have a reduction in NO bioavailability as a result of endothelial&#xD;
+      dysfunction, oxidative stress2 and presence of reactive oxygen species. In turn, there is a&#xD;
+      reduction in sGC activity, which is associated with multiple adverse cardiac effects,&#xD;
+      including cardiac stiffness and fibrosis, microvascular dysfunction and ultimately,&#xD;
+      propagation of HFrEF. In a large, multi-center randomized placebo controlled trial,&#xD;
+      vericiguat reduced the incidence of death from cardiovascular causes or hospitalization for&#xD;
+      heart failure. The VICTORIA trial demonstrated that on a larger scale (N=5050 patients),&#xD;
+      modulation of the NO-sGC pathway led to stabilization and improvement of the heart failure&#xD;
+      syndrome, which translated into improvements in hard outcomes.&#xD;
+&#xD;
+      There are a paucity of data, however, characterizing the direct effects of vericiguat on left&#xD;
+      ventricular function among humans suffering from HFrEF. The echocardiographic substudy of&#xD;
+      VICTORIA found that left ventricular ejection fraction (LVEF) improved from baseline to 8&#xD;
+      months follow-up in both the placebo arm (31.8±8.2% to 34.2±9.2%, P&lt;0.001) and the vericiguat&#xD;
+      arm (33.0±9.4% to 36.1±10.1%, P&lt;0.001) and that LV end-systolic volume index (LVESVI) also&#xD;
+      declined in both arms. However, non-invasive, echocardiographic-derived metrics of&#xD;
+      ventricular function are relatively insensitive when compared to invasive determinants of&#xD;
+      overall cardiovascular performance. Thus, longitudinal changes in metrics such as LVEF and&#xD;
+      LVESVI, while informative, may not sufficiently characterize the physiologic adaptations that&#xD;
+      occur following modulation of the NO-sGC pathway, which in turn, translate into improvements&#xD;
+      in hard outcomes, which were observed in the VICTORIA trial.&#xD;
+&#xD;
+      The primary objective of this proposal is to precisely characterize the impact of NO-sGC&#xD;
+      modulation with the novel agent vericiguat on vascular biology, as well as resting and&#xD;
+      exertional cardiovascular performance among patients with heart failure with reduced ejection&#xD;
+      fraction (HFrEF). Our central hypothesis is that vericiguat improves endothelial function,&#xD;
+      which promotes arterial vasodilatation - and consequently, reduces left and right ventricular&#xD;
+      afterload. This reduction in afterload improves ventricular contractility, and in turn,&#xD;
+      reduces HFrEF severity by improving left and right-sided cardiovascular performance. This&#xD;
+      hypothesis will be tested through comprehensive assessment of longitudinal changes in&#xD;
+      vascular biology and cardiopulmonary performance among patients with HFrEF prior to, and&#xD;
+      following initiation of the novel oral sGC stimulator, vericiguat.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 1, 2023</start_date>
+  <completion_date type="Anticipated">March 31, 2027</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2026</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Randomized clinical trial</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>double-blind, both participant and provider. Blinding to be coordinated by research coordinator</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>cardiac output, L/min</measure>
+    <time_frame>3 months</time_frame>
+    <description>cardiac output from heart catheterization</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Quality-of-life assessment</measure>
+    <time_frame>3 months</time_frame>
+    <description>Kansas City Cardiomyopathy Questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>oxygen uptake (VO2), ml/kg/min</measure>
+    <time_frame>3 months</time_frame>
+    <description>Oxygen uptake during cardiopulmonary exercise testing</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary arterial pressure, mmHg</measure>
+    <time_frame>3 months</time_frame>
+    <description>hemodynamics from heart catheterization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary capillary wedge pressure, mmHg</measure>
+    <time_frame>3 months</time_frame>
+    <description>hemodynamics from heart catheterization</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Heart Failure</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will be administered the drug vericiguat</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will be administered a placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vericiguat</intervention_name>
+    <description>soluble guanylate cyclase stimulator</description>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adults 18 years of age or greater with New York Heart Association functional class II,&#xD;
+             III, or IV HFrEF with left ventricular ejection fraction &lt; 45% within 12 months of&#xD;
+             enrollment;&#xD;
+&#xD;
+          2. elevated brain natriuretic peptide level (BNP) within 30 days of enrollment; and&#xD;
+&#xD;
+          3. history of worsening congestion, defined as a HF-hospitalization within 6 months of&#xD;
+             enrollment or increase in diuretic therapy without hospitalization within three months&#xD;
+             of enrollment.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. systolic blood pressure (SBP) below 100mmHg;&#xD;
+&#xD;
+          2. use of long-acting nitrates, soluble guanylate cyclase stimulators, or&#xD;
+             phosphodiesterase type 5 inhibitors;&#xD;
+&#xD;
+          3. use of intravenous inotropes or implantable left ventricular assist devices;&#xD;
+&#xD;
+          4. use of anticoagulants with an inability to temporarily hold these medications for&#xD;
+             procedures or to keep the international normalized ratio &lt; 2.5 units;&#xD;
+&#xD;
+          5. uncontrolled arrhythmias;&#xD;
+&#xD;
+          6. noncardiac factors that may limit the ability to exercise (e.g. severe osteoarthritis,&#xD;
+             peripheral vascular disease, severe pulmonary disease); and&#xD;
+&#xD;
+          7. pregnancy.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Kyle Schtul</last_name>
+    <phone>303.724.2095</phone>
+    <email>kyle.schtul@cuanschutz.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>William Cornwell</last_name>
+    <phone>303.724.2085</phone>
+    <email>william.cornwell@cuanschutz.edu</email>
+  </overall_contact_backup>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 11, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>May 17, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 17, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 18, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Failure</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Individual participant data will not be shared with other researchers</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

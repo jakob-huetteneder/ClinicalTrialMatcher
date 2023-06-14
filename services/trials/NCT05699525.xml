@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9365">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05699525</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-09023953</org_study_id>
+    <nct_id>NCT05699525</nct_id>
+  </id_info>
+  <brief_title>Personalized Mobile Cognitive Behavioral Therapy Application</brief_title>
+  <official_title>Efficacy of Personalized Mobile Cognitive Behavioral Therapy Targeting Anxiety and Depression</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Weill Medical College of Cornell University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Children's Health Fund</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Weill Medical College of Cornell University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to compare the effectiveness of a standard mobile cognitive behavioral&#xD;
+      therapy program to a personalized mobile cognitive behavioral therapy program that introduces&#xD;
+      new skills over a shorter period of time. Participants will use the Maya app for two days per&#xD;
+      week, at least 20 minutes per day, for six weeks. Assessments will include a weekly check in&#xD;
+      with a member of the research team, questionnaires, and optional magnetic resonance imaging&#xD;
+      (MRI) and electroencephalographic (EEG) recordings at the beginning and end of the 6-week&#xD;
+      intervention. The investigators think that that the less burdensome personalized program will&#xD;
+      be just as effective at improving symptoms of anxiety and depression as the general program.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Growing evidence suggests a need for anxiety and mood interventions that can be disseminated&#xD;
+      easily to adolescents and young adults. The goal of this study is to optimize a mobile&#xD;
+      application that teaches well-established, research-supported psychotherapeutic techniques to&#xD;
+      adolescents and young adults who are experiencing symptoms of anxiety, depression, and/or&#xD;
+      bipolar disorder. The study aims to compare the efficacy of a personalized mobile cognitive&#xD;
+      behavioral therapy program to a more general mobile cognitive behavioral therapy program.&#xD;
+&#xD;
+      Study participants will randomly receive one of two versions of Maya, a mobile cognitive&#xD;
+      behavior therapy (CBT) app for adolescents and young adults: either a standard version that&#xD;
+      includes a variety of skills typically used in CBT, or a personalized version with skills&#xD;
+      matched to the participant's symptom profile. In contrast to the general condition, which may&#xD;
+      introduce new material over all six weeks of the intervention, all new material in the&#xD;
+      personalized condition will be introduced within the first four weeks. The remaining two&#xD;
+      weeks in the personalized condition will consist of practicing previously learned skills.&#xD;
+      Participants will use the Maya app for two days per week, at least 20 minutes per day for six&#xD;
+      weeks and will complete assessments at baseline, week 4, week 6 (end of intervention), and a&#xD;
+      follow-up assessment at week 12. Participants may also choose to complete an optional&#xD;
+      magnetic resonance imaging (MRI) and/or electroencephalographic (EEG) recording at the&#xD;
+      baseline and end of intervention (week 6).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 2023</start_date>
+  <completion_date type="Anticipated">January 2025</completion_date>
+  <primary_completion_date type="Anticipated">January 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in anxiety symptoms from pre-intervention to post-intervention as measured by the HAM-A.</measure>
+    <time_frame>Baseline to endpoint [Week 6]</time_frame>
+    <description>The primary symptom measure for anxiety will be the Hamilton Rating Scale for Anxiety (HAM-A). The HAM-A is a 14-item questionnaire measure of the severity of anxiety symptoms. The items measure both psychic anxiety and somatic anxiety. The scores range from 0 to 42, where higher scores indicate a greater severity of symptoms and lower scores indicate mild to no anxiety symptoms.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in depressive symptoms from pre-intervention to post-intervention as measured by HAM-D.</measure>
+    <time_frame>Baseline to endpoint [Week 6]</time_frame>
+    <description>The primary symptom measure for depression will be the Hamilton Rating Scale for Depression (HAM-D). The HAM-D is a 24-item questionnaire measuring the severity of depression symptoms. The scale ranges from 0 to 76, where higher scores indicate higher severity of depressive symptoms.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in anxiety measure scores pre-intervention to post-active learning phase as measured by HAM-A</measure>
+    <time_frame>Baseline to end of active learning phase [week 4]</time_frame>
+    <description>Anxiety will be measured using the Hamilton Rating Scale for Anxiety (HAM-A). The HAM-A is a 14-item questionnaire measure of the severity of anxiety symptoms. The items measure both psychic anxiety and somatic anxiety. The scores range from 0 to 42, where higher scores indicate a greater severity of symptoms and lower scores indicate mild to no anxiety symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in depression measure scores pre-intervention to post-active learning phase as measured by HAM-D.</measure>
+    <time_frame>Baseline to end of active learning phase [week 4]</time_frame>
+    <description>Depression will be scored using the Hamilton Rating Scale for Depression (HAM-D). The HAM-D is a 24-item questionnaire measuring the severity of depression symptoms. The scale ranges from 0 to 76, where higher scores indicate higher severity of depressive symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in anhedonia from pre-intervention to post-intervention as measured by TEPS.</measure>
+    <time_frame>Baseline to end of active learning phase [week 4 for personalized intervention and week 6 for the general intervention]</time_frame>
+    <description>Anhedonia will be measured using the Temporal Experience of Pleasure Scale (TEPS). The items measure anticipatory and consummatory experiences of pleasure. Scores range from 18 to 108 where higher scores indicate stronger feelings of anticipating and experiencing pleasure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in rumination from pre-intervention to post-intervention as measured by RRS.</measure>
+    <time_frame>Baseline to end of active learning phase [week 4 for personalized intervention and week 6 for the general intervention]</time_frame>
+    <description>Rumination will be measured using the Ruminative Response Scale (RRS). The items in this scale measure reflection and brooding. Scores on this scale range from 22 to 88, where higher scores indicate higher severity of symptoms of rumination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Negative affect from pre-intervention to post-intervention as measured by PANAS</measure>
+    <time_frame>Baseline to end of active learning phase [week 4 for personalized intervention and week 6 for the general intervention]</time_frame>
+    <description>Negative affect will be measured using the negative affect subscale of the Positive and Negative Affect Schedule (PANAS). Scores on the 10-item subscale range from 10 to 50, where higher scores indicate higher levels of negative affect.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anxious arousal from pre-intervention to post-intervention as measured by DASS.</measure>
+    <time_frame>Baseline to end of active learning phase [week 4 for personalized intervention and week 6 for the general intervention]</time_frame>
+    <description>Anxious arousal will be measured through the anxiety subscale of the Depression Anxiety Stress Scale (DASS). Scores on the anxiety subscale range from 0 to 42. Higher scores indicate higher severity of symptoms of anxious arousal.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bipolar symptoms from pre-intervention to post-intervention as measured by ISS.</measure>
+    <time_frame>Baseline to end of active learning phase [week 4 for personalized intervention and week 6 for the general intervention]</time_frame>
+    <description>Bipolar symptoms will be measured using the Internal State Scale (ISS). The ISS is a 15 item self-report instrument using a visual analog line scale format (i.e. participant chooses from 0-100 on the scale to respond to each item). The scale contains four subscales (Activation, Well Being, Depression Index, and Perceived Conflict). Scores range from 0 to 1500 where higher scores represent higher severity of symptoms for each subscale.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Anxiety Disorders and Symptoms</condition>
+  <condition>Depression</condition>
+  <condition>Bipolar Disorder</condition>
+  <condition>Symptoms</condition>
+  <arm_group>
+    <arm_group_label>Personalized</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive the personalized Maya app intervention for 6 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>General Non-Personalized</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants receive the general MAYA app intervention for 6 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Personalized MAYA Mobile App</intervention_name>
+    <description>All new material in the personalized condition will be introduced within the first four weeks and will contain modules targeting participant's personal symptom profiles. The remaining two weeks in the personalized condition will consist of practicing previously learned skills.</description>
+    <arm_group_label>Personalized</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>General MAYA Mobile App</intervention_name>
+    <description>New material will be introduced to participants over all the six weeks of the intervention and will include all application modules.</description>
+    <arm_group_label>General Non-Personalized</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age between 18 and 25 years.&#xD;
+&#xD;
+          -  Primary diagnosis of an anxiety, depressive, or bipolar disorder as determined by a&#xD;
+             score of 4 or greater on the Clinical Severity Rating of the Anxiety Disorders&#xD;
+             Interview Schedule (ADIS).&#xD;
+&#xD;
+          -  Individuals diagnosed with bipolar disorder must be currently euthymic or experiencing&#xD;
+             a depressive episode.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Lifetime diagnosis of a psychotic disorder.&#xD;
+&#xD;
+          -  Current hypomanic or manic episode.&#xD;
+&#xD;
+          -  Currently in cognitive behavior therapy.&#xD;
+&#xD;
+          -  Change in dose of a psychiatric medication in the past 12 weeks.&#xD;
+&#xD;
+          -  Initiation of psychotherapy in the past 12 weeks.&#xD;
+&#xD;
+          -  Intent or plan to attempt suicide.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>25 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jennifer Bress, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Weill Medical College of Cornell University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Maddy Schier</last_name>
+    <phone>(646) 289-5271</phone>
+    <phone_ext>720</phone_ext>
+    <email>mas4019@med.cornell.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Zareen Mir</last_name>
+    <phone>(646)-289-5271</phone>
+    <phone_ext>705</phone_ext>
+    <email>zam4005@med.cornell.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Weill Cornell Medical College</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jennifer Bress, Ph.D</last_name>
+      <phone>914-997-8683</phone>
+      <email>jeb2061@med.cornell.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Maddy Schier</last_name>
+      <phone>(646) 289-5271</phone>
+      <phone_ext>720</phone_ext>
+      <email>mas4019@med.cornell.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jennifer Bress, Ph.D</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>January 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>April 28, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Anxiety Disorders</mesh_term>
+    <mesh_term>Bipolar Disorder</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

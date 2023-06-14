@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9106">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05705128</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Assiut anesthesia g35</org_study_id>
+    <nct_id>NCT05705128</nct_id>
+  </id_info>
+  <brief_title>Dexmedetomidine in Postoperative Analgesia</brief_title>
+  <acronym>Any</acronym>
+  <official_title>Comparison Between Effect of Addition of Dexamethasone and Dexmedetomidine in Combination With Bupivacaine for Pain Relief After Shoulder Arthroscopic Surgeries</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>New Valley University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>New Valley University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      There is a high incidence reaching up to 45%; of severe intraoperative and postoperative pain&#xD;
+      associated with arthroscopic shoulder surgery, which is often significant enough to interfere&#xD;
+      with initial recovery and rehabilitation.Various peripheral nerve blocks have been used to&#xD;
+      reduce intraoperative anesthetic requirements to improve rapid recovery and reduce&#xD;
+      postoperative pain.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Recently, the Combined suprascapular nerve block and axillary nerve block (SSNB+ANB) was&#xD;
+      proposed to provide anesthesia and postoperative analgesia for shoulder surgery as a safe&#xD;
+      alternative to ISB.most of the nerve supply from C5 and C6 nerve roots are carried by&#xD;
+      suprascapular and the axillary nerves. These two peripheral nerves are responsible for the&#xD;
+      majority of the sensory innervation of the shoulder.&#xD;
+&#xD;
+      Dexamethasone is a glucocorticoid that is commonly used to decrease the body's inflammatory&#xD;
+      response. Doses of 1, 2, 4, and 8 mg have been used as an adjuvant in interscalene,&#xD;
+      supraclavicular, ankle, and brachial plexus blocks . However, when dexamethasone is used as&#xD;
+      an adjuvant in a PNB, the specific mechanism of action is unknown . Dexamethasone may produce&#xD;
+      extended analgesia through vasoconstriction and reduced absorption of local anesthetic or&#xD;
+      through &quot;direct action on the nerve cell to reduce neural discharge&quot; .&#xD;
+&#xD;
+      Despite having an unknown mechanism, a Cochrane review of 35 trials of 2702 participants&#xD;
+      determined that perineural dexamethasone adjuvant increased sensory block 6.7 hours (95%&#xD;
+      confidence interval) in comparison to a placebo . Similarly, intravenous dexamethasone&#xD;
+      increased sensory block 6.2 hours in comparison Dexmedetomidine is a highly selective and&#xD;
+      potent central alpha-2 adrenergic receptor agonist. Administration of this adjuvant in&#xD;
+      miscellaneous methods has received considerable attention in recent years. Due to its&#xD;
+      analgesic and sedative effects, besides the lack of any respiratory-sparing effects,&#xD;
+      administration of this adjuvant has been effective in reducing the need for opioids in the&#xD;
+      perioperative period and may even result in cooperative sedation . Given the sympatholytic&#xD;
+      effects of dexmedetomidine (hypotension and bradycardia), in addition to oversedation,&#xD;
+      especially when administered intravenously or at high doses, caution must be taken in&#xD;
+      administering this drug, especially in elderly patients.&#xD;
+&#xD;
+      The neuraxial administration of dexmedetomidine has nociceptive effects on somatic and&#xD;
+      visceral pains . It also reduces postoperative pain and prolongs analgesia, although there is&#xD;
+      a risk of bradycardia. Various doses of dexmedetomidine, along with a number of analgesic&#xD;
+      drugs, have been used in many studies. However, the exact dose of dexmedetomidine, as an&#xD;
+      adjuvant drug administered along with other intravenous drugs in the perioperative period,&#xD;
+      has been controversial.&#xD;
+&#xD;
+      The proposed mechanism for perineural dexmedetomidine in PNBs as first studied in rat models&#xD;
+      is similar to that of clonidine, which relies not on alpha-2 agonism mechanism, but instead&#xD;
+      blocks hyperpolarization-activated Ih cation currents and causes vasoconstriction for&#xD;
+      prolonged analgesia . Perineural dexmedetomidine adjunct use is off-label, and proper&#xD;
+      risk-benefit analysis, especially in patients where bradycardia and hypotension would be&#xD;
+      concerning, would be necessary before even more widespread use of dexmedetomidine in PNBs can&#xD;
+      be expected .&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2023</start_date>
+  <completion_date type="Anticipated">July 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">February 1, 2024</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>numerical rating pain scale</measure>
+    <time_frame>24 hours</time_frame>
+    <description>graded from 0 to 10 (0 = no pain, 10 = the worst possible pain)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>complications</measure>
+    <time_frame>24 hours</time_frame>
+    <description>postoperative complications</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Pain Management</condition>
+  <arm_group>
+    <arm_group_label>dexamethasone group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>patients will receive dexamethasone with bupivacaine before general anaesthesia</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>dexmedetomidine group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>patients will receive dexemedetomidine with bupivacaine before general anaesthesia</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexmedetomidine</intervention_name>
+    <description>Dexmedetomidine will be given with bupivaciane for postoperative pain control</description>
+    <arm_group_label>dexamethasone group</arm_group_label>
+    <arm_group_label>dexmedetomidine group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients undergoing elective shoulder arthroscopy under general anesthesia&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Contraindications to regional block (coagulopathy, infection at the needle insertion&#xD;
+             site, or diaphragmatic paralysis).&#xD;
+&#xD;
+          -  Altered conscious level.&#xD;
+&#xD;
+          -  Pregnancy. .Body mass index (BMI &gt; 35).&#xD;
+&#xD;
+          -  Patients who have difficulty understanding the study protocol&#xD;
+&#xD;
+          -  Patients who have any known contraindication to study medications&#xD;
+&#xD;
+          -  Patient refusal.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>ahmed abdelsabour, lecturer</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assiut University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alaa m Atia, professor</last_name>
+    <phone>(088) 2411900 - 2080278</phone>
+    <email>alaaguhina@yahoo.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>wesam n mohammed, assistant professor</last_name>
+    <phone>(088) 2411900 - 2080278</phone>
+    <email>dr.wesamnashat2015@gmail.com</email>
+  </overall_contact_backup>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 21, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 21, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>February 22, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 22, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>New Valley University</investigator_affiliation>
+    <investigator_full_name>Ahmed Ismail Abdelsabour</investigator_full_name>
+    <investigator_title>lecturer</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dexmedetomidine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

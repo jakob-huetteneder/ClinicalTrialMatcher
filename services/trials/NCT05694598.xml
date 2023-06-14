@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9602">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05694598</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VGR-R01-101</org_study_id>
+    <nct_id>NCT05694598</nct_id>
+  </id_info>
+  <brief_title>Safety and Tolerability of VGR-R01 for Patients With Bietti Crystalline Dystrophy</brief_title>
+  <official_title>A Phase 1 Study to Assess the Safety and Tolerability of VGR-R01 in Patients With Bietti Crystalline Dystrophy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shanghai Vitalgen BioPharma Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Shanghai Vitalgen BioPharma Co., Ltd.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A Multicenter, Open-Label, Non-Randomized, Uncontrolled Study of VGR-R01 in Patients with&#xD;
+      Bietti Crystalline Dystrophy.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      VGR-R01 is a novel AAV vector carrying the human CYP4V2 coding sequence. This study is&#xD;
+      intended to evaluate the safety and tolerability of a single subretinal administration of&#xD;
+      VGR-R01. All subjects will undergo at least 52 weeks of safety observation and will be&#xD;
+      encouraged to enroll in an extension study to evaluate the long-term safety of VGR-R01 for a&#xD;
+      total of five years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2023</start_date>
+  <completion_date type="Anticipated">September 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2025</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>Baseline up to Week 52</time_frame>
+    <description>An adverse event (AE) is any untoward medical occurrence in a clinical investigation participant administered a product; the event will not need to have a causal relationship with the treatment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of serious adverse events</measure>
+    <time_frame>Baseline up to Week 52</time_frame>
+    <description>A serious adverse event (SAE) is any untoward medical occurrence at any dose that resulted in death; life threatening; require inpatient hospitalization or prolongation of existing hospitalization; result in persistent or significant disability/incapacity; result in congenital anomaly/birth defect.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Clinically Significant Change from Baseline in Vital Signs</measure>
+    <time_frame>Baseline up to Week 52</time_frame>
+    <description>Vital signs (temperature, respiratory rate, pulse rate, systolic and diastolic blood pressure) will be obtained with participant in the seated position, after having sat calmly for at least 5 minutes. Clinical significance of vital signs will be determined at the investigator's discretion.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Clinically Laboratory Abnormalities</measure>
+    <time_frame>Baseline up to Week 52</time_frame>
+    <description>Laboratory Tests will include hematology, coagulation, blood chemistry, urinalysis, serology, and pregnancy test, etc. If any potential changes accompanied by clinical symptoms, or results in a change of medical intervention, the findings will be considered as clinically significant based on investigator's decision.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Clinically Significant Change from Baseline in Ophthalmic Examination Findings</measure>
+    <time_frame>Baseline up to Week 52</time_frame>
+    <description>Ophthalmic Examination will include BCVA, IOP, slitlamp examination, angiography and SD-OCT, etc. If any potential changes accompanied by clinical symptoms, or results in a change of medical intervention, the findings will be considered as clinically significant based on investigator's decision.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Best-Corrected Visual Acuity (BCVA)</measure>
+    <time_frame>Week 52</time_frame>
+    <description>BCVA will be assessed for both eyes using the Early Treatment of Diabetic Retinopathy Study (ETDRS) visual acuity (VA) chart. BCVA test should be performed prior to pupil dilation, and distance refraction should be carried out before BCVA is measured.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline of Visual Field Index (%) in Visual Field (Humphery perimetry) indexes</measure>
+    <time_frame>Week 52</time_frame>
+    <description>The VFI can range from 100% (normal visual field) to 0% (perimetrically blind field).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline of Mean Deviation (dB) in Visual Field (Humphery perimetry) indexes</measure>
+    <time_frame>Week 52</time_frame>
+    <description>Normal values are typically within 0dB and -2dB.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline of Pattern Standard Deviation (dB) in Visual Field (Humphery perimetry) indexes</measure>
+    <time_frame>Week 52</time_frame>
+    <description>A typical &quot;normal&quot; dB reading is around 30. The numeric dB graph should be studied next. The dBs tested by the Humphrey analyzer range between 0 and 50 dB (0 is the brightest and 50 is the dimmest).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in Mobility testing scores</measure>
+    <time_frame>Week 52</time_frame>
+    <description>The mobility score range is between -1 (the worst functional vision) and 6 (the best).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Patient reported outcome: Changes of NEI-VFQ-25</measure>
+    <time_frame>Week 52</time_frame>
+    <description>NEI-VFQ-25 questionnaire measures dimensions of self-reported vision-targeted health status that are most important to persons with eye disease. Total score ranges from 0-100, where a score of 0 represents the worst outcome and 100 represents the best outcome.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Bietti Crystalline Dystrophy</condition>
+  <arm_group>
+    <arm_group_label>VGR-R01</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single-dose Subretinal Administration of VGR-R01</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>VGR-R01</intervention_name>
+    <description>CYP4v2-coding gene delivered by AAV vector</description>
+    <arm_group_label>VGR-R01</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:&#xD;
+&#xD;
+          1. Able to provide informed consent and comply with requirements of the study;&#xD;
+&#xD;
+          2. ≥18 years and &lt;70 years of age;&#xD;
+&#xD;
+          3. Confirmed diagnosis of Bietti Crystalline Dystrophy and molecular diagnosis of CYP4V2&#xD;
+             mutations (homozygotes or compound heterozygotes);&#xD;
+&#xD;
+          4. BCVA ≤ 60 ETDRS letters in the study eye.&#xD;
+&#xD;
+        Key Exclusion Criteria:&#xD;
+&#xD;
+          1. Have insufficient viable retinal photoreceptor cells based on investigator's decision;&#xD;
+&#xD;
+          2. Have current ocular or periocular infections, or endophthalmitis;&#xD;
+&#xD;
+          3. Have any significant ocular disease/disorder other than BCD, including age-related&#xD;
+             macular degeneration, diabetic retinopathy, optic neuropathy, significant lens&#xD;
+             opacity, glaucoma, uveitis, retinal detachment, etc;&#xD;
+&#xD;
+          4. Have intraocular surgery history except cataract surgery in the study eye;&#xD;
+&#xD;
+          5. Have or potentially require of systemic medications that may cause eye injure;&#xD;
+&#xD;
+          6. Have contraindications for corticosteroids or immunosuppressant;&#xD;
+&#xD;
+          7. Unwilling or unable to have the planned follow-up;&#xD;
+&#xD;
+          8. Abnormal coagulation function or other clinically significant abnormal laboratory&#xD;
+             results;&#xD;
+&#xD;
+          9. Have malignancies or history of malignancies;&#xD;
+&#xD;
+         10. History of immunodeficiency (acquired or congenital); Other protocol defined&#xD;
+             Inclusion/Exclusion criteria may apply.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>69 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Wenbin Wei</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Beijing Tongren Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Min Li</last_name>
+    <phone>086-18822167237</phone>
+    <email>m.li@vitalgen.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Shanghai Vitalgen Biopharma Co.,Ltd.</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 11, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>January 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Corneal Dystrophies, Hereditary</mesh_term>
+    <mesh_term>Retinal Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>IPD will be shared with other researchers when VGR-R01 is fully approved.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>IPD will be shared with other researchers when VGR-R01 is fully approved.</ipd_time_frame>
+    <ipd_access_criteria>IPD will be shared with other researchers when VGR-R01 is fully approved.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

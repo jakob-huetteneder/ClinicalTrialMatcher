@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9070">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05705869</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GN22CA228</org_study_id>
+    <nct_id>NCT05705869</nct_id>
+  </id_info>
+  <brief_title>Targeted Assessment in High-Risk paTients With dIAbetes to ideNtify Undiagnosed Heart Failure</brief_title>
+  <acronym>TARTAN-HF</acronym>
+  <official_title>Targeted Assessment in High-Risk paTients With dIAbetes to ideNtify Undiagnosed Heart Failure (TARTAN-HF)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NHS Greater Glasgow and Clyde</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>NHS Greater Glasgow and Clyde</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a prospective, multicentre, unblinded, randomised, controlled trial. The primary aim&#xD;
+      is to assess a targeted screening strategy to detect undiagnosed heart failure in high-risk&#xD;
+      patients with diabetes.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a prospective, multicentre, unblinded, randomised, controlled trial. The primary aim&#xD;
+      is to assess a targeted screening strategy to detect undiagnosed heart failure in high-risk&#xD;
+      patients with diabetes.&#xD;
+&#xD;
+      Participants will be recruited from the diabetes service in two NHS health boards in&#xD;
+      Scotland; NHS Greater Glasgow and Clyde and NHS Lanarkshire. At the point of recruitment and&#xD;
+      consent, patients will be randomised to one of two arms:&#xD;
+&#xD;
+        1. &quot;Routine care arm&quot; - patients in this arm will undergo routine diabetes care. They will&#xD;
+           be managed and followed up as per routine clinical care. They will be remotely monitored&#xD;
+           for HF events electronically. Quality of life questionnaires (Kansas City Cardiomyopathy&#xD;
+           Questionnaire-12 and EQ-5D) will be completed electronically through CASTOR program in&#xD;
+           this arm (with the option of paper versions for participants who can not use CASTOR).&#xD;
+&#xD;
+           OR&#xD;
+&#xD;
+        2. &quot;Investigational arm&quot; - patients in this arm will have a blood sample taken to measure&#xD;
+           N-terminal prohormone of B-type natriuretic peptide (NT-proBNP) using a Roche assay. In&#xD;
+           addition to this, blood samples for haemoglobin, creatinine, HbA1c, cholesterol profile,&#xD;
+           liver function tests and eGFR will be collected. Quality of life questionnaires (Kansas&#xD;
+           City Cardiomyopathy Questionnaire-12 and EQ-5D) will be completed electronically through&#xD;
+           CASTOR program in this arm (with the option of paper versions for participants who can&#xD;
+           not use CASTOR).&#xD;
+&#xD;
+      All patients in this arm will also have an ECG and basic body measurements and observations&#xD;
+      measured. Further venous blood samples will be collected and stored within Glasgow University&#xD;
+      storage facilities for future measurement of relevant biomarkers and for use in future&#xD;
+      ethically approved research. Urine samples will also be collected for measurement of urine&#xD;
+      albumin:creatinine ratio and for future measurement of relevant biomarkers and use in future&#xD;
+      ethically approved research.&#xD;
+&#xD;
+      Patients with an elevated Roche NT-proBNP (≥125 pg/mL) will undergo a full cart-based&#xD;
+      transthoracic echocardiogram along with a clinical examination for signs of HF and a HF&#xD;
+      symptom assessment. A British Society of Echocardiography minimum dataset will be obtained,&#xD;
+      and report created.&#xD;
+&#xD;
+      Patients will then also undergo a handheld echocardiogram with a CE-marked handheld point of&#xD;
+      care (POC) EchoNous Kosmos echocardiogram device. The handheld echocardiogram images will be&#xD;
+      acquired by a British Society of Echocardiography accredited operator. The US2.ai algorithm&#xD;
+      (which is also CE marked) will generate an AI-automated echocardiogram report.&#xD;
+&#xD;
+      Patients who are classified as having heart failure (HFrEF, HFmrEF, or HFpEF) will be managed&#xD;
+      according to the latest version of European Society of Cardiology guidelines for the&#xD;
+      diagnosis and treatment of acute and chronic heart failure. The results of the cart-based&#xD;
+      echocardiogram will be used during the determination of the presence or absence of HF.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 22, 2022</start_date>
+  <completion_date type="Anticipated">December 2032</completion_date>
+  <primary_completion_date type="Anticipated">June 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Diagnosis of heart failure within 6 months</measure>
+    <time_frame>6 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Diagnosis of HFrEF within 6 months</measure>
+    <time_frame>6 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>People diagnosed with HFrEF receiving GDMT within 6 months</measure>
+    <time_frame>6 months</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Diagnosis of HFmrEF within 6 months</measure>
+    <time_frame>6 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Diagnosis of HFpEF within 6 months</measure>
+    <time_frame>6 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>People diagnosed with HFmrEF and HFpEF receiving SGLT2i therapy within 6 months</measure>
+    <time_frame>6 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Diagnosis of asymptomatic left ventricular dysfunction (LVEF≤40%) within 6 months</measure>
+    <time_frame>6 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Time to first heart failure hospitalisation at 1 year</measure>
+    <time_frame>1 year</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Time to first heart failure hospitalisation at 2 years</measure>
+    <time_frame>2 years</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Time to first heart failure hospitalisation at 5 years</measure>
+    <time_frame>5 years</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>All-cause mortality at 1 year</measure>
+    <time_frame>1 year</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>All-cause mortality at 2 years</measure>
+    <time_frame>2 years</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>All-cause mortality at 5 years</measure>
+    <time_frame>5 years</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Time to first occurence of any components of the following clinical composite 1) heart failure hospitalisation 2) all-cause mortality at 1 year</measure>
+    <time_frame>1 year</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Time to first occurence of any components of the following clinical composite 1) heart failure hospitalisation 2) all-cause mortality at 2 years</measure>
+    <time_frame>2 years</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Time to first occurence of any components of the following clinical composite 1) heart failure hospitalisation 2) all-cause mortality at 5 years</measure>
+    <time_frame>5 years</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>The incremental cost-effectiveness ratio (ICER) will be expressed as incremental costs/life-year gained</measure>
+    <time_frame>5 years</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>he accuracy of handheld echocardiography with AI-automated reporting compared to full cart-based echocardiogram and manual reporting for the measurement of LVEF (%)</measure>
+    <time_frame>6 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>The number of patients in the NT-proBNP/echocardiography group with echocardiographic features of potential amyloid as assessed by the US2.ai algorithm report conclusion of &quot;amyloid to be considered&quot;</measure>
+    <time_frame>6 months</time_frame>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Heart Failure</condition>
+  <condition>Diabetes Mellitus</condition>
+  <condition>Type 1 Diabetes</condition>
+  <condition>Type 2 Diabetes</condition>
+  <condition>Cardiovascular Diseases</condition>
+  <arm_group>
+    <arm_group_label>Routine care arm</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients in this arm will undergo routine diabetes care. They will be managed and followed up as per routine clinical care. They will be remotely monitored for heart failure events electronically. Quality of life questionnaires (Kansas City Cardiomyopathy Questionnaire-12 and EQ-5D) will be collected.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Investigational arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in this arm will have a blood sample taken to measure N-terminal prohormone of B-type natriuretic peptide (NT-proBNP).&#xD;
+In addition to this, routine blood samples, an ECG, body measurements, patient reported outcomes and observations will be recorded.&#xD;
+Further blood and urine samples will be collected and stored within Glasgow University storage facilities for future measurement of relevant biomarkers and for use in future ethically approved research.&#xD;
+Patients with an elevated NT-proBNP (≥125 pg/mL) will undergo a full cart-based transthoracic echocardiogram along with a clinical examination for signs of HF and a HF symptom assessment. Patients will then also undergo a handheld echocardiogram with a CE-marked handheld point of care EchoNous Kosmos echocardiogram device.&#xD;
+Patients who are classified as having heart failure (HFrEF, HFmrEF, or HFpEF) will be managed according to the latest version of European Society of Cardiology guidelines.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>NT-proBNP</intervention_name>
+    <description>NT-proBNP will be measured in all participants in the Investigational arm. If the level of the NT-proBNP is elevated (≥125pg/mL) participants will undergo a full cart-based transthoracic echocardiogram along with a clinical examination for signs of HF and a HF symptom assessment. Participants with HF identified will be referred to their local HF clinic for ongoing management.</description>
+    <arm_group_label>Investigational arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female ≥40 years of age&#xD;
+&#xD;
+          -  Informed consent&#xD;
+&#xD;
+          -  An established diagnosis of diabetes (type 1 or type 2)&#xD;
+&#xD;
+          -  At least one additional risk factor for heart failure:&#xD;
+&#xD;
+               1. Coronary artery disease (either a previous documented type 1 myocardial&#xD;
+                  infarction or coronary artery bypass grafting or percutaneous coronary&#xD;
+                  intervention or documented stenosis of an epicardial coronary artery [50% left&#xD;
+                  main or &gt;70% left anterior descending, circumflex or right coronary artery])&#xD;
+&#xD;
+               2. Persistent or permanent atrial fibrillation (not paroxysmal atrial fibrillation)&#xD;
+&#xD;
+               3. Previous ischemic or embolic stroke&#xD;
+&#xD;
+               4. Peripheral arterial disease (previous surgical or percutaneous revascularisation&#xD;
+                  or a documented stenosis greater than 50% of a major peripheral arterial vessel).&#xD;
+&#xD;
+               5. Chronic kidney disease (defined as an estimated glomerular filtration rate&#xD;
+                  &lt;60mL/min/1.73m2 or eGFR 60-90mL/min/1.73m2 and UACR &gt;300mg/g).&#xD;
+&#xD;
+               6. Regular loop diuretic use (any dose at any dosing interval) for &gt;30 days.&#xD;
+&#xD;
+               7. COPD (evidenced by one of the following; PFTs showing airway obstruction,&#xD;
+                  diagnosis by respiratory physician, CT scan reporting presence of emphysema or&#xD;
+                  treatment with national guideline-advocated COPD therapy).&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Inability to give informed consent e.g., due to significant cognitive impairment.&#xD;
+&#xD;
+          -  Previous documented diagnosis of heart failure.&#xD;
+&#xD;
+          -  Currently receiving scheduled renal replacement therapy.&#xD;
+&#xD;
+          -  Anyone who, in the investigators' opinion, is not suitable to participate in the trial&#xD;
+             for other reasons e.g., a diagnosis which may compromise survival over the study&#xD;
+             period&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Inability to give informed consent e.g., due to significant cognitive impairment.&#xD;
+&#xD;
+          -  Previous documented diagnosis of heart failure.&#xD;
+&#xD;
+          -  Currently receiving scheduled renal replacement therapy.&#xD;
+&#xD;
+          -  Anyone who, in the investigators' opinion, is not suitable to participate in the trial&#xD;
+             for other reasons e.g., a diagnosis which may compromise survival over the study&#xD;
+             period&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mark C Petrie, MbChB</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Glasgow</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kieran F Docherty, MbChB</last_name>
+    <phone>0141 330 2677</phone>
+    <email>kieran.docherty@glasgow.ac.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Mark C Petrie, MbChB</last_name>
+    <phone>0141 330 2677</phone>
+    <email>mark.petrie@glasgow.ac.uk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Glasgow Royal Infirmary</name>
+      <address>
+        <city>Glasgow</city>
+        <state>Scotland</state>
+        <zip>G4 0SF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel R Taylor-Sweet, MbChB</last_name>
+      <phone>141 330 2677</phone>
+      <email>daniel.taylor-sweet@ggc.scot.nhs.uk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kieran F Docherty, MbChB</last_name>
+      <phone>0141 330 2677</phone>
+      <email>kieran.docherty@glasgow.ac.uk</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Kieran F Docherty</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mark C Petrie</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ross Campbell</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Daniel R Taylor-Sweet</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>John JV McMurray</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Shona Jenkins</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Brian Kennon</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Gerald McKay</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Robin Weir</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Colin Petrie</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Queen Elizabeth University Hospital</name>
+      <address>
+        <city>Glasgow</city>
+        <state>Scotland</state>
+        <zip>G51 4TF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel R Taylor-Sweet, MbChB</last_name>
+      <phone>0141 330 2677</phone>
+      <email>daniel.taylor-sweet@glasgow.ac.uk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kieran F Docherty, MbChB</last_name>
+      <phone>0141 330 2677</phone>
+      <email>kieran.docherty@glasgow.ac.uk</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Kieran F Docherty</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mark C Petrie</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ross Campbell</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Daniel R Taylor-Sweet</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>John JV McMurray</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Katriona Brooksbank</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Shona Jenkins</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Brian Kennon</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Gerald McKay</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Robin Weir</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Colin Petrie</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 21, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 27, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 31, 2023</study_first_posted>
+  <last_update_submitted>January 27, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 27, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Screening</keyword>
+  <keyword>Primary Care</keyword>
+  <keyword>Secondary Care</keyword>
+  <keyword>NT-proBNP</keyword>
+  <keyword>Echocardiogram</keyword>
+  <keyword>Diagnostic Pathway</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Failure</mesh_term>
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Diabetes Mellitus</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

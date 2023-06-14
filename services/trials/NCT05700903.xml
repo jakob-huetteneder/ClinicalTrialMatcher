@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9302">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05700903</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-2201</org_study_id>
+    <nct_id>NCT05700903</nct_id>
+  </id_info>
+  <brief_title>Contributions to Hypertension With Androgen Deprivation Therapy</brief_title>
+  <acronym>ARCH</acronym>
+  <official_title>Autonomic and Renal Contributions to Hypertension With Androgen Deprivation Therapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Colorado, Denver</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Colorado, Denver</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study plans to learn more about contributors to high blood pressure in men who undergo&#xD;
+      androgen deprivation therapy (ADT) to treat prostate cancer. Prostate cancer is the most&#xD;
+      common non-skin cancer in men, affecting approximately 1 in 8 American men and its primary&#xD;
+      treatment is through the use of ADT. However, ADT increases the likelihood of developing&#xD;
+      heart disease including high blood pressure. This study will determine if dysfunction of the&#xD;
+      nervous system and/or kidneys occurs in men undergoing ADT, as these systems play a&#xD;
+      significant role in control of blood pressure. The results from this study will help us&#xD;
+      understand the ways in which ADT contributes to heart disease and help us develop therapies&#xD;
+      to prevent heart disease in prostate cancer survivors.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 1, 2023</start_date>
+  <completion_date type="Anticipated">March 31, 2028</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2028</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Cardiovagal Baroreflex Sensitivity</measure>
+    <time_frame>Before and after 9 weeks of androgen deprivation therapy or placebo</time_frame>
+    <description>The change in cardiovagal baroreflex sensitivity will be assessed the modified Oxford procedure</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in blood pressure reactivity to the cold pressor test</measure>
+    <time_frame>Before and after 9 weeks of androgen deprivation therapy or placebo</time_frame>
+    <description>The change in blood pressure will be assessed from quiet rest to sympathetic activation using the cold pressor test</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in exercise pressor reflex</measure>
+    <time_frame>Before and after 9 weeks of androgen deprivation therapy or placebo</time_frame>
+    <description>The change in blood pressure will be assessed from quiet rest to isometric handgrip exercise</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in ambulatory blood pressure variability</measure>
+    <time_frame>Before and after 9 weeks of androgen deprivation therapy or placebo</time_frame>
+    <description>Ambulatory blood pressure variability will be determined from 24-hour ambulatory blood pressure monitoring.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in beat-to-beat blood pressure variability</measure>
+    <time_frame>Before and after 9 weeks of androgen deprivation therapy or placebo</time_frame>
+    <description>Beat-to-beat blood pressure variability will be using finger photoplethysmography measured in the laboratory.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in renal vascular resistance</measure>
+    <time_frame>Before and after 9 weeks of androgen deprivation therapy or placebo</time_frame>
+    <description>Renal blood flow will be determined using ultrasound and blood pressure will be determined using finger photoplethysmography. These measures will be used to estimate renal vascular resistance.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Renal dysfunction biomarkers</measure>
+    <time_frame>Before and after 9 weeks of androgen deprivation therapy or placebo</time_frame>
+    <description>Neutrophil gelatinase-associated lipocalin (NGAL), kidney injury molecule (KIM)-1, interleukin (IL)-18, and vanin-1 will be quantified in urine using commercially available assay kits. Concentrations will be normalized to urinary flow rate.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in sympathetic baroreflex sensitivity</measure>
+    <time_frame>Before and after 9 weeks of androgen deprivation therapy or placebo</time_frame>
+    <description>Changes in muscle sympathetic nerve activity in response to changes in blood pressure will be assessed using the modified Oxford procedure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Sympathetic reactivity</measure>
+    <time_frame>Before and after 9 weeks of androgen deprivation therapy or placebo</time_frame>
+    <description>The change in muscle sympathetic nerve activity will be assessed from quiet rest to sympathetic activation using the cold pressor test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in glomerular filtration rate</measure>
+    <time_frame>Before and after 9 weeks of androgen deprivation therapy or placebo</time_frame>
+    <description>Glomerular filtration rate and renal plasma flow will be calculated by iohexol (Omnipaque 300, GE Healthcare) clearance technique. Plasma and urine iohexol and p-aminohippurate clearance will be measured on a High-Performance Liquid Chromatography (HPLC, Waters, Milford, MA).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in renal plasma flow</measure>
+    <time_frame>Before and after 9 weeks of androgen deprivation therapy or placebo</time_frame>
+    <description>Renal plasma flow will be calculated by p-aminohippurate (Basic Pharma) clearance techniques. Plasma and urine p-aminohippurate clearance will be measured on a High-Performance Liquid Chromatography (HPLC, Waters, Milford, MA).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change in Inflammation</measure>
+    <time_frame>Before and after 9 weeks of androgen deprivation therapy or placebo</time_frame>
+    <description>Proteomic analysis of inflammatory cascade proteins will be quantified in plasma samples.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Oxidative stress</measure>
+    <time_frame>Before and after 9 weeks of androgen deprivation therapy or placebo</time_frame>
+    <description>Whole blood reactive oxygen species will be measured in from venous blood samples using electron paramagnetic resonance spectroscopy</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Body composition</measure>
+    <time_frame>Before and after 9 weeks of androgen deprivation therapy or placebo</time_frame>
+    <description>Descriptive variable total body fat mass (for screening and to document any changes with the intervention)</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">228</enrollment>
+  <condition>Androgen Deprivation Therapy</condition>
+  <condition>Prostate Cancer</condition>
+  <condition>Hypertension</condition>
+  <condition>Autonomic Dysfunction</condition>
+  <condition>Renal Disease</condition>
+  <arm_group>
+    <arm_group_label>Prostate Cancer</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Men undergoing androgen deprivation therapy via gonadotropin releasing hormone agonist plus androgen receptor inhibitor for the treatment of prostate cancer</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy + ADT</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Healthy men undergoing gonadal suppression via gonadotropin releasing hormone agonist plus androgen receptor inhibitor for 9 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy + Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Healthy men undergoing placebo for 9 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Gonadotropin-Releasing Hormone Agonist</intervention_name>
+    <description>8 weeks of GnRH agonist</description>
+    <arm_group_label>Healthy + ADT</arm_group_label>
+    <arm_group_label>Prostate Cancer</arm_group_label>
+    <other_name>Leuprolide</other_name>
+    <other_name>Goserelin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Androgen receptor inhibitor</intervention_name>
+    <description>2 weeks of AR Inhibitor</description>
+    <arm_group_label>Healthy + ADT</arm_group_label>
+    <arm_group_label>Prostate Cancer</arm_group_label>
+    <other_name>Bicalutamide</other_name>
+    <other_name>Flutamide</other_name>
+    <other_name>Enzalutamide</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo tablet and injection</description>
+    <arm_group_label>Healthy + Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  -age 40+ years;&#xD;
+&#xD;
+          -  resting blood pressure &lt;140/90 mmHg;&#xD;
+&#xD;
+          -  fasted blood glucose &lt;126 mg/dL;&#xD;
+&#xD;
+          -  testosterone ≥400 ng/dL;&#xD;
+&#xD;
+          -  sedentary to recreationally active;&#xD;
+&#xD;
+          -  nonsmokers;&#xD;
+&#xD;
+          -  healthy as determined by medical history, physical exam, blood and urine chemistries&#xD;
+             and resting and exercise ECG during a physician supervised graded exercise treadmill&#xD;
+             test OR recent diagnosis of non-metastatic prostate cancer with plans to undergo&#xD;
+             androgen deprivation therapy;&#xD;
+&#xD;
+          -  PSA &lt;4.00 ng/dL if in the non-cancer group;&#xD;
+&#xD;
+          -  Gleason Score ≤7 if in the prostate cancer group;&#xD;
+&#xD;
+          -  no use of medications that might influence cardiovascular function (e.g.,&#xD;
+             antihypertensives, lipid-lowering medications);&#xD;
+&#xD;
+          -  willing and able to be on GnRHagonist and AR inhibitor;&#xD;
+&#xD;
+          -  not taking antioxidant vitamins, corticosteroids, or anti-inflammatory medications, or&#xD;
+             willing to stop use for four weeks prior to the start of the study;&#xD;
+&#xD;
+          -  not using exogenous sex hormones for at least one year&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  -acute liver disease;&#xD;
+&#xD;
+          -  chronic kidney disease, serum creatinine &gt;1.3 mg/dL, macroalbuminuria &gt;300 mg/g of&#xD;
+             proteinuria&#xD;
+&#xD;
+          -  pre-existing or active cardiac, renal or hepatic disease, epilepsy or other seizure&#xD;
+             disorder;&#xD;
+&#xD;
+          -  diabetes, active or chronic infection, disease that affects the nervous system;&#xD;
+&#xD;
+          -  Gleason Score ≥8;&#xD;
+&#xD;
+          -  thyroid dysfunction, defined as ultrasensitive TSH &lt;0.5 or &gt;5.0 mU/L, volunteers with&#xD;
+             abnormal TSH values will be re-considered for participation after follow-up evaluation&#xD;
+             by the PCP with initiation or adjustment of thyroid hormone replacement;&#xD;
+&#xD;
+          -  tobacco use within the previous 12 months&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Matthew Babcock, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Colorado - Anschutz Medical Campus</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Matthew Babcock, PhD</last_name>
+    <phone>303-724-1401</phone>
+    <email>matthew.babcock@cuanschutz.edu</email>
+  </overall_contact>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>January 10, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>April 21, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 21, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Autonomic Nervous System Diseases</mesh_term>
+    <mesh_term>Primary Dysautonomias</mesh_term>
+    <mesh_term>Hypertension</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Leuprolide</mesh_term>
+    <mesh_term>Goserelin</mesh_term>
+    <mesh_term>Flutamide</mesh_term>
+    <mesh_term>Bicalutamide</mesh_term>
+    <mesh_term>Hormones</mesh_term>
+    <mesh_term>Androgens</mesh_term>
+    <mesh_term>Androgen Receptor Antagonists</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

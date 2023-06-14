@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9532">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05695937</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DICA-HF_PILOT</org_study_id>
+    <nct_id>NCT05695937</nct_id>
+  </id_info>
+  <brief_title>Brazilian Cardioprotective Diet, Phytosterols and Krill Oil in Patients With Familial Hypercholesterolemia</brief_title>
+  <acronym>DICA-HF</acronym>
+  <official_title>Effect of the Adapted Brazilian Cardioprotective Diet Supplemented With Phytosterols and/or Krill Oil in Patients With Familial Hypercholesterolemia: DICA-HF Pilot Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital do Coracao</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Sao Paulo</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Cardiology, Laranjeiras, Brazil</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hospital do Coracao</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main objective of this pilot study is to evaluate the effects of the Brazilian&#xD;
+      Cardioprotective Diet (DICA Br) supplemented or not with phytosterols and/or krill oil in&#xD;
+      patients with a probable or definitive diagnosis of familial hypercholesterolemia (FH)&#xD;
+      identified by the Dutch Lipid Clinic Network (Dutch MEDPED) criteria. In addition, the&#xD;
+      following will be considered secondary objectives: to perform participants´ complete&#xD;
+      sequencing of the exome; to evaluate the effects of the interventions on lipid profile; to&#xD;
+      identify subclasses of low-density lipoprotein (LDL) and high-density lipoprotein (HDL)&#xD;
+      cholesterol; to perform untargeted lipidomic analyses; to evaluate the frequency of mild,&#xD;
+      moderate and severe adverse events according to study groups; and to evaluate both&#xD;
+      implementation components and adherence rates to the protocol, aiming to design a larger&#xD;
+      randomized trial. In this pilot study, 96 individuals will be randomly enrolled into four&#xD;
+      groups: 1) DICA Br adapted to FH (DICA-HF) + phytosterol placebo + krill oil placebo (control&#xD;
+      group); 2) DICA-HF + 2g/day of phytosterol + krill oil placebo; 3) DICA-HF + phytosterol&#xD;
+      placebo + 2g/day of krill oil; and 4) DICA-HF + 2g/day of phytosterol + 2g/day of krill oil.&#xD;
+      Primary outcomes will be LDL-cholesterol for groups phytosterol vs. placebo and&#xD;
+      lipoprotein(a) for groups krill oil vs. placebo after 120 days of follow up.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      DICA-HF pilot study is a superiority, factorial, and in parallel randomized&#xD;
+      placebo-controlled (double-dummy) clinical trial. The randomization will be in blocks of&#xD;
+      varying sizes stratified by research center, and the allocation ratio will be 1:1:1:1.&#xD;
+      Participants will come from at least 10 center sites in different Brazilian geographic&#xD;
+      regions.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2023</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>LDL-c</measure>
+    <time_frame>120 days</time_frame>
+    <description>Low-density lipoprotein cholesterol, in mg/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Lp(a)</measure>
+    <time_frame>120 days</time_frame>
+    <description>Lipoprotein(a), in mg/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adherence</measure>
+    <time_frame>120 days</time_frame>
+    <description>Adherence to treatment, evaluated by: attendance at consultations (at least 3 of the 4 planned study visits); plasma concentrations of phytosterols and erythrocyte levels of EPA/DHA fatty acids (identified by the difference between the last and the first study visits); and counting the consumed products under investigation (consumption of at least 80% of the capsules provided to the participants, regardless of the allocation group).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>TC</measure>
+    <time_frame>120 days</time_frame>
+    <description>Total cholesterol, in mg/dL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>HDL-c</measure>
+    <time_frame>120 days</time_frame>
+    <description>High density lipoprotein cholesterol, in mg/dL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TG</measure>
+    <time_frame>120 days</time_frame>
+    <description>Fasting triglycerides, in mg/dL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>VLDL</measure>
+    <time_frame>120 days</time_frame>
+    <description>Very low-density lipoprotein cholesterol, in mg/dL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>NHDL</measure>
+    <time_frame>120 days</time_frame>
+    <description>Non-HDL cholesterol, in mg/dL, calculated according to the mathematical formula: CT - HDL-c</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CI I</measure>
+    <time_frame>120 days</time_frame>
+    <description>Castelli Index I, in mg/dL, calculated according to the mathematical formula: CT/HDL-c</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CI II</measure>
+    <time_frame>120 days</time_frame>
+    <description>Castelli Index II, in mg/dL, calculated according to the mathematical formula: LDL-c/HDL-c</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TG/HDL-c</measure>
+    <time_frame>120 days</time_frame>
+    <description>TG/HDL-c ratio, in mg/dL, calculated according to the mathematical formula: TG/HDL-c</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AI</measure>
+    <time_frame>120 days</time_frame>
+    <description>Atherogenic index, in mg/dL, calculated according to the mathematical formula: NHDL/HDL-c</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ox-LDL</measure>
+    <time_frame>120 days</time_frame>
+    <description>Oxidized LDL, in µg/mL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AE</measure>
+    <time_frame>120 days</time_frame>
+    <description>Adverse events (mild, moderate and severe), registered as percentage per study group</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Implementation</measure>
+    <time_frame>120 days</time_frame>
+    <description>Implementation components, measured by: on-time recruitment rates; choice and adjustments of remote platform/media for center sites training; measures of participants´ engagement to interventions; and rates of loss to follow-up.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Subfractions</measure>
+    <time_frame>120 days</time_frame>
+    <description>Subclasses of LDL-c and HDL-c, in mg/dL</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Lipidomics</measure>
+    <time_frame>120 days</time_frame>
+    <description>Analyses of untargeted lipidomic (all lipid species will be expressed in mg/dL)</description>
+  </other_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">96</enrollment>
+  <condition>Familial Hypercholesterolemia</condition>
+  <arm_group>
+    <arm_group_label>DICA-HF + placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants allocated into this arm (n= 24) will receive the DICA Br adapted to FH (DICA-HF) plus placebo of both phytosterol and krill oil during 120 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>DICA-HF + phytosterol</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants allocated into this arm (n= 24) will receive the DICA Br adapted to FH (DICA-HF) plus 2g/day of phytosterol and placebo of the krill oil during 120 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>DICA-HF + krill oil</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants allocated into this arm (n= 24) will receive the DICA Br adapted to FH (DICA-HF) plus 2g/day of krill oil and placebo of phytosterol during 120 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>DICA-HF + phytosterol + krill oil</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants allocated into this arm (n= 24) will receive the DICA Br adapted to FH (DICA-HF) plus 2g/day of phytosterol and 2g/day of krill oil during 120 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>phytosterol</intervention_name>
+    <description>2g/day will be provided to the participants, aiming to guarantee a minimum of 800mg/day of free phytosterols.</description>
+    <arm_group_label>DICA-HF + phytosterol</arm_group_label>
+    <arm_group_label>DICA-HF + phytosterol + krill oil</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>krill oil</intervention_name>
+    <description>2g/day will be provided to the participants, aiming to guarantee a minimum of 400mg/day of eicosapentaenoic (EPA) and docosahexaenoic (DHA) fatty acids.</description>
+    <arm_group_label>DICA-HF + krill oil</arm_group_label>
+    <arm_group_label>DICA-HF + phytosterol + krill oil</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo phytosterol</intervention_name>
+    <description>Placebo of phytosterol, in the same quantity of the active phytosterol</description>
+    <arm_group_label>DICA-HF + krill oil</arm_group_label>
+    <arm_group_label>DICA-HF + placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo krill oil</intervention_name>
+    <description>Placebo of krill oil, in the same quantity of the active krill oil</description>
+    <arm_group_label>DICA-HF + phytosterol</arm_group_label>
+    <arm_group_label>DICA-HF + placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult participants (age ≥20 years);&#xD;
+&#xD;
+          -  Definitive (certainty) or probable diagnosis of FH by the Dutch MEDPED criteria;&#xD;
+&#xD;
+          -  Using one of the following treatment regimens for ≥ 6 weeks: simvastatin 40 mg;&#xD;
+             lovastatin 40 mg; pravastatin 80 mg; atorvastatin 20 mg; rosuvastatin 10 mg;&#xD;
+             pitavastatin 4 mg; fluvastatin 80 mg; atorvastatin 40 - 80 mg; rosuvastatin 20 - 40&#xD;
+             mg; atorvastatin 40 - 80 mg + ezetimibe 10mg; rosuvastatin 20 - 40 mg + ezetimibe&#xD;
+             10mg; or simvastatin 40mg + ezetimibe 10mg.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  &quot;Possible&quot; diagnosis of FH according to the Dutch MEDPED criteria;&#xD;
+&#xD;
+          -  Fasting triglycerides ≥ 500mg/dL;&#xD;
+&#xD;
+          -  Diagnosis of hypercholesterolemia due to a secondary cause (hypothyroidism, nephrotic&#xD;
+             syndrome, etc.);&#xD;
+&#xD;
+          -  Food allergies (food, dyes, preservatives);&#xD;
+&#xD;
+          -  Contraindication to the use of phytosterols (for example: diagnosis of&#xD;
+             sitosterolemia);&#xD;
+&#xD;
+          -  HIV positive in treatment/AIDS;&#xD;
+&#xD;
+          -  Chronic inflammatory diseases;&#xD;
+&#xD;
+          -  Liver disease or chronic kidney disease on dialysis;&#xD;
+&#xD;
+          -  Cancer under treatment or life expectancy &lt; 6 months;&#xD;
+&#xD;
+          -  Episode of acute coronary syndrome in the last 60 days;&#xD;
+&#xD;
+          -  Chemical dependency/alcoholism;&#xD;
+&#xD;
+          -  Chronic use of anti-inflammatory, anticonvulsant and immunosuppressive drugs;&#xD;
+&#xD;
+          -  Use of PCSK9 inhibitors (alirocumab and evolocumab);&#xD;
+&#xD;
+          -  Pregnancy or lactation;&#xD;
+&#xD;
+          -  Wheelchair users unable to undergo anthropometric assessment;&#xD;
+&#xD;
+          -  Body mass index ≥40kg/m²;&#xD;
+&#xD;
+          -  Use of dietary supplements that may interfere with the outcomes of interest;&#xD;
+&#xD;
+          -  Participation in other randomized clinical trials;&#xD;
+&#xD;
+          -  Refusal to participate in the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Aline Marcadenti, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital do Coracao</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Adriana B Carvalho, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Instituto Nacional de Cardiologia</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Alexandre B Cavalcanti, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital do Coracao</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Angela C Bersch-Ferreira, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Real e Benemérita Associação Portuguesa de Beneficência</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Elizabeth S Torres, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Sao Paulo</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Erlon O Abreu-Silva, MSc</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital do Coracao</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Geni R Sampaio, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Sao Paulo</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Julia P Krey, RDN</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital do Coracao</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Karina L Negrelli, DVM</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital do Coracao</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Luis Gustavo S Mota, RDN</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital do Coracao</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Marcelo M Rogero, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Sao Paulo</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Maria Cristina Izar, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Universidade Federal de São Paulo</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Nagila T Damasceno, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Sao Paulo</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Patrícia V de Luca, MSc</last_name>
+    <role>Study Chair</role>
+    <affiliation>Associação Brasileira de Hipercolesterolemia Familiar</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Pedro M Barros, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital do Coracao</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Renato N Santos, Stat</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital do Coracao</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Rosana Perim, MSc</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital do Coracao</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Thaís Martins, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital de Clínicas de Porto Alegre</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Aline Marcadenti, PhD</last_name>
+    <phone>+55 1130536611</phone>
+    <phone_ext>8203</phone_ext>
+    <email>amarcaden@hcor.com.br</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Rachel Machado, MSc</last_name>
+    <phone>+55 1130536611</phone>
+    <phone_ext>8220</phone_ext>
+    <email>rhelena@hcor.com.br</email>
+  </overall_contact_backup>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 13, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>January 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hyperlipoproteinemia Type II</mesh_term>
+    <mesh_term>Hypercholesterolemia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

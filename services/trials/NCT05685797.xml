@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9988">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05685797</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-09-016</org_study_id>
+    <nct_id>NCT05685797</nct_id>
+  </id_info>
+  <brief_title>Biomarker Study in Patients With Trigeminal Neuralgia</brief_title>
+  <official_title>Inflammatory Cytokine and Neuropeptide Study in Patients With Trigeminal Neuralgia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Keimyung University Dongsan Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Keimyung University Dongsan Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Investigators performed this study to investigate the expression levels inflammatory cytokine&#xD;
+      and neurotransmitters (calcitonin gene-related peptide (CGRP), substance P (SP), vasoactive&#xD;
+      intestinal peptide (VIP), and β-endorphin) in peripheral blood of participants with primary&#xD;
+      trigeminal neuralgia (TN).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Sudden and electrick shooting sensation of face is an important clinical feature of&#xD;
+      trigeminal neuralgia (TN). The severe and excruciating nature of pain intensity associated&#xD;
+      with TN can impair the physical and psychosocial well-being of the patient, however,&#xD;
+      pathophysiologic mechanism of TN still remains unclear.&#xD;
+&#xD;
+      Recentrly, there have been a few studies suggesting biomarker levels in the blood and CSF&#xD;
+      level, however, further study is required to elucidate the action mechanism.&#xD;
+&#xD;
+      Up to 90% of patients can achieve pain reduction using medical therapy alone. However, 10%&#xD;
+      -15% of TN cases demonstrate a minimal response to medication with various side effects.&#xD;
+      Radiofrequency thermocoagulation (RFT) of the trigeminal ganglion is an alternative treatment&#xD;
+      option for patients who are poor candidates for microvascular decompression or show serious&#xD;
+      side effects to medication. Recent study revealed that RFT of the trigeminal ganglion&#xD;
+      resulted in Barrow Neurological Institute (BNI) pain scale I or II in 71.7% of patients, with&#xD;
+      a median time to recurrence of 36 months.&#xD;
+&#xD;
+      Although patients experience significant pain relief after RFT, it is uncertain whether&#xD;
+      inflammatory cytokine and neurocytokine (CGRP, substance P, VIP) are reduced.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 25, 2023</start_date>
+  <completion_date type="Anticipated">May 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>serum level of inflammatory cytokine changes during 3 time period</measure>
+    <time_frame>Baseline, 1 week after tigeminal nerve block, 2 weeks after radiofrequency thermocoagulation</time_frame>
+    <description>inflammatory cytokine including Tumor necrosis factor-alpha, Interleukin-6 changes during 3 time period Higher score means worse outcome</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>serum level of neurotransmitter changes during 3 time period</measure>
+    <time_frame>Baseline, 1 week after tigeminal nerve block, 2 weeks after radiofrequency thermocoagulation</time_frame>
+    <description>neurotransmitter including Calcitonene gene related peptide, substance P, vasoactive intestitinal polypeptide changes during 3 time period Higher score means worse outcome</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes of numerical rating scale changes during 3 time period</measure>
+    <time_frame>Baseline, 1 week after tigeminal nerve block, 2 weeks after radiofrequency thermocoagulation</time_frame>
+    <description>numerical rating scale changes during 3 time period</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Trigeminal Neuralgia</condition>
+  <arm_group>
+    <arm_group_label>TN patients with intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with TN receiving 2 times of trigeminal nerve block and radiofrequency thermocoagulation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Healthy volunteer without any intervention</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>trigminal nerve block with RFT</intervention_name>
+    <description>trigminal nerve block with RFT</description>
+    <arm_group_label>TN patients with intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  TN patients with NRS more than 4&#xD;
+&#xD;
+          -  TN patients who failed medical treatment&#xD;
+&#xD;
+          -  TN patients showing severe adverse reaction with medication&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients showing allergic reaction to local anesthetics&#xD;
+&#xD;
+          -  Patients with coagulation abnormality&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Ji H Hong</last_name>
+    <phone>01046794343</phone>
+    <email>swon13@daum.net</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sung W Jung</last_name>
+    <phone>01021064343</phone>
+    <email>swon12@daum.net</email>
+  </overall_contact_backup>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 15, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 5, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 17, 2023</study_first_posted>
+  <last_update_submitted>January 29, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 29, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Keimyung University Dongsan Medical Center</investigator_affiliation>
+    <investigator_full_name>Ji Hee Hong</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>trigeminal neuralgia</keyword>
+  <keyword>cytokine</keyword>
+  <keyword>neurotransmitter</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Trigeminal Neuralgia</mesh_term>
+    <mesh_term>Neuralgia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

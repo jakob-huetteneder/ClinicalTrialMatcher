@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9719">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05691712</url>
+  </required_header>
+  <id_info>
+    <org_study_id>18552</org_study_id>
+    <secondary_id>I8F-MC-GPIM</secondary_id>
+    <nct_id>NCT05691712</nct_id>
+  </id_info>
+  <brief_title>A Study of Tirzepatide (LY3298176) in Chinese Participants With Type 2 Diabetes</brief_title>
+  <acronym>SURPASS-CN-INS</acronym>
+  <official_title>A Randomized, Phase 3, Double Blind Trial Comparing the Effect of the Addition of Tirzepatide Versus the Addition of Placebo to Titrated Basal Insulin on Glycemic Control in Chinese Participants With Type 2 Diabetes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Eli Lilly and Company</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main purpose of this study is to compare the effect of the addition of tirzepatide or&#xD;
+      placebo to titrated basal insulin on glycemic control in Chinese participants with type 2&#xD;
+      diabetes.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 5, 2023</start_date>
+  <completion_date type="Anticipated">August 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">August 30, 2024</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean Change from Baseline in HbA1c (Tirzepatide 10 or 15 milligram [mg])</measure>
+    <time_frame>Baseline, Week 40</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mean Change from Baseline in HbA1c (Tirzepatide 5 mg)</measure>
+    <time_frame>Baseline, Week 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean Change from Baseline in Body Weight</measure>
+    <time_frame>Baseline, Week 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with HbA1c &lt;7.0% (53 millimole/mole [mmol/mol]) and ≤6.5% (48 mmol/mol)</measure>
+    <time_frame>Week 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean Change from Baseline in Fasting Serum Glucose</measure>
+    <time_frame>Baseline, Week 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with HbA1c &lt;5.7% (39 mmol/mol) [Tirzepatide 10 mg or 15 mg]</measure>
+    <time_frame>Week 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with HbA1c &lt;5.7% (39 mmol/mol) [Tirzepatide 5 mg]</measure>
+    <time_frame>Week 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean Change from Baseline in Daily Average 7-point Self-monitored Blood Glucose Profiles</measure>
+    <time_frame>Baseline, Week 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Who Achieved Weight Loss of ≥5%</measure>
+    <time_frame>Week 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Who Achieved Weight Loss of ≥10%</measure>
+    <time_frame>Week 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Who Achieved Weight Loss of ≥15%</measure>
+    <time_frame>Week 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage Change from Baseline in Daily Mean Insulin Glargine Dose</measure>
+    <time_frame>Baseline, Week 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with HbA1c &lt;7.0%, Without Weight Gain (&lt;0.1 kilogram [kg]) and Without Hypoglycemia, (Blood glucose &lt;3.0 mmol/L &lt;54 milligram/deciliter [mg/dL])</measure>
+    <time_frame>Week 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with HbA1c ≤6.5%, Without Weight Gain &lt;0.1 kg and Without Hypoglycemia (Blood glucose &lt;3.0 mmol/L [54 mg/dL])</measure>
+    <time_frame>Week 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with HbA1c &lt;7.0%, Without Weight Gain &lt;0.1 kg and Without Hypoglycemia (Blood glucose &lt;3.9 mmol/L [70 mg/dL] or Severe hypoglycemia)</measure>
+    <time_frame>Week 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with HbA1c ≤6.5%, Without Weight Gain &lt;0.1 kg and Without Hypoglycemia (Blood glucose &lt;3.9 mmol/L [70 mg/dL] or Severe Hypoglycemia)</measure>
+    <time_frame>Week 40</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">256</enrollment>
+  <condition>Diabetes Type 2</condition>
+  <condition>Diabetes Mellitus</condition>
+  <condition>Glucose Metabolism Disorders</condition>
+  <condition>Metabolic Disease</condition>
+  <condition>Endocrine System Diseases</condition>
+  <arm_group>
+    <arm_group_label>5 mg Tirzepatide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>5 milligrams (mg) tirzepatide administered subcutaneously (SC) once a week.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>10 mg Tirzepatide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 mg tirzepatide administered SC once a week.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>15 mg Tirzepatide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>15 mg tirzepatide administered SC once a week.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive a tirzepatide matched placebo.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tirzepatide</intervention_name>
+    <description>Administered SC as add-on to the pre-trial background medication.</description>
+    <arm_group_label>10 mg Tirzepatide</arm_group_label>
+    <arm_group_label>15 mg Tirzepatide</arm_group_label>
+    <arm_group_label>5 mg Tirzepatide</arm_group_label>
+    <other_name>LY3298176</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Administered SC as add-on to the pre-trial background medication.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Have type 2 diabetes mellitus (T2DM)&#xD;
+&#xD;
+          -  Have HbA1c ≥7.0% (53 mmol/mol) to ≤11% (97 mmol/mol)&#xD;
+&#xD;
+          -  Have been treated with insulin glargine (U100) once daily alone, or in combination&#xD;
+             with metformin with or without SGLT-2i ≥90 days&#xD;
+&#xD;
+          -  Have a body mass index (BMI) ≥23 kilograms per meter squared (kg/m²)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Have type 1 diabetes mellitus (T1DM)&#xD;
+&#xD;
+          -  Have a history of chronic or acute pancreatitis&#xD;
+&#xD;
+          -  Have proliferative diabetic retinopathy or diabetic macular edema or nonproliferative&#xD;
+             diabetic retinopathy that requires acute treatment&#xD;
+&#xD;
+          -  Have a personal or family history of medullary thyroid carcinoma or personal history&#xD;
+             of multiple endocrine neoplasia syndrome type 2&#xD;
+&#xD;
+          -  Have a history of severe hypoglycemia and/or hypoglycemia unawareness within the 6&#xD;
+             months&#xD;
+&#xD;
+          -  Have a history of diabetic ketoacidosis or hyperosmolar state/coma within the 6 months&#xD;
+&#xD;
+          -  Have acute myocardial infarction, or cerebrovascular accident (stroke) or&#xD;
+             hospitalization due to congestive heart failure (CHF) in the past 2 months&#xD;
+&#xD;
+          -  Have a serum calcitonin level of ≥35 ng/L, as determined by central laboratory&#xD;
+&#xD;
+          -  Have acute or chronic hepatitis, signs, and symptoms of any other liver disease other&#xD;
+             than nonalcoholic fatty liver disease (NAFLD), or alanine aminotransferase (ALT) level&#xD;
+             &gt;3.0 times the upper limit of normal (ULN), as determined by the central laboratory at&#xD;
+             study entry; participants with NAFLD are eligible for participation in this trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)</last_name>
+    <role>Study Director</role>
+    <affiliation>Eli Lilly and Company</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>There may be multiple sites in this clinical trial. 1-877-CTLILLY (1-877-285-4559) or</last_name>
+    <phone>1-317-615-4559</phone>
+    <email>ClinicalTrials.gov@lilly.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>The Second People's Hospital of Hefei</name>
+      <address>
+        <city>Hefei</city>
+        <state>Anhui</state>
+        <zip>230011</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>13500507079</phone>
+    </contact>
+    <investigator>
+      <last_name>Wu Dai</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Beijing Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100005</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>13901317569</phone>
+    </contact>
+    <investigator>
+      <last_name>Lixin Guo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Beijing Chaoyang Hospital, Capital Medical University</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100020</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>01085231000</phone>
+    </contact>
+    <investigator>
+      <last_name>Guang Wang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Beijing Pinggu District Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>101200</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>13911080328</phone>
+    </contact>
+    <investigator>
+      <last_name>yufeng li</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Chongqing General Hospital</name>
+      <address>
+        <city>Chongqing</city>
+        <state>Chongqing</state>
+        <zip>400014</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>8613983685857</phone>
+    </contact>
+    <investigator>
+      <last_name>Hongman Wang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Huizhou Municipal Central Hospital</name>
+      <address>
+        <city>Huizhou</city>
+        <state>Guangdong</state>
+        <zip>516001</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Shu Li</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Harbin Medical University</name>
+      <address>
+        <city>Harbin</city>
+        <state>Heilongjiang</state>
+        <zip>150001</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Hongyu Kuang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Fourth Hospital of Harbin Medical University</name>
+      <address>
+        <city>Harbin</city>
+        <state>Heilongjiang</state>
+        <zip>150001</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>18903602198</phone>
+    </contact>
+    <investigator>
+      <last_name>ZhiFeng Cheng</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Henan University of Science &amp;Technology</name>
+      <address>
+        <city>Luoyang Shi</city>
+        <state>Henan</state>
+        <zip>471003</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>hongwei Jiang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Second Affiliated Hospital of Zhengzhou University</name>
+      <address>
+        <city>Zhengzhou</city>
+        <state>Henan</state>
+        <zip>450014</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>15838123695</phone>
+    </contact>
+    <investigator>
+      <last_name>Qingju Li</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The First People's Hospital of Yueyang</name>
+      <address>
+        <city>Yueyang</city>
+        <state>Hunan</state>
+        <zip>414000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>13007301236</phone>
+    </contact>
+    <investigator>
+      <last_name>Xiaoyue Wang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Baotou Central Hospital</name>
+      <address>
+        <city>Bao Tou</city>
+        <state>Inner Mongolia</state>
+        <zip>014040</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Yan Zhu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Changzhou No.2 People's Hospital</name>
+      <address>
+        <city>Changzhou</city>
+        <state>Jiangsu</state>
+        <zip>213000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>8613616125500</phone>
+    </contact>
+    <investigator>
+      <last_name>Xinhua Ye</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nanjing First Hospital</name>
+      <address>
+        <city>Nanjing</city>
+        <state>Jiangsu</state>
+        <zip>210006</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Jianhua Ma</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Zhongda Hospital Southeast University</name>
+      <address>
+        <city>Nanjing</city>
+        <state>Jiangsu</state>
+        <zip>210009</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>ling li</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Second Affiliated Hospital of Nanjing Medical University</name>
+      <address>
+        <city>Nanjing</city>
+        <state>Jiangsu</state>
+        <zip>210011</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Yibing Lu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Affiliated Jiangyin Hospital of Southeast University Medical College</name>
+      <address>
+        <city>Wuxi Shi</city>
+        <state>Jiangsu</state>
+        <zip>214400</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Wenlong Huang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wuxi People's Hospital</name>
+      <address>
+        <city>Wuxi</city>
+        <state>Jiangsu</state>
+        <zip>214023</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>051082700775</phone>
+    </contact>
+    <investigator>
+      <last_name>Lan Xu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Affiliated Hospital of Jiangsu University</name>
+      <address>
+        <city>Zhenjiang</city>
+        <state>Jiangsu</state>
+        <zip>212000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>13505289352</phone>
+    </contact>
+    <investigator>
+      <last_name>Guoyue Yuan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Third Hospital of Nanchang</name>
+      <address>
+        <city>Nanchang</city>
+        <state>Jiangxi</state>
+        <zip>330009</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>13479111177</phone>
+    </contact>
+    <investigator>
+      <last_name>Peng Duan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Pingxiang People's Hospital</name>
+      <address>
+        <city>Pingxiang</city>
+        <state>Jiangxi</state>
+        <zip>337055</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>13807995599</phone>
+    </contact>
+    <investigator>
+      <last_name>Yawei Zhang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dalian University - The Affiliated Zhongshan Hospital</name>
+      <address>
+        <city>Dalian</city>
+        <state>Liaoning</state>
+        <zip>116001</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>13940839879</phone>
+    </contact>
+    <investigator>
+      <last_name>Wei Duan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Xi'an Medical University</name>
+      <address>
+        <city>Xi'an</city>
+        <state>Shaanxi</state>
+        <zip>710077</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Ya Li</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Jinan Central Hospital</name>
+      <address>
+        <city>Jinan</city>
+        <state>Shandong</state>
+        <zip>250013</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>15318816218</phone>
+    </contact>
+    <investigator>
+      <last_name>Xiaolin Dong</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Jiading District Central Hospital</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>201800</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Lixia Suo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>West China Hospital of Sichuan University</name>
+      <address>
+        <city>Cheng Du</city>
+        <state>Sichuan</state>
+        <zip>610041</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>18980601658</phone>
+    </contact>
+    <investigator>
+      <last_name>zhenmei an</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Chengdu Fifth People's Hospital</name>
+      <address>
+        <city>Chengdu</city>
+        <state>Sichuan</state>
+        <zip>611130</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>8613730683979</phone>
+    </contact>
+    <investigator>
+      <last_name>Hongyi Cao</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tianjin Medical University General Hospital</name>
+      <address>
+        <city>Tianjin</city>
+        <state>Tianjin</state>
+        <zip>300052</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>18322017516</phone>
+    </contact>
+    <investigator>
+      <last_name>Ming LIU</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tianjin Medical University Zhu Xianyi Memorial Hospital</name>
+      <address>
+        <city>Tianjin</city>
+        <state>Tianjin</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Liming Chen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The First People's Hospital of Yunnan Province</name>
+      <address>
+        <city>Kunming</city>
+        <state>Yunnan</state>
+        <zip>650034</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>13888612322</phone>
+    </contact>
+    <investigator>
+      <last_name>Yan Wang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Huzhou Central Hospital</name>
+      <address>
+        <city>Huzhou</city>
+        <state>Zhejiang</state>
+        <zip>313000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Jianping Yao</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 11, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>May 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Metabolic Diseases</mesh_term>
+    <mesh_term>Glucose Metabolism Disorders</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+    <mesh_term>Endocrine System Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tirzepatide</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Anonymized individual patient level data will be provided in a secure access environment upon approval of a research proposal and a signed data sharing agreement.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>ata are available 6 months after the primary publication and approval of the indication studied in the US and European Union (EU), whichever is later. Data will be indefinitely available for requesting.</ipd_time_frame>
+    <ipd_access_criteria>A research proposal must be approved by an independent review panel and researchers must sign a data sharing agreement.</ipd_access_criteria>
+    <ipd_url>https://vivli.org/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

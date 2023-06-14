@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9641">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05693740</url>
+  </required_header>
+  <id_info>
+    <org_study_id>accelerated cross-linking</org_study_id>
+    <nct_id>NCT05693740</nct_id>
+  </id_info>
+  <brief_title>Accelerated Corneal Collagen Crosslinking Protocols</brief_title>
+  <official_title>Pulsed Light Versus Continuous Light Accelerated Epithelium-Off Cross-linking for Treatment of Progressive Keratoconus; a Prospective Comparative Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assiut University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assiut University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate and compare the effect of pulsed light (pl-ACXL) accelerated and continuous light&#xD;
+      accelerated (cl-ACXL) epithelium-off cross-linking in halting the progression of keratoconus.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Keratoconus (KC), which was first described in detail in 1854, is the most common corneal&#xD;
+      primary ectasia and is characterized by progressive bilateral and asymmetric corneal thinning&#xD;
+      and bulging outward into a cone-like shape that can severely impact patients' vision.&#xD;
+&#xD;
+      Keratoconus usually develops in the second and third decades of life and progresses until the&#xD;
+      fourth decade. It was thought to be a rare corneal disease.&#xD;
+&#xD;
+      Despite a great deal of research, no one theory explains it all and it may be caused by a&#xD;
+      combination of things. However, Meek proposed that the loss of structural integrity in the KC&#xD;
+      cornea was caused by the presence of abnormal keratocytes and matrix proteins and upregulated&#xD;
+      proteolysis triggered an unravelling of lamellae along their length and from their anchors at&#xD;
+      the limbus, with an opening of the lamellar bifurcations. This theory is supported by&#xD;
+      observations following riboflavin/UVA collagen cross-linking, where the proposed&#xD;
+      cross-linkage of the tissue increases both the resistance of the stroma to enzymatic&#xD;
+      digestion and the cohesiveness between collagen fibrils and the non-collagenous matrix.&#xD;
+&#xD;
+      Conventional CXL (CXL) with a continuous irradiation of 3 mW/cm2 for 30 min is considered&#xD;
+      safe and effective in the prevention of keratoconus progression according to different&#xD;
+      clinical trials. nevertheless, the procedure is time-consuming, lasting around 1 h, which may&#xD;
+      lead to patient discomfort and reduced physician working efficiency.&#xD;
+&#xD;
+      With evolving technical advances, commercially available UV light sources have been&#xD;
+      developed, making CXL more efficient with shorter UV exposure times, higher UV intensities,&#xD;
+      and pulsed light compared with continuous light settings. Various accelerated CXL protocols&#xD;
+      have been described and its effect on biomechanical properties on corneas stated as equal to&#xD;
+      the standard protocol. Ex-vivo studies also suggest a distinction between various accelerated&#xD;
+      CXL protocols by providing evidence for a drop in efficiency with increased UV illumination&#xD;
+      intensity while maintaining equal surface energy. In this study we evaluate the two types of&#xD;
+      &quot;accelerated crosslinking&quot;.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 1, 2022</start_date>
+  <completion_date type="Anticipated">March 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Single blinded Prospective, Interventional, randomized, comparative study</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>1. Visual outcome measures</measure>
+    <time_frame>one year following surgery</time_frame>
+    <description>Uncorrected and corrected distance visual acuity (UDVA &amp; CDVA) using Snellen acuity chart</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>2. Refractive outcome measures</measure>
+    <time_frame>one year following surgery</time_frame>
+    <description>Manifest refraction spherical equivalent (MRSE) using Topcon autorefractometer</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>3. Topographic outcome measures</measure>
+    <time_frame>one year following surgery</time_frame>
+    <description>Scheimflug imaging device (Pentacam) for Diagnosis and follow up of Keratoconus after ACXL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Demarcation line depth</measure>
+    <time_frame>3 months following surgery</time_frame>
+    <description>Demarcation line depth is an outcome used to assess the success of CXL procedure using anterior segment ocular coherence tomography (AS-OCT)</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Keratoconus</condition>
+  <arm_group>
+    <arm_group_label>group 1</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients in this group will undergo pulsed light accelerated crosslinking (pl-ACXL)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>group 2</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients in this group will undergo continuous-light accelerated crosslinking (cl-ACXL)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Accelerated crosslinking (ACXL)</intervention_name>
+    <description>Epithelium-off accelerated corneal crosslinking is a procedure in which the cornea is soaked with riboflavin followed by exposure to ultraviolet irradiation in either pulsed-light or continuous-light modes to strengthen the corneal stroma and halt keratoconus progression.</description>
+    <arm_group_label>group 1</arm_group_label>
+    <arm_group_label>group 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients with mild to moderate progressive keratoconus with maximum keratometry value&#xD;
+             Kmax &lt; 56.0 D, Corneal thinnest pachymetry ≥ 400 µm and Corrected distance visual&#xD;
+             acuity (CDVA) equal to or better than 20/200 Snellen's acuity.&#xD;
+&#xD;
+          2. Established keratoconus progression:&#xD;
+&#xD;
+             Increase of 1.0D or more in the manifest cylinder Increase of 0.5D or more in the&#xD;
+             manifest refraction spherical equivalent Increase of 1.0D or more in Kmax Increase of&#xD;
+             0.75D or more in Kmean decrease of 2% or more in central thickness&#xD;
+&#xD;
+          3. Age: 18-40 y&#xD;
+&#xD;
+          4. Clear cornea&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Corneal scarring&#xD;
+&#xD;
+          2. Previous corneal surgery&#xD;
+&#xD;
+          3. Severe keratoconus wit non measurable refraction or Kmax ≥ 56 D or Corneal thinnest&#xD;
+             pachymetry &lt; 400 µm&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mahmoud Abdel-Radi, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assiut University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>rana mostafa, bachelor</last_name>
+    <phone>01095759179</phone>
+    <email>ratycat222@yahoo.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Tiba eye center</name>
+      <address>
+        <city>Assiut</city>
+        <zip>71516</zip>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mahmoud Abdel-Radi</last_name>
+      <phone>01007252060</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <reference>
+    <citation>Zhu Y, Reinach PS, Zhu H, Li L, Yang F, Qu J, Chen W. Continuous-light versus pulsed-light accelerated corneal crosslinking with ultraviolet-A and riboflavin. J Cataract Refract Surg. 2018 Mar;44(3):382-389. doi: 10.1016/j.jcrs.2017.12.028.</citation>
+    <PMID>29703291</PMID>
+  </reference>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 12, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>February 16, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 16, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 21, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Assiut University</investigator_affiliation>
+    <investigator_full_name>Mahmoud Abdel-Radi</investigator_full_name>
+    <investigator_title>Assistant professor Doctor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Keratoconus</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9651">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05693545</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-0892</org_study_id>
+    <nct_id>NCT05693545</nct_id>
+  </id_info>
+  <brief_title>GOALIE: Intramuscular vs. Enteral Penicillin Prophylaxis to Prevent Progression of Latent RHD Trial</brief_title>
+  <official_title>Intramuscular vs. Enteral Penicillin Prophylaxis to Prevent Progression of Latent Rheumatic Heart Disease: A Non-inferiority Randomized Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Children's Hospital Medical Center, Cincinnati</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Uganda Heart Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Children's Hospital Medical Center, Cincinnati</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to determine if twice daily oral penicillin prophylaxis is&#xD;
+      non-inferior to monthly IM penicillin prophylaxis in preventing latent Rheumatic Heart&#xD;
+      Disease Progression in children between the ages of 5-17 years. The main objective is to&#xD;
+      compare the proportion of children aged 5-17 years with latent RHD receiving oral penicillin&#xD;
+      prophylaxis who progress to worse valvular disease at 2-years compared to children who&#xD;
+      receive IM penicillin prophylaxis.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      GOALIS is a randomized controlled trial developed to provide high quality contemporary&#xD;
+      evidence on the efficacy of oral penicillin as RHD prophylaxis.&#xD;
+&#xD;
+      Aim 1: To compare the proportion of children aged 5-17 years with latent RHD receiving oral&#xD;
+      penicillin prophylaxis who progress to worse valvular disease at 2-years compared to children&#xD;
+      who receive IM penicillin prophylaxis.&#xD;
+&#xD;
+      Aim 2: To evaluate the economic equivalence and cost-effectiveness of oral penicillin&#xD;
+      compared to IM penicillin, after echocardiographic screening for latent RHD detection.&#xD;
+&#xD;
+      Aim 3: Compare patient-reported outcomes (treatment acceptance, treatment satisfaction, and&#xD;
+      health-related quality of life) between children receiving oral and IM penicillin&#xD;
+      prophylaxis.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2024</start_date>
+  <completion_date type="Anticipated">September 30, 2027</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2027</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression</measure>
+    <time_frame>2 year endpoint</time_frame>
+    <description>Progression of echocardiographic features of latent RHD to borderline to definite, or definite to mild or definite to moderate/severe</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Demonstrate non-inferior costs and cost-effectiveness of oral penicillin compared to IM penicillin</measure>
+    <time_frame>baseline, 6, 12, 18, 24 months post randomization</time_frame>
+    <description>The aim is to understand the costs and effectiveness of the intervention. Costs will include intervention and disease specific costs, capturing both health system and family out of pocket costs. Participants will complete a questionnaire asking about out-of-pocket cost (medications, supplies, consultation fees) and lost productivity (including missed school and workdays) due to the intervention. Costs will be measured in the local currency (Uganda Shillings) and presented in United States dollars (USD)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Obtain cost data associated with the receipt of oral or IM penicillin in the community from a healthcare provider perspective.</measure>
+    <time_frame>2 year endpoint</time_frame>
+    <description>In order to understand health center and community costs, 10 randomly selected health care facilities (including level II, III, and IV facilities) will be surveyed to obtain direct costs of medications, supplies as well as any administration and professional fees associated with outpatient and inpatient visits.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment Acceptance</measure>
+    <time_frame>baseline, 6, 12, 18, 24 months post randomization</time_frame>
+    <description>Treatment acceptance will be assessed with the widely-used Chronic Treatment Acceptance (ACCEPT) questionnaire, a generic medication acceptance instrument validated for chronic conditions. This 25-item survey consists of six areas of focus: medication convenience (3 items), length of treatment (2 items), medication constraints (9 items), medication side effects (5 items), medication effectiveness (3 items), medication advantages (3 items). Responses are rated on a 5-point Likert scale and scores of 1 through 4 indicating increasing levels of acceptance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment Satisfaction</measure>
+    <time_frame>baseline, 6, 12, 18, 24 months post randomization</time_frame>
+    <description>Treatment Satisfaction will be assessed with the 14-item Abbreviated Treatment Satisfaction Questionnaire (v 1.4). This widely used survey contains 4 areas of focus including satisfaction of treatment effectiveness (3 items), satisfaction with treatment side effects (5 items), satisfaction with treatment convenience (3 items), and a global treatment satisfaction (3 items). Scores are then transformed to a score of 0-100 to create the overall scale score and the subcategory scores, with higher scores representing higher treatment satisfaction on that domain.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health-Related Quality of Life</measure>
+    <time_frame>baseline, 6, 12, 18, 24 months post randomization</time_frame>
+    <description>Health Related Quality of Life will be measured using the Pediatric Quality of Life Inventory Version 4.0 Generic Core (PedsQL 4.0) questionnaire. The PedsQLTM4.0 is a 23-item survey for children aged 5-18 which assesses HRQOL. It has four areas of focus: Physical functioning (8 items), emotional functioning (5 items), social functioning (5 items), school functioning (5 items). Each item has five possible responses measuring the extent to which the item was a problem during the past month. The possible responses are measured using a 5-point Likert scale from 0=never a problem to 4 = almost always a problem. These reverse scaled scores are then transformed to a score of 0-100 to create the overall scaled score and the subcategory scores, with higher scores representing better quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient-reported outcomes</measure>
+    <time_frame>baseline, 6, 12, 18, 24 months post randomization</time_frame>
+    <description>Interviews will be used to collect qualitative data around participants perceptions of the impact of RHD and its treatment on their activities of daily living and quality of life including experiences with IM or oral penicillin prophylaxis.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1004</enrollment>
+  <condition>Rheumatic Heart Disease</condition>
+  <arm_group>
+    <arm_group_label>Oral Pencillin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Oral phenoxymethyl penicillin (Pen V) prophylaxis 250mg twice daily.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IM Penicillin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Intramuscular benzathine benzylpenicillin G (BPG) prophylaxis (600,000 IU for children &lt;30kg, 1.2 million IU for children ≥30kg), every 28 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>phenoxymethyl penicillin</intervention_name>
+    <description>Prophylaxis</description>
+    <arm_group_label>Oral Pencillin</arm_group_label>
+    <other_name>Pen V</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>intramuscular benzathine penicillin G (BPG) prophylaxis</intervention_name>
+    <description>Prophylaxis</description>
+    <arm_group_label>IM Penicillin</arm_group_label>
+    <other_name>benzathine penicillin G, BPG, penicillin prophylaxis</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Has a new diagnosis of latent RHD detected through primary or secondary school&#xD;
+             echocardiographic screening.&#xD;
+&#xD;
+          -  Has agreed to participate in the study via the study's informed consent/assent&#xD;
+             process.&#xD;
+&#xD;
+        Operational Definition of Latent RHD Borderline RHD or Mild Definite RHD (to include no&#xD;
+        more than mild regurgitation at the mitral or aortic valve, normal mean mitral and aortic&#xD;
+        valve gradients, normal bi-ventricular function) according to the 2012 WHF consensus&#xD;
+        criteria.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Known history of ARF or RHD&#xD;
+&#xD;
+          -  Newly diagnosed RHD by echo screening considered to be &quot;missed clinical RHD&quot; as&#xD;
+             compared to true latent RHD including: &gt; mild pathological valvular regurgitation at&#xD;
+             the mitral valve or aortic valve, mitral stenosis (mean MV gradient ≥ 4mmHg) (definite&#xD;
+             B61), aortic stenosis (mean AV gradient ≥ 20mmHg)&#xD;
+&#xD;
+          -  Structural or functional cardiac defects, other than those consistent with RHD, that&#xD;
+             were known prior to or detected through echo screening (except patent foramen ovale,&#xD;
+             small atrial septal defect, small ventricular septal defect, small patent ductus&#xD;
+             arteriosus)&#xD;
+&#xD;
+          -  Self-report of prior allergic reaction to penicillin&#xD;
+&#xD;
+          -  Any known conditions predisposing to thrombocytopenia or hypercoagulability, or other&#xD;
+             contraindications to intramuscular injection&#xD;
+&#xD;
+          -  Any known co-morbid conditions (ex. HIV, renal deficiencies, severe malnutrition) that&#xD;
+             have resulted in prescription of regular antibiotic prophylaxis)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>5 Years</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andrea Z Beaton</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Cincinnati Chidren's hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ndate Fall, MS RN</last_name>
+    <phone>15135171327</phone>
+    <email>ndate.fall@cchmc.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Mary Banks</last_name>
+    <email>mary.Banks@cchmc.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Uganda Heart Institute</name>
+      <address>
+        <city>Kampala</city>
+        <country>Uganda</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Emmy H Okello</last_name>
+      <phone>+256775522284</phone>
+      <email>emmyoks@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Uganda</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 4, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>May 5, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 5, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 8, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rheumatic Heart Disease</mesh_term>
+    <mesh_term>Rheumatic Diseases</mesh_term>
+    <mesh_term>Heart Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Penicillins</mesh_term>
+    <mesh_term>Penicillin G</mesh_term>
+    <mesh_term>Penicillin G Benzathine</mesh_term>
+    <mesh_term>Penicillin G Procaine</mesh_term>
+    <mesh_term>Penicillin V</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

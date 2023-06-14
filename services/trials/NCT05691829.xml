@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9715">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05691829</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-00673</org_study_id>
+    <nct_id>NCT05691829</nct_id>
+  </id_info>
+  <brief_title>Immunotherapy With Non-Ablative Radiation in Previously Untreated Patients With Stage IV NSCLC</brief_title>
+  <acronym>IRRADIATE-Lung</acronym>
+  <official_title>A Phase II Trial of Immunotherapy With Non-Ablative Radiation in Previously Untreated Patients With Stage IV NSCLC</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NYU Langone Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>NYU Langone Health</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to test if low dose radiation, which is routinely used in&#xD;
+      treating patients with lung cancer for symptom control, can improve the results from the&#xD;
+      standard treatment with pembrolizumab and chemotherapy. In this study, only individuals who&#xD;
+      have NSCLC that is advanced (Stage IV), or has come back (recurred), will be able to&#xD;
+      participate.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a phase II open-label trial of pembrolizumab sequentially following upfront&#xD;
+      non-ablative focal therapy to up to five distinct metastatic subsites in de novo stage IV&#xD;
+      Non-Small Cell Lung Cancer (NSCLC). The primary goal of this trial is to evaluate the&#xD;
+      efficacy defined by time to progression or death with upfront non-ablative focal radiation&#xD;
+      (RT) to index lesions as a way of enhancing the anti-tumor immune response to pembrolizumab.&#xD;
+      Adult patients with metastatic NSCLC, with at least 2 measurable lesions and those Patients&#xD;
+      with metastatic NSCLC who are previously untreated are eligible for the study if they meet&#xD;
+      all inclusion criteria, and do not satisfy any exclusion criteria. Participants will receive&#xD;
+      standard of care immunotherapy of Pembrolizumab in addition to non-ablative radiation. The&#xD;
+      intervention is the low dose fractionation, 4Gy x 5, in the upfront treatment of de novo&#xD;
+      stage IV NSCLC in up to five distinct subsites of metastatic NSCLC.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 9, 2023</start_date>
+  <completion_date type="Anticipated">January 2026</completion_date>
+  <primary_completion_date type="Anticipated">January 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percent of Participants with a Best Overall Response of Complete Response (CR) or Partial Response (PR) by End of Treatment Cycle 4</measure>
+    <time_frame>Up to Week 12 (End of Cycle 4 - each cycle is 21 days)</time_frame>
+    <description>Defined as the best response recorded from the start of the study treatment until the end of treatment Cycle 4, either Complete Response or Partial Response. A CR is defined as the disappearance of all target lesions (TLs) and reduction in the short axis measurement of all pathologic lymph nodes to ≤10 mm. A PR is defined as at least a 30% decrease in the sum of the longest diameter (SLD) of TLs, taking as reference the baseline SLD.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival (PFS) at Final Follow-Up</measure>
+    <time_frame>Up to Week 70 (1 Year following Completion of Treatment Cycle 6 - each cycle is 21 days)</time_frame>
+    <description>PFS is defined as the time from initiation of study drug post-radiation, until the first documented, confirmed progression of disease or death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS) at Final Follow-Up</measure>
+    <time_frame>Up to Week 70 (1 Year following Completion of Treatment Cycle 6 - each cycle is 21 days)</time_frame>
+    <description>OS is defined as the time to death from the start of drug therapy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Durable Overall Response Rate at Week 52</measure>
+    <time_frame>Week 52</time_frame>
+    <description>Defined as the percentage of participants with an objective response (Complete Response or Partial Response) lasting continuously for 6 months and starting any time within 12 months of initiating therapy. A CR is defined as the disappearance of all target lesions and reduction in the short axis measurement of all pathologic lymph nodes to ≤10 mm. A PR is defined as at least a 30% decrease in the sum of the longest diameter (SLD) of TLs, taking as reference the baseline SLD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Local Control</measure>
+    <time_frame>Up to Week 70 (1 Year following Completion of Treatment Cycle 6 - each cycle is 21 days)</time_frame>
+    <description>The target lesion(s) selected for radiation will be followed for local control using RECIST criteria guidelines (version 1.1). Local control will be defined as a Complete Response, Partial Response, or Stable Disease (SD) within the planning target volume. The duration of local control will be measured from the completion of radiotherapy.&#xD;
+A CR is defined as the disappearance of all target lesions and reduction in the short axis measurement of all pathologic lymph nodes to ≤10 mm. A PR is defined as at least a 30% decrease in the sum of the longest diameter (SLD) of TLs, taking as reference the baseline SLD. SD is defined as neither PR nor Progressive Disease (PD), which is defined as a ≥20% increase of at least 5 mm in the sum of the longest diameter of the target lesions compared with the smallest sum of the longest diameter recorded, or the appearance of new lesions.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>NSCLC Stage IV</condition>
+  <arm_group>
+    <arm_group_label>Untreated Patients With Stage IV NSCLC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive radiation in concert with starting chemotherapy with pembrolizumab for up to 6 cycles (18 weeks), followed by continued treatment with pembrolizumab (standard of care). Patients will be followed for 1 year following the completion of the core study period of 6 cycles.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pembrolizumab</intervention_name>
+    <description>Pembrolizumab 200mg solution administered intravenously every 3 weeks for 6 cycles followed by maintenance therapy until progression of disease or unacceptable toxicity (standard of care). Administered alongside chemotherapy.</description>
+    <arm_group_label>Untreated Patients With Stage IV NSCLC</arm_group_label>
+    <other_name>MK-3475</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Radiation</intervention_name>
+    <description>One-time, up-front radiation delivered at up to five metastatic subsites at a 4 Gy x 5 radiation dose fractionation schedule. Radiation will be delivered within five days before or after initiation of first cycle of pembrolizumab treatment. Radiation modality and technique will be determined at the discretion of the treating radiation oncologist.</description>
+    <arm_group_label>Untreated Patients With Stage IV NSCLC</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Chemotherapy</intervention_name>
+    <description>Administered alongside pembrolizumab every 3 weeks for 6 cycles per institutional standard of care. For non-squamous, the standard chemotherapy option of choice is carboplatin and pemetrexed. For squamous cell carcinoma, the chemotherapy used would be carboplatin and paclitaxel or nab-paclitaxel</description>
+    <arm_group_label>Untreated Patients With Stage IV NSCLC</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Be willing and able to provide written informed consent/assent for the trial.&#xD;
+&#xD;
+          2. Histologically documented, metastatic NSCLC with no previous systemic therapy&#xD;
+&#xD;
+          3. At least 2 distinct measurable metastatic sites, which are 1 cm or larger; patients&#xD;
+             can have radiation to multiple measurable disease sites as clinically indicated,&#xD;
+             however, there must be at least 1 measurable non-radiated target lesion for response&#xD;
+             assessment.&#xD;
+&#xD;
+          4. Agreeable to provide archival tissue for correlative studies; if no archival tissue&#xD;
+             available may obtain an exemption by the study team.&#xD;
+&#xD;
+          5. Be at least 18 years of age on day of signing informed consent.&#xD;
+&#xD;
+          6. Have measurable disease based on RECIST 1.1.&#xD;
+&#xD;
+          7. Have a performance status of ≤1 ECOG Performance Scale.&#xD;
+&#xD;
+          8. Demonstrate adequate organ function as defined in Table 2, all screening labs should&#xD;
+             be performed within 10 days of treatment initiation&#xD;
+&#xD;
+          9. Have one measurable lesion of at least 1 cm outside the planned radiation field&#xD;
+             (defined as not receiving direct beam from any of the treatment portals).&#xD;
+&#xD;
+         10. Female subject of childbearing potential should have a negative urine or serum&#xD;
+             pregnancy within 72 hours prior to receiving the first dose of study medication. If&#xD;
+             the urine test is positive or cannot be confirmed as negative, a serum pregnancy test&#xD;
+             will be required.&#xD;
+&#xD;
+         11. Female subjects of childbearing potential must be willing to use an adequate method of&#xD;
+             contraception as outlined in Section - Contraception, for the course of the study&#xD;
+             through 120 days after the last dose of study medication. Note: Abstinence is&#xD;
+             acceptable if this is the usual lifestyle and preferred contraception for the subject.&#xD;
+&#xD;
+         12. Male subjects of childbearing potential must agree to use an adequate method of&#xD;
+             contraception as outlined in Section- Contraception, starting with the first dose of&#xD;
+             study therapy through 120 days after the last dose of study therapy. Note: Abstinence&#xD;
+             is acceptable if this is the usual lifestyle and preferred contraception for the&#xD;
+             subject.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Is currently participating and receiving study therapy or has participated in a study&#xD;
+             of an investigational agent and received study therapy or used an investigational&#xD;
+             device within 4 weeks of the first dose of treatment.&#xD;
+&#xD;
+          2. Has a diagnosis of immunodeficiency or is receiving systemic steroid therapy or any&#xD;
+             other form of immunosuppressive therapy within 7 days prior to the first dose of trial&#xD;
+             treatment.&#xD;
+&#xD;
+          3. Has a known history of active TB (Bacillus Tuberculosis)&#xD;
+&#xD;
+          4. Hypersensitivity to pembrolizumab or any of its excipients.&#xD;
+&#xD;
+          5. Has had prior chemotherapy, immunotherapy or targeted small molecule therapy within 6&#xD;
+             months prior to study Day 1.&#xD;
+&#xD;
+          6. Patient who have previously received radiation overlapping, as determined by the&#xD;
+             treating radiation oncologist, with the current planned radiation treatment fields are&#xD;
+             ineligible.&#xD;
+&#xD;
+          7. Patient's treated with whole brain radiation therapy are ineligible.&#xD;
+&#xD;
+          8. Has a known additional malignancy that is progressing or requires active treatment.&#xD;
+             Exceptions include basal cell carcinoma of the skin or squamous cell carcinoma of the&#xD;
+             skin that has undergone potentially curative therapy or in situ cervical cancer.&#xD;
+&#xD;
+          9. Has known active central nervous system (CNS) metastases and/or carcinomatous&#xD;
+             meningitis. Subjects with previously treated brain metastases (with SRS and/or&#xD;
+             neurosurgery) may participate provided they are clinically stable and, have no&#xD;
+             evidence of new or enlarging brain metastases and also are off steroids 3 days prior&#xD;
+             to dosing with study medication.&#xD;
+&#xD;
+         10. Patients who have not recovered (i.e., ≤ Grade 2 or at baseline) from adverse events&#xD;
+             due to a previously administered agent. *Note: If subject received major surgery, they&#xD;
+             must have recovered adequately from the toxicity and/or complications from the&#xD;
+             intervention prior to starting therapy. Has active autoimmune disease that has&#xD;
+             required systemic treatment in the past 2 years (i.e. with use of disease modifying&#xD;
+             agents, corticosteroids or immunosuppressive drugs). Replacement therapy (e.g.,&#xD;
+             thyroxine, insulin, or physiologic corticosteroid replacement therapy for adrenal or&#xD;
+             pituitary insufficiency, etc.) is not considered a form of systemic treatment.&#xD;
+&#xD;
+         11. Has history of autoimmune disorders, (non-infectious) pneumonitis that required&#xD;
+             steroids, evidence of interstitial lung disease or active, non-infectious pneumonitis.&#xD;
+&#xD;
+         12. Has an active infection requiring systemic therapy.&#xD;
+&#xD;
+         13. Has a history or current evidence of any condition, therapy, or laboratory abnormality&#xD;
+             that might confound the results of the trial, interfere with the subject's&#xD;
+             participation for the full duration of the trial, or is not in the best interest of&#xD;
+             the subject to participate, in the opinion of the treating investigator.&#xD;
+&#xD;
+         14. Has known psychiatric or substance abuse disorders that would interfere with&#xD;
+             cooperation with the requirements of the trial.&#xD;
+&#xD;
+         15. Is pregnant or breastfeeding, or expecting to conceive or father children within the&#xD;
+             projected duration of the trial, starting with the pre-screening or screening visit&#xD;
+             through 120 days after the last dose of trial treatment.&#xD;
+&#xD;
+         16. Patients with prior history of chemoradiation for lung cancer&#xD;
+&#xD;
+         17. Has a known history of Human Immunodeficiency Virus (HIV) (HIV 1/2 antibodies).&#xD;
+&#xD;
+         18. Has known active Hepatitis B (e.g., HBsAg reactive) or Hepatitis C (e.g., HCV RNA&#xD;
+             [qualitative] is detected).&#xD;
+&#xD;
+         19. Has received a live vaccine within 30 days of planned start of study therapy. Note:&#xD;
+             Seasonal influenza vaccines for injection are generally inactivated flu vaccines and&#xD;
+             are allowed; however, intranasal influenza vaccines (e.g., Flu-Mist®) are live&#xD;
+             attenuated vaccines, and are not allowed.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Vamsidhar Velcheti</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NYU Langone Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Vamsidhar Velcheti, MD</last_name>
+    <phone>646-754-8500</phone>
+    <email>Vamsidhar.Velcheti@nyulangone.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>NYU Langone Health</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vamsidhar Velcheti, MD</last_name>
+      <phone>646-754-8500</phone>
+      <email>Vamsidhar.Velcheti@nyulangone.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 11, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>February 16, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 16, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 21, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Lung</keyword>
+  <keyword>Immunotherapy</keyword>
+  <keyword>Fraction non-ablative radiation</keyword>
+  <keyword>untreated patients</keyword>
+  <keyword>metastatic</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pembrolizumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The de-identified participant data from the final research dataset used in the published manuscript will be shared upon reasonable request beginning 9 months and ending 36 months following article publication or as required by a condition of awards and agreements supporting the research provided the investigator who proposes to use the data executes a data use agreement with NYU Langone Health. Requests may be directed to: Vamsidhar.Velcheti@nyulangone.org. The protocol and statistical analysis plan will be made available on Clinicaltrials.gov only as required by federal regulation or as a condition of awards and agreements supporting the research.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Beginning 9 months and ending 36 months following article publication or as required by a condition of awards and agreements supporting the research.</ipd_time_frame>
+    <ipd_access_criteria>The investigator who proposed to use the data will be granted access upon reasonable request. Requests should be directed to Vamsidhar.Velcheti@nyulangone.org. To gain access, data requestors will need to sign a data access agreement.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

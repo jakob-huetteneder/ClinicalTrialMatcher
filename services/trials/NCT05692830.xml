@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9680">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05692830</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AA028488-01A1</org_study_id>
+    <nct_id>NCT05692830</nct_id>
+  </id_info>
+  <brief_title>Towards a Wearable Alcohol Biosensor: Examining the Accuracy of BAC Estimates From New-Generation Transdermal Technology Using Large-Scale Human Testing and Machine Learning Algorithms</brief_title>
+  <official_title>Towards a Wearable Alcohol Biosensor: Examining the Accuracy of BAC Estimates From New-Generation Transdermal Technology Using Large-Scale Human Testing and Machine Learning Algorithms</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Illinois at Urbana-Champaign</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Illinois at Urbana-Champaign</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study will employ a combined laboratory-ambulatory design. Participants will engage in&#xD;
+      ambulatory assessment over the course of 14 days, wearing biosensors assessing transdermal&#xD;
+      alcohol concentration (TAC) and providing breathalyzer readings in real-world contexts. Also&#xD;
+      during this period, participants will attend three laboratory alcohol-administration sessions&#xD;
+      scheduled at one-week intervals, with alcohol dose and rate of consumption manipulated within&#xD;
+      and between participants, respectively. Laboratory visits will also double as ambulatory&#xD;
+      orientation, check-in, and close-out sessions.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Laboratory Procedures: The aim of the laboratory study is to capture the effect of variable&#xD;
+      alcohol doses and rates of consumption on the TAC-BAC relationship across individuals in a&#xD;
+      controlled context. Laboratory alcohol-administration sessions will be held at one-week&#xD;
+      intervals, scheduled at study initiation (day 0), study midpoint (day 7), and study end (day&#xD;
+      14).&#xD;
+&#xD;
+      Alcohol-administration procedures will employ a within (alcohol dose) X between (rate of&#xD;
+      consumption) participant design. All participants will consume three doses of alcohol over&#xD;
+      the course of the three laboratory sessions, targeting peak blood alcohol concentration (BAC)&#xD;
+      levels of .03%, .06%, and .09% respectively. The order of alcohol doses will be&#xD;
+      counterbalanced across participants. The exact quantity of alcohol administered to each&#xD;
+      participant in order to achieve these target peak BACs will be calculated based on&#xD;
+      individualized formulas adjusting for drinking rate, sex, height, weight, and age (see&#xD;
+      formulas provided in Watson et al., (1981)). Rate of consumption will be manipulated between&#xD;
+      participants, with equal numbers of participants assigned to consume alcohol at relatively&#xD;
+      &quot;fast&quot; and &quot;slow&quot; rates. Beverage intake will be monitored to ensure participant comfort and&#xD;
+      even consumption across the beverage administration period. After beverage administration,&#xD;
+      participants will provide breath alcohol concentration (BrAC) readings at 10- min intervals.&#xD;
+&#xD;
+      In addition, during the laboratory procedures, participants will be exposed to environmental&#xD;
+      factors that are known to impact the transdermal reading of the Skyn device. These&#xD;
+      manipulations will allow the research team to train the machine learning algorithm to&#xD;
+      recognize and model for these environmental effects. These manipulations include: 1)&#xD;
+      Environmental alcohol: common household products containing alcohol (e.g., hand sanitizer,&#xD;
+      perfume, lotion containing alcohol) will be sprayed or applied in proximity to Skyn; 2)&#xD;
+      Sweating: Participants will be asked to engage in a brief 10-30 minute aerobic exercise while&#xD;
+      in a seated position (i.e., stationary biking) while under the supervision of a research&#xD;
+      assistant. This brief exercise will be designed simply to yield exertion to the point of&#xD;
+      sweating and not exertion beyond this point; 3) Arm Movements: Participants will be asked to&#xD;
+      engage in isolated body movements (e.g., arms and feet) to determine whether device shifting&#xD;
+      caused by such movements impact readings taken by Skyn.&#xD;
+&#xD;
+      Ambulatory Procedures: This arm of the study aims to capture the TAC-BAC relationship among&#xD;
+      participants drinking in everyday settings. Ambulatory assessment will take place over 14&#xD;
+      days. During laboratory session 1, prior to beverage administration, participants will be&#xD;
+      oriented to ambulatory study procedures. The Skyn device will be worn throughout&#xD;
+      participation. During orientation, participants will be trained to use the mobile&#xD;
+      breathalyzer. To avoid contamination of breathalyzer readings by mouth alcohol, participants&#xD;
+      will be instructed to wait 5 minutes after their last sip of alcohol to provide a reading.&#xD;
+      Also during this orientation session, participants will receive training in standard drink&#xD;
+      reporting (used to validate breathalyzer readings). During ambulatory assessment,&#xD;
+      participants will provide breathalyzer readings in response to both random and user-initiated&#xD;
+      prompts via their smartphones. On day 14 of the study, participants will attend a final&#xD;
+      laboratory session during which they will return study equipment as well as complete&#xD;
+      questionnaires asking them to reflect on their experience using the Skyn and their likelihood&#xD;
+      to adopt a Skyn application.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 3, 2022</start_date>
+  <completion_date type="Anticipated">September 1, 2027</completion_date>
+  <primary_completion_date type="Anticipated">August 1, 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <intervention_model_description>Participants are counterbalanced into fast or slow consumption condition and 1 of 2 different categories of environmental alcohol tests within gender groups. All subjects will receive the moderate dose of alcohol at visit 1, and be counterbalanced to receive low and high doses between visits 2 and 3. All subjects will complete exercise, environmental alcohol, and body movement interventions across the 3 visits. The order of the post-drink activities will also be counterbalanced.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Breath Alcohol Concentration During Laboratory Visits</measure>
+    <time_frame>From beginning to end of alcohol administration visit, measured every ten minutes, up to 12 hours</time_frame>
+    <description>change in alcohol concentration through breath provided in the laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Ambulatory Breath Alcohol Concentration</measure>
+    <time_frame>up to 2 weeks</time_frame>
+    <description>change in measure of alcohol concentration through breath provided in the field</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">240</enrollment>
+  <condition>Alcohol Drinking</condition>
+  <condition>Alcohol Intoxication</condition>
+  <arm_group>
+    <arm_group_label>Fast Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to consume study beverages at a comparatively rapid rate.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Slow Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to consume study beverages at a comparatively slow rate.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Alcohol</intervention_name>
+    <description>Alcohol administered orally at multiple doses and consumption speeds to test transdermal device accuracy</description>
+    <arm_group_label>Fast Condition</arm_group_label>
+    <arm_group_label>Slow Condition</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  21 years or older&#xD;
+&#xD;
+          -  drink alcohol at least 2x weekly&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  psychological or medical conditions that might contraindicate alcohol-administration&#xD;
+&#xD;
+          -  history of adverse reaction to type and amount of beverage used in the study&#xD;
+&#xD;
+          -  currently seeking treatment for alcohol use disorder&#xD;
+&#xD;
+          -  does not drink alcohol regularly&#xD;
+&#xD;
+          -  taking drugs or medications for which alcohol consumption would be contraindicated&#xD;
+&#xD;
+          -  women who are pregnant or are attempting to become pregnant&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Catharine Fairbairn, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Illinois Urbana-Champaign</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Catharine Fairbairn, PhD</last_name>
+    <phone>217-300-5850</phone>
+    <email>uiucalcohollab@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Illinois at Urbana-Champaign</name>
+      <address>
+        <city>Champaign</city>
+        <state>Illinois</state>
+        <zip>61820</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Catharine E Fairbairn, Ph.D.</last_name>
+      <phone>217-300-5850</phone>
+      <email>uiucalcohollab@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>White AM. What happened? Alcohol, memory blackouts, and the brain. Alcohol Res Health. 2003;27(2):186-96.</citation>
+    <PMID>15303630</PMID>
+  </reference>
+  <reference>
+    <citation>Leffingwell TR, Cooney NJ, Murphy JG, Luczak S, Rosen G, Dougherty DM, Barnett NP. Continuous objective monitoring of alcohol use: twenty-first century measurement using transdermal sensors. Alcohol Clin Exp Res. 2013 Jan;37(1):16-22. doi: 10.1111/j.1530-0277.2012.01869.x. Epub 2012 Jul 23.</citation>
+    <PMID>22823467</PMID>
+  </reference>
+  <reference>
+    <citation>Alessi SM, Barnett NP, Petry NM. Experiences with SCRAMx alcohol monitoring technology in 100 alcohol treatment outpatients. Drug Alcohol Depend. 2017 Sep 1;178:417-424. doi: 10.1016/j.drugalcdep.2017.05.031. Epub 2017 Jun 28.</citation>
+    <PMID>28709081</PMID>
+  </reference>
+  <reference>
+    <citation>Fairbairn CE, Kang D, Bosch N. Using machine learning for real-time BAC estimation from a new-generation transdermal biosensor in the laboratory. Drug Alcohol Depend. 2020 Nov 1;216:108205. doi: 10.1016/j.drugalcdep.2020.108205. Epub 2020 Aug 1.</citation>
+    <PMID>32853998</PMID>
+  </reference>
+  <reference>
+    <citation>Kerr WC, Patterson D, Koenen MA, Greenfield TK. Alcohol content variation of bar and restaurant drinks in Northern California. Alcohol Clin Exp Res. 2008 Sep;32(9):1623-9. doi: 10.1111/j.1530-0277.2008.00741.x. Epub 2008 Jul 8.</citation>
+    <PMID>18616674</PMID>
+  </reference>
+  <reference>
+    <citation>Mohan AMV, Windmiller JR, Mishra RK, Wang J. Continuous minimally-invasive alcohol monitoring using microneedle sensor arrays. Biosens Bioelectron. 2017 May 15;91:574-579. doi: 10.1016/j.bios.2017.01.016. Epub 2017 Jan 10.</citation>
+    <PMID>28088750</PMID>
+  </reference>
+  <reference>
+    <citation>Webster GD, Gabler HC. Feasibility of transdermal ethanol sensing for the detection of intoxicated drivers. Annu Proc Assoc Adv Automot Med. 2007;51:449-64.</citation>
+    <PMID>18184507</PMID>
+  </reference>
+  <reference>
+    <citation>Luczak SE, Rosen IG. Estimating BrAC from transdermal alcohol concentration data using the BrAC estimator software program. Alcohol Clin Exp Res. 2014 Aug;38(8):2243-52. doi: 10.1111/acer.12478.</citation>
+    <PMID>25156615</PMID>
+  </reference>
+  <reference>
+    <citation>Wang Y, Fridberg DJ, Leeman RF, Cook RL, Porges EC. Wrist-worn alcohol biosensors: Strengths, limitations, and future directions. Alcohol. 2019 Dec;81:83-92. doi: 10.1016/j.alcohol.2018.08.013. Epub 2018 Sep 1.</citation>
+    <PMID>30179709</PMID>
+  </reference>
+  <reference>
+    <citation>Fairbairn CE, Kang D. Temporal Dynamics of Transdermal Alcohol Concentration Measured via New-Generation Wrist-Worn Biosensor. Alcohol Clin Exp Res. 2019 Oct;43(10):2060-2069. doi: 10.1111/acer.14172. Epub 2019 Aug 30.</citation>
+    <PMID>31469451</PMID>
+  </reference>
+  <reference>
+    <citation>Hill-Kapturczak N, Roache JD, Liang Y, Karns TE, Cates SE, Dougherty DM. Accounting for sex-related differences in the estimation of breath alcohol concentrations using transdermal alcohol monitoring. Psychopharmacology (Berl). 2015 Jan;232(1):115-23. doi: 10.1007/s00213-014-3644-9. Epub 2014 Jun 13.</citation>
+    <PMID>24923985</PMID>
+  </reference>
+  <reference>
+    <citation>Fairbairn CE, Bresin K, Kang D, Rosen IG, Ariss T, Luczak SE, Barnett NP, Eckland NS. A multimodal investigation of contextual effects on alcohol's emotional rewards. J Abnorm Psychol. 2018 May;127(4):359-373. doi: 10.1037/abn0000346.</citation>
+    <PMID>29745701</PMID>
+  </reference>
+  <reference>
+    <citation>Dougherty DM, Charles NE, Acheson A, John S, Furr RM, Hill-Kapturczak N. Comparing the detection of transdermal and breath alcohol concentrations during periods of alcohol consumption ranging from moderate drinking to binge drinking. Exp Clin Psychopharmacol. 2012 Oct;20(5):373-81. doi: 10.1037/a0029021. Epub 2012 Jun 18.</citation>
+    <PMID>22708608</PMID>
+  </reference>
+  <reference>
+    <citation>Hill-Kapturczak N, Lake SL, Roache JD, Cates SE, Liang Y, Dougherty DM. Do variable rates of alcohol drinking alter the ability to use transdermal alcohol monitors to estimate peak breath alcohol and total number of drinks? Alcohol Clin Exp Res. 2014 Oct;38(10):2517-22. doi: 10.1111/acer.12528. Epub 2014 Oct 21.</citation>
+    <PMID>25335857</PMID>
+  </reference>
+  <reference>
+    <citation>Rash CJ, Petry NM, Alessi SM, Barnett NP. Monitoring alcohol use in heavy drinking soup kitchen attendees. Alcohol. 2019 Dec;81:139-147. doi: 10.1016/j.alcohol.2018.10.001. Epub 2018 Oct 8.</citation>
+    <PMID>30308286</PMID>
+  </reference>
+  <reference>
+    <citation>Sirlanci M, Rosen IG, Wall TL, Luczak SE. Applying a novel population-based model approach to estimating breath alcohol concentration (BrAC) from transdermal alcohol concentration (TAC) biosensor data. Alcohol. 2019 Dec;81:117-129. doi: 10.1016/j.alcohol.2018.09.005. Epub 2018 Sep 20.</citation>
+    <PMID>30244026</PMID>
+  </reference>
+  <reference>
+    <citation>Nahum-Shani I, Smith SN, Spring BJ, Collins LM, Witkiewitz K, Tewari A, Murphy SA. Just-in-Time Adaptive Interventions (JITAIs) in Mobile Health: Key Components and Design Principles for Ongoing Health Behavior Support. Ann Behav Med. 2018 May 18;52(6):446-462. doi: 10.1007/s12160-016-9830-8.</citation>
+    <PMID>27663578</PMID>
+  </reference>
+  <reference>
+    <citation>Sirlanci M, Luczak SE, Fairbairn CE, Kang D, Pan R, Yu X, Rosen IG. Estimating the Distribution of Random Parameters in a Diffusion Equation Forward Model for a Transdermal Alcohol Biosensor. Automatica (Oxf). 2019 Aug;106:101-109. doi: 10.1016/j.automatica.2019.04.026. Epub 2019 May 16.</citation>
+    <PMID>31814628</PMID>
+  </reference>
+  <reference>
+    <citation>Fairbairn CE, Rosen IG, Luczak SE, Venerable WJ. Estimating the quantity and time course of alcohol consumption from transdermal alcohol sensor data: A combined laboratory-ambulatory study. Alcohol. 2019 Dec;81:111-116. doi: 10.1016/j.alcohol.2018.08.015. Epub 2018 Sep 1.</citation>
+    <PMID>30179707</PMID>
+  </reference>
+  <reference>
+    <citation>Barnett NP, Meade EB, Glynn TR. Predictors of detection of alcohol use episodes using a transdermal alcohol sensor. Exp Clin Psychopharmacol. 2014 Feb;22(1):86-96. doi: 10.1037/a0034821.</citation>
+    <PMID>24490713</PMID>
+  </reference>
+  <reference>
+    <citation>Sirlanci M, Rosen IG, Luczak SE, Fairbairn CE, Bresin K, Kang D. Deconvolving the input to random abstract parabolic systems: a population model-based approach to estimating blood/breath alcohol concentration from transdermal alcohol biosensor data. Inverse Probl. 2018 Dec;34(12):125006. doi: 10.1088/1361-6420/aae791. Epub 2018 Nov 9.</citation>
+    <PMID>31892764</PMID>
+  </reference>
+  <reference>
+    <citation>Figueroa RL, Zeng-Treitler Q, Kandula S, Ngo LH. Predicting sample size required for classification performance. BMC Med Inform Decis Mak. 2012 Feb 15;12:8. doi: 10.1186/1472-6947-12-8.</citation>
+    <PMID>22336388</PMID>
+  </reference>
+  <reference>
+    <citation>Dai Z, Rosen IG, Wang C, Barnett N, Luczak SE. Using drinking data and pharmacokinetic modeling to calibrate transport model and blind deconvolution based data analysis software for transdermal alcohol biosensors. Math Biosci Eng. 2016 Oct 1;13(5):911-934. doi: 10.3934/mbe.2016023.</citation>
+    <PMID>27775390</PMID>
+  </reference>
+  <reference>
+    <citation>Dawson DA, Goldstein RB, Saha TD, Grant BF. Changes in alcohol consumption: United States, 2001-2002 to 2012-2013. Drug Alcohol Depend. 2015 Mar 1;148:56-61. doi: 10.1016/j.drugalcdep.2014.12.016. Epub 2014 Dec 23.</citation>
+    <PMID>25620731</PMID>
+  </reference>
+  <reference>
+    <citation>Bradford DE, Shapiro BL, Curtin JJ. How bad could it be? Alcohol dampens stress responses to threat of uncertain intensity. Psychol Sci. 2013 Dec;24(12):2541-9. doi: 10.1177/0956797613499923. Epub 2013 Oct 21.</citation>
+    <PMID>24145332</PMID>
+  </reference>
+  <reference>
+    <citation>Moberg CA, Weber SM, Curtin JJ. Alcohol dose effects on stress response to cued threat vary by threat intensity. Psychopharmacology (Berl). 2011 Nov;218(1):217-27. doi: 10.1007/s00213-011-2304-6. Epub 2011 Apr 19.</citation>
+    <PMID>21503605</PMID>
+  </reference>
+  <reference>
+    <citation>Delgado MK, Shofer F, Wetherill R, Curtis B, Hemmons J, Spencer E, Branas C, Wiebe DJ, Kranzler HR. Accuracy of Consumer-marketed smartphone-paired alcohol breath testing devices: A laboratory validation study. Alcohol Clin Exp Res. 2021 May;45(5):1091-1099. doi: 10.1111/acer.14597. Epub 2021 May 9.</citation>
+    <PMID>33966283</PMID>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>October 20, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>January 19, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 19, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Illinois at Urbana-Champaign</investigator_affiliation>
+    <investigator_full_name>Catharine Fairbairn</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>transdermal alcohol content</keyword>
+  <keyword>ambulatory</keyword>
+  <keyword>transdermal biosensor</keyword>
+  <keyword>machine learning algorithms</keyword>
+  <keyword>breath alcohol content</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alcoholic Intoxication</mesh_term>
+    <mesh_term>Alcohol Drinking</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9798">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05689983</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202203033</org_study_id>
+    <secondary_id>KL2TR002346</secondary_id>
+    <secondary_id>UL1TR002345</secondary_id>
+    <nct_id>NCT05689983</nct_id>
+  </id_info>
+  <brief_title>Symptom-driven ICS/LABA Therapy for Adolescent Patients With Asthma Non-adherent to Daily Maintenance Inhalers</brief_title>
+  <official_title>Symptom-driven ICS/LABA Therapy for Adolescent Patients With Asthma Non-adherent to Daily Maintenance Inhalers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Center for Advancing Translational Sciences (NCATS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Inhaler nonadherence is a common problem that has been estimated to account for approximately&#xD;
+      60% of all asthma-related hospitalizations. Unfortunately, prior interventions to improve&#xD;
+      inhaler nonadherence have shown a lack of long-term success. This study proposes to assess&#xD;
+      the problem of non-adherence using a D&amp;I research lens while testing a new inhaler approach&#xD;
+      to potentially ameliorate the detrimental consequences of maintenance inhaler nonadherence.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      While inhaled corticosteroids (ICS) are considered the essential foundation of most asthma&#xD;
+      therapy, ICS inhaler non-adherence is a notoriously common problem and a significant cause of&#xD;
+      asthma-related morbidity. Partially acknowledging the problem of non-adherence, international&#xD;
+      organizations recently made paradigm-shifting recommendations that all patients with mild or&#xD;
+      mild-to-moderate persistent asthma be considered for symptom-driven ICS-containing inhalers&#xD;
+      rather than relying on adherence to traditional maintenance ICS inhalers and symptom-driven&#xD;
+      beta-agonists. With this novel approach, asthma patients are at least exposed to the&#xD;
+      important anti-inflammatory effects of ICS-containing inhalers when their inhaler is deployed&#xD;
+      due to symptoms. The proposed study aims to (Aim 1) undertake a pragmatic pilot&#xD;
+      randomized-controlled trial to evaluate if an inhaler strategy that utilizes symptom-driven&#xD;
+      ICS inhalers is particularly accepted and beneficial in maintenance ICS inhaler non-adherent&#xD;
+      adolescent asthma patients, and (Aim 2) use a D&amp;I science conceptual framework to better&#xD;
+      understand patients' and providers' views of inhaler non-adherence. This study will use an&#xD;
+      electronic sensor to monitor inhaler adherence and include semi-structured interviews using&#xD;
+      the Consolidated Framework for Implementation Research (CFIR).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 1, 2022</start_date>
+  <completion_date type="Anticipated">April 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2023</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomization will occur using a 1:1 ratio with random numbers generated using SAS 9.4</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Adherence to inhaler strategy delineated using an electronic inhaler sensor</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>The primary outcome will be adherence with an inhaler management strategy delineated using the Adherium inhaler sensor and smartphone application as compared between groups. Adherence to the treatment strategy for the maintenance ICS inhaler group will be calculated as the proportion of maintenance ICS actuations per prescription recommendation. Adherence for the symptom-based ICS treatment strategy will be calculated as the proportion of ICS/LABA actuations per recommendation based on self-report of symptoms (definition: ICS/LABA inhaler actuation during a day or night period divided by a period wherein a patient identified symptoms as &gt;1 on REDCap-delivered smartphone questionnaire).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of asthma exacerbations</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Frequency of study-defined asthma exacerbations between groups (adjusted for time on treatment). Asthma exacerbations will be defined as an urgent medical visit for asthma symptoms, prescription of oral corticosteroids for asthma symptoms, or high use of a rescue inhaler (&gt;16 actuations of SABA or &gt;8 actuations of ICS/LABA within 24 hours on two consecutive days as assessed via the Adherium device).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to asthma exacerbation</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Time to first exacerbation between groups. Asthma exacerbations will be defined as an urgent medical visit for asthma symptoms, prescription of oral corticosteroids for asthma symptoms, or high use of a rescue inhaler (&gt;16 actuations of SABA or &gt;8 actuations of ICS/LABA within 24 hours on two consecutive days as assessed via the Adherium device)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICS exposure</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Converted cumulative dose of ICS between groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse and serious adverse events</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Occurrence of any severe and non-severe adverse events between groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Asthma Control Questionnaire (ACQ)</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Change in Asthma Control Questionnaire (ACQ) from baseline to the final study visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in asthma control test (ACT)</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Change in Asthma Control Test (ACT) from baseline to the final study visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Asthma Quality of Life Questionnaire (AQLQ)</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Change in Asthma Quality of Life Questionnaire (AQLQ) from baseline to the final study visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Medication Adherence Reporting Scale for Asthma (MARS-A) questionnaire</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Change in Medication Adherence Reporting Scale for Asthma (MARS-A) questionnaire from baseline to the final study visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in IQVIA Treatment Satisfaction Questionnaire for Medication (TSQM)</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Change in IQVIA Treatment Satisfaction Questionnaire for Medication (TSQM) from baseline to the final study visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in The Knowledge, Attitude, and Self-Efficacy Asthma Questionnaire (KASEAQ)</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Change in The Knowledge, Attitude, and Self-Efficacy Asthma Questionnaire (KASEAQ) from baseline to the final study visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Feeling of Satisfaction with Inhaler (FSI-10) questionnaire</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Change in Feeling of Satisfaction with Inhaler (FSI-10) questionnaire from baseline to the final study visit.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Asthma in Children</condition>
+  <condition>Nonadherence, Medication</condition>
+  <arm_group>
+    <arm_group_label>As needed inhaled corticosteroid and long-acting beta-agonist</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Symptom-driven ICS/LABA treatment strategy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard therapy: maintenance inhaled corticosteroid and as needed short-acting beta-agonist</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Continue maintenance ICS and SABA therapy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Adherence to symptom driven budesonide/formoterol as compared to adherence to maintenance ICS and symptom-driven SABA</intervention_name>
+    <description>In this study, we propose a pragmatic, pilot, open-label trial where we are comparing adherence to different inhaler regimens. Patients who were previously sub-optimally adherent to maintenance ICS inhalers will either continue receiving maintenance ICS inhalers and symptom-driven SABA inhalers or symptom-driven ICS/LABA inhalers only.</description>
+    <arm_group_label>As needed inhaled corticosteroid and long-acting beta-agonist</arm_group_label>
+    <arm_group_label>Standard therapy: maintenance inhaled corticosteroid and as needed short-acting beta-agonist</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Able to understand and provide informed consent.&#xD;
+&#xD;
+          2. Age 18-75 at the time of study enrollment.&#xD;
+&#xD;
+          3. Provider diagnosed mild or moderate persistent asthma and prescribed maintenance ICS&#xD;
+             treatment and as needed SABA for at least 6 months prior to enrollment.&#xD;
+&#xD;
+          4. Suboptimal adherence to prescribed maintenance ICS therapy defined as missing at least&#xD;
+             expected 2 ICS refills in the prior 6 months based on examination of pharmacy records&#xD;
+             or a Medication Adherence Report Scale for Asthma (MARS-A) score &lt;4.5.&#xD;
+&#xD;
+          5. An Asthma Control Test (ACT) score at enrollment greater than or equal to 12 but less&#xD;
+             than or equal to 20 indicating partially controlled or moderately uncontrolled asthma.&#xD;
+&#xD;
+          6. iPhone or Android smartphone with an active data plan and willingness to use the&#xD;
+             Adherium device.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Relevant comorbid pulmonary diseases including, but not limited to a diagnosis of&#xD;
+             chronic obstructive pulmonary disease (COPD), cystic fibrosis, or alpha 1 anti-trypsin&#xD;
+             deficiency.&#xD;
+&#xD;
+          2. Current use of a biologic medication or investigational treatment for asthma.&#xD;
+&#xD;
+          3. History of asthma requiring ICU admission in the last year.&#xD;
+&#xD;
+          4. Unwillingness to use or pay for an inhaler that is compatible with the Adherium sensor&#xD;
+             (fluticasone propionate or budesonide/formoterol). Of note, fluticasone and&#xD;
+             budesonide/formoterol are formulary tier 1-2 for Missouri Medicaid and most commercial&#xD;
+             insurances and are believed to be equally or less expensive as alternative inhalers&#xD;
+             for most patients.&#xD;
+&#xD;
+          5. Any clinically significant abnormalities on physical exam, laboratory testing, or&#xD;
+             baseline diagnostic testing that the study team believes will make the study unsafe.&#xD;
+&#xD;
+          6. Patients who do not complete at least 70% of the twice-daily texts during the two&#xD;
+             weeks after screening.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>James Krings, MD MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Abigail Zulich</last_name>
+    <phone>314-747-3063</phone>
+    <email>azulich@wustl.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Tammy Quinones</last_name>
+    <phone>314-747-3063</phone>
+    <email>tkoch@wustl.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Washington University in St. Louis School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tammy Quinones, RN</last_name>
+      <phone>314-747-3063</phone>
+      <email>tquinones@wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>James Krings, MD MSc</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 9, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 9, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>January 9, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 9, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Asthma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Budesonide</mesh_term>
+    <mesh_term>Formoterol Fumarate</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

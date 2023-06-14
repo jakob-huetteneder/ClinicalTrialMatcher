@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9746">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05691153</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SZ5602</org_study_id>
+    <nct_id>NCT05691153</nct_id>
+  </id_info>
+  <brief_title>ThisCART19A for B-NHL Relapsed After Auto-CAR T</brief_title>
+  <official_title>A Single-center, Dose Selection Study to Evaluate the Efficacy, Safety, and Pharmacokinetics of Allogeneic CAR-T Targeting CD19 in Patients With Auto-CAR T Relapsed B-cell Non-Hodgkin's Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The First Affiliated Hospital of Soochow University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Fundamenta Therapeutics, Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The First Affiliated Hospital of Soochow University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase 1, single-center, dose selection study to evaluate the efficacy, safety, and&#xD;
+      pharmacokinetics of ThisCART19A (allogeneic CAR-T targeting CD19) in patients with Auto-CAR T&#xD;
+      relapsed B-cell non-Hodgkin's lymphoma.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a phase 1, single-center, dose selection study to evaluate the efficacy, safety, and&#xD;
+      pharmacokinetics of ThisCART19A in patients with Auto-CAR T relapsed B-cell non-Hodgkin's&#xD;
+      lymphoma. The study will identify a treatment regimen most likely to result in clinical&#xD;
+      efficacy while maintaining a favorable safety profile. Before initiating ThisCART19A&#xD;
+      infusion, subjects will be administered lymphodepletion chemotherapy composed of&#xD;
+      fludarabine、cyclophosphamide and VP-16. At Day 0 of the Treatment Period, subjects will&#xD;
+      receive an intravenous (IV) infusion of ThisCART19A. All subjects are monitored during the&#xD;
+      treatment period through Day 28. All subjects who receive a dose of ThisCART19A will be&#xD;
+      followed up to 2 years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 1, 2022</start_date>
+  <completion_date type="Anticipated">November 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2025</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>BOR</measure>
+    <time_frame>3 month</time_frame>
+    <description>Best Overall Response Rate</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ORR</measure>
+    <time_frame>2 year</time_frame>
+    <description>Objective response rate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CR</measure>
+    <time_frame>2 year</time_frame>
+    <description>Complete response rate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TTR</measure>
+    <time_frame>3 month</time_frame>
+    <description>Time to response</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DOR</measure>
+    <time_frame>2 year</time_frame>
+    <description>Duration of response</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EFS</measure>
+    <time_frame>2 year</time_frame>
+    <description>Event-free survival</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PFS</measure>
+    <time_frame>2 year</time_frame>
+    <description>Progression-free survival</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>OS</measure>
+    <time_frame>2 year</time_frame>
+    <description>Overall survival</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>CAR</condition>
+  <condition>B Cell Lymphoma</condition>
+  <condition>Relapsed Non-Hodgkin Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Dose Level 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>ThisCART19A，2×10^6 cells/kg（Single dose of Allogeneic Anti-CD19 CAR T cells will be infused）</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dose Level 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>ThisCART19A，3×10^6 cells/kg（Single dose of Allogeneic Anti-CD19 CAR T cells will be infused）</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ThisCART19A with Dose Level 1</intervention_name>
+    <description>ThisCART19A，2×10^6 cells/kg（Single dose of Allogeneic Anti-CD19 CAR T cells will be infused）, after the lymphodepletion conditioning of fludarabine, CTX and VP-16</description>
+    <arm_group_label>Dose Level 1</arm_group_label>
+    <other_name>ThisCART19A with 2×10^6 cells/kg</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ThisCART19A with Dose Level 2</intervention_name>
+    <description>ThisCART19A，3×10^6 cells/kg（Single dose of Allogeneic Anti-CD19 CAR T cells will be infused）, after the lymphodepletion conditioning of fludarabine, CTX and VP-16</description>
+    <arm_group_label>Dose Level 2</arm_group_label>
+    <other_name>ThisCART19A with 3×10^6 cells/kg</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Voluntarily sign a documented IRB-approved ICF prior to any screening procedure;&#xD;
+&#xD;
+          2. Gender not restricted, 18 years ≤ age ≤ 75 years;&#xD;
+&#xD;
+          3. Subjects with Auto-CAR T relapsed B-cell non-Hodgkin's lymphoma;&#xD;
+&#xD;
+          4. Life expectancy ≥ 12 weeks at the time of enrollment;&#xD;
+&#xD;
+          5. Eastern Cooperative Oncology Group performance status score of 0 or 1;&#xD;
+&#xD;
+          6. At least one measurable lesion to be assessed, with any nodal lesion &gt; 15mm in LDi&#xD;
+             (longest diameter) and any extranodal lesion &gt; 10mm in LDi;&#xD;
+&#xD;
+          7. Subject has adequate bone marrow, renal, hepatic, pulmonary, and cardiac function&#xD;
+             defined as:&#xD;
+&#xD;
+               1. Adequate marrow function for lymphodepletion chemotherapy: 14 days before&#xD;
+                  enrollment, absolute neutrophil count (ANC) ≥ 1×10^9/L, platelet count ≥&#xD;
+                  30×10^9/L, hemoglobin ≥ 80 g/L without blood transfusion;&#xD;
+&#xD;
+               2. Creatinine clearance ≥ 30 ml/min according to the Cockcroft-Gault formula,&#xD;
+                  alanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤ 5 × the&#xD;
+                  upper limit of normal (ULN), total bilirubin ≤ 2×ULN (Subjects with Gilbert&#xD;
+                  syndrome or liver involvement may be enrolled if their total bilirubin is ≤&#xD;
+                  3×ULN);&#xD;
+&#xD;
+               3. Pulmonary function: Baseline oxygen saturation (SaO2) ≥ 92% on room air;&#xD;
+&#xD;
+               4. Cardiac function：left ventricular ejection fraction (LVEF) ≥ 40% assessed by&#xD;
+                  echocardiography.&#xD;
+&#xD;
+          8. CD19-positive lymphoma confirmed on a biopsy during screening.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Allergic to preconditioning measures in the trial.&#xD;
+&#xD;
+          2. Other malignancies apart from B-cell malignancies within 5 years prior to screening.&#xD;
+             (Subjects with cured skin squamous carcinoma, basal carcinoma, non-primary invasive&#xD;
+             bladder cancer, localized low-risk prostate cancer, in situ cervical/breast cancer can&#xD;
+             be recruited.)&#xD;
+&#xD;
+          3. Severe active infection (Simple urinary tract infection (UTI) and uncomplicated&#xD;
+             bacterial pharyngitis are permitted).&#xD;
+&#xD;
+          4. Pulmonary embolism (PE) within 3 months prior to enrollment.&#xD;
+&#xD;
+          5. Intolerant severe cardiovascular and cerebrovascular diseases and hereditary diseases&#xD;
+             assessed by the investigator prior to enrollment.&#xD;
+&#xD;
+          6. Gastrointestinal involvement at risk of active bleeding.&#xD;
+&#xD;
+          7. Massive pericardial effusion, symptomatic thoracic or abdominal effusion.&#xD;
+&#xD;
+          8. Presence of CNS involvement (both primary and secondary) at screening confirmed by&#xD;
+             imaging or CSF testing.&#xD;
+&#xD;
+          9. Active hepatitis B virus (serum HBV-DNA ≥ 2000 IU/mL), hepatitis C virus (HCV), human&#xD;
+             immunodeficiency virus (HIV) or active syphilis infection prior to enrollment.&#xD;
+             (Patients with HBV-DNA &lt; 2000 IU/mL can be enrolled, but should be administered&#xD;
+             antiviral drugs such as entecavir and tenofovir with relative clinical indicators&#xD;
+             monitored simultaneously during the treatment.)&#xD;
+&#xD;
+         10. Less than 100 days after allogeneic hematopoietic stem cell transplantation.&#xD;
+&#xD;
+         11. Vaccinated with influenza vaccine within 2 weeks prior to lymphodepletion&#xD;
+             chemotherapy. (Patients vaccinated with SARS-COV19 vaccine or inactivated;&#xD;
+             live/non-live adjuvant vaccines can be enrolled.)&#xD;
+&#xD;
+         12. Under treatment for graft versus host disease (GvHD). (GvHD cured subjects who had&#xD;
+             stopped immunosuppressive drugs for at least 1 month can be enrolled.)&#xD;
+&#xD;
+         13. Female subjects who are pregnant, breastfeeding or planning for pregnancy within 1&#xD;
+             year after CAR-T cell infusion, or male subjects whose partners are planning for&#xD;
+             pregnancy within 1 year after CAR-T cell infusion;&#xD;
+&#xD;
+         14. Any conditions that would, in the investigator's assessment, increase risks in&#xD;
+             patients or interfere with the outcomes of the trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jia Chen, M.D., Ph.D.</last_name>
+    <phone>+86-512-67781856</phone>
+    <email>drchenjia@163.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jun Li, Ph.D.</last_name>
+    <phone>+86-18662604088</phone>
+    <email>jli@ctigen.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Soochow University</name>
+      <address>
+        <city>Suzhou</city>
+        <state>Jiangsu</state>
+        <zip>215000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Depei Wu</last_name>
+      <phone>+86 13951102021</phone>
+      <email>drwudepei@163.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>December 2022</verification_date>
+  <study_first_submitted>December 27, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>January 18, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 18, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Universal CAR-T</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

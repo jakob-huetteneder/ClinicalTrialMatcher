@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9962">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05686538</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Protocol VIP14.0.11</org_study_id>
+    <nct_id>NCT05686538</nct_id>
+  </id_info>
+  <brief_title>Innate Donor Effector Allogeneic Lymphocyte Infusion After Stem Cell Transplantation: the IDEAL Trial</brief_title>
+  <acronym>IDEAL</acronym>
+  <official_title>Innate Donor Effector Allogeneic Lymphocyte Infusion After Stem Cell Transplantation: The IDEAL Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rigshospitalet, Denmark</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Rigshospitalet, Denmark</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The curative principle behind allogeneic hematopoietic stem cell transplantation (HSCT) is&#xD;
+      eradication of the malignant cells of the patient (recipient) by donor graft cells, a process&#xD;
+      termed graft-versus-leukemia (GVL) effect. GVL is traditionally mediated by donor αβ T cells&#xD;
+      in an immunological process driven by genetical differences between individuals, i.e. an&#xD;
+      allogeneic response. For this reason, αβ T cells also cause an unwanted and dangerous&#xD;
+      complication of HSCT called graft-versus-host disease (GVHD) in which healthy recipient cells&#xD;
+      are targeted by donor cells with great risk of morbidity and mortality to the patient. In&#xD;
+      addition to αβ T cells, other cells from the donor stem cell graft, termed innate effector&#xD;
+      lymphocytes, can contribute to the GVL effect. These are termed natural killer (NK) cells and&#xD;
+      T-cell receptor (TCR) γδ cells, the latter being a subset of T cells. NK and TCR γδ cells can&#xD;
+      recognize and eliminate leukemic cells in a direct tumor response independent of conventional&#xD;
+      allogeneicity. Therefore, opposite αβ T cells, innate effector lymphocytes cells can mediate&#xD;
+      GVL but are not likely to cause GVHD. The main indications for HSCT in adults are acute&#xD;
+      myeloid leukemia (AML) and myelodysplastic syndrome (MDS). Approximately 50% of AML/MDS&#xD;
+      transplant patients experience significant acute GVHD and 30% experience relapse of the&#xD;
+      malignant disease. Prospective clinical studies from the research group of the investigators&#xD;
+      have shown that patients with high doses of innate lymphocytes in stem cell grafts and during&#xD;
+      early immune reconstitution after HSCT have a reduced risk of both GVHD and relapse. The aim&#xD;
+      of this clinical trial is therefore to administer innate donor lymphocyte infusion (iDLI)&#xD;
+      enriched in NK and TCR γδ cells and depleted of αβ T cells in patients early after HSCT. By&#xD;
+      improving the HSCT procedure with iDLI cell therapy the scope is less GVHD and less relapse&#xD;
+      of the malignant disease and thereby improved survival and life quality in AML/MDS patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PROJECT DESCRIPTION PURPOSE: To address whether transplant outcomes in patients treated with&#xD;
+      HSCT for AML/MDS can be improved by addition of innate donor lymphocyte infusion (iDLI) early&#xD;
+      after transplantation. The primary outcomes are acute GVHD, relapse and relapse-free survival&#xD;
+      after HSCT.&#xD;
+&#xD;
+      BACKGROUND Allogeneic hematopoietic stem cell transplantation (HSCT) is a potential curative&#xD;
+      treatment for malignant hematologic diseases. The main indication for HSCT in adults is acute&#xD;
+      leukemia, followed by myelodysplastic syndrome. In HSCT, the bone marrow and immune system of&#xD;
+      the patient is replaced with that from a donor, during an extensive clinical procedure&#xD;
+      carried out in a highly specialized transplant center. The curable principle of HSCT is an&#xD;
+      immune-based cell-to-cell killing of residual leukemic cells mediated by donor cells termed&#xD;
+      the graft-versus-leukemia (GVL) effect.&#xD;
+&#xD;
+      The basic principles of HSCT are given below:&#xD;
+&#xD;
+      Conditioning regimen Prior to donor graft infusion, a conditioning regimen is given in order&#xD;
+      to reduce the tumor burden and weaken the recipient immune system to allow engraftment of&#xD;
+      donor cells. The conditioning regimen can contain different degrees of myeloablation&#xD;
+      depending on the desired grade of immune suppression suitable for the disease, patient age&#xD;
+      and comorbidity.&#xD;
+&#xD;
+      Stem cell donors and grafts The stem cell graft is most often obtained from an HLA-matched&#xD;
+      sibling (25% of patients) or an HLA-matched unrelated register donor.&#xD;
+&#xD;
+      The graft is obtained from the donor either by aspiration of bone marrow or by leukapheresis&#xD;
+      (cell separation and removal of leucocytes from the remaining blood) after administration of&#xD;
+      granulocyte-colony stimulating factor (G-CSF), which mobilizes stem cells to the blood. The&#xD;
+      latter is known as a peripheral blood stem cell (PBSC) graft and is by far the most common&#xD;
+      graft type used in current era.&#xD;
+&#xD;
+      Graft contents and patient immune reconstitution The stem cell graft contains stem cells that&#xD;
+      establish donor derived hematopoiesis including a functional immune system in the patient,&#xD;
+      but also mature immune cells responsible for early elimination of residual tumor cells&#xD;
+      through the graft-versus-leukemia (GVL) effect. Immune reconstitution is dependent on the&#xD;
+      dose and contents of the transplanted donor cells and both the graft contents and patient&#xD;
+      immune reconstitution is crucial for the overall outcome of the transplantation.&#xD;
+&#xD;
+      GVL and GVHD The GVL effect is carried out by lymphocytotoxic donor cells that kill residual&#xD;
+      malignant cells of the patient. GVL is traditionally mediated by donor αβ T cells in an&#xD;
+      immunological process driven by HLA-differences between individuals, i.e. an allogeneic&#xD;
+      response.&#xD;
+&#xD;
+      In acute graft versus-host-disease (GVHD), also involving HLA allo-recognition, donor αβ T&#xD;
+      cells attack the normal tissue in skin, liver and gastro-intestinal system of the recipient,&#xD;
+      leading to a potential deadly immune disease. Acute GVHD occurs during the first 3 months&#xD;
+      after HSCT, and the clinical course is highly variable, from a mild curable presentation to a&#xD;
+      full-blown immune attack, which is fatal in 80-90% of the patients (fig 2). Acute GVHD is&#xD;
+      seen in 40-60% of the patients.&#xD;
+&#xD;
+      Relapse after HSCT Relapse of the hematologic cancer after HSCT is a major cause of&#xD;
+      mortality. In patients with AML/MDS approximately 30% experience disease recurrence after&#xD;
+      HSCT. The prognosis in patients relapsed after HSCT is dismal.&#xD;
+&#xD;
+      Donor lymphocyte infusion In order to prevent relapse or treat manifest relapse after HSCT a&#xD;
+      dose of additional cells from the original stem cell donors, donor lymphocyte infusion (DLI),&#xD;
+      can be infused into the patient with the purpose of initiating a renewed/boosted GVL effect&#xD;
+      and eradicate remaining malignant cells. However, the effect on the leukemic cells of&#xD;
+      conventional DLI, containing primarily TCR αβ cells from the donor, is uncertain and limited&#xD;
+      by the risk of lethal GVHD why new methods of DLI are constantly under development.&#xD;
+&#xD;
+      Natural killer cells and T-cell receptor γδ cells During recent years natural killer (NK)&#xD;
+      cells and T-cell receptor (TCR) γδ cells, also termed innate effector cells, have proven&#xD;
+      capable of eliminating cancer cells and thereby contributing to the GVL-effect in HSCT. NK&#xD;
+      cells are innate lymphocytes, comprising approximately 10% of all lymphocytes, and purposed&#xD;
+      to eradicate &quot;stressed&quot;, malignant and virus-infected cells. They are able to lyse and&#xD;
+      eliminate tumor cells of leukemia through activating receptors of the natural killer (NK) and&#xD;
+      natural cytotoxicity receptor (NCR) families independent of HLA disparities.&#xD;
+&#xD;
+      T cells of the TCR αβ type (CD4 and CD8 T cells) comprise the majority of all circulating T&#xD;
+      cells and lymphocytes in general. TCR γδ cells are a subgroup of T cells, different from αβ T&#xD;
+      cells, which constitute approximately 5% of all T cells. The repertoire of TCR γδ cell&#xD;
+      functions combine features of the adoptive immune system with innate-like responses. They are&#xD;
+      involved in control of inflammation, fighting of pathogens and maintaining tolerance towards&#xD;
+      self-antigens. TCR γδ are also capable of recognizing tumor cells through their TCR and&#xD;
+      activating receptors shared with NK cells (e.g. NKG2D) and their anti-tumor effects are being&#xD;
+      increasingly documented against leukemic cells. NK and TCR γδ cell recognition is independent&#xD;
+      of HLA-disparities, making their contribution to GVHD less likely, and their immunoregulatory&#xD;
+      features may actually protect against GVHD. These innate effector cells therefore have the&#xD;
+      potential to mediate GVL without GVHD in the HSCT setting.&#xD;
+&#xD;
+      Results from the research group of the investigators:&#xD;
+&#xD;
+      Under this hypothesis, our group conducted a prospective clinical study throughout 2015-2018&#xD;
+      investigating concentrations of NK and TCR γδ cells in stem cell grafts and during immune&#xD;
+      reconstitution early after transplantation and associated these with patient outcomes in&#xD;
+      terms of GVHD, relapse and relapse-free survival. Results showed that patients transplanted&#xD;
+      with high doses of NK cells in the graft and high concentrations of NK cells in peripheral&#xD;
+      blood early after transplantation (day 28 and 56) had significantly improved relapse-free&#xD;
+      survival compared to patients with low transplant doses and early post-transplant&#xD;
+      concentrations of NK cells. Regarding TCR γδ cells, patients with high concentration of TCR&#xD;
+      γδ cells in peripheral blood early (day 28 and 56) after transplantation has significantly&#xD;
+      less GVHD and less relapse resulting in improved overall survival and relapse-free survival&#xD;
+      compared to patients with low post-transplant TCR γδ cell concentrations.&#xD;
+&#xD;
+      Based on these results, and existing literature, the aim of this study is infusion of an&#xD;
+      innate DLI (iDLI) containing purified NK and TCR γδ cell from the original stem cell donor&#xD;
+      early after HSCT. The expected effect of additional cell therapy with these innate effector&#xD;
+      cells during early immune reconstitution are reduced relapse as well as GVHD rates and&#xD;
+      thereby improved outcomes after HSCT in AML/MDS patients.&#xD;
+&#xD;
+      Procedure This is a collaborative project between the Bone Marrow Transplant Unit at the&#xD;
+      Department of Hematology and the Department of Clinical Immunology at Rigshospitalet,&#xD;
+      Copenhagen University Hospital.&#xD;
+&#xD;
+      Approximately 60 patients per year receive PBSC-HSCT for the diagnoses of AML or MDS at our&#xD;
+      center. One out of four patients has an HLA-identical sibling while the remaining patients&#xD;
+      receive stem cell grafts from matched unrelated donors from international donor registries.&#xD;
+      For this study, genetic randomization will be applied so that patients with HLA-identical&#xD;
+      siblings will be included for intervention while patients with unrelated donors receiving a&#xD;
+      standard-HSCT will be included in the control group. The background for the design is donor&#xD;
+      availability; only sibling donors can be recruited to donate iDLI. With an estimated&#xD;
+      recruiting rate of approximately 85%, 13-15 patient/donor pairs in the intervention group are&#xD;
+      expected to be enrolled per year over a total of three years, giving at total of 39-45 pairs.&#xD;
+      In a previous prospective study, the investigators obtained a recruiting rate of 97%.&#xD;
+      Historically, a higher incidence of GVHD was observed in transplants using an unrelated&#xD;
+      donor, but due to more precise HLA-typing and better protocols for immune suppression, GVHD&#xD;
+      and relapse incidence are nowadays comparable between related and unrelated transplants. This&#xD;
+      is also the case at the transplant center at Rigshospitalet, as previously published6.&#xD;
+&#xD;
+      For intervention:&#xD;
+&#xD;
+      Donors will undergo health screening at the Cell Therapy Facility, Department of Clinical&#xD;
+      Immunology, within 30 days before donation (standard procedure). Day 7 before HSCT: Start of&#xD;
+      the conditioning regimen preparing the patient for HSCT (standard procedure) Day 5 before&#xD;
+      HSCT: Start of G-CSF stimulation of the donor in order to mobilize stem cells for&#xD;
+      leukapheresis (standard procedure).&#xD;
+&#xD;
+      Donor leukapheresis and graft infusion to the patients, termed day 0 of HSCT (standard&#xD;
+      procedure) Day 14 after HSCT: donor leukapheresis (without preceding G-CSF stimulation),&#xD;
+      product manipulation and transfusion of iDLI to the patient (intervention).&#xD;
+&#xD;
+      Control group: Standard HSCT-procedure as described above in patients receiving grafts from&#xD;
+      unrelated donors.&#xD;
+&#xD;
+      Procedure of modified DLI = iDLI:&#xD;
+&#xD;
+      White blood cells are obtained from the donor by leukapheresis using the Spectra Optia&#xD;
+      Apheresis. System (Terumo BCT) at the Blood Bank Unit, Department of Clinical Immunology,&#xD;
+      Rigshospitalet. Purification of innate effector cells is carried out by TCRαβ/CD19-depletion&#xD;
+      of the fresh leukapheresis product with the CliniMACS Prodigy System (Miltenyi Biotec). This&#xD;
+      procedure removes TCRαβ T cells together with B-cells (CD19positive cells) rendering a cell&#xD;
+      product enriched in NK cells and TCR γδ cells and is routinely used at Rigshospitalet for&#xD;
+      procedures involved in pediatric transplantations.&#xD;
+&#xD;
+      The intended dose of harvested cells is 108 lymphocytes/kg resulting in expected cell doses&#xD;
+      of 107 NK cells/kg and 1-5 x106 TCR γδ cells/kg after the depletion. The iDLI product is&#xD;
+      freshly infused into the patient at the Department of Hematology shortly after the depletion&#xD;
+      procedure.&#xD;
+&#xD;
+      Immune phenotyping:&#xD;
+&#xD;
+      Immune phenotyping of the iDLI product as well as the original stem cell graft will be&#xD;
+      performed using a highly standardized customer designed freeze dried flowcytometry panel&#xD;
+      (DuraClone product from Beckman Coulter) developed and routinely used for immune function&#xD;
+      monitoring at the Department of Clinical Immunology. Two tubes will be included for detailed&#xD;
+      lymphocyte phenotyping in this study.&#xD;
+&#xD;
+      Tube 1 includes markers of overall T cells (CD3, CD4, CD8), NK cell subtypes (CD16, CD56), B&#xD;
+      cells (CD19) and monocytes (CD14). Tube 2 includes markers of overall TCR α/β cells, overall&#xD;
+      TCR γ/δ cells, the two main TCR γ/δ subtypes (TCR Vδ1, TCR Vδ2) and TCR γ/δ cell activation&#xD;
+      markers (HLA-DR, CD8, CD8beta).&#xD;
+&#xD;
+      The same panel will be used for characterization of immune reconstitution in peripheral blood&#xD;
+      samples in patients at the day of iDLI infusion and 14 and 21 days hereafter (i.e. day 14, 28&#xD;
+      and 56 after transplantation. Viable cells will be cryopreserved for later functional&#xD;
+      studies.&#xD;
+&#xD;
+      Data management plan Clinical data on patient and transplant outcomes will be acquired from&#xD;
+      the clinical transplant database (IBMTR 2019) situated and administrated at the Transplant&#xD;
+      Unit, Department of Hematology. Flowcytometry data from characterization of iDLI products,&#xD;
+      stem cell grafts and patient immune reconstitution will be acquired from the Department of&#xD;
+      Clinical Immunology and processed by appropriate analysis software (Kaluza, Flow Cytometry&#xD;
+      Analysis Software, Beckman Coulter). Clinical and laboratory data will be assembled,&#xD;
+      structured and processed in SPSS (SPSS® Statistics, IBM) witch together with R (The R Project&#xD;
+      for Statistical Computing, www.r-project.org) will be used for statistical analyses. All data&#xD;
+      will be stored at Rigshospitalet, Copenhagen University Hospital in accordance with data&#xD;
+      protection rules of The Danish Data Protection Agency.&#xD;
+&#xD;
+      Statistical Analyses The cumulative incidence of acute GVHD and relapse in patients treated&#xD;
+      with iDLI compared to patients receiving a standard HSCT will be compared used Gray's&#xD;
+      competing risk analysis. Relapse-free survival between the two groups will be compared using&#xD;
+      the Kaplan Meier survival analysis and Cox proportional hazard models. Cell doses and immune&#xD;
+      phenotyping of iDLI and original stem cells grafts and cell concentrations and phenotyping&#xD;
+      during patient immune reconstitution will be entered using descriptive statistics. SPSS&#xD;
+      (SPSS® Statistics, IBM) and R (The R Project for Statistical Computing, www.r-project.org)&#xD;
+      will be applied for statistical computing.&#xD;
+&#xD;
+      Power Based on results from previous study from the investigators research group describing&#xD;
+      GVHD, relapse and relapse-free survival in patients with high versus low doses of NK/TCR γδ&#xD;
+      cells in transplant grafts and during early immune reconstitution. The investigators&#xD;
+      anticipate a reduction in relapse incidence from 30% to 5% and a reduction in acute GVHD&#xD;
+      incidence from 50% to 20%. With genetic randomization, patients with HLA-identical siblings&#xD;
+      will be included for intervention while patients with unrelated donors receiving a&#xD;
+      standard-HSCT will be included as controls. Tested at a significance level of 0.05 with a&#xD;
+      power of 80% (beta 0.2) a sample size of 35-38 patients in each group is appropriate for the&#xD;
+      study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 1, 2022</start_date>
+  <completion_date type="Anticipated">January 2030</completion_date>
+  <primary_completion_date type="Anticipated">January 2028</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Genetic randomization. Patients with related donors are included in the intervention group. Patients with unrelated donors are included in the control group.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>Open label.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Relapse-free survival</measure>
+    <time_frame>1 year from transplantation</time_frame>
+    <description>Relapse-free survival</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>aGVHD</measure>
+    <time_frame>100 days from transplantation</time_frame>
+    <description>Acute graft-versus-host-disease grade 2-4</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>iDLI dose</measure>
+    <time_frame>14 days from transplantation</time_frame>
+    <description>Number of infused NK cells and TCR γδ cells in the iDLI product.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>iDLI phenotype</measure>
+    <time_frame>14 days from transplantation</time_frame>
+    <description>Immune phenotype of infused NK cells and TCR γδ cells in the iDLI product.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutrophil engraftment</measure>
+    <time_frame>100 days from transplantation</time_frame>
+    <description>Neutrophil engraftment</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Stem cell graft dose</measure>
+    <time_frame>During procedure</time_frame>
+    <description>Doses of transplanted stem cells (CD34) and lymphocyte subsets in the graft product</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Stem cell graft phenotype</measure>
+    <time_frame>During procedure</time_frame>
+    <description>Immune phenotypes of transplanted stem cells (CD34) and lymphocyte subsets in the graft product</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Immune reconstitution cell doncentrations</measure>
+    <time_frame>14-91 days from transplantation</time_frame>
+    <description>Concentrations of lymphocyte subset in peripheral blood of patients during immune reconstitution</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Immune reconstitution phenotype</measure>
+    <time_frame>14-91 days from transplantation</time_frame>
+    <description>Immune phenotypes of lymphocyte subset in peripheral blood of patients during immune reconstitution</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>AML/MDS</condition>
+  <arm_group>
+    <arm_group_label>Innate donor lymphocyte infusion (iDLI)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>TCRab/CD19 depleted DLI day 14 after routine allogeneic stem cell transplantation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Routine allogeneic stem cell transplantation</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>iDLI</intervention_name>
+    <description>TCRab/CD19 depleted DLI 14 days after allogeneic stem cell transplantation. Targeted cell doses: &gt;10e7 NK cells/kg and &gt;10e6 TCRgd cells/kg</description>
+    <arm_group_label>Innate donor lymphocyte infusion (iDLI)</arm_group_label>
+    <other_name>innate donor lymphocyte infusion (iDLI)</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnoses: AML, MDS&#xD;
+&#xD;
+          -  Age: ≥18 years&#xD;
+&#xD;
+          -  Graft type: PBSC&#xD;
+&#xD;
+          -  Donor: ≥18 years&#xD;
+&#xD;
+          -  Informed consent from both donor and recipient&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        • Donors with need for central venous access for the leukapheresis procedure&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lia Minculescu, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Department of Clinical Immunology, Rigshospitalet, Copenhagen.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lia Minculescu, MD, PhD</last_name>
+    <phone>+4535457958</phone>
+    <email>lia.minculescu@regionh.dk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Henrik Sengelov, Professor</last_name>
+    <phone>+4535458373</phone>
+    <email>henrik.sengeloev@regionh.dk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Copenhagen University Hospital, Rigshospitalet</name>
+      <address>
+        <city>Copenhagen</city>
+        <zip>2100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lia Minculescu, MD, PhD</last_name>
+      <phone>+4535457958</phone>
+      <email>lia.minculescu@regionh.dk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Henrik Sengelov, Professor</last_name>
+      <phone>+4535458373</phone>
+      <email>henrik.sengeloev@regionh.dk</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Henrik Sengelov, Professor</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 20, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 17, 2023</study_first_posted>
+  <last_update_submitted>January 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 17, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rigshospitalet, Denmark</investigator_affiliation>
+    <investigator_full_name>Lia Minculescu</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>allogeneic stem cell transplantation</keyword>
+  <keyword>NK cells</keyword>
+  <keyword>TCR gamma delta cells</keyword>
+  <keyword>DLI</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

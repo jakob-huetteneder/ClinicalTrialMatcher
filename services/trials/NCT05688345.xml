@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9875">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05688345</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-1591</org_study_id>
+    <nct_id>NCT05688345</nct_id>
+  </id_info>
+  <brief_title>Comparison of Recovery Profiles Among Propofol, Remimazolam, and Dexmedetomidine After Intraoperative Sedation</brief_title>
+  <official_title>Comparison of Recovery Profiles of Propofol, Dexmedetomidine, and Remimazolam for Monitored Anesthetic Care in Patients Undergoing Upper Limb Surgery Under Brachial Plexus Block : a Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Asan Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Asan Medical Center</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A total of 120 patients (American Society of Anesthesiologist Physical Status 1-3) who signed&#xD;
+      a consent form among patients aged 19-80 years who are scheduled to undergo brachial plexus&#xD;
+      block and upper extremity surgery under monitored anesthetic care at our hospital were&#xD;
+      enrolled.&#xD;
+&#xD;
+      Recruited patients are divided into three groups through computer-generated randomization by&#xD;
+      using the patient identification number assigned during patient recruitment. (40 people in&#xD;
+      each group) Standard monitoring is performed when the patient arrives at the operating room.&#xD;
+      Patients receive oxygen at 5-6 L/min using a simple facial mask, and receive a brachial&#xD;
+      plexus block under ultrasound guidance. After confirming the success of brachial plexus&#xD;
+      block, administration of propofol, remimazolam, or dexmedetomidine is started according to&#xD;
+      the assigned group. Assess the patient's level of consciousness through the MOAA/S (modified&#xD;
+      observer's assessment of alertness/sedation scale) scale. The drug injection ends when the&#xD;
+      skin suture is started after the main procedure. The time from the end of injection of each&#xD;
+      drug until MOAA/S becomes 5 points is measured. After the patient is transferred to the&#xD;
+      recovery room, the Aldrete score is assessed.&#xD;
+&#xD;
+      The recovery profile, perioperative hemodynamic change, desaturation event, block duration,&#xD;
+      patient movement during surgery, patient satisfaction, and surgeon's satisfaction were&#xD;
+      investigated and analyzed for comparison.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 25, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Recovery profile</measure>
+    <time_frame>up to 1 hour after post-anesthesia case unit entry</time_frame>
+    <description>Time taken for MOAA/S score to reach 5 (MOAA/S: Modified Observer's Alertness/Sedation scale) Awake (5) - Unresponsive (0)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay in post-anesthesia care unit</measure>
+    <time_frame>up to 3 hours after post-anesthesia case unit entry</time_frame>
+    <description>Length of stay from entering PACU to leaving</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intraoperative hypotension</measure>
+    <time_frame>up to 1hour from the initiation of sedative administration</time_frame>
+    <description>mean blood pressure less than 60mmHg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of desaturation during surgery</measure>
+    <time_frame>From the start of sedative injection to the end of surgery or assessed up to 3 hours</time_frame>
+    <description>Oxygen saturation less than 92%</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of nerve block</measure>
+    <time_frame>From end of surgery until 24 hours after end of surgery</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>patient satisfaction</measure>
+    <time_frame>From end of surgery until 24 hours after end of surgery</time_frame>
+    <description>7 point Likert scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Surgeon's satisfaction</measure>
+    <time_frame>From end of surgery until 24 hours after end of surgery</time_frame>
+    <description>7 point Likert scale</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Remimazolam</condition>
+  <condition>Propofol</condition>
+  <condition>Dexmedetomidine</condition>
+  <condition>Orthopedic Procedures</condition>
+  <condition>Sedatives</condition>
+  <condition>Brachial Plexus Block</condition>
+  <arm_group>
+    <arm_group_label>Remimazolam</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Maintenance doses of remimazolam is administered for sedation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Propofol</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Propofol is administered for sedation through target-controlled infusion</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dexmedetomidine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Loading and maintenance doses of dexmedetomidine are administered for sedation</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Remimazolam</intervention_name>
+    <description>The patient receives continuous infusion of remimazolam at a rate of 0.3-1.0 mg/kg/hr.</description>
+    <arm_group_label>Remimazolam</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Propofol</intervention_name>
+    <description>Patients are administered propofol at an effective site concentration of 1.0-2.5 mcg/ml through target-controlled infusion.</description>
+    <arm_group_label>Propofol</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexmedetomidine</intervention_name>
+    <description>The patient is administered a dose of dexmedetomidine at 1 mcg/kg for 10 minutes, followed by continuous infusion at a rate of 0.2-1.0 mcg/kg/hr.</description>
+    <arm_group_label>Dexmedetomidine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  ASA PS 1-3&#xD;
+&#xD;
+          -  Patients scheduled for upper extremity surgery under brachial plexus block and&#xD;
+             monitored anesthetic care&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients who refuse to participate in this study&#xD;
+&#xD;
+          -  Patients with poorly controlled hypertension, hyperthyroidism, or moderate to severe&#xD;
+             heart disease&#xD;
+&#xD;
+          -  Patients with severe hepatic or renal disease&#xD;
+&#xD;
+          -  Patients who are chronically using antidepressants, anticonvulsants, or psychoactive&#xD;
+             drugs&#xD;
+&#xD;
+          -  Patients who abuse drugs or alcohol&#xD;
+&#xD;
+          -  Patients with severe sleep apnea&#xD;
+&#xD;
+          -  Patients with cognitive impairment who have severe difficulties in communication&#xD;
+&#xD;
+          -  Patients with allergy to propofol, dexmedetomidine, or remimazolam&#xD;
+&#xD;
+          -  Patients judged to be inappropriate for this study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Hyeokseong Park</last_name>
+    <phone>01051401323</phone>
+    <email>phsung509@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Asan Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>05505</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Hajung Kim, M.D., Ph.D.</last_name>
+      <email>alexakim06@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Hyeokseong Park, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 30, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 15, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>January 15, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 15, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 18, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Asan Medical Center</investigator_affiliation>
+    <investigator_full_name>Hajung Kim</investigator_full_name>
+    <investigator_title>clinical assistant professor</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dexmedetomidine</mesh_term>
+    <mesh_term>Propofol</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

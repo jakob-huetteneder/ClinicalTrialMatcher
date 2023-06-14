@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9754">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05690997</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GL2021001</org_study_id>
+    <secondary_id>UW21-128</secondary_id>
+    <nct_id>NCT05690997</nct_id>
+  </id_info>
+  <brief_title>Intensive Blood Pressure Control in Ischaemic Stroke Patients With Severe Cerebral Small Vessel Disease</brief_title>
+  <official_title>Effect of Intensive Blood Pressure Control on Cerebral Blood Flow and Cognition in Ischaemic Stroke Patients With Severe Cerebral Small Vessel Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The University of Hong Kong</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The University of Hong Kong</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Objectives: Cerebral small vessel disease (SVD) is a common disease in patients with ischemic&#xD;
+      stroke and the most common cause of vascular dementia. Blood pressure (BP)-lowering is&#xD;
+      generally considered neuroprotective. Nevertheless, in patients with severe SVD burden, the&#xD;
+      optimal BP target is uncertain.&#xD;
+&#xD;
+      Hypothesis: BP-lowering to a systolic BP of 120-129mmHg in ischemic stroke patients with&#xD;
+      severe SVD is not associated with impaired cerebral perfusion, nor does it associate with&#xD;
+      worsening of structural connectivity and cognitive function.&#xD;
+&#xD;
+      Design and subjects: One-year trial where patients aged ≥50 with a history of ischaemic&#xD;
+      stroke and severe cerebral SVD will be randomised (1:1) to a systolic BP target of&#xD;
+      120-129mmHg versus 130-140mmHg.&#xD;
+&#xD;
+      Study instruments: At baseline and one-year, all subjects will receive a brain magnetic&#xD;
+      resonance imaging (MRI) to evaluate their cerebral blood flow (CBF) and white matter&#xD;
+      integrity. They will also receive neuropsychological batteries to evaluate cognitive&#xD;
+      functioning. In addition, subjects will receive home BP monitoring with periodic medication&#xD;
+      changes prescribed by medical doctor to ensure the target BP is achieved.&#xD;
+&#xD;
+      Main outcome measures: Primary end-point is the change in CBF. Secondary end-points include&#xD;
+      changes in structural connectivity and cognitive performance.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Cerebral small vessel disease (SVD) is a common disease in patients with ischemic stroke and&#xD;
+      the most common cause of vascular dementia. The global burden of cerebral SVD is high and&#xD;
+      strategies to better prevent and manage cerebral SVD is urgently needed. Whilst blood&#xD;
+      pressure (BP) lowering is considered neuroprotective in patients with cerebral SVD, the&#xD;
+      optimal BP target in ischaemic stroke patients with severe SVD remains uncertain. Therefore,&#xD;
+      this randomised clinical trial aims to investigate whether two selected systolic blood&#xD;
+      pressure targets [systolic BP (SBP) 120-129mmHg versus 130-140mmHg] have different effects on&#xD;
+      cerebral blood flow and white matter integrity (structural connectivity) detected by magnetic&#xD;
+      resonance imaging (MRI) of the brain, as well as on cognition, over a one-year intervention&#xD;
+      period.&#xD;
+&#xD;
+      Chinese patients aged ≥50 with a prior history of TIA/ischaemic stroke fitting the inclusion&#xD;
+      and exclusion criteria will be recruited. At baseline, recruited subjects will undergo&#xD;
+      clinical and cognitive assessments. Blood pressure will be measured at clinic with an&#xD;
+      automated BP measurement system. A baseline non-contrast MRI of the brain will be arranged.&#xD;
+      The non-contrast MRI and cognitive assessments will be repeated at approximately 1 year after&#xD;
+      recruitment into the study.&#xD;
+&#xD;
+      To ensure consistency, our trial's antihypertensive strategy and titration shall align with&#xD;
+      those recommended by international guidelines. Blood tests for renal function will be&#xD;
+      arranged after modifying the prescription of specific anti-hypertensive agents (e.g. ACEis,&#xD;
+      ARBs, thiazide diuretics and spironolactone).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 9, 2023</start_date>
+  <completion_date type="Anticipated">June 2025</completion_date>
+  <primary_completion_date type="Anticipated">June 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Intensive treatment group:&#xD;
+if the mean home SBP preceding clinic follow-up is &gt;130mmHg, BP lowering treatment will be stepped up, and if the mean SBP preceding clinic follow-up is &lt;120mmHg, BP lowering treatment will be stepped down, until the target SBP of 120-129mmHg is achieved, or symptoms of hypotension prevent treatment to be further intensified.&#xD;
+Standard treatment group:&#xD;
+if the mean home SBP preceding clinic follow-up is &gt;140mmHg, BP lowering treatment will be stepped up, and if the mean SBP preceding clinic follow-up is &lt;130mmHg, BP lowering will be stepped down, until the target SBP 130-140mmg is achieved or symptoms of hypotension prevent treatment being intensified.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>To avoid bias in outcome assessment, evaluation of the primary and secondary outcome measures will be performed by a group who is independent from the clinical investigators and who will be blinded from all clinical, cognitive and radiological assessments.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cerebral Blood Flow</measure>
+    <time_frame>From Baseline to approximate 1 year after recruitment</time_frame>
+    <description>Change in whole-brain CBF as measured using MRI ASL at end of study (1 year) compared to baseline.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Grey Matter - Cerebral Blood Flow</measure>
+    <time_frame>From Baseline to approximate 1 year after recruitment</time_frame>
+    <description>Change in Grey Matter CBF as measured using MRI ASL at end of study (1 year) compared to baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>White Matter - Cerebral Blood Flow</measure>
+    <time_frame>From Baseline to approximate 1 year after recruitment</time_frame>
+    <description>Change in white matter CBF as measured using MRI ASL at end of study (1 year) compared to baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Structural Connectivity</measure>
+    <time_frame>From Baseline to approximate 1 year after recruitment</time_frame>
+    <description>Change in structural connectivity CBF as measured using MRI DTI at end of study (1 year) compared to baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive Function - MoCA</measure>
+    <time_frame>From Baseline to approximate 1 year after recruitment</time_frame>
+    <description>Change in MoCA Score at end of study (1 year)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive Function - Stroop colour-word test</measure>
+    <time_frame>From Baseline to approximate 1 year after recruitment</time_frame>
+    <description>Change in Stroop colour-word test Score at end of study (1 year)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive Function - Digit Symbol Coding test</measure>
+    <time_frame>From Baseline to approximate 1 year after recruitment</time_frame>
+    <description>Change in Digital Symbol Coding test Score at end of study (1 year)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">104</enrollment>
+  <condition>Small Vessel Cerebrovascular Disease</condition>
+  <condition>Stroke</condition>
+  <arm_group>
+    <arm_group_label>Intensive Treatment Group</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>SBP target 120-129 mmHg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard Treatment Group</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>SBP target 130-140 mmHg</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Intensive treatment</intervention_name>
+    <description>If the mean home SBP preceding clinic follow-up is &gt;130mmHg, BP lowering treatment will be stepped up, and if the mean SBP preceding clinic follow-up is &lt;120mmHg, BP lowering treatment will be stepped down, until the target SBP of 120-129mmHg is achieved, or symptoms of hypotension prevent treatment to be further intensified.</description>
+    <arm_group_label>Intensive Treatment Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard treatment</intervention_name>
+    <description>If the mean home SBP preceding clinic follow-up is &gt;140mmHg, BP lowering treatment will be stepped up, and if the mean SBP preceding clinic follow-up is &lt;130mmHg, BP lowering will be stepped down, until the target SBP 130-140mmg is achieved or symptoms of hypotension prevent treatment being intensified.</description>
+    <arm_group_label>Standard Treatment Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Aged ≥50&#xD;
+&#xD;
+          2. Chinese ethnicity&#xD;
+&#xD;
+          3. History of TIA/ischaemic stroke&#xD;
+&#xD;
+          4. Underlying severe cerebral SVD as evidenced by brain MRI with total SVD score ≥3&#xD;
+&#xD;
+          5. Underlying hypertension (defined as either SBP &gt;140mmHg and taking no more than two&#xD;
+             anti-hypertensive agents, or SBP between 130-140mmHg and on at least one and not more&#xD;
+             than three anti-hypertensive agents)&#xD;
+&#xD;
+          6. Able to provide written informed consent&#xD;
+&#xD;
+          7. Able to perform study cognitive assessments&#xD;
+&#xD;
+          8. Modified Rankin Scale (mRS) ≤3&#xD;
+&#xD;
+          9. Expected life expectancy &gt;2 years&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Unable to, or unwilling to consent&#xD;
+&#xD;
+          2. TIA/ischaemic stroke within three months (to avoid confounding effects of recovery on&#xD;
+             cognition from recent stroke)&#xD;
+&#xD;
+          3. Brain MR angiogram showing significant symptomatic or asymptomatic carotid, vertebral&#xD;
+             or intracranial large artery stenosis ≥50% as measured using the North American&#xD;
+             Symptomatic Carotid Endarterectomy Trial (NASCET) criteria&#xD;
+&#xD;
+          4. Cortical infarction &gt;2cm in diameter&#xD;
+&#xD;
+          5. Paroxysmal or permanent atrial fibrillation&#xD;
+&#xD;
+          6. Known single gene disorder causing cerebral SVD, e.g. cerebral autosomal dominant&#xD;
+             arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL)&#xD;
+&#xD;
+          7. Symptomatic postural hypotension&#xD;
+&#xD;
+          8. Moderate- and severe-stage dementia with Montreal Cognitive Assessment (MOCA)-HK score&#xD;
+             &lt;10&#xD;
+&#xD;
+          9. Moderate and severe depressive symptoms with Patient Health Questionnaire-9 score ≥10&#xD;
+&#xD;
+         10. Known secondary hypertension, e.g. hypertension is due to established obstructive&#xD;
+             sleep apnoea, renal parenchymal disease, renal artery stenosis, primary aldosteronism&#xD;
+             etc.&#xD;
+&#xD;
+         11. Unable to complete cognitive assessments&#xD;
+&#xD;
+         12. mRS &gt;3&#xD;
+&#xD;
+         13. Life expectancy of less than 2 years&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gary KK LAU</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The University of Hong Kong</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Gary KK LAU</last_name>
+    <phone>852-22554249</phone>
+    <email>gkklau@hku.hk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Hong Kong</name>
+      <address>
+        <city>Hong Kong</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gary Kui-Kai LAU</last_name>
+      <phone>852-22554249</phone>
+      <email>gkklau@hku.hk</email>
+    </contact>
+    <investigator>
+      <last_name>Gary Kui-Kai LAU</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Henry Ka-Fung MAK</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Kay-Cheong TEO</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Hong Kong</country>
+  </location_countries>
+  <reference>
+    <citation>GBD 2016 Lifetime Risk of Stroke Collaborators; Feigin VL, Nguyen G, Cercy K, Johnson CO, Alam T, Parmar PG, Abajobir AA, Abate KH, Abd-Allah F, Abejie AN, Abyu GY, Ademi Z, Agarwal G, Ahmed MB, Akinyemi RO, Al-Raddadi R, Aminde LN, Amlie-Lefond C, Ansari H, Asayesh H, Asgedom SW, Atey TM, Ayele HT, Banach M, Banerjee A, Barac A, Barker-Collo SL, Barnighausen T, Barregard L, Basu S, Bedi N, Behzadifar M, Bejot Y, Bennett DA, Bensenor IM, Berhe DF, Boneya DJ, Brainin M, Campos-Nonato IR, Caso V, Castaneda-Orjuela CA, Rivas JC, Catala-Lopez F, Christensen H, Criqui MH, Damasceno A, Dandona L, Dandona R, Davletov K, de Courten B, deVeber G, Dokova K, Edessa D, Endres M, Faraon EJA, Farvid MS, Fischer F, Foreman K, Forouzanfar MH, Gall SL, Gebrehiwot TT, Geleijnse JM, Gillum RF, Giroud M, Goulart AC, Gupta R, Gupta R, Hachinski V, Hamadeh RR, Hankey GJ, Hareri HA, Havmoeller R, Hay SI, Hegazy MI, Hibstu DT, James SL, Jeemon P, John D, Jonas JB, Jozwiak J, Kalani R, Kandel A, Kasaeian A, Kengne AP, Khader YS, Khan AR, Khang YH, Khubchandani J, Kim D, Kim YJ, Kivimaki M, Kokubo Y, Kolte D, Kopec JA, Kosen S, Kravchenko M, Krishnamurthi R, Kumar GA, Lafranconi A, Lavados PM, Legesse Y, Li Y, Liang X, Lo WD, Lorkowski S, Lotufo PA, Loy CT, Mackay MT, Abd El Razek HM, Mahdavi M, Majeed A, Malekzadeh R, Malta DC, Mamun AA, Mantovani LG, Martins SCO, Mate KK, Mazidi M, Mehata S, Meier T, Melaku YA, Mendoza W, Mensah GA, Meretoja A, Mezgebe HB, Miazgowski T, Miller TR, Ibrahim NM, Mohammed S, Mokdad AH, Moosazadeh M, Moran AE, Musa KI, Negoi RI, Nguyen M, Nguyen QL, Nguyen TH, Tran TT, Nguyen TT, Anggraini Ningrum DN, Norrving B, Noubiap JJ, O'Donnell MJ, Olagunju AT, Onuma OK, Owolabi MO, Parsaeian M, Patton GC, Piradov M, Pletcher MA, Pourmalek F, Prakash V, Qorbani M, Rahman M, Rahman MA, Rai RK, Ranta A, Rawaf D, Rawaf S, Renzaho AM, Robinson SR, Sahathevan R, Sahebkar A, Salomon JA, Santalucia P, Santos IS, Sartorius B, Schutte AE, Sepanlou SG, Shafieesabet A, Shaikh MA, Shamsizadeh M, Sheth KN, Sisay M, Shin MJ, Shiue I, Silva DAS, Sobngwi E, Soljak M, Sorensen RJD, Sposato LA, Stranges S, Suliankatchi RA, Tabares-Seisdedos R, Tanne D, Nguyen CT, Thakur JS, Thrift AG, Tirschwell DL, Topor-Madry R, Tran BX, Nguyen LT, Truelsen T, Tsilimparis N, Tyrovolas S, Ukwaja KN, Uthman OA, Varakin Y, Vasankari T, Venketasubramanian N, Vlassov VV, Wang W, Werdecker A, Wolfe CDA, Xu G, Yano Y, Yonemoto N, Yu C, Zaidi Z, El Sayed Zaki M, Zhou M, Ziaeian B, Zipkin B, Vos T, Naghavi M, Murray CJL, Roth GA. Global, Regional, and Country-Specific Lifetime Risks of Stroke, 1990 and 2016. N Engl J Med. 2018 Dec 20;379(25):2429-2437. doi: 10.1056/NEJMoa1804492.</citation>
+    <PMID>30575491</PMID>
+  </reference>
+  <reference>
+    <citation>Wardlaw JM, Smith C, Dichgans M. Small vessel disease: mechanisms and clinical implications. Lancet Neurol. 2019 Jul;18(7):684-696. doi: 10.1016/S1474-4422(19)30079-1. Epub 2019 May 13.</citation>
+    <PMID>31097385</PMID>
+  </reference>
+  <reference>
+    <citation>Bos D, Wolters FJ, Darweesh SKL, Vernooij MW, de Wolf F, Ikram MA, Hofman A. Cerebral small vessel disease and the risk of dementia: A systematic review and meta-analysis of population-based evidence. Alzheimers Dement. 2018 Nov;14(11):1482-1492. doi: 10.1016/j.jalz.2018.04.007. Epub 2018 May 21.</citation>
+    <PMID>29792871</PMID>
+  </reference>
+  <reference>
+    <citation>Lau KK, Lovelock CE, Li L, Simoni M, Gutnikov S, Kuker W, Mak HKF, Rothwell PM. Antiplatelet Treatment After Transient Ischemic Attack and Ischemic Stroke in Patients With Cerebral Microbleeds in 2 Large Cohorts and an Updated Systematic Review. Stroke. 2018 Jun;49(6):1434-1442. doi: 10.1161/STROKEAHA.117.020104. Epub 2018 May 10.</citation>
+    <PMID>29748422</PMID>
+  </reference>
+  <reference>
+    <citation>Lau KK, Li L, Schulz U, Simoni M, Chan KH, Ho SL, Cheung RTF, Kuker W, Mak HKF, Rothwell PM. Total small vessel disease score and risk of recurrent stroke: Validation in 2 large cohorts. Neurology. 2017 Jun 13;88(24):2260-2267. doi: 10.1212/WNL.0000000000004042. Epub 2017 May 17.</citation>
+    <PMID>28515266</PMID>
+  </reference>
+  <reference>
+    <citation>Khan U, Porteous L, Hassan A, Markus HS. Risk factor profile of cerebral small vessel disease and its subtypes. J Neurol Neurosurg Psychiatry. 2007 Jul;78(7):702-6. doi: 10.1136/jnnp.2006.103549. Epub 2007 Jan 8.</citation>
+    <PMID>17210627</PMID>
+  </reference>
+  <reference>
+    <citation>Kernan WN, Ovbiagele B, Black HR, Bravata DM, Chimowitz MI, Ezekowitz MD, Fang MC, Fisher M, Furie KL, Heck DV, Johnston SC, Kasner SE, Kittner SJ, Mitchell PH, Rich MW, Richardson D, Schwamm LH, Wilson JA; American Heart Association Stroke Council, Council on Cardiovascular and Stroke Nursing, Council on Clinical Cardiology, and Council on Peripheral Vascular Disease. Guidelines for the prevention of stroke in patients with stroke and transient ischemic attack: a guideline for healthcare professionals from the American Heart Association/American Stroke Association. Stroke. 2014 Jul;45(7):2160-236. doi: 10.1161/STR.0000000000000024. Epub 2014 May 1. Erratum In: Stroke. 2015 Feb;46(2):e54.</citation>
+    <PMID>24788967</PMID>
+  </reference>
+  <reference>
+    <citation>SPS3 Study Group; Benavente OR, Coffey CS, Conwit R, Hart RG, McClure LA, Pearce LA, Pergola PE, Szychowski JM. Blood-pressure targets in patients with recent lacunar stroke: the SPS3 randomised trial. Lancet. 2013 Aug 10;382(9891):507-15. doi: 10.1016/S0140-6736(13)60852-1. Epub 2013 May 29. Erratum In: Lancet. 2013 Aug 10;382(9891):506. Coffey, C S [aded].</citation>
+    <PMID>23726159</PMID>
+  </reference>
+  <reference>
+    <citation>van Middelaar T, Argillander TE, Schreuder FHBM, Deinum J, Richard E, Klijn CJM. Effect of Antihypertensive Medication on Cerebral Small Vessel Disease: A Systematic Review and Meta-Analysis. Stroke. 2018 Jun;49(6):1531-1533. doi: 10.1161/STROKEAHA.118.021160. Epub 2018 May 8.</citation>
+    <PMID>29739911</PMID>
+  </reference>
+  <reference>
+    <citation>Denker MG, Cohen DL. What is an appropriate blood pressure goal for the elderly: review of recent studies and practical recommendations. Clin Interv Aging. 2013;8:1505-17. doi: 10.2147/CIA.S33087. Epub 2013 Nov 14.</citation>
+    <PMID>24255596</PMID>
+  </reference>
+  <reference>
+    <citation>Birns J, Markus H, Kalra L. Blood pressure reduction for vascular risk: is there a price to be paid? Stroke. 2005 Jun;36(6):1308-13. doi: 10.1161/01.STR.0000165901.38039.5f. Epub 2005 Apr 28.</citation>
+    <PMID>15860749</PMID>
+  </reference>
+  <reference>
+    <citation>Croall ID, Tozer DJ, Moynihan B, Khan U, O'Brien JT, Morris RG, Cambridge VC, Barrick TR, Blamire AM, Ford GA, Markus HS; PRESERVE Study Team. Effect of Standard vs Intensive Blood Pressure Control on Cerebral Blood Flow in Small Vessel Disease: The PRESERVE Randomized Clinical Trial. JAMA Neurol. 2018 Jun 1;75(6):720-727. doi: 10.1001/jamaneurol.2017.5153.</citation>
+    <PMID>29507944</PMID>
+  </reference>
+  <reference>
+    <citation>Fazekas F, Chawluk JB, Alavi A, Hurtig HI, Zimmerman RA. MR signal abnormalities at 1.5 T in Alzheimer's dementia and normal aging. AJR Am J Roentgenol. 1987 Aug;149(2):351-6. doi: 10.2214/ajr.149.2.351.</citation>
+    <PMID>3496763</PMID>
+  </reference>
+  <reference>
+    <citation>Staals J, Makin SD, Doubal FN, Dennis MS, Wardlaw JM. Stroke subtype, vascular risk factors, and total MRI brain small-vessel disease burden. Neurology. 2014 Sep 30;83(14):1228-34. doi: 10.1212/WNL.0000000000000837. Epub 2014 Aug 27.</citation>
+    <PMID>25165388</PMID>
+  </reference>
+  <reference>
+    <citation>Lau KK, Li L, Lovelock CE, Zamboni G, Chan TT, Chiang MF, Lo KT, Kuker W, Mak HK, Rothwell PM. Clinical Correlates, Ethnic Differences, and Prognostic Implications of Perivascular Spaces in Transient Ischemic Attack and Ischemic Stroke. Stroke. 2017 Jun;48(6):1470-1477. doi: 10.1161/STROKEAHA.117.016694. Epub 2017 May 11.</citation>
+    <PMID>28495831</PMID>
+  </reference>
+  <reference>
+    <citation>Lau KK, Li L, Simoni M, Mehta Z, Kuker W, Rothwell PM; Oxford Vascular Study. Long-Term Premorbid Blood Pressure and Cerebral Small Vessel Disease Burden on Imaging in Transient Ischemic Attack and Ischemic Stroke. Stroke. 2018 Sep;49(9):2053-2060. doi: 10.1161/STROKEAHA.118.021578.</citation>
+    <PMID>30354991</PMID>
+  </reference>
+  <reference>
+    <citation>Liu B, Lau KK, Li L, Lovelock C, Liu M, Kuker W, Rothwell PM. Age-Specific Associations of Renal Impairment With Magnetic Resonance Imaging Markers of Cerebral Small Vessel Disease in Transient Ischemic Attack and Stroke. Stroke. 2018 Apr;49(4):899-904. doi: 10.1161/STROKEAHA.117.019650. Epub 2018 Mar 9.</citation>
+    <PMID>29523652</PMID>
+  </reference>
+  <reference>
+    <citation>Lau KK, Pego P, Mazzucco S, Li L, Howard DP, Kuker W, Rothwell PM. Age and sex-specific associations of carotid pulsatility with small vessel disease burden in transient ischemic attack and ischemic stroke. Int J Stroke. 2018 Oct;13(8):832-839. doi: 10.1177/1747493018784448. Epub 2018 Jul 3.</citation>
+    <PMID>29966494</PMID>
+  </reference>
+  <reference>
+    <citation>Xu X, Lau KK, Wong YK, Mak HKF, Hui ES. The effect of the total small vessel disease burden on the structural brain network. Sci Rep. 2018 May 10;8(1):7442. doi: 10.1038/s41598-018-25917-4.</citation>
+    <PMID>29748646</PMID>
+  </reference>
+  <reference>
+    <citation>North American Symptomatic Carotid Endarterectomy Trial Collaborators; Barnett HJM, Taylor DW, Haynes RB, Sackett DL, Peerless SJ, Ferguson GG, Fox AJ, Rankin RN, Hachinski VC, Wiebers DO, Eliasziw M. Beneficial effect of carotid endarterectomy in symptomatic patients with high-grade carotid stenosis. N Engl J Med. 1991 Aug 15;325(7):445-53. doi: 10.1056/NEJM199108153250701.</citation>
+    <PMID>1852179</PMID>
+  </reference>
+  <reference>
+    <citation>Wong A, Xiong YY, Kwan PW, Chan AY, Lam WW, Wang K, Chu WC, Nyenhuis DL, Nasreddine Z, Wong LK, Mok VC. The validity, reliability and clinical utility of the Hong Kong Montreal Cognitive Assessment (HK-MoCA) in patients with cerebral small vessel disease. Dement Geriatr Cogn Disord. 2009;28(1):81-7. doi: 10.1159/000232589. Epub 2009 Aug 11.</citation>
+    <PMID>19672065</PMID>
+  </reference>
+  <reference>
+    <citation>Yu X, Tam WW, Wong PT, Lam TH, Stewart SM. The Patient Health Questionnaire-9 for measuring depressive symptoms among the general population in Hong Kong. Compr Psychiatry. 2012 Jan;53(1):95-102. doi: 10.1016/j.comppsych.2010.11.002. Epub 2010 Dec 28.</citation>
+    <PMID>21193179</PMID>
+  </reference>
+  <reference>
+    <citation>Lee TM, Chan CC. Stroop interference in Chinese and English. J Clin Exp Neuropsychol. 2000 Aug;22(4):465-71. doi: 10.1076/1380-3395(200008)22:4;1-0;FT465.</citation>
+    <PMID>10923056</PMID>
+  </reference>
+  <reference>
+    <citation>Lam CLM, Liu HL, Huang CM, Wai YY, Lee SH, Yiend J, Lin C, Lee TMC. The neural correlates of perceived energy levels in older adults with late-life depression. Brain Imaging Behav. 2019 Oct;13(5):1397-1405. doi: 10.1007/s11682-018-9940-y.</citation>
+    <PMID>30159766</PMID>
+  </reference>
+  <reference>
+    <citation>Williams B, Mancia G, Spiering W, Agabiti Rosei E, Azizi M, Burnier M, Clement DL, Coca A, de Simone G, Dominiczak A, Kahan T, Mahfoud F, Redon J, Ruilope L, Zanchetti A, Kerins M, Kjeldsen SE, Kreutz R, Laurent S, Lip GYH, McManus R, Narkiewicz K, Ruschitzka F, Schmieder RE, Shlyakhto E, Tsioufis C, Aboyans V, Desormais I; ESC Scientific Document Group. 2018 ESC/ESH Guidelines for the management of arterial hypertension. Eur Heart J. 2018 Sep 1;39(33):3021-3104. doi: 10.1093/eurheartj/ehy339. No abstract available. Erratum In: Eur Heart J. 2019 Feb 1;40(5):475.</citation>
+    <PMID>30165516</PMID>
+  </reference>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 10, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 10, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>February 2, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 2, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The University of Hong Kong</investigator_affiliation>
+    <investigator_full_name>Dr. Gary Kui Kai LAU</investigator_full_name>
+    <investigator_title>Clinical Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>Stroke</keyword>
+  <keyword>Small Vessel Disease</keyword>
+  <keyword>Cerebral blood flow</keyword>
+  <keyword>Cognition</keyword>
+  <keyword>Elderly</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+    <mesh_term>Ischemic Stroke</mesh_term>
+    <mesh_term>Cerebrovascular Disorders</mesh_term>
+    <mesh_term>Cerebral Small Vessel Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

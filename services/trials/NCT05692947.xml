@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9675">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05692947</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY00000607</org_study_id>
+    <nct_id>NCT05692947</nct_id>
+  </id_info>
+  <brief_title>The Validity of CORE Sensor in Heat Training for Male and Female Endurance Athletes</brief_title>
+  <acronym>CORE</acronym>
+  <official_title>The Validity of CORE Sensor in Heat Training for Male and Female Endurance Athletes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Oregon</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Oregon</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is investigating the efficacy of CORE™ devices in calculating core body&#xD;
+      temperature in athletes under varying environmental conditions.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      As athletes exercise, their core body temperature rises, which can affect their performance.&#xD;
+      Additionally, repeated mild to moderate heat stress, heat acclimation, can be used to improve&#xD;
+      exercise tolerance and performance. Thus, an athlete can gain performance benefits through&#xD;
+      monitoring their heat loading while training. The aim of this study is to compare the CORE™&#xD;
+      body temperatures recorded during exercise in two different environmental conditions in which&#xD;
+      the investigators will get a separation of core temperature and skin temperature. The&#xD;
+      investigators will accomplish this by recruiting trained and elite athletes, ages 18-59, to&#xD;
+      participate in two exercise sessions in the heat at low (10-20%) and high (80-100%) relative&#xD;
+      humidity. The investigators will compare the CORE™ temperature estimates against an FDA&#xD;
+      approved ingestible temperature monitoring device to assess the accuracy of the CORE™&#xD;
+      devices.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 19, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Each athlete will be asked to exercise for 45 minutes in a hot/dry condition (38 degrees Celsius and 10-20% relative humidity) and a hot/humid condition (28 degrees Celsius and 80-100% relative humidity). Experimental sessions will occur at least seven days apart and participants will be randomly assigned to which condition they experience first.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Ability to accurately estimate core body temperature</measure>
+    <time_frame>30 minutes</time_frame>
+    <description>The CORE and CaleraResearch devices estimate core body temperature using single-site skin temperature and heartrate as data inputs for their proprietary algorithm. This calculated temperature will be assessed against actual core body temperature, measured with an FDA approved, ingestible, temperature-sensing telemetry pill.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Temperature Change, Body</condition>
+  <arm_group>
+    <arm_group_label>Hot/Dry</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Core body temperature, skin temperature, heart rate, and heat perceptions will be collected from elite athletes while running or cycling for 45 minutes in the heat at low humidity (38 degrees Celsius with 10-20% relative humidity).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Hot/Humid</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Core body temperature, skin temperature, heart rate, and heat perceptions will be collected from elite athletes while running or cycling for 45 minutes in the heat at high humidity (28 degrees Celsius with 80-100% relative humidity).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Core body temperature device</intervention_name>
+    <description>This study is to verify the claims of CORE™ body temperature system to estimate core body temperature from skin temperature and heart rate during exercise under varying environmental conditions. Subjects will ingest a temperature sensing pill and be outfitted with skin temperature sensors, a chest strap heart rate monitor, and the CORE and CaleraResearch devices. Athletes will run or cycle in hot/dry and hot/humid conditions for 45 minutes at an absolute workload of 60% VO2 Max/Peak.</description>
+    <arm_group_label>Hot/Dry</arm_group_label>
+    <arm_group_label>Hot/Humid</arm_group_label>
+    <other_name>CORE™</other_name>
+    <other_name>CaleraResearch™</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Highly trained or elite athlete&#xD;
+&#xD;
+          -  Nonsmokers&#xD;
+&#xD;
+          -  Able to read and speak English&#xD;
+&#xD;
+          -  No underlying cardiovascular limitations&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Currently or previously a habitual smoker (nicotine/cannabis)&#xD;
+&#xD;
+          -  Pregnant, breast feeding, trying to conceive, undergoing treatment to increase sperm&#xD;
+             count&#xD;
+&#xD;
+          -  Those taking medications that affect cardiovascular function, with the exception of&#xD;
+             oral contraceptives&#xD;
+&#xD;
+          -  History of stroke, clotting disorders or venous thrombosis&#xD;
+&#xD;
+          -  A history of heat illness or heat injury&#xD;
+&#xD;
+          -  History of obstructive diseases of the gastrointestinal tract including&#xD;
+             diverticulosis, diverticulitis, inflammatory bowel disease, peptic ulcer disease,&#xD;
+             Chron's disease, ulcerative colitis, or previous GI surgery&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>59 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Christopher T Minson, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Oregon</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Christopher T Minson, PhD</last_name>
+    <phone>541-346-4206</phone>
+    <email>minson@uoregon.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Karen W Needham, BS</last_name>
+    <phone>541-346-4206</phone>
+    <email>NEEDHAM@uoregon.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Bowerman Sports Science Center at the University of Oregon</name>
+      <address>
+        <city>Eugene</city>
+        <state>Oregon</state>
+        <zip>97403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karen Needham</last_name>
+      <phone>541-232-2064</phone>
+      <email>needham@uoregon.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>September 12, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>January 19, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 19, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Exercise</keyword>
+  <keyword>Heat acclimation</keyword>
+  <keyword>Core temperature</keyword>
+  <keyword>Heat loading</keyword>
+  <keyword>Heat stress</keyword>
+  <keyword>Thermoregulation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Body Temperature Changes</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

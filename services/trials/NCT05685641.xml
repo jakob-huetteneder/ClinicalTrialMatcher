@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9996">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05685641</url>
+  </required_header>
+  <id_info>
+    <org_study_id>181250</org_study_id>
+    <nct_id>NCT05685641</nct_id>
+  </id_info>
+  <brief_title>Point of Care Tests to Identify Opportunistic Infections in Advanced HIV Patients in Mexico City</brief_title>
+  <acronym>PREVALIOCDMX</acronym>
+  <official_title>Implementation Protocol for Rapid Diagnostic Tests for Opportunistic Infections in Reference Centers in Mexico City</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Respiratory Diseases, Mexico</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Cancerology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital General Dr. Manuel Gea González</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Medical Sciences and Nutrition, Salvador Zubiran</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Respiratory Diseases, Mexico</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In Mexico City, the main cause of mortality among people living with HIV (PLHIV) continues to&#xD;
+      be opportunistic infections (OIs). Early detection of OIs allows their timely treatment and&#xD;
+      improves their prognosis. The use of rapid diagnostic tests (RDT) based on antigens of the&#xD;
+      most frequent causative agents of OIs allows adequate screening of these patients and&#xD;
+      facilitates decision making at the point of care. Unfortunately, these studies are not widely&#xD;
+      available in the different PLHIV care centers in the CDMX. We will conduct an open-label,&#xD;
+      non-inferiority uncontrolled clinical trial to investigate the diagnostic performance of&#xD;
+      urinary lipoarabinomannan, urinary Histoplasma antigen and serum Cryptococcus antigen in&#xD;
+      patients presenting for care with advanced HIV in CDMX, supported by rapid cluster of&#xD;
+      differentiation 4 (CD4) testing with lateral flow technology. Four referral hospitals will&#xD;
+      participate over 12 months. All patients with diagnosed HIV disease and suspected advanced&#xD;
+      disease presenting for care at participating centers will be included in the study. An&#xD;
+      inventory of approximately 1000 RDT will be obtained and distributed among the participating&#xD;
+      sites. A study coordinator will be hired and will visit each site once a week to collect the&#xD;
+      study variables and follow up on the included patients. The primary outcome of the study will&#xD;
+      be the percentage of patients with advanced disease who present with diagnoses made by RDT&#xD;
+      compared to historical controls of patients diagnosed with OI in 2022 at participating&#xD;
+      centers by conventional methods. Secondary outcomes will be time to initiation of&#xD;
+      antiretroviral therapy (ART), time to initiation of OI treatment, and 30-day mortality after&#xD;
+      HIV diagnosis.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2023</start_date>
+  <completion_date type="Anticipated">September 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">March 30, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time until opportunistic infection treatment initiation</measure>
+    <time_frame>30 days</time_frame>
+    <description>Amount of time in days from the diagnosis of the opportunistic infection until the initiation of the specific treatment for the detected infection</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>AIDS-related mortality at 30 days</measure>
+    <time_frame>30 days</time_frame>
+    <description>If a patient has died due to AIDS-related causes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AIDS-related mortality at 90 days</measure>
+    <time_frame>90 days</time_frame>
+    <description>If a patient has died due to AIDS-related causes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Monthly incidence of histoplasmosis, cryptococcosis and tuberculosis</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>The amount of diagnosed cases of histoplasmosis, cryptococcosis and tuberculosis per amount of advanced HIV-patients seen every month in the study sites</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time until antiretroviral treatment initiation</measure>
+    <time_frame>30 days</time_frame>
+    <description>Days passed from a patient's HIV diagnosis until he is given antiretroviral treatment for the first time</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">211</enrollment>
+  <condition>Acquired Immunodeficiency Syndrome</condition>
+  <condition>Histoplasmosis AIDS</condition>
+  <condition>Tuberculosis Infection</condition>
+  <condition>Cryptococcal Meningitis</condition>
+  <arm_group>
+    <arm_group_label>Intervention group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All enrolled patients will be included in this arm of the study, patients will be administered all rapid diagnostic tests as part of their diagnostic work-up (this will constitute the main intervention of the study)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Histoplasma Urine Antigen Lateral Flow Antigen test</intervention_name>
+    <description>Lateral Flow Antigen test for urine samples to detect Histoplasma capsulatum disseminated disease</description>
+    <arm_group_label>Intervention group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Cryptococcal Lateral Flow Antigen test</intervention_name>
+    <description>Lateral Flow Antigen test for serum or cerebrospinal fluid samples to detect Cryptococcus sp meningitis or disseminated disease</description>
+    <arm_group_label>Intervention group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Tuberculosis-lipoarabinomannan Lateral Flow Antigen test</intervention_name>
+    <description>Lateral Flow Antigen test for serum samples to detect Mycobacterium tuberculosus disease</description>
+    <arm_group_label>Intervention group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Positive ELISA test or positive viral load for HIV.&#xD;
+&#xD;
+          -  Patients with suspected or confirmed advanced HIV disease defined as follows:&#xD;
+&#xD;
+               -  Confirmed: asymptomatic patients with CD4 count less than 200 cells/ml within 3&#xD;
+                  months of study inclusion or confirmed diagnosis of an AIDS-defining&#xD;
+                  opportunistic illness within the last 3 months.&#xD;
+&#xD;
+               -  Suspected: patients who, irrespective of CD4 count, present any symptoms&#xD;
+                  suggestive of systemic infection that, at the discretion of the treating&#xD;
+                  physicians, produce suspicion of an AIDS-defining opportunistic disease (e.g.,&#xD;
+                  fever, productive cough, diaphragmatic diapers, etc.). Fever, productive cough,&#xD;
+                  nocturnal diaphoresis, altered mental status, headache, lymphadenopathy,&#xD;
+                  dermatological lesions) or that meet criteria for HIV wasting syndrome (loss of&#xD;
+                  10% of baseline weight plus the presence of chronic diarrhea or chronic weakness&#xD;
+                  and an episode of fever in the last 30 days).&#xD;
+&#xD;
+          -  Patients without effective antiretroviral therapy defined as not having received&#xD;
+             antiretroviral treatment in the last 3 months or in virologic failure (2 consecutive&#xD;
+             viral loads with more than 1000 copies/ml).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with a viral load of less than 1000 copies/ml.&#xD;
+&#xD;
+          -  Patients presenting for care having started treatment for systemic mycoses&#xD;
+             (amphotericin B or azoles) and tuberculosis.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Antonio Camiro Zúñiga, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Centro Medico ABC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Victor Ahumada Topete, MD</last_name>
+    <phone>55 5487 1700</phone>
+    <email>victor.ahumada@uehi.mx</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>General Hospital Dr. Manuel Gea Gonzalez</name>
+      <address>
+        <city>Mexico City</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ana Patricia Rodríguez Zulueta, MD</last_name>
+      <phone>55 4000 3000</phone>
+      <email>rozu76@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>National Center of Nutrition and Medical Sciences</name>
+      <address>
+        <city>Mexico City</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Álvaro López Iñiguez, MD</last_name>
+      <phone>55 5487 0900</phone>
+      <email>alvarolopez@revistamedicamd.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>National Institute of Cancerology</name>
+      <address>
+        <city>Mexico City</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Alexandra Martin Onraet, MD</last_name>
+      <phone>55 5628 0400</phone>
+      <email>alexitemaon@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>National Institute of Respiratory Diseases</name>
+      <address>
+        <city>Mexico City</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Victor Ahumada Topete, MD</last_name>
+      <phone>55 5487 1700</phone>
+      <email>victor.ahumada@uehi.mx</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 21, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 12, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 17, 2023</study_first_posted>
+  <last_update_submitted>January 12, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 12, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 17, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Rapid Diagnostic Tests</keyword>
+  <keyword>Point-of-Care Systems</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infections</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Tuberculosis</mesh_term>
+    <mesh_term>Acquired Immunodeficiency Syndrome</mesh_term>
+    <mesh_term>HIV Infections</mesh_term>
+    <mesh_term>Latent Tuberculosis</mesh_term>
+    <mesh_term>Opportunistic Infections</mesh_term>
+    <mesh_term>Meningitis, Cryptococcal</mesh_term>
+    <mesh_term>Histoplasmosis</mesh_term>
+    <mesh_term>Meningitis</mesh_term>
+    <mesh_term>Immunologic Deficiency Syndromes</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Deidentified data will be uploaded to a public database sharing website</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Data will be made publicly available after publishing of the study in a peer reviewed journal</ipd_time_frame>
+    <ipd_access_criteria>Data will be made available upon request</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

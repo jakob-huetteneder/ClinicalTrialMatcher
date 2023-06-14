@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9737">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05691348</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-API-01</org_study_id>
+    <nct_id>NCT05691348</nct_id>
+  </id_info>
+  <brief_title>Same Day Ambulatory Appendectomy (SAMBA)</brief_title>
+  <acronym>SAMBA</acronym>
+  <official_title>Same Day Ambulatory Appendectomy (SAMBA)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire de Nice</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire de Nice</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The potential benefit of outpatient care for this common digestive emergency is considerable,&#xD;
+      both for the patients themselves and for the public health system:&#xD;
+&#xD;
+        1. Optimization of the care pathway, reducing the length of stay in hospital (a major issue&#xD;
+           in the context of the COVID-19 (coronavirus disease) pandemic) liberating patient beds&#xD;
+           and staff, and reducing the risk of nosocomial exposure.&#xD;
+&#xD;
+        2. Improved patient satisfaction compared to waiting for hours in the emergency department&#xD;
+           due to lack of hospital beds.&#xD;
+&#xD;
+        3. Non-inferiority of care in an outpatient unit in terms of quality and safety in day&#xD;
+           hospitalization.&#xD;
+&#xD;
+        4. Significant decrease in the overall cost of this pathology as a result of a reduction in&#xD;
+           the hospital stay.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2023</start_date>
+  <completion_date type="Anticipated">August 2025</completion_date>
+  <primary_completion_date type="Anticipated">August 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To demonstrate that outpatient care, compared with conventional care, in selected patients with acute uncomplicated appendicitis operated by laparoscopy, is non-inferior in terms of overall morbi-mortality on the 30th postoperative day.</measure>
+    <time_frame>30 days post surgery</time_frame>
+    <description>Morbi-mortality will be assessed by classifying post-operative complications according to Clavien-Dindo classification. It will be compared between both groups (&quot;ambulatory pathway&quot; versus &quot;conventional hospitalization&quot; CONV) on the 30th postoperative day.&#xD;
+The Clavien-Dindo classification was originally published in 2004 in the Annals of Surgery for elective general surgery. Later, it has been objectively validated for all surgical specialties. This classification ranks complications from 0 (no complication) to 5 (death). Complications that potentially lead to long-lasting disability after discharge (e.g.: paralysis of a vocal cord after thyroid surgery) are highlighted in the present classification by a suffix (&quot;d&quot; for disability). This suffix indicates that a long-term follow-up is required to comprehensively evaluate the outcome and related long-term quality of life.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To compare between both groups, at post-operative day 30, the delay from diagnosis to appendectomy</measure>
+    <time_frame>30 days post surgery</time_frame>
+    <description>The delay from diagnosis to appendectomy is defined as the time between the performance of the CT scan (or ultrasound or MRI) for diagnosis and the skin incision in the operating room. This time is expressed in minutes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare between both groups, at post-operative day 30, the real cumulated length of hospitalization</measure>
+    <time_frame>30 days post surgery</time_frame>
+    <description>The real cumulated length of hospitalization is the cumulative length of the entire hospital stay(s) in hours until the 30th postoperative day (rehospitalizations included). The length of stay in a non-hospital health structure, such as a convalescent center, will not be included.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare between both groups, at post-operative day 30, the rehospitalization rate</measure>
+    <time_frame>30 days post surgery</time_frame>
+    <description>All re-hospitalization(s) after initial discharge will be counted until 30 days post surgery, whatever the cause or type of hospitalization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare between both groups, the mild morbidity (Clavien-Dindo I-II) during 30 days post surgery</measure>
+    <time_frame>up to the 30th day post surgery</time_frame>
+    <description>Post-operative mild morbidity will be assessed with the Clavien-Dindo classification (grade I, II) up to the 30th day post surgery. Clavien-Dindo classification was originally published in 2004 in the Annals of Surgery for elective general surgery. Later, it has been objectively validated for all surgical specialties. This classification ranks complications from 0 (no complication) to 5 (death).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare between both groups, the severe morbidity (Clavien-Dindo III, IV, V) during 30 days post surgery</measure>
+    <time_frame>up to the 30th day post surgery</time_frame>
+    <description>Post-operative mild morbidity will be assessed with the severe morbidity (Clavien-Dindo III, IV, V) up to the 30th day post surgery. Clavien-Dindo classification was originally published in 2004 in the Annals of Surgery for elective general surgery. Later, it has been objectively validated for all surgical specialties. This classification ranks complications from 0 (no complication) to 5 (death).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare between both groups, the rate of interventional radiology re-intervention (radio-guided drainage)</measure>
+    <time_frame>up to the 30th day post surgery</time_frame>
+    <description>All the Clavien-Dindo interventional radiology re-interventions (radio-guided drainage) performed in relation with the appendicitis and any potential complications will be recorded up to the 30th day post surgery.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare between both groups, the rate of laparoscopic re-intervention</measure>
+    <time_frame>up to the 30th day post surgery</time_frame>
+    <description>All laparoscopic re-interventions performed in relation with the appendectomy and the potential complications will be recorded up to the 30th day post surgery.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare between both groups, at post-operative day 30, the rate of re-intervention by laparotomy</measure>
+    <time_frame>up to the 30th day post surgery</time_frame>
+    <description>All the laparotomic re-interventions performed in relation with the appendectomy and the potential complications will be recorded up to the 30th day post surgery.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare between both groups, patient satisfaction 7 and 30 days post surgery</measure>
+    <time_frame>7 and 30 days post surgery</time_frame>
+    <description>Patient satisfaction will be assessed using a numerical scale from 0 to 10, using the Link4Life app. Zero '0', placed on the left, means that the patient is not satisfied at all with her/his postoperative course; '10', placed on the right, means that the patient is extremely satisfied with her/his postoperative course. If the patient does not have access or does not wish to access Link4Life, a clinical research assistant from the investigating center will collect the patient's satisfaction through a phone call. The questions that will be asked are: &quot;How satisfied are you with your care?&quot;; &quot;are you in pain and if so, how severe is it?&quot;; &quot;Were you worried about same-day discharge (for patients in the outpatient group)?</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare between both groups, patient quality of life 7 and 30 days post surgery</measure>
+    <time_frame>at inclusion and at 7 and 30 days post surgery</time_frame>
+    <description>Quality of life will be evaluated using the EuroQol five-dimension questionnaire (EQ-5D-5L), at inclusion, and at 7 and 30 days post surgery.The EQ-5D-5L comprises a descriptive system and a visual analogue scale (VAS). The descriptive system is composed of five health dimensions (mobility, self-care, usual activities, pain/discomfort and anxiety/depression) with 5 levels of health (no problems, slight problems, moderate problems, severe problems and extreme problems). For each of the 5 dimensions, the participant's answer is converted to a number between 1 and 5, expressing the health state reported. The responses are combined to produce a five-digit number describing the participant's health status which is converted to a utility value from the country specific value set. The French EQ-5D-5L value set has utility between -0.530 (health condition worse than death) and 1 (best possible health). The VAS records the self-rated health status on a graduated scale from 0 to 100.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the rate of conversion from outpatient to conventional care</measure>
+    <time_frame>up to the 30th day post surgery</time_frame>
+    <description>A conversion will be defined as a patient randomized to the outpatient care group who is finally treated following the conventional care procedure, whatever the reason</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To estimate the cost of outpatient appendectomy management</measure>
+    <time_frame>up to the 30th day post surgery</time_frame>
+    <description>The cost will be estimated by the hospital cost (intervention and outpatient stay).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To study the economic impact (utility) of outpatient appendectomy management compared to conventional hospitalization</measure>
+    <time_frame>up to the 30th day post surgery</time_frame>
+    <description>The economic impact will be studied with a cost-utility analysis which will estimate the incremental cost-effectiveness ratio (ICER) in cost per QALY (quality adjusted life years) gained.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To study the economic impact (effectiveness) of outpatient appendectomy management compared to conventional hospitalization</measure>
+    <time_frame>up to the 30th day post surgery</time_frame>
+    <description>The economic impact will be studied with a cost-effectiveness analysis which will estimate the ICER in cost per patient without rehospitalization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To study the generalization of outpatient appendectomy management in all French hospitals at the budgetary level</measure>
+    <time_frame>up to the 30th day post surgery</time_frame>
+    <description>The generalization of outpatient appendectomy management will be studied with a budget impact model which will estimate the consequences in terms of costs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To study the generalization of outpatient appendectomy management in all French hospitals at a strategic level</measure>
+    <time_frame>up to the 30th day post surgery</time_frame>
+    <description>The generalization of outpatient appendectomy management will be studied with QALYs (quality adjusted life years) of the adoption of the outpatient strategy in all French hospitals</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1400</enrollment>
+  <condition>Appendicitis</condition>
+  <arm_group>
+    <arm_group_label>Ambulatory pathway</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Conventional hospitalisation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Ambulatory appendectomy</intervention_name>
+    <description>Appendectomy will be performed in outpatient surgery unit. Patient will be discharge from the hospital the same day as surgery</description>
+    <arm_group_label>Ambulatory pathway</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Conventional appendectomy</intervention_name>
+    <description>Appendectomy will be performed in digestive surgery department. Patient will be discharge from the hospital the day after surgery: he will spend a night under observation</description>
+    <arm_group_label>Conventional hospitalisation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients aged 15-74 years&#xD;
+&#xD;
+          -  BMI ≤ 30 kg/m2&#xD;
+&#xD;
+          -  Uncomplicated acute appendicitis confirmed by imaging (ultrasound and/or CT and/or&#xD;
+             MRI)&#xD;
+&#xD;
+               -  Temperature ≤ 38,1°C and &gt; 35,5°C&#xD;
+&#xD;
+               -  Appendix diameter &gt; 6mm and ≤ 15mm&#xD;
+&#xD;
+               -  Without effusion or with only localized peri-appendicular effusion&#xD;
+&#xD;
+               -  Infiltration of peri-appendicular fat without abscess or plastron&#xD;
+&#xD;
+               -  No sign of perforation&#xD;
+&#xD;
+               -  Leukocytes ≤ 15,000G/L AND&#xD;
+&#xD;
+               -  CRP (C reactive protein) ≤ 50mg/L&#xD;
+&#xD;
+          -  If pain, calmed by level 2 analgesic at maximum&#xD;
+&#xD;
+          -  Ambulatory criteria&#xD;
+&#xD;
+               -  Availability of monitoring by a relative during the 12 hours after discharge from&#xD;
+                  the hospital&#xD;
+&#xD;
+               -  Residence located less than 20 minutes by car from a health center (hospital or&#xD;
+                  clinic)&#xD;
+&#xD;
+               -  Access to a telephone mobile or fixed in case of problems&#xD;
+&#xD;
+          -  Signature of the written informed consent form by the patient&#xD;
+&#xD;
+          -  If the patient is a minor, signature of the written informed consent form by both&#xD;
+             parents or their legal representative&#xD;
+&#xD;
+          -  Affiliation to a French health insurance scheme or equivalent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Criteria that exclude ambulatory care such as an ASA score (Physical status score) &gt;&#xD;
+             2, severe or uncontrolled comorbidities, severe pulmonary disease including&#xD;
+             obstructive sleep apnea, anticoagulation or antiplatelet drug or contraindication to&#xD;
+             ambulatory surgery such as intubation difficulties&#xD;
+&#xD;
+          -  Presence of active cancer, a malignant hemopathy, drug addiction, coagulopathy,&#xD;
+             immunosuppressive treatment&#xD;
+&#xD;
+          -  Non-acute or interval appendectomy, i.e. after antibiotic treatment of a complicated&#xD;
+             appendicitis of the plastron or drainage of an appendicular abscess;&#xD;
+&#xD;
+          -  History of pelvic surgery&#xD;
+&#xD;
+          -  Vulnerable people: pregnant or breast-feeding women (patients will undergo a pregnancy&#xD;
+             test: plasmatic β-hCG (human chorionic gonadotropin) or urinary test), adult under&#xD;
+             guardianship or deprived of freedom. Pregnant women are considered to have a full&#xD;
+             stomach, with risk of inhalation at anesthetic induction and represent a&#xD;
+             contraindication to ambulatory surgery. In addition, the need to perform abdominal&#xD;
+             surgery on a pregnant woman requires obstetric monitoring that is difficult to&#xD;
+             reconcile with management in an outpatient surgery unit (need for obstetric ultrasound&#xD;
+             or monitoring).&#xD;
+&#xD;
+          -  Suspicion of a tumor of the appendix : Mucocele and pseudomyxoma, Carcinoid tumor,&#xD;
+             Adenocarcinoma of the appendix, Another type of tumor&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>15 Years</minimum_age>
+    <maximum_age>74 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Catherine ARVIEUX</last_name>
+    <phone>04 43 98 52 42</phone>
+    <phone_ext>+33</phone_ext>
+    <email>catherine.arvieux@intradef.gouv.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Damien MASSALOU</last_name>
+    <phone>04 92 03 33 13</phone>
+    <phone_ext>+33</phone_ext>
+    <email>massalou.d@chu-nice.Fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>CHU de Nice</name>
+      <address>
+        <city>Nice</city>
+        <state>Alpes-Maritimes</state>
+        <zip>06000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Damien MASSALOU</last_name>
+      <phone>0492033313</phone>
+      <phone_ext>+33</phone_ext>
+      <email>massalou.d@chu-nice.Fr</email>
+    </contact>
+    <investigator>
+      <last_name>Damien MASSALOU</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Bordeaux</name>
+      <address>
+        <city>Bordeaux</city>
+        <state>Aquitaine</state>
+        <zip>33076</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Vincent DUBUISSON</last_name>
+      <phone>05 56 79 56 79</phone>
+      <phone_ext>+33</phone_ext>
+      <email>vincent.dubuisson@chu-bordeaux.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Vincent DUBUISSON</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Grenoble Alpes</name>
+      <address>
+        <city>La Tronche</city>
+        <state>Auvergne-Rhône-Alpes</state>
+        <zip>38700</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Julio ABBA</last_name>
+      <phone>06 63 68 33 94</phone>
+      <phone_ext>+33</phone_ext>
+      <email>JAbba@chu-grenoble.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Julio ABBA</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Edouard HERRIOT</name>
+      <address>
+        <city>Lyon</city>
+        <state>Auvergne-Rhône-Alpes</state>
+        <zip>69003</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Olivier MONNEUSE</last_name>
+      <phone>04 72 11 01 02</phone>
+      <phone_ext>+33</phone_ext>
+      <email>olivier.monneuse@chu-lyon.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Olivier MONNEUSE</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Saint-Etienne - Hôpital Nord</name>
+      <address>
+        <city>Saint-Priest-en-Jarez</city>
+        <state>Auvergne-Rhône-Alpes</state>
+        <zip>42270</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Karine ABBOUD</last_name>
+      <email>karine.abboud@chu-st-etienne.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Karine ABBOUD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CH de Voiron</name>
+      <address>
+        <city>Voiron</city>
+        <state>Auvergne-Rhône-Alpes</state>
+        <zip>38500</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Romain RIBOUD</last_name>
+      <phone>04 76 15 62 15</phone>
+      <phone_ext>+33</phone_ext>
+      <email>rriboud1@chu-grenoble.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Romain RIBOUD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>APHM Hôpital Nord</name>
+      <address>
+        <city>Marseille</city>
+        <state>Bouches-du-Rhône</state>
+        <zip>13326</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Laura BEYER</last_name>
+      <phone>04 91 96 50 90</phone>
+      <phone_ext>+33</phone_ext>
+      <email>laura.beyer@ap-hm.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Laura BEYER</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier d'Auxerre</name>
+      <address>
+        <city>Auxerre</city>
+        <state>Bourgogne-Franche-Comté</state>
+        <zip>89011</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Baptiste BORRACCINO</last_name>
+      <phone>03 86 48 44 45</phone>
+      <phone_ext>+33</phone_ext>
+      <email>baptiste.borraccino@hotmail.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Baptiste BORRACCINO</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Minjo</name>
+      <address>
+        <city>Besançon</city>
+        <state>Bourgogne-Franche-Comté</state>
+        <zip>25000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Célia TURCO</last_name>
+      <phone>03 81 66 83 22</phone>
+      <phone_ext>+33</phone_ext>
+      <email>cturco@chu-besancon.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Célia TURCO</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Rennes</name>
+      <address>
+        <city>Rennes</city>
+        <state>Bretagne</state>
+        <zip>35000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Aude MERDRIGNAC</last_name>
+      <email>aude.merdrignac@chu-rennes.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Aude MERDRIGNAC</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Robert Debré - CHU de Reims</name>
+      <address>
+        <city>Reims</city>
+        <state>Grand Est</state>
+        <zip>51092</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Rami RHAIEM</last_name>
+      <phone>03 26 78 70 79</phone>
+      <phone_ext>+33</phone_ext>
+      <email>rrhaiem@chu-reims.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Rami RHAIEM</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Amiens-Picardie</name>
+      <address>
+        <city>Amiens</city>
+        <state>Hauts-de-France</state>
+        <zip>80054</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Elodie HARAUX</last_name>
+      <phone>06 61 78 41 15</phone>
+      <phone_ext>+33</phone_ext>
+      <email>haraux.elodie@chu-amiens.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Elodie HARAUX</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique de Saint-Omer</name>
+      <address>
+        <city>Blendecques</city>
+        <state>Hauts-de-France</state>
+        <zip>62575</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>André DABROWSKI</last_name>
+      <email>a.dabrowski@free.fr</email>
+    </contact>
+    <investigator>
+      <last_name>André DABROWSKI</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>APHP Pitié Salpetrière</name>
+      <address>
+        <city>Paris</city>
+        <state>Ile De France</state>
+        <zip>75013</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sébastien GAUJOUX</last_name>
+      <phone>01 58 41 50 09</phone>
+      <phone_ext>+33</phone_ext>
+      <email>sebastien.gaujoux@aphp.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Sébastien GAUJOUX</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>APHP Lariboisière</name>
+      <address>
+        <city>Paris</city>
+        <state>Ile De France</state>
+        <zip>75475</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Karine PAUTRAT</last_name>
+      <email>karine.pautrat@aphp.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Karine PAUTRAT</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique de l'Estrée</name>
+      <address>
+        <city>Stains</city>
+        <state>Ile De France</state>
+        <zip>93240</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Yamina LADJICI</last_name>
+      <phone>06 50 78 35 67</phone>
+      <phone_ext>+33</phone_ext>
+      <email>yladjici@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Yamina LADJICI</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CH Agen - Nérac</name>
+      <address>
+        <city>Agen</city>
+        <state>Nouvelle-Aquitaine</state>
+        <zip>47923</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jean-Luc MANOUVRIER</last_name>
+      <phone>05 53 69 70 40</phone>
+      <phone_ext>+33</phone_ext>
+      <email>manouvrierjl@ch-agen-nerac.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Jean-Luc MANOUVRIER</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CH de Dax</name>
+      <address>
+        <city>Dax</city>
+        <state>Nouvelle-Aquitaine</state>
+        <zip>40107</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Benjamin BLANC</last_name>
+      <phone>05 58 91 66 43</phone>
+      <email>blancb@ch-dax.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Benjamin BLANC</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Limoges</name>
+      <address>
+        <city>Limoges</city>
+        <state>Nouvelle-Aquitaine</state>
+        <zip>87000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Muriel MATHONNET</last_name>
+      <phone>05 55 05 62 25</phone>
+      <phone_ext>+33</phone_ext>
+      <email>mathonnet@unilim.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Muriel MATHONNET</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CH de Mont de Marsan</name>
+      <address>
+        <city>Mont-de-Marsan</city>
+        <state>Nouvelle-Aquitaine</state>
+        <zip>40000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Rémy CHEVALIER</last_name>
+      <phone>05 58 05 11 28</phone>
+      <phone_ext>+33</phone_ext>
+      <email>remy.chevalier@ch-mdm.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Rémy CHEVALIER</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Intercommunale de Fréjus-Saint-Raphaël</name>
+      <address>
+        <city>Fréjus</city>
+        <state>Paca</state>
+        <zip>83600</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Daniela MARIAGE</last_name>
+      <email>mariage.d@chi-fsr.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Daniela MARIAGE</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU d'Angers</name>
+      <address>
+        <city>Angers</city>
+        <state>Pays De La Loire</state>
+        <zip>49933</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Emilie LERMITE</last_name>
+      <phone>02 41 35 36 18</phone>
+      <phone_ext>+33</phone_ext>
+    </contact>
+    <contact_backup>
+      <last_name>elermite@chu-angers.fr</last_name>
+    </contact_backup>
+    <investigator>
+      <last_name>Emilie LERMITE</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital d'Instruction des armées Laveran</name>
+      <address>
+        <city>Marseille</city>
+        <state>Provence-Alpes-Côte d'Azur</state>
+        <zip>13384</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Yvain GOUDARD</last_name>
+      <phone>04 91 61 73 21</phone>
+      <phone_ext>+33</phone_ext>
+      <email>ygoudard.laveran@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Yvain GOUDARD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital d'Instruction des armées Sainte Anne - BCRM Toulon</name>
+      <address>
+        <city>Toulon</city>
+        <state>Provence-Alpes-Côte d'Azur</state>
+        <zip>83800</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Stéphane BOURGOUIN</last_name>
+      <email>stephane_bourguoin@hotmail.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Stéphane BOURGOUIN</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique du Val d'Ouest</name>
+      <address>
+        <city>Ecully</city>
+        <state>Rhones-Alpes</state>
+        <zip>69130</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Philippe GUILLEM</last_name>
+      <phone>04 72 19 31 75</phone>
+      <phone_ext>+33</phone_ext>
+      <email>docteurphguillem@outlook.com</email>
+    </contact>
+    <investigator>
+      <last_name>Philippe GUILLEM</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Avicenne</name>
+      <address>
+        <city>Bobigny</city>
+        <state>Île-de-France</state>
+        <zip>93000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Christophe TRESALLET</last_name>
+      <phone>01 48 02 61 95</phone>
+      <phone_ext>+33</phone_ext>
+      <email>christophe.tresallet@aphp.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Christophe TRESALLET</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Louis-Mourier</name>
+      <address>
+        <city>Colombes</city>
+        <state>Île-de-France</state>
+        <zip>92700</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>David MOSZKOWICZ</last_name>
+      <email>david.moszkowicz@aphp.fr</email>
+    </contact>
+    <investigator>
+      <last_name>David MOSZKOWICZ</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hia Begin</name>
+      <address>
+        <city>Saint-Mandé</city>
+        <state>Île-de-France</state>
+        <zip>94160</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Catherine ARIVEUX</last_name>
+      <phone>0443985242</phone>
+      <phone_ext>+33</phone_ext>
+      <email>catherine.arvieux@intradef.gouv.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Catherine ARVIEUX</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 9, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>January 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Appendicitis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

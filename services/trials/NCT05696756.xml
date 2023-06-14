@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9489">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05696756</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AZ190055</org_study_id>
+    <nct_id>NCT05696756</nct_id>
+  </id_info>
+  <brief_title>Electronic Memory and Management Aid</brief_title>
+  <acronym>EMMA</acronym>
+  <official_title>Electronic Memory and Management Aid (EMMA) Web-based Training Evaluation for Older Adults Experiencing Memory Difficulties</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington State University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>United States Department of Defense</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Washington State University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will evaluate the effectiveness of a personalized, web-based training intervention&#xD;
+      that was developed to teach use of an Electronic Memory and Management Aid (EMMA)&#xD;
+      application. The app-based system is designed to support everyday memory, daily activity&#xD;
+      management and positive health behavior engagement for older adults with subjective cognitive&#xD;
+      complaints or mild cognitive impairment. The investigators will also evaluate the degree to&#xD;
+      which a clinician is needed to oversee the uptake and utilization of the EMMA app during the&#xD;
+      web-based training intervention.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Participants will be randomly assigned to one of two groups, &quot;Technical Support Only&quot; group&#xD;
+      (T-only group) and &quot;Technical + Clinician Support&quot; group (T+C group). Participants will be&#xD;
+      enrolled in the study for 6 months.&#xD;
+&#xD;
+      Participants who pass initial phone screening criteria will participate in a 2-3 hour&#xD;
+      neurocognitive assessment over zoom to establish baseline cognition, prior to beginning the&#xD;
+      intervention. Participants will also complete questionnaires and a real-world measure&#xD;
+      assessing daily functioning. After the initial assessment is complete, participants will be&#xD;
+      given one-month to learn to use the EMMA app by completing the self-paced intervention via&#xD;
+      the adaptive, web-based training platform, which includes six lessons. EMMA device-use will&#xD;
+      be captured throughout the study by the app itself.&#xD;
+&#xD;
+      A component of the self-paced, web-based intervention involves setting goals related to using&#xD;
+      the EMMA app. A clinician will monitor the training data and goals the T+C group participants&#xD;
+      make and conduct brief problem-solving and goal-refining sessions during the intervention&#xD;
+      weeks. These sessions are expected to be 10-15 minutes. To keep training on track, the T-only&#xD;
+      group will receive brief phone check-ins to monitor progression through the web-based&#xD;
+      intervention. Following training, there will no longer be any differences in the treatment of&#xD;
+      both groups, which will be monitored for an additional three months. Immediately following&#xD;
+      training and at the end of the 3 month monitoring period, all participants will complete the&#xD;
+      battery of questionnaires and answer a semi-structured phone interview. In addition, at the&#xD;
+      end of the 3 month follow-up, all participants will again complete the neurocognitive&#xD;
+      assessment and real-world measure of daily functioning.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">January 20, 2023</start_date>
+  <completion_date type="Anticipated">May 20, 2024</completion_date>
+  <primary_completion_date type="Anticipated">May 20, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in EMMA app use daily interactions</measure>
+    <time_frame>continuous data collection through study completion up to 6 months</time_frame>
+    <description>Total daily use interactions derived from the EMMA app will provide a measure of how much the app is being used.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Daily Assessment of Independent Living and Executive Skills (DAILIES)</measure>
+    <time_frame>at baseline and 6 month follow-up</time_frame>
+    <description>To measure participants capacity to complete instrumental activities of daily living (IADLs) at home, participants complete a series of brief tasks that resemble typical IADLs (e.g., paying utility bills, running errands, filling out a rebate form) six days a week for three weeks (total score; range 0-93; higher scores indicate better performance).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Cognitive Self-efficacy Questionnaire (CSEQ)</measure>
+    <time_frame>at baseline, immediately post-training and 6 month follow-up</time_frame>
+    <description>Self-report measure of a participants confidence in their everyday cognitive abilities (mean score; range 0-10; higher scores represent better self-reported confidence in cognitive abilities).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Patient-Reported Outcome Measurement Information System 29 general (PROMIS-29)</measure>
+    <time_frame>at baseline, immediately post-training and 6 month follow-up</time_frame>
+    <description>Self-report measure assessing a participants mental and physical health (T-score with mean of 50 and standard deviation of 10; higher scores represent worse symptomology)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Coping Self-efficacy Scale (CSES)</measure>
+    <time_frame>at baseline, immediately post-training and 6 month follow-up</time_frame>
+    <description>Self-report measure of coping abilities (total score; range 1-130; higher scores represent greater self-perceived coping abilities)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Everyday Compensation questionnaire (Ecomp)</measure>
+    <time_frame>at baseline, immediately post-training and 6 month follow-up</time_frame>
+    <description>Self-report of everyday compensatory strategy use (mean score; range 0-4; higher scores represent better self-reported use of everyday compensatory strategies).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Patient-Reported Outcome Measurement Information (PROMIS) System Applied Cognition</measure>
+    <time_frame>at baseline, immediately post-training and 6 month follow-up</time_frame>
+    <description>Self-perception of cognitive abilities (T-score with mean of 50 and standard deviation of 10; higher scores represent worse symptomology).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Self-Efficacy for Appropriate Medication Use Scale (SEAMS)</measure>
+    <time_frame>at baseline, immediately post-training and 6 month follow-up</time_frame>
+    <description>Self-perception of medication management abilities (total score, range 13-39, higher scores are associated with greater self-efficacy for adherence to medications)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Subjective Cognitive Complaints</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <arm_group>
+    <arm_group_label>Brief Clinician Motivational Support</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will learn to use the EMMA app through a personalized web-based training platform with brief weekly motivational support from a clinician.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Technology Support Only</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will learn to use the EMMA app through a personalized web-based training platform with technical support and reminders as needed.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Personalized Web-based training for EMMA app</intervention_name>
+    <description>Participants will complete six sessions of training to support uptake and habit formation of EMMA app use with a personalized web-based training platform.</description>
+    <arm_group_label>Brief Clinician Motivational Support</arm_group_label>
+    <arm_group_label>Technology Support Only</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Motivational Interviewing: Clinician Support</intervention_name>
+    <description>Participants will receive weekly brief check-ins with clinicians to motivate and support the problem-solving and habit formation aspects of the web-based training.</description>
+    <arm_group_label>Brief Clinician Motivational Support</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Must be age 50 or older&#xD;
+&#xD;
+          -  Self-reporting subjective cognitive complaints (screening questions)&#xD;
+&#xD;
+          -  Must be able to read and speak English&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Cannot provide own informed consent&#xD;
+&#xD;
+          -  Have a known medical, neurological or psychiatric diagnosis that explains current&#xD;
+             cognitive complaints (e.g., stroke)&#xD;
+&#xD;
+          -  Cannot complete remote study protocol due to severe vision or hearing difficulties&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Maureen Schmitter-Edgecombe, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington State University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Maggie Dines, B.S.</last_name>
+    <phone>1-509-335-4033</phone>
+    <email>margaret.dines@wsu.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Maureen Schmitter-Edgecombe, PhD</last_name>
+    <phone>1-509-335-0170</phone>
+    <email>schmitter-e@wsu.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Washington State University - Pullman; Study Remote</name>
+      <address>
+        <city>Pullman</city>
+        <state>Washington</state>
+        <zip>99164-4820</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Magaret Dines, B.S.</last_name>
+      <phone>509-335-4033</phone>
+      <email>margaret.dines@wsu.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Maureen Schmitter-Edgecombe, PhD</last_name>
+      <phone>1-509-335-0170</phone>
+      <email>schmitter-e@wsu.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 23, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>January 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Washington State University</investigator_affiliation>
+    <investigator_full_name>Maureen-Schmitter-Edgecombe</investigator_full_name>
+    <investigator_title>Regents Professor</investigator_title>
+  </responsible_party>
+  <keyword>activities of daily living</keyword>
+  <keyword>memory</keyword>
+  <keyword>electronic aid</keyword>
+  <keyword>quality of life</keyword>
+  <keyword>health</keyword>
+  <keyword>time management</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Other researchers can request use of data</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

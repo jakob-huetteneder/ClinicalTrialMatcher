@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9497">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05696626</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SMX 22-002</org_study_id>
+    <nct_id>NCT05696626</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Lasofoxifene Combined With Abemaciclib Compared With Fulvestrant Combined With Abemaciclib in Locally Advanced or Metastatic ER+/HER2- Breast Cancer With an ESR1 Mutation</brief_title>
+  <acronym>ELAINEIII</acronym>
+  <official_title>An Open Label, Randomized, Multicenter Study Comparing the Efficacy and Safety of the Combination of Lasofoxifene and Abemaciclib to the Combination of Fulvestrant and Abemaciclib for the Treatment of Pre- and Postmenopausal Women and Men With Locally Advanced or Metastatic ER+/HER2- Breast Cancer With an ESR1 Mutation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sermonix Pharmaceuticals Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sermonix Pharmaceuticals Inc.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to assess the efficacy, safety and tolerability of the&#xD;
+      combination of lasofoxifene and abemaciclib compared with that of fulvestrant and abemaciclib&#xD;
+      for the treatment of Pre- and Postmenopausal Women and Men with locally advanced or&#xD;
+      metastatic ER+/HER2- breast cancer who have disease progression on an AI in combination with&#xD;
+      either palbociclib or ribociclib as their first hormonal treatment for metastatic disease and&#xD;
+      who have an ESR1 mutation.&#xD;
+&#xD;
+      The main question the study aims to answer is:&#xD;
+&#xD;
+      • To compare the efficacy of the combination of lasofoxifene and abemaciclib with that of&#xD;
+      fulvestrant and abemaciclib Participants will receive either receive 5 mg/d of oral&#xD;
+      lasofoxifene plus oral abemaciclib 150 mg twice a day or the combination of fulvestrant 500&#xD;
+      mg intramuscular (IM) on Days 1, 15, and 29 and then once monthly thereafter plus oral&#xD;
+      abemaciclib 150 mg twice a day.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2023</start_date>
+  <completion_date type="Anticipated">June 2026</completion_date>
+  <primary_completion_date type="Anticipated">June 2025</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>open label, randomized, parallel-group, multicenter study</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression free survival (PFS)</measure>
+    <time_frame>Within approximately 3 years</time_frame>
+    <description>PFS is defined as the time from the date of randomization [Visit 0 (Day 1)] to the earliest date of first documented progression or death due to any cause.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate (ORR)</measure>
+    <time_frame>Within approximately 3 years</time_frame>
+    <description>ORR is defined as the percentage of subjects with measurable disease at baseline whose best overall response is either a confirmed CR or a confirmed PR according to RECIST 1.1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>Within approximately 3 years</time_frame>
+    <description>Overall survival is defined as time from the date of Visit 0 (Day 1) to death due to any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical benefit rate (CBR)</measure>
+    <time_frame>Within approximately 3 years</time_frame>
+    <description>CBR is defined as the percentage of subjects with best overall response of confirmed CR, confirmed PR, or stable disease (SD) with a duration of 24 weeks or longer according to RECIST 1.1. As used in this calculation, stable disease is defined as stable</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DoR) in subjects with an objective response</measure>
+    <time_frame>Within approximately 3 years</time_frame>
+    <description>DoR is from the date of first documented confirmed response (CR or PR) to the date of first documented progression of disease or death due to any cause, whichever is earlier.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to response (TTR) in subjects with an objective response</measure>
+    <time_frame>Within approximately 3 years</time_frame>
+    <description>TTR is from the date of randomization to the date of first documented confirmed response (CR or PR).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to cytotoxic chemotherapy</measure>
+    <time_frame>Within approximately 3 years</time_frame>
+    <description>From the date of randomization to the date of first documented use of cytotoxic chemotherapy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Life (QoL) evaluated using the Functional Assessment of Cancer Therapy-Breast Cancer-Endocrine Subscale (FACT B-ES)</measure>
+    <time_frame>Within approximately 3 years</time_frame>
+    <description>Scale ranges from 'Not at all' to 'Very much'</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Adverse Events (AEs) and Serious AEs</measure>
+    <time_frame>Within approximately 3 years</time_frame>
+    <description>The type, severity (graded by Common Terminology Criteria for Adverse Events [CTCAE version 5.0]), course, duration, seriousness, and relationship to study treatment will be assessed at each visit</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Metastatic Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Pre- and Postmenopausal Women and Men with locally advanced or metastatic ER+/HER2- breast cancer who have disease progression on an AI in combination with either palbociclib or ribociclib as their first hormonal treatment for metastatic disease and who have an ESR1 mutation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Reference Therapy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Pre- and Postmenopausal Women and Men with locally advanced or metastatic ER+/HER2- breast cancer who have disease progression on an AI in combination with either palbociclib or ribociclib as their first hormonal treatment for metastatic disease and who have an ESR1 mutation.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lasofoxifene in combination with abemaciclib</intervention_name>
+    <description>5 mg/d of oral lasofoxifene plus oral abemaciclib 150 mg twice a day</description>
+    <arm_group_label>Treatment</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fulvestrant in combination with abemaciclib</intervention_name>
+    <description>Fulvestrant 500 mg intramuscular (IM) on Days 1, 15, and 29 and then once monthly thereafter plus oral abemaciclib 150 mg twice a day</description>
+    <arm_group_label>Reference Therapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Pre- or postmenopausal women or men.&#xD;
+&#xD;
+          2. Locally advanced and/or metastatic ER+ breast cancer with radiological or clinical&#xD;
+             evidence of progression on an AI in combination with either palbociclib or ribociclib&#xD;
+             as their first hormonal treatment for metastatic disease.&#xD;
+&#xD;
+          3. No evidence of progression for at least 6 months on an AI/CDK1 combination for&#xD;
+             advanced breast cancer.&#xD;
+&#xD;
+          4. At least 1 or more ESR1 point mutations in the ESR1 ligand binding domain as assessed&#xD;
+             in cell- free ctDNA obtained from a blood or breast cancer tissue.&#xD;
+&#xD;
+          5. Locally advanced or metastatic breast cancer with either measurable (according to&#xD;
+             RECIST 1.1) or non-measurable lesions.&#xD;
+&#xD;
+          6. Subjects who may have received 1 cytotoxic chemotherapy regimen for metastatic disease&#xD;
+             and/or those who received 1 cytotoxic chemotherapy regimen in either the neo-adjuvant&#xD;
+             or adjuvant setting.&#xD;
+&#xD;
+          7. Eastern Cooperative Oncology Group (ECOG) performance score of 0 or 1&#xD;
+&#xD;
+          8. Adequate organ function&#xD;
+&#xD;
+          9. Able to swallow tablets&#xD;
+&#xD;
+         10. Able to understand and voluntarily sign a written informed consent before any&#xD;
+             screening procedures.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Lymphangitic carcinomatosis involving the lung.&#xD;
+&#xD;
+          2. Visceral crisis in need of cytotoxic chemotherapy as assessed by the investigator.&#xD;
+&#xD;
+          3. Presence of brain metastasis.&#xD;
+&#xD;
+          4. Prior progression of disease on fulvestrant, or other SERD therapy.&#xD;
+&#xD;
+          5. Radiotherapy within 30 days prior to Visit 0 (Day 1) except in case of localized&#xD;
+             radiotherapy for analgesic purposes or for lytic lesions at risk of fracture, which&#xD;
+             can then be completed within 7 days prior to Visit 0 (Day 1). Subjects must have&#xD;
+             recovered from radiotherapy toxicities prior to Visit 0 (Day 1).&#xD;
+&#xD;
+          6. Known RB1 mutations or deletions that in the opinion of the investigator confer&#xD;
+             resistance to CDK4/6i. (Screening for RB1 mutation is not required for entry.)&#xD;
+&#xD;
+          7. History of long QTc (Q-T interval corrected for heart rate) syndrome or a QTc of &gt;480&#xD;
+             msec.&#xD;
+&#xD;
+          8. History of a PE, DVT, or any known thrombophilia.&#xD;
+&#xD;
+          9. On concomitant strong CYP3A4 inhibitors.&#xD;
+&#xD;
+         10. On strong and moderate CYP3A4 inducers.&#xD;
+&#xD;
+         11. Any significant co-morbidity that would impact the study or the subject's safety.&#xD;
+&#xD;
+         12. History of a positive human immunodeficiency virus (HIV) or hepatitis B virus (HBV)&#xD;
+             test. Screening is not required for enrollment.&#xD;
+&#xD;
+         13. Hepatitis C virus (HCV) at Screening who still have a viral load. Subjects previously&#xD;
+             treated and achieved HCV cure (no viral load) can be entered into the study.&#xD;
+&#xD;
+         14. History of malignancy within the past 5 years (excluding breast cancer), except basal&#xD;
+             cell or squamous cell carcinoma of the skin curatively treated by surgery, or&#xD;
+             early-stage cervical cancer.&#xD;
+&#xD;
+         15. Positive serum pregnancy test (only if premenopausal).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Sermonix Pharmaceuticals Study Inquiry</last_name>
+    <phone>614-864-4919</phone>
+    <email>info@sermonixpharma.com</email>
+  </overall_contact>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 13, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>January 25, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 25, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fulvestrant</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

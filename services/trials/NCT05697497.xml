@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9450">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05697497</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY00016054</org_study_id>
+    <nct_id>NCT05697497</nct_id>
+  </id_info>
+  <brief_title>Functional Activity Strength Training</brief_title>
+  <acronym>FAST</acronym>
+  <official_title>A Brief Digital Exercise Program to Improve Physical Function Among Older Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Milton S. Hershey Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Milton S. Hershey Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a randomized trial of 100 older adults with mobility disability, who performed&#xD;
+      a similar brief daily, resistance training program. The investigators set out to answer the&#xD;
+      following question &quot;Will a digital, brief daily exercise program be feasible, acceptable, and&#xD;
+      effective among older adults with walking limitations?&quot; To answer that question, participants&#xD;
+      were assigned to an intervention or delayed-treatment control group. Intervention&#xD;
+      participants were assigned to complete two 30-second lower body exercises and two 30-second&#xD;
+      upper body exercises. Fitness tests were completed remotely three times during the 12-weeks&#xD;
+      (i.e., at baseline, week 6, week 12).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a 12-week delayed-control randomized trial to answer the following question &quot;Will a&#xD;
+      digital, brief daily exercise program be feasible, acceptable, and effective among older&#xD;
+      adults with walking limitations?&quot; Participants who screen eligible will be assigned to one of&#xD;
+      four conditions, an immediate workout group, an immediate workout group with activity&#xD;
+      monitor, a delayed workout group or a delayed workout group with activity monitor.&#xD;
+      Participants will complete a daily 2.5-to-3.5-minute exercise routine at home and to record&#xD;
+      their results using an electronic survey. Other outcome measurements will be conducted&#xD;
+      remotely at baseline, 6, and 12 weeks.&#xD;
+&#xD;
+      The investigators hypothesize that participants in the AMRAP condition will report&#xD;
+      significant reductions in functional physical limitations, increased gait speed, and&#xD;
+      increased physical performance (i.e., increased exercise repetitions) from baseline to 6&#xD;
+      weeks compared to those randomized to the delayed-treatment control.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">May 1, 2021</start_date>
+  <completion_date type="Anticipated">June 27, 2023</completion_date>
+  <primary_completion_date type="Actual">May 27, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A delayed treatment control group will be used to compare the effects of the intervention to a control group. Both groups will complete their study visits at baseline, week 6, and week 12, with the intervention group starting their exercises immediately after the baseline visit and the delayed treatment control group starting their exercise intervention after their week 12 visit.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>30-Second Chair Stand</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Leg strength and endurance test - number of chair stand repetitions in 30 seconds</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>30-Second Chair Stand</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>Leg strength and endurance test - number of chair stand repetitions in 30 seconds</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>30-Second Chair Stand</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Leg strength and endurance test - number of chair stand repetitions in 30 seconds</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Five Time Sit to Stand Test (5TSTS)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>The Five Times Sit to Stand Test measures one aspect of transfer skill. The test provides a method to quantify functional lower extremity strength and/or identify movement strategies a patient uses to complete transitional movements. The score is the amount of time (to the nearest decimal in seconds) it takes a patient to transfer from a seated to a standing position and back to sitting five times.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Five Time Sit to Stand Test (5TSTS)</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>The Five Times Sit to Stand Test measures one aspect of transfer skill. The test provides a method to quantify functional lower extremity strength and/or identify movement strategies a patient uses to complete transitional movements. The score is the amount of time (to the nearest decimal in seconds) it takes a patient to transfer from a seated to a standing position and back to sitting five times.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Five Time Sit to Stand Test (5TSTS)</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>The Five Times Sit to Stand Test measures one aspect of transfer skill. The test provides a method to quantify functional lower extremity strength and/or identify movement strategies a patient uses to complete transitional movements. The score is the amount of time (to the nearest decimal in seconds) it takes a patient to transfer from a seated to a standing position and back to sitting five times.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Single Leg Stance Test (SLS)</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Assessment of static postural and balance control.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Functional limitations</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Physical Functioning Questionnaire from the National Health and Nutrition Examination Survey</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Falls</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Falls over the past 3 months will be assessed using the Behavioral Risk Factor Surveillance System survey.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Walking gait cadence</measure>
+    <time_frame>10 day period pre and post intervention</time_frame>
+    <description>Gait cadence will be measured in 50% of the participants using an activPAL device.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pain on the Patient Reported Outcomes Measurement Information System (PROMIS) survey</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Survey using questions from the NIH-supported Patient Reported Outcomes Measurement Information System (PROMIS). The minimal value for pain interference is not at all, while the minimum value for pain intensity is no pain. The maximum value for pain interference is very much, while the maximum value for pain intensity is worst pain imaginable. A higher score generally means a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fatigue on the Patient Reported Outcomes Measurement Information System (PROMIS) survey</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Survey using questions from the NIH-supported Patient Reported Outcomes Measurement Information System (PROMIS). The minimum value for fatigue is not at all, while the maximum value is very much. A higher score generally means a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-Efficay for Physical Activity (SEPA)</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>5-item measure that assesses an individual's confidence for engaging in exercise in the presence of barriers.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of sessions attended</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Patients will be considered adherent to the intervention when they enter their daily exercise performance data via daily survey. The percent of sessions attended will be calculated by dividing the number of sessions attended by the total number of sessions offered and multiplying the result by 100.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heart rate</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>resting and maximal heart rates will be collected during the maximal exercise performance tests</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">101</enrollment>
+  <condition>Walking, Difficulty</condition>
+  <arm_group>
+    <arm_group_label>Immediate start group with gait cadence assessment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This group will wear an activPAL device for 10 days prior to their baseline assessment and for 10 days after their week 12 assessment. The exercise intervention consists of a 2.5 to 3.5 minute daily routine that includes 2 upper body and 2 lower body exercises.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Immediate start group without gait cadence assessment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The exercise intervention consists of a 2.5 to 3.5 minute daily routine that includes 2 upper body and 2 lower body exercises.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Delayed-treatment control group with gait cadence assessment</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>This group will wear an activPAL device for 10 days prior to their baseline assessment and for 10 days after their week 12 assessment. The exercise intervention consists of a 2.5 to 3.5 minute daily routine that includes 2 upper body and 2 lower body exercises. Participants in the this arm will not start the exercise intervention until the day after the week 12 assessment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Delayed-treatment control group without gait cadence assessment</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The exercise intervention consists of a 2.5 to 3.5 minute daily routine that includes 2 upper body and 2 lower body exercises. Participants in the this arm will not start the exercise intervention until the day after the week 12 assessment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Daily exercise intervention</intervention_name>
+    <description>Participants will complete four exercises each day, The first two weeks they will be instructed to complete as many repetitions as possible, each day, for 15 seconds and progressing to 30 seconds per exercise after the first two weeks. Participants are asked to increase their goal repetitions by 1 or 2 from their previous best each week. For all exercises with modifications, we will encourage participants to move to the next most difficult modification once they can do 15 repetitions of that exercise.</description>
+    <arm_group_label>Immediate start group with gait cadence assessment</arm_group_label>
+    <arm_group_label>Immediate start group without gait cadence assessment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 65 and older&#xD;
+&#xD;
+          -  Difficulty with walking&#xD;
+&#xD;
+          -  Providers must provide consent for their patient&#xD;
+&#xD;
+          -  Access to the internet&#xD;
+&#xD;
+          -  Must have a camera on computer, tablet, or smartphone&#xD;
+&#xD;
+          -  Fluent in Egnlish&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Chest pain or a heart condition on the PAR-Q&#xD;
+&#xD;
+          -  Planning to have surgery in the next 3 months&#xD;
+&#xD;
+          -  Cognitive impairment&#xD;
+&#xD;
+          -  Unable to exercise&#xD;
+&#xD;
+          -  Being currently physically active&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Penn State Hershey Medical Center</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>17033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>February 8, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 24, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>March 21, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 21, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 22, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Milton S. Hershey Medical Center</investigator_affiliation>
+    <investigator_full_name>Christopher Sciamanna, MD, MPH</investigator_full_name>
+    <investigator_title>Professor and Vice Chair for Research Affairs, Department of Medicine</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Mobility Limitation</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

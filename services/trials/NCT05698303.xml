@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9415">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05698303</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CT103AA001</org_study_id>
+    <nct_id>NCT05698303</nct_id>
+  </id_info>
+  <brief_title>A Study of Fully Human BCMA Chimeric Antigen Receptor Autologous T Cell Injection (CT103A) in the Treatment of Patients With Relapsed/Refractory Multiple Myeloma</brief_title>
+  <official_title>A Phase Ib Clinical Study of Fully Human BCMA Chimeric Antigen Receptor Autologous T Cell Injection (CT103A) in the Treatment of Patients With Relapsed/Refractory Multiple Myeloma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Nanjing IASO Biotherapeutics Co.,Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Nanjing IASO Biotherapeutics Co.,Ltd</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      It is a dose expansion, open-label, phase Ib study to evaluate the safety, efficacy,&#xD;
+      pharmacokinetic (PK), pharmacodynamic (PD), and immunogenicity of CT103A in patients with&#xD;
+      relapsed/refractory multiple myeloma.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A total of at least 12 subjects are planned to be enrolled in this study. Each subject will&#xD;
+      proceed through the following study periods:&#xD;
+&#xD;
+        -  Screening&#xD;
+&#xD;
+        -  Leukapheresis&#xD;
+&#xD;
+        -  Bridging therapy (at the discretion of the investigator)&#xD;
+&#xD;
+        -  Pre-lymphodepletion assessment&#xD;
+&#xD;
+        -  Lymphodepleting chemotherapy&#xD;
+&#xD;
+        -  Pre-infusion Assessment&#xD;
+&#xD;
+        -  CT103A infusion (Day 0)&#xD;
+&#xD;
+        -  28-Day safety evaluation period&#xD;
+&#xD;
+        -  Post-treatment follow-up period (Day 29 through year 2)&#xD;
+&#xD;
+      All the subjects will be followed for safety and efficacy until disease progression,&#xD;
+      initiation of subsequent anti-myeloma therapy, withdrawal, death, loss to follow-up, study&#xD;
+      completion, end of study, or study termination, whichever occurs first. Subjects except those&#xD;
+      that are deceased, lost to follow-up, or have withdrawn their ICF will enter the long-term&#xD;
+      follow-up (LTFU) under a separate protocol for at least 15 years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 8, 2023</start_date>
+  <completion_date type="Anticipated">January 15, 2026</completion_date>
+  <primary_completion_date type="Anticipated">May 20, 2024</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence and severity of adverse events</measure>
+    <time_frame>Up to 2 years after CT103A infusion.</time_frame>
+    <description>An assessment of severity grade will be made according to the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) Version 5.0, with the exception of cytokine release syndrome (CRS), and immune effector cell-associated neurotoxicity syndrome (ICANS).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence and severity of cytokine release syndrome (CRS) and immune effector cell-associated neurotoxicity syndrome (ICANS)</measure>
+    <time_frame>Up to 2 years after CT103A infusion.</time_frame>
+    <description>CRS and ICANS will be evaluated according to the American Society for Transplantation and Cellular Therapy (ASTCT) consensus grading.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with laboratory abnormalities</measure>
+    <time_frame>Up to 2 years after CT103A infusion.</time_frame>
+    <description>Number of participants with laboratory abnormalities will be reported.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall response rate (ORR)</measure>
+    <time_frame>Up to 2 years after CT103A infusion.</time_frame>
+    <description>The proportion of subjects who achieved at least a PR or better as defined by the International Myeloma Working Group (IMWG) response criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>Up to 2 years after CT103A infusion.</time_frame>
+    <description>Duration from the date of CT103A infusion to the date of first documented evidence of progressive disease or death due to any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>Up to 2 years after CT103A infusion.</time_frame>
+    <description>Duration from the start of CT103A treatment to subject death (due to any cause).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DOR)</measure>
+    <time_frame>Up to 2 years after CT103A infusion.</time_frame>
+    <description>Duration from the date of initial documentation of a response (PR or better) to the date of first documented evidence of progressive disease, as defined in the IMWG criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to response (TTR)</measure>
+    <time_frame>Up to 2 years after CT103A infusion.</time_frame>
+    <description>Time interval from the date of CT103A infusion to the date of initial documentation of a response (PR or better)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to complete response (TTCR)</measure>
+    <time_frame>Up to 2 years after CT103A infusion.</time_frame>
+    <description>Time interval from the date of CT103A infusion to the date of initial documentation of a complete response (CR) or stringent complete response (sCR).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MRD response assessment</measure>
+    <time_frame>Up to 2 years after CT103A infusion.</time_frame>
+    <description>The proportion of subjects achieved MRD-negativity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The duration of MRD-negativity</measure>
+    <time_frame>Up to 2 years after CT103A infusion.</time_frame>
+    <description>The duration of MRD-negativity is defined as the time interval between the first occurrence of negative MRD after infusion and the first reversal of negative MRD results to positive.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CAR transgene level in peripheral blood.</measure>
+    <time_frame>Up to 2 years after CT103A infusion.</time_frame>
+    <description>The CAR transgene level in peripheral blood both pre- and post- CT103A infusion will be measured and reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Soluble BCMA (sBCMA) in peripheral blood.</measure>
+    <time_frame>Up to 2 years after CT103A infusion.</time_frame>
+    <description>The level of sBCMA in peripheral blood will be measured and reported.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>CAR-positive cell counts in peripheral blood.</measure>
+    <time_frame>Up to 2 years after CT103A infusion.</time_frame>
+    <description>CAR-positive cell counts in peripheral blood will be measured and reported.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Presence of human anti-CAR antibodies</measure>
+    <time_frame>Up to 2 years after CT103A infusion.</time_frame>
+    <description>The titer of confirmed positive anti-CAR antibodies in peripheral blood will be measured and reported.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Presence of RCL in peripheral blood.</measure>
+    <time_frame>Up to 2 years after CT103A infusion.</time_frame>
+    <description>Presence of RCL in peripheral blood will be measured and reported.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Multiple Myeloma</condition>
+  <arm_group>
+    <arm_group_label>CT103A in patients with RRMM</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>After lymphodepletion, CT103A will be administered as a single infusion.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fully human BCMA chimeric antigen receptor autologous T cell injection (CT103A)</intervention_name>
+    <description>CT103A is an BCMA targeted genetically modified autologous T cell immunotherapy product that identifies and eliminates BCMA-expressing malignant and normal cells. CAR specifically recognizes BCMA with a low-immunogenic fully human single chain fragment variable (scFv), promotes CAR-T activation, proliferation, cytokine secretion and target cell killing through the CD3ζ domain, and enhances CAR-T proliferation and persistence through co-stimulatory signaling via 4-1BB.</description>
+    <arm_group_label>CT103A in patients with RRMM</arm_group_label>
+    <other_name>CT103A</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. ≥ 18 years of age.&#xD;
+&#xD;
+          2. Documented diagnosed with multiple myeloma according to the IMWG diagnostic criteria.&#xD;
+&#xD;
+          3. Have received at least 3 prior lines of therapy, including a proteasome inhibitor, an&#xD;
+             immunomodulator-based chemotherapy, and an anti-CD38 therapy (prior exposure can be&#xD;
+             from different monotherapy or combination regimens), or are refractory to both a&#xD;
+             proteasome inhibitor and an immunomodulatory agent (i.e., double refractory).&#xD;
+&#xD;
+          4. Documented disease progression during or within 12 months of the most recent&#xD;
+             anti-myeloma treatment (except for subjects who received CAR-T as last-line therapy).&#xD;
+&#xD;
+          5. For subjects with previous BCMA-targeted therapy, the best response should be at least&#xD;
+             PR, and positive BCMA expression on tumor cells by immunohistochemistry (IHC) or flow&#xD;
+             cytometry is required before enrollment.&#xD;
+&#xD;
+          6. The presence of measurable lesion according to IMWG 2016 criteria at screening as&#xD;
+             determined by any of the following criteria:&#xD;
+&#xD;
+               -  Serum M-protein level ≥1.0 g/dL or urine M protein level ≥ 200 mg/24 h; or&#xD;
+&#xD;
+               -  Light chain multiple myeloma without measurable lesions in serum or urine:&#xD;
+                  Involved serum free light chain ≥ 10 mg/dL and abnormal serum κ/λ free light&#xD;
+                  chain ratio.&#xD;
+&#xD;
+          7. ECOG score of 0 or 1 (refer to Appendix 2)&#xD;
+&#xD;
+          8. Subjects must have appropriate organ function and meet all the following laboratory&#xD;
+             test results prior to enrollment:&#xD;
+&#xD;
+               -  Hematology: Absolute neutrophil count (ANC) ≥ 1×109/L (supportive growth factor&#xD;
+                  is permitted, but must be without supportive treatment within 7 days before the&#xD;
+                  laboratory test); absolute lymphocyte count (ALC) ≥0.3×109/L; platelet count&#xD;
+                  ≥50×109/L (must be without supportive blood transfusion within 7 days before the&#xD;
+                  laboratory test); hemoglobin ≥80 g/L (without transfusion of red blood cells&#xD;
+                  [RBC] within 7 days before the laboratory test; the use of recombinant human&#xD;
+                  erythropoietin is permitted).&#xD;
+&#xD;
+               -  Liver function: Alanine transaminase (ALT) and aspartate transaminase (AST) ≤&#xD;
+                  2.5×upper limit of normal (ULN); serum total bilirubin ≤ 1.5×ULN except with&#xD;
+                  known Gilbert's syndrome who have serum bilirubin ≤ 3×ULN.&#xD;
+&#xD;
+               -  Renal function: Creatinine clearance (CrCl) calculated using the Cockcroft-Gault&#xD;
+                  formula ≥ 40 ml/min.&#xD;
+&#xD;
+               -  Coagulation function: Fibrinogen ≥1.0 g/L; activated partial thromboplastin time&#xD;
+                  ≤1.5× ULN, prothrombin time (PT) ≤1.5× ULN.&#xD;
+&#xD;
+               -  Corrected serum calcium ≤11 mg/dL&#xD;
+&#xD;
+               -  Oxygen saturation (by Fingertip Pulse Oximeter) ≥92%.&#xD;
+&#xD;
+               -  Left ventricular ejection fraction (LVEF) ≥45%.&#xD;
+&#xD;
+          9. Female subjects of childbearing potential or male subjects with a partner of&#xD;
+             childbearing potential agree to use effective contraception methods from screening and&#xD;
+             continued during study treatment until one year after the last dose.&#xD;
+&#xD;
+         10. The subject must personally sign an informed consent form approved by the ethics&#xD;
+             committee in writing.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Subjects with graft versus host disease (GVHD) or those requiring long-term use of&#xD;
+             immunosuppressants.&#xD;
+&#xD;
+          2. Received autologous hematopoietic stem cell transplant (Auto-HSCT) within 12 weeks&#xD;
+             before apheresis or received prior allogeneic hematopoietic stem cell transplant&#xD;
+             (Allo-HSCT).&#xD;
+&#xD;
+          3. Received prior anti-myeloma therapies as follows:&#xD;
+&#xD;
+               -  Treatment with monoclonal antibodies within 21 days prior to apheresis, or&#xD;
+&#xD;
+               -  Treatment with cytotoxic chemotherapy or proteasome inhibitor within 14 days&#xD;
+                  prior to apheresis, or&#xD;
+&#xD;
+               -  Treatment with immunomodulator within 7 days prior to apheresis, or&#xD;
+&#xD;
+               -  Anti-myeloma therapies other than those described above within 14 days or at&#xD;
+                  least 5 half-lives (whichever is shorter) prior to apheresis.&#xD;
+&#xD;
+          4. Use of glucocorticoids (defined as prednisone or equivalent &gt; 20 mg/day) at a&#xD;
+             therapeutic dose within 7 days prior to apheresis. Physiologic replacement, topical,&#xD;
+             and inhalation steroids are permitted, nevertheless.&#xD;
+&#xD;
+          5. Severe heart disease: Including but not limited to unstable angina, myocardial&#xD;
+             infarction (within 6 months prior to screening), congestive cardiac failure (New York&#xD;
+             Heart Association [NYHA] classification grade ≥ III), severe arrhythmia.&#xD;
+&#xD;
+          6. Unstable systemic diseases judged by the investigator: Including but not limited to&#xD;
+             severe liver, kidney or metabolic diseases requiring therapy.&#xD;
+&#xD;
+          7. Malignancies other than multiple myeloma within 5 years prior to screening, excluding&#xD;
+             adequately treated carcinoma in situ of cervix, basal or squamous epithelial cell skin&#xD;
+             cancer, localized prostate cancer post radical operation, ductal carcinoma in situ of&#xD;
+             the breast post radical operation.&#xD;
+&#xD;
+          8. History of organ transplant.&#xD;
+&#xD;
+          9. Suspected or confirmed central nervous system involvement.&#xD;
+&#xD;
+         10. Plasma cell leukemia at the time of screening (&gt;2.0×109/L plasma cells by standard&#xD;
+             differential), Waldenström's macroglobulinemia, POEMS syndrome (polyneuropathy,&#xD;
+             organomegaly, endocrinopathy, monoclonal protein, and skin changes), or primary AL&#xD;
+             amyloidosis.&#xD;
+&#xD;
+         11. Major surgery within 2 weeks prior to apheresis, or planned surgery within 2 weeks&#xD;
+             after study treatment administration (subjects who plan to receive surgery under local&#xD;
+             anesthesia are permitted to be enrolled in this study).&#xD;
+&#xD;
+         12. Treated with other interventional clinical investigational products within 1 month&#xD;
+             before signing the informed consent form (ICF).&#xD;
+&#xD;
+         13. Evidence of serious active viral, bacterial, or uncontrolled systemic fungal infection&#xD;
+             prior to apheresis.&#xD;
+&#xD;
+         14. Positive hepatitis B surface antigen (HBsAg) or hepatitis B core antibody (HBcAb) with&#xD;
+             detectable hepatitis B virus (HBV) DNA in peripheral blood; positive hepatitis C virus&#xD;
+             (HCV) antibody with positive HCV RNA in peripheral blood; positive human&#xD;
+             immunodeficiency virus (HIV) antibody; positive cytomegalovirus (CMV) DNA; positive&#xD;
+             syphilis test.&#xD;
+&#xD;
+         15. Pregnant or breastfeeding women or planning to become pregnant while enrolled in this&#xD;
+             study or within 1 year after receiving study treatment.&#xD;
+&#xD;
+         16. Stroke, seizure or psychosis within 6 months of signing ICF.&#xD;
+&#xD;
+         17. Non-hematological toxicities from previous anti-myeloma therapy have not recovered to&#xD;
+             baseline or grade ≤1 (NCI-CTCAE v5.0, except for alopecia and grade 2 peripheral&#xD;
+             neuropathy).&#xD;
+&#xD;
+         18. Any issue that would impair the ability of the subject to receive or tolerate the&#xD;
+             planned treatment, to understand informed consent or any condition for which, in the&#xD;
+             opinion of the investigator, participation would not be in the best interest of the&#xD;
+             subject (e.g., compromise the well-being) or that could prevent, limit, or confound&#xD;
+             the protocol-specified assessments.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nanjing IASO Biotherapeutics Co.,Ltd. Clinical trial</last_name>
+    <role>Study Director</role>
+    <affiliation>Nanjing IASO Biotherapeutics Co.,Ltd</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Robert Z. Orlowski, M.D., Ph.D.</last_name>
+    <phone>713-792-2860</phone>
+    <email>rorlowsk@mdanderson.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Oliver Kong, M.D.</last_name>
+    <phone>+86 13162113618</phone>
+    <email>Oliver.kong@iasobio.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>The University of Texas MD Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Robert Z. Orlowski, M.D., Ph.D.</last_name>
+      <phone>713-792-2860</phone>
+      <email>rorlowsk@mdanderson.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2022</verification_date>
+  <study_first_submitted>December 29, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>January 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>relapsed/refractory multiple myeloma</keyword>
+  <keyword>RRMM</keyword>
+  <keyword>CAR-T</keyword>
+  <keyword>BCMA</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple Myeloma</mesh_term>
+    <mesh_term>Neoplasms, Plasma Cell</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

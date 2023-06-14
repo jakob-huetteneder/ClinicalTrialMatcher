@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9658">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05693363</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ThorPET/202301</org_study_id>
+    <nct_id>NCT05693363</nct_id>
+  </id_info>
+  <brief_title>Perioperative Specimen Imaging Using High-resolution 18F-FDG-PET-CT During Thoracic Surgery: a Pilot Study</brief_title>
+  <acronym>ThorPET</acronym>
+  <official_title>Perioperative Specimen Imaging Using High-resolution 18F-FDG-PET-CT During Thoracic Surgery: a Pilot Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Ghent</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>XEOS Medical</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Ghent</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this pilot study the investigators propose the intraoperative use of a high-resolution&#xD;
+      PET-CT imaging system which can assess resection margins and lymph node status in the&#xD;
+      operating room. This will allow for a faster and stepwise assessment (estimated to be under&#xD;
+      10 minutes per specimen), enabling the surgeon to decide on subsequent surgical steps after&#xD;
+      each previous assessment.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 1, 2023</start_date>
+  <completion_date type="Anticipated">September 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Perioperative success in imaging utilizing AURA10 PET-CT Specimen Imager</measure>
+    <time_frame>Perioperative</time_frame>
+    <description>A measure of perioperative success in imaging 18F-FDG- uptake in resected specimens obtained during thoracic surgery utilizing a high-resolution PET-CT-scanner.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Sensitivity and specificity of high-resolution 18F-FDG-PET-CT of resected mediastinal or thoracic lymph nodes in terms of nodal staging.</measure>
+    <time_frame>Perioperative</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sensitivity and specificity of high-resolution 18F-FDG-PET-CT of resected lung tumors in terms of bronchial margin assessment.</measure>
+    <time_frame>Perioperative</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sensitivity and specificity of high-resolution 18F-FDG-PET-CT of resected lung tumors in terms of lung parenchyma margin assessment</measure>
+    <time_frame>Perioperative</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between 18F-FDG uptake in the resected specimens and histopathological characteristics of the tumor, such as the type, grade, or stage of the tumor.</measure>
+    <time_frame>Perioperative</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Measure signal-to-noise ratio on post-processed PET-CT specimen images.</measure>
+    <time_frame>Perioperative</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of lesion dimensions (e.g. delineation based on percentage of SUVmax, tumor-to-background ratios based on SUVpeak).</measure>
+    <time_frame>Perioperative</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occupational radiation exposure (µSv) to the staff in the operating room related to this study.</measure>
+    <time_frame>Perioperative</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of high-resolution 18F-FDG-PET-CT images of lamellas of the resected specimen with histopathological whole-slide images.</measure>
+    <time_frame>Perioperative</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Lung Neoplasms</condition>
+  <condition>PET-CT Specimen Imager</condition>
+  <arm_group>
+    <arm_group_label>18F-FDG AURA10 Specimen Imager</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intravenous injection of radiotracer (18F-FDG) (study-specific)&#xD;
+Thoracic surgery (standard-of-care; not study-specific)&#xD;
+High-resolution specimen imaging using the AURA10 PET-CT specimen imager (study-specific)&#xD;
+Postoperative histopathological analysis of specimen (standard-of-care)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>AURA10 Specimen Imager</intervention_name>
+    <description>High-resolution specimen imaging using the AURA10 PET-CT specimen imager during thoracic surgery.</description>
+    <arm_group_label>18F-FDG AURA10 Specimen Imager</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient is 18 years of age or older.&#xD;
+&#xD;
+          -  Patient with suspected or confirmed lung malignancies&#xD;
+&#xD;
+          -  Patient is indicated to undergo thoracic surgery.&#xD;
+&#xD;
+          -  Patient is estimated to be compliant for study participation by the investigator.&#xD;
+&#xD;
+          -  Patient has freely given his/her informed consent to participate in this study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient has general or local contra-indications for thoracic surgery.&#xD;
+&#xD;
+          -  Patient has active infection.&#xD;
+&#xD;
+          -  Blood glucose level over 200 mg/dL on the day of surgery.&#xD;
+&#xD;
+          -  Pregnancy or lactation.&#xD;
+&#xD;
+          -  Patient participated in other clinical studies with radiation exposure of more than 1&#xD;
+             mSv in the past year&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Liesbeth Desender, prof. dr.</last_name>
+    <phone>+32 9 332 63 88</phone>
+    <email>liesbeth.desender@uzgent.be</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lina Vermeir</last_name>
+    <phone>+32 9 332 62 58</phone>
+    <email>studiestvhk@uzgent.be</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University Hospital Ghent</name>
+      <address>
+        <city>Ghent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Liesbeth Desender, prof. dr.</last_name>
+      <email>liesbeth.desender@uzgent.be</email>
+    </contact>
+    <contact_backup>
+      <last_name>Lina Vermeir</last_name>
+      <phone>+32 9 332 62 58</phone>
+      <email>studiestvhk@uzgent.be</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Liesbeth Desender, Prof. Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Alexander Croo, Dr.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Frédéric De Ryck, Dr.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Annick D'Haeninck, Dr.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <link>
+    <url>https://gco.iarc.fr/today</url>
+    <description>J. Ferlay, M. Ervik, F. Lam, M. Colombet, L. Mery, and M. Piñeros, &quot;Global Cancer Observatory: Cancer Today. Lyon: International Agency for Research on Cancer.&quot; 2020</description>
+  </link>
+  <reference>
+    <citation>Goker M, Marcinkowski R, Van Bockstal M, Keereman V, Van Holen R, Van Dorpe J, Vandenberghe S, Brans B, Depypere H, Van den Broecke R. 18F-FDG micro-PET/CT for intra-operative margin assessment during breast-conserving surgery. Acta Chir Belg. 2020 Oct;120(5):366-374. doi: 10.1080/00015458.2020.1774163. Epub 2020 Jun 15.</citation>
+    <PMID>32452298</PMID>
+  </reference>
+  <reference>
+    <citation>Piron S, De Man K, Van Laeken N, D'Asseler Y, Bacher K, Kersemans K, Ost P, Decaestecker K, Deseyne P, Fonteyne V, Lumen N, Achten E, Brans B, De Vos F. Radiation Dosimetry and Biodistribution of 18F-PSMA-11 for PET Imaging of Prostate Cancer. J Nucl Med. 2019 Dec;60(12):1736-1742. doi: 10.2967/jnumed.118.225250. Epub 2019 Apr 26.</citation>
+    <PMID>31028165</PMID>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 11, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>March 27, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 27, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 29, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

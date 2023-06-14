@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9324">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05700448</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CS1001-306</org_study_id>
+    <nct_id>NCT05700448</nct_id>
+  </id_info>
+  <brief_title>Study of Sugemalimab (or Placebo) Plus PGemOx Regimen in Participants With Extranodal NK/T-Cell Lymphoma</brief_title>
+  <official_title>A Phase III, Randomized, Double-Blind, Multicenter Study of Sugemalimab (CS1001) Plus PGemOx Regimen Versus Placebo Plus PGemOx for Subjects With Relapsed or Refractory Extranodal NK/T-Cell Lymphoma (R/R ENKTL)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>CStone Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>CStone Pharmaceuticals</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the efficacy and safety of sugemalimab (CS1001) in&#xD;
+      combination with PGemOx regimen (pegaspargase, gemcitabine, oxaliplatin) in treatment of&#xD;
+      adult patients with Extranodal NK/T-Cell Lymphoma (ENKTL) who have relapsed or become&#xD;
+      refractory to asparaginase-based regimens.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 2023</start_date>
+  <completion_date type="Anticipated">October 2027</completion_date>
+  <primary_completion_date type="Anticipated">October 2026</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free survival (PFS) evaluated by blinded independent central review (BICR) according to Criteria for Response Assessment of Lymphoma: Lugano 2014 Classification</measure>
+    <time_frame>Approximately 39 months after First Patient In</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>Approximately 39 months after First Patient In</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS) evaluated by the Investigator according to Criteria for Response Assessment of Lymphoma: Lugano 2014 Classification</measure>
+    <time_frame>Approximately 39 months after First Patient In</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate (ORR) evaluated by BICR and the Investigator according to Criteria for Response Assessment of Lymphoma: Lugano 2014 Classification</measure>
+    <time_frame>Approximately 39 months after First Patient In</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DoR) evaluated by BICR and the Investigator according to Criteria for Response Assessment of Lymphoma: Lugano 2014 Classification</measure>
+    <time_frame>Approximately 39 months after First Patient In</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Extranodal NK/T-cell Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Sugemalimab+PGemOx</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive sugemalimab 1200 mg via intravenous (IV) infusion on Day 1 of each 3-week cycle (Q3W) PLUS PGemOx regimen Q3W (pegaspargase 2000-2500 IU/m^2 via intramuscular injection on Day 1, gemcitabine 1000 mg/m^2 via IV infusion on Days 1 &amp; 8 and oxaliplatin 130 mg/m^2 via IV infusion on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo+PGemOx</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants receive placebo via intravenous (IV) infusion on Day 1 of each 3-week cycle (Q3W) PLUS PGemOx regimen Q3W (pegaspargase 2000-2500 IU/m^2 via intramuscular injection on Day 1, gemcitabine 1000 mg/m^2 via IV infusion on Days 1 &amp; 8 and oxaliplatin 130 mg/m^2 via IV infusion on Day 1.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Sugemalimab</intervention_name>
+    <description>IV infusion</description>
+    <arm_group_label>Sugemalimab+PGemOx</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>IV infusion</description>
+    <arm_group_label>Placebo+PGemOx</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pegaspargase</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>Placebo+PGemOx</arm_group_label>
+    <arm_group_label>Sugemalimab+PGemOx</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Gemcitabine</intervention_name>
+    <description>IV infusion</description>
+    <arm_group_label>Placebo+PGemOx</arm_group_label>
+    <arm_group_label>Sugemalimab+PGemOx</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Oxaliplatin</intervention_name>
+    <description>IV infusion</description>
+    <arm_group_label>Placebo+PGemOx</arm_group_label>
+    <arm_group_label>Sugemalimab+PGemOx</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Has ENKTL histologically confirmed by the study center. Nasal and non-nasal ENKTL are&#xD;
+             both allowed.&#xD;
+&#xD;
+          -  Has relapsed or refractory ENKTL after prior asparaginase-based chemotherapy or&#xD;
+             chemoradiotherapy.&#xD;
+&#xD;
+          -  Has Eastern Cooperative Oncology Group (ECOG) performance status score of 0-2.&#xD;
+&#xD;
+          -  Has at least one measurable lesion per Lugano 2014 classification.&#xD;
+&#xD;
+          -  Is willing to provide stained tumor tissue sections and corresponding pathological&#xD;
+             reports or unstained tumor tissue sections (or tissue block) for central pathology&#xD;
+             review.&#xD;
+&#xD;
+          -  Has adequate organ function.&#xD;
+&#xD;
+          -  Has life expectancy of greater than 3 months.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Has aggressive natural killer-cell leukemia, current central nervous system (CNS)&#xD;
+             involvement or is concomitant with hemophagocytic lymphohistiocytosis.&#xD;
+&#xD;
+          -  Has known additional malignancy within 5 years prior to randomization.&#xD;
+&#xD;
+          -  Has an active autoimmune disease or has had an autoimmune disease that may relapse.&#xD;
+&#xD;
+          -  Has had a major surgical procedure within 28 days or radiotherapy within 90 days&#xD;
+             before the first dose of study treatment.&#xD;
+&#xD;
+          -  Has active tuberculosis infection.&#xD;
+&#xD;
+          -  Has a known history of human immunodeficiency virus (HIV) infection and/or acquired&#xD;
+             immune deficiency syndrome (AIDS).&#xD;
+&#xD;
+          -  Has a known active Hepatitis B or C virus infection.&#xD;
+&#xD;
+          -  Has received systemic anti-cancer therapy within 28 days before the first dose of&#xD;
+             study treatment, including chemotherapy, immunotherapy, biological therapy (e.g.&#xD;
+             cancer vaccine, cytokine therapy or growth factors to treat cancer).&#xD;
+&#xD;
+          -  Has used traditional Chinese medicines or herbal preparations with anti-tumor&#xD;
+             indications within 7 days before the first dose of study treatment.&#xD;
+&#xD;
+          -  Has received systemic corticosteroid or any other immunosuppressive therapy within 14&#xD;
+             days before the first dose of study treatment.&#xD;
+&#xD;
+          -  Has received any treatment of antibody or drug that targets at T-cell coregulatory&#xD;
+             pathways or immune checkpoint pathways.&#xD;
+&#xD;
+          -  Has toxicity from prior anti-cancer treatment, except for alopecia and fatigue, that&#xD;
+             has not recovered to baseline or ≤ Grade 1 according to Common Terminology Criteria&#xD;
+             for Adverse Events (CTCAE) v5.0 before the first dose of study treatment.&#xD;
+&#xD;
+          -  Has had allogenic hematopoietic stem cell transplantation (HSCT) within 5 years or&#xD;
+             autologous HSCT within 90 days before the first dose of study treatment.&#xD;
+&#xD;
+          -  Has a known severe hypersensitivity to sugemalimab, its active substance and/or any of&#xD;
+             its excipients, or to other monoclonal antibodies.&#xD;
+&#xD;
+          -  Female participants who are pregnant or breastfeeding.&#xD;
+&#xD;
+          -  Is currently participating in or has participated in a trial of an investigational&#xD;
+             agent within 28 days before to the first dose of study treatment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Qinzhou Qi</last_name>
+    <role>Study Director</role>
+    <affiliation>CStone Pharmaceuticals</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Hua Hu</last_name>
+    <phone>+86 021-60333416</phone>
+    <email>cstoneRA@cstonepharma.com</email>
+  </overall_contact>
+  <verification_date>December 2022</verification_date>
+  <study_first_submitted>January 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>January 17, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 17, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, T-Cell</mesh_term>
+    <mesh_term>Lymphoma, T-Cell, Peripheral</mesh_term>
+    <mesh_term>Lymphoma, Extranodal NK-T-Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Gemcitabine</mesh_term>
+    <mesh_term>Oxaliplatin</mesh_term>
+    <mesh_term>Pegaspargase</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9288">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05701215</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VARIANT</org_study_id>
+    <secondary_id>2022-003069-39</secondary_id>
+    <nct_id>NCT05701215</nct_id>
+  </id_info>
+  <brief_title>Venetoclax After TKI to Target Persisting Stem Cells in CML</brief_title>
+  <acronym>VARIANT</acronym>
+  <official_title>Venetoclax After TKI to Target Persisting Stem Cells in CML</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Thomas Ernst, PD Dr. med.</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ludwig-Maximilians - University of Munich</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>AbbVie</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Jena</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      There is currently no available treatment, capable to increase the rate of sustained deep&#xD;
+      molecular remissions after TKI discontinuation in CML. Venetoclax could be such a drug. The&#xD;
+      study will provide unprecedented biological insights on the effects of venetoclax in&#xD;
+      controlling minimal residual stem cell disease induced by long-term prior TKI therapy. If the&#xD;
+      study would be positive, the findings could become practice changing for patients in deep&#xD;
+      molecular remission under TKI and willing to tolerate a temporary additional treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 1, 2023</start_date>
+  <completion_date type="Anticipated">December 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>stem cell change</measure>
+    <time_frame>at 6 months and 12 months after start of Venetoclax</time_frame>
+    <description>Reduction of BCR::ABL1 stem cells measured by quantitative genomic PCR in bone marrow after venetoclax administration.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>European Organisation for Research and Treatment of Cancer - Quality of Life C30 - Questionnaire</measure>
+    <time_frame>at 6 months and 12 months after start of Venetoclax</time_frame>
+    <description>compared to baseline with EORTC-QLQ C30 - Questionnaire (Score from 1 to 4; 1 better, 4 worse)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Kinetics of BCR::ABL1-transcript expression</measure>
+    <time_frame>monthly after start of Venetoclax until month 12</time_frame>
+    <description>Kinetics of typical BCR::ABL1 transcript level over time after Tyrosine kinase stop</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>monthly after start of Venetoclax until month 12</time_frame>
+    <description>defined as the time between the date of enrollment and the date of death from any cause.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>Chronic Myeloid Leukemia</condition>
+  <arm_group>
+    <arm_group_label>Venetoclax</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Venetoclax will be taken orally once daily (400 mg) for 12 months after stop of TKI</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Venetoclax</intervention_name>
+    <description>Venetoclax will be taken orally once daily (400 mg) for 12 months</description>
+    <arm_group_label>Venetoclax</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients with diagnosis of chronic phase CML with cytogenetic confirmation of the&#xD;
+             Philadelphia (Ph) chromosome&#xD;
+&#xD;
+          2. Ph negative cases or patients with variant translocations who are BCR::ABL1 positive&#xD;
+             in multiplex PCR are also eligible&#xD;
+&#xD;
+          3. Typical b2a2 and/or b3a2 BCR::ABL1 transcripts&#xD;
+&#xD;
+          4. Subject must be ≥ 18 years of age&#xD;
+&#xD;
+          5. Stored DNA from initial diagnosis (prior TKI treatment) for BCR::ABL1 breakpoint&#xD;
+             analysis&#xD;
+&#xD;
+          6. BCR::ABL1 transcript level according to the international scale (IS) of MR4 or better&#xD;
+             which has been confirmed three times within the past 13 months and was assessed by an&#xD;
+             IS-certified reference laboratory, such as of the University Jena or another&#xD;
+             MR4-certified laboratory in Germany&#xD;
+&#xD;
+          7. At least 3 years of TKI therapy&#xD;
+&#xD;
+          8. Patients who failed to discontinue TKI in a prior discontinuation attempt are still&#xD;
+             eligible if they fulfill criteria 6 after retreatment with TKI&#xD;
+&#xD;
+          9. WHO performance status 0-2&#xD;
+&#xD;
+         10. Adequate end organ function as defined by:&#xD;
+&#xD;
+               -  Total bilirubin (TBL) &lt; 3 x Upper Limit of Normal (ULN); patients with Gilbert's&#xD;
+                  syndrome may only be included if TBL ≤ 3.0 x ULN or direct bilirubin ≤ 1.5 x ULN,&#xD;
+&#xD;
+               -  Creatinine Clearance (CrCl) ≥ 30 millilitres per minute (mL/min) as calculated&#xD;
+                  using Cockcroft-Gault formula, Serum lipase ≤ 1.5 x ULN. For serum lipase &gt; ULN&#xD;
+                  1.5 x ULN, value must be considered not clinically significant and not associated&#xD;
+                  with risk factors for acute pancreatitis.&#xD;
+&#xD;
+         11. Patients must have the following laboratory values within normal limits or corrected&#xD;
+             to within normal limits with supplements:&#xD;
+&#xD;
+               -  Potassium (potassium increase of up to 6.0 mmol/L is acceptable if associated&#xD;
+                  with CrCl ≥ 90 mL/min),&#xD;
+&#xD;
+               -  Total calcium (corrected for serum albumin); (calcium increase of up to 12.5&#xD;
+                  mg/dl or 3.1 mmol/L is acceptable if associated with CrCl ≥ 90 mL/min),&#xD;
+&#xD;
+               -  Magnesium (magnesium increase of up to 3.0 mg/dL or 1.23 mmol/L if associated&#xD;
+                  with CrCl ≥ 90 mL/min),&#xD;
+&#xD;
+               -  For patients with mild to moderate renal impairment (CrCl ≥ 30 mL/min and &lt;90&#xD;
+                  mL/min) - potassium, total calcium (corrected for serum albumin) and magnesium&#xD;
+                  should be within normal limits or corrected to within normal limits with&#xD;
+                  supplements.&#xD;
+&#xD;
+         12. Women of childbearing age must use a highly effective method of contraception while&#xD;
+             using venetoclax. Women using hormonal contraceptives should also use a barrier&#xD;
+             method.&#xD;
+&#xD;
+         13. Negative pregnancy test in women of childbearing potential&#xD;
+&#xD;
+         14. Subject must voluntarily sign and date an informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Concomitant use of strong CYP3A-Inhibtors (e.g., itraconazole, ketoconazole,&#xD;
+             posaconazole, voriconazole, clarithromycin, ritonavir) is contraindicated&#xD;
+&#xD;
+          2. Concomitant use of moderate CYP3A-Inhibitors (e.g., ciprofloxacin, diltiazem,&#xD;
+             erythromycin, fluconazole, verapamil) should be avoided.&#xD;
+&#xD;
+          3. Grapefruit products, Seville oranges, and starfruit (carambola) should be avoided&#xD;
+             during treatment with venetoclax as they contain inhibitors of CYP3A&#xD;
+&#xD;
+          4. Concomitant use of venetoclax with P-gp and BCRP inhibitors&#xD;
+&#xD;
+          5. Concomitant use of venetoclax with strong CYP3A inducers (e.g., carbamazepine,&#xD;
+             phenytoin, rifampin) or moderate CYP3A inducers (e.g., bosentan, efavirenz,&#xD;
+             etravirine, modafinil, nafcillin) should be avoided&#xD;
+&#xD;
+          6. Concomitant use of preparations containing St. John´s wort&#xD;
+&#xD;
+          7. Patients with severe renal impairment (Crea-Clearance &lt; 30 ml/min) or on dialysis&#xD;
+&#xD;
+          8. Patients with severe hepatic impairment&#xD;
+&#xD;
+          9. Patients who are pregnant or breast feeding, or females of reproductive potential not&#xD;
+             employing an effective method of birth control. Female patients must agree to employ&#xD;
+             an effective barrier method of birth control throughout the study and for and for at&#xD;
+             least 30 days after ending venetoclax treatment&#xD;
+&#xD;
+         10. Known impaired cardiac function&#xD;
+&#xD;
+         11. Impaired gastrointestinal function or disease that may alter the absorption of study&#xD;
+             drug&#xD;
+&#xD;
+         12. Patients who have undergone major surgery ≤ 2 weeks prior to starting study drug or&#xD;
+             who have not recovered from side effects of such therapy&#xD;
+&#xD;
+         13. Active or uncontrolled infections at the time of enrolment&#xD;
+&#xD;
+         14. Known HIV sero-positivity or known active hepatitis B or C infection (HIV testing is&#xD;
+             not required)&#xD;
+&#xD;
+         15. Participation in another clinical study with other investigational drugs within 14&#xD;
+             days prior to enrolment&#xD;
+&#xD;
+         16. Any medical, mental, psychological or psychiatric condition that in the opinion of the&#xD;
+             investigator would not permit the patient to complete the study or understand the&#xD;
+             patient information&#xD;
+&#xD;
+         17. Subject has acute leukemia&#xD;
+&#xD;
+         18. Subject has known active CNS involvement.&#xD;
+&#xD;
+         19. Hypersensitivity to venetoclax or any component of the formulation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Thomas Ernst, Prof. Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital Jena</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Thomas Ernst, Prof. Dr.</last_name>
+    <phone>+49 3641 Ext. 9396670</phone>
+    <email>thomas.ernst@med.uni-jena.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Christian Fabisch, Dr.</last_name>
+    <phone>+49 3641 Ext. 9396670</phone>
+    <email>christian.fabisch@med.uni-jena.de</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Jena</name>
+      <address>
+        <city>Jena</city>
+        <zip>07747</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Thomas Ernst, Prof. Dr.</last_name>
+      <phone>+49 3641</phone>
+      <phone_ext>9324201</phone_ext>
+      <email>thomas.ernst@med.uni-jena.de</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>June 2023</verification_date>
+  <study_first_submitted>October 26, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>June 6, 2023</last_update_submitted>
+  <last_update_submitted_qc>June 6, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 7, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Jena</investigator_affiliation>
+    <investigator_full_name>Thomas Ernst, PD Dr. med.</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Leukemia, Myelogenous, Chronic, BCR-ABL Positive</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Venetoclax</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

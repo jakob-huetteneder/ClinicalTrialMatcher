@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9352">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05699785</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-PP-04</org_study_id>
+    <nct_id>NCT05699785</nct_id>
+  </id_info>
+  <brief_title>Comparison of Inflammatory Markers and Incidence of Comorbidities in Patients on Antiretroviral Therapy With Second-generation Anti-integrase Drugs on Triple Versus Dual Therapy</brief_title>
+  <acronym>COLLATERAL 2</acronym>
+  <official_title>Comparison of Inflammatory Markers and Incidence of Comorbidities in Patients on Antiretroviral Therapy (ART) With Second-generation Anti-integrase Drugs on Triple Versus Dual Therapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire de Nice</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire de Nice</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      HIV-infected patients develop comorbidities earlier than the general population. Immune&#xD;
+      activation with the secretion of pro-inflammatory cytokines would play a major role in the&#xD;
+      occurrence of these comorbidities. Numerous factors, called risk factors, already identified&#xD;
+      in the general population and confirmed in patients with HIV virus favor the occurrence of&#xD;
+      these comorbidities but cannot alone explain the overrepresentation and precocity of these&#xD;
+      comorbidities in the HIV population. Investigators hypothesize that optimization or&#xD;
+      simplification with certain classes of antiretrovirals modify the inflammatory response and&#xD;
+      are predictive factors for the occurrence of comorbidities&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2023</start_date>
+  <completion_date type="Anticipated">February 1, 2026</completion_date>
+  <primary_completion_date type="Anticipated">February 1, 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Plasma inflammatory markers</measure>
+    <time_frame>3 years after baseline</time_frame>
+    <description>To measure the evolution of different plasma inflammatory markers (CRP, IL6, D-Dimers, CD14s, CD163, IL-1, IP-10, MCP-1, IL-18, IFAB) over 3 years between the 2 groups.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>CD4/CD8 ratio</measure>
+    <time_frame>3 years after baseline</time_frame>
+    <description>To measure the evolution of CD4/CD8 ratio over 3 years between the 2 groups. A CD4/CD8 ratio is considered normal if it is greater than 0.75. Immune hyperactivation occurs when the ratio is below 0.75</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Virological failure rate (year 1)</measure>
+    <time_frame>One year after baseline</time_frame>
+    <description>Virological failure rate (plasma HIV-1 RNA viral load &gt; 50 copies/ml on two consecutive measurements)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>residual viremia rate (year 1)</measure>
+    <time_frame>One year after baseline</time_frame>
+    <description>Evolution of the residual viremia rate (detected or quantifiable plasma HIV-1 RNA viral load &lt; 50 copies/ml)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Virological failure rate (year 2)</measure>
+    <time_frame>two years after baseline</time_frame>
+    <description>Virological failure rate (plasma HIV-1 RNA viral load &gt; 50 copies/ml on two consecutive measurements)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Residual viremia rate (year 2)</measure>
+    <time_frame>two years after baseline</time_frame>
+    <description>Evolution of the residual viremia rate (detected or quantifiable plasma HIV-1 RNA viral load &lt; 50 copies/ml)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Virological failure rate (year 3)</measure>
+    <time_frame>three years after baseline</time_frame>
+    <description>Virological failure rate (plasma HIV-1 RNA viral load &gt; 50 copies/ml on two consecutive measurements)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Residuak viremia rate (year 3)</measure>
+    <time_frame>3 years after baseline</time_frame>
+    <description>Evolution of the residual viremia rate (detected or quantifiable plasma HIV-1 RNA viral load &lt; 50 copies/ml)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence of neuropsychiatric events at 1 year</measure>
+    <time_frame>1 year after baseline</time_frame>
+    <description>To analyze the evolution at 1 year of the prevalence of neuropsychiatric events (including sleep disorders, anxiety, depression) between the two groups from the questionnaires.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence of neuropsychiatric events at 2 years</measure>
+    <time_frame>2 years after baseline</time_frame>
+    <description>To analyze the evolution at 2 years of the prevalence of neuropsychiatric events (including sleep disorders, anxiety, depression) between the two groups from the questionnaires.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence of neuropsychiatric events at 3 years</measure>
+    <time_frame>3 years after baseline</time_frame>
+    <description>To analyze the evolution at 2 years of the prevalence of neuropsychiatric events (including sleep disorders, anxiety, depression) between the two groups from the questionnaires.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>changes in antiretroviral therapy (year 1)</measure>
+    <time_frame>1 year after baseline</time_frame>
+    <description>Analyze the 1-year change in the prevalence of changes in antiretroviral therapy and the reasons for changes between the two groups based on questionnaires</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>changes in antiretroviral therapy (year 2)</measure>
+    <time_frame>2 years after baseline</time_frame>
+    <description>Analyze the 2-years change in the prevalence of changes in antiretroviral therapy and the reasons for changes between the two groups based on questionnaires</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>changes in antiretroviral therapy (year 3)</measure>
+    <time_frame>3 years after baseline</time_frame>
+    <description>Analyze the 3-years change in the prevalence of changes in antiretroviral therapy and the reasons for changes between the two groups based on questionnaires</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of intracellular markers (CD8/CD38, HLA-DR) (year 1)</measure>
+    <time_frame>1 year after baseline</time_frame>
+    <description>To analyze the evolution of intracellular markers (CD8/CD38, HLA-DR) at 1 year between the two cohorts in high-risk subjects (nadir CD4&lt;200 cells/mm3 or history of AIDS stage, or subject aged ≥ 65 years)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>plasma markers assay (year 1)</measure>
+    <time_frame>1 year after baseline</time_frame>
+    <description>Analyze the evolution of plasma markers at 1 year between the two cohorts in high-risk subjects (nadir CD4&lt;200 cells/mm3 or history of AIDS stage, or subject aged ≥ 65 years)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>plasma markers assay (year 2)</measure>
+    <time_frame>2 years after baseline</time_frame>
+    <description>Analyze the evolution of plasma markers at 2 years between the two cohorts in high-risk subjects (nadir CD4&lt;200 cells/mm3 or history of AIDS stage, or subject aged ≥ 65 years)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>plasma markers assay (year 3)</measure>
+    <time_frame>3 years after baseline</time_frame>
+    <description>Analyze the evolution of plasma markers at 3 years between the two cohorts in high-risk subjects (nadir CD4&lt;200 cells/mm3 or history of AIDS stage, or subject aged ≥ 65 years)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>risk factors for immune hyper activation</measure>
+    <time_frame>3 years after baseline</time_frame>
+    <description>Analyze and compare risk factors for immune hyper activation (age, CD4 nadir&lt;200 cells/mm3, AIDS stage, residual viremia, archived M184V/I resistance...) in each group</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>immune activation markers assays and identification of comorbidities</measure>
+    <time_frame>3 years after baseline</time_frame>
+    <description>Correlate immune activation markers with the occurrence of comorbidities</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>comorbidities (year 1)</measure>
+    <time_frame>1 year after baseline</time_frame>
+    <description>Measurement of the true incidence of major 11 comorbidities (Depression, Cardiovascular, Osteoporosis, Non-AIDS related cancers, Metabolic syndrome, Cognitive disorders, Chronic renal failure , proximal renal tubulopathy, Hepatic fibrosis, Chronic Obstructive Pulmonary Disease, Osteoarthritis) at 1 year</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>comorbidities (year 2)</measure>
+    <time_frame>2 years after baseline</time_frame>
+    <description>Measurement of the true incidence of major 11 comorbidities (Depression, Cardiovascular, Osteoporosis, Non-AIDS related cancers, Metabolic syndrome, Cognitive disorders, Chronic renal failure , proximal renal tubulopathy, Hepatic fibrosis, Chronic Obstructive Pulmonary Disease, Osteoarthritis) at 2 years</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>comorbidities (year 3)</measure>
+    <time_frame>3 years after baseline</time_frame>
+    <description>Measurement of the true incidence of major 11 comorbidities (Depression, Cardiovascular, Osteoporosis, Non-AIDS related cancers, Metabolic syndrome, Cognitive disorders, Chronic renal failure , proximal renal tubulopathy, Hepatic fibrosis, Chronic Obstructive Pulmonary Disease, Osteoarthritis) at 3 years</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Onset of new comorbidity</measure>
+    <time_frame>3 years after baseline</time_frame>
+    <description>Measure the time to onset of new comorbidity(ies) in each group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>patient profiles</measure>
+    <time_frame>3 years after baseline</time_frame>
+    <description>Describe patient profiles at risk for comorbidities based on different inflammatory biomarkers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>individualized and computerized care plan</measure>
+    <time_frame>3 years after baseline</time_frame>
+    <description>Establish an individualized and computerized care plan for the patient after evaluation of the risk factors (according to the profiles) to detect the occurrence or aggravation of comorbidities</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Hiv</condition>
+  <arm_group>
+    <arm_group_label>patients on antiretroviral therapy with second generation anti-integrase drugs in triple therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>patients on antiretroviral therapy with second generation anti-integrase drugs in dual therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>plasma inflammatory markers</intervention_name>
+    <description>Evolution of different plasma inflammatory markers (CRP, IL6, D-Dimers, CD14s, CD163, IL-1, IP-10, MCP-1, IL-18, IFAB)</description>
+    <arm_group_label>patients on antiretroviral therapy with second generation anti-integrase drugs in dual therapy</arm_group_label>
+    <arm_group_label>patients on antiretroviral therapy with second generation anti-integrase drugs in triple therapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>CD4/CD8 ratio</intervention_name>
+    <description>Evolution of CD4/CD8 ratio</description>
+    <arm_group_label>patients on antiretroviral therapy with second generation anti-integrase drugs in dual therapy</arm_group_label>
+    <arm_group_label>patients on antiretroviral therapy with second generation anti-integrase drugs in triple therapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  HIV-1 infection&#xD;
+&#xD;
+          -  Age &gt; 40 years or adults with more than 10 years of antiretroviral therapy&#xD;
+&#xD;
+          -  Switching to BIC/FTC/TAF or DTG/3TC or DTG+3TC within the last 2 years&#xD;
+&#xD;
+          -  Plasma HIV-1 RNA viral load &lt; 50 copies/ml for more than 6 months&#xD;
+&#xD;
+          -  Absence of chronic hepatitis B infection&#xD;
+&#xD;
+          -  Absence of genotype mutations on Dolutegravir (DTG) or Bictegravir (BIC) or tenofovir&#xD;
+             alafenamide TAF&#xD;
+&#xD;
+          -  Daily use of antiretroviral therapy&#xD;
+&#xD;
+          -  Effective contraception for women of childbearing potential will be requested&#xD;
+&#xD;
+          -  Signed informed consent&#xD;
+&#xD;
+          -  Enrollment in a Social Security plan&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Non-daily or intermittent antiretroviral therapy regimen (e.g., 4 or 5 days a week)&#xD;
+&#xD;
+          -  Pregnancy or breastfeeding&#xD;
+&#xD;
+          -  Vulnerable persons according to article L.1121-6 of the public health code Persons&#xD;
+             unable to give consent according to article L.1121-8 of the public health code&#xD;
+&#xD;
+          -  Opportunistic infections during curative treatment&#xD;
+&#xD;
+          -  HIV-2 infection&#xD;
+&#xD;
+          -  Active hepatitis C&#xD;
+&#xD;
+          -  Refusal to participate&#xD;
+&#xD;
+          -  Withdrawal of informed consent by the patient&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jacques Durant</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>durant.j@chu-nice.fr</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jacques Durant</last_name>
+    <phone>04.92.03.97.11</phone>
+    <phone_ext>+33</phone_ext>
+    <email>durant.j@chu-nice.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>CHU Nice</name>
+      <address>
+        <city>Nice</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jacques Durant</last_name>
+      <phone>04.92.03.97.11</phone>
+      <phone_ext>+33</phone_ext>
+      <email>durant.j@chu-nice.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 27, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 16, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>January 16, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 16, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

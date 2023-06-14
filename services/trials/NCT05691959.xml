@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9708">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05691959</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RMI20220086</org_study_id>
+    <nct_id>NCT05691959</nct_id>
+  </id_info>
+  <brief_title>Pre-diltiazem, Calcium Versus Placebo for Atrial Fibrillation With Rapid Ventricular Response</brief_title>
+  <official_title>Calcium Administration to Prevent Hypotension Caused by Diltiazem Administration in the Treatment of Atrial Fibrillation With Rapid Ventricular Response</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ascension Genesys Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ascension Genesys Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this randomized double blind controlled trial is to learn about the effects of&#xD;
+      calcium when it is given prior to diltiazem for patients with atrial fibrillation ( a type of&#xD;
+      irregular heart beat) who have rapid ventricular response ( a pulse over 100 beats per&#xD;
+      minute). Normally diltiazem 0.25mg/kg (max 20mg) is given to slow the heart rate. We will&#xD;
+      give Placebo versus Calcium Gluconate 2gm given prior to diltiazem.&#xD;
+&#xD;
+      The main questions it aims to answer are:&#xD;
+&#xD;
+        -  Does calcium decrease the incidence of low blood pressure (a side effect of diltiazem)?&#xD;
+&#xD;
+        -  How does calcium effect the action of diltiazem? Does it interfere with the desired&#xD;
+           decrease in heart rate?&#xD;
+&#xD;
+      Participants will receive either placebo or calcium immediately prior to the administration&#xD;
+      of diltiazem. Their blood pressure and pulse will be measured:&#xD;
+&#xD;
+        -  prior to study drug administration&#xD;
+&#xD;
+        -  post study drug and prior to diltiazem administration&#xD;
+&#xD;
+        -  3 minutes post start of diltiazem&#xD;
+&#xD;
+        -  5 minutes post start of diltiazem&#xD;
+&#xD;
+        -  10 minutes post start of diltiazem&#xD;
+&#xD;
+        -  20 minutes post start of diltiazem&#xD;
+&#xD;
+        -  30 minutes post start of diltiazem&#xD;
+&#xD;
+      Researchers will compare the placebo group to the calcium group to see if there is a&#xD;
+      difference in the blood pressure and pulse.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Diltiazem, a calcium channel blocker is the standard of care for treatment of stable patients&#xD;
+      with atrial fibrillation and rapid ventricular response. Many emergency physicians opine that&#xD;
+      calcium, the &quot;antidote&quot; for calcium channel blockers, when given prior to diltiazem&#xD;
+      administration, mitigates the common adverse effect of hypotension.&#xD;
+&#xD;
+      In order to obtain evidence related to this belief, we will study the effects of placebo&#xD;
+      (normal saline 50ml) versus calcium gluconate (2 grams in normal saline 50ml).&#xD;
+      Hemodynamically stable patients in afib with rvr will be identified on their arrival to the&#xD;
+      emergency department. Those who consent to the study will be enrolled and the pharmacy will&#xD;
+      be contacted to provide a blinded study sample to the patient's bedside. After initial vital&#xD;
+      signs are recorded the study sample will be infused via pump over a 10 minute period. Vitals&#xD;
+      will be recorded on its completion and a diltiazem bolus (0.25mg/kg, max 20mg) will be&#xD;
+      administered. Vitals will be recorded at 3, 5, 10, 20 and 30 minutes post start of diltiazem&#xD;
+      bolus.&#xD;
+&#xD;
+      The primary outcome of hypotension will be calculated using rates (frequencies). The rate of&#xD;
+      hypotension will be compared between the two groups using Chi square analysis. The groups&#xD;
+      will be compared for similarity using means(sd) and frequencies(percentages). Any variables&#xD;
+      that differ by group will be controlled for with a multiple logistic regression analysis.&#xD;
+&#xD;
+      A 35% rate of hypotension is estimated for the placebo group and a hypothesized 22% in the&#xD;
+      treatment group (a relative 37% decrease). This will require a minimum total sample size of&#xD;
+      378 (184/ group) . We may terminate the study earlier if we achieve power.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 26, 2023</start_date>
+  <completion_date type="Anticipated">January 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized Placebo Controlled Double Blind Study</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Each formulation is masked by the pharmacy department.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Hypotension</measure>
+    <time_frame>Thirty minutes from time of drug administration</time_frame>
+    <description>Mean arterial blood pressure less than 70mm Hg</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Heart rate</measure>
+    <time_frame>Thirty minutes from drug administration</time_frame>
+    <description>Decrease below 100 beats per minute</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">378</enrollment>
+  <condition>Atrial Fibrillation With Rapid Ventricular Response</condition>
+  <condition>Hypotension</condition>
+  <arm_group>
+    <arm_group_label>Normal Saline</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Normal saline 50 ml intravenous piggyback once over 10 minutes</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Calcium chloride</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>x grams in 50 ml ivpb once over 10 minutes</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Patients randomized to placebo group will receive Normal Saline 50ml IV.</description>
+    <arm_group_label>Normal Saline</arm_group_label>
+    <other_name>Normal saline</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Calcium</intervention_name>
+    <description>Patients randomized to the study group will receive Calcium 2gm in Normal Saline 50ml IV.</description>
+    <arm_group_label>Calcium chloride</arm_group_label>
+    <other_name>Study drug</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria: Diagnosis of atrial fibrillation with rapid ventricular response&#xD;
+        (ventricular rate over 100 bpm) due to an electrophysiologic etiology.&#xD;
+&#xD;
+        -&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Unstable, requiring electric cardioversion -hypotensive&#xD;
+&#xD;
+               -  altered mental status&#xD;
+&#xD;
+               -  myocardial infarction&#xD;
+&#xD;
+               -  pulmonary hypertension&#xD;
+&#xD;
+          2. Patients at risk of hypercalcemia - renal failure&#xD;
+&#xD;
+          3. Know cardiac valvular disease&#xD;
+&#xD;
+          4. Allergic to calcium gluconate or diltiazem&#xD;
+&#xD;
+          5. Underlying cardiac disease - sick sinus syndrome&#xD;
+&#xD;
+               -  2nd/3rd degree atrial ventricular block&#xD;
+&#xD;
+               -  cardiogenic shock&#xD;
+&#xD;
+               -  recent IV beta blocker administration&#xD;
+&#xD;
+               -  accession bypass tract (WPW, short PR)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Virginia A LaBond, MS MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ascension Genesys Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Virginia A LaBond, MS MD</last_name>
+    <phone>810-606-5000</phone>
+    <email>virginia.labond@ascension.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Tara Knisley, MD</last_name>
+    <phone>810-606-5000</phone>
+    <email>tara.knisley@ascension.org</email>
+  </overall_contact_backup>
+  <link>
+    <url>https://www.uptodate.com/contents/control-of-ventricular-rate-in-atrial-fibrillation-pharmacologic-therapy?sear</url>
+    <description>rate control therapy</description>
+  </link>
+  <link>
+    <url>http://www.uptodate.com/contents/calcium-gluconate-drug-information?search=calcium+gluconate&amp;source=pa</url>
+    <description>calcium gluconate drug information</description>
+  </link>
+  <link>
+    <url>http://www.uptodate.com/contents/diltiazem-drug-information?source=history_widget</url>
+    <description>diltiazem drug information</description>
+  </link>
+  <reference>
+    <citation>Barnett JC, Touchon RC. Short-term control of supraventricular tachycardia with verapamil infusion and calcium pretreatment. Chest. 1990 May;97(5):1106-9. doi: 10.1378/chest.97.5.1106.</citation>
+    <PMID>2331904</PMID>
+  </reference>
+  <reference>
+    <citation>Haft JI, Habbab MA. Treatment of atrial arrhythmias. Effectiveness of verapamil when preceded by calcium infusion. Arch Intern Med. 1986 Jun;146(6):1085-9. doi: 10.1001/archinte.146.6.1085.</citation>
+    <PMID>3718093</PMID>
+  </reference>
+  <reference>
+    <citation>Kolkebeck T, Abbrescia K, Pfaff J, Glynn T, Ward JA. Calcium chloride before i.v. diltiazem in the management of atrial fibrillation. J Emerg Med. 2004 May;26(4):395-400. doi: 10.1016/j.jemermed.2003.12.020.</citation>
+    <PMID>15093843</PMID>
+  </reference>
+  <reference>
+    <citation>Lee J, Kim K, Lee CC, Nam YW, Lee JH, Rhee JE, Singer AJ, Kim KS, Ro Y. Low-dose diltiazem in atrial fibrillation with rapid ventricular response. Am J Emerg Med. 2011 Oct;29(8):849-54. doi: 10.1016/j.ajem.2010.03.021. Epub 2010 May 1.</citation>
+    <PMID>20825912</PMID>
+  </reference>
+  <reference>
+    <citation>Moser LR, Smythe MA, Tisdale JE. The use of calcium salts in the prevention and management of verapamil-induced hypotension. Ann Pharmacother. 2000 May;34(5):622-9. doi: 10.1345/aph.18318.</citation>
+    <PMID>10852091</PMID>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 11, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>January 11, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 11, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Ascension Genesys Hospital</investigator_affiliation>
+    <investigator_full_name>Virginia LaBond MD</investigator_full_name>
+    <investigator_title>Core Faculty/Research Advisor, Emergency Medicine Residency Program</investigator_title>
+  </responsible_party>
+  <keyword>Atrial Fibrillation</keyword>
+  <keyword>Rapid Ventricular Response</keyword>
+  <keyword>Diltiazem</keyword>
+  <keyword>Calcium Channel Blocker</keyword>
+  <keyword>Calcium</keyword>
+  <keyword>Hypotension</keyword>
+  <keyword>Heart Rate</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Atrial Fibrillation</mesh_term>
+    <mesh_term>Hypotension</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Calcium</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

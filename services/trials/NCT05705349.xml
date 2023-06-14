@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9097">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05705349</url>
+  </required_header>
+  <id_info>
+    <org_study_id>8591A-053</org_study_id>
+    <secondary_id>2022-502099-22-00</secondary_id>
+    <secondary_id>jRCT2031220720</secondary_id>
+    <nct_id>NCT05705349</nct_id>
+  </id_info>
+  <brief_title>DOR/ISL in HIV-1 Antiretroviral Treatment-naïve Participants (MK-8591A-053)</brief_title>
+  <official_title>A Phase 3, Randomized, Active-Controlled, Double-Blind Clinical Study to Evaluate the Antiretroviral Activity, Safety, and Tolerability of Doravirine/Islatravir (DOR/ISL 100 mg/0.25 mg) Once-Daily in HIV-1 Infected Treatment-Naïve Participants</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Merck Sharp &amp; Dohme LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Merck Sharp &amp; Dohme LLC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized, active-controlled, double-blind clinical study designed to evaluate the&#xD;
+      antiretroviral activity, safety, and tolerability of doravirine/islatravir (DOR/ISL&#xD;
+      [MK-8591A]) in treatment-naïve participants with human immunodeficiency virus type 1 (HIV-1)&#xD;
+      infection. It is hypothesized that DOR/ISL is non-inferior to&#xD;
+      bictegravir/emtricitabine/tenofovir alafenamide (BIC/FTC/TAF) as assessed by the percentage&#xD;
+      of participants with HIV-1 ribonucleic acid (RNA) &lt;50 copies/mL at Week 48.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 8, 2023</start_date>
+  <completion_date type="Anticipated">July 31, 2026</completion_date>
+  <primary_completion_date type="Anticipated">March 28, 2025</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of participants with human immunodeficiency virus type 1 (HIV-1) ribonucleic acid (RNA) &lt;50 copies/mL at Week 48</measure>
+    <time_frame>Week 48</time_frame>
+    <description>Plasma HIV-1 RNA quantification will be performed at the central laboratory using a polymerase chain reaction (PCR) assay with a lower limit of detection of &lt;50 copies/mL.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants experiencing ≥1 adverse event (AE) through Week 48</measure>
+    <time_frame>Up to 48 weeks</time_frame>
+    <description>An AE is any untoward medical occurrence in a clinical study participant, temporally associated with the use of study intervention, whether or not considered related to the study intervention.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants discontinuing from study treatment due to an AE through Week 48</measure>
+    <time_frame>Up to 48 weeks</time_frame>
+    <description>An AE is any untoward medical occurrence in a clinical study participant, temporally associated with the use of study intervention, whether or not considered related to the study intervention.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants with HIV-1 RNA &lt;50 copies/mL at Week 96</measure>
+    <time_frame>Week 96</time_frame>
+    <description>Plasma HIV-1 RNA quantification will be performed at the central laboratory using a PCR assay with a lower limit of detection of &lt;50 copies/mL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants with HIV-1 RNA &lt;200 copies/mL at Week 48</measure>
+    <time_frame>Week 48</time_frame>
+    <description>Plasma HIV-1 RNA quantification will be performed at the central laboratory using a PCR assay with a lower limit of detection of &lt;50 copies/mL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants with HIV-1 RNA &lt;200 copies/mL at Week 96</measure>
+    <time_frame>Week 96</time_frame>
+    <description>Plasma HIV-1 RNA quantification will be performed at the central laboratory using a PCR assay with a lower limit of detection of &lt;50 copies/mL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in cluster of differentiation 4+ (CD4+) T-cells at Week 48</measure>
+    <time_frame>Baseline (Day 1) and Week 48</time_frame>
+    <description>CD4+ T-cells are quantified with a T and B lymphocyte and natural killer cell (TBNK) panel.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in CD4+ T-cells at Week 96</measure>
+    <time_frame>Baseline (Day 1) and Week 96</time_frame>
+    <description>CD4+ T-cells are quantified with a TBNK panel.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of viral drug resistance</measure>
+    <time_frame>Up to 96 weeks</time_frame>
+    <description>Plasma samples will be collected for genotypic and phenotypic HIV-1 viral drug resistance testing and used to assess resistance-associated substitutions and viral susceptibility as applicable during the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in body weight at Week 48</measure>
+    <time_frame>Baseline (Day 1) and Week 48</time_frame>
+    <description>Body weight will be collected throughout the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in body weight at Week 96</measure>
+    <time_frame>Baseline (Day 1) and Week 96</time_frame>
+    <description>Body weight will be collected throughout the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants experiencing ≥1 AE through Week 96</measure>
+    <time_frame>Up to 96 weeks</time_frame>
+    <description>An AE is any untoward medical occurrence in a clinical study participant, temporally associated with the use of study intervention, whether or not considered related to the study intervention.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants discontinuing from study treatment due to an AE through Week 96</measure>
+    <time_frame>Up to 96 weeks</time_frame>
+    <description>An AE is any untoward medical occurrence in a clinical study participant, temporally associated with the use of study intervention, whether or not considered related to the study intervention.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>HIV-1 Infection</condition>
+  <arm_group>
+    <arm_group_label>DOR/ISL</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants take DOR/ISL and placebo to BIC/FTC/TAF once daily (qd) for 96 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BIC/FTC/TAF</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants take BIC/FTC/TAF and placebo to DOR/ISL qd for 96 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>DOR/ISL</intervention_name>
+    <description>Fixed dose combination tablet containing DOR/ISL 100 mg/0.25 mg taken by mouth.</description>
+    <arm_group_label>DOR/ISL</arm_group_label>
+    <other_name>MK-8591A</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BIC/FTC/TAF</intervention_name>
+    <description>Fixed dose combination tablet containing BIC/FTC/TAF 50 mg/200 mg/25 mg taken by mouth.</description>
+    <arm_group_label>BIC/FTC/TAF</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo to DOR/ISL</intervention_name>
+    <description>Placebo tablet matched to DOR/ISL tablet taken by mouth.</description>
+    <arm_group_label>BIC/FTC/TAF</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo to BIC/FTC/TAF</intervention_name>
+    <description>Placebo tablet matched to BIC/FTC/TAF tablet taken by mouth.</description>
+    <arm_group_label>DOR/ISL</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Is HIV-1 positive with plasma HIV-1 RNA ≥500 copies/mL at screening&#xD;
+&#xD;
+          -  Is naïve to antiretroviral therapy (ART) defined as having received no prior therapy&#xD;
+             with any antiretroviral agent following a diagnosis of HIV-1 infection&#xD;
+&#xD;
+          -  If female, is not a participant of childbearing potential (POCBP); or if a POCBP, is&#xD;
+             not pregnant or breastfeeding, and is willing to use an acceptable contraceptive&#xD;
+             method or abstain from heterosexual intercourse for study duration&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Has HIV-2 infection&#xD;
+&#xD;
+          -  Has hypersensitivity or other contraindication to any of the components of the study&#xD;
+             interventions as determined by the investigator&#xD;
+&#xD;
+          -  Has a diagnosis of an active AIDS-defining opportunistic infection within 30 days&#xD;
+             prior to screening&#xD;
+&#xD;
+          -  Has active hepatitis B infection (defined as hepatitis B surface antigen&#xD;
+             [HBsAg]-positive or HBV deoxyribonucleic acid [DNA]-positive).&#xD;
+&#xD;
+          -  Has chronic hepatitis C virus (HCV) infection (detectable HCV ribonucleic acid [RNA])&#xD;
+             and lab values are consistent with cirrhosis&#xD;
+&#xD;
+          -  Has a history of malignancy ≤5 years prior to providing documented informed consent&#xD;
+             except for adequately treated basal cell or squamous cell skin cancer, in situ&#xD;
+             cervical cancer, or cutaneous Kaposi's sarcoma&#xD;
+&#xD;
+          -  Has a history or current evidence of any condition (including active tuberculosis&#xD;
+             infection), therapy, laboratory abnormality, or other circumstance (including drug or&#xD;
+             alcohol use or dependence) that might, in the opinion of the investigator, confound&#xD;
+             the results of the study or interfere with the participant's participation for the&#xD;
+             full duration of the study, such that it is not in the best interest of the&#xD;
+             participant to participate&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Merck Sharp &amp; Dohme LLC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Toll Free Number</last_name>
+    <phone>1-888-577-8839</phone>
+    <email>Trialsites@merck.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Pueblo Family Physicians ( Site 5674)</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85015</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>602-264-9191</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Pacific Oaks Medical Group ( Site 5681)</name>
+      <address>
+        <city>Beverly Hills</city>
+        <state>California</state>
+        <zip>90211</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>310-652-2562</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ruane Clinical Research Group, Inc ( Site 5658)</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90036</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>310-740-6944</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Washington Health Institute ( Site 5689)</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>336-512-0813</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Midway Immunology and Research Center ( Site 5657)</name>
+      <address>
+        <city>Fort Pierce</city>
+        <state>Florida</state>
+        <zip>34982</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>772-464-9746</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AHF South Beach ( Site 5663)</name>
+      <address>
+        <city>Miami Beach</city>
+        <state>Florida</state>
+        <zip>33140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>305-538-1400</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AHF The Kinder Medical Group ( Site 5672)</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33133</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>786-497-4000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Orlando Immunology Center ( Site 5654)</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>407-647-3960</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CAN Community Health - Sarasota ( Site 5668)</name>
+      <address>
+        <city>Sarasota</city>
+        <state>Florida</state>
+        <zip>34237</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>941-366-0234</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Triple O Research Institute, P.A ( Site 5666)</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33407</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>561-855-7871</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Atlanta I.D. Group ( Site 5680)</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30309</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>404-355-3161</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Infectious Disease Specialists of Atlanta ( Site 5653)</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>404-297-9755</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mercer University, Department of Internal Medicine ( Site 5655)</name>
+      <address>
+        <city>Macon</city>
+        <state>Georgia</state>
+        <zip>31201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>478-301-5851</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University Medical Center-Infectious Disease ( Site 5671)</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>312-942-5865</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Illinois at Chicago-Project WISH ( Site 5685)</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>312-636-4949</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Howard Brown Health Center-Clinical Research ( Site 5665)</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60613</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>312-451-6830</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Be Well Medical Center ( Site 5650)</name>
+      <address>
+        <city>Berkley</city>
+        <state>Michigan</state>
+        <zip>48072</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>313-300-1330</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Hospital ( Site 5667)</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>313-916-2573</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>KC CARE Health Center-Clinical Trials ( Site 5670)</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>816-777-2759</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Jubilee Clinical Research ( Site 5679)</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>702-829-8491</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ID Care ( Site 5676)</name>
+      <address>
+        <city>Hillsborough</city>
+        <state>New Jersey</state>
+        <zip>08844</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>908-281-0221</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Michael's Medical Center ( Site 5682)</name>
+      <address>
+        <city>Newark</city>
+        <state>New Jersey</state>
+        <zip>07102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>973-877-2663</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Regional Center for Infectious Diseases ( Site 5687)</name>
+      <address>
+        <city>Greensboro</city>
+        <state>North Carolina</state>
+        <zip>27401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>336-832-7297</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Central Texas Clinical Research ( Site 5661)</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>512-496-9899</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St Hope Foundation ( Site 5659)</name>
+      <address>
+        <city>Bellaire</city>
+        <state>Texas</state>
+        <zip>77401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>713-839-7111</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Prism Health North Texas, Oak Cliff Health Center ( Site 5660)</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>214-673-9463</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>North Texas Infectious Diseases Consultants, P.A ( Site 5651)</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>214-823-2533</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Centers for Infectious Disease Associates ( Site 5656)</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>817-348-0042</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>DCOL Center for Clinical Research ( Site 5664)</name>
+      <address>
+        <city>Longview</city>
+        <state>Texas</state>
+        <zip>75605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>903-238-8854</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rambam Health Care Campus-Institute of Allergy, Clinical Immunology, ( Site 6751)</name>
+      <address>
+        <city>Haifa</city>
+        <zip>3109601</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>972502061699</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hadassah Medical Center-Infecious Disease ( Site 6752)</name>
+      <address>
+        <city>Jerusalem</city>
+        <zip>9112001</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>972507874340</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sheba Medical Center-HIV unit ( Site 6753)</name>
+      <address>
+        <city>Ramat Gan</city>
+        <zip>5262100</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>972526667525</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sourasky Medical Center ( Site 6754)</name>
+      <address>
+        <city>Tel Aviv</city>
+        <zip>6423906</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>97236973222</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Nagoya Medical Center ( Site 6953)</name>
+      <address>
+        <city>Nagoya</city>
+        <state>Aichi</state>
+        <zip>460-0001</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>81529511111</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Tokyo Medical University Hospital ( Site 6954)</name>
+      <address>
+        <city>Shinjuku-ku</city>
+        <state>Tokyo</state>
+        <zip>160-0023</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>81333426111</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Center Hospital of the National Center for Global Health and Medicine ( Site 6951)</name>
+      <address>
+        <city>Shinjyuku-ku</city>
+        <state>Tokyo</state>
+        <zip>162-8655</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>81-80-3619-0201</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization - Osaka National Hospital - Institute For Clinical Research ( Site 69</name>
+      <address>
+        <city>Osaka</city>
+        <zip>5400006</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>81669421331</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ponce Medical School Foundation Inc. ( Site 7452)</name>
+      <address>
+        <city>Ponce</city>
+        <zip>00716</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>7878402505</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Puerto Rico ( Site 7450)</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00909</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>7877235945</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>HOPE Clinical Research ( Site 7451)</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00909</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>7876402214</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Josha Research ( Site 6652)</name>
+      <address>
+        <city>Bloemfontein</city>
+        <state>Free State</state>
+        <zip>9301</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+27(0)825724467</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+    <country>Japan</country>
+    <country>Puerto Rico</country>
+    <country>South Africa</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2023</verification_date>
+  <study_first_submitted>January 20, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>June 7, 2023</last_update_submitted>
+  <last_update_submitted_qc>June 7, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 8, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Islatravir</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>http://engagezone.msd.com/doc/ProcedureAccessClinicalTrialData.pdf</ipd_description>
+    <ipd_url>http://engagezone.msd.com/ds_documentation.php</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

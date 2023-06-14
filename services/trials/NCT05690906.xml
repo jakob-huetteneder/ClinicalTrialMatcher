@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9758">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05690906</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RN-CT-001-2</org_study_id>
+    <nct_id>NCT05690906</nct_id>
+  </id_info>
+  <brief_title>A Prospective, Multicenter, Randomized, Parallel-controlled, Superiority Clinical Study to Evaluate the Effect of ReSpace™ Hydrogel on Reducing Rectal Radiation Dose in Radiotherapy for Cervical Cancer</brief_title>
+  <official_title>A Prospective, Multicenter, Randomized, Parallel-controlled, Superiority Clinical Study to Evaluate the Effect of ReSpace™ Hydrogel on Reducing Rectal Radiation Dose in Radiotherapy for Cervical Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Peking Union Medical College Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Peking Union Medical College Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II clinical study plan to recruit 100 subjects, 1:1 divide them into experimental&#xD;
+      group and control group, and the cumulative D2cc dose for rectum during brachytherapy will be&#xD;
+      recorded and compared.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This phase II prospective, multicenter, randomized, parallel-controlled, superiority clinical&#xD;
+      study will select more than three hospitals with national clinical trial institution&#xD;
+      qualifications as clinical trial centers, plan to recruit 100 subjects, 50 in experimental&#xD;
+      group and 50 in control. The patients in expermental group will receive brachytherapy after&#xD;
+      the hydrogel injection while patients in control group will receive brachytherapy without&#xD;
+      hydrogel. The aim of the study was to evaluate whether the use of ReSpace™ hydrogel results&#xD;
+      in a reduction of radiation exposure to the anterior rectum, and to assess its safety.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 12, 2022</start_date>
+  <completion_date type="Anticipated">July 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The cumulative D2cc dose for rectum during brachytherapy</measure>
+    <time_frame>during procedure</time_frame>
+    <description>The mean of the cumulative rectum D2cc dose during brachytherapy will be calculated for subjects and be compared between the groups.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The cumulative D0.1cc, D5cc dose for rectum, and D0.1cc, D2cc, D5cc for sigmoid colon/small bowel during brachytherapy</measure>
+    <time_frame>during procedure</time_frame>
+    <description>The mean of the cumulative D0.1cc, D5cc dose for rectum, and D0.1cc, D2cc, D5cc for sigmoid colon/small bowel during brachytherapy will be calculated for subjects and be compared between the groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The implantation success rate of hydrogel.</measure>
+    <time_frame>during procedure</time_frame>
+    <description>A successful injection means the hydrogel is placed between the cervical and rectum</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The stability of ReSpace™ Hydrogel</measure>
+    <time_frame>during procedure</time_frame>
+    <description>The maximum distance of cervical to rectum of different time during the procedure will be compared to assess the stability of hydrogel.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>QLQ-C30</measure>
+    <time_frame>during procedure</time_frame>
+    <description>The EORTC QLQ-C30 questionaire will assessed among the subjects during the procedure, and comparioson will be made between the groups and inside the groups of different time.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>QLQ-CX24</measure>
+    <time_frame>during procedure</time_frame>
+    <description>The EORTC QLQ-CX24 questionaire will assessed among the subjects during the procedure, and comparioson will be made between the groups and inside the groups of different time.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of device performance of hydrogel spacer</measure>
+    <time_frame>during procedure</time_frame>
+    <description>The ease of use of the test device will be evaluated by the investigator on the day of Operation. The evaluation items are as follows#&#xD;
+Whether the device is easy to assemble.&#xD;
+Whether the process of positioning the needle is smooth and whether it is easy to position the needle.&#xD;
+Whether the device is easy to inject and whether the injection process is smooth</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Uterine Cervical Neoplasms</condition>
+  <arm_group>
+    <arm_group_label>ReSpace™ &amp; gauze packing</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All of the subjects will undergo palcement of ReSpace™ hydrogel together with gauze packing in the vagina before brachytherapy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>gauze packing</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>All of the subjects will undergo palcement of gauze packing alone in the vagina before brachytherapy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>ReSpace™</intervention_name>
+    <description>The experimental group subjects will be injected with ReSpace™ hydrogel.</description>
+    <arm_group_label>ReSpace™ &amp; gauze packing</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>gauze packing</intervention_name>
+    <description>The subjects of both groups will be given gauze packing</description>
+    <arm_group_label>ReSpace™ &amp; gauze packing</arm_group_label>
+    <arm_group_label>gauze packing</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  • Patients with pathologically confirmed cervical cancer who must be scheduled to&#xD;
+             undergo radical radiotherapy by means of intensity-modulated radiotherapy combined&#xD;
+             with 3D brachytherapy.&#xD;
+&#xD;
+               -  Karnofsky score ≥ 70.&#xD;
+&#xD;
+               -  Subjects aged ≥ 18 years and ≤ 75 years.&#xD;
+&#xD;
+               -  Subjects must be able to cooperate in completing the entire study.&#xD;
+&#xD;
+               -  The subjects' pelvic and abdominal cavity and joints are free of metal implants&#xD;
+                  and can tolerate MRI.&#xD;
+&#xD;
+               -  No contraindications to CT scanning.&#xD;
+&#xD;
+               -  Subjects must be able to understand the purpose of the trial, voluntarily&#xD;
+                  participate and sign an informed consent form&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  •Subjects who have received prior pelvic radiotherapy.&#xD;
+&#xD;
+               -  Subjects whose target tumors have been previously treated (chemotherapy,&#xD;
+                  immunotherapy, surgical treatment, etc.)&#xD;
+&#xD;
+               -  Subjects with other primary malignancies&#xD;
+&#xD;
+               -  Subjects with contraindications to radiotherapy, as determined by the&#xD;
+                  investigators&#xD;
+&#xD;
+               -  Subjects with injection site infections.&#xD;
+&#xD;
+               -  Subjects who are allergic to the ingredients of the device.&#xD;
+&#xD;
+               -  Subjects whose tumors invade the injection site and affect the injection process&#xD;
+                  and injection safety, as determined by the investigators&#xD;
+&#xD;
+               -  Persons with severe mental illness, cognitive impairment and thinking disorders.&#xD;
+&#xD;
+               -  Participants in other drug clinical trials or medical device clinical trials 1&#xD;
+                  month prior to screening&#xD;
+&#xD;
+               -  Pregnant or lactating women or those who plan to get pregnant within the last six&#xD;
+                  months&#xD;
+&#xD;
+               -  Subjects who cannot be followed up as prescribed by the doctor&#xD;
+&#xD;
+               -  Other conditions that, in the judgment of the investigator, make the subject&#xD;
+                  unsuitable for enrollmen&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Fuquan Zhang, doctor</last_name>
+    <phone>+86 13311360431</phone>
+    <email>zhangfuquan3@126.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Peking Union Medical College Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Junfang Yan, doctor</last_name>
+      <phone>+86 18611286276</phone>
+      <email>yanjunfang@pumch.cn</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <reference>
+    <citation>de Freitas AC, Gurgel AP, Chagas BS, Coimbra EC, do Amaral CM. Susceptibility to cervical cancer: an overview. Gynecol Oncol. 2012 Aug;126(2):304-11. doi: 10.1016/j.ygyno.2012.03.047. Epub 2012 Apr 4.</citation>
+    <PMID>22484226</PMID>
+  </reference>
+  <reference>
+    <citation>Peach MS, Moore J, Giles W, Trainor J, Long T, Moon N, Hylton JE, Showalter TN, Libby B. Development and preclinical testing of a novel biodegradable hydrogel vaginal packing technology for gynecologic high-dose-rate brachytherapy. J Contemp Brachytherapy. 2018 Aug;10(4):306-314. doi: 10.5114/jcb.2018.77952. Epub 2018 Aug 31.</citation>
+    <PMID>30237814</PMID>
+  </reference>
+  <reference>
+    <citation>Kashihara T, Murakami N, Tselis N, Kobayashi K, Tsuchida K, Shima S, Masui K, Yoshida K, Takahashi K, Inaba K, Umezawa R, Igaki H, Ito Y, Kato T, Uno T, Itami J. Hyaluronate gel injection for rectum dose reduction in gynecologic high-dose-rate brachytherapy: initial Japanese experience. J Radiat Res. 2019 Jul 1;60(4):501-508. doi: 10.1093/jrr/rrz016.</citation>
+    <PMID>31034570</PMID>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 10, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 10, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>January 10, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 10, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Cervical Cancer</keyword>
+  <keyword>Hydrogel Spacer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Uterine Cervical Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

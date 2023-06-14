@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9527">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05696067</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KFV-I/II-01/2022</org_study_id>
+    <nct_id>NCT05696067</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Corfluvec Vaccine for the Prevention of COVID-19 in Healthy Volunteers</brief_title>
+  <official_title>Randomized, Double-blind, Placebo-controlled Phase 1/2 Trial of Corfluvec Intranasal Vector Vaccine for the Prevention of COVID-19 in Healthy Volunteers Aged 18 to 60 Years</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tatyana Zubkova</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>MDP-CRO, LLC</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>St. Petersburg State Pavlov Medical University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Research Institute of Influenza, Russia</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of the study is to investigate the safety and immunogenicity of a two-component&#xD;
+      intranasal vaccine for the prevention of COVID-19 in healthy volunteers 18-60 years old&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Study include three parts. During the first part the two vaccine components will be&#xD;
+      administered separately to a small number of seronegative participants in low dose and then&#xD;
+      high dose to evaluate each component's safety. During the second part vaccine components&#xD;
+      would be administered one after another with 21 days interval to evaluate safety of the&#xD;
+      complete vaccine regimen (low dose and high dose). During the third part of the study the&#xD;
+      high dose vaccine will be administered to participants to evaluate vaccine immunogenicity.&#xD;
+      The whole study will include 200 participants. Duration of the study for each participant is&#xD;
+      about 6.5 months (no more than 194 days).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">September 13, 2022</start_date>
+  <completion_date type="Anticipated">May 9, 2023</completion_date>
+  <primary_completion_date type="Actual">December 20, 2022</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with local and systemic adverse events (AEs) and serious adverse events (SAEs)</measure>
+    <time_frame>Throughout the study, average of 6.5 months</time_frame>
+    <description>Number of participants with AEs and SAEs including those of particular interest:&#xD;
+immediate AEs (allergic reactions) occurring within 2 h after vaccination;&#xD;
+post-vaccination reactions between 2 h and a subsequent 7 days;&#xD;
+other AEs including unexpected clinical manifestations of a local and systemic nature occurring on the day of vaccination and the following 7 days;&#xD;
+deviations of laboratory parameters of analyzes of blood and urine samples and data from instrumental studies (ECG) obtained on Days 3, 7, 23 and 27;&#xD;
+all SAEs occurring up to 3 weeks after each vaccination; late AEs occurring after study Day 42 through Day 180±5;&#xD;
+influenza A virus shedding detected by rapid test in nasal swab samples</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Level of SARS-CoV-2 antigen specific cytokine producing T-cells</measure>
+    <time_frame>Throughout the 42±2 study days</time_frame>
+    <description>Change from baseline in the level of cytokine producing T-cells upon in vitro stimulation of PBMC with SARS-CoV-2 N protein peptide epitopes measured by ICS/ELISPOT</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Level of SARS-CoV-2 antigen specific cytokine release in whole blood assay</measure>
+    <time_frame>Throughout the 42±2 study days</time_frame>
+    <description>Change from baseline in the cytokine concentration in whole-blood cytokine release assay upon in vitro stimulation with SARS-CoV-2 N protein peptide epitopes</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Level of SARS-CoV-2 antigen specific mucosal and systemic IgA and IgG antibody</measure>
+    <time_frame>Throughout the 42±2 study days</time_frame>
+    <description>Change from baseline in the levels of IgA and IgG antibody to SARS-CoV-2 N protein measured in ELISA in saliva/nasal secret and serum</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of responders to vaccination according to the fold increase in the level of specific T-cell response</measure>
+    <time_frame>Days 7, 21, 27, 42±2</time_frame>
+    <description>Proportion of participants exhibiting significant increase in the level of specific T-cell response to SARS-CoV-2 N protein after vaccination in comparison to baseline. The increase in the parameter is considered significant if it exceeds the specified range, which is a 95% CI for mean value of parameter fold change in the Placebo group at assessment day compared to Day 1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Seroconversion rate of SARS-CoV-2 antigen specific antibody</measure>
+    <time_frame>Days 21, 42±2</time_frame>
+    <description>Proportion of participants who have at least a 4-fold increase in post-vaccination antibody titers in comparison to baseline</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Concentration of cytokines in nasal secrets after vaccination</measure>
+    <time_frame>Throughout the first 48h of the study</time_frame>
+    <description>Change from the baseline in the concentration of cytokines in nasal secrets measured in ELISA/Multiplex system</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Influenza specific local and systemic antibody immune response</measure>
+    <time_frame>Throughout the 42±2 study days</time_frame>
+    <description>Change from baseline in the uiters of influenza specific antibodies in serum and saliva/nasal secret measured in ELISA, HI, MNA and corresponding seroconversion rates.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>SARS-CoV-2 and influenza specific antibody and T-cell immune response (follow-up)</measure>
+    <time_frame>Days 90±3, 180±5</time_frame>
+    <description>Specific systemic antibody and T-cell immune response to SARS-CoV-2 N protein and influenza viruses (A/H1N1pdm09, A/H3N2) measured in ELISA, ISC/ELISPOT, whole-blood cytokine release assay.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Efficacy against symptomatic COVID-19 and influenza</measure>
+    <time_frame>Throughout the study, average of 6.5 months</time_frame>
+    <description>Number of laboratory-confirmed symptomatic cases of COVID-19 and influenza</description>
+  </other_outcome>
+  <number_of_arms>9</number_of_arms>
+  <enrollment type="Actual">200</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Group 0a</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of 7.2 lg EID50 of H3N2 vaccine component</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 0b</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of 7.5 lg EID50 of H1N1pdm09 vaccine component</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 0c</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of 8.0 lg EID50 of H3N2 vaccine component</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 0d</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of 8.3 lg EID50 of H1N1pdm09 vaccine component</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 1a</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Low dose vaccine, two components received three weeks apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 1b</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>High dose vaccine, two components received three weeks apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 1c</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo, two doses received three weeks apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2a</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>High dose vaccine, two components received three weeks apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2b</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo, two doses received three weeks apart</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Corfluvec component 1 low dose</intervention_name>
+    <description>Participants will receive single intranasal injection of H3N2 recombinant attenuated influenza vector with modified NS gene coding for the N protein fragment of SARS-CoV-2</description>
+    <arm_group_label>Group 0a</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Corfluvec component 2 low dose</intervention_name>
+    <description>Participants will receive single intranasal injection of H1N1pdm09 recombinant attenuated influenza vector with modified NS gene coding for the N protein fragment of SARS-CoV-2</description>
+    <arm_group_label>Group 0b</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Corfluvec component 1 high dose</intervention_name>
+    <description>Participants will receive single intranasal injection of H3N2 recombinant attenuated influenza vector with modified NS gene coding for the N protein fragment of SARS-CoV-2</description>
+    <arm_group_label>Group 0c</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Corfluvec component 2 high dose</intervention_name>
+    <description>Participants will receive single intranasal injection of H1N1pdm09 recombinant attenuated influenza vector with modified NS gene coding for the N protein fragment of SARS-CoV-2</description>
+    <arm_group_label>Group 0d</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Corfluvec low dose</intervention_name>
+    <description>Participants will receive two intranasal injections of recombinant attenuated influenza vector with modified NS gene coding for the N protein fragment of SARS-CoV-2 tree weeks apart (H3N2 →H1N1pdm09)</description>
+    <arm_group_label>Group 1a</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Corfluvec high dose</intervention_name>
+    <description>Participants will receive two intranasal injections of recombinant attenuated influenza vector with modified NS gene coding for the N protein fragment of SARS-CoV-2 tree weeks apart (H3N2 →H1N1pdm09)</description>
+    <arm_group_label>Group 1b</arm_group_label>
+    <arm_group_label>Group 2a</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Participants will receive two intranasal injections of placebo three weeks apart</description>
+    <arm_group_label>Group 1c</arm_group_label>
+    <arm_group_label>Group 2b</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Availability of signed informed consent&#xD;
+&#xD;
+          2. Adult men and women aged 18-60&#xD;
+&#xD;
+          3. Diagnosed &quot;healthy&quot; according to the data of standard clinical, laboratory and&#xD;
+             instrumental examination methods, with the absence of clinically significant changes&#xD;
+&#xD;
+          4. Body Mass Index (BMI): 18.5≤ BMI ≤30 kg/m2&#xD;
+&#xD;
+          5. HI antibody titers ≤1:20 to influenza A/H1N1pdm09 and A/H3N2 (only for phase 1)&#xD;
+&#xD;
+          6. Serum antibodies to the SARS-CoV-2 N-protein not higher than 100 BAU/ml&#xD;
+&#xD;
+          7. The ability and willingness to make entries in the diary of self-observation, as well&#xD;
+             as to carry out all the visits foreseen in the study for control medical observation&#xD;
+&#xD;
+          8. Negative test for alcohol in exhaled air&#xD;
+&#xD;
+          9. Consent to use effective contraceptive methods throughout their participation in the&#xD;
+             study&#xD;
+&#xD;
+         10. Values of the complete blood count and biochemical blood analysis (during the&#xD;
+             screening) within 0.9*reference range lower limit and 1,1 * reference range upper&#xD;
+             limit&#xD;
+&#xD;
+         11. Negative tests for HIV, hepatitis B, hepatitis C, and syphilis&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Contact with COVID-19 patients within 14 days prior to the start of the clinical study&#xD;
+&#xD;
+          2. Positive rapid test result for SARS-CoV-2 antigen&#xD;
+&#xD;
+          3. Participation in another clinical study within three months prior to the start of the&#xD;
+             current study; planning to participate in another study during the current study&#xD;
+             period.&#xD;
+&#xD;
+          4. Immunization with any other non-study vaccine product, including COVID-19 vaccination&#xD;
+             within four weeks prior to enrollment in the current study, or refusal to postpone&#xD;
+             such until the end of the four-week period after completion of the current study&#xD;
+&#xD;
+          5. Regular use of nasal irrigation therapy during the last six months prior to enrollment&#xD;
+             in the current study or episodic use of the above method of treatment in the two weeks&#xD;
+             prior to the screening&#xD;
+&#xD;
+          6. History of frequent nosebleeds (&gt;5) during the year prior to the current study&#xD;
+&#xD;
+          7. Clinically significant anatomic pathology or the presence of surgical intervention in&#xD;
+             the sinus area, paranasal sinuses, or traumatic injuries of the nose within a month&#xD;
+             before screening&#xD;
+&#xD;
+          8. Symptoms of acute respiratory disease, including fever, or other acute illness at the&#xD;
+             time of screening or within two weeks prior to screening&#xD;
+&#xD;
+          9. Treatment with immunoglobulins or other blood derived medications in the three months&#xD;
+             prior to screening or planning such treatment during the period of participation in&#xD;
+             the current study; donation of blood/plasma (450 ml or more) less than 2 months prior&#xD;
+             to screening&#xD;
+&#xD;
+         10. The presence or suspicion of the presence of various immunosuppressive or&#xD;
+             immunodeficiency conditions or continuous use (the drug was prescribed for more than&#xD;
+             14 days without a break) of immunosuppressive drugs, immunomodulators for 6 months&#xD;
+             before the screening&#xD;
+&#xD;
+         11. History of bronchial asthma&#xD;
+&#xD;
+         12. Hypersensitivity and the presence of severe allergic reactions, including Quincke's&#xD;
+             edema, anaphylactic shock after the previous administration of any vaccine&#xD;
+&#xD;
+         13. History of wheezing after previous immunization with live influenza vaccine&#xD;
+&#xD;
+         14. Other adverse events after immunization (fever above 40°C, syncope, non-febrile&#xD;
+             convulsions, anaphylaxis) when there is a minimal likelihood that they are associated&#xD;
+             with a previous administration of any vaccine&#xD;
+&#xD;
+         15. Suspicion of hypersensitivity to any component of the study vaccine, including egg&#xD;
+             protein&#xD;
+&#xD;
+         16. Seasonal (in spring or autumn) increased sensitivity to the effects of natural factors&#xD;
+&#xD;
+         17. Acute or chronic clinically significant lung, cardiovascular, hepatic, endocrine,&#xD;
+             neurological, or psychiatric disorders, or impaired renal function identified by&#xD;
+             history, physical examination, or clinical laboratory findings that, in the opinion of&#xD;
+             the investigator, may influence the outcome of the study&#xD;
+&#xD;
+         18. History of leukemia or any other malignant diseases of the blood or solid malignant&#xD;
+             neoplasms of other organs&#xD;
+&#xD;
+         19. History of thrombocytopenic purpura or bleeding disorders&#xD;
+&#xD;
+         20. History of convulsions&#xD;
+&#xD;
+         21. The presence or suspicion of the presence of various immunosuppressive or&#xD;
+             immunodeficiency conditions, including HIV infection&#xD;
+&#xD;
+         22. Tuberculosis or residual changes after tuberculosis according to the anamnesis and /&#xD;
+             or available medical documentation&#xD;
+&#xD;
+         23. Chronic alcohol dependence or chronic use of illicit drugs, drug abuse&#xD;
+&#xD;
+         24. Claustrophobia and social phobia according to history and / or available medical&#xD;
+             records&#xD;
+&#xD;
+         25. For women of reproductive age - lactation, pregnancy or suspected pregnancy, early&#xD;
+             postpartum period&#xD;
+&#xD;
+         26. Premenopausal women (last menstrual period &lt;1 year prior to signing informed consent)&#xD;
+             who are not surgically sterile and women who are of reproductive potential but do not&#xD;
+             use or plan to use valid birth control throughout the study and do not agree to&#xD;
+             perform a urine pregnancy test while participating in the study&#xD;
+&#xD;
+         27. Military personnel undergoing military service on conscription&#xD;
+&#xD;
+         28. Persons in custody in pre-trial detention centers and serving sentences in places of&#xD;
+             deprivation of liberty&#xD;
+&#xD;
+         29. Special diet (eg, vegetarian, vegan, salt-restricted) or lifestyle (night work,&#xD;
+             extreme physical activity)&#xD;
+&#xD;
+         30. Any condition that, in the opinion of the investigator, may increase the risk to the&#xD;
+             health of a volunteer participating in the study or affect the results of the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Pavlov First State Medical University of St. Petersburg</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Smorodintsev Research Institute of Influenza</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Russian Federation</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 23, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>January 23, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 23, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Research Institute of Influenza, Russia</investigator_affiliation>
+    <investigator_full_name>Tatyana Zubkova</investigator_full_name>
+    <investigator_title>Head of clinical department</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>vaccine</keyword>
+  <keyword>influenza vector</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

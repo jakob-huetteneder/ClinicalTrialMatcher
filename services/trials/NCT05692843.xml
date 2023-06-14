@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9679">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05692843</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-500677-14-00</org_study_id>
+    <nct_id>NCT05692843</nct_id>
+  </id_info>
+  <brief_title>Optimization of Cyclosporin in Atopic Dermatitis Through Multiomic Predictive Models of Treatment Response</brief_title>
+  <acronym>DermAtOmics</acronym>
+  <official_title>Optimization of Cyclosporin Therapy in Atopic Dermatitis Through Multiomic Predictive Models of Treatment Response (DermAtOmics)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Instituto de Investigación Hospital Universitario La Paz</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Instituto de Investigación Hospital Universitario La Paz</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a low-intervention phase IV trial. The main objective is to optimize the treatment of&#xD;
+      patients with moderate-severe atopic dermatitis who require systemic treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary outcome is the percentage of patients with primary non- response to treatment with&#xD;
+      cyclosporin. Defined as fail to achieve EASI-75 (a 75% improvement in EASI score) at week 16&#xD;
+      of follow-up. A 12-month recruitment period is planned and about of 100 patients with&#xD;
+      moderate-severe atopic dermatitis will be recruited. The study is divided into two cohorts.&#xD;
+      All patients diagnosed with moderate-severe atopic dermatitis who are going to receive&#xD;
+      treatment with cyclosporin in the Dermatology Service of La Paz University Hospital and&#xD;
+      associated Specialty Centers are selected in cohort 1. Patients will receive the starting&#xD;
+      dose used in routine clinical practice. All patients diagnosed with moderate-severe atopic&#xD;
+      dermatitis who are receiving or have received cyclosporin therapy in the Dermatology Service&#xD;
+      of La Paz University Hospital and associated Specialty Centers are selected in cohort 2.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 10, 2022</start_date>
+  <completion_date type="Anticipated">July 2024</completion_date>
+  <primary_completion_date type="Anticipated">November 2023</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Non-randomized clinical trial. The intervention consists in additional follow-up visits out of usual clinical practice. According to RD 1090/2015 of December 4, which regulates clinical trials with drugs, it is considered a low level intervention clinical.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of patients with primary non-response to treatment with cyclosporine.</measure>
+    <time_frame>Week 16</time_frame>
+    <description>Fail to achieve EASI-75 (a 75% improvement in EASI score)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients achieving EASI-75</measure>
+    <time_frame>week 6</time_frame>
+    <description>Fail to achieve EASI-75 (a 75% improvement in EASI score)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients reaching EASI-90</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Percentage of patients reaching 90 percentage (EASI-90) improvement from baseline during follow-up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to treatment failure after week 16</measure>
+    <time_frame>Week 24, week 32, week 40, week 48.</time_frame>
+    <description>Time to treatment failure with cyclosporine defined as EASI ≤ 50 during follow-up after week 16.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean percentage of change in EASI score</measure>
+    <time_frame>Week 16</time_frame>
+    <description>Mean percentage of change in EASI score from baseline to week 16</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of change in SCORAD</measure>
+    <time_frame>Week 16</time_frame>
+    <description>The Scoring of Atopic Dermatitis (SCORAD) is the score of the severity of atopic dermatitis. It includes the evaluation of the affected areas. The intensity of the lesions and the subjective symptoms of the patient. Classifies AD as Mild &gt;25, Moderate 25-50, and Severe &gt;50</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>improvement of at least 75% in SCORAD</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Percentage of patients experiencing an improvement of at least 75% in SCORAD from the baseline value</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of IGA</measure>
+    <time_frame>week 16</time_frame>
+    <description>Investigator Global Assessment (IGA) is a simple objective measure providing an overall evaluation. It uses a 5-point scale (clear=0; almost clear=1; mild=2; moderate=3; severe=4).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to IGA score of 0/1</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Time to IGA score of 0/1 (clear or almost clear)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of BSA</measure>
+    <time_frame>week 16</time_frame>
+    <description>Change of BSA (Body surface area) involment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in NRS</measure>
+    <time_frame>week 16</time_frame>
+    <description>NRS (Numerical Rating Scale) is a numerical scale that measures the intensity of pruritus, with 10 being the greatest intensity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in POEM</measure>
+    <time_frame>week 16</time_frame>
+    <description>The Patient-Oriented Eczema Measure (POEM) is a validated tool in which the patient self-assesses how many days they experienced seven distinct items (itch, sleep disturbance, bleeding, weeping/oozing, cracking, flaking, dryness of the skin) during a period of 1 week. The maximum score is 28 points.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in DLQI</measure>
+    <time_frame>week 16</time_frame>
+    <description>Dermatology Life Quality Index is a validated and widely used 10-item questionnaire with paediatric versions (0-3 and 4-16 years). A variation of 4 points is considered a clinically meaningful endpoint.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients having a variation of 4 points in their improvement in DLQI</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Dermatology Life Quality Index is a validated and widely used 10-item questionnaire with paediatric versions (0-3 and 4-16 years). A variation of 4 points is considered a clinically meaningful endpoint.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of adverse events associated to CsA treatment</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Any untoward medical occurrence in a patient or clinical trial participant, which does not necessarily have a causal relationship with the research procedures or the investigational medicinal product</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Atopic Dermatitis</condition>
+  <arm_group>
+    <arm_group_label>Start of Cyclosporin treatment</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Patients will receive the starting dose used in routine clinical practice (maximum dose of 3 mg/kg/day is standard practice in our center).&#xD;
+Once the patient is included in the clinical trial their therapeutic management will be carried out according to usual clinical practice, but additional procedures will be performed:&#xD;
+The frequency of follow-up visits will be increased in order to collect data related to clinical efficacy, safety and quality of life;&#xD;
+Biological samples will be obtained (blood and urine) for biochemical, kinetic, pharmacogenetic and immunological biomarker analysis to identify variables associated to CsA treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Receiving or received cyclosporin</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>If the patient is receiving cyclosporine therapy, a blood sample for pharmacogenetic analysis will be obtained at screening; also, at discretion of the treating physician, biological samples will be obtained (blood and urine) in this visit and in the follow-up visits to assess biochemical and kinetic variables. Clinical data (scales) will be collected from clinical records from treatment start until study inclusion and prospectively after study inclusion.&#xD;
+If the patient received cyclosporine previously but is no longer under CsA therapy, a blood sample will be extracted at screening for pharmacogenetic analysis. Clinical data (scales) will be collected from clinical records.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclosporin A</intervention_name>
+    <description>Once the patient is included in the clinical trial their therapeutic management will be carried out according to usual clinical practice, but additional procedures will be performed:&#xD;
+The frequency of follow-up visits will be increased in order to collect data related to clinical efficacy, safety and quality of life;&#xD;
+Biological samples will be obtained (blood and urine) for biochemical, kinetic, pharmacogenetic and immunological biomarker analysis to identify variables associated to CsA treatment.</description>
+    <arm_group_label>Start of Cyclosporin treatment</arm_group_label>
+    <other_name>Prospective</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Follow-up of Cyclospoin treatment already started</intervention_name>
+    <description>If the patient is receiving cyclosporine therapy, a blood sample for pharmacogenetic analysis will be obtained at screening; also, at discretion of the treating physician, biological samples will be obtained (blood and urine) in this visit and in the follow-up visits to assess biochemical and kinetic variables. Clinical data (scales) will be collected from clinical records from treatment start until study inclusion and prospectively after study inclusion.&#xD;
+If the patient received cyclosporine previously but is no longer under CsA therapy, a blood sample will be extracted at screening for pharmacogenetic analysis. Clinical data (scales) will be collected from clinical records.</description>
+    <arm_group_label>Receiving or received cyclosporin</arm_group_label>
+    <other_name>Ambispective</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Cohort 1:&#xD;
+&#xD;
+          1. Subjects diagnosed with moderate-severe atopic dermatitis who are going to receive&#xD;
+             treatment with cyclosporine.&#xD;
+&#xD;
+          2. Participants must be willing and able to provide written informed consent prior the&#xD;
+             initiation of any study procedures.&#xD;
+&#xD;
+          3. For children, parent/legal guardian must provide written informed consent. If age &gt;11&#xD;
+             years old, the minor must give assent.&#xD;
+&#xD;
+          4. Participant is willing and able to adhere to the procedures specified in this&#xD;
+             protocol.&#xD;
+&#xD;
+        Cohort 2:&#xD;
+&#xD;
+          1. Subjects diagnosed with moderate-severe atopic dermatitis who are receiving or have&#xD;
+             received in the past treatment with cyclosporine.&#xD;
+&#xD;
+          2. Participants must be willing and able to provide written informed consent prior the&#xD;
+             initiation of any study procedures.&#xD;
+&#xD;
+          3. For children, parent/legal guardian must provide written informed consent. If age &gt;11&#xD;
+             years old, the minor must give assent.&#xD;
+&#xD;
+          4. Participant is willing and able to adhere to the procedures specified in this&#xD;
+             protocol.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Subjects participating in a clinical trial in the last three months.&#xD;
+&#xD;
+          2. Any condition or situation precluding or interfering the compliance with the protocol.&#xD;
+&#xD;
+          3. Women of childbearing potential must have a negative urine pregnancy test at Screening&#xD;
+             and Day 0.&#xD;
+&#xD;
+          4. Women of childbearing potential must commit not to become pregnant. They must be&#xD;
+             willing to use highly effective contraceptive methods or have practiced sexual&#xD;
+             abstinence during the study. Highly effective contraceptive methods include oral,&#xD;
+             intravaginal, or transdermal combined (oestrogen and progestogen containing) hormonal&#xD;
+             contraception associated with inhibition of ovulation; oral, injectable, or&#xD;
+             implantable progestogen-only hormonal contraception associated with inhibition of&#xD;
+             ovulation; intrauterine device; intrauterine hormone-releasing system; bilateral tubal&#xD;
+             occlusion; vasectomised partner and sexual abstinence.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alberto M Borobia, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital la Paz</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alberto M Borobia, MD, PhD</last_name>
+    <phone>+34-917277558</phone>
+    <email>alberto.borobia@salud.madrid.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital La Paz</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alberto M Borobia, MD, PhD</last_name>
+      <phone>MD, PhD</phone>
+      <email>alberto.borobia@salud.madrid.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>December 24, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>April 27, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 27, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 28, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dermatitis, Atopic</mesh_term>
+    <mesh_term>Dermatitis</mesh_term>
+    <mesh_term>Eczema</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclosporine</mesh_term>
+    <mesh_term>Cyclosporins</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>A copy of the database of data collected during the clinical trial will be attached as an appendix to the publication resulting from this clinical trial.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>data will be available at the same time as the results will be published, and will be kept available to everyone without any time limit.</ipd_time_frame>
+    <ipd_access_criteria>Data will be available indefinitely on the publisher's website, as long as it is kept by the Publisher, for anyone who wishes to access the data, for non-commercial purposes</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

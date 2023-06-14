@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9003">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05707273</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22137</org_study_id>
+    <secondary_id>NCI-2022-10925</secondary_id>
+    <secondary_id>22137</secondary_id>
+    <secondary_id>P30CA033572</secondary_id>
+    <nct_id>NCT05707273</nct_id>
+  </id_info>
+  <brief_title>CD19-Car T Cell Therapy for the Treatment of Older Adults With Acute Lymphoblastic Leukemia in First Remission</brief_title>
+  <official_title>A Pilot Study of CD19-Specific Car T Cells as Consolidation for Older Adults With Acute Lymphoblastic Leukemia in First Remission</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>City of Hope Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>City of Hope Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I trial tests the safety, side effects, and best dose of autologous anti-CD19&#xD;
+      CAR-expressing T lymphocytes (CD19-CAR T cells) in older adults with B-cell acute&#xD;
+      lymphoblastic leukemia. Chimeric antigen receptor (CAR) T-cell therapy is a type of treatment&#xD;
+      in which a patient's T cells (a type of immune system cell) are changed in the laboratory so&#xD;
+      they will attack cancer cells. T cells are taken from a patient's blood. Then the gene for a&#xD;
+      special receptor that binds to a certain protein on the patient's cancer cells is added to&#xD;
+      the T cells in the laboratory. The special receptor is called a chimeric antigen receptor&#xD;
+      (CAR). Large numbers of the CAR T cells are grown in the laboratory and given to the patient&#xD;
+      by infusion for treatment of B-cell acute lymphoblastic leukemia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVE:&#xD;
+&#xD;
+      I. Assess the safety and tolerability of autologous CD19-CAR T cell therapy by evaluation of&#xD;
+      toxicities including type, frequency, severity, attribution, time course and duration in&#xD;
+      older patients with B-cell acute lymphoblastic leukemia (ALL) in first morphological complete&#xD;
+      remission (CR1).&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. Assess the feasibility of manufacturing and infusing CD19-CAR T cells in older adults with&#xD;
+      B-cell ALL in CR1.&#xD;
+&#xD;
+      II. Evaluate the rate of MRD- remission in patients who had MRD+ disease at the time of&#xD;
+      infusion.&#xD;
+&#xD;
+      III. Evaluate the overall risk of relapse. IV. Evaluate the risk of central nervous system&#xD;
+      (CNS) relapse (isolated and combined with bone marrow relapse).&#xD;
+&#xD;
+      V. Estimate the 1-year event-free survival (EFS) rate post CD19-CAR T cell therapy.&#xD;
+&#xD;
+      VI. Estimate 1-year overall survival (OS) post CD19-CAR T cell therapy. VII. Describe&#xD;
+      development of frailty after CD19-CAR T cell therapy.&#xD;
+&#xD;
+      EXPLORATORY OBJECTIVES:&#xD;
+&#xD;
+      I. Measure expansion and persistence of CD19-CAR T cells in peripheral blood (PB), bone&#xD;
+      marrow (BM) and cerebrospinal fluid (CSF).&#xD;
+&#xD;
+      II. Assess the duration of B-cell aplasia. III. Describe cytokine levels in PB over the study&#xD;
+      period.&#xD;
+&#xD;
+      OUTLINE: This is a dose-escalation study of CD19-CAR T cell therapy followed by a&#xD;
+      dose-expansion study.&#xD;
+&#xD;
+      Patients undergo T cell leukapheresis, receive fludarabine and cyclophosphamide intravenously&#xD;
+      (IV), and then receive CD19-CAR T cell infusion IV on study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">May 20, 2023</start_date>
+  <completion_date type="Anticipated">February 21, 2026</completion_date>
+  <primary_completion_date type="Anticipated">February 21, 2026</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of dose-limiting toxicity (DLT)</measure>
+    <time_frame>Up to 28 days after CD19-chimeric antigen receptor (CAR) T cell infusion</time_frame>
+    <description>Assessed using Common Terminology Criteria for Adverse Events (CTCAE) version 5.0. Observed toxicities will be summarized in terms of type (organ affected or laboratory determination), severity, attribution, time of onset, duration, and reversibility or outcome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>Up to 15 years</time_frame>
+    <description>Assessed using CTCAE version 5.0. Cytokine release syndrome adverse events will be characterized using the descriptions and grading scales found in the Lee, et. al. publication: 'ASTCT Consensus Grading for Cytokine Release Syndrome and Neurologic Toxicity Associated with Immune Effector Cells. Observed toxicities will be summarized in terms of type (organ affected or laboratory determination), severity, attribution, time of onset, duration, and reversibility or outcome.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of consented older B-acute lymphoblastic leukemia (ALL) patients undergoing leukapheresis who get sufficient CD19-CAR T cells manufactured and infused at their assigned dose level</measure>
+    <time_frame>At T cell infusion (Day 0)</time_frame>
+    <description>Feasibility will be assessed by the percentage of consented subjects undergoing leukapheresis who have sufficient CD19-CAR T cells manufactured and infused successfully. The rate and its 95% Clopper Pearson binomial confidence intervals (CIs) will be calculated. If it's 50% or higher, then the CD19-CAR T therapy is feasible to older B-ALL complete remission patients.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Minimal residual disease (MRD) response rate</measure>
+    <time_frame>Up to 12 months post T cell infusion</time_frame>
+    <description>Defined as minimal residual disease level below 10^-4 by either polymerase chain reaction, next generation sequencing, or multicolor flow cytometry. Will be calculated with 95% Clopper Pearson binomial confidence intervals (CIs).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Event-free survival</measure>
+    <time_frame>From the start of CD19-CAR T cell infusion to the date of death or disease progression/relapse, whichever occurring first, assessed up to 15 years</time_frame>
+    <description>Calculated by their 95% Clopper Pearson binomial CIs. Censored at the last follow-up if patients are known to be alive and free of event.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival rate</measure>
+    <time_frame>From start of protocol therapy to death, or last follow-up, whichever comes first, assessed up to 15 years</time_frame>
+    <description>Will be estimated using the product-limit method of Kaplan and Meier.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of relapse, including MRD and extramedullary relapse</measure>
+    <time_frame>Up to 2 years post treatment</time_frame>
+    <description>MRD relapse defined as detectable of leukemic cells at &gt; 0.01% in morphological remission bone marrow. Extramedullary relapse defined as documented ALL relapse outside the bone marrow. 95% Clopper Pearson binomial CIs will be calculated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frailty phenotype score</measure>
+    <time_frame>Pre-CAR T and at day 100</time_frame>
+    <description>Patients who score as frail at day 100 (3 or more of 5 points) or 1 point worsening for those with a baseline score of 3 or 4, they will be considered frail at day 100.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">21</enrollment>
+  <condition>B Acute Lymphoblastic Leukemia</condition>
+  <arm_group>
+    <arm_group_label>Treatment (CD19-CAR T cells)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients undergo T cell leukapheresis, receive fludarabine and cyclophosphamide IV, and then receive CD19-CAR T cell infusion IV on study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Autologous Anti-CD19 CAR-expressing T Lymphocytes</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (CD19-CAR T cells)</arm_group_label>
+    <other_name>Autologous Anti-CD19-CAR T Cells</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Biospecimen Collection</intervention_name>
+    <description>Undergo blood sample collection</description>
+    <arm_group_label>Treatment (CD19-CAR T cells)</arm_group_label>
+    <other_name>Biological Sample Collection</other_name>
+    <other_name>Biospecimen Collected</other_name>
+    <other_name>Specimen Collection</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Bone Marrow Aspiration and Biopsy</intervention_name>
+    <description>Undergo bone marrow aspirate</description>
+    <arm_group_label>Treatment (CD19-CAR T cells)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclophosphamide</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (CD19-CAR T cells)</arm_group_label>
+    <other_name>(-)-Cyclophosphamide</other_name>
+    <other_name>2H-1,3,2-Oxazaphosphorine, 2-[bis(2-chloroethyl)amino]tetrahydro-, 2-oxide, monohydrate</other_name>
+    <other_name>Carloxan</other_name>
+    <other_name>Ciclofosfamida</other_name>
+    <other_name>Ciclofosfamide</other_name>
+    <other_name>Cicloxal</other_name>
+    <other_name>Clafen</other_name>
+    <other_name>Claphene</other_name>
+    <other_name>CP monohydrate</other_name>
+    <other_name>CTX</other_name>
+    <other_name>CYCLO-cell</other_name>
+    <other_name>Cycloblastin</other_name>
+    <other_name>Cycloblastine</other_name>
+    <other_name>Cyclophospham</other_name>
+    <other_name>Cyclophosphamid monohydrate</other_name>
+    <other_name>Cyclophosphamide Monohydrate</other_name>
+    <other_name>Cyclophosphamidum</other_name>
+    <other_name>Cyclophosphan</other_name>
+    <other_name>Cyclophosphane</other_name>
+    <other_name>Cyclophosphanum</other_name>
+    <other_name>Cyclostin</other_name>
+    <other_name>Cyclostine</other_name>
+    <other_name>Cytophosphan</other_name>
+    <other_name>Cytophosphane</other_name>
+    <other_name>Cytoxan</other_name>
+    <other_name>Fosfaseron</other_name>
+    <other_name>Genoxal</other_name>
+    <other_name>Genuxal</other_name>
+    <other_name>Ledoxina</other_name>
+    <other_name>Mitoxan</other_name>
+    <other_name>Neosar</other_name>
+    <other_name>Revimmune</other_name>
+    <other_name>Syklofosfamid</other_name>
+    <other_name>WR- 138719</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fludarabine</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (CD19-CAR T cells)</arm_group_label>
+    <other_name>Fluradosa</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Leukapheresis</intervention_name>
+    <description>Undergo T-cell leukapheresis</description>
+    <arm_group_label>Treatment (CD19-CAR T cells)</arm_group_label>
+    <other_name>Leukocytopheresis</other_name>
+    <other_name>Therapeutic Leukopheresis</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaire Administration</intervention_name>
+    <description>Complete questionnaires</description>
+    <arm_group_label>Treatment (CD19-CAR T cells)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Documented informed consent of the participant&#xD;
+&#xD;
+          -  Agreement to allow the use of archival tissue from diagnostic tumor biopsies&#xD;
+&#xD;
+               -  If unavailable, exceptions may be granted with Study Principal Investigator (PI)&#xD;
+                  approval&#xD;
+&#xD;
+               -  Note: For research participants who do not speak English, a short form consent&#xD;
+                  may be used with a City of Hope (COH) certified interpreter/translator to proceed&#xD;
+                  with screening and leukapheresis, while the request for a translated full consent&#xD;
+                  is processed. However, the research participant is allowed to proceed with&#xD;
+                  lymphodepletion and T cell infusion only after the translated full consent form&#xD;
+                  is signed&#xD;
+&#xD;
+          -  Age: &gt;= 55 years&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) &lt; 2 / Karnofsky Performance Status (KPS) &gt;=&#xD;
+             70&#xD;
+&#xD;
+          -  Ability to read and understand English for Questionnaires&#xD;
+&#xD;
+          -  Histologically confirmed CD19+ ALL at the time of diagnosis&#xD;
+&#xD;
+          -  In morphological first complete remission regardless of minimal residual disease (MRD)&#xD;
+             status&#xD;
+&#xD;
+          -  No immediate plan for transplant&#xD;
+&#xD;
+          -  Remission after induction +/- reinduction therapy&#xD;
+&#xD;
+          -  Fully recovered from the acute toxic effects (except alopecia) to =&lt; Grade 1 to prior&#xD;
+             anti-cancer therapy&#xD;
+&#xD;
+          -  Total bilirubin =&lt; 1.5 X upper limit of normal (ULN) (unless has Gilbert's disease)&#xD;
+&#xD;
+          -  Aspartate aminotransferase (AST) =&lt; 3 x ULN&#xD;
+&#xD;
+          -  Alanine transaminase (ALT) =&lt; 3 x ULN&#xD;
+&#xD;
+          -  Creatinine clearance of &gt;= 60 mL/min per 24 hour urine test or the Cockcroft-Gault&#xD;
+             formula&#xD;
+&#xD;
+          -  Left ventricular ejection fraction (LVEF) &gt;= 50%&#xD;
+&#xD;
+               -  Note: To be performed within 28 days prior to start of protocol therapy&#xD;
+&#xD;
+          -  Oxygen (O2) saturation &gt; 92% on room air.&#xD;
+&#xD;
+               -  Note: To be performed within 28 days prior to start of protocol therapy&#xD;
+&#xD;
+          -  Seronegative for human immunodeficiency virus (HIV) (quantitative polymerase chain&#xD;
+             reaction [qPCR]), hepatitis C virus (HCV), active hepatitis B virus (HBV) (Surface&#xD;
+             Antigen Negative), and syphilis (rapid plasma reagin [RPR])&#xD;
+&#xD;
+               -  If positive, hepatitis C ribonucleic acid (RNA) quantitation must be performed OR&#xD;
+&#xD;
+               -  If seropositive for HIV, HCV or HBV, nucleic acid quantitation must be performed.&#xD;
+                  Viral load must be undetectable&#xD;
+&#xD;
+          -  Meets other institutional and federal requirements for infectious disease titer&#xD;
+             requirements&#xD;
+&#xD;
+               -  Note Infectious disease testing to be performed within 28 days prior to start of&#xD;
+                  protocol therapy&#xD;
+&#xD;
+          -  Women of childbearing potential (WOCBP): negative urine or serum pregnancy test&#xD;
+&#xD;
+               -  If the urine test is positive or cannot be confirmed as negative, a serum&#xD;
+                  pregnancy test will be required&#xD;
+&#xD;
+          -  Agreement by females and males of childbearing potential* to use an effective method&#xD;
+             of birth control or abstain from heterosexual activity for the course of the study&#xD;
+             through at least 6 months after the last dose of protocol therapy.&#xD;
+&#xD;
+               -  Childbearing potential defined as not being surgically sterilized (men and women)&#xD;
+                  or have not been free from menses for &gt; 1 year (women only)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of allergic reactions attributed to compounds of similar chemical or biologic&#xD;
+             composition to study agent(s)&#xD;
+&#xD;
+          -  Research participant with known CNS-2 or CNS-3 involvement that is refractory to&#xD;
+             intrathecal chemotherapy and/or cranio-spinal radiation. Research participants with a&#xD;
+             history of central nervous system (CNS) disease that has been effectively treated to&#xD;
+             complete remission (&lt;5 WBC/mm3 and no blasts in cerebrospinal fluid [CSF]) will be&#xD;
+             eligible&#xD;
+&#xD;
+          -  Autoimmune disease or active graft versus host disease (GVHD) requiring systemic&#xD;
+             immunosuppressant therapy&#xD;
+&#xD;
+          -  Class III/IV cardiovascular disability according to the New York Heart Association&#xD;
+             (NYHA) Classification&#xD;
+&#xD;
+          -  History of other malignancies, except for malignancy surgically resected (or treated&#xD;
+             with other modalities) with curative intent, basal cell carcinoma of the skin or&#xD;
+             localized squamous cell carcinoma of the skin; non-muscle invasive bladder cancer;&#xD;
+             malignancy treated with curative intent with no known active disease present for &gt;= 2&#xD;
+             years&#xD;
+&#xD;
+          -  Clinically significant uncontrolled illness&#xD;
+&#xD;
+          -  Active systemic uncontrolled infection requiring antibiotics&#xD;
+&#xD;
+          -  Known history of HIV or hepatitis B or hepatitis C infection&#xD;
+&#xD;
+               -  Subjects who are hepatitis B core antibody (anti-HBc) positive and who are&#xD;
+                  surface antigen negative will need to have a negative polymerase chain reaction&#xD;
+                  (PCR) result. Those who are hepatitis B surface antigen (HbsAg) positive or&#xD;
+                  hepatitis B PCR positive will be excluded&#xD;
+&#xD;
+                    -  Subjects who are hepatitis B core antibody positive (or have a known history&#xD;
+                       of HBV infection) should be monitored quarterly with a quantitative PCR test&#xD;
+                       for HBV deoxyribonucleic acid (DNA). HBV monitoring should last until 12&#xD;
+                       months after last dose of study drug. Any subject with a rising viral load&#xD;
+                       (above lower limit of detection) should discontinue study drug and have&#xD;
+                       antiviral therapy instituted and a consultation with a physician with&#xD;
+                       expertise in managing hepatitis B. Subjects who are core Ab positive at&#xD;
+                       study enrollment are strongly recommended to start Entecavir before start&#xD;
+                       and until completion of study treatment&#xD;
+&#xD;
+                    -  Subjects who are hepatitis C antibody positive will need to have a negative&#xD;
+                       PCR result. Those who are hepatitis C PCR positive will be excluded&#xD;
+&#xD;
+          -  Females only: Pregnant or breastfeeding&#xD;
+&#xD;
+          -  Concurrent use of systemic steroids or chronic use of immunosuppressant medications.&#xD;
+             Recent or current use of inhaled steroids is not exclusionary. Physiologic replacement&#xD;
+             of steroids (prednisone =&lt; 7.5 mg /day or equivalent) is allowed&#xD;
+&#xD;
+          -  Any other condition that would, in the Investigator's judgment, contraindicate the&#xD;
+             patient's participation in the clinical study due to safety concerns with clinical&#xD;
+             study procedures&#xD;
+&#xD;
+          -  Prospective participants who, in the opinion of the investigator, may not be able to&#xD;
+             comply with all study procedures (including compliance issues related to&#xD;
+             feasibility/logistics)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ibrahim Aldoss</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>City of Hope Medical Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>City of Hope Medical Center</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ibrahim Aldoss</last_name>
+      <phone>626-218-2405</phone>
+      <email>ialdoss@coh.org</email>
+    </contact>
+    <investigator>
+      <last_name>Ibrahim Aldoss</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>January 20, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 30, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 31, 2023</study_first_posted>
+  <last_update_submitted>March 17, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 17, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 21, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Precursor Cell Lymphoblastic Leukemia-Lymphoma</mesh_term>
+    <mesh_term>Leukemia, Lymphoid</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Fludarabine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

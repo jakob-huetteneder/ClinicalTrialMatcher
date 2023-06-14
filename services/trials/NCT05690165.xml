@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9787">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05690165</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EXERTION</org_study_id>
+    <nct_id>NCT05690165</nct_id>
+  </id_info>
+  <brief_title>Effects of Aerobic Exercise During the Early Rehabilitation After Ischemic Stroke</brief_title>
+  <acronym>EXERTION</acronym>
+  <official_title>Aerobic Exercise in the the Early Stroke Rehabilitation - Effects on Motor Function, Cognition, Physical Comfort and the Immune System</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital Muenster</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital Muenster</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to study the effects of aerobic exercise during the early&#xD;
+      rehabilitation after ischemic stroke. The main questions it aims to answer are:&#xD;
+&#xD;
+        -  How is the recovery of motor function affected by regularly walking during the first 90&#xD;
+           days after an ischemic stroke?&#xD;
+&#xD;
+        -  Does regularly walking during the first 90 days after ischemic stroke affect cognition,&#xD;
+           physical comfort and the immune system? Participants will exert a heart rate controlled&#xD;
+           walking programme of walking 3-5 times 30-45 minutes per week. Researchers will compare&#xD;
+           the recovery of the walking group to a control group without any demands regarding&#xD;
+           physical exercise.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      From animal experiments we know that wheel running has a positive impact on functional&#xD;
+      recovery after experimental stroke. We aim to translate this observations from our animal&#xD;
+      experiments into the clinic. Therefore, patients will be included shortly after ischemic&#xD;
+      stroke and start an aerobic exercise programme during the first 14 days after the event. At&#xD;
+      baseline visit the participants receive a neuropsychological testing with the focus on&#xD;
+      cognition, fatigue and depressive symptoms. Furthermore, we perform blood sampling for&#xD;
+      analysis of the activation state of the peripheral immune system. The patients receive a&#xD;
+      lactate ergometry with measurement of the 3 mmol lactate threshold to define the optimal&#xD;
+      heart rate range for their walking exercise. We perform the fugl-meyer assessment for the&#xD;
+      upper and the lower extremity.&#xD;
+&#xD;
+      For correlation with training-induced structural changes participants receive cerebral&#xD;
+      magnetic resonance imaging to assess the density of axonal fibre tracts (assessed by&#xD;
+      MRI-DTI). During the following 90 days participants in the intervention group are instructed&#xD;
+      to walk 3-5 times for 30-45 minutes per week and control the exercise intensity by optical&#xD;
+      heart rate measurement via smartwatch. The daily step count will be protocolled by the&#xD;
+      intervention and the control group. Participants will measure their resting heart rate in the&#xD;
+      morning before getting up to prevent overexercising. The assessments of the baseline visit&#xD;
+      will be repeated after 90 days.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 26, 2022</start_date>
+  <completion_date type="Anticipated">October 1, 2026</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Motor function</measure>
+    <time_frame>90 days</time_frame>
+    <description>Recovery of motor function is assessed by fugl-meyer assessment (FMA). The FMA-UE (upper extremity) is measured in a score with a maximum of 66 points for motor function, the FMA-LE (lower extremity) extends up to a sum score of 34 points for motor function.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cognition</measure>
+    <time_frame>90 days</time_frame>
+    <description>A MoCA (Montreal Cognitive Assessment) is performed. The evaluation takes place via the calculation of demographically corrected standard values (the z-value): https://www.mocatest.ch/de/standardwerte/standardwerte-online-berechnen.&#xD;
+In addition, the SDMT (Symbol Digites Modality Test) is performed. The evaluation takes places via evaluation of the sum score in a age and education adjusted manner as stated in the following publication:&#xD;
+Kiely KM et al. Arch Clin Neuropsychol. 2014.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fatigue</measure>
+    <time_frame>90 days</time_frame>
+    <description>The effect of aerobic exercise on fatigue after ischemic stroke will be assessed by neuropsychological testing. The FSMC (Fatigue Scale for Motor and Cognitive Functions) is performed. A total score is calculated after the patient has completed the questionnaire.&#xD;
+These cut-off values have been validated by Penner et al, 2009, Mult Scler. 2009.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical Comfort</measure>
+    <time_frame>90 days</time_frame>
+    <description>The HADS-S (Hospital Anxiety and Depression Scale; German Version) is performed. The score consists of 14 items, 7 each for depression and anxiety which are arranged in alternating order. After the patient has completed the questionnaire, two dimension are analyzed via building to sub-scores.&#xD;
+The cut-off values are derived from Herrmann-Lingen, C., Buss, U., &amp; Snaith, R. P. (2011).&#xD;
+Furthermore, physical comfort is assessed by the WHODAS (World Health Organization Disability Assessment Schedule). The 12-item questionnaire is self-administered and we focus on the symptoms during the last 14 days. Each item/question is assigned a value from 0 to 4 and a sum score is calculated. The score is interpreted adjusted to age, gender and physical condition as proposed in the following publication:&#xD;
+Andrews G, et al. PLoS One. 2009.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Flow cytometry analysis of cryoasservated peripheral blood mononuclear cells (PBMC)</measure>
+    <time_frame>90 days</time_frame>
+    <description>Blood sampling is performed at baseline and on day 90 after study inclusion. In our analysis, we focus on the major leukocyte subtypes. Of these, effector functions such as cytokine production, differentiation and activation levels, and expression of regulatory molecules will also be determined. The major measurement by flow cytometry analysis will be the percentage of the expressed target in the interventional cohort compared to the control group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Structural axonal changes</measure>
+    <time_frame>90 days</time_frame>
+    <description>Fibre tract density is assessed by cerebral magnetic resonance imaging (MRI-DTI).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Ischemic Stroke</condition>
+  <condition>Stroke Rehabilitation</condition>
+  <arm_group>
+    <arm_group_label>Exercise Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will exert a heart rate controlled aerobic walking training 3-5 times per week for 30-45 minutes per training. This exercise as well as the daily amount of steps will be assessed via smartwatch.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No Exercise Group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants receive no demands regarding the daily exercise. Their daily amount of steps will be assessed via smartwach.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Walking Exercise</intervention_name>
+    <description>Heart rate controlled walking exercise</description>
+    <arm_group_label>Exercise Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  initial NIHSS or NIHSS determined at the moment of maximum deterioration 1-18&#xD;
+&#xD;
+          -  age &gt; 18&#xD;
+&#xD;
+          -  ischemic stroke&#xD;
+&#xD;
+          -  pre-stroke independence&#xD;
+&#xD;
+          -  sufficient motivation / patient's desire to cooperate / exercise for 3-5x/week for&#xD;
+             30-45 min&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  transient ischemic attack&#xD;
+&#xD;
+          -  premorbid motor disability / musculoskeletal injury / severe arthritis impairing&#xD;
+             degree of movement&#xD;
+&#xD;
+          -  balance and transfer function that requires assistance&#xD;
+&#xD;
+          -  cardiac disease not allowing to perform aerobic training&#xD;
+&#xD;
+          -  inability to give informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Antje Schmidt-Pogoda, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital Muenster</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Antje Schmidt-Pogoda, MD</last_name>
+    <phone>+49 (0) 251-8341155</phone>
+    <email>antje.schmidt-pogoda@ukmuenster.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Frederike A Straeten, MD</last_name>
+    <email>frederike.straeten@ukmuenster.de</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University Hospital Münster</name>
+      <address>
+        <city>Münster</city>
+        <state>Northrine-Westphalia</state>
+        <zip>D-48149</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Antje Schmidt-Pogoda, MD</last_name>
+      <phone>+49 (0) 251-8341155</phone>
+      <email>antje.schmidt-pogoda@ukmuenster.de</email>
+    </contact>
+    <contact_backup>
+      <last_name>Frederike A Straeten, MD</last_name>
+      <email>frederike.straeten@ukmuenster.de</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>December 20, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 9, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>April 6, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 10, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Motor Function</keyword>
+  <keyword>Aerobic Exercise</keyword>
+  <keyword>Immune System</keyword>
+  <keyword>Cognition</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+    <mesh_term>Ischemic Stroke</mesh_term>
+    <mesh_term>Ischemia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

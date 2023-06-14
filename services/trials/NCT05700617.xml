@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9317">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05700617</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB22-0817</org_study_id>
+    <nct_id>NCT05700617</nct_id>
+  </id_info>
+  <brief_title>Cardiac Power Output in Cardiogenic Shock Patients</brief_title>
+  <official_title>Myocardial Reserve in Advanced Heart Failure Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Chicago</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Chicago</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main purpose of this study is to determine whether differences in myocardial reserve&#xD;
+      predict clinical outcomes for heart failure patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is designed as a prospective, observational, crossover study to assess the&#xD;
+      feasibility of using differences in invasive hemodynamics of cardiac function, representing&#xD;
+      myocardial reserve, to predict clinical outcomes for heart failure patients. Patients with&#xD;
+      heart failure referred for right heart catheterization (RHC) by the advanced heart failure&#xD;
+      team as part of 1) evaluation for advanced heart failure therapies, including left&#xD;
+      ventricular assist device (LVAD), orthotopic heart transplant (OHT), temporary or long-term&#xD;
+      inotrope therapy, or counter-pulsation (temporary intra-aortic balloon pump (IABP) or&#xD;
+      long-term with NuPulse device), 2) for accurate assessment of invasive hemodynamics due to&#xD;
+      worsening clinical status, 3) assessment of myocardial recovery for consideration of LVAD or&#xD;
+      NuPulse decommissioning or removal or mechanical circulatory support removal, or 4) accurate&#xD;
+      assessment of cardiac function in patients with reduced LVEF prior to valve replacement for&#xD;
+      aortic insufficiency (AI) or mitral regurgitation (MR).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 2023</start_date>
+  <completion_date type="Anticipated">June 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 2024</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>prospective, observational, crossover</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in invasive hemodynamics using a pulmonary artery (PA) catheter measuring mmHg</measure>
+    <time_frame>Baseline and 6,12,24,36,72 Hours post-inotrope challenge.</time_frame>
+    <description>Changes invasive hemodynamics representing myocardial reserve will be measured in 5 patients using a pulmonary artery (PA) catheter:&#xD;
+Pulmonary capillary wedge pressure (PCWP mmHg); Right Atrial pressure (RA mmHg); Pulmonary Atrial pressures (PA mmHg);</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in invasive hemodynamics using a pulmonary artery (PA) catheter measuring L/min/m2</measure>
+    <time_frame>Baseline and 6,12,24,36,72 Hours post-inotrope challenge.</time_frame>
+    <description>Changes invasive hemodynamics representing myocardial reserve will be measured in 5 patients using a pulmonary artery (PA) catheter:&#xD;
+Cardiac output by Fick (CO L/min/m2); Cardiac index by Fick (CI L/min/m2).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Advanced heart failure therapy</measure>
+    <time_frame>2 years</time_frame>
+    <description>Duration of time without need for definitive advanced heart failure therapy (LVAD, OHT) or death.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Inotropes</measure>
+    <time_frame>2 years</time_frame>
+    <description>Duration of time on inotropes during hospitalization</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Death</measure>
+    <time_frame>2 years</time_frame>
+    <description>Cardiovascular death and/or all-cause mortality</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cardiac output measurement using a pulmonary artery (PA) catheter measuring mmHg at 2 years</measure>
+    <time_frame>2 years</time_frame>
+    <description>Efficacy of increasing cardiac output with milrinone compared to dobutamine using changes invasive hemodynamics in 5 patients using a pulmonary artery (PA) catheter:&#xD;
+Pulmonary capillary wedge pressure (PCWP mmHg), Right Atrial pressure (RA mmHg), Pulmonary Atrial pressures (PA mmHg),</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cardiac output measurement using a pulmonary artery (PA) catheter measuring CO L/min/m2 at 2 years</measure>
+    <time_frame>2 years</time_frame>
+    <description>Efficacy of increasing cardiac output with milrinone compared to dobutamine using changes invasive hemodynamics in 5 patients using a pulmonary artery (PA) catheter:&#xD;
+Cardiac output by Fick (CO L/min/m2), Cardiac index by Fick (CI L/min/m2.)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Durable support</measure>
+    <time_frame>6 hours</time_frame>
+    <description>Duration of time successfully off of counterpulsation, LVAD, or ECMO support</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Durable support</measure>
+    <time_frame>12 hours</time_frame>
+    <description>Duration of time successfully off of counterpulsation, LVAD, or ECMO support</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Durable support</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Duration of time successfully off of counterpulsation, LVAD, or ECMO support</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Durable support</measure>
+    <time_frame>36 hours</time_frame>
+    <description>Duration of time successfully off of counterpulsation, LVAD, or ECMO support</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Durable support</measure>
+    <time_frame>48 hours</time_frame>
+    <description>Duration of time successfully off of counterpulsation, LVAD, or ECMO support</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Durable support</measure>
+    <time_frame>72 hours</time_frame>
+    <description>Duration of time successfully off of counterpulsation, LVAD, or ECMO support</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital discharge</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>Hospital discharge without LVAD, OHT, home-inotropes, long-term counter-pulsation device (i.e NuPulse), or death.&#xD;
+Patients will be monitored at the the following timepoints while admitted in the Cardiac Intensive Care Unit (CICU) 12 Hours 24 Hours 36 Hours 48 Hours 72 Hours</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Home inotropic</measure>
+    <time_frame>2 years</time_frame>
+    <description>Duration of time on home inotropic agents</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>LVAD decommissioning measuring mmHg</measure>
+    <time_frame>2 years</time_frame>
+    <description>If a patient is enrolled in the study that has an left ventricular assist device (LVAD) decommissioning or removal (not due to open heart transplant, pump malfunction, or death) the following will be assessed:&#xD;
+A. Changes in invasive hemodynamics using a pulmonary artery (PA) catheter:&#xD;
+Pulmonary capillary wedge pressure (PCWP mmHg) Right Atrial pressure (RA mmHg) Pulmonary Atrial pressures (PA mmHg)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>LVAD decommissioning measuring L/min/m2</measure>
+    <time_frame>2 years</time_frame>
+    <description>If a patient is enrolled in the study that has an left ventricular assist device (LVAD) decommissioning or removal (not due to open heart transplant, pump malfunction, or death) the following will be assessed:&#xD;
+A. Changes in invasive hemodynamics using a pulmonary artery (PA) catheter:&#xD;
+Cardiac output by Fick (CO L/min/m2)&#xD;
+Cardiac index by Fick (CI L/min/m2)&#xD;
+B. Myocardial reserve (i.e. cardiac power output, aortic pulsatility index, Cardiac output by Fick (CO L/min/m2) Cardiac index by Fick (CI L/min/m2)) after inotrope challenge.&#xD;
+C. Association of myocardial reserve with other known variables of cardiovascular and all-cause mortality.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">5</enrollment>
+  <condition>Heart Failure</condition>
+  <condition>Cardiogenic Shock</condition>
+  <arm_group>
+    <arm_group_label>1:1 Randomization to Milrinone or Dobutamine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients will be randomized 1:1 to either Milrinone or Dobutamine. Milrinone will be given as a bolus at a dose of 5 mcg/kg/min over 15 minutes, for a total of 75 mcg/kg. For patients randomized to the arm for maintenance milrinone, they will be maintained at 0.125-0.375 mcg/kg/min. Patients may be randomized to dobutamine will be infused at 10-40 mcg/kg/min during the infusion phase and for those randomized to dobutamine for maintenance, they will be kept at 5-10 mcg/kg/min.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>1:1 Randomization to Dobutamine or Milrinone</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients will be randomized 1:1 to either Milrinone or Dobutamine. Dobutamine will be infused at 10-40 mcg/kg/min during the infusion phase, and for those randomized to dobutamine for maintenance, they will be kept at 5-10 mcg/kg/min. Milrinone will be given as a bolus at a dose of 5 mcg/kg/min over 15 minutes, for a total of 75 mcg/kg. For patients randomized to the arm for maintenance milrinone, they will be maintained at 0.125-0.375 mcg/kg/min.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>1:1 Randomization to receive milrinone or dobutamine</intervention_name>
+    <description>Randomized to receive either inotropic agent: milrinone or dobutamine</description>
+    <arm_group_label>1:1 Randomization to Milrinone or Dobutamine</arm_group_label>
+    <other_name>Milrinone</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>1:1 Randomization to receive dobutamine or milrinone</intervention_name>
+    <description>Randomized to receive either inotropic agent: milrinone or dobutamine</description>
+    <arm_group_label>1:1 Randomization to Dobutamine or Milrinone</arm_group_label>
+    <other_name>Dobutamine</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. LVEF ≤ 35%&#xD;
+&#xD;
+          2. Referred for RHC for:&#xD;
+&#xD;
+               1. Evaluation for advanced heart failure therapies, including LVAD, OHT, temporary&#xD;
+                  or long-term inotrope therapy, or counter-pulsation (temporary or long-term with&#xD;
+                  NuPulse device OR&#xD;
+&#xD;
+               2. Accurate assessment of invasive hemodynamics due to worsening clinical status, OR&#xD;
+&#xD;
+               3. Assessment of myocardial recovery for consideration of LVAD or counter-pulsation&#xD;
+                  (temporary IABP or long-term with NuPulse device) decommissioning or removal OR&#xD;
+&#xD;
+               4. Assessment of cardiac function and valvular abnormalities prior to planned&#xD;
+                  valvular surgery for MR or AI&#xD;
+&#xD;
+          3. Estimated glomerular filtration rate (eGFR) ≥ 30 ml/min/1.73 m2&#xD;
+&#xD;
+          4. Age ≥ 18 years-old&#xD;
+&#xD;
+          5. Intent for admission based on RHC data&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. eGFR &lt; 30 ml/min/1.73 m2&#xD;
+&#xD;
+          2. Severe, non-revascularized coronary artery disease&#xD;
+&#xD;
+          3. Concurrent acute coronary syndrome&#xD;
+&#xD;
+          4. Age &lt; 18 years-old&#xD;
+&#xD;
+          5. History of significant ventricular arrhythmia without an ICD&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Valluvan Jeevanandam, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Chicago</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>David Onsager, MD</last_name>
+    <phone>7737021000</phone>
+    <email>donsager1@uchgicagomedicine.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Daniel Rodgers</last_name>
+    <email>drodgers3@uchgicagomedicine.org</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>Hsu S, Kambhampati S, Sciortino CM, Russell SD, Schulman SP. Predictors of intra-aortic balloon pump hemodynamic failure in non-acute myocardial infarction cardiogenic shock. Am Heart J. 2018 May;199:181-191. doi: 10.1016/j.ahj.2017.11.016. Epub 2017 Dec 13.</citation>
+    <PMID>29754660</PMID>
+  </reference>
+  <results_reference>
+    <citation>Fincke R, Hochman JS, Lowe AM, Menon V, Slater JN, Webb JG, LeJemtel TH, Cotter G; SHOCK Investigators. Cardiac power is the strongest hemodynamic correlate of mortality in cardiogenic shock: a report from the SHOCK trial registry. J Am Coll Cardiol. 2004 Jul 21;44(2):340-8. doi: 10.1016/j.jacc.2004.03.060.</citation>
+    <PMID>15261929</PMID>
+  </results_reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>November 1, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>June 1, 2023</last_update_submitted>
+  <last_update_submitted_qc>June 1, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 2, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Failure</mesh_term>
+    <mesh_term>Shock, Cardiogenic</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dobutamine</mesh_term>
+    <mesh_term>Milrinone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

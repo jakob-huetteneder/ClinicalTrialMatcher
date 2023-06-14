@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9085">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05705505</url>
+  </required_header>
+  <id_info>
+    <org_study_id>19-02</org_study_id>
+    <nct_id>NCT05705505</nct_id>
+  </id_info>
+  <brief_title>Study of Narazaciclib (ON 123300) Plus Letrozole in Recurrent Metastatic Low-grade Endometrioid Endometrial Cancer</brief_title>
+  <official_title>A Multi-center Phase 1/2a Study of Narazaciclib (ON 123300) in Combination With Letrozole as Second- or Third-line Therapy for the Treatment of Recurrent Metastatic Low-grade Endometrioid Endometrial Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Onconova Therapeutics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Onconova Therapeutics, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will assess the safety and efficacy of increasing doses of narazaciclib (ON&#xD;
+      123300) in combination with the standard daily dose (2.5mg) of letrozole as second or third&#xD;
+      line treatment in patients with Recurrent Metastatic Low-grade Endometrioid Endometrial&#xD;
+      Cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a phase 1/2a, open-label, multicenter study to evaluate the safety, tolerability and&#xD;
+      efficacy of escalating doses of narazaciclib (ON 123300) in combination with letrozole as the&#xD;
+      second or third-line treatment for patients with recurrent metastatic low-grade endometrioid&#xD;
+      endometrial cancer. Pharmacokinetics and pharmacodynamics will also be assessed.&#xD;
+&#xD;
+      In Phase 1, eligible patients with documented recurrent metastatic LGEEC will be enrolled to&#xD;
+      escalating dose cohorts. Cohorts will receive escalating doses of daily oral narazaciclib&#xD;
+      starting at 160 mg orally, once daily, in combination with letrozole 2.5 mg orally, once&#xD;
+      daily, in 28-day cycles in a typical 3 + 3 design. The dose of narazaciclib will be increased&#xD;
+      in 40 mg/day increments from cohort to cohort until the maximum tolerated dose (MTD) and/or&#xD;
+      the minimal biologically effective dose (MBED) of narazaciclib orally, once daily, in&#xD;
+      combination with letrozole 2.5 mg orally, once daily, is reached and the RP2D of the&#xD;
+      combination is established. Three to 6 patients will be enrolled per dose cohort in phase 1.&#xD;
+      In Phase 2a, narazaciclib and letrozole at the RP2D established in Phase 1 will be&#xD;
+      administered to approximately 30 eligible patients with documented recurrent metastatic LGEEC&#xD;
+      for 28-day cycles. Treatment will continue until disease progression, patient withdrawal, or&#xD;
+      unacceptable drug-related toxicity.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 29, 2023</start_date>
+  <completion_date type="Anticipated">February 2026</completion_date>
+  <primary_completion_date type="Anticipated">January 2026</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Phase 1: 3+3 dose escalation Phase2: Expansion cohort</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Dose limiting toxicities (DLTs) will be tabulated and summarized by cohort</measure>
+    <time_frame>From First dose until end of Cycle 1 (28 days)</time_frame>
+    <description>Number of DLTs per cohort</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Treatment-emergent adverse events (TEAEs), including DLTs will be graded by CTCAE v5.0</measure>
+    <time_frame>From first dose until 30 days after final dose, up to approximately 1 year</time_frame>
+    <description>Percentage of patients experiencing TEAEs, by system organ class (SOC) and preferred term</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 2 - Progression-free survival (PFS) at 24 weeks by Investigator assessment</measure>
+    <time_frame>Measured from first dose until 24-weeks</time_frame>
+    <description>Progression or other status determined by RECIST assessment</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>PFS at 16 weeks by Investigator assessment</measure>
+    <time_frame>Measured from first dose until 16-weeks</time_frame>
+    <description>Progression or other status determined by RECIST assessment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median PFS by Investigator assessment</measure>
+    <time_frame>Measured from first dose until diagnosis of progression including 2 years of follow-up after discontinuation of treatment.</time_frame>
+    <description>Time from first dose to progression by RECIST assessment. A Kaplan-Meier curve will be provided.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complete response (CR) rate</measure>
+    <time_frame>From first dose until occurrence of response or progression, up to 1 year</time_frame>
+    <description>Percentage of patients achieving a CR by RECIST</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Partial response (PR) rate</measure>
+    <time_frame>From first dose until occurrence of response or progression, up to 1 year</time_frame>
+    <description>Percentage of patients achieving a PR by RECIST</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stable disease (SD) rate</measure>
+    <time_frame>From first dose until occurrence of response or progression, up to 1 year</time_frame>
+    <description>Percentage of patients maintaining SD by RECIST</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall response rate (ORR equals CR + PR)</measure>
+    <time_frame>From first dose until occurrence of response or progression, up to 1 year</time_frame>
+    <description>Percentage of patients achieving a CR or PR by RECIST</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate (DCR equals CR+PR+SD)</measure>
+    <time_frame>From first dose until occurrence of response or progression, up to 1 year</time_frame>
+    <description>Percentage of patients achieving a CR or PR or maintaining SD by RECIST</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DoR)</measure>
+    <time_frame>From time of response until progression, up to approximately 1 year</time_frame>
+    <description>Time from definition of response to diagnosis of progression. A Kaplan-Meier curve will be provided.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to response (TTR)</measure>
+    <time_frame>From first dose until response or progression, up to approximately 1 year.</time_frame>
+    <description>Time from first dose until definition of response. A Kaplan-Meier curve will be provided.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median overall survival (mOS)</measure>
+    <time_frame>From time of first dose until 2 years after end of treatment (Up to approximately 3 years).</time_frame>
+    <description>Time from first dose until death from any cause. A Kaplan-Meier curve will be provided.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Pharmacokinetics (PK): Maximum plasma concentration of drug (Cmax)</measure>
+    <time_frame>Samples will be collected a predose through 24 hours post dose on Days 1 and 8, then pre-dose on Cycle 2 Day 1 and Cycle 3 Day 1</time_frame>
+    <description>Highest concentration of drug measured in the PK samples</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>PK: Time to reach Cmax (Tmax)</measure>
+    <time_frame>Samples will be collected a predose through 24 hours post dose on Days 1 and 8, then pre-dose on Cycle 2 Day 1 and Cycle 3 Day 1 (each cycle is 28 days)</time_frame>
+    <description>Time from dosing until collection of the PK samples with the highest drug concentration.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>PK: Terminal half-life (T1/2)</measure>
+    <time_frame>Samples will be collected a predose through 24 hours post dose on Days 1 and 8, then pre-dose on Cycle 2 Day 1 and Cycle 3 Day 1 (each cycle is 28 days)</time_frame>
+    <description>The time required to divide the plasma concentration by two after reaching pseudo-equilibrium</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>PK: Area under the concentration-time curve (AUC) from time 0 to time of last quantifiable sample (AUC0-t)</measure>
+    <time_frame>Samples will be collected a predose through 24 hours post dose on Days 1 and 8, then pre-dose on Cycle 2 Day 1 and Cycle 3 Day 1 (each cycle is 28 days)</time_frame>
+    <description>The area under the concentration-time curve from dosing (time 0) to time t.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>PK: AUC extrapolated to infinity (AUC0-∞)</measure>
+    <time_frame>Samples will be collected a predose through 24 hours post dose on Days 1 and 8, then pre-dose on Cycle 2 Day 1 and Cycle 3 Day 1 (each cycle is 28 days)</time_frame>
+    <description>The area under the concentration-time curve from dosing (time 0) extrapolated to infinity.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>PK: Clearance (CL)</measure>
+    <time_frame>Samples will be collected a predose through 24 hours post dose on Days 1 and 8, then pre-dose on Cycle 2 Day 1 and Cycle 3 Day 1 (each cycle is 28 days)</time_frame>
+    <description>A proportionality factor that relates the concentration of drug measured in the body to the rate of elimination</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>PK: Volume of distribution at steady state (Vss)</measure>
+    <time_frame>Samples will be collected a predose through 24 hours post dose on Days 1 and 8, then pre-dose on Cycle 2 Day 1 and Cycle 3 Day 1 (each cycle is 28 days)</time_frame>
+    <description>The apparent volume of distribution at steady state.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Measurement of tyrosine kinase activity (TKa) levels in serum</measure>
+    <time_frame>Samples will be collected at Screening, Days, 1, 8, 15, 22, 29, then monthly until end of treatment, up to approximately 1 year</time_frame>
+    <description>Tyrosine kinase 1 (TK1) is a metabolic enzyme fundamentally involved in DNA synthesis that plays a critical role in cell proliferation</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Endometrioid Endometrial Cancer</condition>
+  <arm_group>
+    <arm_group_label>Escalating daily doses of narazaciclib in combination with letrozole (2.5mg day)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Phase 1: Initiating at 160mg per day of narazaciclib, patients will receive escalating doses of narazaciclib (oral capsules/once daily) in combination with 2.5mg of letrozole (oral tablet/once daily).&#xD;
+Phase 2: All patients will receive the recommended phase 2 dose (RP2D) of the combination of narazaciclib (oral capsules) and letrozole (oral tablet/QD)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Narazaciclib</intervention_name>
+    <description>Clear, hard, capsules, each containing 40 mg or 60 mg of narazaciclib as narazaciclib monolactate, which is a yellow/orange color</description>
+    <arm_group_label>Escalating daily doses of narazaciclib in combination with letrozole (2.5mg day)</arm_group_label>
+    <other_name>ON 123300, HX-301</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Letrozole 2.5mg</intervention_name>
+    <description>Tablet</description>
+    <arm_group_label>Escalating daily doses of narazaciclib in combination with letrozole (2.5mg day)</arm_group_label>
+    <other_name>Femara</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Must be 18 years of age, or the legal age of consent in the jurisdiction in which the&#xD;
+             study is taking place, at the time of signing informed consent form (ICF).&#xD;
+&#xD;
+          2. Have confirmed low-grade, [Federation of Gynecology and Obstetrics (FIGO) Grade 1 or&#xD;
+             2] endometrioid endometrial cancer (LGEEC). Mixed tumor histology is allowed if the&#xD;
+             non-endometrioid component is &lt;5%.&#xD;
+&#xD;
+          3. Recurrent metastatic disease or advanced (Stage IV) disease.&#xD;
+&#xD;
+          4. Have received prior checkpoint inhibitor therapy (single agent or in combination with&#xD;
+             another anti-cancer therapy) if available for this indication and NOT contraindicated.&#xD;
+&#xD;
+          5. Have received 1 or 2 prior lines of systemic therapy for metastatic disease. Patient&#xD;
+             has NOT received more than 2 prior lines of systemic therapy for metastatic LGEEC&#xD;
+             (including checkpoint inhibitor, hormone therapy, or chemotherapy). Prior external&#xD;
+             beam radiotherapy, brachytherapy, and/or surgery for localized disease is allowed and&#xD;
+             is not counted as a line of therapy.&#xD;
+&#xD;
+          6. Have measurable disease outside the radiated field.&#xD;
+&#xD;
+          7. Local mismatch repair (MMR) immunohistochemistry (IHC) results available (both&#xD;
+             deficient mismatch repair (dMMR) and mismatch repair protein (MMRP) deficiency (MMRp)&#xD;
+             patients are eligible, and will be documented for research purposes).&#xD;
+&#xD;
+          8. Have Eastern Cooperative Oncology Group Performance Status (ECOG PS) of 0 or 1.&#xD;
+&#xD;
+          9. Tissue for estrogen/progesterone receptor status and molecular classification&#xD;
+             (paraffin embedded or fresh biopsy if unavailable).&#xD;
+&#xD;
+         10. Have adequate organ function as indicated by the following:&#xD;
+&#xD;
+               1. Absolute neutrophil count (ANC) ≥1.0×109/L&#xD;
+&#xD;
+               2. Platelets ≥100×109/L&#xD;
+&#xD;
+               3. Hemoglobin ≥9.0 g/dL&#xD;
+&#xD;
+               4. International Normalized Ratio (INR) ≤1.5&#xD;
+&#xD;
+               5. Creatinine clearance ≥60/mL, as estimated by Cockcroft-Gault equation&#xD;
+&#xD;
+               6. Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) below 3.0×the&#xD;
+                  upper limit of normal (ULN) (or ALT and AST ≤5×ULN if liver metastases are&#xD;
+                  present).&#xD;
+&#xD;
+               7. Total serum bilirubin &lt;1.5×ULN; or total bilirubin ≤3.0×ULN with direct bilirubin&#xD;
+                  within normal range of the central laboratory in participants with well&#xD;
+                  documented Gilbert's Syndrome.&#xD;
+&#xD;
+         11. Have baseline corrected QT (QTc) interval &lt;470 msec.&#xD;
+&#xD;
+         12. Are able to swallow oral medications.&#xD;
+&#xD;
+         13. Have a life expectancy of at least 12 weeks&#xD;
+&#xD;
+         14. Sex and Contraceptive/Barrier Requirements&#xD;
+&#xD;
+             a) Are postmenopausal, defined as: i) Patient's last menstrual period occurred more&#xD;
+             than 12 months prior to screening without any alternative medical cause, and ii)&#xD;
+             Patient's postmenopausal status is confirmed by screening serum follicle-stimulating&#xD;
+             hormone concentration of &gt;40 milli-International unit/ml (mIU/mL); or iii) Patient has&#xD;
+             undergone surgical sterilization (bilateral oophorectomy and/or hysterectomy) OR b)&#xD;
+             Must have a negative pregnancy test at screening and upon study entry (Cycle 1 Day 1)&#xD;
+             if not postmenopausal and c) Contraceptive use must be consistent with local&#xD;
+             regulations regarding the methods of contraception for those participating in clinical&#xD;
+             studies if not postmenopausal.&#xD;
+&#xD;
+             Patients under 55 years with intact ovaries will undergo hormonal verification.&#xD;
+&#xD;
+         15. Are capable of giving signed informed consent, which includes compliance with the&#xD;
+             requirements and restrictions listed in the ICF and in this protocol.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Non-low-grade EEC (not FIGO Grades 1 or 2) or non-endometrioid adenocarcinoma,&#xD;
+             sarcoma, small cell carcinoma with neuroendocrine differentiation, or non-epithelial&#xD;
+             cancers as exclusion criteria.&#xD;
+&#xD;
+          2. Have received a cyclin-dependent kinase (CDK) 4/6 inhibitor in the past.&#xD;
+&#xD;
+          3. Have any significant medical condition, laboratory abnormality, or psychiatric illness&#xD;
+             that, in the opinion of the Investigator, would prevent the patient from participating&#xD;
+             in the study or present an unacceptable risk to the patient.&#xD;
+&#xD;
+          4. Are at risk for Torsades de pointes (TdP): Patients who have a marked baseline&#xD;
+             prolongation of QT/QTc interval (eg, repeated demonstration of a QTc interval &gt;470&#xD;
+             msec) using Fredericia's QT correction formula, or who have a history of additional&#xD;
+             risk factors for TdP (eg, heart failure, hypokalemia, family history of Long QT&#xD;
+             Syndrome), or who are currently taking medications that prolong the QT/QTc interval.&#xD;
+&#xD;
+          5. Have uncontrolled intercurrent or significant medical illness, serious underlying&#xD;
+             medical condition, abnormal laboratory finding, or psychiatric illness/social&#xD;
+             situation that might, in the Investigator's or the Sponsor's judgment, prevent the&#xD;
+             participant from receiving study treatment or being followed in this study, or&#xD;
+             otherwise renders the participant inappropriate for the study, including but not&#xD;
+             limited to ongoing or active infection, bleeding, congestive heart failure, unstable&#xD;
+             angina, cardiac arrhythmia, oxygen-dependent lung disease, and psychiatric&#xD;
+             illness/social situations that limit participation compliance with study procedures&#xD;
+             and requirements.&#xD;
+&#xD;
+          6. Are currently taking or within 5 half-lives of taking strong inducers and inhibitors&#xD;
+             of cytochrome P450 enzyme (CYP)2C8 and CYP3A4.&#xD;
+&#xD;
+          7. Have a recent history of venous thromboembolic events, defined as event occurring &lt;6&#xD;
+             months prior to screening and also currently on therapy, known underlying&#xD;
+             hypercoagulability, or a major thromboembolic event within the past 2 years.&#xD;
+&#xD;
+          8. Have baseline Grade ≥2 diarrhea.&#xD;
+&#xD;
+          9. Have Grade ≥3 hypercalcemia (corrected serum calcium &gt;12.5 mg/dL).&#xD;
+&#xD;
+         10. Are pregnant or nursing mothers.&#xD;
+&#xD;
+         11. Have had major surgery within 14 days prior to screening to allow for postoperative&#xD;
+             healing of the surgical wound and site(s).&#xD;
+&#xD;
+         12. Have received recent (within 28 days prior to screening) live attenuated vaccines.&#xD;
+&#xD;
+         13. Have active infection, including bacterial or fungal infections or active viral&#xD;
+             infection or viral load, including any human immunodeficiency virus (HIV), or&#xD;
+             hepatitis B virus (HBV), hepatitis C virus (HCV), or Severe acute respiratory syndrome&#xD;
+             coronavirus 2 (SARS-CoV-2) (COVID-19).&#xD;
+&#xD;
+         14. Currently have or have been treated in the past 2 years, for any other cancer or&#xD;
+             malignancy, except:&#xD;
+&#xD;
+               1. Non-melanoma skin cancer, including basal cell carcinoma of the skin&#xD;
+&#xD;
+               2. Curatively treated carcinoma in situ of the cervix.&#xD;
+&#xD;
+         15. Have any clinically significant, uncontrolled heart disease, and/or cardiac&#xD;
+             repolarization abnormality, or a history of any of the following:&#xD;
+&#xD;
+               1. Syncope of cardiovascular etiology&#xD;
+&#xD;
+               2. Ventricular arrhythmia of pathological origin&#xD;
+&#xD;
+               3. Sudden cardiac arrest&#xD;
+&#xD;
+               4. Documented history of congestive heart failure with reduced ejection fraction.&#xD;
+&#xD;
+         16. Have interstitial pneumonia or has severe impairment of lung function defined as:&#xD;
+&#xD;
+               1. Vital capacity and diffusing capacity of the lung for carbon monoxide (DLCO) of&#xD;
+                  ≤50% of the normal predicted values, or&#xD;
+&#xD;
+               2. Oxygen (O2) saturation at rest in ambient environment of ≤88%.&#xD;
+&#xD;
+         17. Have received within the 21 days prior to screening, is currently receiving, or&#xD;
+             intends to receive during the study any nonstudy anticancer therapy, including but not&#xD;
+             limited to any of the following:&#xD;
+&#xD;
+               1. Anticancer agent&#xD;
+&#xD;
+               2. Investigational agent&#xD;
+&#xD;
+               3. Surgical intervention&#xD;
+&#xD;
+               4. Radiation intervention, including any radiation therapy (includes radiation to an&#xD;
+                  isolated lesion). (Palliative radiation to lesions that are not target lesions is&#xD;
+                  permissible).&#xD;
+&#xD;
+         18. Have central nervous system metastases or leptomeningeal carcinomatosis.&#xD;
+&#xD;
+         19. Have history of or current/active uveitis.&#xD;
+&#xD;
+         20. Are not candidates for treatment with letrozole&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael E Saunders, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Onconova Therapeutics</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Michael E Saunders, MD</last_name>
+    <phone>303-263-8179</phone>
+    <email>msaunders@onconova.us</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Arizona Oncology Associates, PC - HOPE</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85711</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stacey Kimbell, RN</last_name>
+      <phone>520-668-5678</phone>
+      <email>stacey.kimbell@usoncology.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Julie Klinker, RN</last_name>
+      <phone>520-269-3821</phone>
+      <email>julie.klinker@usoncology.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Joseph Buscema, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Minnesota Oncology Hematology, P.A.</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Brianna Lenox</last_name>
+      <phone>612-884-6329</phone>
+      <email>Brianna.Lenox@usoncology.com</email>
+    </contact>
+    <investigator>
+      <last_name>Timothy G Larson, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Langone</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>CT.gov@nyulangone.org</email>
+    </contact>
+    <investigator>
+      <last_name>Bhavana Pothuri, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Willamette Valley Cancer Institute and Research Center</name>
+      <address>
+        <city>Eugene</city>
+        <state>Oregon</state>
+        <zip>97401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeanne Schaffer, RN, BSN</last_name>
+      <phone>541-736-3385</phone>
+      <email>jeanne.schaffer@usoncology.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Nichole Fisher, RN, BSN</last_name>
+      <phone>541-988-0656</phone>
+      <email>nichole.fisher@usoncology.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Charles K Anderson, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology-Baylor Charles A. Sammons Cancer Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Christine Terraciano</last_name>
+      <phone>214-370-1942</phone>
+      <email>christine.terraciano@usoncology.com</email>
+    </contact>
+    <investigator>
+      <last_name>Brandon T Sawyer, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology - Fort Worth Cancer Center</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nori Sullivan, RN, BSN</last_name>
+      <phone>817-413-1760</phone>
+      <email>nori.sullivan@usoncology.com</email>
+    </contact>
+    <investigator>
+      <last_name>Noelle G Cloven, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>January 19, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 27, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>May 17, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 17, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 19, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Narazaciclib</keyword>
+  <keyword>ON 123300</keyword>
+  <keyword>letrozole</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Endometrial Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Letrozole</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

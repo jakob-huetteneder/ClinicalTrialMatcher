@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9635">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05693909</url>
+  </required_header>
+  <id_info>
+    <org_study_id>P-SP420-THAL-01</org_study_id>
+    <nct_id>NCT05693909</nct_id>
+  </id_info>
+  <brief_title>A Trial Testing SP-420 in Subjects With Transfusion-dependent β-thalassemia</brief_title>
+  <official_title>An Open-label, Dose-escalation, Dose-finding, and Proof-of-concept Trial of SP-420 in Subjects With Transfusion-dependent β-thalassemia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pharmacosmos A/S</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>ICON plc</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Pharmacosmos A/S</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to learn about SP-420 ability to remove iron from organs&#xD;
+      in subjects with transfusion-dependent β-thalassemia. The main questions it aims to answer&#xD;
+      are:&#xD;
+&#xD;
+        -  How efficient is SP-420 in cleaning iron from the liver?&#xD;
+&#xD;
+        -  How is the safety and tolerability of ascending doses of SP-420?&#xD;
+&#xD;
+      Participants will:&#xD;
+&#xD;
+        -  Take medication three time weekly&#xD;
+&#xD;
+        -  Attend up to 20 site visits&#xD;
+&#xD;
+        -  Undergo MRI scans&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2023</start_date>
+  <completion_date type="Anticipated">December 2024</completion_date>
+  <primary_completion_date type="Anticipated">July 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To establish dose-response relationship of SP-420 for 24 weeks in the treatment of subjects with transfusion-dependent β-thalassemia</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Total body iron removed by SP-420 from baseline to week 24</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To assess the efficacy of SP-420 in clearing iron from the liver after 24 weeks treatment of subjects with transfusion-dependent β-thalassemia</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Change in liver iron concentration (LIC) measured by R2-magnetic resonance imaging (MRI) from baseline to week 24</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the efficacy of SP-420 in clearing iron from the liver after 12 and 48 weeks treatment of subjects with transfusion-dependent β-thalassemia</measure>
+    <time_frame>12 and 48 weeks</time_frame>
+    <description>Change in LIC measured by R2-MRI from baseline to week 12 and week 48</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the efficacy of SP-420 on serum (s-) ferritin</measure>
+    <time_frame>up to 48 weeks</time_frame>
+    <description>Change in s-ferritin from baseline to weeks 1, 2, 3, 4, 6, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, and 48</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the safety and tolerability of ascending doses of SP-420</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Type and incidence of adverse events (AEs)</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">90</enrollment>
+  <condition>Beta Thalassemia Major Anemia</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SP-420, 28 mg/kg, three times weekly for 48 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SP-420, 56 mg/kg, three times weekly for 48 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SP-420, 84 mg/kg, three times weekly for 48 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SP-420</intervention_name>
+    <description>Capsules for oral intake</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_label>Cohort 3</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Women and men aged ≥18 years&#xD;
+&#xD;
+          2. Transfusion-dependent β-thalassemia including HbE/β-thalassemia requiring iron&#xD;
+             chelation therapy (β-thalassemia with mutation and/or multiplication of α-globin is&#xD;
+             allowed)&#xD;
+&#xD;
+          3. On a stable dose of iron chelation for at least 4 weeks prior to screening&#xD;
+&#xD;
+          4. Weight ≥35 kg at screening&#xD;
+&#xD;
+          5. Willing to discontinue current iron chelation therapy 7 days (± 3 days) prior to the&#xD;
+             first dose of SP-420 and for the duration of the trial&#xD;
+&#xD;
+          6. Transfusion iron overload defined as LIC ≥5 and ≤20 mg/g dw on the R2-MRI obtained&#xD;
+             within 2 weeks prior to baseline&#xD;
+&#xD;
+          7. Subject has been treated and followed for at least the past 6 months in a specialised&#xD;
+             centre that maintained detailed medical records, including transfusion and iron&#xD;
+             chelation histories&#xD;
+&#xD;
+          8. Willingness to participate and signing the informed consent form&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. β-thalassemia with the structural Hb variants HbS and HbC&#xD;
+&#xD;
+          2. Cardiac MRI-T2* score &lt;10 msec obtained within 2 weeks prior to baseline&#xD;
+&#xD;
+          3. S-ferritin &lt;500 or &gt;4000 ng/mL*&#xD;
+&#xD;
+          4. Current malignancy with the exceptions of localised basal cell or squamous cell skin&#xD;
+             cancer or localised prostate cancer or is receiving immunotherapy, chemotherapy, or&#xD;
+             radiation therapy for a malignancy&#xD;
+&#xD;
+          5. Current myelodysplastic syndrome&#xD;
+&#xD;
+          6. Current biliary disorder&#xD;
+&#xD;
+          7. ALAT &gt;4 times the upper limit of normal, decompensated cirrhosis, or ascites at&#xD;
+             screening&#xD;
+&#xD;
+          8. Past or ongoing history of clinically significant kidney disease&#xD;
+&#xD;
+          9. Creatinine greater than the upper limit of normal at screening&#xD;
+&#xD;
+         10. Estimated glomerular filtration rate eGFR &lt;60 mL/min/1.73 m2&#xD;
+&#xD;
+         11. Urine protein to creatinine ratio &gt;0.5 mg/mg at screening&#xD;
+&#xD;
+         12. Heart failure grade II, III and IV by NYHA&#xD;
+&#xD;
+         13. LVEF on MRI &lt;56 % (echocardiography allowed if MRI not available)&#xD;
+&#xD;
+         14. A QTcF &gt;450 ms, 2nd or 3rd degree atrioventricular block, or incomplete left&#xD;
+             hemiblock, or the presence of clinically significant abnormalities as determined by&#xD;
+             the Investigator at screening&#xD;
+&#xD;
+         15. Hypertransfused defined as more than 6 units/month in average for the last 6 months&#xD;
+             prior to screening&#xD;
+&#xD;
+         16. Ongoing symptoms of neuropathy, including peripheral sensory neuropathy, peripheral&#xD;
+             motor neuropathy, or paresthesia at screening&#xD;
+&#xD;
+         17. Platelet count &lt;100×109/L at screening&#xD;
+&#xD;
+         18. History of hypersensitivity to an iron chelator (investigational or marketed) or&#xD;
+             excipients&#xD;
+&#xD;
+         19. Documented history of non-compliance to chelation therapy within past 2 years&#xD;
+&#xD;
+         20. Received another investigational drug within 30 days or investigational antibody&#xD;
+             within 90 days before screening&#xD;
+&#xD;
+         21. Treatment with prohibited medication: iron, aluminium containing antacid therapies,&#xD;
+             systemic corticosteroids (topical and pulmonary corticosteroids are allowed), oral&#xD;
+             bisphosphonates, chronic use of high dose NSAIDs (as needed and low dose&#xD;
+             acetylsalicylic acid are allowed), drugs with known renal toxicity, drugs with known&#xD;
+             QTc prolongation, potent UGT inducers (e.g. rifampicin, phenytoin, phenobarbital,&#xD;
+             ritonavir) within 7 days prior to baseline&#xD;
+&#xD;
+         22. Initiation of treatment with luspatercept within 6 months prior to screening&#xD;
+             (luspatercept is allowed if initiated and dose is stable at least 6 months prior to&#xD;
+             screening)&#xD;
+&#xD;
+         23. Subject unable to undergo trial assessments including MRI, e.g. who are claustrophobic&#xD;
+             to MRI, have a cardiac pacemaker, ferromagnetic metal implants other than those&#xD;
+             approved as safe for use in MR scanners (e.g. some types of aneurysm clips, and&#xD;
+             shrapnel), and subjects who are obese (exceeding the equipment limits)&#xD;
+&#xD;
+         24. Pregnant or nursing women. In order to avoid pregnancy, women of childbearing&#xD;
+             potential (premenopausal and not surgically sterile) have to use highly efficient&#xD;
+             contraception (e.g. intrauterine devices, hormonal contraceptives (contraceptive&#xD;
+             pills, implants, transdermal patches, hormonal vaginal devices or injections with&#xD;
+             prolonged release)) during the whole trial period and 4 weeks post-dosing. A sterile&#xD;
+             sole partner or sexual abstinence is also considered acceptable provided it reflects&#xD;
+             the usual and preferred lifestyle of the participant&#xD;
+&#xD;
+         25. Men, even if surgically sterilised, (i.e. status post vasectomy), who do not agree to&#xD;
+             practice effective barrier contraception during the entire trial period, or agrees to&#xD;
+             completely abstain from heterosexual intercourse&#xD;
+&#xD;
+         26. Any other laboratory abnormality, medical condition, or psychiatric disorder which, in&#xD;
+             the opinion of the Investigator, will put the subject's disease management at risk or&#xD;
+             may result in the subject being unable to comply with the trial requirements&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pharmacosmos Clinical and non-clinical Department</last_name>
+    <role>Study Director</role>
+    <affiliation>Pharmacosmos A/S</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pharmacosmos Clinical and non-clinical Department</last_name>
+    <phone>+45 5948 5959</phone>
+    <email>info@pharmacosmos.com</email>
+  </overall_contact>
+  <verification_date>December 2022</verification_date>
+  <study_first_submitted>December 22, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>March 28, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 28, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 29, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Thalassemia</mesh_term>
+    <mesh_term>beta-Thalassemia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

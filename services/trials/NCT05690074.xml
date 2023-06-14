@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9792">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05690074</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EK-1302/21</org_study_id>
+    <nct_id>NCT05690074</nct_id>
+  </id_info>
+  <brief_title>Epidural Stimulation in Chronic Spinal Cord Injury Patients</brief_title>
+  <official_title>Monitoring the Effect of Epidural Stimulation on Sensorimotor and Autonomic Functions in Chronic Patients With Spinal Cord Injury</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Motol</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Motol</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Investigators propose to demonstrate that epidural stimulation (ES) can be used to recover&#xD;
+      significant levels of autonomic control of cardiovascular, urinary and sexual function as&#xD;
+      well as the ability to voluntarily control leg movements below the injury level. This&#xD;
+      intervention would provide an immediate therapeutic alternative to individuals who now have&#xD;
+      no recourse for treatment. In addition investigators suggest to prove on functional magnetic&#xD;
+      resonance imaging if there are some significant changes before and after the stimulation.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 1, 2023</start_date>
+  <completion_date type="Anticipated">December 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Brain functional connectivity</measure>
+    <time_frame>1 year after implantation</time_frame>
+    <description>Researchers want to describe if there are some changes on functional MRI of the spinal cord and brain before and after stimulation. With functional MRI in rest and task condition, the functional connectivity (FC) is examined.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline of lower extremity independence time during after 1 year of stimulation</measure>
+    <time_frame>1 year after stimulation (360 training sessions)</time_frame>
+    <description>Researchers will measure the amount of time individuals are able to stand without manual assistance (independently).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in trunk stability restoration</measure>
+    <time_frame>6 month and 1 year after implantation</time_frame>
+    <description>Trunk control stability test in individuals with spinal cord injury (SCI)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neurogenic bladder symptoms will be measured using the Neurogenic Bladder Symptom Score (NBSS).</measure>
+    <time_frame>3 month, 6 month, 9 month, 12 month</time_frame>
+    <description>Assessment of neurogenic bladder symptoms will be performed to assess the impact of long term eSCS on this measure. The score measures bladder symptoms across 3 different domains: incontinence (scored 0-29), storage and voiding (scored 0-22), and consequences (scored 0-23), with higher scores representing worse symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sexual function as measured by the Sexual Function Questionnaire</measure>
+    <time_frame>3 month, 6 month, 9 month, 12 month</time_frame>
+    <description>The Sexual Function Questionnaire (SFQ) is a self-report outcome measure of sexual function.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in sense of wellbeing as measured by the World Health Organization Quality of Life (WHOQOL-BREF) questionnaire</measure>
+    <time_frame>3 month, 6 month, 9 month, 12 month</time_frame>
+    <description>The WHOQOL-BREF assesses quality of life (QOL) within the context of an individual's culture, value systems, personal goals, standards and concerns. The higher score in the questionnaire means better quality of life for patient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Symptoms of spasticity will be measured by Modified Ashworth spasticity test</measure>
+    <time_frame>3 month, 6 month, 9 month, 12 month</time_frame>
+    <description>The modified Ashworth scale is the most universally accepted clinical tool used to measure the increase of muscle tone.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neurogenic bowel symptoms will be measured using the Neurogenic Bowel Dysfunction (NBD) score.</measure>
+    <time_frame>3 month, 6 month, 9 month, 12 month</time_frame>
+    <description>Assessment of neurogenic bowel symptoms will be performed to assess the impact of long term eSCS on this measure. Scores can range from 0-47, with a higher score representing more severe dysfunction.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction of neuropathic pain</measure>
+    <time_frame>3 month, 6 month, 9 month, 12 month</time_frame>
+    <description>We will measure neuropathic pain by the Neuropathic Pain Questionnaire (NPQ)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in BP during the head up tilt test (HUTT)</measure>
+    <time_frame>6 month -1 year</time_frame>
+    <description>During HUTT, participants will be passively moved to approximately 60° upright stand position by the investigators using the tilt table. Using epidural spinal cord stimulation (eSCS) to activate spinal sympathetic circuitry and mitigate low resting BP and orthostatic hypotension (OH) and continuous beat-by beat BP monitoring via finger photoplethysmography.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">5</enrollment>
+  <condition>Spinal Cord Injuries</condition>
+  <arm_group>
+    <arm_group_label>Patients with chronic spinal cord injury</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>80 sessions each of epidural spinal cord stimulation for 1) autonomic functions 2) voluntary movement; and 3) standing</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Spectra Wave Writer™ Spinal Cord Stimulator System</intervention_name>
+    <description>Device: 5-6-5 Specify electrode Device: Restore Advance Pulse Generator</description>
+    <arm_group_label>Patients with chronic spinal cord injury</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  non-progressive SCI with complete motor paralysis below T1; American Spinal Injury&#xD;
+             Association Impairment Scale (AIS) A or B&#xD;
+&#xD;
+          -  18 - 60 years of age;&#xD;
+&#xD;
+          -  longer than 2 years post injury;&#xD;
+&#xD;
+          -  stable medical condition&#xD;
+&#xD;
+          -  unable to voluntarily move all single joints of the legs;&#xD;
+&#xD;
+          -  spinal cort lesion between C7 and Th10&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  ventilator dependent;&#xD;
+&#xD;
+          -  painful musculoskeletal dysfunction, unhealed fracture, contracture, or pressure sore&#xD;
+             that might interfere with training;&#xD;
+&#xD;
+          -  clinically significant depression or ongoing drug abuse;&#xD;
+&#xD;
+          -  cardiovascular, respiratory, bladder, or renal disease unrelated to SCI;&#xD;
+&#xD;
+          -  severe anemia (Hgb&lt;8 g/dl) or hypovolemia; and HIV or AIDS related illness.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jiri Kriz, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>UH Motol - spinal cord unit</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Vojtech Rybka, Dr.</last_name>
+    <phone>+420224439253</phone>
+    <email>vojtech.rybka@fnmotol.cz</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>UH Motol</name>
+      <address>
+        <city>Prague</city>
+        <zip>15000</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vojtech Rybka, Dr.</last_name>
+      <phone>+420224439253</phone>
+      <email>vojtech.rybka@fnmotol.cz</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Czechia</country>
+  </location_countries>
+  <reference>
+    <citation>Angeli CA, Edgerton VR, Gerasimenko YP, Harkema SJ. Altering spinal cord excitability enables voluntary movements after chronic complete paralysis in humans. Brain. 2014 May;137(Pt 5):1394-409. doi: 10.1093/brain/awu038. Epub 2014 Apr 8. Erratum In: Brain. 2015 Feb;138(Pt 2):e330.</citation>
+    <PMID>24713270</PMID>
+  </reference>
+  <reference>
+    <citation>Harkema S, Gerasimenko Y, Hodes J, Burdick J, Angeli C, Chen Y, Ferreira C, Willhite A, Rejc E, Grossman RG, Edgerton VR. Effect of epidural stimulation of the lumbosacral spinal cord on voluntary movement, standing, and assisted stepping after motor complete paraplegia: a case study. Lancet. 2011 Jun 4;377(9781):1938-47. doi: 10.1016/S0140-6736(11)60547-3. Epub 2011 May 19.</citation>
+    <PMID>21601270</PMID>
+  </reference>
+  <reference>
+    <citation>Gerasimenko YP, Lu DC, Modaber M, Zdunowski S, Gad P, Sayenko DG, Morikawa E, Haakana P, Ferguson AR, Roy RR, Edgerton VR. Noninvasive Reactivation of Motor Descending Control after Paralysis. J Neurotrauma. 2015 Dec 15;32(24):1968-80. doi: 10.1089/neu.2015.4008. Epub 2015 Aug 20.</citation>
+    <PMID>26077679</PMID>
+  </reference>
+  <reference>
+    <citation>Wagner FB, Mignardot JB, Le Goff-Mignardot CG, Demesmaeker R, Komi S, Capogrosso M, Rowald A, Seanez I, Caban M, Pirondini E, Vat M, McCracken LA, Heimgartner R, Fodor I, Watrin A, Seguin P, Paoles E, Van Den Keybus K, Eberle G, Schurch B, Pralong E, Becce F, Prior J, Buse N, Buschman R, Neufeld E, Kuster N, Carda S, von Zitzewitz J, Delattre V, Denison T, Lambert H, Minassian K, Bloch J, Courtine G. Targeted neurotechnology restores walking in humans with spinal cord injury. Nature. 2018 Nov;563(7729):65-71. doi: 10.1038/s41586-018-0649-2. Epub 2018 Oct 31.</citation>
+    <PMID>30382197</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang H, Liu Y, Zhou K, Wei W, Liu Y. Restoring Sensorimotor Function Through Neuromodulation After Spinal Cord Injury: Progress and Remaining Challenges. Front Neurosci. 2021 Oct 14;15:749465. doi: 10.3389/fnins.2021.749465. eCollection 2021.</citation>
+    <PMID>34720867</PMID>
+  </reference>
+  <reference>
+    <citation>Choi EH, Gattas S, Brown NJ, Hong JD, Limbo JN, Chan AY, Oh MY. Epidural electrical stimulation for spinal cord injury. Neural Regen Res. 2021 Dec;16(12):2367-2375. doi: 10.4103/1673-5374.313017.</citation>
+    <PMID>33907008</PMID>
+  </reference>
+  <reference>
+    <citation>Pena Pino I, Hoover C, Venkatesh S, Ahmadi A, Sturtevant D, Patrick N, Freeman D, Parr A, Samadani U, Balser D, Krassioukov A, Phillips A, Netoff TI, Darrow D. Long-Term Spinal Cord Stimulation After Chronic Complete Spinal Cord Injury Enables Volitional Movement in the Absence of Stimulation. Front Syst Neurosci. 2020 Jun 30;14:35. doi: 10.3389/fnsys.2020.00035. eCollection 2020.</citation>
+    <PMID>32714156</PMID>
+  </reference>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>December 2, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 9, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>March 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 16, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University Hospital, Motol</investigator_affiliation>
+    <investigator_full_name>Vojtech Rybka, MD</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>spinal cord injury</keyword>
+  <keyword>spinal cord stimulation</keyword>
+  <keyword>volitional movement</keyword>
+  <keyword>functional magnetic resonance imaging</keyword>
+  <keyword>autonomic nervous system</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Spinal Cord Injuries</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

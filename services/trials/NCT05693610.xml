@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9647">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05693610</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00062688</org_study_id>
+    <nct_id>NCT05693610</nct_id>
+  </id_info>
+  <brief_title>Open-source Hearing Aid Platform Comparisons</brief_title>
+  <acronym>COSP-1</acronym>
+  <official_title>Comparing Outcomes With the Cloud-based and Portable Versions of an Open-source Hearing Aid.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Northwestern University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Nadi, LLC</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Northwestern University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      New discoveries for hearing loss intervention are often impeded by the proprietary nature of&#xD;
+      commercial hearing aids and their use in scientific research as &quot;black boxes&quot;. An open-source&#xD;
+      speech platform (OSP) was developed to bridge the gap between audiology research and&#xD;
+      commercial hearing aid features, to promote innovative solutions to meet the needs of the&#xD;
+      hearing loss community. The OSP can replicate functions found in commercial hearing aids, and&#xD;
+      provides tools to researchers to access those functions. The purpose of this study is to&#xD;
+      evaluate portable and cloud-based platforms of the OSP that will enable a wide range of lab&#xD;
+      and field applications. All human subjects-related activities will be conducted at&#xD;
+      Northwestern University (single-site study).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      New discoveries for hearing loss intervention are often impeded by the proprietary nature of&#xD;
+      commercial hearing aids and their use in scientific research as &quot;black boxes&quot;. An open-source&#xD;
+      hearing aid (open-source speech platform or OSP) was developed to bridge the gap between&#xD;
+      audiology research and the commercialization of hearing aid technologies and to promote&#xD;
+      innovative solutions to meet the needs of the hearing loss community. The OSP can replicate&#xD;
+      functions found in commercial hearing aids, and provides tools to researchers and listeners&#xD;
+      to access those functions. The purpose of this study is to evaluate portable and cloud-based&#xD;
+      platforms of the OSP that will enable a wide range of lab and field applications by measuring&#xD;
+      speech perception abilities with the open-source hearing aid in quiet and in noise for adults&#xD;
+      with and without hearing loss.&#xD;
+&#xD;
+      The study is a within-subjects design that allows for the comparison of outcomes within the&#xD;
+      same participant. The study will compare performance with two platforms of the open-source&#xD;
+      hearing aid (portable and cloud-based) for adults with hearing loss and normal hearing. The&#xD;
+      study will measure performance using tests of word identification. We will test aided&#xD;
+      performance with clinically validated hearing aid settings in quiet and in noise. Each&#xD;
+      participant will be presented with all the test conditions, and the order of presentation of&#xD;
+      the test conditions will be randomized across participants. Statistical analyses will use a&#xD;
+      repeated measures model to control for correlation between outcomes for the same participant.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 6, 2023</start_date>
+  <completion_date type="Anticipated">August 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <intervention_model_description>Within-subjects design; Different levels of intervention outcomes are compared</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>Since the portable and cloud-based versions of the device are visibly different, it is not possible to mask the participant.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Word-identification ability</measure>
+    <time_frame>Post-intervention (1 day)</time_frame>
+    <description>Word identification ability will be assessed using the Modified Rhyme Test. Participants will select a word out of a choice of six rhyming words. The words may be in quiet or mixed with background noise and will be presented through headphones (for the intervention type: cloud-based OSP) or via loudspeakers (for the intervention type: portable OSP). Participants may be asked to record their responses on paper or via a button/mouse click on a computer or tablet screen. Scores will be based on the percentage of words identified correctly (range: 0-100%). A higher score indicates better word identification ability. The task is expected to take 30 minutes for each test condition.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Phoneme confusions</measure>
+    <time_frame>Post-intervention (1 day)</time_frame>
+    <description>Phoneme confusions will be obtained from the Modified Rhyme Test conducted in outcome measure 1. The phoneme confusions will be derived by comparing the selected words to the target word in the task and will be presented in terms of number or percentage of substitution, insertion, deletion errors. No addition task is required for this outcome measure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Response time</measure>
+    <time_frame>Post-intervention (1 day)</time_frame>
+    <description>Response time will be obtained from the Modified Rhyme Test conducted in outcome measure 1. Response time is a measure of time taken (in seconds) to identify a word correctly or incorrectly.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Hearing Loss</condition>
+  <condition>Hearing Loss, Sensorineural</condition>
+  <arm_group>
+    <arm_group_label>Portable OSP</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Outcomes will be assessed with the portable version of the OSP.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cloud-based OSP</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Outcomes will be assessed with the cloud-based version of the OSP.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Portable OSP</intervention_name>
+    <description>The portable open-source speech processing platform (OSP) is accessed on a browser via a wireless fidelity (WiFi)-enabled portable communication device that carries out all the signal processing. The processed sounds are transmitted to the ears via earpieces known as behind-the-ear receivers in the canal (same as those available with commercial hearing aids). The amount of amplification with the portable OSP will be customized for each listener based on a validated prescription.</description>
+    <arm_group_label>Portable OSP</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Cloud-based OSP</intervention_name>
+    <description>The cloud-based open-source speech processing platform (OSP) is hosted on a web-server which includes the software for all the signal processing. The processed sounds are transmitted to the ears via calibrated headphones. The amount of amplification with the cloud-based OSP will be customized for each listener based on a validated prescription.</description>
+    <arm_group_label>Cloud-based OSP</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  &gt;= 18 years of age; any sex&#xD;
+&#xD;
+          -  Sensorineural hearing loss with pure-tone thresholds between 25-85 decibel hearing&#xD;
+             level (dB HL) at octave frequencies between 250 and 3000 Hz&#xD;
+&#xD;
+          -  Speak English as their primary language&#xD;
+&#xD;
+          -  Normal or corrected-to-normal vision&#xD;
+&#xD;
+          -  Participants will be in good health (self-report)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Clinically significant unstable or progressive medical conditions&#xD;
+&#xD;
+          -  Participants who score &lt; 23 on the cognitive screening test (Montreal Cognitive&#xD;
+             Assessment)&#xD;
+&#xD;
+          -  Evidence of conductive hearing loss or middle ear issues&#xD;
+&#xD;
+          -  Significant history of otologic or neurologic disorders&#xD;
+&#xD;
+          -  Non English-speaking or non-native English speaking&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Varsha H Rallapalli, AuD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Northwestern University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Varsha H Rallapalli, AuD, PhD</last_name>
+    <phone>847-467-0897</phone>
+    <email>halab@northwestern.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kendra Marks, AuD</last_name>
+    <phone>847-467-0897</phone>
+    <email>halab@northwestern.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Northwestern University</name>
+      <address>
+        <city>Evanston</city>
+        <state>Illinois</state>
+        <zip>60208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Varsha Rallapalli, Au.D, Ph.D</last_name>
+      <phone>847-467-0897</phone>
+      <email>varsha.rallapalli@northwestern.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kendra Marks, Au.D</last_name>
+      <phone>847-467-0897</phone>
+      <email>kendra.marks@northwestern.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Varsha Rallapalli, Au.D, Ph.D</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://thelab.ucsd.edu/osp/</url>
+    <description>Main website with all the information about open speech platform</description>
+  </link>
+  <verification_date>June 2023</verification_date>
+  <study_first_submitted>June 8, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>June 5, 2023</last_update_submitted>
+  <last_update_submitted_qc>June 5, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Northwestern University</investigator_affiliation>
+    <investigator_full_name>Varsha Rallapalli</investigator_full_name>
+    <investigator_title>Research Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>Hearing aid</keyword>
+  <keyword>Hearing loss</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hearing Loss</mesh_term>
+    <mesh_term>Deafness</mesh_term>
+    <mesh_term>Hearing Loss, Sensorineural</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

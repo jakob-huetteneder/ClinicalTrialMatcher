@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9359">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05699655</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TAOS-3B Trial 2</org_study_id>
+    <nct_id>NCT05699655</nct_id>
+  </id_info>
+  <brief_title>Tislelizumab Combined With Apatinib and Oxaliplatin Plus S1 Vs Oxaliplatin Plus S1 as Neoadjuvant Therapy for Borrmann IV、Large Borrmann III Type and Bulky N Positive Advanced Gastric Cancer</brief_title>
+  <official_title>Tislelizumab Combined With Apatinib and Oxaliplatin Plus S1 Vs Oxaliplatin Plus S1 as Neoadjuvant Therapy for Borrmann IV、Large Borrmann III Type and Bulky N Positive Advanced Gastric Cancer: Randomized Control, Open, Multicenter Trial-2 (TAOS-3B-Trial-2)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fujian Cancer Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Fujian Cancer Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the clinical efficacy and safety of Tislelizumab combined with apatinib mesylate,&#xD;
+      oxaliplatin plus S1 Vs oxaliplatin plus S1.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2023</start_date>
+  <completion_date type="Anticipated">April 1, 2027</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2025</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pathological complete response</measure>
+    <time_frame>4 weeks after surgery</time_frame>
+    <description>Total tumor regression rate under pathologyPrimary tumor or lymph node surgery specimen pathological examination without residual tumor cell</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Major pathological response</measure>
+    <time_frame>4 weeks after surgery</time_frame>
+    <description>Total/moderate tumor regression rate under pathologyPrimary tumor or lymph node surgery specimen pathological examination without residual tumor cell</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate (ORR)</measure>
+    <time_frame>At the end of Cycle 3 (each cycle is 21 days)]</time_frame>
+    <description>Objective Response Rate Determine the tumor shrinkage rate, tumor boundary and the adhesion of tumor</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">130</enrollment>
+  <condition>Immunotherapy Gastrict Cancer</condition>
+  <arm_group>
+    <arm_group_label>Tislelizumab combined with apatinib and oxaliplatin plus S1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>oxaliplatin plus S1</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tislelizumab</intervention_name>
+    <description>Participants will receive Tislelizumab, 200mg, intravenously over 30 - 60 minutes, day 1 of every 3 weeks for 4 cycles. Discontinuation will be considered due to toxicity, withdrawal of consent, or end of study. Every 3-week treatment period was considered to be a cycle.</description>
+    <arm_group_label>Tislelizumab combined with apatinib and oxaliplatin plus S1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>apatinib</intervention_name>
+    <description>Participants will receive apatinib, 250mg, qd，every 3 weeks for 3 weeks</description>
+    <arm_group_label>Tislelizumab combined with apatinib and oxaliplatin plus S1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>oxaliplatin</intervention_name>
+    <description>Participants will receive oxaliplatin, 130mg/m2, day 1 of every 3 weeks for 4 weeks.</description>
+    <arm_group_label>Tislelizumab combined with apatinib and oxaliplatin plus S1</arm_group_label>
+    <arm_group_label>oxaliplatin plus S1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>S-1</intervention_name>
+    <description>Participants will receive S-1, day 1-14 of every 3 weeks for 4 weeks.</description>
+    <arm_group_label>Tislelizumab combined with apatinib and oxaliplatin plus S1</arm_group_label>
+    <arm_group_label>oxaliplatin plus S1</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age: 18-70 years of age.&#xD;
+&#xD;
+          -  Histologically confirmed gastric adenocarcinoma was diagnosed in patients with locally&#xD;
+             advanced gastric cancer with tumor volume &gt;5cm Borrmann III, Borrmann IV and BulkyN&#xD;
+             according to AJCC Version 8.&#xD;
+&#xD;
+          -  Measurable lesions at least should be detected by CT/MRI examination in accordance&#xD;
+             with the RECIST1.1.&#xD;
+&#xD;
+          -  ECOG（Eastern Cooperative Oncology Group）PS（Performance Status）:0-1 scores.&#xD;
+&#xD;
+          -  No previous surgical treatment, anti-tumor chemoradiotherapy/immunotherapy was&#xD;
+             performed.&#xD;
+&#xD;
+          -  Preoperative endoscopic examination confirmed no positive peritoneal implantation&#xD;
+             metastasis and exfoliated cells.&#xD;
+&#xD;
+          -  The expected survival time is more than 6 months.&#xD;
+&#xD;
+          -  For women of reproductive age, a urine or serum pregnancy test with negative results&#xD;
+             should be performed within 3 days prior to receiving the first study drug&#xD;
+             administration (day 1 of cycle 1).If a urine pregnancy test result cannot be confirmed&#xD;
+             as negative, a blood pregnancy test is requested.Women of childbearing age were&#xD;
+             defined as at least 1 year after menopause or having undergone surgical sterilization&#xD;
+             or hysterectomy.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of malignant diseases other than gastric cancer within 5 years prior to&#xD;
+             first administration (excluding radical basal cell carcinoma of the skin, squamous&#xD;
+             carcinoma of the skin, and/or radical resectable carcinoma in situ).&#xD;
+&#xD;
+          -  Significant clinical bleeding symptoms or clear bleeding tendency, such as&#xD;
+             gastrointestinal bleeding, hemorrhagic gastric ulcer or vasculitis, etc. occurred&#xD;
+             within 3 months before enrollment. If fecal occult blood was positive at baseline,&#xD;
+             reexamination could be performed，if it was still positive after reexamination,&#xD;
+             gastroscopy was required.&#xD;
+&#xD;
+          -  Prior treatment: anti-PD-1, anti-PD-L1, or anti-PD-L2 drugs or drugs that target&#xD;
+             another stimulating or co-inhibiting T-cell receptor (e.g., CTLA-4, OX-40, CD137).&#xD;
+&#xD;
+          -  A history of immunodeficiency, including HIV testing positive.&#xD;
+&#xD;
+          -  Is currently participating in an interventional clinical study or has been treated&#xD;
+             with another study drug or study device in the 4 weeks prior to initial dosing.&#xD;
+&#xD;
+          -  Patients who had a history of cardiovascular and cerebrovascular diseases and were&#xD;
+             still taking thrombolytic drugs or anticoagulants orally.&#xD;
+&#xD;
+          -  HER2 positive is known.&#xD;
+&#xD;
+          -  Patients with previous gastrointestinal perforation, abdominal abscess or recent&#xD;
+             intestinal obstruction (within 3 months) or imaging or clinical symptoms suggesting&#xD;
+             intestinal obstruction.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>chen lu chuan, bachelor</last_name>
+    <phone>13905022862</phone>
+    <phone_ext>86</phone_ext>
+    <email>Luchuanchen@sina.cn</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ye Z sheng, Doctor of Medicine</last_name>
+    <phone>13950203076</phone>
+    <phone_ext>86</phone_ext>
+    <email>flyingengel@sina.cn</email>
+  </overall_contact_backup>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>January 17, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 17, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stomach Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Oxaliplatin</mesh_term>
+    <mesh_term>Apatinib</mesh_term>
+    <mesh_term>Tislelizumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

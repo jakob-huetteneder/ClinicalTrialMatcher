@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9474">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05697029</url>
+  </required_header>
+  <id_info>
+    <org_study_id>M2023002</org_study_id>
+    <nct_id>NCT05697029</nct_id>
+  </id_info>
+  <brief_title>Tetrandrine Tablets Used in Hospitalized Adults With COVID-19</brief_title>
+  <official_title>Tetrandrine Tablets Used in Hospitalized Adults With COVID-19: a Double-blind, Placebo-controlled, Randomised Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Peking University Third Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Peking University Third Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this study is to evaluate the effectiveness of tetrandrine tablets&#xD;
+      in preventing the progression of COVID-19 from severe to critical.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The primary objective of this study is to evaluate the effectiveness of tetrandrine tablets&#xD;
+      in preventing the progression of COVID-19 from severe to critical. The secondary objective is&#xD;
+      to evaluate the clinical indicators of COVID-19 with tetrandrine tablets treatment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 31, 2023</start_date>
+  <completion_date type="Anticipated">December 12, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 12, 2024</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Care Provider)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Diagnosed with critical COVID-19 pneumonia</measure>
+    <time_frame>84 days</time_frame>
+    <description>Diagnosed with COVID-19 pneumonia according to the criteria and meeting one of the following conditions: a. respiratory failure requiring mechanical ventilation, b. shock, c. other organ dysfunction requiring ICU management.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">414</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>tetrandrine group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Tetrandrine 60mg TID for 28 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>placebo group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>placebo TID for 28 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tetrandrine</intervention_name>
+    <description>tetrandrine TID for 28 days</description>
+    <arm_group_label>placebo group</arm_group_label>
+    <arm_group_label>tetrandrine group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Sign informed consent form voluntarily for the trial.&#xD;
+&#xD;
+          2. Male or female aged between 18 and 85 years (inclusive).&#xD;
+&#xD;
+          3. Clinically or laboratory confirmed COVID-19 within the past 7 days, as determined by a&#xD;
+             positive RT-PCR test or a positive antigen test.&#xD;
+&#xD;
+          4. Under resting conditions, oxygen saturation ≤93% when breathing air, or P/F value ≤&#xD;
+             300 mmHg (1 mmHg = 0.133 kPa).&#xD;
+&#xD;
+          5. No birth plan and must agree to take effective contraceptive methods.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Received a vaccine within 4 weeks prior to the study, or plan to receive a vaccine&#xD;
+             during the study period, or received treatment with tetrandrine tables prior to&#xD;
+             enrolling in the study.&#xD;
+&#xD;
+          2. Patient must be on invasive mechanical ventilation/ECMO at baseline.&#xD;
+&#xD;
+          3. Any clinically important serious diseases unstable or uncontrolled.&#xD;
+&#xD;
+          4. Allergy history to any biological or other agent.&#xD;
+&#xD;
+          5. Patient has severe mental or psychological abnormalities, cognitive impairment or&#xD;
+             intellectual disability before being diagnosed with COVID-19.&#xD;
+&#xD;
+          6. Subjects who are pregnant or breastfeeding, or plan to become pregnant during the&#xD;
+             study.&#xD;
+&#xD;
+          7. Investigator think the subject should not participate in the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yongchang Sun, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Peking University 3rd Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yongchang Sun, M.D.</last_name>
+    <phone>86-15611963697</phone>
+    <email>suny@bjmu.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Peking University Third Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100191</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 21, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 21, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>January 21, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 21, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Peking University Third Hospital</investigator_affiliation>
+    <investigator_full_name>Sun Yongchang</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tetrandrine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

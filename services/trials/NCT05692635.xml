@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9685">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05692635</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00092171</org_study_id>
+    <secondary_id>WFBCCC 99522</secondary_id>
+    <secondary_id>P30CA012197</secondary_id>
+    <nct_id>NCT05692635</nct_id>
+  </id_info>
+  <brief_title>Reducing the Incidence of Symptomatic Brain Metastases With MRI Surveillance</brief_title>
+  <official_title>Reducing the Incidence of Symptomatic Brain Metastases With MRI Surveillance in Non-Squamous Locally Advanced Non-Small Cell Lung Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Wake Forest University Health Sciences</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Wake Forest University Health Sciences</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this research is to see if monitoring the brain using magnetic resonance&#xD;
+      imaging (MRI) after radiation therapy will allow investigators to find cancer that has spread&#xD;
+      to the brain (brain metastases) before it causes symptoms.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary Objective: To evaluate whether additional follow up brain MRI in patients with&#xD;
+      non-squamous stage III nonsmall cell lung cancer who were previously treated with curative&#xD;
+      intent radiation therapy reduces the rate of symptomatic brain metastasis presentation as&#xD;
+      compared to historical controls.&#xD;
+&#xD;
+      Secondary Objectives:&#xD;
+&#xD;
+        -  To estimate time to brain failure in patients with non-squamous stage III nonsmall cell&#xD;
+           lung cancer previously treated with curative intent radiation therapy who undergo&#xD;
+           additional surveillance brain magnetic resonance imaging.&#xD;
+&#xD;
+        -  To describe documented brain metastasis(es) characteristics in patients with&#xD;
+           non-squamous stage III nonsmall cell lung cancer previously treated with curative intent&#xD;
+           radiation therapy who undergo additional surveillance brain magnetic resonance imaging.&#xD;
+&#xD;
+      OUTLINE:&#xD;
+&#xD;
+      Patients undergo MRI with or without gadolinium contrast intravenously (IV) as well as blood&#xD;
+      sample collection on study.&#xD;
+&#xD;
+      Patients are followed for approximately 780 days from the first treatment of radiation or&#xD;
+      until death, whichever occurs first&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">July 2023</start_date>
+  <completion_date type="Anticipated">August 2025</completion_date>
+  <primary_completion_date type="Anticipated">May 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Central Nervous System Symptoms - Central Nervous System Symptom Scoring Form</measure>
+    <time_frame>At 4 months, 8 months, 14 months, 20 months and 26 months after first radiation therapy treatment</time_frame>
+    <description>Symptomatic brain metastasis presentation (yes or no) will be determined for each participant. Symptomatic brain metastasis presentation anytime during follow-up will be considered a YES. Asymptomatic presentation and death during follow-up without symptomatic presentation will be considered a NO. Patients with incomplete follow-up for reasons other than death will be excluded from the analysis. The proportion with symptomatic presentation will be calculated, and compared to the historical rate of 24% using a one-sample proportion test. A symptomatic brain metastasis presentation is defined as imaging demonstrating evidence of brain metastasis(es) and a change in any given central nervous system symptom. Questions require a YES or NO answer related to symptoms. Questions that are answered YES more often would indicate a unfavorable change in central nervous system symptoms</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to Brain Failure</measure>
+    <time_frame>At 4 months, 8 months, 14 months, 20 months and 26 months after first radiation therapy treatment</time_frame>
+    <description>Time to brain failure will be defined as time in days from the start of radiation therapy to any brain failure. Time to brain failure will be estimated using the method of Kaplan and Meier. Median time to brain failure will be reported along with a 95% confidence interval.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Collection of Information to Document Brain Metastasis(es) - Number of Metastases</measure>
+    <time_frame>At 4 months, 8 months, 14 months, 20 months and 26 months after first radiation therapy treatment</time_frame>
+    <description>Information collected related to the time to brain failure will include the number, size and volume of brain metastases) that are documented to help describe changes in symptoms and quality of life. Measurement in days (median) will be estimated along with a 95% confidence interval.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Collection of Information to Document Brain Metastasis(es) - Volume of Metastases</measure>
+    <time_frame>At 4 months, 8 months, 14 months, 20 months and 26 months after first radiation therapy treatment</time_frame>
+    <description>Information collected related to the time to brain failure will include the number, size and volume of brain metastases) that are documented to help describe changes in symptoms and quality of life. Measurement in days (median) will be estimated along with a 95% confidence interval.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Collection of Information to Document Brain Metastasis(es) - Size of Metastases</measure>
+    <time_frame>At 4 months, 8 months, 14 months, 20 months and 26 months after first radiation therapy treatment</time_frame>
+    <description>Information collected related to the time to brain failure will include the number, size and volume of brain metastases) that are documented to help describe changes in symptoms and quality of life. Measurement in days (median) will be estimated along with a 95% confidence interval.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of Brain Metastasis(es) Directed Interventions</measure>
+    <time_frame>26 months after the start of radiation therapy or until death</time_frame>
+    <description>Types of different interventions for brain metastasis will be collected (this will include interventions such as IV or oral steroid administration for central nervous system symptoms, craniotomy, whole brain radiotherapy, gamma knife radiosurgery, laser interstitial thermal therapy (LITT). Frequencies will be used to describe types of therapeutic interventions for detected brain metastases.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Brain Metastasis(es) Directed Interventions</measure>
+    <time_frame>26 months after the start of radiation therapy or until death</time_frame>
+    <description>Types of different interventions for brain metastasis will be collected (this will include interventions such as IV or oral steroid administration for central nervous system symptoms, craniotomy, whole brain radiotherapy, gamma knife radiosurgery, laser interstitial thermal therapy (LITT). Percentages of will be used to describe types of therapeutic interventions for detected brain metastases.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The MD Anderson Symptom Inventory for Brain Tumor (MDASI-BT) Questionnaire</measure>
+    <time_frame>At baseline, 4 months, 8 months, 14 months, 20 months and 26 months after first radiation therapy treatment</time_frame>
+    <description>The MDASI-BT consists of 23 symptoms and 6 interference items rated on an 11-point scale (0-10) to indicate the presence and severity of each symptom in the last 24 hours, with 0 being &quot;not present&quot; and 10 being &quot;as bad as you can imagine.&quot; A higher score always indicates an increase in severity. The core symptom severity score (13 core symptom), brain tumor symptom severity score (9 brain tumor specific symptoms), total symptom severity (13 core symptoms + 9 brain tumor specific symptoms), and interference score (6 interference items only) will be calculated for each patient at each time point.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Life - The Functional Assessment of Cancer Therapy - General (FACT-G) Questionnaire</measure>
+    <time_frame>At baseline, 4 months, 8 months, 14 months, 20 months and 26 months after first radiation therapy treatment</time_frame>
+    <description>The FACT-G is scored on a 5 point Likert-type scale where higher scores indicate better quality of life. Scoring range has a possible range of 0-108 points. The total score and four subscale scores (physical well-being, social/family well-being, emotional well-being and functional well-being) will be calculated for each patient at each time point. Descriptive statistics and graphical methods will be used to visualize and describe changes in symptoms and quality of life over time.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of Exosome Measurements Between Participants</measure>
+    <time_frame>At baseline, 4 months, 8 months, 14 months, 20 months and 26 months after first radiation therapy treatment</time_frame>
+    <description>The blood sample taken at the first visit will be used to measure exosomes. T tests or Wilcoxon rank-sum tests will be used to compare exosome measurements between those participants who eventually develop brain metastases and those who do not. Descriptive statistics will be used to characterize changes in exosome measurements over time.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Brain Metastases</condition>
+  <condition>Nonsmall Cell Lung Cancer Stage III</condition>
+  <arm_group>
+    <arm_group_label>Surveillance MRI of the Brain</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Brain MRI will be performed as scheduled for up to 14 months or until detection of a brain metastasis, whichever occurs first.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>MRI of the Brain</intervention_name>
+    <description>An MRI brain scan with and without gadolinium contrast. Three scans are planned for each participant.</description>
+    <arm_group_label>Surveillance MRI of the Brain</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Blood draws</intervention_name>
+    <description>Before each MRI, participants will give about a teaspoon of blood to test for clinical purposes.</description>
+    <arm_group_label>Surveillance MRI of the Brain</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Quality of Life Questionnaires</intervention_name>
+    <description>Participants will fill out two questionnaires about their health. These questionnaires will tell investigators about any symptoms participants may be having that might be related to cancer spreading to their brain. This will take about 10-15 minutes to complete.</description>
+    <arm_group_label>Surveillance MRI of the Brain</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Gadolinium</intervention_name>
+    <description>Given intravenously</description>
+    <arm_group_label>Surveillance MRI of the Brain</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 18 years of age.&#xD;
+&#xD;
+          -  Patients with non-squamous locally advanced lung cancer defined by American Joint&#xD;
+             Committee on Cancer (AJCC) version 8 stage IIIA, IIIB, or IIIC disease.&#xD;
+&#xD;
+          -  Histology described as adeno-squamous or not otherwise specified favoring squamous are&#xD;
+             eligible.&#xD;
+&#xD;
+          -  Patients may be enrolled before or after the start of radiation therapy but must be&#xD;
+             enrolled and have their first surveillance MRI brain no later than 150 days of their&#xD;
+             first treatment of radiation therapy for their locally advanced lung cancer. The first&#xD;
+             radiation treatment is defined as day 1.&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0 - 3.&#xD;
+&#xD;
+          -  Epidermal growth factor receptor (EGFR) &gt; 30 mL/min/1.73m2.&#xD;
+&#xD;
+          -  Patients must be eligible for a brain MRI per the Wake Forest MRI safety screening&#xD;
+             checklist questionnaire. This will be completed by a MRI imaging technician, and/or a&#xD;
+             magnetic resonance safety officer, and/or a radiologist as indicated in the form.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Known brain metastases on staging MRI.&#xD;
+&#xD;
+          -  Questionable findings that may represent a differential of vasculature&#xD;
+             abnormalities/stroke/ and or metastatic disease with recommended short interval&#xD;
+             follow-up are not an exclusion factor for study participation. The recommended&#xD;
+             follow-up imaging for such findings should have no bearing on the imaging schedule in&#xD;
+             this protocol, and this research protocol imaging should NOT serve as an official&#xD;
+             follow-up scan for such findings.&#xD;
+&#xD;
+          -  Patients who are pregnant or breastfeeding.&#xD;
+&#xD;
+          -  Premenopausal persons of childbearing potential must have a negative pregnancy test&#xD;
+             within 14 days of enrollment. If women are not of childbearing potential as defined by&#xD;
+             women who are menopausal female or has had a hysterectomy, bilateral oophorectomy, or&#xD;
+             medically-documented ovarian failure, they will not require a pregnancy test. Should a&#xD;
+             woman become pregnant or suspect she is pregnant while she or her partner is&#xD;
+             participating in this study, she should inform her treating physician immediately.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael Farris, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Wake Forest Baptist Comprehensive Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Study Nurse</last_name>
+    <phone>336-713-7748</phone>
+    <email>saverill@wakehealth.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Wake Forest Baptist Comprehensive Cancer Center</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Nurse</last_name>
+      <phone>336-713-7748</phone>
+    </contact>
+    <investigator>
+      <last_name>Michael Farris, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>December 7, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>May 31, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 31, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 2, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

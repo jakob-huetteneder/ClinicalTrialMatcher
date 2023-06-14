@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9166">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05703997</url>
+  </required_header>
+  <id_info>
+    <org_study_id>INT 207/22</org_study_id>
+    <nct_id>NCT05703997</nct_id>
+  </id_info>
+  <brief_title>FASTing-like Approach and Maintenance IMMunotherapy in ES-SCLC Patients Not Progressing on Chemoimmunotherapy Induction</brief_title>
+  <acronym>FASTIMMUNE</acronym>
+  <official_title>FASTing-like Approach to Improve the Efficacy of Maintenance IMMunotherapy in Extensive-stage Small Cell Lung Cancer Patients Not Progressing on Chemoimmunotherapy Induction: the FASTIMMUNE Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fondazione IRCCS Istituto Nazionale dei Tumori, Milano</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>IFOM ETS - The AIRC Institute of Molecular Oncology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Milan</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Fondazione IRCCS Istituto Nazionale dei Tumori, Milano</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Cyclic, 5-day calorie restriction is a safe metabolic intervention when combined with&#xD;
+      standard therapies in cancer patients, favorably reshaping peripheral blood and intratumor&#xD;
+      metabolism and immunity in a way that may improve the antitumor activity and efficacy of&#xD;
+      immunotherapy.&#xD;
+&#xD;
+      The goal of this clinical trial is to test if combining cyclic, 5-day calorie restriction&#xD;
+      with atezolizumab maintenance in patients with ES SCLC achieving at least stable disease&#xD;
+      after four cycles of induction atezolizumab plus carboplatin and etoposide chemoimmunotherapy&#xD;
+      may increase the efficacy of a standard first-line, chemo-immunotherapy approach in terms of&#xD;
+      patient PFS.&#xD;
+&#xD;
+      The main question it aims to answer is:&#xD;
+&#xD;
+      • does the combination of cyclic, 5-day calorie restriction with triweekly atezolizumab&#xD;
+      increase the 6 months PFS rate, as evaluated from maintenance treatment initiation, compared&#xD;
+      to historical results with standard atezolizumab maintenance monotherapy in patients with ES&#xD;
+      SCLC non-progressive after four cycles of first-line chemo-immunotherapy induction with&#xD;
+      atezolizumab plus carboplatin and etoposide?&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      SCLC is the most aggressive and deadly subtype of lung cancer. Indeed, despite the novel&#xD;
+      treatment strategies, patients with ES SCLC still have a dismal prognosis. The most relevant&#xD;
+      therapeutic progress that occurred in the last decades in the treatment of this disease&#xD;
+      consists in the combination of immunotherapy (anti PD-L1 monoclonal antibodies) with standard&#xD;
+      cytotoxic chemotherapy as the first-line treatment. However, in clinical trials that led to&#xD;
+      the registration of currently used chemoimmunotherapy combination regimens, the addition of&#xD;
+      immunotherapy to chemotherapy approaches only led to a marginal increase in patient PFS and&#xD;
+      OS. Therefore, novel therapeutic strategies are needed to increase the efficacy of&#xD;
+      chemo-immunotherapy approaches. Pre-clinical and translational evidence suggests that&#xD;
+      patients with ES SCLC receiving anti-PD-1/PD-L1 agents may benefit from the combination of&#xD;
+      cyclic, short-term calorie restriction to immunotherapy both for reasons related to the&#xD;
+      metabolic vulnerabilities of SCLC cells (e.g., enhanced glycolysis) and their potential&#xD;
+      sensitivity to glucose-lowering strategies, and to the potential synergistic antitumor&#xD;
+      effects resulting from the combination of immunotherapy with cyclic calorie restriction.&#xD;
+      Based on these data, we design the FASTIMMUNE trial, a single center, open-label, single arm,&#xD;
+      phase II clinical study with a Simon's two-stage design. The study consists of 2 phases: an&#xD;
+      induction phase and an experimental maintenance treatment phase. Participants will undergo an&#xD;
+      experimental maintenance treatment with triweekly cycles of 5-day calorie restriction (on&#xD;
+      days -2 through 2 of each cycle) in combination with atezolizumab (at a dose of 1200 mg,&#xD;
+      administered intravenously on day 0 of each cycle) until the occurrence of unacceptable toxic&#xD;
+      effects, disease progression, consent withdrawal or patient death. Patients interrupting&#xD;
+      cyclic calorie restriction for any reason other than disease progression may continue the&#xD;
+      maintenance treatment with atezolizumab alone, if clinically indicated.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2023</start_date>
+  <completion_date type="Anticipated">January 2029</completion_date>
+  <primary_completion_date type="Anticipated">January 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>PFS rate at 6 months</measure>
+    <time_frame>6 months from experimental maintenance treatment initiation</time_frame>
+    <description>The percentage of patients not experiencing disease progression or death from any cause after 6 months from experimental maintenance treatment initiation</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>PFS</measure>
+    <time_frame>Up to 75 months from experimental maintenance treatment initiation</time_frame>
+    <description>The time between experimental maintenance treatment initiation and the date of disease progression or death from any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>OS</measure>
+    <time_frame>Up to 75 months from experimental maintenance treatment initiation</time_frame>
+    <description>The time between experimental maintenance treatment initiation and the date of patient death from any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Compliance</measure>
+    <time_frame>Up to 75 months from experimental maintenance treatment initiation</time_frame>
+    <description>Percentage of patients undergoing minor and major deviations to the experimental dietary regimen; percentage of premature treatment withdrawals</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>Up to 75 months from experimental maintenance treatment initiation</time_frame>
+    <description>Incidence, severity, seriousness and correlation to experimental dietary regimen/maintenance atezolizumab treatment of AEs, according of NCI-CTCAE, version 5.0; maximum toxicity grade experienced by each patient for each specific toxicity; percentage of patients experiencing grade 3-4 toxicity for each specific toxicity; patients with at least one SAE</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Plasma amino acids</measure>
+    <time_frame>At the beginning and at the end of the 5-day calorie restriction period of Cycle 1 and Cycle 2 and at the beginning of Cycle 5 and Cycle 8 of the experimental maintenance treatment (each experimental maintenance treatment cycle is 21 days)</time_frame>
+    <description>Changes in the plasma concentration (as expressed in μM) of amino acids</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Plasma fatty acids</measure>
+    <time_frame>At the beginning and at the end of the 5-day calorie restriction period of Cycle 1 and Cycle 2 and at the beginning of Cycle 5 and Cycle 8 of the experimental maintenance treatment (each experimental maintenance treatment cycle is 21 days)</time_frame>
+    <description>Changes in the plasma concentration (as expressed in μg/ml) of fatty acids</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Serum growth factors</measure>
+    <time_frame>At the beginning and at the end of the 5-day calorie restriction period of Cycle 1 and Cycle 2 and at the beginning of Cycle 5 and Cycle 8 of the experimental maintenance treatment (each experimental maintenance treatment cycle is 21 days)</time_frame>
+    <description>Changes in the serum concentration of insulin (as expressed in μU/ml) and insulin-like growth factor 1 (as expressed in ng/ml)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Peripheral blood immune cell populations</measure>
+    <time_frame>At the beginning and at the end of the 5-day calorie restriction period of Cycle 1 and Cycle 2 and at the beginning of Cycle 5 and Cycle 8 of the experimental maintenance treatment (each experimental maintenance treatment cycle is 21 days)</time_frame>
+    <description>Peripheral blood immune cell populations (as expressed as percentages relative to parental populations)</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Small Cell Lung Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Maintenance treatment with cyclic, 5-day calorie restriction plus atezolizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The experimental maintenance treatment will consist of:&#xD;
+triweekly cycles of 5-day calorie restriction (on days -2 through 2 of each cycle) in combination with&#xD;
+atezolizumab (at a dose of 1200 mg, administered intravenously on day 0 of each cycle)&#xD;
+The experimental maintenance treatment will be administered until the occurrence of unacceptable toxic effects, disease progression, consent withdrawal or patient death.&#xD;
+Patients interrupting cyclic calorie restriction for any reason other than disease progression may continue the maintenance treatment with atezolizumab alone, if clinically indicated.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Cyclic, 5-day calorie restriction</intervention_name>
+    <description>Cyclic, 5-day, calorie-restricted (about 600 Kcal on day 1; about 300 Kcal on days 2 to 5), plant-based, low-protein, low-carbohydrate diet.</description>
+    <arm_group_label>Maintenance treatment with cyclic, 5-day calorie restriction plus atezolizumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Atezolizumab</intervention_name>
+    <description>Atezolizumab 1200 mg administered intravenously.</description>
+    <arm_group_label>Maintenance treatment with cyclic, 5-day calorie restriction plus atezolizumab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants who are able to comply with the requirements and restrictions listed in&#xD;
+             the Informed Consent Form and the study protocol (there is no separate Informed&#xD;
+             Consent Form for entering the maintenance phase)&#xD;
+&#xD;
+          -  Signature of the informed consent form for those patients who have not previously&#xD;
+             participated to the induction phase of the study&#xD;
+&#xD;
+          -  Age greater than or equal to 18 years and less than or equal to 75 years&#xD;
+&#xD;
+          -  Willingness and ability to comply with the prescribed cyclic, 5-day calorie&#xD;
+             restriction regimen, the scheduled visits, treatment plans, laboratory tests and other&#xD;
+             procedures&#xD;
+&#xD;
+          -  Histologically or cytologically confirmed diagnosis of small-cell lung cancer (SCLC).&#xD;
+&#xD;
+          -  Radiological evidence of extensive-stage (ES) disease.&#xD;
+&#xD;
+          -  Patient has available archival tumor tissue. Patients for whom only cytological&#xD;
+             material is available may be enrolled only if cytoincluded material is available.&#xD;
+&#xD;
+          -  Patients must have received a first-line, chemoimmunotherapy induction with 4&#xD;
+             triweekly cycles of atezolizumab plus carboplatin and etoposide, with the last cycle&#xD;
+             of induction chemoimmunotherapy administered not more than six weeks before the&#xD;
+             initiation of experimental maintenance treatment. Delays between cycles of&#xD;
+             chemoimmunotherapy due to the occurrence of AEs or other medical reasons are&#xD;
+             considered acceptable, provided that a total number of 4 cycles of chemoimmunotherapy&#xD;
+             with atezolizumab plus carboplatin and etoposide have been administered, and that&#xD;
+             there is no radiological evidence of disease progression.&#xD;
+&#xD;
+          -  Radiological evidence of nonprogressive disease after chemoimmunotherapy induction&#xD;
+             with 4 triweekly cycles of atezolizumab plus carboplatin and etoposide.&#xD;
+&#xD;
+          -  Patients with a history of treated CNS metastases are eligible, if there is no&#xD;
+             evidence of interim progression between the completion of CNS-directed therapy and the&#xD;
+             experimental maintenance treatment initiation, and if CNS metastases are asymptomatic.&#xD;
+&#xD;
+          -  An Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1 or 2.&#xD;
+&#xD;
+          -  Presence of an adequate bone marrow and organ function&#xD;
+&#xD;
+          -  Female patients of childbearing potential must agree to abstinence from heterosexual&#xD;
+             intercourse or to use two highly effective methods of contraception throughout the&#xD;
+             study and for at least six months after the end of the maintenance treatment.&#xD;
+&#xD;
+          -  Female patients are not of childbearing potential if they meet at least one of the&#xD;
+             following criteria:&#xD;
+&#xD;
+               1. Have undergone a documented hysterectomy and/or bilateral oophorectomy&#xD;
+&#xD;
+               2. Have medically confirmed ovarian failure&#xD;
+&#xD;
+               3. Achieved post-menopausal status&#xD;
+&#xD;
+          -  Male patients must agree to abstinence from heterosexual intercourse or to use two&#xD;
+             highly effective methods of contraception during sexual contact with a female with&#xD;
+             childbearing potential throughout the study and for at least six months after the end&#xD;
+             of the maintenance treatment.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior systemic treatment for ES SCLC, with the exception for first-line&#xD;
+             chemoimmunotherapy induction with 4 triweekly cycles of atezolizumab plus carboplatin&#xD;
+             and etoposide. Patients who received prior concurrent chemoradiotherapy for&#xD;
+             limited-stage (LS) disease may be enrolled if concurrent chemoradiotherapy was&#xD;
+             concluded at least three months before enrollment.&#xD;
+&#xD;
+          -  Patient has not available archival tumor tissue or has only cytological material&#xD;
+             without cytoincluded material available.&#xD;
+&#xD;
+          -  The patient has not recovered from immune-related AEs of grade 2 or higher from the&#xD;
+             induction phase with atezolizumab plus carboplatin and etoposide. Patients with&#xD;
+             adequately-treated, controlled, immune-related skin rash of grade 2 or&#xD;
+             adequately-treated, controlled, endocrinopathies of grade 2 on replacement therapy can&#xD;
+             be enrolled.&#xD;
+&#xD;
+          -  Body mass index (BMI) &lt; 19 kg/m2.&#xD;
+&#xD;
+          -  Unintentional weight loss ≥ 5% in the previous 3 months, unless the patient has a BMI&#xD;
+             &gt; 22 kg/m2 and weight loss has been lower than 10% at the time of enrollment in the&#xD;
+             study; or unintentional weight loss ≥ 10% in the previous 3 months, unless the patient&#xD;
+             has a BMI &gt; 25 kg/m2 and weight loss has been lower than 15% at the time of the&#xD;
+             enrollment in the study. In all cases, weight must have been stable for at least one&#xD;
+             month before study enrollment.&#xD;
+&#xD;
+          -  Baseline plasma glucose concentration ≤ 60 mg/dL (after at least 8 hours fasting)&#xD;
+&#xD;
+          -  Diagnosis of any other malignancy within 2 years prior to enrollment, with the&#xD;
+             exception of adequately treated in-situ bladder cancer, in-situ carcinoma of the&#xD;
+             cervix, uteri, non-melanomatous skin cancer, ductal in-situ breast cancer, thyroid&#xD;
+             cancer or early-stage prostate cancer (all treatment of which should have been&#xD;
+             completed at least 6 months prior to enrollment)&#xD;
+&#xD;
+          -  Asymptomatic and untreated, symptomatic or unstable CNS metastases as determined by&#xD;
+             CT-scan or MRI evaluation during screening and/or prior radiographic assessments.&#xD;
+&#xD;
+          -  Spinal cord compression not definitively treated with surgery and/or radiation or&#xD;
+             previously diagnosed and treated but not clinically stable for ≥ 4 weeks prior to the&#xD;
+             experimental maintenance treatment initiation.&#xD;
+&#xD;
+          -  Leptomeningeal disease.&#xD;
+&#xD;
+          -  Uncontrolled pleural effusion, pericardial effusion, or ascites requiring recurrent&#xD;
+             drainage procedures (once monthly or more frequently).&#xD;
+&#xD;
+          -  History of alcohol abuse.&#xD;
+&#xD;
+          -  Active pregnancy or breastfeeding.&#xD;
+&#xD;
+          -  Known active B or C hepatitis or human immunodeficiency virus (HIV) infection, or&#xD;
+             occasional finding of active hepatitis B/C infection during screening tests before&#xD;
+             experimental treatment initiation.&#xD;
+&#xD;
+          -  Serious infections in the previous 4 weeks before the experimental maintenance&#xD;
+             treatment initiation.&#xD;
+&#xD;
+          -  Active autoimmune diseases requiring systemic treatments (e.g., systemic steroids or&#xD;
+             immunosuppressants).&#xD;
+&#xD;
+          -  Other medical conditions requiring active chronic therapy with systemic steroids at a&#xD;
+             dose ≥ 10 mg per day of prednisone or equivalent or other immunosuppressive&#xD;
+             medications within 14 days before the experimental maintenance treatment initiation.&#xD;
+&#xD;
+          -  Adrenal replacement steroid doses ≥ 10 mg per day of prednisone or equivalent are&#xD;
+             permitted in the absence of active autoimmune disease&#xD;
+&#xD;
+          -  Diagnosis of type 1 or 2 diabetes mellitus requiring pharmacologic therapy (including,&#xD;
+             but not limited to, insulin and secretagogues). A diagnosis of type 2 diabetes&#xD;
+             mellitus not requiring insulin and secretagogues on the judgment of a diabetologist&#xD;
+             and treated with metformin or alpha-glucosidase inhibitors (e.g., acarbose) is&#xD;
+             compatible with patient enrollment in the trial.&#xD;
+&#xD;
+          -  Active gastric or intestinal ulcerative disease, uncontrolled nausea, vomiting,&#xD;
+             diarrhea, malabsorption syndrome, small intestine resection.&#xD;
+&#xD;
+          -  Anamnesis of clinically significant heart disease including:&#xD;
+&#xD;
+               1. angina pectoris, coronary bypass, symptomatic pericarditis, myocardial infarction&#xD;
+                  in the previous 12 months from the beginning of experimental maintenance&#xD;
+                  treatment.&#xD;
+&#xD;
+               2. congestive heart failure NYHA class III-IV.&#xD;
+&#xD;
+               3. cardiac arrhythmias, such as ventricular tachycardia, chronic atrial&#xD;
+                  fibrillation, complete bundle branch block, high grade atrio-ventricular block&#xD;
+                  like bi-fascicular block, type II Mobitz and third grade atrio-ventricular block,&#xD;
+                  nodal arrhythmias, supra-ventricular arrhythmias.&#xD;
+&#xD;
+          -  Previous episodes of symptomatic hypotension leading to loss of consciousness.&#xD;
+&#xD;
+          -  Medical or psychiatric comorbidities rendering the patient not candidate to the&#xD;
+             clinical trial, according to the investigator's judgement.&#xD;
+&#xD;
+          -  Other cardiac, liver, lung or renal comorbidities, not specified in the previous&#xD;
+             inclusion or exclusion criteria, but potentially exposing the patient to a high risk&#xD;
+             of lactic acidosis.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Filippo de Braud, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fondazione IRCCS Istituto Nazionale dei Tumori, Milano</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Claudio Vernieri, MD, PhD</last_name>
+    <phone>(+39) 02 2390 3066</phone>
+    <email>claudio.vernieri@istitutotumori.mi.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Giovanni Fucà, MD</last_name>
+    <phone>(+39) 02 2390 3066</phone>
+    <email>giovanni.fuca@istitutotumori.mi.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Fondazione IRCCS Istituto Nazionale Tumori</name>
+      <address>
+        <city>Milano</city>
+        <zip>20133</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Rudin CM, Brambilla E, Faivre-Finn C, Sage J. Small-cell lung cancer. Nat Rev Dis Primers. 2021 Jan 14;7(1):3. doi: 10.1038/s41572-020-00235-0.</citation>
+    <PMID>33446664</PMID>
+  </reference>
+  <reference>
+    <citation>Horn L, Mansfield AS, Szczesna A, Havel L, Krzakowski M, Hochmair MJ, Huemer F, Losonczy G, Johnson ML, Nishio M, Reck M, Mok T, Lam S, Shames DS, Liu J, Ding B, Lopez-Chavez A, Kabbinavar F, Lin W, Sandler A, Liu SV; IMpower133 Study Group. First-Line Atezolizumab plus Chemotherapy in Extensive-Stage Small-Cell Lung Cancer. N Engl J Med. 2018 Dec 6;379(23):2220-2229. doi: 10.1056/NEJMoa1809064. Epub 2018 Sep 25.</citation>
+    <PMID>30280641</PMID>
+  </reference>
+  <reference>
+    <citation>Liu SV, Reck M, Mansfield AS, Mok T, Scherpereel A, Reinmuth N, Garassino MC, De Castro Carpeno J, Califano R, Nishio M, Orlandi F, Alatorre-Alexander J, Leal T, Cheng Y, Lee JS, Lam S, McCleland M, Deng Y, Phan S, Horn L. Updated Overall Survival and PD-L1 Subgroup Analysis of Patients With Extensive-Stage Small-Cell Lung Cancer Treated With Atezolizumab, Carboplatin, and Etoposide (IMpower133). J Clin Oncol. 2021 Feb 20;39(6):619-630. doi: 10.1200/JCO.20.01055. Epub 2021 Jan 13.</citation>
+    <PMID>33439693</PMID>
+  </reference>
+  <reference>
+    <citation>Ajona D, Ortiz-Espinosa S, Lozano T, Exposito F, Calvo A, Valencia K, Redrado M, Remirez A, Lecanda F, Alignani D, Lasarte JJ, Macaya I, Senent Y, Bertolo C, Sainz C, Gil-Bazo I, Eguren-Santamaria I, Lopez-Picazo JM, Gonzalez A, Perez-Gracia JL, de Andrea CE, Vicent S, Sanmamed MF, Montuenga LM, Pio R. Short-term starvation reduces IGF-1 levels to sensitize lung tumors to PD-1 immune checkpoint blockade. Nat Cancer. 2020 Jan;1(1):75-85. doi: 10.1038/s43018-019-0007-9. Epub 2020 Jan 13.</citation>
+    <PMID>35121837</PMID>
+  </reference>
+  <reference>
+    <citation>Vernieri C, Fuca G, Ligorio F, Huber V, Vingiani A, Iannelli F, Raimondi A, Rinchai D, Frige G, Belfiore A, Lalli L, Chiodoni C, Cancila V, Zanardi F, Ajazi A, Cortellino S, Vallacchi V, Squarcina P, Cova A, Pesce S, Frati P, Mall R, Corsetto PA, Rizzo AM, Ferraris C, Folli S, Garassino MC, Capri G, Bianchi G, Colombo MP, Minucci S, Foiani M, Longo VD, Apolone G, Torri V, Pruneri G, Bedognetti D, Rivoltini L, de Braud F. Fasting-Mimicking Diet Is Safe and Reshapes Metabolism and Antitumor Immunity in Patients with Cancer. Cancer Discov. 2022 Jan;12(1):90-107. doi: 10.1158/2159-8290.CD-21-0030. Epub 2021 Nov 17.</citation>
+    <PMID>34789537</PMID>
+  </reference>
+  <reference>
+    <citation>Ligorio F, Fuca G, Provenzano L, Lobefaro R, Zanenga L, Vingiani A, Belfiore A, Lorenzoni A, Alessi A, Pruneri G, de Braud F, Vernieri C. Exceptional tumour responses to fasting-mimicking diet combined with standard anticancer therapies: A sub-analysis of the NCT03340935 trial. Eur J Cancer. 2022 Sep;172:300-310. doi: 10.1016/j.ejca.2022.05.046. Epub 2022 Jul 8.</citation>
+    <PMID>35810555</PMID>
+  </reference>
+  <verification_date>December 2022</verification_date>
+  <study_first_submitted>December 13, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>January 19, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 19, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Small Cell Lung Cancer</keyword>
+  <keyword>SCLC</keyword>
+  <keyword>Extensive-stage</keyword>
+  <keyword>Calorie-restriction</keyword>
+  <keyword>Immunotherapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Small Cell Lung Carcinoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Atezolizumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

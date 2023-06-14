@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9985">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05686044</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ANVS -22002</org_study_id>
+    <nct_id>NCT05686044</nct_id>
+  </id_info>
+  <brief_title>A Dose-ranging Study to Investigate Efficacy of Buntanetap in Mild to Moderate AD</brief_title>
+  <official_title>A Randomized, Double-Blind, Placebo-Controlled, Dose-Ranging, Multicenter Study of Buntanetap in Participants With Mild to Moderate Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Annovis Bio Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Annovis Bio Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to measure efficacy and safety of three different doses of&#xD;
+      buntanetap compared with placebo in participants with mild to moderate Alzheimer's disease.&#xD;
+&#xD;
+      Study details include:&#xD;
+&#xD;
+      The double-blind treatment duration will include a screening period of up to 42 days followed&#xD;
+      by 12 weeks of treatment at home.&#xD;
+&#xD;
+      The study duration will be 4-5 months. There will be 4 in-clinic visits and 1 phone call.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      320 mild to moderate AD participants will be randomized to 7.5 mg, 15 mg, 30mg of buntanetap&#xD;
+      QD or placebo. If they provide informed consent, they will undergo a Screening Visit, and if&#xD;
+      they are considered eligible per the inclusion and exclusion criteria, they will proceed to&#xD;
+      participate in the treatment period. Randomized participants will visit the clinic for the&#xD;
+      first-time dosing in clinic, followed by an at home dosing period of 12 weeks, with daily&#xD;
+      administration of 7.5 mg, 15 mg or 30 mg of buntanetap or placebo. Participants will be&#xD;
+      required to visit clinics Day 0 (baseline), 6 weeks, and 12 weeks (end-of-trial), where they&#xD;
+      will undergo study procedures that include safety assessments (AE and concomitant medication&#xD;
+      monitoring, 12-lead ECGs, clinical laboratory testing, vital signs assessments, and physical&#xD;
+      examinations) and psychometric tests (Alzheimer's Disease Assessment Scale-Cognitive Subscale&#xD;
+      11 (ADAS-Cog11), Alzheimer's Disease Cooperative Study-Clinical Global Impression of Change&#xD;
+      (ADCS-CGIC), Alzheimer's Disease Cooperative Study-Instrumental Activities of Daily Living&#xD;
+      Scale (ADCS-ADL), Digital Symbol Substitution Test (DSST), Mini Mental State Examination&#xD;
+      (MMSE)). At the end of blood sampling, the participants will need to stay for a minimum of 1&#xD;
+      hour of observation. After all end-of-study procedures are complete, the subject will be&#xD;
+      discharged to home. A 24-hour follow-up call will occur after all clinical visits to assess&#xD;
+      the participants current condition and if there are any additional adverse events or&#xD;
+      questions.&#xD;
+&#xD;
+      The study will be a 12-weeks, placebo-controlled and double-blind trial: participants,&#xD;
+      investigators and the sponsor will be blinded to the participants' treatment.&#xD;
+&#xD;
+      Qualified participants will be randomly assigned at a 1:1:1:1 ratio to one of the four&#xD;
+      treatment arms: buntanetap 7.5 mg, buntanetap 15 mg, buntanetap 30mg, and placebo, through an&#xD;
+      Interactive Randomization System, after a screening period of up to 42 days.&#xD;
+&#xD;
+      ADAS-Cog 11, ADCS-CGIC, ADCS-ADL, DSST, and MMSE will be assessed by clinicians who have&#xD;
+      successfully completed the requisite certifications/trainings for each assessment.&#xD;
+&#xD;
+      One interim analysis is planned. It will take place when 90 enrolled subjects (~30%) have&#xD;
+      completed the Week 6 assessments to re-assess the sample size. No interim analyses are&#xD;
+      planned for the purpose of stopping the study early for futility.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 1, 2023</start_date>
+  <completion_date type="Anticipated">February 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">February 1, 2024</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Alzheimer's Disease Assessment Scale-Cognitive Subscale 11</measure>
+    <time_frame>Baseline to the end of treatment period (12 weeks)</time_frame>
+    <description>Alzheimer's Disease Assessment Scale-Cognitive Subscale 11 (ADAS-Cog 11) measures cognitive functions and non-cognitive functions such as mood and behavior. It was designed to measure the cognitive and behavioral domains known to be affected in Alzheimer disease, including memory, language, orientation, construction, and planning of simple designs, and completed simple goal-oriented behaviors.&#xD;
+Specifically, the ADAS-Cog comprises ratings from 11 components: word recall, word recognition, constructional praxis, orientation, naming objects and fingers, commands, ideational praxis, remembering test instructions, spoken language, word finding, and comprehension.&#xD;
+Total scores range from 0-70, with higher scores indicating greater cognitive impairment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Alzheimer's Disease Cooperative Study-Clinical Global Impression of Change</measure>
+    <time_frame>Baseline and week 12 clinic visits (12 weeks)</time_frame>
+    <description>Alzheimer's Disease Cooperative Study-Clinical Global Impression of Change (ADCS-CGIC) focuses on clinicians' observations of change in the patient's cognitive, functional, and behavioral performance since the beginning of a trial. It relies on both direct examination of the patient and interview of informants.&#xD;
+The ADCS-CGIC measures whether the effects of active treatment are substantial enough to be detected by a skilled and experienced clinician on the basis of a clinical interview and examination. It relies on both direct examination of the patient and an interview of the study partner.&#xD;
+A skilled and experienced clinician who is blinded to treatment assignment rates the patient on a 7-point Likert scale, ranging from 1 (marked improvement) to 7 (marked worsening). Lower scores indicate better improvement.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Alzheimer's Disease Cooperative Study-Instrumental Activities of Daily Living Scale</measure>
+    <time_frame>Baseline to end of treatment period (12 weeks)</time_frame>
+    <description>Alzheimer's Disease Cooperative Study-Instrumental Activities of Daily Living Scale (ADCS-ADL) is a 23-item inventory scale developed as a rater-administered questionnaire answered by the participant's study partner.&#xD;
+The ADCS-ADL measures 6 basic activities of daily living (BADL) items and 17 instrumental activities of daily living (IADL) items that provide a total score from 0-78, with a lower score indicating greater severity. Basic activities include basic self-care tasks such as feeding, mobility, toileting, bathing, grooming and dressing. Instrumental activities are more complex and vary based on cultural norms, gender roles. As such, instrumental activities tend to include a broad range of activities.&#xD;
+Caregivers are asked to rate the degree to which their family member or loved one can perform a variety of tasks. The assessed activities provide a total score from 0-78. Participants with a lower score indicates greater severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mini Mental State Examination Score</measure>
+    <time_frame>Screening (up to 42 days) through end of treatment period (12 weeks) for a total of up to 4.2 months</time_frame>
+    <description>The Mini Mental State Examination (MMSE) Score is a brief screening instrument used to assess cognitive function (orientation, memory, attention, ability to name objects, follow verbal/written commands, write a sentence, and copy figures).&#xD;
+Total score ranges from 0 to 30 with a lower score indicating greater disease severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Digital Symbol Substitution Test</measure>
+    <time_frame>Baseline through the end of treatment period (12 weeks)</time_frame>
+    <description>The digital symbol substitution test (DSST) asks individuals to record associations between different symbols and numbers within time limits.&#xD;
+The total score is the sum of all the correctly coded numbers. Higher scores indicate better performance.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">320</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>7.5mg Buntanetap</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Buntanetap 7.5mg oral capsule with daily administration for a period of 12 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>15mg Buntanetap</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Buntanetap 15mg oral capsule with daily administration for a period of 12 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>30mg Buntanetap</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Buntanetap 30mg oral capsule with daily administration for a period of 12 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo oral capsule with daily administration for a period of 12 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Buntanetap</intervention_name>
+    <description>HPMC (vegetarian source) capsule shells</description>
+    <arm_group_label>15mg Buntanetap</arm_group_label>
+    <arm_group_label>30mg Buntanetap</arm_group_label>
+    <arm_group_label>7.5mg Buntanetap</arm_group_label>
+    <other_name>Posiphen Tartrate</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>HPMC (vegetarian source) capsule shells</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Diagnosis of Alzheimer's disease according to NIA and NIA-AA criteria for probable AD&#xD;
+&#xD;
+          2. Male or female aged 55 - 85 years.&#xD;
+&#xD;
+          3. MMSE 14-24.&#xD;
+&#xD;
+          4. Have a study partner who will provide written informed consent to participate, is in&#xD;
+             frequent contact with the participant (defined as at least 10 hours per week) and will&#xD;
+             accompany the participant to study visits at designated times.&#xD;
+&#xD;
+          5. Female participants of childbearing potential* must have a negative urine pregnancy&#xD;
+             test at Screening, must be non-lactating and must agree to use a highly effective&#xD;
+             method of contraception (i.e., a method resulting in a failure rate of less than 1%&#xD;
+             per year when used consistently and correctly) during the trial and for 4 weeks after&#xD;
+             the last dose of trial treatment, such as:&#xD;
+&#xD;
+               -  Oral, intravaginal, or transdermal combined (estrogen plus progestogen) hormonal&#xD;
+                  contraception associated with inhibition of ovulation&#xD;
+&#xD;
+               -  Oral, injectable, or implantable progestogen-only hormonal contraception&#xD;
+                  associated with inhibition of ovulation&#xD;
+&#xD;
+               -  Intrauterine device (IUD)&#xD;
+&#xD;
+               -  Intrauterine hormone-releasing system (IUS)&#xD;
+&#xD;
+               -  Bilateral tubal occlusion&#xD;
+&#xD;
+               -  Vasectomized partner (a vasectomized partner is a highly effective contraception&#xD;
+                  method provided that the partner is the sole male sexual partner of the&#xD;
+                  participant, and the absence of sperm has been confirmed. If not, an additional&#xD;
+                  highly effective method of contraception should be used)&#xD;
+&#xD;
+               -  Sexual abstinence (sexual abstinence is considered a highly effective method only&#xD;
+                  if defined as refraining from heterosexual intercourse during the entire period&#xD;
+                  of risk associated with the study treatment. The reliability of sexual abstinence&#xD;
+                  needs to be in relation to the duration of the study and the preferred and usual&#xD;
+                  lifestyle of the participant) *Non-childbearing potential includes surgically&#xD;
+                  sterilized or postmenopausal with no menstrual bleeding for at least one year&#xD;
+                  prior to study start.&#xD;
+&#xD;
+          6. Male participants must be sterile or sexually inactive or agree not to father a child&#xD;
+             during the study and one month after the last dose of study medication and must agree&#xD;
+             to use a barrier method for contraception. Female partners of male subject must adopt&#xD;
+             a highly effective method of contraception with a failure rate of less than 1% per&#xD;
+             year when used consistently and correctly such as:&#xD;
+&#xD;
+               -  Oral, intravaginal, or transdermal combined (estrogen plus progestogen) hormonal&#xD;
+                  contraception associated with inhibition of ovulation&#xD;
+&#xD;
+               -  Oral, injectable, or implantable progestogen-only hormonal contraception&#xD;
+                  associated with inhibition of ovulation&#xD;
+&#xD;
+               -  Intrauterine device (IUD)&#xD;
+&#xD;
+               -  Intrauterine hormone-releasing system (IUS)&#xD;
+&#xD;
+               -  Bilateral tubal occlusion&#xD;
+&#xD;
+          7. Participants can provide written informed consent. If PI deems that participant cannot&#xD;
+             fully understand ICF to give consent, their legally authorized representative (LARs)&#xD;
+             can provide written informed consent. Participants can comply with scheduled visits,&#xD;
+             and other study-related procedures to complete the study with the help of the study&#xD;
+             partner.&#xD;
+&#xD;
+          8. No evidence of current suicidal ideation or previous suicide attempt in the past 2&#xD;
+             months as evaluated in the Columbia Suicide Severity Rating Scale nor suicidal&#xD;
+             behavior in the past 6 months as per investigator.&#xD;
+&#xD;
+          9. Stability of permitted medications for at least 4 weeks prior to screening.&#xD;
+&#xD;
+               1. Cholinesterase inhibitors and/or memantine medication&#xD;
+&#xD;
+               2. Anticonvulsant medications used for epilepsy or mood stabilization, neuropathic&#xD;
+                  pain indications.&#xD;
+&#xD;
+               3. Mood-stabilizing psychotropic agents, including, but not limited to, lithium.&#xD;
+&#xD;
+         10. Adequate visual and hearing ability (physical ability to perform all the study&#xD;
+             assessments) as per investigator.&#xD;
+&#xD;
+         11. Good general health with no disease expected to interfere with the study as per&#xD;
+             investigator.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Has a history of a psychiatric disorder such as schizophrenia, bipolar disorder or&#xD;
+             major depression according to the criteria of the most current version of the&#xD;
+             Diagnostic and Statistical Manual of Mental Disorders (DSM). Mild depression or&#xD;
+             history of depression that is stable on treatment with a SSRI or SNRI medication at a&#xD;
+             stable dose is acceptable.&#xD;
+&#xD;
+          2. Has non-AD dementia, such as vascular dementia, Lewy body dementia, frontotemporal&#xD;
+             disease, Parkinson disease dementia, B12 and thyroid deficiency caused dementia.&#xD;
+&#xD;
+          3. History of a seizure disorder, if stable on medication is acceptable.&#xD;
+&#xD;
+          4. Has a history or current evidence of long QT syndrome, Fridericia's formula corrected&#xD;
+             QT (QTcF) interval ≥ 450 ms for men and 460 ms for women, or torsades de pointes.&#xD;
+&#xD;
+          5. Has bradycardia (&lt;50 bpm) or tachycardia (&gt;100 bpm) on the ECG at screening.&#xD;
+&#xD;
+          6. Has uncontrolled Type-1 or Type-2 diabetes. A subject with HbA1c levels up to 7.5% can&#xD;
+             be enrolled if the investigator believes the subject's diabetes is under control.&#xD;
+&#xD;
+          7. Has clinically significant renal (CKD-EPI with normal &lt;60 mL/min/BSA (body surface&#xD;
+             area) or hepatic impairment (ALP &gt; 2.0 ULN and/or total bilirubin &gt; 2.0 ULN) .&#xD;
+&#xD;
+          8. Has any clinically significant abnormal laboratory values. Participants with liver&#xD;
+             function tests (aspartate aminotransferase [AST] or alanine aminotransferase [ALT])&#xD;
+             greater than twice the upper limit of normal will be excluded.&#xD;
+&#xD;
+          9. Is at imminent risk of self-harm, based on clinical interview and responses on the C&#xD;
+             SSRS, or of harm to others in the opinion of the Investigators. Participants must be&#xD;
+             excluded if they report suicidal ideation with intent, with or without a plan or&#xD;
+             method (e. g. positive response to Items 4 or 5 in assessment of suicidal ideation on&#xD;
+             the C SSRS) in the past 2 months, or suicidal behavior in the past 6 months.&#xD;
+&#xD;
+         10. Has cancer or has had a malignant tumor within the past year, except participants who&#xD;
+             underwent potentially curative therapy with no evidence of recurrence. (Participants&#xD;
+             with stable untreated prostate cancer or skin cancers are not excluded).&#xD;
+&#xD;
+         11. Alcohol / Substance use disorder, moderate to severe, in the last 5 years according to&#xD;
+             the most current version DSM.&#xD;
+&#xD;
+         12. Participation in another clinical trial with an investigational agent and have taken&#xD;
+             at least one dose of study medication, unless unblinded on placebo, within 4 weeks&#xD;
+             prior to the start of screening, or five half-lives of the investigational drug,&#xD;
+             whichever is greater.&#xD;
+&#xD;
+             The end of a previous investigational trial is the date the last dose of an&#xD;
+             investigational agent was taken.&#xD;
+&#xD;
+         13. Participants with learning disability or developmental delay.&#xD;
+&#xD;
+         14. Participants whom the site PI deems to be otherwise ineligible.&#xD;
+&#xD;
+         15. Participants with a known allergy to the investigational drug or any of its&#xD;
+             components. Here are all the inactive ingredients of the IMP:&#xD;
+&#xD;
+               -  Silicified Microcrystalline Cellulose&#xD;
+&#xD;
+               -  Dibasic Calcium Phosphate Dihydrate&#xD;
+&#xD;
+               -  Mannitol&#xD;
+&#xD;
+               -  Magnesium Stearate&#xD;
+&#xD;
+               -  Hypromellosee (capsule shells structure)&#xD;
+&#xD;
+               -  titanium dioxide (opacifier of the capsule shells)&#xD;
+&#xD;
+         16. Subject is currently pregnant, breast-feeding and/or lactating.&#xD;
+&#xD;
+         17. Subject is currently taking strong and moderate CYP3A4 inhibitors and/or inducers.&#xD;
+             (e.g., CYP3A4 inhibitors Itraconazole, Ketoconazole, Azamulin, Troleandomycin,&#xD;
+             Verapamil; CYP3A4 inducers Rifampicin)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Melissa A Gaines</last_name>
+    <phone>610-727-3722</phone>
+    <email>gaines@annovisbio.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Cheng Fang</last_name>
+    <phone>(610) 727-3987</phone>
+    <email>fang@annovisbio.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Banner Sun Health Research Institute - Cleo Roberts</name>
+      <address>
+        <city>Sun City</city>
+        <state>Arizona</state>
+        <zip>85351</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Danielle Goldfarb</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CenExel Clinical Clinical Research, Inc</name>
+      <address>
+        <city>Los Alamitos</city>
+        <state>California</state>
+        <zip>90720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Omid Omidvar</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cenexel Rocky Mountain Clinical Research</name>
+      <address>
+        <city>Englewood</city>
+        <state>Colorado</state>
+        <zip>80113</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Rajeev Kumar</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ki Health Partners LLC D/B/A New England Institute for Clinical Research</name>
+      <address>
+        <city>Stamford</city>
+        <state>Connecticut</state>
+        <zip>06824</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Peter McAllister, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Visionary Investigators Network</name>
+      <address>
+        <city>Aventura</city>
+        <state>Florida</state>
+        <zip>33180</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>305-933-5993</phone>
+      <email>jhernandez@vintrials.com</email>
+    </contact>
+    <investigator>
+      <last_name>Julie Schwartzbard</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Neurology Institute - Coral Springs</name>
+      <address>
+        <city>Coral Springs</city>
+        <state>Florida</state>
+        <zip>33067-4640</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>954-530-5884</phone>
+      <email>manaya@neurofl.com</email>
+    </contact>
+    <investigator>
+      <last_name>Sonia Kalirao, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>JY Research Inst.</name>
+      <address>
+        <city>Cutler Bay</city>
+        <state>Florida</state>
+        <zip>33189</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jose Marichal</last_name>
+      <phone>305-424-8696</phone>
+      <email>Jmarichal@jyresearchinstitute.com</email>
+    </contact>
+    <investigator>
+      <last_name>Carlos Martinez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Arrow Clinical trial</name>
+      <address>
+        <city>Daytona Beach</city>
+        <state>Florida</state>
+        <zip>32114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study coordinator</last_name>
+      <phone>407-590-3944</phone>
+      <email>vnitta@arrowtrials.com</email>
+    </contact>
+    <investigator>
+      <last_name>David Billmeier, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Accel Research Sites - DeLand Clinical Research Unit</name>
+      <address>
+        <city>DeLand</city>
+        <state>Florida</state>
+        <zip>32720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>386-785-2400</phone>
+      <email>kmissaggia@accelclinical.com</email>
+    </contact>
+    <investigator>
+      <last_name>Bruce Rankin, DO</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>New Life Medical Research Center</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Viviana Dobal</last_name>
+      <phone>786-360-3750</phone>
+      <email>Dobal@newlifemedresearch.com</email>
+    </contact>
+    <investigator>
+      <last_name>Lourdes Salem</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CenExel RCA</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Nelia Sanchez-Crespo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Coral Clinic Reserach LLC</name>
+      <address>
+        <city>Homestead</city>
+        <state>Florida</state>
+        <zip>33032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <email>coralclinicreserach@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Nelson Gonzalez, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>ClinCloud, LLC</name>
+      <address>
+        <city>Maitland</city>
+        <state>Florida</state>
+        <zip>32751</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Esteban Olivera</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>K2 Medical Research</name>
+      <address>
+        <city>Maitland</city>
+        <state>Florida</state>
+        <zip>32751</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gina Cedano</last_name>
+      <phone>321-204-9552</phone>
+      <email>gina.cedano@k2med.com</email>
+    </contact>
+    <investigator>
+      <last_name>Shelia Baez-Torres</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Merritt Island Clinical Research LLC</name>
+      <address>
+        <city>Merritt Island</city>
+        <state>Florida</state>
+        <zip>32952</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joshua Mabry</last_name>
+      <phone>321-305-5015</phone>
+      <email>jshua.mabry@mimresearch.com</email>
+    </contact>
+    <investigator>
+      <last_name>Gregory Kirk</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Gold Coast Health Research, LLC</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33155</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kristian Lopez</last_name>
+      <phone>786-206-2986</phone>
+      <email>klopez@gchresearch.com</email>
+    </contact>
+    <investigator>
+      <last_name>Kalvin Kapoor</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Professional Clinical Research Center, Inc</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33165</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Mayra Delgado</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Reliant Medical Research</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33165</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Carlos Ramirez-Calderon, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ezy Medical Research Co.</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33175</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Manuel Fernandez, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Renstar Medical Research</name>
+      <address>
+        <city>Ocala</city>
+        <state>Florida</state>
+        <zip>34470</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Anette Nieves, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Visionary Investigators Network</name>
+      <address>
+        <city>Pembroke Pines</city>
+        <state>Florida</state>
+        <zip>33026</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Margarita A El-Ramey, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Napa Research</name>
+      <address>
+        <city>Pompano Beach</city>
+        <state>Florida</state>
+        <zip>33064</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Magda Hernandez</last_name>
+      <phone>954-773-9890</phone>
+      <email>mhernandez@napa-trials.com</email>
+    </contact>
+    <investigator>
+      <last_name>Naval Parikh</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>K2 Summit Research</name>
+      <address>
+        <city>The Villages</city>
+        <state>Florida</state>
+        <zip>32159</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chris Curtis</last_name>
+      <phone>352-500-5252</phone>
+      <email>chris.curtis@k2med.com</email>
+    </contact>
+    <investigator>
+      <last_name>Craig Curtis</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>ClinCloud, LLC</name>
+      <address>
+        <city>Viera</city>
+        <state>Florida</state>
+        <zip>32940</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Rosemary Laird</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Conquest Research, LLC</name>
+      <address>
+        <city>Winter Park</city>
+        <state>Florida</state>
+        <zip>32789</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>407-916-0060</phone>
+      <phone_ext>109</phone_ext>
+      <email>melissa.oneill@conquestresearch.com</email>
+    </contact>
+    <investigator>
+      <last_name>Rekha Gandhi, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Anand Patel, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Malisa Agard, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Shana Ingram, Rater</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Brent Weber, Rater</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Charter Research</name>
+      <address>
+        <city>Winter Park</city>
+        <state>Florida</state>
+        <zip>32792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kimberly Castillo</last_name>
+      <phone>407-337-3000</phone>
+      <email>kimberly.castillo@charterresearch.com</email>
+    </contact>
+    <investigator>
+      <last_name>Edgardo Rivera</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CenExel iResearch, LLC</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Kimball A. Johnson, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hawaii Pacific Neuroscience, LLC</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Courtnie Yokono</last_name>
+      <phone>808-261-4476</phone>
+      <email>cyokono@hawaiineuroscience.com</email>
+    </contact>
+    <investigator>
+      <last_name>Kore Liow, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Josephson Wallack Munshower Neurology, P.C.</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46256</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>317-537-6056</phone>
+      <email>troot@jwmneuro.com</email>
+    </contact>
+    <investigator>
+      <last_name>Kristi George, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>MedVadis Research</name>
+      <address>
+        <city>Waltham</city>
+        <state>Massachusetts</state>
+        <zip>02451</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>David DiiBenedetto</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Quest Research Institue</name>
+      <address>
+        <city>Farmington Hills</city>
+        <state>Michigan</state>
+        <zip>48334</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Aaron Ellenbogen, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hassman Research Institute</name>
+      <address>
+        <city>Berlin</city>
+        <state>New Jersey</state>
+        <zip>08009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Michael Hassman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CenExel Clinical Research, Inc</name>
+      <address>
+        <city>Toms River</city>
+        <state>New Jersey</state>
+        <zip>08755</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Sanjiv Sharma</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robyn Dann</last_name>
+      <phone>315-760-5905</phone>
+      <phone_ext>704</phone_ext>
+      <email>rdann@velocitylcinical.com</email>
+    </contact>
+    <investigator>
+      <last_name>Robert Cupelo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Onsite Clinical Solutions LLC</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Avinash Shah</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Neuroscience Centre (CINAC)</name>
+      <address>
+        <city>Canton</city>
+        <state>Ohio</state>
+        <zip>44718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Ryan Drake</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dayton Center for Neurological Disorders, Inc</name>
+      <address>
+        <city>Centerville</city>
+        <state>Ohio</state>
+        <zip>45459</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Keneth D Pugar</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Memory Health Center Summit Research Network</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Scott Losk</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Neuro Research Centers, LLC</name>
+      <address>
+        <city>El Paso</city>
+        <state>Texas</state>
+        <zip>79912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Aamir Herkar</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Central Texas Neurology Consultants</name>
+      <address>
+        <city>Round Rock</city>
+        <state>Texas</state>
+        <zip>78681</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>512-218-1222</phone>
+      <email>k.lopez@ctncpa.org</email>
+    </contact>
+    <investigator>
+      <last_name>Elizabeth Peckham, DO</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Inland Northwest Research</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99202-1342</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Jason Aldred, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>January 6, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 6, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 17, 2023</study_first_posted>
+  <last_update_submitted>April 19, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 19, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 21, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Phenserine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

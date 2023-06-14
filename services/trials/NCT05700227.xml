@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9336">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05700227</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VAR-2021-05</org_study_id>
+    <nct_id>NCT05700227</nct_id>
+  </id_info>
+  <brief_title>Daily Online Adaptive Short-Course Radiation Therapy and Concurrent Chemotherapy for Muscle-Invasive Bladder Cancer</brief_title>
+  <acronym>ARTIA-Bladder</acronym>
+  <official_title>Daily Online Adaptive Short-Course Radiation Therapy and Concurrent Chemotherapy for Muscle-Invasive Bladder Cancer: A Prospective Trial of an Individualized Approach for Reducing Bowel and Bladder Toxicity (ARTIA-Bladder)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Varian, a Siemens Healthineers Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Varian, a Siemens Healthineers Company</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This trial is a single-arm, prospective, multi-center clinical trial designed to demonstrate&#xD;
+      that adaptive radiotherapy for muscle-invasive bladder cancer will translate into a decreased&#xD;
+      rate of acute (assessed weekly during chemo-radiotherapy) grade 3 or greater&#xD;
+      gastrointestinal/genitourinary toxicity compared with the historically reported rate for&#xD;
+      non-adaptive radiation therapy. The Common Terminology Criteria for Adverse Events (CTCAE)&#xD;
+      version 5 assessment tool will be utilized.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 2, 2023</start_date>
+  <completion_date type="Anticipated">February 1, 2027</completion_date>
+  <primary_completion_date type="Anticipated">February 1, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Acute GI/GU Toxicity</measure>
+    <time_frame>Assessed during the 4 weeks of external beam radiation therapy</time_frame>
+    <description>Acute gastrointestinal and genitourinary CTCAE v5 grade 3 or higher toxicity</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Loco-regional Tumor Control</measure>
+    <time_frame>From baseline to 24 months after completion of chemoradiotherapy</time_frame>
+    <description>Loco-regional bladder tumor control at 2 years. Events include histologically proven presence of muscle-invasive disease or clinical evidence of nodal disease</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient-reported Quality of Life</measure>
+    <time_frame>From baseline to 24 months after completion of chemoradiotherapy</time_frame>
+    <description>Patient-reported quality of life changes during and after EBRT treatment using adaptive IMRT by the subscale EORTC QLQ-BLM30 and EPIC 26</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse Events</measure>
+    <time_frame>From the start of external beam radiation therapy to 24 months after completion chemoradiotherapy</time_frame>
+    <description>Physician reported CTCAE V5 adverse events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Global Function</measure>
+    <time_frame>From baseline to 24 months after completion of chemoradiotherapy</time_frame>
+    <description>Change in global function as measured with EuroQol 5 dimension 5 level (EQ-5D-5L) questionnaire. Higher scores for a given dimension indicate degraded function.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease-free Survival</measure>
+    <time_frame>From the start of external beam radiation therapy to 24 months after completion chemoradiotherapy</time_frame>
+    <description>Disease-free survival at 2 years (events include histologically proven presence of muscle-invasive disease, clinical evidence of nodal or metastatic disease, or death due to any cause)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bladder Intact Event-free Survival</measure>
+    <time_frame>From the start of external beam radiation therapy to 24 months after completion chemoradiotherapy</time_frame>
+    <description>Bladder intact event-free survival at 2 years (events include histologically proven presence of muscle-invasive disease, clinical evidence of nodal or metastatic disease, radical cystectomy, or death due to any cause)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bladder-cancer Specific Mortality</measure>
+    <time_frame>From the start of external beam radiation therapy to 24 months after completion chemoradiotherapy</time_frame>
+    <description>Bladder-cancer specific mortality at 2 years</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>From the start of external beam radiation therapy to 24 months after completion chemoradiotherapy</time_frame>
+    <description>Overall survival at 2 years</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>NTCP Model</measure>
+    <time_frame>Assessed during the 4 weeks of external beam radiation therapy</time_frame>
+    <description>Normal tissue complication probability (NTCP) model of acute GI toxicity for hypofractionated bladder RT based on true integrated daily dose to the bowel</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adaptive Workflow Feasibility</measure>
+    <time_frame>Assessed during the 4 weeks of external beam radiation therapy</time_frame>
+    <description>Workflow feasibility of adaptive image guided EBRT for bladder cancer (including measuring time on table and frequency of using the adapted vs. original treatment plan for each fraction)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dosimetric Coverage</measure>
+    <time_frame>Assessed during the 4 weeks of external beam radiation therapy</time_frame>
+    <description>Improvement in target coverage and/or reduction in dose to critical organs at risk compared to the non-adaptive planned dosimetry</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute GI/GU Toxicity (&gt;75% daily adaptive sub-cohort analysis)</measure>
+    <time_frame>Assessed during the 4 weeks of external beam radiation therapy</time_frame>
+    <description>Acute grade 3 or higher GI/GU CTCAE v5 toxicity rate in subjects who received 75% or more of their fractions as adaptive treatments</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute GI/GU Toxicity (partial bladder boost sub-cohort analysis)</measure>
+    <time_frame>Assessed during the 4 weeks of external beam radiation therapy</time_frame>
+    <description>Acute GI/GU CTCAE v5 grade 3 or higher toxicity (assessed weekly during chemo-radiotherapy) in the cohort treated with partial bladder boost to 55 Gy</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Exploratory Translational Objective</measure>
+    <time_frame>From the start of external beam radiation therapy to 24 months after completion chemoradiotherapy</time_frame>
+    <description>To test the hypothesis that a biomarker driven genomic test, Decipher Bladder, performed on the TURBT specimen can be used as a prognostic/predictive biomarker for recurrence in patients treated with concurrent chemo-radiation therapy</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">165</enrollment>
+  <condition>Muscle Invasive Bladder Urothelial Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Daily Adaptive External Beam Radiation Therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Daily adaptive radiation therapy delivered with Varian Ethos treatment system</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Daily Adaptive External Beam Radiation Therapy</intervention_name>
+    <description>Daily adaptive external beam radiation therapy delivered on Varian Ethos treatment system.</description>
+    <arm_group_label>Daily Adaptive External Beam Radiation Therapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age ≥ 18 years.&#xD;
+&#xD;
+          2. Patients must have histologically proven cT2-T4aN0M0 (AJCC v8) urothelial carcinoma of&#xD;
+             the bladder with an intact bladder. Mixed urothelial histology is permitted as long as&#xD;
+             there is some urothelial histology component and no small cell component present.&#xD;
+&#xD;
+          3. Patients must have undergone an attempt at maximal transurethral resection of bladder&#xD;
+             tumor (TURBT) within 70 days prior to enrollment.&#xD;
+&#xD;
+          4. A negative pelvic nodal status is to be confirmed by one or more of the following&#xD;
+             studies/procedures: PET/CT scan, CT scan, MRI scan, fine needle biopsy, extra&#xD;
+             peritoneal biopsy, or laparoscopic biopsy, per institutional standard of care.&#xD;
+&#xD;
+          5. Patients must be planning to undergo concurrent pelvic radiation and chemotherapy with&#xD;
+             curative intent.&#xD;
+&#xD;
+          6. ECOG performance status ≤2 (Karnofsky ≥60%).&#xD;
+&#xD;
+          7. Ability to complete required patient questionnaires.&#xD;
+&#xD;
+          8. Ability to understand and the willingness to sign a written informed consent document.&#xD;
+&#xD;
+          9. Patients must have normal organ and marrow function as defined below, obtained within&#xD;
+             28 days prior to enrollment:&#xD;
+&#xD;
+               -  absolute neutrophil count ≥1,500/mcL&#xD;
+&#xD;
+               -  platelets ≥100,000/mcL&#xD;
+&#xD;
+               -  hemoglobin ≥9 g/dL (can be transfused with red blood cells pre-study)&#xD;
+&#xD;
+               -  total bilirubin ≤1.5 × institutional upper limit of normal (ULN) unless the&#xD;
+                  patient has Gilbert's syndrome who must have total bilirubin &lt;3.0 mg/dL&#xD;
+&#xD;
+               -  AST(SGOT)/ALT(SGPT) ≤3 × ULN&#xD;
+&#xD;
+               -  alkaline phosphatase ≤2.5 × ULN&#xD;
+&#xD;
+               -  creatinine clearance ≥30 ml/min. We recommend avoiding cisplatin for patients&#xD;
+                  with creatinine clearance &lt;50 ml/min.&#xD;
+&#xD;
+             For the purpose of estimating the creatinine clearance, this formula may be used:&#xD;
+&#xD;
+             Estimated creatinine clearance=((140-age)×wt (kg) ×0.85 (if female))/(72 x creatinine&#xD;
+             (mg/dl) )&#xD;
+&#xD;
+         10. Female patients of childbearing potential (defined as having a menses at any time in&#xD;
+             the preceding 12 months) must have a negative serum pregnancy test prior to&#xD;
+             enrollment. Patients must not be pregnant or nursing because of the potential risk of&#xD;
+             injury to the fetus/child.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Grade ≥ 2 CTCAE GI or grade ≥ 3 GU symptoms/conditions at baseline (including ongoing&#xD;
+             refractory gross hematuria post TURBT)&#xD;
+&#xD;
+          2. Patients with clinically involved nodes (nodes consistent morphologically with&#xD;
+             malignancy and which are greater than 1 cm on short axis on CT or MRI).&#xD;
+&#xD;
+          3. Patients with cT4b disease. Patients with T4 disease after 8 subjects with T4 disease&#xD;
+             have been enrolled.&#xD;
+&#xD;
+          4. Bilateral hydronephrosis or diffuse carcinoma in situ based on cystoscopy or biopsy.&#xD;
+             Unilateral hydronephrosis is allowed provided the patient's kidney function meets the&#xD;
+             trial criteria. Patients should be evaluated for consideration of stenting or&#xD;
+             nephrostomy tubes for moderate-to-severe unilateral hydronephrosis prior to initiation&#xD;
+             of chemo-radiotherapy.&#xD;
+&#xD;
+          5. Prior radiation therapy to the pelvis or abdominal cavity, prior systemic&#xD;
+             chemotherapy/systemic therapy for bladder cancer. Prior intravesical therapy (BCG,&#xD;
+             interferon, intravesical chemotherapy) is allowed provided the time interval from&#xD;
+             completion of intravesical therapy is at least 3 months.&#xD;
+&#xD;
+          6. Prior cystectomy or partial cystectomy.&#xD;
+&#xD;
+          7. Prior malignancy (except for non-melanoma skin cancer) unless disease-free for at&#xD;
+             least 2 years. Prior non-muscle invasive bladder cancer is allowed. Patients must not&#xD;
+             have a history of urothelial carcinoma or variant histology at any site outside of the&#xD;
+             urinary bladder within the previous 24 months except Ta/T1/carcinoma in situ of the&#xD;
+             upper urinary tract (including renal pelvis and ureter) provided the patient has&#xD;
+             undergone complete nephroureterectomy and still meets trial eligibility for creatinine&#xD;
+             clearance. Patients with localized prostate cancer who are being followed on an active&#xD;
+             surveillance program are also eligible.&#xD;
+&#xD;
+          8. Prior allogeneic bone marrow transplantation or prior solid organ transplantation.&#xD;
+&#xD;
+          9. Prior systemic anticancer therapy due to a diagnosis of cancer (e.g., chemotherapy,&#xD;
+             targeted therapy, immunotherapy) within 3 years prior to entering the study or&#xD;
+             induction chemotherapy prior to the start of concurrent chemo-radiotherapy&#xD;
+&#xD;
+         10. Serious medical comorbidities precluding RT and/or chemotherapy (e.g., active&#xD;
+             uncontrolled infection )&#xD;
+&#xD;
+         11. Patients with a history of inflammatory bowel disease, including ulcerative colitis&#xD;
+             and Crohn's Disease.&#xD;
+&#xD;
+         12. Patients with scleroderma. Patients who are symptomatic from other auto-immune&#xD;
+             diseases or patients on biologic therapies for auto-immune diseases are also excluded.&#xD;
+&#xD;
+         13. Patients with active tuberculosis (TB).&#xD;
+&#xD;
+         14. Patients who are pregnant or actively breastfeeding and who do not agree to&#xD;
+             discontinue breastfeeding before the initiation of radiation treatment planning or&#xD;
+             bladder cancer therapy.&#xD;
+&#xD;
+         15. Women of childbearing potential and men who do not agree to use adequate contraception&#xD;
+             (hormonal or barrier method of birth control; abstinence) prior to study entry, for&#xD;
+             the duration of protocol treatment, and for 5 months after the last study treatment.&#xD;
+&#xD;
+         16. Patients with a prior known history or current diagnosis of bowel fistula.&#xD;
+&#xD;
+         17. Patients who undergo a pelvic or para-aortic lymph node dissection prior to planned&#xD;
+             chemoradiation therapy.&#xD;
+&#xD;
+         18. Patients with known active infection of HIV.&#xD;
+&#xD;
+         19. Patients with bilateral hip prosthetics. Select patients with unilateral hip&#xD;
+             prosthetics are eligible provided that a diagnostic CT scan permits good visualization&#xD;
+             of the entire bladder and adjacent bowel. Patients with poor visualization of the&#xD;
+             bladder/bowel on diagnostic CT scan prior to simulation should not be enrolled.&#xD;
+&#xD;
+         20. Patients with poorly visualized bladder and bowel on diagnostic CT [either due to body&#xD;
+             habitus or artifact (motion, artifact, etc.)] are excluded.&#xD;
+&#xD;
+         21. Patients who in the opinion of the investigator are not able to spend 30 minutes lying&#xD;
+             on the radiation therapy treatment couch due to significant urinary frequency/urgency&#xD;
+             or other co-morbidities.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Brian Baumann, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Steve Kohlmyer, MS</last_name>
+    <phone>12062760076</phone>
+    <email>steve.kohlmyer@varian.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Washington University, St. Louis</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Brian Baumann, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>January 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>March 12, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 12, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 14, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Urinary Bladder Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Transitional Cell</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

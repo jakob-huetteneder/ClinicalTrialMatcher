@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9571">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05695196</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00361302</org_study_id>
+    <nct_id>NCT05695196</nct_id>
+  </id_info>
+  <brief_title>Parent-to-Child Nasal Microbiota Transplant to Promote Colonization Resistance to Staphylococcus Aureus</brief_title>
+  <official_title>Pilot Study of Parent-to-Child Nasal Microbiota Transplant to Promote Colonization Resistance to Staphylococcus Aureus</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Johns Hopkins University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This pilot study looks to determine whether transferring a parents healthy, diverse nasal&#xD;
+      microbiota to the participant's infant(s) will create a healthy, diverse neonatal nasal&#xD;
+      microbiome.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The parent-to-child NMT study is a pilot study to test the feasibility of a parent-to-child&#xD;
+      nasal microbiome transplant. The investigators will test parent-to-neonate nasal microbiome&#xD;
+      transplantation as an intervention to reduce S. aureus acquisition in neonates. Neonates&#xD;
+      admitted to the Johns Hopkins Hospital neonatal intensive care unit will be screened and&#xD;
+      parents will be approached for enrollment in the study. After consent and baseline screening&#xD;
+      of parents and neonates, eligible neonates will undergo a nasal microbiome transplant. This&#xD;
+      pilot study looks to determine whether transferring a parents healthy, diverse nasal&#xD;
+      microbiota to the participant's infant(s) will create a healthy, diverse neonatal nasal&#xD;
+      microbiome.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2023</start_date>
+  <completion_date type="Anticipated">May 1, 2026</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2025</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in nasal microbiome diversity as assessed by linear discriminant analysis</measure>
+    <time_frame>Day 7, 14 days post-intervention</time_frame>
+    <description>We will perform linear discriminant analysis to identify differentially abundant microbial species between the groups. Alpha diversity metrics between NMT and placebo groups will be tested with bidirectional Wilcoxon test to compare alpha diversity metrics between 1) direct NMT and placebo group, 2) indirect NMT and placebo group, 3) direct NMT and indirect NMT groups.</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Staphylococcus Aureus</condition>
+  <condition>Microbial Colonization</condition>
+  <condition>Neonatal Infection</condition>
+  <arm_group>
+    <arm_group_label>direct NMT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>swab parent nares then insert swab directly into neonate nares</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>indirect NMT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>swab parent nares, inoculate swab into saline, instill liquid into neonate nares</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>instill sterile saline into neonate nares</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>nasal microbiota transplant (NMT)</intervention_name>
+    <description>nasal microbiota transplant</description>
+    <arm_group_label>direct NMT</arm_group_label>
+    <arm_group_label>indirect NMT</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo sterile saline</description>
+    <arm_group_label>placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Neonate:&#xD;
+&#xD;
+          1. Neonate has anticipated neonatal intensive care unit length of stay &gt; 7 days,&#xD;
+&#xD;
+          2. Neonate ≥25 weeks gestation,&#xD;
+&#xD;
+          3. At least one parent/adult provider not colonized with S. aureus (as determined by&#xD;
+             baseline screening),&#xD;
+&#xD;
+          4. Neonate is not colonized with S. aureus on baseline screening.&#xD;
+&#xD;
+        Parent/adult provider: 1. Parent/adult provider is able to provide informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Neonate:&#xD;
+&#xD;
+          1. Neonate has had a prior clinical or surveillance culture grow S. aureus&#xD;
+&#xD;
+          2. Neonate is a ward of the State&#xD;
+&#xD;
+          3. Neonate with antenatal suspicion for immunodeficiency (e.g. sibling with known&#xD;
+             immunodeficiency, genetic syndrome with known associated immunodeficiency)&#xD;
+&#xD;
+          4. Neonate cannot have nasal swabs collected (due to anatomic or other clinical&#xD;
+             intervention, including nasal packing)&#xD;
+&#xD;
+        Parent/adult Provider:&#xD;
+&#xD;
+          1. Parent/adult provider had positive Covid-19 test in prior 21 days&#xD;
+&#xD;
+          2. Parent/adult provider with signs or symptoms of a current or recent (last 7 days)&#xD;
+             respiratory illness (e.g. runny nose, congestion, fever, cough),&#xD;
+&#xD;
+          3. Parent/adult provider tests positive on baseline screening test for S. aureus nasal&#xD;
+             colonization,&#xD;
+&#xD;
+          4. Parent/adult provider tests positive on baseline screening test for a respiratory&#xD;
+             virus,&#xD;
+&#xD;
+          5. Parent/adult provider is not able to provide written informed consent,&#xD;
+&#xD;
+          6. Parent/adult provider is not able to be present at the bedside at the time of&#xD;
+             intervention,&#xD;
+&#xD;
+          7. Parent/adult provider has history of chronic sinusitis, cystic fibrosis, or an&#xD;
+             infection with a multi-drug resistant organism.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Aaron Milstone</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Danielle Koontz</last_name>
+    <phone>410-287-0486</phone>
+    <email>dkoontz1@jhmi.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Johns Hopkins University</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Danielle Koontz</last_name>
+      <phone>410-287-0486</phone>
+      <email>dkoontz1@jhmi.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Aaron Milstone</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 12, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 12, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>May 5, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 5, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 8, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>microbiome</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Staphylococcal Infections</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Infections</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

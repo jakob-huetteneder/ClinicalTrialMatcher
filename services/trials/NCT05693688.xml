@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9643">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05693688</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NL80-84800-98-41027</org_study_id>
+    <nct_id>NCT05693688</nct_id>
+  </id_info>
+  <brief_title>Atosiban Versus Placebo in the Treatment of Late Threatened Pre-term Birth</brief_title>
+  <acronym>APOSTEL 8</acronym>
+  <official_title>Atosiban Versus Placebo in the Treatment of Late Threatened Preterm Birth</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>ZonMw: The Netherlands Organisation for Health Research and Development</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Nottingham University Hospitals NHS Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Amphia Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>ST. Antonius hospital Nieuwegein</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Deventer Ziekenhuis</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Erasmus Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Flevoziekenhuis</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Franciscus Gasthuis</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Gelre Hospitals</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Groene Hart Ziekenhuis</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Isala</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Leiden University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Martini Hospital Groningen</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Maxima Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Medical Centre Leeuwarden</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Haaglanden Medical Centre</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Maastricht University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Medisch Spectrum Twente</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>OLVG</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Radboud University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Rijnstate Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Spaarne Gasthuis</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tergooi Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University Medical Center Groningen</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>UMC Utrecht</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Diakonessenhuis, Utrecht</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ziekenhuisgroep Twente</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Zuyderland Medical Centre</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Maternity Hospital, Ireland</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to investigate if tocolysis with atosiban in late preterm birth (30&#xD;
+      to 34 weeks) is (cost-) effective compared with placebo in improving neonatal morbidity and&#xD;
+      mortality.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Research question Does tocolysis with atosiban reduce neonatal mortality and mortality in&#xD;
+      women with threatened preterm birth between 30 and 34 weeks when compared to placebo?&#xD;
+&#xD;
+      Study design Multicenter, double blinded, placebo controlled RCT&#xD;
+&#xD;
+      Study population Women with threatened preterm birth between 30 and 34 weeks of gestation are&#xD;
+      eligible for the trial. More than 20 hospitals (including all 10 perinatal centres) in the&#xD;
+      Netherlands will participate in this trial, as well as 15 hospitals in the UK and 1 in&#xD;
+      Dublin, Ireland.&#xD;
+&#xD;
+      Threatened preterm birth is defined as listed below in the inclusion criteria. Our previous&#xD;
+      APOSTEL III study showed that half of the women with these criteria deliver within seven&#xD;
+      days, validating this definition of women at high risk for preterm birth.&#xD;
+&#xD;
+      Inclusion criteria&#xD;
+&#xD;
+        -  Women ≥ 18 years old&#xD;
+&#xD;
+        -  Singleton or twin pregnancy&#xD;
+&#xD;
+        -  Gestational age between 30 0/7 and 33 6/7 weeks&#xD;
+&#xD;
+        -  Threatened preterm birth defined by regular uterine contractions, AND one of the&#xD;
+           following:&#xD;
+&#xD;
+             -  Cervical length of &lt; 15 mm OR&#xD;
+&#xD;
+             -  Cervical length of 15-30 mm and a positive Fibronectine test (≥ 50 ng/mL) OR&#xD;
+&#xD;
+             -  In case of absence of cervical length measurement in local protocol a positive&#xD;
+                Fibronectin test or Partus test OR&#xD;
+&#xD;
+             -  Ruptured amniotic membranes&#xD;
+&#xD;
+      Exclusion criteria&#xD;
+&#xD;
+        -  Previous treatment for threatened preterm birth with corticosteroids.&#xD;
+&#xD;
+        -  Contra-indication for tocolysis&#xD;
+&#xD;
+        -  Signs of fetal distress&#xD;
+&#xD;
+        -  Signs of intra uterine infection&#xD;
+&#xD;
+      Participants RCT: 760 (380 per group)&#xD;
+&#xD;
+      Description of intervention(s) Tocolysis with atosiban versus placebo.&#xD;
+&#xD;
+      Outcome measures The primary outcome is a combined perinatal outcome of severe neonatal&#xD;
+      morbidity and perinatal mortality Secondary outcomes will be birth within 48 hours, time to&#xD;
+      delivery, gestational age at delivery, birth weight, number of days on invasive mechanical&#xD;
+      ventilation, length of admission in NICU, convulsions, asphyxia, meningitis, pneumothorax and&#xD;
+      mortality until 3 months corrected age, maternal infection, maternal side effects and costs.&#xD;
+&#xD;
+      All outcomes are in the electronic patient file. No additional tests are required for mother&#xD;
+      or baby.&#xD;
+&#xD;
+      Power / data analysis Based on the APOSTEL 3 data, the proportion of adverse perinatal&#xD;
+      outcome in women randomized between 30 and 34 weeks gestation and treated with atosiban was&#xD;
+      6%. Based on two recent studies, we expect a 49,8% reduction of 11,95% adverse perinatal&#xD;
+      outcome in the placebo group to 6% in the atosiban group. Therefore we need to randomize 722&#xD;
+      women (beta-error 0.2; alpha error 0.05). Assuming a 5% drop-out rate, we need to randomize&#xD;
+      760 women (380 in each arm).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 1, 2017</start_date>
+  <completion_date type="Anticipated">July 2024</completion_date>
+  <primary_completion_date type="Anticipated">July 2023</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>International, multicenter, double blinded, placebo controlled RCT</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double blinded</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Adverse neonatal outcome</measure>
+    <time_frame>Up to 3 months corrected age</time_frame>
+    <description>Combination perinatal mortality and severe neonatal morbidity (BPD, NEC, ROP, IVH, PVL, sepsis,</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Birth within 48 hours</measure>
+    <time_frame>48 hours</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to delivery</measure>
+    <time_frame>Not applicible</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gestational age at delivery</measure>
+    <time_frame>At birth</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Birth weight</measure>
+    <time_frame>At birth</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mechanical ventilation</measure>
+    <time_frame>Up to 3 months corrected age</time_frame>
+    <description>Number of days on invasive ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>NICU</measure>
+    <time_frame>Up to 3 months corrected age</time_frame>
+    <description>Lengt of admission in NICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Convulsions</measure>
+    <time_frame>Up to 3 months corrected age</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Asphyxia</measure>
+    <time_frame>Up to 3 months corrected age</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Meningitis</measure>
+    <time_frame>Up to 3 months corrected age</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pneumothorax</measure>
+    <time_frame>Up to 3 months corrected age</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maternal infection</measure>
+    <time_frame>Up to 3 months corrected age</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maternal side effects</measure>
+    <time_frame>Up to 3 months corrected age</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Costs</measure>
+    <time_frame>Up to 3 months corrected age</time_frame>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">760</enrollment>
+  <condition>Preterm Birth</condition>
+  <arm_group>
+    <arm_group_label>atosiban</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Atosiban: bolus injection of 6.75 mg/0.9 ml atosiban in one minute followed by a continuous infusion of 18 mg/hour (=24ml/hour) for 3 hours followed by a continuous infusion of 6 mg/hour (=8 ml/hour) for the remaining 45 hours.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo: injection of 0.9 ml saline in one minute followed by a saline infusion for 3 hours (24 ml/hour) followed by a continuous infusion (8 ml/hour) for the remaining 45 hours.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Atosiban</intervention_name>
+    <description>atosiban i.v. administred for 48 hours. The medication will be administered by a bolus injection of 6.75 mg/0.9 mL in 1 min followed by a continuous infusion of 18 mg/hour for 3 hours followed by a continuous infusion of 6 mg/hour for the remaining 45 hours.</description>
+    <arm_group_label>atosiban</arm_group_label>
+    <arm_group_label>placebo</arm_group_label>
+    <other_name>Tractocile</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Women ≥ 18 years&#xD;
+&#xD;
+          -  Singleton or twin pregnancy&#xD;
+&#xD;
+          -  Gestational age between 30 0/7 and 33 6/7 weeks&#xD;
+&#xD;
+          -  Threatened preterm birth defined by regular uterine contractions, AND one of the&#xD;
+             following:&#xD;
+&#xD;
+               -  Cervical length of &lt; 15 mm OR&#xD;
+&#xD;
+               -  Cervical length of 15-30 mm and a positive Fibronectine test (≥ 50 ng/mL) OR&#xD;
+&#xD;
+               -  In case of absence of cervical length measurement in local protocol a positive&#xD;
+                  Fibronectin test or Partus test OR&#xD;
+&#xD;
+               -  Ruptured amniotic membranes&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previous treatment for threatened preterm birth with corticosteroids in current&#xD;
+             pregnancy&#xD;
+&#xD;
+          -  Contra indication for tocolysis&#xD;
+&#xD;
+          -  Signs of fetal distress&#xD;
+&#xD;
+          -  Signs of intra uterine infection&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Larissa van der Windt, MD</last_name>
+    <phone>+31 6 42939524</phone>
+    <email>apostel8@amsterdamumc.nl</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Amsterdam University Medical Centres, location AMC</name>
+      <address>
+        <city>Amsterdam</city>
+        <state>Noord-Holland</state>
+        <zip>1105 AZ</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Larissa van der Windt, MD</last_name>
+      <phone>31 6 42939524</phone>
+      <email>apostel8@amsterdamumc.nl</email>
+    </contact>
+    <contact_backup>
+      <last_name>Martijn A Oudijk, MD, PhD, Prof</last_name>
+      <email>m.a.oudijk@amsterdamumc.nl</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Martijn A Oudijk, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Carolien Dijkstra-Roos, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <link>
+    <url>https://zorgevaluatienederland.nl/evaluations/apostel8</url>
+    <description>Related Info</description>
+  </link>
+  <reference>
+    <citation>Klumper J, Breebaart W, Roos C, Naaktgeboren CA, van der Post J, Bosmans J, van Kaam A, Schuit E, Mol BW, Baalman J, McAuliffe F, Thornton J, Kok M, Oudijk MA. Study protocol for a randomised trial for atosiban versus placebo in threatened preterm birth: the APOSTEL 8 study. BMJ Open. 2019 Nov 26;9(11):e029101. doi: 10.1136/bmjopen-2019-029101. Erratum In: BMJ Open. 2022 Oct 21;12(10):e029101corr1.</citation>
+    <PMID>31772083</PMID>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 12, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 12, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>January 31, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 31, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 1, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)</investigator_affiliation>
+    <investigator_full_name>M.A. Oudijk</investigator_full_name>
+    <investigator_title>Prof. Dr.</investigator_title>
+  </responsible_party>
+  <keyword>preterm birth</keyword>
+  <keyword>threatened preterm birth</keyword>
+  <keyword>preterm labour</keyword>
+  <keyword>atosiban</keyword>
+  <keyword>adverse neonatal outcome</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Premature Birth</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Atosiban</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

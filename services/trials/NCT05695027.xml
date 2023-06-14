@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9582">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05695027</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AAAU0211</org_study_id>
+    <nct_id>NCT05695027</nct_id>
+  </id_info>
+  <brief_title>Nicotinamide and Pyruvate for Open Angle Glaucoma: A Randomized Clinical Study</brief_title>
+  <official_title>Nicotinamide and Pyruvate for Open Angle Glaucoma: A Randomized Clinical Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Columbia University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Columbia University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this study is to determine if a combination of oral nicotinamide and&#xD;
+      pyruvate (N&amp;P) can maintain eye health as compared to placebo while standard-of-care&#xD;
+      intraocular pressure-lowering glaucoma medications are used to treat glaucoma.&#xD;
+&#xD;
+      A total of up to 188 participants will be enrolled and randomized 1:1 to receive N&amp;P or&#xD;
+      placebo for 87 weeks (20 months). Participants will be followed for a total of 91 weeks (21&#xD;
+      months).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Glaucoma is the leading cause of irreversible blindness worldwide. The most important test to&#xD;
+      detect progression is visual field testing or standard automated perimetry (SAP). The natural&#xD;
+      course of glaucoma includes a decline in visual function that matches optic nerve structural&#xD;
+      changes over time.&#xD;
+&#xD;
+      Both in clinical practice and in clinical trials, individuals undergo visual field testing at&#xD;
+      regular intervals in order to define whether progressive changes have occurred as well as the&#xD;
+      rapidity of change. Visual field results are highly variable within and between sessions,&#xD;
+      partly due to its subjective nature, which ultimately depends upon the test reliability,&#xD;
+      individuals' level of experience with the test, variability due to disease severity, and,&#xD;
+      importantly, the level of individual attentiveness during the test. Therefore, numerous&#xD;
+      attempts have been made to try to optimize individuals' performance during the test. Some of&#xD;
+      the approaches reported to date are listening to classical music mitigating background noise&#xD;
+      and use of nutritional supplements.&#xD;
+&#xD;
+      Recent studies have suggested that over-the-counter medications such as nicotinamide (vitamin&#xD;
+      B3) and pyruvate can also improve the performance during this test. The investigators are&#xD;
+      doing this research study to find out if taking nutritional supplements (vitamin B3 and&#xD;
+      pyruvate) available over- the-counter can help slow the rate of glaucomatous visual field&#xD;
+      progression compared to placebo.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 14, 2023</start_date>
+  <completion_date type="Anticipated">January 2028</completion_date>
+  <primary_completion_date type="Anticipated">January 2025</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>1:1 Randomization</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>Labels on supplements are A and B only.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in central (10-2) visual field results based on pointwise and global metrics</measure>
+    <time_frame>87 weeks</time_frame>
+    <description>The primary outcome in this study are changes in central (10-2) visual field results based on pointwise and global metrics between intervention and placebo groups.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in retinal nerve fiber and ganglion cell layer thickness</measure>
+    <time_frame>87 weeks</time_frame>
+    <description>The primary outcome in this study are changes in retinal nerve fiber and ganglion cell layer thickness as assessed by optical coherence tomography testing between intervention and placebo groups.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">188</enrollment>
+  <condition>Primary Open Angle Glaucoma</condition>
+  <arm_group>
+    <arm_group_label>Nicotinamide and Pyruvate</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The N&amp;P group will receive nicotinamide and pyruvate for 87 weeks (20 months).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>The placebo group will receive placebo for 87 weeks (20 months).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dietary supplements - Nicotinamide and Pyruvate</intervention_name>
+    <description>Nutritional supplements</description>
+    <arm_group_label>Nicotinamide and Pyruvate</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+          1. Willing and able to provide informed consent for participation in the study.&#xD;
+&#xD;
+          2. Between 40 and 85 years of age.&#xD;
+&#xD;
+          3. Only one eligible eye per patient will be enrolled. If both eyes qualify, study eye&#xD;
+             will be elected based on the following characteristics (in order of most to least&#xD;
+             important): 1) disc hemorrhage, 2) higher intraocular pressure (IOP), 3) without&#xD;
+             previous filtering surgery, 4) better visual acuity. If both eyes meet these four&#xD;
+             criteria equally, then the study eye will be determined by random assignment.&#xD;
+&#xD;
+          4. Have a confirmed diagnosis of primary open-angle glaucoma, pseudoexfoliative glaucoma,&#xD;
+             or pigmentary glaucoma.&#xD;
+&#xD;
+          5. If there is a prior reliable 10-2, the MD should be better than -15dB.&#xD;
+&#xD;
+          6. Able to perform reliable visual field testing with 24-2 Swedish Interactive Threshold&#xD;
+             Algorithm (SITA)-Standard SAP (defined as false positive rates &lt;15%, false negative&#xD;
+             rates &lt;30%) at the most recent office visit.&#xD;
+&#xD;
+          7. Have a best corrected visual acuity better than or equal to 20/40 in the study eye.&#xD;
+&#xD;
+          8. Have an IOP (treated or untreated) ≥ 14 mmHg and within 24 months of the baseline&#xD;
+             visit and one instance of historical IOP ≥ 16 mmHg by patient report or chart.&#xD;
+&#xD;
+          9. Willing to discontinue taking any vitamin/mineral or herbal supplement for the&#xD;
+             duration of the study.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          1. Glaucoma or cataract surgery anticipated in the next 18 months.&#xD;
+&#xD;
+          2. Have a diagnosis of significant cataract or media opacity affecting the visual field&#xD;
+             test or imaging studies.&#xD;
+&#xD;
+          3. Have a diagnosis of dementia, Alzheimer's, or other neurological disease.&#xD;
+&#xD;
+          4. Have an inability to take or intolerance to nicotinamide and/or pyruvate.&#xD;
+&#xD;
+          5. Have undergone incisional glaucoma surgery (trabeculectomy, glaucoma drainage implant,&#xD;
+             or Xen Gel Stent) within the last 12 months. Phacoemulsification ± canalicular&#xD;
+             micro-invasive glaucoma surgery (MIGS) is acceptable if performed ≥ 4 months prior to&#xD;
+             study entry.&#xD;
+&#xD;
+          6. Prior complicated cataract surgery (e.g., vitrectomy, etc)&#xD;
+&#xD;
+          7. Have a functioning trabeculectomy, glaucoma drainage implant, or Xen Gel Stent&#xD;
+             (defined as being on 0-1 glaucoma medications). If these surgeries have failed and the&#xD;
+             patient is on ≥ 2 classes of glaucoma medication and meets all other entry criteria,&#xD;
+             he/she is eligible).&#xD;
+&#xD;
+          8. Retinal pathology that significantly affects visual acuity (worse than 20/40) or&#xD;
+             visual field.&#xD;
+&#xD;
+          9. Refractive disorders and disorders other than glaucoma known to affect the visual&#xD;
+             field (VF) and macular optical coherence tomography (OCT) imaging (e.g., epiretinal&#xD;
+             membrane, cystoid macular edema, pathologic myopia, cylinder &gt; 3 diopters, prior&#xD;
+             history of pars plana vitrectomy with internal limiting membrane peel).&#xD;
+&#xD;
+         10. IOP at screening or baseline visit ≥ 25 mmHg.&#xD;
+&#xD;
+         11. Have a known history of liver disease.&#xD;
+&#xD;
+         12. Are pregnant or are planning to become pregnant.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Aakriti G. Shukla, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Columbia University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Aakriti G. Shukla, MD</last_name>
+    <phone>212-342-4586</phone>
+    <email>ag2965@cumc.columbia.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lisa A. Hark, PhD, MBA</last_name>
+    <phone>212-342-4586</phone>
+    <email>lah112@cumc.columbia.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>ColumbiaDoctors Ophthalmology - 880 Third Avenue</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10022</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aakriti Shukla, MD</last_name>
+      <phone>212-342-4586</phone>
+      <email>ag2965@cumc.columbia.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University Irving Medical Center - 635 W 165th St</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aakriti G. Shukla, MD</last_name>
+      <phone>212-342-4586</phone>
+      <email>ag2965@cumc.columbia.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Liebmann JM, Cioffi GA. Nicking Glaucoma with Nicotinamide? N Engl J Med. 2017 May 25;376(21):2079-2081. doi: 10.1056/NEJMcibr1702486. No abstract available.</citation>
+    <PMID>28538117</PMID>
+  </reference>
+  <reference>
+    <citation>De Moraes CG, John SWM, Williams PA, Blumberg DM, Cioffi GA, Liebmann JM. Nicotinamide and Pyruvate for Neuroenhancement in Open-Angle Glaucoma: A Phase 2 Randomized Clinical Trial. JAMA Ophthalmol. 2022 Jan 1;140(1):11-18. doi: 10.1001/jamaophthalmol.2021.4576.</citation>
+    <PMID>34792559</PMID>
+  </reference>
+  <reference>
+    <citation>Williams PA, Harder JM, Foxworth NE, Cardozo BH, Cochran KE, John SWM. Nicotinamide and WLDS Act Together to Prevent Neurodegeneration in Glaucoma. Front Neurosci. 2017 Apr 25;11:232. doi: 10.3389/fnins.2017.00232. eCollection 2017.</citation>
+    <PMID>28487632</PMID>
+  </reference>
+  <reference>
+    <citation>Williams PA, Harder JM, Foxworth NE, Cochran KE, Philip VM, Porciatti V, Smithies O, John SW. Vitamin B3 modulates mitochondrial vulnerability and prevents glaucoma in aged mice. Science. 2017 Feb 17;355(6326):756-760. doi: 10.1126/science.aal0092.</citation>
+    <PMID>28209901</PMID>
+  </reference>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>November 22, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>March 15, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 15, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 17, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Columbia University</investigator_affiliation>
+    <investigator_full_name>Aakriti G. Shukla</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>nutritional supplement</keyword>
+  <keyword>nicotinamide</keyword>
+  <keyword>pyruvate</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glaucoma</mesh_term>
+    <mesh_term>Glaucoma, Open-Angle</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Niacinamide</mesh_term>
+    <mesh_term>Niacin</mesh_term>
+    <mesh_term>Nicotinic Acids</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

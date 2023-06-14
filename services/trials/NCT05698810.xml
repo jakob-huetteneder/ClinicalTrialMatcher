@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9390">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05698810</url>
+  </required_header>
+  <id_info>
+    <org_study_id>38RC22.0130</org_study_id>
+    <nct_id>NCT05698810</nct_id>
+  </id_info>
+  <brief_title>Preparation and Feasibility of Exams for Expected Studies</brief_title>
+  <acronym>PRELUDE</acronym>
+  <official_title>Preparation and Feasibility of Exams for Expected Studies (PRELUDE)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Grenoble</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Commissariat A L'energie Atomique</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Grenoble</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Feasibility study: the examinations carried out as part of this protocol aim to carry out all&#xD;
+      the acquisitions and simulations of use, necessary for the development of the clinical&#xD;
+      research protocols to come to Clinatec (in particular, configuration of the equipment,&#xD;
+      dimension of the examination time and the size of the cohorts etc ...)&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To ensure the feasibility of a clinical trial, it is necessary to test the parameters as well&#xD;
+      as the sequence of the different examination times offered to participants.&#xD;
+&#xD;
+      The expected results of this protocol are mainly the dimension of experimental paradigms and&#xD;
+      the optimization of the clinical management of subjects.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 20, 2023</start_date>
+  <completion_date type="Anticipated">March 20, 2033</completion_date>
+  <primary_completion_date type="Anticipated">March 20, 2033</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>volunteers</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>MEG physiological parameters measurements that will be used in future clinical research protocols</measure>
+    <time_frame>through study completion, an average of 10 years</time_frame>
+    <description>Adequacy of MEG physiological parameters measurements to the needs of the protocol and duration of the paradigm consistent with the cooperation of the subject</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI physiological parameters measurements that will be used in future clinical research</measure>
+    <time_frame>through study completion, an average of 10 years</time_frame>
+    <description>Adequacy of MRI physiological parameters measurements to the needs of the protocol and duration of the paradigm consistent with the cooperation of the subject</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>EEG physiological parameters measurements that will be used in future clinical research</measure>
+    <time_frame>through study completion, an average of 10 years</time_frame>
+    <description>Adequacy of EEG physiological parameters measurements to the needs of the protocol and duration of the paradigm consistent with the cooperation of the subject</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>ECG physiological parameters measurements that will be used in future clinical research</measure>
+    <time_frame>through study completion, an average of 10 years</time_frame>
+    <description>Adequacy of ECG physiological parameters measurements to the needs of the protocol and duration of the paradigm consistent with the cooperation of the subject</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>MEG physiological parameters data collection paradigms</measure>
+    <time_frame>through study completion, an average of 10 years</time_frame>
+    <description>Achieving MEG physiological parameters data collection paradigms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MRI physiological parameters data collection paradigms</measure>
+    <time_frame>through study completion, an average of 10 years</time_frame>
+    <description>Achieving MRI physiological parameters data collection paradigms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EEG physiological parameters data collection paradigms</measure>
+    <time_frame>through study completion, an average of 10 years</time_frame>
+    <description>Achieving EEG physiological parameters data collection paradigms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ECG physiological parameters data collection paradigms</measure>
+    <time_frame>through study completion, an average of 10 years</time_frame>
+    <description>Achieving ECG physiological parameters data collection paradigms</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Healthy Volunteers</condition>
+  <condition>Parkinson's Disease Patients</condition>
+  <condition>Para/Tetraplegic Patients</condition>
+  <arm_group>
+    <arm_group_label>Healthy Volunteers</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>tests</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Parkinson's Disease patients</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>tests</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Para/tetraplegic Patients</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>tests</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>CE marked Medical Device MagnetoEncephaloGraphy (MEG) usability</intervention_name>
+    <description>tests</description>
+    <arm_group_label>Healthy Volunteers</arm_group_label>
+    <arm_group_label>Para/tetraplegic Patients</arm_group_label>
+    <arm_group_label>Parkinson's Disease patients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>CE marked Medical Device Magnetic Resonance Imaging (MRI) usability</intervention_name>
+    <description>tests</description>
+    <arm_group_label>Healthy Volunteers</arm_group_label>
+    <arm_group_label>Para/tetraplegic Patients</arm_group_label>
+    <arm_group_label>Parkinson's Disease patients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>CE marked Medical Device ElectroEncephaloGraphy (EEG) usability</intervention_name>
+    <description>tests</description>
+    <arm_group_label>Healthy Volunteers</arm_group_label>
+    <arm_group_label>Para/tetraplegic Patients</arm_group_label>
+    <arm_group_label>Parkinson's Disease patients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>CE marked Medical Device ElectroCardioGraphy (ECG) usability</intervention_name>
+    <description>tests</description>
+    <arm_group_label>Healthy Volunteers</arm_group_label>
+    <arm_group_label>Para/tetraplegic Patients</arm_group_label>
+    <arm_group_label>Parkinson's Disease patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ⩾ 18 years&#xD;
+&#xD;
+          -  Affiliated to a social security scheme&#xD;
+&#xD;
+          -  Free and informed consent signed&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subject in a period of exclusion from another study.&#xD;
+&#xD;
+          -  Subject deprived of liberty by a judicial or administrative decision, or major subject&#xD;
+             subject to a legal protection measure (guardianship, curatorship and safeguarding of&#xD;
+             justice) referred to in Articles 1121-6 to 1121-8 of the Public Health Code.&#xD;
+&#xD;
+          -  Subject who would receive more than 4500 euros in compensation because of his&#xD;
+             participation in other research involving the human person in the 12 months preceding&#xD;
+             this study.&#xD;
+&#xD;
+          -  Pregnant woman, parturient, nursing mother (Article 1121-5 of the Public Health Code)&#xD;
+&#xD;
+          -  Subject not reachable urgently.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Clinatec Cea/Chuga</name>
+      <address>
+        <city>Grenoble</city>
+        <zip>38000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stéphan CHABARDES, MD, PhD</last_name>
+      <phone>+33476767559</phone>
+      <email>SChabardes@chu-grenoble.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Caroline SANDRE-BALLESTER, PhD</last_name>
+      <phone>0438782851</phone>
+      <email>csandreballester@chu-grenoble.fr</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>December 13, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 16, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>May 9, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 9, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 10, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Parkinson Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

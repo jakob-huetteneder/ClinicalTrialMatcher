@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9714">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05691842</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1686728</org_study_id>
+    <nct_id>NCT05691842</nct_id>
+  </id_info>
+  <brief_title>Effectiveness of a High-intensity Interval Exercise Program in People With Alzheimer's</brief_title>
+  <official_title>Efficacy of a High-Intensity Interval Exercise Program Versus a Dual-Task Training Program in People With Alzheimer's: A Randomized Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Valencia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Valencia</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Alzheimer's disease (AD) is a the most common type of dementia. It is a progressive disease&#xD;
+      that affects different areas of human behavior at the cognitive, social, physical and&#xD;
+      metabolic levels. The benefits of a High-Intensity Interval Exercise Program (HIIT) has been&#xD;
+      proven not only in healthy older adults, but also in different pathologies, such as&#xD;
+      cerebrovascular and cardiometabolic diseases. However, there are no studies to date that&#xD;
+      examine the impact of HIIT in people with AD. The aim of this study was to ascertain the&#xD;
+      effectiveness of a HIIT program versus a cognitive and motor dual task balance program on&#xD;
+      parameters related to functional capacity and cognitive function in people with AD.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Alzheimer's disease (AD) is a the most common type of dementia. It is a progressive disease&#xD;
+      that affects different areas of human behavior at the cognitive, social, physical and&#xD;
+      metabolic levels.&#xD;
+&#xD;
+      The benefits of interventions such as dual-task training (TD) have been the focus of studies&#xD;
+      in recent years in AD. Current evidence shows that DT training leads to improvements in&#xD;
+      parameters related to frontal cognitive function, such as: planning, organization, strategy&#xD;
+      creation, abstraction, motor sequencing, working memory, thinking flexibility, visual search,&#xD;
+      sequencing, sustained attention and working memory. DT training has been also shown to&#xD;
+      improve variables related to gait ability and balance, such as step length and gait speed,&#xD;
+      postural control and specific functional tasks under challenging conditions of double task.&#xD;
+      However, AD is also associated with reduced cardiovascular fitness and decreased muscle&#xD;
+      strength, thus leading to a loss of independence in activities of daily living and poor&#xD;
+      quality of life.&#xD;
+&#xD;
+      A promising intervention to address these issues is high-intensity interval exercise (HIIT),&#xD;
+      defined as brief intermittent bursts of vigorous activity interspersed with periods of rest&#xD;
+      or low-intensity exercise. Indeed, it has been reported that HIIT generates greater benefits&#xD;
+      in cardiorespiratory capacity and greater metabolic adaptations than continuous exercise of&#xD;
+      moderate intensity in healthy older adults. HIIT interventions have resulted in benefits on&#xD;
+      variables related to functional capacity, such as improved gait speed, increased muscle mass&#xD;
+      and strength. Furthermore, HIIT has been shown to improve variables related to cognitive&#xD;
+      function, such as attention, perception and memory abilities.&#xD;
+&#xD;
+      However, there are no studies to date that examine the impact of HIIT in people with AD. The&#xD;
+      aim of this study was to ascertain the effectiveness of a HIIT program versus a cognitive and&#xD;
+      motor dual task balance program on parameters related to functional capacity and cognitive&#xD;
+      function in people with AD.&#xD;
+&#xD;
+      Therefore, a randomized clinical trial will be carried out, in which three groups of twenty&#xD;
+      people in each group will participate, with different interventions:&#xD;
+&#xD;
+        -  Experimental group 1: HIIT (HIIT)&#xD;
+&#xD;
+        -  Experimental group 2: Dual task training (DT)&#xD;
+&#xD;
+        -  Control group: No intervention (CG) Participants will be evaluated in three moments, at&#xD;
+           baseline (T1), post-intervention (T2) and at 2 month-follow-up (T3).&#xD;
+&#xD;
+      Data analysis will be performed with SPSS statistic program (v26). Normality and&#xD;
+      homoscedasticity will be analyzed by Shapiro-Wilk t-test and Levene test, respectively. For&#xD;
+      comparation between groups Bonferroni will be used. If any confusion factor that not meet&#xD;
+      requirements to be analysed like a covariable exist, ANCOVA will be used. When p&lt;0.0.5&#xD;
+      statistical significant differences will be assumed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 20, 2022</start_date>
+  <completion_date type="Anticipated">January 2026</completion_date>
+  <primary_completion_date type="Anticipated">November 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline cardiorespiratory fitness</measure>
+    <time_frame>At baseline, immediately after the intervention and at 2 month-follow-up</time_frame>
+    <description>6 minutes walking test&quot; (6MWT): distance (m)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline balance ability</measure>
+    <time_frame>At baseline, post-intervention and at 2 month-follow-up</time_frame>
+    <description>Star Excursion Balance Test: maximal distance in all directions (cm), 3 times</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline lower limb isometric strength</measure>
+    <time_frame>At baseline, immediately after the intervention and at 2 month-follow-up</time_frame>
+    <description>Lafyette dynamometer: quadriceps, hamstrings, gastrocnemius,tibialis anterior</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline lower limb power</measure>
+    <time_frame>At baseline, immediately after the intervention and at 2 month-follow-up</time_frame>
+    <description>30 Second Sit to Stand Test: number of times the patient comes to a full standing position in 30 seconds</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline Risk of Falling</measure>
+    <time_frame>At baseline, immediately after the intervention and at 2 month-follow-up</time_frame>
+    <description>Timed up and go: time (in seconds) that a person takes to rise from a chair, walk three meters, turn around 180 degrees, walk back to the chair, and sit down while turning 180 degrees. An older adult who takes ≥12 seconds to complete the TUG is at risk for falling</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fall frequency</measure>
+    <time_frame>Daily for 12 weeks (the length of the intervention)</time_frame>
+    <description>Fall diary. The individual is asked to write down how many times he/she falls during a period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline Fear of falling</measure>
+    <time_frame>At baseline, immediately after the intervention and at 2 month-follow-up</time_frame>
+    <description>Falls Eficacy Scale International. It is a 16 item questionnaire, useful to the researchers and clinicians interested in fear of falling, with a score ranging from minimum 16 (no concern about falling) to maximum 64 (severe concern about falling)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline Cognitive status</measure>
+    <time_frame>At baseline, immediately after the intervention and at 2 month-follow-up</time_frame>
+    <description>Mini-Mental State Examination: The Mini-mental state examination is scored on a scale of 0-30 with scores &gt; 24 interpreted as normal cognitive status.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline Executive function status</measure>
+    <time_frame>At baseline, immediately after the intervention and at 2 month-follow-up</time_frame>
+    <description>Stroop test: Three scores, as well as an interference score, are generated using the number of items completed on each page, with higher scores reflecting better performance and less interference on reading ability.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline depression levels</measure>
+    <time_frame>At baseline, immediately after the intervention and at 2 month-follow-up</time_frame>
+    <description>Geriatric Depression Scale (15-item scale): This scale is scored form 0 to 15. A score higher than 5 points suggests depression.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">66</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>HIIT intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in this group (n=22) will undergo a HIIT training protocol for 12 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dual task intervention (DT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in this group (n=22) will undergo a DT training protocol for 12 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group (CG)</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients in this group (n=22) will not perform any exercise during the intervention period (12 weeks)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>HIIT intervention</intervention_name>
+    <description>Patients will perform a muscle strength training circuit interspersed with resistance training circuit. The strength training circuit will consist of 10 strength exercises and resistance training circuit will consist of walking, jogging and running exercises. Each exercise will be performed for one minute, trying to reach maximum intensities adapted to each individual's condition.</description>
+    <arm_group_label>HIIT intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Dual task intervention</intervention_name>
+    <description>Dual task training will consist of the progressive and specific assignment of primary motor tasks and secondary motor or cognitive tasks focused on: i) Primary tasks: static, dynamic balance and gait exercises; ii) Secondary tasks (motor or cognitive): verbal fluency, mathematical calculation, memory, visual-spatial planning, auditory discrimination, fine motor task, motor transport task.</description>
+    <arm_group_label>Dual task intervention (DT)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Aged between 60 -90 years&#xD;
+&#xD;
+          -  Diagnosed with mild or moderate AD according to the Clinical Dementia Rating (CDR1).&#xD;
+&#xD;
+          -  Ability to follow the instructions of the training program.&#xD;
+&#xD;
+          -  Ability to get up from a chair alone.&#xD;
+&#xD;
+          -  Independent ambulation.&#xD;
+&#xD;
+          -  Providing signed informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Dementia or severe cognitive impairment that makes it impossible to understand&#xD;
+             instructions.&#xD;
+&#xD;
+          -  Presence of other neurological pathologies such as: stroke, Parkinson's or&#xD;
+             cranioencephalic trauma.&#xD;
+&#xD;
+          -  Severe cardiovascular disorders.&#xD;
+&#xD;
+          -  Severe visual deficits.&#xD;
+&#xD;
+          -  Vertigo&#xD;
+&#xD;
+          -  Other limitations that make it difficult to ambulate.&#xD;
+&#xD;
+          -  Participating in any high intensity exercise program.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marta Inglés, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Valencia</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marta Inglés, PhD</last_name>
+    <phone>(+34) 96 398 38 55</phone>
+    <email>marta.ingles@uv.es</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Faculty of Physiotherapy, University of Valencia</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46022</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marta Inglés, PhD</last_name>
+      <phone>(+34) 96 398 38 55</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 18, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 16, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>January 16, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 16, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9176">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05703685</url>
+  </required_header>
+  <id_info>
+    <org_study_id>10000676</org_study_id>
+    <secondary_id>000676-M</secondary_id>
+    <nct_id>NCT05703685</nct_id>
+  </id_info>
+  <brief_title>[18F]PF-06445974 to Image PDE4B in Major Depressive Disorder Using PET</brief_title>
+  <official_title>[18F]PF-06445974 to Image PDE4B in Major Depressive Disorder Using PET</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background:&#xD;
+&#xD;
+      Major depressive disorder (MDD) is a psychiatric condition. People with MDD have occasional&#xD;
+      bouts of depressive symptoms; these bouts are called major depressive episodes (MDEs).&#xD;
+      Researchers want to know if people having MDEs have lower levels of an enzyme called PDE4B in&#xD;
+      their brains.&#xD;
+&#xD;
+      Objective:&#xD;
+&#xD;
+      To find out (1) if PDE4B can be detected in a person s brain using a special scanning method&#xD;
+      and (2) if brain PDE4B levels are lower in people having an MDE.&#xD;
+&#xD;
+      Eligibility:&#xD;
+&#xD;
+      People aged 18-70 years with MDD. Healthy volunteers are also needed.&#xD;
+&#xD;
+      Design:&#xD;
+&#xD;
+      Participants will have up to 5 clinic visits.&#xD;
+&#xD;
+      Participants will be screened. They will have a physical exam with blood tests. They will&#xD;
+      have a test of their heart function. Some participants may have a psychiatric assessment;&#xD;
+      they will answer questions about their state of mind and related topics.&#xD;
+&#xD;
+      Participants will have magnetic resonance imaging (MRI) of the brain. They will lie on a&#xD;
+      table that slides into a metal cylinder.&#xD;
+&#xD;
+      Participants will have a positron emission tomography (PET) scan. A needle will be used to&#xD;
+      guide a thin plastic tube (catheter) into a vein in one arm. An experimental substance called&#xD;
+      a radioactive tracer ([18F]PF-06445974) will be injected through the catheter. Participants&#xD;
+      will lie on a table that slides into a doughnut-shaped machine. The scan will last up to 4&#xD;
+      hours with a 15-minute break.&#xD;
+&#xD;
+      Participants blood pressure, heart rate, and breathing will be monitored before, during, and&#xD;
+      after the PET scan. A second catheter will be inserted in the artery of the wrist so blood&#xD;
+      can be drawn during the scan.&#xD;
+&#xD;
+      Some participants may return for a second PET scan.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Study Description:&#xD;
+&#xD;
+      This study will examine whether phosphodiesterase 4B (PDE4B) can be accurately quantified in&#xD;
+      the human brain and whether it is reduced in the brain of individuals with major depressive&#xD;
+      disorder (MDD).&#xD;
+&#xD;
+      Objectives:&#xD;
+&#xD;
+      Primary Objective:&#xD;
+&#xD;
+      To determine whether PDE4B is reduced in the brains of individuals with MDD experiencing a&#xD;
+      major depressive episode (MDE).&#xD;
+&#xD;
+      Secondary Objectives:&#xD;
+&#xD;
+      To determine the optimal length of scanning and the retest variability and reliability of&#xD;
+      [18F]PF-06445974, and whether PDE4B binding correlates with clinical rating scales.&#xD;
+&#xD;
+      Endpoints:&#xD;
+&#xD;
+      Primary Endpoint: measurement of PDE4B density (distribution volume VT) in the brains of&#xD;
+      individuals with MDD compared to healthy volunteers&#xD;
+&#xD;
+      Secondary endpoints:&#xD;
+&#xD;
+        1. To determine the optimal length for PDE4B scans with [18F]PF-06445974 PET scans in&#xD;
+           healthy volunteers&#xD;
+&#xD;
+        2. To measure whole-brain VT of PDE4B in a retest setting.&#xD;
+&#xD;
+        3. To assess the relationship between clinical rating scales and PDE4B binding&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">June 14, 2023</start_date>
+  <completion_date type="Anticipated">April 11, 2025</completion_date>
+  <primary_completion_date type="Anticipated">October 3, 2024</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To measure distribution volume</measure>
+    <time_frame>36 months</time_frame>
+    <description>Target quantification</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To determine the optimal length</measure>
+    <time_frame>36 months</time_frame>
+    <description>Target quantification</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To measure whole-brain distribution volume in retest</measure>
+    <time_frame>36 months</time_frame>
+    <description>Target quantification</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>measure clinical rating scales and PDE4B binding</measure>
+    <time_frame>36 months</time_frame>
+    <description>Assess the severity of depression</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">56</enrollment>
+  <condition>Depression</condition>
+  <arm_group>
+    <arm_group_label>one arm</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>All subjects will receive the same tests</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>18F-PF-06445974</intervention_name>
+    <description>Injected IV followed by PET scanning</description>
+    <arm_group_label>one arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA:&#xD;
+&#xD;
+        Patients: In order to be eligible for this study, MDD participants must meet all of the&#xD;
+        following criteria:&#xD;
+&#xD;
+          -  18 to 70 years of age.&#xD;
+&#xD;
+          -  Female participants of childbearing potential must be using a medically acceptable&#xD;
+             means of contraception.&#xD;
+&#xD;
+          -  Be in good general health as evidenced by medical history and physical examination.&#xD;
+             Stable medical conditions as assessed by their primary care provider (PCP) and/or&#xD;
+             in-house clinician are permitted to join the study.&#xD;
+&#xD;
+          -  Each participant must have a level of understanding sufficient to agree to all&#xD;
+             required tests and examinations and sign an informed consent document.&#xD;
+&#xD;
+          -  All participants must have undergone a screening assessment under protocol 01-M-0254,&#xD;
+             The Evaluation of Patients with Mood and Anxiety Disorders and Healthy Participants .&#xD;
+&#xD;
+          -  Participants must fulfill DSM-5 criteria for major depression (MDD) without psychotic&#xD;
+             features, as based on clinical assessment and structured diagnostic interview&#xD;
+             (SCID-P).&#xD;
+&#xD;
+          -  Participants must have an initial score on the MADRS &gt;= 18 or HAM-D &gt;= 15 within one&#xD;
+             week of study entry.&#xD;
+&#xD;
+          -  Participants must be experiencing an MDE lasting at least four weeks.&#xD;
+&#xD;
+          -  All MDD participants must have a PCP or psychiatrist in the community.&#xD;
+&#xD;
+          -  Participants must have their radial artery pulse checked for the presence of adequate&#xD;
+             ulnar collateral flow and the absence of any metal or foreign objects in both wrists.&#xD;
+&#xD;
+          -  Participants must agree to adhere to the lifestyle considerations.&#xD;
+&#xD;
+        Healthy Controls: In order to be eligible to participate in this study, control subjects&#xD;
+        must meet all of the following criteria:&#xD;
+&#xD;
+          -  Aged 18 to 70 years old.&#xD;
+&#xD;
+          -  Female participants of childbearing potential must be using a medically acceptable&#xD;
+             means of contraception.&#xD;
+&#xD;
+          -  Able to provide informed consent.&#xD;
+&#xD;
+          -  Be in good general health, as evidenced by medical history and physical examination,&#xD;
+             and have no cognitive impairment.&#xD;
+&#xD;
+          -  Be enrolled in 01M0254, The Evaluation of Participants with Mood and Anxiety Disorders&#xD;
+             and Healthy Volunteers or 17M0181, Recruitment and Characterization of Healthy&#xD;
+             Research Volunteers for NIMH Intramural Studies .&#xD;
+&#xD;
+          -  Have their radial artery pulse checked for the presence of adequate ulnar collateral&#xD;
+             flow and the absence of any metal or foreign objects in both wrists.&#xD;
+&#xD;
+          -  Agree to adhere to the lifestyle considerations.&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+        Participants with MDD who meet any of the following criteria will be excluded from&#xD;
+        participation in this study:&#xD;
+&#xD;
+          -  Clinically significant abnormalities on EKG or laboratory testing. This includes CBC;&#xD;
+             acute care panel (Na, K, Cl, CO2, creatinine, glucose, urea nitrogen); hepatic panel&#xD;
+             (alkaline phosphatase, ALT, AST, bilirubin total, and bilirubin direct); mineral panel&#xD;
+             (albumin, calcium, magnesium, phosphorus); glucose; prothrombin and partial&#xD;
+             prothrombin tests. Any lab value that is two-times the upper limit or even lower&#xD;
+             values in the investigator s judgment. Creatinine level &gt;1.3 mg/dL.&#xD;
+&#xD;
+          -  Participants must be free of all prohibited medications for at least two weeks (5&#xD;
+             weeks for aripiprazole, brexpiprazole, fluoxetine) prior to screen visit. These&#xD;
+             medications include antidepressants, antipsychotics, anxiolytics, psychotropic drugs&#xD;
+             not otherwise specified&#xD;
+&#xD;
+        (including herbal products), and sedatives/hypnotics.&#xD;
+&#xD;
+          -  Current psychotic features, a diagnosis of schizophrenia or any other psychotic&#xD;
+             disorder as defined in the DSM-5.&#xD;
+&#xD;
+          -  Participants with a history of psychiatric inpatient hospitalization within the past&#xD;
+             year.&#xD;
+&#xD;
+          -  Participants with a history of DSM-5 substance use disorder (except for caffeine or&#xD;
+             nicotine dependence) within the preceding three months. In addition, participants must&#xD;
+             not have substance use disorder or alcohol use disorder. However, alcohol or cannabis&#xD;
+             use by themselves are not exclusion criteria, unless that use impairs function of&#xD;
+             daily life.&#xD;
+&#xD;
+          -  Participants who, in the investigator s judgment, pose a current serious suicidal or&#xD;
+             homicidal risk.&#xD;
+&#xD;
+          -  Participants with suicidal ideation within the past 6 months.&#xD;
+&#xD;
+          -  Participants with suicidal behavior within the past 12 months.&#xD;
+&#xD;
+          -  Participants who have a history of aggressive behavior towards others.&#xD;
+&#xD;
+          -  Participants who have an unstable medical condition that, in the opinion of the&#xD;
+             investigators, makes participation unsafe (e.g., an active infection or untreated&#xD;
+             malignancy).&#xD;
+&#xD;
+          -  HIV infection.&#xD;
+&#xD;
+          -  Pregnancy.&#xD;
+&#xD;
+          -  Are unable to travel to the NIH.&#xD;
+&#xD;
+          -  Have recent exposure to radiation related to research (e.g., PET from other research)&#xD;
+             that, when combined with this study, would be above the allowable limits.&#xD;
+&#xD;
+          -  Have an inability to lie flat and/or lie still on the camera bed for at least two&#xD;
+             hours, including claustrophobia, overweight greater than the maximum for the scanner,&#xD;
+             and uncontrollable behavioral symptoms, which will be screened by an interview with&#xD;
+             the participant during the screening visit.&#xD;
+&#xD;
+          -  Are unable to have an MRI scan (e.g., because of pacemakers or other implanted&#xD;
+             electrical devices, brain stimulators, dental implants, aneurysm clips (metal clips on&#xD;
+             the wall of a large artery), metallic prostheses (including metal pins and rods, heart&#xD;
+             valves, and cochlear implants), permanent eyeliner, implanted delivery pumps, shrapnel&#xD;
+             fragments, or metal fragments in the eye.&#xD;
+&#xD;
+          -  Be NIMH staff or an NIH employee who is a subordinate/relative/co-worker of the&#xD;
+             investigators.&#xD;
+&#xD;
+        Healthy controls who meet any of the following criteria will be excluded from participation&#xD;
+        in this study:&#xD;
+&#xD;
+          -  Clinically significant abnormalities on EKG or laboratory testing. This includes CBC;&#xD;
+             acute care panel (Na, K, Cl, CO2, creatinine, glucose, urea nitrogen); hepatic panel&#xD;
+             (alkaline phosphatase, ALT, AST, bilirubin total, and bilirubin direct); mineral panel&#xD;
+             (albumin, calcium, magnesium, phosphorus); glucose; prothrombin and partial&#xD;
+             prothrombin tests.&#xD;
+&#xD;
+          -  Participants must be free of all prohibited medications or at least two weeks (5 weeks&#xD;
+             for aripiprazole, brexpiprazole, fluoxetine) prior to screen visit. These medications&#xD;
+             include antidepressants, antipsychotics, anxiolytics, psychotropic drugs not otherwise&#xD;
+             specified (including herbal products), and sedatives/hypnotics.&#xD;
+&#xD;
+          -  Participants with a history of DSM-5 substance use disorder (except for caffeine or&#xD;
+             nicotine dependence) within the preceding three months. In addition, participants must&#xD;
+             not have substance use disorder or alcohol use disorder. However, alcohol or cannabis&#xD;
+             use by themselves are not exclusion criteria, unless that use impairs function of&#xD;
+             daily life.&#xD;
+&#xD;
+          -  Participants who have a history of major depressive disorder.&#xD;
+&#xD;
+          -  Participants who have an unstable medical condition that, in the opinion of the&#xD;
+             investigators, makes participation unsafe (e.g., an active infection or untreated&#xD;
+             malignancy).&#xD;
+&#xD;
+          -  HIV infection.&#xD;
+&#xD;
+          -  Pregnancy.&#xD;
+&#xD;
+          -  Are unable to travel to the NIH.&#xD;
+&#xD;
+          -  Have recent exposure to radiation related to research (e.g., PET from other research)&#xD;
+             that, when combined with this study, would be above the allowable limits.&#xD;
+&#xD;
+          -  Have an inability to lie flat and/or lie still on the camera bed for at least two&#xD;
+             hours, including claustrophobia, overweight greater than the maximum for the scanner,&#xD;
+             and uncontrollable behavioral symptoms, which will be screened by an interview with&#xD;
+             the participant during the screening visit.&#xD;
+&#xD;
+          -  Are unable to have an MRI scan (e.g., because of pacemakers or other implanted&#xD;
+             electrical devices, brain stimulators, dental implants, aneurysm clips (metal clips on&#xD;
+             the wall of a large artery), metallic prostheses (including metal pins and rods, heart&#xD;
+             valves, and cochlear implants), permanent eyeliner, implanted delivery pumps, shrapnel&#xD;
+             fragments, or metal fragments in the eye.&#xD;
+&#xD;
+          -  Be NIMH staff or an NIH employee who is a subordinate/relative/co-worker of the&#xD;
+             investigator.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Robert B Innis, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Institute of Mental Health (NIMH)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Maria D Ferraris Araneta, C.R.N.P.</last_name>
+    <phone>(301) 496-9423</phone>
+    <email>ferrarism@mail.nih.gov</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Robert B Innis, M.D.</last_name>
+    <phone>(301) 594-1368</phone>
+    <email>robert.innis@nih.gov</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>For more information at the NIH Clinical Center contact Office of Patient Recruitment (OPR)</last_name>
+      <phone>800-411-1222</phone>
+      <phone_ext>TTY dial 711</phone_ext>
+      <email>ccopr@nih.gov</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://clinicalstudies.info.nih.gov/cgi/detail.cgi?A_000676-M.html</url>
+    <description>NIH Clinical Center Detailed Web Page</description>
+  </link>
+  <verification_date>April 5, 2023</verification_date>
+  <study_first_submitted>January 27, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 27, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>June 8, 2023</last_update_submitted>
+  <last_update_submitted_qc>June 8, 2023</last_update_submitted_qc>
+  <last_update_posted type="Estimate">June 9, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>PET Imaging</keyword>
+  <keyword>Depression</keyword>
+  <keyword>Phosphodiesterase-4</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Depressive Disorder, Major</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>.The results will be submitted to ClinicalTrials.gov</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>18 months after closure of protocol</ipd_time_frame>
+    <ipd_access_criteria>BTRIS</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

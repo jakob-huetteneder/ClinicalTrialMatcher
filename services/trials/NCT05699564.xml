@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9362">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05699564</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2015/1273</org_study_id>
+    <nct_id>NCT05699564</nct_id>
+  </id_info>
+  <brief_title>Akershus Cardiac Examination 4 Study</brief_title>
+  <acronym>ACE4</acronym>
+  <official_title>Akershus Cardiac Examination (ACE) 4 Study: Pragmatic Randomized Controlled Trial of Early Biomarker Measurements and Structured Feedback in Unselected Patients With Tachypnea</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Akershus</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Oslo</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Akershus</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Patients hospitalized with tachypnea, defined as respiratory rate ≥20/ min, have substantial&#xD;
+      mortality and may suffer from different conditions, including acute heart failure (HF).&#xD;
+      Symptoms of HF can be difficult to identify and ~15% of patients with HF will not be&#xD;
+      correctly diagnosed by the treating physician in the Emergency Department. Biomarkers like&#xD;
+      B-type natriuretic peptides and cardiac troponins improve diagnostic accuracy and risk&#xD;
+      stratification. Whether early, structured biomarker assessment and structured feedback in the&#xD;
+      patient's electronic health records improve management and outcomes among unselected patients&#xD;
+      with tachypnea have previously not been explored in a randomized controlled trial.&#xD;
+&#xD;
+      The main research question of the study is to determine whether early structured biomarker&#xD;
+      assessment in unselected patients with tachypnea extends the time to the first event for&#xD;
+      either (1) all-cause readmission or (2) all-cause mortality; i.e. time to the combined&#xD;
+      endpoint, compared to the current strategy/standard care&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 3, 2023</start_date>
+  <completion_date type="Anticipated">December 2038</completion_date>
+  <primary_completion_date type="Anticipated">June 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Composite of all-cause hospital readmission or all-cause mortality</measure>
+    <time_frame>12 months after discharge from index hospitalization</time_frame>
+    <description>Composite of all-cause hospital readmission or all-cause mortality after discharge from index hospitalization</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Hospital length of stay</measure>
+    <time_frame>From admission to discharge of index hospitalization, assessed up to 12 months</time_frame>
+    <description>Hospital length of stay during the index hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay in Intensive Care Unit/Medical Intensive Care Unit/Cardiac Intensive Care Unit</measure>
+    <time_frame>From admission to discharge of index hospitalization, assessed up to 12 months</time_frame>
+    <description>Length of stay in Intensive Care Unit/Medical Intensive Care Unit/Cardiac Intensive Care Unit during the index hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>30-day all-cause readmission</measure>
+    <time_frame>30-days after discharge from index hospitalization</time_frame>
+    <description>30-day all-cause readmission after discharge from index hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to all-cause readmission</measure>
+    <time_frame>12 months after discharge from index hospitalization</time_frame>
+    <description>Time to first all-cause readmission after discharge from index hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of all-cause readmission</measure>
+    <time_frame>12 months after discharge from index hospitalization</time_frame>
+    <description>Number of all-cause readmissions after discharge from index hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>12 months after discharge from index hospitalization</time_frame>
+    <description>Time to all-cause mortality after discharge from index hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total cost of hospitalization</measure>
+    <time_frame>From admission to discharge of index hospitalization, assessed up to 12 months</time_frame>
+    <description>Total cost of hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>From admission to discharge of index hospitalization, assessed up to 12 months</time_frame>
+    <description>All-cause mortality during the index hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference in cardiac biomarker concentrations during index hospitalization</measure>
+    <time_frame>From admission to discharge of index hospitalization, assessed up to 12 months</time_frame>
+    <description>Difference in the cardiac troponin T and/or I and B-type natriuretic peptide and/or N-terminal pro-B-type natriuretic peptide concentrations from hospital admission to discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference in guideline-defined medical therapy for heart failure</measure>
+    <time_frame>From admission to discharge of index hospitalization, assessed up to 12 months</time_frame>
+    <description>Difference in guideline-defined medical therapy for heart failure, as defined by international guidelines, at discharge after index hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cost-utility</measure>
+    <time_frame>From admission to discharge of index hospitalization, assessed up to 12 months</time_frame>
+    <description>Cost-utility for the intervention strategy</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Assessing primary and secondary outcomes with patients stratified by concentrations of NT-proBNP measured at admission</measure>
+    <time_frame>From admission to discharge of index hospitalization, assessed up to 12 months</time_frame>
+    <description>We will assess all the primary and secondary outcomes of the study in patients stratified according to concentrations of NT-proBNP (&lt; 300 ng/L, 300-449ng/L, 450-899ng/L, 900-1799ng/L, &gt;1799ng/L) measured at admission of the index hospitalization</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Assessing primary and secondary outcomes with patients stratified by concentrations of cardiac troponin T measured at admission</measure>
+    <time_frame>From admission to discharge of index hospitalization, assessed up to 12 months</time_frame>
+    <description>We will assess all the primary and secondary outcomes of the study in patients stratified according to concentrations of cardiac troponin T (&lt;10ng/L, 10-89ng/L), &gt;89ng/L) measured at admission of the index hospitalization</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Assessing accuracy for HF2FPEF score assessed during index hospitalization for diagnosing heart failure with preserved ejection fraction</measure>
+    <time_frame>From admission to discharge of index hospitalization, assessed up to 12 months</time_frame>
+    <description>Using c-statistics, we will assess the diagnostic accuracy of the H2FPEF score assessed during index hospitalization to predict heart failure with preserved ejection fraction in the total cohort of study patients</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Assessing accuracy for HFA-PEFF score for diagnosing heart failure with preserved ejection fraction</measure>
+    <time_frame>From admission to discharge of index hospitalization, assessed up to 12 months</time_frame>
+    <description>Using c-statistics, we will assess the diagnostic accuracy of the HFA-PEFF score assessed during index hospitalization to predict heart failure with preserved ejection fraction in the total cohort of study patients</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Assessing accuracy for NT-proBNP measured at hospital admission for diagnosing heart failure with preserved ejection fraction</measure>
+    <time_frame>From admission to discharge of index hospitalization, assessed up to 12 months</time_frame>
+    <description>Using c-statistics, we will assess the diagnostic accuracy of continuous concentrations of NT-proBNP measured at hospital admission to predict heart failure with preserved ejection fraction in the total cohort of study patients</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Assessing accuracy for cardiac troponin T measured at hospital admission for diagnosing heart failure with preserved ejection fraction</measure>
+    <time_frame>From admission to discharge of index hospitalization, assessed up to 12 months</time_frame>
+    <description>Using c-statistics, we will assess the diagnostic accuracy of continuous concentrations of cardiac troponin T measured at hospital admission to predict heart failure with preserved ejection fraction in the total cohort of study patients</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Assessing primary and secondary outcomes in the subgroup of patients classified as hospitalized due to heart failure</measure>
+    <time_frame>From admission to discharge of index hospitalization, assessed up to 12 months</time_frame>
+    <description>We will assess all the primary and secondary outcomes of the study in the subgroup of patients with heart failure as the adjudicated cause of tachypnea.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Assessing primary and secondary outcomes in the subgroups of patients with heart failure with reduced ejection fraction, heart failure with mildly reduced ejection, and heart failure with preserved ejection fraction</measure>
+    <time_frame>From admission to discharge of index hospitalization, assessed up to 12 months</time_frame>
+    <description>We will assess all the primary and secondary outcomes of the study in the subgroups of patients with heart failure with reduced ejection fraction, heart failure with mildly reduced ejection, and heart failure with preserved ejection fraction as the adjudicated cause of tachypnea.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Heart Failure</condition>
+  <condition>Tachypnea</condition>
+  <arm_group>
+    <arm_group_label>Early biomarker-based cardiological assessment and structured feedback in the EHR</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>We will perform cardiac biomarker testing with NT-proBNP and hs-cTnT measurements on emergency department admission in all participants, regardless of randomization status. The results will be provided in the patient's EHR, regardless of randomization status. For patients randomized to the intervention group, we will provide a note in the patient's EHR that includes assessment of probability that myocardial injury or dysfunction are the underlying pathophysiology responsible for tachypnea, as evaluated by the cardiac biomarker algorithm of the study. We will inform on general recommendations for work up and treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Routine standard of care according to the treating physician</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Early biomarker-based cardiological assessment</intervention_name>
+    <description>We will perform cardiac biomarker testing with NT-proBNP and hs-cTnT measurements on emergency department admission in all participants, regardless of randomization status. The results will be provided in the patient's EHR, regardless of randomization status. For patients randomized to the intervention group, we will provide a note in the patient's EHR that includes assessment of probability that myocardial injury or dysfunction are the underlying pathophysiology responsible for tachypnea, as evaluated by the cardiac biomarker algorithm of the study. We will inform on general recommendations for work up and treatment.</description>
+    <arm_group_label>Early biomarker-based cardiological assessment and structured feedback in the EHR</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients ≥18 years old&#xD;
+&#xD;
+          -  Tachypnea (respiratory rate ≥20/min)&#xD;
+&#xD;
+          -  Admission to Departments under the Division of Medicine at Akershus University&#xD;
+             Hospital, except the Department of Neurology&#xD;
+&#xD;
+          -  &lt;24 h from hospital admittance to inclusion in the study&#xD;
+&#xD;
+          -  Signed written informed consent during the initial phase of the hospitalization&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previously included into the study (in case of patients presenting with a second&#xD;
+             hospitalization during the study period)&#xD;
+&#xD;
+          -  Known or suspected cancer outside of local control, documented in medical records, at&#xD;
+             the time of patient inclusion or diagnosed in relation to the index hospitalization&#xD;
+&#xD;
+          -  Neurological condition with short life expectancy; e.g. ALS, documented in medical&#xD;
+             records during screening prior to study entry&#xD;
+&#xD;
+          -  Other non-cardiac disease with life expectancy below 1 year, documented in medical&#xD;
+             records during screening prior to study entry&#xD;
+&#xD;
+          -  Obvious non-cardiac cause for tachypnea based on medical records and clinical findings&#xD;
+             during screening prior to study entry; e.g. anaphylaxis in young patient with known&#xD;
+             allergy, dyspnea after direct chest trauma, or young patient with fever and positive&#xD;
+             Covid-19 test on admission.&#xD;
+&#xD;
+          -  Patient assessed as non-Internal Medicine patient; e.g. surgical patient&#xD;
+&#xD;
+          -  Patients unwilling or unable to comply with the protocol, including Glasgow Coma Scale&#xD;
+             &lt;13 on the time of study inclusion&#xD;
+&#xD;
+          -  Patients that are intubated for invasive ventilatory therapy before or shortly after&#xD;
+             hospital admission&#xD;
+&#xD;
+          -  History of non-compliance to medical management and patients who are considered&#xD;
+             potentially unreliable, based on documentation in medical records, during screening&#xD;
+             prior to study entry&#xD;
+&#xD;
+          -  History or evidence of alcohol or drug abuse with the last 12 months, based on medical&#xD;
+             records and clinical findings during screening prior to study entry, that will&#xD;
+             influence study participation&#xD;
+&#xD;
+          -  Any surgical or medical condition, based on medical records and clinical findings&#xD;
+             during screening prior to study entry, that will impair the ability of the patient to&#xD;
+             participate in the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Magnus N Lyngbakken, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital, Akershus</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Magnus N Lyngbakken, MD PhD</last_name>
+    <phone>+4793408837</phone>
+    <email>magnus.lyngbakken@medisin.uio.no</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Helge Røsjø, MD PhD</last_name>
+    <phone>+4791545864</phone>
+    <email>helge.rosjo@medisin.uio.no</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Akershus University Hospital</name>
+      <address>
+        <city>Lørenskog</city>
+        <zip>1478</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Magnus N Lyngbakken, MD PhD</last_name>
+      <phone>+4793408837</phone>
+      <email>magnus.lyngbakken@medisin.uio.no</email>
+    </contact>
+    <contact_backup>
+      <last_name>Helge Røsjø, MD PhD</last_name>
+      <phone>+4791545864</phone>
+      <email>helge.rosjo@medisin.uio.no</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Norway</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>January 5, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 24, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>March 3, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 3, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University Hospital, Akershus</investigator_affiliation>
+    <investigator_full_name>Magnus Nakrem Lyngbakken</investigator_full_name>
+    <investigator_title>Associate professor</investigator_title>
+  </responsible_party>
+  <keyword>biomarker</keyword>
+  <keyword>tachypnea</keyword>
+  <keyword>heart failure</keyword>
+  <keyword>echocardiography</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tachypnea</mesh_term>
+    <mesh_term>Heart Failure</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

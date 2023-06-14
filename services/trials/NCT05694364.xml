@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9611">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05694364</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MCC-21622</org_study_id>
+    <secondary_id>PRGN-3007</secondary_id>
+    <nct_id>NCT05694364</nct_id>
+  </id_info>
+  <brief_title>Dose Escalation/Dose Expansion Study of PRGN-3007 UltraCAR-T Cells in Patients With Advanced Hematologic and Solid Tumor Malignancies</brief_title>
+  <official_title>A Phase 1/1b Dose Escalation/Dose Expansion Study of PRGN-3007 UltraCAR-T Cells in Patients With Advanced Hematologic and Solid Tumor Malignancies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>H. Lee Moffitt Cancer Center and Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Precigen, Inc</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>H. Lee Moffitt Cancer Center and Research Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the study is to find out if an investigational drug called PRGN-3007&#xD;
+      UltraCAR-T cells (PRGN-3007 T cells) can help people with ROR1-positive hematologic chronic&#xD;
+      lymphocytic leukemia (CLL), mantle cell lymphoma (MCL), acute lymphoblastic leukemia (ALL),&#xD;
+      diffuse large B-cell lymphoma (DLBCL) and solid tumor triple negative breast cancer (TNBC)&#xD;
+      malignancies.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 12, 2023</start_date>
+  <completion_date type="Anticipated">January 2026</completion_date>
+  <primary_completion_date type="Anticipated">January 2026</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximum Tolerated Dose (MTD) of PRGN-3007 (Group A)</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <description>Maximum Tolerated Dose of of PRGN-3007 in patients with hematologic malignancies.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum Tolerated Dose (MTD) of PRGN-3007 (Group B)</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <description>MTD of PRGN-3007 in patients with solid tumors</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Response Rate</measure>
+    <time_frame>at 12 months</time_frame>
+    <description>Overall Response Rate is defined as the rate of the best overall response as complete response (CR) or partial response (PR)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate</measure>
+    <time_frame>at 12 months</time_frame>
+    <description>Disease Control Rate is defined as the proportion of subjects experiencing Complete Response (CR), Partial Response (PR) or Stable Disease (SD).</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">88</enrollment>
+  <condition>Chronic Lymphocytic Leukemia</condition>
+  <condition>Mantle Cell Lymphoma</condition>
+  <condition>Acute Lymphoblastic Leukemia</condition>
+  <condition>Diffuse Large B Cell Lymphoma</condition>
+  <condition>Triple Negative Breast Cancer Malignancies</condition>
+  <arm_group>
+    <arm_group_label>Phase 1 Dose Escalation (Group A)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants from group A (hematologic malignancies) will undergo leukapheresis followed by lymphodepletion and infusion of PRGN-3007. Lymphodepletion will include 3 days of treatment with fludarabine (30 mg/m^2) and cyclophosphamide (500 mg/m^2) prior to study day 0.&#xD;
+Participants will then receive PRGN-3007 in 3 dose levels beginning at Dose Level 1, using a standard 3+3 escalation design to determine Maximum Tolerated Dose (MTD). The target maximum doses infused at each dose level is:&#xD;
+Dose Level 1: 1x10^6 cells/kg Dose Level 2: 3x10^6 cells/kg Dose Level 3: 1x10^7 cells/kg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 1 Dose Escalation (Group B)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants from group B (solid tumors) will undergo leukapheresis followed by lymphodepletion and infusion of PRGN-3007. Lymphodepletion will include 2 days of cyclophosphamide (500 mg/m^2) prior to study day 0.&#xD;
+Participants will then receive PRGN-3007 in 3 dose levels beginning at Dose Level 1, using a standard 3+3 escalation design to determine Maximum Tolerated Dose (MTD). The target maximum doses infused at each dose level is:&#xD;
+Dose Level 1: 1x10^6 cells/kg Dose Level 2: 3x10^6 cells/kg Dose Level 3: 1x10^7 cells/kg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 1b Dose Expansion (Group A)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants from group A (hematologic malignancies) will undergo leukapheresis followed by lymphodepletion and infusion of PRGN-3007. Lymphodepletion will include 3 days of treatment with fludarabine (30 mg/m^2) and cyclophosphamide (500 mg/m^2) prior to study day 0. Participants will then receive PRGN-3007 at the dose level determined to be the Maximum Tolerated Dose (MTD) in the dose escalation portion of the study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 1b Dose Expansion (Group B)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants from group B (solid tumors) will undergo leukapheresis followed by lymphodepletion and infusion of PRGN-3007. Lymphodepletion will include 2 days of cyclophosphamide (500 mg/m^2) prior to study day 0.Participants will then receive PRGN-3007 at the dose level determined to be the Maximum Tolerated Dose (MTD) in the dose escalation portion of the study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fludarabine</intervention_name>
+    <description>Fludarabine is an antimetabolite given prior to lymphodepletion.</description>
+    <arm_group_label>Phase 1 Dose Escalation (Group A)</arm_group_label>
+    <arm_group_label>Phase 1b Dose Expansion (Group A)</arm_group_label>
+    <other_name>Fludara</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclophosphamide</intervention_name>
+    <description>Cyclophosphamide is a nitrogen mustard-derivative, polyfunctional alkylating agent given prior to lymphodepletion.</description>
+    <arm_group_label>Phase 1 Dose Escalation (Group A)</arm_group_label>
+    <arm_group_label>Phase 1 Dose Escalation (Group B)</arm_group_label>
+    <arm_group_label>Phase 1b Dose Expansion (Group A)</arm_group_label>
+    <arm_group_label>Phase 1b Dose Expansion (Group B)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>PRGN-3007</intervention_name>
+    <description>PRGN-3007 T cells are autologous T cells that are genetically modified ex vivo with the Sleeping Beauty (SB) system to express a ROR1-specific chimeric antigen receptor (ROR1 CAR), membrane bound interleukin-15 (mbIL15), a kill switch derived from truncated form of human epidermal growth factor receptor (HER1t) and include a built-in mechanism for intrinsic downregulation of programmed cell death receptor 1 (PD-1) expression on UltraCAR-T cells.The transgenes are delivered from a SB transposon which ensures co-expression all transgenes in all transfected cells. T cells are selected from the apheresis product and can be modified with the SB system to manufacture the T cells with the potential of infusing within 2 days from genetic modification.</description>
+    <arm_group_label>Phase 1 Dose Escalation (Group A)</arm_group_label>
+    <arm_group_label>Phase 1 Dose Escalation (Group B)</arm_group_label>
+    <arm_group_label>Phase 1b Dose Expansion (Group A)</arm_group_label>
+    <arm_group_label>Phase 1b Dose Expansion (Group B)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18 years and older&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) score of 0 or 1; or Karnofsky Performance&#xD;
+             Status (KPS) of ≥ 70%.&#xD;
+&#xD;
+          -  Life expectancy ≥ 12 weeks from the time of enrollment&#xD;
+&#xD;
+          -  Must have adequate organ function, as defined in protocol.&#xD;
+&#xD;
+          -  Patients must be at least 2 weeks or 5 half-lives (whichever is shorter)post systemic&#xD;
+             steroids prior to enrollment except as premedication for contrast allergy&#xD;
+&#xD;
+          -  Negative serum pregnancy test for women of child bearing potential (WOCBP). Fertile&#xD;
+             male and female patients must be willing to use a contraceptive method before, during,&#xD;
+             and for at least 12 months after the last T cell infusion&#xD;
+&#xD;
+          -  All patients must have the ability to understand and willingness to sign a written&#xD;
+             informed consent form (ICF).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient has received any of the following treatments prior to leukapheresis: cytotoxic&#xD;
+             chemotherapy or radiation therapy within 14 days; an antineoplastic monoclonal&#xD;
+             antibody within prior 4 weeks; prior targeted therapy 14 days or 5 half-lives from the&#xD;
+             last dose whichever is shorter; or prior systemic inhibitory/stimulatory immune&#xD;
+             checkpoint molecule therapy (eg, ipilimumab, nivolumab, pembrolizumab, atezolizumab,&#xD;
+             OX40 agonists, 4-1BB agonists) within 3 half-lives; or has not recovered from (i.e., ≤&#xD;
+             grade 1) adverse event (AE) caused by prior treatment. Exceptions include hydroxyurea,&#xD;
+             single agent vincristine or steroids for uncontrolled ALL.&#xD;
+&#xD;
+          -  Burkitt lymphoma is excluded.&#xD;
+&#xD;
+          -  Prior allogeneic hematopoietic stem cell transplant (HSCT) or donor lymphocyte&#xD;
+             infusion within 6 months prior to enrollment, current acute graft versus host disease&#xD;
+             grade 2-4 by Glucksberg criteria or severity B-D by by International Bone Marrow&#xD;
+             Transplant Registry (IBMTR) index or history of severe (grade 3-4) acute graft versus&#xD;
+             host disease.&#xD;
+&#xD;
+          -  Patients with a history of immunodeficiency (except for acquired&#xD;
+             hypogammaglobulinemia), patients with active autoimmune disease requiring systemic&#xD;
+             immunosuppressive therapy (i.e., &gt; 15 mg of prednisone daily or equivalent), or&#xD;
+             patients who have received any other form of immunosuppressive therapy within 7 days&#xD;
+             prior to leukapheresis.&#xD;
+&#xD;
+          -  Patients with a history of autoimmune disease resulting in end-organ injury are not&#xD;
+             eligible unless attributable to primary disease which is target of this study&#xD;
+&#xD;
+          -  Patient requires treatment with warfarin.&#xD;
+&#xD;
+          -  Patients who have contraindication to the lymphodepletion chemotherapy regimen&#xD;
+&#xD;
+          -  Patient received a live vaccine administration within 4 weeks prior to leukapheresis&#xD;
+&#xD;
+          -  Patient is currently participating in another investigation treatment study, or has&#xD;
+             participated in a study of an investigational agent within 4 weeks prior to&#xD;
+             leukapheresis.&#xD;
+&#xD;
+          -  Patients with clinically significant pulmonary dysfunction, as determined by medical&#xD;
+             history and physical exam should undergo pulmonary function testing; those with a&#xD;
+             forced expiratory volume at one second(FEV1) of ≤ 65% or diffuse capacity lung for&#xD;
+             carbon monoxide (DLCO; corrected) &lt; 40% will be excluded&#xD;
+&#xD;
+          -  Patients with history of other active malignancy within 1 year prior to enrollment.&#xD;
+&#xD;
+          -  Patients with adequately resected basal or squamous cell carcinoma of the skin,&#xD;
+             non-melanoma skin cancer or carcinoma in situ (e.g., skin, cervix, bladder, breast),&#xD;
+             superficial bladder cancer, asymptomatic localized low grade prostate cancer for which&#xD;
+             watch-and-wait approach is standard of care, or any other cancer that has been in&#xD;
+             remission are eligible&#xD;
+&#xD;
+          -  History of concomitant genetic syndrome associated with bone marrow failure such as&#xD;
+             Fanconi anemia, Kostmann syndrome, Shwachman-Diamond syndrome&#xD;
+&#xD;
+          -  Known human immunodeficiency virus (HIV) seropositivity or active hepatitis B or C&#xD;
+             infection. A history of hepatitis B or C is permitted if the viral load is&#xD;
+             undetectable by quantitative assay&#xD;
+&#xD;
+          -  Ongoing uncontrolled serious infection, clinically significant cardiac disease&#xD;
+             (i.e.,symptomatic congestive heart failure, myocardial infarction, cardiac angioplasty&#xD;
+             or stenting, unstable angina pectoris, uncontrolled cardiac arrhythmia), poorly&#xD;
+             controlled pulmonary disease (no clinically significant pleural effusion), or&#xD;
+             psychiatric illness/social situations that would limit compliance with study&#xD;
+             requirements within 12 months prior to enrollment.&#xD;
+&#xD;
+          -  History of any central nervous system (CNS) disorder such as seizure disorder,&#xD;
+             cerebrovascular ischemia/hemorrhage, dementia, cerebellar disease, any autoimmune&#xD;
+             disease with CNS involvement, posterior reversible encephalopathy syndrome, or&#xD;
+             cerebral edema&#xD;
+&#xD;
+          -  History of symptomatic deep vein thrombosis or pulmonary embolism within 6 months&#xD;
+             prior to enrollment&#xD;
+&#xD;
+          -  CNS lymphoma, untreated CNS metastases, leptomeningeal disease and/or carcinomatous&#xD;
+             meningitis; patients with a history of brain metastases that are previously treated,&#xD;
+             stable, and off systemic steroids for over 30 days prior to screening are eligible&#xD;
+&#xD;
+          -  Patients that have not recovered from major acute infections and/or recent surgical&#xD;
+             procedures&#xD;
+&#xD;
+          -  Toxicities due to prior therapy must be stable and recovered to ≤ grade 1 (except for&#xD;
+             clinically non-significant toxicities such as alopecia)&#xD;
+&#xD;
+          -  Patients, who in the opinion of the investigator, may not be able to comply with the&#xD;
+             monitoring requirements of the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Javier Pinilla-Ibarz, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Moffitt Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Moffitt Cancer Center</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ashley O'Neil</last_name>
+      <phone>813-745-5240</phone>
+      <email>ashley.oneil@moffitt.org</email>
+    </contact>
+    <investigator>
+      <last_name>Javier Pinilla-Ibarz, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Julio Chavez, MD, MS</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Bijal Shah, MD, MS</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Hatem Soliman, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.moffitt.org/research--clinical-trials/clinical-trials</url>
+    <description>Moffitt Cancer Center Clinical Trials website</description>
+  </link>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 12, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 12, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>January 12, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 12, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Precursor Cell Lymphoblastic Leukemia-Lymphoma</mesh_term>
+    <mesh_term>Leukemia, Lymphocytic, Chronic, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, Mantle-Cell</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+    <mesh_term>Triple Negative Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Fludarabine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

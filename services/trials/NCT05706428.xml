@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9044">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05706428</url>
+  </required_header>
+  <id_info>
+    <org_study_id>0201417</org_study_id>
+    <nct_id>NCT05706428</nct_id>
+  </id_info>
+  <brief_title>Cardiorespiratory Effects of Nasal High Frequency Ventilation in Neonates</brief_title>
+  <official_title>Cardiorespiratory Effects of Nasal High Frequency Ventilation in Moderate and Late Preterm Infants With Respiratory Distress</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Alexandria University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Alexandria University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of the present work is to study the cardio-respiratory effects of non-invasive&#xD;
+      ventilation (nasal high-frequency ventilation and nasal CPAP) as an initial therapy of&#xD;
+      respiratory distress in moderate and late preterm infants as regard:&#xD;
+&#xD;
+      I. Primary outcomes:&#xD;
+&#xD;
+        -  Duration of the non- invasive respiratory support.&#xD;
+&#xD;
+        -  Need of invasive ventilation in the first 72 hours.&#xD;
+&#xD;
+        -  Short-term complications such as air leak syndromes, pulmonary hemorrhage,&#xD;
+           intraventricular hemorrhage, and nasal trauma.&#xD;
+&#xD;
+      II. Secondary outcomes:&#xD;
+&#xD;
+        -  Need for surfactant administration.&#xD;
+&#xD;
+        -  Days on invasive mechanical ventilation.&#xD;
+&#xD;
+        -  Days on supplemental oxygen.&#xD;
+&#xD;
+        -  Duration of hospital stay.&#xD;
+&#xD;
+        -  Mortality rate. III. Hemodynamic changes during the period of non-invasive ventilation.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 1, 2022</start_date>
+  <completion_date type="Anticipated">August 20, 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 20, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Superior vena cava blood flow in ml/kg/min</measure>
+    <time_frame>first 3 days of life</time_frame>
+    <description>The SVC diameter will be visualized from a high parasternal long axis view. The maximum and minimum internal diameters will be then measured. ✓ The SVC flow velocity will be visualized from a low subcostal view and the pulsed Doppler recording will be made at the junction of the SVC and the right atrium. ✓ SVC flow will be calculated using the method described by Kluckow and Evans:(27) SVC flow (ml/kg/min) = [VTI (cm/beat) × 3.14 × (mean SVC diameter2&#xD;
+/4) × heart rate (beat/min)] Body weight in kg 11</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Right ventricular output in ml /kg/min</measure>
+    <time_frame>first 3 days of life</time_frame>
+    <description>CSA (cm) (Cross sectional area of PV by long axis parasternal RV outflow view - 2D - immediately beneath pulmonary annulus&#xD;
+- mid- systole - inner edge to inner edge) = π x (radius)2 ✓ VTI (cm) (Velocity Time Integral or Stroke Distance = Distance over which blood travels in once cardiac cycle → Long axis parasternal RV outflow view). ✓ SV (ml/beat) (Stroke Volume = CSA x VTI). ✓ Output (L/min.) COP = SV x HR.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>left ventricular output in ml/kg/min</measure>
+    <time_frame>first 3 days of life</time_frame>
+    <description>CSA (cm) (Cross sectional area of AV by long axis parasternal view - 2D - immediately beneath aortic annulus - mid- systole - inner edge to inner edge) = π x (radius) 2 . ✓ VTI (cm) (Velocity Time Integral or Stroke Distance = Distance over which blood travels in once cardiac cycle → Apical 5- chamber view). ✓ SV (ml/beat) (Stroke Volume = CSA x VTI). ✓ Output (L/min.) COP = SV x HR</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>peak systolic velocity in anterior cerebral artery in cm/sec</measure>
+    <time_frame>first 3 days of life</time_frame>
+    <description>Trans-frontellar cranial sonography using Doppler study</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Ventilator Lung; Newborn</condition>
+  <condition>Hemodynamic Instability</condition>
+  <condition>Echocardiography</condition>
+  <arm_group>
+    <arm_group_label>Group I</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Nasal high-frequency ventilation (NHFV) group (case group):</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group II</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Nasal CPAP group (control group):</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>NHFOV</intervention_name>
+    <description>The neonate patients with respiratory distress will have nasal high frequency ventilation as an initial mode of respiratory support.</description>
+    <arm_group_label>Group I</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>NCPAP</intervention_name>
+    <description>The neonate patients with respiratory distress will have nasal continuous positive airway pressure as an initial mode of respiratory support.</description>
+    <arm_group_label>Group II</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Moderate and late preterm infants born between 32+0 to 36+6 weeks gestation(according to&#xD;
+        WHO definitions of preterm birth) admitted to the neonatal intensive care unit with&#xD;
+        spontaneous breathing and clinical manifestations of RD (tachypnea, nasal flaring,&#xD;
+        intercostal and subcostal retraction and or grunting).&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Any baby intubated for resuscitation or for other reasons.&#xD;
+&#xD;
+          -  Obvious major congenital malformations or known complex congenital heart disease.&#xD;
+&#xD;
+          -  Pulmonary hemorrhage.&#xD;
+&#xD;
+          -  Cardiopulmonary arrest needing prolonged resuscitation.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Hour</minimum_age>
+    <maximum_age>3 Days</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nader Abdelminem Fasseh</last_name>
+    <role>Study Director</role>
+    <affiliation>Faculty of medicine, Alexandria University, Egypt</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mohamed Amen Hassan, MBChB</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Faculty of medicine, Alexandria University, Egypt</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marwa Mohamed Farag, PhD</last_name>
+    <phone>01288681788</phone>
+    <phone_ext>+2</phone_ext>
+    <email>d.marwa.farag@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Hesham Abdelrhim Gazal, PhD</last_name>
+    <phone>01227401491</phone>
+    <phone_ext>+2</phone_ext>
+    <email>heshamgzl@yahoo.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Neonatal Intensive Care Unit (NICU) of Alexandria University Maternity Hospital.</name>
+      <address>
+        <city>Alexandria</city>
+        <zip>0356</zip>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marwa Mohamed Farag, PhD</last_name>
+      <phone>01288681788</phone>
+      <phone_ext>02</phone_ext>
+      <email>d.marwa.farag@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 21, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 21, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 31, 2023</study_first_posted>
+  <last_update_submitted>February 3, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 3, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Alexandria University</investigator_affiliation>
+    <investigator_full_name>Marwa Mohamed Farag</investigator_full_name>
+    <investigator_title>Primary Investigator and Lecturer in Pediatrics, Faculty of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>Premature infants</keyword>
+  <keyword>Echocardiography</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bronchopulmonary Dysplasia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9491">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05696717</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-003903-14</org_study_id>
+    <nct_id>NCT05696717</nct_id>
+  </id_info>
+  <brief_title>Phase 3 Efficacy and Durability of Ampreloxetine for the Treatment of Symptomatic nOH in Participants With Multiple System Atrophy</brief_title>
+  <acronym>CYPRESS</acronym>
+  <official_title>A Phase 3, Multi-center, Randomized Withdrawal and Long Term Extension Study of Ampreloxetine for the Treatment of Symptomatic Neurogenic Orthostatic Hypotension in Participants With Multiple System Atrophy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Theravance Biopharma</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Theravance Biopharma</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 3, multi-center, randomized withdrawal study to evaluate the efficacy and&#xD;
+      durability of ampreloxetine in participants with MSA and symptomatic nOH after 20 weeks of&#xD;
+      treatment. This study includes 4 periods: Screening, open label, randomized withdrawal, and&#xD;
+      long-term treatment extension (LTE).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">March 2023</start_date>
+  <completion_date type="Anticipated">January 2027</completion_date>
+  <primary_completion_date type="Anticipated">December 2024</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Open Label followed by Randomized Parallel Assignment</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in OHSA composite score at Week 8 during the double-blind RW period</measure>
+    <time_frame>8-week randomized withdrawal period (Week 12 to Week 20)</time_frame>
+    <description>Score change from baseline on the composite of Questions 1 - 6 of the Orthostatic Hypotension Symptom Assessment (OHSA).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in OHDAS item 1 (activities that require standing for a short time) at Week 8 post randomization</measure>
+    <time_frame>8-week randomized withdrawal period (Week 12 to Week 20)</time_frame>
+    <description>Orthostatic Hypotension Daily Activities Scale (OHDAS) is an assessment of how low blood pressure symptoms affect daily life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in OHDAS item 3 (activities that require walking for a short time) at Week 8 post randomization</measure>
+    <time_frame>8-week randomized withdrawal period (Week 12 to Week 20)</time_frame>
+    <description>Orthostatic Hypotension Daily Activities Scale (OHDAS) is an assessment of how low blood pressure symptoms affect daily life.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">102</enrollment>
+  <condition>Symptomatic Neurogenic Orthostatic Hypotension</condition>
+  <condition>MSA - Multiple System Atrophy</condition>
+  <arm_group>
+    <arm_group_label>Ampreloxetine (Open Label)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will receive ampreloxetine as a single, oral, daily dose of active drug for 12 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ampreloxetine (Randomized Withdrawal)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>After completing the open label, participants are randomized to either ampreloxetine or placebo receiving a single, oral, daily dose of active drug or placebo for a further 8 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Long-Term Extension Period</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will receive ampreloxetine as a single, oral, daily dose of active drug for 104 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ampreloxetine</intervention_name>
+    <description>Oral tablet, QD</description>
+    <arm_group_label>Ampreloxetine (Open Label)</arm_group_label>
+    <arm_group_label>Ampreloxetine (Randomized Withdrawal)</arm_group_label>
+    <arm_group_label>Long-Term Extension Period</arm_group_label>
+    <other_name>TD-9855</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Oral tablet, QD</description>
+    <arm_group_label>Ampreloxetine (Randomized Withdrawal)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participant is male or female and at least 30 years old.&#xD;
+&#xD;
+          -  Participant has a diagnosis of possible or probable MSA of the Parkinsonian subtype&#xD;
+             (MSA-P) or cerebellar subtype (MSA-C) according to The Gilman Criteria (2008).&#xD;
+&#xD;
+          -  Participant has a diagnosis of possible or probable MSA of the Parkinsonian subtype&#xD;
+             (MSA-P) or cerebellar subtype (MSA-C) confirmed by the Enrollment Steering Committee&#xD;
+             (ESC).&#xD;
+&#xD;
+          -  Participant must meet the diagnostic criteria of nOH, as demonstrated by a sustained&#xD;
+             reduction in BP of ≥20 mmHg (systolic) or ≥10 mmHg (diastolic) within 3 min of&#xD;
+             standing as part of orthostatic standing test or being tilted up ≥60o from a supine&#xD;
+             position as determined by a tilt-table test.&#xD;
+&#xD;
+          -  Participant must score ≤4 on UMSARS Part IV at Visit 1 (Screening).&#xD;
+&#xD;
+          -  Participant must score at least a 4 on the OHSA item 1 at Visit 2 (Day 1).&#xD;
+&#xD;
+          -  Participant must be willing to not take any prohibited medications during the study.&#xD;
+&#xD;
+          -  If participant is female, the participant must not be pregnant, breastfeeding, or&#xD;
+             planning a pregnancy during the course of the study. A woman of childbearing potential&#xD;
+             must have a documented negative pregnancy test at screening.&#xD;
+&#xD;
+          -  During the study and for 30 days after receiving the last dose of the study drug,&#xD;
+             females of childbearing potential or males capable of fathering children must agree to&#xD;
+             use highly effective birth control measures (failure rate &lt;1% when used consistently&#xD;
+             and correctly) or agree to abstain from sexual intercourse.&#xD;
+&#xD;
+          -  Participant is willing and able to provide signed and dated written informed consent&#xD;
+             to -participate prior to initiation of any study related procedures.&#xD;
+&#xD;
+        Participant is able to communicate well with the Investigator and clinic staff, understands&#xD;
+        the expectations of the study and is able to comply with the study procedures,&#xD;
+        requirements, and restrictions.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participant has a systemic illness known to produce autonomic neuropathy, including,&#xD;
+             but not limited to, amyloidosis and autoimmune neuropathies. Participant with diabetes&#xD;
+             mellitus (DM) will be evaluated on a case-by-case basis by the medical monitor and&#xD;
+             considered ineligible unless they meet all of the following criteria:&#xD;
+&#xD;
+               -  Well controlled type-2 DM in treatment with only oral medications and diet&#xD;
+&#xD;
+               -  HbA1C of ≤7.5% performed during screening or up to 12 weeks before screening&#xD;
+&#xD;
+               -  No clinically evident peripheral neuropathy (e.g., normal sensory examination on&#xD;
+                  peripheral extremities)&#xD;
+&#xD;
+               -  No known retinopathy (e.g., annual ophthalmic exam is sufficient)&#xD;
+&#xD;
+               -  No nephropathy (e.g., absence of albuminuria and GFR &gt;60).&#xD;
+&#xD;
+          -  Participant has a known intolerance to other NRIs or SNRIs.&#xD;
+&#xD;
+          -  Participant currently uses concomitant antihypertensive medication for the treatment&#xD;
+             of essential hypertension.&#xD;
+&#xD;
+          -  Participant has used strong CYP1A2 inhibitors or inducers within 7 days or 5 half&#xD;
+             lives, whichever is longer, prior to Visit 2 (Day 1) or requires concomitant use until&#xD;
+             the Safety follow-up Visit.&#xD;
+&#xD;
+          -  Participant has changed dose, frequency, or type of prescribed medication for&#xD;
+             orthostatic hypotension within 7 days prior to Visit 2 (Day 1).&#xD;
+&#xD;
+          -  Midodrine and droxidopa (if applicable) must be tapered off and stopped at least 7&#xD;
+             days prior to Visit 2 (Day 1).&#xD;
+&#xD;
+          -  Participant has known or suspected alcohol or substance abuse within the past 12&#xD;
+             months (Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text&#xD;
+             Revision [DSM IV TR®] definition of alcohol or substance abuse).&#xD;
+&#xD;
+          -  Participant has clinically unstable coronary artery disease or had a major&#xD;
+             cardiovascular event (e.g., myocardial infarction) in the past 6 months.&#xD;
+&#xD;
+          -  Participant has significant uncontrolled cardiac arrhythmia, history of complete heart&#xD;
+             block, or significant QTc prolongation (≥450 msec for males and ≥470 msec for&#xD;
+             females).&#xD;
+&#xD;
+          -  Participant has a new onset of a neurological event (i.e., seizures, confusion,&#xD;
+             altered levels of consciousness, etc.) in the past 6 months.&#xD;
+&#xD;
+          -  Participant has used any monoamine oxidase inhibitor (MAOI) within 14 days prior to&#xD;
+             Visit 2 (Day 1).&#xD;
+&#xD;
+          -  Participant has a history of untreated closed angle glaucoma, or treated closed angle&#xD;
+             glaucoma that, in the opinion of an ophthalmologist, might result in an increased risk&#xD;
+             to the participant.&#xD;
+&#xD;
+          -  Participant has a Montreal Cognitive Assessment (MoCA) &lt;21.&#xD;
+&#xD;
+          -  Participant is unable or unwilling to complete all protocol specified procedures&#xD;
+             including questionnaires.&#xD;
+&#xD;
+          -  Participant has known congestive heart failure (New York Heart Association [NYHA]&#xD;
+             Class 3 or 4).&#xD;
+&#xD;
+          -  Participant has had any malignant disease, other than carcinoma in situ of the cervix&#xD;
+             or basal cell carcinoma, within the past 2 years prior to Screening.&#xD;
+&#xD;
+          -  Participant has a known gastrointestinal (GI) condition, which in the Investigator's&#xD;
+             judgment, may affect the absorption of study medication (e.g., ulcerative colitis,&#xD;
+             gastric bypass).&#xD;
+&#xD;
+          -  Participant has psychiatric, neurological, or behavioral disorders that may interfere&#xD;
+             with the cognitive ability of the participant to give informed consent, understand and&#xD;
+             comply with study procedures, or interfere with the conduct of the study.&#xD;
+&#xD;
+          -  Participant is currently receiving any investigational drug or has received an&#xD;
+             investigational drug within 30 days of dosing. An investigational drug is defined as a&#xD;
+             drug that is not approved by a regulatory agency (e.g., Food and Drug Administration&#xD;
+             [FDA]).&#xD;
+&#xD;
+          -  Participant has a clinically significant abnormal laboratory finding(s) (e.g., alanine&#xD;
+             aminotransferase [ALT] or aspartate aminotransferase [AST] ≥3.0 x upper limit of&#xD;
+             normal [ULN]; blood bilirubin [total] ≥3.0 x ULN; estimated glomerular filtration rate&#xD;
+             (eGFR) &lt;30 mL/min/1.73 m2, or any abnormal laboratory value that could interfere with&#xD;
+             safety of the participant).&#xD;
+&#xD;
+          -  Participant has demonstrated lifetime suicidal ideation and/or suicidal behavior, as&#xD;
+             outlined by the C-SSRS (Baseline/Screening Version). Participant should be assessed by&#xD;
+             the rater for risk of suicide and the participant's appropriateness for inclusion in&#xD;
+             the study.&#xD;
+&#xD;
+          -  Participant has a concurrent disease or condition (e.g., COVID-19), or recent surgery,&#xD;
+             that in the opinion of the Investigator, would confound or interfere with study&#xD;
+             participation or evaluation of safety, tolerability, or absorption of the study drug.&#xD;
+&#xD;
+          -  Participant has known hypersensitivity to ampreloxetine (ampreloxetine hydrochloride),&#xD;
+             or any excipients in the formulation.&#xD;
+&#xD;
+          -  Major surgery (i.e., procedures involving higher risk for infection and extended&#xD;
+             recovery period, such as, joint replacement, gastric bypass, open heart surgery, organ&#xD;
+             transplant, etc.) occurring less than 4 weeks prior to enrollment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Theravance Biopharma</last_name>
+    <phone>1-855-633-8479</phone>
+    <email>0197DevOps@theravance.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Neurostudies</name>
+      <address>
+        <city>Port Charlotte</city>
+        <state>Florida</state>
+        <zip>33952</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Liliana Montoya, MD</last_name>
+      <email>research@neurostudiesinc.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 13, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>March 30, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple System Atrophy</mesh_term>
+    <mesh_term>Shy-Drager Syndrome</mesh_term>
+    <mesh_term>Hypotension, Orthostatic</mesh_term>
+    <mesh_term>Hypotension</mesh_term>
+    <mesh_term>Atrophy</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

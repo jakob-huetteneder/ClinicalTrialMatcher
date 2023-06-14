@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9976">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05686226</url>
+  </required_header>
+  <id_info>
+    <org_study_id>192204</org_study_id>
+    <secondary_id>Pro2022002259</secondary_id>
+    <nct_id>NCT05686226</nct_id>
+  </id_info>
+  <brief_title>E7 TCR-T Cell Immunotherapy for Human Papillomavirus (HPV) Associated Cancers</brief_title>
+  <official_title>A Phase II Trial of T Cell Receptor Gene Therapy Targeting Human Papillomavirus ( HPV) 16 E7 for HPV-Associated Cancers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Christian Hinrichs</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Rutgers, The State University of New Jersey</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase II clinical trial to assess the clinical activity of immunotherapy with E7&#xD;
+      TCR-T cells for metastatic HPV-associated cancers. HPV-associated cancers in include&#xD;
+      cervical, throat, penile, vulvar, vaginal, anal, and other cancers. Participants will receive&#xD;
+      a conditioning regimen, E7 TCR-T cells, and aldesleukin. Clinical response to treatment will&#xD;
+      be determined.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will determine the tumor response rate for the treatment of HPV-associated cancers&#xD;
+      with E7 TCR-T cells. E7 TCR-T cells are autologous gene-engineered T cells that target HPV16&#xD;
+      E7 through a T cell receptor (TCR). E7 is an HPV oncoprotein that is present in&#xD;
+      HPV-associated cancers. Participants must have the HLA-A*02:01 allele, which is required for&#xD;
+      tumor targeting by the E7 TCR. Treatment consists of a conditioning regimen (cyclophosphamide&#xD;
+      and fludarabine), a single infusion of E7 TCR-T cells, and adjuvant aldesleukin. Tumor&#xD;
+      response rate and response duration will be determined. Safety data will also be collected.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 7, 2023</start_date>
+  <completion_date type="Anticipated">January 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>This is a single-arm phase II clinical trial.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Tumor response</measure>
+    <time_frame>Five years</time_frame>
+    <description>Objective tumor response as measured by RECIST</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adverse Events</measure>
+    <time_frame>5 years</time_frame>
+    <description>Adverse events as measured by CTCAE</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Cervical Cancer</condition>
+  <condition>Throat Cancer</condition>
+  <condition>Oropharynx Cancer</condition>
+  <condition>Anal Cancer</condition>
+  <condition>Vulva Cancer</condition>
+  <condition>Vaginal Cancer</condition>
+  <condition>Penile Cancer</condition>
+  <condition>Metastatic Cancer</condition>
+  <condition>HPV-Related Malignancy</condition>
+  <condition>HPV-Related Carcinoma</condition>
+  <condition>HPV-Related Cervical Carcinoma</condition>
+  <condition>HPV-Related Squamous Cell Carcinoma</condition>
+  <condition>HPV-Related Adenocarcinoma</condition>
+  <condition>HPV Positive Oropharyngeal Squamous Cell Carcinoma</condition>
+  <condition>HPV-Associated Vaginal Adenocarcinoma</condition>
+  <condition>HPV-Related Adenosquamous Carcinoma</condition>
+  <condition>HPV-Related Endocervical Adenocarcinoma</condition>
+  <condition>HPV-Related Anal Squamous Cell Carcinoma</condition>
+  <condition>HPV-Related Penile Squamous Cell Carcinoma</condition>
+  <condition>HPV-Related Vulvar Squamous Cell Carcinoma</condition>
+  <condition>HPV Positive Rectal Squamous Cell Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>E7 TCR-T cells</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will receive a conditioning regimen, E7 TCR-T cells, and aldesleukin.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>E7 TCR-T cells</intervention_name>
+    <description>Participants will receive a conditioning regimen (cyclophosphamide and fludarabine), E7 TCR-T cells as a single infusion, and adjuvant high-dose aldesleukin.</description>
+    <arm_group_label>E7 TCR-T cells</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Histologically or cytologically confirmed metastatic or refractory/recurrent HPV-16+&#xD;
+             cancer.&#xD;
+&#xD;
+          2. Tumor with HPV16 genotype as determined by testing performed in a CLIA certified&#xD;
+             laboratory.&#xD;
+&#xD;
+          3. HLA-A*02:01 allele as determined by testing performed in a Clinical Laboratory&#xD;
+             Improvement Amendments (CLIA) certified laboratory. Participants may be enrolled based&#xD;
+             on low resolution typing (i.e., HLA-A*02) but the HLA-A*02:01 allele type must be&#xD;
+             confirmed prior to apheresis.&#xD;
+&#xD;
+          4. Measurable disease as assessed by RECIST Criteria Version 1.114.&#xD;
+&#xD;
+          5. Age ≥ 18 years.&#xD;
+&#xD;
+          6. Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1 at screening.&#xD;
+&#xD;
+          7. Must have received prior first line standard therapy or have declined standard&#xD;
+             therapy.&#xD;
+&#xD;
+          8. Standard treatment options for first and second-line therapy must be presented and&#xD;
+             formally declined (Appendix VII).&#xD;
+&#xD;
+          9. Patients with three or fewer brain metastases that have been treated with surgery or&#xD;
+             stereotactic radiosurgery are eligible. Lesions that have been treated with&#xD;
+             stereotactic radiosurgery must be clinically stable for one month before protocol&#xD;
+             treatment. Patients must be fully recovered from surgery.&#xD;
+&#xD;
+         10. Negative pregnancy test for women under 55 and all women who have had a menstrual&#xD;
+             period in the last 12 months. A pregnancy tests is not required for women who have had&#xD;
+             a bilateral oophorectomy or hysterectomy.&#xD;
+&#xD;
+         11. Men and women of child-bearing potential must agree to use adequate contraception&#xD;
+             (i.e., intrauterine device, hormonal barrier method of birth control; abstinence;&#xD;
+             tubal ligation or vasectomy) prior to study entry and for four months after treatment.&#xD;
+             Should a women become pregnant or suspect she is pregnant while she is participating&#xD;
+             in this study, she should inform her treating physician immediately.&#xD;
+&#xD;
+         12. Seronegative for HIV antibody, hepatitis B antigen, and hepatitis C antibody. If a&#xD;
+             hepatitis C antibody test is positive, then testing for antigen by RT-PCR for&#xD;
+             Hepatitis C (HCV) RNA must be negative.&#xD;
+&#xD;
+         13. Participants must have organ and marrow function as defined below:&#xD;
+&#xD;
+               1. Leukocytes &gt; 3,000/microliter (mcL)&#xD;
+&#xD;
+               2. Absolute neutrophil count &gt; 1,500/mcL&#xD;
+&#xD;
+               3. Platelets &gt; 100,000/mcL&#xD;
+&#xD;
+               4. Hemoglobin &gt; 8.0 g/dL&#xD;
+&#xD;
+               5. Total bilirubin within normal institutional limits except in participants with&#xD;
+                  Gilbert's Syndrome who must have a total bilirubin &lt; 3.0 mg/dL.&#xD;
+&#xD;
+               6. Serum aspartate transferase (AST) (SGOT)/alanine transaminase (ALT) (SGPT) &lt; 2.5&#xD;
+                  x upper limit of normal (ULN)&#xD;
+&#xD;
+               7. Calculated creatinine clearance (CrCl) &gt;50 mL/min/1.73 m2for participants with&#xD;
+                  creatinine levels above institutional normal (by the Chronic Kidney Disease&#xD;
+                  Epidemiology Collaboration (CKD-EPI) equation).&#xD;
+&#xD;
+               8. international normalized ratio (INR) or activated partial thromboplastin time (&#xD;
+                  aPTT) ≤1.5 X ULN unless the subject is receiving anticoagulant therapy. Subjects&#xD;
+                  on anticoagulant therapy must have a PT or aPTT within therapeutic range and no&#xD;
+                  history of severe hemorrhage.&#xD;
+&#xD;
+         14. More than four weeks must have elapsed since any prior systemic therapy at the time&#xD;
+             the patient receives the E7 TCR cells.&#xD;
+&#xD;
+         15. Participants must be able to understand and be willing to sign the written informed&#xD;
+             consent document.&#xD;
+&#xD;
+         16. Participants must agree to participate in protocol Cancer Institute of New Jersey&#xD;
+             (CINJ) 192103 (Pro2021002307) for gene therapy long term follow up and in protocol&#xD;
+             CINJ 192002 (Pro2021000281) for biospecimen collection study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Christian Hinrichs, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Rutgers Cancer Institute of New Jersey</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Carrie Snyder</last_name>
+    <phone>732-235-7356</phone>
+    <email>cs1449@cinj.rutgers.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Rutgers Cancer Institute of New Jersey</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carrie Snyder</last_name>
+      <phone>732-235-7356</phone>
+      <email>cs1449@cinj.rutgers.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>RWJBarnabas Health - Robert Wood Johnson University Hospital</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Carrie Snyder</last_name>
+      <phone>732-235-7356</phone>
+      <email>cs1449@cinj.rutgers.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Nagarsheth NB, Norberg SM, Sinkoe AL, Adhikary S, Meyer TJ, Lack JB, Warner AC, Schweitzer C, Doran SL, Korrapati S, Stevanovic S, Trimble CL, Kanakry JA, Bagheri MH, Ferraro E, Astrow SH, Bot A, Faquin WC, Stroncek D, Gkitsas N, Highfill S, Hinrichs CS. TCR-engineered T cells targeting E7 for patients with metastatic HPV-associated epithelial cancers. Nat Med. 2021 Mar;27(3):419-425. doi: 10.1038/s41591-020-01225-1. Epub 2021 Feb 8.</citation>
+    <PMID>33558725</PMID>
+  </reference>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>December 25, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 8, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 17, 2023</study_first_posted>
+  <last_update_submitted>March 24, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 24, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Rutgers, The State University of New Jersey</investigator_affiliation>
+    <investigator_full_name>Christian Hinrichs</investigator_full_name>
+    <investigator_title>Chief, Section of Cancer Immunotherapy</investigator_title>
+  </responsible_party>
+  <keyword>Chimeric antigen receptors (CAR-T)</keyword>
+  <keyword>Tumor infiltrating lymphocyte</keyword>
+  <keyword>TCR-T</keyword>
+  <keyword>immunotherapy</keyword>
+  <keyword>T cell</keyword>
+  <keyword>adoptive cell therapy</keyword>
+  <keyword>cellular therapy</keyword>
+  <keyword>gene therapy</keyword>
+  <keyword>human papillomavirus</keyword>
+  <keyword>HPV</keyword>
+  <keyword>E7</keyword>
+  <keyword>T cell receptor</keyword>
+  <keyword>TCR</keyword>
+  <keyword>E7 TCR</keyword>
+  <keyword>lymphocyte</keyword>
+  <keyword>cell therapy</keyword>
+  <keyword>cervical cancer</keyword>
+  <keyword>oropharyngeal cancer</keyword>
+  <keyword>anal cancer</keyword>
+  <keyword>vulvar cancer</keyword>
+  <keyword>vaginal cancer</keyword>
+  <keyword>penile cancer</keyword>
+  <keyword>tumor infiltrating lymphocytes (TIL)</keyword>
+  <keyword>TIL therapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Squamous Cell</mesh_term>
+    <mesh_term>Adenocarcinoma</mesh_term>
+    <mesh_term>Uterine Cervical Neoplasms</mesh_term>
+    <mesh_term>Anus Neoplasms</mesh_term>
+    <mesh_term>Squamous Cell Carcinoma of Head and Neck</mesh_term>
+    <mesh_term>Vaginal Neoplasms</mesh_term>
+    <mesh_term>Oropharyngeal Neoplasms</mesh_term>
+    <mesh_term>Penile Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Adenosquamous</mesh_term>
+    <mesh_term>Vulvar Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Primary and secondary endpoint data will be shared.</ipd_description>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Data will be made available through the publisher at the time of publication.</ipd_time_frame>
+    <ipd_access_criteria>Data will be accessible through the publisher.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9910">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05687682</url>
+  </required_header>
+  <id_info>
+    <org_study_id>A928-CLN-001</org_study_id>
+    <nct_id>NCT05687682</nct_id>
+  </id_info>
+  <brief_title>Safety of AM-928 Infusion in Advanced Solid Tumors</brief_title>
+  <official_title>A Phase I, Open-Label, Dose-Escalation Study to Investigate the Safety, Tolerability, Pharmacokinetics, and Preliminary Efficacy of AM-928 Infusion in Subjects With Advanced Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AcadeMab Biomedical Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AcadeMab Biomedical Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase I, open-label, dose-escalation study for a novel cancer treatment, AM-928,&#xD;
+      intravenous infusion antibody for advanced solid tumor. The study is aimed to learn the&#xD;
+      safety, tolerability, pharmacokinetics, and preliminary efficacy profile of AM-928.&#xD;
+&#xD;
+      The dose escalation strategy will adopt accelerated titration combined with a Bayesian&#xD;
+      optimal interval (BOIN) design. Seven dose levels are designed and each participant will be&#xD;
+      assigned to a specific dose regimen depending on the time of enrollment. In the study, each&#xD;
+      participant will receive AM-928 treatment cycles till meeting any treatment discontinuation&#xD;
+      criterion and be followed for safety and long-term survival.&#xD;
+&#xD;
+      The whole study is expected to take approximately three years to complete.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a first-in-human Phase I, open-label, dose-escalation study to investigate the&#xD;
+      safety, tolerability, pharmacokinetics (PK), and preliminary efficacy of AM-928 infusion in&#xD;
+      subjects with advanced solid tumors in multiple sites in Taiwan.&#xD;
+&#xD;
+      Eligible subjects will be dosed with different dosages of AM-928 in 1 of the 7 dose levels&#xD;
+      (0.1, 0.3, 1, 3, 6, 10, 15 mg/kg). Dose levels will be escalated from dose Level 1 at 0.3&#xD;
+      mg/kg to Level 6 at 15 mg/kg of AM-928 (or may be de-escalated to Level -1 at 0.1 mg/kg),&#xD;
+      which will be administered (intravenous infusion) once weekly (QW) for 4 weeks (D1, D8, D15,&#xD;
+      D22) as a treatment cycle until any treatment discontinuation criterion is met. Basically,&#xD;
+      there will be no breaks between dosing cycles. From Cycle 4, intra-subject dose escalation&#xD;
+      may be applied if supported by preliminary safety and PK data.&#xD;
+&#xD;
+      The dose escalation strategy will adopt accelerated titration combined with a Bayesian&#xD;
+      optimal interval (BOIN) design. The accelerated titration will be adopted for 0.3 mg/kg,&#xD;
+      while the BOIN design will be adopted for other dose levels, including 1 mg/kg, 3 mg/kg, 6&#xD;
+      mg/kg, 10 mg/kg, and 15 mg/kg. In the &quot;accelerated titration&quot; stage, if any ≥ Grade 2 adverse&#xD;
+      event occurs, the current and subsequent dose groups will be changed to the BOIN dose&#xD;
+      escalation method. The target toxicity rate for the maximum tolerated dose (MTD) is ϕ= 0.3,&#xD;
+      and the maximum sample size is determined to be 30, maximum of 9 subjects per dose level. A&#xD;
+      cohort size of 3 and a maximum cohort number of 3 for each dose level will be adopted for&#xD;
+      subject recruitment. The dose escalation may end when one of the following criteria is met:&#xD;
+      (1) The planned sample size of 30 has been reached; (2) 9 subjects have been treated and&#xD;
+      evaluable for DLT at the next intended dose level (should not exceed 9 subjects at one dose&#xD;
+      level); (3) all doses explored appear to be overly toxic, and the MTD cannot be determined.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2023</start_date>
+  <completion_date type="Anticipated">June 2026</completion_date>
+  <primary_completion_date type="Anticipated">December 2024</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>AM-928</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The maximum tolerated dose (MTD)</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>The MTD is defined the highest dose level that is closely to the toxicity rated defined in the study.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The incidence of dose-limiting toxicity (DLT)</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>The DLT is specified treatment-emergent events that occur in cycle 1 treatment period, graded by NCI-CTCAE v5.0, and causality to study drug cannot be clearly ruled out.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with abnormalities in Laboratory Values</measure>
+    <time_frame>Up to 28 days after the last dose</time_frame>
+    <description>Number of participants with abnormal hematology (RBC, WBC with differentials (neutrophils, lymphocytes, monocytes, eosinophils, and basophils), platelet count, hemoglobin, and hematocrit), biochemistry (Albumin, total cholesterol, total bilirubin, direct bilirubin, alkaline phosphatase (ALP), AST, ALT, gamma-glutamyl transferase (γ-GT), total protein, blood urea nitrogen (BUN), lactate dehydrogenase (LDH), creatine kinase (CK), creatinine, estimated glomerular filtration rate (eGFR; 2021 CKD-EPI), triglyceride, amylase, lipase, glucose, uric acid, bicarbonate, calcium, chloride, inorganic phosphorus, iron, magnesium, potassium, and sodium), coagulation (prothrombin time (PT), activated partial thromboplastin time (APTT), and international normalized ratio (INR)), urinalysis (specific gravity, pH, occult blood, leukocytes, glucose, protein, ketones, bilirubin, and urine sediment (RBC, WBC, casts, epithelial cells, crystal, and microorganism)), and Troponin-T results</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of treatment-emergent adverse events (TEAEs)</measure>
+    <time_frame>Up to 28 days after the last dose</time_frame>
+    <description>The TEAE is defined as adverse event (AE) occurred after the study drug administration. All TEAE will be assessed for severity by the investigator based on National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE) version 5.0</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of subjects experiencing treatment-related AE with ≥ Grade 3</measure>
+    <time_frame>Up to 28 days after the last dose</time_frame>
+    <description>The TEAE is defined as adverse event (AE) occurred after the study drug administration. All TEAE will be assessed for severity by the investigator based on National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE) version 5.0</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of subjects experiencing infusion-related reaction</measure>
+    <time_frame>Day 1, Day 8, Day 15, Day 22 of Cycle 1 treatment</time_frame>
+    <description>The infusion-related reaction is adverse reaction due to study drug and occurred during an infusion and for 2 hours after the infusion completes. The symptom includes but not limited to fever, hypotension, hypertension, rash, nausea, dizziness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of all-grade and Grade 3-4 laboratory abnormalities</measure>
+    <time_frame>Up to 28 days after the last dose</time_frame>
+    <description>The grading of the laboratory abnormalities is assessed based on National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE) version 5.0</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of subjects tolerated at least 75% of the intended dose per cycle</measure>
+    <time_frame>Up to 3 months</time_frame>
+    <description>A subject will be treated weakly, 4 doses in a cycle</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with physical abnormalities</measure>
+    <time_frame>Up to 3 months</time_frame>
+    <description>Physical examination includes the following items: general appearance, skin, eyes, ears, nose, throat, head and neck (including thyroid), heart, chest and lungs, abdomen, extremities, lymph nodes, musculoskeletal, neurological system, and other body systems if applicable for describing the status of the subject's health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with chest x-ray abnormalities</measure>
+    <time_frame>Up to 3 months</time_frame>
+    <description>The chest x-ray will be evaluated by the investigators and noted as &quot;normal&quot;, &quot;NCS&quot; or &quot;CS&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with abnormalities in vital signs</measure>
+    <time_frame>Up to 28 days after the last dose</time_frame>
+    <description>Vital signs measurement will consist of systolic/diastolic blood pressure, respiratory rate, pulse rate, body temperature, and oxygen saturation (SpO2).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with abnormalities in 12-lead electrocardiogram (ECG) for each post-treatment evaluation until the end of Cycle 3</measure>
+    <time_frame>Up to 3 months</time_frame>
+    <description>The results of ventricular rate, PR interval, QRS interval, QT interval, and QTc interval will be recorded.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AM-928 plasma concentration</measure>
+    <time_frame>Day 1, 2, 3, 4, 8 and 15 of Cycle 1 treatment, Day 1 and 15 of Cycle 2, Day 1 of the following Cycle 3 and Cycle 5, and in 7 days after the last dose</time_frame>
+    <description>The serum concentration of AM-928</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AM-928 Pharmacokinetic Parameter - Cmax</measure>
+    <time_frame>Week 1</time_frame>
+    <description>The peak post-dose concentration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AM-928 Pharmacokinetic Parameter - Tmax</measure>
+    <time_frame>Week 1</time_frame>
+    <description>Time at which Cmax is observed</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AM-928 Pharmacokinetic Parameter - T 1/2</measure>
+    <time_frame>Week 1</time_frame>
+    <description>Terminal phase elimination half-life</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AM-928 Pharmacokinetic Parameter - AUC last</measure>
+    <time_frame>Week 1</time_frame>
+    <description>Area under the serum concentration-time profile (AUC) from time zero (T0) to the time of the last quantifiable concentration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AM-928 Pharmacokinetic Parameter - AUC 0-infinity</measure>
+    <time_frame>Week 1</time_frame>
+    <description>AUC from T0 extrapolated to infinite time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AM-928 Pharmacokinetic Parameter - CL</measure>
+    <time_frame>Week 1</time_frame>
+    <description>The volume of plasma cleared of the drug per unit time.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AM-928 Pharmacokinetic Parameter - Vz</measure>
+    <time_frame>Week 1</time_frame>
+    <description>Volume of distribution</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AM-928 Pharmacokinetic Parameter - Vss</measure>
+    <time_frame>Week 1</time_frame>
+    <description>Steady-state volume of distribution</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AM-928 Pharmacokinetic Parameter - MRT</measure>
+    <time_frame>Week 1</time_frame>
+    <description>Mean Residence Time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AM-928 Pharmacokinetic Parameter - C trough</measure>
+    <time_frame>Day 8, Day 15, Day 22 of Cycle 1 treatment; Day 1, Day 15 of Cycle 2; Day 1 of Cycle 3 and Cycle 5</time_frame>
+    <description>The last pre-dose concentration at steady state before the next dose is administered</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate (ORR)</measure>
+    <time_frame>6 months</time_frame>
+    <description>The proportion of treated subjects achieving the best overall response of Complete Response (CR) or Partial Response (PR) per RECIST 1.1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate (DCR)</measure>
+    <time_frame>6 months</time_frame>
+    <description>The proportion of treated subjects having achieved Complete Response (CR) + Partial Response (PR) + Stable Disease (SD) per RECIST 1.1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tumor growth rate (TGR)</measure>
+    <time_frame>Up to 28 days after the last dose</time_frame>
+    <description>The percent increase in the tumor volume per month</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tumor growth kinetics (TGK)</measure>
+    <time_frame>Up to 28 days after the last dose</time_frame>
+    <description>Change in the sum of the diameters of the target lesions per month</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Eastern Cooperative Oncology Group (ECOG) score</measure>
+    <time_frame>Up to 28 days after the last dose</time_frame>
+    <description>ECOG- Eastern Cooperative Oncology Group performance status is a scale used to assess how the disease affects the daily living abilities, and determine appropriate treatment and prognosis. It is a simple measure of functional status that determines ability of patient to tolerate therapies in cancer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in European Organization for Research and Treatment of Cancer (EORTC) QLQ-C30 score</measure>
+    <time_frame>Up to 28 days after the last dose</time_frame>
+    <description>The EORTC QLQ-C30 is a patient-reported outcome (PRO) questionnaire to assess the quality of life of cancer patients. Version 3.0 will be applied.</description>
+  </secondary_outcome>
+  <number_of_arms>7</number_of_arms>
+  <enrollment type="Anticipated">38</enrollment>
+  <condition>Advanced Solid Tumor</condition>
+  <arm_group>
+    <arm_group_label>Level -1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>0.1 mg/kg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Level 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>0.3 mg/kg (Starting Dose)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Level 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1 mg/kg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Level 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>3 mg/kg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Level 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>6 mg/kg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Level 5</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 mg/kg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Level 6</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>15 mg/kg</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>AM-928</intervention_name>
+    <description>AM-928, which is a humanized anti-EpCAM monoclonal antibody developed by AcadeMab Biomedical Inc.</description>
+    <arm_group_label>Level -1</arm_group_label>
+    <arm_group_label>Level 1</arm_group_label>
+    <arm_group_label>Level 2</arm_group_label>
+    <arm_group_label>Level 3</arm_group_label>
+    <arm_group_label>Level 4</arm_group_label>
+    <arm_group_label>Level 5</arm_group_label>
+    <arm_group_label>Level 6</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female, age ≥ 18 years&#xD;
+&#xD;
+          2. Histologically/cytologically confirmed, locally advanced unresectable or metastatic&#xD;
+             solid tumors that are refractory to or intolerant of existing standard therapy, for&#xD;
+             which no effective standard therapy that confers clinical benefit is available&#xD;
+&#xD;
+          3. Availability of archival tissue specimens for EpCAM immunohistochemistry (IHC)&#xD;
+             staining. Tumor tissues acceptable include:&#xD;
+&#xD;
+             - Tumor tissue sample collected at the time of initial diagnosis&#xD;
+&#xD;
+             - The most recent available metastatic tumor biopsy tissue if available (a&#xD;
+             pre-treatment biopsy may be obtained if the biopsy site is safely accessible)&#xD;
+&#xD;
+          4. Has at least one measurable lesion according to Response Evaluation Criteria in Solid&#xD;
+             Tumors (RECIST) version 1.1&#xD;
+&#xD;
+          5. Eastern Cooperative Oncology Group (ECOG) performance score ≤ 2&#xD;
+&#xD;
+          6. Subject's life expectancy of at least 12 weeks&#xD;
+&#xD;
+          7. Has adequate hematopoietic, coagulation, hepatic function and renal function:&#xD;
+&#xD;
+               -  Hemoglobin ≥ 8.0 g/dL without transfusion or erythropoiesis stimulating agent&#xD;
+                  support within 1 week&#xD;
+&#xD;
+               -  Absolute neutrophil count (ANC) ≥ 1,500 cells/μL without WBC growth factor&#xD;
+                  support within 1 week&#xD;
+&#xD;
+               -  Total white blood cell (WBC) ≥ 2,500 cells/μL&#xD;
+&#xD;
+               -  Platelet ≥ 80,000 counts/μL without transfusion support within 1 week&#xD;
+&#xD;
+               -  International normalized ratio (INR) and activated partial thromboplastin time&#xD;
+                  (APTT) ≤ 1.5 upper limit of normal (ULN)&#xD;
+&#xD;
+               -  Total bilirubin ≤ 1.5× ULN and no sign of jaundice (≤ 3× ULN for subjects with&#xD;
+                  known Gilbert disease)&#xD;
+&#xD;
+               -  Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤ 3× ULN (≤&#xD;
+                  5× ULN for subjects with tumor involvement in liver)&#xD;
+&#xD;
+               -  Serum albumin ≥ 3.0 g/dL&#xD;
+&#xD;
+               -  eGFR (CKD-EPI) ≥ 60 mL/min/1.73 m^2&#xD;
+&#xD;
+          8. A female subject with childbearing potential should be confirmed of not being pregnant&#xD;
+             or not lactating at the screening and during the study&#xD;
+&#xD;
+          9. Willingness and ability to comply with protocol-stated requirements, instructions, and&#xD;
+             restrictions in the investigator's judgement&#xD;
+&#xD;
+         10. Is able to understand the nature of this study and accepts to enter the study by&#xD;
+             signing written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Received any cancer therapeutic modalities (e.g., surgery on target lesions,&#xD;
+             radiotherapy) within 4 weeks prior to initial dosing (except the palliative&#xD;
+             radiotherapy performed on non-target local lesions), or have any unrecovered surgical&#xD;
+             wound.&#xD;
+&#xD;
+          2. Treatment with any chemotherapeutic agent, hormonal therapy (except hormone&#xD;
+             replacement therapy or oral contraceptives), or any other anti-cancer agent within 4&#xD;
+             weeks or 5 half-lives of the treated agents, whichever is shorter, prior to initiation&#xD;
+             of AM-928 infusion&#xD;
+&#xD;
+          3. Carries history of primary malignancy other than the entry diagnosis that could affect&#xD;
+             compliance with the protocol or interpretation of results within 5 years prior to the&#xD;
+             Screening Visit, except curatively treated non-melanoma skin cancer, cervical&#xD;
+             carcinoma in situ, or superficial bladder tumors&#xD;
+&#xD;
+          4. Received systemic immunosuppressive medication(s) (including, but not limited to,&#xD;
+             steroids [excluding ≤10 mg of prednisone per day or equivalent], cyclophosphamide,&#xD;
+             azathioprine, methotrexate, thalidomide, tumor necrosis factor-ɑ antagonists, and&#xD;
+             calcineurin inhibitors) within 2 weeks (for those half-life ≤ 72 hours) or 4 weeks&#xD;
+             (for those half-life &gt; 72 hours) prior to study dosing and during the study period,&#xD;
+             with the following caveats:&#xD;
+&#xD;
+               -  Well-controlled eczema, psoriasis, lichen simplex chronicus, or vitiligo with&#xD;
+                  dermatologic manifestations only (e.g., no psoriatic arthritis) at baseline that&#xD;
+                  only requires low potency topical steroids is allowed&#xD;
+&#xD;
+               -  The use of inhaled corticosteroids is allowed if they are on a stable dose (i.e.,&#xD;
+                  no change in dose within 3 months prior to C1D1)&#xD;
+&#xD;
+               -  The use of oral mineralocorticoids is allowed&#xD;
+&#xD;
+               -  Physiologic doses of corticosteroids for adrenal insufficiency or supportive care&#xD;
+                  for a subject's advanced tumor may be allowed at the investigator's discretion&#xD;
+&#xD;
+          5. Subject with significant cardiopulmonary abnormalities as defined by:&#xD;
+&#xD;
+               -  Poorly controlled hypertension (systolic blood pressure &gt; 150 mm-Hg and/or&#xD;
+                  diastolic blood pressure &gt; 100 mm-Hg on anti-hypersensitive medications)&#xD;
+&#xD;
+               -  Left ventricular ejection fraction (LVEF) &lt; 50% at screening&#xD;
+&#xD;
+               -  History of symptomatic congestive heart failure &gt; class 2 per New York Heart&#xD;
+                  Association (NYHA) classification&#xD;
+&#xD;
+               -  History of myocarditis&#xD;
+&#xD;
+               -  Myocardial ischemia/infarction or unstable angina within 6 months of study&#xD;
+                  enrollment&#xD;
+&#xD;
+               -  Uncontrolled serious cardiac arrhythmias&#xD;
+&#xD;
+               -  Corrected QT interval &gt; 470 ms demonstrated by at least 2 ECGs &gt; 30 minutes apart&#xD;
+&#xD;
+               -  Evidence of active pneumonitis (including drug-induced), organizing pneumonia&#xD;
+                  (i.e., bronchiolitis obliterans, cryptogenic organizing pneumonia, etc.), or&#xD;
+                  history of idiopathic pulmonary fibrosis. History of radiation pneumonitis in the&#xD;
+                  radiation field (fibrosis) is permitted.&#xD;
+&#xD;
+               -  History of 2nd or 3rd-degree atrioventricular conduction defects&#xD;
+&#xD;
+          6. History of thromboembolic or cerebrovascular events within the last 6 months at&#xD;
+             screening, including transient ischemic attack, cerebrovascular accident, or deep vein&#xD;
+             thrombosis&#xD;
+&#xD;
+          7. Prior treatment with any EpCAM-targeted anti-cancer therapies&#xD;
+&#xD;
+          8. Subjects with the following infections:&#xD;
+&#xD;
+             - History of active pulmonary tuberculosis infection ≤ 48 weeks prior to C1D1,&#xD;
+             regardless of treatment&#xD;
+&#xD;
+               -  Any major episode of infection requiring treatment with systemic antibiotics or&#xD;
+                  hospitalization within 4 weeks prior to C1D1&#xD;
+&#xD;
+               -  Known human immunodeficiency virus (HIV) history&#xD;
+&#xD;
+               -  Presence of hepatitis B surface antigen (HBsAg), HBV DNA detectable or HCV RNA&#xD;
+                  positive&#xD;
+&#xD;
+          9. Administration of a live, attenuated vaccine within 4 weeks before C1D1 or&#xD;
+             anticipation that such a live, attenuated vaccine will be required during the study&#xD;
+&#xD;
+         10. Received any investigational product within 4 weeks before C1D1&#xD;
+&#xD;
+         11. History of severe allergic, anaphylactic, or other hypersensitivity reactions to&#xD;
+             humanized antibodies&#xD;
+&#xD;
+         12. Known hypersensitivity to any of the components of AM-928&#xD;
+&#xD;
+         13. Has unstable/uncontrolled central nervous system (CNS) malignancy, leptomeningeal, or&#xD;
+             brain metastasis (progressing or those who continue to require glucocorticoids or&#xD;
+             intrathecal chemotherapy)&#xD;
+&#xD;
+         14. Has symptomatic pleural effusion, pericardial effusion, or poorly controlled ascites&#xD;
+&#xD;
+         15. Suffering from side/toxic effects of previous or current therapy [i.e., National&#xD;
+             Cancer Institute - Common Terminology Criteria for Adverse Event (NCI-CTCAE) ≥ Grade&#xD;
+             2] that, judged by the investigator, may interfere with the trial results or the&#xD;
+             subject's safety&#xD;
+&#xD;
+         16. Prior allogeneic stem cell, solid organ, or bone marrow transplantation&#xD;
+&#xD;
+         17. Subject with any underlying medical, mental, or psychological conditions that would&#xD;
+             impair the treatment compliance, contraindicate the use of the investigational&#xD;
+             product, or that may render the subject at high risk from treatment complications, in&#xD;
+             the opinion of the investigator, would not permit to participate in the study&#xD;
+&#xD;
+         18. All male subjects and female subjects with childbearing potential (between puberty and&#xD;
+             2 years after menopause) should use at least one of the appropriate contraception&#xD;
+             methods shown below from signing ICF to at least 4 months or 5 half-lives (if data&#xD;
+             available), whichever is longer, after stopping study treatment.&#xD;
+&#xD;
+               1. Total abstinence (when this is in line with the preferred and usual lifestyle of&#xD;
+                  the subject). Periodic abstinence (e.g., calendar, ovulation, symptothermal,&#xD;
+                  post-ovulation methods) and withdrawal are not acceptable methods of&#xD;
+                  contraception.&#xD;
+&#xD;
+               2. Female sterilization (have had surgical bilateral oophorectomy with or without&#xD;
+                  hysterectomy), total hysterectomy, or tubal ligation at least 6 weeks before&#xD;
+                  taking study treatment. In the case of oophorectomy alone, only when the&#xD;
+                  reproductive status of the woman has been confirmed by follow up hormone level&#xD;
+                  assessment.&#xD;
+&#xD;
+               3. Male sterilization (at least 6 months prior to screening). For female subjects on&#xD;
+                  the study, the vasectomized male partner should be the sole partner for that&#xD;
+                  subject.&#xD;
+&#xD;
+               4. Combination of any two of the following listed methods: (d.1+d.2 or d.1+d.3, or&#xD;
+                  d.2+d.3):&#xD;
+&#xD;
+             d.1. Use oral, injected, or implanted hormonal methods of contraception or other forms&#xD;
+             of hormonal contraception that have comparable efficacy (failure rate &lt;1%), for&#xD;
+             example, hormone vaginal ring or transdermal hormone contraception.&#xD;
+&#xD;
+             d.2. Placement of an intrauterine device (IUD) or intrauterine system (IUS). d.3.&#xD;
+             Barrier methods of contraception: Condom or Occlusive cap (diaphragm or cervical/vault&#xD;
+             caps) with spermicidal foam/gel/film/cream/vaginal suppository.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Miles Yeh, Ph.D.</last_name>
+    <role>Study Director</role>
+    <affiliation>AcadeMab Biomedical Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Miles Yeh, Ph.D.</last_name>
+    <phone>+886 27891212</phone>
+    <phone_ext>810</phone_ext>
+    <email>miles.yeh@academab.com</email>
+  </overall_contact>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>January 7, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 7, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>April 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 21, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Solid tumor</keyword>
+  <keyword>EpCAM</keyword>
+  <keyword>Antibody</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

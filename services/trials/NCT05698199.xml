@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9420">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05698199</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1001-01-GBM-P1</org_study_id>
+    <nct_id>NCT05698199</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate the Safety, Tolerability, Immunogenicity and Preliminary Efficacy of ITI-1001 In Patients With Newly Diagnosed Glioblastoma (GBM)</brief_title>
+  <official_title>A Phase I, Open Label, First In Humans (FIH), Single Dose Level Study to Evaluate the Safety, Tolerability, Immunogenicity and Preliminary Efficacy of ITI-1001 In Patients With Newly Diagnosed Glioblastoma (GBM)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Immunomic Therapeutics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Immunomic Therapeutics, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This Phase I clinical trial will evaluate the safety, tolerability, immunogenicity, and&#xD;
+      preliminary efficacy of 8 mg ITI-1001 in participants with newly diagnosed glioblastoma&#xD;
+      (GBM).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This Phase I study will evaluate the safety and immunogenicity of 8 mg ITI-1001 DNA vaccine&#xD;
+      based on safety, immune activation and preliminary assessment of therapeutic benefit of 2&#xD;
+      priming vaccinations given in the 4-6 weeks period between definitive surgical resection and&#xD;
+      initiation of SOC chemoradiation followed by 2 post-chemoradiation priming vaccinations (#3&#xD;
+      and #4) and 5 ITI-1001 vaccine boosters given in parallel with maintenance TMZ as per&#xD;
+      Schedule of Assessments.&#xD;
+&#xD;
+      The study duration will be approximately 24 months for individual patients, excluding&#xD;
+      screening and surgery.&#xD;
+&#xD;
+      ITI-1001 vaccinations will be given in combination with Td toxoid.&#xD;
+&#xD;
+      8mg of ITI-1001 DNA vaccine will be administered via IM injection with electroporation up to&#xD;
+      9 times using the TDS-IM v2.0 Device according to the device manufacturer's instructions and&#xD;
+      according to the Schedule of Assessments.&#xD;
+&#xD;
+      Standard of Care MRI and 4 times of PET imaging with 18F-AraG are scheduled. 18F-AraG has&#xD;
+      been approved by the US FDA for T cell acute lymphoblastic leukemia and T cell lymphoblastic&#xD;
+      lymphoma.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2023</start_date>
+  <completion_date type="Anticipated">February 2026</completion_date>
+  <primary_completion_date type="Anticipated">December 2024</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with Dose Limiting Toxicities (DLTs).</measure>
+    <time_frame>Through study completion, up to 2 years post baseline.</time_frame>
+    <description>Number of participants that experience any Dose Limiting Toxicities (DLTs).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of occurrences of Adverse events/Serious Adverse Events that will be assessed for severity according to the NCI CTCAE, version 5.0.</measure>
+    <time_frame>Through study completion, up to 2 years post baseline.</time_frame>
+    <description>Number of occurrences of Adverse events/Serious Adverse Events that will be assessed for severity according to the NCI CTCAE, version 5.0.</description>
+  </primary_outcome>
+  <other_outcome>
+    <measure>Exploratory endpoints include changes in peripheral blood assessment of T cell activation</measure>
+    <time_frame>Through study completion, up to 2 years post baseline.</time_frame>
+    <description>Parameters include ELISpot, flow cytometry, CMV serology and anti-LAMP1 antibody for evaluation of immune response from the baseline</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Exploratory endpoints include changes in immune response</measure>
+    <time_frame>4 times of 18F-AraG PET imaging through study completion, up to 2 years post baseline.</time_frame>
+    <description>Utilizing 18F-AraG, which accumulates in activated T-cells, PET imaging four times during the course, and monitoring the immune response is performed to assess tumor bed infiltration by activated T-cells following vaccination.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Exploratory endpoints include changes in immune response</measure>
+    <time_frame>Through study completion, up to 2 years post baseline.</time_frame>
+    <description>Immune assessments for analytical evaluation of MRI data for possible tumor relapse or activated immune cells (inflammation associated with &quot;pseudo-progression&quot;)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Exploratory endpoints include evaluation preliminary efficacy; overall survival</measure>
+    <time_frame>Through study completion, up to 2 years post baseline.</time_frame>
+    <description>Number of participants that alive at pre-defined timepoints; 12 months, 18 months, and 24 months post-baseline visit</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Exploratory endpoints include evaluation preliminary efficacy; Progression-Free Survival per iRANO</measure>
+    <time_frame>Through study completion, up to 2 years post baseline.</time_frame>
+    <description>Number of participants that are confirmed PFM at pre-defined timepoints; 12 months, 18 months, and 24 months post-baseline visit</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Exploratory endpoints include changes in immune response</measure>
+    <time_frame>Screening and End of treatment, up to 2 years post baseline.</time_frame>
+    <description>Immunohistochemistry (IHC) evaluation from original biopsy/surgical sample and a second biopsy/surgical procedure if recurrence is suspected.&#xD;
+IHC detects cytomegalovirus (CMV) proteins pp65, IE1, and Glycoprotein B (gB) in human glioblastoma multiforme tissues as well as the CMV markers (CD8, CD163, and FOXP3), to observe how various HCMV proteins could contribute to GBM pathogenesis.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Exploratory endpoints include evaluation preliminary efficacy; Neurological Assessment in Neuro-oncology (NANO) analysis</measure>
+    <time_frame>Through study completion, up to 2 years post baseline.</time_frame>
+    <description>Changes in Neurological Assessment in Neuro-oncology (NANO) scale from baseline.&#xD;
+The NANO scale evaluates 9 major domains of neurologic function that are most relevant to patients with supratentorial, infratentorial, and brainstem tumors, including gait, strength, upper extremity ataxia, sensation, visual fields, facial strength, language, level of consciousness, and behavior.&#xD;
+Levels of function for each domain range from 0 to 2 or 0 to 3. A score of 0 indicates normal function, while the highest score indicates the most severe level of deficit for that domain.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>Glioblastoma</condition>
+  <arm_group>
+    <arm_group_label>Participants with Newly Diagnosed Glioblastoma (GBM)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ten participants with histopathological diagnosis of WHO grade IV glioma (Glioblastoma; GBM) and have undergone a gross/near gross total surgical resection of tumor by analysis of residual enhancing tumor remnant on the immediate post-operative MRI</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ITI-1001</intervention_name>
+    <description>ITI-1001 DNA vaccine represents a multi-antigen nucleic acid cancer immunotherapy encoding 3 CMV antigens. The vaccine is comprised of 2 DNA plasmids: 1 plasmid encoding IE-1 and pp65 antigens as a fusion protein with LAMP1. Another plasmid encodes gB antigen as a fusion protein with LAMP1.</description>
+    <arm_group_label>Participants with Newly Diagnosed Glioblastoma (GBM)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Newly diagnosed patients with histopathological diagnosis of WHO grade IV glioma&#xD;
+             (GBM).&#xD;
+&#xD;
+          2. Age ≥ 18 years.&#xD;
+&#xD;
+          3. Patient must have undergone a gross/near-gross total surgical resection of tumor by&#xD;
+             analysis of residual enhancing tumor remnant on the immediate post-operative MRI&#xD;
+             (within 72 hours after surgery) as defined by ≤ 3 cm2 residual enhancing tumor longest&#xD;
+             perpendicular planes by MRI.&#xD;
+&#xD;
+          4. Planned standard adjuvant chemoradiation (SOC RT + TMZ for 6 weeks).&#xD;
+&#xD;
+          5. Karnofsky performance status ≥ 70.&#xD;
+&#xD;
+          6. Life expectancy ≥ 3 months.&#xD;
+&#xD;
+          7. All patients must sign written informed consent.&#xD;
+&#xD;
+          8. Patient has adequate renal function (creatinine ≤ 1.5 times the upper limit of normal&#xD;
+             [ULN]) or a glomerular filtration rate (GFR) of ≥ 50 mL/min/1.73 m2).&#xD;
+&#xD;
+          9. Patient has adequate hepatic function, as evidenced by a total bilirubin ≤1.5 times&#xD;
+             the ULN, aspartate transaminase (AST), and /or alanine transaminase (ALT) ≤3 times the&#xD;
+             ULN.&#xD;
+&#xD;
+         10. Patient has adequate bone marrow function, as evidenced by hemoglobin ≥ 9.0 g/dL in&#xD;
+             the absence of transfusion within the 72 hours prior to the screening visit, platelet&#xD;
+             count ≥ 100×109cells/L, and absolute neutrophil count (ANC) ≥ 1.5×109 cells/L.&#xD;
+&#xD;
+         11. Patient and his/her partner agree to use adequate contraception after providing&#xD;
+             written informed consent through 3 months after the last investigational product dose,&#xD;
+             as follows:&#xD;
+&#xD;
+               -  For women: Negative pregnancy test during screening and at baseline and compliant&#xD;
+                  with 2 methods of medically approved contraceptive regimens during and for 3&#xD;
+                  months after the treatment period or documented to be surgically sterile or&#xD;
+                  postmenopausal.&#xD;
+&#xD;
+               -  For men: Compliant with 2 methods of medically approved contraceptive regimens&#xD;
+                  during and for 3 months after the treatment period or documented to be surgically&#xD;
+                  sterile.&#xD;
+&#xD;
+         12. Patient is willing to participate in the study and comply with all study requirements.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Participation in another therapeutic clinical trial.&#xD;
+&#xD;
+          2. Implantable electronic device.&#xD;
+&#xD;
+          3. Pregnant or breast feeding.&#xD;
+&#xD;
+          4. Tumor location or tumor primarily located in spinal cord or brain stem, multi-focal&#xD;
+             disease, or significant lepto meningeal disease.&#xD;
+&#xD;
+          5. Evidence of significantly increased intracranial pressure (midline shift &gt; 5mm,&#xD;
+             clinically significant papilledema, vomiting and nausea or reduced level of&#xD;
+             consciousness).&#xD;
+&#xD;
+          6. Known history of AIDS/HIV. Testing is not required.&#xD;
+&#xD;
+          7. Patient has a history of other malignancy treated with curative intent within the&#xD;
+             previous 3 years with the exception of adequately treated non-melanoma skin cancer or&#xD;
+             carcinoma in situ of the cervix. Patients with previous invasive cancers are eligible&#xD;
+             if the treatment was completed more than 3 years prior to initiating current study&#xD;
+             treatment, and there is no evidence of recurrent disease.&#xD;
+&#xD;
+          8. Patient has an important medical illness or abnormal laboratory finding that, in the&#xD;
+             Investigator's opinion, would increase the risk of participating in this study.&#xD;
+&#xD;
+          9. History of unstable cardiac arrhythmia or palpitations [e.g., supraventricular&#xD;
+             tachycardia, atrial fibrillation, frequent ectopy, or sinus bradycardia (i.e., &lt;50&#xD;
+             beats per minute on exam)] prior to study entry. Sinus arrhythmia is not excluded.&#xD;
+&#xD;
+         10. Any chronic or active neurologic disorder that in the opinion of the Investigator&#xD;
+             would compromise the patient participation and/or integrity of the study. Patients&#xD;
+             with seizures due to recent onset of GBM that are medically controlled are eligible.&#xD;
+&#xD;
+         11. Syncopal episode within 12 months of screening.&#xD;
+&#xD;
+         12. Presence of any surgical or traumatic metal implants at the site of administration&#xD;
+             (medial deltoid or vastus lateralis muscles or overlying skin) or conditions&#xD;
+             incompatible with electroporation per instruction manual of the TriGrid TDS-IM V2.&#xD;
+&#xD;
+         13. Patients requiring dexamethasone within 7 days before first priming vaccination of&#xD;
+             ITI-1001.&#xD;
+&#xD;
+         14. Contraindication to IM injections or blood draws.&#xD;
+&#xD;
+         15. Less than 2 acceptable potential injection sites for IM injection and electroporation&#xD;
+             considering the left and right medial deltoid, and anterolateral quadriceps muscles. A&#xD;
+             site for injection and electroporation is not acceptable if there is inadequate muscle&#xD;
+             mass to support at least a 19 mm/0.75 inch injection depth or a skinfold thickness&#xD;
+             measurement of ≥50 mm/1.97 inch as assessed using the provided caliper. Eligible&#xD;
+             injection sites must also be free from tattoos, hypertrophic skin patches, keloids or&#xD;
+             other skin conditions which could interfere with the administration procedure or&#xD;
+             subsequent assessment of local reactogenicity.&#xD;
+&#xD;
+             Note: To ensure adequate muscle mass for administrations, for participants with a&#xD;
+             weight ≤65 kg, potentially eligible administration sites are confined to the outer&#xD;
+             aspect of the upper thigh (left or right vastus lateralis muscle) (i.e,, the left and&#xD;
+             right medial deltoid are not eligible administration sites).&#xD;
+&#xD;
+         16. Any condition that, in the Investigator's opinion, would render the patient unable to&#xD;
+             comply with the study procedures and requirements.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Hyerin Son</last_name>
+    <phone>1-301-968-3501</phone>
+    <email>hson@immunomix.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Scott Rodgers</last_name>
+    <phone>1-301-968-3501</phone>
+    <email>srodgers@immunomix.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Dana-Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Kathryn E Partridge</last_name>
+      <phone>617-632-3000</phone>
+      <email>Kathryn_Partridge@DFCI.HARVARD.EDU</email>
+    </contact>
+    <investigator>
+      <last_name>David Reardon</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>December 14, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>February 27, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 27, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 1, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glioblastoma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

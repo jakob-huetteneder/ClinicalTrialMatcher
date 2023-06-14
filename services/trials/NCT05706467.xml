@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9042">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05706467</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GYFYY-202301</org_study_id>
+    <nct_id>NCT05706467</nct_id>
+  </id_info>
+  <brief_title>The Difference Between Non-invasive High-frequency Oscillatory Ventilation and Non-invasive Continuous Airway Pressure Ventilation in COVID-19 With Acute Hypoxemia</brief_title>
+  <official_title>The Difference Between Non-invasive High-frequency Oscillatory Ventilation and Non-invasive Continuous Airway Pressure Ventilation in COVID-19 With Acute Hypoxemia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Guangzhou Institute of Respiratory Disease</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Guangzhou Institute of Respiratory Disease</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      High frequency oscillatory ventilation (HFOV), as an ideal lung protection ventilation&#xD;
+      method, has been gradually applied to neonatal intensive care treatment, and is currently&#xD;
+      recommended as a rescue method for neonatal acute respiratory distress syndrome (ARDS) after&#xD;
+      failure of conventional mechanical ventilation. Although its ability to improve oxygenation&#xD;
+      and enhance carbon dioxide (CO2) clearance has been repeatedly demonstrated in laboratory&#xD;
+      studies, its impact on the clinical results of these patients is still uncertain. Noninvasive&#xD;
+      high-frequency oscillatory ventilation (nHFOV) combines the advantages of HFOV and&#xD;
+      non-invasive ventilation, and has become the current research focus in this field. It is&#xD;
+      recommended to use it after the failure of routine non-invasive ventilation treatment to&#xD;
+      avoid intubation. For the treatment of intubation, there is still a lack of large-scale&#xD;
+      clinical trials to systematically explore its efficacy. The gradual increase of clinical&#xD;
+      application of nHFOV has also enriched its application in the treatment of other diseases. At&#xD;
+      present, non-invasive high-frequency oscillatory ventilation has not been applied to the&#xD;
+      study of adult COVID-19 with acute hypoxemia, which will be the first study in this field.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 10, 2023</start_date>
+  <completion_date type="Anticipated">May 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Subjects who met the inclusion criteria received two kinds of non-invasive positive pressure ventilation treatment, namely, non-invasive continuous positive pressure ventilation and non-invasive high-frequency oscillatory ventilation.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>ROX index</measure>
+    <time_frame>30 minutes</time_frame>
+    <description>(SpO2/FiO2)/RR</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Asynchrony index</measure>
+    <time_frame>30 minutes</time_frame>
+    <description>Asynchrony index is defined as the number of asynchrony events divided by the total respiratory rate computed as the sum of the number of ventilator cycles (triggered or not) and of wasted efforts: asynchrony Index (expressed in percentage) = number of asynchrony events/total respiratory rate (ventilator cycles +wasted efforts) × 100</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>COVID-19 Pneumonia</condition>
+  <condition>Non-invasive Ventilation</condition>
+  <arm_group>
+    <arm_group_label>non-invasive high-frequency oscillatory ventilation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The day before the test, the patient was titrated with the oxygen concentration under non-invasive ventilation. The non-invasive continuous positive airway pressure ventilation was used, the pressure was set at 8cmH2O, and the oxygen concentration was titrated when the blood oxygen saturation was greater than 92% during non-invasive ventilation, and the oxygen concentration in the respiratory tube was constant after the test. In non-invasive high-frequency oscillatory ventilation mode, maintain the same positive airway pressure setting, and superimpose high-frequency oscillatory airflow with amplitude of 6cmH2O and oscillatory frequency of 10HZ.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>continuous positive airway pressure ventilation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The patient was titrated with non-invasive ventilator-related parameters and oxygen uptake concentration the day before the test, and the parameter setting was maintained in the formal experiment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Non-invasive high-frequency oscillatory ventilation</intervention_name>
+    <description>Non-invasive high-frequency oscillatory ventilation generates high-frequency pressure fluctuations in the airway caused by the opening and closing of a solenoid valve.</description>
+    <arm_group_label>non-invasive high-frequency oscillatory ventilation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Non-invasive continuous positive airway pressure ventilation</intervention_name>
+    <description>Non-invasive positive airway pressure ventilation is carried out through non-invasive ventilator.</description>
+    <arm_group_label>continuous positive airway pressure ventilation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. After COVID-19 nucleic acid detection, imaging confirmed COVID-19;&#xD;
+&#xD;
+          2. Age ≥ 18 years old;&#xD;
+&#xD;
+          3. At the time of admission, the blood gas was acute hypoxic respiratory failure, the&#xD;
+             fraction of inhaled oxygen concentration (Fio2) was at least 0.40, but the blood&#xD;
+             oxygen saturation (Spo2) was 94% or lower;&#xD;
+&#xD;
+          4. Be able to follow the instructions of the researcher.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Critically ill patients: cardiac and respiratory arrest, requiring tracheal&#xD;
+             intubation; Multiple organ failure (&gt;2 organs);&#xD;
+&#xD;
+          2. Hemodynamic instability;&#xD;
+&#xD;
+          3. After extubation of invasive mechanical ventilation;&#xD;
+&#xD;
+          4. Patients who cannot wear a mask, such as maxillofacial or upper airway surgery;&#xD;
+&#xD;
+          5. Patients who may affect the treatment effect of NPPV, such as nasal obstruction or&#xD;
+             upper respiratory tract obstruction;&#xD;
+&#xD;
+          6. Obvious bullae, pneumothorax and pleural effusion;&#xD;
+&#xD;
+          7. It is accompanied by obvious other respiratory diseases, such as bronchiectasis and&#xD;
+             lung cancer;&#xD;
+&#xD;
+          8. Those who refuse to participate in this test.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jianyi Niu, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The First Affiliated Hospital of Guangzhou Medical University. Guangdong, China</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jianyi Niu, M.D.</last_name>
+    <phone>+8617825846046</phone>
+    <email>2020218509@stu.gzhmu.edu.cn</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Rongchang Chen, M.D.</last_name>
+  </overall_contact_backup>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 28, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 28, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 31, 2023</study_first_posted>
+  <last_update_submitted>January 28, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 28, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Guangzhou Institute of Respiratory Disease</investigator_affiliation>
+    <investigator_full_name>Jianyi Niu</investigator_full_name>
+    <investigator_title>Principle investigator</investigator_title>
+  </responsible_party>
+  <keyword>Noninvasive high frequency oscillatory ventilation</keyword>
+  <keyword>COVID-19 Pneumonia</keyword>
+  <keyword>acute hypoxic respiratory failure</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Hypoxia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

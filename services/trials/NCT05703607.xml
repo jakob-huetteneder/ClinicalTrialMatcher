@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9181">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05703607</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C5031001</org_study_id>
+    <nct_id>NCT05703607</nct_id>
+  </id_info>
+  <brief_title>A Study to Learn About a Modified RNA Vaccine Against Shingles in Healthy Adults</brief_title>
+  <official_title>A PHASE 1/2 RANDOMIZED, OBSERVER-BLIND STUDY TO EVALUATE THE SAFETY, TOLERABILITY, AND IMMUNOGENICITY OF A MODIFIED RNA VACCINE AGAINST VARICELLA ZOSTER VIRUS IN HEALTHY INDIVIDUALS</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pfizer</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this clinical study is to learn about the safety, extent of the side effects&#xD;
+      (reaction to vaccine), and immune response (your immune system's reaction) of the study&#xD;
+      vaccine called Varicella Zoster Virus modRNA (VZV modRNA). We are seeking for healthy&#xD;
+      participants who are between 50 and 69 years of age.&#xD;
+&#xD;
+      This study will be conducted in 2 substudies: Substudy A (Phase 1) and Substudy B (Phase 2).&#xD;
+&#xD;
+      Substudy A:&#xD;
+&#xD;
+      This substudy is the Phase 1 portion of the study. In this substudy, participants will&#xD;
+      receive 1 of 3 VZV modRNA vaccine candidates (different construct, different dose levels and&#xD;
+      different formulation [frozen or freeze dry powder]) or the approved shingles vaccine&#xD;
+      intramuscularly.&#xD;
+&#xD;
+      Participants will be assigned in 1 of 9 groups in the study and will receive 2 doses of&#xD;
+      vaccine at different intervals.&#xD;
+&#xD;
+      Participants will take part in this study for 8 to 12 months depending on the group they are&#xD;
+      assigned to. Some group(s) will continue into persistence-of-immunity (overtime assessment of&#xD;
+      effect of vaccine) portion of the study. Those participants assigned to these selected groups&#xD;
+      will be involved in the study for up to 5 years.&#xD;
+&#xD;
+      Substudy B:&#xD;
+&#xD;
+      This substudy is the Phase 2 portion of the study. In this part of the study, participants&#xD;
+      will receive either VZV modRNA vaccine at selected dose level/schedule/formulation or&#xD;
+      approved shingles vaccine. This selection will be determined from Substudy A.&#xD;
+&#xD;
+      Participants will be involved in this study for up to 5 years.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 25, 2023</start_date>
+  <completion_date type="Anticipated">January 5, 2030</completion_date>
+  <primary_completion_date type="Anticipated">July 5, 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>SSA: Observer-blinded, Sponsor Open label SSB: Observer-blinded</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>SSA: Percentage of participants reporting local reactions</measure>
+    <time_frame>For 7 days after Vaccination 1 and Vaccination 2</time_frame>
+    <description>Pain at the injection site, redness, and swelling as self-reported in electronic diaries.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SSA: Percentage of participants reporting systemic events</measure>
+    <time_frame>For 7 days after Vaccination 1 and Vaccination 2</time_frame>
+    <description>Fever, fatigue, headache, chills, vomiting, diarrhea, new or worsened muscle pain, and new or worsened joint pain, as self-reported in electronic diaries</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SSA: Percentage of participants reporting adverse events</measure>
+    <time_frame>From Vaccination 1 to 4 weeks after last vaccination</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SSA: Percentage of participants reporting serious adverse events</measure>
+    <time_frame>From Vaccination 1 to 6 months after the last study vaccination</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SSA: Percentage of participants reporting medically attended adverse event</measure>
+    <time_frame>From Vaccination 1 to 6 months after the last study vaccination</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SSA: Percentage of participants with abnormal hematology and chemistry laboratory assessments</measure>
+    <time_frame>2 days and 1 week after each vaccination</time_frame>
+    <description>As measured at the central laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SSA: Percentage of participants with new electrocardiogram (ECG) abnormalities</measure>
+    <time_frame>2 days and 1 week after each vaccination</time_frame>
+    <description>ECG abnormalities consistent with probable or possible myocarditis or pericarditis, as judged by a cardiologist</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SSA: Percentage of participants with abnormal troponin I laboratory values</measure>
+    <time_frame>2 days after each vaccination</time_frame>
+    <description>as measured at the central laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SSB: Percentage of participants reporting local reactions</measure>
+    <time_frame>For 7 days after Vaccination 1 and Vaccination 2</time_frame>
+    <description>Pain at the injection site, redness, and swelling as self-reported in electronic diaries.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SSB: Percentage of participants reporting systemic events</measure>
+    <time_frame>For 7 days after Vaccination 1 and Vaccination 2</time_frame>
+    <description>Fever, fatigue, headache, chills, vomiting, diarrhea, new or worsened muscle pain, and new or worsened joint pain, as self-reported in electronic diaries</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SSB: Percentage of participants reporting adverse events</measure>
+    <time_frame>From Vaccination 1 to 4 weeks after last vaccination</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SSB: Percentage of participants reporting serious adverse events</measure>
+    <time_frame>From Vaccination 1 to 6 months after the last study vaccination</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SSB: Percentage of participants reporting medically attended adverse events</measure>
+    <time_frame>From Vaccination 1 to 6 months after the last study vaccination</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overall study: Percentage of participants from both substudies reporting local reactions</measure>
+    <time_frame>For up to 7 days following each vaccination</time_frame>
+    <description>Pain at the injection site, redness, and swelling as self-reported in electronic diaries.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overall study: Percentage of participants from both substudies reporting systemic events</measure>
+    <time_frame>For up to 7 days following each vaccination</time_frame>
+    <description>Fever, fatigue, headache, chills, vomiting, diarrhea, new or worsened muscle pain, and new or worsened joint pain, as self-reported in electronic diaries</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overall study: Percentage of participants from both substudies reporting adverse events</measure>
+    <time_frame>From vaccination 1 to 4 weeks after vaccination 2</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overall study: Percentage of participants from both substudies reporting serious adverse events</measure>
+    <time_frame>From vaccination 1 to 6 months after the last study vaccination</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overall study: Percentage of participants from both substudies reporting medically attended adverse events</measure>
+    <time_frame>From vaccination 1 to 6 months after the last study vaccination</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SSA: Geometric mean concentrations (GMCs) of glycoprotein E antibodies in proportion of evaluable immunogenicity participant</measure>
+    <time_frame>At baseline (before vaccination 1), at 1- and 4-weeks after each vaccination and 6-months after last vaccination</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SSA: Geometric mean fold rise (GMFR) from before vaccination to each subsequent timepoint in evaluable immunogenicity participants</measure>
+    <time_frame>At baseline (before vaccination 1), at 1- and 4-weeks after each vaccination and 6-months after last vaccination</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SSA: Proportion of evaluable immunogenicity participants with vaccine response in glycoprotein E antibodies from baseline to each subsequent timepoint</measure>
+    <time_frame>At baseline (before vaccination 1), at 1- and 4-weeks after each vaccination and 6-months after last vaccination</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SSB: Geometric mean concentrations (GMCs) of glycoprotein E antibodies in proportion of evaluable immunogenicity participant</measure>
+    <time_frame>At baseline (before vaccination 1), at 1- and 4-weeks after each vaccination and 6-months after last vaccination</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SSB: Geometric mean fold rise (GMFR) from before vaccination to each subsequent timepoint in evaluable immunogenicity participants</measure>
+    <time_frame>At baseline (before vaccination 1), at 1- and 4-weeks after each vaccination and 6-months after last vaccination</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SSB: Proportion of evaluable immunogenicity participants with vaccine response in glycoprotein E antibodies from baseline to each subsequent timepoint</measure>
+    <time_frame>At baseline (before vaccination 1), at 1- and 4-weeks after each vaccination and 6-months after last vaccination</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall study: Geometric mean concentrations (GMCs) of glycoprotein E antibodies in evaluable immunogenicity participants in both substudies</measure>
+    <time_frame>At baseline (before vaccination 1), at 1- and 4-weeks after each vaccination and 6-months after last vaccination</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall study: Geometric mean fold rise (GMFR) from before vaccination to each subsequent timepoint in evaluable immunogenicity participants from both substudies</measure>
+    <time_frame>At baseline (before vaccination 1), at 1- and 4-weeks after each vaccination and 6-months after last vaccination</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall study: Proportion of evaluable immunogenicity participants from both substudies with vaccine response in glycoprotein E antibodies from baseline to each subsequent timepoint</measure>
+    <time_frame>At baseline (before vaccination 1), at 1- and 4-weeks after each vaccination and 6-months after last vaccination</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <number_of_arms>11</number_of_arms>
+  <enrollment type="Anticipated">900</enrollment>
+  <condition>Shingles</condition>
+  <condition>Herpes Zoster Infection</condition>
+  <condition>Human</condition>
+  <arm_group>
+    <arm_group_label>SubStudy A (SSA): Group 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Candidate 1, Dose Level 1, lyophilized, 0, 2 months schedule</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SSA: Group 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Candidate 1, Dose Level 2, lyophilized, 0, 2 months schedule</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SSA: Group 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Candidate 1, Dose Level 3, lyophilized, 0, 2 months schedule</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SSA: Group 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Candidate 1, Dose Level 2, frozen, 0, 2 months schedule</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SSA: Group 5</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Candidate 1, Dose Level 2, Frozen, 0, 6 months schedule</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SSA- Group 6</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Candidate 2, frozen, 0, 2 months schedule</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SSA: Group 7</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Candidate 3, Frozen, 0, 2 months schedule</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SSA: Group 8</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Shingrix, 0, 2 months schedule</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SSA: Group 9</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Shingrix, 0, 6 months schedule</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Substudy B (SSB): Group 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Selected Vaccine candidate/dose-level/dosing schedule</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SSB: Group 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Shingrix</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Candidate 1: PF-07915234: VZV modRNA Powder for Suspension for Injection</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>SSA: Group 2</arm_group_label>
+    <arm_group_label>SSA: Group 3</arm_group_label>
+    <arm_group_label>SubStudy A (SSA): Group 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Candidate 1: PF-07915234: VZV modRNA Suspension for Injection</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>SSA: Group 4</arm_group_label>
+    <arm_group_label>SSA: Group 5</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Candidate 2: PF-07921188: VZV modRNA Suspension for Injection</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>SSA- Group 6</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Candidate 3: PF-07921186: VZV modRNA Suspension for Injection</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>SSA: Group 7</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Shingrix</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>SSA: Group 8</arm_group_label>
+    <arm_group_label>SSA: Group 9</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Selected Vaccine Candidate group (Dose level, Schedule)</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>Substudy B (SSB): Group 1</arm_group_label>
+    <other_name>Intramuscular injection</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Shingrix - SSB</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>SSB: Group 2</arm_group_label>
+    <other_name>Shingrix group</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Substudy A&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female participants 50 through 69 years of age (inclusive) at the time of&#xD;
+             consent.&#xD;
+&#xD;
+          2. Healthy participants who are determined by clinical assessment, including medical&#xD;
+             history and clinical judgment of the investigator, to be eligible for inclusion in the&#xD;
+             study. Note: Known infection with HIV, HCV or HBV is an exclusion in Substudy A.&#xD;
+&#xD;
+          3. Participants who are willing and able to comply with all scheduled visits,&#xD;
+             investigational plan, laboratory tests, lifestyle considerations, and other study&#xD;
+             procedures.&#xD;
+&#xD;
+          4. Capable of giving signed informed consent, which includes compliance with the&#xD;
+             requirements and restrictions listed in the ICD and in this protocol&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. History of HZ (shingles).&#xD;
+&#xD;
+          2. History of Guillain-Barré syndrome.&#xD;
+&#xD;
+          3. Known infection with HIV, HCV, or HBV.&#xD;
+&#xD;
+          4. History of severe adverse reaction associated with a vaccine and/or severe allergic&#xD;
+             reaction (eg, anaphylaxis) to any component of the study intervention(s).&#xD;
+&#xD;
+          5. Immunocompromised individuals with known or suspected immunodeficiency, as determined&#xD;
+             by history and/or laboratory/physical examination.&#xD;
+&#xD;
+          6. Bleeding diathesis or condition associated with prolonged bleeding that would, in the&#xD;
+             opinion of the investigator, contraindicate intramuscular injection.&#xD;
+&#xD;
+          7. Other medical or psychiatric condition including recent (within the past year) or&#xD;
+             active suicidal ideation/behavior or laboratory abnormality that may increase the risk&#xD;
+             of study participation or, in the investigator's judgment, make the participant&#xD;
+             inappropriate for the study.&#xD;
+&#xD;
+          8. Women who are pregnant or breastfeeding.&#xD;
+&#xD;
+          9. Prior history of heart disease (eg, heart failure, recent coronary artery disease,&#xD;
+             cardiomyopathies, pericarditis/myocarditis).&#xD;
+&#xD;
+         10. Previous vaccination with any varicella or HZ vaccine.&#xD;
+&#xD;
+         11. Individuals who receive treatment with immunosuppressive therapy, including cytotoxic&#xD;
+             agents or systemic corticosteroids, eg, for cancer or an autoimmune disease, or&#xD;
+             planned receipt throughout the study.&#xD;
+&#xD;
+         12. Receipt of blood/plasma products or immunoglobulin, from 60 days before study&#xD;
+             intervention administration or planned receipt throughout the study.&#xD;
+&#xD;
+         13. Any participant who has received or plans to receive an RNA vaccine 28 days prior to&#xD;
+             Vaccination 1.&#xD;
+&#xD;
+         14. Participation in other interventional studies within 28 days prior to study entry or&#xD;
+             anticipated involvement through and including 6 months after the last dose of study&#xD;
+             intervention. Participation in observational studies is permitted.&#xD;
+&#xD;
+         15. Any screening hematology and/or blood chemistry laboratory value that meets the&#xD;
+             definition of a ≥ Grade 1 abnormality; or any abnormal bilirubin or troponin I value.&#xD;
+&#xD;
+         16. Screening 12-lead ECG that, as judged by the investigator, is consistent with probable&#xD;
+             or possible myocarditis/pericarditis or demonstrates clinically relevant abnormalities&#xD;
+             that may affect participant safety or interpretation of study results.&#xD;
+&#xD;
+         17. Participation or planned participation in strenuous or endurance exercise within 7&#xD;
+             days before or after each study intervention administration.&#xD;
+&#xD;
+         18. Investigator site staff directly involved in the conduct of the study and their family&#xD;
+             members, site staff otherwise supervised by the investigator, and sponsor and sponsor&#xD;
+             delegate employees directly involved in the conduct of the study and their family&#xD;
+             members.&#xD;
+&#xD;
+        SubStudy B:&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female participants 50 through 69 years of age (inclusive) at the time of&#xD;
+             consent.&#xD;
+&#xD;
+          2. Healthy participants who are determined by clinical assessment, including medical&#xD;
+             history and clinical judgment of the investigator, to be eligible for inclusion in the&#xD;
+             study.&#xD;
+&#xD;
+          3. Participants who are willing and able to comply with all scheduled visits,&#xD;
+             investigational plan, laboratory tests, lifestyle considerations, and other study&#xD;
+             procedures.&#xD;
+&#xD;
+          4. Capable of giving signed informed consent, which includes compliance with the&#xD;
+             requirements and restrictions listed in the ICD and in this protocol.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. History of HZ (shingles).&#xD;
+&#xD;
+          2. History of Guillain-Barré syndrome.&#xD;
+&#xD;
+          3. History of severe adverse reaction associated with a vaccine and/or severe allergic&#xD;
+             reaction (eg, anaphylaxis) to any component of the study intervention(s).&#xD;
+&#xD;
+          4. Immunocompromised individuals with known or suspected immunodeficiency, as determined&#xD;
+             by history and/or laboratory/physical examination.&#xD;
+&#xD;
+          5. Bleeding diathesis or condition associated with prolonged bleeding that would, in the&#xD;
+             opinion of the investigator, contraindicate intramuscular injection.&#xD;
+&#xD;
+          6. Other medical or psychiatric condition including recent (within the past year) or&#xD;
+             active suicidal ideation/behavior or laboratory abnormality that may increase the risk&#xD;
+             of study participation or, in the investigator's judgment, make the participant&#xD;
+             inappropriate for the study.&#xD;
+&#xD;
+          7. Women who are pregnant or breastfeeding.&#xD;
+&#xD;
+          8. Prior history of heart disease (eg, heart failure, recent coronary artery disease,&#xD;
+             cardiomyopathies, pericarditis, or myocarditis).&#xD;
+&#xD;
+          9. Previous vaccination with any varicella or HZ vaccine.&#xD;
+&#xD;
+         10. Individuals who receive treatment with immunosuppressive therapy, including cytotoxic&#xD;
+             agents or systemic corticosteroids, eg, for cancer or an autoimmune disease, or&#xD;
+             planned receipt throughout the study.&#xD;
+&#xD;
+         11. Receipt of blood/plasma products or immunoglobulin, from 60 days before study&#xD;
+             intervention administration or planned receipt throughout the study.&#xD;
+&#xD;
+         12. Any participant who has received or plans to receive an RNA vaccine 28 days prior to&#xD;
+             Vaccination 1.&#xD;
+&#xD;
+         13. Participation in other interventional studies within 28 days prior to study entry or&#xD;
+             anticipated involvement through and including 6 months after the last dose of study&#xD;
+             intervention is prohibited. Participation in observational studies is permitted.&#xD;
+&#xD;
+         14. Investigator site staff directly involved in the conduct of the study and their family&#xD;
+             members, site staff otherwise supervised by the investigator, and sponsor and sponsor&#xD;
+             delegate employees directly involved in the conduct of the study and their family&#xD;
+             members.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>69 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <phone>1-800-718-1021</phone>
+    <email>ClinicalTrials.gov_Inquiries@pfizer.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Tri-City Cardiology</name>
+      <address>
+        <city>Gilbert</city>
+        <state>Arizona</state>
+        <zip>85233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Aventiv Research Inc.</name>
+      <address>
+        <city>Mesa</city>
+        <state>Arizona</state>
+        <zip>85206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford University Medical Center</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Diablo Clinical Research, Inc.</name>
+      <address>
+        <city>Walnut Creek</city>
+        <state>California</state>
+        <zip>94598</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cardiology Associates of Fairfield County</name>
+      <address>
+        <city>Stamford</city>
+        <state>Connecticut</state>
+        <zip>06905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Stamford Therapeutics Consortium</name>
+      <address>
+        <city>Stamford</city>
+        <state>Connecticut</state>
+        <zip>06905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GW Medical Faculty Associates</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GW Vaccine Research Unit</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Proactive Clinical Research,LLC</name>
+      <address>
+        <city>Fort Lauderdale</city>
+        <state>Florida</state>
+        <zip>33308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Acevedo Clinical Research Associates</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33142</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>East-West Medical Research Institute</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96814</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>West Valley Cardiology Services</name>
+      <address>
+        <city>Meridian</city>
+        <state>Idaho</state>
+        <zip>83642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Solaris Clinical Research</name>
+      <address>
+        <city>Meridian</city>
+        <state>Idaho</state>
+        <zip>83646</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Iowa</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Johnson County Clinical Trials</name>
+      <address>
+        <city>Lenexa</city>
+        <state>Kansas</state>
+        <zip>66219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centennial Medical Group</name>
+      <address>
+        <city>Elkridge</city>
+        <state>Maryland</state>
+        <zip>21075</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Associates in Cardiology, PA</name>
+      <address>
+        <city>Silver Spring</city>
+        <state>Maryland</state>
+        <zip>20910</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>C.S. Mott Clinical Research Center (CRC)</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ascension St. John Hospital</name>
+      <address>
+        <city>Grosse Pointe Woods</city>
+        <state>Michigan</state>
+        <zip>48236</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research, LLC</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Nebraska</state>
+        <zip>68701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Quality Clinical Research</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Nevada School of Medicine - Reno</name>
+      <address>
+        <city>Reno</city>
+        <state>Nevada</state>
+        <zip>89557</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>South Jersey Infectious Disease</name>
+      <address>
+        <city>Somers Point</city>
+        <state>New Jersey</state>
+        <zip>08244</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IMA Clinical Research</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Langone Health</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Langone Health</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tisch Hospital</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Icahn School of Medicine at Mount Sinai</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rochester Clinical Research, Inc.</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Accellacare - Wilmington</name>
+      <address>
+        <city>Wilmington</city>
+        <state>North Carolina</state>
+        <zip>28401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wilmington Health, PLLC (Cardiologist)</name>
+      <address>
+        <city>Wilmington</city>
+        <state>North Carolina</state>
+        <zip>28401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CTI Clinical Research Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Aventiv Research Inc</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Columbus Cardiovascular Associates, Inc.</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Trials of Texas, LLC</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IMA Clinical Research San Antonio</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DM Clinical Research</name>
+      <address>
+        <city>Tomball</city>
+        <state>Texas</state>
+        <zip>77375</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://pmiform.com/clinical-trial-info-request?StudyID=C5031001</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 19, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>May 19, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 19, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Shingles</keyword>
+  <keyword>Vaccine</keyword>
+  <keyword>RNA vaccine</keyword>
+  <keyword>modRNA vaccine</keyword>
+  <keyword>Herpes zoster</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Herpes Zoster</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests.</ipd_description>
+    <ipd_url>https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

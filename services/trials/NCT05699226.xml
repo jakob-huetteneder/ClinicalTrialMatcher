@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9373">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05699226</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R33MH125126</org_study_id>
+    <secondary_id>5R61MH125126</secondary_id>
+    <nct_id>NCT05699226</nct_id>
+  </id_info>
+  <brief_title>Amplitude Titration to Improve ECT Clinical Outcomes</brief_title>
+  <official_title>Amplitude Titration to Improve ECT Clinical Outcomes Randomized Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of New Mexico</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of New Mexico</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A randomized controlled trial will compare hippocampal neuroplasticity, antidepressant, and&#xD;
+      cognitive outcomes between individualized amplitude and fixed 800 mA amplitude ECT in older&#xD;
+      depressed subjects (n = 25 per group, n = 50 total). Relative to fixed 800 mA ECT:&#xD;
+&#xD;
+      H1: Individualized amplitude arm will have improved RUL antidepressant outcome (IDS-C30&#xD;
+      response rates and reduced BT electrode placement switch at V2).&#xD;
+&#xD;
+      H2: Individualized amplitude arm will have improved cognitive outcomes (DKEFS-Verbal Fluency&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      ECT dosing can be divided into three categories for the ECT responder: insufficient (no&#xD;
+      antidepressant response, no cognitive impairment), optimal (antidepressant response, no&#xD;
+      cognitive impairment), or excessive (antidepressant response, cognitive impairment).&#xD;
+      Traditional fixed amplitude ECT dosing with 800 mA adjusts pulse train duration and frequency&#xD;
+      based on seizure titration or demographic factors (age, sex). Fixed amplitude produces&#xD;
+      variable electric fields and ECT dosing secondary to individual neuroanatomic differences.&#xD;
+      Adjustments to pulse width, pulse train duration, and frequency do not improve the efficacy&#xD;
+      of insufficient dosing or mitigate the cognitive risk of excessive dosing. In contrast,&#xD;
+      individualized amplitude based on electric field modeling or amplitude seizure titration&#xD;
+      produces consistent electric fields and ECT dosing. Based on our results from the R61&#xD;
+      investigation, individualized amplitude with right unilateral electrode placement has the&#xD;
+      potential to reliably achieve optimal dosing and will be tested with the R33 phase of the&#xD;
+      investigation.&#xD;
+&#xD;
+      Subjects will receive baseline imaging, clinical (primary outcome: clinician rated Inventory&#xD;
+      of Depressive Symptomatology, IDS-C30), and neuropsychological assessment (primary outcome:&#xD;
+      Delis Kaplan Executive Function System Verbal Fluency, DKEFS) 24 to 48 hours prior to the&#xD;
+      first ECT session (V1). Subjects will receive their second assessment (V2) one day after the&#xD;
+      sixth ECT treatment and the final assessment (V3) one day after the ECT series. If the&#xD;
+      subject fails to demonstrate improvement at V2 (&lt; 25% reduction from baseline IDS-C30 total&#xD;
+      score, the primary antidepressant outcome), the subject will then receive bitemporal (BT)&#xD;
+      electrode placement for the remainder of the ECT series. The transition to BT will be a&#xD;
+      secondary antidepressant outcome. Subjects will be randomized to receive right unilateral&#xD;
+      (RUL) electrode placement with an individualized amplitude (n = 25) or traditional fixed 800&#xD;
+      mA amplitude (n = 25, 1:1 ratio). Subjects and Raters will be blinded to subject assignment.&#xD;
+      Subjects in both arms will receive fixed pulse width (1.0 milliseconds), frequency (20&#xD;
+      hertz), and pulse train duration (8 seconds).&#xD;
+&#xD;
+      For the individualized amplitude arm, subjects will receive RUL amplitude determined seizure&#xD;
+      titration during the first treatment like the R61 phase of the investigation (IDE for Soterix&#xD;
+      adapter: G200123). Subsequent RUL treatments will be completed with an individualized&#xD;
+      amplitude. To determine the individualized amplitude, we will use Ebrain. The individualized&#xD;
+      amplitude can be determined from the optimal E-field (V/m) / baseline E-field (V/m per mA).&#xD;
+      If a discrepancy exists between the amplitude seizure and E-field modeling methods that&#xD;
+      results in amplitude difference &gt; 100 mA, we will use the E-field modeling method to&#xD;
+      determine the individualized amplitude. We will round the amplitude to the nearest 100 mA&#xD;
+      from 500 to 900 mA (the current dosing range of the FDA approved ECT device).&#xD;
+&#xD;
+      For the fixed 800 mA amplitude arm, subjects will receive RUL amplitude determined seizure&#xD;
+      titration during the first treatment. The rationale for amplitude titration with the fixed&#xD;
+      amplitude arm is to 1) improve the goodness of fit of the amplitude-seizure and Ebrain&#xD;
+      relationship; and 2) control for a sub-therapeutic stimulation associated with the first&#xD;
+      treatment for both arms. RUL amplitude seizure titration will be conducted during the first&#xD;
+      treatment like the individualized amplitude arm. Subsequent RUL treatments will be completed&#xD;
+      with 800 mA amplitude. The only difference between the arms will be individualized versus&#xD;
+      fixed 800 mA amplitude after amplitude titration.&#xD;
+&#xD;
+      A randomized controlled trial will compare hippocampal neuroplasticity, antidepressant, and&#xD;
+      cognitive outcomes between individualized amplitude and fixed 800 mA amplitude ECT in older&#xD;
+      depressed subjects (n = 25 per group, n = 50 total). Relative to fixed 800 mA ECT:&#xD;
+&#xD;
+      H1: Individualized amplitude arm will have improved RUL antidepressant outcome (IDS-C30&#xD;
+      response rates and reduced BT electrode placement switch at V2).&#xD;
+&#xD;
+      H2: Individualized amplitude arm will have improved cognitive outcomes (DKEFS-Verbal Fluency&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 1, 2023</start_date>
+  <completion_date type="Anticipated">January 30, 2026</completion_date>
+  <primary_completion_date type="Anticipated">January 30, 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized clinical trial with two arms: experimental (variable amplitude) and control (fixed amplitude). Participant and outcomes assessor will be masked to assignment.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+    <masking_description>This investigation will use allocation concealment and masking for subject assignment.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Inventory of Depressive Symptomatology - Clinician Rated</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Depression severity, scores from 0 to 84, higher scores indicate more depression severity</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Delis Kaplan Executive Function System Letter Fluency</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Cognitive measure, scale scores range from 0 to 20, higher scores indicate better cognitive performance</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Depression</condition>
+  <condition>ECT</condition>
+  <condition>Cognitive Change</condition>
+  <arm_group>
+    <arm_group_label>Variable amplitude</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Individualized amplitude</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Fixed amplitude</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Fixed (800 milliamperes) amplitude</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Soterix Medical Incorporated 4x1 adapter</intervention_name>
+    <description>Device permits individualized amplitudes</description>
+    <arm_group_label>Variable amplitude</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Traditional ECT device</intervention_name>
+    <description>FDA approved ECT device with fixed amplitude.</description>
+    <arm_group_label>Fixed amplitude</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of major depressive disorder or bipolar II&#xD;
+&#xD;
+          -  Clinical indications for ECT with right unilateral electrode placement&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Defined neurological or neurodegenerative disorder (e.g., traumatic brain injury,&#xD;
+             epilepsy, Alzheimer's disease)&#xD;
+&#xD;
+          -  Other psychiatric conditions (e.g., schizophrenia, bipolar I disorder)&#xD;
+&#xD;
+          -  Current drug or alcohol use disorder (except for nicotine)&#xD;
+&#xD;
+          -  Contraindications to MRI.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Chris Abbott, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of New Mexico</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Chris Abbott, MD</last_name>
+    <phone>5052720406</phone>
+    <email>cabbott@salud.unm.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Megan Lloyd, MS</last_name>
+    <phone>‭(505) 272-3507‬</phone>
+    <email>meglloyd@salud.unm.edu</email>
+  </overall_contact_backup>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 13, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>May 22, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 22, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depression</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data will be uploaded to National Data Archive.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Data will become available after study completion.</ipd_time_frame>
+    <ipd_access_criteria>National Data Archive guidelines.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

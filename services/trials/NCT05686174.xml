@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9979">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05686174</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202108126RIPB</org_study_id>
+    <nct_id>NCT05686174</nct_id>
+  </id_info>
+  <brief_title>Investigation on Safety and Efficacy of Soybean Fermented Extract (MBS217) in Treating Patients With NAFLD</brief_title>
+  <official_title>Investigation on Safety and Efficacy of Soybean Fermented Extract (MBS217) in Treating Patients With Non-alcoholic Fatty Liver Disease: A Multicenter, Randomized, Double-Blind, Placebo-Controlled Clinical Study in National Taiwan University Hospital</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Taiwan University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Taipei Medical University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Taiwan University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Investigators aimed to investigate the efficacy and safety of fermented soybean extract&#xD;
+      (MBS-217) in treating participants with Non-alcoholic fatty liver disease (NAFLD) in this&#xD;
+      study.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background: NAFLD is one of the most prevalent chronic liver diseases in Taiwan. NAFLD can&#xD;
+      progress to fibrosis, cirrhosis, and even liver cancer. Based on the current trend in&#xD;
+      epidemiology, fatty liver disease is forecasted to be the leading cause of liver&#xD;
+      transplantation by 2030. Since NAFLD imposes a significant medical burden and there is no&#xD;
+      approved medication for NAFLD, developing an effective therapy for improving NAFLD is&#xD;
+      undoubtedly an unmet need. Diet and gut microbiota play pivotal roles in NAFLD progress. The&#xD;
+      composition of the gut microbiota and gut barrier function is affected by dietary factors,&#xD;
+      which cause pathophysiological impacts on the liver through the immune and metabolic&#xD;
+      communications between gut and liver, which is coined as the &quot;gut-liver axis.&quot; Therefore,&#xD;
+      intervention with dietary products from probiotics and prebiotics may be an opportunity to&#xD;
+      develop effective therapy against NAFLD. In fact, current evidence has shown that fermented&#xD;
+      soybean products can modulate hepatic lipid metabolism and possess potential prebiotic&#xD;
+      activities. Also, our preliminary data have shown that MBS217 supplementation has the effects&#xD;
+      of modulating gut microbiota and regulating the hepatic inflammatory-related immune response&#xD;
+      in both nonalcoholic steatohepatitis (NASH) mice and healthy adult subjects. Objective:&#xD;
+      Investigators aimed to investigate the efficacy and safety of MBS217 in treating participants&#xD;
+      with NAFLD in this study. The changes in other metabolic parameters, gut microbiome,&#xD;
+      metabolomics, and gut permeability will also be investigated. Methods: Using a block&#xD;
+      randomization with a block size of 2 in a 1:1 ratio, 30 eligible adult subjects aged 20-70&#xD;
+      years diagnosed with NAFLD will be randomized to receive one of the following regimens. This&#xD;
+      study plans to enroll 30 eligible adult subjects aged 20-70 years diagnosed with NAFLD.&#xD;
+      Enrolled subjects will be randomly assigned to receive 4 mL of either MBS217 or placebo (1:1)&#xD;
+      treatment for 16 weeks and then followed for 8 weeks, with assessment for NAFLD-related&#xD;
+      parameters, gut microbiome, metabolomics, and gut permeability. Outcome analysis: The primary&#xD;
+      outcome is the improvement of hepatic steatosis, fibrosis, stiffness, and FIB-4 evaluated by&#xD;
+      FibroScan or MRI. The secondary outcomes are the frequency of adverse events, the overall&#xD;
+      NAFLD-related parameters, gut microbiota, metabolomics, and gut permeability.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2024</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in gut microbiota</measure>
+    <time_frame>baseline to 8th, 12th, 16th and 24th weeks</time_frame>
+    <description>evaluated by fecal 16S rRNA gene sequencing</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Improvement of intrahepatic fibrosis</measure>
+    <time_frame>baseline to 16th and 24th weeks</time_frame>
+    <description>evaluated by FibroScan</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in hepatic steatosis composition</measure>
+    <time_frame>baseline to 16th week</time_frame>
+    <description>evaluated by MRI-PDFF and MRI-MRS</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in FIB-4</measure>
+    <time_frame>baseline to 12th, 16th and 24th weeks</time_frame>
+    <description>Fibrosis-4 (FIB-4) Index</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in gut permeability</measure>
+    <time_frame>baseline to 16th week</time_frame>
+    <description>evaluated by lactulose/mannitol ratio</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Non-Alcoholic Fatty Liver Disease</condition>
+  <arm_group>
+    <arm_group_label>MBS-217</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>4 ml MBS-217 twice a day for 16 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>4 ml MBS-217 placebo twice a day for 16 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>MBS217</intervention_name>
+    <description>Soybean Fermented Extract (MBS217)</description>
+    <arm_group_label>MBS-217</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Without active ingredient</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female subjects aged between 20 and 70 years old.&#xD;
+&#xD;
+          -  Serum ALT of the subject is between 40-200 U/L.&#xD;
+&#xD;
+          -  The subject is diagnosed as NAFLD through FibroScan (CAP &gt; 220 db/m).&#xD;
+&#xD;
+          -  BMI of the subject is between 18.5-40 kg/m2.&#xD;
+&#xD;
+          -  The subject is able to provide written informed consent by himself/herself and agrees&#xD;
+             to comply with all protocol requirements.&#xD;
+&#xD;
+          -  The subject agrees to comply with the following two requirements:&#xD;
+&#xD;
+        comply with all follow-up visit requirements according to the trial protocol. comply with&#xD;
+        all requirement regarding fecal samples collection, storage and delivery according to the&#xD;
+        trial protocol.&#xD;
+&#xD;
+          -  If the subject is reproductive women, she should agree to take more than two ways of&#xD;
+             contraceptive methods.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  The subject is pregnant or lactating.&#xD;
+&#xD;
+          -  The subject has received any antibiotic (excluding topical agents), antifungals or&#xD;
+             antivirals within 30 days prior to visit 1.&#xD;
+&#xD;
+          -  The subject has received any steroids (excluding topical agents), immunosuppressant or&#xD;
+             anti-inflammation drugs within 14 days prior to visit 1.&#xD;
+&#xD;
+          -  The subject has received probiotics or prebiotics 14 days prior to visit 1.&#xD;
+&#xD;
+          -  The subject has received medication affecting evaluating indicators, including&#xD;
+             hepatitis and lipid metabolism related compounds, but excluding the following&#xD;
+             medicines: Statins, Fibrates, Silymarin, N-Acetyl Cystein, Thiazolidinediones,&#xD;
+             Metformin, Fibrate, Cholestyramine, Ezetimibe, Orlistat, SGLT2i and GLP1-RAs.&#xD;
+&#xD;
+          -  The subject has a clinically significant, currently active or underlying diarrhea&#xD;
+             (loose stools more than three times in 24 hours) of infectious etiologies.&#xD;
+&#xD;
+          -  The subject who has been diagnosed a severe/injury hepatic disease, acute/chronic&#xD;
+             viral hepatitis B, acute/chronic viral hepatitis C, human immunodeficiency virus&#xD;
+             infection, disease affecting liver function, active inflammatory bowel disease,&#xD;
+             gastric ulcer, chronic kidney disease, kidney function repairmen, chronic gut&#xD;
+             inflammatory disease, coronary artery disease with arterial stent surgery in half&#xD;
+             year, cancer, autoimmune disease, fasting glucose≥ 300 mg/dl, HbA1c&gt;9%, or serum&#xD;
+             triglyceride≥ 500 mg/dl.&#xD;
+&#xD;
+          -  The subject currently is participating in studies involving other investigational&#xD;
+             drugs, medical devices, functional foods, or cosmetic within 30 days prior to visit 1.&#xD;
+&#xD;
+          -  The subject has participated in body weight control plan within 60 days prior to visit&#xD;
+             1.&#xD;
+&#xD;
+          -  The subject has an alcohol abuse problem.&#xD;
+&#xD;
+          -  The subject has been aboard for 10 days within 60 days prior to visit 1, or plans to&#xD;
+             go aboard during this study.&#xD;
+&#xD;
+          -  The subject has soybean allergy.&#xD;
+&#xD;
+          -  The subject is vegetarian or special diet.&#xD;
+&#xD;
+          -  The subject is considered by the investigator as not suitable for the trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Wei-Kai Wu</last_name>
+    <phone>+886233667316</phone>
+    <email>weikaiwu0115@gmail.com</email>
+  </overall_contact>
+  <reference>
+    <citation>Huang SC, Su HJ, Kao JH, Tseng TC, Yang HC, Su TH, Chen PJ, Liu CJ. Clinical and Histologic Features of Patients with Biopsy-Proven Metabolic Dysfunction-Associated Fatty Liver Disease. Gut Liver. 2021 May 15;15(3):451-458. doi: 10.5009/gnl20218.</citation>
+    <PMID>33431715</PMID>
+  </reference>
+  <verification_date>December 2022</verification_date>
+  <study_first_submitted>December 21, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 8, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 17, 2023</study_first_posted>
+  <last_update_submitted>January 8, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 8, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 17, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Liver Diseases</mesh_term>
+    <mesh_term>Fatty Liver</mesh_term>
+    <mesh_term>Non-alcoholic Fatty Liver Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

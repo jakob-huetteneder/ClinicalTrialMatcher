@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9185">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05703542</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-379</org_study_id>
+    <nct_id>NCT05703542</nct_id>
+  </id_info>
+  <brief_title>BXCL701 Phase 1 R/R Acute Myeloid Leukemia or Myelodysplastic Syndrome</brief_title>
+  <official_title>A Phase 1 Study of BXCL701 in Relapsed/Refractory Acute Myeloid Leukemia or Relapsed/Refractory Myelodysplastic Syndrome With Excess Blasts - 2</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eric Stephen Winer, MD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Dana-Farber Cancer Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this research study is to find the safest and most effective dose of the study&#xD;
+      drug, BXCL701, for the treatment of Acute Myeloid Leukemia (AML) or Myelodysplastic Syndrome&#xD;
+      (MDS).&#xD;
+&#xD;
+      The names of the study drugs involved in this study are/is:&#xD;
+&#xD;
+        -  BXCL701&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a multi-center, single-arm, Phase I research study for the study drug, BXCL701, for&#xD;
+      participants with refractory or relapsed Acute Myeloid Leukemia (AML) and Myelodysplastic&#xD;
+      Syndrome with Excess Blasts-2 (MDS-EB-2). Phase I clinical trials test the safety and&#xD;
+      effectiveness of an investigational drug to learn whether the drug works in treating a&#xD;
+      specific disease. &quot;Investigational&quot; means the drug is being studied. BXCL701 is a synthetic&#xD;
+      dipeptide that is in tablet form and is taken by mouth.&#xD;
+&#xD;
+      The U.S. Food and Drug Administration (FDA) has not approved BXCL701 as a treatment for any&#xD;
+      disease.&#xD;
+&#xD;
+      Research study procedures include screening for eligibility and study treatment including&#xD;
+      evaluations, blood collections, bone marrow biopsies, and follow up visits.&#xD;
+&#xD;
+      Participation in this study will last approximately 3 years.&#xD;
+&#xD;
+      It is expected that about 24 people will participate in this study.&#xD;
+&#xD;
+      BioXcel is supporting this research study by providing the study drug and funding research&#xD;
+      tests and procedures.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">May 2023</start_date>
+  <completion_date type="Anticipated">July 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2024</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximum Tolerated Dose (MTD)</measure>
+    <time_frame>From initiation of therapy to day 28, up to 35 days</time_frame>
+    <description>Defined as the highest dose at which fewer than one-third of patients experience a dose-level toxicity (DLT). MTD will be used to inform recommended Phase II dose. If no DLTs are observed, the MTD is not reached.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with treatment related Adverse Events per CTCAE 5.0</measure>
+    <time_frame>4 weeks up to 1 year</time_frame>
+    <description>Assessed using NCI Common Terminology Criteria for Adverse Events (CTCAE) version 5.0.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Complete Remission (CR) Rate</measure>
+    <time_frame>Disease assesment at baseline, cycle 1, 3 , 8, 15 , 22, and day 1 of every cycle and up to 12 cycles, corresponding to a treatment duration up to one year (each cycle is 28 days).</time_frame>
+    <description>Proportion of patients who have the response, criteria are based upon International Working Group (IWG) and European LeukemiaNet (ELN) criteria for Acute Myeloid Leukemia (APPENDIX D) and Myelodysplastic Syndrome (APPENDIX F).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complete Response with Incomplete Count Recovery (CRi) Rate</measure>
+    <time_frame>Disease assesment at baseline, cycle 1, 3 , 8, 15 , 22, and day 1 of every cycle and up to 12 cycles, corresponding to a treatment duration up to one year (each cycle is 28 days).</time_frame>
+    <description>Proportion of patient who has the response, criteria are based upon International Working Group (IWG) and European LeukemiaNet (ELN) criteria for Acute Myeloid Leukemia (APPENDIX D) and Myelodysplastic Syndrome (APPENDIX F).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Partial Response (PR) Rate</measure>
+    <time_frame>Disease assesment at baseline, cycle 1, 3 , 8, 15 , 22, and day 1 of every cycle and up to 12 cycles, corresponding to a treatment duration up to one year (each cycle is 28 days)..</time_frame>
+    <description>Based upon International Working Group (IWG) and European LeukemiaNet (ELN) criteria for AML (APPENDIX D) and MDS (APPENDIX F). Defined as decrease by &gt;= 50% in blast percentage to 5-25% or to &lt;= 5% with auer rods present in marrow; normalization neutrophil count &gt;= 1000μL and platelet count &gt;= 100000μL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Morphologic Leukemia-free State (MLFS) Rate</measure>
+    <time_frame>Disease assesment at baseline, cycle 1, 3 , 8, 15 , 22, and day 1 of every cycle and up to 12 cycles, corresponding to a treatment duration up to one year (each cycle is 28 days).</time_frame>
+    <description>Evaluated only in AML patients per the 2017 ELN criteria (Dohner, Blood 2017, PMID: 27895058), defined as: Bone marrow blasts &lt;5%; absence of blasts with Auer rods; absence of extramedullary disease; no hematologic recovery required.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hematologic Improvement (HI) Rate</measure>
+    <time_frame>Disease assesment at baseline, cycle 1, 3 , 8, 15 , 22, and day 1 of every cycle and up to 12 cycles, corresponding to a treatment duration up to one year (each cycle is 28 days).</time_frame>
+    <description>Evaluated only in MDS-EB-2 patients.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median Overall Survival</measure>
+    <time_frame>up to 2 years</time_frame>
+    <description>OS is based on the Kaplan-Meier method, defined as the time from study entry to death or censored at date last known alive.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median Duration of Response (DOR)</measure>
+    <time_frame>up to 2 years</time_frame>
+    <description>Defined as the time of first morphologic response until the earlier of progression of disease or death due to any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Concentration (Cmax)</measure>
+    <time_frame>Pharmacokinetic sampling is collected Cycle 1 Day 1, 3, 8, 15, Day 22, and Cycle 2 Day 1 (each cycle is 28 days)</time_frame>
+    <description>Defined as the maximum concentration of BCXL701 over the collection period.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">24</enrollment>
+  <condition>Acute Myeloid Leukemia</condition>
+  <condition>Myelodysplastic Syndrome With Excess Blasts-2</condition>
+  <arm_group>
+    <arm_group_label>Dose Escalation BXCL701</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dose escalation will occur using a 3+3 dose escalation approach, evaluating 4 different dose levels of BXCL701.&#xD;
+During each 28 day study cycle participants will take BXCL701 2x daily for up to 12 cycles.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BXCL701</intervention_name>
+    <description>Tablet, taken Orally</description>
+    <arm_group_label>Dose Escalation BXCL701</arm_group_label>
+    <other_name>Talabostat</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18 and older&#xD;
+&#xD;
+          -  Subjects with evidence of AML that meet at least one of the following criteria:&#xD;
+&#xD;
+               -  Relapsed AML: as evidence by ≥5% myeloblasts in the bone marrow, or reappearance&#xD;
+                  of blasts in the peripheral blood&#xD;
+&#xD;
+               -  Refractory AML: ≤2 prior induction regimens (example: patients who receive 7 + 3&#xD;
+                  followed by 5 + 2 would count as one induction regimen) OR&#xD;
+&#xD;
+               -  Subjects with WHO defined myelodysplastic syndrome with excess blasts-2&#xD;
+                  (MDS-EB-2) as defined by blast count between 10% - 19% in the bone marrow or&#xD;
+                  peripheral blood blasts 5% - 19% or Auer rods noted and who are refractory or&#xD;
+                  relapsed after at least 4 cycles of a hypomethylating agent (azacitidine,&#xD;
+                  decitabine, or oral decitabine/cedazuridine)&#xD;
+&#xD;
+          -  ECOG performance status ≤2 (Karnofsky ≥60%, see Appendix B).&#xD;
+&#xD;
+          -  Participants must have adequate organ and marrow function as defined below:&#xD;
+&#xD;
+               -  Estimated Creatinine Clearance ≥30 mL/min by Cockcroft-Gault calculation&#xD;
+&#xD;
+               -  Total Bilirubin ≤1.5 x ULN*&#xD;
+&#xD;
+               -  ALT and AST ≤3x ULN*&#xD;
+&#xD;
+               -  EF &gt;35%: *unless considered due to leukemic organ involvement. NOTE: Subjects&#xD;
+                  with Gilbert's Syndrome may have a total bilirubin &gt;1.5 x ULN per discussion with&#xD;
+                  overall study PI.&#xD;
+&#xD;
+          -  WBC &lt;25,000 / µL on day of 1 of cycle 1; cytoreduction is permitted with hydroxyurea&#xD;
+             which is allowed throughout cycle 1 until cycle 2 day 1&#xD;
+&#xD;
+          -  Human immunodeficiency virus (HIV)-infected participants on effective anti-retroviral&#xD;
+             therapy with undetectable viral load within 6 months are eligible for this trial.&#xD;
+&#xD;
+          -  For participants with evidence of chronic hepatitis B virus (HBV) infection, the HBV&#xD;
+             viral load must be undetectable on suppressive therapy, if indicated.&#xD;
+&#xD;
+          -  Participants with a history of hepatitis C virus (HCV) infection must have been&#xD;
+             treated and cured. For participants with HCV infection who are currently on treatment,&#xD;
+             they are eligible if they have an undetectable HCV viral load.&#xD;
+&#xD;
+          -  Participants with treated central nervous system (CNS) disease are eligible if&#xD;
+             follow-up brain imaging after CNS-directed therapy shows no evidence of progression&#xD;
+&#xD;
+          -  Male subjects must agree to refrain from unprotected sex and sperm donation from&#xD;
+             initial drug administration until 90 days after the last dose of study drug.&#xD;
+&#xD;
+          -  Females of childbearing potential (i.e not postmenopausal for at least 1 year or not&#xD;
+             surgically sterile) must have negative results by a serum pregnancy test performed&#xD;
+             within 7 days of day 1. Females must agree to refrain from unprotected sex/adequate&#xD;
+             contraception via barrier method from initial drug administration until 90 days after&#xD;
+             the last dose of study drug.&#xD;
+&#xD;
+          -  Ability to understand and the willingness to sign a written informed consent document.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects who have known Acute Promyelocytic Leukemia.&#xD;
+&#xD;
+          -  Subjects with active CNS involvement with AML.&#xD;
+&#xD;
+          -  Participants who have had chemotherapy, other investigational therapy, immunotherapy,&#xD;
+             or radiotherapy within 2 weeks or 5 half-lives from prior therapy, whichever is&#xD;
+             longer, prior to the first dose of study medication. Hydroxyurea is allowed with no&#xD;
+             required washout, and hydroxyurea may be administered for the first cycle of the&#xD;
+             protocol for patients who have proliferative disease (WBC &lt;25K) with a maximum allowed&#xD;
+             dose of 6 g per day.&#xD;
+&#xD;
+          -  Participants who have received oral tyrosine kinase inhibitors (TKIs) within two weeks&#xD;
+             or 5 half-lives (whichever is longer) of the first dose of study medication&#xD;
+&#xD;
+          -  Subjects who are &lt;100 days from allogeneic bone marrow transplant.&#xD;
+&#xD;
+          -  Subjects who have active graft-versus host disease are not eligible. Patients should&#xD;
+             be off calcineurin inhibitors for at least 28 days (4 weeks) prior to start of study&#xD;
+             treatment C1D1&#xD;
+&#xD;
+          -  Participants who have not recovered from adverse events due to prior anti-cancer&#xD;
+             therapy (i.e., have residual toxicities &gt;Grade 1) with the exception of alopecia.&#xD;
+&#xD;
+          -  Participants who are receiving any other investigational agents.&#xD;
+&#xD;
+          -  Concomitant medications: It is strongly encouraged that patients who are on strong&#xD;
+             inducers or inhibitors of CYP3A4 be changed to a comparable drug if possible. If not&#xD;
+             possible, then dose reductions will need to be made as per APPENDIX C. Patients are&#xD;
+             not permitted to be on a gliptin (sitagliptin, vildagliptin, saxagliptin, linagliptin,&#xD;
+             and alogliptin).&#xD;
+&#xD;
+          -  Patients with a history of orthostatic hypotension with a baseline SBP &lt;100, or&#xD;
+             history of uncontrolled hypertension.&#xD;
+&#xD;
+          -  Subject has cardiovascular disability status of NYHA class ≥2&#xD;
+&#xD;
+          -  No concurrent active malignancies are allowed on study for ≥2 years prior to treatment&#xD;
+             start with the exception of currently treated basal cell or squamous cell carcinoma of&#xD;
+             the skin, carcinoma in-situ of the cervix or breast, or low-grade prostate cancer.&#xD;
+&#xD;
+          -  Patients with known active hepatitis B virus (HBV) infection should be excluded&#xD;
+             because of potential effects on immune function and/or drug interactions. However, if&#xD;
+             a patient has HBV history with an undetectable HBV load by polymerase chain reaction&#xD;
+             (PCR), no liver-related complications, and is on definitive HBV therapy, then he/she&#xD;
+             would be eligible for study.&#xD;
+&#xD;
+          -  Patients with known active hepatitis C virus (HCV) infection. Patients with a history&#xD;
+             of HCV infection who received definitive therapy and has an undetectable viral load by&#xD;
+             PCR would be eligible.&#xD;
+&#xD;
+          -  Participants with uncontrolled intercurrent illness including, but not limited to,&#xD;
+             ongoing or active infection, symptomatic congestive heart failure, unstable angina&#xD;
+             pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would&#xD;
+             limit compliance with study requirements. Any other prior or ongoing condition, in the&#xD;
+             opinion of the investigator, that could adversely affect the safety of the patient or&#xD;
+             impair the assessment of study results. As patients with AML and MDS are prone to&#xD;
+             infections, if patients are actively being treated with appropriate antibiotics or&#xD;
+             antifungal therapy with clinical evidence of infection control, then they will be&#xD;
+             considered eligible for study.&#xD;
+&#xD;
+          -  Participants with psychiatric illness/social situations that would limit compliance&#xD;
+             with study requirements.&#xD;
+&#xD;
+          -  Pregnant women are excluded from this study because BXCL701 has the potential for&#xD;
+             teratogenic or abortifacient effects. Because there is an unknown but potential risk&#xD;
+             for adverse events in nursing infants secondary to treatment of the mother with these&#xD;
+             agents, breastfeeding should be discontinued.&#xD;
+&#xD;
+          -  Inclusion of Women and Minorities: Both men and women of all races and ethnic groups&#xD;
+             are eligible for this trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eric S Winter, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Dana-Farber Cancer Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Eric S Winer, MD</last_name>
+    <phone>1 617-632-2053</phone>
+    <email>erics_winer@dfci.harvard.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Eric S Winter, MD</last_name>
+    <phone>1 617-632-2053</phone>
+    <email>erics_winer@dfci.harvard.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Dana Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eric s Winer, MD</last_name>
+      <phone>617-632-3000</phone>
+      <email>EricS_Winer@DFCI.HARVARD.EDU</email>
+    </contact>
+    <investigator>
+      <last_name>Eric S. Winer, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>November 16, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>February 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 21, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Dana-Farber Cancer Institute</investigator_affiliation>
+    <investigator_full_name>Eric Stephen Winer, MD</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Acute Myeloid Leukemia</keyword>
+  <keyword>Myelodysplastic Syndrome with Excess Blasts-2</keyword>
+  <keyword>Refractory Acute Myeloid Leukemia</keyword>
+  <keyword>Relapsed Acute Myeloid Leukemia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Leukemia, Myeloid</mesh_term>
+    <mesh_term>Leukemia, Myeloid, Acute</mesh_term>
+    <mesh_term>Preleukemia</mesh_term>
+    <mesh_term>Myelodysplastic Syndromes</mesh_term>
+    <mesh_term>Anemia, Refractory, with Excess of Blasts</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The Dana-Farber / Harvard Cancer Center encourages and supports the responsible and ethical sharing of data from clinical trials. De-identified participant data from the final research dataset used in the published manuscript may only be shared under the terms of a Data Use Agreement. Requests may be directed to: [contact information for Sponsor Investigator or designee]. The protocol and statistical analysis plan will be made available on Clinicaltrials.gov only as required by federal regulation or as a condition of awards and agreements supporting the research.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Data can be shared no earlier than 1 year following the date of publication</ipd_time_frame>
+    <ipd_access_criteria>Contact the Belfer Office for Dana-Farber Innovations (BODFI) at innovation@dfci.harvard.edu</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

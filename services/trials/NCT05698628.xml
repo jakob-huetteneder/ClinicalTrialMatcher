@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9397">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05698628</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AMC_2022_1691</org_study_id>
+    <nct_id>NCT05698628</nct_id>
+  </id_info>
+  <brief_title>Comparison of Preemptive Versus Conventional Distal Perfusion in Peripheral VA-ECMO</brief_title>
+  <official_title>Comparison Of Conventional Versus Preemptive Distal Perfusion Strategy in Peripheral Venoarterial Extracorporeal Membrane Oxygenation Patients to Prevent Acute Limb Ischemia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Min-Seok Kim</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Asan Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Peripheral VA-ECMO is widely used in refractory cardiogenic shock patients as a salvage&#xD;
+      therapy. In most cases, the femoral artery and vein are used for the vascular approach. Large&#xD;
+      cannulas are usually used for proper oxygenation, which may cause peripheral limb ischemia.&#xD;
+      Distal perfusion catheterization (DPC) at the ipsilateral arterial cannula site is&#xD;
+      recommended to prevent distal limb ischemia. However, there is no consensus on the proper&#xD;
+      timing of DPC and additional invasive procedures may cause complications during VA-ECMO&#xD;
+      support. In this analysis, the investigators compare the clinical outcomes of distal limb&#xD;
+      ischemia complications between the conventional DPC group (DPC at the time of limb ischemia&#xD;
+      sign) and the preemptive DPC group (DPC at the time of VA-ECMO application).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 28, 2023</start_date>
+  <completion_date type="Anticipated">February 28, 2027</completion_date>
+  <primary_completion_date type="Anticipated">February 28, 2027</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Limb ischemia</measure>
+    <time_frame>From date of randomization until the date of discharge or assessed up to 90 days</time_frame>
+    <description>Limb ischemia requiring surgical/percutaneous procedure or resulting necrosis or neurologic sequelae in the distal limb during hospitalization</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>From date of randomization until the date of death from any cause, assessed up to 12 months</time_frame>
+    <description>All-cause of death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Successful ECMO weaning</measure>
+    <time_frame>From date of randomization until the date of discharge or assessed up to 90 days</time_frame>
+    <description>Having ECMO removed and not requiring further mechanical support because of recurring cardiogenic shock over the following 30 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ECMO related complications</measure>
+    <time_frame>From date of randomization until the date of ECMO removal, assesed up to 90 days</time_frame>
+    <description>Bleeding, systemic thromboembolism, etc.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Extracorporeal Membrane Oxygenation Complication</condition>
+  <arm_group>
+    <arm_group_label>Preemptive distal perfusion group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Distal perfusion catheterization will be done within 1 hour after VA-ECMO application.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Conventional distal perfusion group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The conventional group will undergo distal perfusion catheterization at the time of limb ischemia sign.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Distal perfusion catheterization</intervention_name>
+    <description>Distal perfusion catheterization will be done within 1 hour after the VA-ECMO application in the preemptive DPC group. The conventional DPC group will undergo distal perfusion catheterization at the time of limb ischemia sign.</description>
+    <arm_group_label>Conventional distal perfusion group</arm_group_label>
+    <arm_group_label>Preemptive distal perfusion group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥19 years old&#xD;
+&#xD;
+          -  Refractory cardiogenic shock with peripheral VA-ECMO&#xD;
+&#xD;
+          -  Informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Unwilling or unable to obtain informed consent from the participant or substitute&#xD;
+             decision-maker&#xD;
+&#xD;
+          -  Patients who are currently pregnant, postpartum period within 30 days or are&#xD;
+             breast-feeding&#xD;
+&#xD;
+          -  VA-ECMO application for causes other than cardiogenic shock&#xD;
+&#xD;
+          -  Severe coagulopathy&#xD;
+&#xD;
+          -  Irreversible limb ischemia requiring interventional procedures or surgery at the time&#xD;
+             of VA-ECMO (previously diagnosed ASO(atherosclerosis obliterans) patients)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Min-Seok Kim</last_name>
+    <role>Study Chair</role>
+    <affiliation>Asan Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Min-Seok Kim, PhD</last_name>
+    <phone>82-2-3010-3948</phone>
+    <email>msk@amc.seoul.kr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ah-Ram Kim, MD</last_name>
+    <phone>82-2-3010-0111</phone>
+    <email>ahram3256@amc.seoul.kr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Asan Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>05505</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Min-Seok Kim, PhD</last_name>
+      <phone>82-2-3010-3948</phone>
+      <email>msk@amc.seoul.kr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ah-Ram Kim, MD</last_name>
+      <phone>82-2-3010-0169</phone>
+      <email>ahram3256@amc.seoul.kr</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 12, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 22, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>May 14, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 14, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 16, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Asan Medical Center</investigator_affiliation>
+    <investigator_full_name>Min-Seok Kim</investigator_full_name>
+    <investigator_title>Clinical Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>Extracorporeal Membrane Oxygenation</keyword>
+  <keyword>Limb ischemia</keyword>
+  <keyword>Cardiogenic shock</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9916">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05687565</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PR(AG)12/2022</org_study_id>
+    <nct_id>NCT05687565</nct_id>
+  </id_info>
+  <brief_title>Efficacy of Lauric Acid, a Dietary Fatty Acid, in Modifying the Latent Reservoir of HIV</brief_title>
+  <acronym>FATHIV</acronym>
+  <official_title>Efficacy of Lauric Acid, a Dietary Fatty Acid, in Modifying the Latent Reservoir of HIV</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital Universitari Vall d'Hebron Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospital Universitari Vall d'Hebron Research Institute</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Dietary lauric acid supplementation could have a significant impact on the HIV reservoir in&#xD;
+      antiretroviral-treated patients by inducing HIV viral transcription in latently infected&#xD;
+      cells and preserving the HIV-specific immune response, without causing toxicity.&#xD;
+&#xD;
+      Design: Pilot, randomized, placebo-controlled, patient-blind study. Patients ≥18 years old&#xD;
+      with HIV-1 receiving stable ART (no change in ART for at least 6 months) and a serum HIV RNA&#xD;
+      load of &lt; 50 RNA copies/mL for at least 2 years and with a CD4 T cell count &gt;300 cells/μl&#xD;
+      will be randomized 1:1:1 to dietary supplementation with placebo (controlled group) or lauric&#xD;
+      acid 1.5 g once daily (experimental group 1) or with lauric acid 3 g once daily (experimental&#xD;
+      group 2) for 24 consecutive weeks.&#xD;
+&#xD;
+      Primary objective: To assess the effect of dietary lauric acid supplementation, compared with&#xD;
+      placebo, on the reactivation of HIV transcription in latently infected CD4 T cells in&#xD;
+      HIV-infected patients on suppressive antiretroviral therapy.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 27, 2022</start_date>
+  <completion_date type="Anticipated">December 21, 2025</completion_date>
+  <primary_completion_date type="Anticipated">November 21, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Effective of lauric acid in HIV</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Number of patients on a lauric acid diet presenting a response on the reactivation of HIV transcription in CD4 T cells.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Effective of lauric acid on the size of the latent HIV-1 reservoir in CD4 T cells</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>To dertermine the effetive of lauric acid on the size of the latent HIV-1 reservoir in CD4 T cells</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effective of lauric acid on the production of HIV-1 viral</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>To dertermine the effetive of lauric acid on on the production of HIV-1 viral (viral load)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effective of lauric acid on the size of the HIV-1 reservoir in intestinal tissue</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>To dertermine the effetive of lauric acid on the size of the HIV-1 reservoir in intestinal tissue</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate Lauric acid plasmatic levels</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>To evaluate Lauric acid with high performance liquid chromatography (HPLC).</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">27</enrollment>
+  <condition>HIV Infections</condition>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Dietary supplementation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Experimental group 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1.5 grams once daily during 48 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Experimental group 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>3 grams once daily during 48 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Control group placebo</intervention_name>
+    <description>Dietary suplementation</description>
+    <arm_group_label>Control group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Experimental group 1 lauric acid</intervention_name>
+    <description>Lauric acid 1.5 grams once daily</description>
+    <arm_group_label>Experimental group 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Experimental group 2 lauric acid</intervention_name>
+    <description>Lauric acid 3 grams once daily</description>
+    <arm_group_label>Experimental group 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  HIV-1 infected men or women ≥18 years old&#xD;
+&#xD;
+          -  Not having interrupted current antiretroviral treatment at least 6 months before the&#xD;
+             screening visit.&#xD;
+&#xD;
+          -  Acceptable stable ART regimens prior to screening include 2 more NRTIs: INI or NNRTI&#xD;
+             or boosted PI.&#xD;
+&#xD;
+          -  Documented prior evidence of at least 2 years prior to enrollment with a serum HIV RNA&#xD;
+             load of &lt;50 RNA copies/ml (viral load of &gt;50 copies but &lt;200 is allowed).&#xD;
+&#xD;
+          -  Plasma HIV-1 RNA &lt;50 c/ml at screening visit.&#xD;
+&#xD;
+          -  CD4 T cell count &gt; 300 cells/µL at screening visit.&#xD;
+&#xD;
+        A woman may be eligible to enroll and participate in the study if:&#xD;
+&#xD;
+          -  Not pregnant, not of childbearing potential or physically unable to become pregnant&#xD;
+&#xD;
+          -  You are of childbearing potential with a negative pregnancy test at the screening&#xD;
+             visit and agree to use contraception to prevent pregnancy.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Have suffered any significant acute illness in the last 8 weeks.&#xD;
+&#xD;
+          -  Having been diagnosed in the past or present with an AIDS-defining illness&#xD;
+&#xD;
+          -  Previous CD4 T cell count &lt;200 cells/μL.&#xD;
+&#xD;
+          -  Having suffered an infection with Hepatitis B or C&#xD;
+&#xD;
+          -  Having any disease or condition that in the investigator's opinion is not appropriate&#xD;
+             for the patient's participation in the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Joaquin Burgos, MD</last_name>
+    <phone>93 4896090</phone>
+    <email>joaquin.burgos@vallhebron.cat</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital Universitario Vall d´Hebron</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joaquin Burgos, MD</last_name>
+      <phone>93 4896090</phone>
+      <email>joaquin.burgos@vallhebron.cat</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 13, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>January 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 18, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>lauric acid</keyword>
+  <keyword>HIV</keyword>
+  <keyword>antiretroviral treatment</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>HIV Infections</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9391">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05698771</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2023-496197</org_study_id>
+    <nct_id>NCT05698771</nct_id>
+  </id_info>
+  <brief_title>NAD-brain: a Pharmacokinetic Study of NAD Replenishment Therapy</brief_title>
+  <acronym>NAD-brain</acronym>
+  <official_title>NAD-brain: a Pharmacokinetic Study of NAD Replenishment Therapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Haukeland University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Haukeland University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of the NAD-brain study is to determine the blood and brain pharmacokinetics of&#xD;
+      NAD replenishment therapy (NRT) using Nicotinamide Riboside (NR) or Nicotinamide&#xD;
+      Mononucleotide (NMN).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The NAD-brain study will perform a parallel assessment of NAD replenishment therapy (NRT)&#xD;
+      pharmacokinetics in the blood and brain of healthy human subjects. A total of 6-10 healthy&#xD;
+      individuals (3-5 men and 3-5 women) will undergo repeated blood sampling and 31P-MRS brain&#xD;
+      scans during two 20-day periods, each of which will start with 8 days of daily intake of&#xD;
+      Nicotinamide Riboside (NR) 600mg x 2, or Nicotinamide Mononucleotide (NMN) 600mg x 2. The two&#xD;
+      20-day periods will be 14 days apart to allow for washout of the previous compound. Blood&#xD;
+      will be analyzed for NAD-metabolites. The simultaneous change in NAD-metabolism over time in&#xD;
+      blood and brain will be assessed and blood and brain pharmacokinetics for NRT in humans will&#xD;
+      be established.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">January 29, 2023</start_date>
+  <completion_date type="Anticipated">March 17, 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 17, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>NAD metabolism</measure>
+    <time_frame>20 days for NR and 20 days for NMN</time_frame>
+    <description>The change of cerebral NAD levels (measured by 31P-MRS) and of blood NAD-metabolites (measured by HPLC-MS), over time (20 days), after the administration of oral NRT with the following NAD precursors: NR 600mg x 2 daily, NMN 600mg x 2 daily.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Interindividual differences</measure>
+    <time_frame>20 days for NR and 20 days for NMN</time_frame>
+    <description>Descriptive analyses of interindividual differences in the time course of change in the blood NAD-metabolome and cerebral NAD increase, following the administration of oral NRT.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-sex differences</measure>
+    <time_frame>20 days for NR and 20 days for NMN</time_frame>
+    <description>Between-sex differences in the time course of change in the blood NAD-metabolome and cerebral NAD increase, following the administration of oral NRT.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">6</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>NR</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A total of 6 individuals comprising 3 males and 3 females will receive NR 1200 mg daily (600 mg x 2) for 8 days, with a total measurement/assessment period of 20 days. These will be the same individuals as in the NMN-arm. The individuals will enter the two arms sequentially and with a washout period of 14 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>NMN</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A total of 6 individuals comprising 3 males and 3 females will receive NMN 1200 mg daily (600 mg x 2) for 8 days, with a total measurement/assessment period of 20 days. These will be the same individuals as in the NR-arm. The individuals will enter the two arms sequentially and with a washout period of 14 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>nicotinamide riboside</intervention_name>
+    <description>The NAD-brain study will perform a parallel assessment of NAD replenishment therapy (NRT) pharmacokinetics in the blood and brain of healthy human subjects . A total of 6-10 healthy individuals (3-5 men and 3-5 women) will undergo repeated blood sampling and 31P-MRS brain scans during two 20-day periods, each of which will start with 8 days of daily intake of Nicotinamide Riboside (NR) 600mg x 2, or Nicotinamide Mononucleotide (NMN) 600mg x 2. The two 20-day periods will be 14 days apart to allow for washout of the previous compound. Blood will be analyzed for NAD-metabolites using HPLC-MS. By this approach we will measure the simultaneous change in NAD-metabolism over time in blood and brain and establish blood and brain pharmacokinetics for NRT in humans. Based on these results we will determine the optimal dosing frequency of NRT in healthy individuals.</description>
+    <arm_group_label>NR</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>nicotinamide mononucleotide</intervention_name>
+    <description>The NAD-brain study will perform a parallel assessment of NAD replenishment therapy (NRT) pharmacokinetics in the blood and brain of healthy human subjects . A total of 6-10 healthy individuals (3-5 men and 3-5 women) will undergo repeated blood sampling and 31P-MRS brain scans during two 20-day periods, each of which will start with 8 days of daily intake of Nicotinamide Riboside (NR) 600mg x 2, or Nicotinamide Mononucleotide (NMN) 600mg x 2. The two 20-day periods will be 14 days apart to allow for washout of the previous compound. Blood will be analyzed for NAD-metabolites using HPLC-MS. By this approach we will measure the simultaneous change in NAD-metabolism over time in blood and brain and establish blood and brain pharmacokinetics for NRT in humans. Based on these results we will determine the optimal dosing frequency of NRT in healthy individuals.</description>
+    <arm_group_label>NMN</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 30-85 years at the time of enrollment.&#xD;
+&#xD;
+          -  Neurologically healthy at the time of enrollment.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of acute or chronic neurological disorder affecting the central nervous system&#xD;
+             (CNS). Migraine, cluster headache, and tension headache are allowed, but not on the&#xD;
+             day of the study visits.&#xD;
+&#xD;
+          -  Impaired renal function.&#xD;
+&#xD;
+          -  Impaired hepatic function.&#xD;
+&#xD;
+          -  Severe hematological disease.&#xD;
+&#xD;
+          -  Any psychiatric disorder that would interfere with compliance in the study.&#xD;
+&#xD;
+          -  Any severe somatic illness that would make the individual unable to comply and&#xD;
+             participate in the study.&#xD;
+&#xD;
+          -  Mitochondrial disease.&#xD;
+&#xD;
+          -  Use of high dose vitamin B3 supplementation within 30 days of enrolment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>35 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Charalampos Tzoulis, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Haukeland University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Charalampos Tzoulis, MD, PhD</last_name>
+    <phone>94392305</phone>
+    <phone_ext>+47</phone_ext>
+    <email>charalampos.tzoulis@uib.no</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Christian Dölle, PhD</last_name>
+    <phone>46784849</phone>
+    <phone_ext>+47</phone_ext>
+    <email>Christian.Doelle@uib.no</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Haukeland University Hospital</name>
+      <address>
+        <city>Bergen</city>
+        <state>Vestland</state>
+        <zip>5021</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Charalampos Tzoulis, MD, PhD</last_name>
+      <phone>94392305</phone>
+      <phone_ext>+47</phone_ext>
+      <email>charalampos.tzoulis@helse-bergen.no</email>
+    </contact>
+    <contact_backup>
+      <last_name>Christian Dölle, PhD</last_name>
+      <phone>46784849</phone>
+      <phone_ext>+47</phone_ext>
+      <email>Christian.Doelle@uib.no</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Charalampos Tzoulis, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Christian Dölle, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Norway</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 16, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 16, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>January 25, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 25, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>nicotinamide adenine dinucleotide</keyword>
+  <keyword>NAD</keyword>
+  <keyword>NAD+</keyword>
+  <keyword>pharmacokinetics</keyword>
+  <keyword>nicotinamide riboside</keyword>
+  <keyword>nicotinamide mononucleotide</keyword>
+  <keyword>brain kinetics</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Niacinamide</mesh_term>
+    <mesh_term>Niacin</mesh_term>
+    <mesh_term>Nicotinic Acids</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

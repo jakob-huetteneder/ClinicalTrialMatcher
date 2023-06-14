@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9983">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05686122</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00112397</org_study_id>
+    <secondary_id>1R21CA273832</secondary_id>
+    <nct_id>NCT05686122</nct_id>
+  </id_info>
+  <brief_title>Initial Testing of a Mobile App Pain Coping Intervention for Outpatient Oncology Settings (PainPac)</brief_title>
+  <official_title>Initial Testing of a Mobile App Pain Coping Intervention for Outpatient Oncology Settings</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Duke University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Duke University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      PainPac is innovative in its potential to integrate with healthcare systems through&#xD;
+      electronic medical records (EMRs). PainPac leverages technology to increase patient access to&#xD;
+      interventions and uses real-time assessment to improve care. PainPac is positioned to rapidly&#xD;
+      provide improved care through combining biological data (e.g., EMRs, patient collected) with&#xD;
+      behavioral data to dramatically improve outcomes. PainPac could track beneficial outcomes&#xD;
+      related to clinical pain scores (e.g., patients with scores 4-8 benefit) and intervention&#xD;
+      implementation could be based on this; a more advanced possibility is use of geospatial&#xD;
+      tracking to predict space/time where pain is likely to impact functioning and push an&#xD;
+      intervention strategy - behavioral or pharmacological. PainPac is designed for future&#xD;
+      transmission of data to EMRs to inform providers of patient status. This work will provide&#xD;
+      data to bypass traditional efficacy trials and move quickly to a large effectiveness trial.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators will use a pilot RCT to examine PainPac feasibility, patient burden,&#xD;
+      engagement, acceptability, and initial pain-related outcomes, compared to a therapist led&#xD;
+      videoconference delivered behavioral pain intervention (PCST-Video) in colorectal cancer&#xD;
+      patients with pain. Investigators will use quantitative and qualitative data to optimize&#xD;
+      PainPac. Participants will complete assessments at pre-treatment (A1), post-treatment (A2; 4&#xD;
+      weeks post-A1), and 1 month follow-up (A3; 1 month post-A2) (months 5-22). The pain&#xD;
+      management strategies are relevant and efficacious across cancer types. Due to the pilot&#xD;
+      nature of this work, investigators will enroll an opportunity sample of colorectal cancer&#xD;
+      patients.&#xD;
+&#xD;
+      PainPac is a patient-focused intervention developed using cognitive-behavioral theory and&#xD;
+      empirically supported strategies to enhance patients' ability to manage their pain. PainPac&#xD;
+      is a mobile app available to participants on a smartphone or tablet. PainPac uses Social&#xD;
+      Cognitive Theory to promote behaviors to improve pain, self-efficacy for pain management, and&#xD;
+      pain-related quality of life indices. It also uses real-time data to personalize the&#xD;
+      intervention and messaging to participants. PainPac contains 4 modules, each including a&#xD;
+      skill that has shown efficacy for reducing pain in patients with cancer. Patients are&#xD;
+      prompted to complete one module each week for 4 weeks. The app also has interactive&#xD;
+      components to improve coping skills engagement.&#xD;
+&#xD;
+      Participants randomized to PCST-Video will receive 4 behavioral cancer pain intervention&#xD;
+      sessions delivered by videoconferencing by a pain therapist in the medical center to the&#xD;
+      patient in their natural environment (e.g., home). Sessions will be scheduled weekly for&#xD;
+      45-60 min and mimic in person sessions. PCST-Video session content is matches the PainPac&#xD;
+      skills modules described above. PCST-Video participants will complete assessments at the same&#xD;
+      intervals as PainPac participants.&#xD;
+&#xD;
+      Aim 1: Test whether PainPac is feasible (primary aim), low burden, engaging, and acceptable.&#xD;
+&#xD;
+      Aim 2: Examine the impact of PainPac on pain severity, pain interference, pain self-efficacy,&#xD;
+      and quality of life.&#xD;
+&#xD;
+      Aim 3: Gather quantitative and qualitative post-treatment data on patients' preferences,&#xD;
+      barriers, and facilitators regarding PainPac to update and optimize PainPac for a future&#xD;
+      large randomized clinical effectiveness trial.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 1, 2023</start_date>
+  <completion_date type="Anticipated">March 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility as measured by study accrual</measure>
+    <time_frame>15 months</time_frame>
+    <description>Reaching target accrual (N=60) within 15 months.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility as measured by attrition</measure>
+    <time_frame>1-month post-baseline assessment</time_frame>
+    <description>&lt;25% attrition by 1-month post-baseline.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility as measured by the number of study baseline assessments completed</measure>
+    <time_frame>20 minutes</time_frame>
+    <description>Protocol adherence indicated by calculating the degree to which participants are willing/able to complete the study baseline assessment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility as measured by the number of post-study sessions assessments completed</measure>
+    <time_frame>20 minutes</time_frame>
+    <description>Protocol adherence indicated by calculating the degree to which participants are willing/able to complete the post-study sessions assessment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility as measured by the number of study 1-month follow up assessments completed</measure>
+    <time_frame>20 minutes</time_frame>
+    <description>Protocol adherence indicated by calculating the degree to which participants are willing/able to complete the 1-month follow up assessment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility of PainPac</measure>
+    <time_frame>11 Weeks</time_frame>
+    <description>Includes protocol adherence indicated by calculating the degree to which participants are willing/able to complete the 4 PainPac skills modules or 4 PCST-Video sessions.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Pain Severity as Assessed With the Brief Pain Inventory (BPI)</measure>
+    <time_frame>11 weeks</time_frame>
+    <description>Pain will be assessed with the Brief Pain Inventory (BPI). Patients will rate their &quot;worst&quot;, &quot;least&quot;, &quot;average&quot;, and &quot;now&quot; pain from 0=no pain to 10=worst pain imaginable. An average of the responses to these items is used to create a single pain severity score.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pain Interference as Assessed With the Brief Pain Inventory (BPI) - Pain Interference Scale</measure>
+    <time_frame>11 weeks</time_frame>
+    <description>Pain interference will be assessed with the Brief Pain Inventory (BPI) - Pain Interference Scale. Patients will rate how much pain interfered with a variety of activities and mood states over the last 7 days from 0=does not interfere to 10=completely interferes. An average of the responses to these items is used to create a single pain severity score.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Pain Self-Efficacy for Pain Management</measure>
+    <time_frame>11 weeks</time_frame>
+    <description>5-item self-efficacy subscale of the Chronic Pain Self-Efficacy Scale. Items ask about patients' certainty about pain control, pain during activities, and reducing pain without extra medication using a 10=very uncertain to 100=very certain scale and averaged. The 10-item Computer Self-Efficacy Scale will be used to ask about patients' confidence in using technology to receive a behavioral pain intervention.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Patient Burden</measure>
+    <time_frame>11 Weeks</time_frame>
+    <description>12-item measure developed in the lab through a NCI study examining burdens with accessing care after a cancer diagnosis. Patients will rate difficulty completing the intervention (PainPac modules or PCST-Video sessions) on a 1=not at all to 5=very much scale based on physical, emotional, financial burdens. A summated scale will be used to assess internal validity using Cronbach's alpha of 0.75.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Engagement in Study</measure>
+    <time_frame>11 Weeks</time_frame>
+    <description>Engagement is defined as the number of times/week participants log into PainPac and practice the skills. Engagement will be assessed based on app data and patient self-report. Patient Engagement will be assessed by electronic app data (e.g., PainPac weekly log-ins) and patient self-report defined as the number of times per week they practice the coping skills. &gt;3 times/week will serve as the benchmark; if participants log into PainPac and/or practice the coping skills &lt;3 times/week, PainPac will not be considered engaging.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acceptability as measured by the Client Satisfaction Questionnaire.</measure>
+    <time_frame>20 minutes</time_frame>
+    <description>10-item Client Satisfaction Questionnaire (CSQ). This questionnaire contains 10 items rated from 1=low acceptability to 4=high acceptability; scores are created by utilizing the Likert Scale to average Client Satisfaction Questionnaire answers resulting in a score range from 1-4. The participant will complete this acceptability questionnaire as part of the post-session follow up assessment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acceptability as measured by Atkinson's tool of mHealth innovations.</measure>
+    <time_frame>20 minutes</time_frame>
+    <description>Atkinson's tool will also be used to assess perceived attributes of mHealth innovations. Tool has 30 items about mHealth, participant indicates their level of agreement or disagreement on a 6-point Likert scale: l=strongly agree, 2=agree, 3=somewhat agree, 4=somewhat disagree. 5=disagree, and 6=strongly disagree.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Quality of Life</measure>
+    <time_frame>11 Weeks</time_frame>
+    <description>Centers for Disease Control Health Related Quality of Life 14-item measure. This measure assesses healthy days in the last month and activity limitations and symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PainPac Patient Preferences, Barriers, Facilitators, Attitudes, and Beliefs</measure>
+    <time_frame>Post-Intervention Survey, 20 minutes</time_frame>
+    <description>Post-intervention, measured together as one measure, patients will be asked 10 items modeled from labs previous work. Items will be answered on a 0-10 scale with 0=low preference, barrier, belief and 10=high preference, barrier, belief.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Colorectal Cancer</condition>
+  <arm_group>
+    <arm_group_label>PainPac</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>4 behavioral cancer pain intervention sessions delivered by mobile application. Patient-focused intervention. PainPac uses Social Cognitive Theory to promote behaviors to improve pain, self-efficacy for pain management, and pain-related quality of life indices. It also uses real-time data to personalize the intervention and messaging to participants. The app also has interactive components to improve coping skills engagement.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>PCST-Video</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>4 behavioral cancer pain intervention sessions delivered by videoconferencing by a pain therapist in the medical center to the patient in their natural environment (e.g., home). Sessions will be scheduled weekly for 45-60 min and mimic in person sessions. PCST-Video session content is matches the PainPac skills modules. PCST-Video participants will complete assessments at the same intervals as PainPac participants.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>PainPac</intervention_name>
+    <description>Patient-focused behavioral pain intervention delivered via mobile application.</description>
+    <arm_group_label>PainPac</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Stage I-IV Colorectal Cancer diagnosis&#xD;
+&#xD;
+          -  18 years of age or older&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Cognitive Impairment&#xD;
+&#xD;
+          -  Brain Metastases&#xD;
+&#xD;
+          -  Severe psychiatric condition (e.g., psychosis) that would contraindicate safe&#xD;
+             participation&#xD;
+&#xD;
+          -  Participation in behavioral pain management in the past 6 months.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>110 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sarah A Kelleher, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Duke University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sarah A Kelleher, PhD</last_name>
+    <phone>919-416-3405</phone>
+    <email>sarah.kelleher@duke.edu</email>
+  </overall_contact>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 6, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 6, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 17, 2023</study_first_posted>
+  <last_update_submitted>May 11, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 11, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 12, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>cancer</keyword>
+  <keyword>pain</keyword>
+  <keyword>coping</keyword>
+  <keyword>mHealth</keyword>
+  <keyword>symptom management</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colorectal Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

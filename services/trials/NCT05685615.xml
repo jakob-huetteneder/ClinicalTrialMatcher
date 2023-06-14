@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9998">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05685615</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BV100-006</org_study_id>
+    <nct_id>NCT05685615</nct_id>
+  </id_info>
+  <brief_title>PK of BV100 in Patients VABP Suspected or Confirmed to be Due to CRAB</brief_title>
+  <official_title>A Multicenter, Open-label, Randomized, Active-controlled, Phase 2 Study to Evaluate the Pharmacokinetics, Efficacy, and Safety of Intravenous BV100 Combined With Polymyxin B Versus Best Available Therapy in Adult Patients With Ventilator-associated Bacterial Pneumonia Suspected or Confirmed to be Due to Carbapenem-resistant Acinetobacter Baumannii</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>BioVersys AG</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>BioVersys AG</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A multicenter Phase 2 study to evaluate the pharmacokinetics, efficacy, and safety of&#xD;
+      intravenous BV100 combined with Polymyxin B in adult patients with VABP suspected or&#xD;
+      confirmed to be due to CRAB&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A multicenter, open label, randomized, active controlled, Phase 2 study to evaluate the&#xD;
+      pharmacokinetics, efficacy, and safety of intravenous BV100 combined with Polymyxin B versus&#xD;
+      best available therapy in adult patients with ventilator associated bacterial pneumonia&#xD;
+      suspected or confirmed to be due to carbapenem-resistant Acinetobacter baumannii&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 20, 2023</start_date>
+  <completion_date type="Anticipated">December 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To investigate the pharmacokinetic (PK) properties of BV100 co administered with Polymyxin B during 7 to 14 days of treatment in patients with ventilator associated bacterial pneumonia (VABP)</measure>
+    <time_frame>14 days</time_frame>
+    <description>Maximum Observed Plasma Concentration (Cmax) of rifabutin</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To investigate the pharmacokinetic properties of BV100 co administered with Polymyxin B during 7 to 14 days of treatment in patients with ventilator associated bacterial pneumonia (VABP)</measure>
+    <time_frame>14 days</time_frame>
+    <description>Area Under the Plasma Concentration-Time Curve (AUC) of rifabutin</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To assess the 28 day ACM rates of BV100 plus Polymyxin B compared to best available therapy (BAT)</measure>
+    <time_frame>28 Days</time_frame>
+    <description>28 Day ACM</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the 14 day ACM rates of BV100 plus Polymyxin B compared to best available therapy (BAT)</measure>
+    <time_frame>14</time_frame>
+    <description>14 Day ACM</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess safety and tolerability of BV100 plus Polymyxin B compared to best available therapy (BAT)</measure>
+    <time_frame>28 days</time_frame>
+    <description>Number of Participants with Treatment-Emergent Adverse Events</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">35</enrollment>
+  <condition>Ventilator Associated Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>BV100 (200 mg) plus Polymyxin B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>BV100 (200 mg q12h) infused over 2 hours plus Polymyxin B (12 500-15 000 IU/kg) infused over 1h</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BV100 (300 mg) plus Polymyxin B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>BV100 (300 mg q12h) infused over 2 hours plus Polymyxin B (12 500-15 000 IU/kg) infused over 1h</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Best Available Therapy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Best Available Antibiotic Therapy to Treat CRAB</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B: BV100 plus BAT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>BV100 (300 mg q12h) infused over 2 hours plus Best Avaialble Therapy to Treat Colistin resistant CRAB</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BV100 plus Polymyxin B</intervention_name>
+    <description>Rifabutin for Infusion plus Polymyxin B for Injection</description>
+    <arm_group_label>BV100 (200 mg) plus Polymyxin B</arm_group_label>
+    <arm_group_label>BV100 (300 mg) plus Polymyxin B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BAT</intervention_name>
+    <description>The best avaialble antibiotic therapy to treat CRAB</description>
+    <arm_group_label>Best Available Therapy</arm_group_label>
+    <arm_group_label>Part B: BV100 plus BAT</arm_group_label>
+    <other_name>Best Avaialble Therapy</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Patients who meet all the following diagnostic and clinical criteria are eligible for the&#xD;
+        study:&#xD;
+&#xD;
+          1. Provide written informed consent prior to any study related procedures not part of&#xD;
+             normal medical care. Surrogate consent/use of a legally authorized representative may&#xD;
+             be provided, if permitted by local country and institution specific guidelines. If a&#xD;
+             patient regains consciousness while in the study and, per the Investigator's judgment,&#xD;
+             the patient is able to read, assess, understand, and make his/her own decision to&#xD;
+             participate in the trial, the patient can agree to continue participation and the&#xD;
+             patient should be re consented, if required by local country and institution specific&#xD;
+             guidelines.&#xD;
+&#xD;
+          2. Male or female patients ≥ and &lt; 80 years of age at the time of Informed Consent Form&#xD;
+             (ICF) signing with a body mass index (BMI) of &lt; 40 kg/m2 at the time of ICF signing.&#xD;
+&#xD;
+          3. Hospitalized for ≥ 48 hours, intubated (via endo or nasotracheal tube, including&#xD;
+             tracheostomy patients) and receiving mechanical ventilation for ≥ 48 hours at the time&#xD;
+             of randomization, and with acute changes made in the ventilator support system to&#xD;
+             enhance oxygenation, as determined by arterial blood gas, or worsening PaO2/FiO2&#xD;
+             ratio.&#xD;
+&#xD;
+          4. All patients must have a chest radiograph or a lung CT scan within 48 hours prior to&#xD;
+             randomization showing the presence of new or progressive infiltrate(s) suggestive of&#xD;
+             bacterial pneumonia (based on Investigator's evaluation).&#xD;
+&#xD;
+          5. Clinical findings to support diagnosis of VABP. At least 1 of the following must be&#xD;
+             documented to be present within 24 hours prior to randomization:&#xD;
+&#xD;
+               -  Documented fever (oral ≥ 38.0 °C [100.4 °F] or a tympanic, temporal, rectal, or&#xD;
+                  core temperature ≥ 38.3 °C [101.0 °F], axillary or forehead scanner ≥ 37.5 °C&#xD;
+                  [99.5 °F]) OR&#xD;
+&#xD;
+               -  Hypothermia (rectal/core body temperature ≤ 35.0 °C [95.2 °F]), OR&#xD;
+&#xD;
+               -  Leukocytosis with total peripheral white blood cell count (WBC) ≥ 10 000&#xD;
+                  cells/mm3, OR&#xD;
+&#xD;
+               -  Leukopenia with total peripheral WBC count ≤ 4500 cells/mm3.&#xD;
+&#xD;
+          6. Acute Physiology and Chronic Health Evaluation (APACHE II) score between 8 and 30,&#xD;
+             inclusive, within 24 hours prior to randomization. Any data collected before ICF&#xD;
+             signature as part of a routine standard for patient care (e.g., laboratory values,&#xD;
+             Glasgow Coma Score, Acute Physiology Score [APS]) can be used for Screening Visit&#xD;
+             assessment, if applicable, without repeating the assessments.&#xD;
+&#xD;
+          7. High probability of pneumonia due to A. baumannii, defined as follows:&#xD;
+&#xD;
+               -  RDT, performed within 36 hours prior to randomization, using an acceptable&#xD;
+                  respiratory sample (PBS, BAL, mini BAL, or ETA) positive for A. baumannii, OR&#xD;
+&#xD;
+               -  A surveillance culture from a respiratory sample positive for A. baumannii within&#xD;
+                  72 hours prior to randomization.&#xD;
+&#xD;
+        Part B specific:&#xD;
+&#xD;
+          1. Patients who have been treated previously with an empiric antibiotic regimen and have&#xD;
+             failed treatment, both clinically and microbiologically, if they have an identified&#xD;
+             CRAB which has been shown to be non-susceptible in vitro to each of the antibiotic(s)&#xD;
+             of the empiric antibiotic regimen or has been identified from a culture performed&#xD;
+             after at least 48 hours of empiric antibiotic regimen, AND/OR&#xD;
+&#xD;
+          2. Has an infection caused by A. baumannii organisms known to be resistant to colistin&#xD;
+             (defined as MIC ≥ 4 mg/L by a non-agar-based method) based on evidence from culture or&#xD;
+             susceptibility testing after at least 48 hours of antibiotic treatment.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients who meet any of the following criteria are not eligible to participate in&#xD;
+             this study:&#xD;
+&#xD;
+               1. Known or suspected community acquired bacterial pneumonia or viral, fungal, or&#xD;
+                  parasitic pneumonia.&#xD;
+&#xD;
+               2. Sustained shock with persisting hypotension requiring vasopressors to maintain&#xD;
+                  mean arterial pressure ≥ 60 mmHg&#xD;
+&#xD;
+               3. Known or suspected allergy to polymyxin, rifabutin, BAT, or their excipients.&#xD;
+&#xD;
+               4. Any of the following health conditions:&#xD;
+&#xD;
+                    -  Confirmed legionella infection (Legionella pneumophila pneumonia),&#xD;
+                       Aspergillus spp. pneumonia (testing is not required)&#xD;
+&#xD;
+                    -  Candida spp. infection requiring systemic treatment&#xD;
+&#xD;
+                    -  Cystic fibrosis&#xD;
+&#xD;
+                    -  Known or suspected Pneumocystitis jiroveci pneumonia&#xD;
+&#xD;
+                    -  Known or suspected active tuberculosis&#xD;
+&#xD;
+                    -  Lung abscess&#xD;
+&#xD;
+                    -  Solid organ transplant within 6 months prior to randomization&#xD;
+&#xD;
+                    -  Pleural empyema&#xD;
+&#xD;
+                    -  Evidence of deep seated infection outside the respiratory tract, e.g.,&#xD;
+                       endocarditis, osteomyelitis.&#xD;
+&#xD;
+                    -  Known or suspected neuropathy or neuromuscular disease&#xD;
+&#xD;
+                    -  Known HIV infection&#xD;
+&#xD;
+               5. Bronchial obstruction or a history of post obstructive pneumonia (this does not&#xD;
+                  exclude patients with pneumonia who have an underlying chronic obstructive&#xD;
+                  pulmonary disease).&#xD;
+&#xD;
+               6. Acute graft versus host disease Grade ≥ 3.&#xD;
+&#xD;
+               7. Expected survival &lt; 72 hours or a Do Not Resuscitate Order.&#xD;
+&#xD;
+               8. Burns &gt; 40% of total body surface area.&#xD;
+&#xD;
+               9. Current or anticipated neutropenia with absolute neutrophil count &lt; 1000&#xD;
+                  cells/mm3.&#xD;
+&#xD;
+              10. Severe renal disease defined as an estimated creatinine clearance as per&#xD;
+                  Cockcroft Gault (CLCR CG) &lt; 30 mL/minute or estimated glomerular infiltration&#xD;
+                  rate (eGFR) as per Modified Diet in Renal Disease (MDRD) equation &lt; 30&#xD;
+                  mL/min/1.73 m2, or requirement for peritoneal dialysis, hemodialysis,&#xD;
+                  hemofiltration, or a urine output &lt; 20 mL/hour over a 24 hour period.&#xD;
+&#xD;
+              11. Alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline&#xD;
+                  phosphatase (ALP), or bilirubin (conjugated/unconjugated) ≥ 3 × upper limit of&#xD;
+                  normal (ULN) values used by the laboratory performing the test or Child Pugh&#xD;
+                  Class B and C in patients with chronic liver function impairment. Evidence of&#xD;
+                  significant hepatic disease or dysfunction, including known acute viral&#xD;
+                  hepatitis, hepatic cirrhosis, hepatic failure, chronic ascites, or hepatic&#xD;
+                  encephalopathy.&#xD;
+&#xD;
+              12. Received systemic or inhaled antibiotic therapy potentially effective against A.&#xD;
+                  baumannii within 72 hours prior to randomization for ≥ 36 hours&#xD;
+&#xD;
+              13. Investigator's opinion of clinically significant electrocardiogram (ECG) finding&#xD;
+                  such as new ischemic changes, infarct, or ventricular arrhythmia with immediate&#xD;
+                  potential for a fatal outcome, bradycardia not corrected by pacemaker or&#xD;
+                  medication, or, prior to the current infection, a history of New York Heart&#xD;
+                  Association (NYHA) Class IV cardiac failure defined as severe limitations -&#xD;
+                  experiences symptoms even while at rest, mostly bedbound patients, within 1 year.&#xD;
+&#xD;
+              14. Abnormal QT interval corrected by Fridericia (QTcF): &gt; 450 ms confirmed with&#xD;
+                  repeat ECG.&#xD;
+&#xD;
+              15. Stroke (ischemic or intracerebral hemorrhage) within 5 days prior to&#xD;
+                  randomization.&#xD;
+&#xD;
+              16. Women who are pregnant or nursing, or who are of childbearing potential and&#xD;
+                  unwilling to use an acceptable method of birth control (e.g., intra-uterine&#xD;
+                  device [IUD], male partner sterilization, or complete sexual abstinence) for at&#xD;
+                  least 30 days after the last dose of the study drug. Negative pregnancy test&#xD;
+                  should be obtained before randomization. The following women are not considered&#xD;
+                  to have childbearing potential: 1) those who have undergone surgical&#xD;
+                  sterilization, including hysterectomy and/or bilateral oophorectomy and/or&#xD;
+                  bilateral salpingectomy, but excluding bilateral tubal occlusion; 2) age ≥ 50 and&#xD;
+                  post-menopausal as defined by amenorrhea for 12 months or more following&#xD;
+                  cessation of all exogenous hormonal treatments.&#xD;
+&#xD;
+              17. Male patients with female partners of childbearing potential who are unwilling to&#xD;
+                  use 2 methods of contraception, one of which must be a barrier method (e.g.,&#xD;
+                  condom), for at least 30 days after the last dose of study drug.&#xD;
+&#xD;
+              18. Previous exposure to BV100.&#xD;
+&#xD;
+              19. Patients who are currently enrolled in or have not yet completed at least 30 days&#xD;
+                  since ending another investigational device or drug trial or are receiving other&#xD;
+                  investigational agents.&#xD;
+&#xD;
+              20. Not willing to comply with all study procedures.&#xD;
+&#xD;
+              21. Confirmed or suspected severe acute respiratory syndrome coronavirus 2&#xD;
+                  (SARS-CoV-2) infection based on local standard-of-care assessments available&#xD;
+                  during Screening, unless the suspected A. baumannii pneumonia is diagnosed 14&#xD;
+                  days or more after the detection of SARS CoV 2.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>79 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lisa Husband, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>BioVersys SAS</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Glenn Dale, PhD</last_name>
+    <phone>0796998389</phone>
+    <email>info@bioversys.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Central University Clinic</name>
+      <address>
+        <city>Tbilisi</city>
+        <country>Georgia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Hospital</name>
+      <address>
+        <city>Tbilisi</city>
+        <country>Georgia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Surgery</name>
+      <address>
+        <city>Tbilisi</city>
+        <country>Georgia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>First University Clinic</name>
+      <address>
+        <city>Tbilisi</city>
+        <country>Georgia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Center</name>
+      <address>
+        <city>Tbilisi</city>
+        <country>Georgia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Medical Center</name>
+      <address>
+        <city>Tbilisi</city>
+        <country>Georgia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Clinic</name>
+      <address>
+        <city>Tbilisi</city>
+        <country>Georgia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Debrecen</name>
+      <address>
+        <city>Debrecen</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Educational Hospital</name>
+      <address>
+        <city>Miskolc</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Teaching Hospital</name>
+      <address>
+        <city>Szekesfehervar</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>Georgia</country>
+    <country>Hungary</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>January 4, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 12, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 17, 2023</study_first_posted>
+  <last_update_submitted>April 28, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 1, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Pneumonia, Ventilator-Associated</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Polymyxins</mesh_term>
+    <mesh_term>Polymyxin B</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9098">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05705323</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TinnitusLT_1_2022</org_study_id>
+    <nct_id>NCT05705323</nct_id>
+  </id_info>
+  <brief_title>Internet-delivered Psychological Interventions for Tinnitus</brief_title>
+  <acronym>TinnitusLT</acronym>
+  <official_title>Internet-delivered Cognitive Behavioral Therapy for Tinnitus Compared to an Internet-delivered Mindfulness Intervention</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vilnius University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Vilnius University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Tinnitus can be very distressing for some individuals who experience it. The most studied&#xD;
+      intervention that works well for tinnitus distress is cognitive behavioral therapy (CBT).&#xD;
+      There is enough evidence to claim that internet-delivered guided CBT for tinnitus is as&#xD;
+      effective as CBT delivered face-to-face. The goal of this randomized controlled trial is to&#xD;
+      test the effectiveness of an internet-delivered cognitive behavioral therapy (CBT) for&#xD;
+      tinnitus and an internet-delivered mindfulness-based tinnitus stress reduction intervention&#xD;
+      by comparing them one against each other and a waiting list control group in the adult&#xD;
+      population experiencing tinnitus.&#xD;
+&#xD;
+      The main questions this study aims to answer are:&#xD;
+&#xD;
+        -  Feasibility of delivering interventions for tinnitus distress over the internet.&#xD;
+&#xD;
+        -  Is any of the two interventions more effective in reducing tinnitus-related stress than&#xD;
+           the waiting list control?&#xD;
+&#xD;
+        -  Is the effectiveness of mindfulness intervention non-inferior to CBT intervention for&#xD;
+           tinnitus?&#xD;
+&#xD;
+        -  Is participant engagement and dropout different in mindfulness and CBT interventions?&#xD;
+&#xD;
+      Participants will be randomly assigned to a CBT, Mindfulness, or control group and will be&#xD;
+      asked to engage with the materials prescribed to that group for eight weeks.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">February 15, 2023</start_date>
+  <completion_date type="Anticipated">May 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">July 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in score on Tinnitus Handicap Inventory (THI)</measure>
+    <time_frame>Pre-treatment, week 8, 3 and 12 months post-treatment</time_frame>
+    <description>The Tinnitus Handicap Inventory is designed to measure the subject's sensations caused by tinnitus and to assess the impact of tinnitus on daily life. It is also suitable for measuring the change in the severity of a murmur before and after an intervention. The THI questionnaire consists of 25 questions. The subject completes the questionnaire by ticking the most appropriate answer. The researcher scores the questionnaire as follows: 'Yes' is scored with 4 points, 'No' is scored with 0 points and 'Sometimes' is scored with 2 points. The total score is obtained by summing the number of responses to all 25 questions, multiplied by the coefficients given in the table. The higher the scale estimates, the higher the score, the more significant the disability caused by the murmur and the more significantly it affects the life of the subject. The severity scale is as follows: 0-16 mild; 18-36 moderate; 38-56 moderate; 58-76 severe; 78-100 catastrophic.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in score on Patient Health Questionnaire (PHQ-9)</measure>
+    <time_frame>Pre-treatment, week 8, 3 and 12 months post-treatment</time_frame>
+    <description>Change from baseline in depression symptoms post-treatment (week 8), at three months, at 12 months and at 24 months post-treatment. Measure contains 9 questions that have to be responded to by choosing an answer from a 4-item Likert scale, where number 0 indicates 'Not at all' and 3 - 'Nearly every day'. Higher score indicates more severe symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in score on Generalized Anxiety Disorder-7 (GAD-7)</measure>
+    <time_frame>Pre-treatment, week 8, 3 and 12 months post-treatment</time_frame>
+    <description>Change from baseline in anxiety symptoms post-treatment (week 8), at three months, at 12 months and at 24 months post-treatment. Measure contains 7 questions that have to be responded to by choosing an answer from a 4-item Likert scale, where number 0 indicates 'Not at all' and 3 - 'Nearly every day'. Higher score indicates more severe symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in score on Insomnia Severity Index (ISI)</measure>
+    <time_frame>Pre-treatment, week 8, 3 and 12 months post-treatment</time_frame>
+    <description>The Insomnia Severity Index (ISI) (Bastien et al, 2001) measures insomnia symptomatology. The questionnaire consists of 7 questions with five optional ratings on a scale of 0 ('0' = not at all) to 4 ('4' = very much), with a time interval of 'within the last 2 weeks'. The scores for all 7 questions are aggregated and can be scored between 0 and 28 points. The number of points can be used to determine the severity of the insomnia: no insomnia (0 - 7); possible insomnia (8 - 14); moderate insomnia (15 - 21); severe insomnia (22 - 28).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in score on Tinnitus and Hearing Survey (THS)</measure>
+    <time_frame>Pre-treatment and week 8.</time_frame>
+    <description>The Tinnitus and Hearing Survey (Henry et al., 2015) is designed to differentiate hearing problems from tinnitus and consists of 3 subscales. Subscale A contains items that describe common tinnitus problems unrelated to hearing problems. Items in subscale B describe normal hearing problems that would not be caused by tinnitus. Subscale C contains 2 items that identify sound tolerance problems (hyperacusis) that may interfere with participation in the programme. Answers on subscales A and B can range from 0 (not a problem) to 4 (very big problem). Hence, the total scores for these subscales can range from 0 to 16. The items in each subscale begin with the phrase &quot;In the last week...&quot; in order for respondents to rate their current experience of tinnitus, rather than their past history when their tinnitus was most severe.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in score on The Mindful Attention Awareness Scale (MAAS])</measure>
+    <time_frame>Pre-treatment, week 8, 3 and 12 months post-treatment</time_frame>
+    <description>The Mindful Attention Awareness Scale (MAAS]) (Brown &amp; Ryan, 2003) measures how often an individual experiences a state of mindful awareness. The scale consists of 15 statements. The statements cover cognitive, emotional, physiological, interpersonal, and general life domains. Each statement is rated on a 6-point Likert scale (1 = Almost always; 6 = Almost never). Higher scores indicate a tendency to experience a more frequent state of mindful awareness. For the overall score, the scores for all statements are added together, and an average score is calculated. Either the total score or the arithmetic mean of all the estimates is reported. There is no norm, but a higher sum of scores indicates a tendency to experience a more frequent state of attentive awareness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in score on Tinnitus Cognitions Questionnaire (TCQ)</measure>
+    <time_frame>Pre-treatment, week 8, 3 and 12 months post-treatment</time_frame>
+    <description>Tinnitus Cognitions Questionnaire (Wilson &amp; Henry, 1998). It is designed to assess a person's cognitions related to tinnitus/recognise cognitive reactions related to tinnitus. The questionnaire consists of 26 questions: 13 questions related to negative thoughts and 13 questions related to positive thoughts. For each item, participants are asked to indicate how often the person had a particular thought when the tinnitus symptoms occurred. Each statement is scored on a 5-point scale from 0 to 4 (0 for 'never', 1 for 'rarely', 2 for 'occasionally', 3 for 'often' and 4 for 'very often'). Negative items are scored from 0-4 and positive items from 4-0. The total score for this scale can range from 0 to 104. A high score on the scale indicates a greater tendency to engage in negative cognitions in response to tinnitus than positive ones.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>The Big Five Inventory (BFI-10)</measure>
+    <time_frame>Pre-treatment</time_frame>
+    <description>The Big Five Inventory (Rammstedt &amp; John, 2007) assesses the expressiveness of personality traits (extraversion, neuroticism, openness to experience, conscientiousness, and agreeableness). The questionnaire consists of 10 questions. Constructs: extraversion, neuroticism, openness to experience, awareness, and agreeableness. Each statement is scored on a 5-point Likert scale (1 = Strongly disagree and 5 = Strongly agree). The higher the scores on the subscales, the more the personality trait is expressed.</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">67</enrollment>
+  <condition>Tinnitus</condition>
+  <condition>Distress, Emotional</condition>
+  <condition>Depression, Anxiety</condition>
+  <condition>Sleep</condition>
+  <arm_group>
+    <arm_group_label>Internet-delivered cognitive behavioral therapy for tinnitus</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>An 8-week modular cognitive behavioral therapy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Internet-delivered mindfulness-based therapy for tinnitus</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>An 8-week mindfulness-based stress reduction.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Waiting-list control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The waiting list for 8 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Internet-delivered cognitive behavioral therapy (iCBT)</intervention_name>
+    <description>This CBT is specifically adapted for individuals experiencing tinnitus</description>
+    <arm_group_label>Internet-delivered cognitive behavioral therapy for tinnitus</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Internet-delivered mindfulness-based tinnitus stress reduction (iMBTSR)</intervention_name>
+    <description>This is a mindfulness-based intervention specifically adapted for individuals experiencing tinnitus</description>
+    <arm_group_label>Internet-delivered mindfulness-based therapy for tinnitus</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Experience tinnitus for at least three months;&#xD;
+&#xD;
+          -  Scores 28 or more on THI;&#xD;
+&#xD;
+          -  Has the ability to use a computer (or smartphone or tablet) with a connection to the&#xD;
+             internet for the duration of the study;&#xD;
+&#xD;
+          -  Comprehension and ability to write and speak in the Lithuanian language.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Inability to allocate sufficient time for participation in an 8-week intervention;&#xD;
+&#xD;
+          -  Significant medical or psychiatric conditions which would prevent participation;&#xD;
+&#xD;
+          -  Participation in other tinnitus interventions during the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jonas Eimontas, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Vilnius University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Vilnius University</name>
+      <address>
+        <city>Vilnius</city>
+        <zip>LT-01513</zip>
+        <country>Lithuania</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Lithuania</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 13, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 25, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>May 5, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 5, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 8, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Vilnius University</investigator_affiliation>
+    <investigator_full_name>Jonas Eimontas</investigator_full_name>
+    <investigator_title>Principal investigator</investigator_title>
+  </responsible_party>
+  <keyword>CBT</keyword>
+  <keyword>Tinnitus</keyword>
+  <keyword>Mindfulness-based stress reduction</keyword>
+  <keyword>Internet-delivered</keyword>
+  <keyword>Cognitive behavioral therapy</keyword>
+  <keyword>Mindfulness</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tinnitus</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

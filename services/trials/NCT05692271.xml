@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9697">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05692271</url>
+  </required_header>
+  <id_info>
+    <org_study_id>061-2021</org_study_id>
+    <nct_id>NCT05692271</nct_id>
+  </id_info>
+  <brief_title>Testing a Novel Therapeutic Strategy for Comorbid Post-Traumatic Stress Disorder and Alcohol Use Disorder</brief_title>
+  <official_title>Testing a Novel Therapeutic Strategy for Comorbid Post-Traumatic Stress Disorder and Alcohol Use Disorder</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre for Addiction and Mental Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre for Addiction and Mental Health</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study evaluates the therapeutic tolerability of the use of Cognitive Processing Therapy&#xD;
+      (CPT) with propranolol in participants with Posttraumatic Stress Disorder (PTSD) and Alcohol&#xD;
+      Use Disorder (AUD). The investigators are planning to perform an initial proof -of- concept&#xD;
+      randomized, placebo- controlled trial evaluating propranolol in participants with PTSD and&#xD;
+      AUD starting CPT for 12 weeks with three post-treatment follow ups at week-16, week-20, and&#xD;
+      week-24.&#xD;
+&#xD;
+      Participants with current diagnosis of PTSD and AUD seeking treatment will be randomized to&#xD;
+      either a propranolol group (n=24) or placebo group (n=24) after enrollment. All participants&#xD;
+      will receive CPT for 12 weeks after randomization. Primary outcomes will be measured in both&#xD;
+      groups at the end of the study (week 12).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2023</start_date>
+  <completion_date type="Anticipated">February 2025</completion_date>
+  <primary_completion_date type="Anticipated">February 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of CPT sessions attended</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Number of CPT (therapy) sessions attended by participants</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>CAPS-5 total symptom severity score</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>PTSD symptoms measured using the Clinician-Administered PTSD Scale for DSM-5 (CAPS-5) scores at baseline, midpoint (week-6) and endpoint (week 12); the CAPS-5 total symptom severity score is the sum of severity (rated 0-4) on 20 individual items, where a higher score indicates greater symptom severity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of drinks per week (TLFB)</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Alcohol consumption to be monitored using the timeline follow-back (TLFB)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent heavy drinking days (TLFB)</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Percent heavy drinking days will be measured weekly. A &quot;heavy drinking day&quot; will be defined as 4 or more drinks per drinking day for women and 5 or more drinks per drinking day for men.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Alcohol craving</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Alcohol craving will be assessed using the Penn Alcohol Craving Scale (PACS), which includes five items scored on a Likert scale from 0 to 6 Min score=0, max score=30, higher scores indicate greater craving</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">48</enrollment>
+  <condition>Stress Disorders, Post-Traumatic</condition>
+  <condition>Alcohol Use Disorder</condition>
+  <arm_group>
+    <arm_group_label>Propranolol</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Medication treatment regimen will consist of 12 weeks of 40 mg immediate-release propranolol BID</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matching placebo will be administered BID for 12 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Propranolol</intervention_name>
+    <description>40 mg teva-propranolol taken twice daily for 12 weeks</description>
+    <arm_group_label>Propranolol</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Matching placebo</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adults between 18 and 70 years old inclusively&#xD;
+&#xD;
+          2. Diagnosed with AUD in the past year (according to the Structured Clinical Interview&#xD;
+             for DSM-5 (SCID)25). This will include active drinkers and recently abstained&#xD;
+             drinkers.&#xD;
+&#xD;
+          3. has a minimum of two episodes of heavy drinking (≥5 drinks in a single day for men and&#xD;
+             ≥4 drinks in a single day for women) in the past 30 days as used in other trials26&#xD;
+&#xD;
+          4. Diagnosed with current (past 30 days) PTSD with the Clinician- Administered PTSD Scale&#xD;
+             for DSM-5 (CAPS-5) on screening27&#xD;
+&#xD;
+          5. On an antidepressant as treatment of PTSD (to ensure safety and homogeneity as PTSD&#xD;
+             treatment of study population). Antidepressants are the first-line treatment for PTSD&#xD;
+             as well major depression which commonly comorbid PTSD. The presence of antidepressants&#xD;
+             in study recruitment criteria will ensure additional safety if the trauma focused&#xD;
+             therapy triggered emotional distress which could temporarily activate depressive&#xD;
+             symptoms. The presence of antidepressants in all study participants will also ensure&#xD;
+             proper evaluation of the effect of propranolol without any confounders effect.&#xD;
+&#xD;
+          6. Agrees (if the participant is female and of childbearing potential) to use at least&#xD;
+             one of the following highly effective methods of contraception, such as hormonal&#xD;
+             contraceptives (e.g. combined oral contraceptives, patch, vaginal ring, injectables,&#xD;
+             and implants); intrauterine device (IUD) or intrauterine system (IUS); vasectomy and&#xD;
+             tubal ligation or alternatively double barrier method.&#xD;
+&#xD;
+          7. Agrees not to start any other therapy including self-help group during the trial&#xD;
+             period. Exception will be made for participants who had already started therapy and&#xD;
+             have been attending the sessions for at least 6 months.&#xD;
+&#xD;
+          8. Agrees not to start any anti-craving medications for alcohol use during the trial&#xD;
+             period. Exception will be made for participants who were already taking an&#xD;
+             anti-craving medication for at least 6 months.&#xD;
+&#xD;
+          9. Able to speak and read in English&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Diagnosed with a severe or unstable medical illness that precludes safe participation&#xD;
+             in the study as per study physician, including contraindications to propranolol&#xD;
+             administration such as asthma, diabetes, arrhythmia or congestive heart failure&#xD;
+&#xD;
+          2. Diagnosed with psychotic disorder or bipolar disorder&#xD;
+&#xD;
+          3. The use of alcohol abstinence medications within the past month&#xD;
+&#xD;
+          4. Current moderate or severe substance use disorder (excluding alcohol, cannabis,&#xD;
+             tobacco and caffeine)&#xD;
+&#xD;
+          5. A basal systolic blood pressure &lt; 100 mm Hg or basal heart rate &lt; 55 beats/minute&#xD;
+&#xD;
+          6. Pregnant or breastfeeding women&#xD;
+&#xD;
+          7. Individuals with known hypersensitivity to propranolol&#xD;
+&#xD;
+          8. Individuals with current use of medication that might interact adversely with&#xD;
+             propranolol such as anti-arrhythmic medication or calcium channel blockers&#xD;
+&#xD;
+          9. Current suicidality risk as indicated during the conduct of the Columbia Suicide&#xD;
+             Severity Rating Scale (C-SSRS) with concurrence after a study physician's evaluation&#xD;
+             if the response to C-SSRS questions 1 or 2 is &quot;yes&quot;28&#xD;
+&#xD;
+         10. Any participant known to have non-allergic bronchospasm such as chronic bronchitis,&#xD;
+             emphysema, bronchiectasis, hypotension, metabolic acidosis, severe peripheral arterial&#xD;
+             circulatory disturbance, untreated phaeochromocytoma, Prinzmetal's angina&#xD;
+&#xD;
+         11. Any participant with known hypersensitivity to any ingredient in the formulation,&#xD;
+             including any non-medicinal ingredient, or component of the container.&#xD;
+&#xD;
+         12. Any participant using catecholamine depletion drugs such as reserpine or guanethidine.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Ahmed Hassan, MD</last_name>
+    <phone>416-535-8501</phone>
+    <phone_ext>34051</phone_ext>
+    <email>ahmed.hassan@camh.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Justin Matheson, PhD</last_name>
+    <phone>416-535-8501</phone>
+    <phone_ext>34727</phone_ext>
+    <email>justin.matheson@camh.ca</email>
+  </overall_contact_backup>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 11, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>January 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Alcoholism</mesh_term>
+    <mesh_term>Stress Disorders, Traumatic</mesh_term>
+    <mesh_term>Alcohol Drinking</mesh_term>
+    <mesh_term>Stress Disorders, Post-Traumatic</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Propranolol</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

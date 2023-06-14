@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9624">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05694143</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UM-PhD Hanan</org_study_id>
+    <nct_id>NCT05694143</nct_id>
+  </id_info>
+  <brief_title>the Effectiveness of Health Literacy Intervention Among Middle Eastern Adolescents in Malaysia</brief_title>
+  <official_title>The Effectiveness Of Health Literacy Intervention On Physical Activity And Healthy Diet Among Middle Eastern Adolescents In Malaysia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Malaya</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Malaya</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In Malaysia, Middle Eastern adolescents are going through changes in living status, yet few&#xD;
+      studies show that overweight and obesity are prevalent among Arabic secondary school&#xD;
+      students. There have not been any intervention studies among Middle Eastern adolescents in&#xD;
+      Malaysia. The current study aims to determine the effects of an intervention program on&#xD;
+      physical activity and healthy diet behavior among Middle Eastern adolescent students in&#xD;
+      Arabic schools in Malaysia&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A cluster randomized controlled study will be conducted among 250 Middle Eastern adolescent&#xD;
+      students in Arabic schools in Malaysia. The intervention and control schools will be selected&#xD;
+      and allocated randomly. The intervention group will have six weeks of fortnightly six&#xD;
+      sessions (45 minutes), while the control group will have their regular curriculums and normal&#xD;
+      physical activity routine. Anthropometric questionnaires include knowledge, attitude, and&#xD;
+      practice of lifestyle, physical activity, adolescent sedentary activity, food assessment, and&#xD;
+      health belief model questionnaire. Data will be collected from intervention and control&#xD;
+      groups at baseline, post-intervention, and tow month follow-up after the intervention. Data&#xD;
+      will be analyzed by using the (SPSS) software version 25. Descriptive statistics will be used&#xD;
+      to distribute and summarize the data. The normality of variables will be tested by The&#xD;
+      Kolmogorov-Smirnov test and the Skewness &amp; Kurtosis test. A P-value &lt; 0.05 will be considered&#xD;
+      statistically significant. One Way ANOVA will be used to determine whether any significant&#xD;
+      within group differences existed over time for the selected variables if the data is normally&#xD;
+      distributed, while Friedman's test will be used if the data is not normally distributed.&#xD;
+      Generalized Estimating Equation (GEE) will be used to test the effect of the intervention&#xD;
+      program for the selected variables (outcomes) between &amp; within-group at baseline, six weeks,&#xD;
+      and one month after intervention which is adjusted for clustering&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 1, 2023</start_date>
+  <completion_date type="Anticipated">October 2024</completion_date>
+  <primary_completion_date type="Anticipated">May 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>A cluster randomized controlled trial design</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change Knowledge, Attitude and Practice of Nutrition and Physical Activity.</measure>
+    <time_frame>[Time Frame: Timepoint 1 = Baseline. Repeated measurement: Timepoint 2 = week 12 (Five-week post-intervention)]]</time_frame>
+    <description>The Knowledge, Attitude, and Practice of Nutrition and Physical Activity will be measured using a self-report instrument Knowledge, Attitude, and Practice of Nutrition and Physical Activity Questionnaire (KAP-Q). The questionnaire consists of 73 items: knowledge (30), attitude (22), and practice (21). The presented knowledge part consists of 30 items to determine participants' knowledge level on Nutrition and Physical Activity. There are multiple-choice questions ell be each choice has &quot;True&quot;, &quot;False&quot;, and &quot;I do not know&quot; response options. Having a score above the mean means good knowledge. In the attitude section, there are 22 items with five Likert scales for assessing the attitude. A more positive attitude has higher scores. Practice includes 21 questions with five Likert scales for assessing the practice. A higher score shows more positive practice.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change Physical Activity of the adolescent.</measure>
+    <time_frame>[Time Frame: Timepoint 1 = Baseline. Repeated measurement: Timepoint 2 = week 12 (Five-week post-intervention)]]</time_frame>
+    <description>The Physical Activity will be measured using a self-report instrument Physical Activity Questionnaire for Older Children (PAQ-C). PAQ-C gives an overview of physical activity levels among participants of this study because PAQ-C is suitable for school children (8-14 years of age). PAQ-C has ten items. Each of the 9 PAQ-C questionnaire items is scored from 1 (low physical activity) to 5 (high physical activity), and a mean score of all items constitutes the overall PAQ-C score.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change Sedentary Activity of the adolescent.</measure>
+    <time_frame>[Time Frame: Timepoint 1 = Baseline. Repeated measurement: Timepoint 2 = week 12 (Five-week post-intervention)]]</time_frame>
+    <description>Sedentary Activity will be measured by using a self-report instrument the Adolescent Sedentary Activity Questionnaire (ASAQ). The questionnaire will ask the participants how many hours and minutes they spent in eleven different sedentary behaviours per day on weekdays and weekends. The questionnaire classified the eleven sedentary behaviours into five categories (Screen time, education, travel, cultural activities and social activities). Participants indicate high sedentary behaviour if the total time of (ASAQ) ≥ 4 hrs/day, while &lt; 4 hrs/day means low sedentary behaviour.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change frequency of consumption of food.</measure>
+    <time_frame>[Time Frame: Timepoint 1 = Baseline. Repeated measurement: Timepoint 2 = week 12 (Five-week post-intervention)]]</time_frame>
+    <description>The frequency of consumption of food will be measured by using a self-report instrument Semi-Quantitative Food-Frequency Questionnaire (SFFQ). The SFFQ contains 74 food items among adolescents in the Arab region. The category of frequency intake is once per day, 2-3 per day, 4-5 per day, 6-7 times per day, 1-2 weeks, 3-4 per week, 5-6 per week, once a month, 2-3 monthly, or never. The 74 items of nutrients and food groups' reproducibility rates were 0.46 and 0.49, respectively. Participants will ask about the food that they consumed. Also, they will define the time and the quantity of the food.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change Health Belief</measure>
+    <time_frame>[Time Frame: Timepoint 1 = Baseline. Repeated measurement: Timepoint 2 = week 12 (Five-week post-intervention)]]</time_frame>
+    <description>The Health Belief will be measured by using a self-report instrument Health Belief Questionnaire (HBQ). There will be 89 statements total, representing 8 perceptional and behavioural categories including severity perception, perceived barriers, perceived benefits, action cues, dietary self-efficacy, exercise self-efficacy, and weight management behavioural intention. All statements were rated using a five-point Likert scale ranging from 1 (strongly disagree) to 5 (strongly agree). A higher score indicates a greater level of belief.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change the Body mass index (BMI).</measure>
+    <time_frame>[Time Frame: Timepoint 1 = Baseline. Repeated measurement: Timepoint 2 = week 12 (Five-week post-intervention)]]</time_frame>
+    <description>The Body mass index (BMI) will be report in kg/m^2 by using the following formula (BMI = kg/m2 where kg is a person's weight in kilograms and m2 is their height in metres squared). Body weight will be measured using Omron HBF 375 to the nearest 0.1 kg. SECA body meter 206 will be employed to measure their heights to the nearest 0.1 cm. Body mass index (BMI) will be classified into (underweight, normal weight, overweight, and obesity). If the BMI is less than 18.5, it falls within the underweight range. If the BMI is 18.5 to &lt;25, it falls within the healthy weight range. If the BMI is 25.0 to &lt;30, it falls within the overweight range. If the BMI is 30.0 or higher, it falls within the obesity range. In addition, the Body mass index (BMI)-for-age (z-score) will be analysed using WHO AnthroPlus version 1.0.4 software and the WHO Growth Reference was used to categorise their body weight status using the reference data for children and adolescents aged 5-19 years.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>Adolescents Obesity</condition>
+  <arm_group>
+    <arm_group_label>Intervention group</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Intervention group: Participants assigned to the intervention group will receive both will receive educational intervention including educational booklet will be distributed to the participants in the first session, and they will be asked to take it home and read it within one week. The booklet's content will include the risk factors of NCD and the benefits of adopting a healthy diet and physical activity in reducing overweight and obesity. Then, the educational classes will include six weekly teaching units. The general objective is to prevent obesity among students by delivering education and behavioural skills. The training units will be carried out in the schools. Each training unit will end with activities. The adolescents will learn more about their susceptibility to obesity and weight gain and how to make better decisions and feel better about themselves through these activities.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group: No Intervention</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Participants randomized to the control group in this study will not receive any intervention (They will have their regular curriculums and normal physical activity routine).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Education Intervention</intervention_name>
+    <description>This intervention is based on the Health Belief Model Theory, which examines the attitudes and beliefs of adolescents with enhanced knowledge and perceived disease risk. As a result, It aims to build on adolescents' skills and behaviours rather than increase their knowledge, beliefs, and relative skills. In order to develop the education program, health promotion experts with a special interest in changing obesity-related behaviours will assist the researcher.&#xD;
+The intervention is specifically designed to help adolescents:&#xD;
+To know facts, statistics and harmful effects of obesity and overweight.&#xD;
+To know facts about physical activity and its importance.&#xD;
+To know facts about a healthy diet and its importance.&#xD;
+Definition of BMI and calculating the BMI.&#xD;
+To read the Nutrition Facts label.&#xD;
+To develop decision-making and self-care education.</description>
+    <arm_group_label>Intervention group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>No Intervention</intervention_name>
+    <description>They will have their regular curriculums and normal physical activity routine</description>
+    <arm_group_label>Control group: No Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Arabic citizen students&#xD;
+&#xD;
+          -  Aged 13 to 14 years&#xD;
+&#xD;
+          -  Who at least one of their parents consented to participate in the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Students with diseases such as asthma, diabetes, cancer, cardiovascular diseases,&#xD;
+             fractures, cirrhosis, or other diseases.&#xD;
+&#xD;
+          -  Students with any medical condition who are not allowed to do physical activity.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>14 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Hanan Al-haroni</last_name>
+    <phone>0172855427</phone>
+    <email>alharonihanan@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Nik Daliana NIK Farid</last_name>
+    <phone>0060122779250</phone>
+    <email>daliana@ummc.edu.my</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hanan Al-haroni</name>
+      <address>
+        <city>Kuala lumpur</city>
+        <state>Selangor</state>
+        <zip>53300</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hanan Al-haroni</last_name>
+      <phone>0060172855427</phone>
+      <email>alharonihanan@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Nik Daliana Nik Farid</last_name>
+      <phone>0060122779250</phone>
+      <email>daliana@ummc.edu.my</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Malaysia</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 9, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>January 19, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 19, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pediatric Obesity</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9898">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05687916</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TAK-861-2002</org_study_id>
+    <secondary_id>2022-002966-34</secondary_id>
+    <secondary_id>U1111-1277-4261</secondary_id>
+    <nct_id>NCT05687916</nct_id>
+  </id_info>
+  <brief_title>A Study of TAK-861 in Participants With Narcolepsy Type 2</brief_title>
+  <official_title>A Randomized, Double-blind, Placebo-Controlled Study to Evaluate the Efficacy, Safety, and Tolerability of TAK-861 for the Treatment of Narcolepsy Without Cataplexy (Narcolepsy Type 2)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Takeda</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Takeda</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main aim is to evaluate the effect of TAK-861 on symptoms of narcolepsy, including&#xD;
+      excessive daytime sleepiness (EDS) as measured by sleep latency from the Maintenance of&#xD;
+      Wakefulness Test (MWT).&#xD;
+&#xD;
+      The study will enroll approximately 60 participants and they will be randomly assigned to 3&#xD;
+      groups (20 per group) to take one of two different doses of TAK-861 or a placebo. All the&#xD;
+      participants will receive the treatment for 8 weeks. Participants will be asked to complete&#xD;
+      some questionnaires during the study. This trial will be conducted in North America, Europe,&#xD;
+      and Asia Pacific.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The drug being tested in this study is called TAK-861. TAK-861 is being tested to treat&#xD;
+      people who have narcolepsy without cataplexy [Narcolepsy Type 2 (NT2)]. This study will&#xD;
+      evaluate the efficacy, safety, and tolerability of 2 oral doses of TAK-861.&#xD;
+&#xD;
+      The study will enroll approximately 60 patients. Participants will be randomly assigned (by&#xD;
+      chance, like flipping a coin) to one of the three treatment groups-which will remain&#xD;
+      undisclosed to the patient and study doctor during the study (unless there is an urgent&#xD;
+      medical need):&#xD;
+&#xD;
+        -  TAK-861 Dose 1&#xD;
+&#xD;
+        -  TAK-861 Dose 2&#xD;
+&#xD;
+        -  Placebo (dummy inactive pill) - this is a tablet that looks like the study drug but has&#xD;
+           no active ingredient&#xD;
+&#xD;
+      This is a multi-center trial to be conducted worldwide. The overall time to participate in&#xD;
+      this study is approximately 18 weeks.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 9, 2023</start_date>
+  <completion_date type="Anticipated">October 5, 2024</completion_date>
+  <primary_completion_date type="Anticipated">May 17, 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from Baseline to Week 8 in Mean Sleep Latency From the Maintenance of Wakefulness Test (MWT)</measure>
+    <time_frame>Baseline, Week 8</time_frame>
+    <description>The MWT evaluates a person's ability to remain awake under soporific conditions for a defined period of time. Because there is no biological measure of wakefulness, wakefulness is measured indirectly by the inability or delayed tendency to fall asleep. This tendency to fall asleep is measured via electroencephalography-derived sleep latency in the MWT. The MWT consists of four 40-minute sessions done 2 hours apart. Sleep latency in each session will be recorded. Participants will be required to stay awake in between the 4 sessions.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Week 8 in Epworth Sleepiness Scale (ESS) Total Score</measure>
+    <time_frame>Baseline, Week 8</time_frame>
+    <description>The ESS provides individuals with 8 different situations of daily life and asks them how likely they are to fall asleep in those situations (scored 0 to 3) and to try to imagine their likelihood of dozing even if they have not actually been in the identical situation; the scores are summed to give an overall score of 0 to 24. Higher scores indicate stronger subjective daytime sleepiness, and scores below 10 are considered to be within the normal range.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants who Experience at Least one Treatment Emergent Adverse Event (TEAE)</measure>
+    <time_frame>From baseline up to approximately 12 weeks</time_frame>
+    <description>An adverse event (AE) is any untoward medical occurrence in a clinical investigation participant administered a pharmaceutical product. A TEAE is defined as any event emerging or manifesting at or after the initiation of treatment with a study intervention or medicinal product or any existing event that worsens in either intensity or frequency following exposure to the study intervention or medicinal product.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Narcolepsy Type 2</condition>
+  <arm_group>
+    <arm_group_label>TAK-861 Dose 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>TAK-861 dose 1, orally for 8 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>TAK-861 Dose 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>TAK-861 dose 2, orally for 8 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>TAK-861 matching placebo tablets, orally for 8 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>TAK-861</intervention_name>
+    <description>TAK-861 tablets.</description>
+    <arm_group_label>TAK-861 Dose 1</arm_group_label>
+    <arm_group_label>TAK-861 Dose 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>TAK-861 placebo matching tablets.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        - The participant is aged 18 to 70 years, inclusive, at the time of signing the informed&#xD;
+        consent form (ICF).&#xD;
+&#xD;
+        Note: In Japan, participants aged 16 to 70 years, inclusive, may be included.&#xD;
+&#xD;
+        - The participant has an International Classification of Sleep Disorders, 3rd edition&#xD;
+        (ICSD-3) diagnosis of NT2 by preceding polysomnography (PSG)/ multiple sleep latency test&#xD;
+        (MSLT), performed within the past 5 years.&#xD;
+&#xD;
+        Note: If there is a potential participant with NT2 for whom a diagnostic nocturnal&#xD;
+        polysomnography (nPSG)/MSLT was performed more than 5 years ago or is not available, the&#xD;
+        site may repeat the diagnostic PSG/MSLT.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  The participant has a current medical disorder, other than narcolepsy without&#xD;
+             cataplexy, associated with EDS.&#xD;
+&#xD;
+          -  The participant has history of epilepsy, seizure, or convulsion, or has a family&#xD;
+             history of inherited disorders associated with seizure (except for a single febrile&#xD;
+             seizure in childhood).&#xD;
+&#xD;
+          -  The participant has one or more of the following psychiatric disorders:&#xD;
+&#xD;
+               1. Any current unstable psychiatric disorder.&#xD;
+&#xD;
+               2. Current or history of manic or hypomanic episode, schizophrenia or any other&#xD;
+                  psychotic disorder, including schizoaffective disorder, major depression with&#xD;
+                  psychotic features, bipolar depression with psychotic features, obsessive&#xD;
+                  compulsive disorder, mental retardation, organic mental disorders, or mental&#xD;
+                  disorders due to a general medical condition as defined in the Diagnostic and&#xD;
+                  Statistical Manual of Mental Disorders, 5th Edition (DSM-5).&#xD;
+&#xD;
+               3. Current diagnosis or history of substance use disorder as defined in the DSM-5.&#xD;
+                  Note: If the history of substance use disorder is more than 12 months before&#xD;
+                  baseline, the participant may be allowed to enroll in the study after&#xD;
+                  consultation with the sponsor or designee. (Participant must also have negative&#xD;
+                  urine drug screen at the screening and Day -2 visit.)&#xD;
+&#xD;
+               4. Current active major depressive episode (MDE) or who have had an active MDE in&#xD;
+                  the past 6 months.&#xD;
+&#xD;
+          -  The participant has a history of cerebral ischemia, transient ischemic attack (&lt;5&#xD;
+             years ago), intracranial aneurysm, or arteriovenous malformation.&#xD;
+&#xD;
+          -  The participant had major surgery or donated or lost 1 unit of blood (approximately&#xD;
+             500 mL) within 4 weeks before the screening visit.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Study Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Takeda</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Takeda Contact</last_name>
+    <phone>+1-877-825-3327</phone>
+    <email>medinfoUS@takeda.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Sleep Disorders Center of Alabama</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35213-1966</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SDS Clinical Trials, Inc.</name>
+      <address>
+        <city>Santa Ana</city>
+        <state>California</state>
+        <zip>92705-8519</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Delta Waves LLC - Hunt - PPDS</name>
+      <address>
+        <city>Colorado Springs</city>
+        <state>Colorado</state>
+        <zip>80918</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Pediatric Research Institute</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32803-1468</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Neurotrials Research</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30342-1743</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Georgia Neuro Center</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Georgia</state>
+        <zip>30501-3883</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Neurocare Inc.</name>
+      <address>
+        <city>Newton</city>
+        <state>Massachusetts</state>
+        <zip>02459</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Medical Center - Columbus</name>
+      <address>
+        <city>Novi</city>
+        <state>Michigan</state>
+        <zip>48377</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Lukes Sleep Medicine and Research Center</name>
+      <address>
+        <city>Chesterfield</city>
+        <state>Missouri</state>
+        <zip>63017-3406</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Carolina Elite</name>
+      <address>
+        <city>Denver</city>
+        <state>North Carolina</state>
+        <zip>28037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARSM Research, LLC</name>
+      <address>
+        <city>Huntersville</city>
+        <state>North Carolina</state>
+        <zip>28078-5082</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tricoastal Narcolepsy and Sleep Disorders Center, PLLC</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Intrepid Research</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45227-2172</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ohio Sleep Medicine Institute</name>
+      <address>
+        <city>Dublin</city>
+        <state>Ohio</state>
+        <zip>43017-3521</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina - PPDS</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425-5712</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Bogan Sleep Consultants, LLC</name>
+      <address>
+        <city>Columbia</city>
+        <state>South Carolina</state>
+        <zip>29201-2923</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Comprehensive Sleep Medicine Associates - Sugar Land</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030-2042</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sleep Therapy and Research Center</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229-4849</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Specialty Group</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23510-1021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Terveystalo Helsinki Sleep Clinic</name>
+      <address>
+        <city>Helsinki</city>
+        <state>Uusimaa</state>
+        <zip>00380</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Saint-Eloi</name>
+      <address>
+        <city>Montpellier</city>
+        <state>Herault</state>
+        <zip>34090</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Grenoble</name>
+      <address>
+        <city>La Tronche</city>
+        <state>Isere</state>
+        <zip>38700</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto Neurologico Mediterraneo Neuromed</name>
+      <address>
+        <city>Pozzilli</city>
+        <state>Molise</state>
+        <zip>86077</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IRCCS Istituto delle Scienze Neurologiche di Bologna</name>
+      <address>
+        <city>Bellaria</city>
+        <zip>40139</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Akita University Hospital</name>
+      <address>
+        <city>Akita-Shi</city>
+        <state>Akita</state>
+        <zip>010-8543</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>You Ariyoshi Sleep Clinic</name>
+      <address>
+        <city>Kitakyushu-city</city>
+        <state>Hukuoka</state>
+        <zip>806-0021</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Howakai Kuwamizu Hospital</name>
+      <address>
+        <city>Kumamoto-Shi</city>
+        <state>Kumamoto</state>
+        <zip>862-0954</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Koishikawa Tokyo Hospital</name>
+      <address>
+        <city>Bunkyo-Ku</city>
+        <state>Tokyo</state>
+        <zip>112-0012</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Center of Neurology and Psychiatry</name>
+      <address>
+        <city>Kodaira-Shi</city>
+        <state>Tokyo</state>
+        <zip>187-8551</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Aichi Medical University Hospital</name>
+      <address>
+        <city>Nagakute</city>
+        <zip>480-1195</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kempenhaeghe - PPDS</name>
+      <address>
+        <city>Heeze</city>
+        <state>Noord-Brabant</state>
+        <zip>5591 VE</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Slaap-Waakcentrum SEIN Heemstede</name>
+      <address>
+        <city>Heemstede</city>
+        <state>Noord-Holland</state>
+        <zip>2103 SW</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Oslo Universitetssykehus HF Rikshospitalet</name>
+      <address>
+        <city>Oslo</city>
+        <zip>0450</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Araba Santiago</name>
+      <address>
+        <city>Vitoria-Gasteiz</city>
+        <state>Alava</state>
+        <zip>1004</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General Universitari de Castello</name>
+      <address>
+        <city>Castellón De La Plana</city>
+        <state>Castellon</state>
+        <zip>12004</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de La Ribera</name>
+      <address>
+        <city>Alzira</city>
+        <state>Valencia</state>
+        <zip>46600</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinic de Barcelona</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Investigaciones del Sueno</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Vithas Madrid Arturo Soria</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28043</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sahlgrenska Universitetssjukhuset</name>
+      <address>
+        <city>Goteborg</city>
+        <state>Vastra Gotalands Lan</state>
+        <zip>413 90</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Finland</country>
+    <country>France</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Netherlands</country>
+    <country>Norway</country>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://clinicaltrials.takeda.com/study-detail/b8004ec7e72e4dd0?idFilter=%5B%22TAK-861-2002%22%5D</url>
+    <description>To obtain more information on the study, click here/on this link</description>
+  </link>
+  <verification_date>June 2023</verification_date>
+  <study_first_submitted>January 9, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 9, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>June 8, 2023</last_update_submitted>
+  <last_update_submitted_qc>June 8, 2023</last_update_submitted_qc>
+  <last_update_posted type="Estimate">June 9, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Drug Therapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Narcolepsy</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Takeda provides access to the de-identified individual participant data (IPD) for eligible studies to aid qualified researchers in addressing legitimate scientific objectives (Takeda's data sharing commitment is available on https://clinicaltrials.takeda.com/takedas-commitment?commitment=5). These IPDs will be provided in a secure research environment following approval of a data sharing request, and under the terms of a data sharing agreement.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_access_criteria>IPD from eligible studies will be shared with qualified researchers according to the criteria and process described on https://vivli.org/ourmember/takeda/. For approved requests, the researchers will be provided access to anonymized data (to respect patient privacy in line with applicable laws and regulations) and with information necessary to address the research objectives under the terms of a data sharing agreement.</ipd_access_criteria>
+    <ipd_url>https://vivli.org/ourmember/takeda/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

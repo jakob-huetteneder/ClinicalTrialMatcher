@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9514">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05696288</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022/16</org_study_id>
+    <nct_id>NCT05696288</nct_id>
+  </id_info>
+  <brief_title>Conventional Oxygen Therapy Versus Continuous Transnasal High Flow Oxygen Therapy for Head and Neck Diagnostic Panendoscopy Under General Anesthesia in Spontaneous Ventilation</brief_title>
+  <acronym>OPTINOSE</acronym>
+  <official_title>Conventional Oxygen Therapy Versus Continuous Transnasal High Flow Oxygen Therapy for Head and Neck Diagnostic Panendoscopy Under General Anesthesia in Spontaneous Ventilation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Antoine Lacassagne</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Antoine Lacassagne</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The high-flow oxygen therapy system, also called the THRIVE (Transnasal Humidified&#xD;
+      Rapid-Insufflation Ventilatory Exchange) system, appears to provide better patient safety&#xD;
+      than conventional techniques.&#xD;
+&#xD;
+      Panendoscopy is a very common diagnostic procedure in ENT surgery. The general anesthesia&#xD;
+      during the diagnostic panendoscopy is a good representation of the induction stage. Indeed,&#xD;
+      the procedure of preoxygenation preceding anesthetic induction and direct laryngoscopy&#xD;
+      corresponds to the airway management that is an integral part of each general anesthesia.&#xD;
+      This is why researchers are studying it in particular to improve patient safety during&#xD;
+      difficult intubations. The paradox is that there is no consensus on the anesthetic strategy&#xD;
+      for this procedure that counts four main methods for the airway management of patients&#xD;
+      requiring an ENT panendoscopy. In our center, the investigators use, in most situations, a&#xD;
+      variant of spontaneous ventilation described by Y. Jacquet et al., with the difference that&#xD;
+      the investigators use a transglottic oxygenation probe during the procedure. During&#xD;
+      laryngoscopy, the operator positions a naso-tracheal tube after local anesthesia of the vocal&#xD;
+      cords. The oxygen flow is reduced to 3 L/min before the exploration procedure. The arrival in&#xD;
+      operating theaters of the Optiflow™ system, developed by the New Zealand Company Fisher &amp;&#xD;
+      Paykel Healthcare, has led to a rethinking of the way oxygen is delivered. This device allows&#xD;
+      the administration of a flow rate of up to 70 L/min while delivering heated gases.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This device allows the administration of a flow rate of up to 70 L/min while delivering&#xD;
+      heated gases. The benefit of Optiflow™ no longer needs to be demonstrated for certain&#xD;
+      intensive care patients. In the field of Anesthesia, the number of publications raised up&#xD;
+      since the increase in the non-hypoxemic apnea time during general anesthesia is never equaled&#xD;
+      by other methods.&#xD;
+&#xD;
+      What is known is that panendoscopy under general anesthesia in spontaneous ventilation is not&#xD;
+      unanimously accepted due to a higher risk regarding the time allowed for apnea, and&#xD;
+      laryngospasm complications. High-flow oxygen delivery provide a longer safe apnea time for&#xD;
+      patient safety. The aim of this investigation is to prove that high-flow oxygen therapy&#xD;
+      improves patient safety during general anesthesia for ENT panendoscopy. This should allow&#xD;
+      answering the question: shouldn't very high flow oxygenation be systematically offered for&#xD;
+      this procedure? Currently, there is no consensus as to the anaesthetic strategy for this&#xD;
+      procedure, if our hypothesis is verified; the Optiflow™ system could become de gold standard&#xD;
+      of the management of the upper airway during the ENT procedure.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 12, 2023</start_date>
+  <completion_date type="Anticipated">June 12, 2025</completion_date>
+  <primary_completion_date type="Anticipated">April 12, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>To compare the incidence of oxygen desaturation in patients ventilated with the Optiflow™ system to that of patients treated according to the standard technique.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of arterial desaturation</measure>
+    <time_frame>1 day, during the procédure</time_frame>
+    <description>The O2 saturation defined as SpO2 &lt;95% will be collected each time it reaches 94% or less</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Measure the non-hypoxemic apnea time</measure>
+    <time_frame>1 day, during the procédure</time_frame>
+    <description>Non-hypoxemic apnea time will be measured as soon as the SpO2 parameter is between 100 and 95%</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of the use of manual ventilation</measure>
+    <time_frame>1 day, during the procedure</time_frame>
+    <description>Interruption of the surgical procedure for use of manual ventilation with a facemask will be recorded.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of the use of tracheal intubation</measure>
+    <time_frame>1 day, during the procedure</time_frame>
+    <description>Conversion from the OHD oxygenation technique to the standard technique will be recorded</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of the use of neuromuscular blocking drugs</measure>
+    <time_frame>1 day, during the procedure</time_frame>
+    <description>The use of neuromuscular blocking drugs will be recorded</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of emergency tracheostomy</measure>
+    <time_frame>1 day, during the procedure</time_frame>
+    <description>The performance of an emergency tracheostomy will be recorded</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of complications in SSPI and the complication rate on D1 after the panendoscopy procedure</measure>
+    <time_frame>Through study completion, up to 2 days</time_frame>
+    <description>Occurrence of complications in SSPI and on D1 after the panendoscopy procedure will be recorded. Complication in SSPI is define as prolonged desaturation requiring a supply of ventilation whatever the modalities, symptomatic hypercapnia or cardiovascular complications.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between sedation dose and duration of non-hypoxemic apnea</measure>
+    <time_frame>1 day, during the procedure</time_frame>
+    <description>Correlation between the dose of sedation and the duration of non-hypoxemic apnea will be evaluated using Spearman's R coefficient</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the technique fluctuation</measure>
+    <time_frame>1 day, during the procedure</time_frame>
+    <description>Hypoxic desaturation will be reported by acts and by technique</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Operator satisfaction</measure>
+    <time_frame>1 day, after the procedure</time_frame>
+    <description>Operator's satisfaction will be noted at the end of each procedure using a visual analogic scale from 1 to 6</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient satisfaction</measure>
+    <time_frame>up to 2 days</time_frame>
+    <description>Patient satisfaction will be recorded using a scale from 1 to 6</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">160</enrollment>
+  <condition>Head and Neck Cancer</condition>
+  <arm_group>
+    <arm_group_label>Arm A: investigational device (Respiratory Gas Delivery System)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients ventilated with the Optiflow™ system, a nasal high flow oxygenation system (NHFO) while undergoing a panendoscopy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B: standard nasal oxygenation device</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients ventilated according to the standard technique while undergoing a panendoscopy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Respiratory Gas Delivery System</intervention_name>
+    <description>Oxygen therapy during general anesthesia for ENT panendoscopy</description>
+    <arm_group_label>Arm A: investigational device (Respiratory Gas Delivery System)</arm_group_label>
+    <arm_group_label>Arm B: standard nasal oxygenation device</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients suffering from a head and neck cancer, most often tumor of the&#xD;
+             bucco-pharyngo-laryngeal cavities, having to carry out a diagnostic HN panendoscopy;&#xD;
+&#xD;
+          -  Patient over 18 years of age;&#xD;
+&#xD;
+          -  ASA &lt; 4;&#xD;
+&#xD;
+          -  BMI ≤ 45;&#xD;
+&#xD;
+          -  Patient willing and able to provide written informed consent for the trial;;&#xD;
+&#xD;
+          -  Patient affiliated with a health insurance system.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient with a contraindication to the Optiflow™ system as defined in the&#xD;
+             manufacturer's brochure;&#xD;
+&#xD;
+          -  Patient with a tumor obstructing more than 80% of the glottic lumen;&#xD;
+&#xD;
+          -  Patient with impossible intubation criteria:&#xD;
+&#xD;
+               -  Mallampati 4 and mouth opening less than 20 mm&#xD;
+&#xD;
+               -  Retrognathia&#xD;
+&#xD;
+          -  Patient with:&#xD;
+&#xD;
+               -  A known intracranial pathology;&#xD;
+&#xD;
+               -  Documented pulmonary hypertension;&#xD;
+&#xD;
+               -  Uncontrolled epilepsy;&#xD;
+&#xD;
+               -  Uncontrolled heart rhythm disorder;&#xD;
+&#xD;
+               -  Pulmonary pathology with hypoxemia: Spo2 &lt;92% in ambient air;&#xD;
+&#xD;
+          -  Patient at high risk of a full stomach evaluated by the anesthetist;&#xD;
+&#xD;
+          -  ASA ≥ 4&#xD;
+&#xD;
+          -  Morbid obesity with BMI&gt; 45;&#xD;
+&#xD;
+          -  Obstructive upper airway tumor with functional impact;&#xD;
+&#xD;
+          -  Known contraindication to propofol or alfentanil;&#xD;
+&#xD;
+          -  Panendoscopy procedure to be combined with an oesogastro-duodenal fibroscopy;&#xD;
+&#xD;
+          -  Vulnerable persons as defined by articles 64 and 68 of Regulation (EU) 2017/745 of the&#xD;
+             European Parliament and of the Council of 5 April 2017 on medical devices :&#xD;
+&#xD;
+               -  In the case of incapacitated subjects who have not given, or have not refused to&#xD;
+                  give, informed consent before the onset of their incapacity, a clinical&#xD;
+                  investigation may be conducted only where, in addition to the conditions set out&#xD;
+                  in Article 62(4)&#xD;
+&#xD;
+               -  Pregnant or breast-feeding women who do not fall under the provisions of Article&#xD;
+                  66&#xD;
+&#xD;
+               -  Adults subject to a legal protection order or unable to give their consent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pierre-Henri KOULMANN, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Centre Antoine Lacassagne</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pierre-Henri KOULMANN, MD</last_name>
+    <phone>+33 492 031 456</phone>
+    <email>pierre-henri.koulmann@nice.unicancer.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Centre Antoine Lacassagne</name>
+      <address>
+        <city>Nice</city>
+        <zip>06189</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pierre Henri Koulmann, MD</last_name>
+      <phone>+33 492 031 456</phone>
+      <email>pierre-henri.koulmann@nice.unicancer.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sandrine CHELI, PhD</last_name>
+      <phone>+33 492 031 132</phone>
+      <email>sandrine.cheli@nice.unicancer.fr</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 11, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>April 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 14, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Head and Neck Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

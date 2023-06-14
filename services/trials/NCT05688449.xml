@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9869">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05688449</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20220609</org_study_id>
+    <nct_id>NCT05688449</nct_id>
+  </id_info>
+  <brief_title>Effect of Epidural Analgesia on Burst Suppression</brief_title>
+  <official_title>Investigation of the Effect of Epidural Analgesia Combined With General Anesthesia on Burst Suppression Rate in Electroencephalogram Based Anesthesia Management</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bezmialem Vakif University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bezmialem Vakif University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      It has been shown in previous studies that burst suppression has an effect on the development&#xD;
+      of postoperative delirium (POD) and postoperative cognitive dysfunction (POCD). With the&#xD;
+      development of technology, EEG-based anesthesia management is getting more and more&#xD;
+      attention. In particular, methods that reduce anesthetic drug consumption are expected to&#xD;
+      prevent POD and POCD by reducing burst suppression. There are studies that show that epidural&#xD;
+      analgesia applications reduce general anesthesia drug consumption in patients receiving&#xD;
+      general anesthesia. In this study, investigators want to investigate the effect of epidural&#xD;
+      analgesia combined with general anesthesia on burst suppression. POD and POCD development in&#xD;
+      these patients will be examined as secondary objectives.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Postoperative delirium (POD) is an acute cognitive disorder characterized by inattention,&#xD;
+      disorganized thinking, and a fluctuating course that develops over hours or days. Although&#xD;
+      delirium depends on the type of surgery, it is a common postoperative complication with an&#xD;
+      incidence of 10%-70%. POD causes an increase in mortality, morbidity and health care costs.&#xD;
+      Risk factors for POD; age, type and duration of surgery, inadequate pain control, type of&#xD;
+      anesthesia, anemia, transfusion, and preoperative cognitive impairment. In recent years, it&#xD;
+      has been emphasized that POD can be reduced with the widespread use of electroencephalogram&#xD;
+      (EEG) based anesthesia management and optimization of anesthetic drugs according to EEG&#xD;
+      patterns. EEG consists of 6 waveforms: slow, delta, theta, alpha, beta and gamma. Behavioral&#xD;
+      and neurophysiological patterns caused by anesthetic drugs are associated with different&#xD;
+      electroencephalogram waveforms. Recent developments in the introduction of EEG-based monitors&#xD;
+      have made significant contributions to the understanding of the fundamental changes in brain&#xD;
+      activity caused by anesthetic agents. Today, there are EEG-based anesthesia depth monitors&#xD;
+      such as bispectral index (BIS) (Medtronic, USA) or Sedline (Masimo Irvine CA). These monitors&#xD;
+      make it easier to optimize the depth of anesthesia with the numerical data obtained as a&#xD;
+      result of some calculations as well as the raw EEG. The burst suppression (BS) pattern on the&#xD;
+      EEG shows a decrease in brain neuronal activity and metabolic activity. Burst suppression can&#xD;
+      be induced by anesthetic drugs that modulate γ-aminobutyric acid type A receptors. Although&#xD;
+      sometimes deliberately induced for therapeutic purposes to treat refractory status&#xD;
+      epilepticus or increased intracranial pressure, burst suppression is generally considered&#xD;
+      potentially harmful and should be avoided.Studies conducted in recent years have shown the&#xD;
+      relationship between intraoperative burst suppression (BS) and POD. POD; It can be reduced by&#xD;
+      continuous EEG monitoring, reducing the dose of propofol, preferring regional anesthesia,&#xD;
+      effective postoperative pain control, early mobilization, and early postoperative discharge.&#xD;
+      Interventions that can reduce the development of postoperative delirium will be important for&#xD;
+      public health. Epidural analgesia can be used effectively in perioperative analgesia. It has&#xD;
+      been reported in the literature that epidural analgesia combined with general anesthesia&#xD;
+      reduces the amount of hypnotic drug required to achieve similar depth of anesthesia compared&#xD;
+      to general anesthesia alone. There is no study in the literature on whether the combination&#xD;
+      of epidural analgesia and general anesthesia reduces BS in EEG-based anesthesia applications.&#xD;
+      Our primary aim in this study is to evaluate whether the combination of general anesthesia&#xD;
+      and epidural analgesia reduces BS in EEG-based anesthesia in patients undergoing total hip&#xD;
+      and knee arthroplasty.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 30, 2022</start_date>
+  <completion_date type="Anticipated">April 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 2023</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>burst suppression</measure>
+    <time_frame>Form beginning of anesthesia induction to the end of anesthesia(During perioperative period)</time_frame>
+    <description>burst suppression rate</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>postoperative two days delirium rate</measure>
+    <time_frame>Within the first two postoperative days</time_frame>
+    <description>Screening of the patients regarding a postoperative delirum by Confusion Assessment Method for the ICU.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Postoperative cognitive dysfunction rate</measure>
+    <time_frame>Participants will be called for control in the postoperative 1st and 3rd months.</time_frame>
+    <description>Screening of the patients regarding a postoperative cognitive dysfunction by the telephone Montreal Cognitive Assessment(t-MoCA)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">64</enrollment>
+  <condition>Post-operative Delirium</condition>
+  <condition>Cognitive Dysfunction</condition>
+  <condition>Electroencephalography</condition>
+  <arm_group>
+    <arm_group_label>Epidural analgesia</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Eeg monitoring will be implemented with Sedline monitor(Masimo Irvine CA) 5 minutes before epidural catheter insertion, 30 minutes after epidural catheter insertion, during surgery and 5 minutes after extubation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Eeg monitoring will be implemented with Sedline monitor (Masimo Irvine CA) 5 minutes before epidural catheter insertion, 30 minutes after epidural catheter insertion, during surgery and 5 minutes after extubation.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bupivacaine-fentanyl</intervention_name>
+    <description>A 20 ml bolus of 2 mcg/ml fentanyl + 0.125% bupivacaine solution will be administered to the bupivacaine group via the epidural catheter, and 5ml/hour infusion will be started.</description>
+    <arm_group_label>Epidural analgesia</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Saline</intervention_name>
+    <description>A 20 ml bolus of saline will be administered to the saline group via the epidural catheter, and 5ml/hour infusion will be started.</description>
+    <arm_group_label>placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  American Society of Anesthesiologists (ASA) Physical Status 1-3&#xD;
+&#xD;
+          -  Hip or knee arthroplasty surgery&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  severe renal failure (need for renal replacement therapy)&#xD;
+&#xD;
+          -  severe liver failure (child-pudg grade c)&#xD;
+&#xD;
+          -  body mass index &gt;40&#xD;
+&#xD;
+          -  long-term use of some drugs (sedatives, tricyclic antidepressants, narcotic&#xD;
+             painkillers)&#xD;
+&#xD;
+          -  having a disease related to the nervous system&#xD;
+&#xD;
+          -  having a psychiatric disease&#xD;
+&#xD;
+          -  having a history of substance abuse&#xD;
+&#xD;
+          -  having consumed 2 or more glasses of alcohol per day in the last 1 year&#xD;
+&#xD;
+          -  contraindications for neuraxial block&#xD;
+&#xD;
+          -  allergy to drugs to be used&#xD;
+&#xD;
+          -  emergency surgeries&#xD;
+&#xD;
+          -  patient's refusal to accept the procedure&#xD;
+&#xD;
+          -  hearing and visual impairment&#xD;
+&#xD;
+          -  anesthesia awareness history&#xD;
+&#xD;
+          -  preoperative delirium&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>mustafa gunay</last_name>
+    <phone>+905363146236</phone>
+    <email>dr.mustafagunay@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Bezmialem Vakif University Hospital</name>
+      <address>
+        <city>Istanbul</city>
+        <state>Fatih</state>
+        <zip>34500</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>mustafa gunay</last_name>
+      <phone>+905363146236</phone>
+      <email>dr.mustafagunay@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>ayla turkoz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>serdar yesiltas</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>November 7, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 15, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>January 15, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 15, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 18, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>burst suppression</keyword>
+  <keyword>delirium</keyword>
+  <keyword>electroencephalography</keyword>
+  <keyword>anesthesia</keyword>
+  <keyword>regional anesthesia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Delirium</mesh_term>
+    <mesh_term>Emergence Delirium</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fentanyl</mesh_term>
+    <mesh_term>Bupivacaine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

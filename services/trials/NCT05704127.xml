@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9159">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05704127</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ShanxiAcupuncture</org_study_id>
+    <nct_id>NCT05704127</nct_id>
+  </id_info>
+  <brief_title>Intelligent Moxibustion Robot in the Treatment of Low Back Pain</brief_title>
+  <official_title>Clinical Study of Intelligent Moxibustion Robot in the Treatment of Low Back Pain: a Randomized Controlled Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shanxi Acupuncture and Moxibustion Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Xinghualing Hospital of Traditional Chinese Medicine, Taiyuan City, Shanxi Province，China</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Yongji Hospital of Traditional Chinese Medicine, Yuncheng City,Shanxi Province，China</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Lingqiu Hospital of Traditional Chinese Medicine, Datong City,Shanxi Province，China</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>North University of China</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Shanxi Acupuncture and Moxibustion Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The intelligent moxibustion robot is applied to the clinical treatment of low back pain to&#xD;
+      verify its effectiveness and safety&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Shanxi Acupuncture and Moxibustion Hospital and North University of China jointly developed&#xD;
+      an &quot;intelligent thunder-fire moxibustion&quot; robot with six degrees of freedom mechanical arm as&#xD;
+      the core and will be applied in clinical practice to verify its clinical efficacy. In&#xD;
+      clinical practice, patients with low back pain were recruited jointly by several hospitals&#xD;
+      and divided into two groups. Intelligent thunder-fire moxibustion robot and artificial&#xD;
+      thunder-fire moxibustion were respectively used for treatment. The clinical efficacy and&#xD;
+      safety of intelligent thunder-fire moxibustion robot were evaluated through comparative&#xD;
+      analysis of outcome indexes such as VAS pain scale and serum inflammatory factors.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 15, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Visual analogue scale(VAS score)</measure>
+    <time_frame>Before enrollment</time_frame>
+    <description>visual analogue scale (VAS) was used to assess pain. It is widely used in clinical practice in China. The basic method is to use a walking scale about 10cm long, with 10 scales on one side and &quot;0&quot; and &quot;10&quot; respectively at both ends. 0 points means no pain and 10 points means the most unbearable pain.(On a scale of 0-10, the lower the score, the better the health)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Visual analogue scale(VAS score)</measure>
+    <time_frame>After 5 treatments, an average of 1 week</time_frame>
+    <description>visual analogue scale (VAS) was used to assess pain. It is widely used in clinical practice in China. The basic method is to use a walking scale about 10cm long, with 10 scales on one side and &quot;0&quot; and &quot;10&quot; respectively at both ends. 0 points means no pain and 10 points means the most unbearable pain.(On a scale of 0-10, the lower the score, the better the health)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Visual analogue scale(VAS score)</measure>
+    <time_frame>Through all treatments -- after 10 treatments, an average of 2 week</time_frame>
+    <description>visual analogue scale (VAS) was used to assess pain. It is widely used in clinical practice in China. The basic method is to use a walking scale about 10cm long, with 10 scales on one side and &quot;0&quot; and &quot;10&quot; respectively at both ends. 0 points means no pain and 10 points means the most unbearable pain.(On a scale of 0-10, the lower the score, the better the health)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Visual analogue scale(VAS score)</measure>
+    <time_frame>2 weeks after treatment</time_frame>
+    <description>visual analogue scale (VAS) was used to assess pain. It is widely used in clinical practice in China. The basic method is to use a walking scale about 10cm long, with 10 scales on one side and &quot;0&quot; and &quot;10&quot; respectively at both ends. 0 points means no pain and 10 points means the most unbearable pain.(On a scale of 0-10, the lower the score, the better the health)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Japanese Orthopaedic Association Score--Low Back Pain(JOA Low Back Pain Score)</measure>
+    <time_frame>Before enrollment</time_frame>
+    <description>The questionnaire was designed to understand the impact of patients' low back pain on daily activities. According to their own conditions, the patients choose a most consistent or close answer under each item, and ultimately by the sum of scores to judge the severity of low back pain.(On a scale of 0-29, the higher the score, the better the health）</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Japanese Orthopaedic Association Score--Low Back Pain(JOA Low Back Pain Score)</measure>
+    <time_frame>After 5 treatments, an average of 1 week</time_frame>
+    <description>The questionnaire was designed to understand the impact of patients' low back pain on daily activities. According to their own conditions, the patients choose a most consistent or close answer under each item, and ultimately by the sum of scores to judge the severity of low back pain.(On a scale of 0-29, the higher the score, the better the health）</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Japanese Orthopaedic Association Score--Low Back Pain(JOA Low Back Pain Score)</measure>
+    <time_frame>Through all treatments -- after 10 treatments, an average of 2 week</time_frame>
+    <description>The questionnaire was designed to understand the impact of patients' low back pain on daily activities. According to their own conditions, the patients choose a most consistent or close answer under each item, and ultimately by the sum of scores to judge the severity of low back pain.(On a scale of 0-29, the higher the score, the better the health）</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Japanese Orthopaedic Association Score--Low Back Pain(JOA Low Back Pain Score)</measure>
+    <time_frame>2 weeks after treatment</time_frame>
+    <description>The questionnaire was designed to understand the impact of patients' low back pain on daily activities. According to their own conditions, the patients choose a most consistent or close answer under each item, and ultimately by the sum of scores to judge the severity of low back pain.(On a scale of 0-29, the higher the score, the better the health）</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>36-items short form health survey(SF-36)</measure>
+    <time_frame>Before enrollment</time_frame>
+    <description>As a concise health questionnaire, the SF-36 comprehensively summarizes the quality of life of the respondents from eight aspects: physiological function, physiological function, physical pain, general health status, energy, social function, emotional function and mental health.(On a scale of 0-149, the higher the score, the better the health)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>36-items short form health survey(SF-36)</measure>
+    <time_frame>After 5 treatments, an average of 1 week</time_frame>
+    <description>As a concise health questionnaire, the SF-36 comprehensively summarizes the quality of life of the respondents from eight aspects: physiological function, physiological function, physical pain, general health status, energy, social function, emotional function and mental health.(On a scale of 0-149, the higher the score, the better the health)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>36-items short form health survey(SF-36)</measure>
+    <time_frame>Through all treatments -- after 10 treatments, an average of 2 week</time_frame>
+    <description>As a concise health questionnaire, the SF-36 comprehensively summarizes the quality of life of the respondents from eight aspects: physiological function, physiological function, physical pain, general health status, energy, social function, emotional function and mental health.(On a scale of 0-149, the higher the score, the better the health)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>36-items short form health survey(SF-36)</measure>
+    <time_frame>2 weeks after treatment</time_frame>
+    <description>As a concise health questionnaire, the SF-36 comprehensively summarizes the quality of life of the respondents from eight aspects: physiological function, physiological function, physical pain, general health status, energy, social function, emotional function and mental health.(On a scale of 0-149, the higher the score, the better the health)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Roland Morris Disability Questionnaire(RMDQ)</measure>
+    <time_frame>Before enrollment</time_frame>
+    <description>The questionnaire was designed to understand the impact of patients' low back pain on daily activities. Patients choose the most consistent or close answer under each item, depending on their situation. The questionnaire consisted of 24 questions closely related to low back pain. The actual score ranges from 0 to 24, with higher scores indicating more serious dysfunction.(On a scale of 0-24, the lower the score, the better the health)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Roland Morris Disability Questionnaire(RMDQ)</measure>
+    <time_frame>After 5 treatments, an average of 1 week</time_frame>
+    <description>The questionnaire was designed to understand the impact of patients' low back pain on daily activities. Patients choose the most consistent or close answer under each item, depending on their situation. The questionnaire consisted of 24 questions closely related to low back pain. The actual score ranges from 0 to 24, with higher scores indicating more serious dysfunction.(On a scale of 0-24, the lower the score, the better the health)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Roland Morris Disability Questionnaire(RMDQ)</measure>
+    <time_frame>Through all treatments -- after 10 treatments, an average of 2 week</time_frame>
+    <description>The questionnaire was designed to understand the impact of patients' low back pain on daily activities. Patients choose the most consistent or close answer under each item, depending on their situation. The questionnaire consisted of 24 questions closely related to low back pain. The actual score ranges from 0 to 24, with higher scores indicating more serious dysfunction.(On a scale of 0-24, the lower the score, the better the health)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Roland Morris Disability Questionnaire(RMDQ)</measure>
+    <time_frame>2 weeks after treatment</time_frame>
+    <description>The questionnaire was designed to understand the impact of patients' low back pain on daily activities. Patients choose the most consistent or close answer under each item, depending on their situation. The questionnaire consisted of 24 questions closely related to low back pain. The actual score ranges from 0 to 24, with higher scores indicating more serious dysfunction.(On a scale of 0-24, the lower the score, the better the health)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Lumbar joint range of motion</measure>
+    <time_frame>Before enrollment</time_frame>
+    <description>A professional protractor was used to measure the range of motion in six azimuths of waist, anterior flexion, posterior extension, left and right lateral flexion and left and right rotation in the upright position, and the degree of movement was recorded.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Lumbar joint range of motion</measure>
+    <time_frame>Through all treatments -- after 10 treatments, an average of 2 week</time_frame>
+    <description>A professional protractor was used to measure the range of motion in six azimuths of waist, anterior flexion, posterior extension, left and right lateral flexion and left and right rotation in the upright position, and the degree of movement was recorded.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Schober test</measure>
+    <time_frame>Before enrollment</time_frame>
+    <description>Subjects stood upright and were marked 5cm below and 10cm above the lumbosacral junction. Subjects were asked to bend forward as far as possible and the distance (cm) between the lumbosacral junction and the marker was measured. The increased distance was used to represent lumbar range of motion.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Schober test</measure>
+    <time_frame>Through all treatments -- after 10 treatments, an average of 2 week</time_frame>
+    <description>Subjects stood upright and were marked 5cm below and 10cm above the lumbosacral junction. Subjects were asked to bend forward as far as possible and the distance (cm) between the lumbosacral junction and the marker was measured. The increased distance was used to represent lumbar range of motion.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serum inflammatory response factor</measure>
+    <time_frame>Before enrollment</time_frame>
+    <description>4 mL of venous blood was drawn from patients before and after treatment, and serum was separated and detected by ELISA. Serum tumor necrosis factor (TNF-α), interleukin IL-1β, interleukin IL-6, and serum thromboxane B2 (TXB2) were measured.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serum inflammatory response factor</measure>
+    <time_frame>Through all treatments -- after 10 treatments, an average of 2 week</time_frame>
+    <description>4 mL of venous blood was drawn from patients before and after treatment, and serum was separated and detected by ELISA. Serum tumor necrosis factor (TNF-α), interleukin IL-1β, interleukin IL-6, and serum thromboxane B2 (TXB2) were measured.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">160</enrollment>
+  <condition>Moxibustion</condition>
+  <condition>Low Back Pain</condition>
+  <arm_group>
+    <arm_group_label>Intelligent Moxibustion Robot</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The intelligent moxibustion robot holds the thunder fire moxibustion stick and conducts suspension moxibustion treatment on the points BL23, BL25, DU3 and pain points for 10 minutes in each group, a total of 40 minutes. BL23 and BL25 have one acupuncture point on each side of the spine, and the straight line reciprocating moxibustion technique is adopted. DU3, a single point, adopts the whirling moxibustion technique. Pain points,according to the number of pain points, choose straight reciprocating moxibustion or rotary moxibustion.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Artificial moxibustion</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The people hold the thunder fire moxibustion stick and conducts suspension moxibustion treatment on the points BL23, BL25, DU3 and pain points for 10 minutes in each group, a total of 40 minutes. BL23 and BL25 have one acupuncture point on each side of the spine, and the straight line reciprocating moxibustion technique is adopted. DU3, a single point, adopts the whirling moxibustion technique. Pain points,according to the number of pain points, choose straight reciprocating moxibustion or rotary moxibustion.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Intelligent Moxibustion Robot</intervention_name>
+    <description>The intelligent moxibustion robot holds the thunder fire moxibustion stick and conducts suspension moxibustion treatment on the points BL23, BL25, DU3 and pain points for 10 minutes in each group, a total of 40 minutes. BL23 and BL25 have one acupuncture point on each side of the spine, and the straight line reciprocating moxibustion technique is adopted. DU3, a single point, adopts the whirling moxibustion technique. Pain points,according to the number of pain points, choose straight reciprocating moxibustion or rotary moxibustion.</description>
+    <arm_group_label>Intelligent Moxibustion Robot</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Artificial moxibustion</intervention_name>
+    <description>The people hold the thunder fire moxibustion stick and conducts suspension moxibustion treatment on the points BL23, BL25, DU3 and pain points for 10 minutes in each group, a total of 40 minutes. BL23 and BL25 have one acupuncture point on each side of the spine, and the straight line reciprocating moxibustion technique is adopted. DU3, a single point, adopts the whirling moxibustion technique. Pain points,according to the number of pain points, choose straight reciprocating moxibustion or rotary moxibustion.</description>
+    <arm_group_label>Artificial moxibustion</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  1.It is consistent with the diagnostic criteria of low back pain and the syndrome&#xD;
+             differentiation criteria of cold and wet lumbar muscle strain.&#xD;
+&#xD;
+          -  2.There is no gender limitation, and the age should be between 25 and 70 years old&#xD;
+&#xD;
+          -  3.No treatment of traditional Chinese and western medicine related to lumbago was&#xD;
+             received in the past 2 weeks&#xD;
+&#xD;
+          -  4.The course of disease was controlled within 8 years&#xD;
+&#xD;
+          -  5.Informed consent, willing to cooperate with the whole treatment&#xD;
+&#xD;
+          -  6.Agree to record the scale score and volunteer to participate in this experiment&#xD;
+&#xD;
+          -  7.At least one contact information should be reserved for patients to receive&#xD;
+             follow-up visits&#xD;
+&#xD;
+          -  8.In order to reduce the rate of shedding, priority is included in hospitalized&#xD;
+             patients&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  1.Patients do not meet the inclusion criteria Patients who do not meet the diagnostic&#xD;
+             inclusion criteria of this subject&#xD;
+&#xD;
+          -  2.The patient is in the pregnancy or lactation period&#xD;
+&#xD;
+          -  3.Patients are allergic to moxibustion smoke, and it is difficult to accept&#xD;
+             moxibustion treatment&#xD;
+&#xD;
+          -  4.The patient suffers from diseases of the blood and immune system&#xD;
+&#xD;
+          -  5.Patients with cardiac, liver and renal insufficiency&#xD;
+&#xD;
+          -  6.The patient suffers from mental illness and cannot cooperate with moxibustion&#xD;
+&#xD;
+          -  7.The patient suffered from lumbar spine tuberculosis, bone cancer and other diseases,&#xD;
+             which affected the experimental results&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>25 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Tiansheng Zhang, doctor</last_name>
+    <role>Study Chair</role>
+    <affiliation>Shanxi Provincial Acupuncture and Moxibustion Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Bosong Hou, Postgraduate</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Shanxi Provincial Acupuncture and Moxibustion Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Tiancheng Xu, doctor</last_name>
+    <role>Study Director</role>
+    <affiliation>Nanjing University of Chinese Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Bosong Hou, Postgraduate</last_name>
+    <phone>0086 18337320205</phone>
+    <email>904225587@qq.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Lingqiu Hospital of Traditional Chinese Medicine</name>
+      <address>
+        <city>Datong</city>
+        <state>Shanxi</state>
+        <zip>034400</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wei Qiao</last_name>
+      <phone>0086 15035293780</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Shanxi Acupuncture and moxibustion Hospital</name>
+      <address>
+        <city>Taiyuan</city>
+        <state>Shanxi</state>
+        <zip>030000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tiansheng Zhang, doctor</last_name>
+      <phone>13466838493</phone>
+      <email>zts910@163.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Xinghualing Hospital of Traditional Chinese Medicine</name>
+      <address>
+        <city>Taiyuan</city>
+        <state>Shanxi</state>
+        <zip>030000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ting Xing</last_name>
+      <phone>0086 13903435942</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Yongji Hospital of Traditional Chinese Medicine</name>
+      <address>
+        <city>Yuncheng</city>
+        <state>Shanxi</state>
+        <zip>044500</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Caihong Xiang</last_name>
+      <phone>0086 13994986319</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 24, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>January 19, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 19, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>moxibustion</keyword>
+  <keyword>Low Back Pain</keyword>
+  <keyword>robot</keyword>
+  <keyword>Randomized Controlled Trial</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Back Pain</mesh_term>
+    <mesh_term>Low Back Pain</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>December 15, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/27/NCT05704127/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>December 15, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/27/NCT05704127/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

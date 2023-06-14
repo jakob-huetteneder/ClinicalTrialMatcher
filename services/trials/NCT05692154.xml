@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9703">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05692154</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LPS17180</org_study_id>
+    <secondary_id>U1111-1278-3949</secondary_id>
+    <nct_id>NCT05692154</nct_id>
+  </id_info>
+  <brief_title>A Placebo-controlled Study of 2-day Pre-treatment With Fexofenadine in Seasonal Allergic Rhinitis</brief_title>
+  <acronym>FEXPRESAR</acronym>
+  <official_title>A Phase IIIb, Single-center, Double-blind, Two-arms, Placebo-controlled, Randomized, Parallel-group Clinical Trial to Evaluate the Efficacy and Safety of 2-day Pre-treatment With Fexofenadine in Patients Suffering From Seasonal Allergic Rhinitis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Opella Healthcare Group SAS, a Sanofi Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sanofi</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a proof-of-concept study to demonstrate if a daily dose of a 2-days&#xD;
+      pre-treatment of Fexofenadine 180mg is effective in alleviating the AR symptoms and to assess&#xD;
+      the additional benefit to the patient in terms of preventing Allergic Rhinitis (AR) symptoms.&#xD;
+&#xD;
+      The total study duration per participant is expected at least 4 months, depending on the&#xD;
+      timing of the screening visit. 5 visits are planned, screening, confirmation inclusion&#xD;
+      challenge, randomization visit, challenge and end of study visit.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The end of the study is defined as the date of the last visit of the last participant in the&#xD;
+      study.&#xD;
+&#xD;
+      A participant is considered to have completed the study if he/she has completed all visits of&#xD;
+      the study including Visit 5 (Day 5).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">January 23, 2023</start_date>
+  <completion_date type="Anticipated">November 14, 2023</completion_date>
+  <primary_completion_date type="Anticipated">November 14, 2023</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>AUC of the total nasal symptoms score (TNSS-3)</measure>
+    <time_frame>from 0 hour to 6 hours at day 4</time_frame>
+    <description>Area under the plasma concentration-time curve (AUC) of TNSS-3 The total nasal symptom score of 3 symptoms (TNSS-3: scale of each symptom is scored from 0 to 3): rhinorrhea, sneezing, and nasal itching scores.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>AUC of total ocular symptoms score (TOSS) (0h-6h at day 4)</measure>
+    <time_frame>from 0 hour to 6 hours at day 4</time_frame>
+    <description>TOSS = Total Ocular Symptoms Score.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC of total nasal symptoms score (TNSS-3) (0h-12h at day 4)</measure>
+    <time_frame>from 0 hour to 12 hours at day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC of total ocular symptoms score (TOSS) (0h-12h at day 4)</measure>
+    <time_frame>from 0 hour to 12 hours at day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC of total nasal symptoms score (TNSS-3) (Day 1 to day 4)</measure>
+    <time_frame>from randomization (day 1 ) to day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC of total ocular symptoms score (TOSS) (Day 1 to day 4)</measure>
+    <time_frame>from randomization (day 1) to day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants with Adverse Events</measure>
+    <time_frame>from screening to day 5</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">106</enrollment>
+  <condition>Seasonal Allergic Rhinitis</condition>
+  <arm_group>
+    <arm_group_label>Arm A (active-active)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Two days of pre-treatment with Fexofenadine, then Fexofenadine180 mg during the test pollen challenge.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B (placebo-active)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Two days of pre-treatment with Placebo, then Fexofenadine180 during the test pollen challenge.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fexofenadine</intervention_name>
+    <description>Fexofenadine oral tablet</description>
+    <arm_group_label>Arm A (active-active)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Fexofenadine matching placebo oral tablet</description>
+    <arm_group_label>Arm B (placebo-active)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants are eligible to be included in the study only if all of the following&#xD;
+             criteria apply:&#xD;
+&#xD;
+          -  Participant is willing to provide written informed consent.&#xD;
+&#xD;
+          -  Adult participants (18 to 80 years old) suffering from SAR provoked by Ragweed pollen.&#xD;
+&#xD;
+          -  Participants having a TNSS-3 ≥4 (with 3 nasal symptoms) at first pollen challenge at&#xD;
+             Visit 2.&#xD;
+&#xD;
+          -  Having a 2-year history of SAR with Positive skin prick test to Ragweed allergen at&#xD;
+             screening (with a wheal diameter at least 3 mm larger than that produced by the&#xD;
+             negative control).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of anaphylaxis to Ragweed pollen History of asthma or exacerbations in the&#xD;
+             past 12 months requiring regular inhaled corticosteroids for greater than 4 weeks per&#xD;
+             year, any oral corticosteroid usage, any emergency department visit for asthma or any&#xD;
+             asthma-related hospitalization. Mild asthmatics treated only with pro re nata&#xD;
+             short-acting β2agonists, less than 2 doses per week can be enrolled.&#xD;
+&#xD;
+          -  History of chronic sinusitis, defined as a sinus symptoms lasting greater than 12&#xD;
+             weeks that includes 2 or more major factors or 1 major factor and 2 minor factors.&#xD;
+             Major factors are defined as facial pain or pressure, nasal obstruction or blockage,&#xD;
+             nasal discharge or purulence or discolored postnasal discharge, purulence in nasal&#xD;
+             cavity, or impaired or loss of smell. Minor factors are defined as headache, fever,&#xD;
+             halitosis, fatigue, dental pain, cough, and ear pain, pressure, or fullness.&#xD;
+&#xD;
+          -  History of systemic disease affecting the immune system such as autoimmune diseases,&#xD;
+             immune complex disease, or immunodeficiency, where, in the opinion of the study&#xD;
+             physician, participation in the trial would pose a risk or significant effect on the&#xD;
+             immune system.&#xD;
+&#xD;
+          -  Presence or history of drug hypersensitivity to fexofenadine and/or its excipients.&#xD;
+&#xD;
+          -  Participants unable to stop the following forbidden treatments/nutriments prior to&#xD;
+             pollen challenge:&#xD;
+&#xD;
+               -  Antihistamines: within 3 days for first-generation antihistamines, within 2 days&#xD;
+                  for second-generation antihistamines.&#xD;
+&#xD;
+               -  Intranasal or inhaled corticosteroids: 7 days.&#xD;
+&#xD;
+               -  Ocular, intranasal, or inhaled sodium cromoglycate: 14 days.&#xD;
+&#xD;
+               -  High doses of systemic corticosteroids: 30 days.&#xD;
+&#xD;
+               -  Leukotriene antagonists: 30 days.&#xD;
+&#xD;
+               -  Intranasal or systemic decongestants: 3 days.&#xD;
+&#xD;
+               -  Tricyclic antidepressants: 7 days.&#xD;
+&#xD;
+               -  Any citrus fruits (grapefruit, orange, etc.) or their juices, as well as all&#xD;
+                  fruit juices: 5 days.&#xD;
+&#xD;
+               -  Aluminum-and-magnesium containing antacids: 7 days.&#xD;
+&#xD;
+               -  Omalizumab/dupilumab: within 6 months&#xD;
+&#xD;
+          -  Any contraindications to fexofenadine, according to the labeling.&#xD;
+&#xD;
+          -  The above information is not intended to contain all considerations relevant to a&#xD;
+             potential participation in a clinical trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Sciences &amp; Operations</last_name>
+    <role>Study Director</role>
+    <affiliation>Sanofi</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Investigational Site Number :1240001</name>
+      <address>
+        <city>Kingston</city>
+        <state>Ontario</state>
+        <zip>K7L 2V7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>January 11, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>April 6, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 10, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rhinitis</mesh_term>
+    <mesh_term>Rhinitis, Allergic</mesh_term>
+    <mesh_term>Rhinitis, Allergic, Seasonal</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fexofenadine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers may request access to patient level data and related study documents including the clinical study report, study protocol with any amendments, blank case report form, statistical analysis plan, and dataset specifications. Patient level data will be anonymized and study documents will be redacted to protect the privacy of trial participants. Further details on Sanofi's data sharing criteria, eligible studies, and process for requesting access can be found at: https://vivli.org</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

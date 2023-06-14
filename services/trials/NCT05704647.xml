@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9132">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05704647</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-1203</org_study_id>
+    <secondary_id>NCI-2023-00571</secondary_id>
+    <nct_id>NCT05704647</nct_id>
+  </id_info>
+  <brief_title>Phase II Study of Nivolumab in Combination With Relatlimab in Patients With Active Melanoma Brain Metastases</brief_title>
+  <official_title>Phase II Study of Nivolumab in Combination With Relatlimab in Patients With Active Melanoma Brain Metastases</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>M.D. Anderson Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>M.D. Anderson Cancer Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To learn if giving nivolumab in combination with relatlimab can help to control melanoma that&#xD;
+      has spread to the brain (melanoma with brain metastases). The safety and side effects of the&#xD;
+      study drug combination will also be studied.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary Objectives:&#xD;
+&#xD;
+      • To assess the intracranial objective response rate (iORR), defined as intracranial CR + PR&#xD;
+      per modified RECIST 1.1 criteria, of nivolumab + relatlimab (nivo+rela) in subjects with MBM&#xD;
+      and treatment naïve to anti-PD-1 agents in the metastatic setting.&#xD;
+&#xD;
+      Secondary Objectives:&#xD;
+&#xD;
+        -  To determine the safety of the combination of nivo+rela&#xD;
+&#xD;
+        -  To assess the clinical benefit rate (CBR), defined as CR + PR + SD &gt;6 months, of the&#xD;
+           combination&#xD;
+&#xD;
+        -  To determine overall response rates (intracranial + extracranial), DoR, PFS, and using a&#xD;
+           modified version of iRANO and compared to modified RECIST v1.1 and Response Assessment&#xD;
+           in Neuro-oncology - Brain Metastases (RANO-BM) for patients treated with nivo+rela&#xD;
+&#xD;
+        -  To determine the 1-year intracranial progression-free survival rate for the combination&#xD;
+           of nivo+rela&#xD;
+&#xD;
+        -  To determine overall survival&#xD;
+&#xD;
+        -  Advanced MRI imaging to assess for edema, tumor response, and predictors of response and&#xD;
+           radiation necrosis&#xD;
+&#xD;
+        -  To evaluate the brain-specific safety and tolerability of the combination regimen in&#xD;
+           subjects with or without SRT received prior to study entry, or on study&#xD;
+&#xD;
+        -  To evaluate changes in neurocognitive function and health-related quality of life&#xD;
+&#xD;
+        -  To assess available tumor tissue - intracranial and/or extra cranial - in specimens&#xD;
+           obtained at baseline (archival and/or fresh tissue), on treatment, and at time of&#xD;
+           progression&#xD;
+&#xD;
+        -  To assess immune cell subsets by flow cytometry, TCR NGS for diversity and clonality,&#xD;
+           cytokine expression, cfDNA from peripheral blood.&#xD;
+&#xD;
+      Exploratory Endpoints:&#xD;
+&#xD;
+        -  Radiotherapy-assisted PFS defined as time from study treatment initiation to the first&#xD;
+           occurrence of disease progression or death from any cause, whichever occurs first, as&#xD;
+           determined by the investigator according to RECIST v1.1 modified by excluding ≤ 5&#xD;
+           lesions that can be treated by SRT from the sum of largest diameters from baseline&#xD;
+           onwards.&#xD;
+&#xD;
+        -  To explore the association between baseline and on-treatment gut microbiome features&#xD;
+           with response and toxicity&#xD;
+&#xD;
+        -  To understand the association between habitual diet and gut microbiome features in this&#xD;
+           study population.&#xD;
+&#xD;
+        -  To explore predictors of biological response through the change in metabolic parameters&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 23, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2026</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of Adverse Events, Graded According to National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) Version (v) 5.0</measure>
+    <time_frame>through study completion; an average of 2 years</time_frame>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Melanoma (Skin)</condition>
+  <arm_group>
+    <arm_group_label>Relatlimab+Nivolumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive nivolumab in combination with relatlimab by vein over about 30 minutes on Day 1 of each 28-day study cycle. You may receive up to 25 doses of the study drugs.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BMS-986213 (Relatlimab-Nivolumab FDC)</intervention_name>
+    <description>Given by IV (vein)</description>
+    <arm_group_label>Relatlimab+Nivolumab</arm_group_label>
+    <other_name>Relatlimab</other_name>
+    <other_name>BMS-986016</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nivolumab</intervention_name>
+    <description>Given by IV (vein)</description>
+    <arm_group_label>Relatlimab+Nivolumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Relatlimab</intervention_name>
+    <description>Given by IV (vein)</description>
+    <arm_group_label>Relatlimab+Nivolumab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age ≥ 18 years old.&#xD;
+&#xD;
+          2. Life Expectancy &gt; 12 weeks.&#xD;
+&#xD;
+          3. Subjects must have signed and dated an IRB/IEC approved written informed consent form&#xD;
+             in accordance with regulatory and institutional guidelines. This must be obtained&#xD;
+             before the performance of any protocol related procedures that are not part of normal&#xD;
+             subject care.&#xD;
+&#xD;
+             • Subjects must be willing and able to comply with scheduled visits, treatment&#xD;
+             schedule, laboratory testing, and other requirements of the study.&#xD;
+&#xD;
+          4. Histologically confirmed malignant melanoma with measurable metastases in the brain (≥&#xD;
+             0.5 cm).&#xD;
+&#xD;
+          5. At least one measurable intracranial target lesion, which previously was not treated&#xD;
+             with local therapy (no prior SRS to this lesion).&#xD;
+&#xD;
+             • Largest diameter of ≥ 0.5cm, but ≤ 3cm as determined by contrast-enhanced MRI.&#xD;
+&#xD;
+          6. Representative formalin-fixed paraffin-embedded (FFPE) tumor specimens in paraffin&#xD;
+             blocks (blocks are preferred) OR at least 4 unstained slides, with an associated&#xD;
+             pathology report, for testing of tumor PD-L1 expression:&#xD;
+&#xD;
+               -  Tumor tissue should be of good quality based on total and viable tumor content.&#xD;
+&#xD;
+               -  Patients who do not have tissue specimens may undergo a biopsy during the&#xD;
+                  screening period. Acceptable samples include core-needle biopsies for deep tumor&#xD;
+                  tissue or excisional, incisional, punch, or forceps biopsies for cutaneous,&#xD;
+                  subcutaneous, or mucosal lesions. Fine Needle Aspirations (FNA) will not be&#xD;
+                  considered acceptable for tissue procurement.&#xD;
+&#xD;
+               -  Tumor tissue from bone metastases is not evaluable for PD-L1 expression and is&#xD;
+                  therefore not acceptable.&#xD;
+&#xD;
+               -  However, if repeat biopsy is not feasible, and no archival tissue available&#xD;
+                  patient still may be enrolled.&#xD;
+&#xD;
+          7. Prior SRT and prior excision of up to 5 MBM is permitted if there has been complete&#xD;
+             recovery, with no neurologic sequelae, and measurable non irradiated lesions remain.&#xD;
+&#xD;
+          8. Growth or change in a lesion previously irradiated will not be considered measurable.&#xD;
+             Regrowth in cavity of previously excised lesion will not be considered measurable.&#xD;
+&#xD;
+             • Any prior SRT to brain lesions or prior excision must have occurred ≥ 1 weeks before&#xD;
+             the start of dosing for this study.&#xD;
+&#xD;
+          9. Radiation to NON-CNS lesions. Prior radiation to NON-CNS is allowed and does not&#xD;
+             require a washout period for treatment initiation.&#xD;
+&#xD;
+         10. Subjects must be free of neurologic signs and symptoms related to metastatic brain&#xD;
+             lesions and must not have required or received systemic corticosteroid therapy in the&#xD;
+             5 days prior to beginning protocol therapy.&#xD;
+&#xD;
+         11. ECOG performance status ≤1.&#xD;
+&#xD;
+         12. Adequate organ function as described below.&#xD;
+&#xD;
+         13. Women of child-bearing potential (WOCBP) must not be breastfeeding and must have a&#xD;
+             negative pregnancy test within 3 days prior to initiation of dosing. She must agree to&#xD;
+             use an acceptable method of birth control from the time of the negative pregnancy&#xD;
+             test, through the duration of treatment with the study combination plus 5 half lives&#xD;
+             of study treatment for a total of 5 months post -treatment completion. WOCBP must&#xD;
+             agree to adhere to the contraceptive guidance in Appendix 5. NOTE: A female&#xD;
+             participant is eligible to participate if she is not a woman of childbearing potential&#xD;
+             as defined Appendix 4.&#xD;
+&#xD;
+         14. All associated toxicity from previous or concurrent cancer therapy must be resolved&#xD;
+             (to ≤ grade 1 or baseline) prior to study treatment administration. This excludes&#xD;
+             non-serious toxicities. However, stable endocrinopathies requiring replacement therapy&#xD;
+             will be allowed.&#xD;
+&#xD;
+         15. Steroids for physiological replacement are allowed.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. History of known leptomeningeal involvement (lumbar puncture not required).&#xD;
+&#xD;
+          2. Previous stereotactic or highly conformal radiotherapy within 1 weeks before the start&#xD;
+             of dosing for this study. NOTE: The stereotactic radiotherapy field must not have&#xD;
+             included the brain index lesion(s).&#xD;
+&#xD;
+          3. Subjects previously treated with SRT &gt; 5 lesions in the brain. Prior whole brain&#xD;
+             radiation is not allowed.&#xD;
+&#xD;
+          4. Brain lesion size &gt; 3 cm.&#xD;
+&#xD;
+          5. Prior checkpoint inhibitor therapy in the metastatic setting&#xD;
+&#xD;
+             • Patients who received ipilimumab and/or anti-PD1 as adjuvant or neoadjuvant therapy&#xD;
+             must have a 6-month washout before receiving any dosing on this study.&#xD;
+&#xD;
+          6. Subjects with an active, known or suspected autoimmune disease. Subjects with type I&#xD;
+             diabetes mellitus, hypothyroidism only requiring hormone replacement, skin disorders&#xD;
+             (such as vitiligo, psoriasis, or alopecia) not requiring systemic treatment, or&#xD;
+             conditions not expected to recur in the absence of an external trigger are permitted&#xD;
+             to enroll.&#xD;
+&#xD;
+          7. Subjects with major medical, neurologic or psychiatric condition who are judged as&#xD;
+             unable to fully comply with study therapy or assessments should not be enrolled.&#xD;
+&#xD;
+          8. Subject has a history of a second malignancy, unless potentially curative treatment&#xD;
+             has been completed with no evidence of malignancy for 2 years. Note: The time&#xD;
+             requirement does not apply to participants who underwent successful treatment of&#xD;
+             superficial bladder cancer, in situ cervical cancer, or other in-situ cancers.&#xD;
+             Subjects with a completely treated prior malignancy and no evidence of disease for ≥ 2&#xD;
+             years are eligible.&#xD;
+&#xD;
+             a. Skin Cancer Exclusion: Please note that basal cell carcinoma and squamous cell&#xD;
+             carcinoma is exempt from needing resection prior to treatment. (Resection can be&#xD;
+             completed after the start of treatment).&#xD;
+&#xD;
+          9. Has a known history of or is positive for hepatitis B (hepatitis B surface antigen&#xD;
+             [HBsAg] reactive) or hepatitis C (hepatitis C virus [HCV] RNA [qualitative] is&#xD;
+             detected).&#xD;
+&#xD;
+             a. NOTE: Without known history, testing needs to be performed to determine&#xD;
+             eligibility. Hepatitis C antibody (Ab) testing is allowed for screening purposes in&#xD;
+             countries where HCV RNA is not part of standard of care.&#xD;
+&#xD;
+         10. Has a known history of human immunodeficiency virus (HIV) infection. No HIV testing is&#xD;
+             required unless mandated by local health authority.&#xD;
+&#xD;
+         11. The use of corticosteroids is not allowed for 10 days prior to initiation of therapy&#xD;
+             (based upon 5 times the expected half-life of dexamethasone) except patients who are&#xD;
+             taking steroids for physiological replacement. If alternative corticosteroid therapy&#xD;
+             has been used, consultation with the PI is required to determine the washout period&#xD;
+             prior to initiating study treatment.&#xD;
+&#xD;
+         12. Subjects with a condition requiring systemic treatment with either corticosteroids (≤&#xD;
+             10 mg daily prednisone equivalent) or other immunosuppressive medications within 14&#xD;
+             days of study initiation. Inhaled or topical steroids, and adrenal replacement steroid&#xD;
+             doses &gt; 10 mg daily prednisone equivalent, are permitted in the absence of active&#xD;
+             autoimmune disease.&#xD;
+&#xD;
+         13. Major surgical procedure, open biopsy (excluding skin cancer resection), or&#xD;
+             significant traumatic injury within 14 days of initiating study drug (unless the wound&#xD;
+             has healed) or anticipation of the need for major surgery during the study.&#xD;
+&#xD;
+         14. Non-healing wound, ulcer, or bone fracture.&#xD;
+&#xD;
+         15. Women who are breast-feeding or pregnant.&#xD;
+&#xD;
+         16. Uncontrolled intercurrent illness (i.e., active infection ≥ grade 2) or concurrent&#xD;
+             condition that, in the opinion of the Investigator, would interfere with the study&#xD;
+             endpoints or the subject's ability to participate.&#xD;
+&#xD;
+         17. History of clinically significant cardiac disease or congestive heart failure &gt; New&#xD;
+             York Heart Association (NYHA) class 2. Subjects must not have unstable angina (anginal&#xD;
+             symptoms at rest) or new-onset angina within the last 3 months or myocardial&#xD;
+             infarction within the past 6 months or a history of myocarditis.&#xD;
+&#xD;
+         18. Troponin T (TnT) or I (TnI) &gt; 2 × institutional ULN. Participants with TnT or TnI&#xD;
+             levels between &gt; 1 to 2 × ULN will be permitted if repeat levels within 24 hours are ≤&#xD;
+             1 ULN. If TnT or TnI levels are between &gt;1 to 2 × ULN within 24 hours, the participant&#xD;
+             may undergo a cardiac consultation and be considered for treatment, following&#xD;
+             cardiologist recommendation. When repeat levels within 24 hours are not available, a&#xD;
+             repeat test should be conducted as soon as possible. If TnT or TnI repeat levels&#xD;
+             beyond 24 hours are &lt; 2 × ULN, the participant may undergo a cardiac consultation and&#xD;
+             be considered for treatment, following cardiologist recommendation. Notification of&#xD;
+             the decision to enroll the participant following cardiologist recommendation has to be&#xD;
+             made to the principal investigator.&#xD;
+&#xD;
+         19. Investigational drug use within 14 days (or 5 half-lives, whichever is longer) of the&#xD;
+             first dose of nivolumab and relatlimab.&#xD;
+&#xD;
+         20. With a history of non-infectious pneumonitis that required steroids or current&#xD;
+             pneumonitis.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hussein Tawbi, MD, PHD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>M.D. Anderson Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Hussein Tawbi, MD,PHD</last_name>
+    <phone>(713) 792-4185</phone>
+    <email>htawbi@mdanderson.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>M D Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hussein Tawbi, MD,PHD</last_name>
+      <phone>713-792-4185</phone>
+      <email>htawbi@mdanderson.org</email>
+    </contact>
+    <investigator>
+      <last_name>Hussein Tawbi, MD,PHD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mdanderson.org</url>
+    <description>M D Anderson Cancer Center</description>
+  </link>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 19, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>February 23, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 23, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Melanoma</mesh_term>
+    <mesh_term>Brain Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nivolumab</mesh_term>
+    <mesh_term>Relatlimab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+
