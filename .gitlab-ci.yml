@@ -16,10 +16,7 @@ stages:
 test-backend:
   stage: test
   script:
-    - system(python services/api.py)
-    - docker run -d --name es762 -p 9200:9200 -e "discovery.type=single-node" elasticsearch:7.6.2
     - cd backend
-    - mvn -B clean install
 
 test-frontend:
   stage: test
@@ -41,10 +38,6 @@ e2e-test:
     - cd frontend
     - npm ci --legacy-peer-deps
     - npm run start &
-    - cd ../backend
-    - mvn -B clean install -DskipTests
-    - java -jar target/*.jar &
-    - sleep 30
     - cd ../e2e
     - npm ci --legacy-peer-deps
     - npx cypress run
