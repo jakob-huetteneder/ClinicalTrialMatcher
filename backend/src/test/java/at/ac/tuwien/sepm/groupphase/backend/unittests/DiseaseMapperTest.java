@@ -20,14 +20,14 @@ public class DiseaseMapperTest {
 
     @Test
     public void testDiseaseToDiseaseDto() {
-        Disease disease = new Disease().setName("Diabetes mellitus").setSynonyms("Zuckerkrankheit").setId(1L);
+        Disease disease = new Disease().setName("Diabetes mellitus").setLink("Zuckerkrankheit").setId(1L);
 
         DiseaseDto diseaseDto = diseaseMapper.diseaseToDiseaseDto(disease);
 
         assertAll(
             () -> assertEquals(diseaseDto.id(), disease.getId()),
             () -> assertEquals(diseaseDto.name(), disease.getName()),
-            () -> assertEquals(diseaseDto.synonyms(), disease.getSynonyms())
+            () -> assertEquals(diseaseDto.link(), disease.getLink())
         );
     }
 

@@ -20,8 +20,8 @@ public class Disease {
     @Column(name = "name", nullable = false)
     private String name;
 
-    @Column(name = "synonyms")
-    private String synonyms;
+    @Column(name = "link")
+    private String link;
 
     public String getName() {
         return name;
@@ -32,12 +32,12 @@ public class Disease {
         return this;
     }
 
-    public String getSynonyms() {
-        return synonyms;
+    public String getLink() {
+        return link;
     }
 
-    public Disease setSynonyms(String synonyms) {
-        this.synonyms = synonyms;
+    public Disease setLink(String link) {
+        this.link = link;
         return this;
     }
 
