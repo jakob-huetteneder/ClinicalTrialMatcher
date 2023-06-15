@@ -156,12 +156,44 @@
         <div class="flex flex-row">
           <div class="flex flex-col flex-initial">
             <div class="font-semibold mb-1 mt-1 mr-1">
-              Inclusion Criteria:
+              Inclusion Criteria
             </div>
           </div>
           <div class="flex flex-row flex-initial">
-            <div class="fw-bold mb-2 mt-1 hover:cursor-pointer" (click)="this.inclusionCriteria.push(formBuilder.control(''))"><i class="bi bi-plus-lg ml-2"></i>
+            <div class="fw-bold mb-2 mt-1 hover:cursor-pointer"
+                 (click)="this.inclusionCriteria.push(formBuilder.control(''))"><i class="bi bi-plus-lg ml-2"></i>
             </div>
+          </div>
+          <div class="flex-initial single-button ml-5 mt-1">
+            <a class="group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row">
+              <i class="bi-info-circle w-4 text-blue-950"></i>
+              <div
+                class="group-hover:cursor-text p-3 absolute border border-slate-100 top-6 z-10 w-128 hidden list-none overflow-hidden rounded-lg backdrop-blur-lg shadow-md group-hover:flex flex-row right gap-2">
+                <i class="text-red-600 bi bi-exclamation-circle flex-initial"></i>
+                <div class="text-justify text-xs text-slate-700 m-0">
+                  We kindly request your careful attention when defining the <b>inclusion criteria</b>, focusing
+                  solely on the most essential information. To optimize <b>trial matching</b>,
+                  please <b>consider the following guidelines</b>:
+                  <br>
+                  <br>
+                  <ul class="list-disc">
+                    <li>
+                      <b>Avoid negating cases in the criteria.</b> Instead, include the condition explicitly in the exclusion
+                      criteria. For instance, rather than stating "<i>no history of diabetes</i>", indicate "<i>diabetes</i>"
+                      as an exclusion criterion.
+                    </li>
+                    <li>
+                      <b>Refrain from using whole sentences in the criteria.</b> Instead, provide concise and specific terms.
+                      For example, instead of stating "<i>Patient must be diagnosed with type 2 diabetes</i>", simply specify
+                      "<i>type 2 diabetes</i>".
+                    </li>
+                  </ul>
+                  These measures will help ensure an optimal trial matching process. Nonetheless, please note
+                  that trial matching serves as a suggestion and we <b>strongly advise double-checking the results before
+                  proceeding</b>.
+                </div>
+              </div>
+            </a>
           </div>
         </div>
         <div class="flex lg:flex-row flex-col" *ngFor="let criteria of inclusionCriteria.controls; index as i">
@@ -170,9 +202,10 @@
                    value="{{criteria}}" type="text" [formControl]="criteria">
           </div>
           <div class="flex flex-row flex-initial">
-            <app-confirm-button (confirm)="inclusionCriteria.removeAt(i)" details="This inclusion criteria will be deleted.">
-            <div class="fw-bold mb-2 mt-2 hover:cursor-pointer"><i class="bi bi-dash-lg ml-2"></i>
-            </div>
+            <app-confirm-button (confirm)="inclusionCriteria.removeAt(i)"
+                                details="This inclusion criteria will be deleted.">
+              <div class="fw-bold mb-2 mt-2 hover:cursor-pointer"><i class="bi bi-dash-lg ml-2"></i>
+              </div>
             </app-confirm-button>
           </div>
         </div>
@@ -186,12 +219,45 @@
         <div class="flex flex-row">
           <div class="flex flex-col flex-initial">
             <div class="font-semibold mb-1 mt-1 mr-1">
-              Exclusion Criteria:
+              Exclusion Criteria
             </div>
           </div>
           <div class="flex flex-row flex-initial">
-            <div class="fw-bold mb-2 mt-1 hover:cursor-pointer" (click)="this.exclusionCriteria.push(formBuilder.control(''))"><i class="bi bi-plus-lg ml-2"></i>
+            <div class="fw-bold mb-2 mt-1 hover:cursor-pointer"
+                 (click)="this.exclusionCriteria.push(formBuilder.control(''))"><i class="bi bi-plus-lg ml-2"></i>
             </div>
+          </div>
+          <div class="flex-initial single-button ml-5 mt-1">
+            <a class="group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row">
+              <i class="bi-info-circle w-4 text-blue-950"></i>
+              <div
+                class="group-hover:cursor-text p-3 absolute border border-slate-100 top-6 z-10 w-128 hidden list-none
+                 overflow-hidden rounded-lg backdrop-blur-lg shadow-md group-hover:flex flex-row right gap-2">
+                <i class="text-red-600 bi bi-exclamation-circle flex-initial"></i>
+                <div class="text-justify text-xs text-slate-700 m-0">
+                  We kindly request your careful attention when defining the <b>exclusion criteria</b>, focusing
+                  solely on the most essential information. To optimize <b>trial matching</b>,
+                  please <b>consider the following guidelines</b>:
+                  <br>
+                  <br>
+                  <ul class="list-disc">
+                    <li>
+                      <b>Avoid negating cases in the criteria.</b> Instead, include the condition explicitly in the inclusion
+                      criteria. For instance, rather than stating "<i>no history of diabetes</i>", indicate "<i>diabetes</i>"
+                      as an inclusion criterion.
+                    </li>
+                    <li>
+                      <b>Refrain from using whole sentences in the criteria.</b> Instead, provide concise and specific terms.
+                      For example, instead of stating "<i>Patient must be diagnosed with type 2 diabetes</i>", simply specify
+                      "<i>type 2 diabetes</i>".
+                    </li>
+                  </ul>
+                  These measures will help ensure an optimal trial matching process. Nonetheless, please note
+                  that trial matching serves as a suggestion and we <b>strongly advise double-checking the results before
+                  proceeding</b>.
+                </div>
+              </div>
+            </a>
           </div>
         </div>
         <div class="flex lg:flex-row flex-col" *ngFor="let criteria of exclusionCriteria.controls; index as i">
@@ -200,9 +266,10 @@
                    value="{{criteria}}" type="text" [formControl]="criteria">
           </div>
           <div class="flex flex-row flex-initial">
-            <app-confirm-button (confirm)="exclusionCriteria.removeAt(i)" details="This exclusion criteria will be deleted.">
-            <div class="fw-bold mb-2 mt-2 hover:cursor-pointer"><i class="bi bi-dash-lg ml-2"></i>
-            </div>
+            <app-confirm-button (confirm)="exclusionCriteria.removeAt(i)"
+                                details="This exclusion criteria will be deleted.">
+              <div class="fw-bold mb-2 mt-2 hover:cursor-pointer"><i class="bi bi-dash-lg ml-2"></i>
+              </div>
             </app-confirm-button>
           </div>
         </div>
@@ -210,25 +277,25 @@
     </div>
 
 
-
-
     <div class="flex flex-row justify-content-between" style="padding-inline: 12px">
       <div>
-        <button class="transition ease-in-out delay-100 duration-300 bg-blue-500 hover:-translate-y-0 hover:scale-110 hover:bg-blue-400 rounded w-35 p-2 mt-2 h-10 text-white mr-5"
-                style="width:130px"
-                [style.background-color]="(trialForm.valid) ? 'rgb(59 130 246 / 100%)' : 'rgb(59 130 246 / 50%)'"
-                (click)="createTrial()">
+        <button
+          class="transition ease-in-out delay-100 duration-300 bg-blue-500 hover:-translate-y-0 hover:scale-110 hover:bg-blue-400 rounded w-35 p-2 mt-2 h-10 text-white mr-5"
+          style="width:130px"
+          [style.background-color]="(trialForm.valid) ? 'rgb(59 130 246 / 100%)' : 'rgb(59 130 246 / 50%)'"
+          (click)="createTrial()">
           Save
         </button>
       </div>
       <div class="d-inline-flex align-items-center gap-1">
         <div class="btn-group">
           <app-confirm-button (confirm)="cancel()" details="Changes will be lost.">
-          <button class="transition ease-in-out delay-100 duration-300 bg-slate-400 hover:-translate-y-0 hover:scale-110 hover:bg-slate-300 rounded w-35 p-2 mt-2 h-10 text-white mr-5"
-                  data-inline="true"
-                  style="width:130px">
-            Cancel
-          </button>
+            <button
+              class="transition ease-in-out delay-100 duration-300 bg-slate-400 hover:-translate-y-0 hover:scale-110 hover:bg-slate-300 rounded w-35 p-2 mt-2 h-10 text-white mr-5"
+              data-inline="true"
+              style="width:130px">
+              Cancel
+            </button>
           </app-confirm-button>
         </div>
       </div>
