@@ -10,12 +10,12 @@ import java.util.Optional;
 import java.util.Set;
 
 /**
- * Repository for treats relationships
+ * Repository for treats relationships.
  */
 public interface TreatsRepository extends JpaRepository<Treats, TreatsId> {
 
     /**
-     * Find treats relationship between patient and doctor
+     * Find treats relationship between patient and doctor.
      *
      * @param patientId id of the patient
      * @param doctorId  id of the doctor

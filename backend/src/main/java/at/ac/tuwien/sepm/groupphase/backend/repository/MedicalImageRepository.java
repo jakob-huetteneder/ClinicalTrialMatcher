@@ -6,12 +6,12 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.Optional;
 
 /**
- * Repository for medical images
+ * Repository for medical images.
  */
 public interface MedicalImageRepository extends JpaRepository<MedicalImage, Long> {
 
     /**
-     * Find medical image by examination id
+     * Find medical image by examination id.
      *
      * @param id of the examination
      * @return medical image

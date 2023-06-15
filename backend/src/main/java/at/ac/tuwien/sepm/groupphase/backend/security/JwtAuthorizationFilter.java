@@ -24,7 +24,7 @@ import java.lang.invoke.MethodHandles;
 import java.util.List;
 
 /**
- * Filter for authorization
+ * Filter for authorization.
  */
 @Service
 @Order(Ordered.LOWEST_PRECEDENCE - 1)
@@ -38,7 +38,7 @@ public class JwtAuthorizationFilter extends OncePerRequestFilter {
     }
 
     /**
-     * Filter for authorization
+     * Filter for authorization.
      *
      * @param request  incoming request to filter
      * @param response outgoing response filtered
@@ -65,7 +65,7 @@ public class JwtAuthorizationFilter extends OncePerRequestFilter {
     }
 
     /**
-     * Get authentication token
+     * Get authentication token.
      *
      * @param request incoming request
      * @return authentication token

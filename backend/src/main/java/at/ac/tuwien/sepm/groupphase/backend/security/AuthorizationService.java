@@ -19,7 +19,7 @@ import java.lang.invoke.MethodHandles;
 import java.util.List;
 
 /**
- * Service for authorization
+ * Service for authorization.
  */
 @Service
 public class AuthorizationService {
@@ -35,7 +35,7 @@ public class AuthorizationService {
     }
 
     /**
-     * Login user
+     * Login user.
      *
      * @param applicationUser user to login
      * @param password        password of user
@@ -79,7 +79,7 @@ public class AuthorizationService {
     }
 
     /**
-     * Get session user id
+     * Get session user id.
      *
      * @return session user id
      */
@@ -89,7 +89,7 @@ public class AuthorizationService {
     }
 
     /**
-     * Load user details from applicationUser
+     * Load user details from applicationUser.
      *
      * @param applicationUser user to load
      * @return user details

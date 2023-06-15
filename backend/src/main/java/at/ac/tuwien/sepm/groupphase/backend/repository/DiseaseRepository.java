@@ -9,13 +9,13 @@ import org.springframework.stereotype.Repository;
 import java.util.List;
 
 /**
- * Repository for diseases
+ * Repository for diseases.
  */
 @Repository
 public interface DiseaseRepository extends JpaRepository<Disease, Long> {
 
     /**
-     * Find all diseases with matching name
+     * Find all diseases with matching name.
      *
      * @param name required to be part of the disease name
      * @return list of diseases with matching name
@@ -24,7 +24,7 @@ public interface DiseaseRepository extends JpaRepository<Disease, Long> {
     List<Disease> findDiseasesWithPartOfName(@Param("name") String name);
 
     /**
-     * Find all diseases with exact name
+     * Find all diseases with exact name.
      *
      * @param name of the disease
      * @return list of diseases with exact name

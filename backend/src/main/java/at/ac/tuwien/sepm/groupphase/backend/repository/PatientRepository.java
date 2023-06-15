@@ -10,13 +10,13 @@ import java.util.List;
 import java.util.Optional;
 
 /**
- * Repository for patients
+ * Repository for patients.
  */
 @Repository
 public interface PatientRepository extends JpaRepository<Patient, Long> {
 
     /**
-     * Find patient by user id
+     * Find patient by user id.
      *
      * @param userId of the user
      * @return patient
@@ -24,7 +24,7 @@ public interface PatientRepository extends JpaRepository<Patient, Long> {
     Optional<Patient> findByApplicationUser_Id(Long userId);
 
     /**
-     * Find all patients with matching name
+     * Find all patients with matching name.
      *
      * @param search required to be part of the patient name
      * @return list of patients with matching name

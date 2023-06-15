@@ -46,7 +46,7 @@ public interface PatientService {
     PatientDto deleteById(long id);
 
     /**
-     * Return all patients that match with the given trial
+     * Return all patients that match with the given trial.
      *
      * @param inclusion list of inclusion criteria
      * @param exclusion list of exclusion criteria
@@ -58,7 +58,7 @@ public interface PatientService {
     List<PatientDto> matchPatientsWithTrial(List<String> inclusion, List<String> exclusion, LocalDate minAge, LocalDate maxAge, Gender gender);
 
     /**
-     * Synchronize the patient with the given id with the elastic search database
+     * Synchronize the patient with the given id with the elastic search database.
      *
      * @param id of the patient
      * @return the synchronized patient

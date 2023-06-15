@@ -28,6 +28,7 @@ public class DiagnoseServiceImpl implements DiagnoseService {
     private final DiagnosisMapper diagnosisMapper;
     private final DiseaseRepository diseaseRepository;
     private final DiseaseMapper diseaseMapper;
+
     @Autowired
     public DiagnoseServiceImpl(DiagnosesRepository diagnosesRepository, DiagnosisMapper diagnosisMapper,
                                DiseaseRepository diseaseRepository, DiseaseMapper diseaseMapper) {

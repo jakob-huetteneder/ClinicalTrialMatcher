@@ -10,13 +10,13 @@ import org.springframework.stereotype.Repository;
 import java.util.List;
 
 /**
- * Repository for examinations
+ * Repository for examinations.
  */
 @Repository
 public interface ExaminationRepository extends JpaRepository<Examination, Long> {
 
     /**
-     * Find all examinations with matching name
+     * Find all examinations with matching name.
      *
      * @param name required to be part of the examination name
      * @return list of examinations with matching name
@@ -25,7 +25,7 @@ public interface ExaminationRepository extends JpaRepository<Examination, Long> 
     List<Disease> findExaminationsWithPartOfName(@Param("name") String name);
 
     /**
-     * delete all examinations of a patient
+     * Delete all examinations of a patient.
      *
      * @param patientId of the patient
      */

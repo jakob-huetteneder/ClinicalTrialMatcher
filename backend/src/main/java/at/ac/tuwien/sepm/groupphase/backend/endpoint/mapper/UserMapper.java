@@ -170,7 +170,7 @@ public class UserMapper {
     }
 
     /**
-     * Creates a new instance of an applicationUser with the correct role
+     * Creates a new instance of an applicationUser with the correct role.
      *
      * @param role of the applicationUser
      * @return the new instance of the applicationUser

@@ -13,7 +13,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * Component that provides methods for creating a JWT token
+ * Component that provides methods for creating a JWT token.
  */
 @Component
 public class JwtTokenizer {
@@ -27,7 +27,7 @@ public class JwtTokenizer {
     }
 
     /**
-     * Create a JWT token
+     * Create a JWT token.
      *
      * @param user  username to create token for
      * @param roles roles to include in the token

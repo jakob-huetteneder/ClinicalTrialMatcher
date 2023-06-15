@@ -5,13 +5,13 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 /**
- * Repository for users
+ * Repository for users.
  */
 @Repository
 public interface UserRepository extends JpaRepository<ApplicationUser, Long> {
 
     /**
-     * Find user by email
+     * Find user by email.
      *
      * @param email of the user
      * @return user
@@ -19,7 +19,7 @@ public interface UserRepository extends JpaRepository<ApplicationUser, Long> {
     ApplicationUser findByEmail(String email);
 
     /**
-     * Find user by verification
+     * Find user by verification.
      *
      * @param verification of the user
      * @return user
