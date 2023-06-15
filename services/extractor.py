@@ -8,6 +8,7 @@ model = AutoModelForTokenClassification.from_pretrained("alvaroalon2/biobert_dis
 def pipeline(text):
     
     texts = []
+    copied_text = '' + text
     while len(text) > 512:
         # search for last whitespace before 2039 characters
         index = text.rfind(".", 0, 512)
@@ -24,7 +25,8 @@ def pipeline(text):
     for text in texts:
         print('text: ', text)
         extracted_entities.extend(extract_entities(text))
-    return clean(extracted_entities)
+    cleaned_entities = clean(extracted_entities)
+    return removeNegatives(copied_text, cleaned_entities)
 
 def extract_entities(text):
     inputs = tokenizer.encode(text, return_tensors="pt")
@@ -82,4 +84,34 @@ def clean(extracted_entities):
     seen = set()
     tmp = [entity for entity in tmp if not (entity in seen or seen.add(entity))]
     result = [item for item in tmp if len(item) >= 3]
+    result = [item.replace(" ' ", "'") for item in result]
+    return result
+
+def removeNegatives(text, extracted_entities):
+    result = []
+    for disease in extracted_entities:
+        if ("not have " + disease).lower() in text.lower():
+            continue
+        if ("not " + disease).lower() in text.lower():
+            continue
+        if ("doesn't have " + disease).lower() in text.lower():
+            continue
+        if ("hasn't " + disease).lower() in text.lower():
+            continue
+        if ("has not " + disease).lower() in text.lower():
+            continue
+        if ("no history of " + disease).lower() in text.lower():
+            continue
+        if ("no " + disease).lower() in text.lower():
+            continue
+        if ("no evidence of " + disease).lower() in text.lower():
+            continue
+        if ("no recent history of " + disease).lower() in text.lower():
+            continue
+        if ("negative for " + disease).lower() in text.lower():
+            continue
+        if ("negative " + disease).lower() in text.lower():
+            continue
+        result.append(disease)
+
     return result
