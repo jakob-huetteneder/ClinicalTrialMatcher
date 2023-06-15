@@ -32,30 +32,47 @@ def extract_entities(text):
     inputs = tokenizer.encode(text, return_tensors="pt")
     outputs = model(inputs)[0]
     predictions = torch.argmax(outputs, dim=2)
+    print(predictions)
     tokens = tokenizer.convert_ids_to_tokens(inputs[0])
+    print(tokens)
     entities = []
     current_entity = ""
     current_label = None
 
-    for token, label_idx in zip(tokens, predictions[0].tolist()):
-        label = model.config.id2label[label_idx]
+    #for token, label_idx in zip(tokens, predictions[0].tolist()):
+    #    label = model.config.id2label[label_idx]
 
-        if label.startswith("B-"):
-            if current_entity:
-                entities.append((current_entity, current_label))
-            current_entity = token
-            current_label = label.split("-")[1]
-        elif label.startswith("I-"):
-            if current_entity and current_label == label.split("-")[1]:
-                current_entity += " " + token
+        #if label.startswith("B-"):
+        #    if current_entity:
+        #        entities.append((current_entity, current_label))
+        #    current_entity = token
+        #    current_label = label.split("-")[1]
+        #elif label.startswith("I-"):
+        #    if current_entity and current_label == label.split("-")[1]:
+        #        current_entity += " " + token
+        #else:
+        #    if current_entity:
+        #        entities.append((current_entity, current_label))
+        #    current_entity = ""
+        #    current_label = None
+       
+    preds = predictions[0].tolist()
+    prev = False
+
+    for i in range(len(tokens)):
+        label = "DISEASE"
+
+        if preds[i] == 0:
+            entities.append((tokens[i], label))
+            prev = True
+        elif (preds[i] == 1 or tokens[i].startswith("##")) and prev:
+            entities[len(entities)-1] = (entities[len(entities)-1][0] + " " + tokens[i], label)
         else:
-            if current_entity:
-                entities.append((current_entity, current_label))
-            current_entity = ""
-            current_label = None
+            prev = False
+            continue
 
-    if current_entity:
-        entities.append((current_entity, current_label))
+    #if current_entity:
+    #    entities.append((current_entity, current_label))
 
     return entities
 
@@ -82,7 +99,7 @@ def clean(extracted_entities):
 
     # Remove duplicates while preserving the order
     seen = set()
-    tmp = [entity for entity in tmp if not (entity in seen or seen.add(entity))]
+    tmp = [entity for entity in tmp if not (entity.lower() in seen or seen.add(entity.lower()))]
     result = [item for item in tmp if len(item) >= 3]
     result = [item.replace(" ' ", "'") for item in result]
     return result
