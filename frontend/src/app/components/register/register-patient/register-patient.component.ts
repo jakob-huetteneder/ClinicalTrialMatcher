@@ -7,7 +7,6 @@ import {of} from 'rxjs';
 import {ToastrService} from 'ngx-toastr';
 import {Router} from '@angular/router';
 import {AnalyzerService} from '../../../services/analyzer.service';
-import {forEach} from 'lodash';
 
 @Component({
   selector: 'app-register-patient',
@@ -26,6 +25,7 @@ export class RegisterPatientComponent {
     birthdate: undefined
   };
   checkmail = '';
+  analyzing = false;
 
   constructor(
     private diseaseService: DiseaseService,
@@ -115,6 +115,7 @@ export class RegisterPatientComponent {
   }
 
   analyze() {
+    this.analyzing = true;
     this.analyzerService.analyzeNote(this.toRegister.admissionNote).subscribe({
       next: data => {
         console.log(data);
@@ -122,6 +123,7 @@ export class RegisterPatientComponent {
           this.toRegister.diagnoses.push({note: '', disease: {name: d}, date: new Date(Date.now())});
         });
         this.notification.info('Successfully analyzed admission note!');
+        this.analyzing = false;
       },
       error: error => {
         console.log('Error analyzing note: ' + error);
