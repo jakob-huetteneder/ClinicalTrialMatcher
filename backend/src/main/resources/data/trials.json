@@ -26,8 +26,7 @@
       "intellectual disabilities",
       "physical disability",
       "mutism",
-      "aggressive behavior",
-      "suicidal idea"
+      "suicidal"
     ]
   },
   {
@@ -53,11 +52,10 @@
     "inclusionCriteria": [
       "adenocarcinoma of the pancreas",
       "pancreatic ductal adenocarcinoma",
-      "PDAC",
-      "Chronic Kidney DiseaseKD",
-      "Human immunodeficiency virus ( HIV ) - infected",
-      "chronic hepatitis B virus ( HBV ) infection",
-      "hepatitis C virus ( HCV ) infection",
+      "Chronic Kidney Disease",
+      "immunodeficiency virus HIV infected",
+      "chronic hepatitis B",
+      "hepatitis C",
       "HCV infection",
       "metastases",
       "malignancy",
@@ -65,11 +63,11 @@
       "cardiotoxic",
       "embryotoxic",
       "fetotoxic",
-      "impaired decision - making capacity"
+      "impaired decision making capacity"
     ],
     "exclusionCriteria": [
       "cancer",
-      "toxic",
+      "toxicities",
       "alopecia",
       "malignancy",
       "malignancies",
@@ -119,48 +117,48 @@
       "allergy",
       "legionella infection",
       "Legionella pneumophila pneumonia",
-      "Aspergillus spp . pneumonia",
-      "infection",
+      "Candida spp",
       "Cystic fibrosis",
       "Pneumocystitis jiroveci pneumonia",
       "tuberculosis",
       "Lung abscess",
       "Pleural empyema",
+      "infection",
       "endocarditis",
       "osteomyelitis",
       "neuropathy",
       "neuromuscular disease",
       "HIV infection",
       "Bronchial obstruction",
-      "post obstructive pneumonia",
+      "post",
+      "obstructive pneumonia",
       "pneumonia",
-      "chronic obstructive pulmonary diseasecute graft versus host disease",
-      "Burns",
+      "chronic obstructive pulmonary disease",
+      "Acute graft versus host disease",
       "neutropenia",
       "renal disease",
-      "Renal Disease",
       "chronic liver function impairment",
       "hepatic disease or dysfunction",
       "viral hepatitis",
       "hepatic cirrhosis",
       "hepatic failure",
       "ascites",
-      "hepatic encephalopathy",
-      "ische",
+      "hepatic",
+      "encephalopathy",
+      "ischemic",
       "infarct",
       "ventricular arrhythmia",
       "bradycardia",
       "cardiac failure",
       "Abnormal QT interval",
-      "Stroke",
-      "ischemic",
-      "intracerebral hemorrhage",
-      "sexual abs",
+      "Stroke ischemic or intracerebral hemorrhage",
+      "sexual abstinence",
       "tubal occlusion",
       "amenorrhea",
       "acute respiratory syndrome",
-      "coronavirus 2 ( SARS - CoV - 2 ) infection",
-      "A . baumannii pneumonia",
+      "coronavirus 2",
+      "SARS CoV 2 infection",
+      "A baumannii pneumonia",
       "SARS"
     ]
   },
@@ -217,12 +215,10 @@
       "HIV disease",
       "AIDS",
       "opportunistic illness",
-      "infection",
+      "systemic infection",
       "opportunistic disease",
       "fever",
-      "cough",
-      "Fever",
-      "altered mental status",
+      "productive cough",
       "headache",
       "lymphadenopathy",
       "dermatological lesions",
@@ -231,7 +227,7 @@
       "weakness"
     ],
     "exclusionCriteria": [
-      "systemic mycoses",
+      "mycoses",
       "tuberculosis"
     ]
   },
@@ -288,7 +284,9 @@
     "crMinAge": 40,
     "crMaxAge": 90,
     "inclusionCriteria": [],
-    "exclusionCriteria": []
+    "exclusionCriteria": [
+      "Rheuma trauma"
+    ]
   },
   {
     "file": "trials/NCT05685719.xml",
@@ -310,23 +308,27 @@
     "crGender": "BOTH",
     "crMinAge": 18,
     "crMaxAge": 45,
-    "inclusionCriteria": [],
+    "inclusionCriteria": [
+      "NCS"
+    ],
     "exclusionCriteria": [
       "dizziness",
       "allergy",
       "hypersensitivity",
-      "gastrointestinal (",
+      "gastrointestinal such",
       "duodenal",
       "ulcer",
       "alimentary tract hemorrhage",
-      "respiratory , circulatory , digestive , hematological , endocrinological , immunological , dermatological , mental and nervous systems",
-      "facial diseases",
+      "liver or kidney disease",
+      "respiratory , circulatory , digestive , hematological , endocrinological , immunological , dermatological , mental and nervous systems , facial diseases",
       "febrile illness",
       "drug abuse",
       "blood loss",
-      "menstru",
-      "hepatitis C",
-      "human immunodeficiency virus ( HIV )"
+      "menstrual blood loss",
+      "hepatitis C virus",
+      "HCV",
+      "human immunodeficiency virus",
+      "HIV antibody"
     ]
   },
   {
@@ -357,20 +359,20 @@
       "bipolar I or II disorder",
       "depressive disorder",
       "conduct disorder",
-      "obsessive - compulsive disorder",
+      "obsessive compulsive disorder",
       "psychosis",
       "autism spectrum disorder",
       "disruptive mood dysregulation disorder",
       "DMDD",
       "intellectual disability",
-      "Tourette ' s Syndrome",
+      "Tourette's Syndrome",
       "genetic disorder",
-      "cognitive and / or behavioral disturbance",
+      "cognitive and or behavioral disturbances",
       "oppositional defiant disorder",
       "ODD",
-      "anxiety disorder",
+      "generalized anxiety disorder",
       "panic disorder",
-      "disease of the central nervous system",
+      "disease of the central nervous system CNS",
       "tumors",
       "inflammation",
       "seizure disorder",
@@ -378,29 +380,27 @@
       "vascular disorder",
       "Duchenne Muscular dystrophy",
       "myasthenia gravis",
-      "neurologic or serious neuromuscular disorders",
-      "neurological symptoms",
-      "head injuryvu",
-      "seizurepress",
+      "neuromuscular disorders",
+      "head injuryvulsants",
+      "seizurepressants",
       "febrile seizure",
       "seizure",
       "psychiatric",
       "phobia",
       "motor skills disorders",
-      "sleep disorders",
       "elimination disorders",
       "adjustment disorders",
       "learning disorders",
       "communication disorders",
+      "DSM disorders",
       "ADHD",
-      "suicidal idea",
+      "suicidal",
       "medical abnormality",
-      "chronic disease",
       "asthma",
       "diabetes",
-      "abnormality of the cardiovascular (",
+      "abnormality of the cardiovascular including",
       "cardiomyopathy",
-      "arrhythmia",
+      "arrhythmias",
       "cardiac disorders",
       "hypertension",
       "malabsorption",
@@ -437,10 +437,11 @@
     "crMaxAge": 50,
     "inclusionCriteria": [
       "MDD",
-      "depression",
-      "mood or anxiety"
+      "mood",
+      "anxiety"
     ],
     "exclusionCriteria": [
+      "mood",
       "anxiety",
       "mood or anxiety",
       "mental",
@@ -495,16 +496,17 @@
     "crMinAge": 18,
     "crMaxAge": 99,
     "inclusionCriteria": [
+      "cardioembolic stroke",
       "TIA",
       "cerebrovascular",
       "atherosclerosis",
-      "infarct"
+      "lacunar infarct"
     ],
     "exclusionCriteria": [
       "Ischemic stroke",
       "stroke",
       "strokes",
-      "atrial fibrillation / flutter",
+      "atrial fibrillation flutter",
       "left ventricular thrombus"
     ]
   },
@@ -690,7 +692,7 @@
       "Schizophrenia",
       "Alzheimer",
       "alcohol addiction",
-      "Immunodeficiency ( primary or secondary )"
+      "Immunodeficiency"
     ]
   },
   {
@@ -787,7 +789,7 @@
     "inclusionCriteria": [],
     "exclusionCriteria": [
       "allergy",
-      "inability to walk or eat"
+      "inability to"
     ]
   },
   {
@@ -814,8 +816,7 @@
     "exclusionCriteria": [
       "neurological deficit",
       "respiratory disorders",
-      "bleeding disorders",
-      "Infection",
+      "bleeding disordersfection",
       "allergy"
     ]
   },
@@ -939,7 +940,7 @@
       "depression",
       "Cognitive Impairment",
       "hearing or vision impairment",
-      "impaired decision - making capacity"
+      "impaired"
     ]
   },
   {
@@ -963,16 +964,15 @@
     "crMinAge": 20,
     "crMaxAge": 70,
     "inclusionCriteria": [
-      "Lupus nephritis",
+      "Lupus nephritis Disease",
       "lupus nephritis"
     ],
     "exclusionCriteria": [
-      "antiphospholipid syndrome",
+      "antiphospholipid syndrome disease",
       "thrombosis",
       "anemia",
       "leukopenia",
-      "thrombocytopenia",
-      "impaired liver and renal function"
+      "thrombocytopenia"
     ]
   },
   {
@@ -996,7 +996,8 @@
     "crMinAge": 18,
     "crMaxAge": 64,
     "inclusionCriteria": [
-      "end - stage liver disease",
+      "end stage",
+      "liver disease",
       "cirrhosis",
       "liver cancer",
       "fulminant hepatic failure",
@@ -1014,8 +1015,7 @@
       "Hepatitis C Virus",
       "Human Immunodeficiency Virus",
       "malignancy",
-      "primary",
-      "liver cancer",
+      "primary liver cancer",
       "drug abuse"
     ]
   },
@@ -1041,14 +1041,14 @@
     "crMaxAge": 99,
     "inclusionCriteria": [
       "astrocytoma",
-      "glioblastoma",
+      "glioblastomas",
       "anaplastic astrocytoma",
       "toxicity",
       "tumor",
-      "immune disorder"
+      "immune disordertumortumor"
     ],
     "exclusionCriteria": [
-      "Acute infection",
+      "Acute infection Acute infection",
       "viral , bacterial , or fungal infection",
       "leukocytosis",
       "human immunodeficiency",
@@ -1189,21 +1189,19 @@
       "cardiovascular disease",
       "overweight",
       "obesity",
-      "Overweight"
+      "Overweight obesity"
     ],
     "exclusionCriteria": [
       "hypercholesterolemia",
       "myocardial infarction",
       "weight gain",
       "weight loss",
-      "chronic diseases",
       "asthma",
       "chronic lung disease",
       "kidney disease",
       "metabolic diseases",
       "atherosclerosis",
       "stroke",
-      "cancer",
       "diabetes",
       "Food allergies"
     ]
@@ -1237,17 +1235,16 @@
       "ulcer",
       "bleeding",
       "epilepsy",
-      "seizure disorder",
+      "seizure",
       "diabetes",
       "infection",
       "angina",
-      "acute myocardial ischemia",
+      "myocardial ischemia",
       "depression",
       "chest pain",
       "bundle branch blocks",
-      "A - V block",
-      "arrhythmia",
-      "infections",
+      "A V block",
+      "arrhythmias",
       "thyroid dysfunction"
     ]
   },
@@ -1275,14 +1272,14 @@
     "exclusionCriteria": [
       "hypertension",
       "Allergy",
-      "Parkinson ' s disease",
+      "Parkinson's disease",
       "hepatic or renal insufficiency",
       "Porphyria",
       "Cardiogenic shock",
       "aortic stenosis",
       "unstable angina",
       "myocardial infarction",
-      "gastro - intestinal or oesophageal obstruction"
+      "gastro intestinal or oesophageal obstruction"
     ]
   },
   {
@@ -1334,9 +1331,9 @@
       "miocardical infarction",
       "pneumothorax",
       "pulmonary enphisema",
-      "bull",
+      "bullae",
       "chest burns",
-      "nasopharyngeal diseases",
+      "nasal or nasopharyngeal diseases",
       "dementia"
     ]
   },
@@ -1361,6 +1358,7 @@
     "crMinAge": 16,
     "crMaxAge": 99,
     "inclusionCriteria": [
+      "loneliness",
       "depression",
       "anxiety",
       "depressive or anxiety disorder"
@@ -1472,10 +1470,11 @@
       "Chronic illness",
       "febrile illness",
       "febrile",
-      "COVID - 19",
+      "COVID 19",
       "HIV infected",
       "influenza",
-      "rotavirus"
+      "rotavirus",
+      "RSV"
     ]
   },
   {
@@ -1562,7 +1561,6 @@
       "pulmonary embolism",
       "pulmonary edema",
       "myocardial infarction",
-      "heart failure",
       "vertigo",
       "epilepsy",
       "visual impairment"
@@ -1645,7 +1643,7 @@
       "gastroesophageal reflux",
       "irritable bowel syndrome",
       "mental illness",
-      "impairment of heart , liver , or kidney function or respiratory function"
+      "impairment of heart , liver , or kidney function"
     ]
   },
   {
@@ -1669,11 +1667,12 @@
     "crMinAge": 18,
     "crMaxAge": 80,
     "inclusionCriteria": [
-      "HIV - 1 infected"
+      "HIV 1 infected"
     ],
     "exclusionCriteria": [
-      "AIDS - defining illness",
-      "infection with Hepatitis B or C"
+      "AIDS defining illness",
+      "infection",
+      "Hepatitis B or C"
     ]
   },
   {
@@ -1702,12 +1701,12 @@
     ],
     "exclusionCriteria": [
       "Cognitively impaired",
-      "myocardial infarction",
+      "weight",
+      "acute myocardial infarction",
       "heart block",
       "congestive heart failure",
       "unstable angina",
-      "hypertension",
-      "weight"
+      "hypertension"
     ]
   },
   {
@@ -1780,7 +1779,7 @@
       "preeclampsia",
       "Proteinuria",
       "edema",
-      "organ dysfunction"
+      "organ dysfunctions"
     ],
     "exclusionCriteria": [
       "hemorrhage",
@@ -1838,7 +1837,7 @@
     "crMaxAge": 99,
     "inclusionCriteria": [
       "HCC",
-      "Liver Disease"
+      "Liver Diseases"
     ],
     "exclusionCriteria": [
       "Allergy",
@@ -1870,7 +1869,7 @@
     "crMinAge": 18,
     "crMaxAge": 99,
     "inclusionCriteria": [
-      "Parkinson ' s disease"
+      "Parkinson's disease"
     ],
     "exclusionCriteria": [
       "injuries"
@@ -1926,13 +1925,13 @@
     "crMaxAge": 80,
     "inclusionCriteria": [],
     "exclusionCriteria": [
+      "CDC",
       "cardiovascular disease",
       "congestive heart failure",
-      "end - stage renal failure",
+      "end stage renal failure",
       "liver cirrhosis",
       "connective tissue disorder",
-      "diabetesthrombot",
-      "alcohol"
+      "diabetesthrombotic"
     ]
   },
   {
@@ -2011,7 +2010,7 @@
     "crMinAge": 18,
     "crMaxAge": 80,
     "inclusionCriteria": [
-      "aphasiaphasia"
+      "aphasia"
     ],
     "exclusionCriteria": [
       "learning disabilities",
@@ -2038,7 +2037,9 @@
     "crGender": "BOTH",
     "crMinAge": 18,
     "crMaxAge": 99,
-    "inclusionCriteria": [],
+    "inclusionCriteria": [
+      "lesions"
+    ],
     "exclusionCriteria": [
       "allergic reactions",
       "seizures"
@@ -2339,9 +2340,7 @@
     "crGender": "BOTH",
     "crMinAge": 18,
     "crMaxAge": 55,
-    "inclusionCriteria": [
-      "recession"
-    ],
+    "inclusionCriteria": [],
     "exclusionCriteria": [
       "Carious teeth",
       "periapical infection",
@@ -2457,6 +2456,7 @@
     "inclusionCriteria": [],
     "exclusionCriteria": [
       "Vaginal infection",
+      "disease",
       "immunodeficiency",
       "diabetes",
       "tumors",
@@ -2466,8 +2466,7 @@
       "diarrhea",
       "constipation",
       "short bowel syndrome",
-      "alcohol or drug abuse",
-      "sexual abstinence"
+      "alcohol or drug abuse"
     ]
   },
   {
@@ -2492,10 +2491,8 @@
     "crMaxAge": 65,
     "inclusionCriteria": [
       "Opioid Use Disorder",
-      "OUD",
       "pain",
-      "cancer",
-      "chronic"
+      "cancer"
     ],
     "exclusionCriteria": []
   },
@@ -2551,7 +2548,7 @@
     "exclusionCriteria": [
       "renal failure",
       "liver failure",
-      "pain",
+      "painkillers",
       "disease related to the nervous system",
       "psychiatric disease",
       "substance abuse",
@@ -2687,7 +2684,7 @@
     "exclusionCriteria": [
       "mental illness",
       "cognitive impairment",
-      "cardiovascular - related diseases",
+      "cardiovascular related diseases",
       "unstable angina pectoris",
       "acute myocardial infarction",
       "epilepsy",
@@ -2796,19 +2793,19 @@
     "crMaxAge": 30,
     "inclusionCriteria": [
       "Myofascial pain syndrome",
-      "myofascial pain syndrome"
+      "muscle Haleema"
     ],
     "exclusionCriteria": [
       "Malignancy",
       "Fractures of the Thoracic spine",
-      "Cervical radiculopathy",
-      "myelopathy",
-      "Vascular syndrome",
+      "radiculopathy",
+      "myelopathycular syndromes",
       "vertebrobasilar insufficiency",
       "Rheumatoid arthritis",
       "infection",
       "Whiplash injury",
-      "Open wounds",
+      "wounds",
+      "Scapular",
       "pain",
       "Osteoporosis"
     ]
@@ -2838,7 +2835,8 @@
       "ulcerative colitis",
       "colitis",
       "ischemic colitis",
-      "infectious colitis",
+      "infectious",
+      "stricture",
       "megacolon",
       "short gut or bowel syndrome"
     ]
@@ -2869,8 +2867,7 @@
     "exclusionCriteria": [
       "arrhythmia",
       "hypertension",
-      "sensory deficit",
-      "Visual and hearing problems"
+      "sensory deficit Visual and hearing problems"
     ]
   },
   {
@@ -2898,7 +2895,7 @@
     ],
     "exclusionCriteria": [
       "porphyria",
-      "rash"
+      "rashes"
     ]
   },
   {
@@ -2933,7 +2930,6 @@
       "inflammatory diseases",
       "injury",
       "congenital abnormality",
-      "spinal",
       "scoliosis",
       "thrombocytopenia",
       "coagulopathy"
@@ -3022,15 +3018,14 @@
     "crMaxAge": 85,
     "inclusionCriteria": [
       "hypoxia",
-      "pneumonia",
-      "Pneumonia"
+      "pneumonia"
     ],
     "exclusionCriteria": [
       "T lymphocyte abnormality",
       "allergic",
       "allergy",
       "autoimmune disease",
-      "Allergies",
+      "Allergies to all",
       "cardiac insufficiency",
       "chronic renal insufficiency",
       "CKD",
@@ -3089,6 +3084,7 @@
     "inclusionCriteria": [],
     "exclusionCriteria": [
       "alcohol abuse",
+      "substance",
       "drug"
     ]
   },
@@ -3159,21 +3155,21 @@
     "crMinAge": 18,
     "crMaxAge": 80,
     "inclusionCriteria": [
-      "SARS - CoV - 2 infection",
+      "SARS CoV 2 infection",
       "infection",
       "Cough",
       "Shortness of breath",
       "difficulty breathing",
       "fever",
+      "Chills",
+      "Body pain",
       "muscle pain",
       "Diarrhea",
       "Nausea",
-      "Headache",
-      "Stuffy",
-      "runny nose"
+      "Headache"
     ],
     "exclusionCriteria": [
-      "SARS - CoV - 2",
+      "SARS CoV 2",
       "liver disease",
       "chronic hepatitis B",
       "hepatitis C",
@@ -3204,22 +3200,23 @@
     "crMaxAge": 99,
     "inclusionCriteria": [
       "infection",
-      "Hypoxemia"
+      "Hypoxemia",
+      "chest infiltrates"
     ],
     "exclusionCriteria": [
       "airway obstruction",
       "asphyxia",
       "Respiratory failure",
       "cardiogenic pulmonary edema",
+      "Injury",
       "wound",
-      "fracture of cervical vertebra and spine",
-      "Glaucoma",
+      "fracture of cervical vertebra",
+      "spine Glaucoma",
       "Intracranial hypertension",
       "traumatic brain injury",
       "pulmonary embolism",
-      "hemorrhagic disease",
-      "dyspnea",
-      "limitation in autonomous movement"
+      "Acute hemorrhagic disease",
+      "dyspnea"
     ]
   },
   {
@@ -3248,7 +3245,7 @@
       "Sleep apnea syndrome",
       "difficult airway",
       "asthmatic",
-      "chest infection"
+      "infection"
     ]
   },
   {
@@ -3437,7 +3434,7 @@
       "bleeding",
       "coagulation disorders",
       "thrombocytopenia",
-      "hem"
+      "Lung retransplantation"
     ]
   },
   {
@@ -3461,8 +3458,7 @@
     "crMinAge": 18,
     "crMaxAge": 29,
     "inclusionCriteria": [
-      "HIV infection",
-      "HIV"
+      "HIV infection"
     ],
     "exclusionCriteria": []
   },
@@ -3486,12 +3482,12 @@
     "crGender": "BOTH",
     "crMinAge": 60,
     "crMaxAge": 99,
-    "inclusionCriteria": [],
+    "inclusionCriteria": [
+      "PCP"
+    ],
     "exclusionCriteria": [
       "dementia",
-      "cancer",
-      "legally blind",
-      "opio"
+      "cancer"
     ]
   },
   {
@@ -3598,13 +3594,11 @@
     "crMinAge": 40,
     "crMaxAge": 70,
     "inclusionCriteria": [
-      "Obesity",
-      "Overweight"
+      "Obesity"
     ],
     "exclusionCriteria": [
       "Diabetes mellitus",
       "coronary disease",
-      "cancer",
       "ESRD"
     ]
   },
@@ -3686,7 +3680,7 @@
       "compression fracture",
       "osteoporosis",
       "osteopenia",
-      "systemic , connective tissue , or neurological disease",
+      "neurological disease",
       "pain",
       "anxiety"
     ]
@@ -3786,14 +3780,15 @@
     "exclusionCriteria": [
       "hypersensitivity",
       "oral abnormality",
-      "temporomandibular joint [ TMJ ] problems",
+      "temporomandibular joint",
+      "TMJ",
       "maxillofacial defects",
       "dry mouth",
       "xerostomia",
       "stomatitis",
       "open sores",
-      "ulcer",
-      "red",
+      "ulcers",
+      "redness",
       "swelling",
       "lymphadenopathy"
     ]
@@ -3820,10 +3815,8 @@
     "crMaxAge": 65,
     "inclusionCriteria": [],
     "exclusionCriteria": [
-      "hernia",
       "esophagitis",
-      "Barrett ' s metaplasia",
-      "dysplasia",
+      "Barrett's metaplasia dysplasia",
       "bleeding",
       "esophageal varices"
     ]
@@ -3915,7 +3908,7 @@
     "crMaxAge": 60,
     "inclusionCriteria": [
       "SCI",
-      "para",
+      "paralysis",
       "Spinal Injury",
       "spinal cort lesion"
     ],
@@ -3954,7 +3947,8 @@
     "crMinAge": 35,
     "crMaxAge": 65,
     "inclusionCriteria": [
-      "uterine fibroidsfunction",
+      "uterine fibroids",
+      "dysfunctional",
       "uterine bleeding"
     ],
     "exclusionCriteria": [
@@ -4051,7 +4045,6 @@
       "hyperlipidemia",
       "hypercholesterolemia",
       "obesity",
-      "cognitive",
       "declines in cognitive functioning",
       "problems with memory or thinking"
     ],
@@ -4061,8 +4054,7 @@
       "mental illness",
       "schizophrenia",
       "bipolar I disorder",
-      "psychotic - active",
-      "substance use disorder"
+      "psychotic"
     ]
   },
   {
@@ -4087,7 +4079,7 @@
     "crMaxAge": 5,
     "inclusionCriteria": [],
     "exclusionCriteria": [
-      "suicidal",
+      "suicidality",
       "psychiatric"
     ]
   },
@@ -4206,18 +4198,15 @@
     "crGender": "BOTH",
     "crMinAge": 16,
     "crMaxAge": 65,
-    "inclusionCriteria": [
-      "influenza"
-    ],
+    "inclusionCriteria": [],
     "exclusionCriteria": [
+      "Acute",
       "diabetes mellitus",
       "Gastrointestinal disorders",
       "inflammatory bowel disease",
-      "gastroenteritis",
       "Immunodeficiency disorder",
       "weight loss",
       "weight gain",
-      "Alcohol or drug abuse",
       "cancer"
     ]
   },
@@ -4265,7 +4254,9 @@
     "crMinAge": 0,
     "crMaxAge": 99,
     "inclusionCriteria": [],
-    "exclusionCriteria": []
+    "exclusionCriteria": [
+      "injury"
+    ]
   },
   {
     "file": "trials/NCT05690646.xml",
@@ -4319,7 +4310,8 @@
       "spinal fracture",
       "heart disease",
       "kidney , liver diseases",
-      "gastric ulcer",
+      "gastric",
+      "ulcer",
       "duodenal ulcer",
       "bronchial asthma",
       "chest disease",
@@ -4378,7 +4370,7 @@
       "stroke"
     ],
     "exclusionCriteria": [
-      "infar",
+      "infarction",
       "brain hernia",
       "brain edema",
       "cerebral hemorrhage",
@@ -4406,14 +4398,13 @@
     "crGender": "BOTH",
     "crMinAge": 0,
     "crMaxAge": 99,
-    "inclusionCriteria": [
-      "Plas"
-    ],
+    "inclusionCriteria": [],
     "exclusionCriteria": [
       "hypersensitivity",
+      "G6PD deficiency",
       "malaria",
       "amenorrhea",
-      "G6PD deficiency"
+      "G6PD deficient"
     ]
   },
   {

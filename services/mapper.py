@@ -400,7 +400,7 @@ def main():
         for trial in trials:
             print(f'Processing {trial}')
             mappedTrial = mapTrial(trial)
-            print(json.dumps(mappedTrial, indent=4))
+            print(json.dumps(mappedTrial, indent=2))
             isAccepted = not doSelection or get_acceptance()
             if isAccepted:
                 selectedTrials.append(mappedTrial)
@@ -417,8 +417,8 @@ def main():
         with open(SELECTION_CONTEXT_FILE, 'w') as selectionContextFile:
             with open('trials.json', 'w') as selectedTrialsFile:
                 print('Writing trials')
-                json.dump(selectionContext, selectionContextFile, indent=4)
-                json.dump(selectedTrials, selectedTrialsFile, indent=4)
+                json.dump(selectionContext, selectionContextFile, indent=2)
+                json.dump(selectedTrials, selectedTrialsFile, indent=2)
                 print('Done')
 
 def get_acceptance():
@@ -504,7 +504,7 @@ def remapTrials(trials, outputFileName):
             selectedTrials.append(mapTrial(trials[i]))
 
     with open(outputFileName, 'w') as selectedTrialsFile:
-        json.dump(selectedTrials, selectedTrialsFile, indent=4)
+        json.dump(selectedTrials, selectedTrialsFile, indent=2)
 
 # this function takes a tag or a list of tags and returns the first tag that with the tag or the hierarchy of tags
 # also take an arbitrary number of lists of tags that can be checked if the first tag is not found
@@ -536,26 +536,13 @@ def parse_criteria(criteria):
     inclusion_criteria = criteria[0].split('Inclusion Criteria:')[1]
     exclusion_criteria = criteria[1]
     
+    # remove all non alphanumeric characters (except spaces and dashes)
+    inclusion_criteria = re.sub(r'[^a-zA-Z0-9 -\',\n]', ' ', inclusion_criteria)
+    exclusion_criteria = re.sub(r'[^a-zA-Z0-9 -\',\n]', ' ', exclusion_criteria)
+
     inclusion_criteria = pipeline(inclusion_criteria)
     exclusion_criteria = pipeline(exclusion_criteria)
 
-    """
-    # split criteria by new line followed by a dash (not necessarily immediately)
-    inclusion_criteria = re.split('\n\s*-\s*', inclusion_criteria)
-    exclusion_criteria = re.split('\n\s*-\s*', exclusion_criteria)
-
-    # replace multiple whitespaces with a single whitespace
-    inclusion_criteria = [re.sub('\s+', ' ', c) for c in inclusion_criteria]
-    exclusion_criteria = [re.sub('\s+', ' ', c) for c in exclusion_criteria]
-
-    # remove leading and trailing whitespaces (and \r)
-    inclusion_criteria = [c.replace('\r', '').strip() for c in inclusion_criteria]
-    exclusion_criteria = [c.replace('\r', '').strip() for c in exclusion_criteria]
-
-    # remove empty strings
-    inclusion_criteria = [c for c in inclusion_criteria if c != '']
-    exclusion_criteria = [c for c in exclusion_criteria if c != '']
-    """
     return {'inclusion': inclusion_criteria, 'exclusion': exclusion_criteria}
 
 # parse the date from the following representation:
