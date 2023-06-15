@@ -1,8 +1,9 @@
-import {HttpClient} from '@angular/common/http';
+import {HttpClient, HttpParams} from '@angular/common/http';
 import {Injectable} from '@angular/core';
 import {Observable} from 'rxjs';
 import {environment} from 'src/environments/environment';
 import {Trial} from '../dtos/trial';
+import {Filter} from '../dtos/filter';
 
 
 
@@ -25,6 +26,28 @@ export class TrialService {
    */
   getAll(): Observable<Trial[]> {
     return this.http.get<Trial[]>(baseUri);
+  }
+
+  /**
+   * Search for trials stored in the system
+   *
+   * @return observable list of found trials.
+   */
+  searchForTrial(keyword: string): Observable<Trial[]> {
+    let queryParams = new HttpParams();
+    queryParams = queryParams.set('keyword', keyword);
+    return this.http.get<Trial[]>(baseUri + '/search', {params: queryParams});
+  }
+
+  /**
+   * Search for trials stored in the system with filter
+   *
+   * @return observable list of found trials.
+   */
+  searchForTrialWithFilter(keyword: string, filter: Filter): Observable<Trial[]> {
+    let queryParams = new HttpParams();
+    queryParams = queryParams.set('keyword', keyword);
+    return this.http.post<Trial[]>(baseUri + '/search', filter, {params: queryParams});
   }
 
 

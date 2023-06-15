@@ -10,28 +10,150 @@
       <div class="flex flex-row w-full font-medium text-blue-950" style="align-items: center;">
         <i class="bi-search opacity-60" style="color: #235491"></i>
         <input id="q" name="q" class="max-h-[2.5rem] my-0 inputfield mx-4"
-               placeholder="What are you looking for today?">
+               placeholder="What are you looking for today?" [(ngModel)]="keyword" (ngModelChange)="searchWithFilter()">
       </div>
       <div class="w-full" style="align-items: center; max-width: 321px !important;">
-        <button class="bi-x-lg mr-4" style="color:#1e5075" onclick="q.value = '';"></button>
-        <button class="flex-initial bg-blue-300 rounded w-35 py-2 px-4 text-blue-900 font-semibold border-blue-950 drop-shadow-sm ml-2 text-sm"
-                onclick="window.location.href=`/#/?q=${q.value}`" routerLinkActive="active">Search
+        <button class="bi-x-lg mr-4" style="color:#1e5075" onclick="q.value = '';" (click)="keyword = ''; searchWithFilter()"></button>
+        <button
+          class="flex-initial bg-blue-300 rounded w-35 py-2 px-4 text-blue-900 font-semibold border-blue-950 drop-shadow-sm ml-2 text-sm"
+          (click)="searchWithFilter()" routerLinkActive="active">Search
         </button>
-        <button class="flex-initial bg-blue-50 rounded w-35 py-2 px-4 text-blue-900 font-semibold border-blue-950 drop-shadow-sm ml-2 text-sm"
-                routerLink="/" routerLinkActive="active">Advanced Filters <i class="bi-chevron-right"></i>
+        <button
+          class="flex-initial bg-blue-50 rounded w-35 py-2 px-4 text-blue-900 font-semibold border-blue-950 drop-shadow-sm ml-2 text-sm"
+          routerLink="/" routerLinkActive="active" (click)="advanced = !advanced">Advanced Filters <i
+          class="bi-chevron-right"></i>
         </button>
       </div>
     </div>
     <hr class="mt-0 ml-4 mb-4 w-full" style="border: 2px solid #CDE2F0;">
-
-    <div class="font-bold">What is clinical matcher?</div>
-    <div class="text" id="li" [innerHTML]="lipsum">
+    <div class="mainsearch__cat" *ngIf="isAdvancedSearch()">
+      <div class="filter__categories">
+        <ul class="cat__list">
+          <li
+            [ngStyle]="{'background': (filter.minAge !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.minAge !== null) ? 'white' : '#235491'}">
+            <div>Min age:
+              <input class="ml-5 mr-5 h-10 w-20 border-0" style="color: #235491" [(ngModel)]="filter.minAge"
+                     (ngModelChange)="searchWithFilter()"
+                     type="number" [max]="filter.maxAge" [min]="1"></div>
+          </li>
+          <li
+            [ngStyle]="{'background': (filter.maxAge !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.maxAge !== null) ? 'white' : '#235491'}">
+            <div>Max age:
+              <input class="ml-5 mr-5 h-10 w-20 border-0" style="color: #235491" [(ngModel)]="filter.maxAge"
+                     (ngModelChange)="searchWithFilter()"
+                     type="number" [max]="120" [min]="filter.minAge"></div>
+          </li>
+          <li
+            [ngStyle]="{'background': (filter.startDate !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.startDate !== null) ? 'white' : '#235491'}">
+            <div>Start Date:
+              <input class="ml-5 mr-5 h-10 border-0" style="color: #235491"
+                     [(ngModel)]="filter.startDate" (ngModelChange)="searchWithFilter()"
+                     type="date">
+            </div>
+          </li>
+          <li
+            [ngStyle]="{'background': (filter.endDate !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.endDate !== null) ? 'white' : '#235491'}">
+            <div>End Date:
+              <input class="ml-5 mr-5 h-10 border-0" style="color: #235491"
+                     [(ngModel)]="filter.endDate" (ngModelChange)="searchWithFilter()"
+                     type="date">
+            </div>
+          </li>
+        </ul>
+        <ul class="cat__list">
+          <li
+            [ngStyle]="{'background': (filter.gender !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.gender !== null) ? 'white' : '#235491'}">
+            <div>Gender:
+              <select name="status" class="form-select-sm" style="color: #235491" [(ngModel)]="filter.gender"
+                      (ngModelChange)="searchWithFilter()">
+                <option value="MALE">male</option>
+                <option value="FEMALE">female</option>
+              </select>
+            </div>
+          </li>
+          <li
+            [ngStyle]="{'background': (filter.recruiting !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.recruiting !== null) ? 'white' : '#235491'}">
+            <div>Status:
+              <select name="status" class="form-select-sm" style="color: #235491" [(ngModel)]="filter.recruiting"
+                      (ngModelChange)="searchWithFilter()">
+                <option value="RECRUITING">recruiting</option>
+                <option value="NOT_RECRUITING">not recruiting</option>
+              </select>
+            </div>
+          </li>
+          <!--<li (click)="(filter.recruiting = 1) && searchFilter()"
+              [ngStyle]="{'background': (filter.recruiting === 1) ? '#162E51' : '#f0f0f0',  'color': (filter.recruiting === 1) ? 'white' : '#235491'}">
+            <button>Not recruiting</button>
+          </li>-->
+          <li (click)="resetFilter()" style="background-color: rgb(147 197 253)">
+            <button>Clear all Filters</button>
+          </li>
+        </ul>
+      </div>
     </div>
-    <button id="moreInfo" class="flex-initial bg-blue-100 rounded py-0 px-2 text-blue-500 font-light border-blue-950 drop-shadow-sm text"
-            (click)="moreInfo()"
-            routerLinkActive="active">More Info
-    </button>
-  </div>
 
-  <a *ngIf="!authService.isLoggedIn()" class="btn btn-primary btn-lg opacity-0" routerLink="/account/login" role="button">Login</a>
+    <div *ngIf="!isSearching()">
+      <div class="font-bold">What is clinical matcher?</div>
+      <div class="text" id="li" [innerHTML]="lipsum">
+      </div>
+      <button id="moreInfo"
+              class="flex-initial bg-blue-100 rounded py-0 px-2 text-blue-500 font-light border-blue-950 drop-shadow-sm text"
+              (click)="moreInfo()"
+              routerLinkActive="active">More Info
+      </button>
+    </div>
+    <div class="flex flex-col divide-y-[3px] w-[96%] mx-auto divide-[#CDE2F0]/[0.25]">
+      <div *ngFor="let trial of trials" class="py-2">
+
+        <div class="container grid grid-cols-2 align-items-center">
+          <div class="flex flex-row align-items-center">
+            <div class="flex flex-col">
+              <div class="fw-bold text-cool-blue-500">{{trial.title}}</div>
+            </div>
+            <div class="flex flex-col">
+              <div class="text-sm font-semibold text-cool-blue-500 ml-4"><i
+                class="bi bi-geo-alt-fill mr-1"></i>{{trial.location}}</div>
+            </div>
+          </div>
+
+          <div class="flex flex-row dateloc">
+            <div class="text-sm font-semibold text-cool-blue-500">
+              <i class="bi bi-calendar-week mr-2"></i>
+              {{trial.startDate}} - {{trial.endDate}}
+            </div>
+          </div>
+
+        </div>
+
+        <div class="container">
+          <div class="flex flex-row">
+            <div class="font-semibold mr-3">Details:</div>
+            <div>{{trial.briefSummary}}</div>
+          </div>
+        </div>
+
+        <div class="container grid grid-cols-2 align-items-center">
+          <div class="flex flex-row">
+
+            <div class="flex flex-col">
+              <div class="flex flex-row">
+                <div class="font-semibold mr-3">
+                  Requirements:
+                </div>
+                <div>Age: {{trial.crMinAge}} - {{trial.crMaxAge}}, Gender: {{trial.crGender}}</div>
+              </div>
+              <div class="flex flex-row">
+                <div class="font-semibold mr-3">
+                  Status:
+                </div>
+                <div>{{trial.status}}</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <a *ngIf="!authService.isLoggedIn()" class="btn btn-primary btn-lg opacity-0" routerLink="/account/login"
+     role="button">Login</a>
 </div>

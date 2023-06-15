@@ -1,6 +1,9 @@
 package at.ac.tuwien.sepm.groupphase.backend.service;
 
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.FilterDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.TrialDto;
+import at.ac.tuwien.sepm.groupphase.backend.entity.Trial;
+import org.springframework.data.domain.Page;
 
 import java.util.List;
 
@@ -45,5 +48,15 @@ public interface TrialService {
      * @param id the id of the trial to delete
      */
     void deleteTrialById(Long id);
+
+    /**
+     * Search for trials with filter.
+     *
+     * @param keyword the keyword to search for in trials
+     * @param filterDto the filters to search for in trials
+     * @param pageNum the pages
+     * @return list of found trials
+     */
+    List<TrialDto> searchWithFilter(String keyword, FilterDto filterDto, int pageNum);
 
 }

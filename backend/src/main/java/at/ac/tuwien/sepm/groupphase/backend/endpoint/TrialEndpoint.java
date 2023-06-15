@@ -1,13 +1,18 @@
 package at.ac.tuwien.sepm.groupphase.backend.endpoint;
 
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.FilterDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.TrialDto;
+import at.ac.tuwien.sepm.groupphase.backend.entity.Trial;
 import at.ac.tuwien.sepm.groupphase.backend.service.impl.TrialServiceImpl;
 import jakarta.annotation.security.PermitAll;
 import jakarta.validation.Valid;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.data.domain.Page;
+import org.springframework.data.repository.query.Param;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.access.annotation.Secured;
+import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -58,7 +63,7 @@ public class TrialEndpoint {
         return trialService.getOwnTrials();
     }
 
-    @Secured("ROLE_RESEARCHER")
+    @PermitAll
     @ResponseStatus(HttpStatus.OK)
     @GetMapping()
     public List<TrialDto> getAllTrials() {
@@ -83,4 +88,9 @@ public class TrialEndpoint {
         trialService.deleteTrialById(id);
     }
 
+    @PermitAll
+    @PostMapping("/search")
+    public List<TrialDto> searchWithFilter(@RequestBody @Valid FilterDto filterDto, @Param("keyword") String keyword) {
+        return trialService.searchWithFilter(keyword, filterDto, 1);
+    }
 }
