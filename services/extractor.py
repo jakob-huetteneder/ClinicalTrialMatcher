@@ -32,29 +32,9 @@ def extract_entities(text):
     inputs = tokenizer.encode(text, return_tensors="pt")
     outputs = model(inputs)[0]
     predictions = torch.argmax(outputs, dim=2)
-    print(predictions)
     tokens = tokenizer.convert_ids_to_tokens(inputs[0])
-    print(tokens)
+
     entities = []
-    current_entity = ""
-    current_label = None
-
-    #for token, label_idx in zip(tokens, predictions[0].tolist()):
-    #    label = model.config.id2label[label_idx]
-
-        #if label.startswith("B-"):
-        #    if current_entity:
-        #        entities.append((current_entity, current_label))
-        #    current_entity = token
-        #    current_label = label.split("-")[1]
-        #elif label.startswith("I-"):
-        #    if current_entity and current_label == label.split("-")[1]:
-        #        current_entity += " " + token
-        #else:
-        #    if current_entity:
-        #        entities.append((current_entity, current_label))
-        #    current_entity = ""
-        #    current_label = None
        
     preds = predictions[0].tolist()
     prev = False
@@ -70,9 +50,6 @@ def extract_entities(text):
         else:
             prev = False
             continue
-
-    #if current_entity:
-    #    entities.append((current_entity, current_label))
 
     return entities
 
@@ -102,6 +79,10 @@ def clean(extracted_entities):
     tmp = [entity for entity in tmp if not (entity.lower() in seen or seen.add(entity.lower()))]
     result = [item for item in tmp if len(item) >= 3]
     result = [item.replace(" ' ", "'") for item in result]
+    result = [item.replace(" ,", ",") for item in result]
+    result = [item.replace("( ", "(") for item in result]
+    result = [item.replace(" )", ")") for item in result]
+    result = [item.replace(" / ", "/") for item in result]
     return result
 
 def removeNegatives(text, extracted_entities):
