@@ -4,14 +4,23 @@ import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.DiagnoseDto;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Diagnose;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
 
+import java.lang.invoke.MethodHandles;
 import java.util.HashSet;
 import java.util.Optional;
 import java.util.Set;
 
+/**
+ * Mapper for mapping {@link Diagnose} to {@link DiagnoseDto} and vice versa.
+ */
 @Component
 public class DiagnosisMapper {
+
+    private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
+
     private final PatientRepository patientRepository;
     private final DiseaseMapper diseaseMapper;
 
@@ -20,7 +29,15 @@ public class DiagnosisMapper {
         this.diseaseMapper = diseaseMapper;
     }
 
+    /**
+     * Converts a diagnosis DTO to a diagnosis entity.
+     *
+     * @param diagnoseDto the diagnosis DTO to be converted
+     * @param patientId   the ID of the patient to be set
+     * @return the converted diagnosis entity
+     */
     public Diagnose diagnosisDtoToDiagnosis(DiagnoseDto diagnoseDto, Long patientId) {
+        LOG.trace("diagnosisDtoToDiagnosis({}, {})", diagnoseDto, patientId);
         Optional<Patient> patient = patientId != null ? patientRepository.findById(patientId) : Optional.empty();
         return new Diagnose()
             .setId(diagnoseDto.id())
@@ -30,7 +47,15 @@ public class DiagnosisMapper {
             .setNote(diagnoseDto.note());
     }
 
+    /**
+     * Converts a set of diagnosis DTOs to a set of diagnosis entities.
+     *
+     * @param diagnoses the set of diagnosis DTOs to be converted
+     * @param patientId the ID of the patient to be set
+     * @return the converted set of diagnosis entities
+     */
     public Set<Diagnose> diagnosisDtoToDiagnosis(Set<DiagnoseDto> diagnoses, Long patientId) {
+        LOG.trace("diagnosisDtoToDiagnosis({}, {})", diagnoses, patientId);
         Set<Diagnose> convertedDiagnoses = new HashSet<>();
         if (diagnoses != null) {
             for (DiagnoseDto diagnose : diagnoses) {
@@ -40,7 +65,14 @@ public class DiagnosisMapper {
         return convertedDiagnoses;
     }
 
+    /**
+     * Converts a diagnosis entity to a diagnosis DTO.
+     *
+     * @param diagnose the diagnosis entity to be converted
+     * @return the converted diagnosis DTO
+     */
     public DiagnoseDto diagnosisToDiagnosisDto(Diagnose diagnose) {
+        LOG.trace("diagnosisToDiagnosisDto({})", diagnose);
         return new DiagnoseDto(
             diagnose.getId(),
             diagnose.getPatient() != null ? diagnose.getPatient().getId() : -1,
@@ -50,7 +82,14 @@ public class DiagnosisMapper {
         );
     }
 
+    /**
+     * Converts a set of diagnosis entities to a set of diagnosis DTOs.
+     *
+     * @param diagnoses the set of diagnosis entities to be converted
+     * @return the converted set of diagnosis DTOs
+     */
     public Set<DiagnoseDto> diagnosisToDiagnosisDto(Set<Diagnose> diagnoses) {
+        LOG.trace("diagnosisToDiagnosisDto({})", diagnoses);
         Set<DiagnoseDto> convertedDiagnoses = new HashSet<>();
         if (diagnoses != null) {
             for (Diagnose diagnose : diagnoses) {

@@ -9,16 +9,30 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Researcher;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
-import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Status;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
 
+import java.lang.invoke.MethodHandles;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * Mapper for mapping {@link ApplicationUser} to {@link UserDetailDto} and vice versa.
+ */
 @Component
 public class UserMapper {
 
+    private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
+
+    /**
+     * Maps the given userDetailDto to an applicationUser.
+     *
+     * @param userDetailDto to be mapped
+     * @return the mapped applicationUser
+     */
     public ApplicationUser userDetailDtoToApplicationUser(UserDetailDto userDetailDto) {
+        LOG.trace("userDetailDtoToApplicationUser({})", userDetailDto);
         return getApplicationUserFromRole(userDetailDto.role())
             .setId(userDetailDto.id())
             .setFirstName(userDetailDto.firstName())
@@ -27,7 +41,14 @@ public class UserMapper {
             .setStatus(userDetailDto.status());
     }
 
+    /**
+     * Maps the given set of userDetailDto to a set of applicationUser.
+     *
+     * @param userDetailDtos to be mapped
+     * @return the mapped applicationUsers
+     */
     public Set<ApplicationUser> userDetailDtoToApplicationUser(Set<UserDetailDto> userDetailDtos) {
+        LOG.trace("userDetailDtoToApplicationUser({})", userDetailDtos);
         Set<ApplicationUser> applicationUsers = new HashSet<>();
         if (userDetailDtos != null) {
             for (UserDetailDto userDetailDto1 : userDetailDtos) {
@@ -37,7 +58,14 @@ public class UserMapper {
         return applicationUsers;
     }
 
+    /**
+     * Maps the given userUpdateDto to an applicationUser.
+     *
+     * @param userUpdateDto to be mapped
+     * @return the mapped applicationUser
+     */
     public ApplicationUser userUpdateDtoToApplicationUser(UserUpdateDto userUpdateDto) {
+        LOG.trace("userUpdateDtoToApplicationUser({})", userUpdateDto);
         return getApplicationUserFromRole(userUpdateDto.role())
             .setId(userUpdateDto.id())
             .setFirstName(userUpdateDto.firstName())
@@ -47,7 +75,14 @@ public class UserMapper {
             .setStatus(userUpdateDto.status());
     }
 
+    /**
+     * Maps the given applicationUser to a userDetailDto.
+     *
+     * @param applicationUser to be mapped
+     * @return the mapped userDetailDto
+     */
     public UserDetailDto applicationUserToUserDetailDto(ApplicationUser applicationUser) {
+        LOG.trace("applicationUserToUserDetailDto({})", applicationUser);
         return new UserDetailDto(
             applicationUser.getId(),
             applicationUser.getFirstName(),
@@ -58,7 +93,14 @@ public class UserMapper {
         );
     }
 
+    /**
+     * Maps the given set of applicationUser to a set of userDetailDto.
+     *
+     * @param applicationUsers to be mapped
+     * @return the mapped userDetailDtos
+     */
     public Set<UserDetailDto> applicationUserToUserDetailDto(Set<? extends ApplicationUser> applicationUsers) {
+        LOG.trace("applicationUserToUserDetailDto({})", applicationUsers);
         Set<UserDetailDto> userDetailDtos = new HashSet<>();
         if (applicationUsers != null) {
             for (ApplicationUser applicationUser : applicationUsers) {
@@ -68,16 +110,31 @@ public class UserMapper {
         return userDetailDtos;
     }
 
+    /**
+     * Maps the given userRegisterDto to an applicationUser.
+     *
+     * @param userRegisterDto to be mapped
+     * @return the mapped applicationUser
+     */
     public ApplicationUser userRegisterDtoToApplicationUser(UserRegisterDto userRegisterDto) {
+        LOG.trace("userRegisterDtoToApplicationUser({})", userRegisterDto);
         return getApplicationUserFromRole(userRegisterDto.getRole())
             .setFirstName(userRegisterDto.getFirstName())
             .setLastName(userRegisterDto.getLastName())
             .setEmail(userRegisterDto.getEmail())
             .setPassword(userRegisterDto.getPassword())
-            .setStatus(Status.ACTION_REQUIRED);
+            .setStatus(ApplicationUser.Status.ACTION_REQUIRED);
     }
 
+    /**
+     * Maps the given userRegisterDto and applicationUser to a patient.
+     *
+     * @param userRegisterDto to be mapped
+     * @param applicationUser to be mapped
+     * @return the mapped patient
+     */
     public Patient userRegisterDtoToPatient(UserRegisterDto userRegisterDto, ApplicationUser applicationUser) {
+        LOG.trace("userRegisterDtoToPatient({}, {})", userRegisterDto, applicationUser);
         Patient patient = new Patient();
         patient.setEmail(userRegisterDto.getEmail());
         patient.setFirstName(userRegisterDto.getFirstName());
@@ -89,7 +146,14 @@ public class UserMapper {
         return patient;
     }
 
+    /**
+     * Finds the role of the given applicationUser.
+     *
+     * @param applicationUser to be analyzed
+     * @return the role of the given applicationUser
+     */
     public Role getRoleFromApplicationUser(ApplicationUser applicationUser) {
+        LOG.trace("getRoleFromApplicationUser({})", applicationUser);
         if (applicationUser == null) {
             throw new IllegalArgumentException("Cannot get role of applicationUser = null");
         }
@@ -105,7 +169,14 @@ public class UserMapper {
         }
     }
 
+    /**
+     * Creates a new instance of an applicationUser with the correct role
+     *
+     * @param role of the applicationUser
+     * @return the new instance of the applicationUser
+     */
     public ApplicationUser getApplicationUserFromRole(Role role) {
+        LOG.trace("getApplicationUserFromRole({})", role);
         switch (role) {
             case ADMIN -> {
                 return new Admin();

@@ -1,7 +1,7 @@
 package at.ac.tuwien.sepm.groupphase.backend.endpoint.dto;
 
+import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
-import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Status;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.Size;
 
@@ -23,10 +23,10 @@ public record UserUpdateDto(
 
     Role role,
 
-    Status status,
+    ApplicationUser.Status status,
 
     @Size(min = 8, max = 255, message = "Password must be between 8 and 255 characters")
-        String oldPassword
+    String oldPassword
 ) {
 
     public UserUpdateDto withId(Long id) {

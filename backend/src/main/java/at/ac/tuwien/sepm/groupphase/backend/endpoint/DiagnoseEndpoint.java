@@ -21,6 +21,9 @@ import org.springframework.web.bind.annotation.RestController;
 import java.lang.invoke.MethodHandles;
 import java.util.List;
 
+/**
+ * This class defines the endpoints for the diagnose resource.
+ */
 @RestController
 @RequestMapping(path = DiagnoseEndpoint.BASE_PATH)
 public class DiagnoseEndpoint {
@@ -36,10 +39,18 @@ public class DiagnoseEndpoint {
         this.patientService = patientService;
     }
 
+    /**
+     * Adds a new diagnosis to the database for the patient with the given id.
+     *
+     * @param id          of the patient
+     * @param diagnoseDto to be added
+     * @return the added diagnosis
+     */
     @Secured({"ROLE_DOCTOR"})
     @ResponseStatus(HttpStatus.CREATED)
     @PostMapping(path = "/{id}/diagnose")
     public DiagnoseDto addNewDiagnosis(@PathVariable("id") long id, @RequestBody @Valid DiagnoseDto diagnoseDto) {
+        LOG.trace("addNewDiagnosis({}, {})", id, diagnoseDto);
         LOG.info("POST " + BASE_PATH + "/");
         LOG.debug("Body of request: {}", diagnoseDto);
         DiagnoseDto dto = diagnoseService.addNewDiagnosis(diagnoseDto.withPatientId(id));
@@ -47,11 +58,19 @@ public class DiagnoseEndpoint {
         return dto;
     }
 
-
+    /**
+     * Updates the diagnosis with the given id for the patient with the given id.
+     *
+     * @param id          of the patient
+     * @param diagnosisId of the diagnosis
+     * @param diagnoseDto to be updated
+     * @return the updated diagnosis
+     */
     @Secured({"ROLE_DOCTOR"})
     @ResponseStatus(HttpStatus.OK)
     @PutMapping(path = "/{id}/diagnose/{d_id}")
     public DiagnoseDto updateDiagnosis(@PathVariable("id") long id, @PathVariable("d_id") long diagnosisId, @RequestBody @Valid DiagnoseDto diagnoseDto) {
+        LOG.trace("updateDiagnosis({}, {})", id, diagnoseDto);
         LOG.info("POST " + BASE_PATH + "/");
         LOG.debug("Body of request: {}", diagnoseDto);
         DiagnoseDto dto = diagnoseService.updateDiagnosis(diagnoseDto.withDiagnosisId(diagnosisId).withPatientId(id));
@@ -59,28 +78,51 @@ public class DiagnoseEndpoint {
         return dto;
     }
 
+    /**
+     * Deletes the diagnosis with the given id for the patient with the given id.
+     *
+     * @param id          of the patient
+     * @param diagnosisId of the diagnosis
+     * @return the deleted diagnosis
+     */
     @Secured({"ROLE_DOCTOR"})
     @ResponseStatus(HttpStatus.OK)
     @DeleteMapping(path = "/{id}/diagnose/{d_id}")
     public DiagnoseDto deleteDiagnosis(@PathVariable("id") long id, @PathVariable("d_id") long diagnosisId) {
+        LOG.trace("deleteDiagnosis({}, {})", id, diagnosisId);
         LOG.info("POST " + BASE_PATH + "/");
-        DiagnoseDto dto =  diagnoseService.deleteDiagnosis(id, diagnosisId);
+        DiagnoseDto dto = diagnoseService.deleteDiagnosis(id, diagnosisId);
         patientService.synchronizeWithElasticSearchDb(dto.patientId());
         return dto;
     }
 
+    /**
+     * Returns the diagnosis with the given id for the patient with the given id.
+     *
+     * @param id          of the patient
+     * @param diagnosisId of the diagnosis
+     * @return the diagnosis
+     */
     @Secured({"ROLE_DOCTOR"})
     @ResponseStatus(HttpStatus.OK)
     @GetMapping(path = "/{id}/diagnose/{d_id}")
     public DiagnoseDto viewDiagnosis(@PathVariable("id") long id, @PathVariable("d_id") long diagnosisId) {
+        LOG.trace("viewDiagnosis({}, {})", id, diagnosisId);
         LOG.info("GET " + BASE_PATH + "/");
         return diagnoseService.viewDiagnosis(id, diagnosisId);
     }
 
+    /**
+     * Returns all diagnoses for the patient with the given id.
+     *
+     * @param id of the patient
+     * @return all diagnoses
+     */
     @Secured({"ROLE_DOCTOR"})
     @ResponseStatus(HttpStatus.OK)
     @GetMapping(path = "/{id}/diagnose")
     public List<DiagnoseDto> getAllDiagnoses(@PathVariable("id") long id) {
+        LOG.trace("getAllDiagnoses({})", id);
         LOG.info("GET " + BASE_PATH + "/");
         return diagnoseService.getAllDiagnoses(id);
     }

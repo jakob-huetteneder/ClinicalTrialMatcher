@@ -10,7 +10,7 @@ import org.springframework.data.elasticsearch.client.RestClients;
 import org.springframework.data.elasticsearch.config.AbstractElasticsearchConfiguration;
 
 @Configuration
-@ComponentScan(basePackages = { "at.ac.tuwien.sepm.groupphase.backend.service" })
+@ComponentScan(basePackages = {"at.ac.tuwien.sepm.groupphase.backend.service"})
 public class ElasticSearchConfig extends AbstractElasticsearchConfiguration {
 
     @Bean

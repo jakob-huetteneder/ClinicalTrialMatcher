@@ -43,6 +43,7 @@ public class TreatsServiceImpl implements TreatsService {
 
     @Override
     public List<TreatsDto> getAllRequests(long userId, String search) {
+        LOG.trace("getAllRequests({}, {})", userId, search);
         ApplicationUser user = userRepository.findById(userId).orElseThrow(() -> new NotFoundException("Logged in user does not exist"));
 
         if (search == null) {
@@ -53,16 +54,17 @@ public class TreatsServiceImpl implements TreatsService {
         if (user instanceof Doctor) {
             treats = treatsRepository.findAllByDoctorId(userId, search);
         } else {
-            LOG.info("User with id {} is not a doctor, searching for patient treats", userId);
+            LOG.debug("User with id {} is not a doctor, searching for patient treats", userId);
             treats = treatsRepository.findAllByPatientId(userId, search);
         }
 
-        LOG.info("Found {} treating relationships", treats.size());
+        LOG.debug("Found {} treating relationships", treats.size());
         return treatsMapper.treatsToTreatsDto(treats);
     }
 
     @Override
     public PatientRequestDto requestTreats(Long doctorId, Long patientId) {
+        LOG.trace("requestTreats({}, {})", doctorId, patientId);
         ApplicationUser user = userRepository.findById(doctorId).orElseThrow();
         if (!(user instanceof Doctor doctor)) {
             throw new IllegalArgumentException("User with id " + doctorId + " is not a doctor");
@@ -85,9 +87,10 @@ public class TreatsServiceImpl implements TreatsService {
 
     @Override
     public TreatsDto respondToRequest(long patientUserId, Long doctorId, boolean accepted) {
+        LOG.trace("respondToRequest({}, {}, {})", patientUserId, doctorId, accepted);
         Patient patient = patientRepository.findByApplicationUser_Id(patientUserId).orElseThrow();
 
-        LOG.info("Responding to request from patient {} to doctor {} with {}", patient.getId(), doctorId, accepted);
+        LOG.debug("Responding to request from patient {} to doctor {} with {}", patient.getId(), doctorId, accepted);
         // get treats by doctorId and patientId
         Treats treats = treatsRepository.findByTreatsId_PatientIdAndTreatsId_DoctorId(patient.getId(), doctorId).orElseThrow();
         if (accepted) {
@@ -100,6 +103,7 @@ public class TreatsServiceImpl implements TreatsService {
 
     @Override
     public void doctorTreatsPatient(Doctor doctor, Patient patient) {
+        LOG.trace("doctorTreatsPatient({}, {})", doctor, patient);
         Treats treats = new Treats();
         treats.setDoctor(doctor);
         treats.setPatient(patient);
@@ -109,13 +113,14 @@ public class TreatsServiceImpl implements TreatsService {
 
     @Override
     public void deleteTreats(Long sessionUserId, Long userId) {
+        LOG.trace("deleteTreats({}, {})", sessionUserId, userId);
         ApplicationUser sessionUser = userRepository.findById(sessionUserId).orElseThrow();
         if (sessionUser instanceof Doctor) {
-            LOG.info("Deleting treats for doctor {} and patient {}", sessionUserId, userId);
+            LOG.debug("Deleting treats for doctor {} and patient {}", sessionUserId, userId);
             treatsRepository.deleteById(new TreatsId(userId, sessionUser.getId()));
         } else {
             Patient patient = patientRepository.findByApplicationUser_Id(sessionUserId).orElseThrow();
-            LOG.info("Deleting treats for patient {} and doctor {}", patient.getId(), userId);
+            LOG.debug("Deleting treats for patient {} and doctor {}", patient.getId(), userId);
             treatsRepository.deleteById(new TreatsId(patient.getId(), userId));
         }
     }

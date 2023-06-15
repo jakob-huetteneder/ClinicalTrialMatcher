@@ -5,7 +5,6 @@ import at.ac.tuwien.sepm.groupphase.backend.datagenerator.UserDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.UserMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
-import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Status;
 import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.BeforeEach;
@@ -66,7 +65,7 @@ public class UserRepositoryTest {
                 assertEquals(user.getLastName(), persistedUser.getLastName());
                 assertEquals(user.getEmail(), persistedUser.getEmail());
                 assertEquals(user.getPassword(), persistedUser.getPassword());
-                assertEquals(Status.ACTIVE, persistedUser.getStatus());
+                assertEquals(ApplicationUser.Status.ACTIVE, persistedUser.getStatus());
 
                 assertEquals(role, userMapper.getRoleFromApplicationUser(persistedUser));
             });

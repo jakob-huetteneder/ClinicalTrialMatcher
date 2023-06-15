@@ -1,7 +1,6 @@
 package at.ac.tuwien.sepm.groupphase.backend.entity;
 
 
-import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Status;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
@@ -23,7 +22,7 @@ public class Registration {
     private Trial trial;
 
     @Column(name = "status")
-    private Status status;
+    private ApplicationUser.Status status;
     @Id
     private Long id;
 
@@ -43,11 +42,11 @@ public class Registration {
         this.trial = trial;
     }
 
-    public Status getStatus() {
+    public ApplicationUser.Status getStatus() {
         return status;
     }
 
-    public void setStatus(Status status) {
+    public void setStatus(ApplicationUser.Status status) {
         this.status = status;
     }
 }

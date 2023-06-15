@@ -7,7 +7,6 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.Researcher;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Trial;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
-import at.ac.tuwien.sepm.groupphase.backend.entity.enums.TrialStatus;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.TrialMapper;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -44,7 +43,7 @@ public class TrialMapperTest {
             "detail1",
             "sponsor1",
             "collaborator1",
-            TrialStatus.RECRUITING,
+            Trial.Status.RECRUITING,
             "location1",
             Gender.FEMALE,
             12,
@@ -77,7 +76,7 @@ public class TrialMapperTest {
 
 
     @Test
-    public void trialToTrialDto() {
+    public void testTrialToTrialDto() {
         // now do the same for trialToTrialDto as in testTrialDtoToTrial
         Trial trial = new Trial()
             .setId(1L)
@@ -90,7 +89,7 @@ public class TrialMapperTest {
             .setDetailedSummary("detail1")
             .setSponsor("sponsor1")
             .setCollaborator("collaborator1")
-            .setStatus(TrialStatus.RECRUITING)
+            .setStatus(Trial.Status.RECRUITING)
             .setLocation("location1")
             .setCrGender(Gender.FEMALE)
             .setCrMinAge(13)

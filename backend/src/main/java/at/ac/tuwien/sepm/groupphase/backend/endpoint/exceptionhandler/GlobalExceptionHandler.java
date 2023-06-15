@@ -19,16 +19,19 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import java.lang.invoke.MethodHandles;
 import java.util.List;
 
+/**
+ * This class handles exceptions thrown by the controllers.
+ * It returns a response with the appropriate status code and message.
+ */
 @ControllerAdvice
 public class GlobalExceptionHandler {
-    private static final Logger LOGGER = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
+    private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
 
     @ExceptionHandler(value = {NotFoundException.class})
     @ResponseStatus(HttpStatus.NOT_FOUND)
     @ResponseBody
     protected MessageExceptionDto handleNotFound(NotFoundException notFoundException) {
-
-        LOGGER.info("NotFound: {}", notFoundException.getMessage());
+        LOG.trace("handleNotFound({})", notFoundException.getMessage());
 
         return new MessageExceptionDto(notFoundException.getMessage());
     }
@@ -37,8 +40,7 @@ public class GlobalExceptionHandler {
     @ResponseStatus(HttpStatus.UNPROCESSABLE_ENTITY)
     @ResponseBody
     public ValidationExceptionDto handleMethodArgumentNotValid(MethodArgumentNotValidException validationException) {
-
-        LOGGER.info("ValidationException: {}", validationException.getMessage());
+        LOG.trace("handleMethodArgumentNotValid({})", validationException.getMessage());
 
         List<String> errors = validationException
             .getFieldErrors()
@@ -53,8 +55,7 @@ public class GlobalExceptionHandler {
     @ResponseStatus(HttpStatus.CONFLICT)
     @ResponseBody
     public MessageExceptionDto handleAlreadyExistsException(AlreadyExistsException alreadyExistsException) {
-
-        LOGGER.info("AlreadyExistsException: {}", alreadyExistsException.getMessage());
+        LOG.trace("handleAlreadyExistsException({})", alreadyExistsException.getMessage());
 
         return new MessageExceptionDto(alreadyExistsException.getMessage());
     }
@@ -63,8 +64,7 @@ public class GlobalExceptionHandler {
     @ResponseStatus(HttpStatus.BAD_REQUEST)
     @ResponseBody
     public MessageExceptionDto handleIllegalArgumentException(IllegalArgumentException illegalArgumentException) {
-
-        LOGGER.info("IllegalArgumentException: {}", illegalArgumentException.getMessage());
+        LOG.trace("handleIllegalArgumentException({})", illegalArgumentException.getMessage());
 
         return new MessageExceptionDto(illegalArgumentException.getMessage());
     }
@@ -73,8 +73,7 @@ public class GlobalExceptionHandler {
     @ResponseStatus(HttpStatus.FORBIDDEN)
     @ResponseBody
     public MessageExceptionDto handleBadCredentialsException(Exception authenticationException) {
-
-        LOGGER.info("BadCredentialsException: {}", authenticationException.getMessage());
+        LOG.trace("handleBadCredentialsException({})", authenticationException.getMessage());
 
         return new MessageExceptionDto(authenticationException.getMessage());
     }

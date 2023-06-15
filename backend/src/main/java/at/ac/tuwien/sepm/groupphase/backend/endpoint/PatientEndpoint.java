@@ -23,13 +23,15 @@ import org.springframework.web.bind.annotation.RestController;
 import java.lang.invoke.MethodHandles;
 import java.util.List;
 
-
+/**
+ * This class defines the endpoints for the patient resource.
+ */
 @RestController
 @RequestMapping(path = PatientEndpoint.BASE_PATH)
 public class PatientEndpoint {
 
-    static final String BASE_PATH = "/api/v1/patients";
     private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
+    static final String BASE_PATH = "/api/v1/patients";
     private final PatientServiceImpl patientService;
     private final AuthorizationService authorizationService;
 
@@ -38,37 +40,64 @@ public class PatientEndpoint {
         this.authorizationService = authorizationService;
     }
 
+    /**
+     * Adds a new patient to the database.
+     *
+     * @param patient to be added
+     * @return the added patient
+     */
     @PermitAll
     @ResponseStatus(HttpStatus.CREATED)
     @PostMapping
     public PatientDto savePatient(@RequestBody @Valid PatientDto patient) {
-        LOG.info("Insert patient");
-        LOG.info("request Body ({},{})", patient.firstName(), patient.lastName());
+        LOG.trace("savePatient({})", patient);
+        LOG.info("POST " + BASE_PATH + "/");
+        LOG.debug("Body of request: {}", patient);
         return patientService.savePatient(patient);
     }
 
+    /**
+     * Returns the patient with the given id.
+     *
+     * @param id of the patient to find
+     * @return the patient with the given id
+     */
     @PermitAll
     @GetMapping("{id}")
     public PatientDto getById(@PathVariable long id) {
-        LOG.info("GET patient with id {}", id);
+        LOG.trace("getById({})", id);
+        LOG.info("GET " + BASE_PATH + "/{}", id);
         return patientService.getById(id);
     }
 
+    /**
+     * Returns all patients matching the search string.
+     *
+     * @param search search string
+     * @return all patients matching the search string
+     */
     @Secured("ROLE_DOCTOR")
     @GetMapping
     public List<PatientRequestDto> getAll(@Param("search") String search) {
-        LOG.info("GET all patients");
+        LOG.trace("getAll({})", search);
+        LOG.info("GET " + BASE_PATH + "/?search={}", search);
         Long doctorId = authorizationService.getSessionUserId();
         List<PatientRequestDto> patients = patientService.getAllPatientsForDoctorId(doctorId, search);
-        LOG.info("Found {} patients", patients.size());
-        LOG.info("{} patients", patients);
+        LOG.debug("Found {} patients", patients.size());
         return patients;
     }
 
+    /**
+     * Deletes the patient with the given id.
+     *
+     * @param id of the patient to delete
+     * @return the deleted patient
+     */
     @PermitAll
     @DeleteMapping("{id}")
     public PatientDto deleteById(@PathVariable long id) {
-        LOG.info("DELETE patient with id {}", id);
+        LOG.trace("deleteById({})", id);
+        LOG.info("DELETE " + BASE_PATH + "/{}", id);
         return patientService.deleteById(id);
     }
 }

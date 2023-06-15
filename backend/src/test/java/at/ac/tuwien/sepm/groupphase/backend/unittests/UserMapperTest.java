@@ -7,7 +7,6 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Researcher;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
-import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Status;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -31,7 +30,7 @@ public class UserMapperTest {
             "lastName",
             "email",
             Role.ADMIN,
-            Status.ACTIVE
+            ApplicationUser.Status.ACTIVE
         );
 
         ApplicationUser mappedApplicationUser = userMapper.userDetailDtoToApplicationUser(userDetailDto);
@@ -56,7 +55,7 @@ public class UserMapperTest {
             .setLastName("lastName")
             .setEmail("email")
             .setPassword("password")
-            .setStatus(Status.ACTIVE);
+            .setStatus(ApplicationUser.Status.ACTIVE);
 
         UserDetailDto mappedUserDetailDto = userMapper.applicationUserToUserDetailDto(applicationUser);
 

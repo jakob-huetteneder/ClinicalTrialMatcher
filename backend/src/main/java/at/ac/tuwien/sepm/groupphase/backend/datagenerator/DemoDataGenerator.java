@@ -7,12 +7,21 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.Treats;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
 import at.ac.tuwien.sepm.groupphase.backend.util.DatabaseUtil;
 import jakarta.annotation.PostConstruct;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Component;
 
+import java.lang.invoke.MethodHandles;
+
+/**
+ * This class generates representative data for the whole application.
+ */
 @Component
 @Profile("demo")
 public class DemoDataGenerator {
+
+    private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
 
     private final DatabaseUtil databaseUtil;
     private final DiagnosisDataGenerator diagnosisDataGenerator;
@@ -37,8 +46,12 @@ public class DemoDataGenerator {
         this.userDataGenerator = userDataGenerator;
     }
 
+    /**
+     * Generates demo data for the whole application.
+     */
     @PostConstruct
     public void generateDemoData() {
+        LOG.trace("generateDemoData()");
         databaseUtil.cleanAll();
         userDataGenerator.generateUsers();
         diseaseDataGenerator.generateDiseases();
@@ -51,16 +64,28 @@ public class DemoDataGenerator {
         generateDoctorWithPatients();
     }
 
+    /**
+     * Generates a representative admin.
+     */
     public void generateAdmin() {
+        LOG.trace("generateAdmin()");
         userDataGenerator.generateUser(Role.ADMIN);
     }
 
+    /**
+     * Generates a representative researcher with trials.
+     */
     public void generateResearcherWithTrials() {
+        LOG.trace("generateResearcherWithTrials()");
         Researcher researcher = (Researcher) userDataGenerator.generateUser(Role.RESEARCHER);
         trialDataGenerator.generateTrialsFor(researcher, 15);
     }
 
+    /**
+     * Generates a representative doctor with patients.
+     */
     public void generateDoctorWithPatients() {
+        LOG.trace("generateDoctorWithPatients()");
         Doctor doctor = (Doctor) userDataGenerator.generateUser(Role.DOCTOR);
         Patient patient = patientDataGenerator.generatePatientWithAccount();
         treatsDataGenerator.generateTreatsBetween(patient, doctor, Treats.Status.ACCEPTED);

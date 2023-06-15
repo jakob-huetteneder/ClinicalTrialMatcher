@@ -4,7 +4,6 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.Admin;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Researcher;
-import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Status;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.security.authentication.BadCredentialsException;
@@ -19,10 +18,13 @@ import org.springframework.stereotype.Service;
 import java.lang.invoke.MethodHandles;
 import java.util.List;
 
+/**
+ * Service for authorization
+ */
 @Service
 public class AuthorizationService {
 
-    private static final Logger LOGGER = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
+    private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
 
     private final PasswordEncoder passwordEncoder;
     private final JwtTokenizer jwtTokenizer;
@@ -32,19 +34,26 @@ public class AuthorizationService {
         this.jwtTokenizer = jwtTokenizer;
     }
 
+    /**
+     * Login user
+     *
+     * @param applicationUser user to login
+     * @param password        password of user
+     * @return jwt token
+     */
     public String login(ApplicationUser applicationUser, String password) {
-        LOGGER.info("Login user with email {}", applicationUser.getEmail());
+        LOG.trace("login({}, {})", applicationUser, password);
+        LOG.debug("Login user with email {}", applicationUser.getEmail());
 
         UserDetails userDetails = loadUser(applicationUser);
 
-        LOGGER.debug("Password {}, encoded password {}", password, userDetails.getPassword());
         if (!passwordEncoder.matches(password, userDetails.getPassword())) {
-            LOGGER.info("Invalid login attempt");
+            LOG.debug("Invalid login attempt {}", applicationUser.getEmail());
 
             throw new BadCredentialsException("Password is incorrect.");
         }
         if (!userDetails.isEnabled()) {
-            LOGGER.info("Invalid login attempt");
+            LOG.debug("Invalid login attempt {}", applicationUser.getEmail());
 
             throw new BadCredentialsException("Account is disabled.");
         }
@@ -53,7 +62,7 @@ public class AuthorizationService {
             && userDetails.isCredentialsNonExpired()
             && userDetails.isEnabled()
             && passwordEncoder.matches(password, userDetails.getPassword())) {
-            LOGGER.info("Login successful");
+            LOG.debug("Login successful {}", applicationUser.getEmail());
 
 
             List<String> grantedAuthorities = userDetails.getAuthorities()
@@ -63,19 +72,30 @@ public class AuthorizationService {
 
             return jwtTokenizer.getAuthToken(userDetails.getUsername(), grantedAuthorities);
         } else {
-            LOGGER.info("Invalid login attempt");
+            LOG.debug("Invalid login attempt {}", applicationUser.getEmail());
 
             throw new BadCredentialsException("Invalid login attempt.");
         }
     }
 
+    /**
+     * Get session user id
+     *
+     * @return session user id
+     */
     public Long getSessionUserId() {
-
+        LOG.trace("getSessionUserId()");
         return Long.parseLong(SecurityContextHolder.getContext().getAuthentication().getName());
     }
 
+    /**
+     * Load user details from applicationUser
+     *
+     * @param applicationUser user to load
+     * @return user details
+     */
     private UserDetails loadUser(ApplicationUser applicationUser) {
-
+        LOG.trace("loadUser({})", applicationUser);
         List<GrantedAuthority> grantedAuthorities;
         if (applicationUser instanceof Admin) {
             grantedAuthorities = AuthorityUtils.createAuthorityList("ROLE_ADMIN", "ROLE_USER");
@@ -86,6 +106,6 @@ public class AuthorizationService {
         } else {
             grantedAuthorities = AuthorityUtils.createAuthorityList("ROLE_PATIENT", "ROLE_USER");
         }
-        return new User(applicationUser.getId().toString(), applicationUser.getPassword(), applicationUser.getStatus().equals(Status.ACTIVE), true, true, true, grantedAuthorities);
+        return new User(applicationUser.getId().toString(), applicationUser.getPassword(), applicationUser.getStatus().equals(ApplicationUser.Status.ACTIVE), true, true, true, grantedAuthorities);
     }
 }

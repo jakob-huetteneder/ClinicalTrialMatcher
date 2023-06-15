@@ -1,7 +1,7 @@
 package at.ac.tuwien.sepm.groupphase.backend.entity.enums;
 
 /**
- * enum for user role.
+ * This enum represents the roles that an applicationUser can have.
  */
 public enum Role {
     ADMIN,

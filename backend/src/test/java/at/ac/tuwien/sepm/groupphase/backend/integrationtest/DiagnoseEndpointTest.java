@@ -149,7 +149,7 @@ public class DiagnoseEndpointTest {
     }
 
     @Test
-    public void updateSpecificDiagnoseAsDoctor() throws Exception {
+    public void testUpdateSpecificDiagnoseAsDoctor() throws Exception {
         Patient patient = patientDataGenerator.generatePatient();
         ApplicationUser doctor = userDataGenerator.generateUser(Role.DOCTOR);
         Diagnose diagnose = diagnosisDataGenerator.generateDiagnose();
@@ -182,7 +182,7 @@ public class DiagnoseEndpointTest {
     }
 
     @Test
-    public void updateSpecificDiagnoseAsUser() throws Exception {
+    public void testUpdateSpecificDiagnoseAsUser() throws Exception {
         Patient patient = patientDataGenerator.generatePatient();
         ApplicationUser user = userDataGenerator.generateUser(Role.PATIENT);
         user = userRepository.save(user);

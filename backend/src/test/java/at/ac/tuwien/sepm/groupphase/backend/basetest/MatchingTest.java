@@ -64,7 +64,7 @@ public class MatchingTest {
     }
 
     @Test
-    public void testMatching() throws Exception {
+    public void testMatchingPatientToTrials() throws Exception {
         Doctor doctor = (Doctor) userDataGenerator.generateUser(Role.DOCTOR);
 
         Patient patient = patientDataGenerator.generatePatient();

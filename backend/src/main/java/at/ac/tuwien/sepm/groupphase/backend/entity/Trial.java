@@ -2,7 +2,6 @@ package at.ac.tuwien.sepm.groupphase.backend.entity;
 
 
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
-import at.ac.tuwien.sepm.groupphase.backend.entity.enums.TrialStatus;
 import jakarta.persistence.CollectionTable;
 import jakarta.persistence.Column;
 import jakarta.persistence.ElementCollection;
@@ -25,6 +24,13 @@ import java.util.List;
 @Table(name = "trial")
 public class Trial {
 
+    public enum Status {
+
+        RECRUITING,
+        NOT_RECRUITING,
+        DRAFT
+
+    }
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -61,7 +67,7 @@ public class Trial {
     private String collaborator;
 
     @Column(name = "status", nullable = false)
-    private TrialStatus status;
+    private Status status;
 
     @Column(name = "location", nullable = false)
     private String location;
@@ -94,7 +100,6 @@ public class Trial {
     }
 
 
-
     public LocalDate getStartDate() {
         return startDate;
     }
@@ -105,11 +110,9 @@ public class Trial {
     }
 
 
-
     public Researcher getResearcher() {
         return researcher;
     }
-
 
 
     public String getStudyType() {
@@ -117,11 +120,9 @@ public class Trial {
     }
 
 
-
     public String getBriefSummary() {
         return briefSummary;
     }
-
 
 
     public String getDetailedSummary() {
@@ -129,11 +130,9 @@ public class Trial {
     }
 
 
-
     public String getSponsor() {
         return sponsor;
     }
-
 
 
     public String getCollaborator() {
@@ -141,10 +140,9 @@ public class Trial {
     }
 
 
-    public TrialStatus getStatus() {
+    public Status getStatus() {
         return status;
     }
-
 
 
     public String getLocation() {
@@ -152,17 +150,14 @@ public class Trial {
     }
 
 
-
     public Gender getCrGender() {
         return crGender;
     }
 
 
-
     public int getCrMinAge() {
         return crMinAge;
     }
-
 
 
     public int getCrMaxAge() {
@@ -222,7 +217,7 @@ public class Trial {
         return this;
     }
 
-    public Trial setStatus(TrialStatus status) {
+    public Trial setStatus(Status status) {
         this.status = status;
         return this;
     }

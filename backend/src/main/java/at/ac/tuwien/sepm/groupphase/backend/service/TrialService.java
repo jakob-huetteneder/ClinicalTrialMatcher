@@ -4,6 +4,9 @@ import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.TrialDto;
 
 import java.util.List;
 
+/**
+ * Service for managing trials.
+ */
 public interface TrialService {
 
     /**
@@ -21,6 +24,11 @@ public interface TrialService {
      */
     TrialDto findTrialById(Long id);
 
+    /**
+     * Find and return all trials of the currently logged in researcher.
+     *
+     * @return all trials of the currently logged in researcher
+     */
     List<TrialDto> getOwnTrials();
 
     /**

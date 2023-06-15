@@ -20,6 +20,9 @@ import org.springframework.web.bind.annotation.RestController;
 import java.lang.invoke.MethodHandles;
 import java.util.List;
 
+/**
+ * This class defines the endpoints for the examination resource.
+ */
 @RestController
 @RequestMapping(path = ExaminationEndpoint.BASE_PATH)
 public class ExaminationEndpoint {
@@ -35,10 +38,18 @@ public class ExaminationEndpoint {
         this.patientService = patientService;
     }
 
+    /**
+     * Adds a new examination to the database for the patient with the given id.
+     *
+     * @param id             of the patient
+     * @param examinationDto to be added
+     * @return the added examination
+     */
     @Secured({"ROLE_DOCTOR", "ROLE_PATIENT"})
     @ResponseStatus(HttpStatus.CREATED)
     @PostMapping(path = "/{id}/examination")
     public ExaminationDto addNewExamination(@PathVariable("id") long id, @RequestBody ExaminationDto examinationDto) {
+        LOG.trace("addNewExamination({}, {})", id, examinationDto);
         LOG.info("POST " + BASE_PATH + "/");
         LOG.debug("Body of request: {}", examinationDto);
         ExaminationDto dto = examinationService.addExamination(examinationDto.withPatientId(id));
@@ -46,10 +57,19 @@ public class ExaminationEndpoint {
         return dto;
     }
 
+    /**
+     * Updates the examination with the given id.
+     *
+     * @param id             of the patient
+     * @param examinationId  of the examination
+     * @param examinationDto to be updated
+     * @return the updated examination
+     */
     @Secured({"ROLE_DOCTOR", "ROLE_PATIENT"})
     @ResponseStatus(HttpStatus.OK)
     @PutMapping(path = "/{id}/examination/{ex_id}")
     public ExaminationDto updateExamination(@PathVariable("id") long id, @PathVariable("ex_id") long examinationId, @RequestBody ExaminationDto examinationDto) {
+        LOG.trace("updateExamination({}, {}, {})", id, examinationId, examinationDto);
         LOG.info("POST " + BASE_PATH + "/");
         LOG.debug("Body of request: {}", examinationDto);
         ExaminationDto dto = examinationService.updateExamination(examinationDto.withExaminationId(examinationId).withPatientId(id));
@@ -57,16 +77,31 @@ public class ExaminationEndpoint {
         return dto;
     }
 
+    /**
+     * Deletes the examination with the given id.
+     *
+     * @param id            of the patient
+     * @param examinationId of the examination
+     * @return the deleted examination
+     */
     @Secured({"ROLE_DOCTOR", "ROLE_PATIENT"})
     @ResponseStatus(HttpStatus.OK)
     @DeleteMapping(path = "/{id}/examination/{ex_id}")
     public ExaminationDto deleteExamination(@PathVariable("id") long id, @PathVariable("ex_id") long examinationId) {
+        LOG.trace("deleteExamination({}, {})", id, examinationId);
         LOG.info("POST " + BASE_PATH + "/");
         ExaminationDto dto = examinationService.deleteExamination(id, examinationId);
         patientService.synchronizeWithElasticSearchDb(id);
         return dto;
     }
 
+    /**
+     * Returns the examination with the given id.
+     *
+     * @param id            of the patient
+     * @param examinationId of the examination
+     * @return the examination with the given id
+     */
     @Secured({"ROLE_DOCTOR", "ROLE_PATIENT"})
     @ResponseStatus(HttpStatus.OK)
     @GetMapping(path = "/{id}/examination/{ex_id}")
@@ -75,10 +110,17 @@ public class ExaminationEndpoint {
         return examinationService.viewExamination(id, examinationId);
     }
 
+    /**
+     * Returns all examinations of the patient with the given id.
+     *
+     * @param id of the patient
+     * @return all examinations of the patient with the given id
+     */
     @Secured({"ROLE_DOCTOR", "ROLE_PATIENT"})
     @ResponseStatus(HttpStatus.OK)
     @GetMapping(path = "/{id}/examination")
     public List<ExaminationDto> getAllExaminations(@PathVariable("id") long id) {
+        LOG.trace("getAllExaminations({})", id);
         LOG.info("GET " + BASE_PATH + "/");
         return examinationService.getAllExaminations(id);
     }

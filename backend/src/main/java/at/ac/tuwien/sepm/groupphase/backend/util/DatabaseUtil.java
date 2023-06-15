@@ -11,6 +11,9 @@ import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
 import jakarta.transaction.Transactional;
 import org.springframework.stereotype.Component;
 
+/**
+ * Util class for database functions.
+ */
 @Component
 public class DatabaseUtil {
 
@@ -38,6 +41,9 @@ public class DatabaseUtil {
         this.userRepository = userRepository;
     }
 
+    /**
+     * Delete all entries from all tables.
+     */
     @Transactional
     public void cleanAll() {
         diagnosesRepository.deleteAll(); // Must be before Disease

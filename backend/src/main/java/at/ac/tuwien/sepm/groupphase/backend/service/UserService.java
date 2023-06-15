@@ -4,11 +4,13 @@ import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserDetailDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserLoginDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserRegisterDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserUpdateDto;
-
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
 
 import java.util.List;
 
+/**
+ * Service for managing users.
+ */
 public interface UserService {
 
     /**

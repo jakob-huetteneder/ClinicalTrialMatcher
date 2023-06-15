@@ -24,8 +24,10 @@ import org.springframework.web.bind.annotation.RestController;
 import java.lang.invoke.MethodHandles;
 import java.time.LocalDate;
 import java.util.List;
-import java.util.stream.Stream;
 
+/**
+ * This class defines the endpoints for the trial resource.
+ */
 @RestController
 @RequestMapping(path = TrialEndpoint.BASE_PATH)
 public class TrialEndpoint {
@@ -40,29 +42,49 @@ public class TrialEndpoint {
         this.patientService = patientService;
     }
 
+    /**
+     * Adds a new trial to the database.
+     *
+     * @param trial to be added
+     * @return the added trial
+     */
     @Secured("ROLE_RESEARCHER")
     @ResponseStatus(HttpStatus.CREATED)
     @PostMapping
     public TrialDto saveTrial(@RequestBody @Valid TrialDto trial) {
-        LOG.info("Insert trial");
-        LOG.info("Request Body {}", trial);
+        LOG.trace("saveTrial({})", trial);
+        LOG.info("POST " + BASE_PATH + "/");
 
         return trialService.saveTrial(trial);
     }
 
+    /**
+     * Returns the trial with the given id.
+     *
+     * @param id of the trial to be returned
+     * @return the trial with the given id
+     */
     @PermitAll
     @ResponseStatus(HttpStatus.OK)
     @GetMapping(value = "{id}")
     public TrialDto findTrialById(@PathVariable("id") Long id) {
-        LOG.info("Get trial with id {}", id);
+        LOG.trace("findTrialById({})", id);
+        LOG.info("GET " + BASE_PATH + "/{}", id);
         return trialService.findTrialById(id);
     }
 
+    /**
+     * Returns all patients that match the given trial.
+     *
+     * @param id of the trial to be matched
+     * @return all patients that match the given trial
+     */
     @PermitAll
     @ResponseStatus(HttpStatus.OK)
     @GetMapping(value = "/match/{id}")
     public List<PatientDto> matchByTrialId(@PathVariable("id") Long id) {
-        LOG.info("Match trial with id {}", id);
+        LOG.trace("matchByTrialId({})", id);
+        LOG.info("GET " + BASE_PATH + "/match/{}", id);
         TrialDto trial = trialService.findTrialById(id);
         Gender gender = trial.crGender();
         LocalDate now = LocalDate.now();
@@ -71,34 +93,59 @@ public class TrialEndpoint {
         return patientService.matchPatientsWithTrial(trial.inclusionCriteria(), trial.exclusionCriteria(), minAge, maxAge, gender);
     }
 
+    /**
+     * Returns all trials that the current user (researcher) is responsible for.
+     *
+     * @return all trials that the current user (researcher) is responsible for
+     */
     @Secured("ROLE_RESEARCHER")
     @ResponseStatus(HttpStatus.OK)
     @GetMapping(value = "/researcher")
     public List<TrialDto> getOwnTrials() {
-        LOG.info("Get own trials");
+        LOG.trace("getOwnTrials()");
+        LOG.info("GET " + BASE_PATH + "/researcher");
         return trialService.getOwnTrials();
     }
 
+    /**
+     * Returns all trials.
+     *
+     * @return all trials
+     */
     @Secured("ROLE_RESEARCHER")
     @ResponseStatus(HttpStatus.OK)
     @GetMapping()
     public List<TrialDto> getAllTrials() {
-        LOG.info("Get all trials");
+        LOG.trace("getAllTrials()");
+        LOG.info("GET " + BASE_PATH + "/");
         return trialService.getAllTrials();
     }
 
+    /**
+     * Updates the given trial.
+     *
+     * @param toUpdate trial to be updated
+     * @return the updated trial
+     */
     @Secured("ROLE_RESEARCHER")
     @PutMapping("{id}")
     public TrialDto update(@RequestBody @Valid TrialDto toUpdate) {
+        LOG.trace("update({})", toUpdate);
         LOG.info("PUT " + BASE_PATH + "/{}", toUpdate);
         LOG.debug("Body of request:{}", toUpdate);
         return trialService.updateTrial(toUpdate);
     }
 
+    /**
+     * Deletes the trial with the given id.
+     *
+     * @param id of the trial to be deleted
+     */
     @Secured("ROLE_RESEARCHER")
     @DeleteMapping("{id}")
     @ResponseStatus(HttpStatus.NO_CONTENT)
     public void delete(@PathVariable long id) {
+        LOG.trace("delete({})", id);
         LOG.info("DELETE " + BASE_PATH + "/{}", id);
         LOG.debug("Body of request:{}", id);
         trialService.deleteTrialById(id);

@@ -14,6 +14,9 @@ import org.springframework.stereotype.Service;
 import java.io.UnsupportedEncodingException;
 import java.lang.invoke.MethodHandles;
 
+/**
+ * Service for sending emails.
+ */
 @Service
 public class EmailService {
 
@@ -27,8 +30,15 @@ public class EmailService {
         this.env = env;
     }
 
+    /**
+     * Sends a verification email to the given user.
+     *
+     * @param user the user to send the email to
+     * @param role the role of the user
+     */
     public void sendVerificationEmail(ApplicationUser user, Role role) {
-        LOG.info("Sending verification email to {}", user.getEmail());
+        LOG.trace("sendVerificationEmail({}, {})", user, role);
+        LOG.debug("Sending verification email to {}", user.getEmail());
         String subject = "Please verify your registration";
 
         String verifyUrl = env.getProperty("project.backend.url") + "/api/v1/users/verify?code=" + user.getVerification() + "&role=" + role;
@@ -44,8 +54,14 @@ public class EmailService {
         this.mailSender.send(email);
     }
 
+    /**
+     * Sends a set password email to the given user.
+     *
+     * @param user the user to send the email to
+     */
     public void sendSetPasswordEmail(ApplicationUser user) {
-        LOG.info("Sending set password email to {}", user.getEmail());
+        LOG.trace("sendSetPasswordEmail({})", user);
+        LOG.debug("Sending set password email to {}", user.getEmail());
 
         String subject = "Please set your password";
 
@@ -60,7 +76,15 @@ public class EmailService {
         this.mailSender.send(email);
     }
 
-    public MimeMessage createEmail(String toAddress, String subject, String content) {
+    /**
+     * Creates an email with the given parameters.
+     *
+     * @param toAddress the address to send the email to
+     * @param subject   the subject of the email
+     * @param content   the content of the email
+     * @return the created email
+     */
+    private MimeMessage createEmail(String toAddress, String subject, String content) {
         MimeMessage message = this.mailSender.createMimeMessage();
         MimeMessageHelper helper = new MimeMessageHelper(message);
         try {

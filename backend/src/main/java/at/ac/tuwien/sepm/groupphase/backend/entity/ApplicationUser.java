@@ -1,6 +1,5 @@
 package at.ac.tuwien.sepm.groupphase.backend.entity;
 
-import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Status;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
@@ -11,12 +10,18 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Inheritance;
 import jakarta.persistence.InheritanceType;
 import jakarta.persistence.Table;
-import jakarta.validation.constraints.Email;
 
 @Entity
 @Table(name = "application_user")
 @Inheritance(strategy = InheritanceType.JOINED)
 public class ApplicationUser {
+
+    public enum Status {
+        PENDING,
+        ACTIVE,
+        ACTION_REQUIRED,
+        SUSPENDED
+    }
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)

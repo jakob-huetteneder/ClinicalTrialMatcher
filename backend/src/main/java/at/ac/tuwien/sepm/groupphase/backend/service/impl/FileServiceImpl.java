@@ -25,7 +25,7 @@ import java.util.UUID;
 @Service
 public class FileServiceImpl implements FileService {
 
-    private static final Logger LOGGER = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
+    private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
     private final MedicalImageRepository medicalImageRepository;
     private final ExaminationRepository examinationRepository;
 
@@ -37,7 +37,7 @@ public class FileServiceImpl implements FileService {
 
     @Override
     public void saveFile(String uploadDir, String fileName, MultipartFile multipartFile, Long id) throws IOException {
-
+        LOG.trace("saveFile({}, {}, {}, {})", uploadDir, fileName, multipartFile, id);
         Optional<Examination> examination = examinationRepository.findById(id);
         if (examination.isEmpty()) {
             throw new NotFoundException("Examination with id " + id + "does not exist.");
@@ -70,6 +70,7 @@ public class FileServiceImpl implements FileService {
 
     @Override
     public byte[] getFile(Long id) throws IOException {
+        LOG.trace("getFile({})", id);
         String path = resolvePath(id);
 
         return Files.readAllBytes(Paths.get(path));
@@ -77,7 +78,7 @@ public class FileServiceImpl implements FileService {
 
     @Override
     public void delete(Long id) throws IOException {
-
+        LOG.trace("delete({})", id);
         String path = resolvePath(id);
 
         Files.delete(Paths.get(path));
@@ -91,6 +92,7 @@ public class FileServiceImpl implements FileService {
     }
 
     private String resolvePath(Long id) {
+        LOG.trace("resolvePath({})", id);
         Optional<Examination> examination = examinationRepository.findById(id);
         if (examination.isEmpty()) {
             throw new NotFoundException("Examination with id " + id + "does not exist.");
