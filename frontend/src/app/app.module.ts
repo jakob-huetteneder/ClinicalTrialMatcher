@@ -36,6 +36,7 @@ import {MatButtonModule} from '@angular/material/button';
 import {RequestPatientComponent} from './components/doctor-patient-connection/request-patient/request-patient.component';
 import {ViewRequestsComponent} from './components/doctor-patient-connection/view-requests/view-requests.component';
 import {ViewConnectionsComponent} from './components/doctor-patient-connection/view-connections/view-connections.component';
+import { StatisticsComponent } from './components/trial/statistics/statistics.component';
 
 @NgModule({
   declarations: [
@@ -62,7 +63,8 @@ import {ViewConnectionsComponent} from './components/doctor-patient-connection/v
     ConfirmButtonComponent,
     RequestPatientComponent,
     ViewRequestsComponent,
-    ViewConnectionsComponent
+    ViewConnectionsComponent,
+    StatisticsComponent
   ],
   imports: [
     BrowserModule,
