@@ -38,6 +38,7 @@ public record TrialDto(
     @Min(value = 0, message = "Maximum age must be greater than 0")
     int crMaxAge,
     List<String> inclusionCriteria,
-    List<String> exclusionCriteria
+    List<String> exclusionCriteria,
+    List<DiseaseDto> diseases
 ) {
 }

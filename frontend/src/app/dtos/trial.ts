@@ -1,5 +1,6 @@
 import {Gender} from './gender';
 import {User} from './user';
+import {Disease} from './patient';
 
 
 export interface Trial {
@@ -20,7 +21,7 @@ export interface Trial {
   crMaxAge: number;
   inclusionCriteria: string[];
   exclusionCriteria: string[];
-
+  diseases: Disease[];
 }
 
 export enum TrialStatus {

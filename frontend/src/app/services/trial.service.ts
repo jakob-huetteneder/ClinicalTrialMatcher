@@ -45,6 +45,7 @@ export class TrialService {
    * @return an Observable for the created trial
    */
   create(trial: Trial): Observable<Trial> {
+    console.log('create: ', trial);
     return this.http.post<Trial>(
       baseUri,
       trial
@@ -52,6 +53,7 @@ export class TrialService {
   }
 
   edit(trial: Trial): Observable<Trial> {
+    console.log('edit: ', trial);
     return this.http.put<Trial>(
       baseUri + '/' + trial.id,
       trial
@@ -68,6 +70,4 @@ export class TrialService {
   getById(id: number): Observable<Trial> {
     return this.http.get<Trial>(baseUri + '/' + id);
   }
-
-
 }

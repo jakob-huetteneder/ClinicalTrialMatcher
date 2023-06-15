@@ -43,7 +43,7 @@ export class Diagnose {
 export class Disease {
   id?: number;
   name: string;
-  synonyms?: string;
+  link?: string;
 }
 
 export interface Treats {

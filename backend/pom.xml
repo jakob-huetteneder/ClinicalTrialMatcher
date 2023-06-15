@@ -48,6 +48,38 @@
             <version>2.14.2</version>
         </dependency>
 
+        <!-- OPENNLP -->
+        <dependency>
+            <groupId>org.apache.opennlp</groupId>
+            <artifactId>opennlp-tools</artifactId>
+            <version>1.9.4</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.facebook.soloader/nativeloader -->
+        <dependency>
+            <groupId>com.facebook.soloader</groupId>
+            <artifactId>nativeloader</artifactId>
+            <version>0.10.4</version>
+            <scope>runtime</scope>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.facebook.fbjni/fbjni-java-only -->
+        <dependency>
+            <groupId>com.facebook.fbjni</groupId>
+            <artifactId>fbjni-java-only</artifactId>
+            <version>0.3.0</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.pytorch/pytorch_java_only -->
+        <dependency>
+            <groupId>org.pytorch</groupId>
+            <artifactId>pytorch_java_only</artifactId>
+            <version>0.0.7</version>
+            <scope>provided</scope>
+        </dependency>
+
+
+
+
+
+
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-jpa</artifactId>
