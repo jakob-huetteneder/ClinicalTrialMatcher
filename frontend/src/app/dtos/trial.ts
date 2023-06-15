@@ -1,6 +1,7 @@
 import {Gender} from './gender';
 import {User} from './user';
 import {Patient} from './patient';
+import {Disease} from './patient';
 
 
 export class Trial {
@@ -21,7 +22,7 @@ export class Trial {
   crMaxAge: number;
   inclusionCriteria: string[];
   exclusionCriteria: string[];
-
+  diseases: Disease[];
 }
 
 export enum TrialStatus {

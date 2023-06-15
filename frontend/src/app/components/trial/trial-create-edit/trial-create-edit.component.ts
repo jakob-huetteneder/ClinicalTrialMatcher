@@ -13,6 +13,8 @@ import {TrialService} from '../../../services/trial.service';
 import {Gender} from '../../../dtos/gender';
 import {ToastrService} from 'ngx-toastr';
 import {Trial} from '../../../dtos/trial';
+import {AnalyzerService} from '../../../services/analyzer.service';
+import {Disease} from '../../../dtos/patient';
 
 export enum TrialCreateEditMode {
   create,
@@ -38,6 +40,7 @@ export class CreateEditTrialComponent implements OnInit {
     private router: Router,
     private route: ActivatedRoute,
     private notification: ToastrService,
+    private analyzerService: AnalyzerService
   ) {
   }
 
@@ -58,6 +61,10 @@ export class CreateEditTrialComponent implements OnInit {
     return this.trialForm.get('exclusionCriteria') as FormArray;
   }
 
+  get diseases() {
+    return this.trialForm.get('diseases') as FormArray;
+  }
+
   ngOnInit() {
 
     this.trialForm = this.formBuilder.group({
@@ -76,6 +83,7 @@ export class CreateEditTrialComponent implements OnInit {
       crMaxAge: ['', [Validators.required, Validators.min(0)]],
       inclusionCriteria: this.formBuilder.array([]),
       exclusionCriteria: this.formBuilder.array([]),
+      diseases: this.formBuilder.array([]),
     }, {validators: this.trialValidator()});
 
     this.route.data.subscribe({
@@ -93,6 +101,7 @@ export class CreateEditTrialComponent implements OnInit {
                   this.trialForm.patchValue(trial);
                   this.trialForm.setControl('inclusionCriteria', this.formBuilder.array(trial.inclusionCriteria));
                   this.trialForm.setControl('exclusionCriteria', this.formBuilder.array(trial.exclusionCriteria));
+                  this.trialForm.setControl('diseases', this.formBuilder.array(trial.diseases));
                 },
                 error: error => {
                   console.log(error);
@@ -123,6 +132,8 @@ export class CreateEditTrialComponent implements OnInit {
       const trial: Trial = this.trialForm.value;
       trial.id = this.oldTrial.id;
       trial.researcher = this.oldTrial.researcher;
+      trial.diseases = this.saveDiseases(this.trialForm.value);
+      console.log('trial: ', trial);
       this.trialService.edit(trial).subscribe({
         next: data => {
           this.notification.success(`Trial ${data.title} successfully updated.`);
@@ -136,7 +147,10 @@ export class CreateEditTrialComponent implements OnInit {
       return;
     } else {
       console.log('trialForm: ', this.trialForm.value);
-      this.trialService.create(this.trialForm.value).subscribe({
+      const trial: Trial = this.trialForm.value;
+      trial.diseases = this.saveDiseases(this.trialForm.value);
+      console.log('trial: ', trial);
+      this.trialService.create(trial).subscribe({
         next: data => {
           this.notification.success(`Trial ${data.title} successfully created.`);
           this.router.navigate(['/researcher/trials']);
@@ -163,6 +177,27 @@ export class CreateEditTrialComponent implements OnInit {
       }
       return null;
     };
+  }
+
+  private saveDiseases(trial: Trial): Disease[] {
+    this.analyzerService.analyzeNote(trial.detailedSummary).subscribe({
+      next: data => {
+        console.log(data);
+        data.forEach((d: string) => {
+          console.log('d:', d);
+          const disease = new Disease();
+          disease.id = undefined;
+          disease.name = d;
+          disease.link = '';
+          trial.diseases.push(disease);
+          console.log('diseases: ', trial.diseases);
+        });
+      },
+      error: error => {
+        console.log('Error analyzing text: ' + error);
+      }
+    });
+    return trial.diseases;
   }
 
   private changed(): ValidatorFn {

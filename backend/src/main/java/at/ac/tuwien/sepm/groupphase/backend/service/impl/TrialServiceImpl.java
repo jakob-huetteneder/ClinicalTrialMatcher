@@ -1,16 +1,21 @@
 package at.ac.tuwien.sepm.groupphase.backend.service.impl;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.FilterDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.DiseaseDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.TrialDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.DiseaseMapper;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.TrialMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
+import at.ac.tuwien.sepm.groupphase.backend.entity.Disease;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Researcher;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Trial;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
 import at.ac.tuwien.sepm.groupphase.backend.exception.NotFoundException;
+import at.ac.tuwien.sepm.groupphase.backend.repository.DiseaseRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.TrialRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
 import at.ac.tuwien.sepm.groupphase.backend.security.AuthorizationService;
+import at.ac.tuwien.sepm.groupphase.backend.service.DiseasesService;
 import at.ac.tuwien.sepm.groupphase.backend.service.TrialService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -20,6 +25,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import java.lang.invoke.MethodHandles;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
@@ -34,14 +40,20 @@ public class TrialServiceImpl implements TrialService {
     private final TrialMapper trialMapper;
     private final AuthorizationService authorizationService;
     private final UserRepository userRepository;
+    private final DiseaseRepository diseaseRepository;
+    private final DiseaseMapper diseaseMapper;
+    private final DiseasesService diseasesService;
 
 
     public TrialServiceImpl(TrialRepository trialRepository, TrialMapper trialMapper, AuthorizationService authorizationService,
-                            UserRepository userRepository) {
+                            UserRepository userRepository, DiseaseRepository diseaseRepository, DiseaseMapper diseaseMapper, DiseasesService diseasesService) {
         this.trialRepository = trialRepository;
         this.trialMapper = trialMapper;
         this.authorizationService = authorizationService;
         this.userRepository = userRepository;
+        this.diseaseRepository = diseaseRepository;
+        this.diseaseMapper = diseaseMapper;
+        this.diseasesService = diseasesService;
     }
 
     @Override
@@ -71,7 +83,7 @@ public class TrialServiceImpl implements TrialService {
     @Override
     public TrialDto saveTrial(TrialDto trial) {
         LOG.trace("saveTrial({})", trial);
-        Trial convertedTrial = trialMapper.trialDtoToTrial(trial);
+        Trial convertedTrial = saveDisease(trial);
         ApplicationUser loggedInUser = userRepository.findById(authorizationService.getSessionUserId())
             .orElseThrow(() -> new NotFoundException("Could not find a user for the logged in user."));
         if (!(loggedInUser instanceof Researcher)) {
@@ -87,10 +99,28 @@ public class TrialServiceImpl implements TrialService {
     @Override
     public TrialDto updateTrial(TrialDto trial) {
         LOG.trace("updateTrial({})", trial);
-        Trial convertedTrial = trialMapper.trialDtoToTrial(trial);
+        Trial convertedTrial = saveDisease(trial);
         Trial updatedTrial = trialRepository.save(convertedTrial);
         LOG.debug("Updated trial with id='{}'", convertedTrial.getId());
         return trialMapper.trialToTrialDto(updatedTrial);
+    }
+
+    private Trial saveDisease(TrialDto trial) {
+        Trial convertedTrial = trialMapper.trialDtoToTrial(trial);
+        List<Disease> diseaseSet = new ArrayList<>();
+        if (trial.diseases() != null) {
+            for (DiseaseDto diseaseDto : trial.diseases()) {
+                List<Disease> diseases = diseaseRepository.findDiseasesByName(diseaseDto.name());
+                if (diseases.isEmpty()) {
+                    Disease disease = diseaseRepository.save(diseaseMapper.diseaseDtoToDisease(diseaseDto));
+                    this.diseasesService.setDiseaseLink(disease);
+                    diseaseSet.add(disease);
+                } else {
+                    diseaseSet.add(diseases.get(0));
+                }
+            }
+        }
+        return convertedTrial.setDiseases(diseaseSet);
     }
 
     @Override

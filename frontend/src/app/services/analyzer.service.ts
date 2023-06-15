@@ -15,7 +15,7 @@ export class AnalyzerService {
   ) { }
 
   /**
-   * Analyze and admission note.
+   * Analyze an admission note.
    *
    * @param note to analyze
    * @return observable list of diseases
