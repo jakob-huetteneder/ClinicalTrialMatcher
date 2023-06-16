@@ -12,6 +12,8 @@ import jakarta.persistence.MapsId;
 import jakarta.persistence.Table;
 import org.hibernate.annotations.OnDelete;
 
+import java.time.LocalDate;
+
 @Entity
 @Table(name = "registration")
 public class Registration {
@@ -42,6 +44,26 @@ public class Registration {
     @Column(name = "status")
     private Status status;
 
+    @Column(name = "date", nullable = false)
+    private LocalDate date;
+
+    public RegistrationId getRegistrationId() {
+        return registrationId;
+    }
+
+    public Registration setRegistrationId(RegistrationId registrationId) {
+        this.registrationId = registrationId;
+        return this;
+    }
+
+    public LocalDate getDate() {
+        return date;
+    }
+
+    public Registration setDate(LocalDate date) {
+        this.date = date;
+        return this;
+    }
 
     @JsonBackReference(value = "patient-registration")
     public Patient getPatient() {

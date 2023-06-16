@@ -15,6 +15,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 
 import java.lang.invoke.MethodHandles;
+import java.time.LocalDate;
 import java.util.List;
 import java.util.Optional;
 
@@ -71,6 +72,7 @@ public class TrialRegistrationServiceImpl implements TrialRegistrationService {
         registration.setTrial(trialRepository.findById(trialId).orElseThrow(() -> new NotFoundException("Trial could not be found")));
         registration.setPatient(patient.get());
         registration.setStatus(Registration.Status.PATIENT_ACCEPTED);
+        registration.setDate(LocalDate.now());
         registration = trialRegistrationRepository.save(registration);
 
         return trialRegistrationMapper.trialRegistrationToTrialRegistrationDto(registration);

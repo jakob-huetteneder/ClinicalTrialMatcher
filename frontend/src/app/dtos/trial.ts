@@ -34,6 +34,7 @@ export class TrialRegistration {
   patient: Patient;
   trial: Trial;
   status: TrialRegistrationStatus;
+  date: Date;
 }
 
 export enum TrialRegistrationStatus {
