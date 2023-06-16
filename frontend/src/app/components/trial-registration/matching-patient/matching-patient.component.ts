@@ -2,9 +2,9 @@ import {Component, OnInit} from '@angular/core';
 import {Trial} from '../../../dtos/trial';
 import {TrialService} from '../../../services/trial.service';
 import {ActivatedRoute, Router} from '@angular/router';
-import {Patient, PatientRequest, TreatsStatus} from '../../../dtos/patient';
-import {PatientService} from '../../../services/patient.service';
+import {Patient, Treats, TreatsStatus} from '../../../dtos/patient';
 import {debounceTime, distinctUntilChanged, Subject} from 'rxjs';
+import {TreatsService} from '../../../services/treats.service';
 
 @Component({
   selector: 'app-matching-patient',
@@ -15,6 +15,7 @@ export class MatchingPatientComponent implements OnInit {
 
   trial = new Trial();
   patients: Patient[] = [];
+  showDetails: boolean[] = [];
 
   allPatients: Patient[] = [];
 
@@ -23,7 +24,7 @@ export class MatchingPatientComponent implements OnInit {
 
   constructor(
     private trialService: TrialService,
-    private patientService: PatientService,
+    private treatsService: TreatsService,
     private route: ActivatedRoute,
     private router: Router,
   ) {
@@ -63,8 +64,12 @@ export class MatchingPatientComponent implements OnInit {
     this.debouncer.next(event);
   }
 
-  viewPatientDetails(patient: Patient) {
-    this.router.navigate(['/doctor/view-patient', patient.id]);
+  toggleShowDetails(patient: Patient) {
+    this.showDetails[this.patients.indexOf(patient)] = !this.showDetails[this.patients.indexOf(patient)];
+  }
+
+  isShowDetails(patient: Patient) {
+    return this.showDetails[this.patients.indexOf(patient)];
   }
 
   registerPatient(patient: Patient) {
@@ -84,12 +89,14 @@ export class MatchingPatientComponent implements OnInit {
   }
 
   private loadPatients() {
-    this.patientService.getAllPatientsToRequest('').subscribe({
-      next: (patients: PatientRequest[]) => {
+    this.treatsService.getAllRequests('').subscribe({
+      next: (patients: Treats[]) => {
+        console.log(patients);
         this.allPatients = patients
-          .filter(patient => patient.treats.status === TreatsStatus.accepted)
-          .map(patient => patient.treats.patient);
+          .filter(treats => treats.status === TreatsStatus.accepted)
+          .map(treats => treats.patient);
         this.patients = this.allPatients;
+        this.showDetails = new Array(this.patients.length).fill(false);
         console.log(this.patients);
       },
       error: error => {
@@ -104,6 +111,7 @@ export class MatchingPatientComponent implements OnInit {
       patient.firstName.toLowerCase().includes(this.search.toLowerCase())
       || patient.lastName.toLowerCase().includes(this.search.toLowerCase())
       || (patient.firstName.toLowerCase() + ' ' + patient.lastName.toLowerCase()).includes(this.search.toLowerCase()));
+    this.showDetails = new Array(this.patients.length).fill(false);
   }
 
   private error(errorMsg: string) {

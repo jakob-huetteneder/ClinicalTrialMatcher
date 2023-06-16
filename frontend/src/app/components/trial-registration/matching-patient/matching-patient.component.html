@@ -15,28 +15,55 @@
         <i (click)="searchInput.value = '';" class="bi-x mr-2 flex" style="color: #1e5075"></i>
       </div>
     </div>
-    <hr class="mt-0 ml-4 w-full" style="border: 2px solid #CDE2F0;">
+    <hr class="container" style="border: 2px solid #CDE2F0;">
     <div class="flex flex-col gap-2 w-full">
       <div *ngFor="let patient of patients"
            class="flex flex-col container w-full border-2 border-slate-100 rounded-md px-4 py-2">
-        <div class="flex flex-row justify-content-between">
-          <div (click)="viewPatientDetails(patient)" class="hover:underline">
-            <i class="bi bi-person-fill mr-2"></i>{{patient.firstName}} {{patient.lastName}}<i [class]="patient.gender === 'MALE' ? 'bi-gender-male' : 'bi-gender-female'" class="bi mx-2"></i>
+        <div class="flex flex-row w-full justify-content-between">
+          <div class="flex flex-col justify-content-evenly">
+            <div (click)="toggleShowDetails(patient)" class="hover:underline hover:cursor-pointer">
+              <i class="bi bi-person-fill mr-2"></i>{{patient.firstName}} {{patient.lastName}}<i
+              [class]="patient.gender === 'MALE' ? 'bi-gender-male' : 'bi-gender-female'" class="bi mx-2"></i>
+            </div>
+            <div>
+              <i class="bi bi-envelope-fill mr-2"></i>
+              {{patient.email}}
+            </div>
           </div>
-          <div>
-            <i class="bi bi-calendar3 mr-2"></i>
-            {{patient.birthdate | date: 'dd.MM.yyyy'}}
+          <div class="flex flex-col">
+            <div>
+              <i class="bi bi-calendar3 mr-2"></i>
+              {{patient.birthdate | date: 'dd.MM.yyyy'}}
+            </div>
+            <app-confirm-button (confirm)="registerPatient(patient)"
+                                details="The registration is not final and will be reviewed."
+                                prompt="Would you like to register this patient?"
+            >
+              <button class="btn btn-primary mt-2">Register</button>
+            </app-confirm-button>
           </div>
         </div>
-        <app-confirm-button (confirm)="registerPatient(patient)"
-                            prompt="Would you like to register this patient?"
-                            details="The registration is not final and will be reviewed."
-                            >
-          <button class="btn btn-primary mt-2">Register</button>
-        </app-confirm-button>
+        <div *ngIf="isShowDetails(patient)" class="flex flex-col">
+
+          <div *ngIf="patient.diagnoses.length > 0 || patient.examinations.length > 0" class="flex flex-row justify-content-start">
+            <dl>
+              <dt *ngIf="patient.diagnoses.length > 0" class="list-disc">Diagnoses:</dt>
+              <dd *ngFor="let diagnose of patient.diagnoses" class="list-item ml-10">
+                {{diagnose.disease.name}}
+              </dd>
+              <dt *ngIf="patient.examinations.length > 0" class="list-disc">Examinations:</dt>
+              <dd *ngFor="let examination of patient.examinations" class="list-item ml-10">
+                {{examination.name}}
+              </dd>
+            </dl>
+          </div>
+          <div>
+            {{patient.admissionNote}}
+          </div>
+        </div>
       </div>
+      <p *ngIf="isEmpty" [innerHTML]="emptyListText" class="text-gray-400"></p>
     </div>
-    <p *ngIf="isEmpty" [innerHTML]="emptyListText" class="text-gray-400"></p>
   </section>
 
 </div>
