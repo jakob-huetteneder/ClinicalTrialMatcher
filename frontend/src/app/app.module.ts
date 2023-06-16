@@ -42,6 +42,11 @@ import {ViewRequestsComponent} from './components/doctor-patient-connection/view
 import {
   ViewConnectionsComponent
 } from './components/doctor-patient-connection/view-connections/view-connections.component';
+import {
+  ViewRegistrationRequestsComponent
+} from './components/trial-registration/view-registration-requests/view-registration-requests.component';
+import {TrialDetailComponent} from './components/trial/trial-detail/trial-detail.component';
+import { StatisticsComponent } from './components/trial/statistics/statistics.component';
 import {MatchingPatientComponent} from './components/trial-registration/matching-patient/matching-patient.component';
 import {TrialListItemComponent} from './components/trial/trial-list-item/trial-list-item.component';
 
@@ -72,7 +77,10 @@ import {TrialListItemComponent} from './components/trial/trial-list-item/trial-l
     ViewRequestsComponent,
     ViewConnectionsComponent,
     MatchingPatientComponent,
-    TrialListItemComponent
+    TrialListItemComponent,
+    StatisticsComponent,
+    ViewRegistrationRequestsComponent,
+    TrialDetailComponent
   ],
   imports: [
     BrowserModule,

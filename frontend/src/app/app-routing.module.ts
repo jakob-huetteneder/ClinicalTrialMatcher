@@ -29,10 +29,16 @@ import {
   ViewConnectionsComponent
 } from './components/doctor-patient-connection/view-connections/view-connections.component';
 import {ViewRequestsComponent} from './components/doctor-patient-connection/view-requests/view-requests.component';
+import {StatisticsComponent} from './components/trial/statistics/statistics.component';
+import {
+  ViewRegistrationRequestsComponent
+} from './components/trial-registration/view-registration-requests/view-registration-requests.component';
+import {TrialDetailComponent} from './components/trial/trial-detail/trial-detail.component';
 import {MatchingPatientComponent} from './components/trial-registration/matching-patient/matching-patient.component';
 
 const routes: Routes = [
   {path: '', component: HomeComponent},
+  {path: 'trial/detail/:id', component: TrialDetailComponent},
   {path: 'account', children: [
       {path: '', component: UpdateProfileComponent},
       {path: 'login', component: LoginComponent},
@@ -50,8 +56,10 @@ const routes: Routes = [
     canActivate: [AuthGuard],
     canActivateChild: [AuthGuard],
     children: [
+      {path: 'requests', component: ViewRegistrationRequestsComponent},
       {path: 'trials', children: [
           {path: '' , component: TrialComponent},
+          {path: 'statistics/:id', component: StatisticsComponent},
           {path: 'create', component: CreateEditTrialComponent, data: {mode: TrialCreateEditMode.create}},
           {path: 'edit/:id', component: CreateEditTrialComponent, data: {mode: TrialCreateEditMode.edit}},
         ]},
@@ -83,6 +91,7 @@ const routes: Routes = [
     children: [
       {path: 'requests', component: ViewRequestsComponent},
       {path: 'connections', component: ViewConnectionsComponent, data: {role: Role.patient}},
+      {path: 'trial-registrations', component: ViewRegistrationRequestsComponent},
     ]},
   {path: '**', redirectTo: ''},
 ];
