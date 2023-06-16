@@ -13,11 +13,12 @@ import {ToastrService} from 'ngx-toastr';
 })
 export class TrialComponent implements OnInit {
   trials: Trial[] = [];
+
   constructor(private authService: AuthService,
               private router: Router,
               private trialService: TrialService,
-              private notification: ToastrService) {}
-
+              private notification: ToastrService) {
+  }
 
   ngOnInit() {
     this.reload();
@@ -32,7 +33,7 @@ export class TrialComponent implements OnInit {
         },
         error: error => {
           console.error('Error fetching trials', error);
-          this.notification.error(error.error.message, 'Error fetching trials');
+          this.notification.error(error.error.message, 'Error trials');
         }
       });
   }
@@ -54,5 +55,7 @@ export class TrialComponent implements OnInit {
     return tmp;
   }
 
-
+  edit(trial: Trial) {
+    this.router.navigate(['/researcher/trials/edit', trial.id]);
+  }
 }

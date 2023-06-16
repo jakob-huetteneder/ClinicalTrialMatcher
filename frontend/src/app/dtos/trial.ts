@@ -2,7 +2,7 @@ import {Gender} from './gender';
 import {User} from './user';
 
 
-export interface Trial {
+export class Trial {
   id?: number;
   title: string;
   startDate: Date;

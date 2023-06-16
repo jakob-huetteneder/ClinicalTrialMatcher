@@ -29,6 +29,7 @@ import {
   ViewConnectionsComponent
 } from './components/doctor-patient-connection/view-connections/view-connections.component';
 import {ViewRequestsComponent} from './components/doctor-patient-connection/view-requests/view-requests.component';
+import {MatchingPatientComponent} from './components/trial-registration/matching-patient/matching-patient.component';
 
 const routes: Routes = [
   {path: '', component: HomeComponent},
@@ -73,6 +74,7 @@ const routes: Routes = [
               {path: 'edit/:did', component: CreateEditDiagnoseComponent, data: {mode: DiagnoseCreateEditMode.edit}},
               ]},
           ]},
+      {path: 'trial/:trialId/match-patient', component: MatchingPatientComponent},
 
     ]},
   {path: 'patient', data: {allowedRoles: [Role.patient]},

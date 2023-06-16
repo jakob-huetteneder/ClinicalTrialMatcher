@@ -28,14 +28,22 @@ import {PatientDetailComponent} from './components/patient/patient-detail/patien
 import {
   CreateEditExaminationComponent
 } from './components/patient/patient-detail/create-edit-examination/create-edit-examination.component';
-import {CreateEditDiagnoseComponent} from './components/patient/patient-detail/create-edit-diagnose/create-edit-diagnose.component';
+import {
+  CreateEditDiagnoseComponent
+} from './components/patient/patient-detail/create-edit-diagnose/create-edit-diagnose.component';
 import {MatDialogModule} from '@angular/material/dialog';
 import {ConfirmDialogComponent} from './components/confirm-button/confirm-dialog/confirm-dialog.component';
-import { ConfirmButtonComponent } from './components/confirm-button/confirm-button.component';
+import {ConfirmButtonComponent} from './components/confirm-button/confirm-button.component';
 import {MatButtonModule} from '@angular/material/button';
-import {RequestPatientComponent} from './components/doctor-patient-connection/request-patient/request-patient.component';
+import {
+  RequestPatientComponent
+} from './components/doctor-patient-connection/request-patient/request-patient.component';
 import {ViewRequestsComponent} from './components/doctor-patient-connection/view-requests/view-requests.component';
-import {ViewConnectionsComponent} from './components/doctor-patient-connection/view-connections/view-connections.component';
+import {
+  ViewConnectionsComponent
+} from './components/doctor-patient-connection/view-connections/view-connections.component';
+import {MatchingPatientComponent} from './components/trial-registration/matching-patient/matching-patient.component';
+import {TrialListItemComponent} from './components/trial/trial-list-item/trial-list-item.component';
 
 @NgModule({
   declarations: [
@@ -62,7 +70,9 @@ import {ViewConnectionsComponent} from './components/doctor-patient-connection/v
     ConfirmButtonComponent,
     RequestPatientComponent,
     ViewRequestsComponent,
-    ViewConnectionsComponent
+    ViewConnectionsComponent,
+    MatchingPatientComponent,
+    TrialListItemComponent
   ],
   imports: [
     BrowserModule,
