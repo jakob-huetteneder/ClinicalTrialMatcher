@@ -84,7 +84,7 @@ public class TreatsServiceImpl implements TreatsService {
     }
 
     @Override
-    public TreatsDto respondToRequest(long patientUserId, Long doctorId, boolean accepted) {
+    public TreatsDto respondToRequest(Long patientUserId, Long doctorId, boolean accepted) {
         Patient patient = patientRepository.findByApplicationUser_Id(patientUserId).orElseThrow();
 
         LOG.info("Responding to request from patient {} to doctor {} with {}", patient.getId(), doctorId, accepted);

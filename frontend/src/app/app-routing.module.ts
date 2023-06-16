@@ -30,9 +30,14 @@ import {
 } from './components/doctor-patient-connection/view-connections/view-connections.component';
 import {ViewRequestsComponent} from './components/doctor-patient-connection/view-requests/view-requests.component';
 import {StatisticsComponent} from './components/trial/statistics/statistics.component';
+import {
+  ViewRegistrationRequestsComponent
+} from './components/trial-registration/view-registration-requests/view-registration-requests.component';
+import {TrialDetailComponent} from './components/trial/trial-detail/trial-detail.component';
 
 const routes: Routes = [
   {path: '', component: HomeComponent},
+  {path: 'trial/detail/:id', component: TrialDetailComponent},
   {path: 'account', children: [
       {path: '', component: UpdateProfileComponent},
       {path: 'login', component: LoginComponent},
@@ -50,6 +55,7 @@ const routes: Routes = [
     canActivate: [AuthGuard],
     canActivateChild: [AuthGuard],
     children: [
+      {path: 'requests', component: ViewRegistrationRequestsComponent},
       {path: 'trials', children: [
           {path: '' , component: TrialComponent},
           {path: 'statistics/:id', component: StatisticsComponent},
@@ -75,6 +81,7 @@ const routes: Routes = [
               {path: 'edit/:did', component: CreateEditDiagnoseComponent, data: {mode: DiagnoseCreateEditMode.edit}},
               ]},
           ]},
+
     ]},
   {path: 'patient', data: {allowedRoles: [Role.patient]},
     canActivate: [AuthGuard],
@@ -82,6 +89,7 @@ const routes: Routes = [
     children: [
       {path: 'requests', component: ViewRequestsComponent},
       {path: 'connections', component: ViewConnectionsComponent, data: {role: Role.patient}},
+      {path: 'trial-registrations', component: ViewRegistrationRequestsComponent},
     ]},
   {path: '**', redirectTo: ''},
 ];

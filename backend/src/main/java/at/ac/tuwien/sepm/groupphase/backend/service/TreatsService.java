@@ -13,7 +13,7 @@ public interface TreatsService {
 
     PatientRequestDto requestTreats(Long doctorId, Long patientId);
 
-    TreatsDto respondToRequest(long patientUserId, Long doctorId, boolean accepted);
+    TreatsDto respondToRequest(Long patientUserId, Long doctorId, boolean accepted);
 
     void doctorTreatsPatient(Doctor doctor, Patient patient);
 
