@@ -8,9 +8,11 @@
   <div class="flex flex-col divide-y-[3px] w-[96%] mx-auto divide-[#CDE2F0]/[0.25]">
     <app-trial-list-item (deleteTrial)="delete(trial)"
                          (editTrial)="edit(trial)"
+                          (showStatistics)="router.navigate(['./researcher/trials/statistics', trial.id])"
                          *ngFor="let trial of trials"
                          [showDeleteButton]="true"
                          [showEditButton]="true"
+                         [showStatisticsButton]="true"
                          [trial]="trial"></app-trial-list-item>
   </div>
 

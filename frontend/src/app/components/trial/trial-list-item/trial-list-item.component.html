@@ -60,8 +60,8 @@
         <i class="bi bi-pencil"></i>
       </button>
       <button class="btn btn-sm rounded btn-secondary ml-1"
-              (click)="router.navigate(['./researcher/trials/statistics', trial.id])"
-              [hidden]="!showEditButton"
+              (click)="buttonClicked($event); showStatistics.emit()"
+              [hidden]="!showStatisticsButton"
               aria-label="Show Trial Statistics">
         <i class="bi bi-graph-up"></i>
       </button>

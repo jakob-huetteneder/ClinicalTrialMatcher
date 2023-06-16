@@ -15,7 +15,7 @@ export class TrialComponent implements OnInit {
   trials: Trial[] = [];
 
   constructor(private authService: AuthService,
-              private router: Router,
+              public router: Router,
               private trialService: TrialService,
               private notification: ToastrService) {
   }

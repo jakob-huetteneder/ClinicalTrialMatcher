@@ -1,6 +1,5 @@
 import {Component, EventEmitter, Input, Output} from '@angular/core';
 import {Trial, TrialStatus} from 'src/app/dtos/trial';
-import {Router} from '@angular/router';
 
 @Component({
   selector: 'app-trial-list-item',
@@ -18,13 +17,20 @@ export class TrialListItemComponent {
   @Input()
   showEditButton = false;
 
+  @Input()
+  showStatisticsButton = false;
+
   @Output()
   deleteTrial = new EventEmitter<any>();
 
   @Output()
   editTrial = new EventEmitter<any>();
 
-  constructor(public router: Router) {
+  @Output()
+  showStatistics = new EventEmitter<any>();
+
+
+  constructor() {
   }
 
   trialStatus(trial: Trial): string {
