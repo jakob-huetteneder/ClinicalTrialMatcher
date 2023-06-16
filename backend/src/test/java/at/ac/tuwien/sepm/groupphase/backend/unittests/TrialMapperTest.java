@@ -1,6 +1,7 @@
 package at.ac.tuwien.sepm.groupphase.backend.unittests;
 
 import at.ac.tuwien.sepm.groupphase.backend.datagenerator.UserDataGenerator;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.DiseaseDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.TrialDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.UserMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Researcher;
@@ -32,6 +33,7 @@ public class TrialMapperTest {
 
     @Test
     public void testTrialDtoToTrial() {
+        DiseaseDto disease = new DiseaseDto(0L, "name", "link");
         TrialDto trialDto = new TrialDto(
             1L,
             "title1",
@@ -49,7 +51,8 @@ public class TrialMapperTest {
             12,
             24,
             List.of("inclusion1"),
-            List.of("exclusion1"));
+            List.of("exclusion1"),
+            List.of(disease));
 
         Trial mappedTrial = trialMapper.trialDtoToTrial(trialDto);
 
