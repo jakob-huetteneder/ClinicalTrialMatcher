@@ -76,9 +76,11 @@ export class StatisticsComponent implements OnInit {
         labels: ['Female', 'Male'],
         datasets: [
           {
-            label: '# of registrations',
-            data: [this.registrations.filter((item) => item.patient.gender === Gender.female).length,
-              this.registrations.filter((item) => item.patient.gender === Gender.male).length],
+            label: '# of accepted registrations',
+            data: [this.registrations.filter((item) => item.patient.gender === Gender.female &&
+              item.status === TrialRegistrationStatus.accepted).length,
+              this.registrations.filter((item) => item.patient.gender === Gender.male &&
+                item.status === TrialRegistrationStatus.accepted).length],
             backgroundColor: [
               'rgba(255, 99, 132, 0.2)',
               'rgba(54, 162, 235, 0.2)'
@@ -90,13 +92,6 @@ export class StatisticsComponent implements OnInit {
             borderWidth: 1,
           },
         ],
-      },
-      options: {
-        scales: {
-          y: {
-            beginAtZero: true,
-          },
-        },
       },
     });
 
@@ -168,6 +163,9 @@ export class StatisticsComponent implements OnInit {
         scales: {
           y: {
             beginAtZero: true,
+            ticks: {
+              stepSize: 1, // Set the step size to 1 to display only whole numbers
+            }
           },
         },
       },
@@ -197,14 +195,7 @@ export class StatisticsComponent implements OnInit {
             borderWidth: 1,
           },
         ],
-      },
-      options: {
-        scales: {
-          y: {
-            beginAtZero: true,
-          },
-        },
-      },
+      }
     });
 
 
