@@ -47,15 +47,6 @@ public class Registration {
     @Column(name = "date", nullable = false)
     private LocalDate date;
 
-    public RegistrationId getRegistrationId() {
-        return registrationId;
-    }
-
-    public Registration setRegistrationId(RegistrationId registrationId) {
-        this.registrationId = registrationId;
-        return this;
-    }
-
     public LocalDate getDate() {
         return date;
     }
