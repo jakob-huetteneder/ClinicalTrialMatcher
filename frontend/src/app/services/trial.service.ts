@@ -2,8 +2,7 @@ import {HttpClient} from '@angular/common/http';
 import {Injectable} from '@angular/core';
 import {Observable} from 'rxjs';
 import {environment} from 'src/environments/environment';
-import {Trial} from '../dtos/trial';
-
+import {Trial, TrialRegistration} from '../dtos/trial';
 
 
 const baseUri = environment.backendUrl + '/api/v1/trials';
@@ -73,8 +72,19 @@ export class TrialService {
     return this.http.post<void>(baseUri + '/registration/' + trialId, undefined);
   }
 
-  checkIfAlreadyApplied(trialId: number): Observable<boolean> {
-    return this.http.get<boolean>(baseUri + '/registration/patient/' + trialId);
+  checkIfAlreadyApplied(trialId: number): Observable<TrialRegistration> {
+    return this.http.get<TrialRegistration>(baseUri + '/registration/patient/' + trialId);
   }
 
+  getAllRegistrationsForTrial(trialId: number): Observable<TrialRegistration[]> {
+    return this.http.get<TrialRegistration[]>(baseUri + '/registration/' + trialId);
+  }
+
+  getAllRegistrationsForLoggedInPatient(): Observable<TrialRegistration[]> {
+    return this.http.get<TrialRegistration[]>(baseUri + '/registration');
+  }
+
+  respondToRegistration(trialId: number, accept: boolean): Observable<TrialRegistration> {
+    return this.http.put<TrialRegistration>(baseUri + '/registration/' + trialId + '/response', accept);
+  }
 }

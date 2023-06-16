@@ -1,6 +1,32 @@
 <div class="whitebox flex justify-center container mt-5 text-blue-950">
-  <div class="fw-bold grid grid-cols-1 justify-items-center container mt-3 ml-3">
+  <div class="fw-bold grid grid-cols-1 justify-items-center container mt-3 ml-3 relative">
     <div class="text-lg">Trial Details</div>
+    <div class="right-8 absolute">
+      <div *ngIf="authService.getUserRole() === role.patient && canRegister">
+        <app-confirm-button (confirm)="register()" cancelText="Deny"
+                            confirmText="Accept"
+                            details="By using this service, you consent to the collection, processing, and use of your data. If you do not agree, please refrain from using this service." prompt="Do you want to register for this trial?">
+          <button
+            class="transition ease-in-out delay-100 duration-300 bg-blue-500 hover:-translate-y-0 hover:scale-110 hover:bg-blue-400 rounded w-35 p-2 h-10 text-white"
+            style="width:130px">
+            Register
+          </button>
+        </app-confirm-button>
+      </div>
+      <div *ngIf="authService.getUserRole() === role.patient && !canRegister">
+        <div class="flex-initial single-button ml-5 mt-1">
+          <a class="group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row">
+            <i class="bi-info-circle text-blue-950"></i>
+            <div [class]="registrationStatusClass()" class="group-hover:cursor-text p-3 border-2 absolute top-6 z-10 w-96 hidden list-none overflow-hidden rounded-lg backdrop-blur-lg shadow-md group-hover:flex flex-row right-0 gap-2">
+              <p class="text-justify text-xs m-0">
+                {{registrationStatusMessage}}
+              </p>
+            </div>
+          </a>
+        </div>
+
+      </div>
+    </div>
   </div>
 
   <hr class="container">
@@ -28,15 +54,15 @@
         </div>
         <div class="flex flex-col flex-1 text-slate-600">
           <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
-                 type="text">
+               type="text">
             {{trial.title}}
           </div>
           <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
-                 type="date">
+               type="date">
             {{trial.startDate}}
           </div>
           <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
-                 type="date">
+               type="date">
             {{trial.endDate}}
           </div>
           <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
@@ -67,19 +93,19 @@
         </div>
         <div class="flex flex-col flex-1 text-slate-600">
           <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
-                 type="text">
+               type="text">
             {{trial.sponsor}}
           </div>
           <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
-                 type="text">
+               type="text">
             {{trial.studyType}}
           </div>
           <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
-                 type="text">
+               type="text">
             {{trial.collaborator}}
           </div>
           <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
-                 type="text">
+               type="text">
             {{trial.location}}
           </div>
         </div>
@@ -111,7 +137,7 @@
         </div>
         <div class="flex flex-col flex-1">
           <p class="ml-5 mr-5 mb-2 mt-2 border-0 text-slate-600"
-               type="text">
+             type="text">
             {{trial.detailedSummary}}
           </p>
         </div>
@@ -139,11 +165,11 @@
       </div>
       <div class="flex flex-col flex-1 text-slate-600">
         <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
-               type="text">
+             type="text">
           {{trial.crMinAge}}
         </div>
         <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
-                type="text">
+             type="text">
           {{trial.crGender}}
         </div>
       </div>
@@ -176,7 +202,7 @@
       <div *ngFor="let criteria of trial.inclusionCriteria">
         <div class="flex flex-col flex-1">
           <div class="ml-5 mr-5 h-10 mt-1 border-0 text-slate-600"
-                 type="text">
+               type="text">
             {{criteria}}
           </div>
         </div>
@@ -203,23 +229,21 @@
       </div>
     </div>
 
-    <div *ngIf="authService.getUserRole() === role.patient && !applied && applied !== undefined">
-      <app-confirm-button (confirm)="register(trial.id)" prompt="Do you want to register for this trial?" details="By using this service, you consent to the collection, processing, and use of your data. If you do not agree, please refrain from using this service." confirmText="Accept" cancelText="Deny">
-      <button class="transition ease-in-out delay-100 duration-300 bg-blue-500 hover:-translate-y-0 hover:scale-110 hover:bg-blue-400 rounded w-35 p-2 mt-4 h-10 text-white mr-5"
-              style="width:130px">
-        Register
-      </button>
+    <hr class="container mb-8">
+
+    <div *ngIf="authService.getUserRole() === role.patient && canRegister">
+      <app-confirm-button (confirm)="register()" cancelText="Deny"
+                          confirmText="Accept"
+                          details="By using this service, you consent to the collection, processing, and use of your data. If you do not agree, please refrain from using this service." prompt="Do you want to register for this trial?">
+        <button
+          class="transition ease-in-out delay-100 duration-300 bg-blue-500 hover:-translate-y-0 hover:scale-110 hover:bg-blue-400 rounded w-35 p-2 h-10 text-white mr-5"
+          style="width:130px">
+          Register
+        </button>
       </app-confirm-button>
     </div>
-    <div *ngIf="authService.getUserRole() === role.patient && applied && applied !== undefined">
-      You have already applied for this trial.
-    </div>
-
-    <div *ngIf="authService.getUserRole() === role.doctor">
-      <button class="transition ease-in-out delay-100 duration-300 bg-blue-500 hover:-translate-y-0 hover:scale-110 hover:bg-blue-400 rounded w-35 p-2 mt-4 h-10 text-white mr-5"
-              style="width:130px">
-        Register Patient
-      </button>
+    <div *ngIf="authService.getUserRole() === role.patient && !canRegister" [class]="registrationStatusClass()" class="border-2 rounded ml-3 px-2 py-1">
+      <b>Application Status:</b> {{registrationStatusMessage}}
     </div>
 
 

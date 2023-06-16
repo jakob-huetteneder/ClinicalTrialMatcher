@@ -14,4 +14,6 @@ public interface TrialRegistrationRepository extends JpaRepository<Registration,
 
     List<Registration> findAllByTrial_Id(Long trialId);
 
+    List<Registration> findAllByPatient_Id(Long patientId);
+
 }

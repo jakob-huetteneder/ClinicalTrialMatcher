@@ -8,6 +8,8 @@ public interface TrialRegistrationService {
 
     List<TrialRegistrationDto> getAllRegistrationsForTrial(Long trialId);
 
+    List<TrialRegistrationDto> getAllRegistrationsForPatient();
+
     TrialRegistrationDto requestRegistrationAsPatient(Long trialId);
 
     TrialRegistrationDto requestRegistrationAsDoctor(Long patientId, Long trialId);
@@ -16,5 +18,5 @@ public interface TrialRegistrationService {
 
     TrialRegistrationDto respondToRegistrationRequest(Long patientId, Long trialId, boolean accepted);
 
-    boolean checkIfAlreadyRegistered(Long trialId);
+    TrialRegistrationDto checkIfAlreadyRegistered(Long trialId);
 }

@@ -87,6 +87,7 @@ const routes: Routes = [
     children: [
       {path: 'requests', component: ViewRequestsComponent},
       {path: 'connections', component: ViewConnectionsComponent, data: {role: Role.patient}},
+      {path: 'trial-registrations', component: ViewRegistrationRequestsComponent},
     ]},
   {path: '**', redirectTo: ''},
 ];

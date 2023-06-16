@@ -48,6 +48,18 @@ public class TrialRegistrationServiceImpl implements TrialRegistrationService {
     }
 
     @Override
+    public List<TrialRegistrationDto> getAllRegistrationsForPatient() {
+        LOG.info("Getting all registrations for patient");
+        Long patientUserId = authorizationService.getSessionUserId();
+        Optional<Patient> patient = patientRepository.findByApplicationUser_Id(patientUserId);
+        if (patient.isEmpty()) {
+            throw new NotFoundException("Patient could not be found");
+        }
+        List<Registration> registrations = trialRegistrationRepository.findAllByPatient_Id(patient.get().getId());
+        return trialRegistrationMapper.trialRegistrationToTrialRegistrationDto(registrations);
+    }
+
+    @Override
     public TrialRegistrationDto requestRegistrationAsPatient(Long trialId) {
         Long patientUserId = authorizationService.getSessionUserId();
         Optional<Patient> patient = patientRepository.findByApplicationUser_Id(patientUserId);
@@ -121,13 +133,15 @@ public class TrialRegistrationServiceImpl implements TrialRegistrationService {
     }
 
     @Override
-    public boolean checkIfAlreadyRegistered(Long trialId) {
+    public TrialRegistrationDto checkIfAlreadyRegistered(Long trialId) {
         Long patientUserId = authorizationService.getSessionUserId();
         Optional<Patient> patient = patientRepository.findByApplicationUser_Id(patientUserId);
         if (patient.isEmpty()) {
             throw new NotFoundException("Patient could not be found");
         }
 
-        return trialRegistrationRepository.findByRegistrationId_PatientIdAndRegistrationId_TrialId(patient.get().getId(), trialId).isPresent();
+        Optional<Registration> registration = trialRegistrationRepository.findByRegistrationId_PatientIdAndRegistrationId_TrialId(patient.get().getId(), trialId);
+
+        return registration.map(trialRegistrationMapper::trialRegistrationToTrialRegistrationDto).orElse(null);
     }
 }

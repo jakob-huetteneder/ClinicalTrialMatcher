@@ -38,6 +38,13 @@ public class TrialRegistrationEndpoint {
     }
 
     @Secured("ROLE_PATIENT")
+    @GetMapping
+    public List<TrialRegistrationDto> getAllRegistrationsForLoggedInPatient() {
+        LOG.info("Getting all registrations for logged in patient");
+        return trialRegistrationService.getAllRegistrationsForPatient();
+    }
+
+    @Secured("ROLE_PATIENT")
     @PostMapping(value = "/{trialId}")
     public TrialRegistrationDto registerForTrialAsUser(@PathVariable("trialId") Long trialId) {
         LOG.info("Register for trial with id {}", trialId);
@@ -53,7 +60,7 @@ public class TrialRegistrationEndpoint {
 
     @Secured("ROLE_PATIENT")
     @GetMapping(value = "/patient/{trialId}")
-    public boolean checkIfAlreadyRegistered(@PathVariable("trialId") Long trialId) {
+    public TrialRegistrationDto getRegistrationStatus(@PathVariable("trialId") Long trialId) {
         LOG.info("Check if already registered for trial with id {}", trialId);
         return trialRegistrationService.checkIfAlreadyRegistered(trialId);
     }
