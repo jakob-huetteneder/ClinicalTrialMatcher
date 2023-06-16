@@ -13,6 +13,11 @@ module.exports = {
         'cool-blue': {
           500: '#308BC8',
         },
+      },
+      spacing: {
+        '100': '28rem',
+        '128': '32rem',
+        '130': '40rem'
       }
     },
   },

@@ -1,6 +1,6 @@
 import {Gender} from './gender';
 import {User} from './user';
-
+import {Patient} from './patient';
 
 export class Trial {
   id?: number;
@@ -31,7 +31,7 @@ export enum TrialStatus {
 
 export class TrialRegistration {
   id?: number;
-  patient: User;
+  patient: Patient;
   trial: Trial;
   status: TrialRegistrationStatus;
 }
