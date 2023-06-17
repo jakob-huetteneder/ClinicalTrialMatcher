@@ -5,10 +5,10 @@ import {TrialService} from '../../../services/trial.service';
 
 @Component({
   selector: 'app-view-registration-requests',
-  templateUrl: './view-registration-requests.component.html',
-  styleUrls: ['./view-registration-requests.component.scss']
+  templateUrl: './accept-registration-proposal.component.html',
+  styleUrls: ['./accept-registration-proposal.component.scss']
 })
-export class ViewRegistrationRequestsComponent implements OnInit {
+export class AcceptRegistrationProposalComponent implements OnInit {
 
   search = '';
   debouncer = new Subject<any>();
@@ -77,7 +77,7 @@ export class ViewRegistrationRequestsComponent implements OnInit {
   }
 
   private respondToProposal(proposal: TrialRegistration, accept: boolean) {
-    this.trialService.respondToRegistration(proposal.trial.id, accept).subscribe({
+    this.trialService.respondToRegistrationProposal(proposal.trial.id, accept).subscribe({
       next: () => {
         this.loadRegistrations();
       },

@@ -1,18 +1,18 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { ViewRegistrationRequestsComponent } from './view-registration-requests.component';
+import { AcceptRegistrationProposalComponent } from './accept-registration-proposal.component';
 
 describe('ViewRegistrationRequestsComponent', () => {
-  let component: ViewRegistrationRequestsComponent;
-  let fixture: ComponentFixture<ViewRegistrationRequestsComponent>;
+  let component: AcceptRegistrationProposalComponent;
+  let fixture: ComponentFixture<AcceptRegistrationProposalComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ ViewRegistrationRequestsComponent ]
+      declarations: [ AcceptRegistrationProposalComponent ]
     })
     .compileComponents();
 
-    fixture = TestBed.createComponent(ViewRegistrationRequestsComponent);
+    fixture = TestBed.createComponent(AcceptRegistrationProposalComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

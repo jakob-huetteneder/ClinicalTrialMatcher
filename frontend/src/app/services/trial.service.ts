@@ -84,7 +84,11 @@ export class TrialService {
     return this.http.get<TrialRegistration[]>(baseUri + '/registration');
   }
 
-  respondToRegistration(trialId: number, accept: boolean): Observable<TrialRegistration> {
+  respondToRegistrationProposal(trialId: number, accept: boolean): Observable<TrialRegistration> {
     return this.http.put<TrialRegistration>(baseUri + '/registration/' + trialId + '/response', accept);
+  }
+
+  respondToRegistrationRequest(trialId: number, patientId: number, accept: boolean): Observable<TrialRegistration> {
+    return this.http.put<TrialRegistration>(baseUri + '/registration/' + trialId + '/patient/' + patientId + '/response', accept);
   }
 }

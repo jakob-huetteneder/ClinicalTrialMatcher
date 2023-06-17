@@ -31,10 +31,13 @@ import {
 import {ViewRequestsComponent} from './components/doctor-patient-connection/view-requests/view-requests.component';
 import {StatisticsComponent} from './components/trial/statistics/statistics.component';
 import {
-  ViewRegistrationRequestsComponent
-} from './components/trial-registration/view-registration-requests/view-registration-requests.component';
+  AcceptRegistrationProposalComponent
+} from './components/trial-registration/accept-registration-proposal/accept-registration-proposal.component';
 import {TrialDetailComponent} from './components/trial/trial-detail/trial-detail.component';
 import {MatchingPatientComponent} from './components/trial-registration/matching-patient/matching-patient.component';
+import {
+  AcceptRegistrationRequestsComponent
+} from './components/trial-registration/accept-registration-requests/accept-registration-requests.component';
 
 const routes: Routes = [
   {path: '', component: HomeComponent},
@@ -56,12 +59,15 @@ const routes: Routes = [
     canActivate: [AuthGuard],
     canActivateChild: [AuthGuard],
     children: [
-      {path: 'requests', component: ViewRegistrationRequestsComponent},
       {path: 'trials', children: [
           {path: '' , component: TrialComponent},
           {path: 'statistics/:id', component: StatisticsComponent},
           {path: 'create', component: CreateEditTrialComponent, data: {mode: TrialCreateEditMode.create}},
           {path: 'edit/:id', component: CreateEditTrialComponent, data: {mode: TrialCreateEditMode.edit}},
+          {path: 'requests/:trialId', children: [
+              {path: '', component: AcceptRegistrationRequestsComponent},
+              {path: 'patient/:id', component: PatientDetailComponent},
+            ]},
         ]},
     ]},
   {path: 'doctor', data: {allowedRoles: [Role.doctor]},
@@ -91,7 +97,7 @@ const routes: Routes = [
     children: [
       {path: 'requests', component: ViewRequestsComponent},
       {path: 'connections', component: ViewConnectionsComponent, data: {role: Role.patient}},
-      {path: 'trial-registrations', component: ViewRegistrationRequestsComponent},
+      {path: 'trial-registrations', component: AcceptRegistrationProposalComponent},
     ]},
   {path: '**', redirectTo: ''},
 ];

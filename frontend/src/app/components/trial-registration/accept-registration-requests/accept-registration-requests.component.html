@@ -1,0 +1,113 @@
+<div class="fw-bold grid grid-cols-1 justify-items-center container ml-3 text-in-button">
+  <div class="text-xl mb-3 mt-3"></div>
+</div>
+
+<div [style]="isEmpty ? 'display: block; text-align: center;': ''"
+     class="whitebox flex flex-column justify-center text-in-button my-10">
+
+  <div class="hidden flex-row container w-full">
+    <div class="flex flex-row w-full justify-between" style="align-items: center;">
+      <button class="text-blue-400 hover:text-blue-600">Edit Favourites</button>
+      <button class="text-red-400 hover:text-red-600">Clear List</button>
+    </div>
+  </div>
+  <div class="flex flex-row container w-full mb-2">
+    <div class="flex flex-row w-full text-blue-950 bg-blue-50" style="align-items: center; border-radius: 4px;">
+      <i class="bi-search opacity-60 ml-4" style="color: #235491"></i>
+      <input (input)="searchChanged($event)" [ngModel]="search" class="max-h-[2.5rem] my-0 inputfield mx-4 bg-blue-50"
+             id="q" name="q" placeholder="Search in Current List">
+    </div>
+    <button class="bi-funnel-fill ml-4" onclick="q.value = '';" style="color:#1e5075"></button>
+  </div>
+  <hr class="mt-0 ml-4 mb-4 w-full" style="border: 2px solid #CDE2F0;">
+
+
+
+
+
+
+  <div [hidden]="applied === null || applied.length === 0" class="mb-4 w-full">
+    <table class="container w-fit" style="max-width: 1200px !important;">
+      <thead>
+
+      <tr class="disabled font-bold text-orange-700 h-8">
+        <i class="bi-clock mr-2"></i>
+        Requested
+      </tr>
+      <th style="font-weight: 600">Firstname</th>
+      <th style="font-weight: 600">Lastname</th>
+      <th style="font-weight: 600">Birthdate</th>
+      </thead>
+      <tbody>
+      <tr *ngFor="let registration of applied" class="w-fit h-10" [routerLink]="'patient/' + registration.patient.id">
+        <td>{{registration.patient.firstName}}</td>
+        <td>{{registration.patient.lastName}}</td>
+        <td>{{registration.patient.birthdate | date: 'dd.MM.yyyy'}}</td>
+        <td>
+          <button
+            (click)="accept(registration)"
+            aria-label="Accept registration"
+            class="flex-initial bg-green-100 rounded w-fit py-2 px-4 text-green-700 font-semibold border-green-700 drop-shadow-sm text-sm"
+            style="border-width: 1px;">
+            <i class="bi bi-check"></i>
+          </button>
+
+          <button
+            (click)="decline(registration)"
+            aria-label="Decline registration"
+            class="flex-initial bg-red-100 rounded w-fit py-2 px-4 text-red-700 font-semibold border-red-700 drop-shadow-sm ml-2 text-sm"
+            style="border-width: 1px;">
+            <i class="bi bi-x"></i>
+          </button>
+        </td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div [hidden]="accepted === null || accepted.length === 0" class="mb-4 w-full">
+    <table class="container w-fit" style="max-width: 1200px !important;">
+      <thead>
+
+      <tr class="disabled font-bold text-green-700 h-8">
+        <i class="bi-check-lg mr-2"></i>
+        Accepted
+      </tr>
+      <th style="font-weight: 600">Firstname</th>
+      <th style="font-weight: 600">Lastname</th>
+      <th style="font-weight: 600">Birthdate</th>
+      </thead>
+      <tbody>
+      <tr *ngFor="let registration of accepted" class="w-fit h-10">
+        <td>{{registration.patient.firstName}}</td>
+        <td>{{registration.patient.lastName}}</td>
+        <td>{{registration.patient.birthdate | date: 'dd.MM.yyyy'}}</td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div [hidden]="declined === null || declined.length === 0" class="mb-4 w-full">
+
+    <table class="container w-fit" style="max-width: 1200px !important;">
+      <thead>
+      <tr class="disabled font-bold text-red-700 h-8">
+        <i class="bi-x-lg mr-2"></i>
+        Declined
+      </tr>
+      <th style="font-weight: 600">Firstname</th>
+      <th style="font-weight: 600">Lastname</th>
+      <th style="font-weight: 600">Birthdate</th>
+      </thead>
+      <tbody>
+      <tr *ngFor="let registration of declined" class="w-fit h-10">
+        <td>{{registration.patient.firstName}}</td>
+        <td>{{registration.patient.lastName}}</td>
+        <td>{{registration.patient.birthdate | date: 'dd.MM.yyyy'}}</td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+  <p *ngIf="isEmpty" [innerHTML]="emptyListText" class="text-gray-400"></p>
+</div>
+

@@ -43,12 +43,15 @@ import {
   ViewConnectionsComponent
 } from './components/doctor-patient-connection/view-connections/view-connections.component';
 import {
-  ViewRegistrationRequestsComponent
-} from './components/trial-registration/view-registration-requests/view-registration-requests.component';
+  AcceptRegistrationProposalComponent
+} from './components/trial-registration/accept-registration-proposal/accept-registration-proposal.component';
 import {TrialDetailComponent} from './components/trial/trial-detail/trial-detail.component';
-import { StatisticsComponent } from './components/trial/statistics/statistics.component';
+import {StatisticsComponent} from './components/trial/statistics/statistics.component';
 import {MatchingPatientComponent} from './components/trial-registration/matching-patient/matching-patient.component';
 import {TrialListItemComponent} from './components/trial/trial-list-item/trial-list-item.component';
+import {
+  AcceptRegistrationRequestsComponent
+} from './components/trial-registration/accept-registration-requests/accept-registration-requests.component';
 
 @NgModule({
   declarations: [
@@ -79,8 +82,9 @@ import {TrialListItemComponent} from './components/trial/trial-list-item/trial-l
     MatchingPatientComponent,
     TrialListItemComponent,
     StatisticsComponent,
-    ViewRegistrationRequestsComponent,
-    TrialDetailComponent
+    AcceptRegistrationProposalComponent,
+    TrialDetailComponent,
+    AcceptRegistrationRequestsComponent
   ],
   imports: [
     BrowserModule,
