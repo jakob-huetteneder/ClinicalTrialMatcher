@@ -2,39 +2,20 @@ import {Component, OnInit, ViewChildren} from '@angular/core';
 import {Patient} from '../../../dtos/patient';
 import {ActivatedRoute, Router} from '@angular/router';
 import {PatientService} from '../../../services/patient.service';
-import {SafeUrl} from '@angular/platform-browser';
 import {FilesService} from '../../../services/files.service';
 import {ToastrService} from 'ngx-toastr';
 
 @Component({
-  selector: 'app-patient-detail',
-  templateUrl: './patient-detail.component.html',
-  styleUrls: ['./patient-detail.component.scss']
+  selector: 'app-patient-edit',
+  templateUrl: './patient-edit.component.html',
+  styleUrls: ['./patient-edit.component.scss']
 })
-export class PatientDetailComponent implements OnInit{
-
+export class PatientEditComponent implements OnInit {
   @ViewChildren('medicalImages') medicalImages;
 
-  patient: Patient = {
-    admissionNote: '',
-    diagnoses: [],
-    examinations: [],
-    firstName: '',
-    lastName: '',
-    email: '',
-    gender: undefined,
-    birthdate: undefined
-  };
+  patient = new Patient();
   examinationsImageHidden: boolean[] = [];
-  id = -1;
   edit = false;
-  loading = true;
-
-  image: SafeUrl = '';
-  imageFocus = false;
-  imageOriginal: SafeUrl = '';
-  imageName = '';
-
 
   constructor(
     private router: Router,
@@ -46,15 +27,13 @@ export class PatientDetailComponent implements OnInit{
   }
 
   ngOnInit(): void {
-    this.loading = true;
     this.route.params.subscribe(params => {
-      this.id = params.id;
-      this.service.getById(this.id).subscribe({
+      this.patient.id = params.id;
+      this.service.getById(this.patient.id).subscribe({
         next: data => {
           this.patient = data;
-          this.loading = false;
           this.examinationsImageHidden = new Array(this.patient.examinations.length);
-          this.examinationsImageHidden.fill(undefined);
+          this.examinationsImageHidden.fill(true);
           console.log(this.examinationsImageHidden);
         },
         error: error => {
@@ -71,9 +50,9 @@ export class PatientDetailComponent implements OnInit{
   }
 
   submit() {
-    this.service.deleteById(this.id).subscribe({
+    this.service.deleteById(this.patient.id).subscribe({
       next: _data => {
-        console.log('Successfully deleted patient {}', this.id);
+        console.log('Successfully deleted patient {}', this.patient.id);
         this.notification.success('Successfully deleted patient');
         this.router.navigate(['']);
       },
@@ -86,8 +65,8 @@ export class PatientDetailComponent implements OnInit{
   }
 
   public load(id: number): string {
-    if (this.examinationsImageHidden[this.getIndexById(id)] !== undefined) {
-      this.examinationsImageHidden[this.getIndexById(id)] = !this.examinationsImageHidden[this.getIndexById(id)];
+    if (this.examinationsImageHidden[this.getIndexById(id)] === false) {
+      this.examinationsImageHidden[this.getIndexById(id)] = true;
       return '';
     }
     let ret = '';
@@ -108,9 +87,4 @@ export class PatientDetailComponent implements OnInit{
     });
     return ret;
   }
-
-  pulse(): string {
-    return this.loading ? 'hover:cursor-not-allowed animate-pulse' : '';
-  }
-
 }

@@ -1,0 +1,206 @@
+<div class="fw-bold grid grid-cols-1 justify-items-center container ml-3 text-in-button">
+  <div class="text-xl mb-3 mt-3"></div>
+</div>
+
+<div class="whitebox flex justify-center container mb-10">
+  <div class="fw-bold grid grid-cols-1 justify-items-center container mt-3 ml-3">
+    <div class="text-lg">{{patient.firstName}} {{patient.lastName}}</div>
+  </div>
+
+  <hr class="container">
+
+  <div class="container grid lg:grid-cols-2">
+    <div class="flex flex-row">
+      <div class="flex flex-col flex-initial">
+        <div class="fw-bold mb-3 mt-3"><i class="bi bi-person-fill mr-2"></i></div>
+        <div class="fw-bold mb-3 mt-3"><i class="bi bi-envelope-at-fill mr-2"></i></div>
+        <div class="fw-bold mb-3 mt-3"><i class="bi bi-calendar3-event mr-2"></i></div>
+      </div>
+      <div class="flex flex-col flex-initial">
+        <div class="font-semibold mb-3 mt-3">First Name:</div>
+        <div class="font-semibold mb-3 mt-3">E-Mail:</div>
+        <div class="font-semibold mb-3 mt-3">Birthdate:</div>
+      </div>
+      <div class="flex flex-col flex-1">
+        <div class="flex flex-col flex-1">
+          <input disabled class="border-0 ml-5 mr-5 h-10 pl-2 mb-2 mt-2 inputfield"
+                 value="{{patient.firstName}}">
+        </div>
+        <div class="flex flex-col flex-1">
+          <input disabled class="border-0 ml-5 mr-5 h-10 pl-2 mb-2 mt-2 inputfield"
+                 value="{{patient.email}}">
+        </div>
+        <div class="flex flex-col flex-1">
+          <input disabled class="border-0 ml-5 mr-5 h-10 pl-2 mb-2 mt-2 inputfield"
+                 value="{{patient.birthdate}}">
+        </div>
+      </div>
+    </div>
+
+    <div class="flex flex-row">
+      <div class="flex flex-col flex-initial">
+        <div class="fw-bold mb-3 mt-3"><i class="bi bi-person-fill mr-2"></i></div>
+        <div class="fw-bold mb-3 mt-3"><i class="bi bi-gender-ambiguous mr-2"></i></div>
+        <div class="fw-bold mb-3 mt-3 lg:invisible hidden"></div>
+      </div>
+      <div class="flex flex-col flex-initial">
+        <div class="font-semibold mb-3 mt-3">Last Name:</div>
+        <div class="font-semibold mb-3 mt-3">Gender:</div>
+        <div class="font-semibold mb-3 mt-3 lg:invisible hidden"></div>
+      </div>
+      <div class="flex flex-col flex-1">
+        <div class="flex flex-col flex-1">
+          <input disabled class="border-0 ml-5 mr-5 h-10 pl-2 mb-2 mt-2 inputfield"
+                 value="{{patient.lastName}}">
+        </div>
+        <div class="flex flex-col flex-1">
+          <input disabled class="border-0 ml-5 mr-5 pl-2 h-10 mb-2 mt-2 inputfield"
+                 value="{{patient.gender}}">
+        </div>
+        <div class="border-0 ml-5 mr-5 h-10 mb-2 mt-2 inputfield bg-white !invisible max-lg:!hidden">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="container">
+
+  <div class="container flex flex-col">
+    <div>
+      <div class="flex flex-row">
+        <div class="flex flex-row flex-initial">
+          <div class="fw-bold mb-2 mt-1"><i class="bi bi-journals mr-2"></i></div>
+        </div>
+        <div class="flex flex-col flex-initial">
+          <div class="font-semibold mb-1 mt-1 mr-1">
+            Admission Note
+          </div>
+        </div>
+      </div>
+      <div class="flex flex-row">
+        <div class="flex flex-col flex-1">
+          <textarea readonly maxlength="1000" class="mr-5 h-10 mb-2 inputfield border-0 min-h-[5rem]"
+                    value="{{patient.admissionNote}}"></textarea>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="container">
+
+  <div class="container flex flex-col">
+    <div>
+      <div class="flex flex-row">
+        <div class="flex flex-row flex-initial">
+          <div class="fw-bold mb-2 mt-1"><i class="bi bi-activity mr-2"></i></div>
+        </div>
+        <div class="flex flex-col flex-initial">
+          <div class="font-semibold mb-1 mt-1 mr-1">
+            Diagnoses
+          </div>
+        </div>
+        <div class="flex flex-row flex-initial">
+          <div routerLink="diagnose/create" class="fw-bold mb-2 mt-1 hover:cursor-pointer"><i class="bi bi-plus-lg ml-2"></i>
+          </div>
+        </div>
+      </div>
+      <div class="flex lg:flex-row flex-col" *ngFor="let diagnosis of patient.diagnoses">
+        <div class="flex flex-col flex-1">
+          <input disabled class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 pl-2 inputfield border-0"
+                 value="{{diagnosis.disease.name}}">
+        </div>
+        <div class="flex flex-col flex-1">
+          <textarea readonly maxlength="1000" value="{{diagnosis.note}}"
+                    class="min-h-[2.5rem] mr-2 h-10 mb-2 mt-2 inputfield border-0"></textarea>
+        </div>
+        <div class="flex flex-col flex-1">
+          <input disabled class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 pl-2 inputfield border-0"
+                 value="{{diagnosis.date}}">
+        </div>
+        <div class="flex flex-col flex-initial">
+          <button [routerLink]="'diagnose/edit/' + diagnosis.id" class="rounded w-35 p-2 mt-2 h-10 text-black mr-5 ml-0">
+            <i class="bi bi-pencil"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="container">
+
+  <div class="container flex flex-col">
+    <div class="flex flex-row">
+      <div class="flex flex-row flex-initial">
+        <div class="fw-bold mb-2 mt-1"><i class="bi bi-paperclip mr-2"></i></div>
+      </div>
+      <div class="flex flex-col flex-initial">
+        <div class="font-semibold mb-1 mt-1 mr-1">
+          Examinations
+        </div>
+      </div>
+      <div class="flex flex-row flex-initial">
+        <div routerLink="examination/create" class="fw-bold mb-2 mt-1 hover:cursor-pointer"><i class="bi bi-plus-lg ml-2"></i>
+        </div>
+      </div>
+    </div>
+    <div *ngFor="let examination of patient.examinations">
+      <div class="flex flex-col lg:flex-row">
+        <div class="flex flex-col flex-1">
+          <input disabled type="text" value="{{examination.name}}"
+                 class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 inputfield border-0">
+        </div>
+        <div class="flex flex-col flex-1">
+          <textarea readonly maxlength="1000" value="{{examination.note}}"
+                    class="min-h-[2.5rem] mr-2 h-10 mb-2 mt-2 inputfield border-0"></textarea>
+        </div>
+        <div class="flex flex-col flex-1">
+          <input disabled class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 pl-2 inputfield border-0"
+                 value="{{examination.type}}">
+        </div>
+        <div class="flex flex-col flex-1">
+          <input disabled class="max-h-[2.5rem] mr-2 h-10 mb-2 mt-2 pl-2 inputfield border-0"
+                 value="{{examination.date}}">
+        </div>
+        <div class="flex flex-col flex-initial">
+          <button class="rounded w-35 p-2 mt-2 h-10 text-black mr-5 ml-0" (click)="load(examination.id)">
+            <i class="bi bi-image"></i>
+          </button>
+
+        </div>
+        <div class="flex flex-col flex-initial">
+          <button [routerLink]="'examination/edit/' + examination.id" class="rounded w-35 p-2 mt-2 h-10 text-black mr-5 ml-0">
+            <i class="bi bi-pencil"></i>
+          </button>
+        </div>
+
+      </div>
+      <img #medicalImages
+           [hidden]="examinationsImageHidden[getIndexById(examination.id)]" alt="Selected Image"
+           (click)="examinationsImageHidden[getIndexById(examination.id)] = true"
+      />
+    </div><!--
+    <div class="container mt-10">
+      <button (click)="submit()"
+              class="transition ease-in-out delay-100 duration-300 bg-red-600 float-right
+           rounded w-35 p-2 mt-2 h-10 text-white
+           hover:-translate-y-0 hover:scale-110 hover:bg-red-700 hover:cursor-pointer">
+        Delete
+      </button>
+    </div>-->
+
+    <div class="container mt-10">
+      <app-confirm-button (confirm)="submit()" details="Patient will be lost permanently.">
+        <button
+          class="transition ease-in-out delay-100 duration-300 bg-red-600 float-right
+           rounded w-35 p-2 mt-2 h-10 text-white
+           hover:-translate-y-0 hover:scale-110 hover:bg-red-700 hover:cursor-pointer"
+          data-inline="true"
+          style="width:130px"
+        >
+          Delete Patient
+        </button>
+      </app-confirm-button>
+    </div>
+  </div>
+
+</div>

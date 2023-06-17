@@ -27,10 +27,10 @@ import {DiseaseAutocompleteComponent} from './components/disease-autocomplete/di
 import {PatientDetailComponent} from './components/patient/patient-detail/patient-detail.component';
 import {
   CreateEditExaminationComponent
-} from './components/patient/patient-detail/create-edit-examination/create-edit-examination.component';
+} from './components/patient/patient-edit/create-edit-examination/create-edit-examination.component';
 import {
   CreateEditDiagnoseComponent
-} from './components/patient/patient-detail/create-edit-diagnose/create-edit-diagnose.component';
+} from './components/patient/patient-edit/create-edit-diagnose/create-edit-diagnose.component';
 import {MatDialogModule} from '@angular/material/dialog';
 import {ConfirmDialogComponent} from './components/confirm-button/confirm-dialog/confirm-dialog.component';
 import {ConfirmButtonComponent} from './components/confirm-button/confirm-button.component';
@@ -52,6 +52,7 @@ import {TrialListItemComponent} from './components/trial/trial-list-item/trial-l
 import {
   AcceptRegistrationRequestsComponent
 } from './components/trial-registration/accept-registration-requests/accept-registration-requests.component';
+import { PatientEditComponent } from './components/patient/patient-edit/patient-edit.component';
 
 @NgModule({
   declarations: [
@@ -84,7 +85,8 @@ import {
     StatisticsComponent,
     AcceptRegistrationProposalComponent,
     TrialDetailComponent,
-    AcceptRegistrationRequestsComponent
+    AcceptRegistrationRequestsComponent,
+    PatientEditComponent
   ],
   imports: [
     BrowserModule,

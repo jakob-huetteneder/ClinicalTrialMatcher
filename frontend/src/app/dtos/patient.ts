@@ -1,7 +1,7 @@
 import {Gender} from './gender';
 import {User} from './user';
 
-export interface Patient {
+export class Patient {
   id?: number;
   firstName: string;
   lastName: string;

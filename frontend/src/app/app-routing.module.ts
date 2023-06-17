@@ -12,12 +12,12 @@ import {UserListComponent} from './components/user-list/user-list.component';
 import {UpdateProfileComponent} from './components/update-profile/update-profile.component';
 import {RegisterPatientComponent} from './components/register/register-patient/register-patient.component';
 import {PatientDetailComponent} from './components/patient/patient-detail/patient-detail.component';
-import {CreateEditDiagnoseComponent} from './components/patient/patient-detail/create-edit-diagnose/create-edit-diagnose.component';
-import {DiagnoseCreateEditMode} from './components/patient/patient-detail/create-edit-diagnose/create-edit-diagnose.component';
+import {CreateEditDiagnoseComponent} from './components/patient/patient-edit/create-edit-diagnose/create-edit-diagnose.component';
+import {DiagnoseCreateEditMode} from './components/patient/patient-edit/create-edit-diagnose/create-edit-diagnose.component';
 import {
   CreateEditExaminationComponent
-} from './components/patient/patient-detail/create-edit-examination/create-edit-examination.component';
-import {ExaminationCreateEditMode} from './components/patient/patient-detail/create-edit-examination/create-edit-examination.component';
+} from './components/patient/patient-edit/create-edit-examination/create-edit-examination.component';
+import {ExaminationCreateEditMode} from './components/patient/patient-edit/create-edit-examination/create-edit-examination.component';
 import {VerificationComponent} from './components/verification/verification.component';
 import {SetpasswordComponent} from './components/setpassword/setpassword.component';
 import {Role} from './dtos/role';
@@ -38,6 +38,7 @@ import {MatchingPatientComponent} from './components/trial-registration/matching
 import {
   AcceptRegistrationRequestsComponent
 } from './components/trial-registration/accept-registration-requests/accept-registration-requests.component';
+import {PatientEditComponent} from './components/patient/patient-edit/patient-edit.component';
 
 const routes: Routes = [
   {path: '', component: HomeComponent},
@@ -77,8 +78,8 @@ const routes: Routes = [
       {path: 'register-patient', component: RegisterPatientComponent},
       {path: 'request-patient', component: RequestPatientComponent},
       {path: 'my-patients', component: ViewConnectionsComponent, data: {role: Role.doctor}},
-      {path: 'view-patient/:id', children: [
-          {path: '', component: PatientDetailComponent},
+      {path: 'edit-patient/:id', children: [
+          {path: '', component: PatientEditComponent},
           {path: 'examination', children: [
               {path: 'create', component: CreateEditExaminationComponent, data: {mode: ExaminationCreateEditMode.create}},
               {path: 'edit/:eid', component: CreateEditExaminationComponent, data: {mode: ExaminationCreateEditMode.edit}},
@@ -88,6 +89,7 @@ const routes: Routes = [
               {path: 'edit/:did', component: CreateEditDiagnoseComponent, data: {mode: DiagnoseCreateEditMode.edit}},
               ]},
           ]},
+      {path: 'view-patient/:id', component: PatientDetailComponent},
       {path: 'trial/:trialId/match-patient', component: MatchingPatientComponent},
 
     ]},
