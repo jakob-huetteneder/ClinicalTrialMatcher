@@ -53,6 +53,11 @@ export interface Treats {
   status: TreatsStatus;
 }
 
+export interface PythonResponse {
+  diseases: string[];
+  negatives: string[];
+}
+
 export enum TreatsStatus {
   requested = 'REQUESTED',
   accepted = 'ACCEPTED',

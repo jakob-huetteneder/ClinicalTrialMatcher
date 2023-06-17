@@ -1,7 +1,7 @@
 import torch
 import re
 from transformers import AutoTokenizer, AutoModelForTokenClassification
-
+from flask import jsonify
 
 tokenizer = AutoTokenizer.from_pretrained("alvaroalon2/biobert_diseases_ner")
 model = AutoModelForTokenClassification.from_pretrained("alvaroalon2/biobert_diseases_ner")
@@ -28,6 +28,29 @@ def pipeline(text):
         extracted_entities.extend(extract_entities(text))
     cleaned_entities = clean(extracted_entities)
     return removeNegatives(copied_text, cleaned_entities)
+
+def pipelineN(text):
+    
+    texts = []
+    copied_text = '' + text
+    while len(text) > 512:
+        # search for last whitespace before 2039 characters
+        index = text.rfind(".", 0, 512)
+        if index == -1:
+            index = text.rfind(" ", 0, 512)
+        if index == 0 or index == -1:
+            index = 512
+        texts.append(text[:index])
+        text = text[index:]
+    else:
+        texts.append(text)
+
+    extracted_entities = []
+    for text in texts:
+        print('text: ', text)
+        extracted_entities.extend(extract_entities(text))
+    cleaned_entities = clean(extracted_entities)
+    return removeNegatives(copied_text, cleaned_entities), getNegatives(copied_text, cleaned_entities)
 
 def extract_entities(text):
     inputs = tokenizer.encode(text, return_tensors="pt")
@@ -112,6 +135,46 @@ def removeNegatives(text, extracted_entities):
         if ("negative " + disease).lower() in text.lower():
             continue
         result.append(disease)
+
+    return result
+
+
+def getNegatives(text, extracted_entities):
+    result = []
+    for disease in extracted_entities:
+        if ("not have " + disease).lower() in text.lower():
+            result.append("not have " + disease)
+            continue
+        if ("not " + disease).lower() in text.lower():
+            result.append("not " + disease)
+            continue
+        if ("doesn't have " + disease).lower() in text.lower():
+            result.append("doesn't have " + disease)
+            continue
+        if ("hasn't " + disease).lower() in text.lower():
+            result.append("hasn't " + disease)
+            continue
+        if ("has not " + disease).lower() in text.lower():
+            result.append("has not " + disease)
+            continue
+        if ("no history of " + disease).lower() in text.lower():
+            result.append("no history of " + disease)
+            continue
+        if ("no " + disease).lower() in text.lower():
+            result.append("no " + disease)
+            continue
+        if ("no evidence of " + disease).lower() in text.lower():
+            result.append("no evidence of " + disease)
+            continue
+        if ("no recent history of " + disease).lower() in text.lower():
+            result.append("no recent history of " + disease)
+            continue
+        if ("negative for " + disease).lower() in text.lower():
+            result.append("negative for " + disease)
+            continue
+        if ("negative " + disease).lower() in text.lower():
+            result.append("negative " + disease)
+            continue
 
     return result
 

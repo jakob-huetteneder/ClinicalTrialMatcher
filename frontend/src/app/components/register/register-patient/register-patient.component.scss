@@ -78,3 +78,13 @@ hr {
 
   color: #162E51;
 }
+.textarea-like {
+  resize: vertical;
+  overflow-y: auto;
+}
+
+.highlight {
+  background-color: #c8f7c5; /* Green background color */
+  color: #006400; /* Dark green text color */
+  font-weight: bold; /* Bold text */
+}

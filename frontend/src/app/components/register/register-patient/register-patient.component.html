@@ -85,12 +85,14 @@
         <div class="flex-initial single-button ml-5 mt-1">
           <a class="group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row">
             <i class="bi-info-circle w-4 text-blue-950"></i>
-            <div class="group-hover:cursor-text p-3 absolute border border-slate-100 top-6 z-10 w-96 hidden list-none overflow-hidden rounded-lg backdrop-blur-lg shadow-md group-hover:flex flex-row right gap-2">
+            <div
+              class="group-hover:cursor-text p-3 absolute border border-slate-100 top-6 z-10 w-96 hidden list-none overflow-hidden rounded-lg backdrop-blur-lg shadow-md group-hover:flex flex-row right gap-2">
               <i class="text-red-600 bi bi-exclamation-circle flex-initial"></i>
               <p class="text-justify text-xs text-slate-700 m-0">
                 Please note that the analyzer tool is designed specifically for extracting diseases from your admission
                 note. However, it is important to be aware that it may generate incorrect information or overlook
-                essential details. <b>Therefore, we highly recommend double-checking your diagnoses after using the tool.</b>
+                essential details. <b>Therefore, we highly recommend double-checking your diagnoses after using the
+                tool.</b>
               </p>
             </div>
           </a>
@@ -98,19 +100,36 @@
       </div>
       <div class="flex flex-row">
         <div class="flex flex-col flex-1">
-          <textarea #admissionModel="ngModel" [(ngModel)]="toRegister.admissionNote"
-                    [class]="dynamicCssClassesForInput(admissionModel)"
-                    class="mr-5 h-10 mb-2 inputfield border-0 min-h-[5rem]"
-                    placeholder="Enter the admission notes for your patient"></textarea>
+<textarea *ngIf="!highlight" #admissionModel="ngModel" [(ngModel)]="toRegister.admissionNote"
+          [class]="dynamicCssClassesForInput(admissionModel)"
+          class="mr-5 h-10 mb-2 inputfield border-0 min-h-auto min-h-[5rem]"
+          placeholder="Enter the admission notes for your patient"></textarea>
+
+          <div *ngIf="highlight" class="flex flex-col">
+            <div #admissionModel="ngModel" [(ngModel)]="toRegister.admissionNote"
+                 [class]="dynamicCssClassesForInput(admissionModel)"
+                 class="mr-5 min-h-auto min-h-[5rem] mb-2 inputfield border-0 textarea-like"
+                 style="display: flex; flex-direction: column; height: 100%;">
+              <div (click)="highlight = false" class="p-2 hover:cursor-pointer"
+                   style="flex: 1; overflow: auto; width: 100%;"
+                   [innerHTML]="sanitizeHTML(analyzedText)">
+              </div>
+            </div>
+
+          </div>
+
+
         </div>
         <div class="flex flex-row flex-initial">
           <button [disabled]="this.toRegister.admissionNote === '' || analyzing" (click)="analyze()"
                   class="{{buttonstyleAdmission()}} rounded w-35 p-2 h-10 mr-5 text-white relative disabled:cursor-not-allowed disabled:opacity-60">
             <span [ngClass]="{'invisible': analyzing}">Analyze Note</span>
             <span *ngIf="analyzing" class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
-              <svg class="animate-spin h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+              <svg class="animate-spin h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none"
+                   viewBox="0 0 24 24">
                 <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
-                <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                <path class="opacity-75" fill="currentColor"
+                      d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
               </svg>
             </span>
           </button>
