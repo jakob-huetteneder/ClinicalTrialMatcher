@@ -17,7 +17,8 @@ export class MatchingPatientComponent implements OnInit {
   patients: Patient[] = [];
   showDetails: boolean[] = [];
 
-  allPatients: Patient[] = [];
+  allPatientsOfDoctor: Patient[] = [];
+  allMatchingPatients: Patient[] = [];
 
   search = '';
   debouncer = new Subject<any>();
@@ -92,12 +93,21 @@ export class MatchingPatientComponent implements OnInit {
     this.treatsService.getAllRequests('').subscribe({
       next: (patients: Treats[]) => {
         console.log(patients);
-        this.allPatients = patients
+        this.allPatientsOfDoctor = patients
           .filter(treats => treats.status === TreatsStatus.accepted)
           .map(treats => treats.patient);
-        this.patients = this.allPatients;
+        this.patients = this.allPatientsOfDoctor;
         this.showDetails = new Array(this.patients.length).fill(false);
         console.log(this.patients);
+      },
+      error: error => {
+        console.log('Could not load patients');
+        this.error('Could not load patients');
+      }
+    });
+    this.trialService.getAllMatchingPatients(this.trial.id).subscribe({
+      next: (patients: Patient[]) => {
+        this.allMatchingPatients = patients;
       },
       error: error => {
         console.log('Could not load patients');
@@ -107,7 +117,7 @@ export class MatchingPatientComponent implements OnInit {
   }
 
   private searchPatients() {
-    this.patients = this.allPatients.filter(patient =>
+    this.patients = this.allPatientsOfDoctor.filter(patient =>
       patient.firstName.toLowerCase().includes(this.search.toLowerCase())
       || patient.lastName.toLowerCase().includes(this.search.toLowerCase())
       || (patient.firstName.toLowerCase() + ' ' + patient.lastName.toLowerCase()).includes(this.search.toLowerCase()));

@@ -1,4 +1,5 @@
 import torch
+import re
 from transformers import AutoTokenizer, AutoModelForTokenClassification
 
 
@@ -113,3 +114,29 @@ def removeNegatives(text, extracted_entities):
         result.append(disease)
 
     return result
+
+
+def get_age(admission_note):
+    age = re.findall(r'\d{1,3}', admission_note['note'])
+    
+    if len(age) > 0:
+        return int(age[0])
+    else:
+        return -1
+    
+def get_gender(admission_note):
+    maleTerms = ['male', 'man', 'gentleman', 'boy', 'm']
+    femaleTerms = ['female', 'woman', 'lady', 'girl', 'f']
+    allTerms = maleTerms + femaleTerms
+    
+    # Match any female or male term
+    sex = re.findall(r'\b(?:%s)\b' % '|'.join(allTerms), admission_note[:100], flags=re.IGNORECASE)
+        
+    # Find sex like 48M get only the M
+    sex.extend(re.findall(r'\d{1,3}\s?(%s)' % '|'.join(allTerms), admission_note[:100], flags=re.IGNORECASE))
+        
+    if len(sex) > 0:
+        sex = sex[0].lower()
+        return 'm' if sex in maleTerms else 'f'
+    else:
+        return 'u'

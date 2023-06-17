@@ -2,8 +2,8 @@
 
   <div class="container grid align-items-center">
     <div class="flex flex-row align-items-center mb-2">
-      <div class="fw-bold text-cool-blue-500">
-        <span>{{trial.title}}</span>
+      <div >
+        <a class="fw-bold text-cool-blue-500 no-underline hover:text-cool-blue-700 hover:underline" [routerLink]="'/trial/detail/' + trial.id">{{trial.title}}</a>
         <span [class]="trialStatusClass(trial)" class="border-2 rounded ml-3 px-1 py-0.5 text-sm font-medium">{{trialStatus(trial)}}</span>
       </div>
     </div>
@@ -11,11 +11,11 @@
     <div class="flex flex-row justify-between mb-2">
 
 
-      <div class="text-sm font-semibold text-cool-blue-500 ml-4"><i
+      <div class="text-sm font-semibold text-cool-blue-500"><i
         class="bi bi-geo-alt-fill mr-1"></i>{{trial.location}}
       </div>
 
-      <div class="text-sm font-semibold text-cool-blue-500 mr-4">
+      <div class="text-sm font-semibold text-cool-blue-500">
         <i class="bi bi-calendar-week mr-2"></i>
         {{trial.startDate}} - {{trial.endDate}}
       </div>

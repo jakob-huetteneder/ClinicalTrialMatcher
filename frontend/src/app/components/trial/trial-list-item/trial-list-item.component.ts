@@ -37,7 +37,7 @@ export class TrialListItemComponent {
     if (trial.status === TrialStatus.recruiting) {
       return 'Recruiting';
     } else if (trial.status === TrialStatus.notRecruiting) {
-      return 'Not recruiting';
+      return 'Not\xa0recruiting';
     } else if (trial.status === TrialStatus.draft) {
       return 'Draft';
     }

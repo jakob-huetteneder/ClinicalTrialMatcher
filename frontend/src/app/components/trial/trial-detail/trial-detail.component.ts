@@ -53,7 +53,9 @@ export class TrialDetailComponent implements OnInit {
       next: params => {
         this.trial.id = params.id;
         this.loadTrial();
-        this.loadApplicationStatus();
+        if (this.authService.getUserRole() === Role.patient) {
+          this.loadApplicationStatus();
+        }
       }
     });
   }

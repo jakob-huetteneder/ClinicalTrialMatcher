@@ -3,6 +3,7 @@ import {Injectable} from '@angular/core';
 import {Observable} from 'rxjs';
 import {environment} from 'src/environments/environment';
 import {Trial, TrialRegistration} from '../dtos/trial';
+import {Patient} from '../dtos/patient';
 
 
 const baseUri = environment.backendUrl + '/api/v1/trials';
@@ -34,6 +35,10 @@ export class TrialService {
    */
   getResearcherTrials(): Observable<Trial[]> {
     return this.http.get<Trial[]>(baseUri + '/researcher');
+  }
+
+  getAllMatchingPatients(trialId: number): Observable<Patient[]> {
+    return this.http.get<Patient[]>(baseUri + '/match/' + trialId);
   }
 
 
