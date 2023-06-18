@@ -5,7 +5,6 @@ import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.TrialListDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.TrialListMapper;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.TrialMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
-import at.ac.tuwien.sepm.groupphase.backend.entity.Researcher;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Trial;
 import at.ac.tuwien.sepm.groupphase.backend.entity.TrialList;
 import at.ac.tuwien.sepm.groupphase.backend.exception.NotFoundException;
@@ -51,7 +50,7 @@ public class TrialListServiceImpl implements TrialListService {
         LOG.trace("getAllTrialLists()");
         Long userId = authorizationService.getSessionUserId();
         var trialLists = trialListRepository.getTrialListsByUser_Id(userId);
-        LOG.info("Retrieved own trial lists ({})", trialLists.size());
+        LOG.debug("Retrieved own trial lists ({})", trialLists.size());
         return trialListMapper.trialListsToTrialListDtos(trialLists);
     }
 
@@ -63,7 +62,7 @@ public class TrialListServiceImpl implements TrialListService {
             .orElseThrow(() -> new NotFoundException("Could not find a user for the logged in user."));
         convertedTrials.setUser(loggedInUser);
         TrialList savedTrialList = trialListRepository.save(convertedTrials);
-        LOG.info("Saved trials in your list");
+        LOG.debug("Saved trials in your list");
         return trialListMapper.trialListToTrialListDto(savedTrialList);
     }
 
@@ -75,7 +74,7 @@ public class TrialListServiceImpl implements TrialListService {
         Trial convertedTrial = trialMapper.trialDtoToTrial(trial);
         trialList.addTrial(convertedTrial);
         TrialList savedTrialList = trialListRepository.save(trialList);
-        LOG.info("Added trial to trial list");
+        LOG.debug("Added trial to trial list");
         return trialListMapper.trialListToTrialListDto(savedTrialList);
     }
 
@@ -85,7 +84,7 @@ public class TrialListServiceImpl implements TrialListService {
         TrialList trialList = trialListRepository.findById(id)
             .orElseThrow(() -> new NotFoundException("Could not find a trial list with the id " + id + "."));
         trialListRepository.delete(trialList);
-        LOG.info("Deleted trial list " +  trialList.getName());
+        LOG.debug("Deleted trial list " +  trialList.getName());
     }
 
     @Override
@@ -93,7 +92,7 @@ public class TrialListServiceImpl implements TrialListService {
         LOG.trace("getTrialListById()");
         TrialList trialList = trialListRepository.findById(id)
             .orElseThrow(() -> new NotFoundException("Could not find a trial list with the id " + id + "."));
-        LOG.info("Found trial list " +  trialList.getName());
+        LOG.debug("Found trial list " +  trialList.getName());
         return trialListMapper.trialListToTrialListDto(trialList);
     }
 
@@ -104,7 +103,7 @@ public class TrialListServiceImpl implements TrialListService {
             .orElseThrow(() -> new NotFoundException("Could not find a trial with the id " + trialId + "."));
         deleteTrial.getTrial().removeIf(trial -> trial.getId().equals(trialId));
         TrialList savedTrialList = trialListRepository.save(deleteTrial);
-        LOG.info("Deleted trial from trial list");
+        LOG.debug("Deleted trial from trial list");
         return trialListMapper.trialListToTrialListDto(savedTrialList);
     }
 }

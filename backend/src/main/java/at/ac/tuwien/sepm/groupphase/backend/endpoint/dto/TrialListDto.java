@@ -1,13 +1,14 @@
 package at.ac.tuwien.sepm.groupphase.backend.endpoint.dto;
 
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
-import at.ac.tuwien.sepm.groupphase.backend.entity.Trial;
+import jakarta.validation.constraints.NotBlank;
 
 import java.util.List;
 
 public class TrialListDto {
 
     private Long id;
+    @NotBlank(message = "Name must not be blank")
     private String name;
     private ApplicationUser user;
     private List<TrialDto> trial;

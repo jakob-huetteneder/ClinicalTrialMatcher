@@ -7,7 +7,7 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
-import jakarta.persistence.OneToMany;
+import jakarta.persistence.ManyToMany;
 import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
 
@@ -30,7 +30,7 @@ public class TrialList {
     @JoinColumn(name = "user_id", nullable = false)
     private ApplicationUser user;
 
-    @OneToMany(fetch = FetchType.EAGER)
+    @ManyToMany(fetch = FetchType.EAGER)
     @JoinColumn(name = "trial_id")
     private List<Trial> trial;
 
@@ -51,8 +51,9 @@ public class TrialList {
         return user;
     }
 
-    public void setUser(ApplicationUser user) {
+    public TrialList setUser(ApplicationUser user) {
         this.user = user;
+        return this;
     }
 
     public List<Trial> getTrial() {
@@ -68,7 +69,8 @@ public class TrialList {
         return name;
     }
 
-    public void setName(String name) {
+    public TrialList setName(String name) {
         this.name = name;
+        return this;
     }
 }

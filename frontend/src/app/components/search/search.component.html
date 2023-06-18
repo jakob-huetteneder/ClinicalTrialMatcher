@@ -61,16 +61,22 @@
             <div
               class="absolute z-[1000] mt-4 hidden list-none overflow-hidden rounded-lg bg-white opacity-85 backdrop-blur-md shadow-md group-hover:block right-0">
               <ul class="w-auto px-2 py-2 mb-0">
-                <li *ngFor="let trialList of allLists">
+                <li *ngFor="let trialList of allLists" class="flex flex-row justify-between items-center gap-2">
                   <a
-                    class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
+                    class="block whitespace-nowrap bg-transparent no-underline py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
                     (click)="addTrialToList(trial, trialList)"
-                  >{{trialList.name}}</a
-                  >
+                  >{{trialList.name}}</a>
+                  <div *ngIf="listContains(trialList, trial)">
+                    <app-confirm-button (confirm)="deleteTrialFromList(trial.id, trialList)" details="Trial list will be deleted from {{trialList.name}}.">
+                      <a class="text-red-600 hover:text-red-900"
+                         aria-label="Delete Trial List">
+                        <i class="bi bi-trash"></i>
+                      </a>
+                    </app-confirm-button>
+                  </div>
               </ul>
             </div>
           </a>
-
         </div>
       </div>
 

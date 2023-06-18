@@ -75,4 +75,10 @@ hr {
   padding: 10px;
 }
 
+.button{
+  background-color:red;
+}
 
+.button:hover{background-color:green;}
+
+.button:focus{background-color:blue;}

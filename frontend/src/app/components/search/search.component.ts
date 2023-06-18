@@ -25,6 +25,10 @@ export class SearchComponent implements OnInit {
 
   ngOnInit() {
     this.reload();
+    this.trialListService.updateEvent.subscribe(() => {
+      this.reload();
+      console.log('TrialList update');
+    });
   }
 
   reload() {
@@ -60,4 +64,22 @@ export class SearchComponent implements OnInit {
       }
     });
   }
+  listContains(list: TrialList, trial: Trial): boolean {
+    return list.trial.some(t => t.id === trial.id);
+  }
+
+  deleteTrialFromList(trialId: number, list: TrialList) {
+    this.trialListService.deleteTrialFromList(trialId, list).subscribe({
+      next: data => {
+        this.notification.success('Successfully deleted trial from list', 'Success');
+        this.reload();
+      },
+      error: error => {
+        console.error('Error deleting trial from list', error);
+        this.notification.error(error.error.message, 'Error deleting trial from list');
+      }
+    });
+  }
+
+
 }

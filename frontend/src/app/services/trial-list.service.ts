@@ -1,5 +1,5 @@
 import {environment} from '../../environments/environment';
-import {Injectable} from '@angular/core';
+import {EventEmitter, Injectable} from '@angular/core';
 import {HttpClient} from '@angular/common/http';
 import {Observable} from 'rxjs';
 import {Trial} from '../dtos/trial';
@@ -12,6 +12,7 @@ const baseUri = environment.backendUrl + '/api/v1/trialList';
   providedIn: 'root'
 })
 export class TrialListService {
+  updateEvent = new EventEmitter<void>();
 
   constructor(
     private http: HttpClient,

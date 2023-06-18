@@ -86,6 +86,7 @@ export class HeaderComponent implements OnInit {
     this.trialListService.create(this.trialListForm.value).subscribe({
       next: data => {
         this.reload();
+        this.trialListService.updateEvent.emit();
         this.notification.success(`Trial List ${data.name} successfully created.`);
       },
       error: error => {
@@ -99,6 +100,7 @@ export class HeaderComponent implements OnInit {
     console.log('deleteTrialList', trialList);
     this.trialListService.deleteTrialList(trialList).subscribe({
       next: data => {
+        this.trialListService.updateEvent.emit();
         this.reload();
         this.notification.success(`Trial List ${trialList.name} successfully deleted.`);
       },

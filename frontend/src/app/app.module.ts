@@ -38,6 +38,7 @@ import {ViewRequestsComponent} from './components/doctor-patient-connection/view
 import {ViewConnectionsComponent} from './components/doctor-patient-connection/view-connections/view-connections.component';
 import {SearchComponent} from './components/search/search.component';
 import {TrialListComponent} from './components/trial/trial-list/trial-list.component';
+import {MatButtonToggleModule} from '@angular/material/button-toggle';
 
 @NgModule({
   declarations: [
@@ -79,7 +80,8 @@ import {TrialListComponent} from './components/trial/trial-list/trial-list.compo
     FormsModule,
     NgOptimizedImage,
     MatDialogModule,
-    MatButtonModule
+    MatButtonModule,
+    MatButtonToggleModule
   ],
   providers: [httpInterceptorProviders],
   bootstrap: [AppComponent]
