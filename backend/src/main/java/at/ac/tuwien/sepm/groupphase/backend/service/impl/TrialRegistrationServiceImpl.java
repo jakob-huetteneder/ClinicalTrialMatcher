@@ -43,14 +43,14 @@ public class TrialRegistrationServiceImpl implements TrialRegistrationService {
 
     @Override
     public List<TrialRegistrationDto> getAllRegistrationsForTrial(Long trialId) {
-        LOG.info("Getting all registrations for trial with id {}", trialId);
+        LOG.trace("getAllRegistrationsForTrial({})", trialId);
         List<Registration> registrations = trialRegistrationRepository.findAllByTrial_Id(trialId);
         return trialRegistrationMapper.trialRegistrationToTrialRegistrationDto(registrations);
     }
 
     @Override
     public List<TrialRegistrationDto> getAllRegistrationsForPatient() {
-        LOG.info("Getting all registrations for patient");
+        LOG.trace("getAllRegistrationsForPatient()");
         Long patientUserId = authorizationService.getSessionUserId();
         Optional<Patient> patient = patientRepository.findByApplicationUser_Id(patientUserId);
         if (patient.isEmpty()) {
@@ -62,6 +62,7 @@ public class TrialRegistrationServiceImpl implements TrialRegistrationService {
 
     @Override
     public TrialRegistrationDto requestRegistrationAsPatient(Long trialId) {
+        LOG.trace("requestRegistrationAsPatient({})", trialId);
         Long patientUserId = authorizationService.getSessionUserId();
         Optional<Patient> patient = patientRepository.findByApplicationUser_Id(patientUserId);
         if (patient.isEmpty()) {
@@ -81,6 +82,7 @@ public class TrialRegistrationServiceImpl implements TrialRegistrationService {
 
     @Override
     public TrialRegistrationDto requestRegistrationAsDoctor(Long patientId, Long trialId) {
+        LOG.trace("requestRegistrationAsDoctor({}, {})", patientId, trialId);
         Optional<Patient> patient = patientRepository.findById(patientId);
 
         if (patient.isEmpty()) {
@@ -103,7 +105,7 @@ public class TrialRegistrationServiceImpl implements TrialRegistrationService {
 
     @Override
     public TrialRegistrationDto respondToRegistrationRequestProposal(Long trialId, boolean accepted) {
-        LOG.info("Responding to registration request proposal for trial with id {} ({})", trialId, accepted ? "accepted" : "rejected");
+        LOG.trace("respondToRegistrationRequestProposal({}, {})", trialId, accepted);
         Long patientUserId = authorizationService.getSessionUserId();
         Optional<Patient> patient = patientRepository.findByApplicationUser_Id(patientUserId);
         if (patient.isEmpty()) {
@@ -123,7 +125,7 @@ public class TrialRegistrationServiceImpl implements TrialRegistrationService {
 
     @Override
     public TrialRegistrationDto respondToRegistrationRequest(Long patientId, Long trialId, boolean accepted) {
-        LOG.info("Responding to registration of patient with id {} for trial with id {} ({})", patientId, trialId, accepted ? "accepted" : "rejected");
+        LOG.trace("respondToRegistrationRequest({}, {}, {})", patientId, trialId, accepted);
         Optional<Registration> registration = trialRegistrationRepository.findByRegistrationId_PatientIdAndRegistrationId_TrialId(patientId, trialId);
         if (registration.isPresent() && registration.get().getStatus() == Registration.Status.PATIENT_ACCEPTED) {
             Registration r = registration.get();
@@ -137,6 +139,7 @@ public class TrialRegistrationServiceImpl implements TrialRegistrationService {
 
     @Override
     public TrialRegistrationDto checkIfAlreadyRegistered(Long trialId) {
+        LOG.trace("checkIfAlreadyRegistered({})", trialId);
         Long patientUserId = authorizationService.getSessionUserId();
         Optional<Patient> patient = patientRepository.findByApplicationUser_Id(patientUserId);
         if (patient.isEmpty()) {
