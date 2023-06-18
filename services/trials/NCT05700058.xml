@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9342">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05700058</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ARLA-WHEY_PtB_COMAP</org_study_id>
+    <nct_id>NCT05700058</nct_id>
+  </id_info>
+  <brief_title>Assessing the Dose-response of Muscle Protein Synthesis to &quot;Super-whey&quot; in Older Adults</brief_title>
+  <acronym>ARLA-WHEY</acronym>
+  <official_title>Assessing the Dose-response of Muscle Protein Synthesis to &quot;Super-whey&quot; at Rest and in Response to Acute Exercise in Older Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Nottingham</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Nottingham</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Skeletal muscle accounts for approximately 45-55% of total body mass in healthy adults and&#xD;
+      plays a pivotal role in whole-body metabolic health, locomotion and physical independence.&#xD;
+      Undesirable loss of skeletal muscle mass (atrophy) is, however, a common feature of many&#xD;
+      diseases and scenarios including ageing, bed rest/immobilisation, cancer and physical&#xD;
+      inactivity. Despite the exact mechanisms causing muscle atrophy being not yet fully&#xD;
+      understood, &quot;anabolic resistance&quot; (reduced muscle building in response to protein feeding and&#xD;
+      exercise) is thought to be key, especially for age-related skeletal muscle losses (known as&#xD;
+      sarcopenia). As such, the search for optimal strategies (e.g., exercise and/ or nutritional&#xD;
+      interventions) to combat this anabolic blunting remains a hot-topic in scientific research.&#xD;
+&#xD;
+      Leucine, an essential and branched chain amino acid (EAA/BCAA), is thought to be the most&#xD;
+      potent AA for stimulating muscle protein synthesis (MPS; the muscle building process).&#xD;
+      Although, as a stand-alone supplement, leucine is unlikely to provoke a robust and prolonged&#xD;
+      state of MPS, low doses of leucine-enriched mixed-EAAs can elicit similar increases in MPS as&#xD;
+      compared to a large dose of whey protein. As reduced appetite and increased satiety (feeling&#xD;
+      fuller) are common with advancing age, supplementation of a low-dose protein (i.e.,&#xD;
+      leucine-enriched) that can adequately stimulate MPS may contribute to muscle health&#xD;
+      maintenance in older adults and reduce satiation following a meal.&#xD;
+&#xD;
+      This study aims to examine which of three doses of a novel leucine-enriched whey protein&#xD;
+      (&quot;super-whey&quot;) best stimulates muscle building in older adults&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">January 2023</start_date>
+  <completion_date type="Anticipated">June 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Muscle protein fractional synthetic rate (postabsorptive)</measure>
+    <time_frame>Assessed at 3 hour mark</time_frame>
+    <description>Postabsorptive measures of muscle protein synthesis assessed in muscle tissue (collected by muscle biopsy). This outcome will be assessed prior to administering a protein drink to obtain muscle protein fractional synthetic rate in the fasted state.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Muscle protein fractional synthetic rate (postprandial)</measure>
+    <time_frame>Assessed at 6 hour mark</time_frame>
+    <description>Postprandial measures of muscle protein synthesis assessed in muscle tissue (collected by muscle biopsy). This outcome will be assessed following administering a protein drink to obtain muscle protein fractional synthetic rate in the fed state.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Plasma amino acid concentrations</measure>
+    <time_frame>Assessed over 7.5 hours</time_frame>
+    <description>During the fasted and fed states of the study, blood samples are collected every 20 minutes to capture the plasma amino acid concentrations in the blood at that time-point (24 timepoints assessed). Future analysis using mass-spectroscopy will allow determination of the different amino acid concentrations in the blood plasma collected.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Sarcopenia</condition>
+  <arm_group>
+    <arm_group_label>Super-Whey protein Dose 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All protein sources will be given in doses that are considered low/normal, both in relation to recommended dietary advice and commercially available supplements. As such, no adverse reactions or side effects are expected through consumption of these supplementations</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Super-Whey protein Dose 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All protein sources will be given in doses that are considered low/normal, both in relation to recommended dietary advice and commercially available supplements. As such, no adverse reactions or side effects are expected through consumption of these supplementations</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Super-Whey protein Dose 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All protein sources will be given in doses that are considered low/normal, both in relation to recommended dietary advice and commercially available supplements. As such, no adverse reactions or side effects are expected through consumption of these supplementations</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Dietary protein supplement</intervention_name>
+    <description>3 different doses of super-whey protein supplements will be given in a randomised crossover fashion to participants</description>
+    <arm_group_label>Super-Whey protein Dose 1</arm_group_label>
+    <arm_group_label>Super-Whey protein Dose 2</arm_group_label>
+    <arm_group_label>Super-Whey protein Dose 3</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participant is in the desired age-ranges (young adults: 18-35 years; older adults: 65+&#xD;
+             years).&#xD;
+&#xD;
+          -  Participant is willing and able to give informed consent for participation in the&#xD;
+             study.&#xD;
+&#xD;
+          -  Participant is physically able to perform resistance exercise&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  A BMI &lt;18 or &gt;35 kg/m2&#xD;
+&#xD;
+          -  Active cardiovascular, cerebrovascular or respiratory disease: e.g. uncontrolled&#xD;
+             hypertension (BP &gt; 160/100), angina, heart failure (class III/IV), arrhythmia, right&#xD;
+             to left cardiac shunt, recent cardiac event, COPD, pulmonary hypertension or recent (6&#xD;
+             mo) stroke&#xD;
+&#xD;
+          -  Any metabolic disease&#xD;
+&#xD;
+          -  Clotting dysfunction&#xD;
+&#xD;
+          -  A history of, or current neurological or musculoskeletal conditions (e.g. epilepsy)&#xD;
+&#xD;
+          -  Lactose intolerance&#xD;
+&#xD;
+          -  Having taken part in a research study in the last 3 months involving invasive&#xD;
+             procedures or an inconvenience allowance&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Centre of Ageing, Metabolism and Physiology</name>
+      <address>
+        <city>Derby</city>
+        <zip>DE22 3DT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Philip Atherton, Prof</last_name>
+      <phone>+44 1332 724725</phone>
+      <email>Philip.Atherton@nottingham.ac.uk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>January 17, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 17, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Nottingham</investigator_affiliation>
+    <investigator_full_name>Philip Atherton</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sarcopenia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

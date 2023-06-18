@@ -155,6 +155,13 @@
             <li>
               <a
                 class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
+                routerLink="/researcher/requests"
+              >View requests</a
+              >
+            </li>
+            <li>
+              <a
+                class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
                 routerLink="/researcher/trials"
               >View own trials</a
               >
@@ -175,6 +182,30 @@
     <!-- PATIENT FUNCTIONS -->
     <div *ngIf="authService.getUserRole() === role.patient" class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
       <a class="group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row">
+        <div class="text-in-button mt-1">Trials</div>
+        <i class="bi-chevron-down w-4 text-blue-950"></i>
+        <div
+          class="absolute z-[1000] mt-4 hidden list-none overflow-hidden rounded-lg bg-white opacity-85 backdrop-blur-md shadow-md group-hover:block right-0">
+          <ul class="w-auto px-2 py-2 mb-0">
+            <li>
+              <a
+                routerLink="/patient/trial-registrations"
+                class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
+              >View registered trials</a
+              >
+            </li>
+            <li>
+              <a routerLink=""
+                 class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
+              >Browse trials</a
+              >
+            </li>
+          </ul>
+        </div>
+      </a>
+    </div>
+    <div *ngIf="authService.getUserRole() === role.patient" class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
+      <a class="group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row">
         <div class="text-in-button mt-1">Assistance</div>
         <i class="bi-chevron-down w-4 text-blue-950"></i>
         <div
@@ -190,22 +221,14 @@
             <li>
               <a routerLink="/patient/requests"
                  class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
-              >View Pending Requests</a
-              >
-            </li>
-            <hr
-              class="my-2 h-0 border border-t-0 border-solid border-blue-950 opacity-50"/>
-            <li>
-              <a
-                class="block whitespace-nowrap bg-transparent no-underline px-4 py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
-                href="#"
-              >Browse Matching Trials</a
+              >View Requests</a
               >
             </li>
           </ul>
         </div>
       </a>
     </div>
+
     <div class="flex-initial single-button">
       <button class="flex-initial bg-blue-300 rounded w-35 py-2 px-4 h-10 text-blue-900 font-bold border-blue-950 drop-shadow-sm"
               *ngIf="!authService.isLoggedIn()" routerLink="/account/login" routerLinkActive="active">Login

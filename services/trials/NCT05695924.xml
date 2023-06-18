@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9533">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05695924</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB-67367</org_study_id>
+    <nct_id>NCT05695924</nct_id>
+  </id_info>
+  <brief_title>Surgical Evaluation for Upper Extremity Lymphedema (BioBridge)</brief_title>
+  <official_title>Prospective Evaluation of Nanofibrillar Collagen Scaffold (BioBridge®) as an Adjunct to Lymph Node Transplant for Upper Extremity Lymphedema</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fibralign Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Fibralign Corporation</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To investigate whether the addition of Fibralign's BioBridge® Collagen Matrix (BioBridge)&#xD;
+      devices to the standard surgery for vascularized lymph node transfer will improve the outcome&#xD;
+      of surgical treatment in lymphedema of the upper arm.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The proposed study utilizes Fibralign's BioBridge® Collagen Matrix (BioBridge), a sterile&#xD;
+      implantable biocompatible and biodegradable surgical mesh ribbon comprised of highly purified&#xD;
+      porcine collagen. The Class II device was cleared by CDRH Division of Surgical Devices on 8&#xD;
+      January 2016 under 510(k) K151083.&#xD;
+&#xD;
+      The study will investigate whether addition of the BioBridge Collagen Matrix to the standard&#xD;
+      surgery for vascularized lymph node transfer will improve the outcome of surgical treatment&#xD;
+      in lymphedema of the upper extremity. This clinical study will also be used in support of IDE&#xD;
+      G200200 review conducted by the FDA.&#xD;
+&#xD;
+      Primary endpoint is the post surgical % change in excess limb volume, measured at 12 months&#xD;
+      following the surgical procedure.&#xD;
+&#xD;
+      Secondary endpoints are change in quality of life scores measured by LLIS and change in&#xD;
+      lymphatic function as measured by indocyanine green (ICG) fluorescence imaging.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2023</start_date>
+  <completion_date type="Anticipated">June 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Prospective, randomized, control arm</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Partially Blinded: Patients will be informed which group they are randomized into and given the option to opt out of the study. Investigators (other than surgeons conducting surgery) and study personnel involved in patient measurements will be unaware of the patient treatment option.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Excess limb volume change</measure>
+    <time_frame>Baseline and 12 months after treatment</time_frame>
+    <description>Change in % of (excess) limb volume in the intervention group relative to control group</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>LLIS survey</measure>
+    <time_frame>Baseline and 12 months after treatment</time_frame>
+    <description>Lymphedema-specific instrument to measure impairments, activity limitations, and participation restrictions in those living with any extremity lymphedema</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>L-Dex bioimpedance spectroscopy.</measure>
+    <time_frame>Baseline and 12 months after treatment</time_frame>
+    <description>Change in the Lymphedema Index (L-Dex) in the intervention group relative to control group. The L-Dex score has the requisite sensitivity and specificity to detect the differences in retained interstitial fluid that might discriminate the therapeutic responses of the treated patients. It has been established that the normal range of the L-Dex score is in the interval from -10 to +10 units; the higher score the more difference is in the retained interstitial fluid between the affected and unaffected limbs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Histology</measure>
+    <time_frame>Baseline and 12 months after treatment</time_frame>
+    <description>Change in cutaneous histological architecture. The impact of treatment on the cutaneous histopathology will be evaluated through the use of an empirically derived scoring system and will be performed by a dermatopathologist.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICG fluorescence imaging</measure>
+    <time_frame>Baseline and 12 months after treatment</time_frame>
+    <description>Change in lymphatic function assessed by ICG fluorescence imaging</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Lymphedema</condition>
+  <condition>Edema</condition>
+  <arm_group>
+    <arm_group_label>BioBridge treatment group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Vascularized Lymph Node Transplant surgery (VLNT) supplemented by BioBridge Collagen Matrix implantation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Vascularized Lymph Node Transplant surgery (VLNT) only</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>BioBridge® Collagen Matrix</intervention_name>
+    <description>BioBridge Collagen Matrix (BioBridge) is a sterile implantable bio-compatible and biodegradable surgical mesh ribbon comprised of highly purified porcine collagen. The Class II device was cleared by CDRH Division of Surgical Devices on 8 January 2016 under 510(k) K151083. The device will be used for soft tissue surgical support at the time of vascularized lymph node transplant surgery (VLNT); the device will be used, specifically, for surgical support of the lymphatic component of the soft tissue.</description>
+    <arm_group_label>BioBridge treatment group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Vascularized Lymph Node Transfer (VLNT)</intervention_name>
+    <description>Micro-surgical procedure for vascularized lymph node transfer (VLNT)</description>
+    <arm_group_label>BioBridge treatment group</arm_group_label>
+    <arm_group_label>Control group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        The subject must be a breast cancer survivor, at least 3 years beyond completion of cancer&#xD;
+        therapy, free of clinical disease, and eligible for surgical intervention. Participants who&#xD;
+        are not able to safely undergo general anesthesia and/or perioperative care for VLNT are&#xD;
+        excluded.&#xD;
+&#xD;
+          -  Ages 18 to 75 years (inclusive)&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) Performance Status 0 to 2&#xD;
+&#xD;
+          -  Life expectancy &gt; 2 years&#xD;
+&#xD;
+          -  Acquired (secondary) upper limb lymphedema secondary to breast cancer treatment&#xD;
+&#xD;
+          -  The participant must be eligible for surgical intervention&#xD;
+&#xD;
+          -  Swelling of 1 limb that is not completely reversed by elevation or compression&#xD;
+&#xD;
+          -  Stage I-II lymphedema at screening, based on the International Society of Lymphology&#xD;
+             (ISL) staging system&#xD;
+&#xD;
+          -  Participants must have no evidence of disease (NED), have completed breast cancer&#xD;
+             therapy 3 years prior to enrollment; use of endocrine therapy is allowed.&#xD;
+&#xD;
+          -  Completion of a full course of complete decongestive therapy (CDT), according to ISL&#xD;
+             guidelines at least 12 weeks prior to screening, including use of compression garments&#xD;
+             for at least 12 weeks without change in regimen&#xD;
+&#xD;
+          -  Willingness to comply with recommended regimen of self care, with consistent use of&#xD;
+             compression garments from screening through the entire study duration (through the&#xD;
+             safety follow up visit), excluding the first 3 weeks postoperatively where patients&#xD;
+             are required to not wear compression. Self bandaging, use of nighttime compression&#xD;
+             garments, and intermittent pneumatic compression devices are allowed, but the&#xD;
+             procedures and regimens are expected to remain consistent from screening though the&#xD;
+             entire study duration.&#xD;
+&#xD;
+          -  Consistent use of an appropriately sized compression garment for daytime use.&#xD;
+&#xD;
+          -  Limb volume (LV) in the affected limb and unaffected limb must be at least 10% of each&#xD;
+             other.&#xD;
+&#xD;
+          -  Evidence of abnormal bioimpedance ratio, if feasible, based upon unilateral disease: L&#xD;
+             Dex &gt; 10 units.&#xD;
+&#xD;
+          -  Willingness and ability to comply with all study procedures, including measurement of&#xD;
+             skin biopsy, and preoperative and postoperative imaging studies.&#xD;
+&#xD;
+          -  Willingness and ability to understand, and to sign a written informed consent form&#xD;
+             document&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Edema arising from increased capillary filtration will be excluded (venous&#xD;
+             incompetence).&#xD;
+&#xD;
+          -  Inability to safely undergo general anesthesia and/or perioperative care related to&#xD;
+             vascularized lymph node transfer&#xD;
+&#xD;
+          -  Concurrent participation in a clinical trial of any other investigational drug or&#xD;
+             therapy, regardless of indication, within 1 month before screening or 5 times the&#xD;
+             drug's half life, whichever is longer&#xD;
+&#xD;
+          -  Recent initiation (≤ 12 weeks) of CDPT for lymphedema&#xD;
+&#xD;
+          -  Other medical condition that could lead to acute limb edema, such as (but not limited&#xD;
+             to) acute venous thrombosis or heart failure&#xD;
+&#xD;
+          -  Other medical condition that could result in symptoms overlapping those of lymphedema&#xD;
+             in the affected limb (eg, pain, swelling, decreased range of motion)&#xD;
+&#xD;
+          -  History of clotting disorder (hypercoagulable state)&#xD;
+&#xD;
+          -  Chronic (persistent) infection in the affected limb&#xD;
+&#xD;
+          -  Infection of the lymphedema limb within 1 month prior to screening&#xD;
+&#xD;
+          -  Currently receiving chemotherapy or radiation therapy&#xD;
+&#xD;
+          -  Current evidence, or a history of malignancy within the past 3 years (except for non&#xD;
+             melanoma skin cancer or cervical cancer in situ treated with curative intent). If the&#xD;
+             participant has undergone cancer treatment, this must have been completed &gt; 3 years&#xD;
+             prior to enrollment.&#xD;
+&#xD;
+          -  Significant or chronic renal insufficiency (defined as serum creatinine &gt; 2.5 mg/dL or&#xD;
+             an estimated glomerular filtration rate [eGFR] &lt; 30 mL/min at screening) or requires&#xD;
+             dialytic support&#xD;
+&#xD;
+          -  Hepatic dysfunction, defined as alanine transaminase (ALT) or aspartate transaminase&#xD;
+             (AST) levels &gt; 3 × upper limit of the normal range (ULN) and/or bilirubin level &gt; 2 ×&#xD;
+             ULN at screening&#xD;
+&#xD;
+          -  Absolute neutrophil count &lt; 1500 mm3 at screening&#xD;
+&#xD;
+          -  Hemoglobin concentration &lt; 9 g/dL at screening&#xD;
+&#xD;
+          -  Body Mass Index (BMI) &gt;35&#xD;
+&#xD;
+          -  Known sensitivity to porcine products&#xD;
+&#xD;
+          -  Anaphylaxis to iodine&#xD;
+&#xD;
+          -  Pregnancy or nursing&#xD;
+&#xD;
+          -  Substance abuse (such as alcohol or drug abuse) within 6 months prior to screening&#xD;
+&#xD;
+          -  Any reason (in addition to those listed above) that, in the opinion of the&#xD;
+             investigator, precludes full participation in the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dung H Nguyen, MD, PharmD</last_name>
+    <role>Study Director</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Shannon Meyer</last_name>
+    <phone>650-721-1807</phone>
+    <email>smeyer27@stanford.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Stanford University</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dung H Nguyen, MD, PharmD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Chang DW, Masia J, Garza R 3rd, Skoracki R, Neligan PC. Lymphedema: Surgical and Medical Therapy. Plast Reconstr Surg. 2016 Sep;138(3 Suppl):209S-218S. doi: 10.1097/PRS.0000000000002683.</citation>
+    <PMID>27556764</PMID>
+  </reference>
+  <reference>
+    <citation>Silva AK, Chang DW. Vascularized lymph node transfer and lymphovenous bypass: Novel treatment strategies for symptomatic lymphedema. J Surg Oncol. 2016 Jun;113(8):932-9. doi: 10.1002/jso.24171. Epub 2016 Feb 5.</citation>
+    <PMID>26846735</PMID>
+  </reference>
+  <reference>
+    <citation>Rochlin DH, Inchauste S, Zelones J, Nguyen DH. The role of adjunct nanofibrillar collagen scaffold implantation in the surgical management of secondary lymphedema: Review of the literature and summary of initial pilot studies. J Surg Oncol. 2020 Jan;121(1):121-128. doi: 10.1002/jso.25576. Epub 2019 Jun 18.</citation>
+    <PMID>31209884</PMID>
+  </reference>
+  <reference>
+    <citation>Inchauste S, Zelones J, Rochlin D, Nguyen DH. Successful treatment of lymphedema in a vasculopath and neuropathic patient. J Surg Oncol. 2020 Jan;121(1):182-186. doi: 10.1002/jso.25590. Epub 2019 Jun 22.</citation>
+    <PMID>31228351</PMID>
+  </reference>
+  <reference>
+    <citation>Garza RM, Ooi ASH, Falk J, Chang DW. The Relationship Between Clinical and Indocyanine Green Staging in Lymphedema. Lymphat Res Biol. 2019 Jun;17(3):329-333. doi: 10.1089/lrb.2018.0014. Epub 2018 Dec 18.</citation>
+    <PMID>30562150</PMID>
+  </reference>
+  <reference>
+    <citation>Nguyen DH, Zhou A, Posternak V, Rochlin DH. Nanofibrillar Collagen Scaffold Enhances Edema Reduction and Formation of New Lymphatic Collectors after Lymphedema Surgery. Plast Reconstr Surg. 2021 Dec 1;148(6):1382-1393. doi: 10.1097/PRS.0000000000008590.</citation>
+    <PMID>34705812</PMID>
+  </reference>
+  <reference>
+    <citation>Deptula P, Zhou A, Posternak V, He H, Nguyen D. Multimodality Approach to Lymphedema Surgery Achieves and Maintains Normal Limb Volumes: A Treatment Algorithm to Optimize Outcomes. J Clin Med. 2022 Jan 25;11(3):598. doi: 10.3390/jcm11030598.</citation>
+    <PMID>35160049</PMID>
+  </reference>
+  <reference>
+    <citation>Nguyen D, Zaitseva TS, Zhou A, Rochlin D, Sue G, Deptula P, Tabada P, Wan D, Loening A, Paukshto M, Dionyssiou D. Lymphatic regeneration after implantation of aligned nanofibrillar collagen scaffolds: Preliminary preclinical and clinical results. J Surg Oncol. 2022 Feb;125(2):113-122. doi: 10.1002/jso.26679. Epub 2021 Sep 21.</citation>
+    <PMID>34549427</PMID>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 13, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>January 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Lymphedema</keyword>
+  <keyword>Edema</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphedema</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

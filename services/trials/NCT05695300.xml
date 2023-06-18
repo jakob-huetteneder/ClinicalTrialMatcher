@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9566">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05695300</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-SM-10-BLM-001</org_study_id>
+    <nct_id>NCT05695300</nct_id>
+  </id_info>
+  <brief_title>Gut Health,Feces Characteristics and Growth of Infants Fed With a New Infant Organic Formula</brief_title>
+  <official_title>A Randomized, Double-blind, Controlled Study to Evaluate the Gut Health, Feces Characteristics and Growth of Healthy Term Infants Fed With a New Infant Organic Formula</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bellamy's Organic Pty Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bellamy's Organic Pty Ltd</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to evauate the gut health, feces characteristics and&#xD;
+      growth of infants fed with a new study organic formula (investigational formula).&#xD;
+&#xD;
+      75 eligible infants of 30 days old will be enrolled at one center and randomized to feed the&#xD;
+      investigational formula, control formula, and breast milk for 3 months.&#xD;
+&#xD;
+      Researchers will compare the three groups to evaluate the gut health, feces characteristics&#xD;
+      and growth of infants by the end of the study.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is a single center, double-blind, randomized, controlled, parallel-designed,&#xD;
+      prospective trial. Approximately 75 partipants of 30 days old will be enrolled from a study&#xD;
+      site, 50 of whom will be randomized 1:1 to receive an mask labelled investigational formula&#xD;
+      or a control formula for 3 months of feeding. The remaining approximately 25 partipants will&#xD;
+      be enrolled as a breastfeeding reference group. Parents will be instructed to exclusively&#xD;
+      feed the study formula (formula groups) or exclusively human milk (breastfeeding group)&#xD;
+      during the study. The study will consist of 4 study visits, on baseline day, and every 30&#xD;
+      days. At each visit, all relevant clinical data of partipants will be captured and recorded&#xD;
+      into CTMS (Clinical Trial Management System). The data will be exported, analyzed and&#xD;
+      reported upon the study completion.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">February 3, 2023</start_date>
+  <completion_date type="Anticipated">May 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in stool consistency, color and amount</measure>
+    <time_frame>over 3 months</time_frame>
+    <description>Change in stool consistency, color and amount (by Amsterdam Infant Stool Scale, AISS, 2008) from baseline to 3 months</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change rate of baby length</measure>
+    <time_frame>baseline day 0, visit 1 day 30, visit 2 day 60, visit 4 day 90</time_frame>
+    <description>Change rate in mm/day of baby length for each visit interval</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change rate of baby head circumference</measure>
+    <time_frame>baseline day 0, visit 1 day 30, visit 2 day 60, visit 4 day 90</time_frame>
+    <description>Change rate in mm/day of baby head circumference for each visit interval</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change rate of baby weight</measure>
+    <time_frame>baseline day 0, visit 1 day 30, visit 2 day 60, visit 4 day 90</time_frame>
+    <description>Change rate in gram/day of baby weight for each visit interval</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Average daily intake of formula</measure>
+    <time_frame>baseline day 0, visit 1 day 30, visit 2 day 60, visit 4 day 90</time_frame>
+    <description>Average daily intake of formula in gram or ml for each visit interval</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of adverse events</measure>
+    <time_frame>baseline day 0, visit 1 day 30, visit 2 day 60, visit 4 day 90</time_frame>
+    <description>Frequency of adverse events for each visit interval</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">75</enrollment>
+  <condition>Infant Development</condition>
+  <arm_group>
+    <arm_group_label>BLM ORGANIC GOLD+</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>BLM ORGANIC GOLD+ infant formula,800g/can</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BLM ORGANIC</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>BLM ORGANIC infant formula,800g/can</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Breast milk</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Mother's breast milk</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>BLM ORGANIC GOLD+</intervention_name>
+    <description>Participants in this arm need to be fed the assigned infant formula daily for three months, no other formula or breast milk</description>
+    <arm_group_label>BLM ORGANIC GOLD+</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>BLM ORGANIC</intervention_name>
+    <description>Participants in this arm need to be fed the assigned infant formula daily for three months,no other formula or breast milk</description>
+    <arm_group_label>BLM ORGANIC</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Breast milk</intervention_name>
+    <description>Participants in this arm need to be fed with breast milk daily for three months, no infant formula</description>
+    <arm_group_label>Breast milk</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  30 days of age at randomization and enrollment, inclusive (day of birth is considered&#xD;
+             day 0)&#xD;
+&#xD;
+          -  Plan to exclusively formula feed (formula groups) OR exclusively feed human milk&#xD;
+             (breastfeeding group)&#xD;
+&#xD;
+          -  Singleton birth&#xD;
+&#xD;
+          -  Gestational age of 37-42 completed weeks (37 weeks 0 days through 42 weeks 6 days)&#xD;
+&#xD;
+          -  Birth weight of 2490g to 4200g&#xD;
+&#xD;
+          -  Signed informed consent obtained for infant's and mother's participation in the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of underlying metabolic or chronic disease; congenital malformation; or any&#xD;
+             other condition which, in the opinion of the Investigator, is likely to interfere&#xD;
+             with: the ability of the infant to ingest food, the normal growth and development of&#xD;
+             the infant, or the evaluation of the infant&#xD;
+&#xD;
+          -  Evidence of feeding difficulties or formula intolerance, such as vomiting or poor&#xD;
+             intake, at time of randomization (at investigator discretion)&#xD;
+&#xD;
+          -  Infants with a known allergy to cow's milk protein or a well-documented family history&#xD;
+             of allergy to cow's milk protein&#xD;
+&#xD;
+          -  Weight at randomization is &lt;90% of birth weight [(weight at Visit 1÷birth weight) x&#xD;
+             100 &lt;90%]&#xD;
+&#xD;
+          -  Infant is immunocompromised (according to a doctor's diagnosis of immunodeficiency&#xD;
+             such as Combined Immunodeficiencies, DiGeorge Syndrome, Wiskott-Aldrich Syndrome,&#xD;
+             Severe Congenital Neutropenia and Secondary Immunodeficiencies linked to HIV&#xD;
+             infection, Down Syndrome or others)&#xD;
+&#xD;
+          -  Known head/brain disease/injury such as microcephaly, macrocephaly or others.&#xD;
+&#xD;
+          -  Enrollment in another interventional clinical research study while participating in&#xD;
+             this study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>30 Days</minimum_age>
+    <maximum_age>30 Days</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Xiaoyang Sheng, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Xinhua Hospital, Shanghai Jiao Tong University School of Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Qiu Bin Community Hospital</name>
+      <address>
+        <city>Jinhua</city>
+        <state>Zhejiang</state>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <reference>
+    <citation>Holscher HD, Czerkies LA, Cekola P, Litov R, Benbow M, Santema S, Alexander DD, Perez V, Sun S, Saavedra JM, Tappenden KA. Bifidobacterium lactis Bb12 enhances intestinal antibody response in formula-fed infants: a randomized, double-blind, controlled trial. JPEN J Parenter Enteral Nutr. 2012 Jan;36(1 Suppl):106S-17S. doi: 10.1177/0148607111430817.</citation>
+    <PMID>22237870</PMID>
+  </reference>
+  <reference>
+    <citation>Szajewska H, Chmielewska A. Growth of infants fed formula supplemented with Bifidobacterium lactis Bb12 or Lactobacillus GG: a systematic review of randomized controlled trials. BMC Pediatr. 2013 Nov 12;13:185. doi: 10.1186/1471-2431-13-185.</citation>
+    <PMID>24215626</PMID>
+  </reference>
+  <reference>
+    <citation>Taipale TJ, Pienihakkinen K, Isolauri E, Jokela JT, Soderling EM. Bifidobacterium animalis subsp. lactis BB-12 in reducing the risk of infections in early childhood. Pediatr Res. 2016 Jan;79(1-1):65-9. doi: 10.1038/pr.2015.174. Epub 2015 Sep 15.</citation>
+    <PMID>26372517</PMID>
+  </reference>
+  <reference>
+    <citation>Larsen CN, Nielsen S, Kaestel P, Brockmann E, Bennedsen M, Christensen HR, Eskesen DC, Jacobsen BL, Michaelsen KF. Dose-response study of probiotic bacteria Bifidobacterium animalis subsp lactis BB-12 and Lactobacillus paracasei subsp paracasei CRL-341 in healthy young adults. Eur J Clin Nutr. 2006 Nov;60(11):1284-93. doi: 10.1038/sj.ejcn.1602450. Epub 2006 May 24.</citation>
+    <PMID>16721394</PMID>
+  </reference>
+  <reference>
+    <citation>Kabeerdoss J, Devi RS, Mary RR, Prabhavathi D, Vidya R, Mechenro J, Mahendri NV, Pugazhendhi S, Ramakrishna BS. Effect of yoghurt containing Bifidobacterium lactis Bb12(R) on faecal excretion of secretory immunoglobulin A and human beta-defensin 2 in healthy adult volunteers. Nutr J. 2011 Dec 23;10:138. doi: 10.1186/1475-2891-10-138.</citation>
+    <PMID>22196482</PMID>
+  </reference>
+  <reference>
+    <citation>Mohan R, Koebnick C, Schildt J, Mueller M, Radke M, Blaut M. Effects of Bifidobacterium lactis Bb12 supplementation on body weight, fecal pH, acetate, lactate, calprotectin, and IgA in preterm infants. Pediatr Res. 2008 Oct;64(4):418-22. doi: 10.1203/PDR.0b013e318181b7fa.</citation>
+    <PMID>18552710</PMID>
+  </reference>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>January 5, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 12, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>April 11, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 11, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>infant formula</keyword>
+  <keyword>gut health</keyword>
+  <keyword>feces</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

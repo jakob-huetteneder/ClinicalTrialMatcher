@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9408">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05698459</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BH-OH2-011</org_study_id>
+    <nct_id>NCT05698459</nct_id>
+  </id_info>
+  <brief_title>OH2 Oncolytic Viral Therapy Via Transcatheter Intraarterial Infusion in Patients With Advanced Liver Cancer</brief_title>
+  <official_title>A Phase I, Open-label, Dose Escalation Study to Evaluate the Safety ,Tolerance and Pharmacokinetics of OH2 Via Transcatheter Intraarterial Infusion in Patients With Advanced Liver Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Binhui Biopharmaceutical Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Binhui Biopharmaceutical Co., Ltd.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      An open-label dose-escalation phase I clinical study to evaluate the safety, tolerability and&#xD;
+      pharmacokinetics of OH2 injection via transcatheter Intraarterial infusion in patients with&#xD;
+      advanced hepatocellular carcinoma&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 5, 2023</start_date>
+  <completion_date type="Anticipated">January 2025</completion_date>
+  <primary_completion_date type="Anticipated">August 2024</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>DLTs (Dose Limiting Toxicity)</measure>
+    <time_frame>3 weeks from the first administration</time_frame>
+    <description>Toxic reactions according to the NCI-CTCAE 5.0 grading standard that occur within 3 weeks from the first administration, are judged to be drug-related by the investigator, and meet the non-hematological toxicity and hematological toxicity conditions specified in the clinical protocol</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MTD (Maximum Tolerance dose)</measure>
+    <time_frame>2 years</time_frame>
+    <description>If ≥2/6 subjects developed DLT, the previous dose group was MTD</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of AE (Adverse Event) and SAE (Serious Adverse Event)</measure>
+    <time_frame>2 years</time_frame>
+    <description>According to the NCI-CTCAE 5.0 grading standard</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate</measure>
+    <time_frame>2 years</time_frame>
+    <description>The assessment result is the number and proportion of subjects with complete response + partial response.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate</measure>
+    <time_frame>2 years</time_frame>
+    <description>The assessment result is the number and proportion of subjects with complete response + partial response + stable disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>OS (Overall Survival)</measure>
+    <time_frame>2 years</time_frame>
+    <description>The overall survival for each patient receiving OH2 will be calculated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PFS (Progression Free Survival)</measure>
+    <time_frame>2 years</time_frame>
+    <description>Time after OH2 administration to clinical and radiographic disease progression will be evaluated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biodistribution and viral shedding</measure>
+    <time_frame>2 years</time_frame>
+    <description>OH2 DNA copy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity</measure>
+    <time_frame>2 years</time_frame>
+    <description>HSV-2 antibody</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Advanced Liver Cancer</condition>
+  <arm_group>
+    <arm_group_label>OH2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Administration：intratumoral injection Frequency：once every 3 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>OH2 injection</intervention_name>
+    <description>OH2 injection administered by transcatheter Intraarterial infusion</description>
+    <arm_group_label>OH2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Have fully understood the study and voluntarily signed the informed consent (the&#xD;
+             informed consent must be signed before performing any procedure specified in the&#xD;
+             test);&#xD;
+&#xD;
+          2. Age 18-75 years old (inclusive);&#xD;
+&#xD;
+          3. Patients with primary or metastatic liver cancer confirmed histologically or&#xD;
+             cytologically;&#xD;
+&#xD;
+          4. Patients with liver cancer who have failed standard treatment, are not suitable for or&#xD;
+             are not willing to accept standard treatment;&#xD;
+&#xD;
+          5. ECOG physical condition 0 or 1;&#xD;
+&#xD;
+          6. Meet Child-Pugh liver function rating: Grade A or B;&#xD;
+&#xD;
+          7. Adequate bone marrow, liver, kidney and organ functions, meeting the following&#xD;
+             requirements in laboratory examination within 7 days prior to the first medication (no&#xD;
+             blood transfusion, blood products, no correction of granulocyte colony stimulating&#xD;
+             factor or other hematopoietic stimulating factors within 14 days prior to the&#xD;
+             laboratory examination) :&#xD;
+&#xD;
+               -  Neutrophil absolute count (ANC) ≥1.5×109/L, platelet ≥100×109/L, hemoglobin&#xD;
+                  ≥90g/L;&#xD;
+&#xD;
+               -  Serum total bilirubin ≤3 times the upper limit of the normal reference range&#xD;
+                  (3×ULN);&#xD;
+&#xD;
+               -  Alanine transaminase (ALT) and/or aspartate transaminase (AST) ≤5×ULN;&#xD;
+&#xD;
+               -  Serum creatinine ≤1.5×ULN or creatinine clearance ≥50mL/min (as calculated by&#xD;
+                  Cockcroft-Gault formula);&#xD;
+&#xD;
+               -  International Normalized ratio (INR) ≤1.5 or partially activated prothrombin time&#xD;
+                  (APTT) ≤1.5×ULN;&#xD;
+&#xD;
+          8. Subjects with chronic HBV infection must receive HBV-DNA &lt; 500IU/ml and HBsAg positive&#xD;
+             patients must receive antiviral therapy according to the Guidelines for Chronic&#xD;
+             Hepatitis B Prevention and Treatment 2015 Edition. HCV-RNA positive patients must&#xD;
+             receive antiviral therapy according to the Hepatitis C Prevention and Treatment&#xD;
+             Guidelines 2015 Edition and have liver function within the normal range;&#xD;
+&#xD;
+          9. Recovery of AE associated with previous systemic chemotherapy, radical/extensive&#xD;
+             radiotherapy to National Cancer Institute General Adverse Event Term 5.0 (NCI CTCAE&#xD;
+             V5.0) ≤ Class 1 (except hair loss, non-clinically significant and asymptomatic&#xD;
+             laboratory abnormalities);&#xD;
+&#xD;
+         10. For subjects with herpes, 3 months after completion of herpes treatment;&#xD;
+&#xD;
+         11. Expected survival ≥12 weeks;&#xD;
+&#xD;
+         12. Fertile women must have a negative serum or urine pregnancy test within 7 days before&#xD;
+             the first dose. Fertile male or female patients volunteered to use effective&#xD;
+             contraceptive methods, such as dual screen contraception, condoms, oral or injectable&#xD;
+             contraceptives, and intrauterine devices, during the study period and within 90 days&#xD;
+             of the last study medication. All female patients will be considered fertile unless&#xD;
+             they have undergone natural menopause, artificial menopause or sterilization (e.g.&#xD;
+             hysterectomy, bilateral adnexectomy or irradiation of radioactive ovaries).&#xD;
+&#xD;
+         13. More than 4 weeks after the end of previous anti-tumor therapy (including endocrine,&#xD;
+             chemical/radiotherapy, targeted therapy) (more than 6 weeks after the treatment of&#xD;
+             nitrosourea and mitomycin chemotherapy);&#xD;
+&#xD;
+         14. Four weeks after major surgery;&#xD;
+&#xD;
+         15. At least one measurable or evaluable lesion was present according to RECIST1.1&#xD;
+             criteria.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. A history of pleural effusion related to moderate or severe ascites, hemorrhagic&#xD;
+             esophageal varices, hepatic encephalopathy, or liver insufficiency within 6 months&#xD;
+             prior to screening;&#xD;
+&#xD;
+          2. Patients with large tumors - tumors &gt;50% by liver volume and/or invading inferior vena&#xD;
+             cava;&#xD;
+&#xD;
+          3. Non-recovery to National Cancer Institute General Adverse Event Term 5.0 (NCI CTCAE&#xD;
+             V5.0) level 1 toxicity (excluding hair loss, non-clinically significant and&#xD;
+             asymptomatic laboratory abnormalities) due to prior antitumor therapy prior to initial&#xD;
+             administration of the study drug;&#xD;
+&#xD;
+          4. Other malignancies (except basal cell carcinoma or squamous cell carcinoma of the skin&#xD;
+             and carcinoma in situ of the cervix that have been effectively controlled) in the past&#xD;
+             5 years;&#xD;
+&#xD;
+          5. For subjects with known central nervous system metastases, if they have received BMS&#xD;
+             in the past and their condition is stable (no evidence of imaging progression is seen&#xD;
+             at least 4 weeks before the first administration of the trial therapy, and any&#xD;
+             neurological symptoms have returned to baseline), repeated imaging examinations&#xD;
+             confirm no evidence of new BMS or the expansion of the original BMS. Participants who&#xD;
+             do not require steroid therapy at least 14 days before the initial administration of&#xD;
+             the trial therapy are eligible to participate in the trial. Subjects with cancerous&#xD;
+             meningitis should be excluded regardless of whether they are clinically stable;&#xD;
+&#xD;
+          6. Received standard anti-tumor therapy for liver cancer within 4 weeks before the first&#xD;
+             drug use, including surgery, interventional therapy, systemic therapy, radiotherapy&#xD;
+             and traditional Chinese medicine therapy (the instructions for traditional Chinese&#xD;
+             medicine therapy with clear anti-tumor indications, and a one-week washout period is&#xD;
+             enough before the first drug use);&#xD;
+&#xD;
+          7. Received radical radiotherapy (including more than 25% bone marrow radiotherapy)&#xD;
+             within 4 weeks prior to initial medication;&#xD;
+&#xD;
+          8. Have previously received similar drugs for antitumor therapy;&#xD;
+&#xD;
+          9. Received major surgical operations (the definitions of major surgical operations refer&#xD;
+             to Grade 3 and Grade 4 operations specified in the &quot;Measures for the Clinical&#xD;
+             Application of Medical Technology&quot; implemented on May 1, 2009) or unhealed wounds,&#xD;
+             ulcers and fractures within 4 weeks before the first drug use;&#xD;
+&#xD;
+         10. The subjects currently have active gastric and duodenal ulcers, ulcerative colitis and&#xD;
+             other digestive tract diseases, or active bleeding from unexcised tumors, or other&#xD;
+             conditions determined by the researchers that may cause digestive tract bleeding and&#xD;
+             perforation;&#xD;
+&#xD;
+         11. Patients with significant evidence or history of bleeding tendency within 2 months&#xD;
+             prior to initial medication (bleeding &gt;30mL within 2 months, hematemesis, black feces,&#xD;
+             and hematochezia), hemoptysis (&gt;5mL of fresh blood within 4 weeks), or thromboembolic&#xD;
+             events (including stroke events and/or transient ischemic attacks) within 12 months;&#xD;
+&#xD;
+         12. Cardiovascular disease of significant clinical significance, including but not limited&#xD;
+             to acute myocardial infarction, severe/unstable angina, or coronary artery bypass&#xD;
+             grafting within 6 months prior to initial medication; New York Heart Association&#xD;
+             (NYHA) Grade &gt;2 for congestive heart failure; Left ventricular ejection fraction&#xD;
+             (LVEF) &lt;50%; Primary cardiomyopathy, a history of clinically significant prolonged QTc&#xD;
+             interval, or QTc interval &gt;470ms in women and &gt;450ms in men during the screening&#xD;
+             period;&#xD;
+&#xD;
+         13. Severe and uncorrectable electrolyte abnormalities determined by the investigator to&#xD;
+             be clinically significant;&#xD;
+&#xD;
+         14. The patient had an active infection or developed an unexplained fever (body&#xD;
+             temperature &gt;38.5oC) during screening and prior to initial administration;&#xD;
+&#xD;
+         15. Preparing for or having previously received allogeneic organ or bone marrow&#xD;
+             transplantation, including liver transplantation;&#xD;
+&#xD;
+         16. Subjects with a past or current history of pulmonary fibrosis, interstitial pneumonia,&#xD;
+             pneumoconiosis, radiation pneumonia, drug-related pneumonia, or severe impairment of&#xD;
+             lung function that might interfere with the detection and management of suspected&#xD;
+             drug-related pulmonary toxicity;&#xD;
+&#xD;
+         17. Patients with active tuberculosis (TB) who are receiving anti-TB therapy or have&#xD;
+             received anti-TB therapy within 1 year prior to initial medication; Known human&#xD;
+             immunodeficiency virus (HIV) infection; The copy number of hepatitis B and hepatitis C&#xD;
+             virus was active.&#xD;
+&#xD;
+         18. Pregnant women (positive pregnancy test before medication) or breastfeeding women;&#xD;
+&#xD;
+         19. Known allergy to any herpes virus and OH2 inJ ingredients;&#xD;
+&#xD;
+         20. Any other medical condition, clinically significant metabolic abnormality (e.g.,&#xD;
+             uncontrolled diabetes, thyroid dysfunction), physical abnormality, or laboratory&#xD;
+             abnormality, in which, in the investigator's judgment, there is reason to suspect that&#xD;
+             the patient has a medical condition or condition unsuitable for the study drug (e.g.,&#xD;
+             the presence of epileptic seizures and the need for treatment), Or it could affect the&#xD;
+             interpretation of the findings, or put patients at high risk.&#xD;
+&#xD;
+         21. Received the corresponding experimental drugs in clinical trials of other unapproved&#xD;
+             or unmarketed drugs within 4 weeks before the first drug use;&#xD;
+&#xD;
+         22. As determined by the investigator, the subjects had other factors that might have led&#xD;
+             to the forced termination of the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>chuansheng zheng, MD</last_name>
+    <phone>13329702158</phone>
+    <email>13329702158@163.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Tongji Hospital, Tongji Medical College of Huazhong University of Science and Technology</name>
+      <address>
+        <city>Wuhan</city>
+        <state>Hubei</state>
+        <zip>430000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chuansheng Zheng, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 16, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 16, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>May 21, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 21, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Oncolytic Virus</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Liver Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

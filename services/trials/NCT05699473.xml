@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9367">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05699473</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PEC21152</org_study_id>
+    <nct_id>NCT05699473</nct_id>
+  </id_info>
+  <brief_title>Bioavailability Study of Folate in Healthy Subjects</brief_title>
+  <official_title>A Double Blind, Randomized, Cross-over, Comparative Bioavailability Study of 3 Different Forms of Folate in Healthy Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lesaffre International</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>BioFortis</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Soladis</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Lesaffre International</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this prospective interventional study is to compare the bioavailability of the&#xD;
+      6S-5-methyltetrahydrofolate (5-MTHF) glucosamine salt versus two other forms of 5- MTHF&#xD;
+      calcium salts by measuring serum 5-MTHF responses after a single ingestion of equivalent&#xD;
+      doses of the three folate forms in humans.&#xD;
+&#xD;
+      The hypothesis of this study is that the test products 5-MTHF glucosamine and calcium salts&#xD;
+      have equivalent bioavailabilities in serum 5-MTHF as measured by the area under the curve&#xD;
+      over a period of 24 hours (AUC0-24h) after consumption of a single dose of 5-MTHF (400μg).&#xD;
+&#xD;
+      Participants will receive a single dose of each of the following products separated by a&#xD;
+      7-day wash-out period:&#xD;
+&#xD;
+        -  5-MTHF glucosamine salt&#xD;
+&#xD;
+        -  5-MTHF calcium salt 1&#xD;
+&#xD;
+        -  5-MTHF calcium salt 2&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 12, 2023</start_date>
+  <completion_date type="Anticipated">May 6, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 6, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Prospective, monocentric, double-blind, randomized, cross-over bioavailability study</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>The randomization list will be drawn up before the beginning of the study by a person not related to the study and stored confidentially. Every effort will be made to maintain the blind during the study.&#xD;
+The labelling will not show any difference (including batch number and use-by date) between the test and the comparative products.&#xD;
+During the whole study and in the absence of unblinding, neither the investigators, service providers, nor the participant will be aware of the product they test or can deduce the group they belong to.&#xD;
+The unblinding will occur after the database locking, at the end of the study. The unblinding will be in charge of the person responsible for the randomization list.&#xD;
+Whether an emergency unblinding procedure may occur (i.e., SAE), the date and the reason for the unblinding will be indicated in the electronic Case Report Form (e-CRF) and the source document of the study.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Area under the curve (AUC) 0-24 hours of serum 5-MTHF concentrations</measure>
+    <time_frame>0-24 hours</time_frame>
+    <description>Comparison of AUC0-24 hours of serum 5-MTHF concentrations between the 3 study products</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Area under the curve (AUC) 0-24 hours of serum total folate concentrations</measure>
+    <time_frame>0-24 hours</time_frame>
+    <description>Comparison of AUC0-24 hours of serum total folate concentrations between the 3 study products</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the curve (AUC) 0-8 hours of serum 5-MTHF and total folate concentrations</measure>
+    <time_frame>0-8 hours</time_frame>
+    <description>Comparison of AUC0-8 hours of serum 5-MTHF and total folate concentrations between the 3 study products</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the curve (AUC) 0-infinity of serum 5-MTHF and total folate concentrations</measure>
+    <time_frame>0-24 hours</time_frame>
+    <description>Comparison of AUC0-infinity of serum 5-MTHF and total folate concentrations between the 3 study products</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peak plasma concentrations (Cmax) of serum 5-MTHF and total folate</measure>
+    <time_frame>0-24 hours</time_frame>
+    <description>Comparison of peak plasma concentrations (Cmax) of serum 5-MTHF and total folate between the 3 study products</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Half-life time of serum 5-MTHF and total folate</measure>
+    <time_frame>0-24 hours</time_frame>
+    <description>Comparison of half-life time of serum 5-MTHF and total folate between the 3 study products</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean Residence Time (MRT) of serum 5-MTHF and total folate</measure>
+    <time_frame>0-24 hours</time_frame>
+    <description>Comparison of Mean Residence Time (MRT) of serum 5-MTHF and total folate between the 3 study products</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the curve (AUC) 0-24 hours of serum 5-MTHF and total folate concentrations adjusted on sex</measure>
+    <time_frame>0-24 hours</time_frame>
+    <description>Comparison of AUC0-24 hours of serum 5-MTHF and total folate concentrations between the 3 study products after adjustment by sex</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Frequency of adverse events (AE)</measure>
+    <time_frame>4 weeks (inclusion to last visit)</time_frame>
+    <description>Frequency of adverse events (AE) occurring during the all duration of the study (AE, serious AE (SAE) and their characteristics (severity, relationship to the research procedure or study product, action taken on the study product, evolution of AE and body system)).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Frenquency of Treatment-Emergent Adverse events (TEAE)</measure>
+    <time_frame>4 weeks (inclusion to last visit)</time_frame>
+    <description>Frequency of Treatment-Emergent Adverse events (TEAE) and their characteristics (severity, relationship to the research procedure or study product, action taken on the study product, evolution of AE and body system).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Frenquency of Serious treatment-emergent adverse events (STEAE)</measure>
+    <time_frame>4 weeks (inclusion to last visit)</time_frame>
+    <description>Frequency of Serious treatment-emergent adverse events (STEAE) and their characteristics (severity, relationship to the research procedure or study product, action taken on the study product, evolution of AE and body system).</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>5-MTHF glucosamine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1 single dose (400µg)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>5-MTHF calcium salt 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1 single dose (400µg)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>5-MTHF calcium salt 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1 single dose (400µg)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>5-MTHF glucosamine salt</intervention_name>
+    <description>Active form of folate defined as (6S) 5-methyltetrahydrofolate (5-MTHF) glucosamine salt</description>
+    <arm_group_label>5-MTHF glucosamine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>5-MTHF calcium salt 1</intervention_name>
+    <description>Active form of folate defined as (6S) 5-methyltetrahydrofolate (5-MTHF) calcium salt, crystal form 1</description>
+    <arm_group_label>5-MTHF calcium salt 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>5-MTHF calcium salt 2</intervention_name>
+    <description>Active form of folate defined as (6S) 5-methyltetrahydrofolate (5-MTHF) calcium salt, crystal form 2</description>
+    <arm_group_label>5-MTHF calcium salt 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Body Mass Index (BMI) ≥18 and ≤25Kg/m²,&#xD;
+&#xD;
+          -  For women: menopausal without hormone replacement therapy (HRT) or with HRT started&#xD;
+             from more than 3 months or non-menopausal with a negative blood pregnancy test and&#xD;
+             using reliable contraception since at least 3 cycles before the beginning of the study&#xD;
+             and agreeing to keep it during the entire duration of the study,&#xD;
+&#xD;
+          -  Good general and mental health within the opinion of the investigator: no clinically&#xD;
+             significant and relevant abnormalities of medical history or physical examination,&#xD;
+&#xD;
+          -  Able and willing to participate to the study by complying with the protocol procedures&#xD;
+             as evidenced by his/her dated and signed informed consent form,&#xD;
+&#xD;
+          -  Affiliated with a social security scheme,&#xD;
+&#xD;
+          -  Agree to be registered on the subjects in biomedical research file.&#xD;
+&#xD;
+        After V1 biological analysis the subjects will be eligible to the study on the following&#xD;
+        criteria:&#xD;
+&#xD;
+        - Adequate folate status (serum folate between 10 and 45nmol/L, erythrocyte (RBC) folate&#xD;
+        between 405 and 952 nmol/L),&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Suffering from a metabolic disorder,&#xD;
+&#xD;
+          -  Suffering from a severe chronic disease found to be inconsistent with the conduct of&#xD;
+             the study by the investigator,&#xD;
+&#xD;
+          -  Suffering from diseases that could potentially interfere with folate absorption or&#xD;
+             metabolism,&#xD;
+&#xD;
+          -  With a known or suspected food allergy or intolerance or hypersensitivity to any of&#xD;
+             the study products' ingredient,&#xD;
+&#xD;
+          -  With a low venous capital of blood samples according to the investigator's opinion,&#xD;
+&#xD;
+          -  Pregnant or was pregnant less than 6 months prior to the study, or lactating women or&#xD;
+             intending to become pregnant within 3 months ahead,&#xD;
+&#xD;
+          -  Under treatment or regular use of treatment or dietary supplement which could&#xD;
+             significantly affect folate status or other study parameter(s),&#xD;
+&#xD;
+          -  Use of supplements containing folate (i.e. folic acid, 5-MTHF) the last 3 months,&#xD;
+&#xD;
+          -  With significant change in lifestyle, food habits, physical activity or medications in&#xD;
+             the 3 months before the V1 visit or not agreeing to keep them unchanged throughout the&#xD;
+             study,&#xD;
+&#xD;
+          -  With a current or planned in the next 3 months' specific diet (hyper or hypocaloric,&#xD;
+             vegan, vegetarian…) or stopped less than 3 months before the study,&#xD;
+&#xD;
+          -  With a personal history of anorexia nervosa, bulimia or significant eating disorders&#xD;
+             according to the investigator,&#xD;
+&#xD;
+          -  Consuming more than 2 standard drinks of alcoholic beverage daily for men and women or&#xD;
+             not agreeing to keep his alcohol consumption habits unchanged throughout the study.&#xD;
+&#xD;
+          -  Smoking,&#xD;
+&#xD;
+          -  Having a lifestyle deemed incompatible with the study according to the investigator&#xD;
+             including high level physical activity,&#xD;
+&#xD;
+          -  Taking part in another clinical trial or being in the exclusion period of a previous&#xD;
+             clinical trial,&#xD;
+&#xD;
+          -  Having received, during the last 12 months, indemnities for clinical trial higher or&#xD;
+             equal to 4500 Euros,&#xD;
+&#xD;
+          -  Under legal protection (guardianship, wardship) or deprived from his rights following&#xD;
+             administrative or judicial decision,&#xD;
+&#xD;
+          -  Presenting a psychological or linguistic incapability to sign the informed consent,&#xD;
+&#xD;
+          -  Impossible to contact in case of emergency.&#xD;
+&#xD;
+          -  Who made a blood donation in the 3 months before the V0 visit or intending to make it&#xD;
+             within 3 months ahead.&#xD;
+&#xD;
+        After V1 biological analysis the subjects will be non-eligible to the study on the&#xD;
+        following criteria:&#xD;
+&#xD;
+          -  Presence of anemia (hemoglobin&lt;12g/dL in women and 13g/dL in men),&#xD;
+&#xD;
+          -  Vitamin B12 levels (serum cobalamin &lt;148pmol/L),&#xD;
+&#xD;
+          -  Serum total homocysteine levels≥15µmol/L,&#xD;
+&#xD;
+          -  Serum creatinine &gt;0,96mg/dL for women and &gt;1,21mg/dL for men,&#xD;
+&#xD;
+          -  Control record (Glycaemia, total cholesterol, triglycerides, HDL cholesterol, LDL&#xD;
+             cholesterol, GGT, ASAT, ALAT, Urea and CBC) with clinically significant abnormality&#xD;
+             according to the investigator.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Isabelle METREAU, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>BioFortis</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jean-François JEANNE</last_name>
+    <phone>+33320004030</phone>
+    <email>jf.jeanne@gnosis.lesaffre.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Elodie DEHAY</last_name>
+    <phone>+33320004030</phone>
+    <email>e.dehay@gnosis.lesaffre.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Biofortis</name>
+      <address>
+        <city>Saint-Herblain</city>
+        <zip>44800</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Isabelle Metreau</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 5, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 25, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>January 31, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 31, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 2, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>folate</keyword>
+  <keyword>bioavailability</keyword>
+  <keyword>comparative study</keyword>
+  <keyword>single dose</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Calcium, Dietary</mesh_term>
+    <mesh_term>Tetrahydrofolates</mesh_term>
+    <mesh_term>Calcium</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

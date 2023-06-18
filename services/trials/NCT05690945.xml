@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9757">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05690945</url>
+  </required_header>
+  <id_info>
+    <org_study_id>QL1706-303</org_study_id>
+    <nct_id>NCT05690945</nct_id>
+  </id_info>
+  <brief_title>A Study of QL1706 in Combination With Chemotherapy in PD-L1-Negative Non-small Cell Lung Cancer</brief_title>
+  <official_title>A Randomized, Double-blind, Multicenter Phase 3 Clinical Study to Evaluate the Efficacy and Safety of QL1706 in Combination With Chemotherapy in First-line PD-L1 Negative, Locally Advanced or Metastatic Non-small Cell Lung Cancer Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Qilu Pharmaceutical Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Qilu Pharmaceutical Co., Ltd.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the efficacy and safety of QL1706 combined with&#xD;
+      platinum-based chemotherapy versus tislelizumab combined with platinum-based chemotherapy in&#xD;
+      PD-L1 negative, locally advanced or metastatic Non-small Cell Lung Cancer Patients. The&#xD;
+      subjects were randomly divided into two groups according to 1:1, with about 325 subjects in&#xD;
+      the experimental group and the control group.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study was a randomized, double-blind, active-controlled, multicenter Phase 3 clinical&#xD;
+      study. The study is designed to evaluate the efficacy and safety of QL1706 in combination&#xD;
+      with chemotherapy or commercial PD1 in combination with chemotherapy in locally advanced or&#xD;
+      metastatic NSCLC patients who are PD-L1 negative.650 patients would be enrolled . Subjects&#xD;
+      will be assigned randomly in a 1:1 ratio to experimental group and control group. Subjects&#xD;
+      will be stratified by pathological type: squamous cell carcinoma versus non-squamous cell&#xD;
+      carcinoma; brain metastasis: present versus absent; gender: male versus female. After&#xD;
+      randomization, subjects will be treated according to the randomization results.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2023</start_date>
+  <completion_date type="Anticipated">June 23, 2025</completion_date>
+  <primary_completion_date type="Anticipated">June 23, 2025</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>PFS</measure>
+    <time_frame>Informed consent until disease progression or death, which ever occurs first (up to approximately 2 years)</time_frame>
+    <description>Progression Free Survival in the intent to treat (ITT) population, as determined by the investigator according to RECIST v1.1 criteria</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>OS</measure>
+    <time_frame>From date of randomization until the date of death from any cause, which ever came first, assessed up to 2 years</time_frame>
+    <description>Overall Survival (OS) in the ITT population determined by the investigator</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ORR</measure>
+    <time_frame>First administration until disease progression or death, which ever occurs first (up to approximately 24 months)</time_frame>
+    <description>Objective Response Rate assessed by investigator according to RECIST v1.1 criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DOR</measure>
+    <time_frame>First administration until disease progression or death, which ever occurs first (up to approximately 24 months)</time_frame>
+    <description>Duration of Response assessed by investigator according to RECIST v1.1 criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DCR</measure>
+    <time_frame>First administration until disease progression or death, which ever occurs first (up to approximately 24 months)</time_frame>
+    <description>Disease Control Rate assessed by investigator according to RECIST v1.1 criteria</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">650</enrollment>
+  <condition>Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>QL1706+chemotherapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with locally advanced or metastatic NSCLC patients who are PD-L1 negative will receive QL1706, paclitaxel/pemetrexed and carboplatin by intravenous (IV) injection on Day 1 of each 21-day cycle for 4 cycles in the induction treatment. In the maintenance phase, participants will be treated with QL1706 or QL1706 combined with pemetrexed.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Tiselizumab+chemotherapy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants with locally advanced or metastatic NSCLC patients who are PD-L1 negative will receive tiselizumab, paclitaxel/pemetrexed and carboplatin by intravenous (IV) injection on Day 1 of each 21-day cycle for 4 cycles in the induction treatment. In the maintenance phase, participants will be treated with tiselizumab or tiselizumab combined with pemetrexed.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>QL1706</intervention_name>
+    <description>QL1706 will be administered by IV infusion at 5mg/kg on Day 1 of each 21-day cycle until unacceptabletoxicity or loss of clinical benefit.</description>
+    <arm_group_label>QL1706+chemotherapy</arm_group_label>
+    <other_name>PSB205</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tilesizumab</intervention_name>
+    <description>Tilesizumab will be administered by IV infusion at 200mg on Day 1 of each 21-day cycle until unacceptabletoxicity or loss of clinical benefit.</description>
+    <arm_group_label>Tiselizumab+chemotherapy</arm_group_label>
+    <other_name>BGB-108</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Be≥18 to ≤ 75 years of age at enrollment, male or female.&#xD;
+&#xD;
+          2. Histologically or cytologically confirmed locally advanced (Stage IIIB/IIIC) that not&#xD;
+             amenable to complete surgical resection and not amenable to radical&#xD;
+             concurrent/sequential chemoradiation or metastatic (Stage IV) NSCLC (American Joint&#xD;
+             Committee on Cancer [AJCC] 8th edition).&#xD;
+&#xD;
+          3. No EGFR sensitive mutations or ALK gene translocation alterations.&#xD;
+&#xD;
+          4. Capable of providing fresh or archived 2 years' tissue samples collected at&#xD;
+             post-diagnosis or non-radiation sites at diagnosis for central laboratory PD-L1&#xD;
+             testing with TPS &lt; 1% .&#xD;
+&#xD;
+          5. Have a life expectancy of at least 3 months.&#xD;
+&#xD;
+          6. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.&#xD;
+&#xD;
+          7. No prior systemic therapy for advanced or metastatic NSCLC was received.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Previous treatment with immune checkpoint inhibitors (PD-1/PD-L1 drugs or drugs acting&#xD;
+             on another T cell receptor (e.g., CTLA-4 etc.), as well as immune checkpoint agonistic&#xD;
+             antibodies (e.g., anti ICOS , CD40 , CD137 , GITR , OX40 antibodies, etc.), and immune&#xD;
+             cell therapy.&#xD;
+&#xD;
+          2. Patients who have received systemic corticosteroids or other immunosuppressive drugs&#xD;
+             within 2 weeks prior to the first dose.&#xD;
+&#xD;
+          3. Presence or history of any active autoimmune disease, including, but not limited to:&#xD;
+             autoimmune hepatitis, interstitial pneumonia, pulmonary fibrosis, uveitis, enteritis,&#xD;
+             hepatitis, hypophysitis, vasculitis, nephritis, hyperthyroidism, hypothyroidism.&#xD;
+&#xD;
+          4. Pulmonary radiation therapy &gt; 30 Gy within 6 months prior to first dose;&#xD;
+&#xD;
+          5. Palliative radiotherapy completed 7 days prior to first dose.&#xD;
+&#xD;
+          6. Known or symptomatic active central nervous system (CNS) metastases or carcinomatous&#xD;
+             meningitis during screening.&#xD;
+&#xD;
+          7. Clinically significant cardiovascular or cerebrovascular disease&#xD;
+&#xD;
+             -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Li Zhang, Professor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Sun Yat-sen Univeisity Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lianghua Fang</last_name>
+    <phone>86-13645192882</phone>
+    <email>lianghua.fang@qilu-pharma.com</email>
+  </overall_contact>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 10, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 10, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>January 10, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 10, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

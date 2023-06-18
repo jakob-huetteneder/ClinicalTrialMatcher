@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9826">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05689424</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DP 01-2022-02</org_study_id>
+    <nct_id>NCT05689424</nct_id>
+  </id_info>
+  <brief_title>Suppression of Endogenous Glucose Production by Injectable HDV-Insulin Lispro: A Dose Response Study in Human Subjects With Type 1 Diabetes</brief_title>
+  <official_title>Suppression of Endogenous Glucose Production by Injectable HDV-Insulin Lispro: A Dose Response Study in Human Subjects With Type 1 Diabetes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, San Diego</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The Leona M. and Harry B. Helmsley Charitable Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, San Diego</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Single-center, double-blind, random-sequence study assessing the HDV dose-response&#xD;
+      relationship to Endogenous Glucose Production (EGP), Free Fatty Acids (FFA) and Glucose&#xD;
+      Disposal Rate (GDR) during a euglycemic clamp procedure following overnight stabilization of&#xD;
+      blood glucose with intravenous insulin (and, if needed intravenous glucose). EGP and GDR will&#xD;
+      be determined using established radioisotope methodology. The concentration of Hepatic&#xD;
+      Directed Vesicles (HDV) in the insulin lispro (LIS) infused during the clamp procedure will&#xD;
+      be varied such that the percentage of HDV-bound LIS will range from 0%, 1%, 10%, and 100%.&#xD;
+      Each participant will thus undergo four clamp procedures at the four different HDV levels.&#xD;
+      LIS will be infused at a constant dose (6 mU/m2/min) for each of the four procedures.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2023</start_date>
+  <completion_date type="Anticipated">January 2026</completion_date>
+  <primary_completion_date type="Anticipated">January 2026</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of suppression of endogenous glucose production</measure>
+    <time_frame>0 through 6 hours</time_frame>
+    <description>To establish the dose-response relationship between Hepatic-Directed Vesicles (HDV) and endogenous glucose production at a constant dose of insulin lispro (LIS) during euglycemic clamp procedure</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">18</enrollment>
+  <condition>Type 1 Diabetes</condition>
+  <arm_group>
+    <arm_group_label>HDV-bound Lispro 0%</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Subjects will receive insulin lispro with 0% bound HDV</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>HDV-bound Lispro 1%</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects will receive insulin lispro with 1% bound HDV</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>HDV-bound Lispro 10%</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects will receive insulin lispro with 10% bound HDV</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>HDV-bound Lispro 100%</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects will receive insulin lispro with 100% bound HDV</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>HDV-Insulin Lispro</intervention_name>
+    <description>The name of the investigational drug is Hepatic Directed Vesicles + Insulin Lispro (HDV-bound LIS). It is a nano-carrier-based formulation of insulin which is the active therapeutic ingredient in the product. The nano-carrier component of the formulation contains a hepatic target molecule, biotin phosphatidylethanolamine, which has an affinity for hepatocytes and enables the product to deliver insulin directly to the liver.</description>
+    <arm_group_label>HDV-bound Lispro 0%</arm_group_label>
+    <arm_group_label>HDV-bound Lispro 1%</arm_group_label>
+    <arm_group_label>HDV-bound Lispro 10%</arm_group_label>
+    <arm_group_label>HDV-bound Lispro 100%</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female of age 18 to 65 years, inclusive, who:&#xD;
+&#xD;
+          2. Has at Screening been diagnosed as T1D for at least 12 months; preference will be&#xD;
+             given to potential participants who currently use continuous subcutaneous insulin&#xD;
+             infusion (CSII) therapy;&#xD;
+&#xD;
+          3. Has at Screening C-peptide ≤0.8 ng/mL (single retest allowed);&#xD;
+&#xD;
+          4. Has at Screening a BMI ≥18.0 kg/m2 and ≤33.0 kg/m2;&#xD;
+&#xD;
+          5. Has at Screening HbA1c ≥6.5% and ≤8.5 %.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Has known or suspected allergy to any component of any of the study drugs in this&#xD;
+             trial;&#xD;
+&#xD;
+          2. Is, at Screening, pregnant or breast-feeding, or intends to become pregnant at any&#xD;
+             time during the duration of the study;&#xD;
+&#xD;
+          3. Has, at Screening, as judged by the Site Investigator, a history or current evidence&#xD;
+             of any of advance complications of diabetes;&#xD;
+&#xD;
+          4. Is, at Screening, judged by the Site Investigator to have a current addiction to&#xD;
+             alcohol or substances of abuse;&#xD;
+&#xD;
+          5. Is, at Screening, using one or more drugs that may interfere with the interpretation&#xD;
+             of trial results or are known to cause clinically relevant interference with insulin&#xD;
+             action, glucose utilization, or recovery from hypoglycemia (e.g., beta blockers,&#xD;
+             systemic corticosteroids at pharmacologic doses, cancer chemotherapies);&#xD;
+&#xD;
+          6. Has, within one (1) month prior to Screening, used either oral anti-diabetic&#xD;
+             medication or noninsulin anti-diabetic injection therapies (e.g. SGLT-2 inhibitors,&#xD;
+             pramlintide, GLP-1 agonists, etc.);&#xD;
+&#xD;
+          7. Has, within one (1) month prior to Screening, received any investigational drug;&#xD;
+&#xD;
+          8. Has, within three (3) months prior to Screening, smoked tobacco or used any smokeless&#xD;
+             tobacco or nicotine delivery system (inhaled, oral or buccal);&#xD;
+&#xD;
+          9. Has at Screening, as judged by the Site Investigator, any condition (intrinsic or&#xD;
+             extrinsic) that could reasonably be expected to interfere with trial participation,&#xD;
+             confound evaluation of the data, or pose additional risk to adhering to the study&#xD;
+             protocol. Examples of such conditions include but are not limited to:&#xD;
+&#xD;
+               -  Clinically significant active disease of the gastrointestinal, cardiovascular,&#xD;
+                  hepatic, neurological, renal, genitourinary, or hematological systems;&#xD;
+&#xD;
+               -  History of such an illness or disease;&#xD;
+&#xD;
+               -  Diminished mental capacity, psychological or behavioral dysfunction, unwilling or&#xD;
+                  resistant to protocol requirements, language barriers.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Todd May, MS</last_name>
+    <phone>858-246-2169</phone>
+    <email>tmay@health.ucsd.edu</email>
+  </overall_contact>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>January 9, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 9, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>March 21, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 21, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of California, San Diego</investigator_affiliation>
+    <investigator_full_name>Jeremy Pettus, MD</investigator_full_name>
+    <investigator_title>Assistant Professor of Medicine</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 1</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Insulin Lispro</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>IPD will not be shared</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9167">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05703984</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GC2129A_BE_FAST_P0101</org_study_id>
+    <nct_id>NCT05703984</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Safety, PK of GC2129A in Healthy Volunteers Under Fasting Conditions</brief_title>
+  <official_title>Phase 1 Study to Evaluate the Safety and the Pharmacokinetics of GC2129A in Healthy Adult Volunteers Under Fasting Conditions</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GC Biopharma Corp</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GC Biopharma Corp</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the safety and pharmacokinetics of oral&#xD;
+      administration of GC2129A in fasting conditions to healthy adult volunteers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is an open-label, randomized, fasting, single-dose, 2-group, 2-period, crossover&#xD;
+      design to evaluate pharmacokinetics that are not affected by blinding. According to the order&#xD;
+      of administering the investigational drug for each period, 25 people are assigned to each of&#xD;
+      the two groups and administered.&#xD;
+&#xD;
+      For healthy subjects, each 25 subjects are assigned to each of the two groups(total 50&#xD;
+      subjects). If the subject administrate GC2129A in the first stage, the subject will be&#xD;
+      administrated reference drugs in the second stage after washout(over 7 weeks). Conversely, if&#xD;
+      the subject administrate reference drugs in the first stage, the subject will be&#xD;
+      administrated with GC2129A in the second stage.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 17, 2023</start_date>
+  <completion_date type="Anticipated">April 19, 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 19, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>an open-label, randomized, fasting, single-dose, 2-group, 2-period, crossover design</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pharmacokinetic (PK) parameters - Cmax</measure>
+    <time_frame>0-72hours</time_frame>
+    <description>Pharmacokinetic (PK) parameters of Linagliptin and Metformin in serum</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetic (PK) parameters - AUCt</measure>
+    <time_frame>0-72hours</time_frame>
+    <description>Pharmacokinetic (PK) parameters of Linagliptin and Metformin in serum</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic (PK) parameters - AUCinf</measure>
+    <time_frame>0-72hours</time_frame>
+    <description>Pharmacokinetic (PK) parameters of Linagliptin and Metformin in serum</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic (PK) parameters - Tmax</measure>
+    <time_frame>0-72hours</time_frame>
+    <description>Pharmacokinetic (PK) parameters of Linagliptin and Metformin in serum</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic (PK) parameters - t1/2</measure>
+    <time_frame>0-72hours</time_frame>
+    <description>Pharmacokinetic (PK) parameters of Linagliptin and Metformin in serum</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Healthy Volunteers</condition>
+  <arm_group>
+    <arm_group_label>GC2129A + Reference drugs</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Period 1: GC2129A Period 2: Individual Components</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Reference drugs + GC2129A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Period 1: Individual Components Period 2: GC2129A</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GC2129A(Period 1)</intervention_name>
+    <description>Linagliptin and Metformin Hydrochloride Tablet</description>
+    <arm_group_label>GC2129A + Reference drugs</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Linaglptin 5mg and Metformin Hydrocholoride 1000mg(Period 1)</intervention_name>
+    <description>Linagliptin 5mg/tab and Metformin Hydrochloride 1000mg/tab (2 tablets)</description>
+    <arm_group_label>Reference drugs + GC2129A</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GC2129A(Period 2)</intervention_name>
+    <description>Linagliptin and Metformin Hydrochloride Tablet</description>
+    <arm_group_label>Reference drugs + GC2129A</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Linaglptin 5mg and Metformin Hydrochloride 1000mg(Period 2)</intervention_name>
+    <description>Linagliptin 5mg/tab and Metformin Hydrochloride 1000mg/tab (2 tablets)</description>
+    <arm_group_label>GC2129A + Reference drugs</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  A person who is 19 years of age or older at the time of a screening visit&#xD;
+&#xD;
+          -  A person with a body mass index (BMI) of 18.0 kg/m2 or more and 30.0 kg/m2 or less&#xD;
+             with a weight of 50 kg or more (45 kg or more for women) during a screening visit&#xD;
+&#xD;
+          -  A person who has no clinically significant congenital or chronic disease during a&#xD;
+             screening visit and has no pathological symptoms or findings as a result of internal&#xD;
+             examination&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Persons with clinically significant diseases or history of the digestive system,&#xD;
+             cardiovascular system, endocrine system, respiratory system, blood and tumor,&#xD;
+             infectious disease, kidney and urinary reproductive system, mental and nervous system,&#xD;
+             musculoskeletal system, immune system, otolaryngology, skin system, and ophthalmology.&#xD;
+&#xD;
+          -  A person who has a history of gastrointestinal surgery&#xD;
+&#xD;
+          -  Those who have taken drug metabolism enzymes, such as barbiturate drugs, within one&#xD;
+             month of the first dose date or who have taken drugs that may interfere with this&#xD;
+             clinical trial within 10 days of the first dose date&#xD;
+&#xD;
+          -  A person who participates in another clinical trial or biological equivalence test&#xD;
+             within six months of the first administration date&#xD;
+&#xD;
+          -  A person who has donated whole blood within 8 weeks of the date of first&#xD;
+             administration, or has donated components within 2 weeks, or has received a blood&#xD;
+             transfusion within 4 weeks&#xD;
+&#xD;
+          -  A person who is deemed unsuitable for participation in this clinical trial by the&#xD;
+             principle investigator(or the delegated sub-investigator) for reasons other than the&#xD;
+             above selection and exclusion criteria&#xD;
+&#xD;
+          -  In the case of female volunteers, a pregnant woman or pregnant woman is suspected&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>GC Biopharma Corp.</last_name>
+    <phone>82-(0)31-260-1934</phone>
+    <email>juyeon.kim@gccorp.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>GC Biopharma Corp.</last_name>
+    <phone>82-(0)31-260-9318</phone>
+    <email>yumi@gccorp.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>H Plus YangJi Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jae Woo Kim, M.D.</last_name>
+      <phone>070-4665-9193</phone>
+      <email>m3116@newyjh.com</email>
+    </contact>
+    <investigator>
+      <last_name>Jae Woo Kim, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 19, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>January 19, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 19, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>PK</keyword>
+  <keyword>GC2129A</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Metformin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

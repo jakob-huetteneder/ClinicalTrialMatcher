@@ -1,7 +1,7 @@
 import {Gender} from './gender';
 import {User} from './user';
 
-export interface Patient {
+export class Patient {
   id?: number;
   firstName: string;
   lastName: string;
@@ -51,6 +51,11 @@ export interface Treats {
   patient: Patient;
   doctor: User;
   status: TreatsStatus;
+}
+
+export interface PythonResponse {
+  diseases: string[];
+  negatives: string[];
 }
 
 export enum TreatsStatus {

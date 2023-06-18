@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9243">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05702151</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ESProbot001</org_study_id>
+    <nct_id>NCT05702151</nct_id>
+  </id_info>
+  <brief_title>ESP Block in Robotic Cardiac Surgery</brief_title>
+  <official_title>Erector Spinae Plane Block in Robotic Cardiac Surgery</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital Clinic of Barcelona</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospital Clinic of Barcelona</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Patients undergoing cardiac robotic surgery will receive different pain management after&#xD;
+      being randomized in 2 groups. Control group will receive standard of care pain management&#xD;
+      with acetaminophen and morphine in PCA pump, and the intervention group will receive an&#xD;
+      erector spinae plane block with a continous infusion of local anesthetic.&#xD;
+&#xD;
+      At 3 months the patients will be contacted to assess for pain and ask them for they life&#xD;
+      quality.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients undergoing cardiac robotic surgery will receive different pain management after&#xD;
+      being randomized in 2 groups. Before the surgery and after checking eligibility criteria and&#xD;
+      exclusion criteria the patients will be asked to enroll to the study. If the agree to&#xD;
+      participate, they will sign de informed consent and fill the EQL 5D-5L questionnaire.&#xD;
+&#xD;
+      The day of the surgery, the perioperative process will be performed as usual unless the&#xD;
+      interventions detailed in this description.&#xD;
+&#xD;
+      Patients will be transferred to the surgical area, enter to the operating room, monitored and&#xD;
+      general anesthesia will be performed.&#xD;
+&#xD;
+      Standard postoperative analgesia group will receive a at the end of the surgery a bolus of IV&#xD;
+      morphine 0,05mg/kg, followed with infusion of IV morphine 0,25mg/h in Patient Controlled&#xD;
+      Analgesia protocol (extra bolus on demand of 1mg with lockout interval 20 minutes), and&#xD;
+      paracetamol 1g every 8 hours.&#xD;
+&#xD;
+      The experimental group will receive the standard analgesia and an ESP Block. In this group,&#xD;
+      after the induction of general anesthesia in the operating room, the patient is positioned in&#xD;
+      lateral decubitus. Under strict aseptic conditions, and guided by ultrasound, an ipsilateral&#xD;
+      Erector Spinae Plane block is performed injecting ropivacaine 0.2% 20ml, and a catheter is&#xD;
+      placed in this plane.&#xD;
+&#xD;
+      An infusion of ropivacaine 0.16% at 10ml/h is started in the operating room.&#xD;
+&#xD;
+      Both groups of patients will emerge from anesthesia in the operative room or at the intensive&#xD;
+      care unit in the first 6 postoperative hours if possible. After the surgery they will be&#xD;
+      transfered to the intensive care unit where vital signs will be monitored continuously.&#xD;
+&#xD;
+      The pain intensity and the total required opioid dose will be registered at 12, 24 and 48&#xD;
+      postoperative hours. After acute phase of postoperative pain and typically until chest&#xD;
+      drainages are retired, the ESP catheter and the IV morphine will be withdrawn. After&#xD;
+      discharge by usual criteria, 3 months after the surgery patients will be contacted by&#xD;
+      telephone. Quality of life, pain and if present, its characteristics will be assessed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 22, 2022</start_date>
+  <completion_date type="Anticipated">June 2024</completion_date>
+  <primary_completion_date type="Anticipated">March 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Prospective Randomized Open Clinical Trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Accumulated opioid dose 12h</measure>
+    <time_frame>12 postoperative hours</time_frame>
+    <description>Morphine PCA pump will measure the accumulated dose of morphine, this is an objective measure of how many times the patients have had uncontrolled pain. Expressed in mg. If the patient has received other opioid besides of morphine it will be transformed using equivalent morphine dose and added to the total dose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Accumulated opioid dose 24h</measure>
+    <time_frame>24 ostoperative hours</time_frame>
+    <description>Morphine PCA pump will measure the accumulated dose of morphine, this is an objective measure of how many times the patients have had uncontrolled pain. Expressed in mg. If the patient has received other opioid besides of morphine it will be transformed using equivalent morphine dose and added to the total dose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Accumulated opioid dose 48h</measure>
+    <time_frame>48 postoperative hours</time_frame>
+    <description>Morphine PCA pump will measure the accumulated dose of morphine, this is an objective measure of how many times the patients have had uncontrolled pain. Expressed in mg. If the patient has received other opioid besides of morphine it will be transformed using equivalent morphine dose and added to the total dose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Visual Analogic Scale 12h</measure>
+    <time_frame>12 postoperative hours</time_frame>
+    <description>Pain will be measured with Visual analogic scale and recorded. It has numeric discrete ranging from 0 to 10.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Visual Analogic Scale 24h</measure>
+    <time_frame>24 postoperative hours</time_frame>
+    <description>Pain will be measured with Visual analogic scale and recorded. It has numeric discrete ranging from 0 to 10.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Visual Analogic Scale 48h</measure>
+    <time_frame>48 postoperative hours</time_frame>
+    <description>Pain will be measured with Visual analogic scale and recorded. It has numeric discrete ranging from 0 to 10.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>EQ 5-Dimensions 5-Levels</measure>
+    <time_frame>Preoperative and 3 months after surgery</time_frame>
+    <description>Quality of Life measure with EQ 5D 5L scale, created by the Euro QL group and used to measure life quality, its a scale describing 5 dimensions of life (Mobility, Self care, General activity, pain and discomfort, anxiety and depression) in 5 levels of comfort/discomfort (Score of 1 in each dimensions describes the most comfort). It can be expressed separately or by combining them into an index generated with a standard calculator provided by the EQL group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Brief Pain Scale</measure>
+    <time_frame>3 months after surgery</time_frame>
+    <description>Pain presence and its characteristics 3 months after surgery described by the brief pain scale. This standard scale describes the pain intensity from 1 to 10 (being 10 the most intense pain) and and DN4 scale will be performed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neuropathic pain assessment</measure>
+    <time_frame>3 postoperative months</time_frame>
+    <description>When pain is present, assessment for neuropathic pain characteristics will be assessed using the Douleur neuropathique 4 (DN4) scale, spanish version. This scale assess 10 characteristics of pain, with a maximum score of 10, minimum of 0. Interpreted as positive (neuropathic pain likely) with a score of 7 or more.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Heart Valve Diseases</condition>
+  <condition>Postoperative Pain, Acute</condition>
+  <condition>Analgesia</condition>
+  <arm_group>
+    <arm_group_label>Morphine infusion</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>IV morphine 50mcg/kg/h infusion with Patient Controlled Analgesia extra bolus on demand of 1mg (lockout interval 20 minutes), and paracetamol 1g every 8 hours.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ESP Block analgesia</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>After induction of anesthesia in the operating room, the patient is positioned in lateral decubitus. Under strict aseptic conditions, and guided by ultrasound, an Erector Spinae Plane block is performed injecting ropivacaine 0.2% 20ml, and a catheter is placed.&#xD;
+An infusion of ropivacaine 0.16% at 10ml/h is started in the operating room. Patient Controlled Analgesia pump will be connected with 1mg IV morphine bolus on demand, and paracetamol 1g every 8 hours, is also delivered.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>ESP Block</intervention_name>
+    <description>After induction of anesthesia in the operating room, the patient is positioned in lateral decubitus. Under strict aseptic conditions, and guided by ultrasound, an Erector Spinae Plane block is performed injecting ropivacaine 0.2% 20ml, and a catheter is placed. Ropivacaine 0.2% infusion at a 10ml/h rate is started during the surgery.</description>
+    <arm_group_label>ESP Block analgesia</arm_group_label>
+    <other_name>Erector spinae Plane Block</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Morphine injection</intervention_name>
+    <description>Intravenous morphine infusion 50mcg/kg/h with Patient Controlled Analgesia extra bolus on demand (1mg bolus with 20 minutes lockout time), and paracetamol 1g every 8 hours.</description>
+    <arm_group_label>ESP Block analgesia</arm_group_label>
+    <arm_group_label>Morphine infusion</arm_group_label>
+    <other_name>Intravenous opioid infusion analgesia and paracetamol</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Robotic Cardiac Surgery&#xD;
+&#xD;
+          -  Accepts to participate&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Use of other regional anesthesia technics&#xD;
+&#xD;
+          -  Presence of chronic Pain&#xD;
+&#xD;
+          -  Psychiatric pathology, drug abuse&#xD;
+&#xD;
+          -  Allergy or intolerance to local anesthetics&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jorge Aliaga, MD</last_name>
+    <phone>932275400</phone>
+    <phone_ext>5558</phone_ext>
+    <email>aliaga@clinic.cat</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ricard Navarro, PhD</last_name>
+    <email>rnavarr1@clinic.cat</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital Clínic de Barcelona</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Jorge Aliaga Medina, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ricard Navarro, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Stefano Italiano, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Pau Mingarro Cubells, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Felipe Unigarro, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <reference>
+    <citation>Rovira Canudas I. [Postoperatory analgesia for minimally invasive cardiac surgery: which is the ideal technique?]. Rev Esp Anestesiol Reanim. 2012 Nov;59(9):467-9. doi: 10.1016/j.redar.2012.07.010. Epub 2012 Sep 12. No abstract available. Spanish.</citation>
+    <PMID>22980395</PMID>
+  </reference>
+  <reference>
+    <citation>Freise H, Van Aken HK. Risks and benefits of thoracic epidural anaesthesia. Br J Anaesth. 2011 Dec;107(6):859-68. doi: 10.1093/bja/aer339. Epub 2011 Nov 4.</citation>
+    <PMID>22058144</PMID>
+  </reference>
+  <reference>
+    <citation>D'Ercole F, Arora H, Kumar PA. Paravertebral Block for Thoracic Surgery. J Cardiothorac Vasc Anesth. 2018 Apr;32(2):915-927. doi: 10.1053/j.jvca.2017.10.003. Epub 2017 Oct 4.</citation>
+    <PMID>29169795</PMID>
+  </reference>
+  <reference>
+    <citation>Forero M, Adhikary SD, Lopez H, Tsui C, Chin KJ. The Erector Spinae Plane Block: A Novel Analgesic Technique in Thoracic Neuropathic Pain. Reg Anesth Pain Med. 2016 Sep-Oct;41(5):621-7. doi: 10.1097/AAP.0000000000000451.</citation>
+    <PMID>27501016</PMID>
+  </reference>
+  <reference>
+    <citation>Tsui BCH, Fonseca A, Munshey F, McFadyen G, Caruso TJ. The erector spinae plane (ESP) block: A pooled review of 242 cases. J Clin Anesth. 2019 Mar;53:29-34. doi: 10.1016/j.jclinane.2018.09.036. Epub 2018 Oct 3.</citation>
+    <PMID>30292068</PMID>
+  </reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>December 19, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>January 17, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 17, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Robotic Cardiac Surgery</keyword>
+  <keyword>ESP Block</keyword>
+  <keyword>Postoperative Pain</keyword>
+  <keyword>Heart Valve disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Valve Diseases</mesh_term>
+    <mesh_term>Pain, Postoperative</mesh_term>
+    <mesh_term>Acute Pain</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Morphine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>There is no plan to share the IPD, unless requested</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

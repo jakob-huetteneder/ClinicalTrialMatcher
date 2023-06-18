@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9503">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05696548</url>
+  </required_header>
+  <id_info>
+    <org_study_id>YCU18001</org_study_id>
+    <secondary_id>JapicCTI-194835</secondary_id>
+    <nct_id>NCT05696548</nct_id>
+  </id_info>
+  <brief_title>Nivolumab Plus Lenvatinib Against Anaplastic Thyroid Cancer (NAVIGATION)</brief_title>
+  <official_title>Phase 2 Study of Nivolumab Plus Lenvatinib for Patients With Unresectable Anaplastic Thyroid Cancer (NAVIGATION Study)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Center Hospital East</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ono Pharmaceutical Co. Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Cancer Center Hospital East</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is an open-label phase 2 study to evaluate the safety and efficacy of Nivolumab&#xD;
+      plus Lenvatinib in patients with unresectable anaplastic thyroid cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is an open-label phase 2 study to evaluate the safety and efficacy of Nivolumab&#xD;
+      plus Lenvatinib in patients with unresectable anaplastic thyroid cancer according to the&#xD;
+      following steps.&#xD;
+&#xD;
+      Step 1 will evaluate the dose-limiting toxicities (DLT) of Nivolumab plus Lenvatinib in&#xD;
+      patients with unresectable anaplastic thyroid cancer.&#xD;
+&#xD;
+      Step 2 will evaluate the safety and efficacy of Nivolumab plus Lenvatinib in patients with&#xD;
+      unresectable anaplastic thyroid cancer.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 2, 2019</start_date>
+  <completion_date type="Anticipated">July 2025</completion_date>
+  <primary_completion_date type="Anticipated">July 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Step 1: Proportion of subjects with Dose-Limiting Toxicities (DLT)</measure>
+    <time_frame>up to 28 days</time_frame>
+    <description>Proportion of subjects with DLT will be defined as the proportion of patients who developed DLT</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Step 2: Objective Response Rate (ORR)</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <description>ORR will be defined as the proportion of patients achieving complete response (CR) and partial response (PR) as determined according to RECIST ver1.1 by a central review</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of adverse events</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <description>For adverse events due to protocol treatment, determine the frequency of worst grades in all courses according to CTCAE v5.0</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <description>The period will be from the day of enrollment, as the starting date of the computation, to the day of death of any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival (PFS)</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <description>The registration date is the starting date, and is defined as the period until the progressive disease (PD) or death of any cause occurs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Best Overall Response (BOR)</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <description>BOR is the best response recorded from the start of the study treatment until the end of treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate (DCR)</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <description>DCR will be defined as the proportion of patients achieving CR, PR or stable disease (SD).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Benefit Rate (CBR)</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <description>DCR will be defined as the proportion of patients achieving CR, PR or SD lasting at least 11 months.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life by EuroQol 5 dimensions 5-level (EQ-5D-5L)</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <description>Quality of life will be evaluated by EQ-5D-5L</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">51</enrollment>
+  <condition>Anaplastic Thyroid Cancer</condition>
+  <arm_group>
+    <arm_group_label>Lenvatinib plus Nivolumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Step 1: 3 patients, Step 2: 48 patients</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lenvatinib</intervention_name>
+    <description>Lenvatinib will be administered at a dose of 24mg as oral dose, one a day</description>
+    <arm_group_label>Lenvatinib plus Nivolumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nivolumab</intervention_name>
+    <description>Nivolumab will be administered at a dose of 240mg as a 30-minutes IV infusion, every 2 weeks</description>
+    <arm_group_label>Lenvatinib plus Nivolumab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Histologically confirmed as anaplastic thyroid cancer&#xD;
+&#xD;
+          2. Unresectable anaplastic thyroid cancer&#xD;
+&#xD;
+          3. Have measurable lesions defined by the RECIST version 1.1&#xD;
+&#xD;
+          4. Have adequate organ function&#xD;
+&#xD;
+          5. Cardiac function test within 28 days before enrollment 12-lead electrocardiogram no&#xD;
+             clinically significant abnormality as shown below: heart disease, severe arrhythmia,&#xD;
+             etc.&#xD;
+&#xD;
+          6. Patients who are 20 years or older&#xD;
+&#xD;
+          7. Eastern Cooperative Oncology Group (ECOG) performance status 0-1&#xD;
+&#xD;
+          8. Ability to swallow oral medications&#xD;
+&#xD;
+          9. Women of childbearing potential&#xD;
+&#xD;
+         10. Life expectancy of more than 90 days&#xD;
+&#xD;
+         11. Have signed written informed consent to participate in this study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Active brain metastases or leptomeningeal metastases&#xD;
+&#xD;
+          2. Diverticulitis or Symptomatic ulcerative disease&#xD;
+&#xD;
+          3. Treatment required complication of systemic infectious disease&#xD;
+&#xD;
+          4. Medical history of active, known, or suspected autoimmune disease&#xD;
+&#xD;
+          5. Complication of pulmonary fibrosis or interstitial pneumonitis&#xD;
+&#xD;
+          6. Medical history of clinically significant cardiovascular disease within 180 days of&#xD;
+             initial dose as New York Heart Association (NYHA) class above 2 leveled congestive&#xD;
+             heart failure, unstable angina, cardiac infarction or cardiac arrhythmia with&#xD;
+             paroxysmal or required treatment&#xD;
+&#xD;
+          7. Regardless of usage of antihypertensive drug, systolic blood pressure &lt;=140 mm Hg and&#xD;
+             diastolic blood pressure &lt;=90 mm Hg&#xD;
+&#xD;
+          8. Have active double cancer&#xD;
+&#xD;
+          9. Currently receiving other interventional clinical study treatment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Makoto Tahara, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>National Cancer Center Hospital East</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Iwao Sugitani, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Nippon Medical School Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Naomi Kiyota, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Kobe University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Makoto Tahara, MD, PhD</last_name>
+    <phone>+81-47133-1111</phone>
+    <email>matahara@east.ncc.go.jp</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Aichi Cancer Center</name>
+      <address>
+        <city>Nagoya</city>
+        <state>Aichi</state>
+        <zip>464-8681</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shigenori Kadowaki, MD, PhD</last_name>
+      <email>skadowaki@aichi-cc.jp</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Center Hospital East</name>
+      <address>
+        <city>Kashiwa</city>
+        <state>Chiba</state>
+        <zip>277-8577</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Makoto Tahara, MD, PhD</last_name>
+      <phone>+81-47133-1111</phone>
+      <email>matahara@east.ncc.go.jp</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hyogo Cancer Center</name>
+      <address>
+        <city>Akashi</city>
+        <state>Hyogo</state>
+        <zip>673-8558</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Koji Matsumoto, MD</last_name>
+      <email>kojmatsu-chiken@hyogo-cc.jp</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kobe University Hospital</name>
+      <address>
+        <city>Kobe</city>
+        <state>Hyogo</state>
+        <zip>650-0017</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Naomi Kiyota, MD, PhD</last_name>
+      <email>nkiyota@med.kobe-u.ac.jp</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Yokohama City University Hospital</name>
+      <address>
+        <city>Yokohama</city>
+        <state>Kanagawa</state>
+        <zip>236-0004</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Motohiko Tokuhisa, MD, PhD</last_name>
+      <email>tokuhisa@yokohama-cu.ac.jp</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Tohoku University Hospital</name>
+      <address>
+        <city>Sendai</city>
+        <state>Miyagi</state>
+        <zip>980-8574</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ken Saijo, MD, PhD</last_name>
+      <email>ken.saijo.d6@tohoku.ac.jp</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hokkaido University Hospital</name>
+      <address>
+        <city>Hokkaido</city>
+        <zip>060-8648</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yasushi Shimizu, MD, PhD</last_name>
+      <email>y-simz@med.hokudai.ac.jp</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Osaka Metropolitan University Hospital</name>
+      <address>
+        <city>Osaka</city>
+        <zip>545-8586</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yasuyuki Kajimoto, MD</last_name>
+      <email>b21799e@omu.ac.jp</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Center Hospital</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>104-0045</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yoshitaka Honma, MD</last_name>
+      <email>yohonma@ncc.go.jp</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Nippon Medical School Hospital</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>113-8603</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Iwao Sugitani, MD, PhD</last_name>
+      <email>isugitani@nms.ac.jp</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Japan</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 13, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>January 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>National Cancer Center Hospital East</investigator_affiliation>
+    <investigator_full_name>Makoto Tahara</investigator_full_name>
+    <investigator_title>Chief, Department of Head and Neck Medical Oncology</investigator_title>
+  </responsible_party>
+  <keyword>Nivolumab</keyword>
+  <keyword>Lenvatinib</keyword>
+  <keyword>Anaplastic Thyroid Cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Thyroid Neoplasms</mesh_term>
+    <mesh_term>Thyroid Carcinoma, Anaplastic</mesh_term>
+    <mesh_term>Thyroid Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nivolumab</mesh_term>
+    <mesh_term>Lenvatinib</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

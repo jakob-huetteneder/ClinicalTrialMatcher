@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9517">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05696249</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EK - 1499/22</org_study_id>
+    <nct_id>NCT05696249</nct_id>
+  </id_info>
+  <brief_title>The Use of Pressure Sensors in Functional Assessment and Treatment of Low Back Pain Patients</brief_title>
+  <official_title>The Use of Pressure Sensors in Functional Assessment and Treatment of Low Back Pain Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Charles University, Czech Republic</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Charles University, Czech Republic</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The dissertation will focus on the possibilities of using pressure sensors during&#xD;
+      physiotherapy care. A single-blind randomized study will be conducted on a sample of at least&#xD;
+      40 probands of working age with chronic LBP in the age range of 30-65 years. The following&#xD;
+      exclusive criteria are established: signs of serious spinal pathology (red flags), severe&#xD;
+      musculoskeletal trauma in the last year, vestibular, visual or neurological dysfunction&#xD;
+      affecting stability, ongoing pregnancy or breastfeeding, acute respiratory disease, cognitive&#xD;
+      dysfunction leading to misunderstanding of instructions and severe cardiac or internal&#xD;
+      disease. Inclusive and exclusive criteria will be evaluated by a rehabilitation doctor during&#xD;
+      a comprehensive examination before the start of therapy. All probands will undergo six-week&#xD;
+      outpatient therapy once a week. The intervention group will be equipped with an OhmTrak&#xD;
+      device for home self-therapy and instructed in its correct use at least 5 times a week. The&#xD;
+      control group will receive identical outpatient therapy and instruction in self-therapy,&#xD;
+      except they will not have access to the OhmTrak device. Before the start and at the end of&#xD;
+      the six-week therapy, all probands will be blindly evaluated for the quality of activation&#xD;
+      and use of intra-abdominal pressure with the DNS Brace device. At the same time, the Oswestry&#xD;
+      Disability Index questionnaire will be used to subjectively evaluate the probands before and&#xD;
+      after a series of therapies. The aim of the study is to demonstrate the possibility of using&#xD;
+      pressure sensors to improve the effect of physiotherapy.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 1, 2023</start_date>
+  <completion_date type="Anticipated">June 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Intra-abdominal pressure</measure>
+    <time_frame>six weeks</time_frame>
+    <description>Before the start and at the end of the six-weeks therapy, all probands will be blindly evaluated for the quality of activation and use of intra-abdominal pressure with the DNS Brace device.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Oswestry Disability Index, Version 2.1a</measure>
+    <time_frame>six weeks</time_frame>
+    <description>Before the start and at the end of the six-weeks therapy, all probands will fill in the Oswestry Disability Index questionnaire to evaluate their subjective state before and after a series of therapies. A score of zero equals no disability and a score of 100 is the maximum possible disability.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Chronic Low-back Pain</condition>
+  <arm_group>
+    <arm_group_label>Group with an OhmTrak device</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The intervention group will be equipped with an OhmTrak device for home self-therapy and instructed in its correct use at least 5 times a week.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group without an OhmTrak device</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>The control group will receive identical outpatient therapy and instruction in self-therapy, except they will not have access to the OhmTrak device.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>OhmTrak device.</intervention_name>
+    <description>All probands will undergo six-week outpatient therapy once a week. The intervention group will be equipped with an OhmTrak device for home self-therapy and instructed in its correct use at least 5 times a week.</description>
+    <arm_group_label>Group with an OhmTrak device</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Outpatient Physiotherapy</intervention_name>
+    <description>All probands will undergo six-week outpatient therapy once a week for an hour</description>
+    <arm_group_label>Group with an OhmTrak device</arm_group_label>
+    <arm_group_label>Group without an OhmTrak device</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  patient with chronic Low Back Pain&#xD;
+&#xD;
+          -  age range of 30-65 years.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  signs of serious spinal pathology (red flags)&#xD;
+&#xD;
+          -  severe musculoskeletal trauma in the last year&#xD;
+&#xD;
+          -  vestibular, visual or neurological dysfunction affecting stability&#xD;
+&#xD;
+          -  ongoing pregnancy or breastfeeding&#xD;
+&#xD;
+          -  acute respiratory disease&#xD;
+&#xD;
+          -  cognitive dysfunction leading to misunderstanding of instructions&#xD;
+&#xD;
+          -  severe cardiac or internal disease&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alena Kobesova, prof.</last_name>
+    <role>Study Director</role>
+    <affiliation>Department of Rehabilitation and Sports Medicine, 2nd Faculty of Medicine and FN Motol</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Martin Stribrny</last_name>
+    <phone>+420774630901</phone>
+    <email>m.stribrny@seznam.cz</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Vilma Kralova</last_name>
+    <phone>+420777625226</phone>
+    <email>kralova.vilma@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Centrum Pohybove Medicina Pavla Kolare a.s.</name>
+      <address>
+        <city>Prague</city>
+        <zip>15800</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Martin Stribrny</last_name>
+      <phone>+420774630901</phone>
+      <email>m.stribrny@seznam.cz</email>
+    </contact>
+    <investigator>
+      <last_name>Jakub Jacisko, MUDr.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Martin Stribrny, Mgr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Czechia</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 8, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>February 7, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 7, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 9, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Intra-abdominal pressure</keyword>
+  <keyword>Biofeedback</keyword>
+  <keyword>Dynamometry</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Back Pain</mesh_term>
+    <mesh_term>Low Back Pain</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

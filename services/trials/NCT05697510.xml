@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9449">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05697510</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RC22_0233</org_study_id>
+    <secondary_id>2022-501171-14-00</secondary_id>
+    <nct_id>NCT05697510</nct_id>
+  </id_info>
+  <brief_title>Dose-escalation of Siltuximab in Combination With Idarubicin and Cytarabine Chemotherapy in Patients With Acute Myeloblastic Leukaemia (AML) With Poor Prognosis: SILTUXILAM</brief_title>
+  <acronym>SILTUXILAM</acronym>
+  <official_title>Monocentric Phase 1 Study With Dose-escalation of Siltuximab in Combination With Idarubicin and Cytarabine Chemotherapy in Patients With Acute Myeloblastic Leukaemia (AML) With Poor Prognosis: SILTUXILAM</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Nantes University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Nantes University Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase 1 dose escalation study testing the addition of an anti-IL6 (siltuximab) to&#xD;
+      standard induction chemotherapy for high-risk AML.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Administration of siltuximab at day 8 of induction following a classical induction using&#xD;
+      idarubicin 8mg/m2/d for 5 days and cytarabine 100mg/m2/d for 7 days.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 16, 2023</start_date>
+  <completion_date type="Anticipated">June 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2025</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>number of DLT</measure>
+    <time_frame>45 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the response to induction therapy with idarubicin + cytarabine + siltuximab</measure>
+    <time_frame>Day 30 and Day 45</time_frame>
+    <description>Calculation of complete remission (CR) and CR with incomplete recovery (CRi) according to the ELN 2017 definition</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of response at D15 after induction</measure>
+    <time_frame>Day 15</time_frame>
+    <description>percent bone marrow blasts at D15 (myelogram)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of myelotoxicity</measure>
+    <time_frame>Day 45</time_frame>
+    <description>Neutrophil recovery time (&gt;1.0 × 109/L) from D1; Platelet recovery time (&gt;100 × 109/L) from D1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>Month 6</time_frame>
+    <description>delay from D1 of induction to date of last news or death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Leukaemia-free survival</measure>
+    <time_frame>Month 6</time_frame>
+    <description>delay between the date of CR and the date of relapse or death or the date of the last follow-up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Event-free survival</measure>
+    <time_frame>Month 6</time_frame>
+    <description>delay between D1 of induction and the date of relapse, death or date of last</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of relapse if remission</measure>
+    <time_frame>Month 6</time_frame>
+    <description>relapse rate at last follow-up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Infections</measure>
+    <time_frame>Month 6</time_frame>
+    <description>monitoring of AEs infection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cytokine levels: FLT3L and IL-6</measure>
+    <time_frame>Day 1, Day 8, Day 15, Day 22</time_frame>
+    <description>Cytokine levels: FLT3L and IL-6</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Acute Myeloid Leukemia (AML)</condition>
+  <arm_group>
+    <arm_group_label>SILTUXIMAB</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Siltuximab</intervention_name>
+    <description>Administration of siltuximab at day 8 of induction following a classical induction; 3 dose levels : 7, 9 and 11mg/kg</description>
+    <arm_group_label>SILTUXIMAB</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  age &gt;= 18 years&#xD;
+&#xD;
+          -  AML with a poor prognosis defined according to the criteria below:&#xD;
+&#xD;
+        LAM First line: Age &lt;60 years and unfavorable risk according to the 2017 ELN Age&gt; = 60&#xD;
+        years old and intermediate or unfavorable risk according to the ELN 2017 LAM in Relapse:&#xD;
+        whatever the age&#xD;
+&#xD;
+          -  ECOG &lt;= 2&#xD;
+&#xD;
+          -  Patient eligible for intensive chemotherapy&#xD;
+&#xD;
+          -  Informed consent&#xD;
+&#xD;
+          -  Liver function tests: transaminases &lt;3x normal, bilirubin &lt;1.5X normal&#xD;
+&#xD;
+          -  Creatinine clearance&gt; 60ml / min&#xD;
+&#xD;
+          -  LVEF&gt; = 50%&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with FLT3 ITD or TKD mutation eligible for FLT3 inhibitor therapy&#xD;
+&#xD;
+          -  Uncontrolled infection&#xD;
+&#xD;
+          -  Hep B, C, HIV +&#xD;
+&#xD;
+          -  History of diverticulosis / diverticulitis&#xD;
+&#xD;
+          -  Patients at high risk of gastrointestinal perforation&#xD;
+&#xD;
+          -  No social security or any other scheme&#xD;
+&#xD;
+          -  Pregnant women or patient unable to take contraception (pill, abstinence, IUD not&#xD;
+             allowed) in case of fertility. contraceptive pill, abstinence, unauthorised IUD) in&#xD;
+             case of fertility. A patient who cannot continue contraception for at least 3 months&#xD;
+             after the last SILTUXIMAB injection is not eligible for inclusion.&#xD;
+&#xD;
+          -  Lactating women&#xD;
+&#xD;
+          -  Minors&#xD;
+&#xD;
+          -  Adults under guardianship, curatorship or legal protection&#xD;
+&#xD;
+          -  Hypersensitivity to one of the active substances or to one of the excipients&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>MARION GAUTIER</last_name>
+    <phone>+33253526204</phone>
+    <email>marion.gautier@chu-nantes.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>CHU de Nantes</name>
+      <address>
+        <city>Nantes</city>
+        <zip>44093</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pierre PETERLIN</last_name>
+      <phone>+33240083271</phone>
+      <email>pierre.peterlin@chu-nantes.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>January 11, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 24, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>April 4, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 4, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>AML IL-6 SILTUXIMAB</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Leukemia, Myeloid, Acute</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Siltuximab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

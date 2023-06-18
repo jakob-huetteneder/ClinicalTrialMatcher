@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9812">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05689671</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SAP131705</org_study_id>
+    <secondary_id>2022-002990-27</secondary_id>
+    <secondary_id>AIO-TRK-0122</secondary_id>
+    <nct_id>NCT05689671</nct_id>
+  </id_info>
+  <brief_title>Pemetrexed-free vs. Pemetrexed-based Immunochemotherapy in Metastatic TTF-1 Negative Lung Adenocarcinoma</brief_title>
+  <acronym>ANTELOPE</acronym>
+  <official_title>Atezolizumab/Carboplatin/Nab-Paclitaxel vs. Pembrolizumab/Platinum/Pemetrexed in Metastatic TTF-1 Negative Lung Adenocarcinoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Nikolaj Frost MD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Roche Pharma AG</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Institut für Klinische Krebsforschung IKF GmbH at Krankenhaus Nordwest</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Charite University, Berlin, Germany</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open-label randomized, controlled, multicenter, phase II trial with two arms.&#xD;
+      Patients with metastatic TTF-1 negative, treatment-naive lung adenocarcinoma without&#xD;
+      actionable genomic alterations are randomized in a 1:1 manner to investigate the efficiency&#xD;
+      of atezolizumab, carboplatin and nab-paclitaxel (Arm A) versus pembrolizumab,&#xD;
+      cis-/carboplatin and pemetrexed (Arm B) as first-line treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Thyroid transcription factor 1 (TTF-1) is expressed in the majority of lung adenocarcinoma&#xD;
+      and has a clear prognostic value. Pemetrexed-based immunochemotherapy is a standard of care&#xD;
+      for advanced lung adenocarcinoma. However, real-world data suggest that TTF-1 negative&#xD;
+      patients might derive superior outcome using pemetrexed-free regimens. The aim of this study&#xD;
+      is to compare a pemetrexed-free (Arm A) vs. a pemetrexed-based immunochemotherapy (Arm B) as&#xD;
+      first-line treatment for metastatic TTF-1 negative lung adenocarcinoma without actionable&#xD;
+      genomic alterations.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2023</start_date>
+  <completion_date type="Anticipated">October 2026</completion_date>
+  <primary_completion_date type="Anticipated">October 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>30 months</time_frame>
+    <description>time from randomization to the date of death due to any case</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objectice Response Rate (ORR)</measure>
+    <time_frame>30 months</time_frame>
+    <description>proportion of subjects with best response of complete or partial response (CR &amp; PR) according to RECIST v1.1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival (PFS)</measure>
+    <time_frame>30 months</time_frame>
+    <description>time from randomization until progression defined by RECIST v1.1 or death due to any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>One-Year Overall Survival Rate</measure>
+    <time_frame>30 months</time_frame>
+    <description>percentage of patients alive at 12 months after randomization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Next Treatment or Death (TNTD)</measure>
+    <time_frame>30 months</time_frame>
+    <description>time from initial study randomization to the start of next subsequent treatment or death, whichever occurs first</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival 2 (PFS2)</measure>
+    <time_frame>30 months</time_frame>
+    <description>time from initial study randomization to second disease progression or death from any cause to assess efficacy post-trial-treatment anti-cancer therapy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health-related quality of life 1 (HRQoL)</measure>
+    <time_frame>Assessed after randomization at cycle 1 day 1, after completion of cycle 4 (each cycle is 21 days) of the chemoimmunotherapy and at progressive disease (if occurring within the maximum time frame of 30 months)</time_frame>
+    <description>assessed with the QoL questionnaire QLQ-C30 on general health conditions in lung cancer patients using numeric scales ranging from 1-4. Lower numbers indicate no, higher numbers high agreement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health-related quality of life 2 (HRQoL)</measure>
+    <time_frame>Assessed after randomization at cycle 1 day 1, after completion of cycle 4 (each cycle is 21 days) of the chemoimmunotherapy and at progressive disease (if occurring within the maximum time frame of 30 months)</time_frame>
+    <description>assessed with the lung cancer symptom-specific QoL questionnaire QLQ-LC13 using numeric scales ranging from 1-4. Lower numbers indicate no, higher numbers high agreement.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">136</enrollment>
+  <condition>Non-Small Cell Lung Cancer Metastatic</condition>
+  <arm_group>
+    <arm_group_label>Pemetrexed-free Immunochemotherapy (Arm A)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Atezolizumab 1200 mg q3w, carboplatin AUC 5-6 q3w, nab-paclitaxel 100 mg/m2 qw (administered for 4 cycles with subsequent maintenance with atezolizumab monotherapy 1200 mg q3w until loss of clinical benefit or occurrence of unacceptable toxicity)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pemetrexed-based Immunochemotherapy (Arm B)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Pembrolizumab 200 mg q3w, cisplatin 75 mg/m2 q3w OR carboplatin AUC 5-6 (each) q3w, pemetrexed 500 mg/m2 q3w (administered for 4 cycles with subsequent maintenance with pembrolizumab 200 mg AND pemetrexed 500 mg/m2 (each) q3w until loss of clinical benefit or occurrence of unacceptable toxicity)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Atezolizumab</intervention_name>
+    <description>1200 mg i.v. q3w</description>
+    <arm_group_label>Pemetrexed-free Immunochemotherapy (Arm A)</arm_group_label>
+    <other_name>Tecentriq</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nab paclitaxel</intervention_name>
+    <description>100 mg/m² i.v. qw</description>
+    <arm_group_label>Pemetrexed-free Immunochemotherapy (Arm A)</arm_group_label>
+    <other_name>Abraxane</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carboplatin</intervention_name>
+    <description>AUC 5-6 i.v. q3w</description>
+    <arm_group_label>Pemetrexed-free Immunochemotherapy (Arm A)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pembrolizumab</intervention_name>
+    <description>200 mg i.v. q3w</description>
+    <arm_group_label>Pemetrexed-based Immunochemotherapy (Arm B)</arm_group_label>
+    <other_name>Keytruda</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cisplatin</intervention_name>
+    <description>75 mg/m² i.v. q3w</description>
+    <arm_group_label>Pemetrexed-based Immunochemotherapy (Arm B)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carboplatin</intervention_name>
+    <description>AUC 5-6 i.v. q3w</description>
+    <arm_group_label>Pemetrexed-based Immunochemotherapy (Arm B)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pemetrexed</intervention_name>
+    <description>500 mg/m² i.v. q3w</description>
+    <arm_group_label>Pemetrexed-based Immunochemotherapy (Arm B)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patient has provided written informed consent&#xD;
+&#xD;
+          2. Patient* 18 years or older at time of signing the informed consent form&#xD;
+&#xD;
+          3. Histologically or cytologically confirmed metastatic stage IV non-squamous NSCLC&#xD;
+&#xD;
+          4. Negative local testing for TTF-1&#xD;
+&#xD;
+          5. Negative molecular testing for EGFR mutations and ALK rearrangements (tested locally)&#xD;
+&#xD;
+          6. PD-L1 tumor proportion score (TPS) &lt; 50%, tested locally by QUiP®-certified&#xD;
+             immunohistochemistry&#xD;
+&#xD;
+          7. ECOG performance status ≤ 1&#xD;
+&#xD;
+          8. Measurable lesions according to RECIST v1.1&#xD;
+&#xD;
+          9. Life expectancy ≥ 12 weeks&#xD;
+&#xD;
+         10. Adequate hepatic, renal and bone marrow function&#xD;
+&#xD;
+               1. Hemoglobin ≥ 8.0 g/dL&#xD;
+&#xD;
+               2. Absolute neutrophil count ≥ 1.5 x 109/L&#xD;
+&#xD;
+               3. Platelets ≥ 100 x 109/L&#xD;
+&#xD;
+               4. Calculated creatine clearance ≥ 50 mL/min as determined by the Cockcroft-Gault&#xD;
+                  equation and/or creatinin ≤ 1,5x upper limit of normal (ULN)&#xD;
+&#xD;
+               5. Serum bilirubin ≤ 1.5 x institutional ULN&#xD;
+&#xD;
+               6. AST/ ALT and alkaline phosphatase ≤ 2.5 x ULN&#xD;
+&#xD;
+               7. International normalized ratio (INR)/ Activated partial thromboplastin time&#xD;
+                  (aPTT) ≤1.5 × ULN unless participant is receiving anticoagulant therapy as long&#xD;
+                  as PTT is within therapeutic range of intended use of anticoagulants&#xD;
+&#xD;
+         11. The patient is willing and able to comply with the protocol for the duration of the&#xD;
+             study, including hospital visits for treatment and scheduled follow-up visits and&#xD;
+             examinations.&#xD;
+&#xD;
+         12. Female patients who are considered as woman of childbearing potential (WOCBP) must use&#xD;
+             any contraceptive method with a failure rate of less than 1% per year during the&#xD;
+             treatment as well as up to 6 months after the last dose of study treatment. Male&#xD;
+             patients who are sexually active with WOCBP must use any contraceptive method with a&#xD;
+             failure rate of less than 1% per year during the treatment as well as at least 6&#xD;
+             months after the last dose of IMP. Female patients who are not of childbearing&#xD;
+             potential (i.e., who are postmenopausal or surgically sterile) as well as azoospermic&#xD;
+             male patients do not require contraception&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Mixed histologies (small-cell and non-small cell or non-squamous and squamous;&#xD;
+             patients exhibiting the latter expression pattern may be eligible if the non-squamous&#xD;
+             part predominates)&#xD;
+&#xD;
+          2. Patients having received:&#xD;
+&#xD;
+               1. Systemic treatment for metastatic or locally advanced disease&#xD;
+&#xD;
+               2. prior PD-1/PD-L1 immunotherapies (prior treatment with CD137 agonists or immune&#xD;
+                  checkpoint blockade therapies, including, but not limited to, anti-cytotoxic T&#xD;
+                  lymphocyte associated protein 4 [anti-CTLA-4], anti T cell immunoreceptor with Ig&#xD;
+                  and tyrosine-based inhibition motif domains [anti-TIGIT], anti-PD-1 and&#xD;
+                  anti-PD-L1 therapeutic antibodies)&#xD;
+&#xD;
+          3. Symptomatic, neurologically unstable central nervous system (CNS) metastases or&#xD;
+             requiring increasing doses of steroids to manage CNS symptoms within 2 weeks prior to&#xD;
+             study entry (maximal acceptable dose must be ≤ 10 mg of prednisolone)&#xD;
+&#xD;
+          4. Leptomeningeal disease&#xD;
+&#xD;
+          5. History of interstitial lung disease&#xD;
+&#xD;
+          6. Severe infection within 2 weeks prior to study entry. Clinical signs must have been&#xD;
+             resolved to CTCAE grade ≤ 1&#xD;
+&#xD;
+          7. Active infection with hepatitis B or C virus (HBV, HCV), human immunodeficiency virus&#xD;
+             (HIV) or Mycobacterium tuberculosis&#xD;
+&#xD;
+          8. Known additional malignancies other than NSCLC, either untreated or having required&#xD;
+             active treatment within the past 3 years&#xD;
+&#xD;
+          9. Significant cardiovascular disease (≥ NYHA 3)&#xD;
+&#xD;
+         10. Active or prior documented autoimmune or inflammatory disorders (including but not&#xD;
+             limited to diverticulitis [with the exception of diverticulosis], celiac disease,&#xD;
+             systemic lupus erythematosus, Sarcoidosis, or Wegener's syndrome [granulomatosis with&#xD;
+             polyangiitis], Graves' disease, rheumatoid arthritis, hypophysitis, uveitis). The&#xD;
+             following are exceptions to this criterion:&#xD;
+&#xD;
+               1. Patients with vitiligo or alopecia&#xD;
+&#xD;
+               2. Patients with hypothyroidism (e.g., following Hashimoto's disease) stable on&#xD;
+                  hormone replacement&#xD;
+&#xD;
+               3. Patients with controlled Type I diabetes mellitus on an insulin regimen&#xD;
+&#xD;
+               4. Any chronic skin condition that does not require systemic therapy&#xD;
+&#xD;
+               5. Patients without active disease in the last 5 years may be included but only&#xD;
+                  after consultation with the study physician&#xD;
+&#xD;
+         11. Current or prior use of immunosuppressive medication within 14 days before the first&#xD;
+             dose of atezolizumab/pembrolizumab. The following are exceptions to this criterion:&#xD;
+&#xD;
+               1. Intranasal, inhaled, topical steroids, or local steroid injections (e.g. intra&#xD;
+                  articular injection)&#xD;
+&#xD;
+               2. Systemic corticosteroids at physiologic doses not to exceed 10 mg/day of&#xD;
+                  prednisone or its equivalent&#xD;
+&#xD;
+               3. Steroids as premedication for hypersensitivity reactions (e.g. CT scan&#xD;
+                  premedication)&#xD;
+&#xD;
+         12. Treatment with systemic immunostimulatory agents (including, but not limited to,&#xD;
+             interferon and IL-2) within 4 weeks or 5 drug-elimination half-lives (whichever is&#xD;
+             longer) prior to initiation of study treatment&#xD;
+&#xD;
+         13. Live vaccine within 30 days prior to first dose of trial treatment&#xD;
+&#xD;
+         14. Known allergy or hypersensitivity to any component of the chemotherapy regimen or to&#xD;
+             atezolizumab or pembrolizumab or any constituents of the products&#xD;
+&#xD;
+         15. Any co-existing medical condition that in the investigator's judgement will&#xD;
+             substantially increase the risk associated with the patient's participation in the&#xD;
+             study.&#xD;
+&#xD;
+         16. Patient who has been incarcerated or involuntarily institutionalized by court order or&#xD;
+             by the authorities.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nikolaj Frost, PD Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Charite University, Berlin, Germany</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nikolaj Frost, PD Dr.</last_name>
+    <phone>+49 30 450 565 005</phone>
+    <email>nikolaj.frost@charite.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Daniel Müller, Dr.</last_name>
+    <phone>+49 69 7601 125</phone>
+    <email>mueller.daniel@ikf-khnw.de</email>
+  </overall_contact_backup>
+  <link>
+    <url>https://www.aio-portal.de/studie/176--antelope.html</url>
+    <description>Study description on the webpage of the &quot;Oncology in Internal Medicine Working Group&quot; (AIO) within the German Cancer Society</description>
+  </link>
+  <reference>
+    <citation>Frost N, Zhamurashvili T, von Laffert M, Klauschen F, Ruwwe-Glosenkamp C, Raspe M, Brunn M, Ochsenreither S, Temmesfeld-Wollbruck B, Suttorp N, Grohe C, Witzenrath M. Pemetrexed-Based Chemotherapy Is Inferior to Pemetrexed-Free Regimens in Thyroid Transcription Factor 1 (TTF-1)-Negative, EGFR/ALK-Negative Lung Adenocarcinoma: A Propensity Score Matched Pairs Analysis. Clin Lung Cancer. 2020 Nov;21(6):e607-e621. doi: 10.1016/j.cllc.2020.05.014. Epub 2020 May 22.</citation>
+    <PMID>32620471</PMID>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>November 30, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>January 18, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 18, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Charite University, Berlin, Germany</investigator_affiliation>
+    <investigator_full_name>Nikolaj Frost MD</investigator_full_name>
+    <investigator_title>Nikolaj Frost, PD Dr. med., Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>NSCLC</keyword>
+  <keyword>checkpoint inhibitors</keyword>
+  <keyword>immunochemotherapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Adenocarcinoma</mesh_term>
+    <mesh_term>Adenocarcinoma of Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Paclitaxel</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+    <mesh_term>Pembrolizumab</mesh_term>
+    <mesh_term>Pemetrexed</mesh_term>
+    <mesh_term>Atezolizumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

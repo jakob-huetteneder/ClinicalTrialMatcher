@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9960">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05686616</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Reduction TR</org_study_id>
+    <nct_id>NCT05686616</nct_id>
+  </id_info>
+  <brief_title>SGLT2 Inhibitor for Severe Tricuspid Regurgitation</brief_title>
+  <acronym>Reduction-TR</acronym>
+  <official_title>Multicenter, Randomized, Controlled Trial to Assess the Efficacy of Sodium Glucose Cotransporter-2 Inhibitor add-on Treatment in Patients With Severe Tricuspid Regurgitation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Samsung Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Samsung Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study to identify the efficacy of sodium glucose cotransporter 2&#xD;
+      inhibitors add-on treatment on right ventricular remodeling and the amount of severe&#xD;
+      tricuspid regurgitation (TR) in patients with isolated severe TR.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      After being informed consent about the study and potential risk, all patients giving written&#xD;
+      informed consent will undergo a 1 month screening period to determine eligibility for study&#xD;
+      entry. At week 0, patients who meet the eligibility requirements will be randomized in an&#xD;
+      open-label manner in a 1:1 ratio to SGLT2i add-on group or conventional treatment group.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 13, 2022</start_date>
+  <completion_date type="Anticipated">March 3, 2025</completion_date>
+  <primary_completion_date type="Anticipated">April 13, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Difference of RVESVi by CMR from baseline to 12 months follow-up (∆RVESVi)</measure>
+    <time_frame>Baseline and month 12</time_frame>
+    <description>RVESV index at 12 months - RVESV index at baseline</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Difference of RVEDVi by CMR from baseline to 12 months follow-up (∆RVEDVi)</measure>
+    <time_frame>Baseline and month 12</time_frame>
+    <description>RVEDV index at 12 months - RVEDV index at baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference of RV ejection fraction by CMR from baseline to 12 months follow-up (∆RVEF)</measure>
+    <time_frame>Baseline and month 12</time_frame>
+    <description>RVEF at 12 months - RVEF at baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference of Vena contracta width of TR by echocardiography from baseline to 12 months follow-up (∆VCW)</measure>
+    <time_frame>Baseline and month 12</time_frame>
+    <description>TR VCW at 12 months - TR VCW at baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference of TV annulus diameter by echocardiography from baseline to 12 months follow-up</measure>
+    <time_frame>Baseline and month 12</time_frame>
+    <description>Tricuspid annulus diameter at 12 months - Tricuspid annulus diameter at baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference of TR volume by CMR from baseline to 12 months follow-up</measure>
+    <time_frame>Baseline and month 12</time_frame>
+    <description>TR volume at 12 months - TR volume at baseline</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Occurrence of cardiovascular death or hospitalization for right heart failure* during 12 months</measure>
+    <time_frame>12 months after enrollment</time_frame>
+    <description>development of cardiovascular death or admission for heart failure</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Occurrence of tricuspid valve surgery during 12 months</measure>
+    <time_frame>12 months after enrollment</time_frame>
+    <description>TV surgery</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Difference of NT-proBNP from baseline to 12 months follow-up</measure>
+    <time_frame>Baseline and month 12</time_frame>
+    <description>NT-proBNP at 12 months - NT-proBNP at baseline</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Occurrence of renal dysfunction (creatinine &gt; 2mg/dL)</measure>
+    <time_frame>12 months after enrollment</time_frame>
+    <description>Newly developed renal dysfunction during follow-up period</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">72</enrollment>
+  <condition>Tricuspid Regurgitation</condition>
+  <arm_group>
+    <arm_group_label>SGLT2 inhibitor group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will take dapagliflozin propanediol hydrate 12.3 mg once a day for a total of 48 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Conventional treatment group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants will continue the existing medications for severe TR.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dapagliflozin Propanediol Hydrate 12.3 mg</intervention_name>
+    <description>Forxiga 10mg will be added on the conventional treatment for SGL2 inhibitor group.</description>
+    <arm_group_label>SGLT2 inhibitor group</arm_group_label>
+    <other_name>Forxiga Tablet 10mg</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Participant over 20 years of age who understands the research protocol and has written&#xD;
+             informed consent&#xD;
+&#xD;
+          2. Participant with severe tricuspid valve regurgitation&#xD;
+&#xD;
+               -  Vena contracta width &gt; 0.7cm or effective regurgitant orifice (ERO)≥40mm2 for&#xD;
+                  more than 1 month despite medical treatment&#xD;
+&#xD;
+               -  Participant with left ventricular ejection fraction ≥ 40%&#xD;
+&#xD;
+               -  Participant with NYHA class II or more&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patient with severe mitral valve or aortic valve disease&#xD;
+&#xD;
+          2. Left ventricular ejection fraction less than 40%*&#xD;
+&#xD;
+          3. Patient with severe pulmonary hypertension (TR Vmax &gt; 4m/s)&#xD;
+&#xD;
+          4. Patient with acute heart failure or dyspnea of NYHA functional class IV or higher&#xD;
+&#xD;
+          5. Symptomatic hypotension or systolic blood pressure &lt; 90 mmHg at screening&#xD;
+&#xD;
+          6. Patient with severe lung disease (asthma, obstructive pulmonary disease, acute&#xD;
+             pulmonary embolism)&#xD;
+&#xD;
+          7. Patients with renal failure (Estimated GFR &lt; 30 mL/min/1.73 m2) or on dialysis&#xD;
+&#xD;
+          8. Patient with Type 1 diabetes&#xD;
+&#xD;
+          9. If a woman of childbearing potential has not used double contraception&#xD;
+&#xD;
+         10. Patients with claustrophobia or with metallic implants unsuitable for magnetic&#xD;
+             resonance imaging&#xD;
+&#xD;
+         11. Blood AST or ALT value is more than twice the upper limit of normal or symptoms and&#xD;
+             signs of cirrhosis (history of hepatic coma, history of esophageal varices, history of&#xD;
+             symptomatic ascites)&#xD;
+&#xD;
+         12. Life expectancy is less than one year&#xD;
+&#xD;
+         13. Patient who already take SGLT-2 inhibitor&#xD;
+&#xD;
+         14. A history of hypersensitivity or allergy to SGLT2 inhibitor&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sung Ji Park, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Heart Vascular Stroke Institute, Samsung Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Eun Kyoung Kim, MD. PhD</last_name>
+    <phone>82-2-3410-3419</phone>
+    <email>ekbobi.kim@samsung.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ji Hoon Kim, MD, PhD</last_name>
+    <phone>82-2-3410-3419</phone>
+    <email>jh9933.kim@samsung.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Samsung Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06351</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eun Kyoung Kim, MD PhD</last_name>
+      <phone>82234103419</phone>
+      <email>ekbobi.kim@samsung.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ji Hoon Kim, MD</last_name>
+      <phone>82234103419</phone>
+      <email>jh9933.kim@samsung.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 9, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 9, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 17, 2023</study_first_posted>
+  <last_update_submitted>January 9, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 9, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 17, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Samsung Medical Center</investigator_affiliation>
+    <investigator_full_name>Sung-Ji Park</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>tricuspid regurgitation</keyword>
+  <keyword>SGLT2 inhibitor</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tricuspid Valve Insufficiency</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dapagliflozin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

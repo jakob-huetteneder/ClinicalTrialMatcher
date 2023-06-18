@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9230">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05702411</url>
+  </required_header>
+  <id_info>
+    <org_study_id>50845721.0.0000.5530</org_study_id>
+    <nct_id>NCT05702411</nct_id>
+  </id_info>
+  <brief_title>Air Stacking Technique For Pulmonary Reexpansion</brief_title>
+  <official_title>Air Stacking Technique For Pulmonary Reexpansion In The Ventilator After Expiratory Pause During Aspiration In Closed System</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital Nossa Senhora da Conceicao</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospital Nossa Senhora da Conceicao</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A cross-over randomized clinical trial carried out at the Intensive Care Unit. Patients who&#xD;
+      are on mechanical ventilation for more than 24 hours will be included in the study. The&#xD;
+      following techniques will be applied: aspiration in a closed system with an expiratory pause&#xD;
+      of 10 seconds associated to hyperinflation maneuver with a mechanical ventilator with the Air&#xD;
+      Stacking technique and aspiration technique in a closed system of aspiration with an&#xD;
+      expiratory pause of 10 seconds.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      After randomization, all patients will be positioned in dorsal decubitus with the head&#xD;
+      elevated at 30 degrees and will be aspirated once with a closed suction system and with a&#xD;
+      vacuum limited to 150 cmH2O.&#xD;
+&#xD;
+      Two hours later, hemodynamic and ventilatory parameters will be collected and recorded.&#xD;
+&#xD;
+      If randomized to Protocol 1 (Air Stacking technique), the aspiration technique with closed&#xD;
+      system and expiratory pause will be performed three times during a 30-second interval, with a&#xD;
+      probe of the same caliber and the same vacuum value. One ml of saline solution will be&#xD;
+      instilled in the aspiration system to washing the closed suction circuit.&#xD;
+&#xD;
+      Immediately after, the Air Stacking maneuvers will be performed. If Protocol 2 (No Air&#xD;
+      Stacking technique), only tracheal suction with closed system.&#xD;
+&#xD;
+      Hemodynamic and ventilatory parameters will be collected after 1, 10 and 30 minutes of&#xD;
+      application. The secretions aspirated into the collection flasks will then be weighed, on a&#xD;
+      precision balance, by a collaborator blinded that is not part of the study, and the weight&#xD;
+      will be transcribed to the data collect.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 1, 2021</start_date>
+  <completion_date type="Anticipated">May 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Tidal Volume (VT) (ml)</measure>
+    <time_frame>At 30-minute after the application of the studied technique.</time_frame>
+    <description>The tidal volume will be visualized directly at mechanical ventilation monitor. Variations in tidal volume will be considered before and after the interventions.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Weight of secretion aspirated (grams)</measure>
+    <time_frame>Immediately after the application of one of the protocols.</time_frame>
+    <description>The secretion aspirated into the collection flask will be weighed on a precision laboratory scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peripheral arterial oxygen saturation (SpO2) (%)</measure>
+    <time_frame>1, 10 and 30-minute after the application of the studied technique.</time_frame>
+    <description>The SpO2 will be visualized on the monitor of the patient, and the value will be noted.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peak inspiratory pressure (PIP) (cm H2O)</measure>
+    <time_frame>1, 10 and 30-minute after the application of the studied technique.</time_frame>
+    <description>The PIP will be visualized directly at mechanical ventilation monitor, and the value will be noted.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>End expiratory pressure (PEEP) (cmH2O)</measure>
+    <time_frame>1, 10 and 30-minute after the application of the studied technique.</time_frame>
+    <description>The PEEP will be visualized directly at mechanical ventilation monitor, and the value will be noted.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Air trapping (AUTO-PEEP) (cmH2O)</measure>
+    <time_frame>1, 10 and 30-minute after the application of the studied technique.</time_frame>
+    <description>The AUTO-PEEP will be visualized directly at mechanical ventilation monitor, and the value will be noted.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mechanical ventilation circuit pressure (cmH2O)</measure>
+    <time_frame>1, 10 and 30-minute after the application of the studied technique.</time_frame>
+    <description>The mechanical ventilation circuit pressure will be visualized directly at mechanical ventilation monitor, and the value will be noted.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Endotracheal tube diameter (ETT) (mm)</measure>
+    <time_frame>1-minute after the application of the studied technique.</time_frame>
+    <description>The endotracheal tube diameter is directly written in the product package.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dynamic compliance (Cd) (ml/cmH2O)</measure>
+    <time_frame>1, 10 and 30-minute after the application of the studied technique.</time_frame>
+    <description>The Cd will be visualized directly at mechanical ventilation monitor, and the value will be noted.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Resistance (R) (L/s)</measure>
+    <time_frame>1, 10 and 30-minute after the application of the studied technique.</time_frame>
+    <description>The R will be visualized directly at mechanical ventilation monitor, and the value will be noted.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Drive pressure (cmH2O)</measure>
+    <time_frame>1, 10 and 30-minute after the application of the studied technique.</time_frame>
+    <description>The drive pressure will be calculated by the difference between plateau pressure and positive end-expiratory pressure in the mechanical ventilation, and the value will be noted.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heart rate (HR) (beats per minute)</measure>
+    <time_frame>1, 10 and 30-minute after the application of the studied technique.</time_frame>
+    <description>The HR will be visualized on the monitor of the patient, and the value will be noted.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory rate (RR) (breaths per minute)</measure>
+    <time_frame>1, 10 and 30-minute after the application of the studied technique.</time_frame>
+    <description>The RR will be visualized on the monitor of the patient, and the value will be noted.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean arterial pressure (MAP) (mmHg)</measure>
+    <time_frame>1, 10 and 30-minute after the application of the studied technique.</time_frame>
+    <description>The MAP will be calculated using the systolic and diastolic blood pressure, and the value will be noted.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">39</enrollment>
+  <condition>Critical Care</condition>
+  <arm_group>
+    <arm_group_label>Protocol 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Closed system aspiration with an expiratory pause of 10 seconds followed by hyper insufflation maneuver with the Air Stacking technique.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Protocol 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Closed system aspiration with an expiratory pause of 10 seconds.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Air Stacking Technique</intervention_name>
+    <description>Air Stacking lung reexpansion technique after aspiration with expiratory pause in a closed system.</description>
+    <arm_group_label>Protocol 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>No Air Stacking Technique</intervention_name>
+    <description>Aspiration technique in a closed system of aspiration with an expiratory pause of 10 seconds.</description>
+    <arm_group_label>Protocol 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  patients 18 years or older&#xD;
+&#xD;
+          -  patients on mechanical ventilation for more than 48 hours&#xD;
+&#xD;
+          -  patients on volume or pressure controlled ventilatory mode&#xD;
+&#xD;
+          -  patients hemodynamically stable (equal mean blood pressure or more than 60 mmHg, and&#xD;
+             dose of Norepinephrine less than 1μg / Kg / minute)&#xD;
+&#xD;
+          -  patients whose legal representatives authorize participation in the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  undrained pneumothorax and hemothorax, and emphysema subcutaneous&#xD;
+&#xD;
+          -  fracture of ribs&#xD;
+&#xD;
+          -  ventilatory parameters with peak pressure greater than 40 cm/H2O&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Fernanda M Kutchak, Master</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Grupo Hospitalar Conceição</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Fernanda M Kutchak, Master</last_name>
+    <phone>+55 51 993196476</phone>
+    <email>fernandakutchak@terra.com.br</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Silvia RR Vieira, PhD</last_name>
+    <phone>+555199686170</phone>
+    <email>svieira@hcpa.edu.br</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital Cristo Redentor</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>RS</state>
+        <zip>91040000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fernanda M Kutchak, Master</last_name>
+      <phone>+5551993196476</phone>
+    </contact>
+    <contact_backup>
+      <last_name>Silvia RR Vieira, PhD</last_name>
+      <phone>+555199686170</phone>
+      <email>svieira@hcpa.edu.br</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <reference>
+    <citation>Slutsky AS. History of Mechanical Ventilation. From Vesalius to Ventilator-induced Lung Injury. Am J Respir Crit Care Med. 2015 May 15;191(10):1106-15. doi: 10.1164/rccm.201503-0421PP.</citation>
+    <PMID>25844759</PMID>
+  </reference>
+  <reference>
+    <citation>Walter JM, Corbridge TC, Singer BD. Invasive Mechanical Ventilation. South Med J. 2018 Dec;111(12):746-753. doi: 10.14423/SMJ.0000000000000905.</citation>
+    <PMID>30512128</PMID>
+  </reference>
+  <reference>
+    <citation>Pham T, Brochard LJ, Slutsky AS. Mechanical Ventilation: State of the Art. Mayo Clin Proc. 2017 Sep;92(9):1382-1400. doi: 10.1016/j.mayocp.2017.05.004.</citation>
+    <PMID>28870355</PMID>
+  </reference>
+  <reference>
+    <citation>Van der Schans CP. Bronchial mucus transport. Respir Care. 2007 Sep;52(9):1150-6; discussion 1156-8.</citation>
+    <PMID>17716383</PMID>
+  </reference>
+  <reference>
+    <citation>American Thoracic Society; Infectious Diseases Society of America. Guidelines for the management of adults with hospital-acquired, ventilator-associated, and healthcare-associated pneumonia. Am J Respir Crit Care Med. 2005 Feb 15;171(4):388-416. doi: 10.1164/rccm.200405-644ST. No abstract available.</citation>
+    <PMID>15699079</PMID>
+  </reference>
+  <reference>
+    <citation>Niel-Weise BS, Snoeren RL, van den Broek PJ. Policies for endotracheal suctioning of patients receiving mechanical ventilation: a systematic review of randomized controlled trials. Infect Control Hosp Epidemiol. 2007 May;28(5):531-6. doi: 10.1086/513726. Epub 2007 Mar 22.</citation>
+    <PMID>17464911</PMID>
+  </reference>
+  <reference>
+    <citation>Ciesla ND. Chest physical therapy for patients in the intensive care unit. Phys Ther. 1996 Jun;76(6):609-25. doi: 10.1093/ptj/76.6.609.</citation>
+    <PMID>8650276</PMID>
+  </reference>
+  <reference>
+    <citation>Branson RD. Secretion management in the mechanically ventilated patient. Respir Care. 2007 Oct;52(10):1328-42; discussion 1342-7.</citation>
+    <PMID>17894902</PMID>
+  </reference>
+  <reference>
+    <citation>American Association for Respiratory Care. AARC Clinical Practice Guidelines. Endotracheal suctioning of mechanically ventilated patients with artificial airways 2010. Respir Care. 2010 Jun;55(6):758-64.</citation>
+    <PMID>20507660</PMID>
+  </reference>
+  <reference>
+    <citation>Pagotto IM, Oliveira LR, Araujo FC, Carvalho NA, Chiavone P. Comparison between open and closed suction systems: a systematic review. Rev Bras Ter Intensiva. 2008 Dec;20(4):331-8. English, Portuguese.</citation>
+    <PMID>25307236</PMID>
+  </reference>
+  <reference>
+    <citation>Lopes FM, Lopez MF. Impact of the open and closed tracheal suctioning system on the incidence of mechanical ventilation associated pneumonia: literature review. Rev Bras Ter Intensiva. 2009 Mar;21(1):80-8. English, Portuguese.</citation>
+    <PMID>25303133</PMID>
+  </reference>
+  <reference>
+    <citation>de Fraga Gomes Martins L, da Silva Naue W, Skueresky AS, Bianchi T, Dias AS, Forgiarini LA. Effects of Combined Tracheal Suctioning and Expiratory Pause: A Crossover Randomized Clinical Trial. Indian J Crit Care Med. 2019 Oct;23(10):454-457. doi: 10.5005/jp-journals-10071-23263.</citation>
+    <PMID>31749553</PMID>
+  </reference>
+  <reference>
+    <citation>Stiller K. Physiotherapy in intensive care: an updated systematic review. Chest. 2013 Sep;144(3):825-847. doi: 10.1378/chest.12-2930.</citation>
+    <PMID>23722822</PMID>
+  </reference>
+  <reference>
+    <citation>Smith DJ, Gaffney EA, Blake JR. Modelling mucociliary clearance. Respir Physiol Neurobiol. 2008 Nov 30;163(1-3):178-88. doi: 10.1016/j.resp.2008.03.006. Epub 2008 Mar 20.</citation>
+    <PMID>18439882</PMID>
+  </reference>
+  <reference>
+    <citation>Karamaoun C, Sobac B, Mauroy B, Van Muylem A, Haut B. New insights into the mechanisms controlling the bronchial mucus balance. PLoS One. 2018 Jun 22;13(6):e0199319. doi: 10.1371/journal.pone.0199319. eCollection 2018.</citation>
+    <PMID>29933368</PMID>
+  </reference>
+  <reference>
+    <citation>Pieterse A, Hanekom SD. Criteria for enhancing mucus transport: a systematic scoping review. Multidiscip Respir Med. 2018 Jul 6;13:22. doi: 10.1186/s40248-018-0127-6. eCollection 2018.</citation>
+    <PMID>29988934</PMID>
+  </reference>
+  <reference>
+    <citation>Konrad F, Schiener R, Marx T, Georgieff M. Ultrastructure and mucociliary transport of bronchial respiratory epithelium in intubated patients. Intensive Care Med. 1995 Jun;21(6):482-9. doi: 10.1007/BF01706201.</citation>
+    <PMID>7560491</PMID>
+  </reference>
+  <reference>
+    <citation>Savian C, Paratz J, Davies A. Comparison of the effectiveness of manual and ventilator hyperinflation at different levels of positive end-expiratory pressure in artificially ventilated and intubated intensive care patients. Heart Lung. 2006 Sep-Oct;35(5):334-41. doi: 10.1016/j.hrtlng.2006.02.003.</citation>
+    <PMID>16963365</PMID>
+  </reference>
+  <reference>
+    <citation>Coppadoro A, Bellani G, Foti G. Non-Pharmacological Interventions to Prevent Ventilator-Associated Pneumonia: A Literature Review. Respir Care. 2019 Dec;64(12):1586-1595. doi: 10.4187/respcare.07127. Epub 2019 Sep 24.</citation>
+    <PMID>31551284</PMID>
+  </reference>
+  <reference>
+    <citation>AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA. Medidas de Prevenção de Infecção Relacionada à Assistência à Saúde.; 2017.</citation>
+  </reference>
+  <reference>
+    <citation>Franca EE, Ferrari F, Fernandes P, Cavalcanti R, Duarte A, Martinez BP, Aquim EE, Damasceno MC. Physical therapy in critically ill adult patients: recommendations from the Brazilian Association of Intensive Care Medicine Department of Physical Therapy. Rev Bras Ter Intensiva. 2012 Mar;24(1):6-22. English, Portuguese.</citation>
+    <PMID>23917708</PMID>
+  </reference>
+  <reference>
+    <citation>Naue Wda S, da Silva AC, Guntzel AM, Condessa RL, de Oliveira RP, Rios Vieira SR. Increasing pressure support does not enhance secretion clearance if applied during manual chest wall vibration in intubated patients: a randomised trial. J Physiother. 2011;57(1):21-6. doi: 10.1016/S1836-9553(11)70003-0.</citation>
+    <PMID>21402326</PMID>
+  </reference>
+  <reference>
+    <citation>van der Schans CP, Postma DS, Koeter GH, Rubin BK. Physiotherapy and bronchial mucus transport. Eur Respir J. 1999 Jun;13(6):1477-86. doi: 10.1183/09031936.99.13614879.</citation>
+    <PMID>10445628</PMID>
+  </reference>
+  <reference>
+    <citation>Ardehali SH, Fatemi A, Rezaei SF, Forouzanfar MM, Zolghadr Z. The Effects of Open and Closed Suction Methods on Occurrence of Ventilator Associated Pneumonia; a Comparative Study. Arch Acad Emerg Med. 2020 Jan 11;8(1):e8. eCollection 2020.</citation>
+    <PMID>32021989</PMID>
+  </reference>
+  <reference>
+    <citation>Letchford E, Bench S. Ventilator-associated pneumonia and suction: a review of the literature. Br J Nurs. 2018 Jan 11;27(1):13-18. doi: 10.12968/bjon.2018.27.1.13.</citation>
+    <PMID>29323990</PMID>
+  </reference>
+  <reference>
+    <citation>Taggart JA, Dorinsky NL, Sheahan JS. Airway pressures during closed system suctioning. Heart Lung. 1988 Sep;17(5):536-42.</citation>
+    <PMID>3417464</PMID>
+  </reference>
+  <reference>
+    <citation>Palazzo SG, Soni B. Pressure changes during tracheal suctioning--a laboratory study. Anaesthesia. 2013 Jun;68(6):576-84. doi: 10.1111/anae.12218.</citation>
+    <PMID>23662749</PMID>
+  </reference>
+  <reference>
+    <citation>Santos FR, Schneider Junior LC, Forgiarini Junior LA, Veronezi J. Effects of manual rib-cage compression versus PEEP-ZEEP maneuver on respiratory system compliance and oxygenation in patients receiving mechanical ventilation. Rev Bras Ter Intensiva. 2009 Jun;21(2):155-61. English, Portuguese.</citation>
+    <PMID>25303345</PMID>
+  </reference>
+  <reference>
+    <citation>Spapen HD, De Regt J, Honore PM. Chest physiotherapy in mechanically ventilated patients without pneumonia-a narrative review. J Thorac Dis. 2017 Jan;9(1):E44-E49. doi: 10.21037/jtd.2017.01.32.</citation>
+    <PMID>28203436</PMID>
+  </reference>
+  <reference>
+    <citation>Rosa FK, Roese CA, Savi A, Dias AS, Monteiro MB. [Behavior of the lung mechanics after the application of protocol of chest physiotherapy and aspiration tracheal in patients with invasive mechanical ventilation]. Rev Bras Ter Intensiva. 2007 Jun;19(2):170-5. Portuguese.</citation>
+    <PMID>25310775</PMID>
+  </reference>
+  <reference>
+    <citation>Jones A, Rowe BH. Bronchopulmonary hygiene physical therapy in bronchiectasis and chronic obstructive pulmonary disease: a systematic review. Heart Lung. 2000 Mar-Apr;29(2):125-35.</citation>
+    <PMID>10739489</PMID>
+  </reference>
+  <reference>
+    <citation>Hodgson C, Denehy L, Ntoumenopoulos G, Santamaria J, Carroll S. An investigation of the early effects of manual lung hyperinflation in critically ill patients. Anaesth Intensive Care. 2000 Jun;28(3):255-61. doi: 10.1177/0310057X0002800302.</citation>
+    <PMID>10853205</PMID>
+  </reference>
+  <reference>
+    <citation>Unoki T, Kawasaki Y, Mizutani T, Fujino Y, Yanagisawa Y, Ishimatsu S, Tamura F, Toyooka H. Effects of expiratory rib-cage compression on oxygenation, ventilation, and airway-secretion removal in patients receiving mechanical ventilation. Respir Care. 2005 Nov;50(11):1430-7.</citation>
+    <PMID>16253149</PMID>
+  </reference>
+  <reference>
+    <citation>Avena Kde M, Duarte AC, Cravo SL, Sologuren MJ, Gastaldi AC. [Effects of manually assisted coughing on respiratory mechanics in patients requiring full ventilatory support]. J Bras Pneumol. 2008 Jun;34(6):380-6. doi: 10.1590/s1806-37132008000600008. Portuguese.</citation>
+    <PMID>18622505</PMID>
+  </reference>
+  <reference>
+    <citation>Brito MF, Moreira GA, Pradella-Hallinan M, Tufik S. Air stacking and chest compression increase peak cough flow in patients with Duchenne muscular dystrophy. J Bras Pneumol. 2009 Oct;35(10):973-9. doi: 10.1590/s1806-37132009001000005. English, Portuguese.</citation>
+    <PMID>19918629</PMID>
+  </reference>
+  <reference>
+    <citation>Iskandar K, Sunartini, Nugrahanto AP, Ilma N, Kalim AS, Adistyawan G, Siswanto, Naning R. Use of air stacking to improve pulmonary function in Indonesian Duchenne muscular dystrophy patients: bridging the standard of care gap in low middle income country setting. BMC Proc. 2019 Dec 16;13(Suppl 11):21. doi: 10.1186/s12919-019-0179-4. eCollection 2019.</citation>
+    <PMID>31890014</PMID>
+  </reference>
+  <reference>
+    <citation>Pattanshetty RB, Gaude GS. Effect of multimodality chest physiotherapy in prevention of ventilator-associated pneumonia: A randomized clinical trial. Indian J Crit Care Med. 2010 Apr;14(2):70-6. doi: 10.4103/0972-5229.68218.</citation>
+    <PMID>20859490</PMID>
+  </reference>
+  <reference>
+    <citation>Pattanshetty RB, Gaude GS. Effect of multimodality chest physiotherapy on the rate of recovery and prevention of complications in patients with mechanical ventilation: a prospective study in medical and surgical intensive care units. Indian J Med Sci. 2011 May;65(5):175-85.</citation>
+    <PMID>23364504</PMID>
+  </reference>
+  <reference>
+    <citation>Pepe PE, Marini JJ. Occult positive end-expiratory pressure in mechanically ventilated patients with airflow obstruction: the auto-PEEP effect. Am Rev Respir Dis. 1982 Jul;126(1):166-70. doi: 10.1164/arrd.1982.126.1.166.</citation>
+    <PMID>7046541</PMID>
+  </reference>
+  <reference>
+    <citation>Natalini G, Tuzzo D, Rosano A, Testa M, Grazioli M, Pennestri V, Amodeo G, Marsilia PF, Tinnirello A, Berruto F, Fiorillo M, Filippini M, Peratoner A, Minelli C, Bernardini A; VENTILAB Group. Assessment of Factors Related to Auto-PEEP. Respir Care. 2016 Feb;61(2):134-41. doi: 10.4187/respcare.04063. Epub 2015 Nov 24.</citation>
+    <PMID>26604329</PMID>
+  </reference>
+  <reference>
+    <citation>Bugedo G, Retamal J, Bruhn A. Does the use of high PEEP levels prevent ventilator-induced lung injury? Rev Bras Ter Intensiva. 2017 Apr-Jun;29(2):231-237. doi: 10.5935/0103-507X.20170032.</citation>
+    <PMID>28977263</PMID>
+  </reference>
+  <reference>
+    <citation>Volpe MS, Adams AB, Amato MB, Marini JJ. Ventilation patterns influence airway secretion movement. Respir Care. 2008 Oct;53(10):1287-94.</citation>
+    <PMID>18811989</PMID>
+  </reference>
+  <reference>
+    <citation>Fink JB. Forced expiratory technique, directed cough, and autogenic drainage. Respir Care. 2007 Sep;52(9):1210-21; discussion 1221-3.</citation>
+    <PMID>17716387</PMID>
+  </reference>
+  <reference>
+    <citation>Lasocki S, Lu Q, Sartorius A, Fouillat D, Remerand F, Rouby JJ. Open and closed-circuit endotracheal suctioning in acute lung injury: efficiency and effects on gas exchange. Anesthesiology. 2006 Jan;104(1):39-47. doi: 10.1097/00000542-200601000-00008.</citation>
+    <PMID>16394688</PMID>
+  </reference>
+  <reference>
+    <citation>Writing Group for the Alveolar Recruitment for Acute Respiratory Distress Syndrome Trial (ART) Investigators; Cavalcanti AB, Suzumura EA, Laranjeira LN, Paisani DM, Damiani LP, Guimaraes HP, Romano ER, Regenga MM, Taniguchi LNT, Teixeira C, Pinheiro de Oliveira R, Machado FR, Diaz-Quijano FA, Filho MSA, Maia IS, Caser EB, Filho WO, Borges MC, Martins PA, Matsui M, Ospina-Tascon GA, Giancursi TS, Giraldo-Ramirez ND, Vieira SRR, Assef MDGPL, Hasan MS, Szczeklik W, Rios F, Amato MBP, Berwanger O, Ribeiro de Carvalho CR. Effect of Lung Recruitment and Titrated Positive End-Expiratory Pressure (PEEP) vs Low PEEP on Mortality in Patients With Acute Respiratory Distress Syndrome: A Randomized Clinical Trial. JAMA. 2017 Oct 10;318(14):1335-1345. doi: 10.1001/jama.2017.14171.</citation>
+    <PMID>28973363</PMID>
+  </reference>
+  <reference>
+    <citation>Das A, Cole O, Chikhani M, Wang W, Ali T, Haque M, Bates DG, Hardman JG. Evaluation of lung recruitment maneuvers in acute respiratory distress syndrome using computer simulation. Crit Care. 2015 Jan 12;19(1):8. doi: 10.1186/s13054-014-0723-6.</citation>
+    <PMID>25578295</PMID>
+  </reference>
+  <reference>
+    <citation>Goligher EC, Hodgson CL, Adhikari NKJ, Meade MO, Wunsch H, Uleryk E, Gajic O, Amato MPB, Ferguson ND, Rubenfeld GD, Fan E. Lung Recruitment Maneuvers for Adult Patients with Acute Respiratory Distress Syndrome. A Systematic Review and Meta-Analysis. Ann Am Thorac Soc. 2017 Oct;14(Supplement_4):S304-S311. doi: 10.1513/AnnalsATS.201704-340OT.</citation>
+    <PMID>29043837</PMID>
+  </reference>
+  <reference>
+    <citation>Hartland BL, Newell TJ, Damico N. Alveolar recruitment maneuvers under general anesthesia: a systematic review of the literature. Respir Care. 2015 Apr;60(4):609-20. doi: 10.4187/respcare.03488. Epub 2014 Nov 25.</citation>
+    <PMID>25425708</PMID>
+  </reference>
+  <reference>
+    <citation>Corley A, Sharpe N, Caruana LR, Spooner AJ, Fraser JF. Lung volume changes during cleaning of closed endotracheal suction catheters: a randomized crossover study using electrical impedance tomography. Respir Care. 2014 Apr;59(4):497-503. doi: 10.4187/respcare.02601. Epub 2013 Sep 17.</citation>
+    <PMID>24046466</PMID>
+  </reference>
+  <reference>
+    <citation>Almgren B, Wickerts CJ, Hogman M. Post-suction recruitment manoeuvre restores lung function in healthy, anaesthetized pigs. Anaesth Intensive Care. 2004 Jun;32(3):339-45. doi: 10.1177/0310057X0403200306.</citation>
+    <PMID>15264727</PMID>
+  </reference>
+  <reference>
+    <citation>Chicayban LM. Acute effects of ventilator hyperinflation with increased inspiratory time on respiratory mechanics: randomized crossover clinical trial. Rev Bras Ter Intensiva. 2019 Oct 14;31(3):289-295. doi: 10.5935/0103-507X.20190052. eCollection 2019.</citation>
+    <PMID>31618346</PMID>
+  </reference>
+  <reference>
+    <citation>Rothen HU, Neumann P, Berglund JE, Valtysson J, Magnusson A, Hedenstierna G. Dynamics of re-expansion of atelectasis during general anaesthesia. Br J Anaesth. 1999 Apr;82(4):551-6. doi: 10.1093/bja/82.4.551.</citation>
+    <PMID>10472221</PMID>
+  </reference>
+  <reference>
+    <citation>Dohna-Schwake C, Ragette R, Teschler H, Voit T, Mellies U. IPPB-assisted coughing in neuromuscular disorders. Pediatr Pulmonol. 2006 Jun;41(6):551-7. doi: 10.1002/ppul.20406.</citation>
+    <PMID>16617451</PMID>
+  </reference>
+  <reference>
+    <citation>Toussaint M, Pernet K, Steens M, Haan J, Sheers N. Cough Augmentation in Subjects With Duchenne Muscular Dystrophy: Comparison of Air Stacking via a Resuscitator Bag Versus Mechanical Ventilation. Respir Care. 2016 Jan;61(1):61-7. doi: 10.4187/respcare.04033. Epub 2015 Oct 6.</citation>
+    <PMID>26443018</PMID>
+  </reference>
+  <reference>
+    <citation>Maggiore SM, Lellouche F, Pigeot J, Taille S, Deye N, Durrmeyer X, Richard JC, Mancebo J, Lemaire F, Brochard L. Prevention of endotracheal suctioning-induced alveolar derecruitment in acute lung injury. Am J Respir Crit Care Med. 2003 May 1;167(9):1215-24. doi: 10.1164/rccm.200203-195OC. Epub 2003 Feb 13.</citation>
+    <PMID>12615633</PMID>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 1, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 25, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>January 25, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 25, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>pulmonary reexpansion</keyword>
+  <keyword>air stacking</keyword>
+  <keyword>mechanical ventilation</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

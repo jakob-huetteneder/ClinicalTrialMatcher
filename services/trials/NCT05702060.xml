@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9246">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05702060</url>
+  </required_header>
+  <id_info>
+    <org_study_id>9-2022-0141</org_study_id>
+    <nct_id>NCT05702060</nct_id>
+  </id_info>
+  <brief_title>Randomized Comparison of Radiation Exposure to Operators in Coronary Intervention Between Right Radial and Left Distal Radial</brief_title>
+  <acronym>DOSE</acronym>
+  <official_title>Comparison of raDiatiOn Exposure to Operators in Coronary Angiography and Percutaneous Coronary Intervention Between Right Conventional and Left Distal Radial artEry Approach: A Single-Center, Randomized Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Yonsei University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Myung In Pharm</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Yonsei University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to show that the radiation exposure of the left distal radial&#xD;
+      artery approach is superior to the conventional right radial artery approach in terms of less&#xD;
+      radiation exposure.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The conventional radial approach is now recognized as the basic technique in coronary artery&#xD;
+      surgery. Compared to the femoral artery access, the main advantage is the increased stability&#xD;
+      due to the reduction of massive bleeding. Due to these advantages, recent guidelines&#xD;
+      recommend the conventional radial approach as the basic approach for all acute myocardial&#xD;
+      infarction (AMI) cases with or without ST-segment elevation. In particular, in the case of&#xD;
+      ST-segment elevation myocardial infarction (STEMI), new antiplatelet agents such as&#xD;
+      Ticagrelor and Prasugrel and strong antiplatelet agents such as Glycoprotein inhibitors have&#xD;
+      been used to prevent major vascular complications. For these many operators, primary&#xD;
+      percutaneous coronary intervention (PCI) through the radial artery is recommended. At this&#xD;
+      time, the operator prefers the right radial artery approach because of the comfort of&#xD;
+      performing the procedure on the patient's right side. However, the operator sometimes has to&#xD;
+      substitute the left radial artery or femoral artery access due to difficulty in manipulating&#xD;
+      the catheter due to severe tortuousness of the right subclavian artery. Although the left&#xD;
+      radial artery approach requires less operation time and radiographic imaging time due to less&#xD;
+      tortuousness of the left subclavian artery, the right conventional radial approach is still&#xD;
+      preferred due to the ergonomic inconvenience of having to lean toward the patient. Patients&#xD;
+      undergoing coronary angiography (CAG) were randomly assigned to the left snuffbox approach&#xD;
+      and the right conventional radial approach, and the surgeons' radiation exposure between the&#xD;
+      two approaches was evaluated and compared.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 5, 2023</start_date>
+  <completion_date type="Anticipated">December 5, 2025</completion_date>
+  <primary_completion_date type="Anticipated">September 5, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Conventional Right Radial Artery Approach and Left Distal Radial Artery Approach for Coronary Angiography and Interventions</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Radiation exposure examination</measure>
+    <time_frame>Through procedure completion, up to 24 hours</time_frame>
+    <description>Radiation exposure for surgeons in the case of the left distal radial artery approach and the right radial artery approach, respectively</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Fluoroscopy time</measure>
+    <time_frame>Through procedure completion, up to 24 hours</time_frame>
+    <description>Fluoroscopy time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Corrected by X-ray dose Radiation exposure of surgeons</measure>
+    <time_frame>Through procedure completion, up to 24 hours</time_frame>
+    <description>Corrected by X-ray dose Radiation exposure of surgeons</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hemostasis time</measure>
+    <time_frame>Through procedure completion, up to 24 hours</time_frame>
+    <description>Hemostasis time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Procedure success rate</measure>
+    <time_frame>Through procedure completion, up to 24 hours</time_frame>
+    <description>Procedure success rate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Amount of contrast agent used</measure>
+    <time_frame>Through procedure completion, up to 24 hours</time_frame>
+    <description>Amount of contrast agent used</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1010</enrollment>
+  <condition>Radiation Exposure</condition>
+  <arm_group>
+    <arm_group_label>Left distal radial artery approach</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Coronary angiography and intervention were performed using the left distal radial artery approach</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Right Radial Artery Approach</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Coronary angiography and intervention were performed using the Right Radial Artery Approach</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Radial Artery Puncture Method for Coronary Angiography and Intervention</intervention_name>
+    <description>Radial Artery Puncture Method for Coronary Angiography and Intervention</description>
+    <arm_group_label>Left distal radial artery approach</arm_group_label>
+    <arm_group_label>Right Radial Artery Approach</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients aged 20 years or older&#xD;
+&#xD;
+          2. Patients scheduled for coronary angiography and intervention&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. When the pulse of the Left distal radial artery cannot be palpated&#xD;
+&#xD;
+          2. When the pulse of the right conventional radial artery cannot be palpated&#xD;
+&#xD;
+          3. In case of arteriovenous fistula&#xD;
+&#xD;
+          4. Acute myocardial infarction (AMI) patients&#xD;
+&#xD;
+          5. In case femoral artery access must be performed (state of shock, etc.)&#xD;
+&#xD;
+          6. In case of atrioventricular block&#xD;
+&#xD;
+          7. When an ergonovine provocation test is required&#xD;
+&#xD;
+          8. When the patient refuses to consent to the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yongcheol Kim, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Severance Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yongcheol Kim, MD, PhD</last_name>
+    <phone>+823151898967</phone>
+    <email>yongcheol@yuhs.ac</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ji Woong Roh, MD, PhD</last_name>
+    <phone>+823151898792</phone>
+    <email>NOMGALDA@yuhs.ac</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Yongcheol Kim</name>
+      <address>
+        <city>Yongin</city>
+        <state>Gyeonggi-do</state>
+        <zip>16995</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yongcheol Kim, MD</last_name>
+      <phone>+823151898967</phone>
+      <email>yongcheol@yuhs.ac</email>
+    </contact>
+    <investigator>
+      <last_name>Yongcheol Kim, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Oh Hyun Lee, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ji Woong Roh, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Eui Im, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Deok Kyu Cho, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 6, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>January 29, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 29, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Yonsei University</investigator_affiliation>
+    <investigator_full_name>Yongcheol Kim</investigator_full_name>
+    <investigator_title>Clinical Associate Professor</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

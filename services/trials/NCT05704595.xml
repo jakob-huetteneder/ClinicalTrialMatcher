@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9135">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05704595</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00111091</org_study_id>
+    <nct_id>NCT05704595</nct_id>
+  </id_info>
+  <brief_title>Effectiveness of Outpatient Intravenous Diuretic Therapy for Treatment of Worsening Heart Failure (OUTPATIENT-WHF)</brief_title>
+  <official_title>Effectiveness of Outpatient Intravenous Diuretic Therapy for Treatment of Worsening Heart Failure (OUTPATIENT-WHF)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Duke University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Duke University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the OUTPATIENT-WHF study is to characterize the effectiveness of outpatient&#xD;
+      intravenous diuretic therapy as a treatment for worsening heart failure.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this study is to determine whether treating certain patients with worsening&#xD;
+      heart failure as an outpatient with intravenous and oral medications can work just as well as&#xD;
+      treating patients in the hospital.&#xD;
+&#xD;
+      Participants who enter into the study and meet eligibility criteria will be randomly chosen&#xD;
+      to either get intravenous diuretic like Lasix in the clinic and get outpatient care, versus&#xD;
+      directly admitted to the hospital to receive intravenous diuretic and normal hospital care.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 27, 2023</start_date>
+  <completion_date type="Anticipated">May 2025</completion_date>
+  <primary_completion_date type="Anticipated">April 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Days alive and out of hospital</measure>
+    <time_frame>30 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Days alive and out of hospital</measure>
+    <time_frame>90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total hospitalizations</measure>
+    <time_frame>30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total hospitalizations</measure>
+    <time_frame>90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total emergency department visits</measure>
+    <time_frame>30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total emergency department visits</measure>
+    <time_frame>90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Death</measure>
+    <time_frame>30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Death</measure>
+    <time_frame>90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health status as measured by EuroQOL-5 dimensions (EQ5D) utility index</measure>
+    <time_frame>30 days</time_frame>
+    <description>The EQ5D utility index consists of 5 dimensions: mobility, self-care, usual activities, pain/discomfort, and anxiety/depression. Each dimension has five response categories (no problems, slight problems, moderate problems, severe problems, and extreme problems), from which a single EQ-5D index score can be calculated ranging from 0 (dead) to 1 (perfect health).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health status as measured by EuroQOL-5 dimensions (EQ5D) visual analog scale (VAS)</measure>
+    <time_frame>30 days</time_frame>
+    <description>The EQ5D VAS measures one's self-perceived health today on a vertical scale from 0 (worst imaginable health) to 100 (best imaginable health) on which participants have to indicate their current health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health status as measured by EuroQOL-5 dimensions (EQ5D) utility index</measure>
+    <time_frame>90 days</time_frame>
+    <description>The EQ5D utility index consists of 5 dimensions: mobility, self-care, usual activities, pain/discomfort, and anxiety/depression. Each dimension has five response categories (no problems, slight problems, moderate problems, severe problems, and extreme problems), from which a single EQ-5D index score can be calculated ranging from 0 (dead) to 1 (perfect health).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health status as measured by EuroQOL-5 dimensions (EQ5D) visual analog scale (VAS)</measure>
+    <time_frame>90 days</time_frame>
+    <description>The EQ5D VAS measures one's self-perceived health today on a vertical scale from 0 (worst imaginable health) to 100 (best imaginable health) on which participants have to indicate their current health.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>Heart Failure</condition>
+  <arm_group>
+    <arm_group_label>Initial outpatient management strategy, including outpatient IV diuretics in clinic</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Initial hospitalization-based management strategy</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Initial outpatient management strategy, including outpatient IV diuretics in clinic</intervention_name>
+    <description>Management strategy including IV diuretic in the outpatient clinic</description>
+    <arm_group_label>Initial outpatient management strategy, including outpatient IV diuretics in clinic</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Initial hospitalization-based management strategy</intervention_name>
+    <description>Direct admission to the hospital</description>
+    <arm_group_label>Initial hospitalization-based management strategy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. ≥18 years of age&#xD;
+&#xD;
+          2. Presentation to a Duke outpatient clinic with heart failure requiring IV diuretics, as&#xD;
+             per clinician judgement&#xD;
+&#xD;
+          3. Able to provide signed informed consent&#xD;
+&#xD;
+          4. Successful completion of EuroQOL-5 dimensions survey&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Managing clinician without equipoise for initial outpatient treatment strategy versus&#xD;
+             initial hospitalization-based treatment strategy for heart failure, and decline to&#xD;
+             accept randomization.&#xD;
+&#xD;
+          2. Patient without equipoise for initial outpatient treatment strategy versus initial&#xD;
+             hospitalization-based treatment strategy for heart failure, and decline to accept&#xD;
+             randomization.&#xD;
+&#xD;
+          3. History of left ventricular assist device or heart transplantation&#xD;
+&#xD;
+          4. End-stage kidney disease requiring chronic dialysis therapy&#xD;
+&#xD;
+          5. New diagnosis of heart failure&#xD;
+&#xD;
+          6. Pregnant or breast-feeding&#xD;
+&#xD;
+          7. Fever &gt;101.0 degrees Fahrenheit at screening&#xD;
+&#xD;
+          8. Any other condition that in the judgment of the investigator would jeopardize the&#xD;
+             patient's compliance with the study protocol&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stephen Greene</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Duke University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Stephen Greene</last_name>
+    <phone>919 684 8111</phone>
+    <email>stephen.green@duke.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Duke University Medical Center</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephen J Greene</last_name>
+      <phone>860-484-9403</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 20, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>April 10, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 10, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 11, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Failure</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diuretics</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

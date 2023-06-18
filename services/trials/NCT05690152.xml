@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9788">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05690152</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202207403</org_study_id>
+    <nct_id>NCT05690152</nct_id>
+  </id_info>
+  <brief_title>Persistence of Glaucoma Patients With Web-Browser-Based Visual Field Test</brief_title>
+  <official_title>Persistence of Glaucoma Patients With Web-Browser-Based Visual Field Test</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Andrew Pouw, MD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Iowa</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to assess patient persistence and adherence with a 6-month&#xD;
+      period of at-home visual field testing, using a novel web-based visual field test&#xD;
+      (EyeSimplify, M&amp;S Technologies, Niles, IL).&#xD;
+&#xD;
+      The main questions this clinical trials aims to answer are:&#xD;
+&#xD;
+        1. How adherent patients are to biweekly testing at home for 6 months, and&#xD;
+&#xD;
+        2. How patients feel the ease of user experience of the test was, and&#xD;
+&#xD;
+        3. Whether the EyeSimplify platform is able to detect any worsening of glaucoma-related&#xD;
+           visual field performance that can be corroborated by standard of care, office-based&#xD;
+           testing.&#xD;
+&#xD;
+      Participants will be given iPads with links to the EyeSimplify visual field test, and asked&#xD;
+      to take the EyeSimplify tests at home biweekly for six months. The test takes between 10 to&#xD;
+      15 minutes to do and participants will have no additional responsibilities between tests.&#xD;
+&#xD;
+      Researchers will send reminders for patients to complete the at-home tests at periodic&#xD;
+      intervals, and if worsening on the at-home test platform is suggested by test results,&#xD;
+      researchers will arrange for return visits to the office to compare the EyeSimplify test&#xD;
+      results to standard-of-care, office-based testing. At the conclusion of the study,&#xD;
+      participant adherence to the 6-month biweekly testing schedule will be assessed and&#xD;
+      participants will be surveyed for their perceptions regarding the EyeSimplify platform's ease&#xD;
+      of usability and user experience.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this prospective study is to assess patient persistence and adherence with a&#xD;
+      6-month period of at-home visual field testing using an iPad with a novel web-browser-based&#xD;
+      visual field test, the EyeSimplify platform (M&amp;S Technologies, Niles, IL). Use of this test&#xD;
+      is intended to supplement, but not replace, regular clinic visits.&#xD;
+&#xD;
+      The proposed study will be conducted at the University of Iowa Hospitals and Clinics. We&#xD;
+      estimate 50 subjects will be recruited to participate in the study. Data collected will not&#xD;
+      include patient identifiers, but will instead be coded.&#xD;
+&#xD;
+      The research will involve prospective collection of visual field tests. Patients with&#xD;
+      suspected, mild, moderate, or severe glaucoma will be included. Clinical data including age,&#xD;
+      gender, ethnicity, visual acuity, intraocular pressure, severity of disease, past and&#xD;
+      comparative Humphrey HFA-III visual field test performance, EyeSimplify visual field test&#xD;
+      performance, and EyeSimplify usability survey will be recorded.&#xD;
+&#xD;
+      Following study recruitment, subjects will be asked to take EyeSimplify visual field tests at&#xD;
+      home biweekly for six months. They will have no additional responsibilities between tests.&#xD;
+      Subjects will access the EyeSimplify web browser on an iPad provided by the research team,&#xD;
+      using a link and login credentials provided to them by a research assistant. Upon logging&#xD;
+      into the EyeSimplify web browser, subjects will click the &quot;Start Test&quot; button found along the&#xD;
+      left side of the window and follow the prompts presented on screen to calibrate their screen.&#xD;
+      Screen calibration involves holding a driver's license/credit card/ID to the screen to ensure&#xD;
+      the test window is the appropriate dimensions. Following screen calibration, subjects will&#xD;
+      follow the test prompts presented on screen to complete their visual field test. Test results&#xD;
+      are automatically sent to the research assistant who issued the exam, so subjects may exit&#xD;
+      the browser after each test. Upon study completion, subjects will be asked to fill out a&#xD;
+      brief user experience survey.&#xD;
+&#xD;
+      M&amp;S Technologies is the developer of the EyeSimplify visual field test platform. As the&#xD;
+      developers, M&amp;S Technologies maintains a secure, encrypted, HIPAA-compliant database of test&#xD;
+      participants. This database includes patient profiles containing unique subject IDs&#xD;
+      (de-identified), birth year (but not specific date), and visual field testing results.&#xD;
+      Outside of this testing information, M&amp;S Technologies does not have access to any additional&#xD;
+      patient information.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 3, 2023</start_date>
+  <completion_date type="Anticipated">December 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>EyeSimplify Self-Test Adherence</measure>
+    <time_frame>Subjects will be asked to self-test once every two weeks for six months.</time_frame>
+    <description>For the purposes of this study, adherence is defined as number of times a subject self-tests divided by the number of times they are expected to self-test during the six-month study period. There will be a total of 14 expected self tests. Adherence will be evaluated at the conclusion of the six-month study period.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>EyeSimplify Self-Test Persistence</measure>
+    <time_frame>Subjects will be asked to self-test once every two weeks for six months.</time_frame>
+    <description>For the purposes of this study, persistence is defined as the number of consecutive self-tests a subject completes without a lapse. Persistence will be evaluated at the conclusion of the six-month study period.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Visual Field Reliability Metric #1 - False Positive Rate</measure>
+    <time_frame>This measurement will automatically be reported upon conclusion of each visual field test. Visual field testing is estimated to take 5-15 minutes for each visual field test. Testing will occur every two weeks for the six-month study period.</time_frame>
+    <description>In perimetry (visual field testing), a &quot;false positive error&quot; occurs when a subject/patient records a response when no stimulus is presented. This is one metric by which the reliability of a visual field test is measured. The measurement is reported as a percentage.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Visual Field Reliability Metric #2 - False Negative Rate</measure>
+    <time_frame>This measurement will automatically be reported upon conclusion of each visual field test. Visual field testing is estimated to take 5-15 minutes for each visual field test. Testing will occur every two weeks for the six-month study period.</time_frame>
+    <description>In perimetry (visual field testing), a &quot;false negative error&quot; occurs when a subject/patient fails to record a response to a stimulus that is brighter than one they had previously responded to in the same visual location. This is one metric by which the reliability of a visual field test is measured. The measurement is reported as a percentage.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Visual Field Reliability Metric #3 - Fixation Loss Rate</measure>
+    <time_frame>This measurement will automatically be reported upon conclusion of each visual field test. Visual field testing is estimated to take 5-15 minutes for each visual field test. Testing will occur every two weeks for the six-month study period.</time_frame>
+    <description>In perimetry (visual field testing), a &quot;fixation loss&quot; occurs when a subject/patient records a response to a stimulus presented in the physiologic blind spot. If the patient responds, it indicates their gaze is not fixed straight ahead. This is one metric by which the reliability of a visual field test is measured. The measurement is reported as a percentage.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Visual Field Performance Metric #1 - Mean Deviation</measure>
+    <time_frame>This measurement will automatically be reported upon conclusion of each visual field test. Visual field testing is estimated to take 5-15 minutes for each visual field test. Testing will occur every two weeks for the six-month study period.</time_frame>
+    <description>Mean deviation indicates how much, on average, an entire visual field deviates from the age-normal value. It is the center-weighted average of the decibel deviations at each point tested in the visual field test. The measurement is reported in decibels.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Visual Field Performance Metric #2 - Pattern Standard Deviation</measure>
+    <time_frame>This measurement will automatically be reported upon conclusion of each visual field test. Visual field testing is estimated to take 5-15 minutes for each visual field test. Testing will occur every two weeks for the six-month study period.</time_frame>
+    <description>Pattern standard deviation reflects irregularities in a visual field, such as those caused by localized defects. This metric shows sensitivity losses after adjusting for generalized depression or elevation in the overall hill of vision (e.g. cataracts). The measurement is reported in decibels.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Visual Field Performance Metric #3 - Total Deviation</measure>
+    <time_frame>This measurement will automatically be reported upon conclusion of each visual field test. Visual field testing is estimated to take 5-15 minutes for each visual field test. Testing will occur every two weeks for the six-month study period.</time_frame>
+    <description>Total deviation probability plots identify test locations that are outside normal limits. Threshold sensitivity levels are compared to age-corrected normal values at each test location to produce a total deviation map. Each measurement is reported in decibels.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Visual Field Performance Metric #4 - Foveal Threshold</measure>
+    <time_frame>This measurement will automatically be reported upon conclusion of each visual field test. Visual field testing is estimated to take 5-15 minutes for each visual field test. Testing will occur every two weeks for the six-month study period.</time_frame>
+    <description>Foveal threshold is the minimum amount of luminance increment on a uniform background that can be detected by a subject/patient at the center of fixation. The measurement is reported in decibels.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Visual Field Loss Trend Metric #1 - Guided Progression Analysis Trend Analysis</measure>
+    <time_frame>This measurement will automatically be generated after five Humphrey visual field tests and is updated with each subsequent test. Subjects will only complete one Humphrey visual field during the study, so this metric will be taken from historic data.</time_frame>
+    <description>Guided Progression Analysis (GPA) is a visual field analysis aid used to quantify visual field progression. This analysis aid is specific to Humphrey perimeters. The GPA Trend Analysis component quantifies the observed rate of change of the visual field. This metric is reported as percent loss per year (VFI) OR estimated mean deviation decibel loss per year, along with confidence limits for the slope estimate.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Visual Field Loss Trend Metric #2 - EyeSimplify Mean Deviation Progression Trend</measure>
+    <time_frame>This measurement will automatically be generated after five EyeSimplify visual field tests and is updated with each subsequent test. This metric will be recorded upon completion of the six-month study period.</time_frame>
+    <description>The EyeSimplify Progression Trend is a visual field analysis aid used to quantify visual field progression. This analysis aid is specific to EyeSimplify and quantifies the observed rate of change of subjects' mean deviation. This metric is reported as estimated decibel loss per year.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EyeSimplify User Experience Question #1 - &quot;Please select what type of device you used to take your EyeSimplify visual field tests.&quot;</measure>
+    <time_frame>Subjects will respond to an approximately 5-10 minute survey at the conclusion of the six-month study period.</time_frame>
+    <description>Response options will include &quot;Laptop&quot;, &quot;Tablet&quot;, &quot;Smartphone&quot;, and &quot;Other&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EyeSimplify User Experience Question #2 - &quot;Please describe what accessories, if any, you used to take your EyeSimplify visual field tests.&quot;</measure>
+    <time_frame>Subjects will respond to an approximately 5-10 minute survey at the conclusion of the six-month study period.</time_frame>
+    <description>Response options will include &quot;Keyboard&quot;, &quot;Touchscreen&quot;, &quot;Stylus&quot;, and &quot;Other&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EyeSimplify User Experience Question #3 - &quot;How hard or easy was it for you to achieve a comfortable testing environment for yourself while using the EyeSimplify online test?&quot;</measure>
+    <time_frame>Subjects will respond to an approximately 5-10 minute survey at the conclusion of the six-month study period.</time_frame>
+    <description>This question will be rated using a Likert scale. Response options will include &quot;Very hard&quot;, &quot;Hard&quot;, &quot;Neutral&quot;, &quot;Easy&quot;, and &quot;Very easy&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EyeSimplify User Experience Question #4 - &quot;How hard or easy was it for you to achieve a functional testing environment for yourself while using the EyeSimplify online test?&quot;</measure>
+    <time_frame>Subjects will respond to an approximately 5-10 minute survey at the conclusion of the six-month study period.</time_frame>
+    <description>This question will be rated using a Likert scale. Response options will include &quot;Very hard&quot;, &quot;Hard&quot;, &quot;Neutral&quot;, &quot;Easy&quot;, and &quot;Very easy&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EyeSimplify User Experience Question #5 - &quot;What time of day did you typically take your EyeSimplify visual field tests?&quot;</measure>
+    <time_frame>Subjects will respond to an approximately 5-10 minute survey at the conclusion of the six-month study period.</time_frame>
+    <description>Response options will include &quot;Early morning (5AM-9AM)&quot;, &quot;Late morning (9AM-12PM)&quot;, &quot;Early afternoon (12PM-3PM)&quot;, &quot;Late afternoon (3PM-5PM)&quot;, &quot;Evening (5PM-12AM)&quot;, and &quot;Overnight (12AM-5AM)&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EyeSimplify User Experience Question #6 - &quot;Please describe the level of ambient light you typically took your EyeSimplify visual field tests in.&quot;</measure>
+    <time_frame>Subjects will respond to an approximately 5-10 minute survey at the conclusion of the six-month study period.</time_frame>
+    <description>This question will be rated using a Likert scale. Response options will include &quot;Much Darker than Average (example: a room without the lights on at night)&quot;, &quot;Somewhat Darker than Average&quot;, &quot;About Average Light&quot;, &quot;Somewhat Brighter than Average&quot;, and &quot;Much Brighter than Average (example: outside on a sunny day)&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EyeSimplify User Experience Question #7 - &quot;Did you ever have to block out ambient light using curtains or other methods when taking your EyeSimplify visual field tests?&quot;</measure>
+    <time_frame>Subjects will respond to an approximately 5-10 minute survey at the conclusion of the six-month study period.</time_frame>
+    <description>Response options will include &quot;Yes&quot; and &quot;No&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EyeSimplify User Experience Question #8 - &quot;How hard or easy was it for you to navigate the EyeSimplify website?&quot;</measure>
+    <time_frame>Subjects will respond to an approximately 5-10 minute survey at the conclusion of the six-month study period.</time_frame>
+    <description>This question will be rated using a Likert scale. Response options will include &quot;Very hard&quot;, &quot;Hard&quot;, &quot;Neutral&quot;, &quot;Easy&quot;, and &quot;Very easy&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EyeSimplify User Experience Question #9 - &quot;How hard or easy was it to understand the instructions for the visual field test using EyeSimplify?&quot;</measure>
+    <time_frame>Subjects will respond to an approximately 5-10 minute survey at the conclusion of the six-month study period.</time_frame>
+    <description>This question will be rated using a Likert scale. Response options will include &quot;Very hard&quot;, &quot;Hard&quot;, &quot;Neutral&quot;, &quot;Easy&quot;, and &quot;Very easy&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EyeSimplify User Experience Question #10 - &quot;How much anxiety or concern did you have about your test performance while using the EyeSimplify online visual field test?&quot;</measure>
+    <time_frame>Subjects will respond to an approximately 5-10 minute survey at the conclusion of the six-month study period.</time_frame>
+    <description>This question will be rated using a Likert scale. Response options will include &quot;very anxious/concerned&quot;, &quot;anxious/concerned&quot;, &quot;neutral&quot;, &quot;relaxed&quot;, and &quot;very relaxed&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EyeSimplify User Experience Question #11 - &quot;How confident were you taking the EyeSimplify visual field test by yourself at home?&quot;</measure>
+    <time_frame>Subjects will respond to an approximately 5-10 minute survey at the conclusion of the six-month study period.</time_frame>
+    <description>This question will be rated using a Likert scale. Response options will include &quot;Not confident at all&quot;, &quot;Not very confident&quot;, &quot;Neutral&quot;, &quot;Confident&quot;, and &quot;Extremely confident&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EyeSimplify User Experience Question #12 - &quot;If EyeSimplify visual field testing were available for regular home use outside of this study, would you use it?&quot;</measure>
+    <time_frame>Subjects will respond to an approximately 5-10 minute survey at the conclusion of the six-month study period.</time_frame>
+    <description>Response options will include &quot;Yes&quot;, &quot;No&quot;, and &quot;Maybe&quot;.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Glaucoma</condition>
+  <arm_group>
+    <arm_group_label>Single Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All patients will be in a single arm: patients will have one or both eyes (dependent on inclusion/exclusion criteria) tested with the EyeSimplify visual field test biweekly for 6 months.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>EyeSimplify web-browser-based visual field test</intervention_name>
+    <description>All patients will be in a single arm: patients will have one or both eyes (dependent on inclusion/exclusion criteria) tested with the EyeSimplify visual field test biweekly for 6 months.</description>
+    <arm_group_label>Single Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients between 18-100 years of age with suspected, mild, moderate, or severe&#xD;
+             glaucoma&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Non-English speakers, patients with systemic or ocular disease affecting central&#xD;
+             vision, best corrected visual acuity less than 20/80, neurocognitive or psychiatric&#xD;
+             disorders that would confound visual field testing, those with physical inability to&#xD;
+             perform testing, and astigmatism with absolute values greater than 2.00 diopters&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andrew Pouw, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Iowa</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Andrew Pouw, MD</last_name>
+    <phone>319-356-3938</phone>
+    <email>andrew-pouw@uiowa.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Iowa</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andrew Pouw</last_name>
+      <phone>319-356-4674</phone>
+      <email>andrew-pouw@uiowa.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Quigley HA. Number of people with glaucoma worldwide. Br J Ophthalmol. 1996 May;80(5):389-93. doi: 10.1136/bjo.80.5.389.</citation>
+    <PMID>8695555</PMID>
+  </reference>
+  <reference>
+    <citation>Quigley HA, Broman AT. The number of people with glaucoma worldwide in 2010 and 2020. Br J Ophthalmol. 2006 Mar;90(3):262-7. doi: 10.1136/bjo.2005.081224.</citation>
+    <PMID>16488940</PMID>
+  </reference>
+  <reference>
+    <citation>Beck RW, Bergstrom TJ, Lichter PR. A clinical comparison of visual field testing with a new automated perimeter, the Humphrey Field Analyzer, and the Goldmann perimeter. Ophthalmology. 1985 Jan;92(1):77-82. doi: 10.1016/s0161-6420(85)34065-4.</citation>
+    <PMID>3974997</PMID>
+  </reference>
+  <reference>
+    <citation>Prager AJ, Kang JM, Tanna AP. Advances in perimetry for glaucoma. Curr Opin Ophthalmol. 2021 Mar 1;32(2):92-97. doi: 10.1097/ICU.0000000000000735.</citation>
+    <PMID>33443958</PMID>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 3, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 9, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>January 9, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 9, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Iowa</investigator_affiliation>
+    <investigator_full_name>Andrew Pouw, MD</investigator_full_name>
+    <investigator_title>Clinical Assistant Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glaucoma</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

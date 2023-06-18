@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9104">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05705167</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AV-APL-B-002-22</org_study_id>
+    <secondary_id>2022-002489-34</secondary_id>
+    <nct_id>NCT05705167</nct_id>
+  </id_info>
+  <brief_title>Plitidepsin Versus Control in Immunocompromised Adult Participants With Symptomatic COVID-19 Requiring Hospital Care</brief_title>
+  <acronym>NEREIDA</acronym>
+  <official_title>A Multicentre, Open Label, Randomised, Controlled, Basket, Pragmatic, Phase II, Clinical and Translational Study to Determine the Efficacy and Safety of Plitidepsin Versus Control in Immunocompromised Adult Patients With Symptomatic COVID-19 Requiring Hospital Care</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>PharmaMar</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>PharmaMar</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this study is to evaluate efficacy of plitidepsin in pre-specified&#xD;
+      groups of immunocompromised patients with symptomatic COVID-19 requiring hospital care versus&#xD;
+      control in terms of mortality.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 19, 2023</start_date>
+  <completion_date type="Anticipated">July 2024</completion_date>
+  <primary_completion_date type="Anticipated">July 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>All-cause Mortality Rate</measure>
+    <time_frame>Day 1 to Day 30 (±2)</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Key Secondary Outcome Measure: Time to Confirmed Negativisation in SARS-CoV-2 Antigen Test or Real Time Polymerase Chain Reaction (RT-PCR) Cycle Threshold (Ct) &gt; 30</measure>
+    <time_frame>Day 1 to Day 60 (±3)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Sustained End of COVID-related Hospital Care</measure>
+    <time_frame>Day 1 to Day 60 (±3)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Sustained Improvement of Selected COVID-19 Signs/Symptoms.</measure>
+    <time_frame>Day 1 to Day 60 (±3)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Resolution of Selected COVID-19 Signs/Symptoms</measure>
+    <time_frame>Day 1 to Day 60 (±3)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants in Each Category of the World Health Organization (WHO) Clinical Progression Scale</measure>
+    <time_frame>Days 4 (±1), 8 (±1), 15 (±1), 30 (±2) and 60 (±3)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Requiring Oxygen Therapy</measure>
+    <time_frame>Days 4 (±1), 8 (±1), 15 (±1), 30 (±2) and 60 (±3)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Sustained Discontinuation of Oxygen Supplementation</measure>
+    <time_frame>Day 1 to Day 60 (±3)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Who Experience a Treatment-emergent Adverse Event (TEAE)</measure>
+    <time_frame>Day 1 to Day 60 (±3)</time_frame>
+    <description>Frequency of the following events (all-cause and drug-related) are included:&#xD;
+TEAEs&#xD;
+TEAEs ≥ grade 3 according to the National Cancer Institute [NCI]-Common Terminology Criteria for adverse events (CTCAE v.5.0)&#xD;
+Adverse events of special interest (AESIs)&#xD;
+Serious adverse events (SAEs)&#xD;
+Adverse events leading to treatment discontinuation&#xD;
+Deaths (related to COVID-19/all)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with a Clinically Relevant/Significant Change from Baseline in Individual Laboratory Parameters</measure>
+    <time_frame>Baseline to Day 60 (±3)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with a Clinically Relevant/Significant Change from Baseline in Individual Vital Signs</measure>
+    <time_frame>Baseline to Day 60 (±3)</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Plitidepsin 2.5 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Best available supportive care (as per applicable local, institutional, national, supranational COVID-19 treatment guidelines) and plitidepsin (administered as a 1-hour intravenous (IV) infusion, daily for 3 consecutive days, at a dose of 2.5 mg) will be administered to participants of the following groups:&#xD;
+Group 1 - Participants receiving immune-suppression due to hematopoietic or organ transplantation.&#xD;
+Group 2 - Participants receiving B-cell depleting therapies.&#xD;
+Group 3 - Participants receiving other immune-suppressive therapies.&#xD;
+Group 4 - Other situations with immune deficiencies.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Best available supportive care (as per applicable local, institutional, national, supranational COVID-19 treatment guidelines) ± other antiviral (if clinically indicated) will be administered to participants of the following groups:&#xD;
+Group 1 - Participants receiving immune-suppression due to hematopoietic or organ transplantation.&#xD;
+Group 2 - Participants receiving B-cell depleting therapies.&#xD;
+Group 3 - Participants receiving other immune-suppressive therapies.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Plitidepsin</intervention_name>
+    <description>IV infusion over 1-hour</description>
+    <arm_group_label>Plitidepsin 2.5 mg</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Signed informed consent obtained prior to initiation of any study-specific procedures&#xD;
+             and study treatment.&#xD;
+&#xD;
+          -  Participant aged ≥18 years.&#xD;
+&#xD;
+          -  Participant diagnosed COVID-19, with the following characteristics:&#xD;
+&#xD;
+               1. A regulatory approved test, collected no more than 3 days prior to study&#xD;
+                  randomisation, with either a Ct value ≤30 or a positive antigen test.&#xD;
+&#xD;
+               2. Presence of any of the selected signs/symptom listed in the COVID-19&#xD;
+                  signs/symptoms checklist within the last 24 hours.&#xD;
+&#xD;
+          -  Participant already admitted or requiring hospital care for symptomatic COVID-19, for&#xD;
+             which at least one antiviral has failed or cannot be used.&#xD;
+&#xD;
+          -  Adequate bone marrow, liver, kidney, and metabolic function, defined by the following&#xD;
+             tests performed at local laboratory:&#xD;
+&#xD;
+               1. Absolute neutrophil count ≥500/mm^3 (0.5 x 109/L).&#xD;
+&#xD;
+               2. Platelet count ≥ 50 000/mm3 (50 x 109/L).&#xD;
+&#xD;
+               3. Alanine transaminase (ALT) ≤3 x upper limit of normal (ULN) (≤5 x ULN if&#xD;
+                  preexistent liver involvement by the underlying disease).&#xD;
+&#xD;
+               4. Serum bilirubin ≤1.5 x ULN (or direct bilirubin &lt;1.5 x ULN when total bilirubin&#xD;
+                  is above ULN).&#xD;
+&#xD;
+               5. Estimated glomerular filtration rate ≥30 mL/min (CKD-EPI Creatinine Equation&#xD;
+                  [2021]).&#xD;
+&#xD;
+          -  Females of childbearing potential must have a negative serum or urine pregnancy test&#xD;
+             by local laboratory at screening and must be non-lactating.&#xD;
+&#xD;
+          -  Females of child bearing potential and fertile males with partners of child bearing&#xD;
+             potential must use contraceptive methods as specified in the protocol.&#xD;
+&#xD;
+        Group-specific inclusion criteria:&#xD;
+&#xD;
+          -  Group 1 - Patients receiving, within the last 30 days, immune-suppressive therapy due&#xD;
+             to haematopoietic or organ transplantation.&#xD;
+&#xD;
+          -  Group 2 - Participants receiving B-cell depleting therapies within the last 3 months.&#xD;
+&#xD;
+          -  Group 3 - Participants receiving, within the last 30 days, other immune-suppressive&#xD;
+             therapies.&#xD;
+&#xD;
+          -  Group 4 - Other situations with immunodeficiency.&#xD;
+&#xD;
+               1. Primary immune deficiencies.&#xD;
+&#xD;
+               2. Human immunodeficiency virus (HIV) infection, with CD4^+ T lymphocyte &lt; 200&#xD;
+                  cells/μL in the last month.&#xD;
+&#xD;
+               3. Radiation therapy within the last 3 months- requires documentation of ALC &lt; 500&#xD;
+                  cells/μL.&#xD;
+&#xD;
+               4. Haematological neoplasia or myelodysplasia not currently receiving any therapy.&#xD;
+&#xD;
+               5. Other situations with a documentation of ALC &lt; 500 cells/μL.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Evidence of critical illness.&#xD;
+&#xD;
+          -  Any of the following cardiac conditions or risk factors:&#xD;
+&#xD;
+               1. Cardiac infarction or cardiac surgery episode within the last month.&#xD;
+&#xD;
+               2. History of known congenital QT prolongation.&#xD;
+&#xD;
+               3. Known structural cardiomyopathy with abnormal left ventricular ejection fraction&#xD;
+                  (LVEF) (&lt;50%).&#xD;
+&#xD;
+               4. Current clinical evidence of heart failure or acute cardiac ischaemia (New York&#xD;
+                  Heart Association (NYHA) class III-IV).&#xD;
+&#xD;
+          -  Hypersensitivity to the active ingredient or any of the excipients (mannitol,&#xD;
+             macrogolglycerol hydroxystearate, and ethanol) or contraindication to receive&#xD;
+             dexamethasone, antihistamine H1/H2, or anti-serotoninergic 5HT3 agents.&#xD;
+&#xD;
+          -  Females who are pregnant or breast-feeding.&#xD;
+&#xD;
+          -  Females and males with partners of childbearing potential who are not using at least 1&#xD;
+             protocol-specified method of contraception.&#xD;
+&#xD;
+          -  Any situation currently requiring increasing needs of immune suppressive agents.&#xD;
+&#xD;
+          -  Any other clinically significant medical condition or laboratory abnormality that, in&#xD;
+             the opinion of the investigator, would jeopardise the safety of the participant or&#xD;
+             potentially impact on participant compliance or the safety/efficacy observations in&#xD;
+             the study.&#xD;
+&#xD;
+          -  Participation in another clinical study involving an investigational drug within 30&#xD;
+             days prior to screening.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>José Jimeno Doñaque, MD, PhD</last_name>
+    <phone>+34918466000</phone>
+    <email>clinicaltrials@pharmamar.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jose Antonio Lopez Martin, MD, PhD</last_name>
+    <phone>+34918466000</phone>
+    <email>virologytrials@pharmamar.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hôpitaux Civils de Colmar - Centre Hospitalier Louis Pasteur</name>
+      <address>
+        <city>Colmar</city>
+        <state>Grand Est</state>
+        <zip>68024</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Léon Bérard</name>
+      <address>
+        <city>Lyon</city>
+        <state>Rhone-Alpes</state>
+        <zip>69008</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>General Hospital of Athens Evangelismos</name>
+      <address>
+        <city>Athens</city>
+        <state>Attica</state>
+        <zip>10676</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Alexandra General Hospital</name>
+      <address>
+        <city>Athens</city>
+        <state>Attica</state>
+        <zip>11528</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Országos Korányi Pulmonológiai Intézet</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1121</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wojewódzki Specjalistyczny Szpital im. Dr. Władysława Biegańskiego</name>
+      <address>
+        <city>Łódź</city>
+        <state>Lódzkie</state>
+        <zip>91-347</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Quirónsalud Madrid</name>
+      <address>
+        <city>Pozuelo de Alarcón</city>
+        <state>Madrid</state>
+        <zip>28223</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Alvaro Cunqueiro - Clinico Universitario Vigo</name>
+      <address>
+        <city>Vigo</city>
+        <state>Pontevedra</state>
+        <zip>36213</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Ramón y Cajal</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28034</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínico San Carlos</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario HM Sanchinarro</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28050</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>France</country>
+    <country>Greece</country>
+    <country>Hungary</country>
+    <country>Poland</country>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>December 21, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 27, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>May 17, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 17, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 19, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Plitidepsin</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

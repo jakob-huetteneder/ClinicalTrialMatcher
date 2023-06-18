@@ -4,9 +4,6 @@ import at.ac.tuwien.sepm.groupphase.backend.config.properties.SecurityProperties
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.JwtException;
 import io.jsonwebtoken.Jwts;
-import java.io.IOException;
-import java.lang.invoke.MethodHandles;
-import java.util.List;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
@@ -22,27 +19,44 @@ import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.stereotype.Service;
 import org.springframework.web.filter.OncePerRequestFilter;
 
+import java.io.IOException;
+import java.lang.invoke.MethodHandles;
+import java.util.List;
+
+/**
+ * Filter for authorization.
+ */
 @Service
 @Order(Ordered.LOWEST_PRECEDENCE - 1)
 public class JwtAuthorizationFilter extends OncePerRequestFilter {
 
-    private static final Logger LOGGER = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
+    private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
     private final SecurityProperties securityProperties;
 
     public JwtAuthorizationFilter(SecurityProperties securityProperties) {
         this.securityProperties = securityProperties;
     }
 
+    /**
+     * Filter for authorization.
+     *
+     * @param request  incoming request to filter
+     * @param response outgoing response filtered
+     * @param chain    filter chain (next filter)
+     * @throws IOException      if an input or output error occurs while the filter is handling the request
+     * @throws ServletException if the processing fails for any other reason
+     */
     @Override
     protected void doFilterInternal(HttpServletRequest request, HttpServletResponse response, FilterChain chain)
         throws IOException, ServletException {
+        LOG.trace("doFilterInternal({}, {}, {})", request, response, chain);
         try {
             UsernamePasswordAuthenticationToken authToken = getAuthToken(request);
             if (authToken != null) {
                 SecurityContextHolder.getContext().setAuthentication(authToken);
             }
         } catch (IllegalArgumentException | JwtException e) {
-            LOGGER.debug("Invalid authorization attempt: {}", e.getMessage());
+            LOG.debug("Invalid authorization attempt: {}", e.getMessage());
             response.setStatus(HttpServletResponse.SC_UNAUTHORIZED);
             response.getWriter().write("Invalid authorization header or token");
             return;
@@ -50,6 +64,14 @@ public class JwtAuthorizationFilter extends OncePerRequestFilter {
         chain.doFilter(request, response);
     }
 
+    /**
+     * Get authentication token.
+     *
+     * @param request incoming request
+     * @return authentication token
+     * @throws JwtException             if the token is invalid
+     * @throws IllegalArgumentException if the token is malformed
+     */
     private UsernamePasswordAuthenticationToken getAuthToken(HttpServletRequest request)
         throws JwtException, IllegalArgumentException {
         String token = request.getHeader(securityProperties.getAuthHeader());

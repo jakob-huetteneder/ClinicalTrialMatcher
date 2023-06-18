@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9134">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05704621</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KGOG3067</org_study_id>
+    <nct_id>NCT05704621</nct_id>
+  </id_info>
+  <brief_title>Secondary Cytoreductive Surgery (CRS) in Patients With Relapsed Ovarian Cancer Who Have Progressed on PARP Inhibitor Maintenance</brief_title>
+  <acronym>SOCCER-P</acronym>
+  <official_title>A Randomized Phase II Study of Secondary Cytoreductive Surgery (CRS) in Patients With Relapsed Ovarian Cancer Who Have Progressed on PARP Inhibitor Maintenance</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Korea University Guro Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Boryung Pharmaceutical Co., Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Chong Kun Dang Pharmaceutical Corp.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Yonsei University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Korea University Guro Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized phase II study of secondary cytoreductive surgery (CRS) in patients with&#xD;
+      relapsed ovarian cancer who have progressed on PARP inhibitor maintenance.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The primary objective is to find out whether the CRS is beneficial in patients who have&#xD;
+      progressed on PARPi maintenance.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2023</start_date>
+  <completion_date type="Anticipated">February 28, 2028</completion_date>
+  <primary_completion_date type="Anticipated">February 28, 2026</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>progression-free survival</measure>
+    <time_frame>Up to 2 year</time_frame>
+    <description>interval between date of randomization and the date of second relapse/progression or death, whatever occurs first</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>Up to 2 year</time_frame>
+    <description>from date of randomisation until death</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>30-day post-operative complications</measure>
+    <time_frame>From the operation until after 30 days</time_frame>
+    <description>MSKCC surgical complications grading method and CTCAE v4.03 criteria will be adopted for evaluating the perioperative complications</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Time to first subsequent anticancer therapy</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>From date of randomization until the date of first recurrent anticancer therapy</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Time to second subsequent anticancer therapy</measure>
+    <time_frame>Up to 2 year</time_frame>
+    <description>From date of randomization until the date of secondary recurrent anticancer therapy</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">124</enrollment>
+  <condition>Ovarian Cancer</condition>
+  <condition>Drug Related Neoplasm/Cancer</condition>
+  <arm_group>
+    <arm_group_label>secondary cytoreductive surgery followed by chemotherapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>chemotherapy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>secondary cytoreductive surgery</intervention_name>
+    <description>Maximum effort cytoreductive surgery</description>
+    <arm_group_label>secondary cytoreductive surgery followed by chemotherapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>chemotherapy</intervention_name>
+    <description>six cycles of bevacizumab [10 mg/kg, days 1 and 15] plus carboplatin [AUC 5, day 1] plus pegylated liposomal doxorubicin [30 mg/m2, day 1] every 4 weeks, followed by maintenance bevacizumab [15 mg/kg every 3 weeks]</description>
+    <arm_group_label>chemotherapy</arm_group_label>
+    <arm_group_label>secondary cytoreductive surgery followed by chemotherapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with first recurrence of platinum sensitive, invasive epithelial ovarian-,&#xD;
+             fallopian tube- or primary peritoneal cancer of any initial stage.&#xD;
+&#xD;
+          -  Progression-free interval of at least 6 months after end of last platinum- containing&#xD;
+             therapy,&#xD;
+&#xD;
+          -  Progressed during PARP inhibitor maintenance&#xD;
+&#xD;
+          -  Women aged ≥ 18 years&#xD;
+&#xD;
+          -  Complete resection of the tumor by median laparotomy seems possible (estimated by an&#xD;
+             experienced surgeon). Intra-abdominal disease has to be excluded by MRI/CT, if other&#xD;
+             surgical approaches for isolated extra-abdominal recurrences are planned&#xD;
+&#xD;
+               1. A positive AGO-score or iMODEL+PET/CT&#xD;
+&#xD;
+               2. Patients who are likely to be completely resected according to the investigator's&#xD;
+                  judgment will be allowed by consensus between PI(surgeon) and designated&#xD;
+                  radiologist even if AGO or iMODEL+PET/CT negative.&#xD;
+&#xD;
+          -  Patients who have given their signed and written informed consent and their consent to&#xD;
+             data transmission and -processing.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with non-epithelial tumors as well as borderline tumors.&#xD;
+&#xD;
+          -  Patients without recurrence who are scheduled for diagnostic/second-look surgery or&#xD;
+             debulking surgery after completion of chemotherapy&#xD;
+&#xD;
+          -  More than one prior chemotherapy&#xD;
+&#xD;
+          -  Patients who are ineligible for pegylated liposomal doxorubicin or carboplatin&#xD;
+&#xD;
+          -  Patients with second, third, or later recurrence&#xD;
+&#xD;
+          -  Patients with second malignancies who have been treated by laparotomy, as well as&#xD;
+             other neoplasms, if the treatment might interfere with the treatment of relapsed&#xD;
+             ovarian cancer or if major impact on prognosis is expected.&#xD;
+&#xD;
+          -  Patients with so-called platinum-refractory tumor, i.e. progression during&#xD;
+             chemotherapy or recurrence within 6 months after end of former first platinum-&#xD;
+             containing therapy&#xD;
+&#xD;
+          -  Only palliative surgery planned&#xD;
+&#xD;
+          -  Radiological signs suggesting metastases not accessible to surgical removal (i.e.&#xD;
+             complete resection is deemed impossible)&#xD;
+&#xD;
+          -  Any concomitant disease not allowing surgery and/or chemotherapy&#xD;
+&#xD;
+          -  Any medical history indicating excessive peri-operative risk&#xD;
+&#xD;
+          -  Any current medication inducing considerable surgical risk (e.g. bleeding: due to oral&#xD;
+             anticoagulating agents, bevacizumab)&#xD;
+&#xD;
+          -  No assessable archival tumor tissue&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hyun-Woong Cho, MD. PhD.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Korea University Guro Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Hyun-Woong Cho, MD. PhD.</last_name>
+    <phone>82-2-2626-3228</phone>
+    <email>limpcho82@gmail.com</email>
+  </overall_contact>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>January 19, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>March 7, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 7, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 8, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Korea University Guro Hospital</investigator_affiliation>
+    <investigator_full_name>Hyun Woong Cho</investigator_full_name>
+    <investigator_title>Assistant professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ovarian Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Ovarian Epithelial</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,1903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9730">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05691478</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2022-08567</org_study_id>
+    <secondary_id>NCI-2022-08567</secondary_id>
+    <secondary_id>AOST2032</secondary_id>
+    <secondary_id>AOST2032</secondary_id>
+    <secondary_id>U10CA180886</secondary_id>
+    <nct_id>NCT05691478</nct_id>
+    <nct_alias>NCT05683197</nct_alias>
+  </id_info>
+  <brief_title>A Study to Test the Addition of the Drug Cabozantinib to Chemotherapy in Patients With Newly Diagnosed Osteosarcoma</brief_title>
+  <official_title>A Feasibility and Randomized Phase 2/3 Study of the VEFGR2/MET Inhibitor Cabozantinib in Combination With Cytotoxic Chemotherapy for Newly Diagnosed Osteosarcoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II/III trial tests the safety, side effects, and best dose of the drug&#xD;
+      cabozantinib in combination with standard chemotherapy, and to compare the effect of adding&#xD;
+      cabozantinib to standard chemotherapy alone in treating patients with newly diagnosed&#xD;
+      osteosarcoma. Cabozantinib is in a class of medications called kinase inhibitors which block&#xD;
+      protein signals affecting new blood vessel formation and the ability to activate growth&#xD;
+      signaling pathways. This may help slow the growth of tumor cells. The drugs used in standard&#xD;
+      chemotherapy for this trial are methotrexate, doxorubicin, and cisplatin (MAP). Methotrexate&#xD;
+      stops cells from making DNA and may kill tumor cells. It is a type of antimetabolite.&#xD;
+      Doxorubicin is in a class of medications called anthracyclines. It works by slowing or&#xD;
+      stopping the growth of tumor cells in the body. Cisplatin is in a class of medications known&#xD;
+      as platinum-containing compounds. It works by killing, stopping or slowing the growth of&#xD;
+      tumor cells. Adding cabozantinib to standard chemotherapy may work better in treating newly&#xD;
+      diagnosed osteosarcoma.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:&#xD;
+&#xD;
+      I. To determine the feasibility of adding cabozantinib S-malate (cabozantinib) to standard&#xD;
+      MAP (high dose methotrexate, doxorubicin hydrochloride [doxorubicin], and cisplatin)&#xD;
+      chemotherapy in patients with newly diagnosed metastatic osteosarcoma with a resectable&#xD;
+      primary tumor.&#xD;
+&#xD;
+      II. To determine whether MAP chemotherapy plus cabozantinib results in more favorable&#xD;
+      event-free survival (EFS) than MAP chemotherapy alone in patients with localized, resectable&#xD;
+      osteosarcoma.&#xD;
+&#xD;
+      III. To determine whether MAP chemotherapy plus cabozantinib results in more favorable&#xD;
+      event-free survival (EFS) than MAP chemotherapy alone in patients with metastatic, pelvic and&#xD;
+      unresectable osteosarcoma.&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. To determine whether MAP chemotherapy plus cabozantinib results in more favorable overall&#xD;
+      survival (OS) than MAP chemotherapy alone in patients with localized, resectable&#xD;
+      osteosarcoma.&#xD;
+&#xD;
+      II. To determine whether MAP chemotherapy plus cabozantinib results in more favorable overall&#xD;
+      survival (OS) than MAP chemotherapy alone in patients with metastatic, pelvic and&#xD;
+      unresectable osteosarcoma.&#xD;
+&#xD;
+      EXPLORATORY OBJECTIVES:&#xD;
+&#xD;
+      I. To determine the rate of good histologic response (&gt; 90%) of resected primary tumor&#xD;
+      specimens following neoadjuvant chemotherapy with MAP plus cabozantinib and compare with&#xD;
+      response rates for MAP chemotherapy alone.&#xD;
+&#xD;
+      II. To describe the toxicities of the addition of cabozantinib to MAP chemotherapy in&#xD;
+      patients with newly diagnosed osteosarcoma.&#xD;
+&#xD;
+      III. To describe frequency of application of local control methods (surgery, hypofractionated&#xD;
+      stereotactic body radiotherapy, or radiofrequency ablation) for extrapulmonary metastatic&#xD;
+      osteosarcoma.&#xD;
+&#xD;
+      IV. To compare total cumulative delivered doses of MAP chemotherapy agents between standard&#xD;
+      and experimental arms across multiple phases of therapy.&#xD;
+&#xD;
+      V. To assess the pharmacokinetics of cabozantinib when administered concomitantly with&#xD;
+      standard chemotherapy agents during feasibility.&#xD;
+&#xD;
+      VI. To collect pulmonary metastatic lesions, paired primary tumor tissue, and serial blood&#xD;
+      samples for tumor profiling, liquid biopsies, and future testing of correlative biology&#xD;
+      studies.&#xD;
+&#xD;
+      OUTLINE: This is a dose-escalation study of cabozantinib (Feasibility Phase) followed by a&#xD;
+      randomized phase II/III study (Efficacy Phase).&#xD;
+&#xD;
+      FEASIBILITY PHASE: Patients receive cabozantinib orally (PO), methotrexate intravenously&#xD;
+      (IV), doxorubicin IV, and cisplatin IV for two 35-day &quot;induction&quot; cycles. Patients are then&#xD;
+      considered for appropriate local control. Then they receive &quot;consolidation&quot; with methotrexate&#xD;
+      IV, doxorubicin IV, and cisplatin IV for one 35-day cycle, followed by cabozantinib PO,&#xD;
+      methotrexate IV, doxorubicin IV, and cisplatin IV for one 35-day cycle, and cabozantinib PO,&#xD;
+      methotrexate IV, and doxorubicin IV for two 35-day cycles. Patients then receive cabozantinib&#xD;
+      PO for six 28-day &quot;maintenance&quot; cycles.&#xD;
+&#xD;
+      EFFICACY PHASE: Patients with standard risk osteosarcoma are randomized to Arm A or Arm B.&#xD;
+      Patients with high risk osteosarcoma are randomized to Arm C or Arm D.&#xD;
+&#xD;
+      ARM A: Standard risk patients receive methotrexate IV, doxorubicin IV, and cisplatin IV for&#xD;
+      two 35-day &quot;induction&quot; cycles, followed by appropriate local control. Patients then receive&#xD;
+      &quot;consolidation&quot; with methotrexate IV, doxorubicin IV, and cisplatin IV for two 35-day cycles&#xD;
+      and methotrexate IV and doxorubicin IV for two additional 35-day cycles.&#xD;
+&#xD;
+      ARM B: Standard risk patients receive cabozantinib PO, methotrexate IV, doxorubicin IV, and&#xD;
+      cisplatin IV for two 35-day &quot;induction&quot; cycles, followed by appropriate local control.&#xD;
+      Patients then receive &quot;consolidation&quot; with cabozantinib PO, methotrexate IV, doxorubicin IV,&#xD;
+      and cisplatin IV for two 35-day &quot;consolidation&quot; cycles, and cabozantinib PO, methotrexate IV,&#xD;
+      and doxorubicin IV for two additional 35-day cycles. Patients then receive cabozantinib PO&#xD;
+      for six 28-day &quot;maintenance&quot; cycles.&#xD;
+&#xD;
+      ARM C: High risk patients receive methotrexate IV, doxorubicin IV, and cisplatin IV for two&#xD;
+      35-day &quot;induction&quot; cycles, followed by appropriate local control. Patients then receive&#xD;
+      &quot;consolidation&quot; with methotrexate IV, doxorubicin IV, and cisplatin IV for two 35-day cycles&#xD;
+      and methotrexate IV and doxorubicin IV for two additional 35-day cycles.&#xD;
+&#xD;
+      ARM D: High risk patients receive cabozantinib PO, methotrexate IV, doxorubicin IV, and&#xD;
+      cisplatin IV for two 35-day &quot;induction&quot; cycles, followed by appropriate local control.&#xD;
+      Patients then receive &quot;consolidation&quot; with methotrexate IV, doxorubicin IV, and cisplatin IV&#xD;
+      for one 35-day cycle, followed by cabozantinib PO, methotrexate IV, doxorubicin IV, and&#xD;
+      cisplatin IV for one 35-day cycle and cabozantinib PO, methotrexate IV, and doxorubicin IV&#xD;
+      for two additional 35-day cycles. Patients then receive cabozantinib PO for six 28-day&#xD;
+      &quot;maintenance&quot; cycles.&#xD;
+&#xD;
+      All patients also undergo X-ray, computed tomography (CT), magnetic resonance imaging (MRI),&#xD;
+      and positron emission tomography (PET) or bone scintigraphy at diagnosis and additonal time&#xD;
+      points throughout the trial. All patients also undergo collection of blood samples during&#xD;
+      screening and on study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 17, 2023</start_date>
+  <completion_date type="Anticipated">March 20, 2030</completion_date>
+  <primary_completion_date type="Anticipated">March 20, 2030</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Single-arm Feasibility Phase study followed by a randomized, parallel 4-arm Efficacy Phase study</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Occurrence of dose-limiting toxicity (DLT) (Feasibility)</measure>
+    <time_frame>Baseline up to 6 weeks</time_frame>
+    <description>Only patients with high risk osteosarcoma who have a primary tumor considered resectable at the time of enrollment will be enrolled to this part of the trial. If a feasible dose cannot be established, the study committee will consult with Children's Oncology Group (COG) leadership and National Cancer Institute Cancer Therapy Evaluation Program (NCI CTEP) regarding possible modifications of the regimen and subsequent protocol amendment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Event-free survival (EFS) (Phase II)</measure>
+    <time_frame>From randomization until disease progression, relapse, diagnosis of a second malignant neoplasm, death or last contact, whichever occurs first, assessed up to 5 years after completion of study treatment</time_frame>
+    <description>The randomization and analysis will be stratified according to risk group. An assessment of the reduction in risk for EFS-event at the designated landmark time will be used to determine whether the trial continues to part 3. If the study proceeds to part 3, patients enrolled to part 2 of the trial will contribute to the primary analyses for part 3 of the study. If the interim criterion for continuation is not obtained, accrual will be closed with the conclusion that cabozantinib does not reduce sufficiently the risk for EFS-event for patients with newly-diagnosed osteosarcoma.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Event-free survival (EFS) (Phase III)</measure>
+    <time_frame>From randomization until disease progression, relapse, diagnosis of a second malignant neoplasm, death or last contact, whichever occurs first, assessed up to 5 years after completion of study treatment</time_frame>
+    <description>Will consist of two randomized phase 3 sub-studies ('Phase 3'). One will be conducted in standard risk patients and one will be conducted in high risk patients.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>From randomization until death or last contact, whichever occurs first, assessed up to 5 years after completion of study treatment</time_frame>
+  </primary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">1122</enrollment>
+  <condition>High Grade Osteosarcoma</condition>
+  <condition>Localized Osteosarcoma</condition>
+  <condition>Metastatic Osteosarcoma</condition>
+  <condition>Secondary Osteosarcoma</condition>
+  <arm_group>
+    <arm_group_label>Efficacy Phase Arm A (MAP)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Standard risk patients receive methotrexate IV, doxorubicin IV, and cisplatin IV for two 35-day &quot;induction&quot; cycles, followed by appropriate local control. Patients then receive &quot;consolidation&quot; with methotrexate IV, doxorubicin IV, and cisplatin IV for two 35-day cycles and methotrexate IV and doxorubicin IV for two additional 35-day cycles. Patients also undergo X-ray, CT, MRI, and PET or bone scintigraphy at diagnosis and additonal time points throughout the trial. All patients also undergo collection of blood samples during screening and on study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Efficacy Phase Arm B (cabozantinib, MAP)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Standard risk patients receive cabozantinib PO, methotrexate IV, doxorubicin IV, and cisplatin IV for two 35-day &quot;induction&quot; cycles, followed by appropriate local control. Patients then receive &quot;consolidation&quot; with cabozantinib PO, methotrexate IV, doxorubicin IV, and cisplatin IV for two 35-day &quot;consolidation&quot; cycles, and cabozantinib PO, methotrexate IV, and doxorubicin IV for two additional 35-day cycles. Patients then receive cabozantinib PO for six 28-day &quot;maintenance&quot; cycles. Patients also undergo X-ray, CT, MRI, and PET or bone scintigraphy at diagnosis and additonal time points throughout the trial. All patients also undergo collection of blood samples during screening and on study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Efficacy Phase Arm C (MAP)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>High risk patients receive methotrexate IV, doxorubicin IV, and cisplatin IV for two 35-day &quot;induction&quot; cycles, followed by appropriate local control. Patients then receive &quot;consolidation&quot; with methotrexate IV, doxorubicin IV, and cisplatin IV for two 35-day cycles and methotrexate IV and doxorubicin IV for two additional 35-day cycles. Patients also undergo X-ray, CT, MRI, and PET or bone scintigraphy at diagnosis and additonal time points throughout the trial. All patients also undergo collection of blood samples during screening and on study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Efficacy Phase Arm D (cabozantinib, MAP)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>High risk patients receive cabozantinib PO, methotrexate IV, doxorubicin IV, and cisplatin IV for two 35-day &quot;induction&quot; cycles, followed by appropriate local control. Patients then receive &quot;consolidation&quot; with methotrexate IV, doxorubicin IV, and cisplatin IV for one 35-day cycle, followed by cabozantinib PO, methotrexate IV, doxorubicin IV, and cisplatin IV for one 35-day cycle and cabozantinib PO, methotrexate IV, and doxorubicin IV for two additional 35-day cycles. Patients then receive cabozantinib PO for six 28-day &quot;maintenance&quot; cycles. Patients also undergo X-ray, CT, MRI, and PET or bone scintigraphy at diagnosis and additonal time points throughout the trial. All patients also undergo collection of blood samples during screening and on study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Feasibility phase (cabozantinib, MAP)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive cabozantinib orally (PO), methotrexate intravenously (IV), doxorubicin IV, and cisplatin IV for two 35-day &quot;induction&quot; cycles. Patients are then considered for appropriate local control. Then they receive &quot;consolidation&quot; with methotrexate IV, doxorubicin IV, and cisplatin IV for one 35-day cycle, followed by cabozantinib PO, methotrexate IV, doxorubicin IV, and cisplatin IV for one 35-day cycle, and cabozantinib PO, methotrexate IV, and doxorubicin IV for two 35-day cycles. Patients then receive cabozantinib PO for six 28-day &quot;maintenance&quot; cycles.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Bone Scan</intervention_name>
+    <description>Undergo bone scintography</description>
+    <arm_group_label>Efficacy Phase Arm A (MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm B (cabozantinib, MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm C (MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm D (cabozantinib, MAP)</arm_group_label>
+    <arm_group_label>Feasibility phase (cabozantinib, MAP)</arm_group_label>
+    <other_name>Bone Scintigraphy</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cabozantinib S-malate</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Efficacy Phase Arm B (cabozantinib, MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm D (cabozantinib, MAP)</arm_group_label>
+    <arm_group_label>Feasibility phase (cabozantinib, MAP)</arm_group_label>
+    <other_name>BMS-907351</other_name>
+    <other_name>Cabometyx</other_name>
+    <other_name>Cometriq</other_name>
+    <other_name>XL-184</other_name>
+    <other_name>XL184</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cisplatin</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Efficacy Phase Arm A (MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm B (cabozantinib, MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm C (MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm D (cabozantinib, MAP)</arm_group_label>
+    <arm_group_label>Feasibility phase (cabozantinib, MAP)</arm_group_label>
+    <other_name>Abiplatin</other_name>
+    <other_name>Blastolem</other_name>
+    <other_name>Briplatin</other_name>
+    <other_name>CDDP</other_name>
+    <other_name>Cis-diammine-dichloroplatinum</other_name>
+    <other_name>Cis-diamminedichloridoplatinum</other_name>
+    <other_name>Cis-diamminedichloro Platinum (II)</other_name>
+    <other_name>Cis-diamminedichloroplatinum</other_name>
+    <other_name>Cis-dichloroammine Platinum (II)</other_name>
+    <other_name>Cis-platinous Diamine Dichloride</other_name>
+    <other_name>Cis-platinum</other_name>
+    <other_name>Cis-platinum II</other_name>
+    <other_name>Cis-platinum II Diamine Dichloride</other_name>
+    <other_name>Cismaplat</other_name>
+    <other_name>Cisplatina</other_name>
+    <other_name>Cisplatinum</other_name>
+    <other_name>Cisplatyl</other_name>
+    <other_name>Citoplatino</other_name>
+    <other_name>Citosin</other_name>
+    <other_name>Cysplatyna</other_name>
+    <other_name>DDP</other_name>
+    <other_name>Lederplatin</other_name>
+    <other_name>Metaplatin</other_name>
+    <other_name>Neoplatin</other_name>
+    <other_name>Peyrone's Chloride</other_name>
+    <other_name>Peyrone's Salt</other_name>
+    <other_name>Placis</other_name>
+    <other_name>Plastistil</other_name>
+    <other_name>Platamine</other_name>
+    <other_name>Platiblastin</other_name>
+    <other_name>Platiblastin-S</other_name>
+    <other_name>Platinex</other_name>
+    <other_name>Platinol</other_name>
+    <other_name>Platinol- AQ</other_name>
+    <other_name>Platinol-AQ</other_name>
+    <other_name>Platinol-AQ VHA Plus</other_name>
+    <other_name>Platinoxan</other_name>
+    <other_name>Platinum</other_name>
+    <other_name>Platinum Diamminodichloride</other_name>
+    <other_name>Platiran</other_name>
+    <other_name>Platistin</other_name>
+    <other_name>Platosin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Computed Tomography</intervention_name>
+    <description>Undergo CT</description>
+    <arm_group_label>Efficacy Phase Arm A (MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm B (cabozantinib, MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm C (MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm D (cabozantinib, MAP)</arm_group_label>
+    <arm_group_label>Feasibility phase (cabozantinib, MAP)</arm_group_label>
+    <other_name>CAT</other_name>
+    <other_name>CAT Scan</other_name>
+    <other_name>Computed Axial Tomography</other_name>
+    <other_name>Computerized Axial Tomography</other_name>
+    <other_name>Computerized axial tomography (procedure)</other_name>
+    <other_name>Computerized Tomography</other_name>
+    <other_name>CT</other_name>
+    <other_name>CT Scan</other_name>
+    <other_name>tomography</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Doxorubicin Hydrochloride</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Efficacy Phase Arm A (MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm B (cabozantinib, MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm C (MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm D (cabozantinib, MAP)</arm_group_label>
+    <arm_group_label>Feasibility phase (cabozantinib, MAP)</arm_group_label>
+    <other_name>5,12-Naphthacenedione, 10-[(3-amino-2,3,6-trideoxy-alpha-L-lyxo-hexopyranosyl)oxy]-7,8, 9,10-tetrahydro-6,8,11-trihydroxy-8-(hydroxyacetyl)-1-methoxy-, hydrochloride, (8S-cis)- (9CI)</other_name>
+    <other_name>ADM</other_name>
+    <other_name>Adriacin</other_name>
+    <other_name>Adriamycin</other_name>
+    <other_name>Adriamycin Hydrochloride</other_name>
+    <other_name>Adriamycin PFS</other_name>
+    <other_name>Adriamycin RDF</other_name>
+    <other_name>ADRIAMYCIN, HYDROCHLORIDE</other_name>
+    <other_name>Adriamycine</other_name>
+    <other_name>Adriblastina</other_name>
+    <other_name>Adriblastine</other_name>
+    <other_name>Adrimedac</other_name>
+    <other_name>Chloridrato de Doxorrubicina</other_name>
+    <other_name>DOX</other_name>
+    <other_name>DOXO-CELL</other_name>
+    <other_name>Doxolem</other_name>
+    <other_name>Doxorubicin HCl</other_name>
+    <other_name>Doxorubicin.HCl</other_name>
+    <other_name>Doxorubin</other_name>
+    <other_name>Farmiblastina</other_name>
+    <other_name>FI 106</other_name>
+    <other_name>FI-106</other_name>
+    <other_name>hydroxydaunorubicin</other_name>
+    <other_name>Rubex</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Magnetic Resonance Imaging</intervention_name>
+    <description>Undergo MRI</description>
+    <arm_group_label>Efficacy Phase Arm A (MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm B (cabozantinib, MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm C (MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm D (cabozantinib, MAP)</arm_group_label>
+    <arm_group_label>Feasibility phase (cabozantinib, MAP)</arm_group_label>
+    <other_name>Magnetic Resonance</other_name>
+    <other_name>Magnetic resonance imaging (procedure)</other_name>
+    <other_name>Magnetic Resonance Imaging Scan</other_name>
+    <other_name>Medical Imaging, Magnetic Resonance / Nuclear Magnetic Resonance</other_name>
+    <other_name>MR</other_name>
+    <other_name>MR Imaging</other_name>
+    <other_name>MRI</other_name>
+    <other_name>MRI Scan</other_name>
+    <other_name>NMR Imaging</other_name>
+    <other_name>NMRI</other_name>
+    <other_name>Nuclear Magnetic Resonance Imaging</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Methotrexate</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Efficacy Phase Arm A (MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm B (cabozantinib, MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm C (MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm D (cabozantinib, MAP)</arm_group_label>
+    <arm_group_label>Feasibility phase (cabozantinib, MAP)</arm_group_label>
+    <other_name>Abitrexate</other_name>
+    <other_name>Alpha-Methopterin</other_name>
+    <other_name>Amethopterin</other_name>
+    <other_name>Brimexate</other_name>
+    <other_name>CL 14377</other_name>
+    <other_name>CL-14377</other_name>
+    <other_name>Emtexate</other_name>
+    <other_name>Emthexat</other_name>
+    <other_name>Emthexate</other_name>
+    <other_name>Farmitrexat</other_name>
+    <other_name>Fauldexato</other_name>
+    <other_name>Folex</other_name>
+    <other_name>Folex PFS</other_name>
+    <other_name>Lantarel</other_name>
+    <other_name>Ledertrexate</other_name>
+    <other_name>Lumexon</other_name>
+    <other_name>Maxtrex</other_name>
+    <other_name>Medsatrexate</other_name>
+    <other_name>Metex</other_name>
+    <other_name>Methoblastin</other_name>
+    <other_name>Methotrexate LPF</other_name>
+    <other_name>Methotrexate Methylaminopterin</other_name>
+    <other_name>Methotrexatum</other_name>
+    <other_name>Metotrexato</other_name>
+    <other_name>Metrotex</other_name>
+    <other_name>Mexate</other_name>
+    <other_name>Mexate-AQ</other_name>
+    <other_name>MTX</other_name>
+    <other_name>Novatrex</other_name>
+    <other_name>Rheumatrex</other_name>
+    <other_name>Texate</other_name>
+    <other_name>Tremetex</other_name>
+    <other_name>Trexeron</other_name>
+    <other_name>Trixilem</other_name>
+    <other_name>WR-19039</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Surgical Procedure</intervention_name>
+    <description>Undergo surgery</description>
+    <arm_group_label>Efficacy Phase Arm A (MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm B (cabozantinib, MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm C (MAP)</arm_group_label>
+    <arm_group_label>Feasibility phase (cabozantinib, MAP)</arm_group_label>
+    <other_name>Operation</other_name>
+    <other_name>Surgery</other_name>
+    <other_name>Surgery Type</other_name>
+    <other_name>Surgery, NOS</other_name>
+    <other_name>Surgical</other_name>
+    <other_name>Surgical Intervention</other_name>
+    <other_name>Surgical Interventions</other_name>
+    <other_name>Surgical Procedures</other_name>
+    <other_name>Type of Surgery</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>X-Ray Imaging</intervention_name>
+    <description>Undergo X-ray</description>
+    <arm_group_label>Efficacy Phase Arm A (MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm B (cabozantinib, MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm C (MAP)</arm_group_label>
+    <arm_group_label>Efficacy Phase Arm D (cabozantinib, MAP)</arm_group_label>
+    <arm_group_label>Feasibility phase (cabozantinib, MAP)</arm_group_label>
+    <other_name>Conventional X-Ray</other_name>
+    <other_name>Diagnostic Radiology</other_name>
+    <other_name>Medical Imaging, X-Ray</other_name>
+    <other_name>Plain film radiographs</other_name>
+    <other_name>Radiographic Imaging</other_name>
+    <other_name>Radiographic imaging procedure (procedure)</other_name>
+    <other_name>Radiography</other_name>
+    <other_name>RG</other_name>
+    <other_name>Static X-Ray</other_name>
+    <other_name>X-Ray</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients must be &lt; 40 years of age at the time of enrollment.&#xD;
+&#xD;
+          -  Patients must have a body surface area of &gt;= 0.8 m^2 at the time of enrollment.&#xD;
+&#xD;
+          -  Patients must have histologic diagnosis (by institutional pathologist) of newly&#xD;
+             diagnosed high grade osteosarcoma. Primary tumors of all extremity and axial sites are&#xD;
+             eligible as long as diagnosis of high-grade osteosarcoma is established. Osteosarcoma&#xD;
+             as a second malignancy is eligible if no prior exposure to systemic chemotherapies.&#xD;
+&#xD;
+          -  Feasibility Phase:&#xD;
+&#xD;
+        Patients must have metastatic disease and a resectable primary tumor. Designation of a&#xD;
+        primary tumor as resectable will be determined at the time of diagnosis by the&#xD;
+        institutional multidisciplinary team.&#xD;
+&#xD;
+        For this study, metastatic disease is defined as one or more of the following:&#xD;
+&#xD;
+          -  Lesions which are discontinuous from the primary tumor, are not regional lymph nodes,&#xD;
+             and do not share a bone or body cavity with the primary tumor. Skip lesions in the&#xD;
+             same bone as the primary tumor do not constitute metastatic disease. Skip lesions in&#xD;
+             an adjacent bone are considered bone metastases.&#xD;
+&#xD;
+          -  Lung metastases: defined as biopsy-proven metastasis or the presence of one or more&#xD;
+             pulmonary lesions &gt;= 5 mm, OR multiple pulmonary lesions &gt;= 3 mm or greater in size.&#xD;
+&#xD;
+          -  Bone metastases: Areas suspicious for bone metastasis based on fludeoxyglucose F-18&#xD;
+             (18F-FDG)-positron emission tomography (PET) scan (or whole body technetium-99 bone&#xD;
+             scan if 18F-FDG-PET is unavailable at the treating institution) require confirmatory&#xD;
+             biopsy or supportive anatomic imaging of at least one suspicious site with either&#xD;
+             magnetic resonance imaging (MRI) or computed tomography (CT) (whole body&#xD;
+             18F-FDG-PET/CT or 18F-FDG-PET/MR scans are acceptable).&#xD;
+&#xD;
+               -  Efficacy Phases (Phase 2/3)&#xD;
+&#xD;
+        Patients with both localized and metastatic disease are eligible for the efficacy phase,&#xD;
+        regardless of resectability. Patients will be enrolled to two separate cohorts:&#xD;
+&#xD;
+          -  Cohort 1 (Standard Risk): Patients with non-pelvic primary osteosarcoma deemed to be&#xD;
+             resectable at the time of diagnosis by the institutional multidisciplinary team,&#xD;
+             without evidence of metastatic lesions.&#xD;
+&#xD;
+          -  Cohort 2 (High-Risk): Patients with a primary pelvic tumor, a primary tumor designated&#xD;
+             as unresectable by the institutional multidisciplinary team, AND/OR radiographic&#xD;
+             evidence of metastatic lesions.&#xD;
+&#xD;
+               -  A serum creatinine based on age/gender as follows (within 7 days prior to&#xD;
+                  enrollment unless otherwise indicated):&#xD;
+&#xD;
+          -  (Age: Maximum Serum Creatinine [mg/dL]; Gender)&#xD;
+&#xD;
+               -  1 month to &lt; 6 months: 0.4 (male); 0.4 (female)&#xD;
+&#xD;
+               -  6 months to &lt; 1 year: 0.5 (male); 0.5 (female)&#xD;
+&#xD;
+               -  1 to &lt; 2 years: 0.6 (male); 0.6 (female)&#xD;
+&#xD;
+               -  2 to &lt; 6 years: 0.8 (male); 0.8 (female)&#xD;
+&#xD;
+               -  6 to &lt; 10 years: 1 (male); 1 (female)&#xD;
+&#xD;
+               -  10 to &lt; 13 years: 1.2 (male); 1.2 (female)&#xD;
+&#xD;
+               -  13 to &lt; 16 years: 1.5 (male); 1.4 (female)&#xD;
+&#xD;
+               -  &gt;= 16 years: 1.7 (male); 1.4 (female)&#xD;
+&#xD;
+          -  OR - a 24 hour urine creatinine clearance &gt;= 70 mL/min/1.73 m^2&#xD;
+&#xD;
+          -  OR - a glomerular filtration rate (GFR) &gt;= 70 mL/min/1.73 m^2. GFR must be performed&#xD;
+             using direct measurement with a nuclear blood sampling method OR direct small molecule&#xD;
+             clearance method (iothalamate or other molecule per institutional standard).&#xD;
+&#xD;
+               -  Note: Estimated GFR (eGFR) from serum creatinine, cystatin C or other estimates&#xD;
+                  are not acceptable for determining eligibility.&#xD;
+&#xD;
+                    -  Total bilirubin =&lt; 1.5 x upper limit of normal (ULN) for age (within 7 days&#xD;
+                       prior to enrollment unless otherwise indicated)&#xD;
+&#xD;
+                    -  Serum glutamate pyruvate transaminase (SGPT) (alanine aminotransferase&#xD;
+                       [ALT]) =&lt; 135 U/L (within 7 days prior to enrollment unless otherwise&#xD;
+                       indicated)&#xD;
+&#xD;
+          -  Note: For the purpose of this study, the ULN for SGPT (ALT) has been set to the value&#xD;
+             of 45 U/L&#xD;
+&#xD;
+               -  No history of congenital prolonged corrected QT (QTc) syndrome, New York Heart&#xD;
+                  Association (NYHA) Class III or IV congestive heart failure, unstable angina&#xD;
+                  pectoris, serious cardiac arrhythmias or&#xD;
+&#xD;
+          -  Shortening fraction of &gt;= 27%, or&#xD;
+&#xD;
+          -  Ejection fraction of &gt;= 50%, or&#xD;
+&#xD;
+          -  Corrected QT interval by Fridericia (QTcF) &lt; 480 msec on electrocardiogram. Patients&#xD;
+             with Grade 1 prolonged QTc (450-480 msec) at time of study enrollment should have&#xD;
+             correctable causes of prolonged QTc addressed if possible (i.e., electrolytes,&#xD;
+             medications).&#xD;
+&#xD;
+               -  Peripheral absolute neutrophil count (ANC) &gt;= 1000/uL (within 7 days prior to&#xD;
+                  enrollment unless otherwise indicated)&#xD;
+&#xD;
+               -  Platelet count &gt;= 100,000/uL (transfusion independent, defined as not receiving&#xD;
+                  platelet transfusions within a 7-day period prior to enrollment) (within 7 days&#xD;
+                  prior to enrollment unless otherwise indicated)&#xD;
+&#xD;
+               -  Hemoglobin &gt;= 8.0 g/dL (within 7 days prior to enrollment unless otherwise&#xD;
+                  indicated)&#xD;
+&#xD;
+               -  International normalized ratio (INR) =&lt; 1.5 (within 7 days prior to enrollment&#xD;
+                  unless otherwise indicated)&#xD;
+&#xD;
+               -  Human immunodeficiency virus (HIV)-infected patients on effective anti-retroviral&#xD;
+                  therapy with undetectable viral load within 6 months are eligible as long as they&#xD;
+                  are NOT receiving anti-retroviral agents that are strong inhibitors or inducers&#xD;
+                  of CYP3A4, CYP2D6, and/or MRP2 transporter protein.&#xD;
+&#xD;
+               -  All patients and/or their parents or legal guardians must sign a written informed&#xD;
+                  consent.&#xD;
+&#xD;
+               -  All institutional, Food and Drug Administration (FDA), and National Cancer&#xD;
+                  Institute (NCI) requirements for human studies must be met.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients who have received previous systemic therapy for osteosarcoma or a prior&#xD;
+             oncologic diagnosis.&#xD;
+&#xD;
+          -  Patients who have central nervous system metastases.&#xD;
+&#xD;
+          -  Patients with central cavitating pulmonary lesions invading or encasing any major&#xD;
+             blood vessels in the lung.&#xD;
+&#xD;
+          -  Patients who are unable to swallow tablets. Tablets cannot be crushed or chewed.&#xD;
+&#xD;
+          -  Patients with gastrointestinal disorders including active disorders associated with a&#xD;
+             high risk of perforation or fistula formation. Specifically, no clinically significant&#xD;
+             gastrointestinal (GI) bleeding, GI perforation, bowel obstruction, intra-abdominal&#xD;
+             abscess or fistula for 6 months prior to enrollment, no hemoptysis or other signs of&#xD;
+             pulmonary hemorrhage for 3 months prior to enrollment.&#xD;
+&#xD;
+          -  Patients with active bleeding or bleeding diathesis. No clinically significant&#xD;
+             hematuria, hematemesis, or hemoptysis or other history of significant bleeding within&#xD;
+             3 months prior to enrollment.&#xD;
+&#xD;
+          -  Patients with uncompensated or symptomatic hypothyroidism. Patients who have&#xD;
+             hypothyroidism controlled with thyroid replacement hormone are eligible.&#xD;
+&#xD;
+          -  Patients with moderate to severe hepatic impairment (Child-Pugh B or C).&#xD;
+&#xD;
+          -  Patients who have had primary tumor resection or attempted curative resection of&#xD;
+             metastases prior to enrollment.&#xD;
+&#xD;
+          -  Patients who have undergone other major surgical procedure (eg, laparotomy) within 14&#xD;
+             days prior to enrollment. Thoracoscopic procedures for diagnostic purposes (biopsy of&#xD;
+             lung nodule) and central access such as port-a-cath placement are allowed.&#xD;
+&#xD;
+          -  Patients with a history of serious or non-healing wound or bone fracture (pathologic&#xD;
+             fracture of primary tumor is not considered exclusion).&#xD;
+&#xD;
+          -  Patients with any medical or surgical conditions that would interfere with&#xD;
+             gastrointestinal absorption of cabozantinib.&#xD;
+&#xD;
+          -  Patients with previously identify allergy or hypersensitivity to components of the&#xD;
+             study treatment formulations.&#xD;
+&#xD;
+          -  Patients who are receiving any other investigational agent not defined within this&#xD;
+             protocol are not eligible.&#xD;
+&#xD;
+          -  Patients who in the opinion of the investigator may not be able to comply with the&#xD;
+             safety monitoring requirements of the study are not eligible.&#xD;
+&#xD;
+          -  Patients who received enzyme-inducing anticonvulsants within 14 days prior to&#xD;
+             enrollment.&#xD;
+&#xD;
+          -  Patients with a prior history of hypertension (&gt; 95th percentile for age, height, and&#xD;
+             gender for patients &lt; 18 years and &gt; 140/90 mmHg for patients &gt;= 18 years requiring&#xD;
+             medication for blood pressure control.&#xD;
+&#xD;
+          -  Patients who are receiving drugs that prolong QTc.&#xD;
+&#xD;
+          -  Patients receiving anticoagulation with oral coumarin agents (eg warfarin), direct&#xD;
+             thrombin inhibitors (eg dabigatran), direct factor Xa inhibitor betrixaban, or&#xD;
+             platelet inhibitors (eg, clopidogrel). Low dose aspirin for cardioprotection (per&#xD;
+             local applicable guidelines) and low dose, low molecular weight heparins (LMWH) are&#xD;
+             permitted. Anticoagulation with therapeutic doses of LMWH and direct factor Xa&#xD;
+             inhibitors rivaroxaban or apixaban are allowed in subjects who are on a stable dose&#xD;
+             for at least 6 weeks before the first dose of study treatment, and who have had no&#xD;
+             complications from a thromboembolic event or the anticoagulation regimen.&#xD;
+&#xD;
+          -  Patients receiving strong CYP3A4 inducers or strong CYP3A4 inhibitors.&#xD;
+&#xD;
+          -  Female patients who are pregnant since fetal toxicities and teratogenic effects have&#xD;
+             been noted for several of the study drugs. A pregnancy test is required for female&#xD;
+             patients of childbearing potential.&#xD;
+&#xD;
+          -  Lactating females who plan to breastfeed their infants.&#xD;
+&#xD;
+          -  Sexually active patients of reproductive potential who have not agreed to use an&#xD;
+             effective contraceptive method for the duration of protocol therapy.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael W Bishop</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Children's Oncology Group</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Children's Hospital of Alabama</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>205-638-9285</phone>
+      <email>oncologyresearch@peds.uab.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jamie M. Aye</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Valley Children's Hospital</name>
+      <address>
+        <city>Madera</city>
+        <state>California</state>
+        <zip>93636</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>559-353-3000</phone>
+      <email>Research@valleychildrens.org</email>
+    </contact>
+    <investigator>
+      <last_name>Karen S. Fernandez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF Benioff Children's Hospital Oakland</name>
+      <address>
+        <city>Oakland</city>
+        <state>California</state>
+        <zip>94609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>510-428-3324</phone>
+      <email>Carla.Golden@ucsf.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Carla B. Golden</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente-Oakland</name>
+      <address>
+        <city>Oakland</city>
+        <state>California</state>
+        <zip>94611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>877-642-4691</phone>
+      <email>Kpoct@kp.org</email>
+    </contact>
+    <investigator>
+      <last_name>Aarati V. Rao</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Orange County</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>714-509-8646</phone>
+      <email>oncresearch@choc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Elyssa M. Rubin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Alfred I duPont Hospital for Children</name>
+      <address>
+        <city>Wilmington</city>
+        <state>Delaware</state>
+        <zip>19803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>302-651-5572</phone>
+      <email>Allison.bruce@nemours.org</email>
+    </contact>
+    <investigator>
+      <last_name>Scott M. Bradfield</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Golisano Children's Hospital of Southwest Florida</name>
+      <address>
+        <city>Fort Myers</city>
+        <state>Florida</state>
+        <zip>33908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>239-343-5333</phone>
+      <email>molly.arnstrom@leehealth.org</email>
+    </contact>
+    <investigator>
+      <last_name>Emad K. Salman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Florida Health Science Center - Gainesville</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32610</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>352-273-8010</phone>
+      <email>cancer-center@ufl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>William B. Slayton</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nemours Children's Clinic-Jacksonville</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>302-651-5572</phone>
+      <email>Allison.bruce@nemours.org</email>
+    </contact>
+    <investigator>
+      <last_name>Scott M. Bradfield</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nicklaus Children's Hospital</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33155</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>888-624-2778</phone>
+    </contact>
+    <investigator>
+      <last_name>Maggie E. Fader</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>AdventHealth Orlando</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>407-303-2090</phone>
+      <email>FH.Cancer.Research@flhosp.org</email>
+    </contact>
+    <investigator>
+      <last_name>Fouad M. Hajjar</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kapiolani Medical Center for Women and Children</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96826</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>808-983-6090</phone>
+    </contact>
+    <investigator>
+      <last_name>Wade T. Kyono</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Lurie Children's Hospital-Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>773-880-4562</phone>
+    </contact>
+    <investigator>
+      <last_name>David O. Walterhouse</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Riley Hospital for Children</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>800-248-1199</phone>
+    </contact>
+    <investigator>
+      <last_name>Sandeep Batra</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Iowa/Holden Comprehensive Cancer Center</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>800-237-1225</phone>
+    </contact>
+    <investigator>
+      <last_name>David S. Dickens</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Kentucky/Markey Cancer Center</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40536</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>859-257-3379</phone>
+    </contact>
+    <investigator>
+      <last_name>James T. Badgett</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Maine Children's Cancer Program</name>
+      <address>
+        <city>Scarborough</city>
+        <state>Maine</state>
+        <zip>04074</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>207-396-7581</phone>
+      <email>sverwys@mmc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Aaron R. Weiss</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sinai Hospital of Baltimore</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>410-601-6120</phone>
+      <email>pridgely@lifebridgehealth.org</email>
+    </contact>
+    <investigator>
+      <last_name>Jason M. Fixler</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>877-442-3324</phone>
+    </contact>
+    <investigator>
+      <last_name>Katherine A. Janeway</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Helen DeVos Children's Hospital at Spectrum Health</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>616-391-1230</phone>
+      <email>crcwm-regulatory@crcwm.org</email>
+    </contact>
+    <investigator>
+      <last_name>Kathleen J. Yost</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Minnesota/Masonic Cancer Center</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>612-624-2620</phone>
+    </contact>
+    <investigator>
+      <last_name>Emily G. Greengard</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Mississippi Medical Center</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>39216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>601-815-6700</phone>
+    </contact>
+    <investigator>
+      <last_name>Betty L. Herrington</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>800-600-3606</phone>
+      <email>info@siteman.wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Amy Armstrong</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hackensack University Medical Center</name>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <zip>07601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>201-996-2879</phone>
+    </contact>
+    <investigator>
+      <last_name>Katharine Offer</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Morristown Medical Center</name>
+      <address>
+        <city>Morristown</city>
+        <state>New Jersey</state>
+        <zip>07960</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>973-971-5900</phone>
+    </contact>
+    <investigator>
+      <last_name>Kathryn L. Laurie</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Joseph's Regional Medical Center</name>
+      <address>
+        <city>Paterson</city>
+        <state>New Jersey</state>
+        <zip>07503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>973-754-2207</phone>
+      <email>HallL@sjhmc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Alissa Kahn</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Albany Medical Center</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>518-262-5513</phone>
+    </contact>
+    <investigator>
+      <last_name>Lauren R. Weintraub</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore Medical Center - Moses Campus</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>718-379-6866</phone>
+      <email>eskwak@montefiore.org</email>
+    </contact>
+    <investigator>
+      <last_name>Lisa Gennarini</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Roswell Park Cancer Institute</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14263</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>800-767-9355</phone>
+      <email>askroswell@roswellpark.org</email>
+    </contact>
+    <investigator>
+      <last_name>Ajay Gupta</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Winthrop Hospital</name>
+      <address>
+        <city>Mineola</city>
+        <state>New York</state>
+        <zip>11501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>212-263-4432</phone>
+      <email>cancertrials@nyulangone.org</email>
+    </contact>
+    <investigator>
+      <last_name>Chana L. Glasser</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Stony Brook University Medical Center</name>
+      <address>
+        <city>Stony Brook</city>
+        <state>New York</state>
+        <zip>11794</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>800-862-2215</phone>
+    </contact>
+    <investigator>
+      <last_name>Laura E. Hogan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>State University of New York Upstate Medical University</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>315-464-5476</phone>
+    </contact>
+    <investigator>
+      <last_name>Philip M. Monteleone</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>New York Medical College</name>
+      <address>
+        <city>Valhalla</city>
+        <state>New York</state>
+        <zip>10595</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>914-594-3794</phone>
+    </contact>
+    <investigator>
+      <last_name>Jessica C. Hochberg</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>East Carolina University</name>
+      <address>
+        <city>Greenville</city>
+        <state>North Carolina</state>
+        <zip>27834</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>252-744-1015</phone>
+      <email>eubankss@ecu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Andrea R. Whitfield</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest University Health Sciences</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>336-713-6771</phone>
+    </contact>
+    <investigator>
+      <last_name>Thomas W. McLean</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>513-636-2799</phone>
+      <email>cancer@cchmc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Joseph G. Pressey</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rainbow Babies and Childrens Hospital</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>216-844-5437</phone>
+    </contact>
+    <investigator>
+      <last_name>Duncan S. Stearns</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Foundation</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>866-223-8100</phone>
+      <email>TaussigResearch@ccf.org</email>
+    </contact>
+    <investigator>
+      <last_name>Rabi Hanna</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>ProMedica Toledo Hospital/Russell J Ebeid Children's Hospital</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>419-824-1842</phone>
+      <email>PCIOncResearch@promedica.org</email>
+    </contact>
+    <investigator>
+      <last_name>Jamie L. Dargart</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Health and Science University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>503-494-1080</phone>
+      <email>trials@ohsu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Katrina Winsnes</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>267-425-5544</phone>
+      <email>CancerTrials@email.chop.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Naomi J. Balamuth</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Christopher's Hospital for Children</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19134</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>215-427-8991</phone>
+    </contact>
+    <investigator>
+      <last_name>Gregory E. Halligan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Pittsburgh of UPMC</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>412-692-8570</phone>
+      <email>jean.tersak@chp.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jean M. Tersak</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Prisma Health Richland Hospital</name>
+      <address>
+        <city>Columbia</city>
+        <state>South Carolina</state>
+        <zip>29203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>864-241-6251</phone>
+    </contact>
+    <investigator>
+      <last_name>Stuart L. Cramer</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>BI-LO Charities Children's Cancer Center</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>864-241-6251</phone>
+    </contact>
+    <investigator>
+      <last_name>Aniket Saha</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Jude Children's Research Hospital</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>888-226-4343</phone>
+      <email>referralinfo@stjude.org</email>
+    </contact>
+    <investigator>
+      <last_name>Michael W. Bishop</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Children's Hospital at TriStar Centennial</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>615-342-1919</phone>
+    </contact>
+    <investigator>
+      <last_name>Jennifer A. Domm</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Medical City Dallas Hospital</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>972-566-5588</phone>
+    </contact>
+    <investigator>
+      <last_name>Stanton C. Goldman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UT Southwestern/Simmons Cancer Center-Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>214-648-7097</phone>
+      <email>canceranswerline@UTSouthwestern.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Matthew Campbell</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>El Paso Children's Hospital</name>
+      <address>
+        <city>El Paso</city>
+        <state>Texas</state>
+        <zip>79905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>915-298-5444</phone>
+      <email>ranjan.bista@ttuhsc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Ranjan Bista</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of San Antonio</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>210-704-2894</phone>
+      <email>bridget.medina@christushealth.org</email>
+    </contact>
+    <investigator>
+      <last_name>Timothy C. Griffin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Health Science Center at San Antonio</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>210-450-3800</phone>
+      <email>phoresearchoffice@uthscsa.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Anne-Marie R. Langevin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of The King's Daughters</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23507</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>757-668-7243</phone>
+      <email>CCBDCresearch@chkd.org</email>
+    </contact>
+    <investigator>
+      <last_name>Eric J. Lowe</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>VCU Massey Cancer Center at Stony Point</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <email>ctoclinops@vcu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Frances Austin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Commonwealth University/Massey Cancer Center</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23298</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <email>CTOclinops@vcu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Frances Austin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Seattle Children's Hospital</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>866-987-2000</phone>
+    </contact>
+    <investigator>
+      <last_name>Sarah E. Leary</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mary Bridge Children's Hospital and Health Center</name>
+      <address>
+        <city>Tacoma</city>
+        <state>Washington</state>
+        <zip>98405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>253-403-1461</phone>
+      <email>research@multicare.org</email>
+    </contact>
+    <investigator>
+      <last_name>Robert G. Irwin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Madigan Army Medical Center</name>
+      <address>
+        <city>Tacoma</city>
+        <state>Washington</state>
+        <zip>98431</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>253-968-6144</phone>
+      <email>Melissa.a.forouhar.mil@mail.mil</email>
+    </contact>
+    <investigator>
+      <last_name>Melissa A. Forouhar</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Marshfield Medical Center-Marshfield</name>
+      <address>
+        <city>Marshfield</city>
+        <state>Wisconsin</state>
+        <zip>54449</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Public Contact</last_name>
+      <phone>800-782-8581</phone>
+      <email>oncology.clinical.trials@marshfieldresearch.org</email>
+    </contact>
+    <investigator>
+      <last_name>Michelle A. Manalang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 18, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>June 2, 2023</last_update_submitted>
+  <last_update_submitted_qc>June 2, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 5, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Osteosarcoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cisplatin</mesh_term>
+    <mesh_term>Doxorubicin</mesh_term>
+    <mesh_term>Liposomal doxorubicin</mesh_term>
+    <mesh_term>Methotrexate</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>NCI is committed to sharing data in accordance with NIH policy. For more details on how clinical trial data is shared, access the link to the NIH data sharing policy page.</ipd_description>
+    <ipd_url>https://grants.nih.gov/policy/sharing.htm</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

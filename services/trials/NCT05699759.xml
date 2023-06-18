@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9354">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05699759</url>
+  </required_header>
+  <id_info>
+    <org_study_id>79071</org_study_id>
+    <nct_id>NCT05699759</nct_id>
+  </id_info>
+  <brief_title>Safety and Effect of Intravitreal Injection of a Derivative of Nucleoside Reverse Transcriptase Inhibitor in Subjects With Diabetic Macular Edema</brief_title>
+  <official_title>A Non-randomized, Open Label, Safety and Efficacy Study Evaluating a Single Dose of Kamuvudine-8 (K8) for the Treatment of Patients With Diabetic Macular Edema</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Michelle Abou-Jaoude</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Inflammasome Therapeutics</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Kentucky</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is designed to assess the safety and initial evidence of efficacy of the novel&#xD;
+      compound SOM-401 (K8), a derivative of a nucleoside reverse transcriptase inhibitor, in&#xD;
+      subjects with untreated, clinically significant, diabetic macular edema (DME).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 28, 2023</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean change in central subfield thickness</measure>
+    <time_frame>At week 4 (change as measured from baseline)</time_frame>
+    <description>Central subfield thickness (CST) measured on spectral domain-optical coherence tomography (SD-OCT)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mean change in best-corrected visual acuity (BCVA)</measure>
+    <time_frame>At week 4 (change as measured from baseline)</time_frame>
+    <description>best-corrected visual acuity as defined by the number of letters read on the scale set by the ETDRS (Early Treatment of Diabetic Retinopathy Study). (More letters read equates to better visual acuity)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adverse Events</measure>
+    <time_frame>Within the study period (of 24 weeks)</time_frame>
+    <description>Frequency of participants experiencing ocular or systemic adverse events.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Resolution of macular edema</measure>
+    <time_frame>24 weeks (at 2, 4, 8, 12, 16, and 24 weeks)</time_frame>
+    <description>Frequency of participants experiencing resolution of macular edema</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinically significant change in visual acuity</measure>
+    <time_frame>24 weeks (at 2, 4, 8, 12, 16, and 24 weeks)</time_frame>
+    <description>Frequency of participants experiencing clinically significant change.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in score on the ETDRS Multi-Step Scale of Diabetic Retinopathy</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>The Early Treatment Diabetic Retinopathy Study (ETDRS DRSS) was developed to categorize the severity of diabetic retinopathy based on several fundus photographic characteristics. There are 13 levels in the original ETDRS scale, and a severity step or level increase is associated with an increased risk of retinopathy progression. The scale goes from 10 to 85, with higher scores being worse.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Visual acuity</measure>
+    <time_frame>24 weeks (at 2, 4, 8, 12, 16, and 24 weeks)</time_frame>
+    <description>The proportion of subjects who have an change from baseline of ETDRS letters read of ≥ 5 letters, ≥ 10 letters or ≥ 15 letters of visual acuity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in retinal thickening</measure>
+    <time_frame>24 weeks (at 2, 4, 8, 12, 16, and 24 weeks)</time_frame>
+    <description>Total area in disc diameters of retinal thickening of the lesion involving the foveal center, based on fundus imaging.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in hard exudates</measure>
+    <time_frame>24 weeks (at 2, 4, 8, 12, 16, and 24 weeks)</time_frame>
+    <description>Total area in disc diameters of hard exudates in the lesion involving the macula, based on fundus imaging.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in foveal avascular zone.</measure>
+    <time_frame>24 weeks (at 2, 4, 8, 12, 16, and 24 weeks)</time_frame>
+    <description>Foveal avascular zone size as determined using OCT-Angiography</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects requiring rescue treatment</measure>
+    <time_frame>24 weeks (at 2, 4, 8, 12, 16, and 24 weeks)</time_frame>
+    <description>Proportion of subjects requiring rescue treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects requiring vitrectomy</measure>
+    <time_frame>24 weeks (at 2, 4, 8, 12, 16, and 24 weeks)</time_frame>
+    <description>Proportion of subjects requiring vitrectomy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in central subfield thickness at other study timepoints</measure>
+    <time_frame>24 weeks (at 2, 8, 12, 16, and 24 weeks)</time_frame>
+    <description>Central subfield thickness (CST) measured on spectral domain-optical coherence tomography (SD-OCT)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in best-corrected visual acuity (BCVA) at other study timepoints</measure>
+    <time_frame>24 weeks (at 2, 4, 8, 12, 16, and 24 weeks)</time_frame>
+    <description>best-corrected visual acuity as defined by the number of letters read on the scale set by the ETDRS (Early Treatment of Diabetic Retinopathy Study). (More letters read equates to better visual acuity)</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">5</enrollment>
+  <condition>Diabetic Macular Edema</condition>
+  <arm_group>
+    <arm_group_label>Patients with Diabetic Macular Edema</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with Diabetic Macular Edema</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>K8</intervention_name>
+    <description>Subjects will have the treatment administered intravitreally (one eye only) using an injector system on a 24-gauge needle to deliver a cylindrical, 3 mm long, drug eluting pellet containing 300 µg of K8. Participants will be followed for 168 days (24 weeks).</description>
+    <arm_group_label>Patients with Diabetic Macular Edema</arm_group_label>
+    <other_name>SOM-401</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18 years or older&#xD;
+&#xD;
+          -  BCVA of ≥ 24 and ≤ 73 letters (20/40 or worse but at least 20/320) by an ETDRS chart.&#xD;
+             BCVA of the non-study eye must be no worse than 20/400)&#xD;
+&#xD;
+          -  Diagnosis of diabetes mellitus, type 1 or 2 with non-proliferative or non-high risk&#xD;
+             proliferative diabetic retinopathy.&#xD;
+&#xD;
+          -  DME based on investigator's clinical evaluation and demonstrated on fundus&#xD;
+             photographs, fluorescein angiograms, and spectral domain-optical coherence tomography&#xD;
+             (SD-OCT)&#xD;
+&#xD;
+          -  Mean foveal thickness of at least 300 µm by SD-OCT&#xD;
+&#xD;
+          -  Ability and willingness to comply with the treatment and follow-up procedures&#xD;
+&#xD;
+          -  Ability to understand and sign the informed consent form&#xD;
+&#xD;
+          -  Intraocular pressure of ≤ 21 on 2 or less IOP lowering medications&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant patients, currently lactating patients, or females of childbearing potential&#xD;
+             (unless using reliable contraception such as double barrier, surgical sterilization,&#xD;
+             oral contraceptives, intrauterine device (IUD), etc.)&#xD;
+&#xD;
+          -  Allergy or hypersensitivity (known or suspected) to fluorescein or any component of&#xD;
+             the investigational product or delivery system&#xD;
+&#xD;
+          -  Any ocular surgery in the study eye within 12 weeks of screening&#xD;
+&#xD;
+          -  Any history of vitrectomy in the study eye&#xD;
+&#xD;
+          -  Aphakia in the study eye&#xD;
+&#xD;
+          -  Presence of severe foveal ischemia, defined as foveal avascular zone (FAZ) of &gt;1.5 mm2&#xD;
+             on OCT-Angiography&#xD;
+&#xD;
+          -  Prior intraocular or periocular treatment for DME&#xD;
+&#xD;
+          -  Macular laser for the treatment of diabetic macular edema within 12 weeks of screening&#xD;
+&#xD;
+          -  Any change in systemic steroidal therapy within 3 months of screening&#xD;
+&#xD;
+          -  Retinal or choroidal neovascularization due to ocular conditions other than diabetic&#xD;
+             retinopathy&#xD;
+&#xD;
+          -  History or presence of viral disease of the cornea or conjunctiva&#xD;
+&#xD;
+          -  History or presence of any disease or condition that in the investigator's opinion&#xD;
+             would preclude study treatment or follow-up or that in the opinion of the investigator&#xD;
+             would render them as unlikely to benefit from study treatment.&#xD;
+&#xD;
+          -  Any lens or corneal opacity which impairs visualization of the posterior pole&#xD;
+&#xD;
+          -  Participation in another clinical trial within 12 weeks before the screening visit or&#xD;
+             during the study&#xD;
+&#xD;
+          -  Expectation that subject will be moving away from the area of the clinical treatment&#xD;
+             center without the ability to return for visits within the study period&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michelle Abou-Jaoude, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Kentucky</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sara Kuhl</last_name>
+    <phone>859-562-3570</phone>
+    <email>sara.kuhl@uky.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Connie Dampier</last_name>
+    <phone>859-562-0750</phone>
+    <email>dampier@email.uky.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Kentucky</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40506</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>December 23, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 22, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>March 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 14, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Kentucky</investigator_affiliation>
+    <investigator_full_name>Michelle Abou-Jaoude</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>diabetes</keyword>
+  <keyword>kamuvudine</keyword>
+  <keyword>K8</keyword>
+  <keyword>SOM-401</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Macular Edema</mesh_term>
+    <mesh_term>Edema</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

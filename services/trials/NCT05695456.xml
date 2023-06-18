@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9555">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05695456</url>
+  </required_header>
+  <id_info>
+    <org_study_id>S66223</org_study_id>
+    <nct_id>NCT05695456</nct_id>
+  </id_info>
+  <brief_title>Targeted Elimination Diet in EoE Patients Following Identification of Trigger Nutrients Using Confocal Laser Endomicroscopy</brief_title>
+  <acronym>CLE-EoE</acronym>
+  <official_title>Targeted Elimination Diet in EoE Patients Following Identification of Trigger Nutrients Using Confocal Laser Endomicroscopy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universitaire Ziekenhuizen KU Leuven</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Universitaire Ziekenhuizen KU Leuven</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Using confocal laser endomicroscopy (CLE), gastrointestinal allergic reactions to certain&#xD;
+      foods in the duodenum will be evaluated on a cellular level. After that, a personalized&#xD;
+      exclusion diet will be followed based on the CLE results for 6 weeks, sham-controlled, in a&#xD;
+      cross-over fashion. Gastroscopy with esophageal biopsies will be repeated after each diet.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Eosinophilic esophagitis is an antigen driven esophagitis, that is characterized by symptoms&#xD;
+      of dysphagia often leading to food impaction, and that leads to strictures and esophageal&#xD;
+      motility disorders, with a significant impact on quality of life. Current treatment options&#xD;
+      include proton pump inhibitors (PPI's) and topical steroids, and also the empiric 6-food&#xD;
+      elimination diet (6FED). In this diet, the 6 most frequently implicated foods are excluded&#xD;
+      and reintroduced one by one (milk, gluten containing grains, egg, soy, nuts, fish &amp;&#xD;
+      shellfish). However, this is a complicated and long process, including several endoscopies&#xD;
+      with esophageal biopsies.&#xD;
+&#xD;
+      Confocal laser endomicroscopy (CLE) is a technique that allows to detect gastrointestinal&#xD;
+      allergic reactions in the duodenum, and to visualize them on a molecular level in real-time.&#xD;
+      The CLE probe is passed through the working channel of a standard gastroscope, up against the&#xD;
+      duodenal mucosa. After intravenous injection of fluorescein as contrast medium, the duodenal&#xD;
+      epithelium is visualized on a cellular level, including food protein mediated extravasation&#xD;
+      of fluorescein into the lumen. The 6 foods of the 6FED are sprayed on the epithelium one by&#xD;
+      one, after which a reaction is awaited. Previous use of CLE has shown that more than half of&#xD;
+      Eosinophilic esophagitis (EoE) patients reacts to one or more foods during CLE.&#xD;
+&#xD;
+      In this double blind randomized cross-over study the effect a personalized elimination diet,&#xD;
+      based on the reaction during CLE, is compared to a sham diet, in patients with eosinophilic&#xD;
+      esophagitis, and insufficient response or intolerance to PPI's. Both diets will be followed&#xD;
+      for 6 weeks, after which gastroscopy with esophageal biopsies will be repeated. Patients that&#xD;
+      do not have a reaction to the 6 foods will act as controls, following a control diet with&#xD;
+      milk and gluten in a cross-over fashion.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 16, 2022</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>A double-blind cross-over dietary elimination study: Patients with a positive CLE reaction to one or two specific nutrients will then be randomized to a blinded exclusion diet for 6 weeks of those nutrients or to exclusion of another tested nutrient that yielded no change in CLE (=sham diet), in a cross-over fashion. Patients with no CLE reaction will undergo an empirical exclusion diet of gluten-containing grains for 6 weeks. To mirror the crossover character of the intervention, CLE negative patients will then undergo a milk exclusion diet for 6 weeks (order is interchangeable).</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Nor the participant, nor the primary or secondary investigators involved in the study will know to which nutrients the patient reacted as assessed by CLE, nor will they know what the order of the diet is (sham or real). An investigator who did not participate in the CLE will give dietary instructions.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Difference in response</measure>
+    <time_frame>2 years</time_frame>
+    <description>Difference in response (defined as normalization of peak eosinophil count in esophageal mucosal biopsies &lt;15 eosinophils/HPF) in patients undergoing duodenal CLE-targeted elimination diet compared to the sham diet</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Further histological outcomes</measure>
+    <time_frame>2 years</time_frame>
+    <description>Difference in deep remission (defined as reduction of peak eosinophil count &lt;6 eosinophils/HPF) before and after the targeted elimination diet respectively, compared with the sham diet</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Further histological outcomes</measure>
+    <time_frame>2 years</time_frame>
+    <description>Difference in peak eosinophil count (eosinophils/HPF) before and after the targeted elimination diet, compared with the sham diet</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Symptomatic changes in patients undergoing duodenal CLE-targeted elimination diet compared to the sham diet</measure>
+    <time_frame>2 years</time_frame>
+    <description>difference in symptoms using the DSQ (dysphagia symptom questionnaire), with a score from 0 (meaning no symptoms) to 10 (worse outcome).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>endoscopic changes in patients undergoing duodenal CLE-targeted elimination diet compared to the sham diet</measure>
+    <time_frame>2 years</time_frame>
+    <description>Difference in endoscopic reference score (EREFS) ranging from E0R0E0F0S0 (no endoscopic abnormalities) to E2R2E2F2S2 (worse endoscopic features)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>change in esophageal and duodenal permeability parameters 1</measure>
+    <time_frame>2 years</time_frame>
+    <description>using ussing chamber experiments, where human biopsies our mounted in between two chambers, and the transepithelial electrical resistance (TEER) is measured across the chambers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>change in esophageal and duodenal permeability parameters 2</measure>
+    <time_frame>2 years</time_frame>
+    <description>using ussing chamber experiments, where human biopsies our mounted in between two chambers, and the transepithelial flux of a high molecular weight protein is measured by labeling the molecule with a fluorescent dye.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Baseline and post-exposure duodenal mast cell and eosinophil counts on histology</measure>
+    <time_frame>2 years</time_frame>
+    <description>Baseline and post-exposure duodenal mast cell and eosinophil counts on histology</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Differences in duodenal permeability measures in CLE positive, CLE negative EoE patients and healthy controls before and after nutrient application 1</measure>
+    <time_frame>2 years</time_frame>
+    <description>using ussing chamber experiments, where human biopsies our mounted in between two chambers, and the transepithelial electrical resistance (TEER) is measured across the chambers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Differences in duodenal permeability measures in CLE positive, CLE negative EoE patients and healthy controls before and after nutrient application 2</measure>
+    <time_frame>2 years</time_frame>
+    <description>using ussing chamber experiments, where human biopsies our mounted in between two chambers, and the transepithelial flux of a high molecular weight protein is measured by labeling the molecule with a fluorescent dye.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">25</enrollment>
+  <condition>Eosinophilic Esophagitis</condition>
+  <arm_group>
+    <arm_group_label>CLE positive patients real/sham</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>In this arm, participants who reacted to one or two nutrients during CLE will follow a personalized exclusion diet consistent of the nutrient to which they reacted, after which they will follow a sham diet in a blinded cross-over fashion.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CLE positive patients sham/real</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>In this arm, participants who reacted to one or two nutrients during CLE will follow a sham diet for 6 weeks, and than a personalized exclusion diet consistent of the nutrient to which they reacted, in a blinded cross-over fashion.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CLE negative patients</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>In this arm, participants who did not react to one of the nutrients during CLE will follow a control diet consistent of milk exclusion for 6 weeks, after which they will follow a gluten exclusion diet for 6 weeks, or the other way around.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>personalized exclusion diet based on CLE</intervention_name>
+    <description>personalized exclusion diet based on CLE</description>
+    <arm_group_label>CLE positive patients real/sham</arm_group_label>
+    <arm_group_label>CLE positive patients sham/real</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>empiric exclusion diet</intervention_name>
+    <description>exclusion diet with milk or gluten-containing grains</description>
+    <arm_group_label>CLE negative patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Eosinophilic Esophagitis, with peak eosinophil count of &gt;15 eos/HPF and symptoms of&#xD;
+             dysphagia at least 2 days per week&#xD;
+&#xD;
+          -  Patients have had a trial of high-dose PPI for at least 8 weeks, with either&#xD;
+             documented non-response or intolerance to the medication&#xD;
+&#xD;
+          -  Patients aged between 18 and 70 years old&#xD;
+&#xD;
+          -  Signed written informed consent&#xD;
+&#xD;
+          -  Eosinophilic Esophagitis, with peak eosinophil count of &gt;15 eos/HPF and symptoms of&#xD;
+             dysphagia at least 2 days per week&#xD;
+&#xD;
+          -  Patients have had a trial of high-dose PPI for at least 8 weeks, with either&#xD;
+             documented non-response or intolerance to the medication&#xD;
+&#xD;
+          -  Patients aged between 18 and 70 years old&#xD;
+&#xD;
+          -  Signed written informed consent&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  IgE-mediated food anaphylaxis for 1 of the trigger nutrients&#xD;
+&#xD;
+          -  History of major gastrointestinal surgery complicating esophago-gastro-duodenoscopy&#xD;
+&#xD;
+          -  Gastro-esophageal reflux disease (GERD) Los Angeles grade C or D&#xD;
+&#xD;
+          -  Esophageal strictures, too narrow to pass with a normal gastroscope&#xD;
+&#xD;
+          -  Endoscopic dilation in the esophagus in the 4 weeks prior to inclusion&#xD;
+&#xD;
+          -  Celiac disease&#xD;
+&#xD;
+          -  Recent use (within two weeks) of non-steroidal anti-inflammatory drugs (NSAIDs),&#xD;
+             systemic histamine-receptor antagonists, mast cell stabilizers, opioids.&#xD;
+&#xD;
+          -  Proton pump inhibitors must be either stopped for at least 4 weeks, or continued on a&#xD;
+             stable dosage throughout the study period.&#xD;
+&#xD;
+          -  Corticosteroids should be stopped for at least 4 weeks.&#xD;
+&#xD;
+          -  Allergy to fluorescein, Xylocain or Propofol&#xD;
+&#xD;
+          -  Pregnant or lactating women&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jan Tack, MD PhD</last_name>
+    <phone>+3216345514</phone>
+    <email>jan.tack@kuleuven.be</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Jan Tack</name>
+      <address>
+        <city>Leuven</city>
+        <state>Vlaams Brabant</state>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jan Tack, MD PhD</last_name>
+      <phone>+3216345514</phone>
+      <email>jan.tack@kuleuven.be</email>
+    </contact>
+    <investigator>
+      <last_name>Karlien Raymenants, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>March 15, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 12, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>January 12, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 12, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>confocal laser endomicroscopy</keyword>
+  <keyword>6-food elimination diet</keyword>
+  <keyword>personalized exclusion diet</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Esophagitis</mesh_term>
+    <mesh_term>Eosinophilic Esophagitis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

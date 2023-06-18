@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9164">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05704023</url>
+  </required_header>
+  <id_info>
+    <org_study_id>4090457</org_study_id>
+    <nct_id>NCT05704023</nct_id>
+  </id_info>
+  <brief_title>Effects of a Mobile App on Adherence to Daily Exercise and Recovery After Whiplash Injury</brief_title>
+  <official_title>Effects of a Mobile App on Adherence to Daily Exercise and Recovery After Whiplash Injury - a Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Blaz Barun</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Split, School of Medicine</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study investigates the effect of daily mobile app reminders to exercise in conjunction&#xD;
+      with standard physical therapy on adherence to exercise and recovery after whiplash injury of&#xD;
+      the neck. Participants will be divided into two groups, the experimental (Arm A) and control&#xD;
+      group (Arm B). Both groups will complete a standard physical therapy program under the&#xD;
+      supervision of a physiotherapist. Both groups will get illustrated home exercise programs and&#xD;
+      will be advised to continue exercising at home. In addition, the experimental group will&#xD;
+      receive one daily push notification via a mobile app to perform a daily exercise at home.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Whiplash injury of the neck is the most common injury resulting from a traffic accident.&#xD;
+      Although most people recover completely, 30 to 50% of them develop chronic neck pain and&#xD;
+      disability. Also, long sick leaves and lower productivity at work create a burden on the&#xD;
+      healthcare system.&#xD;
+&#xD;
+      Conservative treatment includes exercise, physical therapy modalities such as transcutaneous&#xD;
+      electric nerve stimulation (TENS), and ultrasound therapy. Although conservative treatment is&#xD;
+      recommended, the evidence of its efficacy remains unclear. Education after the injury can be&#xD;
+      beneficial in lowering anxiety and pain.&#xD;
+&#xD;
+      Many studies are investigating the usefulness of mobile apps in various medical conditions.&#xD;
+      In rehabilitation medicine, apps are used to increase knowledge about different conditions,&#xD;
+      as a measurement tool, and as an intervention to increase adherence to the prescribed&#xD;
+      therapy.&#xD;
+&#xD;
+      After the enrollment in the study, participants will complete the two-part physical therapy&#xD;
+      program (2x10 sessions, 5times/day, 3-week break in between) under the supervision of a&#xD;
+      physiotherapist at the outpatient clinic. After completing the program, the participants will&#xD;
+      get a home exercise program, group A via mobile app, and group B via papers, and will be&#xD;
+      encouraged to continue exercising at home. Also, group A will download a mobile app, &quot;WIapp,&quot;&#xD;
+      that was developed for this purpose and will receive one daily push notification as a&#xD;
+      reminder to perform a daily exercise at home.&#xD;
+&#xD;
+      The investigators hypothesize that daily reminding to exercise via mobile app can increase&#xD;
+      adherence to prescribed therapy and overall increase recovery.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2023</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Care Provider)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Neck Disability Index from baseline to 6 months after the injury</measure>
+    <time_frame>baseline, 6 months after the injury</time_frame>
+    <description>Physical functioning - where values from 0-8% are regarded as no disability, 10-28% mild disability, 30-48% as moderate disability, 50-68% severe disability, and 70-100% complete disability)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Questionnaire assessment of adherence to exercise</measure>
+    <time_frame>6 months after the injury</time_frame>
+    <description>Adherence to exercise - a 4-point Likert scale regarding weekly exercise completion (classified as: ≥5 sessions/week, 2-4 sessions/week, occasional or no sessions)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Questionnaire assessment of perceived recovery</measure>
+    <time_frame>6-months after the injury</time_frame>
+    <description>Perceived recovery - a 3-point Likert scale on perceived recovery (where 1 indicates non-recovery and 3 indicates full recovery)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Visual Analog Scale (VAS) Pain Score from baseline to 6 months after the injury</measure>
+    <time_frame>baseline, 6 months after the injury</time_frame>
+    <description>Pain intensity - ranging from 0 = no pain, to 10 = maximum pain</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pain catastrophizing scale</measure>
+    <time_frame>baseline</time_frame>
+    <description>Psychological functioning - (score range from 0-50, a score of 30 or more represents clinically significant level of catastropihizing)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Short Form Health Survey 12</measure>
+    <time_frame>baseline</time_frame>
+    <description>Quality of life - With this questionnaire, it is possible to quantitatively compare physical, psychological, and social consequences caused by impaired health. The score for each question is transformed into standard values and placed on the scale from 0 to 100 (the higher the score the better health) and thus get two major dimensions of health: physical (Physical Common Score-PCS)and mental health (Mental Common Score-MCS).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Questionnaire assessment of social functioning</measure>
+    <time_frame>baseline</time_frame>
+    <description>A 5-point Likert scale regarding interference of physical or emotional problems with social function (where 1 indicates constant interference and 5 indicates never)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Questionnaire assessment work</measure>
+    <time_frame>baseline, 6 months after the injury</time_frame>
+    <description>The assessment of work with a work status information, a work-time loss and 6-point Likert scale (where 1 indicates normal work capability and 6 indicates no working capability9</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pain catastrophizing scale</measure>
+    <time_frame>6 months after the injury</time_frame>
+    <description>Psychological functioning - (score range from 0-50, a score of 30 or more represents clinically significant level of catastropihizing)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Short Form Health Survey 12</measure>
+    <time_frame>6 months after the injury</time_frame>
+    <description>Quality of life - With this questionnaire, it is possible to quantitatively compare physical, psychological, and social consequences caused by impaired health. The score for each question is transformed into standard values and placed on the scale from 0 to 100 (the higher the score the better health) and thus get two major dimensions of health: physical (Physical Common Score-PCS)and mental health (Mental Common Score-MCS).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Questionnaire assessment of social functioning</measure>
+    <time_frame>6 months after the injury</time_frame>
+    <description>A 5-point Likert scale regarding interference of physical or emotional problems with social function (where 1 indicates constant interference and 5 indicates never)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Whiplash Injury of Cervical Spine</condition>
+  <arm_group>
+    <arm_group_label>Mobile app (WIapp) group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Standard physical therapy program: 2x10 sessions, 5 times a week, 3-week break in between;&#xD;
+Mobile app with instructions on exercise at home and daily reminder to exercixse</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Standard physical therapy program: 2x10 sessions, 5 times a week, 3-week break in between, written instructions on exercises at home</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Reminder to exercise</intervention_name>
+    <description>Exercise support: Daily, at 7 p.m. patients will get a notification with a reminder to exercise. The app includes photographs of exercises, with instructions, that patients can look at and read if they forget which exercises they need to do and how.</description>
+    <arm_group_label>Mobile app (WIapp) group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  patients who sustained whiplash injury of the neck in a car accident as drivers or&#xD;
+             co-drivers&#xD;
+&#xD;
+          -  diagnosed with a whiplash injury of the neck by physical and rehabilitation medicine&#xD;
+             specialist within 3 months&#xD;
+&#xD;
+          -  Neck Disability Index (NDI) score higher than 5 (10%)&#xD;
+&#xD;
+          -  possession of and ability to use a smartphone and a mobile app&#xD;
+&#xD;
+          -  age ≥ 18 years&#xD;
+&#xD;
+          -  signed written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  bone fracture sustained in the accident&#xD;
+&#xD;
+          -  spinal cord injury&#xD;
+&#xD;
+          -  accident in any other type of vehicle other than car&#xD;
+&#xD;
+          -  treatment of malignant disease in the last 5 years&#xD;
+&#xD;
+          -  expected non-compliance (not possible to use a smartphone because of severe mental or&#xD;
+             physical impairment)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Aljinović</last_name>
+    <role>Study Director</role>
+    <affiliation>University Hospital Split</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>University Hospital Split</last_name>
+    <phone>+38521556111</phone>
+    <email>office@kbsplit.hr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University Hospital Split</name>
+      <address>
+        <city>Split</city>
+        <zip>21000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Croatia</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 19, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 27, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>January 27, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 27, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Split, School of Medicine</investigator_affiliation>
+    <investigator_full_name>Blaz Barun</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Whiplash</keyword>
+  <keyword>Adherence</keyword>
+  <keyword>Recovery</keyword>
+  <keyword>Mobile app</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Wounds and Injuries</mesh_term>
+    <mesh_term>Whiplash Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9128">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05704712</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R01CA262894</org_study_id>
+    <secondary_id>R01CA262894</secondary_id>
+    <nct_id>NCT05704712</nct_id>
+  </id_info>
+  <brief_title>Exercise Incentives for YMCA Based Exercise</brief_title>
+  <official_title>Empirical Testing of a Widely Available Insurance-based Monetary Incentive Program for Exercise: A Randomized Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Brown University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Brown University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators will conduct a randomized controlled trial to test financial incentive&#xD;
+      programs (versus control) to promote physical activity among 330 adults who have a YMCA&#xD;
+      membership. Participants will have the opportunity to earn up to $100 or $200 (depending on&#xD;
+      the condition they are assigned to) for attending at least 50 sessions at the YMCA over 6&#xD;
+      months. Participants will have two 6-month windows during which they will have the&#xD;
+      opportunity to earn the incentive. In addition to the incentives, participants will complete&#xD;
+      research assessments every 3 months.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 16, 2023</start_date>
+  <completion_date type="Anticipated">June 30, 2026</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Number of YMCA visits</measure>
+    <time_frame>Baseline, 6 months, 12 months, 24 months</time_frame>
+    <description>Number of sessions (max 1 per day) a person signs into the YMCA</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Accelerometry</measure>
+    <time_frame>Measured at baseline, and months 3, 6, 9, and 12.</time_frame>
+    <description>Minutes of physical activity weighted by intensity, expressed in metabolic equivalent (MET) minutes per week as determined by accelerometers (Actigraph [model wGT3x-BT]) worn during one-week periods.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Self-report physical activity (Godin)</measure>
+    <time_frame>Measured at baseline, and months 3, 6, 9, and 12.</time_frame>
+    <description>Self-reported minutes of leisure time physical activity (inside and outside the YMCA) per week weighted by intensity</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change in Self-Reported Habit of Physical Activity Questionnaire</measure>
+    <time_frame>Measured at baseline, and months 3, 6, 9, and 12.</time_frame>
+    <description>Measures a person's habits regarding exercise, with a minimum value of 1 and a maximum value of 7, higher scores indicate a stronger habit.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Anticipated Regret Questionnaire</measure>
+    <time_frame>Measured at baseline, and months 3, 6, 9, and 12.</time_frame>
+    <description>Measures a person's anticipated feelings of remorse if they do not do exercise, or achieve the incentives, on a scale from 1-11, with higher scores indicating more anticipated regret.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Opportunity Questionnaire</measure>
+    <time_frame>Measured at baseline, and months 3, 6, 9, and 12.</time_frame>
+    <description>Measures a person's opportunity to do regular aerobic physical activity, with scores ranging from 1-7, and higher scores indicating more opportunity for physical activity.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Capability Questionnaire</measure>
+    <time_frame>Measured at baseline, and months 3, 6, 9, and 12.</time_frame>
+    <description>Measures a person's physical and psychological capability to do regular aerobic physical activity with scores ranging from 1-7, and higher scores indicating more capability for physical activity.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Exercise Facility Use Questionnaire</measure>
+    <time_frame>Measured at baseline, and months 3, 6, 9, and 12.</time_frame>
+    <description>Measures access and membership to fitness facilities.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Physical Activity Hedonic/Reflective Motivation</measure>
+    <time_frame>Measured at baseline, and months 3, 6, 9, and 12.</time_frame>
+    <description>Measures the extent to which a person's motivation for physical activity is rooted in reflective and/or hedonic processes. There are two subscales. The hedonic subscale ranges from 0-10, with higher scores indicating more hedonic motivation for physical activity. The reflective subscale ranges from 0-10 with higher scores indicating more reflective motivation for physical activity.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Subjective Social Status</measure>
+    <time_frame>Measured at baseline, and months 3, 6, 9, and 12.</time_frame>
+    <description>Measures a person's perception of their subjective social status</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Reward Responsiveness</measure>
+    <time_frame>Measured at baseline, and months 3, 6, 9, and 12.</time_frame>
+    <description>Measures the extent to which a person is responsive to external rewards</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Consideration of Future Consequences</measure>
+    <time_frame>Measured at baseline, and months 3, 6, 9, and 12.</time_frame>
+    <description>Measures the extent to which a person considers the future (delayed) consequences of their actions</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Delay Discounting</measure>
+    <time_frame>Measured at baseline, and months 3, 6, 9, and 12.</time_frame>
+    <description>Measures the extent to which a person discounts future rewards and prioritizes immediate rewards</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Loss Aversion</measure>
+    <time_frame>Measured at baseline, and months 3, 6, 9, and 12.</time_frame>
+    <description>Measures the extent to which a person chooses actions in an attempt to avoid experiencing losses</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Overall Health (SF-12 Survey)</measure>
+    <time_frame>Measured at baseline, and months 3, 6, 9, and 12.</time_frame>
+    <description>Measures a person's perception of their overall health and quality of life, scores range from 1-5 with higher scores indicating poorer health outcomes.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Quality of Life and Health Status (EQ-5D-5L)</measure>
+    <time_frame>Measured at baseline, and months 3, 6, 9, and 12.</time_frame>
+    <description>The EQ-5D-5L comprises a short descriptive system questionnaire and a visual analogue scale (EQ VAS) that are cognitively undemanding, taking only a few minutes to complete. The questionnaire provides a simple descriptive profile of a respondent's health state. The EQ VAS provides an alternative way to elicit an individual's rating of their own overall current health. When the descriptive system profile is linked to a 'value set', a single summary index value for health status is derived that can be used in economic evaluations of health-care interventions. A value set provides values (weights) for each health state description according to the preferences of the general population of a country/region. Value sets for the EQ-5D-5L and 3L versions are available in a large and growing number of countries.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Absenteeism and Presenteeism</measure>
+    <time_frame>Measured at baseline, and months 3, 6, 9, and 12.</time_frame>
+    <description>Measures the amount of time a person worked and was expected to work in the past 7-28 days; and their perceived job performance when at work</description>
+  </other_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">330</enrollment>
+  <condition>Physical Inactivity</condition>
+  <arm_group>
+    <arm_group_label>Message 1 - $100</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants are offered an incentive of $100 to complete 50 exercise sessions at the YMCA within 6 months (Description of incentive 1)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Message 2 - $100</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants are offered an incentive of $100 to complete 50 exercise sessions at the YMCA within 6 months (Description of incentive 2).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Message 1 - $200</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants are offered an incentive of $200 to complete 50 exercise sessions at the YMCA within 6 months (Description of incentive 1).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Message 2 - $200</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants are offered an incentive of $200 to complete 50 exercise sessions at the YMCA within 6 months (Description of incentive 2).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants complete all assessments, and are eligible to receive compensation for participating in the research components of the study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Monetary Incentives</intervention_name>
+    <description>Monetary incentives, provided in the form of pre-loaded Visa debit cards are provided to encourage exercise.</description>
+    <arm_group_label>Message 1 - $100</arm_group_label>
+    <arm_group_label>Message 1 - $200</arm_group_label>
+    <arm_group_label>Message 2 - $100</arm_group_label>
+    <arm_group_label>Message 2 - $200</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. A current member, or willing to become a current member of one of the following&#xD;
+             branches of the YMCA:&#xD;
+&#xD;
+               1. Bayside Family YMCA (Barrington, RI)&#xD;
+&#xD;
+               2. Cranston YMCA (Cranston, RI)&#xD;
+&#xD;
+               3. East Side/Mt. Hope YMCA (Providence, RI)&#xD;
+&#xD;
+               4. Kent County YMCA (Warwick, RI)&#xD;
+&#xD;
+               5. Newman YMCA (Seekonk, MA)&#xD;
+&#xD;
+               6. South County YMCA (South Kingston, RI)&#xD;
+&#xD;
+          2. Age 18 years or older&#xD;
+&#xD;
+          3. Physically capable of engaging in exercise&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Not a current member, and unwilling to become a member of one of the above listed YMCA&#xD;
+             branches.&#xD;
+&#xD;
+          2. Under age 18.&#xD;
+&#xD;
+          3. Physically incapable of exercise&#xD;
+&#xD;
+          4. Doctor has recommended that you should not exercise because of a current health&#xD;
+             condition&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David M Williams, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Brown University School of Public Health</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Omar Galarraga, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Brown University School of Public Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lauren C Bohlen, Ph.D.</last_name>
+    <phone>401-863-6559</phone>
+    <email>exercise4good@brown.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Viveka Ayala-Heredia</last_name>
+    <phone>401-206-5403</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Brown University</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lauren Connell Bohlen, PhD</last_name>
+      <phone>401-863-6559</phone>
+      <email>lauren_bohlen@brown.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2023</verification_date>
+  <study_first_submitted>January 9, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 27, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>June 2, 2023</last_update_submitted>
+  <last_update_submitted_qc>June 2, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 5, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Brown University</investigator_affiliation>
+    <investigator_full_name>David M. Williams</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Incentives</keyword>
+  <keyword>Motivation</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>De-identified data will be shared with interested parties after all of the initial study analyses and outcomes have been published.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Data will be available 1 year after study completion.</ipd_time_frame>
+    <ipd_access_criteria>All data access requests will be reviewed by a panel prior to acceptance</ipd_access_criteria>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>December 12, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/12/NCT05704712/ICF_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

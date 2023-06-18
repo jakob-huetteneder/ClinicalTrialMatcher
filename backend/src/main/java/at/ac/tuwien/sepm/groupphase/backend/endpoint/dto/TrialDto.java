@@ -1,11 +1,10 @@
 package at.ac.tuwien.sepm.groupphase.backend.endpoint.dto;
 
+import at.ac.tuwien.sepm.groupphase.backend.entity.Trial;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
-import at.ac.tuwien.sepm.groupphase.backend.entity.enums.TrialStatus;
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
-
 
 import java.time.LocalDate;
 import java.util.List;
@@ -28,7 +27,7 @@ public record TrialDto(
     @NotBlank(message = "Collaborator must not be blank")
     String collaborator,
     @NotNull(message = "Status must not be null")
-    TrialStatus status,
+    Trial.Status status,
     @NotBlank(message = "Location must not be blank")
     String location,
     @NotNull(message = "Gender must not be null")

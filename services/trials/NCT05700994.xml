@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9297">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05700994</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PEER-CM</org_study_id>
+    <nct_id>NCT05700994</nct_id>
+  </id_info>
+  <brief_title>Peer Engagement in Methamphetamine Harm-Reduction With Contingency Management (PEER-CM)</brief_title>
+  <official_title>Peer Engagement in Methamphetamine Harm-Reduction With Contingency Management (PEER-CM)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Oregon Health and Science University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Comagine Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Oregon Health Authority</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Oregon Health and Science University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main goal of this study is to tests the effect of incentivizing achievement of&#xD;
+      self-identified, personal harm reduction goals (Contingency management or CM) compared with&#xD;
+      standard of care (peer harm reduction service with incentives for peer visits) to increase&#xD;
+      the reach and effectiveness of methamphetamine (MA) harm reduction services.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Using a hybrid type 1 effectiveness-implementation framework and stepped-wedge design, this&#xD;
+      study will randomize eighteen community-based peer harm reduction sites to provide&#xD;
+      contingency management incentives for achieving self-identified harm reduction goals set with&#xD;
+      peer specialists using a participant-driven harm reduction goal-setting process (e.g.&#xD;
+      completing overdose prevention and supply training, daily life goals, treatment and care&#xD;
+      goals, relationship and social support goals) versus standard of care contingency management&#xD;
+      (i.e. incentives for peer encounter attendance).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2023</start_date>
+  <completion_date type="Anticipated">September 30, 2026</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>This is a cluster-randomized pragmatic trial using a hybrid type 1 effectiveness-implementation framework and stepped-wedge design.</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants who overdose</measure>
+    <time_frame>6 months from baseline</time_frame>
+    <description>Test the impact of incentives for achieving self-identified, personal harm reduction goals on the likelihood of overdose among people using methamphetamine at 6 months from enrollment identified through completed assessment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants who achieve self-identified goals</measure>
+    <time_frame>6 months from baseline</time_frame>
+    <description>Determine whether incentives for achieving self-identified, personal harm reduction goals increases engagement with harm reduction services at 6 months from enrollment identified through completed assessment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants who engage in substance use disorder treatment</measure>
+    <time_frame>6 months from baseline</time_frame>
+    <description>Determine whether incentives for achieving self-identified, personal harm reduction goals increases engagement with treatment services at 6 months from enrollment identified through completed assessment.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1800</enrollment>
+  <condition>Methamphetamine Abuse</condition>
+  <arm_group>
+    <arm_group_label>PEER-CM</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Peer-facilitated contingency management (PEER-CM).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of Care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Standard of care contingency management.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Peer Contingency Management</intervention_name>
+    <description>Participants allocated to peer-facilitated contingency management will receive incentives for achieving self-identified harm reduction goals set with peer specialists using a participant-driven harm reduction goal-setting process (e.g. completing overdose prevention and supply training, daily life goals, treatment and care goals, relationship and social support goals)</description>
+    <arm_group_label>PEER-CM</arm_group_label>
+    <other_name>PEER-CM</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Standard of Care Contingency Management</intervention_name>
+    <description>Participants allocated to standard of care contingency management will receive incentives for peer encounters.</description>
+    <arm_group_label>Standard of Care</arm_group_label>
+    <other_name>Standard of Care</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        This intervention is at the site level. Community-based organization sites are eligible if&#xD;
+        they:&#xD;
+&#xD;
+          -  Use peer support specialists to provide direct outreach and harm reduction services to&#xD;
+             people who use drugs&#xD;
+&#xD;
+          -  Are willing to be trained in the two strategies for peer-facilitated contingency&#xD;
+             management&#xD;
+&#xD;
+        De-identified administrative data is used to identify an analytic sample of clients who:&#xD;
+&#xD;
+        • Reported past 30-day methamphetamine use at community-based organization intake.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Community-based organization sites who:&#xD;
+&#xD;
+          -  Do not use peer support specialists to provide direct outreach and harm reduction&#xD;
+             services to people who use drugs&#xD;
+&#xD;
+          -  Are not willing to be trained in the two strategies for peer-facilitated contingency&#xD;
+             management&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>105 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Todd Korthuis, MD, MPH</last_name>
+    <phone>503494-8044</phone>
+    <email>korthuis@ohsu.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sara McCrimmon, MPH</last_name>
+    <email>mccrimmo@ohsu.edu</email>
+  </overall_contact_backup>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>February 28, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 28, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 2, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Oregon Health and Science University</investigator_affiliation>
+    <investigator_full_name>P. Todd Korthuis, MD</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

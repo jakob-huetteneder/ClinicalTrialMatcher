@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9264">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05701735</url>
+  </required_header>
+  <id_info>
+    <org_study_id>USTH-BCI-RO-2022-02</org_study_id>
+    <nct_id>NCT05701735</nct_id>
+  </id_info>
+  <brief_title>Decision Aid for Chemotherapy in Cisplatin-Intolerant Patients With Locally Advanced Cervical Cancer</brief_title>
+  <acronym>CECIL</acronym>
+  <official_title>Patient Decision Aid for Chemotherapy or Exclusion in Cisplatin-Intolerant Patients With Locally Advanced Cervical Cancer (CECIL): Development, Validation and Clinical Testing</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Santo Tomas Hospital, Philippines</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Santo Tomas - Graduate School</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Santo Tomas - Faculty of Medicine and Surgery</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Santo Tomas Hospital - Benavides Cancer Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Philippine Council for Health Research &amp; Development</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Manila Doctors Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Santo Tomas Hospital, Philippines</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to investigate the utility and effectiveness of a decision&#xD;
+      aid in cisplatin-intolerant patients with locally advanced cervical cancer.&#xD;
+&#xD;
+      The main questions it aims to answer are:&#xD;
+&#xD;
+        1. What is the effectiveness of the decision aid in reducing decisional conflict?&#xD;
+&#xD;
+        2. What is the utility of the decision aid in preparing for decision-making?&#xD;
+&#xD;
+      Participants will be asked to accomplish the Decisional Conflict Scale before and after using&#xD;
+      the decision aid.&#xD;
+&#xD;
+      Researchers will compare patients given routine care and the decision aid with patients given&#xD;
+      routine care to see if the decision aid reduces decisional conflict.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In locally advanced cervical cancer (LACC), adding chemotherapy (ChT) to radiotherapy (RT)&#xD;
+      improves survival at the cost of increased toxicity. Among patients with cisplatin&#xD;
+      contraindications, compliance to RT may be compromised. Shared decision-making (SDM) allows&#xD;
+      for more patient engagement in the decision-making process and decision implementation&#xD;
+      planning. In cancer-related decision-making, patient decision aids (PtDA) facilitate the SDM&#xD;
+      process and have increased patient knowledge and satisfaction and decreased decisional&#xD;
+      conflict and attitudinal barriers improved patient satisfaction and treatment compliance.&#xD;
+&#xD;
+      The CECIL study is a two-phase study to develop, validate and test the effectiveness of a&#xD;
+      PtDA for cisplatin-intolerant LACC patients faced with the decision of adding ChT to RT.&#xD;
+      Phase 1 is a mixed-methods study to develop a PtDA prototype and determine its content&#xD;
+      validity and user acceptability. Phase 2 is a nonrandomized sequential comparison group&#xD;
+      pretest-post-test trial to determine its effectiveness in reducing decisional conflict and&#xD;
+      its utility in preparing for decision-making. Adult women with biopsy-proven untreated LACC&#xD;
+      with cisplatin contraindications will be included in this trial.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 20, 2023</start_date>
+  <completion_date type="Anticipated">December 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Phase 1: Embedded mixed-methods design Phase 2: Quasi-experimental, non-randomized, sequential comparison-group pretest-posttest design</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+    <masking_description>Given the nature of the intervention, true blinding could not be done on the participant, who is also the assessor. Blinding is necessary to control for participant expectation bias and participant performance bias. Therefore, the control group will not be made aware of a subsequent experimental group, and the experimental group will not be made aware of a prior control group.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Decisional conflict</measure>
+    <time_frame>Prior to the second consultation visit (for treatment decision and implementation planning), usually within one week</time_frame>
+    <description>Decisional Conflict Scale (DCS) scores of ≥25 will indicate significant decisional conflict. The proportion of participants having pretest (baseline) and posttest decisional conflict scores of ≥25 for each group will be reported.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Utility in preparation for decision-making</measure>
+    <time_frame>After use of the patient decision aid and prior to the second consultation visit (for treatment decision and implementation planning), usually within one week</time_frame>
+    <description>For the experimental group, the overall utility of the decision will be measured using the Preparation for Decision-Making Scale (PDMS). This will be reported as the averaged individual user mean scores using the PDMS and the confidence interval.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">45</enrollment>
+  <condition>Locally Advanced Cervical Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Routine care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Routine in-house workflow for initial and follow-up consultation, disclosure of diagnosis, and apprisal and counseling regarding treatment options</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patient decision aid</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Routine in-house workflow for initial and follow-up consultation, disclosure of diagnosis, and apprisal and counseling regarding treatment options plus provision of a decision aid after the initial consultation</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>CECIL Patient Decision Aid</intervention_name>
+    <description>The CECIL patient decision aid explicitly identifies the disease, the index decision, and the treatment options, describes the positive and negative features and consequences of each option, and guides the patient in examining personal values and preferences, to arrive at a quality and realistic decision.&#xD;
+The decision aid will be developed and validated according to the guidelines and standards published by the International Patient Decision Aids Standards (IPDAS) Collaboration.</description>
+    <arm_group_label>Patient decision aid</arm_group_label>
+    <other_name>Decision Support Intervention</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Squamous, adeno- or adenosquamous histology&#xD;
+&#xD;
+          -  International Federation of Gynaecology and Obstetrics (FIGO) Stage I-B3, II-A2, II-B&#xD;
+             to IV-A&#xD;
+&#xD;
+          -  Contraindication to ChT, including but not limited to hydronephrosis, renal or cardiac&#xD;
+             dysfunction, frailty, or refusal&#xD;
+&#xD;
+          -  Grade 6 level English literacy&#xD;
+&#xD;
+          -  Informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Other histologies&#xD;
+&#xD;
+          -  Metastatic disease&#xD;
+&#xD;
+          -  Other active cancers&#xD;
+&#xD;
+          -  Prior cancer EXCEPT for a cancer treated curatively, in remission for ≥5 years, with&#xD;
+             low recurrence risk; adequately treated lentigo maligna or non-melanoma skin cancer&#xD;
+             without evidence of disease; or adequately treated carcinoma-in-situ without evidence&#xD;
+             of disease&#xD;
+&#xD;
+          -  Prior pelvic radiotherapy, brachytherapy, or chemotherapy&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Cognitive impairment or psychological disturbance limiting study compliance&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Warren Bacorro, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Santo Tomas Hospital - Benavides Cancer Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Warren Bacorro, MD</last_name>
+    <phone>+639171665927</phone>
+    <email>warren.bacorro.gs@ust.edu.ph</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Manila Doctors Hospital</name>
+      <address>
+        <city>Manila</city>
+        <state>NCR</state>
+        <zip>1000</zip>
+        <country>Philippines</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Warren Bacorro, MD</last_name>
+      <email>warren.bacorro.gs@ust.edu.ph</email>
+    </contact>
+    <contact_backup>
+      <last_name>Aida Bautista, MD</last_name>
+      <email>aidabautista85@yahoo.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Warren Bacorro, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Aida Bautista, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Santo Tomas Hospital</name>
+      <address>
+        <city>Manila</city>
+        <state>NCR</state>
+        <zip>1008</zip>
+        <country>Philippines</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Warren Bacorro, MD</last_name>
+      <email>warren.bacorro.gs@ust.edu.ph</email>
+    </contact>
+    <contact_backup>
+      <last_name>Teresa Sy Ortin, MD</last_name>
+      <email>ttsy-ortin@ust.edu.ph</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Warren Bacorro, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Teresa Sy Ortin, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Gil Gonzalez, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Philippines</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>December 27, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>April 4, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 4, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Santo Tomas Hospital, Philippines</investigator_affiliation>
+    <investigator_full_name>Warren Bacorro</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Patient decision aid</keyword>
+  <keyword>Cervical cancer</keyword>
+  <keyword>Chemotherapy</keyword>
+  <keyword>Radiotherapy</keyword>
+  <keyword>Elderly</keyword>
+  <keyword>Renal failure</keyword>
+  <keyword>Decisional conflict</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Uterine Cervical Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All data generated in this study will remain confidential and will be stored securely at the University of Santo Tomas Hospital - Benavides Cancer Institute and will be made available upon request and upon approval of the study team.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Five years after study completion</ipd_time_frame>
+    <ipd_access_criteria>Data will only be made available to people directly involved with the study or requesting and approved parties who have signed a Confidentiality Agreement.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9498">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05696613</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTH-PMN-301</org_study_id>
+    <nct_id>NCT05696613</nct_id>
+  </id_info>
+  <brief_title>A Study of SNP-ACTH (1-39) Gel in Patients With Primary Membranous Nephropathy</brief_title>
+  <official_title>A Phase 3 Superiority Study Comparing the Safety and Efficacy of SNP-ACTH (1-39) Gel Compared to Rituximab and FDA Approved Biosimilars in Adults With Primary Membranous Nephropathy (PMN) in a Two-Phase Adaptive Trial Design</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cerium Pharmaceuticals, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cerium Pharmaceuticals, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of the Phase 3a part of this clinical trial is to determine the optimal dose that&#xD;
+      will be used in the Phase 3b part of this clinical trial. The goal of the Phase 3b part is to&#xD;
+      assess the efficacy of SNP-ACTH (1-39) Gel relative to rituximab in patients with primary&#xD;
+      membranous nephropathy (PMN) at month 24.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This head-to-head, open-label, 2-phase superiority trial compares SNP-ACTH (1-39) Gel to&#xD;
+      rituximab in the treatment of PMN that commences with an adaptive trial design for dose&#xD;
+      finding. The trial will be divided into 2 parts: Phase 3a and Phase 3b.&#xD;
+&#xD;
+      Dose finding Phase 3a part of the study will enroll a total of 16 patients randomized to 2&#xD;
+      different dose levels of SNP-ACTH (1-39) Gel treatment for 12 months. Dose levels will be:&#xD;
+&#xD;
+        -  8 patients at 3mg SNP-ACTH Gel subcutaneous (sc) injection 3 times per week;&#xD;
+&#xD;
+        -  8 patients at 5mg SNP-ACTH Gel sc injection 3 times per week&#xD;
+&#xD;
+      Data from the Phase 3a part of the study will be assessed at regular intervals (at months 2,&#xD;
+      3, 4, 5, 6, 9, 12) and will inform the dose selection for the Phase 3b. The optimal dose will&#xD;
+      be determined based on a risk/benefit assessment from data obtained from the Phase 3a part of&#xD;
+      the study, with the earliest assessment being conducted after all patients have completed at&#xD;
+      least 2 months of therapy.&#xD;
+&#xD;
+      The Phase 3b part of the study will enroll 132 patients randomized 1:1 to either 12 months of&#xD;
+      1g Rituximab therapy (2 treatment cycles at month 1 and month 6) or 12 months of SNP-ACTH&#xD;
+      (1-39) Gel treatment at the dose level determined in the Phase 3a.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 13, 2023</start_date>
+  <completion_date type="Anticipated">March 1, 2026</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2025</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in urinary protein (Phase 3a)</measure>
+    <time_frame>Change from baseline, months 1, 2, 3, 4, 5, 6, 9, and 12</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Anti-phospholipase A2 receptor (PLA2R) auto-antibody levels (Phase 3a)</measure>
+    <time_frame>Change from baseline, months 1, 2, 3, 4, 6, and 12</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Complete response of PMN (Phase 3b)</measure>
+    <time_frame>24 months</time_frame>
+    <description>Reduction of proteinuria to ≤0.3 g/24 hours as measured by urine protein/creatinine ratio obtained from a 24-hour urine collection with stable renal function defined as a &lt;15% decline in eGFR at the time of endpoint assessment</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Relapse rate at month 12 and month 24.</measure>
+    <time_frame>12 and 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-PLA2R (or Anti-THSD7A) auto-antibody levels.</measure>
+    <time_frame>12 and 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimated glomerular filtration rate (eGFR) with proteinuria levels.</measure>
+    <time_frame>12 and 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of ADAs</measure>
+    <time_frame>24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients who achieved a complete remission (CR) or partial remission (PR) at month 12.</measure>
+    <time_frame>12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients who achieved a Immunological Response (IR) at month 12.</measure>
+    <time_frame>12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of time to achieving CR, PR, IR.</measure>
+    <time_frame>24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of time to relapse for patients who achieved CR, PR, IR.</measure>
+    <time_frame>12 and 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of time between initial achievement of CR to latest date of observed remission.</measure>
+    <time_frame>24 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">148</enrollment>
+  <condition>Primary Membranous Nephropathy</condition>
+  <arm_group>
+    <arm_group_label>Phase 3a Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>3 mg SNP-ACTH Gel sc injection 3 times per week</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 3a Cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>5 mg SNP-ACTH Gel sc injection 3 times per week</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 3b Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dose level to be confirmed once Phase 3a part is completed</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 3b Cohort 2</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Rituximab arm: Patients randomized to the rituximab arm will receive 1 g IV infusion on T0 (after baseline measures are collected) and day 15. A second course of rituximab 1g IV infusion will be administered 6 months after the first rituximab infusion and an additional 1 g IV infusion 14 days following the first 6-month infusion.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SNP-ACTH (1-39) Gel</intervention_name>
+    <description>Subjects will be randomly assigned in 1:1 treatment allocation ratio to receive the test and reference product.</description>
+    <arm_group_label>Phase 3a Cohort 1</arm_group_label>
+    <arm_group_label>Phase 3a Cohort 2</arm_group_label>
+    <arm_group_label>Phase 3b Cohort 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rituximab</intervention_name>
+    <description>Subjects will be randomly assigned in 1:1 treatment allocation ratio to receive the test and reference product.</description>
+    <arm_group_label>Phase 3b Cohort 2</arm_group_label>
+    <other_name>Rituxan or other biosimilars</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Biopsy-proven membranous glomerulonephritis or a diagnosis of MN in patients with&#xD;
+             Nephrotic Syndrome and a positive anti PLA2R antibody test.&#xD;
+&#xD;
+          -  Patients classified to be at a High Risk for progressive loss of kidney function, as&#xD;
+             defined by Kidney Disease Improving Global Outcomes (KDIGO) 2021-Glomerular Diseases&#xD;
+             Guideline.&#xD;
+&#xD;
+          -  eGFR by Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) formula ≥40&#xD;
+             mL/min/1.73 m^2&#xD;
+&#xD;
+          -  Patients who have had CR or PR in response to immunosuppressive therapy, but then&#xD;
+             relapsed can participate in the study if it has been more than 3 months since their&#xD;
+             last dose of high dose glucocorticoids, calcineurin inhibitors or mycophenolate&#xD;
+             mofetil&#xD;
+&#xD;
+          -  Patients who have had CR or PR in response to IS therapy, but then relapsed can&#xD;
+             participate in the study if it has been more than 6 months since their last dose of&#xD;
+             chlorambucil or cyclophosphamide&#xD;
+&#xD;
+          -  Patients who have had CR or PR in response to immunosuppressive therapy, but then&#xD;
+             relapsed can participate in the study if it has been more than 12 months since their&#xD;
+             last dose of rituximab.&#xD;
+&#xD;
+          -  Life expectancy &gt; 24 months.&#xD;
+&#xD;
+          -  Other inclusion criteria may apply.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Secondary membranous nephropathy as defined by history, physical exam, kidney biopsy&#xD;
+             results or serologies.&#xD;
+&#xD;
+          -  Patients who have had a ≥ 50% reduction in serum titers of PLA2R auto-antibody within&#xD;
+             1 year before screening.&#xD;
+&#xD;
+          -  Type 1 or 2 diabetes mellitus&#xD;
+&#xD;
+          -  Patients who must be initiated on drugs likely to affect renal function if not&#xD;
+             properly dosed.&#xD;
+&#xD;
+          -  Surgery within 1 month of study entry&#xD;
+&#xD;
+          -  History of sensitivity to proteins of porcine origin.&#xD;
+&#xD;
+          -  Other exclusion criteria may apply.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Nancy Klett, MPH</last_name>
+    <phone>703-395-0629</phone>
+    <email>Nancy.Klett@ceriumpharma.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Cerium Clinical Site</name>
+      <address>
+        <city>Boca Raton</city>
+        <state>Florida</state>
+        <zip>33431</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nancy Klett</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2023</verification_date>
+  <study_first_submitted>December 29, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>June 2, 2023</last_update_submitted>
+  <last_update_submitted_qc>June 2, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 5, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Kidney disease</keyword>
+  <keyword>Rituximab</keyword>
+  <keyword>Nephritis</keyword>
+  <keyword>Melanocortin</keyword>
+  <keyword>Hormones</keyword>
+  <keyword>Glucocorticoids</keyword>
+  <keyword>Glomerular Disease</keyword>
+  <keyword>ACTH</keyword>
+  <keyword>PMN</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Kidney Diseases</mesh_term>
+    <mesh_term>Glomerulonephritis, Membranous</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rituximab</mesh_term>
+    <mesh_term>Adrenocorticotropic Hormone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

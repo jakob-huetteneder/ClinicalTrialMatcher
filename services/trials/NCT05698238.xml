@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9417">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05698238</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MP01</org_study_id>
+    <nct_id>NCT05698238</nct_id>
+  </id_info>
+  <brief_title>Clinical Study to Evaluate Safety and Dosing of CA9hu-1 in Patients With Advanced Solid Tumours</brief_title>
+  <acronym>CAMP1</acronym>
+  <official_title>Phase Ib/ll Clinical Study to Evaluate Safety and Dosing of Humanised Monoclonal Antibody CA9hu-1 to Human Carbonic Anhydrase IX in Patients With Advanced Solid Tumours</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mabpro, a.s.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Mabpro, a.s.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Carbonic anhydrase IX (CA IX) has been implicated in the progression of most solid tumours&#xD;
+      and expression has been demonstrated in clinical samples from a variety of solid cancers.&#xD;
+      High expression is often associated with high grade or metastatic disease and poor prognosis.&#xD;
+      CA IX is not expressed in normal tissue, potentially providing a cancer-associated target&#xD;
+      that would not likely result in significant interruption of normal biologic function in&#xD;
+      organs not affected by cancer. A humanized monoclonal antibody CA9hu-1 has shown robust&#xD;
+      activity in a variety of tumour models including models of ovarian, prostate, breast,&#xD;
+      pancreatic, colon and lung where tumour growth and metastasis are inhibited when CA9hu-1 is&#xD;
+      used as a monotherapy. Enhancement of chemotherapy has also been demonstrated in several&#xD;
+      models in combination with CA9hu-1. CA IX is also expressed by tumour-associated cells&#xD;
+      (angiogenic endothelium, tumour-associated macrophages), which also drive cancer progression.&#xD;
+      Thus, targeting CA IX with CA9hu-1 in cancer patients is expected to affect multiple pathways&#xD;
+      and multiple tumour compartments that are important to tumour progression. Taken together,&#xD;
+      there is strong rationale for developing hu-CA91 for the treatment of advanced cancer. The&#xD;
+      present study was designed to establish safety and toxicity profile and maximum tolerated&#xD;
+      dose of CA9hu-1, evaluate pharmacokinetics, investigate the presence of anti-drug antibody,&#xD;
+      to document anti-tumour activity at a clinically relevant dose, and to document the use of&#xD;
+      [18F]FLT-PET as a biomarker for detection of early tumour response at a clinically relevant&#xD;
+      dose.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2024</start_date>
+  <completion_date type="Anticipated">January 2027</completion_date>
+  <primary_completion_date type="Anticipated">January 2026</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of adverse events to CA9hi-1 and grading their severity according to the National Cancer Institute's Common Terminology Criteria for adverse Events (NCI CTCAE) Version 4.02.</measure>
+    <time_frame>6 months</time_frame>
+    <description>The primary objective of this outcome is to establish the safety and toxicity profile of hu-CA91.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of patients reaching the dose levels of 750 mg of CA9hu-1 without any dose limiting toxicities.</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The objective of this outcome is to perform a dose escalation of of CA9hu-1 to levels of 750mg without any dose limiting toxicities.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of patients reaching pharmacologically active dose measurement of CA9hu-1</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The objective of this outcome is to determine number of patients in whom the pharmacologically active dose of CA9hu-1 wil be reached by measurement of plasma concentrations of the CA9hu-1. In order to reach the proposed pharmacologically active dose, the plasma levels of 200 +/- 100 nM are necessary.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum tolerated dose of CA91hu-1</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The objective is to determine a dose at which no more than one patient out of up to six patients at the same dose level experience a highly probable or probable CA9hu-1 related dose limiting toxicity.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Half-life of CA9-hu-1</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Measurement of CA9hu-1 half-life after human administration provides basic PK descriptive data.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peak Plasma Concentration (Cmax) of CA9hu-1</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The measurement of Cmax after CA9hu-1 administration will provide basic PK descriptive parameter of the drug.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the plasma concentration versus time curve (AUC)</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The measurement of AUC after CA9hu-1 administration will provide basic PK parameter of the drug.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-drug antibodies</measure>
+    <time_frame>6 months</time_frame>
+    <description>Analyses of plasma samples for presence of anti-drug antibodies following CA9hu-1 administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-tumour activity of CA9hu-1</measure>
+    <time_frame>6 months</time_frame>
+    <description>Evaluate response (stable disease, partial response or complete response) in any of the patients as determined by the Response Evaluation Criteria in Solid Tumours Version 1.1 (RECIST).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biomarker for detection of early tumour response</measure>
+    <time_frame>6 months</time_frame>
+    <description>Determination of the magnitude of change in apparent standard uptake volume (SUV) calculated from the uptake of FLT by tumour tissue quantified by [18F]FLT-PET during the second cycle of CA9hu-1 treatment and the relation with response</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Clear Cell Renal Cell Carcinoma Metastatic</condition>
+  <condition>TNBC - Triple-Negative Breast Cancer</condition>
+  <condition>Head and Neck Cancer</condition>
+  <condition>Non-small-cell Lung Carcinoma</condition>
+  <condition>Mesothelioma, Malignant</condition>
+  <arm_group>
+    <arm_group_label>Treatment arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CA9hu-1</intervention_name>
+    <description>Humanized monoclonal antibody to human carbonic anhydrase IX</description>
+    <arm_group_label>Treatment arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Written (signed and dated) informed consent and be capable of co-operating with&#xD;
+             treatment and follow-up&#xD;
+&#xD;
+          -  Histologically proven solid tumors (Clear Cell Renal Cell Carcinoma Metastatic,&#xD;
+             Triple-Negative Breast Cancer, Head and Neck Cancer, Non-small-cell Lung Carcinoma,&#xD;
+             Malignant Mesothelioma) refractory to conventional treatment, or for which no&#xD;
+             conventional therapy is considered appropriate by the Investigator or is declined by&#xD;
+             the patient&#xD;
+&#xD;
+          -  Life expectancy of at least 12 weeks&#xD;
+&#xD;
+          -  World Health Organization (WHO) performance status of 0 or 1&#xD;
+&#xD;
+          -  Hematological and biochemical indices within the ranges (hemoglobin ≥9.0 g/dL,&#xD;
+             absolute neutrophil count ≥1.5 x 109/L, platelet count ≥100 x 109/L, bilirubin ≤1.5 x&#xD;
+             upper limit of normal, alanine amino-transferase (ALT) and aspartate amino-transferase&#xD;
+             (AST) ≤ 2.5 x upper limit of normal. These measurements must be performed within one&#xD;
+             week (Day -7 to Day -1) before the patient receives their first infusion of CA9hi-1.&#xD;
+&#xD;
+          -  Calculated creatinine clearance or isotope clearance measurement ≥ 50 mL/min&#xD;
+&#xD;
+          -  PT/APTT ≤1.5 upper limit of normal&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Ongoing toxic manifestations of previous treatments (Grade 2 or greater according to&#xD;
+             NCI-CTCAE v4.02) with the exception of alopecia or certain Grade 2 toxicities, which&#xD;
+             in the opinion of the investigator and CDD should not exclude the patient - these&#xD;
+             should be discussed on a case by case basis&#xD;
+&#xD;
+          -  Symptomatic brain metastases or spinal cord compression&#xD;
+&#xD;
+          -  Patients who have received prior radiotherapy to their lungs will not be eligible for&#xD;
+             this trial.&#xD;
+&#xD;
+          -  Female patients who are able to become pregnant (or already pregnant or lactating).&#xD;
+             However, those patients who have a negative serum or urine pregnancy test before&#xD;
+             enrolment and agree to use two highly effective forms of contraception (oral; injected&#xD;
+             or implanted hormonal contraception and condom; have an intra-uterine device and&#xD;
+             condom; diaphragm with spermicidal gel and condom) effective at the first&#xD;
+             administration of CA9hu-1, throughout the trial and for six months afterwards are&#xD;
+             considered eligible. Breast feeding should be discontinued if the mother is treated&#xD;
+             with CA9hu-1.&#xD;
+&#xD;
+          -  Male patients with partners of child-bearing potential (unless they agree to take&#xD;
+             measures not to father children by using one form of highly effective contraception&#xD;
+             [condom plus spermicide] effective at the first administration of hu-CA91, throughout&#xD;
+             the trial and for six months afterwards). Men with pregnant or lactating partners must&#xD;
+             be advised to use barrier method contraception (for example: condom plus spermicidal&#xD;
+             gel) to prevent exposure to the foetus or neonate.&#xD;
+&#xD;
+          -  Any major surgical procedure within 4 weeks prior to patients scheduled Cycle 1 Day 1,&#xD;
+             any major thoracic or abdominal surgery from which the patient has not yet recovered.&#xD;
+&#xD;
+          -  A serious or non-healing active wound, ulcer, or bone fracture.&#xD;
+&#xD;
+          -  At high medical risk because of non-malignant systemic disease including active&#xD;
+             uncontrolled infection.&#xD;
+&#xD;
+          -  Known to be serologically positive for Hepatitis B, Hepatitis C or Human&#xD;
+             Immunodeficiency Virus (HIV) or who have an active, ongoing infection or an active,&#xD;
+             known or suspected autoimmune disease or on systemic steroids.&#xD;
+&#xD;
+          -  Concurrent congestive heart failure, prior history of class III/ IV cardiac disease&#xD;
+             (New York Heart Association [NYHA]), prior history of cardiac ischemia or prior&#xD;
+             history of cardiac arrhythmia.&#xD;
+&#xD;
+          -  Is a participant or plans to participate in another interventional clinical trial,&#xD;
+             whilst taking part in this Phase I study of CA9hu-1. Participation in an observational&#xD;
+             trial or interventional clinical trial which does not involve administration of an IMP&#xD;
+             and which would not place an unacceptable burden on the patient in the opinion of the&#xD;
+             Investigator and Medical Advisor would be acceptable.&#xD;
+&#xD;
+          -  Any other condition which in the Investigator's opinion would not make the patient a&#xD;
+             good candidate for the clinical trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>January 4, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>March 14, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 14, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 15, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Renal Cell</mesh_term>
+    <mesh_term>Triple Negative Breast Neoplasms</mesh_term>
+    <mesh_term>Mesothelioma</mesh_term>
+    <mesh_term>Mesothelioma, Malignant</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

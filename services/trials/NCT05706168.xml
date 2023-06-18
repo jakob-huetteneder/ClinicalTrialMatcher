@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9056">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05706168</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HSEARS20220714001</org_study_id>
+    <secondary_id>R006</secondary_id>
+    <nct_id>NCT05706168</nct_id>
+  </id_info>
+  <brief_title>Effects of Aerobic Exercise on the Cerebral Arterial System, Cognitive, and Motor Function in Post-stroke Patients.</brief_title>
+  <official_title>A Study to Investigate the Effects of Aerobic Exercise Training (AET) on the Large Intracranial and Extracranial Cerebral Arteries and the Cognitive and Motor Functions in Post Stroke Patients.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Hong Kong Polytechnic University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The Hong Kong Polytechnic University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background: Stroke is the second leading cause of death and disability worldwide and in Hong&#xD;
+      Kong, 6.2% of all registered deaths in 2020 were due to cerebrovascular disease. Exercise&#xD;
+      training has the potential to improve the deconditioned hemodynamic, motor, and cognitive&#xD;
+      functions associated with stroke.&#xD;
+&#xD;
+      Purpose: The proposed study seeks to investigate the effects of AET on the large intracranial&#xD;
+      and extracranial cerebral arteries' morphological and haemodynamic features and the cognitive&#xD;
+      and motor functions in post-stroke chronic patients. Additionally, the study seeks to compare&#xD;
+      the cerebral arteries' features between post-stroke patients and age-matched controls without&#xD;
+      stroke. Furthermore, the project seeks to assess the association between the cerebrovascular&#xD;
+      system changes and the cognitive and motor function changes in post-stroke patients&#xD;
+      undergoing AET.&#xD;
+&#xD;
+      Study Design: A Randomised controlled trial (RCT) in which the post-stroke patients will be&#xD;
+      randomly assigned into three groups consisting of a control group and two AET interventional&#xD;
+      groups (treadmill and cycle ergometer). Each group will target sample size of 20&#xD;
+      participants. The target dosage for the two AET modes will consist of 1.) a session&#xD;
+      duration=30mins, 2.) frequency=3times/week, 3.) high intensity=(60-84% heart rate reserve&#xD;
+      (HHR).4.) Types=Treadmill and cycle ergometer 5.) overall program duration=3months.&#xD;
+&#xD;
+      Data collection methods: Quantitative data on the cerebral arteries' haemodynamic and&#xD;
+      morphological features will be assessed using duplex carotid ultrasound (DCUS) and&#xD;
+      transcranial Doppler (TCD) ultrasound techniques. Montreal cognitive assessment (HK) version&#xD;
+      and six-minute walk test (6MWT) will assess cognitive and motor functions respectively. The&#xD;
+      data will be assessed at three time periods of during the 3 months AET program&#xD;
+&#xD;
+      Significance of the study: The study has the potential to inform the clinical decision making&#xD;
+      process on the usefulness of AET in improving post-stroke chronic patients. Results on&#xD;
+      associations will provide a basis for future work in chronic stroke Rehabilitation functional&#xD;
+      outcome prediction models based on DCUS and TCD ultrasound imaging techniques.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Stroke is a medical condition defined as the &quot;rapidly developing clinical signs of focal (or&#xD;
+      global) disturbance of cerebral function, with symptoms lasting 24 hours or longer or leading&#xD;
+      to death, with no apparent cause other than of vascular origin&quot;. It is characterized by the&#xD;
+      deconditioned hemodynamic, motor, and cognitive functions among other things. The condition&#xD;
+      poses a serious economic and social burden worldwide as it is the second leading cause of&#xD;
+      death and disability. In China, stroke is ranked the number three cause of death following&#xD;
+      malignant tumors and heart disease with a reported death rate of 149.5 per 100,000 and&#xD;
+      accounting for 1.57 million deaths in 2018 whereas, in Hong Kong, 6.2% of all registered&#xD;
+      deaths in 2020 were attributed to cerebrovascular disease.&#xD;
+&#xD;
+      To mitigate the challenges and burden associated with stroke, preventative measures such as&#xD;
+      advocating for healthy living to control the stroke risk factors have been suggested.&#xD;
+      However, despite the presence of such measures, it cannot be argued that stroke occurrence is&#xD;
+      inevitable as evidenced by the above statistics. There is a need, therefore, to come up with&#xD;
+      robust and efficient stroke treatment and management approaches aimed at preventing stroke&#xD;
+      recurrence and improving the survival and quality of life of post-stroke patients.&#xD;
+      Rehabilitation is one such non-pharmacological, therapeutic intervention that is aimed at&#xD;
+      restoring the lost function in the various domains associated with stroke. Since Ischemic&#xD;
+      stroke is a consequence of inadequate blood flow and oxygen to the brain due to&#xD;
+      thromboembolic occlusion, the rehabilitation techniques should therefore target to improve&#xD;
+      the health status of the cerebral arteries (intracranial and extracranial) and restore the&#xD;
+      cognitive and motor function to achieve positive post-stroke outcomes. Among the various&#xD;
+      rehabilitation techniques, Aerobic exercise training (AET) defined as &quot;structured exercise&#xD;
+      programs that involve the rhythmical movement of large muscles for sustained periods&quot;, has&#xD;
+      the potential to restore the deconditioned hemodynamic, cognitive and motor function that&#xD;
+      characterizes the presence of stroke and treadmill training(TT) together with cycle ergometer&#xD;
+      are two such common types of AET.&#xD;
+&#xD;
+      The principal mechanism by which AET may improve cerebrovascular blood flow is through&#xD;
+      increased production of nitric oxide (NO), a known mediator of endothelial function. NO is&#xD;
+      reported to have anti-atherogenic properties that may prevent plaque buildup in the blood&#xD;
+      vessels, hence has the potential to promote positive cerebrovascular morphological changes&#xD;
+      within the large intracranial and extracranial arteries in ischemic stroke patients, key&#xD;
+      attributes necessary for the improvement of post-stroke patients' quality of life and in&#xD;
+      preventing stroke recurrence. There is however limited information on the potential reduction&#xD;
+      in the atherosclerotic plaque among chronic stroke patients undergoing AET. Duplex carotid&#xD;
+      ultrasound (DCUS) and transcranial Doppler ultrasound (TCD) are two non-invasive and&#xD;
+      non-ionizing techniques that can be used to assess the haemodynamic and morphological changes&#xD;
+      within the extracranial and intracranial cerebral arteries respectively. Despite cerebral&#xD;
+      hemodynamics having been demonstrated to play an important role in the occurrence of ischemic&#xD;
+      brain damage, only limited attempts have been made to interrogate the underlying haemodynamic&#xD;
+      changes within the intracranial and extracranial cerebral arteries that are brought about by&#xD;
+      AET in post-stroke patients and how these are associated with the possible changes in both&#xD;
+      motor and cognitive function. The few studies that have assessed the potential&#xD;
+      cerebrovascular system beneficial effects of AET have reported contradictory findings.&#xD;
+&#xD;
+      Despite the contradictory findings, it is imperative to note that these studies have focused&#xD;
+      on assessing the effects of exercise training on only a single hemodynamic parameter, the&#xD;
+      mean flow velocity from (TCD) and there is paucity of evidence on its effect on the&#xD;
+      extracranial cerebral arteries hemodynamic and morphological features. Additionally, Carotid&#xD;
+      ultrasonography scanning techniques have evolved over the recent years with new techniques&#xD;
+      such as carotid arterial stiffness analysis, three-dimensional(3D) vessel wall imaging,&#xD;
+      computer assisted image analysis (CAIA) emerging and these methods have been concluded to&#xD;
+      reliably and accurately assess the extracranial cerebral vessel's morphology in other&#xD;
+      populations apart from chronic stroke patients, hence have the potential to better monitor&#xD;
+      and provide a holistic assessment of the changes that may occur in the extracranial cerebral&#xD;
+      arteries in post stroke patients undergoing aerobic exercise training.&#xD;
+&#xD;
+      Considering the above mentioned diversified and contradictory background, coupled with the&#xD;
+      emerging of advanced ultrasonography techniques, the need to further interrogate the possible&#xD;
+      value of AET in improving cerebral arteries' haemodynamics and morphology as well as&#xD;
+      cognitive and motor function in post-stroke patients using robust study designs,&#xD;
+      incorporating evidence based prescription, whilst utilising a multi-parametric approach&#xD;
+      incorporating, novel CUS techniques to assess the primary outcomes cannot be overemphasized.&#xD;
+      The following aims were formulated based on the above background information.&#xD;
+&#xD;
+      The purpose of the study is to investigate the effects of AET on the large intracranial and&#xD;
+      extracranial cerebral arteries as assessed by novel, multi-parametric Duplex Carotid&#xD;
+      ultrasound (DCUS) techniques and transcranial Doppler (TCD) ultrasound, and on the cognitive&#xD;
+      and motor functions in post-stroke chronic patients. Additionally, the study seeks to compare&#xD;
+      the morphological and hemodynamic features of the large intracranial and extracranial&#xD;
+      cerebral arteries between post stroke patients and age-matched controls without stroke as&#xD;
+      determined by DCUS and TCD ultrasound.&#xD;
+&#xD;
+      The study is a quantitative, prospective randomised controlled trial study involving chronic&#xD;
+      stroke adult patients and age matched non stroke subjects and will be undertaken at the&#xD;
+      ultrasound laboratory of the Hong Kong Polytechnic University from January 2023 to August&#xD;
+      2024. Ethical approval was obtained from the Institutional Review Board (IRB) of the Hong&#xD;
+      Kong Polytechnic University (Ref: HSEARS20220714001). Informed consent will be obtained from&#xD;
+      the patients whilst a coding system will be used to ensure the confidentiality and anonymity&#xD;
+      of the research subjects. Probability sampling involving a simple random technique will be&#xD;
+      employed. Assuming a medium effect size of 0.5, α of 0.05, statistical power of 80% and a 17%&#xD;
+      dropout rate, to achieve the objective of comparing the large intracranial and extracranial&#xD;
+      cerebral arteries morphological and haemodynamic features between the post stroke patients&#xD;
+      and the age-matched non stroke subjects a sample size of 120 subjects is targeted (60 stroke&#xD;
+      patients and 60 Non stroke) as calculated from the G* Power software using the t-test&#xD;
+      (Difference between two independent means). Based on an effect size of 0.59, α of 0.05,&#xD;
+      statistical power of 80%, and a 15% dropout rate, a minimum sample size of 13 subjects in&#xD;
+      each of the three post-stroke groups undergoing AET is required, as calculated from the G*&#xD;
+      Power software using the F test (one-way fixed effects ANOVA).&#xD;
+&#xD;
+      Post stroke chronic patients of Chinese origin with mild to moderate disability who can&#xD;
+      undertake the two AET are targeted to be included in the study. Since age is a confounding&#xD;
+      variable in post-stroke recovery, only patients greater than 50 years old, with &gt; 6months&#xD;
+      from time of stroke onset (chronic stroke patients). To cater for the clinical factor of&#xD;
+      stroke subtype only subjects with ischemic stroke which is the most common stroke subtype&#xD;
+      will be recruited. Patients with insufficient bone windows to allow for TCD assessment and&#xD;
+      those with substantial cardiovascular risk factors to perform AET will also be excluded from&#xD;
+      the study.&#xD;
+&#xD;
+      Carotid ultrasound and transcranial Doppler ultrasound machines will be used to examine the&#xD;
+      large extracranial and intracranial arteries' haemodynamic and morphological features&#xD;
+      respectively. Treadmill and Cycle ergometer equipment will be used for the AET. The carotid&#xD;
+      protocol will involve assessing the extracranial carotid artery morphological parameters&#xD;
+      using novel approaches such as 3D degree of arterial stenosis assessment, arterial stiffness&#xD;
+      analysis, and automated CIMT analysis, whereas the haemodynamic features (mean flow velocity&#xD;
+      (MFV), peak systolic velocity (PSV), end diastolic velocity (EDV), resistive index (RI), and&#xD;
+      pulsatility index (PI) will also be assessed. The TCD ultrasound protocols will involve&#xD;
+      scanning of the bilateral middle cerebral arteries (MCA) through the transtemporal window.&#xD;
+      The spectral Doppler parameters (MFV, PSV, EDV, PI, and RI.) will be measured.&#xD;
+&#xD;
+      The target dosage for the two AET modes will consist of 1.) a session duration=30mins, 2.)&#xD;
+      frequency=3times/week, 3.) high intensity=(60-84% heart rate reserve (HHR).4.)&#xD;
+      Types=Treadmill and cycle ergometer 5.)overall program duration=3months.&#xD;
+&#xD;
+      IBM SPSS (Statistical Package for the Social Science) version 25 statistical package will be&#xD;
+      used for data analysis in this study. Both descriptive and inferential statistics will be&#xD;
+      utilized. The repeated measures ANOVA or non-parametric equivalent Friedman test will be used&#xD;
+      to perform an intra-group assessment of the outcome measures whereas One Way ANOVA will&#xD;
+      perform the between group analysis. The statistical significance will be considered at&#xD;
+      p&lt;0.05. The standardized mean difference (SMD) will be used to quantify the treatment&#xD;
+      benefits or effect of the AET. The effects size shall be categorized as small (0.2-0.5),&#xD;
+      medium (0.5-0.8) or large (≥0.8).&#xD;
+&#xD;
+      Significance of the study.&#xD;
+&#xD;
+      Knowledge on the possible improvement in the large intracranial and extracranial arteries&#xD;
+      haemodynamic and morphological features in post stroke patients following AET can provide a&#xD;
+      measure of the effectiveness of the AET in improving the health outcomes of post-stroke&#xD;
+      patients, and thus assist in the clinical management of these patients. The use of novel,&#xD;
+      multi-parametric ultrasound-based approaches such as 3D arterial stenosis, arterial&#xD;
+      stiffness, and automated CIMT analysis in this subject group will set baseline values that&#xD;
+      can be useful for future research. The study results will also inform the therapists and&#xD;
+      clinicians on the AET modality that is more effective in improving the cerebral arteries&#xD;
+      haemodynamic and morphological features and the cognitive and motor functional outcomes in&#xD;
+      post-stroke patients. The improvement of neurocognitive and motor functioning in post stroke&#xD;
+      patients has important public health implications as this reduce the socioeconomic burden&#xD;
+      associated with the further deterioration of neurocognitive function that has been associated&#xD;
+      with increased risk of dementia and high mortality rates.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2023</start_date>
+  <completion_date type="Anticipated">August 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The post-stroke chronic patients will be randomly assigned into three groups consisting of a non- interventional (control group) and two aerobic exercise interventional groups (treadmill and cycle ergometer). The enrollment for the three groups will be concurrent for the whole duration of the study. The quantitative data on the large extracranial and intracranial cerebral arteries haemodynamic and morphological features as determined by duplex carotid ultrasound and transcranial Doppler ultrasound, and the quantitative data on the cognitive and motor function of the patients will be collected and analysed at 3 time periods (baseline (before intervention), 6 weeks, and 12 weeks)</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>The assessors evaluating the cognitive and motor function will be blinded of the outcomes from duplex carotid ultrasound and transcranial Doppler ultrasound and vice versa.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in the carotid intima media thickness (CIMT) following a 12weeks Aerobic exercise training (AET) programme as assessed by duplex carotid ultrasonography.</measure>
+    <time_frame>Baseline(enrollment) to midpoint of AET at 6weeks and Baseline to end of AET at 12weeks</time_frame>
+    <description>The Carotid intima media thickness (CIMT) for the 3 post stroke subjects groups (control, treadmill, and cycle ergometer) will be assessed using the semi-automated arterial analysis software on the Samsung RS80A ultrasound machine (Samsung Medison Co., Ltd., Republic of Korea)at 3 time periods (Baseline, midpoint at 6weeks, and at 12 weeks corresponding to end of the AET program). The changes in CIMT will be reported as: 1.) Overall Change score= mean differences (MD) between Baseline (enrolment) and end of AET programme (at 12weeks) CIMT absolute values, 2.)Percentage (%) change score= ((overall change score/ mean baseline CIMT values)*100), and 3.)Standardized mean difference (SMD) = (mean difference between change scores in AET group and change scores in control group) divided by the mean standard deviation of the two groups.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in the Carotid arterial stiffness (CAS) following a 12weeks Aerobic exercise training (AET) programme as assessed by duplex carotid ultrasonography.</measure>
+    <time_frame>Baseline(enrollment) to midpoint of AET at 6weeks and Baseline to end of AET at 12weeks</time_frame>
+    <description>The Carotid arterial stiffness (CAS) for the 3 post stroke subjects groups (control, treadmill, and cycle ergometer) will be assessed using the semi-automated arterial analysis software on the Samsung RS80A ultrasound machine (Samsung Medison Co., Ltd., Republic of Korea) at 3 time periods (Baseline, midpoint at 6weeks, and at 12 weeks corresponding to end of the AET program). The changes in CAS will be reported as: 1,) Overall Change score= mean differences (MD) between Baseline (enrolment) and end of AET programme (at 12weeks) CAS Beta Stiffness Index (β) absolute values, 2.) Percentage (%) change score= (overall change score/ mean baseline CAS Beta Stiffness Index (β) values*100), and 3.) Standardized mean difference (SMD) = (overall change score in AET group- change score in control group) divided by the mean standard deviation of the two groups.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in the degree of stenosis following a 12weeks Aerobic exercise training (AET) programme as assessed by duplex carotid ultrasonography.</measure>
+    <time_frame>Baseline(enrollment) to midpoint of AET at 6weeks and Baseline to end of AET at 12weeks</time_frame>
+    <description>The degree of stenosis for the 3 post stroke subjects groups (control, treadmill, and cycle ergometer) will be assessed using the 3D arterial analysis software on the Samsung RS80A ultrasound machine (Samsung Medison Co., Ltd., Republic of Korea) at 3 time periods (Baseline, midpoint at 6weeks, and at 12 weeks (corresponding to end of the AET program). The changes in the degree of stenosis will be reported as: 1.) Overall Change score= mean differences (MD) between Baseline (enrolment) and end of AET programme (at 12weeks) volume stenosis absolute values. 2.) Percentage (%) change score= ((overall change score/ mean baseline volume stenosis values)*100), and 3.) Standardized mean difference (SMD) = (mean difference between change scores in AET group and change scores in control group) divided by the mean standard deviation of the two groups.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in the plaque Gray scale median values (GSM) following a 12weeks Aerobic exercise training (AET) programme as assessed by the Adobe Photoshop software.</measure>
+    <time_frame>Baseline(enrollment) to midpoint of AET at 6weeks and Baseline to end of AET at 12weeks</time_frame>
+    <description>The plaque Gray scale median values for the 3 post stroke subjects groups (control, treadmill, and cycle ergometer) will be assessed using the Adobe Photoshop software at 3 time periods (Baseline, midpoint at 6weeks, and at 12 weeks (corresponding to end of the AET program). The changes in GSM values will be reported as: 1.) Overall Change score= mean differences (MD) between Baseline (enrolment) and end of AET programme (at 12weeks) GSM values. 2.) Percentage (%) change score= ((overall change score/ mean baseline GSM values)*100), and 3.) Standardized mean difference (SMD) = (mean difference between change scores in AET group and change scores in control group) divided by the mean standard deviation of the two groups.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in the cerebral arteries' Peak systolic velocity (PSV) following a 12weeks Aerobic exercise training (AET) programme as assessed by duplex carotid ultrasonography (DCUS) and Transcranial Doppler (TCD) Ultrasonography.</measure>
+    <time_frame>Time Frame: Baseline(enrollment) to midpoint of AET at 6weeks and Baseline to end of AET at 12weeks</time_frame>
+    <description>The cerebral arteries' Peak systolic velocity for the 3 post stroke subjects groups (control, treadmill, and cycle ergometer) will be assessed using Spectral Doppler analysis on the Samsung RS80A ultrasound machine (Samsung Medison Co., Ltd., Republic of Korea) at 3 time periods (Baseline, midpoint at 6weeks, and at 12 weeks corresponding to end of the AET program). The changes in PSV values will be reported as: 1.) Overall Change score= mean differences (MD) between Baseline (enrolment) and end of AET programme (at 12weeks) PSV values. 2.) Percentage (%) change score= ((overall change score/ mean baseline PSV values)*100), and 3.) Standardized mean difference (SMD) = (mean difference between change scores in AET group and change scores in control group) divided by the mean standard deviation of the two groups.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in the cerebral arteries' End diastolic velocity (EDV) following a 12weeks Aerobic exercise training (AET) programme as assessed by duplex carotid ultrasonography.</measure>
+    <time_frame>Time Frame: Baseline(enrollment) to midpoint of AET at 6weeks and Baseline to end of AET at 12weeks</time_frame>
+    <description>The cerebral arteries' End diastolic velocity for the 3 post stroke subjects groups (control, treadmill, and cycle ergometer) will be assessed using Spectral Doppler analysis on the Samsung RS80A ultrasound machine (Samsung Medison Co., Ltd., Republic of Korea) at 3 time periods (Baseline, midpoint at 6weeks, and at 12 weeks corresponding to end of the AET program). The changes in EDV values will be reported as: 1.) Overall Change score= mean differences (MD) between Baseline (enrolment) and end of AET programme (at 12weeks) EDV values. 3.) Percentage (%) change score= ((overall change score/ mean baseline EDV values)*100), and 4.) Standardized mean difference (SMD) = (mean difference between change scores in AET group and change scores in control group) divided by the mean standard deviation of the two groups.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in the cerebral arteries' mean flow velocity (MFV) following a 12weeks Aerobic exercise training (AET) programme as assessed by duplex carotid ultrasonography.</measure>
+    <time_frame>Time Frame: Baseline(enrollment) to midpoint of AET at 6weeks and Baseline to end of AET at 12weeks</time_frame>
+    <description>The cerebral arteries' mean flow velocity for the 3 post stroke subjects groups (control, treadmill, and cycle ergometer) will be assessed using Spectral Doppler analysis on the Samsung RS80A ultrasound machine (Samsung Medison Co., Ltd., Republic of Korea) at 3 time periods (Baseline, midpoint at 6weeks, and at 12 weeks corresponding to end of the AET program). The changes in MFV values will be reported as: 1.) Overall Change score= mean differences (MD) between Baseline (enrolment) and end of AET programme (at 12weeks) MFV values, 2.) Percentage (%) change score= ((overall change score/ mean baseline MFV values)*100), and 3.) Standardized mean difference (SMD) = (mean difference between change scores in AET group and change scores in control group) divided by the mean standard deviation of the two groups.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in the cerebral arteries' Resistivity index (RI) following a 12weeks Aerobic exercise training (AET) programme as assessed by duplex carotid ultrasonography.</measure>
+    <time_frame>Time Frame: Baseline(enrollment) to midpoint of AET at 6weeks and Baseline to end of AET at 12weeks</time_frame>
+    <description>The cerebral arteries' Resistivity Index for the 3 post stroke subjects groups (control, treadmill, and cycle ergometer) will be assessed using Spectral Doppler analysis on the Samsung RS80A ultrasound machine (Samsung Medison Co., Ltd., Republic of Korea) at 3 time periods (Baseline, midpoint at 6weeks, and at 12 weeks corresponding to end of the AET program). The changes in PSV values will be reported as: 1.) Overall Change score= mean differences (MD) between Baseline (enrolment) and end of AET programme (at 12weeks) RI values, 2.) Percentage (%) change score= ((overall change score/ mean baseline RI values)*100), and 3.) Standardized mean difference (SMD) = (mean difference between change scores in AET group and change scores in control group) divided by the mean standard deviation of the two groups.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in the cerebral arteries' Pulsatility index (PI) following a 12weeks Aerobic exercise training (AET) programme as assessed by duplex carotid ultrasonography.</measure>
+    <time_frame>Time Frame: Baseline(enrollment) to midpoint of AET at 6weeks and Baseline to end of AET at 12weeks</time_frame>
+    <description>The cerebral arteries' Pulsatility Index for the 3 post stroke subjects groups (control, treadmill, and cycle ergometer) will be assessed using Spectral Doppler analysis on the Samsung RS80A ultrasound machine (Samsung Medison Co., Ltd., Republic of Korea) at 3 time periods (Baseline, midpoint at 6weeks, and at 12 weeks corresponding to end of the AET program). The changes in PI values will be reported as: 1.) Overall Change score= mean differences (MD) between Baseline (enrolment) and end of AET programme (at 12weeks) PI values, 2.) Percentage (%) change score= ((overall change score/ mean baseline PI values)*100), and 3.) Standardized mean difference (SMD) = (mean difference between change scores in AET group and change scores in control group) divided by the mean standard deviation of the two groups.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in the cognitive function as assessed by Montreal Cognitive assessment Hong Kong version Tool.</measure>
+    <time_frame>Time Frame: Baseline(enrollment) to midpoint of AET at 6weeks and Baseline to end of AET at 12weeks</time_frame>
+    <description>The Montreal Cognitive Assessment Hong Kong version(MCAHKv) scores for the 3 post stroke subjects groups (control, treadmill, and cycle ergometer) will be measured at 3 time periods (Baseline, midpoint at 6weeks, and at 12 weeks (end of the AET program)). The differences between Baseline (enrollment) scores and end of AET at 12weeks scores will represent the overall change score in the cognitive function that may be attributed to AET.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in the cognitive function as assessed by the Stroop word color Test (SWCT)Tool.</measure>
+    <time_frame>Time Frame: Baseline(enrollment) to midpoint of AET at 6weeks and Baseline to end of AET at 12weeks</time_frame>
+    <description>The Stroop color word test (SWCT) scores for the 3 post stroke subjects groups (control, treadmill, and cycle ergometer) will be measured at 3 time periods (Baseline, midpoint at 6weeks, and at 12 weeks (end of the AET program)). The differences between Baseline (enrollment) scores and end of AET at 12weeks scores will represent the overall change score in the cognitive function that may be attributed to AET.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in the motor function as assessed by the six minute walk test</measure>
+    <time_frame>Time Frame: Baseline(enrollment) to midpoint of AET at 6weeks and Baseline to end of AET at 12weeks</time_frame>
+    <description>The 6MWT distance for the 3 post stroke subjects groups (control, treadmill, and cycle ergometer) will be measured at 3 time periods (Baseline, midpoint at 6weeks, and at 12 weeks (end of the AET program)). The differences between Baseline (enrollment) scores and end of AET at 12weeks scores will represent the overall change score in the motor function(endurance) that may be attributed to AET.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in the motor function as assessed by the Timed up and go test(TUG).</measure>
+    <time_frame>Time Frame: Baseline(enrollment) to midpoint of AET at 6weeks and Baseline to end of AET at 12weeks</time_frame>
+    <description>The TUG test walk time for the 3 post stroke subjects groups (control, treadmill, and cycle ergometer) will be measured at 3 time periods (Baseline, midpoint at 6weeks, and at 12 weeks (end of the AET program)). The differences between Baseline (enrollment) scores and end of AET at 12weeks scores will represent the overall change score in the motor function (speed) that may be attributed to AET.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Differences between the post-stroke patients and age-matched non-stroke subjects' carotid intima media thickness (CIMT) as assessed by duplex carotid ultrasonography.</measure>
+    <time_frame>single point-Baseline</time_frame>
+    <description>The Carotid intima media thickness (CIMT) of the post-stroke patients and age-matched non-stroke subjects will be assessed using the semi-automated arterial analysis software on the Samsung RS80A ultrasound machine (Samsung Medison Co., Ltd., Republic of Korea) ultrasonography machine at one time period. The differences in CIMT between the two subject groups will be represented by1.) Absolute and 2.) Percentage (%) differences between the mean CIMT values of the two groups.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Differences between the post-stroke patients and age-matched non-stroke subjects' Carotid arterial stiffness (CAS), Beta Stiffness Index (β) as assessed by duplex carotid ultrasonography.</measure>
+    <time_frame>single point-Baseline</time_frame>
+    <description>The Carotid arterial stiffness (CAS) of the post-stroke patients and age-matched non-stroke subjects are assessed using the semi-automated arterial analysis software on the Samsung RS80A ultrasound machine (Samsung Medison Co., Ltd., Republic of Korea) and compared at one time period. The differences in CAS between the two subject groups will be represented by: 1.) Absolute and 2.) Percentage (%) differences between the mean CAS beta Stiffness Index (β) values of the two groups.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Differences between the post-stroke patients and age-matched non-stroke subjects' degree of volume stenosis as assessed by 3 dimensional(3D) carotid ultrasonography.</measure>
+    <time_frame>single point-Baseline</time_frame>
+    <description>The degree of carotid artery volume stenosis of the post-stroke patients and age-matched non-stroke subjects are assessed using the 3D arterial analysis software on the Samsung RS80A ultrasound machine (Samsung Medison Co., Ltd., Republic of Korea) and compared at one time period. The differences in the degree of volume stenosis between the two subject groups will be represented by the 1.) Absolute and 2.) Percentage (%) differences between the mean volume stenosis of the two groups, and 3.) Differences in proportions of participants with greater than 50% volume stenosis.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Differences between the post-stroke patients and age-matched non-stroke subjects' Plaque Gray scale median (GSM) values as assessed by Adobe Photoshop software.</measure>
+    <time_frame>single point-Baseline</time_frame>
+    <description>The duplex carotid ultrasonography images showing Plaques for both the post-stroke participants and age-matched non-stroke participants will have the plaques GSM values assessed at one time period using an Adobe Photoshop software. 1.) Absolute and 2.) Percentage differences in the Plaque GSM values between the two groups will represent the differences in the Plaque GSM values of the two groups.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Differences between the post-stroke patients and age-matched non-stroke subjects' cerebral arteries Peak systolic velocity (PSV) as assessed by Duplex carotid ultrasonography (DCUS) and Transcranial Doppler (TCD) ultrasonography.</measure>
+    <time_frame>single point-Baseline</time_frame>
+    <description>The cerebral arteries Peak systolic velocity of the post-stroke patients and age-matched non-stroke subjects will be assessed using the Samsung RS80A ultrasound machine (Samsung Medison Co., Ltd., Republic of Korea) Spectral Doppler Analysis (extracranial) and TCD(intracranial). The PSV between the two groups will be compared at one time period. 1.) Absolute and 2.) Percentage (%) differences in the PSV values will represent the differences in the PSV values of the two groups.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Differences between the post-stroke patients and age-matched non-stroke subjects' cerebral arteries End diastolic velocity (EDV) as assessed by Duplex carotid ultrasonography (DCUS) and transcranial Doppler (TCD) ultrasonography.</measure>
+    <time_frame>single point-Baseline</time_frame>
+    <description>The cerebral arteries End diastolic velocity of the post-stroke patients and age-matched non-stroke subjects will be assessed using the Samsung RS80A ultrasound machine (Samsung Medison Co., Ltd., Republic of Korea) Spectral Doppler Analysis (extracranial) and TCD(intracranial). The EDV between the two groups will be compared at one time period. 1.) Absolute and 2.) Percentage (%) differences in the EDV values will represent the differences in the EDV of the two groups.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Differences between the post-stroke patients and age-matched non-stroke subjects' cerebral arteries Mean flow velocity (MFV) as assessed by Duplex carotid ultrasonography (DCUS) and transcranial Doppler (TCD) ultrasonography.</measure>
+    <time_frame>single point-Baseline</time_frame>
+    <description>The cerebral arteries Mean flow velocity of the post-stroke patients and age-matched non-stroke subjects are assessed using the Samsung RS80A ultrasound machine (Samsung Medison Co., Ltd., Republic of Korea) Spectral Doppler Analysis (extracranial) and TCD(intracranial). The MFV between the two groups will be compared at one time period. 1.) Absolute and 2.) Percentage (%) differences in the MFV values will represent the differences in the MFV of the two groups.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Differences between the post-stroke patients and age-matched non-stroke subjects' cerebral arteries Resistivity Index (RI) as assessed by Duplex carotid ultrasonography (DCUS) and transcranial Doppler (TCD) ultrasonography.</measure>
+    <time_frame>single point-Baseline</time_frame>
+    <description>The cerebral arteries Resistivity Index of the post-stroke patients and age-matched non-stroke subjects are assessed using the Samsung RS80A ultrasound machine (Samsung Medison Co., Ltd., Republic of Korea) Spectral Doppler Analysis (extracranial) and TCD(intracranial). The RI between the two groups will be compared at one time period. 1.) Absolute and 2.) Percentage (%) differences in the RI values will represent the differences in the RI of the two groups.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Differences between the post-stroke patients and age-matched non-stroke subjects' cerebral arteries Pulsatility Index (PI) as assessed by Duplex carotid ultrasonography (DCUS) and transcranial Doppler (TCD) ultrasonography.</measure>
+    <time_frame>single point-Baseline</time_frame>
+    <description>The cerebral arteries Pulsatility Index of the post-stroke patients and age-matched non-stroke subjects are assessed using the Samsung RS80A ultrasound machine (Samsung Medison Co., Ltd., Republic of Korea) Spectral Doppler Analysis (extracranial) and TCD(intracranial). The PI between the two groups will be compared at one time period. 1.) Absolute and 2.) Percentage (%) differences in the PI values will represent the differences in the PI of the two groups.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pearson/Spearmen correlation coefficient between changes in carotid intima media thickness (CIMT) as assessed by duplex carotid ultrasonography and changes in Six minute walk distance (6MWD) following 12weeks of Aerobic exercise training (AET).</measure>
+    <time_frame>End of AET at 12 weeks</time_frame>
+    <description>Pearson correlation/ non parametric Spearmen analysis will be used to determine the association between the changes in CIMT (difference between end of AET CIMT and baseline CIMT values) and the changes in the Six minute walk distance (difference between end of AET 6MWD and baseline 6MWD). The measure of the association will be represented by the Pearson/Spearmen correlation coefficient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pearson/Spearmen correlation coefficient between changes in Carotid Arterial stiffness (Beta Stiffness Index (β)) as assessed by duplex carotid ultrasonography and changes in Six minute walk distance (6MWD) after 12weeks of exercise (AET).</measure>
+    <time_frame>End of AET at 12 weeks</time_frame>
+    <description>Pearson correlation/ non parametric Spearmen analysis will be used to determine the association between the changes in CAS (difference between end of AET and baseline Beta Stiffness Index (β) values) and the changes in the Six minute walk distance (difference between end of AET 6MWD and baseline 6MWD). The measure of the association will be represented by the Pearson/Spearmen correlation coefficient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pearson/Spearmen correlation coefficient between Changes in degree of volume stenosis as assessed by duplex carotid ultrasonography and changes in Six minute walk distance (6MWD) following 12weeks of Aerobic exercise training (AET).</measure>
+    <time_frame>End of AET at 12 weeks</time_frame>
+    <description>Pearson correlation/ non parametric Spearmen analysis will be used to determine the association between the changes in the degree of stenosis as assessed by the 3D arterial analysis software on the Samsung RS80A ultrasound machine (Samsung Medison Co., Ltd., Republic of Korea) (difference between end of AET degree of volume stenosis and baseline degree of volume stenosis values) and the changes in the Six minute walk distance (difference between end of AET 6MWD and baseline 6MWD). The measure of the association will be represented by the Pearson/Spearmen correlation coefficient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pearson/Spearmen correlation coefficient between Changes in Plaque Gray scale median (GSM) values and changes in Six minute walk distance (6MWD) following 12weeks of Aerobic exercise training (AET).</measure>
+    <time_frame>End of AET at 12 weeks</time_frame>
+    <description>Pearson correlation/ non parametric Spearmen analysis will be used to determine the association between the changes in the plaque GSM values as assessed by the Adobe Photoshop software (difference between end of AET GSM values and baseline GSM values) and the changes in the Six minute walk distance (difference between end of AET 6MWD and baseline 6MWD). The measure of the association will be represented by the Pearson/Spearmen correlation coefficient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pearson/Spearmen correlation coefficient between changes in Peak systolic velocity (PSV) as assessed by duplex carotid ultrasonography and changes in Six minute walk distance (6MWD) following 12weeks of Aerobic exercise training (AET).</measure>
+    <time_frame>End of AET at 12 weeks</time_frame>
+    <description>Pearson correlation/ non parametric Spearmen analysis will be used to determine the association between the changes in PSV (difference between end of AET PSV and baseline PSV) and the changes in the 6MWD (difference between end of AET 6MWD and baseline 6MWD). The measure of the association will be represented by the Pearson/Spearmen correlation coefficient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pearson/Spearmen correlation coefficient between changes in End diastolic velocity (EDV) as assessed by duplex carotid ultrasonography and changes in Six minute walk distance (6MWD) following 12weeks of Aerobic exercise training (AET).</measure>
+    <time_frame>End of AET at 12 weeks</time_frame>
+    <description>Pearson correlation/ non parametric Spearmen analysis will be used to determine the association between the changes in EDV (difference between end of AET and baseline EDV) and the changes in the 6MWD (difference between end of AET 6MWD and baseline 6MWD). The measure of the association will be represented by the Pearson/Spearmen correlation coefficient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pearson/Spearmen correlation coefficient between changes in Mean Flow velocity (MFV) as assessed by duplex carotid ultrasonography and changes in Six minute walk distance (6MWD) following 12weeks of Aerobic exercise training (AET).</measure>
+    <time_frame>End of AET at 12 weeks</time_frame>
+    <description>Pearson correlation/ non parametric Spearmen analysis will be used to determine the association between the changes in MFV (difference between end of AET MFV and baseline MFV) and the changes in the 6MWD (difference between end of AET 6MWD and baseline 6MWD). The measure of the association will be represented by the Pearson/Spearmen correlation coefficient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pearson/Spearmen correlation coefficient between changes in Resistivity Index (RI) as assessed by duplex carotid ultrasonography and changes in Six minute walk distance (6MWD) following 12weeks of Aerobic exercise training (AET).</measure>
+    <time_frame>End of AET at 12 weeks</time_frame>
+    <description>Pearson correlation/ non parametric Spearmen analysis will be used to determine the association between the changes in RI (difference between end of AET RI and baseline RI) and the changes in the 6MWD (difference between end of AET 6MWD and baseline 6MWD). The measure of the association will be represented by the Pearson/Spearmen correlation coefficient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pearson/Spearmen correlation coefficient between changes in Pulsatility Index (PI) as assessed by duplex carotid ultrasonography and changes in Six minute walk distance (6MWD) following 12weeks of Aerobic exercise training (AET).</measure>
+    <time_frame>End of AET at 12 weeks</time_frame>
+    <description>Pearson correlation/ non parametric Spearmen analysis will be used to determine the association between the changes in PI (difference between end of AET PI and baseline PI) and the changes in the 6MWD (difference between end of AET 6MWD and baseline 6MWD). The measure of the association will be represented by the Pearson/Spearmen correlation coefficient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pearson/Spearmen correlation coefficient between changes in carotid intima media thickness (CIMT) as assessed by carotid ultrasonography and changes in Montreal Cognitive Assessment Hong Kong version score (MoCAHK) after 12weeks of exercise (AET).</measure>
+    <time_frame>End of AET at 12 weeks</time_frame>
+    <description>Pearson correlation/ non parametric Spearmen analysis will be used to determine the association between the changes in CIMT (difference between end of AET and baseline CIMT values) and the changes in the MoCAHK score (difference between end of AET and baseline MoCAHK scores). The measure of the association will be represented by the Pearson/Spearmen correlation coefficient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pearson/Spearmen correlation coefficient between changes in carotid arterial stiffness (CAS) as assessed by duplex carotid ultrasonography and changes in Montreal Cognitive Assessment Hong Kong version score (MoCAHK) after 12weeks of exercise (AET)</measure>
+    <time_frame>End of AET at 12 weeks</time_frame>
+    <description>Pearson correlation/ non parametric Spearmen analysis will be used to determine the association between the changes in CAS (difference between end of AET and baseline CAS Beta Stiffness Index (β) values) and the changes in the MoCAHK score (difference between end of AET and baseline MoCAHK scores). The measure of the association will be represented by the Pearson/Spearmen correlation coefficient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pearson/Spearmen correlation coefficient between changes in the degree of stenosis as assessed by 3D carotid ultrasonography and changes in Montreal Cognitive Assessment Hong Kong version score (MoCAHK) after 12weeks of exercise (AET).</measure>
+    <time_frame>End of AET at 12 weeks</time_frame>
+    <description>Pearson correlation/ non parametric Spearmen analysis will be used to determine the association between the changes in degree of volume stenosis (difference between end of AET and baseline volume stenosis values) and the changes in the MoCAHK score (difference between end of AET and baseline MoCAHK scores). The measure of the association will be represented by the Pearson/Spearmen correlation coefficient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pearson/Spearmen correlation coefficient between changes in Plaque Gray scale median values (GSM) and changes in Montreal Cognitive Assessment Hong Kong version score (MoCAHK) following 12weeks of Aerobic exercise training (AET).</measure>
+    <time_frame>End of AET at 12 weeks</time_frame>
+    <description>Pearson correlation/ non parametric Spearmen analysis will be used to determine the association between the changes in GSM (difference between end of AET and baseline GSM values) and the changes in the MoCAHK score (difference between end of AET and baseline MoCAHK scores). The measure of the association will be represented by the Pearson/Spearmen correlation coefficient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pearson/Spearmen correlation coefficient between changes in Peak systolic velocity (PSV) as assessed by duplex carotid ultrasonography and changes in Montreal Cognitive Assessment Hong Kong version score (MoCAHK) after 12weeks of exercise (AET)</measure>
+    <time_frame>End of AET at 12 weeks</time_frame>
+    <description>Pearson correlation/ non parametric Spearmen analysis will be used to determine the association between the changes in PSV (difference between end of AET and baseline PSV) and the changes in the MoCAHK score (difference between end of AET MoCAHK and baseline MoCAHK scores). The measure of the association will be represented by the Pearson/Spearmen correlation coefficient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pearson/Spearmen correlation coefficient between changes in End diastolic velocity (EDV) as assessed by duplex carotid ultrasonography and changes in Montreal Cognitive Assessment Hong Kong version score (MoCAHK) after 12weeks of exercise (AET).</measure>
+    <time_frame>End of AET at 12 weeks</time_frame>
+    <description>Pearson correlation/ non parametric Spearmen analysis will be used to determine the association between the changes in EDV (difference between end of AET and baseline EDV) and the changes in the MoCAHK score (difference between end of AET MoCAHK and baseline MoCAHK scores). The measure of the association will be represented by the Pearson/Spearmen correlation coefficient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pearson/Spearmen correlation coefficient between changes in Mean Flow velocity (MFV) as assessed by duplex carotid ultrasonography and changes in Montreal Cognitive Assessment Hong Kong version score (MoCAHK) after 12weeks of exercise (AET).</measure>
+    <time_frame>End of AET at 12 weeks</time_frame>
+    <description>Pearson correlation/ non parametric Spearmen analysis will be used to determine the association between the changes in MFV (difference between end of AET and baseline MFV) and the changes in the MoCAHK score (difference between end of AET MoCAHK and baseline MoCAHK scores). The measure of the association will be represented by the Pearson/Spearmen correlation coefficient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pearson/Spearmen correlation coefficient between changes in Resistive Index (RI) as assessed by duplex carotid ultrasonography and changes in Montreal Cognitive Assessment Hong Kong version score (MoCAHK) after 12weeks of exercise (AET).</measure>
+    <time_frame>End of AET at 12 weeks</time_frame>
+    <description>Pearson correlation/ non parametric Spearmen analysis will be used to determine the association between the changes in RI (difference between end of AET and baseline RI) and the changes in the MoCAHK score (difference between end of AET MoCAHK and baseline MoCAHK scores). The measure of the association will be represented by the Pearson/Spearmen correlation coefficient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>: Pearson/Spearmen correlation coefficient between changes in Pulsatility Index (PI) as assessed by duplex carotid ultrasonography and changes in Montreal Cognitive Assessment Hong Kong version score (MoCAHK) after 12weeks of exercise (AET).</measure>
+    <time_frame>End of AET at 12 weeks</time_frame>
+    <description>Pearson correlation/ non parametric Spearmen analysis will be used to determine the association between the changes in PI (difference between end of AET and baseline PI) and the changes in the MoCAHK score (difference between end of AET MoCAHK and baseline MoCAHK scores). The measure of the association will be represented by the Pearson/Spearmen correlation coefficient.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Stroke</condition>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The participants in this category will not undergo any structured exercise training for the duration of the study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treadmill Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The targeted treadmill exercise dosage will consist of 1.)a session duration=30mins, 2.) frequency=3times/wk and 3.) Intensity= (60-84% heart rate reserve (HHR).4.) overall program duration=3months.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cycle ergometer Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The targeted cycling exercise dosage will consist of 1.) a session duration=30mins, 2.) frequency=3times/wk and 3.) Intensity= (60-84% heart rate reserve (HHR).4.) overall program duration=3months.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>treadmill exercise</intervention_name>
+    <description>Treadmill exercise is a form of aerobic exercise training that involves the use of a treadmill machine in a structured exercise programs.</description>
+    <arm_group_label>Treadmill Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Cycle ergometer exercise</intervention_name>
+    <description>Cycle ergometer exercise is a form of aerobic exercise training that involves the use of a stationery recumbent bike in a structured exercise programs.</description>
+    <arm_group_label>Cycle ergometer Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Inclusion criteria post stroke group&#xD;
+&#xD;
+               1. Post stroke adult patients of Chinese origin, who are 50 years old or above,&#xD;
+&#xD;
+               2. Time of stroke onset &gt;6months (chronic),&#xD;
+&#xD;
+               3. Mild to moderate disability to be able to undertake aerobic exercise training&#xD;
+                  (treadmill and stationery cycling),&#xD;
+&#xD;
+               4. Not participating in a structured aerobic exercise training.&#xD;
+&#xD;
+          2. Inclusion criteria Non stroke group.&#xD;
+&#xD;
+               1. Adults of Chinese origin who are 50 years old or above,&#xD;
+&#xD;
+               2. No history of stroke or Transient Ischemic stroke (TIA).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Exclusion criteria post- stroke group&#xD;
+&#xD;
+               1. Non-Chinese nationals,&#xD;
+&#xD;
+               2. Time of stroke onset&lt;6months,&#xD;
+&#xD;
+               3. Below 50 years of age,&#xD;
+&#xD;
+               4. Currently participating in a structured aerobic exercise training,&#xD;
+&#xD;
+               5. Cannot perform treadmill walking or stationery cycling, and&#xD;
+&#xD;
+               6. Allergic to ultrasound gel.&#xD;
+&#xD;
+          2. Exclusion criteria Non-stroke group.&#xD;
+&#xD;
+               1. History of stroke or TIA.,&#xD;
+&#xD;
+               2. Non-Chinese nationals,&#xD;
+&#xD;
+               3. Below 50 years of age, and&#xD;
+&#xD;
+               4. Allergic to ultrasound gel.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael TC Ying, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Hong Kong Polytechnic University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Michael TC Ying, PhD</last_name>
+    <phone>+852 3400 8566</phone>
+    <email>michael.ying@polyu.edu.hk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Simon T Gunda, Msc</last_name>
+    <phone>+85295475054</phone>
+    <email>simon.gunda@connect.polyu.hk</email>
+  </overall_contact_backup>
+  <link>
+    <url>https://www.chp.gov.hk/en/healthtopics/content/25/58.html</url>
+    <description>Centre for Health Protection, 2021. Cerebrovascular Disease. Department of Health, the Government of the Hong Kong Special Administration Region, 2021.</description>
+  </link>
+  <reference>
+    <citation>GBD 2019 Stroke Collaborators. Global, regional, and national burden of stroke and its risk factors, 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019. Lancet Neurol. 2021 Oct;20(10):795-820. doi: 10.1016/S1474-4422(21)00252-0. Epub 2021 Sep 3.</citation>
+    <PMID>34487721</PMID>
+  </reference>
+  <reference>
+    <citation>Li Y, Kwong DL, Wu VW, Yip SP, Law HK, Lee SW, Ying MT. Computer-assisted ultrasound assessment of plaque characteristics in radiation-induced and non-radiation-induced carotid atherosclerosis. Quant Imaging Med Surg. 2021 Jun;11(6):2292-2306. doi: 10.21037/qims-20-1012.</citation>
+    <PMID>34079702</PMID>
+  </reference>
+  <reference>
+    <citation>Pang MY, Charlesworth SA, Lau RW, Chung RC. Using aerobic exercise to improve health outcomes and quality of life in stroke: evidence-based exercise prescription recommendations. Cerebrovasc Dis. 2013;35(1):7-22. doi: 10.1159/000346075. Epub 2013 Feb 14.</citation>
+    <PMID>23428993</PMID>
+  </reference>
+  <reference>
+    <citation>Wang H, Fei L, Xia H, Zhang Q, Huang Y. Diagnostic significance of transcranial doppler combined with carotid ultrasound in patients with cerebral ischemic stroke. Am J Transl Res. 2021 Jun 15;13(6):6980-6986. eCollection 2021.</citation>
+    <PMID>34306452</PMID>
+  </reference>
+  <reference>
+    <citation>Alawieh A, Zhao J, Feng W. Factors affecting post-stroke motor recovery: Implications on neurotherapy after brain injury. Behav Brain Res. 2018 Mar 15;340:94-101. doi: 10.1016/j.bbr.2016.08.029. Epub 2016 Aug 13.</citation>
+    <PMID>27531500</PMID>
+  </reference>
+  <reference>
+    <citation>Bartel L, Mosabbir A. Possible Mechanisms for the Effects of Sound Vibration on Human Health. Healthcare (Basel). 2021 May 18;9(5):597. doi: 10.3390/healthcare9050597.</citation>
+    <PMID>34069792</PMID>
+  </reference>
+  <reference>
+    <citation>Billinger SA, Mattlage AE, Ashenden AL, Lentz AA, Harter G, Rippee MA. Aerobic exercise in subacute stroke improves cardiovascular health and physical performance. J Neurol Phys Ther. 2012 Dec;36(4):159-65. doi: 10.1097/NPT.0b013e318274d082.</citation>
+    <PMID>23111686</PMID>
+  </reference>
+  <reference>
+    <citation>Coupland AP, Thapar A, Qureshi MI, Jenkins H, Davies AH. The definition of stroke. J R Soc Med. 2017 Jan;110(1):9-12. doi: 10.1177/0141076816680121. Epub 2017 Jan 13. No abstract available.</citation>
+    <PMID>28084167</PMID>
+  </reference>
+  <reference>
+    <citation>Ivey FM, Ryan AS, Hafer-Macko CE, Macko RF. Improved cerebral vasomotor reactivity after exercise training in hemiparetic stroke survivors. Stroke. 2011 Jul;42(7):1994-2000. doi: 10.1161/STROKEAHA.110.607879. Epub 2011 Jun 2.</citation>
+    <PMID>21636819</PMID>
+  </reference>
+  <reference>
+    <citation>Johri AM, Nambi V, Naqvi TZ, Feinstein SB, Kim ESH, Park MM, Becher H, Sillesen H. Recommendations for the Assessment of Carotid Arterial Plaque by Ultrasound for the Characterization of Atherosclerosis and Evaluation of Cardiovascular Risk: From the American Society of Echocardiography. J Am Soc Echocardiogr. 2020 Aug;33(8):917-933. doi: 10.1016/j.echo.2020.04.021. Epub 2020 Jun 27.</citation>
+    <PMID>32600741</PMID>
+  </reference>
+  <reference>
+    <citation>Kalkonde YV, Alladi S, Kaul S, Hachinski V. Stroke Prevention Strategies in the Developing World. Stroke. 2018 Dec;49(12):3092-3097. doi: 10.1161/STROKEAHA.118.017384. No abstract available. Erratum In: Stroke. 2019 Sep;50(9):e279.</citation>
+    <PMID>30571438</PMID>
+  </reference>
+  <reference>
+    <citation>Madhavan S, Lim H, Sivaramakrishnan A, Iyer P. Effects of high intensity speed-based treadmill training on ambulatory function in people with chronic stroke: A preliminary study with long-term follow-up. Sci Rep. 2019 Feb 13;9(1):1985. doi: 10.1038/s41598-018-37982-w.</citation>
+    <PMID>30760772</PMID>
+  </reference>
+  <reference>
+    <citation>Maiorana A, O'Driscoll G, Taylor R, Green D. Exercise and the nitric oxide vasodilator system. Sports Med. 2003;33(14):1013-35. doi: 10.2165/00007256-200333140-00001.</citation>
+    <PMID>14599231</PMID>
+  </reference>
+  <reference>
+    <citation>Mitchell CC, Stein JH, Cook TD, Salamat S, Wang X, Varghese T, Jackson DC, Sandoval Garcia C, Wilbrand SM, Dempsey RJ. Histopathologic Validation of Grayscale Carotid Plaque Characteristics Related to Plaque Vulnerability. Ultrasound Med Biol. 2017 Jan;43(1):129-137. doi: 10.1016/j.ultrasmedbio.2016.08.011. Epub 2016 Oct 5.</citation>
+    <PMID>27720278</PMID>
+  </reference>
+  <reference>
+    <citation>Mkoba EM, Sundelin G, Sahlen KG, Sorlin A. The characteristics of stroke and its rehabilitation in Northern Tanzania. Glob Health Action. 2021 Jan 1;14(1):1927507. doi: 10.1080/16549716.2021.1927507.</citation>
+    <PMID>34340643</PMID>
+  </reference>
+  <reference>
+    <citation>Naqvi J, Yap KH, Ahmad G, Ghosh J. Transcranial Doppler ultrasound: a review of the physical principles and major applications in critical care. Int J Vasc Med. 2013;2013:629378. doi: 10.1155/2013/629378. Epub 2013 Dec 12.</citation>
+    <PMID>24455270</PMID>
+  </reference>
+  <reference>
+    <citation>Purkayastha S, Sorond F. Transcranial Doppler ultrasound: technique and application. Semin Neurol. 2012 Sep;32(4):411-20. doi: 10.1055/s-0032-1331812. Epub 2013 Jan 29.</citation>
+    <PMID>23361485</PMID>
+  </reference>
+  <reference>
+    <citation>Treger I, Aidinof L, Lutsky L, Kalichman L. Mean flow velocity in the middle cerebral artery is associated with rehabilitation success in ischemic stroke patients. Arch Phys Med Rehabil. 2010 Nov;91(11):1737-40. doi: 10.1016/j.apmr.2010.08.008.</citation>
+    <PMID>21044719</PMID>
+  </reference>
+  <reference>
+    <citation>Wang YJ, Li ZX, Gu HQ, Zhai Y, Jiang Y, Zhao XQ, Wang YL, Yang X, Wang CJ, Meng X, Li H, Liu LP, Jing J, Wu J, Xu AD, Dong Q, Wang D, Zhao JZ; China Stroke Statistics 2019 Writing Committee. China Stroke Statistics 2019: A Report From the National Center for Healthcare Quality Management in Neurological Diseases, China National Clinical Research Center for Neurological Diseases, the Chinese Stroke Association, National Center for Chronic and Non-communicable Disease Control and Prevention, Chinese Center for Disease Control and Prevention and Institute for Global Neuroscience and Stroke Collaborations. Stroke Vasc Neurol. 2020 Sep;5(3):211-239. doi: 10.1136/svn-2020-000457. Epub 2020 Aug 21.</citation>
+    <PMID>32826385</PMID>
+  </reference>
+  <reference>
+    <citation>Woldeamanuel YW, Oliveira ABD. What is the efficacy of aerobic exercise versus strength training in the treatment of migraine? A systematic review and network meta-analysis of clinical trials. J Headache Pain. 2022 Oct 13;23(1):134. doi: 10.1186/s10194-022-01503-y.</citation>
+    <PMID>36229774</PMID>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 23, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 31, 2023</study_first_posted>
+  <last_update_submitted>January 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The Hong Kong Polytechnic University</investigator_affiliation>
+    <investigator_full_name>Prof. Michael Ying</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>: post stroke</keyword>
+  <keyword>cerebral arteries</keyword>
+  <keyword>aerobic exercise training</keyword>
+  <keyword>duplex carotid ultrasound (DCUS)</keyword>
+  <keyword>transcranial Doppler (TCD) ultrasound.</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

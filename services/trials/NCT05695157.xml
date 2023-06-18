@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9574">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05695157</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CRO-21-149</org_study_id>
+    <secondary_id>CIV-22-09-040607</secondary_id>
+    <secondary_id>SUT 001</secondary_id>
+    <nct_id>NCT05695157</nct_id>
+  </id_info>
+  <brief_title>Clinical Performance and Safety of Suture-TOOL</brief_title>
+  <official_title>Clinical Performance and Safety of Suture-TOOL for Abdominal Wound Closure in Men and Women Patients Undergoing Elective Open Abdominal Surgery</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Suturion AB</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Helsingborgs Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Cross Research S.A.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Suturion AB</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this single arm intervention study is to investigate the safety and performance&#xD;
+      of a suturing device for closure of the midline incision after open abdominal surgery. The&#xD;
+      study population consists of 38 patients selected for open abdominal procedures for malignant&#xD;
+      and benign colorectal disease.&#xD;
+&#xD;
+      The main question it aims to answer is:&#xD;
+&#xD;
+      • If the device facilitates a Suture-Length to Wound-Length (SL/WL) ratio of 4:1&#xD;
+&#xD;
+      Participants laparotomy wound will be closed with the device at the end of the operation and&#xD;
+      closure related data as closure time and SL/WL ratio will be calculated. The wound will be&#xD;
+      assessed for infection during the postoperative stay and the chart will be reviewed for wound&#xD;
+      dehiscence and wound infection.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 10, 2023</start_date>
+  <completion_date type="Anticipated">August 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Single arm prospective interventional study</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of patients with Suture length/Wound length (SL/WL) ratio ≥ 4</measure>
+    <time_frame>Measured during laparotomy closure.</time_frame>
+    <description>SL/WL-ratio of patients laparotomy closures will be calculated by measuring (centimeter) and dividing the length of used suture with the length of the laparotomy wound.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Stitch count</measure>
+    <time_frame>Measured during laparotomy closure</time_frame>
+    <description>Number of stitches used for laparotomy closure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Numbers of sutures used</measure>
+    <time_frame>Counted during laparotomy closure</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incision closure time</measure>
+    <time_frame>Measured during laparotomy closure</time_frame>
+    <description>Time (seconds) from first to last knot during laparotomy closure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Surgeons´ comfort with device during closure</measure>
+    <time_frame>After laparotomy closure</time_frame>
+    <description>VAS assessment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Surgeons´ satisfaction with final closure result</measure>
+    <time_frame>After laparotomy closure</time_frame>
+    <description>VAS assessment</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Incision not following the midline (exposure of rectus muscle)</measure>
+    <time_frame>During the whole study period of up to 8 months</time_frame>
+    <description>Assessment of midline incision</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Thickness of subcutaneous fat</measure>
+    <time_frame>During the whole study period of up to 8 months</time_frame>
+    <description>Measurement of subcutaneous fat (millimeter)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Glove punctures</measure>
+    <time_frame>During the whole study period of up to 8 months</time_frame>
+    <description>Standardized assessment of puncture holes</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Re-operation(s) number</measure>
+    <time_frame>45 days after surgery</time_frame>
+    <description>Chart review</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Reasons for unscheduled post-surgery visits</measure>
+    <time_frame>45 days after surgery</time_frame>
+    <description>Chart review</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Type of adverse effects</measure>
+    <time_frame>During the whole study period of up to 8 months</time_frame>
+    <description>All adverse effects derived by spontaneous, unsolicited reports of the subjects or users/handlers, by observation and by routine open questioning will be collected and reported.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Type of adverse device effects</measure>
+    <time_frame>During the whole study period of up to 8 months</time_frame>
+    <description>Identification of adverse device effects</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Type of device deficiencies</measure>
+    <time_frame>During the whole study period of up to 8 months</time_frame>
+    <description>Identification of device deficiences</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Reasons for device replacement during surgery</measure>
+    <time_frame>During the whole study period of up to 8 months</time_frame>
+    <description>Identification during study period</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Patients with wound infections</measure>
+    <time_frame>45 days after surgery</time_frame>
+    <description>Wound infection postoperatively</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">38</enrollment>
+  <condition>Laparotomy</condition>
+  <condition>Incisional Hernia</condition>
+  <condition>Wound Infection</condition>
+  <condition>Closure Technique</condition>
+  <arm_group>
+    <arm_group_label>Single arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Closure of the abdomen after laparotomy with Suture-TOOL.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Suture-TOOL</intervention_name>
+    <description>Suture device for fast and standardized closure of the abdominal fascia</description>
+    <arm_group_label>Single arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Informed consent: signed written informed consent before inclusion in the&#xD;
+             investigation&#xD;
+&#xD;
+          2. Sex, age: male and female patients, ≥ 18 years old&#xD;
+&#xD;
+          3. Surgery: elective open abdominal surgery for benign or malignant colorectal disease&#xD;
+             through midline incision.&#xD;
+&#xD;
+             Anticipated incision length ≥ 12 cm&#xD;
+&#xD;
+          4. Body Mass Index (BMI): 18 - 40 kg/m2 inclusive&#xD;
+&#xD;
+          5. Full comprehension: ability to comprehend the full nature and purpose of the&#xD;
+             investigation, including possible risks and side effects; ability to co-operate with&#xD;
+             the Investigator and to comply with the requirements of the entire investigation.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Abdominal Surgery: previous abdominal surgery involving the midline&#xD;
+&#xD;
+          2. Physical findings: clinically significant abnormal physical findings which could&#xD;
+             interfere with the objectives of the investigation according to the Investigator's&#xD;
+             opinion; existing midline hernia, cutaneous infection, fistula, psoriasis of abdominal&#xD;
+             skin; morbidly obese patients&#xD;
+&#xD;
+          3. Pre-operative findings: any pre-operative findings identified by the&#xD;
+             surgeon/Investigator that may preclude the conduct of the investigation procedures&#xD;
+&#xD;
+          4. Allergy: history of anaphylaxis to drugs or allergic reactions in general, which the&#xD;
+             Investigator considers could affect the outcome of the investigation&#xD;
+&#xD;
+          5. Diseases: known or identified at surgery disseminated cancer disease; collagen&#xD;
+             diseases and immune deficiency disorders, according to the Investigator's opinion.&#xD;
+             Significant history of renal, hepatic, gastrointestinal, cardiovascular, respiratory,&#xD;
+             skin, haematological, endocrine or neurological diseases that according to the&#xD;
+             Investigator's opinion may interfere with the aim of the investigation&#xD;
+&#xD;
+          6. Life expectancy: life expectancy less than 1 year&#xD;
+&#xD;
+          7. Medications: any medication that could interfere with the investigation procedures or&#xD;
+             investigation outcome, according to the Investigator's opinion. Hormonal&#xD;
+             contraceptives for women are allowed&#xD;
+&#xD;
+          8. Pregnancy and lactation: positive pregnancy test at screening (if applicable);&#xD;
+             pregnant or breastfeeding women&#xD;
+&#xD;
+          9. Vulnerable subjects: Individuals unable to fully understand all aspects of the&#xD;
+             investigation that are relevant to the decision to participate, or who could be&#xD;
+             manipulated or unduly influenced because of a compromised position, expectation of&#xD;
+             benefits or fear of retaliatory response (ISO 14155:2020 §3.55) will be excluded&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marcus Edelhamre, MD Phd</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Region Skåne</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lena Toft, RN</last_name>
+    <phone>+46(0)424061570</phone>
+    <email>lena.toft@skane.se</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Marcus Edelhamre, MD Phd</last_name>
+    <phone>+46(0)424061555</phone>
+    <email>marcus.edelhamre@skane.se</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Helsingborgs Hospital</name>
+      <address>
+        <city>Helsingborg</city>
+        <state>Scania</state>
+        <zip>25187</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marcus Edelhamre, MD Phd</last_name>
+      <phone>+46(0)424061555</phone>
+      <email>marcus.edelhamre@skane.se</email>
+    </contact>
+    <contact_backup>
+      <last_name>Gabriel Börner, MD</last_name>
+      <phone>+46(0)424061276</phone>
+      <email>gabriel.borner@med.lu.se</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <results_reference>
+    <citation>Borner G, Montgomery A. Suture-Tool: A Mechanical Needle Driver for Standardized Wound Closure. World J Surg. 2020 Jan;44(1):95-99. doi: 10.1007/s00268-019-05179-5.</citation>
+    <PMID>31549201</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Borner G, Edelhamre M, Rogmark P, Montgomery A. Suture-TOOL: A suturing device for swift and standardized abdominal aponeurosis closure. Surgery in Practice and Science 2022 11. 100137/doi.org/10.1016</citation>
+  </results_reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 9, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 14, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>January 14, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 14, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Wound Infection</mesh_term>
+    <mesh_term>Incisional Hernia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

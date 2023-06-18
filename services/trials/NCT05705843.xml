@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9071">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05705843</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PRO00035759</org_study_id>
+    <nct_id>NCT05705843</nct_id>
+  </id_info>
+  <brief_title>IO vs IV Vancomycin in Tourniquetless TKA</brief_title>
+  <official_title>Intraosseous Vancomycin vs Intravenous Vancomycin in Tourniquetless Primary Total Knee Arthroplasty</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Methodist Hospital Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The Methodist Hospital Research Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Purpose of this study is to compare the efficacy of intravenous and intraosseous antibiotic&#xD;
+      administration techniques during tourniquetless total knee arthroplasty.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary Objective: Comparable levels of vancomycin will be found in distal femur, proximal&#xD;
+      tibia, and periarticular soft tissues, as well as in systemic levels, between the intravenous&#xD;
+      and intraosseous administration groups.&#xD;
+&#xD;
+      Secondary Objective: Compare 30- and 90-day post-operative complication rates (infection)&#xD;
+      between the control (standard IV administration of vancomycin) versus the interventional&#xD;
+      group (intraosseous administration of vancomycin). The research team hypothesizes that there&#xD;
+      will be no difference in complication (infection) rates between groups&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">January 25, 2023</start_date>
+  <completion_date type="Anticipated">January 25, 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 25, 2024</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This study is a prospective, randomized, single-blinded, controlled trial. The anticipated total number of participants in this study is 20 patients in each treatment arm: 20 patients will be given IV Vancomycin, 20 patients will be given IO vancomycin. This sample size is based on previous studies examining vancomycin concentration in primary TKA between IO vs IV</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+    <masking_description>Participant will be blinded to their mode of vancomycin administration.&#xD;
+Lab will be blinded to which group subject samples come from when doing concentration level testing.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Vancomycin Bone/Tissue Concentrations</measure>
+    <time_frame>immediate post-op</time_frame>
+    <description>Compare levels of vancomycin will be found in distal femur, proximal tibia, and periarticular soft tissues,</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Systemic Vancomycin Concentrations</measure>
+    <time_frame>will be recorded day of surgery</time_frame>
+    <description>Compare systemic vancomycin levels between the intravenous and intraosseous vancomycin administration groups.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>30 day &amp; 90 day post-operative complication rates</measure>
+    <time_frame>30 days post-op, 90 days post-op</time_frame>
+    <description>Monitor charts and clinic visits during the study subject's standard of care postoperative visit schedule and monitor for adverse events including periprosthetic joint infection and wound issues.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Infection, Surgical Site</condition>
+  <arm_group>
+    <arm_group_label>Intravenous Vancomycin Administration</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients will receive the Houston Methodist Hospital orthopedic surgery standard of care pre-operative antibiotic regimen for primary total knee arthroplasty patients. This includes IV antibiotics (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg [12,13] generally 1000-1750mg in 500mL NS).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intraosseous Vancomycin Administration</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision. IV Vancomycin will not be administered preoperatively in this group.&#xD;
+IO vancomycin is administered via an intraosseous cannulation device (Arrow EZ-IO; Teleflex, Morrisville, NC) in the OR after sterile prep and draping has occurred prior to skin incision (500mg in 150mL NS).&#xD;
+Injection will take place into the tibial tubercle (within a pre-specified region) immediately prior to incision.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Intraosseous Vancomycin Injection</intervention_name>
+    <description>• IO vancomycin is administered via an intraosseous cannulation device (Arrow EZ-IO; Teleflex, Morrisville, NC) in the OR after sterile prep and draping has occurred prior to skin incision (500mg in 150mL NS).</description>
+    <arm_group_label>Intraosseous Vancomycin Administration</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Intravenous Vancomycin</intervention_name>
+    <description>IV Vancomycin will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg generally 1000-1750mg in 500mL NS).</description>
+    <arm_group_label>Intravenous Vancomycin Administration</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient is undergoing a primary total knee arthroplasty.&#xD;
+&#xD;
+          -  Patient is able to understand the study design and intervention and gives informed&#xD;
+             consent to participate in the study. No LAR consents will be utilized for this study.&#xD;
+&#xD;
+          -  Age &gt;18 years.&#xD;
+&#xD;
+          -  Total knee arthroplasty performed without the use of a tourniquet.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previous surgery on the knee (including arthroscopic knee surgery)&#xD;
+&#xD;
+          -  BMI above 35&#xD;
+&#xD;
+          -  Contraindication to receiving vancomycin, cefepime, ancef, or other standard of care&#xD;
+             pre-operative antibiotic (allergy, medical issue, etc).&#xD;
+&#xD;
+          -  Inability to locate the tibial tubercle or administer the IO infusion&#xD;
+&#xD;
+          -  Refusal to participate&#xD;
+&#xD;
+          -  Uncontrolled Diabetes Mellitus type 1 or 2, defined as Hemoglobin A1C &gt;7.5.&#xD;
+&#xD;
+          -  Immunocompromised or immunosuppressed patients (HIV, Hep C, End-Stage Renal Disease,&#xD;
+             dialysis, transplant, chemo/radiation treatment in last 6 months, and immunosuppresive&#xD;
+             medications)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Thomas C Sullivan, BS</last_name>
+    <phone>346-238-1603</phone>
+    <email>tsullivan@houstonmethodist.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Haley Goble, MHA</last_name>
+    <phone>7134413930</phone>
+    <email>hmgoble@houstonmethodist.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Houston Methodist Hospital Outpatient Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sonya Hadrigan</last_name>
+      <phone>713-790-3311</phone>
+      <email>irbstaff@houstonmethodist.org</email>
+    </contact>
+    <investigator>
+      <last_name>Timothy S Brown, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Stephen J Incavo, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 19, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 27, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 31, 2023</study_first_posted>
+  <last_update_submitted>January 27, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 27, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The Methodist Hospital Research Institute</investigator_affiliation>
+    <investigator_full_name>Timothy S. Brown</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Vancomycin</keyword>
+  <keyword>Total Knee Arthroplasty</keyword>
+  <keyword>Tourniquetless</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Surgical Wound Infection</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vancomycin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

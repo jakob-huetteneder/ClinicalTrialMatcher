@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9844">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05689021</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MC210503</org_study_id>
+    <secondary_id>NCI-2022-10798</secondary_id>
+    <nct_id>NCT05689021</nct_id>
+  </id_info>
+  <brief_title>CJNJ-67652000 and Prednisone for the Treatment of Men With Metastatic Castration-Resistant Prostate Cancer and SPOP Gene Mutations</brief_title>
+  <official_title>Phase 2 Study of CJNJ-67652000 (Niraparib/Abiraterone Acetate Fixed-Dose Combination) and Prednisone in Patients With Metastatic Castration-Resistant Prostate Cancer Associated With SPOP Mutation With or Without Homologous Recombination Deficiency</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mayo Clinic</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Mayo Clinic</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial tests how well abiraterone acetate/niraparib (CJNJ-67652000&#xD;
+      [niraparib/abiraterone acetate fixed-dose combination]) and prednisone works in treating&#xD;
+      patients with castration-resistant prostate cancer that has spread from where it first&#xD;
+      started (primary site) to other places in the body (metastatic) and who have a mutation in&#xD;
+      the SPOP gene. CJNJ-67652000 (niraparib/abiraterone acetate fixed-dose combination) is a drug&#xD;
+      which stops certain cancer cells from being able to repair themselves from damage, leading to&#xD;
+      the death of the cancer cell. Prednisone is in a class of medications called corticosteroids.&#xD;
+      It is used to reduce inflammation and lower the body's immune response to help lessen the&#xD;
+      side effects of chemotherapy drugs. Giving CJNJ-67652000 and prednisone may kill more tumor&#xD;
+      cells in patients with metastatic prostate cancer than giving these drugs alone.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVE:&#xD;
+&#xD;
+      I. To determine the efficacy of abiraterone acetate/niraparib (CJNJ-67652000&#xD;
+      [niraparib/abiraterone acetate fixed-dose combination]) and prednisone as assessed by&#xD;
+      prostate-specific antigen decline &gt;= 50% (PSA50) response rate in patients with metastatic&#xD;
+      castrate-resistant prostate cancer (mCRPC) who have failed prior treatment with androgen&#xD;
+      receptor (AR)-targeted therapy and have a qualifying, deleterious SPOP mutation.&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. To assess the radiologic progression free survival (rPFS) of CJNJ-67652000&#xD;
+      (niraparib/abiraterone acetate fixed-dose combination) and prednisone treatment in patients&#xD;
+      with mCRPC who have failed prior treatment with AR-targeted therapy and have a qualifying,&#xD;
+      deleterious SPOP mutation.&#xD;
+&#xD;
+      II. To assess best radiographic response using Prostate Cancer Working Group 3 (PCWG3)&#xD;
+      criteria.&#xD;
+&#xD;
+      III. To assess time to prostate specific antigen (PSA) progression. IV. To assess safety and&#xD;
+      tolerability using National Cancer Institute (NCI) Common Toxicity Criteria Version 5.0.&#xD;
+&#xD;
+      CORRELATIVE RESEARCH OBJECTIVES:&#xD;
+&#xD;
+      I. To explore the landscape of genomic alterations occurring after use of CJNJ-67652000&#xD;
+      (niraparib/abiraterone acetate fixed-dose combination) and prednisone.&#xD;
+&#xD;
+      II. To use blood, tissue, or organoid lines for identifying predictive biomarkers of&#xD;
+      response, investigating drug resistance mechanisms, and for future drug efficacy studies.&#xD;
+&#xD;
+      III. To explore the relationship of other genomic alterations in the tumor tissue with&#xD;
+      overall response rate (ORR) and disease progression.&#xD;
+&#xD;
+      OUTLINE:&#xD;
+&#xD;
+      Patients receive CJNJ-67652000 orally (PO) and prednisone PO on study. Patients also undergo&#xD;
+      blood specimen collection, computed tomography (CT) or magnetic resonance imaging (MRI), and&#xD;
+      bone scan throughout the trial.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 1, 2023</start_date>
+  <completion_date type="Anticipated">September 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Prostate specific antigen (PSA) response rate (PSA decline by &gt;= 50% [PSA50])</measure>
+    <time_frame>Baseline to end of treatment</time_frame>
+    <description>PSA50 response rate is defined as &gt; 50% PSA decrease as compared to baseline. The proportion of PSA responses will be estimated by the number of PSA responses divided by the total number of evaluable patients. 95% exact binomial confidence intervals will be computed. The frequency and relative frequency of individual PSA response categories will also be computed. In addition, the maximum percentage change for PSA will be computed and displayed graphically via waterfall plots for individual patients.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Radiologic progression-free survival (rPFS)</measure>
+    <time_frame>From registration until radiologic progression or death due to any cause, assessed up to 2 years</time_frame>
+    <description>The distribution of survival time will be estimated using the method of Kaplan-Meier. In addition, the proportional hazards model will be applied to assess rPFS while adjusting for important baseline covariates.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>Up to 30 days after last treatment dose</time_frame>
+    <description>The maximum grade for each type of adverse event will be recorded for each patient, and frequency tables will be reviewed to determine patterns.&#xD;
+Additionally, the relationship of the adverse event(s) to the study treatment will be taken into consideration. The rate of grade 3 or higher non-hematologic adverse events, and the rate of grade 4 or higher adverse event (hematologic and non-hematologic) will be computed each with a 95% exact binomial confidence interval.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to progression</measure>
+    <time_frame>From registration to the earliest date of documentation of progression, assessed up to 2 years</time_frame>
+    <description>The distribution of progression-free survival will be estimated using the method of Kaplan-Meier.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Castration-Resistant Prostate Carcinoma</condition>
+  <condition>Metastatic Prostate Adenocarcinoma</condition>
+  <condition>Stage IV Prostate Cancer AJCC v8</condition>
+  <arm_group>
+    <arm_group_label>Treatment (CJNJ-67652000 and prednisone)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive CJNJ-67652000 PO and prednisone PO on study. Patients also undergo blood specimen collection, CT or MRI, and bone scan throughout the trial.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Abiraterone Acetate/Niraparib</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Treatment (CJNJ-67652000 and prednisone)</arm_group_label>
+    <other_name>CJNJ-67652000</other_name>
+    <other_name>Niraparib/Abiraterone Acetate</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Biospecimen Collection</intervention_name>
+    <description>Undergo blood specimen collection</description>
+    <arm_group_label>Treatment (CJNJ-67652000 and prednisone)</arm_group_label>
+    <other_name>Biological Sample Collection</other_name>
+    <other_name>Biospecimen Collected</other_name>
+    <other_name>Specimen Collection</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Bone Scan</intervention_name>
+    <description>Undergo technetium-99m bone scan</description>
+    <arm_group_label>Treatment (CJNJ-67652000 and prednisone)</arm_group_label>
+    <other_name>Bone Scintigraphy</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Computed Tomography</intervention_name>
+    <description>Undergo CT scan</description>
+    <arm_group_label>Treatment (CJNJ-67652000 and prednisone)</arm_group_label>
+    <other_name>CAT</other_name>
+    <other_name>CAT Scan</other_name>
+    <other_name>Computed Axial Tomography</other_name>
+    <other_name>Computerized Axial Tomography</other_name>
+    <other_name>Computerized Tomography</other_name>
+    <other_name>CT</other_name>
+    <other_name>CT Scan</other_name>
+    <other_name>tomography</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Magnetic Resonance Imaging</intervention_name>
+    <description>Undergo MRI</description>
+    <arm_group_label>Treatment (CJNJ-67652000 and prednisone)</arm_group_label>
+    <other_name>Magnetic Resonance</other_name>
+    <other_name>Magnetic Resonance Imaging Scan</other_name>
+    <other_name>Medical Imaging, Magnetic Resonance / Nuclear Magnetic Resonance</other_name>
+    <other_name>MR</other_name>
+    <other_name>MR Imaging</other_name>
+    <other_name>MRI</other_name>
+    <other_name>MRI Scan</other_name>
+    <other_name>NMR Imaging</other_name>
+    <other_name>NMRI</other_name>
+    <other_name>Nuclear Magnetic Resonance Imaging</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Prednisone</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Treatment (CJNJ-67652000 and prednisone)</arm_group_label>
+    <other_name>.delta.1-Cortisone</other_name>
+    <other_name>1, 2-Dehydrocortisone</other_name>
+    <other_name>Adasone</other_name>
+    <other_name>Cortancyl</other_name>
+    <other_name>Dacortin</other_name>
+    <other_name>DeCortin</other_name>
+    <other_name>Decortisyl</other_name>
+    <other_name>Decorton</other_name>
+    <other_name>Delta 1-Cortisone</other_name>
+    <other_name>Delta-Dome</other_name>
+    <other_name>Deltacortene</other_name>
+    <other_name>Deltacortisone</other_name>
+    <other_name>Deltadehydrocortisone</other_name>
+    <other_name>Deltasone</other_name>
+    <other_name>Deltison</other_name>
+    <other_name>Deltra</other_name>
+    <other_name>Econosone</other_name>
+    <other_name>Lisacort</other_name>
+    <other_name>Meprosona-F</other_name>
+    <other_name>Metacortandracin</other_name>
+    <other_name>Meticorten</other_name>
+    <other_name>Ofisolona</other_name>
+    <other_name>Orasone</other_name>
+    <other_name>Panafcort</other_name>
+    <other_name>Panasol-S</other_name>
+    <other_name>Paracort</other_name>
+    <other_name>Perrigo Prednisone</other_name>
+    <other_name>PRED</other_name>
+    <other_name>Predicor</other_name>
+    <other_name>Predicorten</other_name>
+    <other_name>Prednicen-M</other_name>
+    <other_name>Prednicort</other_name>
+    <other_name>Prednidib</other_name>
+    <other_name>Prednilonga</other_name>
+    <other_name>Predniment</other_name>
+    <other_name>Prednisone Intensol</other_name>
+    <other_name>Prednisonum</other_name>
+    <other_name>Prednitone</other_name>
+    <other_name>Promifen</other_name>
+    <other_name>Rayos</other_name>
+    <other_name>Servisone</other_name>
+    <other_name>SK-Prednisone</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male &gt;= 18 years of age&#xD;
+&#xD;
+          -  Histological confirmation of adenocarcinoma of the prostate&#xD;
+&#xD;
+          -  Qualifying deleterious SPOP mutation detected on any archival genomic assay (tissue&#xD;
+             and/or liquid biopsy) is acceptable for study inclusion. Qualifying mutation(s) of&#xD;
+             SPOP include any genomic change predicted to be deleterious or suspected deleterious.&#xD;
+             SPOP status must be established prior to involvement on the trial&#xD;
+&#xD;
+          -  Evidence of metastatic castration-resistant prostate cancer, defined as at least one&#xD;
+             (1) documented metastatic lesion on either bone scan or CT scan. Bone only disease is&#xD;
+             acceptable for enrollment. Non-bone metastatic lesions must be measurable by Response&#xD;
+             Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria. Subjects whose disease&#xD;
+             spread is limited to regional pelvic lymph nodes or local recurrence (e.g. bladder,&#xD;
+             rectum) are not eligible&#xD;
+&#xD;
+          -  Radiographic or PSA progression while on androgen deprivation therapy (or after&#xD;
+             bilateral orchiectomy) AND at least one prior AR-targeted therapy (abiraterone&#xD;
+             acetate, enzalutamide, apalutamide, darolutamide or investigational AR-targeted&#xD;
+             agents). PSA progression is a PSA increase that is &gt;= 25% and &gt;= 2 ng/mL above the&#xD;
+             nadir, and which is confirmed by a second value (minimum 1 week interval between&#xD;
+             tests). For radiographic progression of soft tissue lesions, modified RECIST 1.1&#xD;
+             criteria will be used to qualify entry. For radiographic progression of bony disease,&#xD;
+             two new lesions must be seen as per PCWG3 criteria. No confirmatory scan of bone&#xD;
+             progression is required prior to study entry&#xD;
+&#xD;
+          -  A maximum of one line of prior taxane (docetaxel or cabazitaxel) chemotherapy will be&#xD;
+             allowed, but is not required&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0, 1 or 2&#xD;
+&#xD;
+          -  Surgically or medically castrated, with serum testosterone levels of =&lt; 50 ng/dL (1.73&#xD;
+             nM). For patients currently being treated with luteinizing hormone-releasing hormone&#xD;
+             (LHRH) analogs (ie, patients who have not undergone an orchiectomy), therapy must be&#xD;
+             continued throughout the study&#xD;
+&#xD;
+          -  Absolute neutrophil count (ANC) &gt;= 1500/mm^3 (within 14 days prior to registration)&#xD;
+&#xD;
+          -  Platelet count &gt;= 100,000/mm^3 (within 14 days prior to registration)&#xD;
+&#xD;
+          -  Hemoglobin &gt;= 10 g/dL independent of transfusion within 14 days&#xD;
+&#xD;
+          -  Total bilirubin =&lt; 1.5 x upper limit of normal (ULN) (In subjects with Gilbert's&#xD;
+             syndrome, if total bilirubin is &gt; 1.5 x ULN, measure direct and indirect bilirubin,&#xD;
+             and if direct bilirubin is =&lt; 1.5 x ULN, subject may be eligible as determined by the&#xD;
+             medical monitor) (within 14 days prior to registration)&#xD;
+&#xD;
+          -  Alanine aminotransferase (ALT) =&lt; 3 x ULN (within 14 days prior to registration)&#xD;
+&#xD;
+          -  Aspartate transaminase (AST) =&lt; 3 x ULN (within 14 days prior to registration)&#xD;
+&#xD;
+          -  Calculated creatinine clearance &gt;= 45 ml/min using the Cockcroft-Gault formula (within&#xD;
+             14 days prior to registration)&#xD;
+&#xD;
+          -  Male patients who are committed to undertaking the following measures for the duration&#xD;
+             of the study and after the last dose of CJNJ-67652000 (niraparib/abiraterone acetate&#xD;
+             fixed-dose combination) for the time period specified:&#xD;
+&#xD;
+               -  Use a condom during sex while being treated and for 90 days after the last dose&#xD;
+                  of CJNJ-67652000 (niraparib/abiraterone acetate fixed-dose combination)&#xD;
+&#xD;
+               -  Do not make semen donations during treatment and for 90 days after the last dose&#xD;
+                  of CJNJ-67652000 (niraparib/abiraterone acetate fixed-dose combination)&#xD;
+&#xD;
+               -  Those with female partners of childbearing potential may be enrolled if they are:&#xD;
+&#xD;
+                    -  Documented to be surgically sterile (ie, vasectomy);&#xD;
+&#xD;
+                    -  Committed to practicing true abstinence during treatment and for 90 days&#xD;
+                       after the last CJNJ-67652000 (niraparib/abiraterone acetate fixed-dose&#xD;
+                       combination) dose; or&#xD;
+&#xD;
+                    -  Committed to using an effective method of contraception with their partner&#xD;
+                       during treatment and for 90 days following the last dose of CJNJ-67652000&#xD;
+                       (niraparib/abiraterone acetate fixed-dose combination)&#xD;
+&#xD;
+          -  Provide written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior treatment with PARP inhibitor or platinum chemotherapy&#xD;
+&#xD;
+          -  Historical or current diagnosis of myelodysplastic syndrome or myeloid malignancy&#xD;
+&#xD;
+          -  Any of the following prior therapies:&#xD;
+&#xD;
+               -  Surgery =&lt; 3 weeks prior to registration&#xD;
+&#xD;
+               -  Chemotherapy =&lt; 2 weeks prior to registration&#xD;
+&#xD;
+          -  Co-morbid systemic illnesses or other severe concurrent disease which, in the judgment&#xD;
+             of the investigator, would make the patient inappropriate for entry into this study or&#xD;
+             interfere significantly with the proper assessment of safety and toxicity of the&#xD;
+             prescribed regimens&#xD;
+&#xD;
+          -  Clinician assessed prognosis of less than 16 weeks&#xD;
+&#xD;
+          -  Human immunodeficiency virus (HIV) positive subjects with 1 or more of the following:&#xD;
+&#xD;
+               -  Not receiving highly active antiretroviral therapy&#xD;
+&#xD;
+               -  Receiving antiretroviral therapy that may interfere with the study drug (consult&#xD;
+                  the sponsor for review of medication prior to enrollment)&#xD;
+&#xD;
+               -  A change in antiretroviral therapy within 6 months of the start of screening&#xD;
+                  (except if, after consultation with the sponsor-investigator on exclusion&#xD;
+                  criterion, a change is made to avoid a potential drug-drug interaction with the&#xD;
+                  study drug)&#xD;
+&#xD;
+               -  CD4 count &lt; 350 at screening&#xD;
+&#xD;
+               -  An acquired immunodeficiency syndrome-defining opportunistic infection within 6&#xD;
+                  months of the start of screening&#xD;
+&#xD;
+          -  Uncontrolled intercurrent illness including, but not limited to:&#xD;
+&#xD;
+               -  Ongoing or active infection&#xD;
+&#xD;
+               -  Symptomatic congestive heart failure (left ventricular ejection fraction [LVEF] &lt;&#xD;
+                  50% or New York Heart Association [NYHA] class III or IV heart failure)&#xD;
+&#xD;
+               -  Unstable angina pectoris&#xD;
+&#xD;
+               -  Cardiac arrhythmia&#xD;
+&#xD;
+               -  Myocardial infarction within the last 6 months&#xD;
+&#xD;
+               -  Uncontrolled hypertension (systolic blood pressure &gt;= 160 mmHg or diastolic blood&#xD;
+                  pressure [BP] &gt;= 95 mmHg). Subjects with a history of hypertension are allowed&#xD;
+                  provided blood pressure is controlled by anti-hypertensive treatment&#xD;
+&#xD;
+               -  Or psychiatric illness/social situations that would limit compliance with study&#xD;
+                  requirements&#xD;
+&#xD;
+          -  Receiving any other investigational agent which would be considered as a treatment for&#xD;
+             the primary neoplasm&#xD;
+&#xD;
+          -  Other active malignancy =&lt; 3 years prior to registration&#xD;
+&#xD;
+               -  EXCEPTIONS: Non-melanotic skin cancer, carcinoma-in-situ of the cervix, or&#xD;
+                  malignancy not expected to require therapy (systemic or radiation) in the next 1&#xD;
+                  year&#xD;
+&#xD;
+          -  History of myocardial infarction =&lt; 6 months&#xD;
+&#xD;
+          -  Symptomatic brain metastases&#xD;
+&#xD;
+          -  Current evidence of any of the following:&#xD;
+&#xD;
+               -  Any medical condition that would make prednisone use contraindicated&#xD;
+&#xD;
+               -  Any chronic medical condition requiring a higher dose of corticosteroid than 10&#xD;
+                  mg prednisone (or equivalent once daily&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alan H Bryce</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mayo Clinic</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Mayo Clinic in Arizona</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85259</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Clinical Trials Referral Office</last_name>
+      <phone>855-776-0015</phone>
+      <email>mayocliniccancerstudies@mayo.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Alan H. Bryce, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>January 9, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 9, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>April 24, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 24, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prostatic Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prednisone</mesh_term>
+    <mesh_term>Cortisone</mesh_term>
+    <mesh_term>Abiraterone Acetate</mesh_term>
+    <mesh_term>Niraparib</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

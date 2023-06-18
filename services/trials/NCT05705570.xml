@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9083">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05705570</url>
+  </required_header>
+  <id_info>
+    <org_study_id>30173220.5.0000.0071</org_study_id>
+    <nct_id>NCT05705570</nct_id>
+  </id_info>
+  <brief_title>A Phase I Clinical Trial Using Genetically Engineered Autologous T Cells to Express Chimeric Antigen Receptor (CAR) for Treatment of Patients With Refractory or Relapsed CD19-positive B Lymphoid Malignancies</brief_title>
+  <acronym>CARTHIAE-1</acronym>
+  <official_title>A Phase I Clinical Trial Using Genetically Engineered Autologous T Cells to Express Chimeric Antigen Receptor (CAR) for Treatment of Patients With Refractory or Relapsed CD19-positive B Lymphoid Malignancies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital Israelita Albert Einstein</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Miltenyi Biotec, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hospital Israelita Albert Einstein</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase l, single arm, prospective open, dose-escalation study in patients with&#xD;
+      relapsed or refractory CD19-positive B cell malignancies (ALL, NHL, CLL). The trial will&#xD;
+      include adult and pediatric patients. There will be three individual cohorts, defined by&#xD;
+      disease biology: pediatric ALL and aggressive pediatric NHL (Cohort 1), adult ALL (Cohort 2)&#xD;
+      and adult NHL/CLL (Cohort 3).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      We will evaluate the safety of the MB-CART19.1 and determine the recommended dose levels for&#xD;
+      the Phase II clinical trial.&#xD;
+&#xD;
+      Dose evaluation will start in Cohorts 1 and 2 with Dose Level 1 (5x10e5 CAR T cells/Kg) and&#xD;
+      in Cohort 3 with Dose Level 2 1x10e6 CAR T cells/Kg) , sparing Dose Level 1 . Each of the&#xD;
+      cohorts will evaluate the safety of the CAR-T cells.&#xD;
+&#xD;
+      In each dose level of each of the three cohorts three 3 + 3 patients will be treated. A&#xD;
+      particular dose level will be expanded to 6 patients if one patient out of 3 patients treated&#xD;
+      at that particular dose level develops DLT. Once this occurs, further dose-escalations are&#xD;
+      halted until the dose has proven to be safe in the expanded cohort. If 2 or more in a cohort&#xD;
+      of 6 patients develop DLT no further dose escalation is allowed, and the next lower dose&#xD;
+      level will be expanded to 6 patients in total. The highest dose among the dose levels tested&#xD;
+      at which no more than one out of six patients experiences DLT will be considered the MTD. In&#xD;
+      Dose Level 3, three additional patients will be treated, if no DLT occurred. Dose Level 0&#xD;
+      will be tested only if Dose Level 1 is not tolerable.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2023</start_date>
+  <completion_date type="Anticipated">December 1, 2028</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>A phase I study, with a &quot;3+3&quot; dose escalation design</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Determination of the recommended dose of CAR-T cells for a future phase II study</measure>
+    <time_frame>Until day 28 after CAR-T cells infusion</time_frame>
+    <description>The RP2D will be the maximum tolerated dose (MTD) or the highest dose studied if an MTD is not obtained.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Response to treatment for each timepoint.</measure>
+    <time_frame>day 28</time_frame>
+    <description>ORR in ALL (Rate of CR/CRh)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Response to treatment for each timepoint</measure>
+    <time_frame>day 28, patients not in CR on day 28: month 3</time_frame>
+    <description>ORR in NHL/CLL (Rate of CR/CRh)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess overall survival (OS), progression-free survival (PFS).</measure>
+    <time_frame>at 1 year after CAR-T infusion</time_frame>
+    <description>Overall survival (OS) and progression-free survival (PFS) will be assessed by dose cohort and in the first two groups at the MTD (or at the highest dose studied).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phenotype and persistence of CAR-T</measure>
+    <time_frame>days 2, 7, 10, 14, 28, weeks 8, 12, months 6, 12, 24, 36, 48, 60</time_frame>
+    <description>Blood samples for determination of persistence/phenotyping of infused CAR-T cells will be analysed.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Acute Lymphoblastic Leukemia, in Relapse</condition>
+  <condition>Acute Lymphoblastic Leukemia Refractory</condition>
+  <condition>B-cell Lymphoma Recurrent</condition>
+  <condition>B-cell Lymphoma Refractory</condition>
+  <condition>Chronic Lymphocytic Leukemia Recurrent</condition>
+  <condition>Chronic Lymphocytic Leukemia Refractory</condition>
+  <arm_group>
+    <arm_group_label>Cyclophosphamide + Fludarabine + Infusion of CAR-T Cells</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Lymphodepleting regimen, consisting of Cyclophosphamide 60mg/kg IV on day -6 and Fludarabine 25mg/m2 IV on days -5 to -3. Followed by infusion of Chimeric antigen receptor T-cells (CAR-T) on day 0</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclophosphamide</intervention_name>
+    <description>Cyclophosphamide 60mg/Kg on day -6</description>
+    <arm_group_label>Cyclophosphamide + Fludarabine + Infusion of CAR-T Cells</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fludarabine</intervention_name>
+    <description>Fludarabine 25mg/m^2 IV on days -5 to -3</description>
+    <arm_group_label>Cyclophosphamide + Fludarabine + Infusion of CAR-T Cells</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Chimeric antigen receptor T cells to be implemented in a &quot;3 + 3&quot; design on day 0</intervention_name>
+    <description>Level -1 (1 x 105 cells/kg)&#xD;
+Level 1 [Starting dose] (5 x 105 cells/kg)&#xD;
+Level 2 (1 x 106 cells/kg)&#xD;
+Level 3 (2 x 106 cells/kg)</description>
+    <arm_group_label>Cyclophosphamide + Fludarabine + Infusion of CAR-T Cells</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Subjects must have relapsed or refractory ALL, lymphoma or CLL treated with at least&#xD;
+             two lines of therapy. Disease must have either progressed after the last regimen or&#xD;
+             presented failure to achieve partial or complete remission with the last regimen.&#xD;
+&#xD;
+             Subjects with Philadelphia Chromosome positive acute lymphoblastic leukemia (Ph+ALL)&#xD;
+             subjects are eligible if they progressed, had stable disease or relapsed after two&#xD;
+             lines of therapy, including tyrosine kinase inhibitors (TKIs).&#xD;
+&#xD;
+             Subjects with DLBCL must have progressed, had SD, or recurred after initial treatment&#xD;
+             regimens that include an anthracycline and an anti-CD20 monoclonal antibody.&#xD;
+&#xD;
+             Subjects with transformed FL, MZL, or CLL/SLL must have progressed, had SD or recurred&#xD;
+             with transformed disease after initial treatment for DLBCL.&#xD;
+&#xD;
+             Subjects who relapse ≥12 months after therapy should have progressed after autologous&#xD;
+             transplant or been ineligible for autologous transplant.&#xD;
+&#xD;
+          2. 2. The patient's disease must be CD19 positive, either by immunohistochemistry or flow&#xD;
+             cytometry analysis on the last biopsy available.&#xD;
+&#xD;
+          3. Age 2 to 70 years.&#xD;
+&#xD;
+          4. Performance status: Adult Subjects: ECOG ≤ 2 for patients ≥ 16 years; Subjects &lt; 16&#xD;
+             years of age: lansky ≥ 50%&#xD;
+&#xD;
+          5. Normal Organ and Marrow Functioning (supportive treatment is allowed according to&#xD;
+             institutional standards, i.e. filgrastim, transfusion)&#xD;
+&#xD;
+             • Total Bilirubin ≤ 2; AST (SGOT) ≤ 5 times the upper limit of normal; ALT (SGTP) ≤ 5&#xD;
+             times the upper limit of normal; Serum creatinine ≤ 1.5; Pulse oximetry &gt;91% on room&#xD;
+             air; No dyspnea or mild dyspnea (≤ Grade 1); Forced expiratory volume in 1 s (FEV1)&#xD;
+             ≥50% or carbon monoxide diffusion test (DLCO) ≥50% of predicted level; Left&#xD;
+             ventricular ejection fraction ≥ 45% confirmed by echocardiogram; Subjects must have&#xD;
+             the following hematologic function parameters: Neutrophils &gt; 1000/uL; Absolute&#xD;
+             Lymphocyte Count &gt; 100/uL; Platelets ≥ 50,000/L Patient should not be excluded if&#xD;
+             change of the above parameters due to spinal cord disease infiltration;&#xD;
+&#xD;
+          6. Prior therapy wash-out - At least 2 weeks or 5 half-lives, whichever is shorter, must&#xD;
+             have elapsed since any prior systemic therapy at the time the subject is planned for&#xD;
+             leukapheresis, except for systemic inhibitory/stimulatory immune checkpoint therapy,&#xD;
+             which requires 5 half-lives, Blinatumomab with 4 months prior CAR-T infusion.&#xD;
+&#xD;
+          7. For women of reproductive potential: use a highly effective contraceptive for at least&#xD;
+             1 month prior to screening and agree to use a method during study participation and&#xD;
+             for an additional 4 months after CAR T-cell administration has ended.&#xD;
+&#xD;
+          8. Subjects must have the ability to understand and the willingness to sign a written&#xD;
+             informed consent document.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Autologous transplant within 6 weeks of planned CAR-T cell infusion;&#xD;
+&#xD;
+          2. History of allogeneic stem cell transplant 4 months prior CAR T cell infusion.&#xD;
+&#xD;
+          3. Use of immunosuppression therapy;&#xD;
+&#xD;
+             • Patients must have completed immunosuppression therapy; Systemic corticosteroid&#xD;
+             therapy must be stopped more than 72 hours after infusion; Systemic drugs for&#xD;
+             graft-versus-host disease should be withheld at least 4 weeks prior to infusion;&#xD;
+&#xD;
+          4. Presence of graft-versus-host disease Grade ≥ 2;&#xD;
+&#xD;
+          5. Receiving CAR T cell treatment outside of this protocol;&#xD;
+&#xD;
+          6. Active central nervous system or meningeal involvement by tumor. Subjects with&#xD;
+             untreated brain metastases/CNS disease will be excluded from this clinical trial&#xD;
+             because of their poor prognosis and because they often develop progressive neurologic&#xD;
+             dysfunction that would confound the evaluation of neurologic and other adverse events.&#xD;
+             Patients with a history of CNS or meningeal involvement must be in a documented&#xD;
+             remission by CSF evaluation and contrast-enhanced MRI imaging for at least 90 days&#xD;
+             prior to registration.&#xD;
+&#xD;
+          7. History of active malignancy other than non-melanoma skin cancer, carcinoma in situ&#xD;
+             (e.g. cervix, bladder, breast).&#xD;
+&#xD;
+          8. HIV infection; HTLV&#xD;
+&#xD;
+          9. Subjects with uncontrolled intercurrent illness including, but not limited to ongoing&#xD;
+             or active infection, symptomatic congestive heart failure, unstable angina pectoris,&#xD;
+             cardiac arrhythmia, pulmonary abnormalities or psychiatric illness/social situations&#xD;
+             that would limit compliance with study requirements.&#xD;
+&#xD;
+         10. Pregnant or breastfeeding women are excluded from this study because CAR-T cell&#xD;
+             therapy may be associated with the potential for teratogenic or abortifacient effects.&#xD;
+&#xD;
+         11. Evidence of myelodysplasia or cytogenetic abnormality indicative of myelodysplasia on&#xD;
+             any bone marrow biopsy prior to initiation of therapy&#xD;
+&#xD;
+         12. Serologic status reflecting active hepatitis B or C infection. Patients that are&#xD;
+             positive for hepatitis B core antibody, hepatitis B surface antigen (HBsAg), or&#xD;
+             hepatitis C antibody must have a negative polymerase chain reaction (PCR) prior to&#xD;
+             enrollment. (PCR positive patients will be excluded.)&#xD;
+&#xD;
+         13. Serious and/or potentially fatal medical conditions&#xD;
+&#xD;
+         14. Patients with history of clinically relevant CNS pathology such as epilepsy, seizure&#xD;
+             disorders, paresis, aphasia, uncontrolled cerebrovascular disease, severe brain&#xD;
+             injuries, dementia and Parkinson's disease.&#xD;
+&#xD;
+         15. History of autoimmune disease (i.e. rheumatoid arthritis, systemic lupus&#xD;
+             erythematosus) with requirement of immunosuppressive medication within 6 months.&#xD;
+&#xD;
+         16. Hypersensitivity against any drug or its ingredients/impurities that is scheduled or&#xD;
+             likely to be given during trial participation, e.g. as part of the mandatory&#xD;
+             lymphodepletion protocol, pre-medication for infusion, rescue medication/salvage&#xD;
+             therapies for treatment related toxicities;&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>2 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nelson Hamerschlak, MD, PhH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Israelita Albert Einstein</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nelson Hamerschlak, MD, PhH</last_name>
+    <phone>+551121517248</phone>
+    <email>hamer@einstein.br</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lucila Kerbauy, MD, PhD</last_name>
+    <phone>+551121517248</phone>
+    <email>lucila.kerbauy@einstein.br</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital Israelita Albert Einstein</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>05652-900</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jose Mauro Kutner, MD, PhD</last_name>
+      <phone>+551121517248</phone>
+      <email>jose.kutner@einstein.br</email>
+    </contact>
+    <investigator>
+      <last_name>Lucila Kerbauy, MD, PhH</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 20, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 31, 2023</study_first_posted>
+  <last_update_submitted>January 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>CAR T cell</keyword>
+  <keyword>CD19+ B-cell Malignancies</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Precursor Cell Lymphoblastic Leukemia-Lymphoma</mesh_term>
+    <mesh_term>Leukemia, Lymphoid</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+    <mesh_term>Leukemia, Lymphocytic, Chronic, B-Cell</mesh_term>
+    <mesh_term>Recurrence</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Fludarabine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

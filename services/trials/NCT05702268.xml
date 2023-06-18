@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9237">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05702268</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ICP-CL-00602</org_study_id>
+    <nct_id>NCT05702268</nct_id>
+  </id_info>
+  <brief_title>Pharmacodynamic Blood Characteristics of ICP-332 in Patients With Moderate to Severe Atopic Dermatitis</brief_title>
+  <official_title>A Randomized, Double-blind, Placebo-controlled Phase II Trial Evaluating the Safety, Efficacy, Pharmacokinetics, and Pharmacodynamics of ICP-332 in Moderate-to-severe Atopic Dermatitis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Beijing InnoCare Pharma Tech Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Beijing InnoCare Pharma Tech Co., Ltd.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigator, the subject, and the sponsor's project team will remain blind throughout&#xD;
+      the study. Subjects will be randomly assigned to one of the three treatment groups at a ratio&#xD;
+      of 1:1:1 to be given the drug once a day for 4 weeks.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 18, 2023</start_date>
+  <completion_date type="Anticipated">December 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 30, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Adverse events (AEs)</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Systolic and Diastolic Blood Pressure</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pulse Rate</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Electrocardiogram (ECG) QT Interval</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with treatmentrelated adverse events as assessed by CTCAE v4.0</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage change of EASI score from baseline in week 4</measure>
+    <time_frame>4 weeks</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">75</enrollment>
+  <condition>Moderate to Severe Atopic Dermatitis</condition>
+  <arm_group>
+    <arm_group_label>High-dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>40 mg ICP-332 tablet 3 tablets, once a day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low-dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>40 mg ICP-332 2 tablets + 1 placebo tablet once daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Blank control</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo 3 tablets once daily</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ICP-332</intervention_name>
+    <description>Tablet, 40 mg</description>
+    <arm_group_label>High-dose</arm_group_label>
+    <arm_group_label>Low-dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ICP-332 Placebo</intervention_name>
+    <description>Tablets, in appearance, size, color, dosage form, packaging, instructions, labels and other aspects of the corresponding specifications of ICP-332.</description>
+    <arm_group_label>Blank control</arm_group_label>
+    <arm_group_label>Low-dose</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female subjects aged ≥18 years and ≤75 years.&#xD;
+&#xD;
+          2. A clinical diagnosis of atopic dermatitis or eczema was made at least 1 year prior to&#xD;
+             D1, and atopic dermatitis was identified at screening visit (according to Williams&#xD;
+             criteria).&#xD;
+&#xD;
+          3. During screening and baseline, were defined as meeting the moderate and severe AD&#xD;
+             criteria as assessed by the researchers.&#xD;
+&#xD;
+          4. Documented history of inadequate response to topical corticosteroids (TCS) or topical&#xD;
+             calcineurin inhibitors (TCI) , or other medically unrecommended topical therapy.&#xD;
+&#xD;
+          5. Able and willing to use an additive free mild emollient twice a day for at least 7&#xD;
+             days prior to baseline and for the duration of the study.&#xD;
+&#xD;
+          6. The serum pregnancy test of all female subjects at screening visit was negative, and&#xD;
+             the urine pregnancy test of all fertile female subjects at baseline visit was negative&#xD;
+             before first dosing.&#xD;
+&#xD;
+          7. Subjects must voluntarily sign and date informed consent prior to the commencement of&#xD;
+             any screening or study specific procedures.&#xD;
+&#xD;
+          8. Subject is willing and able to comply with scheduled visits, treatment plans,&#xD;
+             laboratory tests, and other study procedures.&#xD;
+&#xD;
+          9. Fertile women (WOCBP) menstruation must occur during the screening period and consent&#xD;
+             to use a supplementary screen contraceptive method in combination with a highly&#xD;
+             effective contraceptive method during the study period and for 90 days after the last&#xD;
+             use of the study drug .Male subjects must be willing not to donate sperm during this&#xD;
+             period.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Pregnant female subjects and nursing female subjects.&#xD;
+&#xD;
+          2. Subjects who had an active skin disease or skin infection that required systemic&#xD;
+             treatment or would interfere with the proper assessment of AD.&#xD;
+&#xD;
+          3. Current or previous infection history, including a history of herpes; Known history of&#xD;
+             invasive infection; Chronic recurrent infection and/or active invasive infection.&#xD;
+             Known immunodeficiency syndrome; Subjects with tuberculosis; Non skin related active&#xD;
+             infection.&#xD;
+&#xD;
+          4. Active HBV, HCV or HIV, syphilis infection.&#xD;
+&#xD;
+          5. Potential medical diseases or problems, including but not limited to the following:&#xD;
+             clinically relevant or significant ECG abnormalities; History of moderate to severe&#xD;
+             congestive heart failure, recent cerebrovascular accident, myocardial infarction or&#xD;
+             coronary stent implantation, or uncontrolled hypertension; Have received organ&#xD;
+             transplantation; A history of gastrointestinal perforation, diverticulitis, or a&#xD;
+             significant increased risk of gastrointestinal perforation according to the&#xD;
+             investigator's judgment; Diseases that may interfere with drug absorption; Subjects&#xD;
+             suffering from any malignant tumor before screening.&#xD;
+&#xD;
+          6. Except for atopic dermatitis, he has any clinically significant disease history or&#xD;
+             other clinically significant systemic diseases.&#xD;
+&#xD;
+          7. Received the specified treatment plan within the specified time frame.&#xD;
+&#xD;
+          8. The time from the last use of powerful CYP3A inhibitor or inducer to the first trial&#xD;
+             medication is less than 5 clearance half-life, or it is planned to take powerful CYP3A&#xD;
+             inhibitor or inducer at the same time during this study.&#xD;
+&#xD;
+          9. Those with a history of drug or alcohol abuse in the 6 months prior to baseline visit&#xD;
+             (as determined by the investigator).&#xD;
+&#xD;
+         10. During the screening period before the first administration of the study drug&#xD;
+             (baseline visit), the abnormal laboratory values met at least one of the specified&#xD;
+             standards.&#xD;
+&#xD;
+         11. The investigator considers for any reason that the subject is not suitable for&#xD;
+             participation in the study to receive ICP-332.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Pengcheng Lei</last_name>
+    <phone>+86 18501252185</phone>
+    <email>pengcheng.lei@innocarepharma.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Beijing Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100006</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Zhonghong Xie</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Beijing Friendship Hospital, Capital Medical University</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100050</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Linfeng Li</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Peking University Third Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100191</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chunlei Zhang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Second Hospital of the Army Medical University</name>
+      <address>
+        <city>Chongqing</city>
+        <state>Chongqing</state>
+        <zip>400037</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Rupeng Wang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Fujian Medical University</name>
+      <address>
+        <city>Fuzhou</city>
+        <state>Fujian</state>
+        <zip>350004</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chao Ji</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Dermatology Hospital of Southern Medical University</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510091</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yunsheng Liang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Second Affiliated Hospital of Guangzhou Medical University</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510260</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wenlin Yang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Affiliated Hospital of Chengde Medical College</name>
+      <address>
+        <city>Chengde</city>
+        <state>Hebei</state>
+        <zip>067020</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xinsuo Duan</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The First Hospital of Hebei Medical University</name>
+      <address>
+        <city>Shijiazhuang</city>
+        <state>Hebei</state>
+        <zip>050023</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Guoqiang Zhang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Nanyang First People's Hospital</name>
+      <address>
+        <city>Nanyang</city>
+        <state>Henan</state>
+        <zip>473004</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rixin Chen</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Shiyan City People's Hospital</name>
+      <address>
+        <city>Shiyan</city>
+        <state>Hubei</state>
+        <zip>442099</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zudong Meng</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Wuhan University People's Hospital</name>
+      <address>
+        <city>Wuhan</city>
+        <state>Hubei</state>
+        <zip>430060</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tiechi Lei</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Changzhou First People's Hospital</name>
+      <address>
+        <city>Changzhou</city>
+        <state>Jiangsu</state>
+        <zip>213004</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ruzhi Zhang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Wuxi Second People's Hospital</name>
+      <address>
+        <city>Wuxi</city>
+        <state>Jiangsu</state>
+        <zip>214001</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hui Sun</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Affiliated Hospital of Jiangsu University</name>
+      <address>
+        <city>Zhenjiang</city>
+        <state>Jiangsu</state>
+        <zip>210031</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yumei Li</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of China Medical University</name>
+      <address>
+        <city>Shenyang</city>
+        <state>Liaoning</state>
+        <zip>110002</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Li Zhang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ruijin Hospital, Shanghai Jiao Tong University School of Medicine</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200025</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jie Zheng</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Shanghai Dermatology Hospital</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>220443</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yangfeng Ding</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Huashan Hospital Affiliated to Fudan University</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jinhua Xu</last_name>
+      <phone>+86 13818978539</phone>
+      <email>xjhlcsy@163.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Second Hospital of Shanxi Medical University</name>
+      <address>
+        <city>Taiyuan</city>
+        <state>Shanxi</state>
+        <zip>030001</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Wenli Feng</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Suining Central Hospital</name>
+      <address>
+        <city>Suining</city>
+        <state>Sichuan</state>
+        <zip>629099</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chunshui Yu</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Affiliated Hospital of Tianjin Academy of Traditional Chinese Medicine</name>
+      <address>
+        <city>Tianjin</city>
+        <state>Tianjin</state>
+        <zip>300120</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Litao Zhang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Second Affiliated Hospital of Kunming Medical University</name>
+      <address>
+        <city>Kunming</city>
+        <state>Yunnan</state>
+        <zip>650106</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Danqi Deng</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Zhejiang University School of Medicine</name>
+      <address>
+        <city>Hangzhou</city>
+        <state>Zhejiang</state>
+        <zip>310003</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hong Fang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hangzhou Third People's Hospital</name>
+      <address>
+        <city>Hangzhou</city>
+        <state>Zhejiang</state>
+        <zip>310009</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aie Xu</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Zhejiang Provincial People's Hospital</name>
+      <address>
+        <city>Hangzhou</city>
+        <state>Zhejiang</state>
+        <zip>314408</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Xiaohua Tao</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Jiaxing First Hospital</name>
+      <address>
+        <city>Jiaxing</city>
+        <state>Zhejiang</state>
+        <zip>314001</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wenhao Yin</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Wenzhou Medical University</name>
+      <address>
+        <city>Wenzhou</city>
+        <state>Zhejiang</state>
+        <zip>325015</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Zhiming Li</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 10, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>May 18, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 18, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 22, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dermatitis, Atopic</mesh_term>
+    <mesh_term>Dermatitis</mesh_term>
+    <mesh_term>Eczema</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

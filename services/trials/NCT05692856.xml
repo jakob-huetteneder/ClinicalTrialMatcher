@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9678">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05692856</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CLEN-MEM</org_study_id>
+    <nct_id>NCT05692856</nct_id>
+  </id_info>
+  <brief_title>Muscle Memory After Treatment With Anabolic Substance Clenbuterol and Resistance Training in Humans</brief_title>
+  <official_title>Muscle Memory After Treatment With Anabolic Substance Clenbuterol and Resistance Training in Humans: Myonuclear Addition, Hypertrophy and Myocellular Reprogramming</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Morten Hostrup, PhD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Copenhagen</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the project is investigate muscle memory and underlying mechanisms in humans&#xD;
+      following resistance training and use of the anabolic substance clenbuterol.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2023</start_date>
+  <completion_date type="Anticipated">August 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Fiber cross-sectional area</measure>
+    <time_frame>The change in fiber cross-sectional is assessed at baseline, 8, 24 and 32 weeks</time_frame>
+    <description>Immunohistochemistry to determine fiber cross-sectional area</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Myonuclei</measure>
+    <time_frame>The change in myonuclei is assessed at baseline, 8, 24 and 32 weeks</time_frame>
+    <description>Immunohistochemistry to determine number of myonuclei</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Skeletal muscle proteome</measure>
+    <time_frame>The change in the muscle proteome is assessed at baseline, 8, 24 and 32 weeks</time_frame>
+    <description>Pathway enrichment analysis of the muscle proteome using mass-spectrometry based proteomics</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Lean mass</measure>
+    <time_frame>The change in lean mass is assessed at baseline, 8, 24 and 32 weeks</time_frame>
+    <description>Lean mass assessed by dual X-ray absorptiometry (DXA)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Isometric muscle strength</measure>
+    <time_frame>The change in maximal voluntary isometric contraction is assessed at baseline, 8, 24 and 32 weeks</time_frame>
+    <description>Maximal voluntary isometric contraction of m. quadriceps</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dynamic muscle strength</measure>
+    <time_frame>The change in 1-repetition maximum is assessed at baseline, 8, 24 and 32 weeks</time_frame>
+    <description>1-repetition maximum</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sprint performance</measure>
+    <time_frame>The change in sprint performance is assessed at baseline, 8, 24 and 32 weeks</time_frame>
+    <description>Work performed (W) during a sprint on a bicycle ergometer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Satellite cells</measure>
+    <time_frame>The change in satellite cells is assessed at baseline, 8, 24 and 32 weeks</time_frame>
+    <description>Immunohistochemistry to determine number of satellite cells</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Skeletal Muscle Physiology</condition>
+  <arm_group>
+    <arm_group_label>Clenbuterol</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants are randomized to daily ingestion of clenbuterol for a period of 8 weeks, with or without supervised resistance training.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants are randomized to daily ingestion of placebo for a period of 8 weeks, with or without supervised resistance training.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Clenbuterol</intervention_name>
+    <description>Participants ingest 80 micrograms clenbuterol daily during the initial 8-week period. This period is followed by a washout of 16 weeks with no drug and resistance training. Thereafter, an 8-week period with supervised resistance training is commenced, with no drug.</description>
+    <arm_group_label>Clenbuterol</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Participants ingest placebo tablets daily during the initial 8-week period. This period is followed by a washout of 16 weeks with no drug and resistance training. Thereafter, an 8-week period with supervised resistance training is commenced, with no drug.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy men and women&#xD;
+&#xD;
+          -  BMI of &lt;26 and normal ECG and blood pressure&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Smoking&#xD;
+&#xD;
+          -  Chronic disease,&#xD;
+&#xD;
+          -  Use of prescription medication&#xD;
+&#xD;
+          -  Pain due to current or previous musculoskeletal injury&#xD;
+&#xD;
+          -  Resistance training more than once per week in the 12 months leading up to the&#xD;
+             intervention&#xD;
+&#xD;
+          -  Current or previous use of prohibited anabolic substances&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Morten Hostrup</last_name>
+    <phone>+4535321595</phone>
+    <email>mhostrup@nexs.ku.dk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>August Krogh Building</name>
+      <address>
+        <city>Copenhagen</city>
+        <zip>2100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Morten Hostrup</last_name>
+      <phone>+4535321595</phone>
+      <email>mhostrup@nexs.ku.dk</email>
+    </contact>
+    <investigator>
+      <last_name>Lukas Moesgaard, MSc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 23, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>January 19, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 19, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Copenhagen</investigator_affiliation>
+    <investigator_full_name>Morten Hostrup, PhD</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Clenbuterol</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

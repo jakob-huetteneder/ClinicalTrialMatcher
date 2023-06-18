@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9505">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05696496</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RBHP 2022 FANTINI</org_study_id>
+    <nct_id>NCT05696496</nct_id>
+  </id_info>
+  <brief_title>Evaluation of e New Sleep Detection Device &quot;Easy Sleep Monitoring&quot;</brief_title>
+  <acronym>ESM</acronym>
+  <official_title>Évaluation d'un Dispositif de détection du Sommeil &quot; Easy Sleep Monitoring &quot; (ou &quot; Couette Intelligente &quot;) Par Rapport à la vidéo-polysomnographie, Chez Des Patients Avec Des Troubles du Sommeil et Des Sujets Sains</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Clermont-Ferrand</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Clermont-Ferrand</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      If the video-polysomnographic (vPSG) recording in the laboratory remains the reference&#xD;
+      examination in Sleep Medicine Centers for the diagnosis of sleep pathologies, the high&#xD;
+      prevalence of sleep disorders in the general population and the growing demand for&#xD;
+      exploration and management may require the use of alternative techniques such as new sleep&#xD;
+      recording or analysis devices. In collaboration with the Creative Mechatronics Company&#xD;
+      (Issoire) and the Ennery Confection Company (Le Puy en Velay), we have developed a &quot;portable&quot;&#xD;
+      sleep detection prototype called Easy Sleep Monitoring (ESM) which consists of an&#xD;
+      &quot;intelligent&quot; duvet equipped with a series of sensors capable of detecting movements and,&#xD;
+      through this, estimating sleep duration and quantifying motor phenomena during sleep. Indeed,&#xD;
+      it is a duvet which has in its thickness a grid of 35 electronic cards, equipped with an&#xD;
+      actimetric sensor and a temperature sensor. The distribution of the sensors makes it possible&#xD;
+      to detect the motor activity of the sleeper on all the body regions by considerably&#xD;
+      increasing the sensitivity and specificity compared to actimetry at the wrist.&#xD;
+&#xD;
+      The advantage of this duvet compared to other &quot;wearable&quot; devices is represented by its ease&#xD;
+      of use, being less restrictive, having a reduced implementation time and not requiring the&#xD;
+      user's collaboration. For example, it could be used for sleep monitoring in the elderly&#xD;
+      and/or in a situation of hypomobility in the context of Residential establishment for&#xD;
+      dependent elderly people or hospitals. At home, it could be a sleep monitoring tool, such as&#xD;
+      monitoring treatment for insomnia, medicinal or not, or to monitor motor activity during&#xD;
+      sleep, as in the monitoring of nocturnal akinesia in parkinsonian patients.&#xD;
+&#xD;
+      The main objective of this study is to evaluate the concordance of sleep data obtained with&#xD;
+      the ESM duvet with those obtained by video-polysomnography (vPSG). Indeed, the vPSG is the&#xD;
+      gold standard examination in the study of sleep, the only one capable of exactly defining the&#xD;
+      different stages of sleep and precisely quantifying sleep disorders.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Type of study : monocentric study, a proof of concept study of a new device for sleep&#xD;
+      detection &quot;Easy Sleep Monitoring&quot; (ESM). This is a category 4.4 clinical investigation with a&#xD;
+      non-CE marked medical device used in its indication, without the objective of CE marking or&#xD;
+      establishing compliance&#xD;
+&#xD;
+      Number of centers: 1&#xD;
+&#xD;
+      Patients:&#xD;
+&#xD;
+      This study will be perdormed in 50 subjects (25 patients with sleep disorders (TS+) + 25&#xD;
+      subjects without proven sleep disorders (TS-))&#xD;
+&#xD;
+      Study performance:&#xD;
+&#xD;
+      Each subject will have 2 visits:&#xD;
+&#xD;
+        1. First visit (baseline, inclusion visit, 30 minutes) which will include:&#xD;
+&#xD;
+             -  Information and collection of written consent&#xD;
+&#xD;
+             -  Recording of demographic and clinical data (age, sex, duration of disease&#xD;
+                progression, current treatments, medical and surgical history)&#xD;
+&#xD;
+             -  Pittsburgh PSQI Sleep Quality Index (for TS- group only)&#xD;
+&#xD;
+             -  Verification of inclusion and non-inclusion criteria.&#xD;
+&#xD;
+        2. Visit 2 (Month 6) (duration 1 night): The patients/controls will arrive in the evening&#xD;
+           at the Sleep Laboratory (Functional Exploration Department of the Nervous System of the&#xD;
+           Clermont-Ferrand University Hospital) to carry out complete vPSG and test the new ESM&#xD;
+           &quot;intelligent duvet&quot; device.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 20, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>the 2 groups (patients with Sleep Disorder Group (TS+) and the control group (TS-)) will receive the same intervention.</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Effective sleep duration (in minutes)</measure>
+    <time_frame>Month 6</time_frame>
+    <description>evaluated by vPSG</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Effective sleep duration (in minutes)</measure>
+    <time_frame>Month 6</time_frame>
+    <description>evaluated by ESM device</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time spent in bed (in minutes)</measure>
+    <time_frame>Month 6</time_frame>
+    <description>evaluated by vPSG</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time spent in bed (in minutes)</measure>
+    <time_frame>Month 6</time_frame>
+    <description>evaluated by ESM device</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sleep efficiency (Total sleep time/Time spent in bed)</measure>
+    <time_frame>Month 6</time_frame>
+    <description>evaluated by vPSG</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sleep efficiency (Total sleep time/Time spent in bed)</measure>
+    <time_frame>Month 6</time_frame>
+    <description>evaluated by ESM device</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sleep latency (in minutes)</measure>
+    <time_frame>Month 6</time_frame>
+    <description>evaluated by vPSG</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sleep latency (in minutes)</measure>
+    <time_frame>Month 6</time_frame>
+    <description>evaluated by ESM device</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of sleep stages (Deep Wave Sleep vs. Paradoxical Sleep)(in minutes)</measure>
+    <time_frame>Month 6</time_frame>
+    <description>evaluated by vPSG</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of sleep stages (Deep Wave Sleep vs. Paradoxical Sleep) (in minutes)</measure>
+    <time_frame>Month 6</time_frame>
+    <description>evaluated by ESM device</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>% of sleep stages (Deep Wave Sleep vs. Paradoxical Sleep)</measure>
+    <time_frame>Month 6</time_frame>
+    <description>evaluated by vPSG</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>% of sleep stages (Deep Wave Sleep vs. Paradoxical Sleep)</measure>
+    <time_frame>Month 6</time_frame>
+    <description>evaluated by ESM device</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of alarm clocks</measure>
+    <time_frame>Month 6</time_frame>
+    <description>evaluated by vPSG</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of alarm clocks</measure>
+    <time_frame>Month 6</time_frame>
+    <description>evaluated by ESM device</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of position changes</measure>
+    <time_frame>Month 6</time_frame>
+    <description>evaluated by vPSG</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of position changes</measure>
+    <time_frame>Month 6</time_frame>
+    <description>evaluated by ESM device</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of periodic movements of the lower limbs (in minutes)</measure>
+    <time_frame>Month 6</time_frame>
+    <description>evaluated by vPSG</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of periodic movements of the lower limbs (in minutes)</measure>
+    <time_frame>Month 6</time_frame>
+    <description>evaluated by ESM device</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Cheyne-Stokes periodic breathing (in minutes)</measure>
+    <time_frame>Month 6</time_frame>
+    <description>evaluated by vPSG</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Cheyne-Stokes periodic breathing (in minutes)</measure>
+    <time_frame>Month 6</time_frame>
+    <description>evaluated by ESM device</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>number of obstructive and central apneas</measure>
+    <time_frame>Month 6</time_frame>
+    <description>evaluated by vPSG</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>number of obstructive and central apneas</measure>
+    <time_frame>Month 6</time_frame>
+    <description>evaluated by ESM device</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Sleep Disorder</condition>
+  <arm_group>
+    <arm_group_label>Patients with sleep disorders (TS+)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>video polysomnography; the new ESM &quot;intelligent duvet&quot; device</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>control group without sleep disorder (TS-)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>video polysomnography; the new ESM &quot;intelligent duvet&quot; device</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>night recording</intervention_name>
+    <description>The patients/controls will arrive in the evening at the Sleep Laboratory (Functional Exploration Department of the Nervous System of the Clermont-Ferrand University Hospital) to carry out complete vPSG and test the new ESM &quot;intelligent duvet&quot;device. A qualified technician will place the electrodes according to the procedures usually followed at the Sleep Center for vPSG recording. The ESM duvet will be placed on the patient's body as a blanket, instead of the blankets normally provided by the hospital. Patients/controls will be monitored overnight by an infrared video camera.</description>
+    <arm_group_label>Patients with sleep disorders (TS+)</arm_group_label>
+    <arm_group_label>control group without sleep disorder (TS-)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        For Sleep Disorder Group (TS+):&#xD;
+&#xD;
+          -  Men or women, aged 18 to 85&#xD;
+&#xD;
+          -  With a suspected sleep disorder (sleep apnea, restless legs syndrome RLS, syndrome of&#xD;
+             periodic leg movements during MPJS sleep, REM sleep behavior disorder, Parkinson's&#xD;
+             disease, Narcolepsy, etc.), requiring a confirmation of the diagnosis in vPSG.&#xD;
+&#xD;
+          -  Cooperation and understanding to strictly comply with the conditions set out in the&#xD;
+             protocol - Acceptance of the protocol and signing of a written consent&#xD;
+&#xD;
+          -  Affiliation to the social security system&#xD;
+&#xD;
+        For Control Group (TS- ):&#xD;
+&#xD;
+          -  Men or women, aged 18 to 85&#xD;
+&#xD;
+          -  Having no sleep disorder: the Pittsburgh PSQI sleep quality index (Buysse et al.,&#xD;
+             1989) must be &lt;5.&#xD;
+&#xD;
+          -  Cooperation and understanding to strictly comply with the conditions set out in the&#xD;
+             protocol - Acceptance of the protocol and signing of a written consent&#xD;
+&#xD;
+          -  Affiliation to the social security system&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        For Group TS+ and TS-:&#xD;
+&#xD;
+          -  Patients under guardianship or curatorship or safeguard of justice&#xD;
+&#xD;
+          -  Pregnant or breastfeeding women (given the low risk incurred, the verification will be&#xD;
+             done on simple declaration of the patient)&#xD;
+&#xD;
+          -  Patients with active implants&#xD;
+&#xD;
+          -  during a period of exclusion from another study,&#xD;
+&#xD;
+          -  refusing to participate in the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Lise Laclautre</last_name>
+    <phone>0473751195</phone>
+    <email>promo_interne_drci@chu-clermontferrand.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>CHU Clermont-Ferrand, UMR INSERM 1107</name>
+      <address>
+        <city>Clermont-Ferrand</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Lise Laclautre</last_name>
+      <phone>0473751195</phone>
+      <email>promo_interne_drci@chu-clermontferrand.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Livia Fantini</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>December 2022</verification_date>
+  <study_first_submitted>January 5, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>January 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>video polysomnography</keyword>
+  <keyword>new sleep detection device</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sleep Wake Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

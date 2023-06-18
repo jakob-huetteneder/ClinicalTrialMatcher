@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9596">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05694754</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-03-2022</org_study_id>
+    <nct_id>NCT05694754</nct_id>
+  </id_info>
+  <brief_title>Transcranial Magnetic Stimulation Theta Burst (TMS), Depression and Smoking.</brief_title>
+  <official_title>Transcranial Magnetic Stimulation and Its Effects on Mayor Depressive Disorder and Smoking Cessation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dr. Julian Reyes López</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Universidad Autonoma de Queretaro</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study evaluates de efficacy of Theta Burst Transcranial Magnetic Stimulation (TMS)&#xD;
+      applied on the left dorsolateral prefrontal cortex in patients with Major Depressive disorder&#xD;
+      and tobacco consumption.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Major Depressive Disorder (MDD) affects 350 million worldwide causing damage on quality of&#xD;
+      life and risk behavior such as suicide and smoking. smoking is the second leading cause of&#xD;
+      death causing about 5 million deaths annually. Theta Burst Stimulation (TBS) is a more&#xD;
+      tolerable protocol administered at lower intensities and shorter intervals than conventional&#xD;
+      rTMS protocols.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 1, 2021</start_date>
+  <completion_date type="Anticipated">January 31, 2023</completion_date>
+  <primary_completion_date type="Actual">December 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Triple blind study</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>MINI Neuropsychiatric Interview</measure>
+    <time_frame>15 minutes</time_frame>
+    <description>It is a short structured diagnostic interview that explores the main psychiatric disorders of Axis I of DSM-IV and ICD-10</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fagerström test</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>it is a short and simple test consisting of 6 questions. The score ranges from 0-10, so that the higher the score, the greater the dependency. Not only does this test measure physical dependence but it also has therapeutic and prognostic value.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Richmond Test</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Scale consisting of 4 items to assess the degree of motivation to quit smoking on a scale of 1 to 10. For an individual to have expectations of success in a smoking cessation program, they must present a score of 9 or 10 points</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Glover-Nilsson Test</measure>
+    <time_frame>8 minutes</time_frame>
+    <description>Test consisting of 11 items to measure the psychosocial and behavioral dependence of individuals; it is scored from 0 to 4, with 4 being the maximum score, items 1,4 and 5 measure psychological dependence, questions 2,3,6,7,8,9 and 10 measure behavioral dependence and question 11 measures social dependence.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Test of the Unit of the Institute of Public Health of Madrid (UISPM)</measure>
+    <time_frame>10 minutes</time_frame>
+    <description>Test consisting of 23 items divided into 6 modules (stimulation, sedation, automatism, social dependency, psychic dependency and gestural dependency) each item is scored from 0 to 4 being 4 the highest score.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Minnesota Nicotine Withdrawal Syndrome Scale (MNWS)</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>This eight-item scale measures withdrawal symptoms (craving, irritability, anxiety, difficulty concentrating, restlessness, increased appetite or weight gain, depression, and insomnia), The score ranges from 0 to 4, with 4 being the highest score, indicating a severe withdrawal syndrome</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Nicotine Craving Questionnaire (CCN)</measure>
+    <time_frame>8 minutes</time_frame>
+    <description>12-item questionnaire to assess the degree of craving, with five response options ranging from completely disagree 1 to completely agree 5</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Paradigm of reactivity to signals and heart rate variability</measure>
+    <time_frame>10 minutes</time_frame>
+    <description>it consists of presenting a series of images that were chosen from the International Series of images for smoking (with neutral counterparts), Version 1.2 (58), the images were presented as follows : 2 blocks of smoking images and 2 blocks with neutral images that are interspersed, each block contains 25 images with a duration of 6 seconds per image, the test has a total duration of 10 minutes; while the participant observes the images, they will place a polar model H10 bluetooh chest strap sensor to measure HRV</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Co-oximetry</measure>
+    <time_frame>1 minute</time_frame>
+    <description>spectrophotometric technique to detect the loss in the oxygenation capacity of hemoglobin that consists of determining the level of carbon monoxide (CO) in the air exhaled by an individual, levels of 10 or more ppm of CO in the exhaled air correspond to smoking subjects. Levels of 6 to 10 ppm in sporadic smokers, and figures below 6 ppm in non-smokers.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Hamilton Rating Depression Scale (HDRS)</measure>
+    <time_frame>10 minutes</time_frame>
+    <description>21 item, Clinical assessment of depressive symptoms</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Montgomery-Asberg Rating Depression Scale (MADRS)</measure>
+    <time_frame>10 minutes</time_frame>
+    <description>10 ítem Clinical assessment of the principal depressive symptoms</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Hamilton Anxiety Rating Scale (HARS)</measure>
+    <time_frame>10 minutes</time_frame>
+    <description>14 Ítem clinical scale for rating anxiety symptoms.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Beck Depression Invetory (BDI)</measure>
+    <time_frame>10 minutes</time_frame>
+    <description>it´s a 21 ítem self evaluated symptomatology of depression</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Beck Hopelesness Scale (BHS)</measure>
+    <time_frame>10 minutes</time_frame>
+    <description>is a 20-item self-report inventory designed to measure 3 major aspects of hopelessness (Feelings about the future, loss of self-motivation and expectations)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Plutchik Risk Suicide Scale</measure>
+    <time_frame>10 minutes</time_frame>
+    <description>it´s a 26 ítem self-reported scale that assess the intensity of suicidal ideation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Beck suicidal ideation scale (BSIS)</measure>
+    <time_frame>10 minutes</time_frame>
+    <description>is an evaluation of suicidal thinking: is an evaluation of suicidal thinking that helps identify individuals at risk of comitting self harm</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Wisconsin Card Sorting Test (WCST)</measure>
+    <time_frame>20 minutes</time_frame>
+    <description>is a neuropsychological test that assess cognitive flexibility</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Stop Signal Task</measure>
+    <time_frame>25 minutes</time_frame>
+    <description>is a unique versión of a classic approach to measuring response inhibition</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Marlowe and Crowne Social Desirability Scale</measure>
+    <time_frame>10 minutes</time_frame>
+    <description>self-applied scale consisting of 33 items for the evaluation of the need for social approval, for example, generating a good impression through socially appropriate responses</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Major Depressive Disorder</condition>
+  <condition>Smoking Reduction</condition>
+  <arm_group>
+    <arm_group_label>1 session</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive 1 session from monday to friday,during 4 weeks, with 600 total pulses per session</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>3 sessions</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive 3 sessions from monday to friday,during 4 weeks, with 1800 total pulses per session with a 10 minutes rest interval</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Theta Burst Transcranial Magnetic Stimulation</intervention_name>
+    <description>Magventure MagPro R30 stimulation Device, MCF-B70 stimulation Coill</description>
+    <arm_group_label>1 session</arm_group_label>
+    <arm_group_label>3 sessions</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  With dependence on tobacco use, with depressive symptomatology, that they agree to&#xD;
+             sign the informed consent letter.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of head trauma with loss of consciousness, with intracranial metallic objects&#xD;
+             or metallic plates in the skull, patients with structured suicidal ideation or recent&#xD;
+             attempts, who suffer from uncontrolled chronic diseases at the time of entering the&#xD;
+             study (for example: hypertension, diabetes, rheumatic diseases), patients with&#xD;
+             psychotic symptoms. subjects with alterations in electroencephalogram (epileptiform&#xD;
+             activity), patients with any type of uncontrolled chronic medical or neurological&#xD;
+             disease, pregnant women.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Julian V. Reyes López, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Universidad Autónoma de Querétaro</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>sofia cañizares Gómez, master</last_name>
+    <phone>(442)1910317</phone>
+    <email>soficanizares@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Gerardo Trejo Cruz, master</last_name>
+    <phone>(442)2848849</phone>
+    <email>gerardotrejocruz@outlook.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Sofia Cañizares Gómez</name>
+      <address>
+        <city>Querétaro City</city>
+        <state>Querétaro</state>
+        <zip>76170</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>sofia cañizares gómez, master</last_name>
+      <phone>00524421910317</phone>
+      <email>soficanizares@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>gerardo trejo cruz, master</last_name>
+      <phone>00524422848849</phone>
+      <email>gerardotrejocruz@outlook.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>julian V. Reyes López, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <results_reference>
+    <citation>Fluharty M, Taylor AE, Grabski M, Munafo MR. The Association of Cigarette Smoking With Depression and Anxiety: A Systematic Review. Nicotine Tob Res. 2017 Jan;19(1):3-13. doi: 10.1093/ntr/ntw140. Epub 2016 May 19.</citation>
+    <PMID>27199385</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Picciotto MR, Mineur YS. Molecules and circuits involved in nicotine addiction: The many faces of smoking. Neuropharmacology. 2014 Jan;76 Pt B(0 0):545-53. doi: 10.1016/j.neuropharm.2013.04.028. Epub 2013 Apr 28.</citation>
+    <PMID>23632083</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ahern E, Kinsella S, Semkovska M. Clinical efficacy and economic evaluation of online cognitive behavioral therapy for major depressive disorder: a systematic review and meta-analysis. Expert Rev Pharmacoecon Outcomes Res. 2018 Feb;18(1):25-41. doi: 10.1080/14737167.2018.1407245. Epub 2017 Nov 30.</citation>
+    <PMID>29145746</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Garcia-Gomez L, Hernandez-Perez A, Noe-Diaz V, Riesco-Miranda JA, Jimenez-Ruiz C. SMOKING CESSATION TREATMENTS: CURRENT PSYCHOLOGICAL AND PHARMACOLOGICAL OPTIONS. Rev Invest Clin. 2019;71(1):7-16. doi: 10.24875/RIC.18002629.</citation>
+    <PMID>30810545</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Baeken C, Marinazzo D, Everaert H, Wu GR, Van Hove C, Audenaert K, Goethals I, De Vos F, Peremans K, De Raedt R. The Impact of Accelerated HF-rTMS on the Subgenual Anterior Cingulate Cortex in Refractory Unipolar Major Depression: Insights From 18FDG PET Brain Imaging. Brain Stimul. 2015 Jul-Aug;8(4):808-15. doi: 10.1016/j.brs.2015.01.415. Epub 2015 Feb 7.</citation>
+    <PMID>25744500</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Arikan MK, Gunver MG, Tarhan N, Metin B. High-Gamma: A biological marker for suicide attempt in patients with depression. J Affect Disord. 2019 Jul 1;254:1-6. doi: 10.1016/j.jad.2019.05.007. Epub 2019 May 6.</citation>
+    <PMID>31082626</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Mahoney JJ 3rd, Hanlon CA, Marshalek PJ, Rezai AR, Krinke L. Transcranial magnetic stimulation, deep brain stimulation, and other forms of neuromodulation for substance use disorders: Review of modalities and implications for treatment. J Neurol Sci. 2020 Nov 15;418:117149. doi: 10.1016/j.jns.2020.117149. Epub 2020 Sep 20.</citation>
+    <PMID>33002757</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Filipcic I, Milovac Z, Sucic S, Gajsak T, Filipcic IS, Ivezic E, Aljinovic V, Orgulan I, Penic SZ, Bajic Z. Efficacy, Safety and Tolerability of Augmentative rTMS in Treatment of Major Depressive Disorder (MDD): A Prospective Cohort Study in Croatia. Psychiatr Danub. 2017 Mar;29(1):31-38. doi: 10.24869/psyd.2017.31.</citation>
+    <PMID>28291972</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Czeisler ME, Lane RI, Petrosky E, Wiley JF, Christensen A, Njai R, Weaver MD, Robbins R, Facer-Childs ER, Barger LK, Czeisler CA, Howard ME, Rajaratnam SMW. Mental Health, Substance Use, and Suicidal Ideation During the COVID-19 Pandemic - United States, June 24-30, 2020. MMWR Morb Mortal Wkly Rep. 2020 Aug 14;69(32):1049-1057. doi: 10.15585/mmwr.mm6932a1.</citation>
+    <PMID>32790653</PMID>
+  </results_reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 12, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 12, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>January 12, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 12, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Universidad Autonoma de Queretaro</investigator_affiliation>
+    <investigator_full_name>Dr. Julian Reyes López</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Transcranial magnetic stimulation</keyword>
+  <keyword>Theta Burst</keyword>
+  <keyword>Depression</keyword>
+  <keyword>Tobacco</keyword>
+  <keyword>suicide ideation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder, Major</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9366">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05699486</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-PDNO-003</org_study_id>
+    <secondary_id>2021-005032-30</secondary_id>
+    <nct_id>NCT05699486</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Efficacy, Safety and Tolerability of PDNO Infusion in Patients With Pulmonary Hypertension After Cardiopulmonary Bypass Surgery</brief_title>
+  <official_title>An Open-Label, Multicenter Study To Evaluate the Dose, Efficacy, Safety and Tolerability of PDNO (Nitrosooxypropanol) Infusion in Patients With Pulmonary Hypertension After Cardiopulmonary Bypass (CPB) Surgery for Coronary Artery Bypass Grafting (CABG) or Mitral or Aortic Valve Repair or Replacement With or Without CABG</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Attgeno AB</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Scandinavian CRO AB</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Attgeno AB</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open-label, multicenter study evaluating the dose, effect, safety and tolerability&#xD;
+      of intravenous PDNO infusion given to patients undergoing cardiopulmonary bypass (CPB)&#xD;
+      surgery with post-operative acute pulmonary hypertension (aPH).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 23, 2022</start_date>
+  <completion_date type="Anticipated">April 23, 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 23, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean change in pulmonary vascular resistance (PVR)</measure>
+    <time_frame>From baseline (mean of -15 minutes and 0 minutes) to time point 15, 30, 45, 60, and 75 minutes with PDNO, respectively; and 85 and 95 minutes with placebo.</time_frame>
+    <description>PVR, will be derived as the mean pulmonary artery pressure (MPAP) - pulmonary capillary wedge pressure (PCWP) divided by cardiac output (CO), (PVR=(MPAP-PCWP)/CO), as measured with a pulmonary artery catheter (PAC) including thermodilution-determined cardiac output. Assessments will be done at the following timepoints: T0 (-15 minutes) and T1 (0 minutes) with placebo; T2 (15 minutes), T3 (30 minutes), T4 (45 minutes), T5 (60 minutes), and T6 (75 minutes) with 3, 10, 30, 45, 60 nmol/kg/min with PDNO, respectively; and T7 (85 minutes) and T8 (95 minutes) with placebo.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in the pulmonary vascular resistance/systemic vascular resistance ratio (PVR/SVR ratio)</measure>
+    <time_frame>From baseline (mean of -15 minutes and 0 minutes) to time point 15, 30, 45, 60, and 75 minutes with PDNO, respectively; and 85 and 95 minutes with placebo.</time_frame>
+    <description>PVR, will be derived as the mean pulmonary artery pressure (MPAP) - pulmonary capillary wedge pressure (PCWP) divided by cardiac output (CO), (PVR=(MPAP-PCWP)/CO), as measured with a pulmonary artery catheter (PAC) including thermodilution-determined cardiac output.&#xD;
+SVR is determined from mean pulmonary artery pressure - central venous pressure divided by cardiac output (CO), (SVR=(MABP-CVP)/CO).&#xD;
+Assessments will be done at the following timepoints: T0 (-15 minutes) and T1 (0 minutes) with placebo; T2 (15 minutes), T3 (30 minutes), T4 (45 minutes), T5 (60 minutes), and T6 (75 minutes) with 3, 10, 30, 45, 60 nmol/kg/min with PDNO, respectively; and T7 (85 minutes) and T8 (95 minutes) with placebo.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in fractional area change (FAC)</measure>
+    <time_frame>From baseline (mean of -15 minutes and 0 minutes) to time point 15, 30, 45, 60, and 75 minutes with PDNO, respectively; and 85 and 95 minutes with placebo.</time_frame>
+    <description>Assessments will be done at the following timepoints: T0 (-15 minutes) and T1 (0 minutes) with placebo; T2 (15 minutes), T3 (30 minutes), T4 (45 minutes), T5 (60 minutes), and T6 (75 minutes) with 3, 10, 30, 45, 60 nmol/kg/min with PDNO, respectively; and T7 (85 minutes) and T8 (95 minutes) with placebo.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in tricuspidannular plane systolic excursion (TAPSE)</measure>
+    <time_frame>From baseline (mean of -15 minutes and 0 minutes) to time point 15, 30, 45, 60, and 75 minutes with PDNO, respectively; and 85 and 95 minutes with placebo.</time_frame>
+    <description>Assessments will be done at the following timepoints: T0 (-15 minutes) and T1 (0 minutes) with placebo; T2 (15 minutes), T3 (30 minutes), T4 (45 minutes), T5 (60 minutes), and T6 (75 minutes) with 3, 10, 30, 45, 60 nmol/kg/min with PDNO, respectively; and T7 (85 minutes) and T8 (95 minutes) with placebo.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in right ventricular (RV) free wall strain</measure>
+    <time_frame>From baseline (mean of -15 minutes and 0 minutes) to time point 15, 30, 45, 60, and 75 minutes with PDNO, respectively; and 85 and 95 minutes with placebo.</time_frame>
+    <description>Assessments will be done at the following timepoints: T0 (-15 minutes) and T1 (0 minutes) with placebo; T2 (15 minutes), T3 (30 minutes), T4 (45 minutes), T5 (60 minutes), and T6 (75 minutes) with 3, 10, 30, 45, 60 nmol/kg/min with PDNO, respectively; and T7 (85 minutes) and T8 (95 minutes) with placebo.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety and tolerability of PDNO in patients undergoing Cardiopulmonary Bypass (CPB) surgery</measure>
+    <time_frame>Until study end (i.e., end of Day 1 [95 minutes]). All AEs (including SAEs) will be collected from the initiation of any study specific procedure, starting when postoperative preparatory preparations are performed on Day 1 and until the end of the study.</time_frame>
+    <description>Measured by incidence of: treatment-emergent adverse events (AEs), treatment-emergent serious AEs (SAEs), treatment-emergent AEs of special interest (AESI), treatment-emergent changes in vital signs (blood pressure, pulse, oxygen saturation, respiratory frequency, body temperature), treatment-emergent electrocardiogram (ECG) abnormalities, and treatment-emergent laboratory abnormalities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Exposure parameters for 1,2-propanediol (PD): estimated area under the curve from time 0 to time t (AUC0-t)</measure>
+    <time_frame>Assessments at time points T0 (-15 minutes; placebo), T6 (75 minutes; PDNO), and T8 (95 minutes; placebo).</time_frame>
+    <description>To assess the exposure of PD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Exposure parameters for 1,2-propanediol (PD): estimated area under the curve from time 0 to infinity (AUC0-inf)</measure>
+    <time_frame>Assessments at time points T0 (-15 minutes; placebo), T6 (75 minutes; PDNO), and T8 (95 minutes; placebo).</time_frame>
+    <description>To assess the exposure of PD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Exposure parameters for 1,2-propanediol (PD): maximum plasma concentration (Cmax)</measure>
+    <time_frame>Assessments at time points T0 (-15 minutes; placebo), T6 (75 minutes; PDNO), and T8 (95 minutes; placebo).</time_frame>
+    <description>To assess the exposure of PD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Exposure parameters for 1,2-propanediol (PD): estimated elimination half life (t½)</measure>
+    <time_frame>Assessments at time points T0 (-15 minutes; placebo), T6 (75 minutes; PDNO), and T8 (95 minutes; placebo).</time_frame>
+    <description>To assess the exposure of PD.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Assess the levels of the following biomarkers: nitrite and nitrate in plasma (µM)</measure>
+    <time_frame>Change from baseline T0 (-15 minutes; placebo) to time point T6 (75 minutes; PDNO).</time_frame>
+    <description>Explore potential biomarkers.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Assess the levels of the following biomarkers: 1,2-propanediol (PD) metabolites in serum</measure>
+    <time_frame>Change from baseline T0 (-15 minutes; placebo) to time point T6 (75 minutes; PDNO).</time_frame>
+    <description>Explore PD metabolites.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Pulmonary Hypertension</condition>
+  <arm_group>
+    <arm_group_label>Treatment with PDNO (placebo during baseline and washout observation periods before &amp; after PDNO)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>PDNO will be administered as an incremental intravenous infusion of respectively 15 minutes with the planned dosage: 3, 10, 30, 45 and 60 nmol/kg/min. If no effect on MPAP/PVR is seen at 60 nmol/kg/min in the first patients treated, further dose escalation up to 120 nmol/kg/min is possible, if recommended by the Internal Safety Review Committe (iSRC) following careful review of collected safety data. The iSRC will in any case review all collected data after 4, 8 and 12 patients (if applicable also after 16 and 20 patients). PDNO is administered together with a carrier buffer (NaHCO3-) flow into a central venous catheter. Placebo (NaCl, commercially available dilution solution for parenteral use, 9 mg/mL) will be administered during the baseline and washout observation periods before and after start of IMP infusion.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PDNO</intervention_name>
+    <description>PDNO consists of propylene glycol (1,2-propanediol, PD) chemically combined with NO (to be donated). The drug substance is formulated as an inherent mixture of 4 structure analogues. The mixture consists of an equilibrium of the 2 regioisomers 1-(nitrosooxy) propan-2-ol and 2-(nitrosooxy) propan-1-ol. In addition, each regioisomer is a racemic mixture.</description>
+    <arm_group_label>Treatment with PDNO (placebo during baseline and washout observation periods before &amp; after PDNO)</arm_group_label>
+    <other_name>Nitrosooxypropanol</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sodium chloride (placebo)</intervention_name>
+    <description>Placebo (NaCl, commercially available dilution solution for parenteral use, 9 mg/mL)</description>
+    <arm_group_label>Treatment with PDNO (placebo during baseline and washout observation periods before &amp; after PDNO)</arm_group_label>
+    <other_name>NaCl</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Ability to understand and willing to sign an informed consent form (ICF)&#xD;
+&#xD;
+          -  Male and female patients, age ≥ 18 years&#xD;
+&#xD;
+          -  Planned to undergo elective cardiopulmonary bypass (CPB) for coronary artery bypass&#xD;
+             grafting (CABG), aortic valve repair (AVR) or mitral valve repair (MVR) with or&#xD;
+             without CABG&#xD;
+&#xD;
+          -  Diagnosed with echocardiographic signs of pulmonary artery systolic pressure (PASP)&#xD;
+             &gt;50 mmHg , as estimated by doppler defined echocardiography using a modified Bernoulli&#xD;
+             equation: PASP ≈ 4 (tricuspid regurgitant jet velocity)^2 + central venous pressure&#xD;
+             (CVP)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of chronic pulmonary hypertension (PH) (WHO group 1, 3, 4 or 5), not group 2&#xD;
+             due to left heart disease&#xD;
+&#xD;
+          -  Patients with contraindications for pulmonary artery catheter (PAC)&#xD;
+&#xD;
+          -  History of severe chronic obstructive pulmonary disease&#xD;
+&#xD;
+          -  Left heart failure with ejection fraction (EF) &lt;35%&#xD;
+&#xD;
+          -  Non-ST elevation myocardial infarction (non-STEMI) or ST elevation myocardial&#xD;
+             infarction (STEMI) within 1 months prior to informed consent&#xD;
+&#xD;
+          -  Stroke (cerebrovascular lesion [CVL]), transient ischemic attack (TIA), AV block III&#xD;
+             within 3 months prior to informed consent or QTcF &gt;450ms at the time of screening&#xD;
+&#xD;
+          -  High inotropic requirement (no more than one inotrope treatment and the vasopressor&#xD;
+             norepinephrine at time of screening/postoperative evaluation)&#xD;
+&#xD;
+          -  (Increased) mediastinal bleeding &gt;100 mL/hour in mediastinal drainage at postoperative&#xD;
+             evaluation&#xD;
+&#xD;
+          -  Mechanical circulatory assistance (intra aortic balloon pump [IABP] or&#xD;
+             right/left-ventricular assist device [R/L VAD])&#xD;
+&#xD;
+          -  Echocardiographic evidence of significant tricuspid insufficiency&#xD;
+&#xD;
+          -  Body Mass Index (BMI) &gt;40 kg/m^2&#xD;
+&#xD;
+          -  Estimated glomerular filtration rate (eGFR) &lt; 30 mL/min preoperative value&#xD;
+&#xD;
+          -  Methemoglobin &gt;3%&#xD;
+&#xD;
+          -  Indication of liver disease, defined by serum levels of either alanine&#xD;
+             aminotransferase (ALT), aspartate aminotransferase (AST) or alkaline phosphatase (ALP)&#xD;
+             above 3 x upper limit of normal (ULN) (preoperative value)&#xD;
+&#xD;
+          -  Preoperative haemoglobin &lt;10 g/dL, postoperative: Hb &lt; 9 g/dL&#xD;
+&#xD;
+          -  Thrombocytopenia (platelet count &lt;100,000/mm^3), preoperative value&#xD;
+&#xD;
+          -  Prothrombin time International ratio (INR) &gt; 1.3, preoperative value&#xD;
+&#xD;
+          -  Pregnant or lactating women, or with a positive pregnancy test at screening (for&#xD;
+             fertile women only)&#xD;
+&#xD;
+          -  Ongoing daily treatment the last 3 days with non-steroidal anti-inflammatory drugs&#xD;
+             (NSAIDs, excluding low dose, i.e. 75 mg, acetylsalicylic acid), new oral&#xD;
+             anticoagulants (NOACs), warfarin, heparin, clopidogrel (last 5 days). Low molecular&#xD;
+             weight heparin (LMWH) is not an exclusion criterion. Any use of PDE5 inhibitors&#xD;
+             (sildenafil, tadalafil, vardenafil and avanafil) within 48 hours prior to the&#xD;
+             administration of PDNO.&#xD;
+&#xD;
+          -  Known active malignancy within the past 3 years except for localized prostate cancer,&#xD;
+             cervical carcinoma in situ, breast cancer in situ, or nonmelanoma skin cancer that has&#xD;
+             been definitively treated&#xD;
+&#xD;
+          -  History of allergy/hypersensitivity to PD or ongoing allergy/hypersensitivity or&#xD;
+             history of hypersensitivity to drugs with a similar chemical structure or class to&#xD;
+             PDNO&#xD;
+&#xD;
+          -  History of any other clinically significant disease or disorder&#xD;
+&#xD;
+          -  Participation in any interventional clinical study or has been treated with any&#xD;
+             investigational research products within 30 days or 5 half-lives, whichever is longer,&#xD;
+             prior to the initiation of screening&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Cecilia Kemi, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Attgeno AB</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Christofer Adding, MD/PhD</last_name>
+    <phone>+46 (0) 70 788 67 66</phone>
+    <email>christofer.adding@attgeno.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Sahlgrenska University Hospital, Anaesthesiology and Intensive Care</name>
+      <address>
+        <city>Gothenburg</city>
+        <zip>SE-413 45</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sven-Erik Ricksten, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Örebro University Hospital, Vascular and Thoracic Department (Kärl-Thoraxkliniken)</name>
+      <address>
+        <city>Örebro</city>
+        <zip>SE-701 85</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jenny Seilitz, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 19, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>January 17, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 17, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Acute pulmonary hypertension</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypertension, Pulmonary</mesh_term>
+    <mesh_term>Hypertension</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

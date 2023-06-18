@@ -14,7 +14,7 @@ import java.lang.invoke.MethodHandles;
 import java.util.stream.Stream;
 
 /**
- * Rest Controller for all http requests regarding diseases.
+ * This class defines the endpoints for the disease resource.
  */
 @RestController
 @RequestMapping(path = DiseasesEndpoint.BASE_PATH)
@@ -28,9 +28,16 @@ public class DiseasesEndpoint {
         this.service = service;
     }
 
+    /**
+     * Finds all diseases matching the given search parameters.
+     *
+     * @param searchParameters the search parameters
+     * @return a stream of diseases matching the search parameters
+     */
     @PermitAll
     @GetMapping()
     public Stream<DiseaseDto> search(SearchDto searchParameters) {
+        LOG.trace("search({})", searchParameters);
         LOG.info("GET " + BASE_PATH + " query parameters: {}", searchParameters);
         return service.search(searchParameters);
     }

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9092">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05705414</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HSC20220558H</org_study_id>
+    <secondary_id>KL2TR002646</secondary_id>
+    <nct_id>NCT05705414</nct_id>
+  </id_info>
+  <brief_title>Oral Intradialytic Amino Acid Supplementation to Vitalize End-stage Kidney Disease Patients on Hemodialysis</brief_title>
+  <acronym>OASIS</acronym>
+  <official_title>Oral Intradialytic Amino Acids Supplementation to Vitalize End-stage Kidney Disease Patients on Hemodialysis (OASIS)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The University of Texas Health Science Center at San Antonio</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Center for Advancing Translational Sciences (NCATS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>IIMS-UT Health San Antonio</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The University of Texas Health Science Center at San Antonio</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study will test and compare the efficacy of a single essential amino acid valine with a&#xD;
+      combination of essential amino acids (EAA) supplement on fatigue, frailty, and cognitive&#xD;
+      function in end-stage kidney disease (ESKD) patients undergoing hemodialysis (HD) treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This single center outpatient study will test and compare the efficacy of a single essential&#xD;
+      amino acid, valine with a combination of essential amino acids (EAA) supplementation on&#xD;
+      fatigue, fragility and cognitive function in end-stage kidney disease (ESKD) patients aged&#xD;
+      18-64 years undergoing hemodialysis (HD) treatment at least three times a week.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 2023</start_date>
+  <completion_date type="Anticipated">August 2024</completion_date>
+  <primary_completion_date type="Anticipated">February 2024</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>The study design will consist of a crossover schema, with one arm starting on amino acid Valine and the other on EAA for a period of 8 weeks, followed by a washout period of 1 week, and then assignment to the nutritional supplement that they have not already taken for the remaining 8 week period that they are participating in this study.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>The intervention will be administered to the subjects by appropriately trained delegates.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Brief Fatigue Inventory (BFI) score</measure>
+    <time_frame>Baseline to 17 weeks</time_frame>
+    <description>Changes in global fatigue score measured with the 9-item Brief Fatigue Inventory (BFI). The first 3 questions assess fatigue severity, and the remaining 6 questions measure the impact of fatigue on activity, mood, walking, work, relationships, and enjoyment of life. Respondents rate each item on a 0-10 numeric scale, with 0 meaning &quot;no fatigue&quot; and 10 meaning &quot;fatigue as bad as you can imagine.&quot; Scores of all 9 items yield global fatigue burden. A lower average global fatigue score indicates milder fatigue and a higher score severe fatigue.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Handgrip strength test</measure>
+    <time_frame>Baseline to 17 weeks</time_frame>
+    <description>Change in handgrip strength measured by a dynamometer in lbs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Trail Making Test (TMT)</measure>
+    <time_frame>Baseline to 17 weeks</time_frame>
+    <description>Change in minutes to complete Trail Making Test (TMT) A and B</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Dialysate level of amino acids</measure>
+    <time_frame>Baseline to 17 weeks</time_frame>
+    <description>How is this measured, are there different values for different aa's (if so each one should be reported separately)?</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Plasma level of amino acids</measure>
+    <time_frame>Baseline to 17 weeks</time_frame>
+    <description>How is this measured, are there different values for different aa's (if so each one should be reported separately)?</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Blood valine metabolite 3-hydroxyisobutyrate (3-HIB)</measure>
+    <time_frame>Baseline to 17 weeks</time_frame>
+    <description>Change in 3-hydroxyisobutyrate (3-HIB) levels</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Blood valine beta-amino-isobutyric acid (BAIBA)</measure>
+    <time_frame>Baseline to 17 weeks</time_frame>
+    <description>Change in beta-amino-isobutyric acid (BAIBA)</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">28</enrollment>
+  <condition>End Stage Renal Disease</condition>
+  <arm_group>
+    <arm_group_label>Treatment group Valine then EEA</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Valine will be administered as two 4 gm packets administered on dialysis treatment day followed by a washout period and then EEA</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment group EEA then Valine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>EAA will be administered as one 12.5 gm packet administered on dialysis treatment day followed by a washout and then Valine</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Valine</intervention_name>
+    <description>A medical food intended for use under medical supervision</description>
+    <arm_group_label>Treatment group EEA then Valine</arm_group_label>
+    <arm_group_label>Treatment group Valine then EEA</arm_group_label>
+    <other_name>Valine Amino Acid Supplement</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>EEA</intervention_name>
+    <description>A medical food intended for use under medical supervision</description>
+    <arm_group_label>Treatment group EEA then Valine</arm_group_label>
+    <arm_group_label>Treatment group Valine then EEA</arm_group_label>
+    <other_name>Essential Amino Acid Supplement</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or Female&#xD;
+&#xD;
+          2. Age 18-64 years&#xD;
+&#xD;
+          3. Receiving 3 x weekly in clinic hemodialysis for at least 6 months&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Hypersensitivity to amino acid(s) and/or any excipient&#xD;
+&#xD;
+          2. Clinical documentation of COVID-19&#xD;
+&#xD;
+          3. Concomitant intake of amino acids supplements&#xD;
+&#xD;
+          4. Current use or abuse of alcohol, marijuana, narcotic, or other substances&#xD;
+&#xD;
+          5. Heart failure receiving active management&#xD;
+&#xD;
+          6. Malignant cancer receiving anticancer therapy&#xD;
+&#xD;
+          7. Diagnosis of major depressive disorder receiving antidepressants&#xD;
+&#xD;
+          8. Diagnosis of chronic liver disease&#xD;
+&#xD;
+          9. Cerebrovascular disease with sequelae&#xD;
+&#xD;
+         10. Upper limb amputation, osteoarthritis, or degenerative diseases of fingers, carpel&#xD;
+             tunnel syndrome in the non-fistula or graft hand preventing completion of hand grip&#xD;
+             strength test.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>64 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Subrata Debnath, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Texas Health Science Center San Antonio</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Subrata Debnath, PhD</last_name>
+    <phone>210-567-4700</phone>
+    <email>nath@uthscsa.edu</email>
+  </overall_contact>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>January 21, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 21, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>April 10, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 10, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 11, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Fatigue</keyword>
+  <keyword>End-stage kidney disease</keyword>
+  <keyword>Hemodialysis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Kidney Diseases</mesh_term>
+    <mesh_term>Kidney Failure, Chronic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>This study will comply with the NIH Data Sharing Policy and Policy on the Dissemination of NIH-Funded Clinical Trial Information and the Clinical Trials Registration and Results Information Submission rule. As such, this trial will be registered at ClinicalTrials.gov, and results information from this trial will be submitted to ClinicalTrials.gov. In addition, every attempt will be made to publish results in peer-reviewed journals.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>At study completion, once data is published in a peer review journal</ipd_time_frame>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9980">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05686161</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SWC310-1</org_study_id>
+    <nct_id>NCT05686161</nct_id>
+  </id_info>
+  <brief_title>mRNA Booster Vaccine(SW-BIC-213) Compared With Pfizer andSinopharm Against Emerging VOCs</brief_title>
+  <official_title>A Randomized, Single-blind, Parallel Controlled Trial to Evaluate the Immunogenicity ,Safety,Efficacy of A Heterologous Booster Dose With SW-BIC-213, in Previously Vaccinated Subjects Against COVID-19 With Two Inactivated COVID-19 Vaccine Doses Compared to a Booster Dose With Pfizer of Sinopharmin Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stemirna Therapeutics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Stemirna Therapeutics</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Primary#Objectives #Immunogenicity:To demonstrate the non-inferiority of binding antibody&#xD;
+      response in terms of geometric mean titers (GMT) of mRNA vaccine compare with mRNA COVID-19&#xD;
+      vaccine(Pfizer) 14 days post dose.&#xD;
+&#xD;
+      Secondary#Immunogenicity:&#xD;
+&#xD;
+        1. To describe binding antibody profile at D01, D29 and D181 of each study group.&#xD;
+&#xD;
+        2. To describe the neutralizing antibody profile at D15, D29 and D181 of each study&#xD;
+           intervention group.&#xD;
+&#xD;
+      Secondary#Safety:&#xD;
+&#xD;
+      To assess the reactogenicity and safety of a booster dose in a heterologous vaccination&#xD;
+      regimen in subjects previously immunized with two Sinopharm doses.&#xD;
+&#xD;
+      Exploratory#Cell-mediated immunity:&#xD;
+&#xD;
+      To describe the cellular immune response profile at D01, D08, D15, in a subset of 30&#xD;
+      participants for each study group.&#xD;
+&#xD;
+      Exploratory#Efficacy:&#xD;
+&#xD;
+      To describe theoccurrence ofvirologically-confirmedCOVID-19 like illness and&#xD;
+      serologicallyconfirmed SARS-CoV-2 infection.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Endpoint:&#xD;
+&#xD;
+      Immunogenicity Endpoints:&#xD;
+&#xD;
+      GMT of Anti-Spike IgG antibody titers will be measured with the ELISA assay on D01, D15.&#xD;
+&#xD;
+      Immunogenicity Endpoints:&#xD;
+&#xD;
+      Binding antibody titers to full length SARS-CoV-2 Spike (S) protein will be measured for each&#xD;
+      study intervention group with the ELISA method.&#xD;
+&#xD;
+        1. Antibody titer on D01, D29, D181.&#xD;
+&#xD;
+        2. Fold-rise in antibody titer at D15, D29 and D181 relative to D01Neutralizing antibody&#xD;
+           titers will be measured with the neutralization assay.&#xD;
+&#xD;
+        3. Antibody titer on D15, D29 and D181.&#xD;
+&#xD;
+        4. Fold rise in serum neutralization titer [post/pre] relative to D01 at D15, D29 and D181.&#xD;
+&#xD;
+      Safety Endpoints:&#xD;
+&#xD;
+        1. Occurrence of local and systemic AEs reported within 7 days after study vaccination (per&#xD;
+           group);&#xD;
+&#xD;
+        2. Occurrence of unsolicited AEs reported within 28 days after study vaccination (per&#xD;
+           group);&#xD;
+&#xD;
+        3. Occurrence of SAEs and AESIs within 28 days after study vaccination (per group).&#xD;
+&#xD;
+      Exploratory#Cell-mediated immunity Endpoints:&#xD;
+&#xD;
+      INF-γ will be measured in whole blood and/or cryopreserved PBMC following stimulation with&#xD;
+      pools of S-antigen peptides.&#xD;
+&#xD;
+      Exploratory#Efficacy Endpoints Occurrence of confirmed symptomatic cases during the study&#xD;
+      period&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">October 19, 2022</start_date>
+  <completion_date type="Anticipated">June 27, 2023</completion_date>
+  <primary_completion_date type="Actual">December 7, 2022</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>a randomized observer-blinded parallel controlled trial#Experimental group#mRNA vaccine# and positive control group#inactive vaccine#</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>This study uses an observer-blinded design, and the investigators and participants will all remain blinded before unblinding and do not know which group the participant belongs to.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Immunogenicity</measure>
+    <time_frame>day1, day15</time_frame>
+    <description>GMT of Anti-Spike IgG antibody titers will be measured with the ELISA assay on day1 , day 15</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">600</enrollment>
+  <condition>Immunogenicity</condition>
+  <condition>Safety</condition>
+  <condition>Efficacy</condition>
+  <arm_group>
+    <arm_group_label>A single 25 μg dose mRNA vaccine SW-BIC-213</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intervention Name :COVID-19 mRNA vaccine Type :Investigational Vaccine Dose :Formulation mRNA Unit Dose Strength(s) :0.5ml; Dosage Level(s) :0.25ml; Route of Administration: injection Intramuscular</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>A third dose of COVID-19 Inactivated vaccine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Intervention Name: COVID-19 Inactivated Vaccine Type : Control Vaccine Dose :Inactive Unit Dose Strength(s) : 0.5ml; Route of Administration: injection Intramuscular</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>A single 30μg dose mRNA vaccine Pfizer(BNT162b2)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Type :mRNA COVID -19 vaccine - Pfizer(BNT162b2) Dose :Formulation mRNA Unit Dose Strength(s) :30ug; Dosage Level(s) :0.3ml; Route of Administration: injection Intramuscular</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SW-BIC-213;SARS-Cov-2.</intervention_name>
+    <description>The study will be performed in people receiving two doses of Sinopharm vaccine over 180 days (± 30 days) after the second dose prior to enrollment. The three study groups who will receive the booster dose will be assigned as follows:&#xD;
+Subjects (N≈600) Group 1: (N≈200) - Stemirna(SW-BIC-213) Group 2: (N≈200) - Pfizer(BNT162b2) Group 3: (N≈200) -Sinopharm (BIBP) Study groups: There will be three study groups. Study Group Assignment: Randomization (1:1:1) will be applied for subjects to account for the different number of doses per vial for different vaccines and short shelf life.</description>
+    <arm_group_label>A single 25 μg dose mRNA vaccine SW-BIC-213</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Sinopharm (BIBP);SARS-Cov-2.</intervention_name>
+    <description>The study will be performed in people receiving two doses of Sinopharm vaccine over 180 days (± 30 days) after the second dose prior to enrollment. The three study groups who will receive the booster dose will be assigned as follows:&#xD;
+Subjects (N≈600) Group 1: (N≈200) - Stemirna(SW-BIC-213) Group 2: (N≈200) - Pfizer(BNT162b2) Group 3: (N≈200) -Sinopharm (BIBP) Study groups: There will be three study groups. Study Group Assignment: Randomization (1:1:1) will be applied for subjects to account for the different number of doses per vial for different vaccines and short shelf life.</description>
+    <arm_group_label>A third dose of COVID-19 Inactivated vaccine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Pfizer(BNT162b2);SARS-Cov-2.</intervention_name>
+    <description>The study will be performed in people receiving two doses of Sinopharm vaccine over 180 days (± 30 days) after the second dose prior to enrollment. The three study groups who will receive the booster dose will be assigned as follows:&#xD;
+Subjects (N≈600) Group 1: (N≈200) - Stemirna(SW-BIC-213) Group 2: (N≈200) - Pfizer(BNT162b2) Group 3: (N≈200) -Sinopharm (BIBP) Study groups: There will be three study groups. Study Group Assignment: Randomization (1:1:1) will be applied for subjects to account for the different number of doses per vial for different vaccines and short shelf life.</description>
+    <arm_group_label>A single 30μg dose mRNA vaccine Pfizer(BNT162b2)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Participant is willing and able to give written informed consent for participation in&#xD;
+             the study.&#xD;
+&#xD;
+          2. Male or Female, aged 18 years or above and in good health as determined by study&#xD;
+             clinician.&#xD;
+&#xD;
+          3. Female participants of childbearing potential must be willing to ensure that they or&#xD;
+             their partner use effective contraception from 1 month prior to first immunization&#xD;
+             continuously until 3months after boost immunization.&#xD;
+&#xD;
+          4. In the Investigator's opinion, is able and willing to comply with all trial&#xD;
+             requirements.&#xD;
+&#xD;
+          5. Subjects had completed the 2-dose series vaccination of COVID-19 inactivated&#xD;
+             vaccine(Sinopharm) at least 24 weeks with the completed the 2-dose Series as the&#xD;
+             primary vaccination according to the product label.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        -&#xD;
+&#xD;
+        The participant may not enter the study if ANY of the following apply:&#xD;
+&#xD;
+          1. Confirmed cases, suspected cases or asymptomatic cases of COVID-19;&#xD;
+&#xD;
+          2. Self-reported history of SARS and MERS infection;&#xD;
+&#xD;
+          3. Receipt of live attenuated vaccine within one month prior to vaccination and other&#xD;
+             vaccines within 14 days prior to vaccination;&#xD;
+&#xD;
+          4. Receipt of any SARS-COV-2 vaccine after last dose of primary vaccination&#xD;
+&#xD;
+          5. Participants who are pregnant at enrolment or planning to become pregnant during the&#xD;
+             first 3 months following vaccination&#xD;
+&#xD;
+          6. Administration of immunoglobulins and/or any blood products within the three months&#xD;
+             preceding the planned administration of the vaccines&#xD;
+&#xD;
+          7. History of allergic disease or reactions likely to be exacerbated by any component of&#xD;
+             study vaccines&#xD;
+&#xD;
+          8. Any history of anaphylaxis to any component of vaccine.&#xD;
+&#xD;
+          9. Bleeding disorder (e.g. factor deficiency, coagulopathy or platelet disorder), or&#xD;
+             continuous use of anticoagulants (warfarin, apixaban, rivaroxaban, dabigatran,&#xD;
+             edoxaban), or prior history of significant bleeding or bruising following IM&#xD;
+             injections or venipuncture&#xD;
+&#xD;
+         10. Suspected or known current alcohol or drug dependency&#xD;
+&#xD;
+         11. Any other significant disease, disorder or finding which may significantly increase&#xD;
+             the risk to the volunteer because of participation in the study, affect the ability of&#xD;
+             the volunteer to participate in the study or impair interpretation of the study data&#xD;
+&#xD;
+         12. Severe and/or uncontrolled cardiovascular disease, respiratory disease,&#xD;
+             gastrointestinal disease, liver disease, renal disease, endocrine disorder, and&#xD;
+             neurological illness (mild/moderate well controlled comorbidities are allowed)&#xD;
+&#xD;
+         13. Scheduled elective surgery during the trial&#xD;
+&#xD;
+         14. Other reasons investigators did not consider it appropriate to refer to clinical&#xD;
+             trials&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mayfong Mayxay, doctor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Ethics Committee for Health Research(NECHR)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Savannakhét Provincial hospital</name>
+      <address>
+        <city>Savannakhét</city>
+        <state>Sava</state>
+        <country>Lao People's Democratic Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Lao People's Democratic Republic</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>December 20, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 8, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 17, 2023</study_first_posted>
+  <last_update_submitted>January 8, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 8, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 17, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>new generation mRNA vaccine</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

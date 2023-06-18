@@ -8,7 +8,6 @@ import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.UserMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
-import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Status;
 import at.ac.tuwien.sepm.groupphase.backend.exception.AlreadyExistsException;
 import at.ac.tuwien.sepm.groupphase.backend.exception.NotFoundException;
 import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
@@ -32,7 +31,7 @@ import java.util.Optional;
 @Service
 public class CustomUserDetailService implements UserService {
 
-    private static final Logger LOGGER = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
+    private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
     private final UserRepository userRepository;
     private final PatientRepository patientRepository;
     private final UserMapper userMapper;
@@ -53,7 +52,8 @@ public class CustomUserDetailService implements UserService {
 
     @Override
     public String login(UserLoginDto userLoginDto) {
-        LOGGER.debug("Login user with email {}", userLoginDto.getEmail());
+        LOG.trace("login({})", userLoginDto);
+        LOG.debug("Login user with email {}", userLoginDto.getEmail());
         ApplicationUser applicationUser = userRepository.findByEmail(userLoginDto.getEmail());
         if (applicationUser == null) {
             throw new UsernameNotFoundException("Could not find user with this email address.");
@@ -63,7 +63,8 @@ public class CustomUserDetailService implements UserService {
 
     @Override
     public UserDetailDto updateUser(UserUpdateDto user) {
-        LOGGER.debug("Update user with email {}", user.email());
+        LOG.trace("updateUser({})", user);
+        LOG.debug("Update user with email {}", user.email());
         Optional<ApplicationUser> applicationUser = userRepository.findById(user.id());
 
         ApplicationUser foundUser = applicationUser.orElseThrow(() -> new NotFoundException(String.format("Could not find the user with the id %d",
@@ -98,11 +99,13 @@ public class CustomUserDetailService implements UserService {
 
     @Override
     public List<UserDetailDto> getAllUsers() {
+        LOG.trace("getAllUsers()");
         return userRepository.findAll(Sort.by(Sort.Direction.ASC, "status")).stream().map(userMapper::applicationUserToUserDetailDto).toList();
     }
 
     @Override
     public UserDetailDto getActiveUser(long id) {
+        LOG.trace("getActiveUser({})", id);
         Optional<ApplicationUser> applicationUser = userRepository.findById(id);
 
         ApplicationUser foundUser = applicationUser.orElseThrow(() -> new NotFoundException(String.format("Could not find the user with the id %d", id)));
@@ -111,7 +114,8 @@ public class CustomUserDetailService implements UserService {
 
     @Override
     public void deleteUser(long id) {
-        LOGGER.debug("Delete user with id {}", id);
+        LOG.trace("deleteUser({})", id);
+        LOG.debug("Delete user with id {}", id);
 
         userRepository.deleteById(id);
     }
@@ -119,7 +123,8 @@ public class CustomUserDetailService implements UserService {
 
     @Override
     public UserDetailDto createUser(UserRegisterDto user) {
-        LOGGER.debug("Create user with email {}", user.getEmail());
+        LOG.trace("createUser({})", user);
+        LOG.debug("Create user with email {}", user.getEmail());
         user.setPassword(passwordEncoder.encode(user.getPassword()));
         ApplicationUser applicationUser = userMapper.userRegisterDtoToApplicationUser(user);
         applicationUser.setVerification(passwordEncoder.encode(user.getEmail()).replace("/", ""));
@@ -142,16 +147,17 @@ public class CustomUserDetailService implements UserService {
 
     @Override
     public boolean verify(String verificationCode, Role role) {
+        LOG.trace("verify({}, {})", verificationCode, role);
         ApplicationUser user = userRepository.findByVerification(verificationCode);
 
-        if (user == null || user.getStatus() == Status.ACTIVE) {
+        if (user == null || user.getStatus() == ApplicationUser.Status.ACTIVE) {
             return false;
         } else {
             user.setVerification(null);
             if (role == Role.PATIENT) {
-                user.setStatus(Status.ACTIVE);
+                user.setStatus(ApplicationUser.Status.ACTIVE);
             } else {
-                user.setStatus(Status.PENDING);
+                user.setStatus(ApplicationUser.Status.PENDING);
             }
             userRepository.save(user);
 
@@ -162,13 +168,14 @@ public class CustomUserDetailService implements UserService {
 
     @Override
     public boolean setPassword(String pass, String verificationCode) {
+        LOG.trace("setPassword({}, {})", pass, verificationCode);
         ApplicationUser applicationUser = userRepository.findByVerification(verificationCode);
 
-        if (applicationUser == null || applicationUser.getStatus() == Status.ACTIVE) {
+        if (applicationUser == null || applicationUser.getStatus() == ApplicationUser.Status.ACTIVE) {
             return false;
         } else {
             applicationUser.setVerification(null);
-            applicationUser.setStatus(Status.ACTIVE);
+            applicationUser.setStatus(ApplicationUser.Status.ACTIVE);
             applicationUser.setPassword(passwordEncoder.encode(pass));
             userRepository.save(applicationUser);
 

@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9784">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05690256</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-37781</org_study_id>
+    <nct_id>NCT05690256</nct_id>
+  </id_info>
+  <brief_title>The Resilience Clinic Evaluation</brief_title>
+  <official_title>The Resilience Clinic: Program Evaluation and Quality Improvement</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Population Health Innovation Lab</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>UCSF Benioff Children's Hospital Oakland</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>UBCP Bancroft Pediatrics</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Asian Health Services</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>La Clínica de La Raza Inc.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Kerry's Kids</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, San Francisco</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Early life adversity can affect children's physical and mental health. The Resilience Clinic&#xD;
+      is a support program for young children and their caregivers who have been exposed to&#xD;
+      significant adversity, aiming to prevent the harmful effects of stress and improve child&#xD;
+      health, behavior, and development while also reducing caregiver stress. This study seeks to&#xD;
+      evaluate the Resilience Clinic, assessing the intervention's impact on child health,&#xD;
+      behavior, and development and caregiver stress and mental health.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Early-life trauma and related adversities are prevalent and associated with negative health,&#xD;
+      developmental, and behavioral outcomes in children. Research to design and test practical,&#xD;
+      scalable healthcare interventions that mitigate toxic stress is needed to promote improved&#xD;
+      health and developmental outcomes in children.&#xD;
+&#xD;
+      The Resilience Clinic is an interactive, caregiver-child psychoeducational intervention for&#xD;
+      parents and other adult caregivers of young children (ages 0-5 years) with exposure to&#xD;
+      traumatic events or other significant adversity. The aim of this primary-care based&#xD;
+      intervention is to prevent or mitigate the toxic stress response, thus promoting child&#xD;
+      resilience in the face of adversity, with the goal of improving child health, behavioral, and&#xD;
+      developmental outcomes.&#xD;
+&#xD;
+      The overall aim of this study is to evaluate the the efficacy and operational feasibility of&#xD;
+      the revised Resilience Clinic (RC). This is a non-randomized clinical trial comparing&#xD;
+      intervention caregiver-child dyads to a prospective control group drawn from a concurrent&#xD;
+      clinical trial (NCT05259436, The Collaborative Approach to Examining Adversity and Building&#xD;
+      Resilience Study (CARE), PI Thakur). In the intervention group, we will conduct pre-post&#xD;
+      intervention comparisons along with comparisons between the intervention group and the&#xD;
+      control group drawn from the CARE study. A subgroup analysis will compare two intervention&#xD;
+      arms (clinic based vs community-based intervention) to each other and the control condition.&#xD;
+      This clinical trial is supplemented by a mixed-methods quality improvement (QI) tools,&#xD;
+      including process measures (attendance and billing/claims data) to evaluate operational and&#xD;
+      financial feasibility; participant surveys/interviews/focus groups to assess acceptability;&#xD;
+      and analysis of quality improvement meeting notes.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 25, 2023</start_date>
+  <completion_date type="Anticipated">November 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>non-randomized controlled trial (prospective cohort study)</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+    <masking_description>Investigators and those analyzing outcomes will be blinded to study assignment. Given the nature of the intervention, participants and their healthcare providers will be unblinded to their assignment.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Parenting Stress Index Short Form (PSI) score</measure>
+    <time_frame>baseline/enrollment and 2 week and 3-month follow-up after intervention ends</time_frame>
+    <description>36-item caregiver-report questionnaire validated as a measure of parenting stress (level of stress within the context of parenting). Responses indicated on a 5-point Likert scale. Higher scores indicate higher levels of parenting stress.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Child Behavior Checklist (CBCL)-Preschool form total problems scale score</measure>
+    <time_frame>baseline/enrollment and 2 week and 3-month follow-up after intervention ends</time_frame>
+    <description>Caregiver-report questionnaire validated as a measure of child behavioral challenges; part of the Achenbach System of Empirically Based Assessment (ASEBA). The CBCL-Preschool form is validated for children ages 1.5-5 years based on behavior from the prior 2 months.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Behavior Rating Inventory of Executive Function, Preschool Version (BRIEF-P) score</measure>
+    <time_frame>baseline/enrollment and 2 week and 3-month follow-up after intervention ends</time_frame>
+    <description>Caregiver-report questionnaire, validated as a measure of executive functioning in preschool aged children (ages 2-5:11)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Patient-Reported Outcomes Measurement Information System (PROMIS) global health score</measure>
+    <time_frame>baseline/enrollment and 2 week and 3-month follow-up after intervention ends</time_frame>
+    <description>PROMIS is a set of person-centered measure evaluating the physical, mental, and social health of adults and children. This study uses the first question on the global scale, with a minimum value of 1 and maximum of 5; higher scores indicate better general health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Ages and Stages Questionnaire (ASQ)-3rd Edition scores</measure>
+    <time_frame>baseline/enrollment to 3 month follow-up after intervention ends</time_frame>
+    <description>Caregiver-report questionnaire validated as a measure for risk of developmental delay in children ages 0-60 months.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Caregiver depression score on the Patient Health Questionnaire (PHQ)-8 scale</measure>
+    <time_frame>baseline/enrollment and 2 week and 3-month follow-up after intervention ends</time_frame>
+    <description>Questionnaire validated as a measure of depressive symptoms; higher scores indicate higher self-report depressive symptoms. Will be given to questionnaires to assess their depressive symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Caregiver anxiety score on the Generalized Anxiety Disorder (GAD) scale</measure>
+    <time_frame>baseline/enrollment and 2 week and 3-month follow-up after intervention ends</time_frame>
+    <description>Questionnaire validated as a measure of anxiety symptoms; high scores indicate higher levels of anxiety. Will be given to caregivers to assess their anxiety symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Perceived Stress Scale (PSS) total score- Caregiver general stress</measure>
+    <time_frame>baseline/enrollment and 2 week and 3-month follow-up after intervention ends</time_frame>
+    <description>Self-report questionnaire that measures global perceived stress based on feelings and thoughts during the last month. Higher scores indicate higher perceived stress. Will be given to caregivers as a measure of their general perceived stress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in telomere length (children)</measure>
+    <time_frame>baseline/enrollment to 3 month follow-up after intervention ends</time_frame>
+    <description>Telomere are nucleoproteins that protect the ends of chromosomes and can be used as a biomarker of cellular aging. Chronic stress has been associated with shorter telomere length. DNA will be extracted from cheek cells (obtained by buccal swab) in children.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Early Life Adversity</condition>
+  <condition>Caregiver Stress</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Resilience Clinic</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Enhanced pediatric primary care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Resilience Clinic</intervention_name>
+    <description>A psychoeducational caregiver-child intervention based in primary care, designed to mitigate toxic stress and promote child resilience. Participants engage in 6 weekly visits in primary care using an interactive curriculum based in the evidence-based Circle of Security Parenting along with mindfulness principles.</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Enhanced primary care</intervention_name>
+    <description>In addition to usual pediatric primary care, enhanced primary care (the control condition for this study) provides navigational services to link to community resources based on screening for unmet social needs (e.g., food insecurity, housing, financial strain).</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Caregiver: 18 years old and older, primary caregiver, English or Spanish speaking&#xD;
+&#xD;
+          -  Child: 2 to 5 years, PEARLS score &gt; 1 or verbal disclosure of PEARLS adversity to&#xD;
+             primary care clinician/staff&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Caregiver: active suicidality, other psychiatric issues&#xD;
+&#xD;
+          -  Child: significant medical co-morbidities (i.e. disease requiring immunomodulators,&#xD;
+             chemo or radiation therapy, or hormonal therapy)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>2 Years</minimum_age>
+    <maximum_age>5 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Joan Jeung, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, San Francisco</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Joan J Jeung, MD</last_name>
+    <phone>415-353-8835</phone>
+    <email>Joan.Jeung@ucsf.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>La Clinica de la Raza</name>
+      <address>
+        <city>Oakland</city>
+        <state>California</state>
+        <zip>94601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Lynne Rosen, MD</last_name>
+      <phone>510-535-3500</phone>
+      <email>lrosen@laclinica.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Asian Health Services</name>
+      <address>
+        <city>Oakland</city>
+        <state>California</state>
+        <zip>94607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Sai-Woon Liang, MD</last_name>
+      <phone>510-986-6800</phone>
+      <email>sliang@ahschc.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF Benioff Children's Hospital Oakland</name>
+      <address>
+        <city>Oakland</city>
+        <state>California</state>
+        <zip>94609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joan Jeung, MD</last_name>
+      <phone>415-353-8835</phone>
+      <email>joan.jeung@ucsf.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Lourdes Juarez, MSN</last_name>
+      <phone>510-428-3885</phone>
+      <phone_ext>2052</phone_ext>
+      <email>lourdes.juarez@ucsf.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>UBCP-Bancroft Pediatrics</name>
+      <address>
+        <city>San Leandro</city>
+        <state>California</state>
+        <zip>94577</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Miriam Rhew, MD</last_name>
+      <phone>510-483-2600</phone>
+      <email>miriam.rhew@ubcp.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>December 29, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 9, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>May 26, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 26, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>toxic stress</keyword>
+  <keyword>adverse childhood experiences</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

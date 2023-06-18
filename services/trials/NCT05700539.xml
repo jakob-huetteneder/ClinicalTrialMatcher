@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9319">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05700539</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DF0001</org_study_id>
+    <nct_id>NCT05700539</nct_id>
+  </id_info>
+  <brief_title>Internet-based Cognitive Behavioral Therapy for Adult Attention Deficit Hyperactivity Disorder</brief_title>
+  <official_title>A Randomized Controlled Trial of Internet-based Cognitive Behavioral Therapy for Adult Attention Deficit Hyperactivity Disorder in Sweden</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Karolinska Institutet</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Uppsala University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Karolinska Institutet</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Attention deficit hyperactivity disorder (ADHD) is a disorder characterized by lack of&#xD;
+      attention, hyperactivity, and impulsivity. It can have major impact on everyday life and&#xD;
+      result in negative consequences for one's personal, academic, and work situation. For&#xD;
+      individuals with symptoms of ADHD, increased levels of anxiety and depression are common, and&#xD;
+      an overall reduction of quality of life is often present. This study protocol describes a&#xD;
+      clinical trial of internet-based cognitive behavioral therapy (iCBT), using a randomized&#xD;
+      controlled study design, with the primary aim to increase quality of life, as well as to&#xD;
+      reduce symptoms of ADHD, anxiety, depression, and stress. A second aim is to investigate, by&#xD;
+      qualitative means, what aspects of treatment were perceived as helpful and hindering when it&#xD;
+      comes to completing iCBT. Two hundred participants with symptoms of ADHD will be included and&#xD;
+      randomized to two conditions (treatment and wait-list control). The treatment period is&#xD;
+      comprised of ten weeks, with two mandatory modules and ten modules from which the&#xD;
+      participants can choose freely. Self-report measures are completed by the participants at&#xD;
+      baseline and end of treatment, as well as at a six-month follow-up. The treatment is guided&#xD;
+      by therapists and consists of weekly correspondence with the participants. The study will&#xD;
+      utilize an intention to treat design, with ANOVAs and Reliable Change Index to evaluate&#xD;
+      treatment effects. The qualitative part of the project will be interview-based and employ&#xD;
+      thematic analysis. Lastly, a psychometric evaluation of a common instrument for determining&#xD;
+      ADHD-symptoms will also be made. The results will hopefully contribute to the evidence base&#xD;
+      for iCBT for individuals with symptoms of ADHD and help disseminate potentially effective&#xD;
+      interventions.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 25, 2023</start_date>
+  <completion_date type="Anticipated">July 25, 2024</completion_date>
+  <primary_completion_date type="Anticipated">May 25, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Adult Attention-deficit/hyperactivity disorder Quality-of-Life scale (AAQoL)</measure>
+    <time_frame>Change in quality of life from baseline to 10 week (i.e., post-treatment)</time_frame>
+    <description>The AAQoL (Brod et al., 2015; Brod, Johnston, Able, &amp; Swindle, 2006) is a disease-specific quality of life measure for adults with ADHD. The instrument measures quality of life-consequences of ADHD in four domains using and consists of 29 items. The instrument has excellent internal consistency (Cronbach's α = .93 for the overall measure). One example of an item is &quot;In the last two weeks, how hard has it been for you to remember important things?&quot;, scored on a five-point Likert-like scale from &quot;Not at all/Never&quot; (1) to &quot;Extremely/Very Often&quot; (5). The scale ranges from 0 to 145.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adult Attention-deficit/hyperactivity disorder Quality-of-Life scale (AAQoL)</measure>
+    <time_frame>Change in quality of life from baseline six-month follow-up</time_frame>
+    <description>The AAQoL (Brod et al., 2015; Brod, Johnston, Able, &amp; Swindle, 2006) is a disease-specific quality of life measure for adults with ADHD. The instrument measures quality of life-consequences of ADHD in four domains using and consists of 29 items. The instrument has excellent internal consistency (Cronbach's α = .93 for the overall measure). One example of an item is &quot;In the last two weeks, how hard has it been for you to remember important things?&quot;, scored on a five-point Likert-like scale from &quot;Not at all/Never&quot; (1) to &quot;Extremely/Very Often&quot; (5). The scale ranges from 0 to 145.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adult ADHD Self-Report Scale-V1.1 (ASRS-V1.1) Symptoms Checklist (ASRS)</measure>
+    <time_frame>Change in ADHD symptoms from baseline to 10 week (i.e., post-treatment)</time_frame>
+    <description>The ASRS is an instrument that measures ADHD-symptoms (Kessler et al., 2005). The instrument consists of 18 items that correspond to the 18 symptom-criteria for ADHD found in the DSM-IV-TR (Association, 2000). Of these 18 questions, six have been identified as most predictive of ADHD-symptoms. The overall range of the entire measure is 0 to 72. However, there are separate items focusing on attention and hyperactivity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adult ADHD Self-Report Scale-V1.1 (ASRS-V1.1) Symptoms Checklist (ASRS)</measure>
+    <time_frame>Change in ADHD symptoms from baseline to six-month follow-up</time_frame>
+    <description>The ASRS is an instrument that measures ADHD-symptoms (Kessler et al., 2005). The instrument consists of 18 items that correspond to the 18 symptom-criteria for ADHD found in the DSM-IV-TR (Association, 2000). Of these 18 questions, six have been identified as most predictive of ADHD-symptoms. The overall range of the entire measure is 0 to 72. However, there are separate items focusing on attention and hyperactivity.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Generalized Anxiety Disorder - 7 Items (GAD-7)</measure>
+    <time_frame>Change in anxiety symptoms from baseline to 10 week (i.e., post-treatment)</time_frame>
+    <description>The GAD-7 is an instrument that measures anxiety (Spitzer, Kroenke, Williams, &amp; Löwe, 2006). Its internal consistency is excellent (Cronbach's α = .92), and it has good test-retest reliability (IntraClass Correlation = .83; Spitzer et al., 2006). The instrument includes seven items and has a single-factor solution. The score ranges from 0 to 21 points and the items range from 0 (&quot;Not at all&quot;) to 3 (&quot;Nearly every day&quot;; Spitzer et al., 2006). One example of an item is: &quot;Over the last 2 weeks, how often have you been bothered by any of the following problems? Feeling nervous, anxious, or on edge.&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Generalized Anxiety Disorder - 7 Items (GAD-7)</measure>
+    <time_frame>Change in anxiety symptoms from baseline to six-month follow-up</time_frame>
+    <description>The GAD-7 is an instrument that measures anxiety (Spitzer, Kroenke, Williams, &amp; Löwe, 2006). Its internal consistency is excellent (Cronbach's α = .92), and it has good test-retest reliability (IntraClass Correlation = .83; Spitzer et al., 2006). The instrument includes seven items and has a single-factor solution. The score ranges from 0 to 21 points and the items range from 0 (&quot;Not at all&quot;) to 3 (&quot;Nearly every day&quot;; Spitzer et al., 2006). One example of an item is: &quot;Over the last 2 weeks, how often have you been bothered by any of the following problems? Feeling nervous, anxious, or on edge.&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Health Questionnaire - 9 Items (PHQ-9)</measure>
+    <time_frame>Change in depressive symptoms from baseline to 10 week (i.e., post-treatment)</time_frame>
+    <description>The PHQ-9 is a nine-item instrument measuring depression. It has excellent internal consistency (Cronbach's α = .89) and a good test-retest correlation (r = .84; Kroenke et al., 2001). The instrument has a single-factor solution. The score ranges from 0 to 27 points (Kroenke, Spitzer, &amp; Williams, 2001). Items range from 0 (&quot;Not at all&quot;) to 3 (&quot;Nearly every day&quot;). One example of an item is: &quot;Over the last 2 weeks, how often have you been bothered by any of the following problems? Little interest or pleasure in doing things.&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Health Questionnaire - 9 Items (PHQ-9)</measure>
+    <time_frame>Change in depressive symptoms from baseline to six-month follow-up</time_frame>
+    <description>The PHQ-9 is a nine-item instrument measuring depression. It has excellent internal consistency (Cronbach's α = .89) and a good test-retest correlation (r = .84; Kroenke et al., 2001). The instrument has a single-factor solution. The score ranges from 0 to 27 points (Kroenke, Spitzer, &amp; Williams, 2001). Items range from 0 (&quot;Not at all&quot;) to 3 (&quot;Nearly every day&quot;). One example of an item is: &quot;Over the last 2 weeks, how often have you been bothered by any of the following problems? Little interest or pleasure in doing things.&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Perceived Stress scale (PSS)</measure>
+    <time_frame>Change in stress symptoms from baseline to 10 week (i.e., post-treatment)</time_frame>
+    <description>The PSS is an instrument that evaluates the subjective experience of general stress in various situations and is scored on a five-point Likert-scale 0-4 (&quot;Never&quot; to &quot;Very often&quot;), with seven items being scored in reverse (items 4-7, 9-10, and 13). The PSS includes 14 items in total and has been shown to have good internal consistency (Cronbach's α = .84-.86) as well as good convergent and discriminant validity (Cohen, Kamarck, &amp; Mermelstein, 1983).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Perceived Stress scale (PSS)</measure>
+    <time_frame>Change in stress symptoms from baseline to six-month follow-up</time_frame>
+    <description>The PSS is an instrument that evaluates the subjective experience of general stress in various situations and is scored on a five-point Likert-scale 0-4 (&quot;Never&quot; to &quot;Very often&quot;), with seven items being scored in reverse (items 4-7, 9-10, and 13). The PSS includes 14 items in total and has been shown to have good internal consistency (Cronbach's α = .84-.86) as well as good convergent and discriminant validity (Cohen, Kamarck, &amp; Mermelstein, 1983).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Negative Effects Questionnaire (NEQ)</measure>
+    <time_frame>Incidence of negative effects of psychological treatment from baseline to post-treatment</time_frame>
+    <description>The NEQ is a 32-item instrument that assesses unwanted and adverse events experienced by patients undergoing psychotherapy (Rozental, Kottorp, Boettcher, Andersson, &amp; Carlbring, 2016; Rozental et al., 2019), e.g., &quot;I experienced more unpleasant feelings&quot;. It is comprised of six factors: symptoms, quality, dependency, stigma, hopelessness, and failure. The internal consistency for the full instrument is excellent (Cronbach's α = .95), and is scored on several dimensions; 1) &quot;Did you experience this?&quot; (yes/no), 2) &quot;If yes - here is how negatively it affected me&quot;, from 0 (&quot;Not at all&quot;) to 4 (&quot;Extremely&quot;), and 3) &quot;Probably caused by&quot; (&quot;The treatment I received&quot; or &quot;Other circumstances&quot;).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>ADHD</condition>
+  <arm_group>
+    <arm_group_label>Internet-based cognitive behavioral therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Wait-list control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Internet-based cognitive behavioral therapy</intervention_name>
+    <description>A ten-week treatment based on cognitive behavioral therapy for ADHD, including two mandatory modules and at least four self-selected modules (out of ten available modules). The treatment consists of reading material and exercises to be completed each week.</description>
+    <arm_group_label>Internet-based cognitive behavioral therapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Over 18 years old of age.&#xD;
+&#xD;
+          2. Can read and write in Swedish.&#xD;
+&#xD;
+          3. Have access to a computer, tablet, or smartphone with an Internet connection.&#xD;
+&#xD;
+          4. Have previously been diagnosed with ADHD.&#xD;
+&#xD;
+          5. Are studying at a university or college in Sweden or working at least 50% of a full&#xD;
+             time-employment.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Shows elevated symptoms of depression or risk of suicide, i.e., a total score on the&#xD;
+             Patient Health Questionnaire - 9 items (PHQ-9; Kroenke, K., Spitzer, R. L., &amp;&#xD;
+             Williams, J. B. (2001)), &gt; 15 points, or scores &gt; 2 points on question i) concerning&#xD;
+             suicidality.&#xD;
+&#xD;
+          2. Has started or changed their medication for any psychiatric diagnosis in the last&#xD;
+             three months.&#xD;
+&#xD;
+          3. Exhibits another form of psychiatric diagnosis that requires more specialized care,&#xD;
+             for example substance abuse syndrome, anorexia nervosa, bipolar disorder, psychotic&#xD;
+             symptoms, or schizophrenia, as assessed with the MINI (Sheehan et al., 1998).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David Forsström, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Uppsala University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alexander Rozental, PhD</last_name>
+    <phone>+46(0)736937948</phone>
+    <email>alexander.rozental@ki.se</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Monica Buhrman, PhD</last_name>
+    <phone>+46(0)733468539</phone>
+    <email>monica.buhrman@psyk.uu.se</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Uppsala University</name>
+      <address>
+        <city>Uppsala</city>
+        <zip>751 42</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Forsström, PhD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>December 21, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>March 7, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 7, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 9, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Karolinska Institutet</investigator_affiliation>
+    <investigator_full_name>Alexander Rozental</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Attention Deficit Disorder with Hyperactivity</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

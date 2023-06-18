@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9067">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05705921</url>
+  </required_header>
+  <id_info>
+    <org_study_id>M21HYP</org_study_id>
+    <nct_id>NCT05705921</nct_id>
+  </id_info>
+  <brief_title>Standard Moderately Hypofractionated RT vs. Ultra-hypofractionated Focal Lesion Ablative Microboost in Prostate Cancer</brief_title>
+  <official_title>Standard Moderately Hypofractionated Radiotherapy vs. Ultra-hypofractionated Focal Lesion Ablative Microboost in Prostate Cancer, Hypo-FLAME 3.0</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Netherlands Cancer Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Radboud University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Universitaire Ziekenhuizen KU Leuven</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The Netherlands Cancer Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      EBRT is one of the standard treatment options for patients with localized PCA. Based on the&#xD;
+      outcome of randomized trials, moderately hypofractionated RT(19-25 fractions of 2.5-3.4Gy) is&#xD;
+      considered equivalent to conventional fractionated schemes with 35-39 fractions of 2Gy. A&#xD;
+      schedule of 20 fractions to a dose of 60-62Gy is adopted as standard of care for all&#xD;
+      risk-groups. Driven by the success of moderate hypofractionation, there is a strong trend&#xD;
+      towards extreme hypofractionation, also called SBRT, reducing the number of fractions even&#xD;
+      further. The schedule mostly used is 5 fractions of 7-7.25Gy. Its effectiveness, equivalence&#xD;
+      to standard EBRT schedules, has been demonstrated for low and favourable intermediate risk&#xD;
+      (IM) patients.&#xD;
+&#xD;
+      For unfavourable IM (here defined as IM with ISUP grade 3) and high-risk (HR) PCA the outcome&#xD;
+      of EBRT can be further improved by dose escalation. Because of dose-limiting toxicity, the&#xD;
+      maximal dose of EBRT for conventionally fractionated schemes was approximately 80Gy.&#xD;
+      Initially hypofractionation was considered as a potential way to escalate the biologically&#xD;
+      effective dose (BED) above 80Gy, however, this proved not to be the case. With&#xD;
+      hypofractionation, a saturation in dose effect seems to be present at a BED of 80Gy.&#xD;
+      Recently, the multi-centre phase III FLAME trial broke the '80Gy barrier' and showed that in&#xD;
+      mainly HR PCA patients, treated with a conventional fractionation schedule, focal boosting of&#xD;
+      the intraprostatic lesion to a total dose of 95Gy improves biochemical disease-free survival&#xD;
+      (bDFS). However, given the advantages of hypofractionation in terms of patient comfort and&#xD;
+      costs, the FLAME schedule is not ideal as the standard treatment.&#xD;
+&#xD;
+      For unfavourable IM and HR PCA patients the value of SBRT has not yet been established. The&#xD;
+      FLAME trial showed that higher than standard BED is a prerequisite for optimal bDFS.&#xD;
+      Furthermore, post SBRT biopsies results suggest a dose response relationship with better&#xD;
+      outcome of dose levels above 40Gy. Therefore, probably a higher than standard dose SBRT is&#xD;
+      necessary for these patients. A recent meta-analysis suggests diminishing results from&#xD;
+      increased fraction sizes in SBRT. So, the question remains whether dose escalation in SBRT&#xD;
+      will indeed improve treatment outcome.&#xD;
+&#xD;
+      With standard SBRT to the whole prostate, dose escalation is limited to 40Gy because of&#xD;
+      unacceptable toxicity. In line with FLAME, we conducted the Hypo-FLAME trial investigating&#xD;
+      focal dose escalation in SBRT. In the phase II Hypo-FLAME trial, 100 patients with IM or HR&#xD;
+      PCA were treated with SBRT 35Gy in 5 weekly fractions to the whole prostate with a focal&#xD;
+      boost up to 50Gy. The acute toxicity rates, the primary endpoint, were low and similar to&#xD;
+      standard SBRT indicating this schedule can be safely applied. Given this was a phase II&#xD;
+      trial, no conclusions on oncological outcome can be drawn.&#xD;
+&#xD;
+      Shortening of the overall treatment time (OTT) has been suggested to play a role in SBRT&#xD;
+      efficacy and 5 fractions delivered every other day this is internationally accepted as&#xD;
+      standard. We therefore initiated the phase II Hypo-FLAME 2.0 trial, investigating the&#xD;
+      feasibility of a reduction in the OTT of the Hypo-FLAME schedule from 29 to 15 days with&#xD;
+      acute toxicity as primary endpoint. The accrual of this trial is completed and a first&#xD;
+      analysis of the primary endpoint shows low toxicity figures, well in the range of what was&#xD;
+      expected. We expect to submit the analysis for publication by the end of 2022.&#xD;
+&#xD;
+      At present, it is unknown what the oncological efficacy of the Hypo-FLAME schedule is&#xD;
+      compared to the standard of care in unfavourable IM and HR prostate cancer. Therefore, we&#xD;
+      will conduct a Phase III multi-centre randomized trial, in which 484 patients with&#xD;
+      unfavourable IM or HR PCA will be randomized between:&#xD;
+&#xD;
+        1. Standard treatment; moderately hypofractionated radiotherapy 62 Gy in 20 fractions of&#xD;
+           3.1Gy&#xD;
+&#xD;
+        2. Experimental treatment; SBRT 5x7Gy with an iso-toxic integrated focal boost up to 50 Gy&#xD;
+           (Hypo-FLAME).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Objective of the study:&#xD;
+&#xD;
+      To demonstrate superiority of whole gland SBRT with a simultaneous integrated focal boost&#xD;
+      35/50 Gy in 5 fractions (Hypo-FLAME) regarding 5-year bDFS compared to the current standard&#xD;
+      moderately hypofractionated schedule of 62 Gy in 20 fractions of 3.1 Gy. bDFS will be&#xD;
+      assessed, using the Phoenix consensus definition.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 26, 2023</start_date>
+  <completion_date type="Anticipated">January 1, 2032</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2032</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Phase III multi-centre randomized trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>5-year bDFS</measure>
+    <time_frame>5 year</time_frame>
+    <description>To demonstrate superiority of whole gland SBRT with a simultaneous integrated focal boost 35/50 Gy in 5 fractions (Hypo-FLAME) regarding 5-year bDFS compared to the current standard moderately hypofractionated schedule of 62 Gy in 20 fractions of 3.1 Gy. bDFS will be assessed, using the Phoenix consensus definition.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Acute toxicity</measure>
+    <time_frame>3 year</time_frame>
+    <description>Toxicity will be assessed by the gastrointestinal (GI) and genitourinary (GU) Common Terminology Criteria for Adverse Events version 5.0 (CTCAE v5.0).&#xD;
+Acute toxicity is defined as toxicity occurring within 90 days after the first radiation treatment.&#xD;
+Late toxicity is defined as toxicity occurring after at least 90 days after the first radiation treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Late toxicity</measure>
+    <time_frame>3 year</time_frame>
+    <description>Toxicity will be assessed by the gastrointestinal (GI) and genitourinary (GU) Common Terminology Criteria for Adverse Events version 5.0 (CTCAE v5.0).&#xD;
+Acute toxicity is defined as toxicity occurring within 90 days after the first radiation treatment.&#xD;
+Late toxicity is defined as toxicity occurring after at least 90 days after the first radiation treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient-Reported Outcome Measures (PROMs) 1</measure>
+    <time_frame>3 year</time_frame>
+    <description>PROMs will be assessed using the International Prostate Symptom Score (IPSS) questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient-Reported Outcome Measures (PROMs) 2</measure>
+    <time_frame>3 year</time_frame>
+    <description>PROMs will be assessed using the Expanded Prostate Cancer Index Composite-26 (EPIC-26) questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient-Reported Outcome Measures (PROMs) 3</measure>
+    <time_frame>3 year</time_frame>
+    <description>PROMs will be assessed using the European Organisation for Research and Treatment of Cancer (EORTC) QLQ-C30 questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Survival 1</measure>
+    <time_frame>5 year</time_frame>
+    <description>Disease-free survival</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Survival 2</measure>
+    <time_frame>5 year</time_frame>
+    <description>Distant metastases-free survival</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Survival 3</measure>
+    <time_frame>5 year</time_frame>
+    <description>Prostate cancer-specific survival</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Survival 4</measure>
+    <time_frame>5 year</time_frame>
+    <description>Overall survival</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">484</enrollment>
+  <condition>Prostate Cancer</condition>
+  <arm_group>
+    <arm_group_label>Standard treatment</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>moderately hypofractionated radiotherapy 62 Gy in 20 fractions of 3.1 Gy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Experimental treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SBRT 5x7Gy with an iso-toxic integrated focal boost up to 50 Gy (Hypo-FLAME) in 15 days (2 fractions per week)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Radiotherapy standard</intervention_name>
+    <description>Standard moderately hypofractionated radiotherapy in prostate cancer</description>
+    <arm_group_label>Standard treatment</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Radiotherapy Hypo-FLAME</intervention_name>
+    <description>Ultra-hypofractionated focal lesion ablative microboost in prostate cancer</description>
+    <arm_group_label>Experimental treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men ≥ 18 years with histologically confirmed prostate adenocarcinoma&#xD;
+&#xD;
+          -  No evidence of lymph node or distant metastases N0M0.&#xD;
+&#xD;
+          -  MRI visible tumor on mpMRI (PI-RADS v2 ≥ 4).&#xD;
+&#xD;
+          -  Intermediate- or high-risk PCa, defined as at least one of the following risk criteria&#xD;
+             (note; both the clinical T-stage and imaging T stage are noted in the CRF):&#xD;
+&#xD;
+               -  clinical stage cT2c-T3a (UICC TNM 8th edition)&#xD;
+&#xD;
+               -  Imaging stage T2c, T3a or T3b with less than 5 mm invasion in the seminal&#xD;
+                  vesicles (as defined on mp MRI)&#xD;
+&#xD;
+               -  ≥ Gleason score 4+3, (ISUP Grade groups 3,4 or 5)&#xD;
+&#xD;
+               -  PSA ≥ 20 ng/mL&#xD;
+&#xD;
+          -  World Health Organization (WHO) performance score ≤ 2&#xD;
+&#xD;
+          -  International prostate symptoms score (IPSS score) &lt; 15&#xD;
+&#xD;
+          -  PSA ≤ 30 ng/mL&#xD;
+&#xD;
+          -  Prostate volume ≤ 90 cc on MRI&#xD;
+&#xD;
+          -  Ability to give written informed consent and willingness to return for follow-up&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior pelvic radiotherapy&#xD;
+&#xD;
+          -  TURP (transurethral prostate resection) within 6 months from start treatment&#xD;
+&#xD;
+          -  On-line image guidance based on either fiducial markers or high-quality CBCT or MRI&#xD;
+             according to local guidelines not feasible. For example: Unsafe to have gold fiducial&#xD;
+             marker implantation, if gold fiducial markers are used for image guidance. Distorted&#xD;
+             images on MR because of hip protheses prohibit accurate MR image guidance, if MR is&#xD;
+             used for image guidance.&#xD;
+&#xD;
+          -  Contraindications to MRI according to local hospital guidelines.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Floris Pos, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Netherlands Cancer Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Floris Pos, MD PhD</last_name>
+    <phone>+31 20 512 9111</phone>
+    <email>f.pos@nki.nl</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Uulke van der Heide, PhD</last_name>
+    <phone>+31 20 512 9111</phone>
+    <email>u.vd.heide@nki.nl</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Netherlands Cancer Institute</name>
+      <address>
+        <city>Amsterdam</city>
+        <zip>1066 CX</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Floris Pos, MD</last_name>
+      <phone>+31205129111</phone>
+      <email>f.pos@nki.nl</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <reference>
+    <citation>Morgan SC, Hoffman K, Loblaw DA, Buyyounouski MK, Patton C, Barocas D, Bentzen S, Chang M, Efstathiou J, Greany P, Halvorsen P, Koontz BF, Lawton C, Leyrer CM, Lin D, Ray M, Sandler H. Hypofractionated Radiation Therapy for Localized Prostate Cancer: An ASTRO, ASCO, and AUA Evidence-Based Guideline. J Urol. 2018 Oct 9:S0022-5347(18)43963-8. doi: 10.1016/j.juro.2018.10.001. Online ahead of print.</citation>
+    <PMID>30316897</PMID>
+  </reference>
+  <reference>
+    <citation>Jackson WC, Silva J, Hartman HE, Dess RT, Kishan AU, Beeler WH, Gharzai LA, Jaworski EM, Mehra R, Hearn JWD, Morgan TM, Salami SS, Cooperberg MR, Mahal BA, Soni PD, Kaffenberger S, Nguyen PL, Desai N, Feng FY, Zumsteg ZS, Spratt DE. Stereotactic Body Radiation Therapy for Localized Prostate Cancer: A Systematic Review and Meta-Analysis of Over 6,000 Patients Treated On Prospective Studies. Int J Radiat Oncol Biol Phys. 2019 Jul 15;104(4):778-789. doi: 10.1016/j.ijrobp.2019.03.051. Epub 2019 Apr 6.</citation>
+    <PMID>30959121</PMID>
+  </reference>
+  <reference>
+    <citation>Widmark A, Gunnlaugsson A, Beckman L, Thellenberg-Karlsson C, Hoyer M, Lagerlund M, Kindblom J, Ginman C, Johansson B, Bjornlinger K, Seke M, Agrup M, Fransson P, Tavelin B, Norman D, Zackrisson B, Anderson H, Kjellen E, Franzen L, Nilsson P. Ultra-hypofractionated versus conventionally fractionated radiotherapy for prostate cancer: 5-year outcomes of the HYPO-RT-PC randomised, non-inferiority, phase 3 trial. Lancet. 2019 Aug 3;394(10196):385-395. doi: 10.1016/S0140-6736(19)31131-6. Epub 2019 Jun 18.</citation>
+    <PMID>31227373</PMID>
+  </reference>
+  <reference>
+    <citation>Vogelius IR, Bentzen SM. Dose Response and Fractionation Sensitivity of Prostate Cancer After External Beam Radiation Therapy: A Meta-analysis of Randomized Trials. Int J Radiat Oncol Biol Phys. 2018 Mar 15;100(4):858-865. doi: 10.1016/j.ijrobp.2017.12.011. Epub 2017 Dec 15.</citation>
+    <PMID>29485063</PMID>
+  </reference>
+  <reference>
+    <citation>Kerkmeijer LGW, Groen VH, Pos FJ, Haustermans K, Monninkhof EM, Smeenk RJ, Kunze-Busch M, de Boer JCJ, van der Voort van Zijp J, van Vulpen M, Draulans C, van den Bergh L, Isebaert S, van der Heide UA. Focal Boost to the Intraprostatic Tumor in External Beam Radiotherapy for Patients With Localized Prostate Cancer: Results From the FLAME Randomized Phase III Trial. J Clin Oncol. 2021 Mar 1;39(7):787-796. doi: 10.1200/JCO.20.02873. Epub 2021 Jan 20.</citation>
+    <PMID>33471548</PMID>
+  </reference>
+  <reference>
+    <citation>Zelefsky MJ, Goldman DA, Reuter V, Kollmeier M, McBride S, Zhang Z, Varghese M, Pei X, Fuks Z. Long-Term Implications of a Positive Posttreatment Biopsy in Patients Treated with External Beam Radiotherapy for Clinically Localized Prostate Cancer. J Urol. 2019 Jun;201(6):1127-1133. doi: 10.1097/JU.0000000000000110.</citation>
+    <PMID>30741847</PMID>
+  </reference>
+  <reference>
+    <citation>Zelefsky MJ, Goldman DA, Hopkins M, Pinitpatcharalert A, McBride S, Gorovets D, Ehdaie B, Fine SW, Reuter VE, Tyagi N, Happersett L, Teyateeti A, Zhang Z, Kollmeier MA. Predictors for post-treatment biopsy outcomes after prostate stereotactic body radiotherapy. Radiother Oncol. 2021 Jun;159:33-38. doi: 10.1016/j.radonc.2021.02.008. Epub 2021 Feb 13.</citation>
+    <PMID>33587971</PMID>
+  </reference>
+  <reference>
+    <citation>Vogelius IR, Bentzen SM. Diminishing Returns From Ultrahypofractionated Radiation Therapy for Prostate Cancer. Int J Radiat Oncol Biol Phys. 2020 Jun 1;107(2):299-304. doi: 10.1016/j.ijrobp.2020.01.010. Epub 2020 Jan 25.</citation>
+    <PMID>31987958</PMID>
+  </reference>
+  <reference>
+    <citation>Quon HC, Ong A, Cheung P, Chu W, Chung HT, Vesprini D, Chowdhury A, Panjwani D, Pang G, Korol R, Davidson M, Ravi A, McCurdy B, Zhang L, Mamedov A, Deabreu A, Loblaw A. Once-weekly versus every-other-day stereotactic body radiotherapy in patients with prostate cancer (PATRIOT): A phase 2 randomized trial. Radiother Oncol. 2018 May;127(2):206-212. doi: 10.1016/j.radonc.2018.02.029. Epub 2018 Mar 15.</citation>
+    <PMID>29551231</PMID>
+  </reference>
+  <reference>
+    <citation>Kim DW, Cho LC, Straka C, Christie A, Lotan Y, Pistenmaa D, Kavanagh BD, Nanda A, Kueplian P, Brindle J, Cooley S, Perkins A, Raben D, Xie XJ, Timmerman RD. Predictors of rectal tolerance observed in a dose-escalated phase 1-2 trial of stereotactic body radiation therapy for prostate cancer. Int J Radiat Oncol Biol Phys. 2014 Jul 1;89(3):509-17. doi: 10.1016/j.ijrobp.2014.03.012.</citation>
+    <PMID>24929162</PMID>
+  </reference>
+  <reference>
+    <citation>Draulans C, van der Heide UA, Haustermans K, Pos FJ, van der Voort van Zyp J, De Boer H, Groen VH, Monninkhof EM, Smeenk RJ, Kunze-Busch M, De Roover R, Depuydt T, Isebaert S, Kerkmeijer LGW. Primary endpoint analysis of the multicentre phase II hypo-FLAME trial for intermediate and high risk prostate cancer. Radiother Oncol. 2020 Jun;147:92-98. doi: 10.1016/j.radonc.2020.03.015. Epub 2020 Apr 1.</citation>
+    <PMID>32247206</PMID>
+  </reference>
+  <reference>
+    <citation>Roach M 3rd, Hanks G, Thames H Jr, Schellhammer P, Shipley WU, Sokol GH, Sandler H. Defining biochemical failure following radiotherapy with or without hormonal therapy in men with clinically localized prostate cancer: recommendations of the RTOG-ASTRO Phoenix Consensus Conference. Int J Radiat Oncol Biol Phys. 2006 Jul 15;65(4):965-74. doi: 10.1016/j.ijrobp.2006.04.029.</citation>
+    <PMID>16798415</PMID>
+  </reference>
+  <reference>
+    <citation>Barentsz JO, Richenberg J, Clements R, Choyke P, Verma S, Villeirs G, Rouviere O, Logager V, Futterer JJ; European Society of Urogenital Radiology. ESUR prostate MR guidelines 2012. Eur Radiol. 2012 Apr;22(4):746-57. doi: 10.1007/s00330-011-2377-y. Epub 2012 Feb 10.</citation>
+    <PMID>22322308</PMID>
+  </reference>
+  <reference>
+    <citation>van Schie MA, Dinh CV, Houdt PJV, Pos FJ, Heijmink SWTJP, Kerkmeijer LGW, Kotte ANTJ, Oyen R, Haustermans K, van der Heide UA. Contouring of prostate tumors on multiparametric MRI: Evaluation of clinical delineations in a multicenter radiotherapy trial. Radiother Oncol. 2018 Aug;128(2):321-326. doi: 10.1016/j.radonc.2018.04.015. Epub 2018 May 3.</citation>
+    <PMID>29731160</PMID>
+  </reference>
+  <reference>
+    <citation>Salembier C, Villeirs G, De Bari B, Hoskin P, Pieters BR, Van Vulpen M, Khoo V, Henry A, Bossi A, De Meerleer G, Fonteyne V. ESTRO ACROP consensus guideline on CT- and MRI-based target volume delineation for primary radiation therapy of localized prostate cancer. Radiother Oncol. 2018 Apr;127(1):49-61. doi: 10.1016/j.radonc.2018.01.014.</citation>
+    <PMID>29496279</PMID>
+  </reference>
+  <reference>
+    <citation>Gladwish A, Pang G, Cheung P, D'Alimonte L, Deabreu A, Loblaw A. Prostatic displacement during extreme hypofractionated radiotherapy using volumetric modulated arc therapy (VMAT). Radiat Oncol. 2014 Nov 28;9:262. doi: 10.1186/s13014-014-0262-y.</citation>
+    <PMID>25430973</PMID>
+  </reference>
+  <reference>
+    <citation>Langen KM, Willoughby TR, Meeks SL, Santhanam A, Cunningham A, Levine L, Kupelian PA. Observations on real-time prostate gland motion using electromagnetic tracking. Int J Radiat Oncol Biol Phys. 2008 Jul 15;71(4):1084-90. doi: 10.1016/j.ijrobp.2007.11.054. Epub 2008 Feb 14.</citation>
+    <PMID>18280057</PMID>
+  </reference>
+  <reference>
+    <citation>Colvill E, Poulsen PR, Booth JT, O'Brien RT, Ng JA, Keall PJ. DMLC tracking and gating can improve dose coverage for prostate VMAT. Med Phys. 2014 Sep;41(9):091705. doi: 10.1118/1.4892605.</citation>
+    <PMID>25186380</PMID>
+  </reference>
+  <reference>
+    <citation>Lovelock DM, Messineo AP, Cox BW, Kollmeier MA, Zelefsky MJ. Continuous monitoring and intrafraction target position correction during treatment improves target coverage for patients undergoing SBRT prostate therapy. Int J Radiat Oncol Biol Phys. 2015 Mar 1;91(3):588-94. doi: 10.1016/j.ijrobp.2014.10.049. Epub 2015 Jan 30.</citation>
+    <PMID>25680601</PMID>
+  </reference>
+  <reference>
+    <citation>Murray JR, Tree AC, Alexander EJ, Sohaib A, Hazell S, Thomas K, Gunapala R, Parker CC, Huddart RA, Gao A, Truelove L, McNair HA, Blasiak-Wal I, deSouza NM, Dearnaley D. Standard and Hypofractionated Dose Escalation to Intraprostatic Tumor Nodules in Localized Prostate Cancer: Efficacy and Toxicity in the DELINEATE Trial. Int J Radiat Oncol Biol Phys. 2020 Mar 15;106(4):715-724. doi: 10.1016/j.ijrobp.2019.11.402. Epub 2019 Dec 5.</citation>
+    <PMID>31812718</PMID>
+  </reference>
+  <reference>
+    <citation>Vernooij RWM, Cremers RGHM, Jansen H, Somford DM, Kiemeney LA, van Andel G, Wijsman BP, Busstra MB, van Moorselaar RJA, Wijnen EM, Pos FJ, Hulshof MCCM, Hamberg P, van den Berkmortel F, Hulsbergen-van de Kaa CA, van Leenders GJLH, Futterer JJ, van Oort IM, Aben KKH. Urinary incontinence and erectile dysfunction in patients with localized or locally advanced prostate cancer: A nationwide observational study. Urol Oncol. 2020 Sep;38(9):735.e17-735.e25. doi: 10.1016/j.urolonc.2020.05.022. Epub 2020 Jul 15. Erratum In: Urol Oncol. 2022 Jul;40(7):353.</citation>
+    <PMID>32680820</PMID>
+  </reference>
+  <reference>
+    <citation>Azcona JD, Xing L, Chen X, Bush K, Li R. Assessing the dosimetric impact of real-time prostate motion during volumetric modulated arc therapy. Int J Radiat Oncol Biol Phys. 2014 Apr 1;88(5):1167-74. doi: 10.1016/j.ijrobp.2013.12.015.</citation>
+    <PMID>24661670</PMID>
+  </reference>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>November 21, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 30, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 31, 2023</study_first_posted>
+  <last_update_submitted>May 15, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 15, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 17, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>radiotherapy</keyword>
+  <keyword>hypofractionation</keyword>
+  <keyword>prostate cancer</keyword>
+  <keyword>stereotactic radiotherapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prostatic Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

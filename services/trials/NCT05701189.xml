@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9289">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05701189</url>
+  </required_header>
+  <id_info>
+    <org_study_id>852292</org_study_id>
+    <nct_id>NCT05701189</nct_id>
+  </id_info>
+  <brief_title>Evaluating Efgartigimod in Patients With Guillain-Barré Syndrome</brief_title>
+  <official_title>A Phase 2, Randomized, Double-Blind, Controlled, Singe-Site Trial to Evaluate the Safety and Efficacy of Efgartigimod in Patients With Guillain-Barré Syndrome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chafic Karam</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>argenx</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to evaluate the safety and effectiveness of Efgartigimod&#xD;
+      in patients with Guillain-Barre syndrome (GBS). The main questions it aims to answer are:&#xD;
+&#xD;
+        -  Is Efgartigimod a safe treatment option for GBS patients?&#xD;
+&#xD;
+        -  Does treatment with Efgartigimod improve patient outcomes?&#xD;
+&#xD;
+      In addition to standard-of-care procedures and assessments, participants will:&#xD;
+&#xD;
+        -  Undergo seven blood draws during hospitalization and in four follow-up study visits to&#xD;
+           evaluate the concentration of neurofilament light chain, a protein that is elevated in&#xD;
+           patients with Guillain-Barré syndrome. The presence of neurofilament light chain is&#xD;
+           believed to be indicative of damage to the nervous system, with higher levels resulting&#xD;
+           from greater damage.&#xD;
+&#xD;
+        -  Complete the Columbia Suicide Severity Rating Scale (C-SSRS) to monitor any suicidal&#xD;
+           ideation or behaviors during the course of the study.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The following procedures/assessments are standard-of-care for Guillain-Barré syndrome. They&#xD;
+      will not be performed solely for research purposes in this study, but the study team will use&#xD;
+      select results from them to draw conclusions related to this research:&#xD;
+&#xD;
+        -  The study doctor or study staff will ask you about your medical history and any changes&#xD;
+           to your medications&#xD;
+&#xD;
+        -  You will have a physical examination&#xD;
+&#xD;
+        -  Your vital signs, including blood pressure, pulse rate, breathing rate, body&#xD;
+           temperature, and weight will be measured&#xD;
+&#xD;
+        -  You will have an electrocardiogram (ECG)&#xD;
+&#xD;
+        -  Pulmonary function testing, including forced vital capacity (FVC), maximal inspiratory&#xD;
+           pressure (MIP), and maximal expiratory pressure (MEP) will be performed&#xD;
+&#xD;
+        -  Blood samples will be drawn to evaluate disease progression and safety/efficacy of&#xD;
+           treatment&#xD;
+&#xD;
+        -  You will undergo a lumbar puncture, commonly referred to as a spinal tap, to collect&#xD;
+           cerebrospinal fluid (CSF) for analysis&#xD;
+&#xD;
+        -  Nerve conduction studies (NCS) will be performed&#xD;
+&#xD;
+        -  Outcome assessments including the GBS Disability Scale (GBS-DS), Neuropsychological&#xD;
+           Impairment Scale (NIS), and Inflammatory Rasch-built Overall Disability Scale (I-RODS)&#xD;
+           will be performed&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2023</start_date>
+  <completion_date type="Anticipated">May 2027</completion_date>
+  <primary_completion_date type="Anticipated">August 2026</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Guillain-Barre Syndrome Disability Scale (GBS-DS)</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Scoring system that assesses the functional status of GBS subjects. Scores range from 0 to 6, with higher scores indicating a worse outcome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number and seriousness of adverse events</measure>
+    <time_frame>Through study completion, an average of 3 years</time_frame>
+    <description>Safety monitoring</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Guillain-Barre Syndrome Disability Scale (GBS-DS)</measure>
+    <time_frame>4, 24, and 48-weeks</time_frame>
+    <description>Scoring system that assesses the functional status of GBS subjects. Scores range from 0 to 6, with higher scores indicating a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neuropathy Impairment Scale (NIS)</measure>
+    <time_frame>4, 24, and 48-weeks</time_frame>
+    <description>Peripheral neuropathy assessment. Scores range from 0 to 244, with higher scores indicating a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inflammatory Rasch-Built Overall Disability Scale (I-RODS)</measure>
+    <time_frame>4, 24, and 48-weeks</time_frame>
+    <description>Functional outcome assessment. Scores range from 0 to 48, with higher scores indicating a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Forced Vital Capacity (FVC)</measure>
+    <time_frame>4, 24, and 48-weeks</time_frame>
+    <description>Pulmonary function test that measures the maximum amount of air you can forcibly exhale from your lungs after fully inhaling. Units are Liters and percentages, when comparing to a predicted value.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximal Inspiratory Pressure (MIP)</measure>
+    <time_frame>4, 24, and 48-weeks</time_frame>
+    <description>Pulmonary function test that evaluates the strength of inspiratory muscles, primarily the diaphragm. Units are cm H2O (centimeters of water).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximal Expiratory Pressure (MEP)</measure>
+    <time_frame>4, 24, and 48-weeks</time_frame>
+    <description>Pulmonary function test that evaluates the strength of expiratory muscles. Units are cm H2O (centimeters of water).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Biomarker levels: Neurofilament Light (Nf-L) Chain</measure>
+    <time_frame>Baseline and weeks 1, 4, 12, 24, and 48.</time_frame>
+    <description>Exploratory assessment requiring blood collection</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Guillain-Barre Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Efgartigimod Alfa-Fcab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20mg/kg of Intravenous efgartigimod on days 1 and 5, with normal saline administered as placebo on days 2-4</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intravenous Immunoglobulin (IVIg)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>0.4g/kg of IVIg daily for 5 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Efgartigimod Alfa-Fcab</intervention_name>
+    <description>Efgartigimod is an anti-neonatal Fc receptor (FcRn) immunoglobulin G1 Fc fragment. The FcRn plans a critical role in extending the half-life of IgGs by rescuing them from lysosomal degradation. Antibodies that bind and subsequently block the FcRn with high affinity result in IgGs being degraded more rapidly instead of salvaged. This approach has been shown to be beneficial in the antibody-mediated disorder myasthenia gravis.</description>
+    <arm_group_label>Efgartigimod Alfa-Fcab</arm_group_label>
+    <other_name>Vyvgart</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Intravenous Immunoglobulin (IVIg)</intervention_name>
+    <description>IVIg is the standard-of-care treatment for GBS.</description>
+    <arm_group_label>Intravenous Immunoglobulin (IVIg)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Provision of signed and dated informed consent form&#xD;
+&#xD;
+          -  Stated willingness to comply with all study procedures and availability for the&#xD;
+             duration of the study&#xD;
+&#xD;
+          -  Male or female, aged 18 years or older&#xD;
+&#xD;
+          -  Have a diagnosis of GBS according to the National Institute of Neurological Disorders&#xD;
+             and Stroke Diagnostic Criteria for Guillain-Barré Syndrome&#xD;
+&#xD;
+          -  Onset of GBS-related weakness ≤14 days prior to infusion&#xD;
+&#xD;
+          -  GBS-DS score of 3, 4, or 5&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant and lactating women, and those intending to become pregnant during the trial&#xD;
+             or within 90 days after the last dosing. Women of childbearing potential should have a&#xD;
+             negative serum pregnancy test at Screening and a negative urine pregnancy test at&#xD;
+             Baseline prior to administration of IMP. Note: Women of childbearing potential should&#xD;
+             use a highly effective method of contraception (i.e., pregnancy rate of less than 1%&#xD;
+             per year) during the trial and for 90 days after the last administration of the IMP.&#xD;
+             They must be on a stable regimen, for at least 1 month, of combined estrogen and&#xD;
+             progestogen hormonal contraception with inhibition of ovulation, progestogen-only&#xD;
+             hormonal contraception associated with inhibition of ovulation, intrauterine device&#xD;
+             (IUD), intrauterine hormone-releasing system, bilateral tubal occlusion, vasectomized&#xD;
+             partner, or agree upon continuous abstinence from heterosexual sexual contact.&#xD;
+&#xD;
+          -  Male patients who are sexually active and do not intend to use effective methods of&#xD;
+             contraception (as mentioned above) during the trial or within 90 days after the last&#xD;
+             dosing or male patients who plan to donate sperm during the trial or within 90 days&#xD;
+             after the last dosing. Note: Sterilized male patients who have had vasectomy with&#xD;
+             documented aspermia post-procedure, or male patients who have a partner of&#xD;
+             non-childbearing potential, can be included.&#xD;
+&#xD;
+          -  GBS DS of 2 or less.&#xD;
+&#xD;
+          -  Patients with known seropositivity or who test positive for an active viral infection&#xD;
+             at Screening with: Hepatitis B Virus (HBV) (except patients who are seropositive&#xD;
+             because of HBV vaccination), Hepatitis C Virus (HCV) or Human Immunodeficiency Virus&#xD;
+             (HIV)&#xD;
+&#xD;
+          -  Patients with any known severe bacterial, viral or fungal infection or any major&#xD;
+             episode of infection that required hospitalization or injectable antimicrobial therapy&#xD;
+             in the last 8 weeks prior to Screening.&#xD;
+&#xD;
+          -  Patients with more than 14 days after onset of symptoms.&#xD;
+&#xD;
+          -  Patients with total IgG level &lt; 6 g/L at Screening.&#xD;
+&#xD;
+          -  Patients with recurrent GBS.&#xD;
+&#xD;
+          -  Use of investigational drug within 3 months or 5 half-lives of the drug (whichever is&#xD;
+             longer) prior to Screening.&#xD;
+&#xD;
+          -  Patients who have a history of malignancy, including malignant thymoma, or&#xD;
+             myeloproliferative or lymphoproliferative disorders, unless deemed cured by adequate&#xD;
+             treatment with no evidence of recurrence for ≥ 3 years before Screening. Patients with&#xD;
+             completely excised non-melanoma skin cancer (such as basal cell carcinoma or squamous&#xD;
+             cell carcinoma) or cervical carcinoma in situ would be permitted at any time.&#xD;
+&#xD;
+          -  Patients with clinical evidence of other significant serious disease or patients who&#xD;
+             underwent a recent major surgery, which could confound the results of the trial or put&#xD;
+             the patient at undue risk. Patients with renal/hepatic function impairment can be&#xD;
+             included.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Madeline Singer, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Staff Physician and Neuromuscular Research Fellow</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Chafic Karam, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Staff Physician and Associate Professor of Clinical Neurology</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Timothy Burke</last_name>
+    <phone>2156623033</phone>
+    <email>timothy.burke1@pennmedicine.upenn.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kelsey Moulton</last_name>
+    <email>kelsey.moulton@pennmedicine.upenn.edu</email>
+  </overall_contact_backup>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 5, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>January 17, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 17, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pennsylvania</investigator_affiliation>
+    <investigator_full_name>Chafic Karam</investigator_full_name>
+    <investigator_title>Staff Physician and Associate Professor of Clinical Neurology</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Guillain-Barre Syndrome</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Immunoglobulins, Intravenous</mesh_term>
+    <mesh_term>Antibodies</mesh_term>
+    <mesh_term>gamma-Globulins</mesh_term>
+    <mesh_term>Rho(D) Immune Globulin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

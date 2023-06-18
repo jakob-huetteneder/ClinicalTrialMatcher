@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9605">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05694546</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R34MH122265</org_study_id>
+    <nct_id>NCT05694546</nct_id>
+  </id_info>
+  <brief_title>Re-engagement at Discharge 2</brief_title>
+  <acronym>ReCharge2</acronym>
+  <official_title>Re-engagement at Discharge 2: Improving Post-hospital Outcomes for Adults With HIV in Zambia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Maryland, Baltimore</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University Teaching Hospital, Lusaka, Zambia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Alabama at Birmingham</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Maryland, College Park</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Maryland, Baltimore</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Early post-discharge mortality is high among Zambians living with HIV admitted to the&#xD;
+      hospital. This may be due to missed opportunities in post-discharge care, such as inadequate&#xD;
+      follow-up and treatment. In this study the investigators will develop and pilot a new&#xD;
+      approach to post-discharge HIV care to improve care coordination and treatment adherence.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Many people living with HIV (PLHIV) have poor outcomes following hospitalization, including&#xD;
+      high mortality, readmission, and gaps in HIV care engagement. This is likely multi-factorial&#xD;
+      and not all etiologies may be modifiable. While high mortality may due to incurable cancer,&#xD;
+      the majority of deaths in PLHIV are thought to be caused by infectious diseases for which&#xD;
+      treatments exist. However, succumbing to these life-threatening infections after discharge&#xD;
+      may be due to poor understanding of discharge instructions, lack of post hospital care, and&#xD;
+      poor understanding of required follow up. Psychosocial support also plays a role in the&#xD;
+      mental and physical health of these sick patients.&#xD;
+&#xD;
+      In ReCharge 1, the investigators gathered formative data and identified at least three major&#xD;
+      factors that undermine HIV clinical outcomes after hospital discharge. First, there are gaps&#xD;
+      in continuity of care between the discharging facility and outpatient. Second, support from&#xD;
+      family is often suboptimal due to lack of understanding on the cause of illness, lack of HIV&#xD;
+      status disclosure, and the cost of care. Third, HIV comorbidities may underpin or complicate&#xD;
+      the immediate reason for discharge or the post-discharge engagement in care. These data were&#xD;
+      disseminated to local experts in Zambia including from the Ministry of Health and used to&#xD;
+      create a new care model for post-discharge HIV care. The care model draws from other&#xD;
+      successful programs in Zambia. In ReCharge 2 the investigators now propose to pilot the&#xD;
+      program and assess feasibility, acceptability, and potential for clinical impact.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 1, 2023</start_date>
+  <completion_date type="Anticipated">January 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Community health worker follow-up after discharge from hospital</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Post-Discharge Visits</measure>
+    <time_frame>Through three months post-discharge</time_frame>
+    <description>Proportion of discharged patients who are successfully visited after discharge.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Comprehensive Post-Discharge Visits</measure>
+    <time_frame>Through three months post-discharge</time_frame>
+    <description>Proportion of discharge follow-up visits by a community health worker that are comprehensive</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Post-Discharge Clinic Visits</measure>
+    <time_frame>Through three months post-discharge</time_frame>
+    <description>Proportion of initial post-discharge visits to the HIV clinic that are attended by the participant's community health worker</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>HIV viral load suppression</measure>
+    <time_frame>6 months post-discharge</time_frame>
+    <description>Proportion of clients with suppressed HIV viral load at 6 months post-discharge.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>6 months post-discharge</time_frame>
+    <description>Proportion of clients alive at 6 months post-discharge.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Retention in HIV care</measure>
+    <time_frame>6 months post-discharge</time_frame>
+    <description>Retention in HIV care after discharge defined by no gap of &gt;28 days off antiretroviral therapy from discharge date to 6 months post-discharge date</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antiretroviral therapy clinic visit</measure>
+    <time_frame>1 month post-discharge</time_frame>
+    <description>Antiretroviral therapy clinic visit within 1 month of discharge</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>HIV/AIDS</condition>
+  <condition>Hospitalization</condition>
+  <condition>Transitions of Care</condition>
+  <condition>Opportunistic Infections</condition>
+  <arm_group>
+    <arm_group_label>Community Health Worker Post-Discharge Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This group will be offered a community-based visit from a community health worker following hospital discharge.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Community Health Worker Post-Discharge Intervention</intervention_name>
+    <description>Clients will be offered a community-based follow-up from a community health worker after hospital discharge.</description>
+    <arm_group_label>Community Health Worker Post-Discharge Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18+ years&#xD;
+&#xD;
+          -  HIV-positive&#xD;
+&#xD;
+          -  Hospitalized for at least 1 night at study site&#xD;
+&#xD;
+          -  Clinically stable and expected to be discharged according to their clinician&#xD;
+&#xD;
+          -  Objective evidence of suboptimal HIV outcome, defined as HIV viral load above the&#xD;
+             lower limit of the assay or T-cell cluster of differentiation 4 count &lt;=200.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Unable to provide informed consent&#xD;
+&#xD;
+          -  No phone&#xD;
+&#xD;
+          -  Planning to reside outside of Lusaka urban district after discharge&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Cassidy Claassen, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Maryland, Baltimore</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Cassidy Claassen, MD</last_name>
+    <phone>+260971075439</phone>
+    <email>cclaassen@ihv.umaryland.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Michael Vinikoor, MD</last_name>
+    <email>michaelvinikoor@uabmc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University Teaching Hospital</name>
+      <address>
+        <city>Lusaka</city>
+        <country>Zambia</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Cassidy Claassen, MD</last_name>
+      <phone>+260971075439</phone>
+      <email>cclaassen@ihv.umaryland.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Michael Vinikoor, MD</last_name>
+      <email>michaelvinikoor@uabmc.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Zambia</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 7, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>February 23, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 23, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 24, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Maryland, Baltimore</investigator_affiliation>
+    <investigator_full_name>Cassidy Claassen</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Opportunistic Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

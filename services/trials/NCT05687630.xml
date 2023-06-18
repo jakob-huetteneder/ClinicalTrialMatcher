@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9913">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05687630</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202207113RINB</org_study_id>
+    <nct_id>NCT05687630</nct_id>
+  </id_info>
+  <brief_title>Effect of Technology-assisted Physical Therapy for Patient With High Risk of Sarcopenia</brief_title>
+  <acronym>HRS</acronym>
+  <official_title>Effect of Technology-assisted Physical Therapy for Patient With High Risk of Sarcopenia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Taiwan University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Taiwan University Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This research aims to identify whether the effects of video-assisted physical therapy,&#xD;
+      including home resistance training, is superior to traditional physical therapy, education&#xD;
+      leaflet for example.&#xD;
+&#xD;
+      This is an interventional research, single-blind, randomized control trail. We recruit high&#xD;
+      risk of sarcopenia people (low muscle strength and low physical performance) Two groups of&#xD;
+      participants are divided into traditional group and video-assisted group, both group are&#xD;
+      taught the same resisted exercise by physical therapist.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Both group will record his/her baseline activity level with a given pedometer. After one week&#xD;
+      recording, we started initial evaluation (history taking, physical examination) and&#xD;
+      intervention.&#xD;
+&#xD;
+      Participants are taught thera-band resisted exercise, including large musculature of upper&#xD;
+      and lower extremities, each exercise are conducted 10-15 times for 3 sets.&#xD;
+&#xD;
+      Traditional group will receive an education leaflet and a notebook to record his/ her daily&#xD;
+      activity and frequency of exercise to record the compliance.&#xD;
+&#xD;
+      Video-assisted group will receive a QR code, which contain a website of exercise video on the&#xD;
+      cloud.&#xD;
+&#xD;
+      After 3 months intervention, participant will come back to our center for final examination.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2023</start_date>
+  <completion_date type="Anticipated">December 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Grip strength</measure>
+    <time_frame>three months after initial evaluation</time_frame>
+    <description>use hand dynamometer to test maximal strength</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>walking speed</measure>
+    <time_frame>three months after initial evaluation</time_frame>
+    <description>walk for 4 meters to test the time that participant used</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Timed up-and-go test</measure>
+    <time_frame>three months after initial evaluation</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Short Physical Performance Battery (SPPB)</measure>
+    <time_frame>three months after initial evaluation</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Sarcopenia</condition>
+  <arm_group>
+    <arm_group_label>Video-assisted group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Traditional group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>elastic band resisted exercise</intervention_name>
+    <description>muscle strengthening exercise, 10-15 times of each set, for 3 sets</description>
+    <arm_group_label>Traditional group</arm_group_label>
+    <arm_group_label>Video-assisted group</arm_group_label>
+    <other_name>resisted exercise</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age above 65 years old&#xD;
+&#xD;
+          -  MMSE &gt; 24 points&#xD;
+&#xD;
+          -  walking more than 6 meters independently&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  people who cannot participate for 3 -day exercise for each week&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Chen Yu Kuo, Bachelor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Taiwan University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Chen Yu Kuo, Bachelor</last_name>
+    <phone>+886 988581069</phone>
+    <email>119271@ntuh.gov.tw</email>
+  </overall_contact>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>January 8, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 8, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>January 8, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 8, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 18, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>sarcopenia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sarcopenia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

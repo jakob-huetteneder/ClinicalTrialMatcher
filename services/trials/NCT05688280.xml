@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9878">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05688280</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IP-IIO-622</org_study_id>
+    <nct_id>NCT05688280</nct_id>
+  </id_info>
+  <brief_title>Intratumoral Injection of IP-001 Following Thermal Ablation in Patients With CRC, NSCLC, and STS</brief_title>
+  <acronym>INJECTABL-1</acronym>
+  <official_title>Intratumoral Injection of IP-001 Following Thermal Ablation in Patients With Advanced Solid Tumors. A Multicenter Phase 1b/2a Trial in Colorectal Cancer, Non-small Cell Lung Cancer, and Soft Tissue Sarcoma Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Immunophotonics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Immunophotonics, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to determine the safety and efficacy of IP-001 for&#xD;
+      intratumoral injection administration following thermal ablation of a solid tumor.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The therapeutic approach taken by this clinical trial may offer patients a therapeutic&#xD;
+      benefit after failure of standard chemotherapy and immunotherapy.&#xD;
+&#xD;
+      Patients giving written informed consent will undergo screening during the Pretreatment&#xD;
+      Period to determine eligibility for trial entry. The Pretreatment Period will include&#xD;
+      collection and recording of medical history, concomitant medications, baseline symptoms,&#xD;
+      previous therapies, and baseline assessments. The patient's baseline tumor burden will be&#xD;
+      recorded with radiological assessments, along with analyzing location and size of tumors to&#xD;
+      identify and characterize target tumor(s) that will be treated and/or followed during the&#xD;
+      clinical trial.&#xD;
+&#xD;
+      If confirmed eligible for the study, the patient will advance into the Treatment Period.&#xD;
+      During the Treatment Period, patients will receive a routine radiofrequency ablation (RFA),&#xD;
+      followed by an injection of investigational product (IP-001 for Injection) into the tumor.&#xD;
+      Patients can be treated every 6 weeks for up to 4 treatments with RFA + IP-001 for Injection.&#xD;
+&#xD;
+      A patient will move to the 6-month Follow-up Period when the patient has completed 4&#xD;
+      treatment cycles or if the decision is made that no subsequent treatments will be&#xD;
+      administered. During the Follow-up Period, there will be a Follow-up Visit every 6 weeks for&#xD;
+      5 visits, at disease progression, or prior to the start of a new antineoplastic treatment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 29, 2022</start_date>
+  <completion_date type="Anticipated">May 2024</completion_date>
+  <primary_completion_date type="Anticipated">May 2024</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Open-label study with 3 Cohorts&#xD;
+Cohort 1: 18 patients with Stage 3 or Stage 4 Colorectal Cancer (CRC)&#xD;
+Cohort 2: 17 patients with Stage 3 or Stage 4 Non-Small Cell Lung Cancer (NSCLC)&#xD;
+Cohort 3: 9 patients with Stage 3 or Stage 4 Soft Tissue Sarcoma (STS)&#xD;
+There will be 3 study periods: a Pretreatment Period, a Treatment Period, and a Follow-up Period.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety and Tolerability</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>The assessment of safety will be based on incidence of adverse events.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy: Disease control according to Immune Response Evaluation Criteria in Solid Tumors for immune-based treatment (iRECIST) (iDC)</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>An iDC is defined as any complete response (CR or iCR), partial response (PR or iPR), or stable disease (SD or iSD) for 12 weeks according to iRECIST achieved during the trial until disease progression according to iRECIST, death from any cause, or start of a subsequent anticancer treatment, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy: Disease control according to Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST 1.1) (DC)</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>A DC is defined as any complete response (CR), partial response (PR) or stable disease (SD) for 12 weeks from start of treatment according to RECIST 1.1 achieved during trial until disease progression according to iRECEST, death from any cause, or start of a subsequent anticancer treatment, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy: Objective response according to iRECIST (iOR)</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>An iOR is defined as any complete response (CR or iCR) or partial response (PR or iPR) according to iRECIST achieved during the trial until disease progression according to iRECIST, death from any cause, or start of a subsequent anticancer treatment, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy: Duration of response according to iRECIST (iDOR)</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>An iDOR is defined as the time from the first documentation of iOR until disease progression according to iRECIST (iPD) or death from any cause. iPD is defined as the time point of first iUPD without subsequent iSD, iPR or iCR before trial discontinuation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy: Progression-free survival according to iRECIST (iPFS)</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>An iPFS is defined as the time from treatment start until disease progression according to iRECIST (iPD) or death from any cause, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy: Objective response according to RECIST 1.1 (OR)</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>An OR is defined as any complete response (CR) or partial response (PR) according to RECIST 1.1 achieved during trial until disease progression, death from any cause, or start of a subsequent anticancer treatment, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy: Duration of response according to RECIST 1.1 (DOR)</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>A DOR is defined as the time from the first documentation of OR until disease progression according to RECIST 1.1, death from any cause, or start of a subsequent anticancer treatment, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy: Progression-free survival according to RECIST 1.1 (PFS)</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>A PFS is defined as the time from treatment start until disease progression according to RECIST 1.1, or death from any cause, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy: Time to response according to iRECIST 1.1 (iTTR)</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>An iTTR is defined as the time from start of trial treatment until iOR according to iRECIST achieved during the trial.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy: Time to response according to RECIST 1.1 (TTR)</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>A TTR is defined as the time from treatment start until OR according to iRECIST achieved during the trial.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy: Disease-free survival (DFS)</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>A DFS is defined as the time from start of treatment that the patient survives without any signs or symptoms of cancer or death from any cause, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy: Overall survival (OS)</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>An OS is defined as the time from start of treatment until death from any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy: OR of the injected lesions according to RECIST 1.1</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>An OR of the ablated and injected (treated) lesions will be assessed using RECIST 1.1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy: OR of the non-injected lesions according to RECIST 1.1</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>An OR of the non-ablated and non-injected (untreated) lesions will be assessed using the RECIST 1.1 until disease progression according to RECIST 1.1, death from any cause, or start of a subsequent anticancer treatment, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy: iOR of the injected lesions according to iRECIST</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>An iOR of the ablated and injected (treated) lesions will be assessed using the iRECIST until disease progression according to RECIST 1.1, death from any cause, or start of a subsequent anticancer treatment, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy: iOR of the non-injected lesions according to iRECIST</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>An iOR of the non-ablated and non-injected (untreated) lesions will be assessed using the iRECIST until disease progression according to RECIST 1.1, death from any cause, or start of a subsequent anticancer treatment, whichever occurs first.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">44</enrollment>
+  <condition>Metastatic Solid Tumor</condition>
+  <condition>Colon Cancer</condition>
+  <condition>Nonsmall Cell Lung Cancer</condition>
+  <condition>Soft Tissue Sarcoma</condition>
+  <arm_group>
+    <arm_group_label>Colorectal Cancer (CRC)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Radiofrequency ablation (RFA) followed by an intratumoral injection of IP-001.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non-Small Cell Lung Cancer (NSCLC)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Radiofrequency ablation (RFA) followed by an intratumoral injection of IP-001.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Soft Tissue Sarcoma (STS)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Radiofrequency ablation (RFA) followed by an intratumoral injection of IP-001.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>1.0% IP-001 for Injection</intervention_name>
+    <description>4 mL 1.0% IP-001 for Injection following RFA every 6 weeks for up to 4 treatments.</description>
+    <arm_group_label>Colorectal Cancer (CRC)</arm_group_label>
+    <arm_group_label>Non-Small Cell Lung Cancer (NSCLC)</arm_group_label>
+    <arm_group_label>Soft Tissue Sarcoma (STS)</arm_group_label>
+    <other_name>IP-001</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Stage 3 or Stage 4 CRC, NSCLC, or STS who have failed, are ineligible, refused, or&#xD;
+             become intolerant to at least first line (but no more than 4 lines) of systemic&#xD;
+             therapy&#xD;
+&#xD;
+          2. Life expectancy of &gt; 6 months. Only have lesions with the longest diameter of ≤ 5 cm.&#xD;
+&#xD;
+          3. Presence of at least one non-bone tumor lesion that is ablation-accessible, with a&#xD;
+             minimum size of 1.0 cm.&#xD;
+&#xD;
+          4. Measurable disease according to RECIST 1.1.&#xD;
+&#xD;
+          5. Age ≥ 18 years.&#xD;
+&#xD;
+          6. ECOG performance status 0-1.&#xD;
+&#xD;
+          7. Bone marrow function: neutrophil count ≥ 1.5 × 109/L, platelet count ≥ 100 × 109/L,&#xD;
+             hemoglobin ≥ 90 g/L.&#xD;
+&#xD;
+          8. Adequate hematological function defined by white blood cell count ≥ 2.5 × 109/L with&#xD;
+             absolute neutrophil count ≥ 1.5 × 109/L, and hemoglobin ≥ 9 g/dL (transfusions allowed&#xD;
+             on study).&#xD;
+&#xD;
+          9. Adequate hepatic function defined by a total bilirubin level ≤ 1.5 × the upper limit&#xD;
+             of normal (ULN) range and aspartate transaminase (AST) and alanine aminotransferase&#xD;
+             (ALT) levels ≤ 2.5 × ULN for all patients, or for patients with documented metastatic&#xD;
+             disease to the liver and AST and ALT levels ≤ 5 × ULN. Patients with documented&#xD;
+             Gilbert disease are allowed if total bilirubin is less than 3 × ULN.&#xD;
+&#xD;
+         10. Adequate renal function defined by an estimated creatinine clearance ≥ 50 mL/min&#xD;
+             according to the Cockcroft-Gault formula (or local institutional standard method).&#xD;
+&#xD;
+         11. Men and women with childbearing potential agree to use effective contraception. Women&#xD;
+             of childbearing potential must have a negative pregnancy test (serum) before&#xD;
+             inclusion.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Known allergic reaction to shellfish, crabs, crustaceans, or any trial components,&#xD;
+             used in trial treatment.&#xD;
+&#xD;
+          2. Malignant primary brain tumors or evidence of brain metastases or leptomeningeal&#xD;
+             disease.&#xD;
+&#xD;
+          3. Patients who have received chemotherapy, radiotherapy, immunotherapy, or concurrent or&#xD;
+             recent treatment with any other investigational agents within 21 days prior to&#xD;
+             treatment.&#xD;
+&#xD;
+          4. Patients who have not recovered to common terminology criteria for adverse events&#xD;
+             (CTCAE) Grade ≤ 1 from all side effects of prior therapies except for residual&#xD;
+             toxicities.&#xD;
+&#xD;
+          5. Patients with a history of malignancy, with the exception of non-melanoma skin cancers&#xD;
+             and in situ cancers.&#xD;
+&#xD;
+          6. Concomitant treatment with systemic corticosteroids (10 mg prednisolone or equivalent)&#xD;
+             or other immunosuppressive therapy.&#xD;
+&#xD;
+          7. Anti-coagulation therapies which cannot be stopped 24 hours prior to trial treatment.&#xD;
+&#xD;
+          8. Severe or uncontrolled cardiovascular disease (congestive heart failure New York Heart&#xD;
+             Association classification III or IV).&#xD;
+&#xD;
+          9. Documented HIV positive.&#xD;
+&#xD;
+         10. Active Hepatitis C or Hepatitis B Viral infection.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Markus Jorger, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Cantonal Hospital of St. Gallen</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Diane Beatty, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Immunophotonics, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Athanasia Katsoulas</last_name>
+    <phone>+30 6945 703024</phone>
+    <email>athanasia.katsoulas@iqvia.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sara Mcloud Tyley</last_name>
+    <phone>+44 7342 061 439</phone>
+    <email>sara.mcloudtyley@iqvia.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Institut Bergonie</name>
+      <address>
+        <city>Bordeaux</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Antoine Italiano, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospitalier Pitie-Salpetriere</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jean-Philippe Spano, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Foch</name>
+      <address>
+        <city>Suresnes</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jaafar Bennouna, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Gustave Roussy</name>
+      <address>
+        <city>Villejuif</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Thierry de Baere, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>IOSI Ospedale San Giovanni Bellinzona</name>
+      <address>
+        <city>Bellinzona</city>
+        <zip>6500</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sara DeDosso, MD</last_name>
+      <phone>+41 91 811 86 67</phone>
+      <email>sara.dedosso@eoc.ch</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ilaria Colombo, MD</last_name>
+      <phone>+41 91 811 81 94</phone>
+      <email>ilaria.colombo@eoc.ch</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Inselspital Universitatsspital, Bern</name>
+      <address>
+        <city>Bern</city>
+        <zip>CH-3010</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Attila Kollar, MD</last_name>
+      <phone>+41 31 632 41 14</phone>
+      <email>attila.kollar@insel.ch</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sabine Schmid, MD</last_name>
+      <phone>0041 31 632 41 14</phone>
+      <email>sabine.schmid@insel.ch</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Kantonsspital Graubunden</name>
+      <address>
+        <city>Chur</city>
+        <zip>7000</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mark Michael, MD</last_name>
+      <phone>+41 81 256 74 25</phone>
+      <email>Michael.Mark@ksgr.ch</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sara Bastian, MD</last_name>
+      <phone>+41 81 256 68 84</phone>
+      <email>sara.bastian@ksgr.ch</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Kantonsspital St. Gallen</name>
+      <address>
+        <city>St. Gallen</city>
+        <zip>CH-9007</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Markus Jorger, MD</last_name>
+      <phone>+41 76 559 10 70</phone>
+      <email>Markus.Joerger@kssg.ch</email>
+    </contact>
+    <contact_backup>
+      <last_name>Dagmar Hess, MD</last_name>
+      <phone>+41 71 494 10 80</phone>
+      <email>dagmar.hess@kssg.ch</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>University College London Hospitals</name>
+      <address>
+        <city>London</city>
+        <zip>NW1 2PG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Steve Bandula, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Churchill Hospital</name>
+      <address>
+        <city>Oxford</city>
+        <zip>OX3 7LJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Mark Middleton, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+    <country>Switzerland</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 22, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 8, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>January 26, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 26, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Cancer</keyword>
+  <keyword>Anti-cancer drug or therapy</keyword>
+  <keyword>Advanced solid tumors</keyword>
+  <keyword>Intratumoral injection</keyword>
+  <keyword>IP-001</keyword>
+  <keyword>Thermal ablation</keyword>
+  <keyword>Phase lb/lla</keyword>
+  <keyword>Melanoma</keyword>
+  <keyword>Soft tissue sarcoma</keyword>
+  <keyword>Tumor ablation</keyword>
+  <keyword>Systemic immune response</keyword>
+  <keyword>Interventional immuno-oncology</keyword>
+  <keyword>Interventional oncology</keyword>
+  <keyword>Abscopal effect</keyword>
+  <keyword>T-cell stimulation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Sarcoma</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

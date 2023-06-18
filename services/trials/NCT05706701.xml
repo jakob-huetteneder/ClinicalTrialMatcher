@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9032">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05706701</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2000031973</org_study_id>
+    <nct_id>NCT05706701</nct_id>
+  </id_info>
+  <brief_title>Nicotine Flux, a Potentially Powerful Tool for Regulating Nicotine Delivery From Electronic Cigarettes</brief_title>
+  <official_title>Nicotine Flux, a Potentially Powerful Tool for Regulating Nicotine Delivery From Electronic Cigarettes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Yale University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>American University of Beirut Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Yale University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators will examine the relationship between nicotine flux, nicotine form, and the&#xD;
+      rate and dose of nicotine delivery. Participants will puff on electronic nicotine delivery&#xD;
+      system (ENDS) devices under conditions that differ by flux and form, while arterial blood is&#xD;
+      sampled in high time resolution. The outcome will indicate the degree to which nicotine flux&#xD;
+      and form determine the speed and dose of ENDS nicotine delivery, and thus, abuse liability.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this study is to examine the influence of nicotine flux, and nicotine form, on&#xD;
+      the rate and dose of nicotine delivery obtained from arterial blood measurements. This study&#xD;
+      involves a 4 x 2 crossover experimental design of four nicotine fluxes: 9, 18, 27, 35 μg/sec,&#xD;
+      and two nicotine forms (i.e., free-base and protonated). These nicotine fluxes are within the&#xD;
+      range reported for ENDS (3.1-111µg/sec). The investigators will isolate the effect of form on&#xD;
+      the pharmacokinetics of nicotine delivery by controlling for puffing behavior. The&#xD;
+      investigators will hold puff topography constant by controlling puff duration, inter-puff&#xD;
+      interval, and number of puffs using the LabVape PTL and confirm the data using eTop.&#xD;
+&#xD;
+      The flux/form conditions will be tested by participants in two lab visits separated by three&#xD;
+      weeks to minimize carryover effects. All sessions will be double-blinded. In the first visit,&#xD;
+      participants will use the ENDS device with one nicotine form and four fluxes in random order.&#xD;
+      Participants will be instructed to attend the lab for a second visit, to test the four fluxes&#xD;
+      but with the other nicotine form. The second visit will allow us to isolate the effect of&#xD;
+      nicotine form on nicotine delivery. The order of nicotine form in the two visits will be&#xD;
+      counter-balanced across participants. Outcome measures include arterial blood nicotine&#xD;
+      delivery, and puff topography.&#xD;
+&#xD;
+      Participants will be instructed to use the Subox mini C ENDS device connected to the LabVape&#xD;
+      PTL (which limits puff duration to 3 seconds) in four bouts separated by a 60min resting&#xD;
+      period. The e-liquids vaped are as follows: Propylene glycol(PG)/Glycerol (VG), 30/70 ratio&#xD;
+      by volume. Nicotine at different concentrations: (2, 4, 7 and 10mg/mL) Benzoic acid:&#xD;
+      approximately 1:1 molar ratio with nicotine. All these ingredients will be used to prepare&#xD;
+      the needed e-liquids to conduct the study.&#xD;
+&#xD;
+      All bouts will be directed; each bout will consist of 3 puffs in which puff duration is fixed&#xD;
+      to 3sec, as in 50, and inter-puff interval fixed to 30sec (CORESTA recommended method Nº&#xD;
+      81).123 The puff duration and inter-puff interval will be fixed using the LabVape PTL. A puff&#xD;
+      topography device (eTop) will record the puffing topography to identify any deviation between&#xD;
+      directed and actual puffs drawn and to measure the puffing flow rate. Participants will be&#xD;
+      trained to follow the puffing cues prior to sampling using an unpowered ENDS device. For&#xD;
+      arterial blood sampling, a radial arterial line will be placed on the non-dominant side to&#xD;
+      provide access to blood samples during vaping sessions. Each blood sample (0.5cc) will be&#xD;
+      drawn manually by a trained nurse at every time point and stored in the freezer at -25°C.&#xD;
+      Blood nicotine samples will be assayed using LCMS/ MS with deuterated internal standards, as&#xD;
+      in 114. Blood will be sampled 30sec prior to the initial puff, 5, 15, and 25sec after each&#xD;
+      puff, and 60sec after the last puff of a bout. The obtained data will be used to calculate&#xD;
+      pharmacokinetic parameters of nicotine delivery under each condition (Cmax, Tmax, dCi/dt, and&#xD;
+      AUC). AUC from 0 to 160min for the four 3-puff directed bouts will be estimated using a&#xD;
+      non-compartmental model and trapezoidal rule. All measures will be corrected for baseline&#xD;
+      values by subtracting the blood nicotine concentrations by the initial value (at the start of&#xD;
+      each bout).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 1, 2023</start_date>
+  <completion_date type="Anticipated">January 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>The investigators will measure arterial nicotine concentrations over discrete time-periods in a within-subject study with 15 anticipated participants who will undergo 2 ENDS use sessions that differ by nicotine form (protonated, freebase). In each session, participants will draw three 3-sec puffs with four randomly ordered nicotine fluxes (9, 18, 27, 35 μg/sec).</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>The flux/form conditions will be tested by participants in two lab visits separated by three weeks to minimize carryover effects. All sessions will be double-blinded. In the first visit, participants will use the ENDS device with one nicotine form and four fluxes in random order.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Maximum Arterial Blood Nicotine Delivery (Cmax)</measure>
+    <time_frame>Day 1 and Week 3</time_frame>
+    <description>For arterial blood sampling, a radial arterial line will be placed on the non-dominant side to provide access to blood samples during vaping sessions. Blood will be sampled 30sec prior to the initial puff, 5, 15, and 25sec after each puff, and 60sec after the last puff of a bout (3 puffs per bout; 4 bouts per visit day; two visit days, separated by three weeks). The obtained data will be used to calculate pharmacokinetic parameters of nicotine delivery under each condition.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Area Under the Curve for Nicotine (AUC)</measure>
+    <time_frame>Day 1 and Week 3</time_frame>
+    <description>AUC from 0 to 160min for the four 3-puff directed bouts will be estimated using a non-compartmental model and trapezoidal rule. The four 3-puff directed bouts occur on both visit day 1 and 2, separated by 3 weeks.&#xD;
+All measures will be corrected for baseline values by subtracting the blood nicotine concentrations by the initial value (at the start of each bout).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Liquid Consumed</measure>
+    <time_frame>Day 1 and Week 3</time_frame>
+    <description>Determined by ENDS gravimetric weight change. Pre- and Post- vaping on both visit day 1 and 2, separated by 3 weeks.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Puff Topography</measure>
+    <time_frame>Day 1 and Week 3</time_frame>
+    <description>Puff duration in seconds. Measured after each puff (12 total per visit) on both visit day 1 and 2, separated by 3 weeks</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Rate of Nicotine Rise after the Initial Puff (dCi/dt)</measure>
+    <time_frame>Day 1 and Week 3</time_frame>
+    <description>Blood will be sampled 30sec prior to the initial puff, 5, 15, and 25sec after each puff, and 60sec after the last puff of a bout. Measurements occur 4 times per visit day, on both visit day 1 and 2, separated by 3 weeks).&#xD;
+The obtained data will be used to calculate pharmacokinetic parameters of nicotine delivery under each condition (Cmax, Tmax, dCi/dt, and AUC).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Time to Maximum Arterial Blood Level Nicotine Concentration (Tmax)</measure>
+    <time_frame>Day 1 and Week 3</time_frame>
+    <description>Blood will be sampled 30sec prior to the initial puff, 5, 15, and 25sec after each puff, and 60sec after the last puff of a bout. Measurements occur 4 times per visit day, on both visit day 1 and 2, separated by 3 weeks). The obtained data will be used to calculate pharmacokinetic parameters of nicotine delivery under each condition (Cmax, Tmax, dCi/dt, and AUC).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">15</enrollment>
+  <condition>Nicotine Vaping</condition>
+  <arm_group>
+    <arm_group_label>Nicotine vaping group visit 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will receive the either free-base or protonated form of four nicotine fluxes: 9, 18, 27, 35 μg/sec at their first of two visits. In the first visit, participants will use the ENDS device with one nicotine form and four fluxes in random order. Participants will be instructed to attend the lab for a second visit, to test the four fluxes but with the other nicotine form.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Nicotine vaping group visit 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The same subjects from visit 1 will receive the either free-base or protonated form of four nicotine fluxes: 9, 18, 27, 35 μg/sec at their second study visit, using the opposite nicotine form that was used during the first visit.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Nicotine vaping visit 1 (free-base nicotine)</intervention_name>
+    <description>Participants will receive the free-base form of four nicotine fluxes: 9, 18, 27, 35 μg/sec at one of their two visits. Participants will use the ENDS device with free-base nicotine and four fluxes in random order.</description>
+    <arm_group_label>Nicotine vaping group visit 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Nicotine vaping visit 1 (protonated nicotine)</intervention_name>
+    <description>Participants will receive the protonated form of four nicotine fluxes: 9, 18, 27, 35 μg/sec at the other study visit. Participants will use the ENDS device with protonated nicotine and four fluxes in random order.</description>
+    <arm_group_label>Nicotine vaping group visit 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Nicotine vaping visit 2 (free-base nicotine)</intervention_name>
+    <description>Participants who received protonated nicotine during visit 1 will now receive free-base nicotine fluxes for visit 2: 9, 18, 27, 35 μg/sec.</description>
+    <arm_group_label>Nicotine vaping group visit 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Nicotine vaping visit 2 (protonated nicotine)</intervention_name>
+    <description>Participants who received free-base nicotine during visit 1 will now receive protonated nicotine fluxes for visit 2: 9, 18, 27, 35 μg/sec.</description>
+    <arm_group_label>Nicotine vaping group visit 1</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Above 21 years of age&#xD;
+&#xD;
+          -  Use ENDS at least 3 months and at least 3 times a week.&#xD;
+&#xD;
+          -  Be willing to provide informed consent, attend the lab, and abstain from&#xD;
+             tobacco/nicotine as required.&#xD;
+&#xD;
+          -  Have a normal Allen test&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any significant current medical condition such as neurological, cardiovascular,&#xD;
+             endocrine, renal, or hepatic pathology that would increase risk or would interfere&#xD;
+             with/mimic tobacco abstinence&#xD;
+&#xD;
+          -  Untreated, unresolved active pulmonary or cardiovascular conditions (i.e. chest pain,&#xD;
+             dyspnea, acute infection, recurring bronchitis, and reactive airway disorder)&#xD;
+&#xD;
+          -  Breast-feeding or Pregnant (by urinalysis at screening).&#xD;
+&#xD;
+          -  Vaping less than 3 months and less than 3 times per week&#xD;
+&#xD;
+          -  Taking anticoagulants and blood thinners&#xD;
+&#xD;
+          -  Known hypersensitivity to propylene glycol&#xD;
+&#xD;
+          -  History of environmental - bronchospastic allergies, multiple chemical sensitivities,&#xD;
+             or other airway sensitivities that require the use of an epi pen or that in the&#xD;
+             investigator's view would make it risky for participation.&#xD;
+&#xD;
+          -  Not fully vaccinated for COVID 19.&#xD;
+&#xD;
+          -  Has current symptoms as identified by the Health Assessment Checklist including cough,&#xD;
+             shortness of breath, chest pain, nausea, vomiting, stomach pain, diarrhea, fever,&#xD;
+             chills, or weight loss&#xD;
+&#xD;
+          -  Participants intending to quit tobacco/nicotine use in the next 30 days will be&#xD;
+             excluded and referred to cessation treatment.&#xD;
+&#xD;
+          -  Abnormal Allen Test (impaired collateral circulation)&#xD;
+&#xD;
+          -  Positive pregnancy test at any study visit&#xD;
+&#xD;
+          -  Infection of skin or soft tissue at insertion site (erythema, swelling, ulceration)&#xD;
+&#xD;
+          -  Peripheral vascular disease&#xD;
+&#xD;
+          -  Coronary artery disease/advance atherosclerosis&#xD;
+&#xD;
+          -  Raynaud's phenomenon&#xD;
+&#xD;
+          -  Coagulopathy (hereditary bleeding disorders, advanced liver disease)&#xD;
+&#xD;
+          -  Thromboangiitis obliterans&#xD;
+&#xD;
+          -  COPD/emphysema/chronic bronchitis&#xD;
+&#xD;
+          -  Allergy to lidocaine or anesthetics&#xD;
+&#xD;
+          -  Inability to tolerate blood draws for any reason&#xD;
+&#xD;
+          -  Additional Screening Procedures: Significant changes and/or abnormalities in these&#xD;
+             assessments during the study period may warrant exclusion at the discretion of the PI.&#xD;
+&#xD;
+               -  Participants will be asked to answer the 4-item Patient-Reported Outcomes&#xD;
+                  Measurement Information System (PROMIS) physical function scale and will be&#xD;
+                  excluded if they report greater than &quot;without any difficulty&quot; on any single item&#xD;
+                  as a screening tool&#xD;
+&#xD;
+               -  Spirometry (baseline and before each visit)&#xD;
+&#xD;
+               -  Physical Exam&#xD;
+&#xD;
+               -  Application of the self-reported signs and symptoms health questionnaire with&#xD;
+                  exclusion of those with chronic symptoms that would interfere with monitoring of&#xD;
+                  vaping complications (baseline and * before each visit). Participants will be&#xD;
+                  excluded and referred for medical treatment if they indicate dyspnea or cough&#xD;
+                  symptoms are &quot;severe.&quot;&#xD;
+&#xD;
+               -  PROMIS Dyspnea Severity Item Pool&#xD;
+&#xD;
+               -  PROMIS Dyspnea Characteristics&#xD;
+&#xD;
+               -  PROMIS Fatigue Short Form&#xD;
+&#xD;
+               -  Functional Assessment of Chronic Illness Therapy (FACIT) Cough item&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stephen R Baldassarri, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Yale University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Reagan F Blohowiak, B.S.</last_name>
+    <phone>203-824-9215</phone>
+    <email>vape.study@yale.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Human Research Unit (HRU)</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 20, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 31, 2023</study_first_posted>
+  <last_update_submitted>February 14, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 14, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 16, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Nicotine</keyword>
+  <keyword>Nicotine Flux</keyword>
+  <keyword>ENDS</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nicotine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9655">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05693467</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KY-2019-112-02-3</org_study_id>
+    <nct_id>NCT05693467</nct_id>
+  </id_info>
+  <brief_title>Preemptive Co-infiltration of Dexamethasone Palmitate With Ropivacaine for Postoperative Pain in Major Spinal Surgery</brief_title>
+  <official_title>Preemptive Co-infiltration of Dexamethasone Palmitate Emulsion With Ropivacaine for Postoperative Pain in Patients Undergoing Major Spinal Surgery</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Beijing Tiantan Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Beijing Tiantan Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Patients undergoing major spinal surgery usually experience moderate-to-severe postoperative&#xD;
+      pain. Inadequate pain control may lead to severe complications. Dexamethasone as an&#xD;
+      adjunctive infiltration to local anesthesia (LA) presented a superior analgesic benefit&#xD;
+      compared with LA alone in various types of surgeries. However, a recent meta-analysis showed&#xD;
+      that the additional analgesic effect of dexamethasone in incision/wound infiltration was only&#xD;
+      statistically significant, but not clinically significant, and the overall benefits were&#xD;
+      marginal. Compared with dexamethasone, dexamethasone palmitate emulsion (DXP) is a targeted&#xD;
+      lipo-steroid with stronger anti-inflammatory effect, longer-acting duration and fewer adverse&#xD;
+      effects. To date, no studies have evaluated the additive analgesia effects of DXP on incision&#xD;
+      infiltration in major spinal surgery. The purpose of this trial is to determine whether&#xD;
+      preemptive co-infiltration of DXP emulsion and ropivacaine in surgical incision will further&#xD;
+      reduce postoperative opioid requirements and pain score after spinal surgery than that of&#xD;
+      ropivacaine alone.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 1, 2023</start_date>
+  <completion_date type="Anticipated">September 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2024</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The cumulative consumption of sufentanil within 24 hours after spinal surgery via the PCA pump.</measure>
+    <time_frame>Within 24 hours after spinal surgery</time_frame>
+    <description>All participates will receive an electronic intravenous patient-controlled analgesia (PCA) pump. Participates will be advised to push the analgesic demand button if they feel pain.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The cumulative consumption of sufentanil via PCA pump between 24 hours and 48 hours postoperatively.</measure>
+    <time_frame>Between 24 hours and 48 hours after spinal surgery</time_frame>
+    <description>Patients will use PCA device for pain management within the the first 48 hours after surgery. When the patients feel pain, the PCA button will be pressed. When the patients feel no pain, the PCA button will not be pressed. The PCA pump will provide a bolus of 2μg sufentanil with a 10 minutes lock-out time, and the maximum dose of sufentanil will be limited to 8μg/h.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients without PCA press button</measure>
+    <time_frame>Within 48 hours after spinal surgery</time_frame>
+    <description>Patients will use PCA device for postoperative analgesia. When the patients feel pain, the PCA button will be pressed. When the patients feel no pain, the PCA button will not be pressed. The PCA pump will provide a bolus of 2μg sufentanil with a 10 minutes lock-out time, and the maximum dose of sufentanil will be limited to 8μg/h.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The time of first PCA demand</measure>
+    <time_frame>Within 48 hours after spinal surgery</time_frame>
+    <description>The first time that the participants press PCA button.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The total number of PCA presses including both valid and invalid presses</measure>
+    <time_frame>Within 48 hours after spinal surgery</time_frame>
+    <description>The total number that participants press PCA button including valid and invalid presses</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Postoperative visual analogue scale (VAS) score during movement(VASm)</measure>
+    <time_frame>At 2 hours, 4 hours, 24 hours, 48 hours, 72 hours, 1 week, 2 weeks, 3 weeks, 1 month and 3 months postoperatively</time_frame>
+    <description>The pain will be assessed by VAS scores during movement (0 indicates no pain, 10 indicates the most severe pain imaginable, a higher score means worse pain)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Postoperative VAS score at rest(VASr)</measure>
+    <time_frame>At 2 hours, 4 hours, 24 hours, 48 hours, 72 hours, 1 week, 2 weeks, 3 weeks, 1 month and 3 months postoperatively</time_frame>
+    <description>The pain will be assessed by VAS scores at rest (0 indicates no pain, 10 indicates the most severe pain imaginable, a higher score means worse pain)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total consumption of Tylenol as supplementary analgesia</measure>
+    <time_frame>Four separate postoperative periods ( 0- postoperative 48 hours, postoperative 48 hours-postoperative 2 weeks, postoperative 2 weeks-postoperative 1 month, and postoperative 1 month-postoperative 3 months)</time_frame>
+    <description>During the initial postoperative 48 hours, when VAS&gt;4 (either VASm or VASr) after pressing button four times with PCA pump for pain relief, patients will be treated for supplementary analgesia with oral Tylenol (Mallinckrodt Inc.), a combination of 5mg of oxycodone hydrochloride and 325mg paracetamol per tablet at a minimum interval of 6 hours. After the initial postoperative 48 hours, patients will be allowed to take oral Tylenol as needed (dose as previously described), until the end of the study (3-months follow-up).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Satisfaction Score (PSS) with pain relief</measure>
+    <time_frame>At 48 hours, 72 hours, 1 week, 2 weeks, 3 weeks 1 month and 3 months postoperatively</time_frame>
+    <description>4 scales; never, sometimes, usually or always</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Postoperative nausea and vomiting (PONV) score</measure>
+    <time_frame>At 2 hours, 4 hours, 24 hours, 48 hours and 72 hours postoperatively</time_frame>
+    <description>The Postoperative Nausea and Vomiting (PONV) will be measured using an ordinal scale, with 0 indicating no nausea;&#xD;
+1, mild nausea not requiring treatment; 2, nausea requiring treatment; 3, vomiting.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ramsay Sedation Scale (RSS)</measure>
+    <time_frame>At 2 hours, 4 hours, 24 hours, 48 hours and 72 hours postoperatively</time_frame>
+    <description>The Ramsay Sedation Scale (RSS): A 6-point scale will be used to assess sedation levels, with 1 indicating agitated, anxious; 2, cooperative; 3, only responds to commands; 4, strong response to glabellar tapping or noisy stimulants; 5, weak response to glabellar tapping or noisy stimulants; 6, no response.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Scar Assessment and the Observer Scar Assessment Scale (POSAS)</measure>
+    <time_frame>At 2 weeks, 1 month and 3 months postoperatively</time_frame>
+    <description>The POSAS consists of an Observer and a Patient Scale and includes a comprehensive list of items, based on clinically relevant scar characteristics. The observer scores six items: vascularization, pigmentation, thickness, surface roughness, pliability, and surface area. The patient scores six items: pain, pruritus, color, thickness, relief, and pliability. All included items are scored on the same polytomous 10-point scale, in which a score of 1 is given when the scar characteristic is comparable to normal skin and a score of 10 reflects the worst imaginable scar. All items are summed to give a total scar score, and therefore, a higher score represents a poorer scar quality.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of steroid-related side effects and complications</measure>
+    <time_frame>Through the whole follow-up, an average of 3 months</time_frame>
+    <description>Steroid-related side effects (hyperglycemia, gastrointestinal bleeding, gastritis, etc.) or complications including any cardiac, respiratory, renal, neurologic, or infection complications occured during the hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Readmission rate within 3 months after spine surgery;</measure>
+    <time_frame>Through the whole follow-up, within 3 months after spine surgery</time_frame>
+    <description>Patients readmitted within 3 months after spine surgery</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of Postoperative Anesthesia Care Unit (PACU) stay</measure>
+    <time_frame>Approximately 30 minutes to 2 hours after surgery</time_frame>
+    <description>Time from arrival at PACU after tracheal extubation to transfer from PACU to the surgical ward (modified Aldrete score ≥9).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospitalization after surgery</measure>
+    <time_frame>Approximately 1-2 weeks after surgery</time_frame>
+    <description>Duration of hospitalization after surgery (time required from the end of surgery to discharge from the hospital).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total consumption of remifentanil during surgery</measure>
+    <time_frame>During surgery</time_frame>
+    <description>Total remifentanil dosages during surgery</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total consumption of loxoprofen</measure>
+    <time_frame>From postoperative 48 hours to approximately 1-2 weeks after surgery</time_frame>
+    <description>Pain management will be provided via the sufentanil PCA device for the first 48 hours following surgery. After that, patients will switch to taking oral loxoprofen 60 mg at a minimum interval of 8 hours and a maximum 180mg per day as needed until discharge.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">124</enrollment>
+  <condition>Pain, Postoperative</condition>
+  <arm_group>
+    <arm_group_label>The dexamethasone palmitate emulsion(DXP) plus ropivacaine group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The local infiltration solution in the dexamethasone palmitate emulsion(DXP) plus ropivacaine group will consist of dexamethasone palmitate emulsion(DXP) and ropivacaine.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>The ropivacaine alone group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The local infiltration solution in the ropivacaine alone group will consist of ropivacaine alone.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexamethasone palmitate emulsion(DXP) plus ropivacaine</intervention_name>
+    <description>The local infiltration solution in the dexamethasone palmitate emulsion(DXP) plus ropivacaine group will consist of ropivacaine and dexamethasone palmitate emulsion(DXP). For local infiltration, a total of 30mL solution will be prepared for each group, which will include 2mL of DXP(4mg per 1mL) added to 20.5 mL of saline and 7.5mL of 1% ropivacaine added to 15mL of saline for Group A . The surgeon will perform incision infiltration before the skin incision. A total of 10 mL of solution will be injected into each level. The study solution will be injected into the entire thickness of the planned incision site. The epidural space and intrathecal space will not be infiltrated.</description>
+    <arm_group_label>The dexamethasone palmitate emulsion(DXP) plus ropivacaine group</arm_group_label>
+    <other_name>DXP plus ropivacaine</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ropivacaine alone</intervention_name>
+    <description>The local infiltration solution in the ropivacaine alone group will consist of ropivacaine alone. For local infiltration, a total of 30mL solution will be prepared for each group, which will include 7.5mL of ropivacaine added to 22.5mL of saline for Group B . The surgeon will perform incision infiltration before the skin incision. A total of 10 mL of solution will be injected into each level. The study solution will be injected into the entire thickness of the planned incision site. The epidural space and intrathecal space will not be infiltrated.</description>
+    <arm_group_label>The ropivacaine alone group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18-64 years;&#xD;
+&#xD;
+          -  Patients scheduled for elective laminoplasty or laminectomy with no more than 3 levels&#xD;
+             under general anesthesia&#xD;
+&#xD;
+          -  American Society of Anesthesiologists (ASA) physical status of I-III;&#xD;
+&#xD;
+          -  Anticipated full recovery and cooperation within 2 hours postoperatively.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of spinal surgery;&#xD;
+&#xD;
+          -  Inability to use a patient-controlled analgesia (PCA) pump or comprehend the pain&#xD;
+             visual analog scale (VAS);&#xD;
+&#xD;
+          -  Body mass index (BMI)&lt;15kg/m2 or &gt;35kg/m2;&#xD;
+&#xD;
+          -  Peri-incisional infection;&#xD;
+&#xD;
+          -  History of diabetes mellitus and other metabolic diseases;&#xD;
+&#xD;
+          -  History of severe cardiopulmonary, hepatic or renal dysfunction;&#xD;
+&#xD;
+          -  Preoperative coagulation abnormalities (activated partial thromboplastin time greater&#xD;
+             than 1.5 times normal value);&#xD;
+&#xD;
+          -  History of allergies to any of the study drugs;&#xD;
+&#xD;
+          -  History of alcohol or drugs abuse (more than 2 weeks), or use of any analgesic within&#xD;
+             24h before surgery;&#xD;
+&#xD;
+          -  Use of systemic steroids within 1 week before surgery;&#xD;
+&#xD;
+          -  History of psychiatric disorders, chronic neck or back pain;&#xD;
+&#xD;
+          -  History of radiation therapy and chemotherapy or with a high probability of such&#xD;
+             treatment postoperatively;&#xD;
+&#xD;
+          -  Pregnant or breastfeeding;&#xD;
+&#xD;
+          -  Refusal to sign informed consent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>64 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Fang Luo</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Beijing Tiantan Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Fang Luo</last_name>
+    <phone>+86 13611326978</phone>
+    <email>13611326978@163.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Chunmei Zhao</last_name>
+    <phone>+86 15510286930</phone>
+    <email>zhaochunmei1206@163.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Beijing Tiantan Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100070</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fang Luo, M.D.</last_name>
+      <phone>+86 13611326978</phone>
+      <email>13611326978@163.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <reference>
+    <citation>Lamperti M, Tufegdzic B, Avitsian R. Management of complex spine surgery. Curr Opin Anaesthesiol. 2017 Oct;30(5):551-556. doi: 10.1097/ACO.0000000000000494.</citation>
+    <PMID>28731875</PMID>
+  </reference>
+  <reference>
+    <citation>Kjaergaard M, Moiniche S, Olsen KS. Wound infiltration with local anesthetics for post-operative pain relief in lumbar spine surgery: a systematic review. Acta Anaesthesiol Scand. 2012 Mar;56(3):282-90. doi: 10.1111/j.1399-6576.2011.02629.x. Epub 2012 Jan 19.</citation>
+    <PMID>22260370</PMID>
+  </reference>
+  <reference>
+    <citation>Bai JW, An D, Perlas A, Chan V. Adjuncts to local anesthetic wound infiltration for postoperative analgesia: a systematic review. Reg Anesth Pain Med. 2020 Aug;45(8):645-655. doi: 10.1136/rapm-2020-101593. Epub 2020 May 30.</citation>
+    <PMID>32474417</PMID>
+  </reference>
+  <reference>
+    <citation>Shrestha N, Han B, Wang X, Jia W, Luo F. Methylprednisolone as an Adjunct to Local Infiltration on Laminoplasty or Laminectomy before Wound Closure: A Randomized Controlled Trial. Pain Res Manag. 2022 Aug 3;2022:2274934. doi: 10.1155/2022/2274934. eCollection 2022.</citation>
+    <PMID>35966574</PMID>
+  </reference>
+  <reference>
+    <citation>Ye X, Ren YF, Hu YC, Tan SY, Jiang H, Zhang LF, Shi W, Wang YT. Dexamethasone Does Not Provide Additional Clinical Analgesia Effect to Local Wound Infiltration: A Comprehensive Systematic Review and Meta-Analysis. Adv Wound Care (New Rochelle). 2023 Jan;12(1):1-14. doi: 10.1089/wound.2021.0163. Epub 2022 Mar 1.</citation>
+    <PMID>35081741</PMID>
+  </reference>
+  <reference>
+    <citation>Zhao C, Wang S, Pan Y, Ji N, Luo F. Pre-Emptive Incision-Site Infiltration with Ropivacaine Plus Dexamethasone for Postoperative Pain After Supratentorial Craniotomy: A Prospective Randomized Controlled Trial. J Pain Res. 2021 Apr 19;14:1071-1082. doi: 10.2147/JPR.S300943. eCollection 2021.</citation>
+    <PMID>33907455</PMID>
+  </reference>
+  <reference>
+    <citation>Han X, Ren T, Wang Y, Ji N, Luo F. Postoperative Analgesic Efficacy and Safety of Ropivacaine Plus Diprospan for Preemptive Scalp Infiltration in Patients Undergoing Craniotomy: A Prospective Randomized Controlled Trial. Anesth Analg. 2022 Dec 1;135(6):1253-1261. doi: 10.1213/ANE.0000000000005971. Epub 2022 Mar 21.</citation>
+    <PMID>35313321</PMID>
+  </reference>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>December 24, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>May 9, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 9, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 10, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Beijing Tiantan Hospital</investigator_affiliation>
+    <investigator_full_name>Fang Luo</investigator_full_name>
+    <investigator_title>Director of Department of Day Surgery and Pain Management</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pain, Postoperative</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dexamethasone</mesh_term>
+    <mesh_term>Ropivacaine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

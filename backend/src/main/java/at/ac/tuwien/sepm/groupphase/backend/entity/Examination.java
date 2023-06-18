@@ -13,6 +13,9 @@ import jakarta.persistence.ManyToOne;
 import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
 import org.hibernate.annotations.OnDelete;
+import org.springframework.data.elasticsearch.annotations.DateFormat;
+import org.springframework.data.elasticsearch.annotations.Field;
+import org.springframework.data.elasticsearch.annotations.FieldType;
 
 import java.time.LocalDate;
 
@@ -36,6 +39,7 @@ public class Examination {
     private String name;
 
     @Column(name = "date")
+    @Field(type = FieldType.Date, format = DateFormat.year_month_day)
     private LocalDate date;
 
     @Column(name = "type")
@@ -93,6 +97,15 @@ public class Examination {
 
     public Examination setId(Long id) {
         this.id = id;
+        return this;
+    }
+
+    public MedicalImage getMedicalImage() {
+        return medicalImage;
+    }
+
+    public Examination setMedicalImage(MedicalImage medicalImage) {
+        this.medicalImage = medicalImage;
         return this;
     }
 

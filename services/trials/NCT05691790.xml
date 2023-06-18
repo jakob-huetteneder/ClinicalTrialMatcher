@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9717">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05691790</url>
+  </required_header>
+  <id_info>
+    <org_study_id>epc20220526</org_study_id>
+    <nct_id>NCT05691790</nct_id>
+  </id_info>
+  <brief_title>Older People's Preventive Care Utilization</brief_title>
+  <official_title>Empowering Older People's Preventive Care Utilization Through Mental Model Approach and Patient Activation Approach: a Randomized Control Trial for Promoting Vaccination Uptake</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The University of Hong Kong</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The University of Hong Kong</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Objectives: To empower older people's decision making for taking the recommended vaccines&#xD;
+      including seasonal influenza vaccines, pneumococcal vaccines, and COVID-19 vaccine (if it is&#xD;
+      recommended annually).&#xD;
+&#xD;
+      Hypotheses to be tested: The interventions designed using Mental Models Approach and Patient&#xD;
+      Activation Approach will promote older people's confidence in knowledge and skills regarding&#xD;
+      vaccination decisions, perceived self-efficacy in self-management of health, positive&#xD;
+      emotional engagement with vaccination decisions and a positive future time perspective which&#xD;
+      will subsequently promote their uptake of the recommended vaccines.&#xD;
+&#xD;
+      Design and subjects: This will be a two-arm randomized control trial. Subjects will be&#xD;
+      community-dwelling older people aged 70 years or above.&#xD;
+&#xD;
+      Instruments: A questionnaire will be used to collect baseline data before the interventions&#xD;
+      and follow-up data 1 months and 4 months, respectively, after the end of interventions.&#xD;
+&#xD;
+      Interventions: Interventions included one booklet to communicate information about preventive&#xD;
+      care by bridging expert knowledge and older people's existing mental models, and six patient&#xD;
+      activation sections conducted over telephone. One patient activation section will be&#xD;
+      delivered per week by trained medical students.&#xD;
+&#xD;
+      Main outcome measures: Main outcomes will be participants' uptake of the three recommended&#xD;
+      vaccines assessed at 1 month and 4 months after the end of interventions.&#xD;
+&#xD;
+      Data analysis and expected results: Generalized estimating equation logistic regression will&#xD;
+      be used to assess the intervention effects. The investigators expect that the interventions&#xD;
+      can promote at least 20% increase in uptake of any one of the three recommended vaccines in&#xD;
+      the intervention group compared with the control group.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      1. Introduction:&#xD;
+&#xD;
+           The global population aged above 60 years is projected to reach 2.1 billion by 2050.&#xD;
+           Hong Kong also has a rapid aging population. In 2018, there were around 1.27 million&#xD;
+           people aged 65 years or above, accounting for 17.9% of the total population in Hong&#xD;
+           Kong, which was estimated to increase to 2.44 million and 31.9% of the total population&#xD;
+           by 2038. Age increases with a sharp rise in multimorbidity. In Hong Kong, it was&#xD;
+           estimated that around 70% of the population aged 60 years or above had at least one&#xD;
+           chronic disease and 40% had multimorbidity. This will cause substantial burden to the&#xD;
+           health care systems.&#xD;
+&#xD;
+           Underutilization of preventive care in older people Encouraging older people's&#xD;
+           utilization of preventive care is crucial for reducing the pressure of population aging&#xD;
+           placed on the health care systems and promoting healthy aging. In England, it was&#xD;
+           estimated that regular health check-up can prevent 390 premature deaths and gain an&#xD;
+           additional 1,370 people being free of disease per million people before age of 80 years.&#xD;
+           A meta-analysis estimated that influenza vaccination in older people reduced hospital&#xD;
+           admission due to influenza or pneumonia by 27% and all-cause mortality by 47%. Adding&#xD;
+           pneumococcal vaccination to influenza vaccination can additionally prevent pneumonia and&#xD;
+           death by 15% and 19%, respectively. However, underutilization of preventive care was&#xD;
+           widespread. For instance, it was reported that only 40% of the Hong Kong older people&#xD;
+           had regular medical check-ups to screen for chronic diseases. In Hong Kong, free or&#xD;
+           subsidized influenza vaccination and pneumococcal vaccinations are provided for older&#xD;
+           people aged 50 years or above and those aged 65 years or above, respectively. However,&#xD;
+           only 45% of the target age group received seasonal influenza vaccines in 2020/2021 and&#xD;
+           46% had received pneumococcal vaccines as of February 2021. In addition, older people&#xD;
+           were found to be much more hesitant about taking COVID-19 vaccination, with less than&#xD;
+           20% of persons aged 60 or older being vaccinated 6 months after the COVID-19 vaccination&#xD;
+           programme launched in Hong Kong.&#xD;
+&#xD;
+           Linking to older people's decision-making preference Preventive care utilization&#xD;
+           involves a decision-making process of identifying available preventive care options,&#xD;
+           evaluating these options based on available information or by engagement with&#xD;
+           information seeking and finally choosing the favourable options. This is a cognitively&#xD;
+           demanding process. However, age increases with decline in cognitive function.&#xD;
+           Attributing to their declined cognitive function, older people tend to seek less&#xD;
+           information, favour fewer options and simpler information in decision making, and have&#xD;
+           poorer decision-making competence. However, older people were suggested to have better&#xD;
+           emotional and experiential skills which sometimes compensate their declined cognitive&#xD;
+           function in decision making. Older people's decision making tend to be gain-oriented and&#xD;
+           they were better at making use of positive information than negative information in&#xD;
+           decision making. Older people had greater cognitive engagement in decisions that were&#xD;
+           more emotionally relevant, and better performance in recognizing social norms-related&#xD;
+           cues in decision making. Older people's better performance in affective decision making&#xD;
+           may be explained using the Socioemotional Selectivity Theory (SST). According to SST,&#xD;
+           older people naturally perceive that they have limited time for future and hence they&#xD;
+           selectively pay more attention to the emotional contents of the decisions, put more&#xD;
+           effort to decisions that are more emotionally meaningful for them, and value more for&#xD;
+           optimizing emotional experience and maintaining emotional connectivity with others in&#xD;
+           decision making. Most existing studies to examine older people's decision making&#xD;
+           preference focused on the financial domain and few studies linked older people's&#xD;
+           decision-making preference to preventive care utilization.&#xD;
+&#xD;
+           Thus, older people should need support to facilitate preventive care utilization. First,&#xD;
+           due to decline in cognitive function, older people may need support for identifying&#xD;
+           available preventive care services suitable for their age groups and recognizing&#xD;
+           personal need for preventive care. The investigators' previous study found that older&#xD;
+           people generally had insufficient understanding about what preventive care was. For&#xD;
+           instance, healthy lifestyle was the most frequently mentioned preventive care while&#xD;
+           other preventive care services were not recognized. Some had misperceptions about&#xD;
+           preventive care. The investigators' recent qualitative study found that older people&#xD;
+           misinterpreted pneumococcal vaccination as a curative care rather than preventive care&#xD;
+           (unpublished data). Inability to distinguish preventive care from curative care shaped a&#xD;
+           misperception that need for preventive care depended on somatic symptoms. Second,&#xD;
+           information should be presented in a way of being emotionally relevant for older people,&#xD;
+           emphasizing the benefits of behaviours rather than prevention of loss, to eventually&#xD;
+           facilitate the achievement of emotional positivity, stability, and connectivity.&#xD;
+           However, current advocacy for preventive care in older people remains primarily based on&#xD;
+           the conventional three-level disease prevention model emphasizing prevention of loss.&#xD;
+           This may reduce older people's motivation to cognitively engage in understanding and&#xD;
+           making use of the information for preventive care utilization. Third, preventive care&#xD;
+           utilization requires older people to be more future-oriented, actively planning and&#xD;
+           striving for a better future. However, it was found that older people particularly those&#xD;
+           who were 70 years or above had a more negative view of and feeling helpless about the&#xD;
+           present-the present fatalistic perspective which impaired their decision making&#xD;
+           competence. This suggests the importance of promoting a positive future time perspective&#xD;
+           particularly in those who are 70 years or older for promoting their preventive health&#xD;
+           behaviours. Review of literature suggested that older people in general had lower&#xD;
+           self-efficacy in decision making. Meanwhile healthcare professional and family tend to&#xD;
+           leave the medical decisions to older people themselves to avoid feeling of regret once&#xD;
+           wrong decision is made, which is a case in Hong Kong regarding older people's COVID-19&#xD;
+           vaccination.&#xD;
+&#xD;
+           Application of Mental Models Approach and Patient Activation Approach for empowering&#xD;
+           older people Mental Models Approach (MMA): MMA was developed based on communication&#xD;
+           sciences, cognitive psychology and normative decision theories. It involves three&#xD;
+           stages: Step 1. Consult current scientific evidence and experts' opinions about what the&#xD;
+           target audience should know to make a good decision; Step 2. Describe what the target&#xD;
+           audience currently know and what they want to know about behaviours of interest; and&#xD;
+           Step 3. Prescribe information to bridge the gaps between what the target audience should&#xD;
+           know and what they currently know and want to know. For preventive care in older people,&#xD;
+           the whole procedure can help to design information to support decision for a specific&#xD;
+           preventive care that is personally relevant, emotionally meaningful and easy to process&#xD;
+           for older people.&#xD;
+&#xD;
+           Patient Activation Approach (PAA): PPA aims to empower individuals to take an active&#xD;
+           role in their health care and become positive about their future. It is suggested that&#xD;
+           high patient activation was associated with greater adoption of self-management health&#xD;
+           behaviours and use of health care services. It involves a series of pragmatic strategies&#xD;
+           developed based positive psychology and self-efficacy theory. Several strategies that&#xD;
+           are important for patient activation are identified from the literature. The first&#xD;
+           strategy is gaining knowledge by providing information that is personally relevant and&#xD;
+           mentally accessible. The second strategy is skill development. Skill development can be&#xD;
+           achieved by learning from personal experience of success and others' success, which&#xD;
+           subsequently help to enhance self-efficacy. The subsequent strategy is reinforcing the&#xD;
+           belief that they can succeed (i.e., reinforcing confidence) by guiding individuals to&#xD;
+           image a personalized scenario of taking preventive care step by step and encouraging&#xD;
+           individuals to personally experience the success by taking small steps. These strategies&#xD;
+           can form an iterative self-reinforcing process to finally activate older people in&#xD;
+           taking a proactive role in managing their health.&#xD;
+&#xD;
+        2. Aims and Hypotheses to be Tested:&#xD;
+&#xD;
+           While the investigators have a final goal of empowering older people's decision making&#xD;
+           for preventive care utilization, as a seed grant application, they propose to initiate&#xD;
+           the programme with a focus on empowering older people's decision making for vaccinations&#xD;
+           that are recommended for them including seasonal influenza vaccination and pneumococcal&#xD;
+           vaccination. With stringent policies for promoting vaccination rates among older people&#xD;
+           since Hong Kong was severely attacked by a new resurgence of COVID-19 caused by omicron&#xD;
+           variant in January 2022, uptake rates of COVID-19 vaccination among people aged 70-79&#xD;
+           had reached 80% while that for people aged 80 or above remained at 55% as of 17 March&#xD;
+           2022. COVID-19 vaccination may be recommended annually for older people. Since COVID-19&#xD;
+           vaccination rate in older people is relatively higher, their experience of successfully&#xD;
+           taking COVID-19 vaccination could be used for enhancing their feeling of confidence in&#xD;
+           taking future vaccinations and utilization of other preventive care.&#xD;
+&#xD;
+           Specifically, the investigators will aim to design an intervention programme based on&#xD;
+           current evidence on older adults' decision-making preference, MMA and PAA to promote&#xD;
+           older people's uptake of seasonal influenza vaccination, pneumococcal vaccination, and&#xD;
+           COVID-19 vaccination (if recommended). The investigators hypothesize that the&#xD;
+           intervention programme will promote older people's confidence in knowledge and skills&#xD;
+           regarding vaccination decisions, perceived self-efficacy in self-management of health,&#xD;
+           positive emotional engagement with vaccination decisions and a positive future time&#xD;
+           perspective which will subsequently promote their uptake of the three recommended&#xD;
+           vaccines.&#xD;
+&#xD;
+        3. Plan of Investigation:&#xD;
+&#xD;
+      Although the investigators start with a primary focus on empowering older people's&#xD;
+      vaccination decisions, the interventions, if tested to be effective, set as at least 20%&#xD;
+      increase in uptake of any one of the three recommended vaccinations for older people in the&#xD;
+      intervention group compared with the control group with a statistically significant&#xD;
+      difference (p&lt;0.05), the project will be proposed to scale up to benefit a bigger sample of&#xD;
+      older people. The scale-up project will be proposed to encompass a wider scope of preventive&#xD;
+      care services for older people by adapting the interventions proposed in this application.&#xD;
+&#xD;
+      (i) Subjects Assuming that the investigators' intervention can increase the uptake of&#xD;
+      seasonal influenza vaccination or pneumococcal vaccination in the intervention group by 20%&#xD;
+      (a small effect size) compared with the control group, the investigators will need 100&#xD;
+      subjects in each of the two arms to allow for a statistical power of 80% and type I error of&#xD;
+      5% to detect such effect size. To allow for 20% dropout rate during the intervention period&#xD;
+      and outcome assessment, the investigators need to increase the sample size to 120 subjects&#xD;
+      per arm.&#xD;
+&#xD;
+      (ii) Methods The investigators will first identify potentially eligible subjects from&#xD;
+      on-going biweekly/monthly repeated cross-sectional population-based surveys on public&#xD;
+      psychobehavioural responses to the COVID-19 pandemic and vaccine hesitancy. The project has&#xD;
+      been run since 2020 and is expected to continue until 2023. Based on previous experience,&#xD;
+      around 15% of ~1,000 in each survey round were older persons aged 70 years or above. Based on&#xD;
+      current vaccination uptake statistics in older persons, the investigators expect that 50% of&#xD;
+      these older people do not consistently receive seasonal influenza vaccines in the previous&#xD;
+      consecutive three years and/or have never received a dose of 23vPPV or PCV13. This will yield&#xD;
+      ~75 potentially eligible subjects per round. Assuming that 50% of these subjects will give&#xD;
+      consent for future contact to join the proposed study, the investigators will identify and&#xD;
+      recruit ~35 subject from each survey round.&#xD;
+&#xD;
+      (iii) Study design This is proposed to be a two-arm randomized control trial (RCT).&#xD;
+&#xD;
+      Subject recruitment and baseline assessment Potentially eligible subjects identified from the&#xD;
+      on-going project described above will be contacted via telephone for further screening to&#xD;
+      confirm eligibility and baseline assessment using a standardized questionnaire. One project&#xD;
+      assistant and one postgraduate student will be responsible for subject recruitment and&#xD;
+      baseline assessment. For each subject who gives verbal consent to participate in the study,&#xD;
+      an informant who is the co-resident aged 18 years or above, or an adult relative or friend&#xD;
+      who is nominated by the participant will be identified to confirm the participant's consent&#xD;
+      and eligibility to participate in the study. For participants who cannot contact an&#xD;
+      informant, they will be asked to briefly repeat our study purpose and procedure with the&#xD;
+      witness of another interviewer from the investigators' research team to confirm that the&#xD;
+      participants are cognitively capable in understanding and giving their consent to participate&#xD;
+      in the study. The baseline assessment will collect data on participants' uptake of seasonal&#xD;
+      influenza vaccination, pneumococcal vaccination, and COVID-19 vaccination, patient activation&#xD;
+      measure (to evaluate baseline confidence in knowledge and skills regarding vaccination&#xD;
+      decisions and perceived self-efficacy in self-managing health), emotional engagement with&#xD;
+      vaccination decision, future time perspective, lifestyle behaviours, other preventive care&#xD;
+      utilization, health conditions and major socio-demographics.&#xD;
+&#xD;
+      Randomization and allocation concealment A third researcher who does not involve in subject&#xD;
+      recruitment and data collection will generate the random allocation sequence using block&#xD;
+      randomization with a block size of 4 and 8 to balance the number of subjects in the control&#xD;
+      group and the intervention group. Then each random allocation sequence to determine the&#xD;
+      subject's group allocation will be put into an opaque sealed envelope. By the end of the&#xD;
+      baseline assessment for each participant, the interviewer will open the envelope to determine&#xD;
+      the participant's group allocation. Participants will then be informed about the subsequent&#xD;
+      study procedure based on their respective group allocation. This procedure will minimize the&#xD;
+      bias introduced by the interviewer's awareness of participant's group assignment in baseline&#xD;
+      data collection.&#xD;
+&#xD;
+      Intervention development and delivery The interventions will involve delivering a booklet&#xD;
+      designed based on MMA and six telephone interviews for patient activation.&#xD;
+&#xD;
+      Design of booklet for older people's preventive care: The booklet will be framed as one&#xD;
+      series of &quot;Positive aging via preventive care&quot;-vaccination. According to MMA, the booklet&#xD;
+      will be aimed to translate expert knowledge into information that can fit to older people's&#xD;
+      mental models (e.g., misperceptions and knowledge deficits revealed in our previous&#xD;
+      qualitative studies) regarding vaccinations to facilitate cognitive process of the&#xD;
+      information. The investigators propose that the booklet will include 8 main topics based on&#xD;
+      what experts and current academic literature believe are important for encouraging older&#xD;
+      people's preventive care utilization: 1. What preventive care is; 2. Why preventive care is&#xD;
+      needed; 3. Vaccination as a preventive care; 4. Available vaccines for older people; 5. Where&#xD;
+      and opportunities to obtain vaccination services; 6. Emotional benefits of taking&#xD;
+      vaccinations; 7. Others' success in overcoming difficulties; and 8. Others' views on a&#xD;
+      positive future. The later three sections are included based on older people's better&#xD;
+      capability to make use of emotionally relevant information and social norms-related cues. The&#xD;
+      investigators' previous qualitative studies (one is published and one for which manuscript is&#xD;
+      in preparation) have revealed the relevant knowledge deficits and misperceptions about&#xD;
+      preventive care and vaccination, which will be used to guide the design of information for&#xD;
+      the booklet. To add the social norms-related cues for the later three topics of the booklet,&#xD;
+      one qualitative study on older adults who are active in preventive care is needed. Therefore,&#xD;
+      the investigators will interview ~20 older adults aged 70 years or above who are active in&#xD;
+      taking preventive care (e.g., having continuously received seasonal influenza vaccination&#xD;
+      over the past three years and received at least one dose of 23vPPV or 13 PPV). Eligible&#xD;
+      subjects will be identified from the same sampling source as the main RCT. The investigators&#xD;
+      will conduct one-to-one in-depth interview via telephone to explore how participants overcome&#xD;
+      difficulties during decision making for vaccination (e.g., talking to doctors and family,&#xD;
+      booking appointment and vaccine side effects) and their positive feelings after making&#xD;
+      achievements. The investigators will also explore and identify older adults who have a&#xD;
+      positive future perspective. Each interview will last for ~30 min. A series of short&#xD;
+      narrative stories fitted to the latter three topics of the booklet will be designed using&#xD;
+      information derived from transcripts of the in-depth interviews. The investigators have the&#xD;
+      experiences of conducting qualitative interviews with older adults and using the same methods&#xD;
+      to design positive norm-related cues for promoting health behaviours for mothers (an on-going&#xD;
+      project). This booklet will be pretested using cognitive interviews with 5-10 older adults&#xD;
+      recruited from community centres to test content comprehensibility, affective valence and&#xD;
+      perceived usefulness.&#xD;
+&#xD;
+      Patient activation sections: the investigators will design six telephone-based patient&#xD;
+      activation sections with accommodation for older people's mental models and decision-making&#xD;
+      preference. The motivation interviewing (MI) techniques will be incorporated into the design&#xD;
+      of patient activation sections, which has been suggested to be effective for promoting health&#xD;
+      behaviours in diabetes patients. The core principals of MI such as emphasizing collaborative&#xD;
+      partnership with clients, respecting clients' autonomy and activation of motivation are well&#xD;
+      in alignment with patient activation theory. Four undergraduate medical students will be&#xD;
+      trained as the coaches to deliver the patient activation sections over six weeks. Each&#xD;
+      section will be around 20 min. Section 1 and 2 will focus on help older people gain&#xD;
+      confidence in knowledge by providing personally relevant information designed by MMA. All&#xD;
+      participants in the intervention group will receive the booklet described above before the&#xD;
+      patient-activation interviews. In Section 1 and 2, the interviewer will review participants'&#xD;
+      understanding about what preventive care is, what determines need for preventive care, why&#xD;
+      vaccination is a preventive care, what vaccines are available for older people and where and&#xD;
+      how to access to vaccination services. Clarifications will be provided if there is&#xD;
+      misunderstanding. Section 3 will focus on enhancing positive emotions regarding vaccinations&#xD;
+      by sharing other older persons' positive feelings after taking vaccinations. During the&#xD;
+      interview, older adults will be guided to imagine a personalized scenario through which they&#xD;
+      will image the emotional benefits (e.g., feeling relaxed) due to getting protection from&#xD;
+      vaccination. This strategy has been demonstrated to be effective to enhance older people's&#xD;
+      emotional engagement with a decision task. Section 4 will focus on developing skills and&#xD;
+      building confidence. This will be done by sharing stories about how other older people&#xD;
+      overcome difficulties during vaccination decisions such as initiating discussion about&#xD;
+      vaccines with a doctor. Participants will also be invited to share their past success in&#xD;
+      taking vaccination (if any) or other self-management of health to elicit feeling personal&#xD;
+      potential of success in future health management. Section 5 will focus on reinforcing&#xD;
+      confidence. In this section, participants will be guided to work through a personalized&#xD;
+      scenario if they plan to take vaccination. In the scenario, they will be guided to&#xD;
+      successfully overcome all the imagined difficulties and finally complete the vaccination. By&#xD;
+      the end of this section, participants will be encouraged to take small steps suitable for&#xD;
+      them such as talking/discussing vaccination plan with a doctor or book an appointment for&#xD;
+      vaccination. The last section will focus on building a positive future time perspective in&#xD;
+      which participant will be invited to share their views about the future. Participants who&#xD;
+      feel negative about their future will be encouraged to read other older people's views of&#xD;
+      positive future shared in the booklet. By the end, participants will be guided to image a&#xD;
+      positive future by actively taking preventive care. The final aim of the patient-activation&#xD;
+      sections is to activate older people's role in managing their health by actively taking&#xD;
+      preventive care and planning their future.&#xD;
+&#xD;
+      Intervention fidelity A standard training manual for skills of conducing the patient&#xD;
+      activation sections will be drafted by the research team. All recruited student helpers will&#xD;
+      receive 10 training sections, two hours per section over two weeks, before they deliver the&#xD;
+      intervention. Each patient action section will be audiotaped and be evaluated by the PI and&#xD;
+      one co-investigator who is experienced in motivational interviewing.&#xD;
+&#xD;
+      Control Participants who are allocated to the control group will receive a pamphlet about&#xD;
+      recommendation for influenza vaccines, pneumococcal vaccines, and COVID-19 vaccines (if&#xD;
+      appropriate) for older people using information from Hong Kong Department of Health. All&#xD;
+      information will be presented in Chinese. As a control for the patient activation interviews,&#xD;
+      the control group will also be informed that they will join our &quot;telephone-based elderly care&#xD;
+      project&quot; by the end of the baseline assessment but instead of receiving the patient&#xD;
+      activation interviews, this group will receive six control telephone care visits over six&#xD;
+      weeks. The control telephone care visits will be done by another four undergraduate students&#xD;
+      with medical or health science background who are recruited for the project using the same&#xD;
+      standards as those recruited for intervention delivery. The investigators will purposively&#xD;
+      balance the characteristics of the student helpers who do the control telephone visits and&#xD;
+      the patient activation interviews. Each control telephone care visit will be around 5-10 min&#xD;
+      during which the student helper will give general guidelines about dietary health and&#xD;
+      exercise for older people. The control messages are mainly educational and designed using&#xD;
+      information derived from the websites of Hong Kong Department of Health. In the last&#xD;
+      telephone care visit, the interviewer will give a summary for how to live a healthy lifestyle&#xD;
+      and a kindly reminder of taking the recommended vaccinations for older people shown in the&#xD;
+      pamphlet.&#xD;
+&#xD;
+      Blinding It is impossible to blind participants regarding the interventions they receive but&#xD;
+      participants will be blinded about the alternative arrangement for another group.&#xD;
+      Interviewers who collect data for baseline assessment and outcome assessment and researcher&#xD;
+      who will be responsible for data analysis will be blinded about the participants' group&#xD;
+      allocation.&#xD;
+&#xD;
+      (iv) Data processing and analysis Participants' socio-demographics, health conditions, uptake&#xD;
+      of the three recommended vaccines and other baseline data will be compared between&#xD;
+      intervention group and control group using Pearson chi-square test or t-test to assess&#xD;
+      randomization. Participants who are lost to follow and those who complete the follow-up&#xD;
+      assessment will be compared using Pearson chi-square test or t-test to assess attribution&#xD;
+      bias. To assess the effects of the interventions on uptake of the three recommended vaccines,&#xD;
+      a generalized estimating equation (GEE) logistic regression model will be conducted for&#xD;
+      uptake of each recommended vaccine in the follow-up. The GEE will assess whether any change&#xD;
+      in the outcome (i.e., vaccination uptake) is due to time effect or the intervention effect by&#xD;
+      accommodating the correlation between the outcome measured at baseline and the follow-up. To&#xD;
+      assess the effects of the interventions on the mediators-confidence in knowledge and skills&#xD;
+      regarding vaccination decisions, perceived self-efficacy in self-managing health, emotional&#xD;
+      engagement with vaccination decisions and positive future time perspective, a GEE linear&#xD;
+      regression model will be conducted for each of these mediators. Significant differences in&#xD;
+      any participants' socio-demographics and health conditions between the intervention and&#xD;
+      control groups will be adjusted in the GEE. The analyses will follow the intention-to-treat&#xD;
+      principle. Finally, the investigators will run a path analysis using structural equation&#xD;
+      modelling to examine whether the effects of intervention on uptake of each recommended&#xD;
+      vaccine via the hypothesized mediators.&#xD;
+&#xD;
+      (v) Potential pitfalls and contingency plans One potential concern of this proposed study is&#xD;
+      that participants who are allocated to the intervention groups cannot complete all the six&#xD;
+      interview sections for patient activation. To improve completion rate of the patient&#xD;
+      activation sections, participants will be informed that they will get a small gift (valued at&#xD;
+      HK$50) if they complete all the six interviews for patient activation. Another concern is&#xD;
+      that participants in the intervention groups may lose the booklet that will be delivered to&#xD;
+      them by mail. To address this potential problem, participants who use a smartphone will also&#xD;
+      receive an electronic version of the booklet via their smartphone. The designated project&#xD;
+      assistant will deliver the booklet in person to participants who have difficulties to receive&#xD;
+      the booklet by mail or smartphone. Furthermore, there is also concern about the accuracy of&#xD;
+      participants' self-reported vaccination uptake. As a validation of their reported vaccination&#xD;
+      uptake, one of the participants' family will be invited to validate their reported&#xD;
+      vaccination uptake in the 2nd follow-up survey if their family is accessible at the time of&#xD;
+      the survey. The accuracy rate of participants' self-reported vaccination uptakes will be&#xD;
+      estimated.&#xD;
+&#xD;
+      d) Ethics The study involves no clinical interventions. The interventions delivered to the&#xD;
+      participants are health promotion materials developed by the research team. All materials are&#xD;
+      pre-evaluated by iterative cognitive interviews among the target subjects and the research&#xD;
+      team to ensure that the information is clear, comprehensible and does not evoke any feeling&#xD;
+      of discomfort. All health promotion materials will be delivered to the participants during&#xD;
+      the patient activation section on telephone. These are not clinical interventions. Therefore,&#xD;
+      the study should impose no additional risk greater than minimal risk to participants. This&#xD;
+      study will not raise sensitive privacy questions to participants. Therefore, the study will&#xD;
+      not induce psychological stress/pain/discomfort nor use deception of the participants. Oral&#xD;
+      consent will be obtained from participants before they participate in the study. An informant&#xD;
+      will be identified for each participant to confirm the participants' eligibility and consent&#xD;
+      to participate in the study. For participants who cannot contact an informant, they will be&#xD;
+      asked to briefly repeat our study purpose and procedure with the witness of another&#xD;
+      interviewer from our research team to confirm that the participants are cognitively capable&#xD;
+      in understanding and giving their consent to participate in the study. Participants will be&#xD;
+      informed that they are free to drop out from the study without the need to give reasons any&#xD;
+      time after the questionnaire/interview begins or during the follow-up period. All information&#xD;
+      provided will be anonymous. All the questionnaire data will be stored separately from&#xD;
+      participants' telephone numbers and will be password-protected. The collected data will be&#xD;
+      stored and safeguarded by the research team at the School of Public Health, HKU. This study&#xD;
+      complies with the principles of the 1996 Declaration of Helsinki.&#xD;
+&#xD;
+      e) Data Handling and Record Keeping All survey data will be anonymous and the survey data&#xD;
+      will be stored separately from the participants' telephone numbers. Participants' telephone&#xD;
+      numbers will be stored in an independent file with password protection and a unique subject&#xD;
+      ID linking to the survey data. Participants' telephone numbers can only be accessed by the PI&#xD;
+      and the designated project RA. All data will be stored in the project computer with password&#xD;
+      security. All anonymized data will be analyzed by a research assistant designated by the&#xD;
+      research team.&#xD;
+&#xD;
+      Only the PI and the designated research assistant of the research project will have access to&#xD;
+      the personal data during and after the study.&#xD;
+&#xD;
+      The project only involved identified personal data at the incentive distribution stage with&#xD;
+      the purpose of sending incentives to the participants' specified address. All the personal&#xD;
+      data for the incentive delivery will be completely destroyed at the conclusion of the study&#xD;
+      while the anonymous survey data will be retained for 10 years. Data are fully anonymous and&#xD;
+      confidential.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 1, 2023</start_date>
+  <completion_date type="Anticipated">May 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">May 31, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change of Uptake Rate of the Three Recommended Vaccines from Baseline to within 1 Month and 4 Months after Interventions</measure>
+    <time_frame>Assessed at baseline, within 1 month and 4 months after the end of interventions.</time_frame>
+    <description>Participants' uptake rate of the three recommended vaccines (influenza vaccines, pneumococcal vaccines, and COVID-19 vaccines).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Patient Activation Measure from baseline to within 1 month after intervention ends</measure>
+    <time_frame>At baseline and within one month after the end of the intervention (in the 1st follow-up assessment)</time_frame>
+    <description>Patient Activation Measure is a 4-point Likert scale measuring participants' confidence level and views on self-health management.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Emotional engagement with vaccination decisions measurement from baseline to within 1 month after intervention ends</measure>
+    <time_frame>At baseline and within one month after the end of the intervention (in the 1st follow-up assessment)</time_frame>
+    <description>Emotional engagement with vaccination decisions will be measured by a 5-point Likert scale on the levels and types of emotions involved with vaccination decisions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Future time perspective measurement from baseline to within 1 month after intervention ends</measure>
+    <time_frame>At baseline and within one month after the end of the intervention (in the 1st follow-up assessment)</time_frame>
+    <description>A 5-point Likert scale measuring participants' future time perspecitve (i.e. participants' views on their future).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in lifestyle behaviours from baseline to within 1 month and 4 months after intervention ends</measure>
+    <time_frame>At baseline and within one month (in the 1st follow-up assessment) and four months (2nd outcome assessment)after the end of the intervention</time_frame>
+    <description>A set of questions will be used to measure particiants' lifestyle behaviours in terms of their frequency of smoking, drinking, physical activities, vegetable intake and fruit intake.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in other preventive care utilization from baseline to within 1 month and 4 months after intervention ends</measure>
+    <time_frame>At baseline and within one month (in the 1st follow-up assessment) four months (2nd outcome assessment) after the end of the intervention</time_frame>
+    <description>A set of questions will be used to measure the frequency of participants' other preventive care utilization</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">270</enrollment>
+  <condition>Health Communication</condition>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants who are allocated to the control group will receive a pamphlet about recommendation for influenza vaccines, pneumococcal vaccines, and COVID-19 vaccines (if appropriate) for older people using information from Hong Kong Department of Health. This group will receive six control telephone care visits over six weeks. We will purposively balance the characteristics of the student helpers who do the control telephone visits and the patient activation interviews. Each control telephone care visit will be around 5-10 min during which the student helper will give general guidelines about dietary health and exercise for older people. The control messages are mainly educational and designed using information derived from the websites of Hong Kong Department of Health. In the last telephone care visit, the interviewer will give a summary for how to live a healthy lifestyle and a reminder of taking the recommended vaccinations for older people shown in the pamphlet.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intervention Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intervention development and delivery The interventions will involve deliver a booklet designed based on MMA and six telephone interviews for patient activation.&#xD;
+Design of booklet for older people's preventive care: The booklet will be framed as one series of &quot;Positive aging via preventive care&quot;-vaccination. According to MMA, the booklet will be aimed to translate expert knowledge into information that can fit to older people's mental models (e.g., misperceptions and knowledge deficits revealed in our previous qualitative studies) regarding vaccinations to facilitate cognitive process of the information.&#xD;
+Patient activation sections: We will design six telephone-based patient activation sections with accommodation for older people's mental models and decision-making preference. The motivation interviewing (MI) techniques will be incorporated into the design of patient activation sections.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>MMA and patient activation intervention scheme</intervention_name>
+    <description>Design of booklet for older people's preventive care: We propose that the booklet will include 8 main topics based on what experts and current academic literature believe are important for encouraging older people's preventive care utilization. To add the social norms-related cues for the later three topics of the booklet, one qualitative study on older adults who are active in preventive care is needed. Therefore, we will interview ~20 older adults aged 70 years or above who are active in taking preventive care. We will conduct one-to-one in-depth interview to explore how participants overcome difficulties during decision making for vaccination and their positive feelings after making achievements. We will also explore and identify older adults who have a positive future perspective.&#xD;
+Patient activation sections: . Four undergraduate medical students will be trained as the coaches to deliver the patient activation sections over six weeks. Each section will be around 20 min.</description>
+    <arm_group_label>Intervention Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Control Group</intervention_name>
+    <description>Participants in the control group will receive a pamphlet about recommendation for influenza, pneumococcal, and COVID-19 vaccines (if appropriate) for older people using information from Hong Kong Department of Health. As a control for the patient activation interviews, the control group will also be informed that they will join our &quot;telephone-based elderly care project&quot; by the end of the baseline assessment but instead of receiving the patient activation interviews, this group will receive six control telephone care visits over six weeks. Each control telephone care visit will be around 5-10 min during which the student helper will give general guidelines about dietary health and exercise for older people. The control messages are mainly educational and designed using information derived from the websites of Hong Kong Department of Health.</description>
+    <arm_group_label>Control Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Community-dwelling older persons aged 70 years who did not persistently receive&#xD;
+             seasonal influenza vaccine over the past three years (2020-2022) and/or have never&#xD;
+             received the pneumococcal vaccine (one dose of the 23-valent pneumococcal&#xD;
+             polysaccharide vaccine (23vPPV) or the 13-valent pneumococcal conjugate vaccine&#xD;
+             (PCV13)).&#xD;
+&#xD;
+          -  Being able to communicate with Cantonese, or Mandarin (the two main spoken language in&#xD;
+             Hong Kong) and being able to read Chinese.&#xD;
+&#xD;
+          -  Inclusion criteria for the informant include age above 18 and can understand Cantonese&#xD;
+             or Mandarin&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  having psychiatric disorders, dementia, or other cognitive difficulties which impede&#xD;
+             communication or understanding of the intervention and having functional disabilities&#xD;
+             which impede access to health care services.&#xD;
+&#xD;
+          -  subjects who had medical contraindications for immunization.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>70 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Qiuyan Liao</last_name>
+    <phone>39179289</phone>
+    <phone_ext>+852</phone_ext>
+    <email>qyliao11@hku.hk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Yuyi Chen</last_name>
+    <phone>39179056</phone>
+    <phone_ext>+852</phone_ext>
+    <email>yuyiccc@hku.hk</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>United Nations Development Programme. Human development report 2013: the rise of the South: human progress in a diverse world. 2013 [Available from: https://hdr.undp.org/en/global-reports.</citation>
+  </reference>
+  <reference>
+    <citation>Wong K, Yeung M. Population aging trend of Hong Kong: Office of the Government Economist, The Government of the Hong Kong Special Administrative Region; 2019 [Available from: https://www.hkeconomy.gov.hk/en/pdf/el/el-2019-02.pdf.</citation>
+  </reference>
+  <reference>
+    <citation>Hong Kong Census and Statistics Department. Thematic Household Survey Report No. 40: socio-demographic profile, health status and self-care capability of older persons. 2009 [Available from: https://www.censtatd.gov.hk/en/data/stat_report/product/C0000071/att/B11302402009XXXXB0100.pdf.</citation>
+  </reference>
+  <reference>
+    <citation>Mytton OT, Jackson C, Steinacher A, Goodman A, Langenberg C, Griffin S, Wareham N, Woodcock J. The current and potential health benefits of the National Health Service Health Check cardiovascular disease prevention programme in England: A microsimulation study. PLoS Med. 2018 Mar 6;15(3):e1002517. doi: 10.1371/journal.pmed.1002517. eCollection 2018 Mar.</citation>
+    <PMID>29509767</PMID>
+  </reference>
+  <reference>
+    <citation>Jefferson T, Rivetti D, Rivetti A, Rudin M, Di Pietrantonj C, Demicheli V. Efficacy and effectiveness of influenza vaccines in elderly people: a systematic review. Lancet. 2005 Oct 1;366(9492):1165-74. doi: 10.1016/S0140-6736(05)67339-4. Epub 2005 Sep 22. Erratum In: Lancet. 2006 Mar 25;367(9515):986.</citation>
+    <PMID>16198765</PMID>
+  </reference>
+  <reference>
+    <citation>Yin M, Huang L, Zhang Y, Yu N, Xu X, Liang Y, Ni J. Effectiveness and safety of dual influenza and pneumococcal vaccination versus separate administration or no vaccination in older adults: a meta-analysis. Expert Rev Vaccines. 2018 Jul;17(7):653-663. doi: 10.1080/14760584.2018.1495077. Epub 2018 Jul 16.</citation>
+    <PMID>29961353</PMID>
+  </reference>
+  <reference>
+    <citation>Hong Kong Department of Health. Report of Population Health Survey 2014/2015 2017 [Available from: https://www.chp.gov.hk/files/pdf/dh_phs_2014_15_full_report_eng.pdf.</citation>
+  </reference>
+  <reference>
+    <citation>Hong Kong Center for Health Protection. Statistics on vaccination programmes in the past 3 years 2022 [Available from: https://www.chp.gov.hk/en/features/102226.html.</citation>
+  </reference>
+  <reference>
+    <citation>Hong Kong Center for Health Protection. COVID-19 vaccination programme: Hong Kong Vaccination Dashboard: The Government of the Hong Kong Special Administrative Region; 2022 [Available from: https://www.covidvaccine.gov.hk/en/dashboard.</citation>
+  </reference>
+  <reference>
+    <citation>Badham SP, Hamilton CA. Influences of Complexity on Decision Making in Young and Older Adults. Eur J Psychol. 2020 May 29;16(2):280-299. doi: 10.5964/ejop.v16i2.1958. eCollection 2020 May.</citation>
+    <PMID>33680183</PMID>
+  </reference>
+  <reference>
+    <citation>Peters E, de Bruin WB. Aging and decision skills. In: Dhami MK, Schlottmann A, Waldmann MR, editors. Judgment and decision making as a skill: learning, development and evolution: Cambridge University Press; 2012. p. 113-39.</citation>
+  </reference>
+  <reference>
+    <citation>Finucane ML, Gullion CM. Developing a tool for measuring the decision-making competence of older adults. Psychol Aging. 2010 Jun;25(2):271-88. doi: 10.1037/a0019106.</citation>
+    <PMID>20545413</PMID>
+  </reference>
+  <reference>
+    <citation>Carstensen LL. The influence of a sense of time on human development. Science. 2006 Jun 30;312(5782):1913-5. doi: 10.1126/science.1127488.</citation>
+    <PMID>16809530</PMID>
+  </reference>
+  <reference>
+    <citation>Reinhardt A, Rossmann C. Age-related framing effects: Why vaccination against COVID-19 should be promoted differently in younger and older adults. J Exp Psychol Appl. 2021 Dec;27(4):669-678. doi: 10.1037/xap0000378. Epub 2021 Jul 22.</citation>
+    <PMID>34292048</PMID>
+  </reference>
+  <reference>
+    <citation>Liu X, Ji L, Peng H. The impacts of task relevance and cognitive load on adults' decision information search. Neuropsychol Dev Cogn B Aging Neuropsychol Cogn. 2021 Jan;28(1):78-96. doi: 10.1080/13825585.2020.1712320. Epub 2020 Jan 11.</citation>
+    <PMID>31928164</PMID>
+  </reference>
+  <reference>
+    <citation>Bruine de Bruin W, Parker AM, Fischhoff B. Individual differences in adult decision-making competence. J Pers Soc Psychol. 2007 May;92(5):938-956. doi: 10.1037/0022-3514.92.5.938.</citation>
+    <PMID>17484614</PMID>
+  </reference>
+  <reference>
+    <citation>Liao Q, Lau W, McGhee S, Yap M, Sum R, Liang J, Lian J. Barriers to preventive care utilization among Hong Kong community-dwelling older people and their views on using financial incentives to improve preventive care utilization. Health Expect. 2021 Aug;24(4):1242-1253. doi: 10.1111/hex.13256. Epub 2021 May 5.</citation>
+    <PMID>33949749</PMID>
+  </reference>
+  <reference>
+    <citation>Ronnlund M, Del Missier F, Mantyla T, Carelli MG. The Fatalistic Decision Maker: Time Perspective, Working Memory, and Older Adults' Decision-Making Competence. Front Psychol. 2019 Sep 12;10:2038. doi: 10.3389/fpsyg.2019.02038. eCollection 2019.</citation>
+    <PMID>31572258</PMID>
+  </reference>
+  <reference>
+    <citation>Strough J, de Bruin WB, Peters E. New perspectives for motivating better decisions in older adults. Front Psychol. 2015 Jun 22;6:783. doi: 10.3389/fpsyg.2015.00783. eCollection 2015.</citation>
+    <PMID>26157398</PMID>
+  </reference>
+  <reference>
+    <citation>Bruine de Bruin W, Bostrom A. Assessing what to address in science communication. Proc Natl Acad Sci U S A. 2013 Aug 20;110 Suppl 3(Suppl 3):14062-8. doi: 10.1073/pnas.1212729110. Epub 2013 Aug 13.</citation>
+    <PMID>23942122</PMID>
+  </reference>
+  <reference>
+    <citation>Hibbard JH, Mahoney E. Toward a theory of patient and consumer activation. Patient Educ Couns. 2010 Mar;78(3):377-81. doi: 10.1016/j.pec.2009.12.015. Epub 2010 Feb 25.</citation>
+    <PMID>20188505</PMID>
+  </reference>
+  <reference>
+    <citation>Hibbard JH, Mahoney ER, Stock R, Tusler M. Do increases in patient activation result in improved self-management behaviors? Health Serv Res. 2007 Aug;42(4):1443-63. doi: 10.1111/j.1475-6773.2006.00669.x.</citation>
+    <PMID>17610432</PMID>
+  </reference>
+  <reference>
+    <citation>Bandura A. Self-Efficacy. The Corsini Encyclopedia of Psychology. p. 1-3.</citation>
+  </reference>
+  <reference>
+    <citation>Sinclair AH, Stanley ML, Hakimi S, Cabeza R, Adcock RA, Samanez-Larkin GR. Imagining a Personalized Scenario Selectively Increases Perceived Risk of Viral Transmission for Older Adults. Nat Aging. 2021 Aug;1(8):677-683. doi: 10.1038/s43587-021-00095-7. Epub 2021 Aug 5.</citation>
+    <PMID>35990532</PMID>
+  </reference>
+  <reference>
+    <citation>Dobler A, Herbeck Belnap B, Pollmann H, Farin E, Raspe H, Mittag O. Telephone-delivered lifestyle support with action planning and motivational interviewing techniques to improve rehabilitation outcomes. Rehabil Psychol. 2018 May;63(2):170-181. doi: 10.1037/rep0000224.</citation>
+    <PMID>29878825</PMID>
+  </reference>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>December 28, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 10, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>May 8, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 8, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 10, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The University of Hong Kong</investigator_affiliation>
+    <investigator_full_name>Qiuyan Liao</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Older people</keyword>
+  <keyword>Preventive care</keyword>
+  <keyword>Vaccine decision-making</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Only the Principal Investigator (PI) and the designated research assistant of the research project will have access to the personal data during and after the study. After the study findings are published, an anonymous dataset will be created and managed by the PI from this project and made publicly accessible upon reasonable request by other research PIs for the purpose of research use only. PI will be responsible for safekeeping of the personal data during and after the study.</ipd_description>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>After the study findings are published, an anonymous dataset will be created and managed by the PI from this project and made publicly accessible upon reasonable request by other research PIs for the purpose of research use only. The data will be available for 10 years after publishing.</ipd_time_frame>
+    <ipd_access_criteria>For research use only.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

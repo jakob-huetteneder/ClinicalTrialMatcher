@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9339">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05700097</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCRC-2022-02</org_study_id>
+    <nct_id>NCT05700097</nct_id>
+  </id_info>
+  <brief_title>Dengzhanxixin Injection for Acute Ischemic Stroke Receiving Reperfusion Therapy</brief_title>
+  <official_title>A Phase II, Randomized, Double-blind, Placebo-controlled, Dose-Finding, Multi-center Study to Assess the Efficacy and Safety of Dengzhanxixin Injection in Patients With Acute Ischemic Stroke Receiving Reperfusion Therapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Beijing Tiantan Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Beijing Tiantan Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To assess the Efficacy and Safety of Dengzhanxixin Injection in Patients With Acute Ischemic&#xD;
+      Stroke Receiving Reperfusion Therapy.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To evaluate the safety and efficacy of Dengzhanxixin at different doses of 80ml/day, 40&#xD;
+      ml/day, or placebo within 24 hours after the onset of ischemic stroke. The primary objective&#xD;
+      of this study is the proportion of subjects with excellent outcomes defined as mRS (0-1)&#xD;
+      among the three treatment groups at 90 days.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">September 30, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Primary Efficacy Outcome</measure>
+    <time_frame>90 days</time_frame>
+    <description>Proportion of subjects of excellent outcome defined as modified Rankin Scale (mRS) (0-1) at 90 days. mRS is a 7 grade scale from 0 to 6, where 0 is the best and 6 is the worst outcome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Primary Safety Outcome</measure>
+    <time_frame>90 days</time_frame>
+    <description>Proportion of patients with adverse events at 90 days.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Infarction Volume</measure>
+    <time_frame>14 days</time_frame>
+    <description>Infarction volume at 14 days compared to baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>National Institutes of Health Stroke Scale (NIHSS)</measure>
+    <time_frame>72 hours， 7 days， 14 days， 90days</time_frame>
+    <description>National Institutes of Health Stroke Scale (NIHSS) score changes from baseline. NIHSS is 42 point scale where 0 is the best o and 42 is the worst outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Excellent functional outcome</measure>
+    <time_frame>14 days</time_frame>
+    <description>Favourable outcome rate is defined as the proportion of subjects with modified Rankin Scale (mRS) (0-1). mRS is a 7 grade scale from 0 to 6, where 0 is the best and 6 is the worst outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Modified Rankin Scale (mRS) distribution</measure>
+    <time_frame>14 days， 90 days</time_frame>
+    <description>Ordinal distribution of Modified Rankin Scale (mRS). mRS is a 7 grade scale from 0 to 6, where 0 is the best and 6 is the worst outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Barthel index (BI)</measure>
+    <time_frame>90 days</time_frame>
+    <description>Proportion of subjects with Global function of daily living defined as Change in Barthel index (BI) ≥ 95. BI is a 10 item scale with scores ranging from 0 to 100, where a score of 100 is the best and 0 is the worst outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Symptomatic intracranial hemorrhage(sICH)</measure>
+    <time_frame>14 days</time_frame>
+    <description>Proportion of subjects with symptomatic intracranial hemorrhage (sICH)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AEs</measure>
+    <time_frame>72 hours，7 days， 14 days</time_frame>
+    <description>Proportion of subjects with AEs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SAEs</measure>
+    <time_frame>72 hours，7 days， 14 days，90days</time_frame>
+    <description>Proportion of subjects with SAEs</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Biomarkes</measure>
+    <time_frame>14 days</time_frame>
+    <description>The changes of serum high sensitivity C-reactive protein test (hs-CRP) level from baseline to 14 days</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">240</enrollment>
+  <condition>Acute Ischemic Stroke</condition>
+  <arm_group>
+    <arm_group_label>Low Dose Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dengzhanxixin injection 40ml/day, placebo 40ml/day. Dengzhanxixin injection 40ml, diluted with 250ml of 0.9% sodium chloride injection and then slowly intravenously infused once a day; placebo injection 40ml, diluted with 250ml of 0.9% sodium chloride injection and then slowly intravenously infused once a day.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High Dose Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dengzhanxixin injection 80ml/day. Dengzhanxixin injection 40ml, diluted with 250ml of 0.9% sodium chloride injection, and then slowly intravenously infused twice a day.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Arm</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo injection 80ml/day. Placebo injection 40ml, diluted with 250ml of 0.9% sodium chloride injection, and then slowly intravenously infused twice a day.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dengzhanxixin Injection</intervention_name>
+    <description>Experimental arms for low, and high dose for the standard protocol</description>
+    <arm_group_label>High Dose Arm</arm_group_label>
+    <arm_group_label>Low Dose Arm</arm_group_label>
+    <other_name>Dengzhanxixin Zhusheye</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo injection</intervention_name>
+    <description>placebo control arm for the standard protocol</description>
+    <arm_group_label>Placebo Arm</arm_group_label>
+    <other_name>Placebo</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  More than or equal to 18 years old and less than 80 years old;&#xD;
+&#xD;
+          -  Acute ischemic stroke confirmed by computed tomography (CT) or magnetic resonance&#xD;
+             imaging (MRI) of the head;&#xD;
+&#xD;
+          -  Stroke onset within 24 hours and can be treated with study drug within 24 hours of&#xD;
+             symptoms onset；&#xD;
+&#xD;
+          -  The patient has received or is planning to receive vascular reperfusion therapy after&#xD;
+             onset；&#xD;
+&#xD;
+          -  Baseline NIHSS score is ≥4 and ≤26.&#xD;
+&#xD;
+          -  mRS ≤1 prior onset.&#xD;
+&#xD;
+          -  Informed consent signed.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Intracranial hemorrhage: cerebral hemorrhage, subarachnoid hemorrhage, etc.;&#xD;
+&#xD;
+          -  The acute infarcts lesion Involvement of more than one-third of middle cerebral artery&#xD;
+             (MCA) territory on initial brain imaging;&#xD;
+&#xD;
+          -  Rapidly improving symptoms at the discretion of the investigator;&#xD;
+&#xD;
+          -  Patients who have taken Dengzhanxixin Injection，edaravone or other brain protective&#xD;
+             drugs after onset ;&#xD;
+&#xD;
+          -  History of intracranial hemorrhage；&#xD;
+&#xD;
+          -  History of severe head trauma, stroke or myocardial infarction in past 3 months;&#xD;
+&#xD;
+          -  Diagnosised intracranial tumor and giant intracranial aneurysm；&#xD;
+&#xD;
+          -  Diagnosised aortic arch dissection；&#xD;
+&#xD;
+          -  Undergoing major surgery within 2 weeks prior to screening; or intracranial or&#xD;
+             intraspinal surgery within 3 months prior to screening;&#xD;
+&#xD;
+          -  Currently accompanied by active visceral bleeding; or arterial puncture at a site that&#xD;
+             is not easy to compress hemostasis within 1 week before screening; or gastrointestinal&#xD;
+             or urinary system bleeding occurred within 3 weeks before screening;&#xD;
+&#xD;
+          -  Those with acute bleeding tendency, including: platelet count &lt;100×109/L, combined&#xD;
+             with hemophilia, etc.; or those with partially activated thrombin time greater than 3&#xD;
+             times the upper limit of normal;&#xD;
+&#xD;
+          -  Oral anticoagulants, and international normalized ratio&gt;1.7 or prothrombin time&gt;15s;&#xD;
+&#xD;
+          -  Diagnosed primary liver and kidney disease, AST or ALT (&gt;2 times the ULN), serum&#xD;
+             creatinine &gt;2.0mg/dL or &gt;176.8µmol/L;&#xD;
+&#xD;
+          -  Persistent blood pressure elevation ( systolic ≥180 mmHg or diastolic ≥100 mmHg ),&#xD;
+             despite blood pressure lowering treatment;&#xD;
+&#xD;
+          -  Those with a history of epilepsy or epilepsy-like symptoms at the onset of stroke;&#xD;
+&#xD;
+          -  Complete atrioventricular block; or according to the New York Heart Association (NYHA)&#xD;
+             cardiac function class II or above; or have been hospitalized due to congestive heart&#xD;
+             failure within 6 months before screening;&#xD;
+&#xD;
+          -  Pregnant women, nursing mothers, or reluctant to agree taking effective contraceptive&#xD;
+             measures during the period of trial subjects;&#xD;
+&#xD;
+          -  Those who have other neurological diseases or disabilities or mental diseases, which&#xD;
+             may affect the efficacy evaluation of this study as judged by the investigator;&#xD;
+&#xD;
+          -  Those with a history of malignant tumor within 5 years before screening (if the&#xD;
+             patient has basal cell carcinoma of the skin or carcinoma in situ of the cervix and&#xD;
+             has been cured, he/she can participate in this study);&#xD;
+&#xD;
+          -  Those who participated in other drug/device clinical studies and used the experimental&#xD;
+             drug/device within 3 months before screening;&#xD;
+&#xD;
+          -  Any condition that, in the judgment of the investigator could impose hazards to the&#xD;
+             patient if study therapy is initiated or affect the participation of the patient in&#xD;
+             the study。&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yongjun Wang, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Beijing Tiantan Hospital, Capital Medical University, Beijing, China</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Beijing Tiantan Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100070</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>November 16, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 16, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>January 16, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 16, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+    <mesh_term>Ischemic Stroke</mesh_term>
+    <mesh_term>Cerebral Infarction</mesh_term>
+    <mesh_term>Ischemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

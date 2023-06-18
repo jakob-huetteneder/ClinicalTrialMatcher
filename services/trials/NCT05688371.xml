@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9874">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05688371</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Mariana AbdElsayed Mansour</org_study_id>
+    <nct_id>NCT05688371</nct_id>
+  </id_info>
+  <brief_title>Dexmedetomidine Plus Low Dose Morphine Versus Standard Dose of Morphine in PCA in Children .</brief_title>
+  <official_title>Comparison of Addition of Dexmedetomidine to Low Dose Morphine Versus Standard Dose of Morphine in Patiant Controlled Analgesia in Children Undergoing Pelvi Abdominal Exploration.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Beni-Suef University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Beni-Suef University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The treatment of perioperative pain in children has been a topic of great interest to&#xD;
+      pediatricians, pediatric surgeons, and anesthesiologists for many years. Opioids are the most&#xD;
+      common analgesics used to manage acute postoperative pain in children and adults&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patient-controlled analgesia (PCA) permits patients to self-administer small doses of opioid&#xD;
+      analgesics intravenously or subcutaneously at frequent intervals. PCA is used in the&#xD;
+      management of moderate-to-severe pain. Patient-controlled analgesia (PCA) is now used in&#xD;
+      children as young as 5 yr for the treatment of postoperative pain.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2023</start_date>
+  <completion_date type="Anticipated">June 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Post-operative pain intensity evaluation at (1, 2, 3, 4, 16, 24h).</measure>
+    <time_frame>24 hour</time_frame>
+    <description>visual analogue score consists of a straight 10 cm line with the end points defining extreme limits between (0) no pain and (10) worst pain, the score is determined by measuring the distance between no pain and worst pain.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Total morphine consumption in 24h postoperative.</measure>
+    <time_frame>24 hour</time_frame>
+    <description>total morphine dose in 24h</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>sedation</measure>
+    <time_frame>24 hour</time_frame>
+    <description>(0 = awake; 1 = drowsy; 2 = asleep but arousable; 3 = deeply asleep). Patients were considered sedated if they had a sedation score of more than 0.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>respiratory depression</measure>
+    <time_frame>24 hour</time_frame>
+    <description>respiratory depression, if respiratory rate less than 10 breaths/minute</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>nausea vomiting</measure>
+    <time_frame>24 hour</time_frame>
+    <description>Nausea and vomiting was recorded using a categorical scoring system (0 = none, 1 = nausea, 2 = retching, 3 = vomiting).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">46</enrollment>
+  <condition>PCA</condition>
+  <condition>Children</condition>
+  <condition>Dexmedetomidine</condition>
+  <condition>Morphine</condition>
+  <arm_group>
+    <arm_group_label>standard dose morphine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>children will receive 0.05 mg morphine /kg.as a bolus dose followed by 0.05 mg/kg/hr morphine continous infusion dissolved in 100 ml normal saline with lockout interval of 15 min.PCA bolus dose 1 ml (0.5 mg morphine).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>low dose morphine plus dexmedetomidine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>children will receive 0.05 mg morphine /kg bolus dose followed by 0.02mg/kg/hr plus 0.2 µg/kg dexmedetomidine in 100 ml normal saline with lockout interval of 15 min.PCA bolus dose 1 ml (0.2 mg + 2 mic dexmedetomidine)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>standard dose morphine</intervention_name>
+    <description>Receiving 0.05 mg morphine /kg as a bolus dose followed by 0.05 mg/kg/hr morphine continous infusion dissolved in 100 ml normal saline with lockout interval of 15 min.PCA bolus dose 0.5mg morphine.</description>
+    <arm_group_label>standard dose morphine</arm_group_label>
+    <other_name>morphine sulphate</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>low dose morphine plus dexmedetomidine</intervention_name>
+    <description>Receiving 0.05 mg morphine /kg bolus dose followed by 0.02mg/kg/hr plus 0.2 µg/kg dexmedetomidine continous infusion in 100 ml normal saline with lockout interval of 15 min.PCA bolus dose 0.2mg morphine + 2 microgram dexmedetomidine.</description>
+    <arm_group_label>low dose morphine plus dexmedetomidine</arm_group_label>
+    <other_name>precedex</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. ASA I &amp; II of both sex.&#xD;
+&#xD;
+          2. Age between 8 and 12 years.&#xD;
+&#xD;
+          3. Patients scheduled for exploration surgery under general anesthesia.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Parents refused to give consent.&#xD;
+&#xD;
+          2. Patients with history of allergy to morphine or dexmedetomidine.&#xD;
+&#xD;
+          3. Mental disorders.&#xD;
+&#xD;
+          4. Unsuitability for extubation.&#xD;
+&#xD;
+          5. Comorbidities as cardiac, pulmonary and obstructive sleep apnea.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>8 Years</minimum_age>
+    <maximum_age>12 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>December 25, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 15, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>February 7, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 7, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 8, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Beni-Suef University</investigator_affiliation>
+    <investigator_full_name>Mariana Soliman</investigator_full_name>
+    <investigator_title>Benisuef university</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dexmedetomidine</mesh_term>
+    <mesh_term>Morphine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

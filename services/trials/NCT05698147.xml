@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9423">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05698147</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KY2022-881</org_study_id>
+    <nct_id>NCT05698147</nct_id>
+  </id_info>
+  <brief_title>Selinexor in Combination With MTX+Ritu to Treat R/R CNSL</brief_title>
+  <official_title>Selinexor in Combination With Methotrexate and Rituximab for Relapsed /Refractory Central Nervous System (CNS) Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tong Chen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Antengene Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Huashan Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a single-arm and open-label study to explore X+MTX+Ritu (ATG-010, Methotrexate,&#xD;
+      Rituximab) regimen in Relapse refractory PCNSL patients. Approximately 30 patients will be&#xD;
+      enrolled in the study. In dose escalation phase, patients with Relapse refractory PCNSL will&#xD;
+      be treated with X+MTX+Ritu regimen and escalating doses of oral ATG-010 weekly in a 3+3&#xD;
+      design. Then a phase 2 expansion at the recommended dose level based on phase 1b trial will&#xD;
+      be conducted to evaluate the efficacy, safety and tolerability.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In dose escalation phase, patients with Relapse refractory PCNSL will be treated with&#xD;
+      X+MTX+Ritu regimen （Methotrexate 3.5 g/m2, d1; Rituximab 375 mg/m2, d0）and escalating doses&#xD;
+      of oral ATG-010 weekly in a 3+3 design. ATG-010 dose level (DL) 1, 2 and 3 are 60, 80 and&#xD;
+      100mg respectively respectively on day 1,8,15,22 for 28-days cycle.&#xD;
+&#xD;
+      The phase 2 expansion at the recommended dose level based on phase 1b trial. The total 6&#xD;
+      cycles, 28 days per cycle . And, Subjects participating in the study will undergo a screening&#xD;
+      period（up to 21days）, a treatment period, and a follow-up period. The screening period is a&#xD;
+      maximum of 21 days before treatment period, And will be followed by 6 cycles of combination&#xD;
+      treatment（28 days per cycle）.&#xD;
+&#xD;
+      partial remission(PR) patients after induction treatment will continue ATG-010 maintenance up&#xD;
+      to 1 year or until disease progression, intolerable toxicity, death.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 15, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2026</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2026</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Dose Escalation: Maximum Tolerated Dose (MTD) of Selinexor</measure>
+    <time_frame>Assessed from the date of first dose of study treatment to the first cycle ends (maximum 21days)</time_frame>
+    <description>The MTD will be determined by study definition as the highest dose level without significant safety and tolerability concern.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Dose Escalation: Recommended Phase 2 Does (RP2D) of Selinexor</measure>
+    <time_frame>Assessed from the date of first dose of study treatment to the first cycle ends (maximum 21days)</time_frame>
+    <description>The RP2D is defined as the dose level chosen by the sponsor (in consultation with the investigators) for the dose expansion arms, based on safety, tolerability, efficacy data collected during the dose escalation portion of the study</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Objective Response Rate (ORR)</measure>
+    <time_frame>Cycle 1 Day 1 (each cycle consists of maximum 21 days) until a CR, CRu or PR (up to 18 cycles(each cycle is 21 days)).</time_frame>
+    <description>ORR is defined as the proportion of patients with a best response of Complete remission (CR) or Unconfirmed(CRu), or PR during induction therapy</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DOR)</measure>
+    <time_frame>From first dose of study drug administration to end of treatment, up to 18 cycles(each cycle is 21 days)</time_frame>
+    <description>Duration from the first observation of at least PR to time of progressive disease(PD), or deaths due to disease progression,whichever occurs first</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>up to 12 months</time_frame>
+    <description>Occurrence of death regardless of cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival (PFS)</measure>
+    <time_frame>up to 12 months</time_frame>
+    <description>Duration from start of study treatment to PD or death (regardless of cause), whichever comes first</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Adverse Events</measure>
+    <time_frame>From first dose of study drug administration to end of treatment (up to 18 cycles(each cycle is 21 days))</time_frame>
+    <description>Number of Participants With Treatment-Emergent Adverse Events (TEAEs) and Treatment-Emergent Serious Adverse Events (TESAEs)</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Gene mutations and frequency of 475 gene and whole exon</measure>
+    <time_frame>At baseline</time_frame>
+    <description>The types of gene mutations and frequency of tumor are measured by whole exon sequencing via NGS(next-generation sequencing).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>The concentration of interleukin-10(IL-10)，interleukin-6(IL-6)，CXCL-13 cytokine in cerebrospinal fluid(CSF)</measure>
+    <time_frame>At the baseline, day 1 at cycle 3, 5 (21 days/cycle), and every 3 months in the maintenance stage (up to 1 year))</time_frame>
+    <description>The levels of cytokines will be analyzed by flow cytometry</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Circulating tumor DNA (ctDNA) in the CSF</measure>
+    <time_frame>At the baseline, day 1 at cycle 3, 5 (21days/cycle), and every 3 months in the maintenance stage (up to 1 year))</time_frame>
+    <description>The levels of ctDNA will be analyzed by next-generation sequencing.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Central Nervous System Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>X-MTX-Ritu</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Escalating doses of oral ATG-010 weekly in a 3+3 design. ATG-010 dose level (DL) 1, 2 and 3 are 60, 80 and 100mg respectively respectively on day 1,8,15,22 for 28-days cycle.and the phase 2 expansion at the recommended dose level based on phase 1b trial. And，&#xD;
+Methotrexate 3.5 g/m2, d1 and Rituximab 375 mg/m2, d0, 28-days cycle.The total 6 cycles, 28 days per cycle.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Selinexor</intervention_name>
+    <description>Selinexor dose escalation: 60,80,100mg respectively on day 1,8,15,22 for 28 days cycles, and dose expansion at the RP2D of Selinexor.&#xD;
+PR patients after induction treatment will continue ATG-010 maintenance up to 1 year or until disease progression, intolerable toxicity, death.</description>
+    <arm_group_label>X-MTX-Ritu</arm_group_label>
+    <other_name>ATG-010</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rituximab</intervention_name>
+    <description>Rituximab 375 mg/m2 intravenous infusion d1, every 28 days for 6 cycles during combination induction treatment.</description>
+    <arm_group_label>X-MTX-Ritu</arm_group_label>
+    <other_name>RiTUXimab Injection</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Methotrexate</intervention_name>
+    <description>high-dose Methotrexate 3.5 g/m2 intravenous infusion d1, every 28 days for 6 cycles during combination induction treatment.</description>
+    <arm_group_label>X-MTX-Ritu</arm_group_label>
+    <other_name>MTX</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients must meet all of the following inclusion criteria to be eligible to enroll in&#xD;
+             this study:&#xD;
+&#xD;
+               1. Participants must be able to understand and be willing to sign a written informed&#xD;
+                  consent document.&#xD;
+&#xD;
+               2. Men and woman who are 18-75 years old on the day of consenting to the study.&#xD;
+&#xD;
+               3. Histologically documented PCNSL and SCNSL secondary to histologically documented&#xD;
+                  systemic diffuse large B-cell lymphoma (DLBCL).&#xD;
+&#xD;
+               4. Patients must have relapsed/refractory PCNSL or relapsed/refractory SCNSL.&#xD;
+&#xD;
+               5. Patients must have response or remain stable disease for 2 months to prior&#xD;
+                  methotrexate-based regimen.&#xD;
+&#xD;
+               6. Patients who had prior autologous hematopoietic stem cell transplantation are&#xD;
+                  eligible.&#xD;
+&#xD;
+               7. Patients with parenchymal lesions must have unequivocal evidence of disease&#xD;
+                  progression on imaging (MRI of the brain or head CT) 28 days prior to cycle1 day&#xD;
+                  1(C1D1). For patients with leptomeningeal disease only, CSF cytology must&#xD;
+                  document lymphoma cells.&#xD;
+&#xD;
+               8. Participants must have an Eastern Cooperative Oncology Group performance status&#xD;
+                  of 0-3.&#xD;
+&#xD;
+               9. Participants must have adequate bone marrow and organ function shown by:&#xD;
+&#xD;
+                    1. Absolute neutrophil count (ANC) ≥ 1.0 x 10^9/L&#xD;
+&#xD;
+                    2. Platelets ≥ 75 x 10^9/L and no platelet transfusion within the past 14 days&#xD;
+                       prior to study registration c Hemoglobin (Hgb) ≥ 8 g/dL and no red blood&#xD;
+                       cell (RBC) transfusion within the past 14 days prior to study registration&#xD;
+&#xD;
+              10. International Normalized Ratio (INR) ≤ 1.5 and PTT (aPTT) ≤ 1.5 times the upper&#xD;
+                  limit of normal.&#xD;
+&#xD;
+              11. Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤ 2.5 times&#xD;
+                  the upper limit of normal.&#xD;
+&#xD;
+              12. Serum bilirubin ≤ 1.5 times the upper limit of normal; or total bilirubin ≤ 3&#xD;
+                  times the upper limit of normal with direct bilirubin within the normal range in&#xD;
+                  patients with well documented Gilbert Syndrome.&#xD;
+&#xD;
+              13. Calculated creatinine clearance(CrCl)≥50ml/min using the Cockcroft-Gault equation&#xD;
+                  or 24-hour urine collection.&#xD;
+&#xD;
+              14. Life expectancy of &gt; 3 months.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients with SCNSL actively receiving treatment for extra-CNS disease are excluded.&#xD;
+&#xD;
+          2. Lymphoma patients with only intraocular involvement.&#xD;
+&#xD;
+          3. Pathological diagnosis of PCNSL is T-cell lymphoma.&#xD;
+&#xD;
+          4. Patients with disease progression within 6 months of prior methotrexate-containing&#xD;
+             regimen.&#xD;
+&#xD;
+          5. patients only had received stereotactic radiation therapy as prior treatment.&#xD;
+&#xD;
+          6. Patients have received chemotherapy, monoclonal antibodies or targeted anticancer&#xD;
+             therapy within 21 days or 5 half-lives, whichever is shorter, prior to C1D1.&#xD;
+&#xD;
+          7. Patients with active, unstable cardiovascular diseases, fits any of the following:&#xD;
+&#xD;
+               1. myocardial infarction within 6 months prior to the study enrollment&#xD;
+&#xD;
+               2. unstable angina within 3 months prior to the study enrollment&#xD;
+&#xD;
+               3. Uncontrolled clinically-significant conduction abnormalities (e.g., ventricular&#xD;
+                  tachycardia, ventricular fibrillation, etc.)&#xD;
+&#xD;
+               4. Congestive heart failure (CHF) of New York Heart Association (NYHA) ≥ Grade 3&#xD;
+&#xD;
+               5. Echocardiography showing left ventricular ejection fraction less than 50%&#xD;
+&#xD;
+          8. Uncontrolled active infection within 1 week prior to the first dose of study drug.&#xD;
+&#xD;
+          9. Known active hepatitis B, or C infection or HIV infection; Note: Hepatitis B virus&#xD;
+             (HBV) surface antigen (HBsAg) and or hepatitis B core antibody-positive but&#xD;
+             undetectable HBV DNA or Hepatitis C virus (HCV) antibody positive but hepatitis C&#xD;
+             virus RNA undetectable are allowed.&#xD;
+&#xD;
+         10. Active GI dysfunction interfering with the ability to swallow tablets, or any GI&#xD;
+             dysfunction that could interfere with absorption of study treatment.&#xD;
+&#xD;
+         11. Prior exposure to a selective inhibitor of nuclear export(SINE) compound, including&#xD;
+             selinexor.&#xD;
+&#xD;
+         12. Serious, active psychiatric, or medical conditions which, in the opinion of the&#xD;
+             Investigator, could interfere with study treatment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Tong Chen, Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Huashan Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Tong Chen, Ph.D</last_name>
+    <phone>+862152887102</phone>
+    <email>chentong@fudan.edu.cn</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Yuan Yan, Ph.D</last_name>
+    <phone>+862152888283</phone>
+    <email>yuanyan@fudan.edu.cn</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital Of Anhui Medical University</name>
+      <address>
+        <city>Hefei</city>
+        <state>Anhui</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jian Ge, Ph.D</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Beijing Tiantan Hospital, Capital Medical University</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Wenbin Li, Ph.D</last_name>
+      <phone>+8615301377998</phone>
+      <email>neure55@126.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital Of Fujian Medical University</name>
+      <address>
+        <city>Fuzhou</city>
+        <state>Fujian</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Zhiyong Zeng, Ph.D</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Oncology Department of The First Affiliated Hospital of Zhengzhou University</name>
+      <address>
+        <city>Zhengzhou</city>
+        <state>Henan</state>
+        <zip>450052</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Mingzhi Zhang, PhD</last_name>
+      <phone>13838565629</phone>
+      <email>mingzhi_zhang@126.com</email>
+    </contact>
+    <investigator>
+      <last_name>Mingzhi Zhang, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Hematology, Huashan Hospital, Fudan University</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200040</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 4, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 15, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>January 26, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 26, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Huashan Hospital</investigator_affiliation>
+    <investigator_full_name>Tong Chen</investigator_full_name>
+    <investigator_title>Chief physician, professor</investigator_title>
+  </responsible_party>
+  <keyword>Relapse refractory</keyword>
+  <keyword>Selinexor</keyword>
+  <keyword>ATG-010</keyword>
+  <keyword>Primary Central Nervous System Lymphoma（PCNSL）</keyword>
+  <keyword>Secondary Central Nervous System Lymphoma（SCNSL）</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rituximab</mesh_term>
+    <mesh_term>Methotrexate</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

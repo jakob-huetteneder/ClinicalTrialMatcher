@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9005">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05707247</url>
+  </required_header>
+  <id_info>
+    <org_study_id>8706</org_study_id>
+    <nct_id>NCT05707247</nct_id>
+  </id_info>
+  <brief_title>Study of a Prototype Software to Help Surgical Patients Manage Their Pain Medication</brief_title>
+  <acronym>MORPHEE 2</acronym>
+  <official_title>Evaluation of the Feasibility of an Expert Decision Support System for Patients Regarding the Optimization of the Management of Drugs With Conditional Administration in the Surgical Department: Pilot Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Strasbourg, France</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Strasbourg, France</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The experimental medical device is a prototype software. The device comes in the form of a&#xD;
+      smartphone with a touch interface. The smartphone used to support the software is a&#xD;
+      commercial smartphone marked CE. The study aims at assessing the feasibility of the use of&#xD;
+      this expert, patient- decision support systems.&#xD;
+&#xD;
+      The study hypothesis is that the clinical use of the experimental device is feasible.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2023</start_date>
+  <completion_date type="Anticipated">April 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">March 30, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Device Feasibility</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To evaluate the feasibility of the INSAMED computer tool</measure>
+    <time_frame>Day 2 post operative</time_frame>
+    <description>agreement between INSAMED computer tool and the recommendations established by caregivers. The data from INSAMED computer tool will be collected by extracting the history of the digital interface (commercial smartphone) hosting the expert system.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the time delay, in usual care setting, of rescue drug administrations after surgery, to confirm the interest of developing expert systems to improve the existing one.</measure>
+    <time_frame>60 minutes after software activation</time_frame>
+    <description>Delay, in minutes, between soliciting a ward nurse as usual practice (e.g., doorbell) and the administration of the therapeutic response.&#xD;
+This time will be collected by the Research IDE during patient interview. 60 minutes after software activation. The patient will simultaneously request the standard care IDE (doorbell) and the INSAMED tool.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess patient satisfaction with usual care</measure>
+    <time_frame>60 minutes after software activation.</time_frame>
+    <description>Patient satisfaction with the routine care therapeutic response measured by an analog visual scale between 0 and 100, measured 60 minutes after software activation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess patient satisfaction with the ease of use of the experimental device</measure>
+    <time_frame>60 minutes after software activation.</time_frame>
+    <description>Patient satisfaction with the ease of use of the INSAMED device measured by an analog visual scale between 0 and 100, measured 60 minutes after software activation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>assess the security of the device</measure>
+    <time_frame>Day 2 post operative</time_frame>
+    <description>Safety analysis of INSAMED software through evaluation of serious adverse events based on a expert panel reviewing.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Post-operative Situation</condition>
+  <arm_group>
+    <arm_group_label>prototype software</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>software</intervention_name>
+    <description>The experimental medical device is a prototype software. It is a patient interface.&#xD;
+The device comes in the form of a smartphone with a touch screen</description>
+    <arm_group_label>prototype software</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          -  Male or Female 18 years or older (no upper age limit)&#xD;
+&#xD;
+          -  Operated within a surgical department of of the Hautepierre University Hospitals of&#xD;
+             Strasbourg&#xD;
+&#xD;
+          -  Patient understanding and reading French&#xD;
+&#xD;
+          -  Subject neurosensorially able of interacting with a tactile electronical interface&#xD;
+&#xD;
+          -  Subject able to understand research objectives, risks and provide dated and signed&#xD;
+             informed consent&#xD;
+&#xD;
+          -  Subject covered by a health insurance scheme&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Patient with neuropsychiatric or sensory disorders that may interfere with their use&#xD;
+             of the visual interface&#xD;
+&#xD;
+          -  Unable to provide informed information (subject in emergency, difficulty understanding&#xD;
+             the subject, etc.)&#xD;
+&#xD;
+          -  Pregnant or lactating woman (on declaration)&#xD;
+&#xD;
+          -  Patient under safeguard of justice, under guardianship, under curatorship&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eric NOLL, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hôpitaux Universitaires de Strasbourg</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Eric NOLL, MD</last_name>
+    <phone>03 88 12 70 76</phone>
+    <phone_ext>0033</phone_ext>
+    <email>eric.noll@chru-strasbourg.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hôpitaux Universitaires de Strasbourg</name>
+      <address>
+        <city>Strasbourg</city>
+        <zip>67000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Eric NOLL, MD</last_name>
+      <phone>03 88 12 70 76</phone>
+      <email>eric.noll@chru-strasbourg.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 12, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 27, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 31, 2023</study_first_posted>
+  <last_update_submitted>January 27, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 27, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>prototype software</keyword>
+  <keyword>patient interface</keyword>
+  <keyword>experimental medical device</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

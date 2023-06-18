@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9935">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05687136</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2022-10210</org_study_id>
+    <secondary_id>NCI-2022-10210</secondary_id>
+    <secondary_id>10527</secondary_id>
+    <secondary_id>10527</secondary_id>
+    <secondary_id>UM1CA186709</secondary_id>
+    <nct_id>NCT05687136</nct_id>
+  </id_info>
+  <brief_title>Testing the Combination of Two Anti-cancer Drugs, Peposertib (M3814) and M1774 for Advanced Solid Tumors</brief_title>
+  <official_title>A Molecularly Driven Phase 1b Dose Escalation and Dose Expansion Study of the DNA-PK Inhibitor Peposertib (M3814) in Combination With the ATR Inhibitor M1774</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I trial tests the safety, side effects and best dose of peposertib (M3814) in&#xD;
+      combination with tuvusertib (M1774) in treating patients with solid tumors that have spread&#xD;
+      to other places in the body (advanced). Peposertib and tuvusertib cells by blocking some of&#xD;
+      the enzymes needed for cell growth.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:&#xD;
+&#xD;
+      I. To determine the safety and tolerability of peposertib (M3814) in combination with M1774.&#xD;
+      (DOSE ESCALATION AND EXPANSION COHORT) II. To determine the maximum tolerated dose (MTD) and&#xD;
+      recommended phase 2 dose (RP2D) of the combination of peposertib (M3814) and M1774. (DOSE&#xD;
+      ESCALATION COHORT)&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. To observe and record anti-tumor activity. II. To determine the pharmacokinetic (PK)&#xD;
+      profiles of peposertib (M3814) and M1774 when administered in combination.&#xD;
+&#xD;
+      EXPLORATORY OBJECTIVES:&#xD;
+&#xD;
+      I. To explore correlations between pharmacodynamic (PD) and predictive biomarkers (gammaH2AX,&#xD;
+      phospho-KAP1 and phospho-RPA) with clinical outcomes.&#xD;
+&#xD;
+      II. To explore correlations between baseline genomic alterations of ataxia-telangiectasia&#xD;
+      mutated (ATM) or markers of replicative stress, ATM expression by immunohistochemistry (IHC),&#xD;
+      RAD5' foci formation with clinical outcomes.&#xD;
+&#xD;
+      III. To determine metrics of anticancer activity including the objective response rate (ORR)&#xD;
+      and progression-free survival (PFS).&#xD;
+&#xD;
+      OUTLINE: This a dose-escalation study of peposertib and tuvusertib, followed by a&#xD;
+      dose-expansion study.&#xD;
+&#xD;
+      Patients receive peposertib orally (PO) in combination with tuvusertib PO on study. Patients&#xD;
+      undergo tumor biopsy and blood sample collection during screening and on study. Patients also&#xD;
+      undergo positron emission tomography (PET), computed tomography (CT), and magnetic resonance&#xD;
+      imaging (MRI) throughout the trial.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 31, 2023</start_date>
+  <completion_date type="Anticipated">August 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2024</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of dose limiting toxicity</measure>
+    <time_frame>Up to 28 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>Up to week 12</time_frame>
+    <description>Descriptive statistics will be used for safety in the Phase 1b escalation study. Patients will be included in this analysis if they receive at least one dose of any study treatment. For toxicity reporting, all adverse events will be graded and analyzed using Common Terminology Criteria for Adverse Events (CTCAE). Type of adverse events, intensity (grading), and attribution will be provided in a listing. All adverse events resulting in discontinuation, dose modification, and/or dosing interruption, and/or treatment delay of drug will also be summarized. Laboratory test results will be classified according to CTCAE.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic (PK) analysis</measure>
+    <time_frame>Pre, 0.5, 1, 1.5, 2, 3, 4, 6, 8, and 24 hour (h) post dose on cycle (C)1 day (D)1, pre, 0.5, 1, 1.5, 2, 3, 4, 6, and 8 h post dose on C1D10 (dose-escalation); pre, 0.5, 1,1.5, 2, and 3 h post dose on C1D1 and C1D10 (dose-expansion)</time_frame>
+    <description>Peposertib (M3814) and M1774 concentrations in these samples will be quantitatively measured using a liquid chromatography/tandem mass spectrometric method. The individual PK parameters will be derived: maximum concentration (Cmax), time to maximum concentration (Tmax), are under the curve (AUC), half life (T1/2), apparent oral clearance (Cl/F), and apparent volume of distribution in steady state (Vss/F) using non-compartmental methods with the software WinNonlin, as feasible. Advanced population PK methods may be employed to assess the link between drug exposure and biological effects and efficacy. The PK variables will be tabulated and descriptive statistics (e.g., geometric means and coefficients of variation) calculated for each dose level. PK parameters (e.g., T1/2, Cmax, Cl, and AUC) will be compared across dose level using nonparametric statistical testing techniques.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamics (PD)</measure>
+    <time_frame>After registration and before C1D1 and at C1D10</time_frame>
+    <description>Will be assessed using the changes in gammaH2AX, phosphorylated biomarkers (e.g., NBS1, RPA, KAP1), and gene expression by ribonucleic acid sequencing before and on treatment. Correlation between mutation status and immunohistochemistry results with ATM will be descriptive as well.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Overall response rate (ORR)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>In the phase 1b expansion, the ORR will be estimated by the proportion of patients who achieve complete or partial response as their best response to treatment. ORR will be accompanied by a 95% confidence interval estimated using exact binomial methods.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Progression free survival (PFS)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>The time to event endpoint PFS will be estimated with the Kaplan Meier methodology. Median and event-free rate at selected time points will be provided with 95% confidence interval.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">66</enrollment>
+  <condition>Advanced Malignant Solid Neoplasm</condition>
+  <condition>Metastatic Malignant Solid Neoplasm</condition>
+  <condition>Unresectable Malignant Solid Neoplasm</condition>
+  <arm_group>
+    <arm_group_label>Treatment (peposertib, tuvusertib)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive peposertib PO in combination with tuvusertib PO on study. Patients undergo tumor biopsy and blood sample collection during screening and on study. Patients also undergo PET, CT, and MRI during screening and on study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Biopsy</intervention_name>
+    <description>Undergo tissue biopsy</description>
+    <arm_group_label>Treatment (peposertib, tuvusertib)</arm_group_label>
+    <other_name>BIOPSY_TYPE</other_name>
+    <other_name>Bx</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Biospecimen Collection</intervention_name>
+    <description>Undergo blood sample collection</description>
+    <arm_group_label>Treatment (peposertib, tuvusertib)</arm_group_label>
+    <other_name>Biological Sample Collection</other_name>
+    <other_name>Biospecimen Collected</other_name>
+    <other_name>Specimen Collection</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Computed Tomography</intervention_name>
+    <description>Undergo CT</description>
+    <arm_group_label>Treatment (peposertib, tuvusertib)</arm_group_label>
+    <other_name>CAT</other_name>
+    <other_name>CAT Scan</other_name>
+    <other_name>Computed Axial Tomography</other_name>
+    <other_name>Computerized Axial Tomography</other_name>
+    <other_name>Computerized Tomography</other_name>
+    <other_name>CT</other_name>
+    <other_name>CT Scan</other_name>
+    <other_name>tomography</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Magnetic Resonance Imaging</intervention_name>
+    <description>Undergo MRI</description>
+    <arm_group_label>Treatment (peposertib, tuvusertib)</arm_group_label>
+    <other_name>Magnetic Resonance</other_name>
+    <other_name>Magnetic Resonance Imaging Scan</other_name>
+    <other_name>Medical Imaging, Magnetic Resonance / Nuclear Magnetic Resonance</other_name>
+    <other_name>MR</other_name>
+    <other_name>MR Imaging</other_name>
+    <other_name>MRI</other_name>
+    <other_name>MRI Scan</other_name>
+    <other_name>NMR Imaging</other_name>
+    <other_name>NMRI</other_name>
+    <other_name>Nuclear Magnetic Resonance Imaging</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Peposertib</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Treatment (peposertib, tuvusertib)</arm_group_label>
+    <other_name>3-Pyridazinemethanol, alpha-(2-Chloro-4-fluoro-5-(7-(4-morpholinyl)-4-quinazolinyl)phenyl)-6-methoxy-, (alphaS)-</other_name>
+    <other_name>M 3814</other_name>
+    <other_name>M-3814</other_name>
+    <other_name>M3814</other_name>
+    <other_name>MSC 2490484A</other_name>
+    <other_name>MSC-2490484A</other_name>
+    <other_name>MSC2490484A</other_name>
+    <other_name>Nedisertib</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Positron Emission Tomography</intervention_name>
+    <description>Undergo PET</description>
+    <arm_group_label>Treatment (peposertib, tuvusertib)</arm_group_label>
+    <other_name>Medical Imaging, Positron Emission Tomography</other_name>
+    <other_name>PET</other_name>
+    <other_name>PET Scan</other_name>
+    <other_name>Positron Emission Tomography Scan</other_name>
+    <other_name>Positron-Emission Tomography</other_name>
+    <other_name>proton magnetic resonance spectroscopic imaging</other_name>
+    <other_name>PT</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tuvusertib</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Treatment (peposertib, tuvusertib)</arm_group_label>
+    <other_name>ATR Kinase Inhibitor M1774</other_name>
+    <other_name>M 1774</other_name>
+    <other_name>M-1774</other_name>
+    <other_name>M1774</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients must have histologically confirmed solid malignancy that is metastatic or&#xD;
+             unresectable and for which standard curative or palliative measures do not exist or&#xD;
+             are no longer effective.&#xD;
+&#xD;
+          -  For the dose escalation and dose expansion phases, patients must have genomic evidence&#xD;
+             of inactivating ATM mutations, amplification of MYC, mutation of FBXW7, CCNE1&#xD;
+             amplification, SWI/SNF member mutation (ARID1A, PBRM1, SMARCA4, ARID2, ARID1b,&#xD;
+             SMARCA2, SS18), and ATRX/DAXX. Other SWI/SNF mutations may be considered after&#xD;
+             discussion with the principal investigator (PI).&#xD;
+&#xD;
+          -  Progression on at least one prior standard therapy.&#xD;
+&#xD;
+          -  Age &gt;= 18 years. Because no dosing or adverse event data are currently available on&#xD;
+             the use of peposertib (M3814) in combination with M1774 in patients &lt; 18 years of age,&#xD;
+             children are excluded from this study.&#xD;
+&#xD;
+          -  Life expectancy &gt; 3 months.&#xD;
+&#xD;
+          -  Eastern cooperative oncology group (ECOG) performance status =&lt; 2 (Karnofsky &gt;= 60%).&#xD;
+&#xD;
+          -  Measurable disease by response evaluation criteria in solid tumors (RECIST) 1.1&#xD;
+             (RECIST) 1.1 non-measurable disease permitted for the dose escalation portion).&#xD;
+&#xD;
+          -  Hemoglobin &gt;= 9 g/dL.&#xD;
+&#xD;
+          -  Absolute neutrophil count &gt;= 1,500/mcL.&#xD;
+&#xD;
+          -  Platelets &gt;= 1000,000/mcL.&#xD;
+&#xD;
+          -  Total bilirubin =&lt; 1.5 x institutional upper limit of normal (ULN).&#xD;
+&#xD;
+          -  Asparate aminotransferase (AST) (serum glutamic oxaloacetic transaminase&#xD;
+             [SGOT]/alanine aminotransferase (ALT)(serum glutamic pyruvic transaminase [SGPT]) =&lt; 3&#xD;
+             × institutional ULN or =&lt; 5.0X the ULN if liver metastases are present.&#xD;
+&#xD;
+          -  Glomerular filtration rate (GFR) &gt;= 50 mL/min/1.73m^.&#xD;
+&#xD;
+          -  Human immunodeficiency virus (HIV)-infected patients on effective anti-retroviral&#xD;
+             therapy with undetectable viral load within 6 months are eligible for this trial.&#xD;
+             Anti-retroviral therapy agents must be considered for potential drug-drug interactions&#xD;
+             per exclusion.&#xD;
+&#xD;
+          -  For patients with evidence of chronic hepatitis B virus (HBV) infection, the HBV viral&#xD;
+             load must be undetectable on suppressive therapy, if indicated.&#xD;
+&#xD;
+          -  Patients with a history of hepatitis C virus (HCV) infection must have been treated&#xD;
+             and cured. For patients with HCV infection who are currently on treatment, they are&#xD;
+             eligible if they have an undetectable HCV viral load.&#xD;
+&#xD;
+          -  Patients with a prior or concurrent malignancy whose natural history or treatment does&#xD;
+             not have the potential to interfere with the safety or efficacy assessment of the&#xD;
+             investigational regimen are eligible for this trial.&#xD;
+&#xD;
+          -  Patients with known history or current symptoms of cardiac disease, or history of&#xD;
+             treatment with cardiotoxic agents, should have a clinical risk assessment of cardiac&#xD;
+             function using the New York Heart Association Functional Classification. To be&#xD;
+             eligible for this trial, patients should be class 2B or better.&#xD;
+&#xD;
+          -  Able to swallow whole capsules or tablets.&#xD;
+&#xD;
+          -  Willing to undergo paired biopsies (expansion arm).&#xD;
+&#xD;
+          -  Female patients of childbearing potential must have a negative urine or serum&#xD;
+             pregnancy test within 72 hours prior to receiving the first dose of study medication.&#xD;
+             If the urine test is positive or cannot be confirmed as negative, a serum pregnancy&#xD;
+             test will be required.&#xD;
+&#xD;
+               -  Female patients of childbearing potential must be willing to use an adequate&#xD;
+                  method of contraception for the course of the study through 6 months after the&#xD;
+                  last dose of study medication.&#xD;
+&#xD;
+               -  Male patients of reproductive potential must agree to avoid impregnating a&#xD;
+                  partner while receiving study drug and for 3 months after the last dose of study&#xD;
+                  drug by complying with adequate methods of contraception.&#xD;
+&#xD;
+               -  Note: Abstinence is acceptable if this is the usual lifestyle and preferred&#xD;
+                  contraception for the patient.&#xD;
+&#xD;
+          -  Ability to understand and the willingness to sign a written informed consent document.&#xD;
+             Participants with impaired decision-making capacity who have a legally-authorized&#xD;
+             representative (LAR) and/or family member available will also be eligible.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients who have received immunotherapy within 21 days of Cycle 1 Day 1.&#xD;
+&#xD;
+          -  Patients who have received therapeutic radiation therapy within 21 days, or palliative&#xD;
+             radiation therapy within 7 days, of Cycle 1 Day 1.&#xD;
+&#xD;
+          -  Patients who have undergone major surgery within 21 days of Cycle 1 Day 1.&#xD;
+&#xD;
+          -  Patients who have not recovered from adverse events due to prior anti-cancer therapy&#xD;
+             (i.e., have residual toxicities &gt; Grade 1) with the exception of alopecia, controlled&#xD;
+             endocrine toxicity (e.g., hypothyroidism), and cutaneous toxicity which will be&#xD;
+             permitted at Grade 2.&#xD;
+&#xD;
+          -  Patients who are receiving any other investigational agents.&#xD;
+&#xD;
+          -  Patients with new or progressive brain metastases (active brain metastases) or&#xD;
+             leptomeningeal disease are eligible if the treating physician determines that&#xD;
+             immediate central nervous system (CNS) specific treatment is not required and is&#xD;
+             unlikely to be required during the first cycle of therapy.&#xD;
+&#xD;
+          -  History of allergic reactions attributed to compounds of similar chemical or biologic&#xD;
+             composition to peposertib (M3814) and M1774.&#xD;
+&#xD;
+          -  Patients who cannot discontinue concomitant medications or herbal supplements that are&#xD;
+             strong inhibitors or strong inducers of cytochrome P450 (CYP) isoenzymes CYP3A4/5,&#xD;
+             CYP2C19, and CYP2C9. Concomitant use of CYP3A4/5 substrates with a narrow therapeutic&#xD;
+             index are also excluded. Patients may confer with the study doctor to determine if&#xD;
+             alternative medications can be used. The following categories of medications and&#xD;
+             herbal supplements must be discontinued for at least the specified period of time&#xD;
+             before the patient can be treated:&#xD;
+&#xD;
+               -  Strong inducers of CYP3A4/5,CYP2C19, and CYP2C9: &gt;= 3 weeks prior to study&#xD;
+                  treatment.&#xD;
+&#xD;
+               -  Strong inhibitors of CYP3A4/5, CYP2C19, and CYP2C9: &gt;= 1 week prior to study&#xD;
+                  treatment.&#xD;
+&#xD;
+               -  Substrates of CYP3A4/5 with a narrow therapeutic index: &gt;= 1 day prior to study&#xD;
+                  treatment.&#xD;
+&#xD;
+          -  Patients who cannot discontinue proton-pump inhibitors (PPIs). H-2-receptor antagonist&#xD;
+             should be held during the 2 weeks of concurrent dosing with M1774. There is no&#xD;
+             H-2-receptor antagonist restriction during the off weeks without M1774/peposertib&#xD;
+             (M3814) dosing.&#xD;
+&#xD;
+          -  Patients who received hematopoietic growth factor (e.g., granulocyte&#xD;
+             colony-stimulating factor, erythropoietin) within 14 days prior to the first dose of&#xD;
+             study intervention.&#xD;
+&#xD;
+          -  Patients with uncontrolled intercurrent illness including, but not limited to: ongoing&#xD;
+             or active infection, symptomatic congestive heart failure, unstable angina pectoris,&#xD;
+             cardiac arrhythmia, or chronic indwelling drains.&#xD;
+&#xD;
+          -  Pregnant women and women who are breastfeeding are excluded from this study because&#xD;
+             the effects of the study drugs on the developing fetus are unknown.&#xD;
+&#xD;
+          -  Patients with a prior or concurrent malignancy whose natural history or treatment does&#xD;
+             not have the potential to interfere with the safety or efficacy assessment of the&#xD;
+             investigational regimen as assessed by the treating investigator may be included with&#xD;
+             the approval of the sponsor-investigator.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gregory M Cote</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Dana-Farber - Harvard Cancer Center LAO</affiliation>
+  </overall_official>
+  <verification_date>December 2022</verification_date>
+  <study_first_submitted>January 14, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 14, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>January 14, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 14, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 18, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Peposertib</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>&quot;NCI is committed to sharing data in accordance with NIH policy. For more details on how clinical trial data is shared, access the link to the NIH data sharing policy page.&quot;</ipd_description>
+    <ipd_url>https://grants.nih.gov/policy/sharing.htm</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

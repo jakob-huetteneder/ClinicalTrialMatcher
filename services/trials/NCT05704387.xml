@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9145">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05704387</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP 220682</org_study_id>
+    <nct_id>NCT05704387</nct_id>
+  </id_info>
+  <brief_title>Restrictive- vs Individualized Goal Directed Fluid Therapy in Liver Surgery</brief_title>
+  <acronym>REVOLUTION</acronym>
+  <official_title>Restrictive- vs. Individualized Assisted Fluid Management in Patients Undergoing Major Liver Resection Surgery: A Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      &quot;Low central venous pressure (low-CVP) or a restrictive fluid administration strategy is&#xD;
+      usually used worldwide during major liver resection surgery. Although individualized goal&#xD;
+      directed fluid therapy (GDFT) has been associated with reduced morbidity and mortality in&#xD;
+      major abdominal surgery, concerns remain on blood loss when applying GDFT in liver surgery.&#xD;
+      Indeed, GDFT could lead to a higher CVP with the risk of increased blood loss and reduced&#xD;
+      quality of the surgical field especially during liver dissection.&#xD;
+&#xD;
+      Since evidence is scarce, this randomized controlled trial investigates the impact of a&#xD;
+      restrictive vs an individualized GDFT strategy assisted by an assisted fluid management (AFM)&#xD;
+      system on lactate level, blood loss, and postoperative morbidity including acute kidney&#xD;
+      injury (AKI) in major liver resections.&quot;&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Major liver resection surgery is a frequent but complex surgery with high morbidity, even in&#xD;
+      high activity centers. The morbidity is mainly related to the size of the liver resection and&#xD;
+      to bleeding, responsible for postoperative hepatocellular failure.&#xD;
+&#xD;
+      Intraoperative fluid administration is a major component of the anesthetic strategy to&#xD;
+      optimize the hemodynamic status and peripheral tissue perfusion of the patient. However,&#xD;
+      high-level evidence recommendations are still lacking regarding the optimal fluid strategy in&#xD;
+      patients undergoing major liver resection.&#xD;
+&#xD;
+      On the one hand, it has been accepted for decades that anesthetic management should focus on&#xD;
+      minimizing intraoperative bleeding by limiting fluid administration. The objective of a&#xD;
+      &quot;&quot;restrictive&quot;&quot; fluid strategy has often been to maintain a low central venous pressure&#xD;
+      (CVP), allowing to decrease the venous pressure at the level of the suprahepatic veins and&#xD;
+      the hepatic section. The lower this pressure, the more limited the bleeding by &quot;&quot;backflow&quot;&quot;.&#xD;
+      This strategy is supported by surgeons because it allows them to maintain a relatively&#xD;
+      bloodless operating field (by reducing bleeding) and thus facilitates their&#xD;
+      dissection/surgical work. Under these conditions, however, an infusion of vasopressors is&#xD;
+      often necessary to maintain adequate perfusion pressure to all organs. In addition, a&#xD;
+      &quot;&quot;liberal&quot;&quot; fluid administration is often required after liver transection to compensate for&#xD;
+      blood loss and delayed vascular filling accumulated during most of the surgical procedure.&#xD;
+      This strategy therefore potentially exposes the patient to the deleterious effects of&#xD;
+      hypovolemia as reflected by an increase in blood lactate levels. Lactate is considered an&#xD;
+      indirect marker of the degree of tissue hypoperfusion.&#xD;
+&#xD;
+      On the other hand, in high-risk abdominal surgery, the anesthesia community recommends a more&#xD;
+      &quot;&quot;individualized&quot;&quot; fluid strategy, based on the optimization of stroke volume also called&#xD;
+      &quot;&quot;goal directed fluid therapy&quot;&quot; (GDFT) with the aim of decreasing postoperative&#xD;
+      complications. It is now even possible to apply this strategy using a real time clinical&#xD;
+      decision support system (&quot;&quot;assisted fluid management&quot;&quot; or AFM). However, the concept of GDFT&#xD;
+      assisted by AFM (GDFT-AFM) could possibly be accompanied by an increase in CVP and therefore&#xD;
+      intraoperative bleeding. However, to date, no randomized study has compared these 2 fluid&#xD;
+      therapy strategies (restrictive vs GDFT-AFM) on lactate level as the primary outcome &quot;&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 27, 2022</start_date>
+  <completion_date type="Anticipated">July 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>prospective randomized controlled parallel superiority trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+    <masking_description>The Principal investigator, the patient, the surgeon and the outcome assessor will not know the study group allocation</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Lactate level at the end of the surgery</measure>
+    <time_frame>Up to the end of surgenry (intraoperatively)</time_frame>
+    <description>lactate level measured at the end of the surgery (skin closure)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Total intraoperative blood loss</measure>
+    <time_frame>Up to the end of surgenry (intraoperatively)</time_frame>
+    <description>We will measure blood loss at the end of the surgery</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total amount of vasopressors used during surgery</measure>
+    <time_frame>Up to the end of surgenry (intraoperatively)</time_frame>
+    <description>We will report the total amount of vasopressor used during surgery</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total amount of fluid used during surgery</measure>
+    <time_frame>end of the surgery</time_frame>
+    <description>We will report the total amount of fluid used during surgery</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of acute kidney injury (AKI)</measure>
+    <time_frame>postoperative day 7</time_frame>
+    <description>We will report the incidence of AKI at postoperative day 7 using the KDIGO classification</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of postoperative complications</measure>
+    <time_frame>postoperative day 30</time_frame>
+    <description>We will report the incidence of postoperative complications using the clavien dindo classification</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">90</enrollment>
+  <condition>Surgery-Complications</condition>
+  <arm_group>
+    <arm_group_label>restrictive fluid therapy group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients in this group will have a restrictive fluid therapy (1 ml/kh/h) from anesthesia induction until end of liver resection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>individualized GDFT group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In this group, from anesthesia induction until skin closure, fluid will be given to the patients based on the recommendation of the AFM software in order to optimize patient's stroke volume (SV)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>individualized GDFT</intervention_name>
+    <description>In this group, from anesthesia induction until skin closure, fluid will be given to the patients based on the recommandation of the AFM software in order to optimize patient's SV</description>
+    <arm_group_label>individualized GDFT group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Restrictive fluid therapy strategy</intervention_name>
+    <description>from anesthesia induction until end of the liver resection, patient will have a restrictive fluid therapy strategy</description>
+    <arm_group_label>restrictive fluid therapy group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult patient&#xD;
+&#xD;
+          -  Major liver surgery&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        -arrythmia -Linguistic barrier -Pregnant women&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>ALEXANDRE JOOSTEN, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>APHP</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>ALEXANDRE JOOSTEN, MD PhD</last_name>
+    <phone>0145593802</phone>
+    <email>alexandre.joosten@aphp.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jacques DURANTEAU, MD PhD</last_name>
+    <phone>0145593802</phone>
+    <email>jacques.duranteau@aphp.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>PAUL BROUSSE, centre hepato -biliaire</name>
+      <address>
+        <city>Villejuif</city>
+        <state>VAL DE Marne</state>
+        <zip>94800</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>ALEXANDRE JOOSTEN, MD PhD</last_name>
+      <phone>0145593802</phone>
+      <email>alexandre.joosten@aphp.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Sean Coeckelenbergh, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Maxin Soucy-Proulx, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Iromi Kato, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Salima Naili, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>July 28, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>January 19, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 19, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>liver</keyword>
+  <keyword>hemodynamic optimization</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

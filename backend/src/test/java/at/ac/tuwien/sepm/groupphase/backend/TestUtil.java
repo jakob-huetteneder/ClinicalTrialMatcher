@@ -13,6 +13,9 @@ public class TestUtil {
     @Autowired
     private DatabaseUtil databaseUtil;
 
+    /**
+     * Clean all tables in the database if the test profile is activated.
+     */
     @PostConstruct
     public void cleanAll() {
         databaseUtil.cleanAll();

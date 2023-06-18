@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9544">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05695716</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CLN-0017-P</org_study_id>
+    <nct_id>NCT05695716</nct_id>
+  </id_info>
+  <brief_title>CSI Percutaneous Ventricular Assist Device (pVAD) Second in Human Study</brief_title>
+  <official_title>Cardiovascular Systems, Inc. (CSI) Percutaneous Ventricular Assist Device (pVAD) Second in Human Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cardiovascular Systems Inc</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cardiovascular Systems Inc</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to collect data on safety and device performance on the CSI pVAD&#xD;
+      System used to support hemodynamic stability during HR-PCIs to inform device design and&#xD;
+      finalization.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2023</start_date>
+  <completion_date type="Anticipated">April 2024</completion_date>
+  <primary_completion_date type="Anticipated">February 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>This is a prospective, single-arm, single-site study.</intervention_model_description>
+    <primary_purpose>Device Feasibility</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>CSI pVAD System device placement/procedural success</measure>
+    <time_frame>Intraprocedural</time_frame>
+    <description>Delivery of the device to the correct anatomical position, successful operation and removal of the CSI pVAD system</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prevention of severe hypotension while on CSI pVAD device support</measure>
+    <time_frame>Intraprocedural</time_frame>
+    <description>Percentage of subjects who were free from severe hypotension while on CSI pVAD device support.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Major Device-Related Adverse Events</measure>
+    <time_frame>from Intraprocedure through study exit at 30 day follow up</time_frame>
+    <description>Percentage of subjects who were free from:&#xD;
+Access site complications, defined as complications requiring unplanned transfusion of packed red blood cells (1 unit or more) and/or percutaneous or surgical intervention&#xD;
+Bleeding (BARC category 3 or 5, and category 2 if serious criterion is met)&#xD;
+Cardiovascular death&#xD;
+Clinically significant myocardial infarction (MI), classified based on the SCAI and Fourth Universal definitions&#xD;
+Stroke (ischemic or hemorrhagic), classified based on symptoms on CT or MRI imaging</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>Coronary Artery Disease</condition>
+  <arm_group>
+    <arm_group_label>CSI pVAD System</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>clinical use of the CSI pVAD System during high risk percutaneous coronary interventions (HR-PCI)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>CSI pVAD System</intervention_name>
+    <description>The CSI percutaneous ventricular assist device (pVAD) is being investigated as a temporary left ventricular system intended to support and/or provide hemodynamic stability during high-risk percutaneous coronary interventions.</description>
+    <arm_group_label>CSI pVAD System</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Subject is ≥18 years of age&#xD;
+&#xD;
+          2. In the investigator's opinion, the subject is capable of providing informed consent.&#xD;
+&#xD;
+          3. Subject has signed the Independent Ethics Committee (IEC) approved study Informed&#xD;
+             Consent Form (ICF) prior to any study related procedures&#xD;
+&#xD;
+          4. Subject has a life expectancy ≥1 year&#xD;
+&#xD;
+          5. Subject has a left ventricular ejection fraction (LVEF) ≥15% and ≤40%&#xD;
+&#xD;
+          6. Subject has a planned elective or urgent high risk percutaneous coronary intervention&#xD;
+             with hemodynamic support&#xD;
+&#xD;
+          7. Subject of child bearing potential has a negative pregnancy test result&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Subject has ST-Elevation Myocardial Infarction (STEMI) within 30 days prior to study&#xD;
+             procedure based on criteria in SCAI definition&#xD;
+&#xD;
+          2. Subject has NSTEMI with cardiac enzymes that are not trending downward within 30 days&#xD;
+             prior to study procedure&#xD;
+&#xD;
+          3. Subject with RV failure (defined as reduced RV function on imaging and evidence of&#xD;
+             increased CVP &gt;18 mmHg)&#xD;
+&#xD;
+          4. Subject with history of cardiac arrest within 30 days prior to study procedure&#xD;
+             requiring cardiopulmonary resuscitation OR any history of cardiac arrest with&#xD;
+             impairment in mental status, cognition or any global or functional neurological&#xD;
+             deficit&#xD;
+&#xD;
+          5. Subject is in cardiogenic shock (defined as systolic BP &lt;90 mmHg, cardiac index &lt;2.1&#xD;
+             and/or evidence of impaired end organ perfusion) that is not responsive to fluid&#xD;
+             infusion or requiring any inotropic or pressor support&#xD;
+&#xD;
+          6. Subject received any pressors or inotropes within 24 hours prior to the start of the&#xD;
+             study procedure&#xD;
+&#xD;
+          7. Subject has evidence of current or prior endocarditis&#xD;
+&#xD;
+          8. Subject with active myocarditis&#xD;
+&#xD;
+          9. Subject had a deep vein thrombosis (DVT) or pulmonary embolism (PE) within 6 months&#xD;
+             prior to study procedure&#xD;
+&#xD;
+         10. Subject had a stroke or TIA within 6 months prior to study procedure&#xD;
+&#xD;
+         11. Subject had previous CABG within 6 months prior to study procedure&#xD;
+&#xD;
+         12. Subject had coronary intervention within 30 days prior to study procedure&#xD;
+&#xD;
+         13. Subject has a coronary intervention planned within 30 days post procedure&#xD;
+&#xD;
+         14. Subject has presence of left ventricular (LV) mural thrombus&#xD;
+&#xD;
+         15. Subject has history of valve replacement or repair (e.g., MitraClipTM) including&#xD;
+             transcatheter edge to edge repair (TEER)&#xD;
+&#xD;
+         16. Subject has significant mitral valve disease (defined as mitral regurgitation greater&#xD;
+             than moderate, grade ≥2+ by echocardiogram (ECHO), mitral stenosis with MVA &lt;1.5 cm2)&#xD;
+             or has evidence of structural damage to the chordae tendineae or valve&#xD;
+&#xD;
+         17. Subject has significant aortic valve disease (defined as aortic stenosis (valve area&#xD;
+             ≤1.5 cm2 or moderate or severe aortic regurgitation (grade ≥2+ by ECHO))&#xD;
+&#xD;
+         18. Subject with atrial fibrillation present at the time of enrollment or any time prior&#xD;
+             to RHC or CSI pVAD device placement&#xD;
+&#xD;
+         19. Subject has sustained tachycardia with heart rate over 120 BPM&#xD;
+&#xD;
+         20. Subject has sustained ventricular tachycardia either pre- or during intervention&#xD;
+&#xD;
+         21. Subject has severe pulmonary hypertension, defined as mean pulmonary artery pressure&#xD;
+             ≥40 mmHg&#xD;
+&#xD;
+         22. Subject has presence of an aneurysm or dissection along vascular delivery path&#xD;
+             including:&#xD;
+&#xD;
+               1. Abdominal aortic aneurysm 4.0 cm or greater, OR&#xD;
+&#xD;
+               2. Significant descending thoracic aortic aneurysm greater than 4.5 cm, OR&#xD;
+&#xD;
+               3. Any dissection of the ascending, transverse, or descending aorta&#xD;
+&#xD;
+         23. Subject has severe peripheral vascular disease that will preclude the use of a 12Fr&#xD;
+             access sheath, which is required for the insertion of the CSI pVAD catheter&#xD;
+&#xD;
+         24. Subject has severe aortic tortuosity&#xD;
+&#xD;
+         25. Subject has severe aortic calcification that may preclude appropriate placement of the&#xD;
+             CSI pVAD device&#xD;
+&#xD;
+         26. Subject's vasculature will not tolerate a right heart catheterization (RHC)&#xD;
+&#xD;
+         27. Subject has chronic renal dysfunction defined by either:&#xD;
+&#xD;
+               1. Serum creatinine ≥ 2.5 mg/dl AND/OR&#xD;
+&#xD;
+               2. Requires hemodialysis&#xD;
+&#xD;
+         28. Subject has liver dysfunction with either:&#xD;
+&#xD;
+               1. Elevation of liver enzymes and bilirubin levels to ≥ 3X ULN OR&#xD;
+&#xD;
+               2. Internationalized Normalized Ratio (INR) ≥ 2 OR&#xD;
+&#xD;
+               3. Lactate dehydrogenase (LDH) &gt; 2.5X ULN&#xD;
+&#xD;
+         29. Subject has uncorrectable abnormal coagulation parameters defined as either:&#xD;
+&#xD;
+               1. Platelet count ≤75,000 per μL OR&#xD;
+&#xD;
+               2. INR ≥2.0 or&#xD;
+&#xD;
+         30. Subject has history of heparin induced thrombocytopenia&#xD;
+&#xD;
+         31. Subject has history of bleeding diathesis or known coagulopathy, any recent GU or GI&#xD;
+             bleed within 30 days prior to study procedure or will refuse blood transfusions&#xD;
+&#xD;
+         32. Subject has anemia (hemoglobin &lt;10.0 g/dL) or polycythemia/hypovolemia (hemoglobin&#xD;
+             &gt;16.5 g/dL)&#xD;
+&#xD;
+         33. Subject requires, or, in the clinical judgement of the investigators may need, long&#xD;
+             term support (&gt;6 hours) with a commercially available mechanical circulatory support&#xD;
+             (MCS) device&#xD;
+&#xD;
+         34. Subject was on any mechanical cardiac support device at any time within 14 days prior&#xD;
+             to the study procedure.&#xD;
+&#xD;
+         35. Subject has an active systemic infection requiring oral or intravenous antibiotics, or&#xD;
+             elevated temperature or white blood cell count that may be due to infection&#xD;
+&#xD;
+         36. Subject has been diagnosed with COVID ≤10 days prior to study procedure or is excluded&#xD;
+             due to COVID based on institution or other (e.g., CDC) guidelines&#xD;
+&#xD;
+         37. Subject has an allergy or intolerance to ionic and nonionic contrast media,&#xD;
+             anticoagulants, or antiplatelet therapy drugs that cannot be adequately premedicated&#xD;
+&#xD;
+         38. Subject has an allergy or intolerance to CSI pVAD System components&#xD;
+&#xD;
+         39. Subject is pregnant&#xD;
+&#xD;
+         40. Subject is currently participating or plans to participate in another investigational&#xD;
+             drug- or device trial that may affect any of this study's endpoints&#xD;
+&#xD;
+         41. Subject has any other anatomical-, clinical-, social-, etc. characteristics that&#xD;
+             preclude the subject from being a candidate for the study&#xD;
+&#xD;
+         42. Subject has any contradiction listed in the current IFU&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jeff Chambers, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Cardiovascular Systems Inc</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jamie Seifert, MS</last_name>
+    <phone>8772740360</phone>
+    <email>csipvad@csi360.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Tbilisi Heart &amp; Vascular</name>
+      <address>
+        <city>Tbilisi</city>
+        <country>Georgia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Georgia</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 10, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>February 6, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 6, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 8, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>PCI</keyword>
+  <keyword>pVAD</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronary Artery Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

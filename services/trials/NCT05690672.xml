@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9767">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05690672</url>
+  </required_header>
+  <id_info>
+    <org_study_id>N-20220026</org_study_id>
+    <nct_id>NCT05690672</nct_id>
+  </id_info>
+  <brief_title>Screening for Delirium in Older Inpatients</brief_title>
+  <official_title>Screening for Delirium in Older Inpatients Using 3D-CAM and 4AT: Protocol for a Randomized Pilot Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Aalborg University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Aalborg University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Two-arm parallel-randomized pilot study and to collect data at the Department of Geriatric&#xD;
+      Medicine at Aalborg University Hospital. The aim is to assess the feasibility of a future&#xD;
+      randomized controlled study comparing Danish versions of 3D-CAM and 4AT in an acute medical&#xD;
+      setting. The primary objective is to assess 1) feasibility of obtaining informed consent and&#xD;
+      recruiting older adults within 24 hours of admission (or surgery) at the Department of&#xD;
+      Geriatric Medicine, Department of Acute Medicine, or Department of Orthopedic Surgery.&#xD;
+      Secondary objectives are 2a) to compare feasibility of recruitment and testing in the three&#xD;
+      different departments, 2b) to inform a preliminary evaluation of validity and reliability of&#xD;
+      the Danish version of screening instruments, and 2c) to obtain data on variance to support&#xD;
+      calculating sample size for a full-scale RCT.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      We will recruit participants through a consecutive sampling of all potentially eligible&#xD;
+      patients. Recruitment will take place in three different settings: the Department of&#xD;
+      Geriatric Medicine, the Department of Acute Medicine, and the Department of Orthopedic&#xD;
+      Surgery. One week will be allocated for recruitment in each setting.&#xD;
+&#xD;
+      Potentially delirious patients often have impaired cognitive status. Therefore, the process&#xD;
+      of recruitment and informed consent is critically important and poses a central issue of&#xD;
+      feasibility to be assessed in this study.&#xD;
+&#xD;
+      It cannot be known with certainty whether patients are delirious prior to inclusion into the&#xD;
+      study, and even among delirious patients, there are considerable circadian fluctuations (as&#xD;
+      this is a hallmark of the condition), meaning that patients may have lucid moments during the&#xD;
+      day where they are cognitively intact and may be able to give informed consent.&#xD;
+&#xD;
+      Generally, informed consent will be sought from participants when possible. In case they are&#xD;
+      permanently or temporarily unable to give informed consent, informed consent will be sought&#xD;
+      from next of kin. Due to the short time in the study for each participant, it is not&#xD;
+      anticipated that participants will regain the ability to give informed consent during the&#xD;
+      study. However, if they do, new informed consent will be obtained from the participant. The&#xD;
+      number of potential participants at each step will be documented to assess problems with&#xD;
+      feasibility.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 28, 2022</start_date>
+  <completion_date type="Anticipated">January 2023</completion_date>
+  <primary_completion_date type="Anticipated">January 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Double (Care Provider, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility of recruitment overall</measure>
+    <time_frame>3 weeks total</time_frame>
+    <description>Measured by counting the number of participants giving informed consent, as well as number of participants in each setting not giving informed consent in each setting over the 3 week period.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Feasibility of recruitment in different settings</measure>
+    <time_frame>1 week each</time_frame>
+    <description>Comparison of the number of participants (counted) recruited in the Department of Orthopedic Surgery, Geriatric Medicine and Acute Medicine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Validity of screening tools</measure>
+    <time_frame>3 weeks total</time_frame>
+    <description>Preliminary results of screening validity of 4A's test and 3D-CAM test comparing sensitivity and specificity</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Delirium in Old Age</condition>
+  <arm_group>
+    <arm_group_label>3D-CAM screening</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>4AT screening</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Delirium Screening</intervention_name>
+    <description>Either 3D-CAM or 4AT</description>
+    <arm_group_label>3D-CAM screening</arm_group_label>
+    <arm_group_label>4AT screening</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age over 80 years&#xD;
+&#xD;
+          -  Admission or surgery within the last 24 hours&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Unable to obtain contact to next of kin for informed consent within time-frame&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>80 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Johannes Jensen, MD</last_name>
+    <phone>22174664</phone>
+    <phone_ext>45</phone_ext>
+    <email>johannes.j@rn.dk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Aalborg University Hospital</name>
+      <address>
+        <city>Aalborg</city>
+        <state>Northern Jutland</state>
+        <zip>9000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Johannes Jensen, MD</last_name>
+      <phone>22174664</phone>
+      <phone_ext>+45</phone_ext>
+      <email>johannes.j@rn.dk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>September 26, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>January 17, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 17, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Aalborg University Hospital</investigator_affiliation>
+    <investigator_full_name>Johannes Riis Jensen</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Delirium</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -5,16 +5,12 @@ import at.ac.tuwien.sepm.groupphase.backend.datagenerator.UserDataGenerator;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.UserMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
-import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Status;
 import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
-import org.springframework.context.annotation.ComponentScan;
-import org.springframework.context.annotation.FilterType;
-import org.springframework.stereotype.Component;
+import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 
@@ -32,7 +28,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
     * the data in the database is always the same in all tests.
  */
 @ExtendWith(SpringExtension.class)
-@DataJpaTest(includeFilters = @ComponentScan.Filter(type = FilterType.ANNOTATION, classes = Component.class))
+@SpringBootTest
 @ActiveProfiles({"test", "generateUsers"})
 public class UserRepositoryTest {
 
@@ -62,7 +58,7 @@ public class UserRepositoryTest {
                 assertEquals(user.getLastName(), persistedUser.getLastName());
                 assertEquals(user.getEmail(), persistedUser.getEmail());
                 assertEquals(user.getPassword(), persistedUser.getPassword());
-                assertEquals(Status.ACTIVE, persistedUser.getStatus());
+                assertEquals(ApplicationUser.Status.ACTIVE, persistedUser.getStatus());
 
                 assertEquals(role, userMapper.getRoleFromApplicationUser(persistedUser));
             });

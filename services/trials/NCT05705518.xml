@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9084">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05705518</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CPHS_2022-09-15617</org_study_id>
+    <nct_id>NCT05705518</nct_id>
+  </id_info>
+  <brief_title>Artificial Tears, Tear Lipids and Tear Film Dynamics</brief_title>
+  <acronym>AlconAT</acronym>
+  <official_title>Effects Of Artificial Tears on Tear Lipid Films and Tear Film Dynamics In Vivo</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, Berkeley</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Alcon Research</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, Berkeley</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Dry eye disease (DED) is pervasive with some reports estimating over 16 million adults&#xD;
+      diagnosed in the United States. Currently, artificial tears remain an integral part of&#xD;
+      managing dry eyes and are mainly used for symptomatic relief. Recent studies have shown there&#xD;
+      may be therapeutic benefits with regular use of lipid-based artificial tears to improve the&#xD;
+      structure of the tear film, which may improve tear film stability and provide relief of&#xD;
+      symptoms. In this study the investigators propose to compare effects on the tear lipid film&#xD;
+      and its dynamics between 3 lipid based artificial tears and a widely available non-lipid&#xD;
+      based artificial tear.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a prospective, double-masked, randomized, controlled, parallel-group trial designed&#xD;
+      to compare the impact of Systane Complete PF lipid-based artificial tears (the Treatment&#xD;
+      solution under study) on tear lipid layer thickness compared with a non-lipid Control&#xD;
+      solution, Refresh Relieva PF. Secondarily, the study will compare changes in tear lipid layer&#xD;
+      thickness, lipid layer uniformity, tear film thinning dynamics, and symptoms between the&#xD;
+      Treatment solution, the non-lipid Control solution, and 2 other available lipid-based&#xD;
+      solutions (Active Comparators: Refresh Optive Mega-3 PF and CVS Health Lubricant Eye Drop (PG&#xD;
+      0.6%)). The study will include 4 clinic visits, and require 1 week of single-masked run-in&#xD;
+      with Systane Ultra PF (an over-the-counter non-lipid-based solution) followed by 3 months of&#xD;
+      study treatment dosing. All subjects will complete a screening interview, then an in-clinic&#xD;
+      baseline ocular health examination and study eligibility determination followed by dispensing&#xD;
+      of the Control solution to all subjects for 1 week of run-in. After that week, subjects will&#xD;
+      be randomized to 1 of the 4 artificial tear solutions and have an in-clinic ocular&#xD;
+      examination and dispense of the assigned solution to use for 3 months. An in-clinic follow-up&#xD;
+      examination is completed after 1 month of study solution use, followed by a phone interview&#xD;
+      at 2 months, and a final in-clinic examination at 3 months post-dispensing.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 30, 2023</start_date>
+  <completion_date type="Anticipated">September 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2023</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>After the 1-week initial period during which all subjects will use the run-in solution, subjects will be randomly assigned one of the 4 study solutions, and neither the subject nor the clinician researchers or technicians conducting examinations and taking measurements will be aware of which solution is assigned. All 4 solutions will be dispensed in color- and name-coded identical dispensing bottles prepared by study personnel not involved in collecting data.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Tear Lipid Layer Thickness</measure>
+    <time_frame>Lipid Layer Thickness measured once at post-run-in baseline and once at 3mo follow-up visit</time_frame>
+    <description>Change in Tear Lipid Layer Thickness (3mo follow-up - post-run-in baseline)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Tear Lipid Layer Uniformity</measure>
+    <time_frame>Lipid Layer Uniformity measured once at post-run-in baseline and once at 3mo follow-up visit</time_frame>
+    <description>Change in Tear Lipid Layer Thickness Coefficient of Variation (3mo follow-up - post-run-in baseline)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tear Film Thinning Rate</measure>
+    <time_frame>Tear Film Thinning Rate measured once at post-run-in baseline and once at 3mo follow-up visit</time_frame>
+    <description>Change in Tear Film Thinning rate (3mo follow-up - post-run-in baseline)</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Exploratory - Subjective Symptoms - OSDI</measure>
+    <time_frame>OSDI questionnaire administered once at post-run-in baseline and once at 3mo follow-up visit</time_frame>
+    <description>Change in Ocular Surface Disease Index (OSDI) score (3mo follow-up - post-run-in baseline)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Exploratory - Subjective Symptoms - SANDE</measure>
+    <time_frame>SANDE questionnaire administered once at post-run-in baseline and once at 3mo follow-up visit</time_frame>
+    <description>Change in Symptom Assessment questionnaire iN Dry Eye (SANDE) score (3mo follow-up - post-run-in baseline)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Exploratory - Subjective Symptoms - DEQ-5</measure>
+    <time_frame>DEQ-5 questionnaire administered once at post-run-in baseline and once at 3mo follow-up visit</time_frame>
+    <description>Change in 5-Item Dry Eye Questionnaire (DEQ-5) score (3mo follow-up - post-run-in baseline)</description>
+  </other_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">84</enrollment>
+  <condition>Dry Eye</condition>
+  <arm_group>
+    <arm_group_label>Systane Complete PF (Treatment)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Masked subjects assigned to Arm 1 will use Systane Complete PF artificial tear drops 4 times per day (QID) to treat dry eye symptoms over a 3 month period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Refresh Relieva PF (Control)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Masked subjects assigned to Arm 2 will use Refresh Relieva PF artificial tear drops 4 times per day (QID) to treat dry eye symptoms over a 3 month period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Refresh Optive Mega-3 PF (Active Comparator 1)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Masked subjects assigned to Arm 3 will use Refresh Optive Mega-3 PF artificial tear drops 4 times per day (QID) to treat dry eye symptoms over a 3 month period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CVS Health Lubricant Eye Drop (PG 0.6%) (Active Comparator 2)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Masked subjects assigned to Arm 4 will use CVS Health Lubricant Eye Drop (PG 0.6%) artificial tear drops 4 times per day (QID) to treat dry eye symptoms over a 3 month period.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Systane Complete PF</intervention_name>
+    <description>3 month use, 4 times daily, of Systane Complete PF, a lipid-based, preservative-free artificial tear product</description>
+    <arm_group_label>Systane Complete PF (Treatment)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Refresh Relieva PF</intervention_name>
+    <description>3 month use, 4 times daily, of Refresh Relieva PF, a non-lipid-based, preservative-free artificial tear product</description>
+    <arm_group_label>Refresh Relieva PF (Control)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Refresh Optive Mega-3 PF</intervention_name>
+    <description>3 month use, 4 times daily, of Refresh Optive Mega-3 PF, a lipid-based, preservative-free artificial tear product</description>
+    <arm_group_label>Refresh Optive Mega-3 PF (Active Comparator 1)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CVS Health Lubricant Eye Drop (PG 0.6%)</intervention_name>
+    <description>3 month use, 4 times daily, of CVS Health Lubricant Eye Drop (PG 0.6%), a lipid-based, preserved artificial tear product</description>
+    <arm_group_label>CVS Health Lubricant Eye Drop (PG 0.6%) (Active Comparator 2)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Best Corrected Visual Acuity of 20/30 or better;&#xD;
+&#xD;
+          -  Experiencing Dry Eye symptoms (baseline OSDI score &gt;= 13);&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Currently experiencing active ocular inflammation or infection;&#xD;
+&#xD;
+          -  Currently using topical eye medication (not including over-the-counter eyedrops);&#xD;
+&#xD;
+          -  Having systemic health conditions or using prescription medications (including but not&#xD;
+             limited to isotretinoin derivatives) that could alter tear film physiology;&#xD;
+&#xD;
+          -  Having a history of severe ocular trauma, ocular surgery, or diabetes;&#xD;
+&#xD;
+          -  Being pregnant or breast feeding;&#xD;
+&#xD;
+          -  Being a current contact lens wearer;&#xD;
+&#xD;
+          -  Currently having a condition or being in a situation which, in the examiner's opinion,&#xD;
+             may put the subject at significant risk, may confound the study results, or may&#xD;
+             otherwise significantly interfere with their participation in the study;&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Meng C. Lin, OD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California Berkeley Clinical Research Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Meng C. Lin, OD, PhD</last_name>
+    <phone>510-643-9252</phone>
+    <email>mlin@berkeley.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Andrew D. Graham, MA</last_name>
+    <phone>415-418-4058</phone>
+    <email>agraham@berkeley.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Clinical Research Center, School of Optometry, University of California, Berkeley</name>
+      <address>
+        <city>Berkeley</city>
+        <state>California</state>
+        <zip>94720-2020</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Meng C. Lin, OD, PhD</last_name>
+      <phone>510-643-9252</phone>
+      <email>mlin@berkeley.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Andrew D. Graham, MA</last_name>
+      <phone>510-643-9252</phone>
+      <email>agraham@berkeley.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Meng C. Lin, OD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Andrew D. Graham, MA</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>January 20, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>March 6, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 6, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 9, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Dry Eye</keyword>
+  <keyword>Tear Film Lipid Layer Dynamics</keyword>
+  <keyword>Tear Film Stability</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dry Eye Syndromes</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ophthalmic Solutions</mesh_term>
+    <mesh_term>Lubricant Eye Drops</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>De-identified data collected in this study may be shared upon request, at the discretion of the PI, for non-commercial research purposes.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

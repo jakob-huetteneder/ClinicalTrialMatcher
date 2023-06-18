@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9902">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05687851</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CQGOG010</org_study_id>
+    <nct_id>NCT05687851</nct_id>
+  </id_info>
+  <brief_title>Study Of Candonilimab Combined With Radiotherapy In The Treatment of Locally Advanced Cervical Cancer</brief_title>
+  <official_title>A Single-arm, Multicenter, Phase II Study to Evaluate Candonilimab（AK104） Combined With Radiotherapy For The Treatment of Locally Advanced Cervical Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chongqing University Cancer Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Akeso Pharmaceuticals, Inc.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Chongqing University Cancer Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Candonilimab（AK104）is a humanized IgG1 bispecific antibody that targets PD-1 and CTLA-4.&#xD;
+&#xD;
+      This is a single-arm, multicenter, open-label, phase II study, the purpose of this study is&#xD;
+      to evaluate the efficacy and safety of candonilimab plus radiotherapy in participants with&#xD;
+      locally advanced cervical cancer who do not tolerate chemotherapy.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 29, 2022</start_date>
+  <completion_date type="Anticipated">December 2026</completion_date>
+  <primary_completion_date type="Anticipated">June 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>ORR assessed by Investigator</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>The ORR is defined as the proportion of subjects with confirmed CR or confirmed PR per RECIST v1.1.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>DCR</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>The DCR is defined as the proportion of subjects with CR, PR, or SD (subjects achieving SD will be included in the DCR if they maintain SD for ≥8 weeks) based on RECIST Version 1.1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PFS</measure>
+    <time_frame>Up to approximately 30 months</time_frame>
+    <description>Progression-free survival is defined as the time from the start of treatment with AK104 until the first documentation of disease progression or death due to any cause, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>OS</measure>
+    <time_frame>Up to approximately 40 months</time_frame>
+    <description>OS is the time from randomization to death due to any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in European Organization for Research and Treatment of Cancer Quality of Life Questionnaire-Core 30 (EORTC QLQ-C30) Global Health Status Score and Physical Function Score.</measure>
+    <time_frame>Baseline and up to approximately 40 months</time_frame>
+    <description>The EORTC QLQ-C30 is a questionnaire that rates the overall quality of life in cancer participants. The first 28 questions use a 4-point scale (1=not at all to 4=very much) for evaluating function (physical, role, social, cognitive, emotional), symptoms (diarrhea, fatigue, dyspnea, appetite loss, insomnia, nausea/vomiting, constipation, and pain) and financial difficulties. The last 2 questions use a 7-point scale (1=very poor to 7=excellent) to evaluate overall health and quality of life. Global scores are converted to a score of 0 to 100, with a higher score indicating improved health status. The change from baseline in EORTC QLQ-C30 score will be presented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with adverse events (AEs)</measure>
+    <time_frame>Up to approximately 40 months</time_frame>
+    <description>An AE is defined as any unfavorable and unintended sign, symptom, disease, or worsening of preexisting condition temporally associated with study treatment and irrespective of causality to study treatment.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">33</enrollment>
+  <condition>Locally Advanced Cervical Cancer</condition>
+  <arm_group>
+    <arm_group_label>treatment arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive candonilimab at a dose of 10 mg/kg, Q3W (Day 1 of each 21 day treatment cycle) via IV infusion, until disease progression, intolerable toxicity, investigator determines that the participant cannot continue to benefit, withdraws informed consent, or candonilimab treatment over 2 years. During the q3w dosing period of candonilimab, participants receive radiotherapy including external beam radiotherapy (EBRT) and followed by brachytherapy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Candonilimab（AK104）</intervention_name>
+    <description>q3w iv</description>
+    <arm_group_label>treatment arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>EBRT</intervention_name>
+    <description>45-50.4Gy</description>
+    <arm_group_label>treatment arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>BT</intervention_name>
+    <description>≥80Gy</description>
+    <arm_group_label>treatment arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Able to understand and voluntarily sign written informed consent.&#xD;
+&#xD;
+          2. Women aged ≥18 years at the time of study entry.&#xD;
+&#xD;
+          3. Eastern Cancer Cooperative performance status (ECOG PS) score of 0 or 1.&#xD;
+&#xD;
+          4. Life expectancy ≥12 weeks.&#xD;
+&#xD;
+          5. Participants' intolerance to chemotherapy regimens.&#xD;
+&#xD;
+          6. Histologically confirmed cervical cancer.&#xD;
+&#xD;
+               1. Histologically-confirmed squamous cell carcinoma, adenocarcinoma, or&#xD;
+                  adenosquamous carcinoma of the cervix;&#xD;
+&#xD;
+               2. Not receiving systemic anti-tumour therapy (including but not limited to&#xD;
+                  radiotherapy, targeted therapy and immunotherapy, etc; concurrent chemotherapy is&#xD;
+                  not included. Note: Removal or biopsy of pelvic lymph nodes or para-aortic lymph&#xD;
+                  nodes for the purpose of clinical staging is allowed).&#xD;
+&#xD;
+               3. Locally advanced cervical cancer（LACC）: The International Federation of&#xD;
+                  Gynecology and Obstetrics (FIGO) 2018 Stage IB3/IIA2, IIB-IVA.&#xD;
+&#xD;
+          7. At least one measurable tumor lesion according to RECIST v1.1 criteria.&#xD;
+&#xD;
+          8. Available archived tumor tissue samples or recent biopsies.&#xD;
+&#xD;
+          9. Adequate organ function.&#xD;
+&#xD;
+         10. For fertile women with negative serum pregnancy and effective contraception within 7&#xD;
+             days before administration (until 120 days after the last administration of the study&#xD;
+             drug and at least 180 days after radiotherapy)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Other histological types of cervical cancer (eg, neuroendocrine carcinoma, small cell&#xD;
+             carcinoma, sarcoma, etc).&#xD;
+&#xD;
+          2. Evidence of distant metastases.&#xD;
+&#xD;
+          3. Have received total hysterectomy.&#xD;
+&#xD;
+          4. Subject with other active malignancies within 2 years prior to randomization.&#xD;
+&#xD;
+          5. Subject who cannot receive brachytherapy.&#xD;
+&#xD;
+          6. Active or prior documented autoimmune disease that may relapse.&#xD;
+&#xD;
+          7. History of interstitial lung disease or noninfectious pneumonitis.&#xD;
+&#xD;
+          8. Subject with the clinically significant cardio-cerebrovascular disease.&#xD;
+&#xD;
+          9. History of severe hypersensitivity reactions to other mAbs.&#xD;
+&#xD;
+         10. Prior allogeneic stem cell transplantation or organ transplantation.&#xD;
+&#xD;
+         11. Subjects who require systemic treatment with glucocorticoid (&gt;10 mg/day of prednisone&#xD;
+             or equivalent glucocorticoid) or other immunosuppressive agents within 14 days prior&#xD;
+             to randomization.&#xD;
+&#xD;
+         12. Receipt of live attenuated vaccines within 30 days prior to the first dose of the&#xD;
+             study drug.&#xD;
+&#xD;
+         13. Prior exposure to any experimental antitumor vaccines, or any agent targeting T-cell&#xD;
+             costimulation or immune checkpoint pathways (eg, anti-PD-1, anti-PD-L1, anti-PD-L2,&#xD;
+             anti-CTLA-4, anti-CD137 or anti-OX40 antibody, etc).&#xD;
+&#xD;
+         14. Any condition that, in the opinion of the Investigator, would interfere with the&#xD;
+             evaluation of the study drug or interpretation of subject safety or study results.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Qi Zhou, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Chongqing University Cancer Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Xingtao Long, MD</last_name>
+    <phone>+8602365075619</phone>
+    <email>longxingtao2009@163.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Chongqing university Cancer Hospital</name>
+      <address>
+        <city>Chongqing</city>
+        <state>CHN</state>
+        <zip>400000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xingtao Long, MD</last_name>
+      <phone>+86232365075619</phone>
+      <email>longxingtao2009@163.com</email>
+    </contact>
+    <investigator>
+      <last_name>Qi Zhou, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>December 2022</verification_date>
+  <study_first_submitted>December 24, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 15, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>January 15, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 15, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 18, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Chongqing University Cancer Hospital</investigator_affiliation>
+    <investigator_full_name>Qi Zhou</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Cervical Cancer</keyword>
+  <keyword>Local advanced</keyword>
+  <keyword>Concurrent chemoradiotherapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Uterine Cervical Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

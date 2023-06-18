@@ -8,7 +8,6 @@ import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserDetailDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserUpdateDto;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
-import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Status;
 import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
 import at.ac.tuwien.sepm.groupphase.backend.security.JwtTokenizer;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -122,7 +121,7 @@ public class UserEndpointTest {
             "email@email.com",
             passwordEncoder.encode(password),
             Role.PATIENT,
-            Status.ACTIVE);
+            ApplicationUser.Status.ACTIVE);
 
         List<String> userRoles = new ArrayList<>() {
             {
@@ -136,7 +135,7 @@ public class UserEndpointTest {
             "updated@email.com",
             "updatedPassword",
             Role.PATIENT,
-            Status.SUSPENDED,
+            ApplicationUser.Status.SUSPENDED,
             password
         );
         MvcResult mvcResult = this.mockMvc.perform(put(USER_BASE_URI)
@@ -171,7 +170,7 @@ public class UserEndpointTest {
             "email@email.com",
             passwordEncoder.encode(password),
             Role.PATIENT,
-            Status.ACTIVE);
+            ApplicationUser.Status.ACTIVE);
         List<String> userRoles = new ArrayList<>() {
             {
                 add("ROLE_USER");
@@ -184,7 +183,7 @@ public class UserEndpointTest {
             "updated@email.com",
             "updatedPassword",
             Role.PATIENT,
-            Status.SUSPENDED,
+            ApplicationUser.Status.SUSPENDED,
             "wrongPassword"
         );
         MvcResult mvcResult = this.mockMvc.perform(put(USER_BASE_URI)
@@ -214,7 +213,7 @@ public class UserEndpointTest {
             "email@email.com",
             passwordEncoder.encode(password),
             Role.PATIENT,
-            Status.ACTIVE);
+            ApplicationUser.Status.ACTIVE);
 
         ApplicationUser admin = userDataGenerator.generateUser(Role.ADMIN);
 
@@ -231,7 +230,7 @@ public class UserEndpointTest {
             "updated@email.com",
             null,
             Role.PATIENT,
-            Status.SUSPENDED,
+            ApplicationUser.Status.SUSPENDED,
             null
         );
         MvcResult mvcResult = this.mockMvc.perform(put(USER_BASE_URI + "/" + user.getId())
@@ -266,7 +265,7 @@ public class UserEndpointTest {
             "email@email.com",
             passwordEncoder.encode(password),
             Role.PATIENT,
-            Status.ACTIVE);
+            ApplicationUser.Status.ACTIVE);
 
         ApplicationUser invalidRoleUser = userDataGenerator.generateUser(Role.ADMIN);
         List<String> adminRoles = new ArrayList<>() {
@@ -281,7 +280,7 @@ public class UserEndpointTest {
             "updated@email.com",
             null,
             Role.PATIENT,
-            Status.SUSPENDED,
+            ApplicationUser.Status.SUSPENDED,
             null
         );
         MvcResult mvcResult = this.mockMvc.perform(put(USER_BASE_URI + "/" + user.getId())
@@ -306,7 +305,7 @@ public class UserEndpointTest {
             "email@email.com",
             passwordEncoder.encode(password),
             Role.PATIENT,
-            Status.ACTIVE);
+            ApplicationUser.Status.ACTIVE);
 
         List<String> userRoles = new ArrayList<>() {
             {
@@ -329,7 +328,7 @@ public class UserEndpointTest {
     @Test
     public void verifyUser() throws Exception {
         ApplicationUser user = userDataGenerator.generateUser(Role.PATIENT);
-        user.setStatus(Status.ACTION_REQUIRED);
+        user.setStatus(ApplicationUser.Status.ACTION_REQUIRED);
         user = userRepository.save(user);
 
         List<String> userRoles = new ArrayList<>() {
@@ -339,7 +338,7 @@ public class UserEndpointTest {
         };
 
         ApplicationUser applicationUser = userRepository.findById(user.getId()).orElseThrow();
-        assertEquals(applicationUser.getStatus(), Status.ACTION_REQUIRED);
+        assertEquals(applicationUser.getStatus(), ApplicationUser.Status.ACTION_REQUIRED);
         assertEquals(applicationUser.getVerification(), user.getVerification());
 
         MvcResult mvcResult = this.mockMvc.perform(get(USER_BASE_URI + "/verify?code=" + user.getVerification()+ "&role="+ Role.PATIENT + "&url="+ URLEncoder.encode("test/#/", StandardCharsets.UTF_8))
@@ -350,14 +349,14 @@ public class UserEndpointTest {
 
         assertEquals(HttpStatus.MOVED_TEMPORARILY.value(), response.getStatus());
         ApplicationUser updatedUser = userRepository.findById(user.getId()).orElseThrow();
-        assertEquals(updatedUser.getStatus(), Status.ACTIVE);
+        assertEquals(updatedUser.getStatus(), ApplicationUser.Status.ACTIVE);
         assertNull(updatedUser.getVerification());
     }
 
     @Test
     public void failVerifyUser() throws Exception {
         ApplicationUser user = userDataGenerator.generateUser(Role.PATIENT);
-        user.setStatus(Status.ACTION_REQUIRED);
+        user.setStatus(ApplicationUser.Status.ACTION_REQUIRED);
         user = userRepository.save(user);
 
         List<String> userRoles = new ArrayList<>() {
@@ -367,7 +366,7 @@ public class UserEndpointTest {
         };
 
         ApplicationUser applicationUser = userRepository.findById(user.getId()).orElseThrow();
-        assertEquals(applicationUser.getStatus(), Status.ACTION_REQUIRED);
+        assertEquals(applicationUser.getStatus(), ApplicationUser.Status.ACTION_REQUIRED);
         assertEquals(applicationUser.getVerification(), user.getVerification());
 
         MvcResult mvcResult = this.mockMvc.perform(get(USER_BASE_URI + "/verify?code=test" + "&role="+ Role.PATIENT + "&url="+ URLEncoder.encode("test/#/", StandardCharsets.UTF_8))
@@ -379,7 +378,7 @@ public class UserEndpointTest {
 
         assertEquals(HttpStatus.OK.value(), response.getStatus());
         ApplicationUser updatedUser = userRepository.findById(user.getId()).orElseThrow();
-        assertEquals(updatedUser.getStatus(), Status.ACTION_REQUIRED);
+        assertEquals(updatedUser.getStatus(), ApplicationUser.Status.ACTION_REQUIRED);
         assertEquals(applicationUser.getVerification(), user.getVerification());
     }
 }

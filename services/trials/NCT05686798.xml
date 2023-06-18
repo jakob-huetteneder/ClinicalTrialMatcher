@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9952">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05686798</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HFHS-21-02</org_study_id>
+    <nct_id>NCT05686798</nct_id>
+  </id_info>
+  <brief_title>Adenovirus Mediated Suicide Gene Therapy With Radiotherapy in Progressive Astrocytoma.</brief_title>
+  <official_title>Phase I Study of Replication-Competent Adenovirus-Mediated Double Suicide Gene Therapy With Stereotactic Radiosurgery in Patients With Recurrent or Progressive High Grade Astrocytomas</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Henry Ford Health System</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Henry Ford Health System</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary goal of this Phase I study is to determine the maximum tolerated dose of&#xD;
+      oncolytic adenovirus mediated double suicide-gene therapy in combination with fractionated&#xD;
+      stereotactic radiosurgery in patients with recurrent high-grade astrocytoma undergoing&#xD;
+      resection.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Detailed study description:&#xD;
+&#xD;
+      Patients with recurrent glioblastoma (GBM) or progressive high grade astrocytoma who are&#xD;
+      scheduled to undergo repeat surgery are eligible. After the removal of as much tumor tissue&#xD;
+      as possible, a modified oncolytic adenovirus is injected into the wall of the resection&#xD;
+      cavity and any residual tumor tissue. The goal of this study is to determine the maximum&#xD;
+      tolerated dose (MTD) of the injected adenovirus. This treatment is combined with a&#xD;
+      combination of oral 5-fluorocytosine (5-FC) and valganciclovir (vGCV) prodrug therapy.&#xD;
+      Following the surgery, patients will be treated with fractionated radiosurgery (fSRS).&#xD;
+      Patients will be monitored for 30 days before they start on next line anti-cancer therapy.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 29, 2022</start_date>
+  <completion_date type="Anticipated">October 2024</completion_date>
+  <primary_completion_date type="Anticipated">October 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximum Tolerated Dose</measure>
+    <time_frame>30 days</time_frame>
+    <description>The primary objective is to determine the maximum tolerated dose of injected of Ad5-yCD/mutTKSR39rep-ADP adenovirus into the resection cavity at the time of surgery.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>1. Assessment of antitumor immune response</measure>
+    <time_frame>Pre-surgery (day 0), 3, 7, 14, 21, 30, 90 days.</time_frame>
+    <description>Assessment of antitumor immune response by serum levels of interferon-gamma (IFN-γ) measured by ELISA and will be described by pico-gram per milliliter (pg/mL).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>2. Assessment of change in antitumor immune response by peripheral blood monoclonal cell (PBMC) counts</measure>
+    <time_frame>Pre-surgery (day 0), 3, 7, 14, 21, 30, 90 days.</time_frame>
+    <description>Assessment of change in antitumor immune response by peripheral blood monoclonal cell (PBMC) counts measured by flow cytometry</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of antitumor immune response by using antibodies against surface markers</measure>
+    <time_frame>Pre-surgery (day 0), 3, 7, 14, 21, 30, 90 days.</time_frame>
+    <description>Assessment of antitumor immune response by using antibodies against surface markers (CD3, CD56, CD4, CD8, CD45, CD69).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Quality of life as assessed using the European Organization for Research and Treatment of Cancer (EORTC) QLQ-C30</measure>
+    <time_frame>Pre-surgery (day 0), 30 days, 90 days</time_frame>
+    <description>Assessment of quality of life (QOL) by using the European Organization for Research and Treatment of Cancer (EORTC) tools consisting of the EORTC QLQ-C30</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Quality of life as assessed using the European Organization for Research and Treatment of Cancer (EORTC) QLQ-BN20</measure>
+    <time_frame>Pre-surgery (day 0), 30 days, 90 days</time_frame>
+    <description>Assessment of quality of life (QOL) by using the European Organization for Research and Treatment of Cancer (EORTC) QLQ-BN20</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">18</enrollment>
+  <condition>Malignant Glioma of Brain</condition>
+  <condition>Astrocytoma</condition>
+  <condition>Malignant Astrocytoma</condition>
+  <condition>Brain Tumor</condition>
+  <condition>Glioma</condition>
+  <condition>Brain Cancer</condition>
+  <condition>Glioblastoma</condition>
+  <condition>Glioblastoma Multiforme</condition>
+  <condition>GBM</condition>
+  <arm_group>
+    <arm_group_label>Ad5-yCD/mutTKSR39rep-ADP adenovirus and fSRS Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will receive a single intratumoral injection of the Ad5-yCD/mutTKSR39rep-ADP adenovirus at one of three dose levels beginning at 1 x 1011 vp and escalating in half-log (3-fold) increments to 1 x 1012 vp, along with the same dose of fractionated stereotactic radiosurgery until unacceptable toxicity, disease progression, or withdrawal of consent.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Ad5-yCD/mutTKSR39rep-ADP adenovirus and fractionated stereotactic radiosurgery (fSRS)</intervention_name>
+    <description>Ad5-yCD/mutTKSR39rep-ADP adenovirus will be injected intratumoral</description>
+    <arm_group_label>Ad5-yCD/mutTKSR39rep-ADP adenovirus and fSRS Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Subjects with radiologic evidence of intracranial recurrence or progression of a&#xD;
+             previously diagnosed high-grade astrocytoma.&#xD;
+&#xD;
+             To be eligible for this trial, the subjects must have:&#xD;
+&#xD;
+               -  Histologically documented glioblastomas or anaplastic astrocytoma prior to the&#xD;
+                  debulking surgery that is suspicious to have progressed on imaging. An interval&#xD;
+                  of at least 3 months must have elapsed since the completion of the most recent&#xD;
+                  course of radiation while at least 4 weeks must have elapsed since the completion&#xD;
+                  of a non-nitrosourea containing chemotherapy regimen and at least 6 weeks since&#xD;
+                  the completion of a nitrosourea containing chemotherapy regimen.&#xD;
+&#xD;
+               -  Patients must be ≥ 18 years of age, able to provide informed consent and express&#xD;
+                  a willingness to meet all the expected requirements of the protocol for the&#xD;
+                  duration of the study.&#xD;
+&#xD;
+               -  Must have recovered from toxicity (grade 2 or less) of prior therapy.&#xD;
+&#xD;
+               -  Eligible for partial or total resection of the recurrent tumor&#xD;
+&#xD;
+               -  No anticipated physical connection between post-resection tumor cavity and&#xD;
+                  cerebral ventricle&#xD;
+&#xD;
+               -  Karnofsky performance status (KPS) ≥ 60 at time of surgery&#xD;
+&#xD;
+               -  No prior treatment of the tumor with gene or virus therapy, immunotherapy,&#xD;
+                  brachytherapy, or implants of polymers containing chemotherapeutic agents (e.g.&#xD;
+                  Gliadel Wafer)&#xD;
+&#xD;
+               -  No immunosuppressive or immune disorder&#xD;
+&#xD;
+               -  Baseline organ function testing intact&#xD;
+&#xD;
+               -  Patients who are candidates for surgical debulking (re-resection) following&#xD;
+                  recurrence of diseases based on multidisciplinary evaluation by neurosurgeons,&#xD;
+                  radiation oncologists, neuro-radiologists, and neuro-oncologists.&#xD;
+&#xD;
+          2. Subjects must have adequate baseline organ function, as assessed by the following&#xD;
+             laboratory values, within 30 days before initiating the study therapy:&#xD;
+&#xD;
+               -  Adequate renal function with creatinine clearance ≥ 50 mL/min/m2&#xD;
+&#xD;
+               -  Platelet count ≥ 100,000/μL&#xD;
+&#xD;
+               -  Absolute neutrophil count ≥ 1,000/μL&#xD;
+&#xD;
+               -  Hemoglobin &gt; 10.0 g/dL&#xD;
+&#xD;
+               -  Bilirubin &lt; 1.5 mg/dL; SGOT and SGPT &lt; 2.5 times upper limit of normal (ULN).&#xD;
+&#xD;
+          3. Women of child-bearing potential will be required to practice birth control for the&#xD;
+             duration of the treatment and for at least 90 days after surgery with intratumor virus&#xD;
+             inoculation. Men must use barrier protection for the duration of treatment and for at&#xD;
+             least 90 days after surgery with intratumor virus inoculation treatment.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Acute infection. Acute infection is defined by any viral, bacterial, or fungal&#xD;
+             infection that has required active treatment and caused oral temperature &gt;38.5oC&#xD;
+             and/or clinically significant leukocytosis&#xD;
+&#xD;
+          -  Serum antibodies to human immunodeficiency virus (HIV)&#xD;
+&#xD;
+          -  Previous history of liver disease including autoimmune or viral hepatitis&#xD;
+&#xD;
+          -  Positive serologic test for Hepatitis B or C at baseline&#xD;
+&#xD;
+          -  Immunosuppressive therapy except for corticosteroid use&#xD;
+&#xD;
+          -  Serious medical or psychiatric illness or concomitant medication, which, in the&#xD;
+             judgment of the investigator, might interfere with the subject's ability to respond to&#xD;
+             or tolerate the treatment or complete the trial&#xD;
+&#xD;
+          -  Impaired immunity or susceptibility to serious viral infections&#xD;
+&#xD;
+          -  Pregnant or lactating females&#xD;
+&#xD;
+          -  Allergy to any product used on the protocol&#xD;
+&#xD;
+          -  Patient is not able to undergo a brain MRI.&#xD;
+&#xD;
+          -  Patients who are not eligible for debulking surgery or resection of recurrent disease&#xD;
+             will be considered ineligible.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Tobias Walbert, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Henry Ford Health System</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Tobias Walbert, MD, PhD</last_name>
+    <phone>3139162723</phone>
+    <email>twalber1@hfhs.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Nyati Shyam, PhD</last_name>
+    <phone>734-272-1751</phone>
+    <email>snyati1@hfhs.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Henry Ford Health System</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tobias Walbert, MD, PhD</last_name>
+      <phone>313-916-2723</phone>
+      <email>twalber1@hfhs.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Ene CI, Fueyo J, Lang FF. Delta-24 adenoviral therapy for glioblastoma: evolution from the bench to bedside and future considerations. Neurosurg Focus. 2021 Feb;50(2):E6. doi: 10.3171/2020.11.FOCUS20853.</citation>
+    <PMID>33524949</PMID>
+  </reference>
+  <reference>
+    <citation>Mitchell LA, Lopez Espinoza F, Mendoza D, Kato Y, Inagaki A, Hiraoka K, Kasahara N, Gruber HE, Jolly DJ, Robbins JM. Toca 511 gene transfer and treatment with the prodrug, 5-fluorocytosine, promotes durable antitumor immunity in a mouse glioma model. Neuro Oncol. 2017 Jul 1;19(7):930-939. doi: 10.1093/neuonc/nox037.</citation>
+    <PMID>28387849</PMID>
+  </reference>
+  <reference>
+    <citation>Kiyokawa J, Wakimoto H. Preclinical And Clinical Development Of Oncolytic Adenovirus For The Treatment Of Malignant Glioma. Oncolytic Virother. 2019 Oct 24;8:27-37. doi: 10.2147/OV.S196403. eCollection 2019.</citation>
+    <PMID>31750274</PMID>
+  </reference>
+  <reference>
+    <citation>Oldfield EH, Ram Z, Culver KW, Blaese RM, DeVroom HL, Anderson WF. Gene therapy for the treatment of brain tumors using intra-tumoral transduction with the thymidine kinase gene and intravenous ganciclovir. Hum Gene Ther. 1993 Feb;4(1):39-69. doi: 10.1089/hum.1993.4.1-39.</citation>
+    <PMID>8384892</PMID>
+  </reference>
+  <reference>
+    <citation>Chen SH, Shine HD, Goodman JC, Grossman RG, Woo SL. Gene therapy for brain tumors: regression of experimental gliomas by adenovirus-mediated gene transfer in vivo. Proc Natl Acad Sci U S A. 1994 Apr 12;91(8):3054-7. doi: 10.1073/pnas.91.8.3054.</citation>
+    <PMID>8159705</PMID>
+  </reference>
+  <reference>
+    <citation>Freytag SO, Rogulski KR, Paielli DL, Gilbert JD, Kim JH. A novel three-pronged approach to kill cancer cells selectively: concomitant viral, double suicide gene, and radiotherapy. Hum Gene Ther. 1998 Jun 10;9(9):1323-33. doi: 10.1089/hum.1998.9.9-1323.</citation>
+    <PMID>9650617</PMID>
+  </reference>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 16, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 9, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 17, 2023</study_first_posted>
+  <last_update_submitted>January 9, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 9, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 17, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glioblastoma</mesh_term>
+    <mesh_term>Glioma</mesh_term>
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Astrocytoma</mesh_term>
+    <mesh_term>Suicide</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

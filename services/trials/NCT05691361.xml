@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9736">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05691361</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ADX-324-101</org_study_id>
+    <nct_id>NCT05691361</nct_id>
+  </id_info>
+  <brief_title>Safety, Tolerability, PK, PD of ADX-324 in Healthy Volunteers and Hereditary Angioedema Patients</brief_title>
+  <official_title>A Phase 1, Randomized, Placebo-Controlled, Double Blind Single Ascending Dose Study in Healthy Volunteers and an Expansion Cohort in Patients With Hereditary Angioedema to Evaluate the Safety, Tolerability, PK and PD of ADX-324</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ADARx Pharmaceuticals, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>ADARx Pharmaceuticals, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The first-in-human Phase 1 study will evaluate the safety, tolerability, pharmacokinetics&#xD;
+      (PK) and pharmacodynamics (PD) of ADX-324 in healthy volunteers (HV) and in patients with&#xD;
+      Hereditary Angioedema (HAE).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The clinical study described in this protocol is a Phase 1, single-center study evaluating&#xD;
+      safety, tolerability, PK, and PD of ADX-324.&#xD;
+&#xD;
+      The study consists of 2 parts:&#xD;
+&#xD;
+        -  Randomized, double-blind, placebo-controlled, parallel group, single ascending dose&#xD;
+           (SAD) in HV with up to 6 dose cohorts. For SAD cohorts and planned dosing; and,&#xD;
+&#xD;
+        -  Expansion cohort in participants with Hereditary Angioedema (HAE) at selected dose from&#xD;
+           Part A and will be open label.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 14, 2022</start_date>
+  <completion_date type="Anticipated">November 26, 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 2, 2024</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Phase 1, Single-Center, Randomized, Placebo-Controlled, Double Blind Single Ascending Dose Study in HV with expansion into HAE</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double blinded</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety in Healthy Volunteers</measure>
+    <time_frame>183 days</time_frame>
+    <description>To evaluate the safety and tolerability of ADX-324 in HVs by incidence, relationship, and severity of adverse events and serious adverse events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety in Healthy Volunteers</measure>
+    <time_frame>183 days</time_frame>
+    <description>To evaluate the safety and tolerability of ADX-324 in HVs by change in baseline electrocardiogram (ECG) parameters (PR, QRS, QT, and QTcF intervals)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety in Hereditary Angioedema</measure>
+    <time_frame>183 days</time_frame>
+    <description>To evaluate the safety and tolerability of ADX-324 in HAE by incidence, relationship, and severity of adverse events and serious adverse events</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics in Healthy Volunteers</measure>
+    <time_frame>183 days</time_frame>
+    <description>To characterize the Pharmacokinetics of ADX-324 in HVs by measuring the Maximum observed concentration (Cmax)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics in Healthy Volunteers</measure>
+    <time_frame>183 days</time_frame>
+    <description>To characterize the Pharmacokinetics of ADX-324 in HVs by measuring the Time to Cmax (Tmax)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics in Healthy Volunteers</measure>
+    <time_frame>183 days</time_frame>
+    <description>To characterize the Pharmacokinetics of ADX-324 in HVs by measuring the Area under the concentration-time curve from 0 to time of last quantifiable concentration (AUC0-last)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics in Healthy Volunteers</measure>
+    <time_frame>183 days</time_frame>
+    <description>To characterize the Pharmacokinetics of ADX-324 in HVs by measuring the Area under the concentration-time curve from 0 to infinity (AUC0-∞)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics in Healthy Volunteers</measure>
+    <time_frame>183 days</time_frame>
+    <description>To characterize the Pharmacokinetics of ADX-324 in HVs by measuring the Apparent terminal half-life (t½)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics in Healthy Volunteers</measure>
+    <time_frame>183 days</time_frame>
+    <description>To characterize the Pharmacokinetics of ADX-324 in HVs by measuring the Terminal elimination rate constant (λz)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics in Healthy Volunteers</measure>
+    <time_frame>183 days</time_frame>
+    <description>To characterize the Pharmacokinetics of ADX-324 in HVs by measuring the Total apparent body clearance (CL/F)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics in Healthy Volunteers</measure>
+    <time_frame>183 days</time_frame>
+    <description>To characterize the Pharmacokinetics of ADX-324 in HVs by measuring the Apparent volume of distribution (Vz/F)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacodynamics in Healthy Volunteers</measure>
+    <time_frame>30 hours</time_frame>
+    <description>To characterize the PD of ADX-324 in HVs by the Change from base in plasma concentrations over time of pre Kallikrein (PKK)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacodynamics in Healthy Volunteers</measure>
+    <time_frame>30 hours</time_frame>
+    <description>To characterize the PD of ADX-324 in HVs by the Change from base in plasma concentrations over time of Kallikrein (KK)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics in Hereditary Angioedema</measure>
+    <time_frame>30 hours</time_frame>
+    <description>To characterize the PD of ADX-324 in HAE by Maximum observed concentration (Cmax) of ADX-324</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics in Hereditary Angioedema</measure>
+    <time_frame>30 hours</time_frame>
+    <description>To characterize the PD of ADX-324 in HAE by Time to Cmax (Tmax) of ADX-324</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics in Hereditary Angioedema</measure>
+    <time_frame>30 hours</time_frame>
+    <description>To characterize the PD of ADX-324 in HAE by Area under the concentration-time curve from 0 to time of last quantifiable concentration (AUC0-last) of ADX-324</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics in Hereditary Angioedema</measure>
+    <time_frame>30 hours</time_frame>
+    <description>To characterize the PD of ADX-324 in HAE by Area under the concentration-time curve from 0 to infinity (AUC0-∞) of ADX-324</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics in Hereditary Angioedema</measure>
+    <time_frame>30 hours</time_frame>
+    <description>To characterize the PD of ADX-324 in HAE by Apparent terminal half-life (t½)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics in Hereditary Angioedema</measure>
+    <time_frame>30 hours</time_frame>
+    <description>To characterize the PD of ADX-324 in HAE by Terminal elimination rate constant (λz)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics in Hereditary Angioedema</measure>
+    <time_frame>30 hours</time_frame>
+    <description>To characterize the PD of ADX-324 in HAE by Total apparent body clearance (CL/F)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics in Hereditary Angioedema</measure>
+    <time_frame>30 hours</time_frame>
+    <description>To characterize the PD of ADX-324 in HAE by Apparent volume of distribution (Vz/F)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacodynamics in Hereditary Angioedema</measure>
+    <time_frame>183 days</time_frame>
+    <description>To characterize the PD of ADX-324 in HV by Change from base in plasma concentrations over time pre-kallikrein (PKK)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacodynamics in Hereditary Angioedema</measure>
+    <time_frame>183 days</time_frame>
+    <description>To characterize the PD of ADX-324 in HAE by Change from base in plasma concentrations over time kallikren (KK)</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">53</enrollment>
+  <condition>Hereditary Angioedema</condition>
+  <arm_group>
+    <arm_group_label>PART A - Active ADX-324 administered to HV</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>For each cohort in Part A (SAD), 8 participants will be randomized in a 3:1 ratio; 6 participants to active (ADX-324): 2 participants to control (matched placebo). Randomization will be on Day 1. Initially, 2 sentinel participants (1 active and 1 placebo) will be randomized and dosed. The sentinel participants will be evaluated for safety. The investigator's assessment and the independent medical monitor will decide upon the randomization and dosing of the 6 remaining participants (5 active and 1 placebo) according to the randomization schedule.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>PART A- Placebo administered to HV</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>For each cohort in Part A (SAD), 8 participants will be randomized in a 3:1 ratio; 6 participants to active (ADX-324): 2 participants to control (matched placebo). Randomization will be on Day 1. Initially, 2 sentinel participants (1 active and 1 placebo) will be randomized and dosed. The sentinel participants will be evaluated for safety. The investigator's assessment and the independent medical monitor will decide upon the randomization and dosing of the 6 remaining participants (5 active and 1 placebo) according to the randomization schedule.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>PART B - ADX-324 administered to HAE participants</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This will be initiated at the dose level determined by the Safety Review Committee from SAD in HVs. The treatment of HAE participants is an open-label study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ADX-324</intervention_name>
+    <description>siRNA duplex oligonucleotide</description>
+    <arm_group_label>PART A - Active ADX-324 administered to HV</arm_group_label>
+    <arm_group_label>PART B - ADX-324 administered to HAE participants</arm_group_label>
+    <other_name>siRNA</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>saline</description>
+    <arm_group_label>PART A- Placebo administered to HV</arm_group_label>
+    <other_name>Saline</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Part A - HV&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male and female adults 18 to 55 years old&#xD;
+&#xD;
+          2. Body mass index (BMI) between 18 and 30 kg/m2&#xD;
+&#xD;
+          3. Contraception use by men or women should be consistent with local regulations&#xD;
+             regarding the methods of contraception for those participating in clinical studies&#xD;
+&#xD;
+          4. Willing and able to provide informed consent and comply with all study visits&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Any significant medical history&#xD;
+&#xD;
+          2. Active malignancy and/or history of malignancy in the past 5 years&#xD;
+&#xD;
+          3. History of liver disease, Gilbert's syndrome, or abnormal liver function test&#xD;
+&#xD;
+          4. Estimated creatinine clearance &lt;60 mL/min or serum creatinine &gt; 1.5-fold upper limit&#xD;
+             of normal.&#xD;
+&#xD;
+          5. Any active infection or acute illness&#xD;
+&#xD;
+          6. Major surgery or significant traumatic injury occurring within 3 months&#xD;
+&#xD;
+          7. Have any other conditions that, in the opinion of the Investigator or Sponsor, would&#xD;
+             make the participant unsuitable for inclusion, or could interfere with the participant&#xD;
+             participating in or completing the study.&#xD;
+&#xD;
+          8. Positive serology tests (HepB, Hep C, HIV)&#xD;
+&#xD;
+          9. Use of any prescription, vaccines, supplements/vitamins, or over-the counter&#xD;
+             medication&#xD;
+&#xD;
+         10. Treatment with another investigational product within 30 days prior to the first study&#xD;
+             drug administration&#xD;
+&#xD;
+         11. Known any clinically significant allergic reactions which, in the opinion of the&#xD;
+             Investigator, would interfere with the volunteer's ability to participate in the study&#xD;
+&#xD;
+         12. Known hypersensitivity to any of the study drug ingredients.&#xD;
+&#xD;
+         13. Pregnancy, intent to become pregnant during the course of the study, or lactating&#xD;
+             women&#xD;
+&#xD;
+        Part B - HAE&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male and female ≥18 years old, inclusive, at the time of signing the PICF&#xD;
+&#xD;
+          2. Confirmed diagnosis of HAE Types I or II&#xD;
+&#xD;
+          3. Evidence of an average of (at least) one HAE attack per month&#xD;
+&#xD;
+          4. Participants must have access to, and the ability to use, acute medication(s) to treat&#xD;
+             angioedema attacks.&#xD;
+&#xD;
+          5. Body mass index (BMI) between 18 and 30 kg/m2&#xD;
+&#xD;
+          6. Contraception use by men or women should be consistent with local regulations&#xD;
+             regarding the methods of contraception for those participating in clinical studies&#xD;
+&#xD;
+          7. Willing and able to provide informed consent and comply with all study visits&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Concurrent diagnosis of any other type of chronic angioedema&#xD;
+&#xD;
+          2. History of clinically significant arterial or venous thrombosis, or current history of&#xD;
+             a clinically significant prothrombotic risk.&#xD;
+&#xD;
+          3. Any significant medical history&#xD;
+&#xD;
+          4. Active malignancy and/or history of malignancy in the past 5 years&#xD;
+&#xD;
+          5. Any active infection or acute illness, inclusive of cold/flu or COVID-19, within 30&#xD;
+             days prior to the first study drug administration.&#xD;
+&#xD;
+          6. Major surgery or significant traumatic injury occurring within 3 months prior to&#xD;
+             signature of the PICF&#xD;
+&#xD;
+          7. Have any other conditions that, in the opinion of the Investigator or Sponsor, would&#xD;
+             make the participant unsuitable for inclusion, or could interfere with the participant&#xD;
+             participating in or completing the study.&#xD;
+&#xD;
+          8. Positive serology tests for human immunodeficiency virus (HIV), hepatitis B surface&#xD;
+             antigen (HBsAg), or hepatitis C virus (HCV).&#xD;
+&#xD;
+          9. Use of C1-INH products, androgens, antifibrinolytics or other small molecule&#xD;
+             medications for routine prophylaxis within four half-lives prior to screening&#xD;
+&#xD;
+         10. Must have documented evidence of medical history of HAE attacks&#xD;
+&#xD;
+         11. Use of any prescription, vaccines, supplements/vitamins, or over-the counter&#xD;
+             medication (with the exception of oral contraceptives) within 7 days prior to the&#xD;
+             first study drug administration.&#xD;
+&#xD;
+         12. Treatment with another investigational product or biologic agent within 30 days prior&#xD;
+             to the study drug administration&#xD;
+&#xD;
+         13. History or presence of alcohol abuse or drug use within 30 days prior to the first&#xD;
+             study drug administration and throughout the study.&#xD;
+&#xD;
+         14. Blood donation of 50 to 499 mL within 30 days prior to the first study drug&#xD;
+             administration or of &gt;499 mL within 60 days prior to the first study drug&#xD;
+             administration.&#xD;
+&#xD;
+         15. Pregnancy, intent to become pregnant during the course of the study, or lactating&#xD;
+             women.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nicholas Farinola, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CMAX Clinical Research Pty Ltd</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>CMAX Reception</last_name>
+    <phone>+610870887900</phone>
+    <email>Jane.kelly@cmax.com.au</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>CMAX Clinical Research</name>
+      <address>
+        <city>Adelaide</city>
+        <state>South Australia</state>
+        <zip>5000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>CMAX Reception</last_name>
+      <phone>+61 0870887900</phone>
+      <email>jane.kelly@cmax.com.au</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 16, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 10, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>January 10, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 10, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Angioedema</mesh_term>
+    <mesh_term>Angioedemas, Hereditary</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

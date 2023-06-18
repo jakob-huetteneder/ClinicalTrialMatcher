@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9055">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05706181</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UNorthTexas</org_study_id>
+    <nct_id>NCT05706181</nct_id>
+  </id_info>
+  <brief_title>Heat Therapy, Functional Capacity, and Vascular Health in Older Adults</brief_title>
+  <official_title>Home-based Heat Therapy to Improve Functional Capacity and Vascular Health in Older Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of North Texas Health Science Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>American Heart Association</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of North Texas Health Science Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To test the hypothesis that home-based leg heat therapy improves functional capacity,&#xD;
+      vascular function, and exercise hyperemia in older adults.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Chronic whole-body heating (i.e., heat therapy) has gained attention as a novel strategy to&#xD;
+      improve clinical and physiological outcomes in a number of populations. However, whole-body&#xD;
+      heat therapy is quite uncomfortable and may require trained personnel to ensure participant&#xD;
+      safety, especially for those more at risk for heat-related illness. Moreover, the&#xD;
+      applicability and acceptability of whole-body heat therapy are questionable as equipment cost&#xD;
+      is substantial and adherence will be low if individuals are required to travel if they cannot&#xD;
+      afford in-home therapy. Home-based leg heat therapy offers an opportunity to leverage the&#xD;
+      demonstrated benefits of whole-body heat therapy while managing safety and convenience.&#xD;
+&#xD;
+      The hypothesis will be addressed in the following Specific Aims:&#xD;
+&#xD;
+      Aim 1: Determine the extent to which home-based leg heat therapy improves functional capacity&#xD;
+      in older adults. Functional capacity will be assessed before and after heat therapy or sham&#xD;
+      intervention via the 6-min walk test and the Short Physical Performance Battery.&#xD;
+&#xD;
+      Aim 2: Determine if home-based leg heat therapy improves vascular function and exercise&#xD;
+      hyperemia in the older adults of Aim 1. Using state-of-the-art techniques of skeletal muscle&#xD;
+      microdialysis and high-resolution duplex ultrasound, the investigators will pharmacodissect&#xD;
+      mechanisms of vascular function and exercise hyperemia before and after each intervention.&#xD;
+      The outcomes of Aim 2, while providing insight into the mechanisms whereby heat therapy&#xD;
+      improves functional capacity, should be considered independent of the outcomes of Aim 1 given&#xD;
+      that vascular health is a key independent, yet modifiable risk factor for cardiovascular&#xD;
+      morbidity and mortality.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 3, 2022</start_date>
+  <completion_date type="Anticipated">July 30, 2026</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2025</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+    <masking_description>With the exception of a research nurse, all research personnel are blinded.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>6 minute walk test</measure>
+    <time_frame>Before sham or heat therapy</time_frame>
+    <description>The distance, in meters, covered while walking for 6 minutes will be used to assess functional capacity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>6 minute walk test</measure>
+    <time_frame>After 8 weeks of heat therapy or sham</time_frame>
+    <description>The distance, in meters, covered while walking for 6 minutes will be used to assess functional capacity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Macrovascular function</measure>
+    <time_frame>Before sham or heat therapy</time_frame>
+    <description>High-resolution duplex ultrasound will be used to assess vasodilation following a 5 minutes of leg ischemia. Vasodilation will calculated as the percent change in diameter of the superficial femoral that occurs following ischemia.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Macrovascular function</measure>
+    <time_frame>After 8 weeks of heat therapy or sham</time_frame>
+    <description>High-resolution duplex ultrasound will be used to assess vasodilation following a 5 minutes of leg ischemia. Vasodilation will calculated as the percent change in diameter of the superficial femoral that occurs following ischemia.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Microvascular function</measure>
+    <time_frame>Before sham or heat therapy</time_frame>
+    <description>The microdialysis technique will be used to delivery small amounts of acetylcholine and sodium nitroprusside to the skeletal muscle of the thigh. Endothelial-dependent and endothelial-independent microvascular function can then be examined by assessing the increase in skeletal muscles blood flow during the infusion of acetylcholine and sodium nitroprusside, respectively.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Microvascular function</measure>
+    <time_frame>After 8 weeks of heat therapy or sham</time_frame>
+    <description>The microdialysis technique will be used to delivery small amounts of acetylcholine and sodium nitroprusside to the skeletal muscle of the thigh. Endothelial-dependent and endothelial-independent microvascular function can then be examined by assessing the increase in skeletal muscles blood flow during the infusion of acetylcholine and sodium nitroprusside, respectively.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Blood flow response to exercise</measure>
+    <time_frame>Before sham or heat therapy</time_frame>
+    <description>High-resolution duplex ultrasound will be used to assess the change in blood flow during graded plantar flexion exercise.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Blood flow response to exercise</measure>
+    <time_frame>After 8 weeks of heat therapy or sham</time_frame>
+    <description>High-resolution duplex ultrasound will be used to assess the change in blood flow during graded plantar flexion exercise.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Physical performance Battery</measure>
+    <time_frame>Before sham or heat therapy</time_frame>
+    <description>Likert scale-based scores will be tabulated from a side-by-side stand test, semi-tandem stand test, and a tandem stand test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical performance Battery</measure>
+    <time_frame>After 8 weeks of heat therapy or sham</time_frame>
+    <description>Likert scale-based scores will be tabulated from a side-by-side stand test, semi-tandem stand test, and a tandem stand test.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">72</enrollment>
+  <condition>Aging Well</condition>
+  <condition>Walking, Difficulty</condition>
+  <condition>Hyperemia</condition>
+  <arm_group>
+    <arm_group_label>Home-based heat therapy and functional capacity in older adults</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The investigators will determine the extent to which home-based leg heat therapy improves functional capacity in older adults. Functional capacity will be assessed before and after heat therapy or sham intervention via the 6-min walk test and the Short Physical Performance Battery.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Home-based heat therapy and vascular function and exercise hyperemia in older adults</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The investigators will determine if home-based leg heat therapy improves vascular function and exercise hyperemia in the older adults of Aim 1. Using state-of-the-art techniques of skeletal muscle microdialysis and high-resolution duplex ultrasound, the investigators will pharmacodissect mechanisms of vascular function and exercise hyperemia before and after each intervention. The outcomes of Aim 2, while providing insight into the mechanisms whereby heat therapy improves functional capacity, should be considered independent of the outcomes of Aim 1 given that vascular health is a key independent, yet modifiable risk factor for cardiovascular morbidity and mortality.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Home-based leg heat therapy</intervention_name>
+    <description>Participants will be required to perform 8 weeks of leg heat therapy using water-perfused pants 4 times per week, with each session lasting 60 min. Skin temperature will be heated to about 40 °C. The pants heating system (consisting of pants and a water circulator/heater) can finely and uniformly control these designated skin temperatures. Participants will be randomly assigned to a group and provided with the pant heating system as well as a log book in which they are required to track the dates of each session. Participants will also measure their blood pressure and heart rate prior to, during, and immediately after each heating session using a portable oscillometric device provided by our laboratory.</description>
+    <arm_group_label>Home-based heat therapy and functional capacity in older adults</arm_group_label>
+    <arm_group_label>Home-based heat therapy and vascular function and exercise hyperemia in older adults</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Home-based sham therapy</intervention_name>
+    <description>Participants will be required to perform 8 weeks of leg heat therapy using water-perfused pants 4 times per week, with each session lasting 60 min. Skin temperature will be heated to about 40 °C. The pants heating system (consisting of pants and a water circulator/heater) can finely and uniformly control these designated skin temperatures. Participants will be randomly assigned to a group and provided with the pant heating system as well as a log book in which they are required to track the dates of each session. Participants will also measure their blood pressure and heart rate prior to, during, and immediately after each heating session using a portable oscillometric device provided by our laboratory.</description>
+    <arm_group_label>Home-based heat therapy and functional capacity in older adults</arm_group_label>
+    <arm_group_label>Home-based heat therapy and vascular function and exercise hyperemia in older adults</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. 55 to 80 years of age&#xD;
+&#xD;
+          2. No tobacco/nicotine use within preceding 6 months (e.g., cigarettes, chewing tobacco,&#xD;
+             nicotine gum or patches, and vapor smoking)&#xD;
+&#xD;
+          3. Systolic blood pressure &lt;140 mmHg; diastolic blood pressure &lt;90 mmHg&#xD;
+&#xD;
+          4. Normal 12-lead ECG (reviewed by a physician)&#xD;
+&#xD;
+          5. Normal clinical results from a medical exam reviewed by a board-certified physician&#xD;
+             (e.g., General Health Questionnaire - see attached document)&#xD;
+&#xD;
+          6. Body mass index (BMI) &lt;35 unless athletic/muscular build; calculation = body weight&#xD;
+             (kg)/height (m2)&#xD;
+&#xD;
+          7. Females Only: Post-menopausal&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Not meeting the age criteria&#xD;
+&#xD;
+          2. Body mass index (BMI) &gt;35 unless athletic/muscular build; calculation = body weight&#xD;
+             (kg)/height (m2)&#xD;
+&#xD;
+          3. Use of tobacco or nicotine products within the last 6 months (tobacco cigarettes,&#xD;
+             chewing tobacco, nicotine patches or gum)&#xD;
+&#xD;
+          4. Not abstaining from the following 24 hours prior to the experimental session:&#xD;
+             exercise, alcoholic substances, prescription or non-prescription medications (unless&#xD;
+             cleared by the medical screener), dietary supplements, herbal medications, caffeinated&#xD;
+             substances (including chocolate, coffee, tea (iced or hot), caffeinated energy drinks,&#xD;
+             and sodas)&#xD;
+&#xD;
+          5. S who weigh less than 80 lbs&#xD;
+&#xD;
+          6. Use of prescription drugs, non-prescription drugs or herbal medicines known to alter&#xD;
+             vascular function unless cleared prior to the study&#xD;
+&#xD;
+          7. Use of anti-hypertensive medications&#xD;
+&#xD;
+          8. Use of beta blockers&#xD;
+&#xD;
+          9. Daily use of bronchodilators&#xD;
+&#xD;
+         10. Current use of anti-coagulant therapy&#xD;
+&#xD;
+         11. Current use of hormone replacement therapy (e.g., estrogen, testosterone)&#xD;
+&#xD;
+         12. Current diagnosis of cancer&#xD;
+&#xD;
+         13. Signs of overt cardio-metabolic abnormalities (e.g., uncontrolled diabetes - HbA1c&#xD;
+             &gt;7.5, a resting systolic blood pressure &gt;140mmHg or diastolic blood pressure &gt;90mmHg;&#xD;
+             abnormal 12-lead ECG)&#xD;
+&#xD;
+         14. History of cerebrovascular abnormalities (e.g., prior stroke, transient ischemic&#xD;
+             attacks, epilepsy, increased intracranial pressure)&#xD;
+&#xD;
+         15. Known history of atherosclerosis (i.e., plaque formation)&#xD;
+&#xD;
+         16. Autonomic dysfunction (e.g., Shy-Drager Syndrome, Bradbury-Eggleston syndrome,&#xD;
+             idiopathic orthostatic hypotension)&#xD;
+&#xD;
+         17. Respiratory illnesses (e.g., chronic asthma (including exercise-induced asthma),&#xD;
+             Chronic Obstructive Pulmonary Disease, Reactive Airway Disease). Note: subjects with&#xD;
+             exercised-induced asthma or who have had COVID-19 will be allowed to participate&#xD;
+&#xD;
+         18. History of anaphylaxis&#xD;
+&#xD;
+         19. Severe phobia of needles&#xD;
+&#xD;
+         20. History of alcohol or drug abuse which inhibits the participants ability to complete&#xD;
+             this study&#xD;
+&#xD;
+         21. Latex allergy&#xD;
+&#xD;
+         22. Known allergies or sensitivities to drugs used in the study (e.g., Lidocaine HCL,&#xD;
+             acetylcholine HCL, sodium nitroprusside, nitroglycerin, or related drugs)&#xD;
+&#xD;
+         23. Implanted electronic medical devices (e.g. cardiac pacemaker)&#xD;
+&#xD;
+         24. Tissue or skin abnormalities of the legs (e.g., infection, injury, open wound,&#xD;
+             ischemic tissue, phlebitis, active bleeding, neuropathy)&#xD;
+&#xD;
+         25. Tissue or skin abnormalities of the arm (e.g., unhealed or open wound or circulatory&#xD;
+             deficits)&#xD;
+&#xD;
+         26. Current Fever (oral temp &gt;99.5 °F/ 37.5 °C) aa) Current use of PDE3 inhibitors (e.g.,&#xD;
+             Viagra) or soluble guanylate cyclase (sGC) stimulators (e.g., riociguat), or&#xD;
+             unwillingness to withhold medication for 2 weeks prior to laboratory testing bb)&#xD;
+             Diagnosis of neurological disease or cognitive dysfunction cc) Cardiac surgery or&#xD;
+             cardiac events (e.g., coronary artery bypass graft surgery, myocardial infarction,&#xD;
+             heart failure) dd) Abnormal clotting, clots in deep veins in the legs or pelvis, or&#xD;
+             blood clots to the lungs ee) Individuals who have had mastectomies ff) History of&#xD;
+             methemoglobinemia&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Steven A Romero, PhD</last_name>
+    <phone>8177355159</phone>
+    <email>steven.romero@unthsc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Amy Moore, RN</last_name>
+    <phone>8177352088</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of North Texas Health Science Center</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amy Moore, RN</last_name>
+      <phone>817-735-2088</phone>
+      <email>amy.moore@unthsc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Steven Romero, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Heidi Cope, BS</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://unthsc.edu/romerolab</url>
+    <description>Laboratory website</description>
+  </link>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 21, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 31, 2023</study_first_posted>
+  <last_update_submitted>January 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Healthy aging</keyword>
+  <keyword>Functional capacity</keyword>
+  <keyword>Exercise hyperemia</keyword>
+  <keyword>Vascular function</keyword>
+  <keyword>heat therapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hyperemia</mesh_term>
+    <mesh_term>Mobility Limitation</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

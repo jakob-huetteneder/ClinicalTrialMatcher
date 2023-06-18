@@ -54,7 +54,7 @@ export class PatientDetailComponent implements OnInit{
           this.patient = data;
           this.loading = false;
           this.examinationsImageHidden = new Array(this.patient.examinations.length);
-          this.examinationsImageHidden.fill(true);
+          this.examinationsImageHidden.fill(undefined);
           console.log(this.examinationsImageHidden);
         },
         error: error => {
@@ -86,8 +86,8 @@ export class PatientDetailComponent implements OnInit{
   }
 
   public load(id: number): string {
-    if (this.examinationsImageHidden[this.getIndexById(id)] === false) {
-      this.examinationsImageHidden[this.getIndexById(id)] = true;
+    if (this.examinationsImageHidden[this.getIndexById(id)] !== undefined) {
+      this.examinationsImageHidden[this.getIndexById(id)] = !this.examinationsImageHidden[this.getIndexById(id)];
       return '';
     }
     let ret = '';

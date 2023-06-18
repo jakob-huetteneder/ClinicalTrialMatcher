@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9728">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05691504</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2022-11033</org_study_id>
+    <secondary_id>NCI-2022-11033</secondary_id>
+    <secondary_id>10597</secondary_id>
+    <secondary_id>10597</secondary_id>
+    <secondary_id>UM1CA186709</secondary_id>
+    <nct_id>NCT05691504</nct_id>
+  </id_info>
+  <brief_title>Testing the Combination of APG-1252 (Pelcitoclax) and Cobimetinib in Recurrent Ovarian and Endometrial Cancers</brief_title>
+  <official_title>A Phase 1 Study of APG-1252 (Pelcitoclax) and Cobimetinib in Recurrent Ovarian and Endometrial Cancers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I trial tests the safety, side effects, and best dose of combination pelcitoclax&#xD;
+      (APG-1252) and cobimetinib in treating patients with ovarian and endometrial cancers that&#xD;
+      have come back (after a period of improvement) (recurrent). APG-1252 is a drug that inhibits&#xD;
+      activity of proteins that prevent cell death, leading to increased cell death and reduced&#xD;
+      cell growth. Cobimetinib is used in patients whose cancer has a mutated (changed) form of a&#xD;
+      gene called BRAF. It is in a class of medications called kinase inhibitors. It works by&#xD;
+      blocking the action of an abnormal protein that signals cancer cells to multiply. This helps&#xD;
+      slow or stop the spread of cancer cells. Giving APG-1252 in combination with cobimetinib may&#xD;
+      help slow the growth or stop the spread of cancer cells in patients with recurrent ovarian&#xD;
+      and endometrial cancers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVE:&#xD;
+&#xD;
+      I. To establish the recommended phase 2 dosing (RP2D) for combination pelcitoclax (APG-1252)&#xD;
+      and cobimetinib in advanced/recurrent endometrial and ovarian cancers.&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. To observe and record anti-tumor activity. II. To assess the side effects associated with&#xD;
+      combination APG-1252 and cobimetinib in advanced/recurrent endometrial and ovarian cancers,&#xD;
+      as measured by treatment-emergent and treatment-related adverse events by Common Terminology&#xD;
+      Criteria for Adverse Events (CTCAE) criteria.&#xD;
+&#xD;
+      III. To assess the activity of combination APG-1252 and cobimetinib in advanced/recurrent&#xD;
+      endometrial and ovarian cancers, via measures of clinical activity, including response rate&#xD;
+      (RR), progression-free survival (PFS), clinical benefit rate (CBR), and duration of response&#xD;
+      (DoR).&#xD;
+&#xD;
+      TRANSLATIONAL OBJECTIVES:&#xD;
+&#xD;
+      I. To evaluate the pharmacodynamic effects of combination APG-1252 and cobimetinib on BCL-xL&#xD;
+      activity, including BCL-xL:BAX and BCL-xL-BAK heterodimers, as measured by the National&#xD;
+      Clinical Laboratory Network (NCLN) apoptosis multiplex immunoassay.&#xD;
+&#xD;
+      II. To evaluate markers of response and resistance to APG-1252 and cobimetinib via whole&#xD;
+      exome sequencing and ribonucleic acid (RNA) sequencing obtained in pre-treatment/archival and&#xD;
+      on-treatment samples.&#xD;
+&#xD;
+      III. To explore the effect of combination APG-1252 and cobimetinib on RAS pathway signaling,&#xD;
+      as measured by the NCLN ERK/MEK multiple immunoassay, and the association between RAS pathway&#xD;
+      activation with activity of combination APG-1252 and cobimetinib.&#xD;
+&#xD;
+      IV. To explore markers of response and resistance to APG-1252 and cobimetinib through&#xD;
+      evaluation of BIM and MCL1 expression and RAS pathway signaling by reverse phase protein&#xD;
+      array (RPPA) and by BIM and pERK expression by immunohistochemistry.&#xD;
+&#xD;
+      V. To determine pharmacokinetic (PK) parameters of APG-1252 and cobimetinib in combination.&#xD;
+&#xD;
+      VI. To investigate RAS allelic burden and resistance mutations in patients receiving&#xD;
+      combination APG-1252 and cobimetinib.&#xD;
+&#xD;
+      OUTLINE: This is a dose-escalation study of APG-1252 and cobimetinib followed by a&#xD;
+      dose-expansion study.&#xD;
+&#xD;
+      Patients receive APG-1252 intravenously (IV) and cobimetinib orally (PO) on study. Patients&#xD;
+      also undergo biopsy and collection of blood on study and undergo computed tomography (CT)&#xD;
+      and/or magnetic resonance (MRI) throughout the trial. Patients undergo echocardiography&#xD;
+      (ECHO) or multigated acquisition scan (MUGA) during screening and on study.&#xD;
+&#xD;
+      Patients are followed for up to 30 days after removal from study therapy.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 12, 2023</start_date>
+  <completion_date type="Anticipated">June 1, 2026</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2026</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximum tolerable dose</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Will be identified using a Bayesian optimal interval design.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Recommended phase 2 dose</measure>
+    <time_frame>Up to 28 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of dose-limiting toxicities (DLTs)</measure>
+    <time_frame>During the first cycle of therapy (28 days)</time_frame>
+    <description>The toxicity of the combination will be assessed using Common Terminology Criteria for Adverse Events (CTCAE) version 5.0 criteria. Participants enrolled to the dose escalation will be observed during the first cycle of therapy for adverse events consistent with a DLT definition.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Radiological response</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>Will be assessed by Response Evaluation Criteria in Solid Tumors version 1.1 criteria and will be graded as complete response (CR), partial response (PR), stable disease (SD) and progressive disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>Up to 30 days after removal from study or until death, whichever occurs first</time_frame>
+    <description>Will be graded according to National Cancer Institute CTCAE, version 5.0. Toxicities will be summarized by maximum grade and by treatment dose level. Incidence rate of each toxicity will be reported with 95% exact confidence intervals.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Response rate (RR)</measure>
+    <time_frame>Up to 30 days after removal from study or until death, whichever occurs first</time_frame>
+    <description>RR (CR + PR) will be summarized by frequencies and percentages, by dose level.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival</measure>
+    <time_frame>From study enrollment until the identification of disease progression or death, assessed up to 30 days after removal from study</time_frame>
+    <description>Will be summarized using Kaplan-Meier curves by dose-level (for dose levels with sufficient sample size to permit estimation).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical benefit rate</measure>
+    <time_frame>Up to 30 days after removal form study or death, whichever occurs first</time_frame>
+    <description>Proportion of participants whose response is CR + PR + SD &gt; 24 weeks will be summarized by frequencies and percentages, by dose level.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DoR)</measure>
+    <time_frame>From the time measurement criteria are met for CR or PR until the first date that recurrent or progressive disease is objectively documents, assessed up to 30 days after removal from study or until death, whichever occurs first</time_frame>
+    <description>Median DoR will be reported with ranges.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamic effects of combination APG-1252 (pelcitoclax) and cobimetinib on BCL-xL activity</measure>
+    <time_frame>Up to 3 years</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Markers of response and resistance to APG-1252 and cobimetinib via sequencing</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>Evaluated via whole exome sequencing and ribonucleic acid sequencing obtained in pre-treatment/archival and on-treatment samples, and tested using Fisher's exact and a type I error of 10%. Biomarker data will be summarized using descriptive statistics for continuous variables and frequencies, percentages for discrete variables by responder's versus non-responders (defined by both response rate and clinical benefit rate) status.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Effect of combination APG-1252 and cobimetinib on RAS pathway signaling</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>Will be measured by the National Clinical Laboratory Network ERK/MEK multiplex immunoassay, and tested using Wilcoxon-rank sum test and a type I error of 10%.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Markers of response and resistance to APG-1252 and cobimetinib</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>Will explore markers of response and resistance to APG-1252 and cobimetinib through evaluation of BIM and MCL1 expression and RAS pathway signaling by RPPA and by BIM and pERK expression by immunohistochemistry. Biomarker data will be summarized using descriptive statistics for continuous variables and frequencies, percentages for discrete variables by responder's versus non-responders (defined by both response rate and clinical benefit rate) status.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacokinetic parameters of combination APG-1252 and cobimetinib</measure>
+    <time_frame>Up to 3 years</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>RAS allelic burden and resistance mutations</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>Biomarker data will be summarized using descriptive statistics for continuous variables and frequencies, percentages for discrete variables by responder's vs non-responders (defined by both response rate and clinical benefit rate) status.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">42</enrollment>
+  <condition>Metastatic Endometrial Carcinoma</condition>
+  <condition>Recurrent Endometrial Carcinoma</condition>
+  <condition>Recurrent Fallopian Tube Carcinoma</condition>
+  <condition>Recurrent Platinum-Resistant Ovarian Carcinoma</condition>
+  <condition>Recurrent Primary Peritoneal Carcinoma</condition>
+  <condition>Stage III Uterine Corpus Cancer AJCC v8</condition>
+  <condition>Stage IV Uterine Corpus Cancer AJCC v8</condition>
+  <condition>Unresectable Endometrial Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Treatment (pelcitoclax, cobimetinib)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive APG-1252 IV and cobimetinib PO on study. Patients also undergo biopsy and collection of blood on study and undergo CT and/or MRI throughout the trial. Patients undergo ECHO or MUGA during screening and on study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Biopsy</intervention_name>
+    <description>Undergo biopsy</description>
+    <arm_group_label>Treatment (pelcitoclax, cobimetinib)</arm_group_label>
+    <other_name>BIOPSY_TYPE</other_name>
+    <other_name>Bx</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Biospecimen Collection</intervention_name>
+    <description>Undergo collection of blood</description>
+    <arm_group_label>Treatment (pelcitoclax, cobimetinib)</arm_group_label>
+    <other_name>Biological Sample Collection</other_name>
+    <other_name>Biospecimen Collected</other_name>
+    <other_name>Specimen Collection</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cobimetinib</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Treatment (pelcitoclax, cobimetinib)</arm_group_label>
+    <other_name>Cotellic</other_name>
+    <other_name>GDC-0973</other_name>
+    <other_name>MEK Inhibitor GDC-0973</other_name>
+    <other_name>XL518</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Computed Tomography</intervention_name>
+    <description>Undergo CT</description>
+    <arm_group_label>Treatment (pelcitoclax, cobimetinib)</arm_group_label>
+    <other_name>CAT</other_name>
+    <other_name>CAT Scan</other_name>
+    <other_name>Computed Axial Tomography</other_name>
+    <other_name>Computerized Axial Tomography</other_name>
+    <other_name>Computerized axial tomography (procedure)</other_name>
+    <other_name>Computerized Tomography</other_name>
+    <other_name>CT</other_name>
+    <other_name>CT Scan</other_name>
+    <other_name>tomography</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Echocardiography</intervention_name>
+    <description>Undergo ECHO</description>
+    <arm_group_label>Treatment (pelcitoclax, cobimetinib)</arm_group_label>
+    <other_name>EC</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Magnetic Resonance Imaging</intervention_name>
+    <description>Undergo MRI</description>
+    <arm_group_label>Treatment (pelcitoclax, cobimetinib)</arm_group_label>
+    <other_name>Magnetic Resonance</other_name>
+    <other_name>Magnetic resonance imaging (procedure)</other_name>
+    <other_name>Magnetic Resonance Imaging Scan</other_name>
+    <other_name>Medical Imaging, Magnetic Resonance / Nuclear Magnetic Resonance</other_name>
+    <other_name>MR</other_name>
+    <other_name>MR Imaging</other_name>
+    <other_name>MRI</other_name>
+    <other_name>MRI Scan</other_name>
+    <other_name>NMR Imaging</other_name>
+    <other_name>NMRI</other_name>
+    <other_name>Nuclear Magnetic Resonance Imaging</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Multigated Acquisition Scan</intervention_name>
+    <description>Undergo MUGA</description>
+    <arm_group_label>Treatment (pelcitoclax, cobimetinib)</arm_group_label>
+    <other_name>Blood Pool Scan</other_name>
+    <other_name>Equilibrium Radionuclide Angiography</other_name>
+    <other_name>Gated Blood Pool Imaging</other_name>
+    <other_name>Gated Heart Pool Scan</other_name>
+    <other_name>MUGA</other_name>
+    <other_name>MUGA Scan</other_name>
+    <other_name>Multi-Gated Acquisition Scan</other_name>
+    <other_name>Radionuclide Ventriculogram Scan</other_name>
+    <other_name>Radionuclide Ventriculography</other_name>
+    <other_name>RNVG</other_name>
+    <other_name>SYMA Scanning</other_name>
+    <other_name>Synchronized Multigated Acquisition Scanning</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pelcitoclax</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (pelcitoclax, cobimetinib)</arm_group_label>
+    <other_name>APG 1252</other_name>
+    <other_name>APG-1252</other_name>
+    <other_name>APG1252</other_name>
+    <other_name>Bcl-2/Bcl-XL Inhibitor APG-1252</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  For dose escalation, patients must have histologically or cytologically confirmed&#xD;
+             recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer, or&#xD;
+             endometrial cancer that is metastatic or unresectable and for which standard curative&#xD;
+             or palliative measures do not exist or are no longer effective. For expansion,&#xD;
+             patients must have histologically or cytologically confirmed recurrent epithelial&#xD;
+             ovarian, fallopian tube, or primary peritoneal cancer&#xD;
+&#xD;
+          -  Prior lines:&#xD;
+&#xD;
+               -  Patients must have received at least one prior line of platinum-based systemic&#xD;
+                  therapy. Platinum received together with radiation as a sensitizing agent is not&#xD;
+                  considered a systemic line of therapy&#xD;
+&#xD;
+               -  Patients with low grade serous ovarian cancer must have received a prior MEK&#xD;
+                  inhibitor at a demonstrated therapeutic dose (i.e., trametinib 1mg daily or&#xD;
+                  higher; binimetinib 30mg twice daily or higher). Patients who have had prior&#xD;
+                  cobimetinib must have been able to tolerate cobimetinib at the dose and schedule&#xD;
+                  they would receive it on study&#xD;
+&#xD;
+               -  Patients with microsatellite instability (MSI) or mismatch repair deficient&#xD;
+                  (dMMR) endometrial cancer must have received prior PD-1 or PD-L1 directed&#xD;
+                  immunooncology (IO) therapy or be considered medically ineligible to receive such&#xD;
+                  therapy&#xD;
+&#xD;
+          -  Patients with ovarian cancer must have platinum-resistant disease (progression within&#xD;
+             6 months of last receipt of platinum)&#xD;
+&#xD;
+          -  Age &gt;= 18 years. Because no dosing or adverse event data are currently available on&#xD;
+             the use of APG-1252 (pelcitoclax) in combination with cobimetinib in patients &lt; 18&#xD;
+             years of age, children are excluded from this study&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status =&lt; 2 (Karnofsky &gt;= 60%)&#xD;
+&#xD;
+          -  Absolute neutrophil count &gt;= 1,500/mcL&#xD;
+&#xD;
+          -  Platelets &gt;= 100,000/mcL&#xD;
+&#xD;
+          -  Hemoglobin &gt; 9 g/dL&#xD;
+&#xD;
+          -  Total bilirubin =&lt; 1.5 x institutional upper limit of normal (ULN)&#xD;
+&#xD;
+          -  Aspartate aminotransferase (AST) (serum glutamic-oxaloacetic transaminase&#xD;
+             [SGOT])/alanine aminotransferase (ALT) (serum glutamic pyruvic transaminase [SGPT]) &lt;&#xD;
+             3 x institutional ULN&#xD;
+&#xD;
+          -  Creatinine =&lt; 1.5 x institutional ULN OR glomerular filtration rate (GFR) &gt;= 50 ml/min&#xD;
+             (based on the calculated Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI)&#xD;
+             glomerular filtration rate estimation&#xD;
+&#xD;
+          -  Left ventricular ejection fraction (LVEF) &gt;= institutional lower limit of normal (LLN)&#xD;
+             (or above 50%, whichever is higher) by echocardiogram (ECHO) or multigated acquisition&#xD;
+             scan (MUGA)&#xD;
+&#xD;
+          -  Human immunodeficiency virus (HIV)-infected patients on effective anti-retroviral&#xD;
+             therapy (that are not excluded) with undetectable viral load within 6 months are&#xD;
+             eligible for this trial&#xD;
+&#xD;
+          -  For patients with evidence of chronic hepatitis B virus (HBV) infection, the HBV viral&#xD;
+             load must be undetectable on suppressive therapy, if indicated&#xD;
+&#xD;
+          -  Patients with a history of hepatitis C virus (HCV) infection must have been treated&#xD;
+             and cured. For patients with HCV infection who are currently on treatment, they are&#xD;
+             eligible if they have an undetectable HCV viral load&#xD;
+&#xD;
+          -  Patients with treated brain metastases are eligible if follow-up brain imaging after&#xD;
+             central nervous system (CNS)-directed therapy shows no evidence of progression by scan&#xD;
+             and stable off systemic steroids for at least 4 weeks&#xD;
+&#xD;
+          -  Patients with a prior or concurrent malignancy whose natural history or treatment does&#xD;
+             not have the potential to interfere with the safety or efficacy assessment of the&#xD;
+             investigational regimen are eligible for this trial&#xD;
+&#xD;
+          -  Patients with known history or current symptoms of cardiac disease, or history of&#xD;
+             treatment with cardiotoxic agents, should have a clinical risk assessment of cardiac&#xD;
+             function using the New York Heart Association Functional Classification. To be&#xD;
+             eligible for this trial, patients should be class 2B or better&#xD;
+&#xD;
+          -  Patients should be able to swallow oral therapy&#xD;
+&#xD;
+          -  The effects of APG-1252 on the developing human fetus are unknown. For this reason and&#xD;
+             because other therapeutic agents used in this trial are known to be teratogenic, women&#xD;
+             of child-bearing potential and men must agree to use adequate contraception (hormonal&#xD;
+             or barrier method of birth control; abstinence) prior to study entry and for the&#xD;
+             duration of study participation and for 2 weeks after completion of APG-1252 and&#xD;
+             cobimetinib administration. Should a woman become pregnant or suspect she is pregnant&#xD;
+             while she or her partner is participating in this study, she should inform her&#xD;
+             treating physician immediately. Men treated or enrolled on this protocol must also&#xD;
+             agree to use adequate contraception prior to the study, for the duration of study&#xD;
+             participation, and 2 weeks after completion of APG-1252 and cobimetinib administration&#xD;
+&#xD;
+          -  Ability to understand and the willingness to sign a written informed consent document.&#xD;
+             Participants with impaired decision-making capacity who have a legally-authorized&#xD;
+             representative (LAR) and/or family member available will also be eligible&#xD;
+&#xD;
+          -  Patients must be willing to release archival tissue if available&#xD;
+&#xD;
+          -  Patients on dose level 2 or higher in the escalation cohort and patients in the&#xD;
+             expansion cohort must have measurable and biopsiable disease (in a lesion that is not&#xD;
+             being utilized as a target lesion for Response Evaluation Criteria in Solid Tumors&#xD;
+             [RECIST] assessment)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Potential trial participants should have recovered from clinically significant adverse&#xD;
+             events of their most recent therapy/intervention prior to enrollment. Patients who&#xD;
+             have previously received cancer-directed therapeutic agents with the potential for&#xD;
+             CYP3A4 interaction will be eligible if at least 5 half-lives have elapsed before&#xD;
+             enrollment&#xD;
+&#xD;
+          -  Patients who have not recovered from adverse events due to prior anti-cancer therapy&#xD;
+             (i.e., have residual toxicities &gt; grade 1) with the exception of alopecia&#xD;
+&#xD;
+          -  Patients who are receiving any other investigational agents&#xD;
+&#xD;
+          -  History of allergic reactions attributed to compounds of similar chemical or biologic&#xD;
+             composition to APG-1252 or cobimetinib&#xD;
+&#xD;
+          -  Patients receiving any medications or substances that are strong inhibitors or&#xD;
+             inducers of CYP3A4 are ineligible. Strong inhibitors or inducers of CYP3A4 must be&#xD;
+             discontinued at least 7 days prior to the first dose of APG-1252 and cobimetinib.&#xD;
+             Because the lists of these agents are constantly changing, it is important to&#xD;
+             regularly consult a frequently-updated medical reference. As part of the&#xD;
+             enrollment/informed consent procedures, the patient will be counseled on the risk of&#xD;
+             interactions with other agents, and what to do if new medications need to be&#xD;
+             prescribed or if the patient is considering a new over-the-counter medicine or herbal&#xD;
+             product&#xD;
+&#xD;
+          -  Patients with uncontrolled intercurrent illness&#xD;
+&#xD;
+          -  Patients with evidence of retinal pathology on ophthalmologic examination; or&#xD;
+             neurosensory retinal detachment, right ventricular outflow (RVO), or neovascular&#xD;
+             macular degeneration&#xD;
+&#xD;
+          -  Pregnant women are excluded from this study because APG-1252 is an agent with the&#xD;
+             potential for teratogenic or abortifacient effects. Because there is an unknown but&#xD;
+             potential risk for adverse events in nursing infants secondary to treatment of the&#xD;
+             mother with APG-1252, breastfeeding should be discontinued if the mother is treated&#xD;
+             with APG-1252. These potential risks may also apply to other agents used in this study&#xD;
+&#xD;
+          -  Patients with prior exposure to BCL family inhibitors&#xD;
+&#xD;
+          -  Patients with any gastrointestinal (GI) disorder that may affect absorption of&#xD;
+             cobimetinib and other oral medications in the opinion of the treating investigator,&#xD;
+             such as malabsorption syndrome, major bowel or stomach resection, evidence of small or&#xD;
+             large bowel obstruction within the past 3 months&#xD;
+&#xD;
+          -  Patients who have a dependence on IV fluids or total parenteral nutrition&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Joyce F Liu</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Dana-Farber - Harvard Cancer Center LAO</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Dana-Farber - Harvard Cancer Center LAO</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joyce F. Liu</last_name>
+      <phone>617-632-5269</phone>
+      <email>joyce_liu@dfci.harvard.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Joyce F. Liu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2023</verification_date>
+  <study_first_submitted>January 18, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>June 3, 2023</last_update_submitted>
+  <last_update_submitted_qc>June 3, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Endometrial Neoplasms</mesh_term>
+    <mesh_term>Recurrence</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>NCI is committed to sharing data in accordance with NIH policy. For more details on how clinical trial data is shared, access the link to the NIH data sharing policy page</ipd_description>
+    <ipd_url>https://grants.nih.gov/policy/sharing.htm</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

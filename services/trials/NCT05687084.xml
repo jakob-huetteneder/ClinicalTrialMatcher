@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9938">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05687084</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MANEC Trial</org_study_id>
+    <nct_id>NCT05687084</nct_id>
+  </id_info>
+  <brief_title>Uterine Manipulator Versus no Uterine Manipulator in Endometrial Cancer Trial</brief_title>
+  <acronym>MANEC</acronym>
+  <official_title>Randomized Controlled Trial on the Oncologic Outcomes of Use Versus Not Use of the Uterine Manipulator in the Surgical Treatment of Apparent Uterine-confined Endometrial Carcinoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universita di Verona</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Universita di Verona</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Minimally invasive surgery is the recommended approach in endometrial cancer (EC) patients&#xD;
+      based on the results of two randomized controlled trials, given its advantages without&#xD;
+      compromised oncologic outcomes. The uterine manipulator is commonly used in benign and&#xD;
+      malignant pathologies to perform a laparoscopic or robotic hysterectomy. However, although&#xD;
+      regularly used, the uterine manipulator adoption in EC is a controversial technical aspect&#xD;
+      due to the raised concerns regarding the possible risk of disruption of the tumor mass, the&#xD;
+      spread of malignant cells, and seeding of the disease, particularly at the level of the&#xD;
+      vaginal cuff or spread of tumor cells, with increased risk of recurrence and death due to EC.&#xD;
+      On that basis, given that hysterectomy without a uterine manipulator is feasible, only a&#xD;
+      randomized controlled trial comparing oncologic outcomes in EC patients after use versus not&#xD;
+      use of the uterine manipulator will be able to provide high-quality evidence to answer this&#xD;
+      critical question and allow or exclude the use of a uterine manipulator during minimally&#xD;
+      invasive hysterectomy for EC.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 16, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2031</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2031</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Multicenter, parallel arms, open-label, randomized controlled trial.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Recurrence-free survival</measure>
+    <time_frame>Each follow-up visit, up to 4 years from the day of surgery</time_frame>
+    <description>Any recurrence or death related to endometrial cancer (EC) or treatment</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cause-specific survival</measure>
+    <time_frame>Each follow-up visit, up to 4 years from the day of surgery</time_frame>
+    <description>Any death related to endometrial cancer (EC) or treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>Each follow-up visit, up to 4 years from the day of surgery</time_frame>
+    <description>Any death for any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Site-specific recurrence-free survival</measure>
+    <time_frame>Each follow-up visit, up to 4 years from the day of surgery</time_frame>
+    <description>Any recurrence per site of first recurrence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Operative time</measure>
+    <time_frame>Day of surgery</time_frame>
+    <description>Time between first incision and skin closure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intraoperative blood loss</measure>
+    <time_frame>Day of surgery</time_frame>
+    <description>Total blood aspirate during the surgical procedure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>30-day post-surgical morbidity</measure>
+    <time_frame>30 days after surgery</time_frame>
+    <description>Perioperative (intraoperative and postoperative) complications graded based on the Clavien-Dindo classification</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lymphovascular space invasion</measure>
+    <time_frame>Day of surgery</time_frame>
+    <description>Presence of lymphovascular space invasion at definitive pathology</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peritoneal cytology</measure>
+    <time_frame>Day of surgery</time_frame>
+    <description>Presence of positive peritoneal cytology at definitive pathology</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life indexes</measure>
+    <time_frame>Each follow-up visit, up to 4 years from the day of surgery</time_frame>
+    <description>The Functional Assessment of Cancer Therapy - General (FACT-G) - A 27-item questionnaire designed to measure four domains of Health-Related Quality of Life in cancer patients: Physical, social, emotional, and functional well-being. Score range 0-108. The higher the score, the better the Quality of Life.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1030</enrollment>
+  <condition>Endometrial Neoplasms</condition>
+  <arm_group>
+    <arm_group_label>Total hysterectomy with a uterine manipulator</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Total hysterectomy with bilateral salpingo-oophorectomy performed with the use of a uterine manipulator during surgery.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Total hysterectomy without a uterine manipulator</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Total hysterectomy with bilateral salpingo-oophorectomy performed without the use of a uterine manipulator during surgery.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Uterine manipulator use</intervention_name>
+    <description>After peritoneal washing, the uterine manipulator will be inserted into the uterus to assist in the procedure of total hysterectomy.</description>
+    <arm_group_label>Total hysterectomy with a uterine manipulator</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of Endometrial Cancer of any histology (including carcinosarcoma) and grade&#xD;
+&#xD;
+          -  Planned surgical treatment including hysterectomy and bilateral salpingo-oophorectomy&#xD;
+             (ovarian preservation in selected patients is not an exclusion criterion)&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+          -  No preoperative evidence of extrauterine disease (Clinical stage IIIA, IIIB)&#xD;
+&#xD;
+          -  No preoperative evidence of suspicious lymph nodes (Clinical stage IIIC)&#xD;
+&#xD;
+          -  No preoperative evidence of distant metastasis (Clinical stage IV)&#xD;
+&#xD;
+          -  Approved and signed informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Body Mass Index ≥ 45 Kg/m2&#xD;
+&#xD;
+          -  Neoadjuvant therapy&#xD;
+&#xD;
+          -  Synchronous or previous (&lt; 5 years) invasive cancer, not including non-melanoma skin&#xD;
+             cancer&#xD;
+&#xD;
+          -  Fertility preservation&#xD;
+&#xD;
+          -  World Health Organization performance score &gt; 2&#xD;
+&#xD;
+          -  Uterine sarcoma&#xD;
+&#xD;
+          -  Previous pelvic/abdominal radiotherapy, hormone therapy for cancer, chemotherapy,&#xD;
+             pelvic or paraaortic lymphadenectomy, or retroperitoneal surgery&#xD;
+&#xD;
+          -  Inadequate bone marrow function (white blood cells &lt;3·0×109/L, platelets &lt;100×109/L)&#xD;
+&#xD;
+          -  Inadequate liver function (bilirubin &gt;1.5×upper normal limit [UNL], aspartate&#xD;
+             aminotransferase, and alanine aminotransferase &gt;2.5 × UNL)&#xD;
+&#xD;
+          -  Inadequate kidney function (creatinine clearance &lt; 60 mL per min calculated according&#xD;
+             to Cockcroft-Gault 10 or &lt; 50 mL per min Ethylenediaminetetraacetic acid clearance)&#xD;
+&#xD;
+          -  Intraoperative evidence of stage IV disease&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stefano Uccella, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>AOUI Verona - University of Verona</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Simone Garzon, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>AOUI Verona - University of Verona</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Pier Carlo Zorzato, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>AOUI Verona - University of Verona</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Stefano Uccella, MD, PhD</last_name>
+    <phone>0039 045 812 2720</phone>
+    <email>stefano.uccella@univr.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Simone Garzon, MD</last_name>
+    <phone>0039 045 812 2720</phone>
+    <email>simone.garzon@univr.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>AOUI Verona - University of Verona - Department of Obstetrics and Gynecology</name>
+      <address>
+        <city>Verona</city>
+        <zip>37125</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Simone Garzon, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Concin N, Matias-Guiu X, Vergote I, Cibula D, Mirza MR, Marnitz S, Ledermann J, Bosse T, Chargari C, Fagotti A, Fotopoulou C, Gonzalez Martin A, Lax S, Lorusso D, Marth C, Morice P, Nout RA, O'Donnell D, Querleu D, Raspollini MR, Sehouli J, Sturdza A, Taylor A, Westermann A, Wimberger P, Colombo N, Planchamp F, Creutzberg CL. ESGO/ESTRO/ESP guidelines for the management of patients with endometrial carcinoma. Int J Gynecol Cancer. 2021 Jan;31(1):12-39. doi: 10.1136/ijgc-2020-002230. Epub 2020 Dec 18.</citation>
+    <PMID>33397713</PMID>
+  </reference>
+  <reference>
+    <citation>van den Haak L, Alleblas C, Nieboer TE, Rhemrev JP, Jansen FW. Efficacy and safety of uterine manipulators in laparoscopic surgery: a review. Arch Gynecol Obstet. 2015 Nov;292(5):1003-11. doi: 10.1007/s00404-015-3727-9. Epub 2015 May 13.</citation>
+    <PMID>25967852</PMID>
+  </reference>
+  <reference>
+    <citation>Uccella S, Cianci S, Gueli Alletti S. Uterine manipulator in endometrial cancer: we are still far from the answer. Am J Obstet Gynecol. 2021 Mar;224(3):332. doi: 10.1016/j.ajog.2020.09.049. Epub 2020 Nov 15. No abstract available.</citation>
+    <PMID>33207238</PMID>
+  </reference>
+  <reference>
+    <citation>Uccella S, Bonzini M, Malzoni M, Fanfani F, Palomba S, Aletti G, Corrado G, Ceccaroni M, Seracchioli R, Shakir F, Ferrero A, Berretta R, Tinelli R, Vizza E, Roviglione G, Casarella L, Volpi E, Cicinelli E, Scambia G, Ghezzi F. The effect of a uterine manipulator on the recurrence and mortality of endometrial cancer: a multi-centric study by the Italian Society of Gynecological Endoscopy. Am J Obstet Gynecol. 2017 Jun;216(6):592.e1-592.e11. doi: 10.1016/j.ajog.2017.01.027. Epub 2017 Jan 29.</citation>
+    <PMID>28147240</PMID>
+  </reference>
+  <reference>
+    <citation>Padilla-Iserte P, Lago V, Tauste C, Diaz-Feijoo B, Gil-Moreno A, Oliver R, Coronado P, Martin-Salamanca MB, Pantoja-Garrido M, Marcos-Sanmartin J, Gilabert-Estelles J, Lorenzo C, Cazorla E, Roldan-Rivas F, Rodriguez-Hernandez JR, Sanchez L, Muruzabal JC, Hervas D, Domingo S; Spanish Society of Gynecology and Obstetrics Spanish Investigational Network Gynecologic Oncology Group. Impact of uterine manipulator on oncological outcome in endometrial cancer surgery. Am J Obstet Gynecol. 2021 Jan;224(1):65.e1-65.e11. doi: 10.1016/j.ajog.2020.07.025. Epub 2020 Jul 18.</citation>
+    <PMID>32693096</PMID>
+  </reference>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>November 6, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 17, 2023</study_first_posted>
+  <last_update_submitted>April 1, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 1, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 4, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universita di Verona</investigator_affiliation>
+    <investigator_full_name>Stefano Uccella</investigator_full_name>
+    <investigator_title>Prof. Stefano Uccella</investigator_title>
+  </responsible_party>
+  <keyword>Endometrial Neoplasms</keyword>
+  <keyword>Uterine manipulator</keyword>
+  <keyword>Laparoscopic hysterectomy</keyword>
+  <keyword>Recurrence-free survival</keyword>
+  <keyword>Cause-specific survival</keyword>
+  <keyword>Overall survival</keyword>
+  <keyword>Oncologic outcomes</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Endometrial Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

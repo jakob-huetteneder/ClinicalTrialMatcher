@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9907">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05687721</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ONCA-016-21F</org_study_id>
+    <secondary_id>CX002545</secondary_id>
+    <nct_id>NCT05687721</nct_id>
+  </id_info>
+  <brief_title>Copanlisib and Avelumab as a Maintenance Therapy for Advanced Bladder Cancer</brief_title>
+  <official_title>A Phase II Trial With Copanlisib Plus Avelumab as a Maintenance Therapy for Metastatic Bladder Cancer After Platinum-based Chemotherapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>VA Office of Research and Development</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Bayer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>VA Office of Research and Development</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Patients with metastatic bladder cancer are usually treated with chemotherapy. If their&#xD;
+      cancers do not progress after chemotherapy, they can be enrolled into this study and receive&#xD;
+      a standard-of-care immunotherapy medication named avelumab plus a study drug named&#xD;
+      copanlisib.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients with advanced urothelial cancer will be treated with platinum-based chemotherapy.&#xD;
+      After chemotherapy, an imaging study will be performed to determine cancer response. If there&#xD;
+      is no disease progression, patients will be eligible for this study. After informed consent&#xD;
+      is obtained, patients are enrolled. The treatment include immunotherapy avelumab as the&#xD;
+      standard of care plus a study medication copanlisib. Both medications are administrated&#xD;
+      through intravenous infusion. Avelumab wil be given once every two weeks while copanlisib&#xD;
+      will be administrated on Day 1, 8 and 15 of every 4-week cycle. Patient will be followed up&#xD;
+      for disease progression.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 1, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2027</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2027</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>This is a single-arm study</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>6 months into the trial</time_frame>
+    <description>The primary endpoint is PFS. PFS is defined as the time between initiation of the avelumab/copanlisib combination and tumor progression or death from any cause, with censoring of patients who are lost to follow-up.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>24 months</time_frame>
+    <description>Overall survival is defined as the length of time from the start of this trial treatment to the time of death from any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate</measure>
+    <time_frame>2 months</time_frame>
+    <description>Objective response rate is defined as the percentage of patients who have a partial or complete response at any time during this treatment of this trial</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease-control rate</measure>
+    <time_frame>2-8 months</time_frame>
+    <description>Disease-control rate is defined as the percentage of patients who have a partial or complete response or stable disease at any time during this treatment of this trial</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>up to 2 years into the study</time_frame>
+    <description>Adverse events are defined as any untoward medical occurrence of subjects which does not necessarily have a causal relationship with the treatment</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Molecular Correlative Studies</measure>
+    <time_frame>up to 2 years into the study</time_frame>
+    <description>Immune cell infiltration, immune cell activation/exhaustion status, cytokine production and signaling transduction pathways will be studied.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">29</enrollment>
+  <condition>Advanced Urothelial Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Therapeutic arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Copanlisib will be administered through intravenous infusion (IV) at 60 mg on Day 1, 8 and 15, and avelumab will be administered 800 mg IV on Day 1 and 15 of each 4-week treatment cycle for up to 26 cycles</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>copanlisib</intervention_name>
+    <description>intravenous infusion (IV) at 60 mg on Day 1, 8 and 15 of each 4-week treatment cycle for up to 26 cycles</description>
+    <arm_group_label>Therapeutic arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Avelumab</intervention_name>
+    <description>800 mg intravenous infusion on Day 1 and 15 of each 4-week treatment cycle for up to 26 cycles</description>
+    <arm_group_label>Therapeutic arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female&#xD;
+&#xD;
+          2. Age &gt; 18 years&#xD;
+&#xD;
+          3. Diagnosis:&#xD;
+&#xD;
+               1. Histologically or cytologically confirmed metastatic or recurrent urothelial&#xD;
+                  carcinoma. OR&#xD;
+&#xD;
+               2. Documented stage IV disease (T4b, Any N, M0; any T, Any N, M1a-b), or Stage IIIB&#xD;
+                  (T1-T4a, N2-N3, M0), or subset of stage IIIA (T1-T4a, N1, M0)&#xD;
+&#xD;
+          4. Completed prior first-line platinum-based chemotherapy at least 4 weeks and not more&#xD;
+             than 10 weeks after the last dose of first line chemotherapy.&#xD;
+&#xD;
+          5. Patients without progressive disease as per RECIST v1.1 guideline (i.e., with an&#xD;
+             ongoing CR, PR, or SD) following completion of the first-line chemotherapy.&#xD;
+&#xD;
+          6. Patient must be appropriate to receive Avelumab maintenance therapy&#xD;
+&#xD;
+          7. Measurable disease after chemotherapy is not required:&#xD;
+&#xD;
+               1. Patients must have had X-rays, CT/ MRI scans, PET or physical examinations&#xD;
+                  completed within 28 days prior to initial administration of study medications.&#xD;
+&#xD;
+               2. Patients may have no evidence of disease after platinum-based chemotherapy. These&#xD;
+                  patients will be included in the study for all other analyses except ORR and&#xD;
+                  irORR.&#xD;
+&#xD;
+               3. Soft tissue disease that has been radiated within two months prior to&#xD;
+                  registration is not assessable as measurable disease. Soft tissue disease that&#xD;
+                  has been radiated two or more months prior to registration is assessable as&#xD;
+                  measurable disease provided that the lesion has progressed following radiation.&#xD;
+                  As the biology of previously irradiated tumors may be different from&#xD;
+                  non-irradiated tumors, patients must have at least one measurable lesion outside&#xD;
+                  the previously irradiated region in order to be considered to have measurable&#xD;
+                  disease.&#xD;
+&#xD;
+          8. Tumor samples:&#xD;
+&#xD;
+             a.Provision of a recent formalin-fixed, paraffin-embedded (FFPE) tumor tissue block&#xD;
+             from the most recent primary or metastatic tumor biopsy or resection obtained prior to&#xD;
+             treatment with first line chemotherapy but within one year of enrollment, with no&#xD;
+             intervening systemic anti-cancer therapy. If an FFPE tissue block cannot be provided,&#xD;
+             15 unstained slides (10 minimum) will be acceptable. If a suitable tissue sample is&#xD;
+             not otherwise available, then a tissue from a de novo biopsy (core needle or&#xD;
+             excisional) should have been obtained prior to initiation of this study. However, this&#xD;
+             biopsy is not required for participation in this trial if he/she meets all other&#xD;
+             inclusion and exclusion criteria. When patients undergo biopsy, in addition to FFPE&#xD;
+             preparation, fresh tissue should be sent to VABHS for single-cell RNAseq and T cell&#xD;
+             receptor sequencing as specified in the addendum.&#xD;
+&#xD;
+          9. Estimated life expectancy of at least 3 months.&#xD;
+&#xD;
+         10. Eastern Cooperative Oncology Group (ECOG) performance status (PS) status 2 OR&#xD;
+             Karnofsky Performance Status scale 60%. For the safety lead-in phase, only patients&#xD;
+             with PS 0-1 will be included.&#xD;
+&#xD;
+         11. Adequate bone marrow function, including:&#xD;
+&#xD;
+               1. Leukocytes &gt; 3000/mm3&#xD;
+&#xD;
+               2. Absolute neutrophil count (ANC) &gt; 1,500/mm3&#xD;
+&#xD;
+               3. Platelets &gt; 100,000/mm3&#xD;
+&#xD;
+               4. Hemoglobin &gt; 9 g/dL (may have been transfused).&#xD;
+&#xD;
+         12. Adequate renal function, defined as estimated creatinine clearance 20 mL/minute as&#xD;
+             calculated using the Cockcroft-Gault equation. It has been shown that creatinine&#xD;
+             clearance 15 ml/minute did not significantly affect the pharmacokinetics of&#xD;
+             copanlisib.&#xD;
+&#xD;
+         13. Adequate liver function, including:&#xD;
+&#xD;
+             b.Total serum bilirubin 1.5 x upper limit of normal (ULN) c.Aspartate aminotransferase&#xD;
+             (AST) and alanine aminotransferase (ALT) 2.5 x ULN d.Total serum bilirubin &lt; 3 x ULN&#xD;
+             for patients with Gilbert's syndrome or for patients with cholestasis due to&#xD;
+             compressive adenopathy of the hepatic hilum&#xD;
+&#xD;
+         14. Serum pregnancy test (for females of childbearing potential) negative at screening.&#xD;
+&#xD;
+         15. Male patients able to father children and female patients of childbearing potential&#xD;
+             and at risk for pregnancy must agree to use 2 highly effective methods of&#xD;
+             contraception throughout the study and for at least 60 days after the last dose of&#xD;
+             assigned treatment.&#xD;
+&#xD;
+         16. Evidence of a signed and dated informed consent document indicating that the patient&#xD;
+             has been informed of all pertinent aspects of the study.&#xD;
+&#xD;
+         17. Patients who are willing and able to comply with scheduled visits, treatment plans,&#xD;
+             laboratory tests, and other study procedures.&#xD;
+&#xD;
+         18. Controlled diabetes A1c &lt; 8.5%. For patients with newly diagnosed diabetes mellitus&#xD;
+             that cannot meet protocol requirements, a single rescreening (which includes all&#xD;
+             screening procedures) should be performed when the patient's diabetes is controlled&#xD;
+             and can meet protocol requirement for HbA1c).&#xD;
+&#xD;
+         19. Controlled arterial hypertension (per investigator assessment&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients whose disease progressed by RECIST v1.1 on or after first-line platinum-based&#xD;
+             chemotherapy for urothelial cancer.&#xD;
+&#xD;
+          2. Patients who have had a major surgery within 4 weeks or major radiation therapy within&#xD;
+             2 weeks prior to randomization. Prior palliative radiotherapy is permitted, provided&#xD;
+             it has been completed at least 48 hours prior to entering the study.&#xD;
+&#xD;
+          3. Patients who are receiving any other investigational agent within the preceding 4&#xD;
+             weeks. Observational studies are permitted.&#xD;
+&#xD;
+          4. Prior treatment with a Phosphoinositide 3-kinase inhibitor.&#xD;
+&#xD;
+          5. Prior therapy with anti-PD1/PD-L1 monoclonal antibody for aBC. However, prior&#xD;
+             treatment with adjuvant nivolumab is allowed if it was discontinued over 12 months&#xD;
+             prior to the start of this trial.&#xD;
+&#xD;
+          6. Patients with known symptomatic central nervous system (CNS) metastases requiring&#xD;
+             steroids. These patients have poor prognosis and often develop progressive&#xD;
+             neurological dysfunction that would confound the evaluation of neurological and other&#xD;
+             adverse events. Patients with previously diagnosed CNS metastases are eligible if the&#xD;
+             participants have completed the treatment and have recovered from the acute effects of&#xD;
+             radiation therapy or surgery prior to treatment, have discontinued corticosteroid&#xD;
+             treatment for these metastases for at least 4 weeks, and are neurologically stable.&#xD;
+&#xD;
+          7. Diagnosis of any other malignancy in past 3 years, except for adequately treated basal&#xD;
+             cell or squamous cell skin cancer, other Stage 0 or Stage 1 cancers, or incidental&#xD;
+             finding of prostate cancer during cystoprostatectomy.&#xD;
+&#xD;
+          8. Patients with symptomatic metastatic cancer, such as moderate to severe pain, impaired&#xD;
+             organ function or spinal cord compression.&#xD;
+&#xD;
+          9. Active autoimmune disease that might deteriorate when receiving an immunostimulatory&#xD;
+             agent. Patients with diabetes type I, vitiligo, psoriasis, or hypo- or hyperthyroid&#xD;
+             disease not requiring immunosuppressive treatment are eligible.&#xD;
+&#xD;
+         10. Known severe hypersensitivity reactions to monoclonal antibodies (Grade &gt; 3), any&#xD;
+             history of anaphylaxis, or uncontrolled asthma (i.e., 3 or more features of asthma&#xD;
+             system controlled per the Global Initiative for Asthma 2015)&#xD;
+&#xD;
+         11. History or concurrent condition of interstitial lung disease of any severity and/or&#xD;
+             severely impaired lung function (as judged by the investigator)&#xD;
+&#xD;
+         12. HbA1c &gt; 8.5% at Screening&#xD;
+&#xD;
+         13. Known prior or suspected hypersensitivity to study drugs or any component in the&#xD;
+             formulations.&#xD;
+&#xD;
+         14. Current or prior use of immunosuppressive medication within 7 days prior, except the&#xD;
+             following:&#xD;
+&#xD;
+               1. Intranasal, inhaled, topical steroids, or local steroid injections (eg,&#xD;
+                  intra-articular injection)&#xD;
+&#xD;
+               2. Systemic corticosteroids at physiologic doses 10 mg/day of prednisone or&#xD;
+                  equivalent&#xD;
+&#xD;
+               3. Steroids as premedication for hypersensitivity reactions (eg, CT scan&#xD;
+                  premedication)&#xD;
+&#xD;
+         15. Patient with a history or concurrent condition of Interstitial Lung Disease.&#xD;
+&#xD;
+         16. Patients with an active bleeding diathesis.&#xD;
+&#xD;
+         17. Clinically significant (i.e., active) cardiovascular disease: cerebral vascular&#xD;
+             accident (&lt;6 months prior to enrollment), myocardial infraction (&lt;6 months prior to&#xD;
+             enrollment), unstable angina, congestive heart failure (&gt; New York Heart Association&#xD;
+             Classification Class II), or serious cardiac arrhythmia requiring medication.&#xD;
+&#xD;
+         18. Active infection requiring systemic therapy.&#xD;
+&#xD;
+         19. Positive for human immunodeficiency virus (HIV) or known acquired immunodeficiency&#xD;
+             syndrome (AIDS) due to potential pharmacokinetic interactions with copanlisib.&#xD;
+&#xD;
+         20. Hepatitis B virus (HBV) or hepatitis C virus (HCV) infection at screening (positive&#xD;
+             HBV surface antigen or HCV RNA if anti-HCV antibody screening test positive).&#xD;
+&#xD;
+         21. Other severe acute or chronic medical conditions including, but not limited to&#xD;
+             pneumonitis; psychiatric condition including recent (within the past year) or active&#xD;
+             suicidal ideation or behavior; or laboratory abnormality that may increase the risk&#xD;
+             associated with study participation or study treatment administration or may interfere&#xD;
+             with the interpretation of study results and, in the judgment of the investigator,&#xD;
+             would make the patient inappropriate for entry into this study.&#xD;
+&#xD;
+         22. Vaccination within 4 weeks of the first dose of study treatment and while on trial is&#xD;
+             prohibited except for administration of inactivated vaccines (for example, inactivated&#xD;
+             influenza vaccine and COVID-19 vaccines).&#xD;
+&#xD;
+         23. Pregnant female patients, breastfeeding female patients, female patients of&#xD;
+             childbearing potential and male patients who are unwilling or unable to use 2 highly&#xD;
+             effective methods of contraception as outlined in the protocol for the duration of the&#xD;
+             study and for at least 60 days after the last dose of investigational product&#xD;
+&#xD;
+         24. History of noncompliance to medical regimens.&#xD;
+&#xD;
+         25. Patients unwilling to or unable to comply with the protocol.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Chong-Xian Pan, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>VA Boston Healthcare System Jamaica Plain Campus, Jamaica Plain, MA</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Chong-Xian Pan, MD PhD</last_name>
+    <phone>(857) 203-6189</phone>
+    <email>chong-xian.pan@va.gov</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Hizra Farrukh, MD</last_name>
+    <phone>(617) 323-7700</phone>
+    <email>Hizra.farrukh@va.gov</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>VA Boston Healthcare System Jamaica Plain Campus, Jamaica Plain, MA</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02130-4817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Chong-Xian Pan, MD PhD</last_name>
+      <phone>857-203-6189</phone>
+      <email>chong-xian.pan@va.gov</email>
+    </contact>
+    <investigator>
+      <last_name>Chong-Xian Pan, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2023</verification_date>
+  <study_first_submitted>January 6, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>June 1, 2023</last_update_submitted>
+  <last_update_submitted_qc>June 1, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 5, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Urinary Bladder Neoplasms</keyword>
+  <keyword>Phosphatidylinositol 3-Kinase</keyword>
+  <keyword>immunotherapy</keyword>
+  <keyword>copanlisib</keyword>
+  <keyword>pembrolizumab</keyword>
+  <keyword>Ureteral Neoplasms</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Urinary Bladder Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Transitional Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Avelumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9192">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05703269</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00092505</org_study_id>
+    <secondary_id>5UG1CA189824-08</secondary_id>
+    <secondary_id>NCI-2022-10836</secondary_id>
+    <secondary_id>WF-2201</secondary_id>
+    <nct_id>NCT05703269</nct_id>
+  </id_info>
+  <brief_title>Comparing Single vs Multiple Dose Radiation for Cancer Patients With Brain Metastasis and Receiving Immunotherapy</brief_title>
+  <acronym>HYPOGRYPHE</acronym>
+  <official_title>Hypofractionated Radiotherapy vs Single Fraction Radiosurgery for Brain Metastasis Patients on Immunotherapy (HYPOGRYPHE)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Wake Forest University Health Sciences</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Wake Forest University Health Sciences</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is designed to see if we can lower the chance of side effects from radiation in&#xD;
+      patients with breast, kidney, non-small cell lung cancer or melanoma that has spread to the&#xD;
+      brain and who are also being treated with immunotherapy, specifically immune checkpoint&#xD;
+      inhibitor (ICI) therapy. This study will compare the usual care treatment of single fraction&#xD;
+      stereotactic radiosurgery (SSRS) given on one day versus fractionated stereotactic&#xD;
+      radiosurgery (FSRS), which is a lower dose of radiation given over a few days to determine if&#xD;
+      FSRS is better or worse at reducing side effects than usual care treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is an open-label, randomized, Phase III trial designed to ascertain whether&#xD;
+      fractionated stereotactic radiosurgery (FSRS) results in lower incidence of Grade 2 or higher&#xD;
+      adverse radiation effect (ARE) by 9 months compared to single fraction stereotactic&#xD;
+      radiosurgery (SSRS) in patients with large brain metastases who have received or will receive&#xD;
+      immune checkpoint inhibitor (ICI) targeted to the PD-1/PD-L1 axis within 30 days of&#xD;
+      stereotactic radiosurgery (SRS). Participants will be randomized 1:1 to either SSRS or FSRS,&#xD;
+      using a minimization randomization strategy considering 4 prognostic factors of interest:&#xD;
+      radiosurgery platform (gamma knife vs. LINAC), timing of immunotherapy relative to radiation&#xD;
+      (ICI within 30 days prior to Day 1 of SRS or not), and surgical status (any resection cavity&#xD;
+      vs intact metastases only), and predominant tumor type (Melanoma vs. all others).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 15, 2023</start_date>
+  <completion_date type="Anticipated">March 1, 2028</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2028</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Participants will be randomized 1:1 to either SSRS or FSRS, using minimization randomization strategy considering 4 prognostic factors of interest: radiosurgery platform (GK vs. LINAC), timing of immunotherapy relative to radiation (ICI within 30 days of Day 1 prior to SRS or not), surgical status (any resection cavity vs. intact metastases only), and predominant tumor type (Melanoma vs. all others). All baseline patient-reported outcomes and neurocognitive assessments will be collected prior to randomization to minimize bias.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Occurrence of a Grade 2 or higher Adverse Radiation Effect (ARE)</measure>
+    <time_frame>9 months</time_frame>
+    <description>To compare the proportion of participants experiencing Grade 2 or higher Adverse Radiation Effects (ARE) within 9 months following randomization to single fraction stereotactic radiosurgery (SSRS) vs fractionated stereotactic radiosurgery (FSRS) in patients with brain metastases ≥ 2 cm in diameter or ≥ 4cc in volume treated with concurrent immune checkpoint inhibitor (ICI) therapy.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Compare time to composite end point</measure>
+    <time_frame>9 months</time_frame>
+    <description>To compare the time to the composite endpoint of either local failure of a metastasis treated with SRS (as defined in Section 8.2) or first Grade 2 or higher ARE between SSRS and FSRS groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Compare time to local failure between SSRS and FSRS groups</measure>
+    <time_frame>9 months</time_frame>
+    <description>To compare time to local failure between SSRS and FSRS groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Compare time to neurologic death between groups</measure>
+    <time_frame>9 months</time_frame>
+    <description>To compare time to neurologic death between groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Compare patient-reported brain tumor specific symptom burden</measure>
+    <time_frame>9 months</time_frame>
+    <description>To compare patient-reported brain tumor specific symptom burden using the MD Anderson Symptom Inventory-Brain Tumor (MDASI-BT) between SRSS or FSRS groups at 9 months.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">244</enrollment>
+  <condition>NSCLC</condition>
+  <condition>Renal Cell Carcinoma</condition>
+  <condition>Breast Carcinoma</condition>
+  <condition>Melanoma</condition>
+  <condition>Brain Metastases, Adult</condition>
+  <condition>Non-small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>SSRS = single fraction stereotactic radiosurgery</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>SSRS is an advanced radiation technique that delivers high dose precision radiation in a single dose to discrete intracranial lesions. SSRS has recently become a standard-of-care treatment for patients with 1-4 brain metastases and is also commonly used for patients with up to 15 metastases, due to improved neurocognitive outcomes compared to whole brain radiotherapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FSRS = fractionated stereotactic radiosurgery</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>FSRS is an advanced radiation technique that uses a lower dose precision radiation delivered over 3 to 5 treatments given daily or every other day to intracranial lesions.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>single fraction stereotactic radiosurgery (SSRS)</intervention_name>
+    <description>SSRS is an advanced radiation technique that delivers high dose precision radiation in a single dose to discrete intracranial lesions.</description>
+    <arm_group_label>SSRS = single fraction stereotactic radiosurgery</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>fractionated stereotactic radiosurgery (FSRS)</intervention_name>
+    <description>FSRS is an advanced radiation technique that uses a lower dose precision radiation delivered over 3 to 5 treatments given daily or every other day to intracranial lesions.</description>
+    <arm_group_label>FSRS = fractionated stereotactic radiosurgery</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  At least one intact brain metastasis or resection cavity ≥ 2 cm in diameter or ≥ 4 cc&#xD;
+             volume with no prior history of radiation therapy for brain metastasis.&#xD;
+&#xD;
+               -  Both patients at initial diagnosis of brain metastases and patients known brain&#xD;
+                  metastasis treated with systemic therapy alone are eligible&#xD;
+&#xD;
+               -  Lesion volume will be approximated by measuring the lesion's three perpendicular&#xD;
+                  diameters on contrast-enhanced, T1-weighted MRI and the product of those&#xD;
+                  diameters will be divided by 2 to estimate the lesion volume (e.g., xyz/2).&#xD;
+                  Alternatively, direct volumetric measurements via slice-by-slice contouring on a&#xD;
+                  treatment planning software package can be used to calculate the total tumor&#xD;
+                  volume.&#xD;
+&#xD;
+               -  Any extent of non-CNS disease is allowed. There is no requirement for non-CNS&#xD;
+                  disease to be controlled prior to study entry.&#xD;
+&#xD;
+          -  Age ≥ 18 years at the time of enrollment.&#xD;
+&#xD;
+          -  Total brain metastases (including resection cavities) ≤ 15 on diagnostic MRI; all&#xD;
+             lesions must be amenable to SSRS and FSRS as determined by the treating radiation&#xD;
+             oncologist. Treatment must take place at a facility credentialed by the Imaging and&#xD;
+             Radiation Oncology Core (IROC) for SRS and that offers both SSRS and FSRS as treatment&#xD;
+             options.&#xD;
+&#xD;
+          -  Total gross tumor volume must be ≤ 30 cc. Lesion volume will be approximated by&#xD;
+             measuring each lesion's three perpendicular diameters on contrast-enhanced T1 MRI and&#xD;
+             the product of those diameters will be divided by 2 (V = xyz/2). Direct volumetric&#xD;
+             measurements by contouring all lesions on all visible slices on treatment planning&#xD;
+             software is also acceptable. If there is a cavity, only gross residual disease within&#xD;
+             or adjacent to the cavity is counted toward the 30 cc total volume.&#xD;
+&#xD;
+          -  Ability to tolerate MRI brain with gadolinium-based contrast.&#xD;
+&#xD;
+          -  Pathologically confirmed melanoma, renal cell carcinoma, non-small cell lung cancer,&#xD;
+             or breast cancer.&#xD;
+&#xD;
+          -  Has received, is currently receiving, or is planned to receive immune checkpoint&#xD;
+             inhibitor therapy (defined as agent targeted to PD-1/PD-L1 axis) within 30 days of&#xD;
+             SSRS/FSRS. Dual ICI therapy with PD-1/PD-L1 and CTLA-4 targeted agents are allowed,&#xD;
+             but patients treated with a single agent CTLA-4 targeted agent only are ineligible.&#xD;
+&#xD;
+          -  Karnofsky Performance Status (KPS) ≥ 70. Refer to Appendix A.&#xD;
+&#xD;
+          -  Negative serum or urine pregnancy test within 14 days of randomization for women of&#xD;
+             child-bearing potential.&#xD;
+&#xD;
+          -  Ability to understand and the willingness to sign written informed consent.&#xD;
+&#xD;
+          -  Patients must be able to provide informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior fractionated, whole, or partial brain radiation therapy.&#xD;
+&#xD;
+          -  Prior courses of radiation therapy for brain metastases. Prior courses of SRS for&#xD;
+             benign tumors such as meningiomas, pituitary adenomas, schwannomas may be acceptable&#xD;
+             if the treatment is &gt; 2cm away from the site of a metastatic lesion that would be&#xD;
+             treated on this study. The study PI or a designated co-PI must review this type of&#xD;
+             case to confirm eligibility prior to enrollment.&#xD;
+&#xD;
+          -  Leptomeningeal carcinomatosis established by lumbar puncture cytology, or MRI imaging.&#xD;
+             In the absence of a clinical indication, a lumbar puncture is not required to confirm&#xD;
+             eligibility.&#xD;
+&#xD;
+          -  A brain metastasis that is 5 mm or less from the optic chiasm or optic nerves&#xD;
+&#xD;
+          -  Inability to tolerate brain MRI or receive gadolinium-based contrast&#xD;
+&#xD;
+          -  Planned or prior therapy with bevacizumab within 30 days as part of a systemic therapy&#xD;
+             regimen at study enrollment.&#xD;
+&#xD;
+          -  Serious intercurrent illness or medical condition judged by the local investigator to&#xD;
+             compromise the patient's safety, preclude safe administration of the planned protocol&#xD;
+             treatment, or would not permit the patient to be managed according to the protocol&#xD;
+             guidelines.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Christina K Cramer, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Wake Forest University Health Sciences</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Karen Craver, MT, MHA</last_name>
+    <phone>336-716-0891</phone>
+    <email>NCORP@wakehealth.edu</email>
+  </overall_contact>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 18, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>May 25, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 25, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Gamma Knife</keyword>
+  <keyword>Linear Accelerator</keyword>
+  <keyword>Immune Checkpoint Inhibitor (ICI) therapy</keyword>
+  <keyword>Stereotactic Radiosurgery (SRS)</keyword>
+  <keyword>Fractionated Stereotactic Radiosurgery (FSRS)</keyword>
+  <keyword>Stereotactic Radiosurgery (SSRS)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Carcinoma, Renal Cell</mesh_term>
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Wake Forest NCORP Research Base is committed to following the NIH Statement on Sharing Research Data (http://grants.nih.gov/grants/guide/ notice-files/NOT-OD-03-032.html). As of July 2018, the WF NCORP RB signed an agreement with NCI to contribute de-identified data and data dictionaries from clinical trials conducted through our RB to the NCI NCTN/NCORP data archive within 6 months of primary and non-primary publications of phase II/III and phase III trials to https://nctn-data-archive.nci.nih.gov/. This will become the primary means for sharing raw data, and we will adhere to the guidelines spelled out in the NCTN/NCORP Data Archive Usage Guide. De-identified data from studies not covered by the agreement (e.g., phase II and observational studies) will be made available upon request. All data files will be de-identified.&#xD;
+De-identification procedures will meet the HIPAA criteria as detailed in the Code of Federal Regulations, Part 45, Section 164.514.</ipd_description>
+    <ipd_time_frame>6 months after publication for a 2 year duration</ipd_time_frame>
+    <ipd_access_criteria>upon request to NCORP@wakehealth.edu</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

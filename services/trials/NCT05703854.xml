@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9172">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05703854</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-0443</org_study_id>
+    <secondary_id>NCI-2023-00469</secondary_id>
+    <nct_id>NCT05703854</nct_id>
+  </id_info>
+  <brief_title>Study of CAR.70-engineered IL15-transduced Cord Blood-derived NK Cells in Conjunction With Lymphodepleting Chemotherapy for the Management of Advanced Renal Cell Carcinoma, Mesothelioma and Osteosarcoma</brief_title>
+  <official_title>Phase I/II Study of CAR.70-engineered IL15-transduced Cord Blood-derived NK Cells in Conjunction With Lymphodepleting Chemotherapy for the Management of Advanced Renal Cell Carcinoma, Mesothelioma and Osteosarcoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>M.D. Anderson Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>M.D. Anderson Cancer Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To find a recommended dose of donated NK cells that can be given with lymphodepleting&#xD;
+      chemotherapy to patients with advanced renal cell carcinoma, mesothelioma, or osteosarcoma.&#xD;
+      The effects of this therapy will also be studied.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary Objective:&#xD;
+&#xD;
+        -  To determine the safety and optimal cell dose of chimeric antigen receptor&#xD;
+           (CAR).70/interleukin (IL)15-transduced cord blood (CB)-derived natural killer (NK) cells&#xD;
+           in patients with advanced renal cell carcinoma, advanced mesothelioma, and advanced&#xD;
+           osteosarcoma.&#xD;
+&#xD;
+        -  To determine the antitumor activity of CAR.70/IL15-transduced CB-derived NK cells.&#xD;
+           Although the clinical benefit of CAR.70/IL15-transduced CB-derived NK cells has not yet&#xD;
+           been established, the intent of offering this treatment is to provide a possible&#xD;
+           therapeutic benefit and thus, the patient will be carefully monitored for tumor response&#xD;
+           and symptom relief in addition to safety and tolerability. Efficacy will be determined&#xD;
+           in each of the three cohorts.&#xD;
+&#xD;
+      Secondary Objectives:&#xD;
+&#xD;
+        -  To quantify the persistence of infused allogeneic donor CAR-transduced CB-derived NK&#xD;
+           cells in the recipient.&#xD;
+&#xD;
+        -  To conduct comprehensive immune reconstitution studies.&#xD;
+&#xD;
+        -  To obtain preliminary data on quality of life and patient experience.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 29, 2023</start_date>
+  <completion_date type="Anticipated">September 30, 2027</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2025</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of Adverse Events, Graded According to National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) Version (v) 5.0</measure>
+    <time_frame>through study completion; an average of 1 year.</time_frame>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Advanced Renal Cell Carcinoma</condition>
+  <condition>Advanced Mesothelioma</condition>
+  <condition>Advanced Osteosarcoma</condition>
+  <arm_group>
+    <arm_group_label>Chemotherapy and NK Cell Infusion</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be assigned to a dose level of NK cells. A computer will decide by chance which of the dose level you will receive, and this will not be based on the doctor's or patient's decision. Up to 5 dose levels of NK cells will be tested. Each new patient will receive a different dose. If any dose shows to be not tolerable, this dose and the higher doses will not be given anymore.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CAR.70/IL15-transduced CB-derived NK cells</intervention_name>
+    <description>Given by IV (vein)</description>
+    <arm_group_label>Chemotherapy and NK Cell Infusion</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fludarabine phosphate</intervention_name>
+    <description>Given by IV (vein)</description>
+    <arm_group_label>Chemotherapy and NK Cell Infusion</arm_group_label>
+    <other_name>Fludarabine</other_name>
+    <other_name>Fludara®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclophosphamide</intervention_name>
+    <description>Given by IV (vein)</description>
+    <arm_group_label>Chemotherapy and NK Cell Infusion</arm_group_label>
+    <other_name>Cytoxan®</other_name>
+    <other_name>Neosar®</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Patients must meet the following criteria for study entry:&#xD;
+&#xD;
+          -  Signed consent to long-term follow-up on protocol PA17-0483&#xD;
+&#xD;
+          -  Patients with advanced clear cell renal cell carcinoma, osteosarcoma or mesothelioma,&#xD;
+             with an expression of CD70 in the pre-enrollment tumor sample ≥ 10% measured by&#xD;
+             immunohistochemistry or flow cytometry.&#xD;
+&#xD;
+          -  Patients must meet disease-specific eligibility criteria (see below).&#xD;
+&#xD;
+          -  Patients must be at least 2 weeks from last cytotoxic chemotherapy at the time of&#xD;
+             first administration of lymphodepleting chemotherapy. Patients may continue tyrosine&#xD;
+             kinase inhibitors or other targeted therapies until at least 3 days prior to&#xD;
+             administration of lymphodepleting chemotherapy.&#xD;
+&#xD;
+          -  Patients must be at least 3 months from any cell therapy for malignancy.&#xD;
+&#xD;
+          -  Localized radiotherapy to 1 or more disease sites is allowed prior to the&#xD;
+             lymphodepleting chemotherapy, provided that there are additional measurable&#xD;
+             non-irradiated disease sites.&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group performance status &lt; 2 (Appendix A).&#xD;
+&#xD;
+          -  Adequate organ function at screening, as defined by the following:&#xD;
+&#xD;
+               1. Renal: Serum creatinine ≤ 1.5 mg/dL or estimated glomerular filtration rate&#xD;
+                  (Chronic Kidney Disease Epidemiology Collaboration equation) ≥30 ml/min/1.73 m2&#xD;
+&#xD;
+               2. Hepatic: alanine transaminase (ALT)/aspartate transaminase (AST) ≤ 2.5 x upper&#xD;
+                  limit of normal (ULN) or ≤ 5 x ULN if documented liver metastases, total&#xD;
+                  bilirubin ≤ 1.5 mg/dL or ≤ 3.0 mg/dL for patients with Gilbert's Syndrome. No&#xD;
+                  history of liver cirrhosis and no ascites.&#xD;
+&#xD;
+               3. Cardiac: Cardiac ejection fraction ≥ 50%, no clinically significant pericardial&#xD;
+                  effusion as determined by echocardiogram (ECHO) or multigated acquisition (MUGA)&#xD;
+                  scan, and no symptomatic cardiac disease or history of serious ventricular&#xD;
+                  arrhythmia (ie, ventricular tachycardia or ventricular fibrillation), high-grade&#xD;
+                  atrioventricular block, or other cardiac arrhythmias requiring anti-arrhythmic&#xD;
+                  medications (except for atrial fibrillation that is well controlled with&#xD;
+                  anti-arrhythmic medication)&#xD;
+&#xD;
+               4. Pulmonary: No clinically significant pleural effusion (per principal investigator&#xD;
+                  [PI] judgement), and baseline oxygen saturation ≥ 92% on room air,&#xD;
+&#xD;
+               5. Hematological: absolute neutrophil count (ANC) ≥ 1000/mm3, platelet count ≥&#xD;
+                  75,000/mm3, and hemoglobin ≥ 8 g/dL&#xD;
+&#xD;
+               6. Coagulation: International normalized ratio (INR) ≤ 1.5 ULN and activated partial&#xD;
+                  thromboplastin time (aPTT) ≤ 1.5 ULN. Patients on therapeutic doses of&#xD;
+                  anticoagulation medication must have INR and/or aPTT ≤ the upper limit of the&#xD;
+                  therapeutic range for intended use.&#xD;
+&#xD;
+          -  Able to provide written informed consent.&#xD;
+&#xD;
+          -  Aged 18-80 years.&#xD;
+&#xD;
+          -  Weight ≥40 kg.&#xD;
+&#xD;
+          -  All male and female patients who are able to have children must practice effective&#xD;
+             birth control while on study therapy and for up to 3 months post completion of study&#xD;
+             therapy. Acceptable forms of birth control for female patients include: hormonal birth&#xD;
+             control, intrauterine device, diaphragm with spermicide, condom with spermicide, or&#xD;
+             abstinence. Female patients who become pregnant or suspect pregnancy must immediately&#xD;
+             notify their doctor. Females patients who become pregnant will be taken off study. Men&#xD;
+             who are able to have children must use effective birth control while on the study&#xD;
+             therapy. Acceptable forms of birth control for male patients include: condom with&#xD;
+             spermicide or abstinence. If the male patient fathers a child or suspects that he has&#xD;
+             fathered a child while on the study, he must immediately notify his doctor.&#xD;
+&#xD;
+          -  Negative serum or urine beta human chorionic gonadotropin pregnancy test for females&#xD;
+             of childbearing potential (defined as not postmenopausal for 24 months or no previous&#xD;
+             surgical sterilization or lactating females) at screening.&#xD;
+&#xD;
+        Disease-specific inclusion criteria:&#xD;
+&#xD;
+          -  Renal Cell Carcinoma&#xD;
+&#xD;
+               1. Patients must have a histologically confirmed diagnosis of Stage 4 RCC with a&#xD;
+                  clear cell component.&#xD;
+&#xD;
+               2. Patients must have received at least 1 prior line of therapy for recurrent or&#xD;
+                  metastatic disease, including both PD-1/programmed cell death-ligand 1&#xD;
+                  immunotherapy and anti-angiogenic-directed treatment, such as a tyrosine kinase&#xD;
+                  inhibitor.&#xD;
+&#xD;
+               3. Patients must have at least 1 measurable lesion &gt;10 mm on computed tomography&#xD;
+                  (CT) per the RECIST v1.1.&#xD;
+&#xD;
+          -  Mesothelioma&#xD;
+&#xD;
+               1. Patients must have pathologically confirmed mesothelioma&#xD;
+&#xD;
+               2. Patients must have progressive, recurrent, or refractory disease (local&#xD;
+                  recurrence) or new disease after all curative measures, including first-line&#xD;
+                  chemotherapy, targeted therapy, and radiotherapy&#xD;
+&#xD;
+               3. Patients must have measurable or evaluable disease per the RECIST v1.1 at&#xD;
+                  enrollment.&#xD;
+&#xD;
+          -  Osteosarcoma&#xD;
+&#xD;
+               1. Patients must have histologically confirmed osteosarcoma that is recurrent or&#xD;
+                  refractory and for which standard curative measures do not exist or are no longer&#xD;
+                  effective. Must have histologic verification of their disease at diagnosis or at&#xD;
+                  relapse.&#xD;
+&#xD;
+               2. Patients must have at least:&#xD;
+&#xD;
+                    -  Progressive, recurrent, or refractory disease (local recurrence) or new&#xD;
+                       disease after all curative measures, including first-line chemotherapy,&#xD;
+                       targeted therapy, and radiotherapy&#xD;
+&#xD;
+                    -  Evidence of persistent and progressive disease on imaging, which may include&#xD;
+                       fludeoxyglucose F-18 positron emission tomography (PET)-avid metastasis,&#xD;
+                       that has failed to achieve CR to upfront conventional therapy (surgery,&#xD;
+                       chemotherapy), excluding lung metastases amenable to surgical resection.&#xD;
+&#xD;
+               3. Patients must have evaluable or measurable disease per the RECIST v1.1 at&#xD;
+                  enrollment.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Patients who meet any of the following criteria will be excluded from study entry:&#xD;
+&#xD;
+          -  Presence of clinically significant ≥ Grade 3 toxicity from previous anticancer&#xD;
+             treatment, as determined by the PI.&#xD;
+&#xD;
+          -  Presence of fungal, bacterial, viral, or other infection requiring IV antimicrobials&#xD;
+             for management or not responding to appropriate therapy. Note: Patients with simple&#xD;
+             urinary tract infection and uncomplicated bacterial pharyngitis are permitted if&#xD;
+             responding to active treatment. to active treatment.&#xD;
+&#xD;
+          -  Active hepatitis B or C. Human immunodeficiency virus with detectable viral load.&#xD;
+&#xD;
+          -  Presence of active neurological disorder(s).&#xD;
+&#xD;
+          -  Active autoimmune disease within 12 months of enrollment (excluding low-grade&#xD;
+             psoriasis or well-controlled autoimmune thyroid disease).&#xD;
+&#xD;
+          -  Amyloidosis or POEMS syndrome.&#xD;
+&#xD;
+          -  Symptomatic or uncontrolled central nervous system involvement or signs of cord&#xD;
+             compression. In the case radiation therapy is indicated, the washout must be at least&#xD;
+             14 days.&#xD;
+&#xD;
+          -  Patients must not have any other malignancies within the past 2 years except for in&#xD;
+             situ carcinoma of any site, adequately treated (without recurrence post resection or&#xD;
+             post radiotherapy) carcinoma of the cervix or basal or squamous cell carcinomas of the&#xD;
+             skin, or active non-life-threatening second malignancy that would not, in the&#xD;
+             investigator's opinion, potentially interfere with the patient's ability to&#xD;
+             participate and/or complete this trial. Examples include but are not limited to:&#xD;
+             urothelial cancer Grade Ta or T1 and adenocarcinoma of the prostate treated by active&#xD;
+             surveillance.&#xD;
+&#xD;
+          -  Presence of any other serious medical condition that may endanger the patient at&#xD;
+             investigator's discretion, including but not limited to:&#xD;
+&#xD;
+               -  New York Heart Association Class III or IV heart failure&#xD;
+&#xD;
+               -  Myocardial infarction or stroke ≤ 26 weeks prior to CAR.70 NK cell infusion&#xD;
+&#xD;
+               -  Unstable angina within ≤ 13 weeks prior to CAR.70 NK cell infusion unless the&#xD;
+                  underlying disease has been corrected by procedural intervention (e.g., stent,&#xD;
+                  bypass)&#xD;
+&#xD;
+               -  Severe aortic stenosis&#xD;
+&#xD;
+               -  Uncontrolled arrhythmia. PI approval is required for patients with arrhythmia who&#xD;
+                  may be included as an exception.&#xD;
+&#xD;
+               -  Congenital long QT syndrome. PI approval is required.&#xD;
+&#xD;
+               -  Documentation, during the screening process, of a QTc &gt; 470 milliseconds by&#xD;
+                  Fredericia criteria (QTcF) based on the average of 3 electrocardiograms (ECGs)&#xD;
+                  taken approximately 1 minute apart and all within 10 minutes of each other. The&#xD;
+                  patient should be reclining for 5 minutes prior to ECGs. Local readings may be&#xD;
+                  used for this exclusion criterion.&#xD;
+&#xD;
+          -  Major surgery &lt; 4 weeks prior to first dose of lymphodepleting chemotherapy.&#xD;
+&#xD;
+          -  Concomitant use of other investigational agents.&#xD;
+&#xD;
+          -  Concomitant use of other anticancer agents.&#xD;
+&#xD;
+          -  Previously received any anti-CD70 therapy.&#xD;
+&#xD;
+          -  Patients receiving systemic steroid therapy at time of enrollment, with an exception&#xD;
+             for topical, ocular, intranasal, and inhaled corticosteroids, or systemic&#xD;
+             corticosteroids at an equivalent dose ≤ 10 mg of prednisone daily (physiological&#xD;
+             substitutive doses are allowed).&#xD;
+&#xD;
+          -  Received antithymocyte globulin within 14 days or Campath within 28 days of&#xD;
+             enrollment.&#xD;
+&#xD;
+          -  Patients receiving immunosuppressive therapy.&#xD;
+&#xD;
+          -  Pregnant or breastfeeding.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David Hong, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>M.D. Anderson Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>David Hong, MD</last_name>
+    <phone>(713) 563-5844</phone>
+    <email>dshong@mdanderson.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>M D Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Hong, MD</last_name>
+      <phone>713-563-5844</phone>
+      <email>dshong@mdanderson.org</email>
+    </contact>
+    <investigator>
+      <last_name>David Hong, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mdanderson.org</url>
+    <description>M D Anderson Cancer Center</description>
+  </link>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>January 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 27, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>April 3, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 3, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 4, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Renal Cell</mesh_term>
+    <mesh_term>Mesothelioma</mesh_term>
+    <mesh_term>Mesothelioma, Malignant</mesh_term>
+    <mesh_term>Osteosarcoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Fludarabine</mesh_term>
+    <mesh_term>Fludarabine phosphate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

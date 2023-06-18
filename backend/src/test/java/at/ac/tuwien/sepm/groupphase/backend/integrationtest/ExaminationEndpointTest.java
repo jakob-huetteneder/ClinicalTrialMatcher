@@ -145,7 +145,7 @@ public class ExaminationEndpointTest {
     }
 
     @Test
-    public void updateSpecificExaminationAsDoctor() throws Exception {
+    public void testUpdateSpecificExaminationAsDoctor() throws Exception {
         Patient patient = patientDataGenerator.generatePatient();
         ApplicationUser doctor = userDataGenerator.generateUser(Role.DOCTOR);
         Examination examination = examinationDataGenerator.generateExamination();
@@ -179,7 +179,7 @@ public class ExaminationEndpointTest {
     }
 
     @Test
-    public void updateSpecificExaminationAsUser() throws Exception {
+    public void testUpdateSpecificExaminationAsUser() throws Exception {
         Patient patient = patientDataGenerator.generatePatient();
         ApplicationUser user = userDataGenerator.generateUser(Role.PATIENT);
         user = userRepository.save(user);

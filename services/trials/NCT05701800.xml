@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9261">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05701800</url>
+  </required_header>
+  <id_info>
+    <org_study_id>mRNA-1468-P101</org_study_id>
+    <nct_id>NCT05701800</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Safety, Reactogenicity, and Immunogenicity of mRNA-1468 in Healthy Adults ≥50 Years of Age</brief_title>
+  <official_title>A Phase 1/2, Randomized, Observer-Blind, Active-Controlled, Dose-Ranging Study to Evaluate the Safety, Reactogenicity and Immunogenicity of mRNA-1468, a Candidate Vaccine to Prevent Herpes Zoster (HZ) in Healthy Adults ≥50 Years of Age</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ModernaTX, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>ModernaTX, Inc.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main purpose of this first-in-human study is to generate sufficient safety and&#xD;
+      immunogenicity data to enable the selection of an appropriate dose level for the initiation&#xD;
+      of a Phase 2/3 study.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 23, 2023</start_date>
+  <completion_date type="Anticipated">November 29, 2024</completion_date>
+  <primary_completion_date type="Anticipated">November 29, 2024</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number Participants with Solicited Local and Systemic Reactogenicity Adverse Reactions</measure>
+    <time_frame>Up to Day 64 (7 days after each injection)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Unsolicited Adverse Events (AEs)</measure>
+    <time_frame>Up to Day 85 (28 days after each injection)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Serious AEs, Medically Attended AEs, AEs Leading to Discontinuation of Study Vaccine or Withdrawal From the Study, and AEs of Special Interest</measure>
+    <time_frame>Up to Day 393 (Month 14)</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Titer of Anti-glycoprotein E (gE)-specific Binding Antibodies (bAb) as Measured by Enzyme-linked Immunosorbent Assay</measure>
+    <time_frame>Day 85 (1 month after injection)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Geometric Mean Fold Rise of Anti-gE-specific bAb Titer</measure>
+    <time_frame>Baseline, Day 85 and Day 225 (1 and 6 months after each injection)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vaccine Seroresponse Rate of Participants</measure>
+    <time_frame>Day 85 and Day 225 (6 months after each injection)</time_frame>
+    <description>Vaccine seroresponse will be defined as an anti-gE-specific bAb titer ≥4-fold if baseline bAb titer is above the lower limit of quantification (LLOQ) or ≥4 * LLOQ if baseline bAb titer is &lt;LLOQ prior to vaccination.</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Herpes Zoster</condition>
+  <arm_group>
+    <arm_group_label>mRNA-1468: Dose 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive placebo by intramuscular (IM) injection on Day 1 followed with mRNA-1468 by IM injection on Day 57.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>mRNA-1468: Dose 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive mRNA-1468 by IM injection on Day 1 and Day 57.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>mRNA-1468: Dose 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive mRNA-1468 by IM injection on Day 1 and Day 57.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>mRNA-1468: Dose 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive mRNA-1468 by IM injection on Day 1 and Day 57.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Shingrix</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will receive Shingrix by IM injection on Day 1 and Day 57.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>mRNA-1468</intervention_name>
+    <description>Sterile liquid dispersion for injection</description>
+    <arm_group_label>mRNA-1468: Dose 1</arm_group_label>
+    <arm_group_label>mRNA-1468: Dose 2</arm_group_label>
+    <arm_group_label>mRNA-1468: Dose 3</arm_group_label>
+    <arm_group_label>mRNA-1468: Dose 4</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Sterile liquid for injection</description>
+    <arm_group_label>mRNA-1468: Dose 1</arm_group_label>
+    <other_name>Saline</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Shingrix</intervention_name>
+    <description>Sterile suspension for injection</description>
+    <arm_group_label>Shingrix</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Has a body mass index of 18 to &lt;40 kilograms/meter squared at the Screening Visit.&#xD;
+&#xD;
+          -  Females of childbearing potential: have a negative pregnancy test at the Screening&#xD;
+             Visit and on the day of the first vaccination (Day 1); have practiced adequate&#xD;
+             contraception or has abstained from all activities that could result in pregnancy for&#xD;
+             at least 28 days prior to Day 1; have agreed to continue adequate contraception&#xD;
+             through 3 months following vaccine administration; are not currently breastfeeding.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Has a history of HZ within the past 10 years.&#xD;
+&#xD;
+          -  Has been previously vaccinated against varicella or HZ.&#xD;
+&#xD;
+          -  Is acutely ill or febrile&#xD;
+&#xD;
+          -  Body temperature ≥38.0°Celsius/100.4°Fahrenheit 72 hours prior to or at the Screening&#xD;
+             Visit or on Day 1. Participants meeting this criterion may be rescheduled within the&#xD;
+             allowed window.&#xD;
+&#xD;
+          -  Has a current or previous diagnosis of congenital or acquired immunodeficiency,&#xD;
+             immunocompromising/immunosuppressive condition, asplenia, or recurrent severe&#xD;
+             infections. Certain immune-mediated conditions that are well controlled and stable&#xD;
+             (for example, Hashimoto thyroiditis) as well as those that do not require systemic&#xD;
+             immunosuppressive therapy (for example, asthma, psoriasis, or vitiligo) may be&#xD;
+             permitted at the discretion of the Investigator.&#xD;
+&#xD;
+          -  Has a dermatologic condition that could affect local solicited adverse reaction&#xD;
+             assessments (for example, tattoos, psoriasis patches affecting skin over the deltoid&#xD;
+             areas).&#xD;
+&#xD;
+          -  Has any medical, psychiatric, or occupational condition, including reported history of&#xD;
+             substance abuse, that, in the opinion of the Investigator, might pose additional risk&#xD;
+             due to participation in the study or could interfere with the interpretation of study&#xD;
+             results.&#xD;
+&#xD;
+          -  Has a history of myocarditis, pericarditis, or myopericarditis.&#xD;
+&#xD;
+          -  Has a reported history of anaphylaxis or severe hypersensitivity reaction after&#xD;
+             receipt of any mRNA vaccine(s) or any components of the mRNA vaccines.&#xD;
+&#xD;
+          -  Has received systemic immunosuppressants for &gt;14 days in total within 180 days prior&#xD;
+             to Screening Visit (for corticosteroids ≥10 milligrams/day of prednisone or&#xD;
+             equivalent) or is anticipating the need for systemic immunosuppressive treatment at&#xD;
+             any time during participation in the study. Inhaled, nasal, intra-articular and&#xD;
+             topical steroids are allowed.&#xD;
+&#xD;
+          -  Has received systemic immunoglobulins, long-acting biological therapies that affect&#xD;
+             immune responses (for example, Infliximab) or blood products within 90 days prior to&#xD;
+             the Screening Visit or plans to receive them during the study.&#xD;
+&#xD;
+        Other protocol-defined inclusion/exclusion criteria apply.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Moderna Clinical Trials Support Center</last_name>
+    <phone>1-877-777-7187</phone>
+    <email>clinicaltrials@modernatx.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research - Westlake</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tekton Research, Inc - Longmont Center</name>
+      <address>
+        <city>Longmont</city>
+        <state>Colorado</state>
+        <zip>80501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Meridien Research</name>
+      <address>
+        <city>Lakeland</city>
+        <state>Florida</state>
+        <zip>33805</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Floridian Clinical Research</name>
+      <address>
+        <city>Miami Lakes</city>
+        <state>Florida</state>
+        <zip>33016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Trials of Florida, LLC</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33186</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Pulmonary Research Institute, LLC</name>
+      <address>
+        <city>Winter Park</city>
+        <state>Florida</state>
+        <zip>32789</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centricity Research</name>
+      <address>
+        <city>Columbus</city>
+        <state>Georgia</state>
+        <zip>31904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Great Lakes</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60640</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DM Clinical Research- River Forest</name>
+      <address>
+        <city>River Forest</city>
+        <state>Illinois</state>
+        <zip>60305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research - Dakota Dunes</name>
+      <address>
+        <city>Sioux City</city>
+        <state>Iowa</state>
+        <zip>51106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Johnson County Clin-Trials (JCCT)</name>
+      <address>
+        <city>Lenexa</city>
+        <state>Kansas</state>
+        <zip>66219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NOLA Research Works</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research - Medford</name>
+      <address>
+        <city>Medford</city>
+        <state>Oregon</state>
+        <zip>97504</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DM Clinical Research - Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>WR-ClinSearch, LLC</name>
+      <address>
+        <city>Chattanooga</city>
+        <state>Tennessee</state>
+        <zip>37421</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tekton Research</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78745</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Gadolin Research</name>
+      <address>
+        <city>Beaumont</city>
+        <state>Texas</state>
+        <zip>77702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>LinQ Research, LLC</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77087</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DM Clinical Research</name>
+      <address>
+        <city>Tomball</city>
+        <state>Texas</state>
+        <zip>77375</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Works San Juan</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00907</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Puerto Rico</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>January 18, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>April 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 24, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>mRNA-1468</keyword>
+  <keyword>Herpes Zoster vaccine</keyword>
+  <keyword>Moderna</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Herpes Simplex</mesh_term>
+    <mesh_term>Herpes Zoster</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -4,6 +4,9 @@ import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.ExaminationDto;
 
 import java.util.List;
 
+/**
+ * Service for managing examinations.
+ */
 public interface ExaminationService {
 
     /**
@@ -25,7 +28,7 @@ public interface ExaminationService {
     /**
      * Delete a certain examination result.
      *
-     * @param id the id of the patient
+     * @param id            the id of the patient
      * @param examinationId the id of the examination result
      * @return the deleted examination object
      */
@@ -34,7 +37,7 @@ public interface ExaminationService {
     /**
      * View a certain examination result.
      *
-     * @param id the id of the patient
+     * @param id            the id of the patient
      * @param examinationId the id of the examination result
      * @return the viewed examination object
      */

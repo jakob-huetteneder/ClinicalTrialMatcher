@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9157">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05704166</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FMUUH-BC-2201</org_study_id>
+    <nct_id>NCT05704166</nct_id>
+  </id_info>
+  <brief_title>PirfenidoneVsPlacebo as Prophylaxis Against Acute Radiation-induced Lung Injury Following HFRT in Breast Cancer Patients</brief_title>
+  <official_title>Pirfenidone Versus Placebo as Prophylaxis Against Acute Radiation-induced Lung Injury Following Hypofractionated Radiotherapy in Breast Cancer Patients (PRILI): A Phase 2 Randomized, Double-Blind, Placebo-Controlled Study Evaluating</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fujian Medical University Union Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Beijing Continent Pharmaceutical Co, Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Fujian Medical University Union Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The incidence of chest CT manifestations of lung injury after radiotherapy for breast cancer&#xD;
+      is more than 50%. Although the prognosis and quality of life of patients are rarely affected,&#xD;
+      it is still necessary to prevent the occurrence of minor radiation lung injury with the use&#xD;
+      of more novel drugs and subsequent salvage treatment may aggravate the radiation injury. This&#xD;
+      study intends to conduct a randomized, double-blind, single-center clinical study of&#xD;
+      pirfenidone versus placebo in the prevention of acute radiation induced lung injury after&#xD;
+      breast cancer surgery&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The incidence of chest CT manifestations of lung injury after radiotherapy for breast cancer&#xD;
+      is more than 50%. Although the prognosis and quality of life of patients are rarely affected,&#xD;
+      it is still necessary to prevent the occurrence of minor radiation lung injury with the use&#xD;
+      of more novel drugs and subsequent salvage treatment may aggravate the radiation injury. This&#xD;
+      study intends to conduct a randomized, double-blind, single-center clinical study of&#xD;
+      pirfenidone versus placebo in the prevention of acute radiation induced lung injury after&#xD;
+      breast cancer surgery.In this study, the incidence of grade 1-4 radiation lung injury was&#xD;
+      expected to be 60% in the radiotherapy alone group (placebo group), and pirfenidone capsules&#xD;
+      (experimental group) were expected to reduce the incidence of lung injury after radiotherapy&#xD;
+      to 40%. Bilateral test showed a statistical efficacy of 0.8 (α option 0.05). In this study,&#xD;
+      two independent rate comparison sample sizes were used to calculate, Binomial Enumeration&#xD;
+      method was used for 97 patients in both groups, and the expected shedding rate was 10%. 107&#xD;
+      patients were needed in each group, and the total sample size was 214. Biological specimens&#xD;
+      are expected to be obtained from more than 100 patients.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 16, 2023</start_date>
+  <completion_date type="Anticipated">May 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>The biostatistician (Chen Jinhua), who is not related to the statistical analysis of the data management performed in this experiment, used statistical software on the computer to generate random number tables by simple randomization according to the ratio of 1:1 between the experimental group and the control group. According to the existing random number table, the drug was coded by personnel unrelated to this study under the supervision of the clinical trial institution of the unit, and the random number and drug number assigned by the researcher according to the order of case enrollment were administered. The random number table and drug code are sealed together in the blind base as confidential data, and the blind base is kept in two sealed copies in the drug clinical research institution of the sponsor and the main investigator</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in lung injury grading on chest computerized tomography within 3 months after radiotherapy</measure>
+    <time_frame>4 weeks and 12 weeks after radiotherapy</time_frame>
+    <description>Kouloulias scale was used to evaluate the changes of lung injury grading in chest computerized tomography within 3 months after radiotherapy. The higher the grading is, the more serious the lung injury is</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Relationship between biomarkers and radioactive damage</measure>
+    <time_frame>1 week before medication，4 weeks and 12 weeks after radiotherapy</time_frame>
+    <description>The changes of the above cytokines in the blood of patients were monitored before and after radiotherapy, and the correlation between the changes of cytokines and the grade of radiation damage was analyzed</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Relationship between biomarkers and therapy</measure>
+    <time_frame>1 week before medication，4 weeks and 12 weeks after radiotherapy</time_frame>
+    <description>The changes of the above cytokines in the blood of patients were monitored before and after radiotherapy, and the correlation between the changes of cytokines and treatment was analyzed</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>security</measure>
+    <time_frame>Every week of the medication，4 weeks and 12 weeks after radiotherapy</time_frame>
+    <description>use the CTCAE5.0 scale to record adverse events to assess safety</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">214</enrollment>
+  <condition>Acute Lung Injury</condition>
+  <condition>Prevention</condition>
+  <arm_group>
+    <arm_group_label>Pirfenidone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients were given placebo or pirfenidone capsules orally one week before radiotherapy, 200mg/ time, 3 times a day in the first week; 300mg/ time 3 times daily for the second week and 400mg/ time 3 times daily for the third to eighth week. Take it after a meal.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients were given placebo or pirfenidone capsules orally one week before radiotherapy, 200mg/ time, 3 times a day in the first week; 300mg/ time 3 times daily for the second week and 400mg/ time 3 times daily for the third to eighth week. Take it after a meal.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pirfenidone/Placebo</intervention_name>
+    <description>Patients were given drugs orally one week before radiotherapy, 200mg/ time, 3 times a day in the first week; 300mg/ time 3 times daily for the second week and 400mg/ time 3 times daily for the third to eighth week. Take it after a meal.</description>
+    <arm_group_label>Pirfenidone</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Pirfenidone Capsules/Placebo</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  To be enrolled in this study, patients must meet all of the following inclusion&#xD;
+             criteria:&#xD;
+&#xD;
+               1. Breast invasive carcinoma or ductal carcinoma in situ or lobular carcinoma in&#xD;
+                  situ confirmed by histology;&#xD;
+&#xD;
+               2. Age 18-75, female;&#xD;
+&#xD;
+               3. The physical state score of the Eastern Tumor Cooperative Group (ECOG) was 0-2;&#xD;
+&#xD;
+               4. Patients meeting the indications of postoperative radiotherapy and neoadjuvant&#xD;
+                  chemotherapy: clinical stage 3 or above or postoperative ypT3-T4 or N+;&#xD;
+                  Non-neoadjuvant chemotherapy patients: postoperative pathological staging of&#xD;
+                  pT3-T4 or pN2 or above, or positive for upper and lower clavicle and lymph nodes&#xD;
+                  in the internal milk region, or positive for clinical consideration; For patients&#xD;
+                  with pT1-2N1, postoperative adjuvant radiotherapy should be determined based on&#xD;
+                  the patient's age, tumor grade, incisal margin, number of positive lymph nodes,&#xD;
+                  molecular typing, past complications, and patient's intention.&#xD;
+&#xD;
+               5. Radiotherapy regimen was chest wall + supraclavicular 40Gy/15f after root&#xD;
+                  modification, or whole milk ± upper and lower clavicular 40Gy/15f after breast&#xD;
+                  preservation, tumor bed simultaneous supplement 50Gy/15f;&#xD;
+&#xD;
+               6. All screening period laboratory tests should be performed in accordance with&#xD;
+                  protocol requirements and within 28 days prior to enrollment. The values of&#xD;
+                  laboratory tests performed by screening must meet the following criteria:&#xD;
+&#xD;
+                  blood routine check all meet the following criteria: A. Hb≥90g/L; B.&#xD;
+                  ANC≥1.5×109/L; C. PLT≥70×109/L; biochemical examination all meet the following&#xD;
+                  criteria: TBIL &lt; 1.5× upper limit of normal range (ULN); ALT and AST≤2.5 x ULN;&#xD;
+                  Serum Cr≤1.25×ULN or endogenous creatinine clearance ≥45 mL/min (Cockcroft-Gault&#xD;
+                  formula)&#xD;
+&#xD;
+               7. Women who are at risk of becoming pregnant must undergo a negative serum&#xD;
+                  pregnancy test within 7 days before the first dose and be willing to use a highly&#xD;
+                  effective method of contraception during the trial period and 120 days after the&#xD;
+                  last dose of the test drug. Male subjects with a partner of a woman of&#xD;
+                  reproductive age should be surgically sterilized or consent to a highly effective&#xD;
+                  method of contraception during the trial period and 120 days after the last test&#xD;
+                  drug administration;&#xD;
+&#xD;
+               8. The subjects voluntarily joined the study, signed the informed consent, had good&#xD;
+                  compliance, and cooperated with follow-up.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with any of the following criteria were not enrolled in this study&#xD;
+&#xD;
+               1. History and complications A. male breast cancer patients; B. Did not meet the&#xD;
+                  conditions of large segmentation radiotherapy (upper and lower clavicular lymph&#xD;
+                  node metastasis, internal milk lymph node metastasis, the patient refused large&#xD;
+                  segmentation radiotherapy); C. The subject has any active, known, or suspected&#xD;
+                  autoimmune disease. To admit subjects who are in a stable state and do not&#xD;
+                  require systemic immunosuppressive therapy; D. The patient is participating in&#xD;
+                  another clinical study or less than 4 weeks after the end of the previous&#xD;
+                  clinical study; E. Patients with a known or highly suspected history of&#xD;
+                  interstitial pneumonia; Or may interfere with the detection or management of&#xD;
+                  suspected drug-related pulmonary toxicity; F. A history of other malignant&#xD;
+                  tumors; Except in patients who have had potentially curable therapy and have not&#xD;
+                  had disease recurrence for 5 years since treatment began; G. Pregnant women and&#xD;
+                  patients with mental illness; H. Prior treatment with radiotherapy, chemotherapy,&#xD;
+                  etc.; I. Patients with active tuberculosis should be excluded; J. Severe acute or&#xD;
+                  chronic lung infections requiring systemic treatment; K. Patients with obvious&#xD;
+                  blood coughing or daily hemoptysis of half a teaspoon (2.5ml) or more in the 2&#xD;
+                  months before randomization; L. Patients with heart failure (New York Heart&#xD;
+                  Association standard Class III or IV), poor coronary artery disease control or&#xD;
+                  arrhythmia, or a history of myocardial infarction in the 6 months prior to&#xD;
+                  screening despite receiving appropriate medication.&#xD;
+&#xD;
+               2. Physical examination and laboratory examination A. A known history of testing&#xD;
+                  positive for human immunodeficiency virus (HIV) or a known history of acquired&#xD;
+                  immunodeficiency syndrome (AIDS); B. untreated active hepatitis (hepatitis B:&#xD;
+                  HBsAg positive with HBV DNA≥ 500 IU/mL; Hepatitis C: HCV RNA positive and&#xD;
+                  abnormal liver function); Combined with hepatitis B and hepatitis C co-infection.&#xD;
+&#xD;
+               3. As determined by the investigator, the patient may have other factors that may&#xD;
+                  lead to the termination of the study, such as other serious diseases or serious&#xD;
+                  abnormalities in laboratory tests or other factors that may affect the safety of&#xD;
+                  the subjects, or family or social factors such as the collection of test data and&#xD;
+                  samples.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>female only</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yong Yang, Doctor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Director of the radiotherapy department</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yong Yang, Doctor</last_name>
+    <phone>18813019084</phone>
+    <email>dr_yangyong1983@163.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Daxin Huang, Master</last_name>
+    <phone>13655913399</phone>
+    <email>1660579075@qq.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Fujian Medical University Union Hospital</name>
+      <address>
+        <city>Fuzhou</city>
+        <state>Fujian</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <reference>
+    <citation>Overgaard M, Jensen MB, Overgaard J, Hansen PS, Rose C, Andersson M, Kamby C, Kjaer M, Gadeberg CC, Rasmussen BB, Blichert-Toft M, Mouridsen HT. Postoperative radiotherapy in high-risk postmenopausal breast-cancer patients given adjuvant tamoxifen: Danish Breast Cancer Cooperative Group DBCG 82c randomised trial. Lancet. 1999 May 15;353(9165):1641-8. doi: 10.1016/S0140-6736(98)09201-0.</citation>
+    <PMID>10335782</PMID>
+  </reference>
+  <reference>
+    <citation>Clarke M, Collins R, Darby S, Davies C, Elphinstone P, Evans V, Godwin J, Gray R, Hicks C, James S, MacKinnon E, McGale P, McHugh T, Peto R, Taylor C, Wang Y; Early Breast Cancer Trialists' Collaborative Group (EBCTCG). Effects of radiotherapy and of differences in the extent of surgery for early breast cancer on local recurrence and 15-year survival: an overview of the randomised trials. Lancet. 2005 Dec 17;366(9503):2087-106. doi: 10.1016/S0140-6736(05)67887-7.</citation>
+    <PMID>16360786</PMID>
+  </reference>
+  <reference>
+    <citation>EBCTCG (Early Breast Cancer Trialists' Collaborative Group); McGale P, Taylor C, Correa C, Cutter D, Duane F, Ewertz M, Gray R, Mannu G, Peto R, Whelan T, Wang Y, Wang Z, Darby S. Effect of radiotherapy after mastectomy and axillary surgery on 10-year recurrence and 20-year breast cancer mortality: meta-analysis of individual patient data for 8135 women in 22 randomised trials. Lancet. 2014 Jun 21;383(9935):2127-35. doi: 10.1016/S0140-6736(14)60488-8. Epub 2014 Mar 19. Erratum In: Lancet. 2014 Nov 22;384(9957):1848.</citation>
+    <PMID>24656685</PMID>
+  </reference>
+  <reference>
+    <citation>Overgaard M, Nielsen HM, Tramm T, Hojris I, Grantzau TL, Alsner J, Offersen BV, Overgaard J; DBCG Radiotherapy Group. Postmastectomy radiotherapy in high-risk breast cancer patients given adjuvant systemic therapy. A 30-year long-term report from the Danish breast cancer cooperative group DBCG 82bc trial. Radiother Oncol. 2022 May;170:4-13. doi: 10.1016/j.radonc.2022.03.008. Epub 2022 Mar 11.</citation>
+    <PMID>35288227</PMID>
+  </reference>
+  <reference>
+    <citation>Wang SL, Fang H, Hu C, Song YW, Wang WH, Jin J, Liu YP, Ren H, Liu J, Li GF, Du XH, Tang Y, Jing H, Ma YC, Huang Z, Chen B, Tang Y, Li N, Lu NN, Qi SN, Yang Y, Sun GY, Liu XF, Li YX. Hypofractionated Versus Conventional Fractionated Radiotherapy After Breast-Conserving Surgery in the Modern Treatment Era: A Multicenter, Randomized Controlled Trial From China. J Clin Oncol. 2020 Nov 1;38(31):3604-3614. doi: 10.1200/JCO.20.01024. Epub 2020 Aug 11.</citation>
+    <PMID>32780661</PMID>
+  </reference>
+  <reference>
+    <citation>Murray Brunt A, Haviland JS, Wheatley DA, Sydenham MA, Alhasso A, Bloomfield DJ, Chan C, Churn M, Cleator S, Coles CE, Goodman A, Harnett A, Hopwood P, Kirby AM, Kirwan CC, Morris C, Nabi Z, Sawyer E, Somaiah N, Stones L, Syndikus I, Bliss JM, Yarnold JR; FAST-Forward Trial Management Group. Hypofractionated breast radiotherapy for 1 week versus 3 weeks (FAST-Forward): 5-year efficacy and late normal tissue effects results from a multicentre, non-inferiority, randomised, phase 3 trial. Lancet. 2020 May 23;395(10237):1613-1626. doi: 10.1016/S0140-6736(20)30932-6. Epub 2020 Apr 28.</citation>
+    <PMID>32580883</PMID>
+  </reference>
+  <reference>
+    <citation>Offersen BV, Alsner J, Nielsen HM, Jakobsen EH, Nielsen MH, Krause M, Stenbygaard L, Mjaaland I, Schreiber A, Kasti UM, Overgaard J; Danish Breast Cancer Group Radiation Therapy Committee. Hypofractionated Versus Standard Fractionated Radiotherapy in Patients With Early Breast Cancer or Ductal Carcinoma In Situ in a Randomized Phase III Trial: The DBCG HYPO Trial. J Clin Oncol. 2020 Nov 1;38(31):3615-3625. doi: 10.1200/JCO.20.01363. Epub 2020 Sep 10.</citation>
+    <PMID>32910709</PMID>
+  </reference>
+  <reference>
+    <citation>Vicini FA, Cecchini RS, White JR, Arthur DW, Julian TB, Rabinovitch RA, Kuske RR, Ganz PA, Parda DS, Scheier MF, Winter KA, Paik S, Kuerer HM, Vallow LA, Pierce LJ, Mamounas EP, McCormick B, Costantino JP, Bear HD, Germain I, Gustafson G, Grossheim L, Petersen IA, Hudes RS, Curran WJ Jr, Bryant JL, Wolmark N. Long-term primary results of accelerated partial breast irradiation after breast-conserving surgery for early-stage breast cancer: a randomised, phase 3, equivalence trial. Lancet. 2019 Dec 14;394(10215):2155-2164. doi: 10.1016/S0140-6736(19)32514-0. Epub 2019 Dec 5.</citation>
+    <PMID>31813636</PMID>
+  </reference>
+  <reference>
+    <citation>Jung W, Shim SS, Kim K. CT findings of acute radiation-induced pneumonitis in breast cancer. Br J Radiol. 2021 Aug 1;94(1124):20200997. doi: 10.1259/bjr.20200997. Epub 2021 Jun 16.</citation>
+    <PMID>34111374</PMID>
+  </reference>
+  <reference>
+    <citation>Liu Y, Wang W, Shiue K, Yao H, Cerra-Franco A, Shapiro RH, Huang KC, Vile D, Langer M, Watson G, Bartlett G, Ai H, Sheski F, Jin JY, Zellars R, Fu P, Lautenschlaeger T, Kong FS. Risk factors for symptomatic radiation pneumonitis after stereotactic body radiation therapy (SBRT) in patients with non-small cell lung cancer. Radiother Oncol. 2021 Mar;156:231-238. doi: 10.1016/j.radonc.2020.10.015. Epub 2020 Oct 21.</citation>
+    <PMID>33096168</PMID>
+  </reference>
+  <reference>
+    <citation>Li F, Liu H, Wu H, Liang S, Xu Y. Risk factors for radiation pneumonitis in lung cancer patients with subclinical interstitial lung disease after thoracic radiation therapy. Radiat Oncol. 2021 Apr 13;16(1):70. doi: 10.1186/s13014-021-01798-2.</citation>
+    <PMID>33849579</PMID>
+  </reference>
+  <reference>
+    <citation>Jiang W, Song Y, Sun Z, Qiu J, Shi L. Dosimetric Factors and Radiomics Features Within Different Regions of Interest in Planning CT Images for Improving the Prediction of Radiation Pneumonitis. Int J Radiat Oncol Biol Phys. 2021 Jul 15;110(4):1161-1170. doi: 10.1016/j.ijrobp.2021.01.049. Epub 2021 Feb 3.</citation>
+    <PMID>33548340</PMID>
+  </reference>
+  <reference>
+    <citation>Hope AJ, Lindsay PE, El Naqa I, Alaly JR, Vicic M, Bradley JD, Deasy JO. Modeling radiation pneumonitis risk with clinical, dosimetric, and spatial parameters. Int J Radiat Oncol Biol Phys. 2006 May 1;65(1):112-24. doi: 10.1016/j.ijrobp.2005.11.046.</citation>
+    <PMID>16618575</PMID>
+  </reference>
+  <reference>
+    <citation>Mehta V. Radiation pneumonitis and pulmonary fibrosis in non-small-cell lung cancer: pulmonary function, prediction, and prevention. Int J Radiat Oncol Biol Phys. 2005 Sep 1;63(1):5-24. doi: 10.1016/j.ijrobp.2005.03.047.</citation>
+    <PMID>15963660</PMID>
+  </reference>
+  <reference>
+    <citation>Andreassen CN, Overgaard J, Alsner J, Overgaard M, Herskind C, Cesaretti JA, Atencio DP, Green S, Formenti SC, Stock RG, Rosenstein BS. ATM sequence variants and risk of radiation-induced subcutaneous fibrosis after postmastectomy radiotherapy. Int J Radiat Oncol Biol Phys. 2006 Mar 1;64(3):776-83. doi: 10.1016/j.ijrobp.2005.09.014. Epub 2005 Dec 9.</citation>
+    <PMID>16338099</PMID>
+  </reference>
+  <reference>
+    <citation>Tsoutsou PG, Koukourakis MI. Radiation pneumonitis and fibrosis: mechanisms underlying its pathogenesis and implications for future research. Int J Radiat Oncol Biol Phys. 2006 Dec 1;66(5):1281-93. doi: 10.1016/j.ijrobp.2006.08.058.</citation>
+    <PMID>17126203</PMID>
+  </reference>
+  <reference>
+    <citation>Puthawala K, Hadjiangelis N, Jacoby SC, Bayongan E, Zhao Z, Yang Z, Devitt ML, Horan GS, Weinreb PH, Lukashev ME, Violette SM, Grant KS, Colarossi C, Formenti SC, Munger JS. Inhibition of integrin alpha(v)beta6, an activator of latent transforming growth factor-beta, prevents radiation-induced lung fibrosis. Am J Respir Crit Care Med. 2008 Jan 1;177(1):82-90. doi: 10.1164/rccm.200706-806OC. Epub 2007 Oct 4.</citation>
+    <PMID>17916808</PMID>
+  </reference>
+  <reference>
+    <citation>Kim JY, Kim YS, Kim YK, Park HJ, Kim SJ, Kang JH, Wang YP, Jang HS, Lee SN, Yoon SC. The TGF-beta1 dynamics during radiation therapy and its correlation to symptomatic radiation pneumonitis in lung cancer patients. Radiat Oncol. 2009 Nov 27;4:59. doi: 10.1186/1748-717X-4-59.</citation>
+    <PMID>19943923</PMID>
+  </reference>
+  <reference>
+    <citation>Libshitz HI, Shuman LS. Radiation-induced pulmonary change: CT findings. J Comput Assist Tomogr. 1984 Feb;8(1):15-9. doi: 10.1097/00004728-198402000-00003.</citation>
+    <PMID>6690504</PMID>
+  </reference>
+  <reference>
+    <citation>Jenkins P, Welsh A. Computed tomography appearance of early radiation injury to the lung: correlation with clinical and dosimetric factors. Int J Radiat Oncol Biol Phys. 2011 Sep 1;81(1):97-103. doi: 10.1016/j.ijrobp.2010.05.017. Epub 2011 May 3.</citation>
+    <PMID>21543163</PMID>
+  </reference>
+  <reference>
+    <citation>Kouloulias V, Zygogianni A, Efstathopoulos E, Victoria O, Christos A, Pantelis K, Koutoulidis V, Kouvaris J, Sandilos P, Varela M, Aytas I, Gouliamos A, Kelekis N. Suggestion for a new grading scale for radiation induced pneumonitis based on radiological findings of computerized tomography: correlation with clinical and radiotherapeutic parameters in lung cancer patients. Asian Pac J Cancer Prev. 2013;14(5):2717-22. doi: 10.7314/apjcp.2013.14.5.2717.</citation>
+    <PMID>23803021</PMID>
+  </reference>
+  <reference>
+    <citation>Kashihara T, Nakayama Y, Ito K, Kubo Y, Okuma K, Shima S, Nakamura S, Takahashi K, Inaba K, Murakami N, Igaki H, Ohe Y, Kusumoto M, Itami J. Usefulness of Simple Original Interstitial Lung Abnormality Scores for Predicting Radiation Pneumonitis Requiring Steroidal Treatment After Definitive Radiation Therapy for Patients With Locally Advanced Non-Small Cell Lung Cancer. Adv Radiat Oncol. 2020 Oct 31;6(1):100606. doi: 10.1016/j.adro.2020.10.019. eCollection 2021 Jan-Feb.</citation>
+    <PMID>33665489</PMID>
+  </reference>
+  <reference>
+    <citation>Wang SL, Fang H, Song YW, Wang WH, Hu C, Liu YP, Jin J, Liu XF, Yu ZH, Ren H, Li N, Lu NN, Tang Y, Tang Y, Qi SN, Sun GY, Peng R, Li S, Chen B, Yang Y, Li YX. Hypofractionated versus conventional fractionated postmastectomy radiotherapy for patients with high-risk breast cancer: a randomised, non-inferiority, open-label, phase 3 trial. Lancet Oncol. 2019 Mar;20(3):352-360. doi: 10.1016/S1470-2045(18)30813-1. Epub 2019 Jan 30.</citation>
+    <PMID>30711522</PMID>
+  </reference>
+  <reference>
+    <citation>Yorke ED, Jackson A, Rosenzweig KE, Braban L, Leibel SA, Ling CC. Correlation of dosimetric factors and radiation pneumonitis for non-small-cell lung cancer patients in a recently completed dose escalation study. Int J Radiat Oncol Biol Phys. 2005 Nov 1;63(3):672-82. doi: 10.1016/j.ijrobp.2005.03.026. Epub 2005 Jun 4.</citation>
+    <PMID>15939548</PMID>
+  </reference>
+  <reference>
+    <citation>Tsujino K, Hirota S, Kotani Y, Kado T, Yoden E, Fujii O, Soejima T, Adachi S, Takada Y. Radiation pneumonitis following concurrent accelerated hyperfractionated radiotherapy and chemotherapy for limited-stage small-cell lung cancer: Dose-volume histogram analysis and comparison with conventional chemoradiation. Int J Radiat Oncol Biol Phys. 2006 Mar 15;64(4):1100-5. doi: 10.1016/j.ijrobp.2005.09.025. Epub 2005 Dec 20.</citation>
+    <PMID>16373082</PMID>
+  </reference>
+  <reference>
+    <citation>Bradley JD, Hope A, El Naqa I, Apte A, Lindsay PE, Bosch W, Matthews J, Sause W, Graham MV, Deasy JO; RTOG. A nomogram to predict radiation pneumonitis, derived from a combined analysis of RTOG 9311 and institutional data. Int J Radiat Oncol Biol Phys. 2007 Nov 15;69(4):985-92. doi: 10.1016/j.ijrobp.2007.04.077. Epub 2007 Aug 6.</citation>
+    <PMID>17689035</PMID>
+  </reference>
+  <reference>
+    <citation>Shaverdian N, Shepherd AF, Rimner A, Wu AJ, Simone CB 2nd, Gelblum DY, Gomez DR. Need for Caution in the Diagnosis of Radiation Pneumonitis During the COVID-19 Pandemic. Adv Radiat Oncol. 2020 May 5;5(4):617-620. doi: 10.1016/j.adro.2020.04.015. eCollection 2020 Jul-Aug.</citation>
+    <PMID>32377597</PMID>
+  </reference>
+  <reference>
+    <citation>Wang YY, Tian XC, Zhu L, Bai XH, Zhao R. Concomitant Radiation Recall Dermatitis and Radiation Recall Pneumonitis Induced by Pembrolizumab. J Thorac Oncol. 2020 Oct;15(10):e160-e162. doi: 10.1016/j.jtho.2020.05.014. No abstract available.</citation>
+    <PMID>32981602</PMID>
+  </reference>
+  <reference>
+    <citation>Cousin F, Desir C, Ben Mustapha S, Mievis C, Coucke P, Hustinx R. Incidence, risk factors, and CT characteristics of radiation recall pneumonitis induced by immune checkpoint inhibitor in lung cancer. Radiother Oncol. 2021 Apr;157:47-55. doi: 10.1016/j.radonc.2021.01.001. Epub 2021 Jan 14.</citation>
+    <PMID>33453313</PMID>
+  </reference>
+  <reference>
+    <citation>De Giglio A, Scorsetti M, Franceschini D, Massari F, Ardizzoni A. Bilateral radiation recall pneumonitis during immunotherapy for an advanced renal cell carcinoma: A challenging case enhances the need for a multidisciplinary approach. Eur J Cancer. 2021 Jan;143:75-77. doi: 10.1016/j.ejca.2020.10.024. Epub 2020 Dec 7. No abstract available.</citation>
+    <PMID>33279856</PMID>
+  </reference>
+  <reference>
+    <citation>Noble PW, Albera C, Bradford WZ, Costabel U, Glassberg MK, Kardatzke D, King TE Jr, Lancaster L, Sahn SA, Szwarcberg J, Valeyre D, du Bois RM; CAPACITY Study Group. Pirfenidone in patients with idiopathic pulmonary fibrosis (CAPACITY): two randomised trials. Lancet. 2011 May 21;377(9779):1760-9. doi: 10.1016/S0140-6736(11)60405-4. Epub 2011 May 13.</citation>
+    <PMID>21571362</PMID>
+  </reference>
+  <reference>
+    <citation>King TE Jr, Bradford WZ, Castro-Bernardini S, Fagan EA, Glaspole I, Glassberg MK, Gorina E, Hopkins PM, Kardatzke D, Lancaster L, Lederer DJ, Nathan SD, Pereira CA, Sahn SA, Sussman R, Swigris JJ, Noble PW; ASCEND Study Group. A phase 3 trial of pirfenidone in patients with idiopathic pulmonary fibrosis. N Engl J Med. 2014 May 29;370(22):2083-92. doi: 10.1056/NEJMoa1402582. Epub 2014 May 18. Erratum In: N Engl J Med. 2014 Sep 18;371(12):1172.</citation>
+    <PMID>24836312</PMID>
+  </reference>
+  <reference>
+    <citation>Neighbors M, Cabanski CR, Ramalingam TR, Sheng XR, Tew GW, Gu C, Jia G, Peng K, Ray JM, Ley B, Wolters PJ, Collard HR, Arron JR. Prognostic and predictive biomarkers for patients with idiopathic pulmonary fibrosis treated with pirfenidone: post-hoc assessment of the CAPACITY and ASCEND trials. Lancet Respir Med. 2018 Aug;6(8):615-626. doi: 10.1016/S2213-2600(18)30185-1. Epub 2018 Jun 29.</citation>
+    <PMID>30072107</PMID>
+  </reference>
+  <reference>
+    <citation>Behr J, Prasse A, Kreuter M, Johow J, Rabe KF, Bonella F, Bonnet R, Grohe C, Held M, Wilkens H, Hammerl P, Koschel D, Blaas S, Wirtz H, Ficker JH, Neumeister W, Schonfeld N, Claussen M, Kneidinger N, Frankenberger M, Hummler S, Kahn N, Tello S, Freise J, Welte T, Neuser P, Gunther A; RELIEF investigators. Pirfenidone in patients with progressive fibrotic interstitial lung diseases other than idiopathic pulmonary fibrosis (RELIEF): a double-blind, randomised, placebo-controlled, phase 2b trial. Lancet Respir Med. 2021 May;9(5):476-486. doi: 10.1016/S2213-2600(20)30554-3. Epub 2021 Mar 30.</citation>
+    <PMID>33798455</PMID>
+  </reference>
+  <reference>
+    <citation>Simone NL, Soule BP, Gerber L, Augustine E, Smith S, Altemus RM, Mitchell JB, Camphausen KA. Oral pirfenidone in patients with chronic fibrosis resulting from radiotherapy: a pilot study. Radiat Oncol. 2007 May 31;2:19. doi: 10.1186/1748-717X-2-19.</citation>
+    <PMID>17540023</PMID>
+  </reference>
+  <reference>
+    <citation>Sun YW, Zhang YY, Ke XJ, Wu XJ, Chen ZF, Chi P. Pirfenidone prevents radiation-induced intestinal fibrosis in rats by inhibiting fibroblast proliferation and differentiation and suppressing the TGF-beta1/Smad/CTGF signaling pathway. Eur J Pharmacol. 2018 Mar 5;822:199-206. doi: 10.1016/j.ejphar.2018.01.027. Epub 2018 Jan 31.</citation>
+    <PMID>29374548</PMID>
+  </reference>
+  <reference>
+    <citation>Qin W, Liu B, Yi M, Li L, Tang Y, Wu B, Yuan X. Antifibrotic Agent Pirfenidone Protects against Development of Radiation-Induced Pulmonary Fibrosis in a Murine Model. Radiat Res. 2018 Oct;190(4):396-403. doi: 10.1667/RR15017.1. Epub 2018 Jul 17.</citation>
+    <PMID>30016220</PMID>
+  </reference>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>December 21, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>May 25, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 25, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Fujian Medical University Union Hospital</investigator_affiliation>
+    <investigator_full_name>Yong Yang</investigator_full_name>
+    <investigator_title>Chief physician</investigator_title>
+  </responsible_party>
+  <keyword>Pirfenidone</keyword>
+  <keyword>Prophylaxis</keyword>
+  <keyword>Acute Radiation-induced Lung Injury</keyword>
+  <keyword>Breast Cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Injury</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pirfenidone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

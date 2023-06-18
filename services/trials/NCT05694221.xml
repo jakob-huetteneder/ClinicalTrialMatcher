@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9619">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05694221</url>
+  </required_header>
+  <id_info>
+    <org_study_id>YN011-D01</org_study_id>
+    <nct_id>NCT05694221</nct_id>
+  </id_info>
+  <brief_title>Drug Drug Interaction (DDI) Between Supaglutide and Digoxin or Metformin</brief_title>
+  <official_title>A Single-centre, Open Labeled, Fixed-sequence Study to Evaluate the Effect of Supaglutide on Digoxin or Metformin Pharmacokinetics</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shanghai Yinnuo Pharmaceutical Technology Co., Ltd.</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Huashan Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Shanghai Yinnuo Pharmaceutical Technology Co., Ltd.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a study of a drug drug interaction between Supaglutide and Digoxin or Metformin.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a single-centre, open labeled, fixed-sequence study designed to assess the&#xD;
+      pharmacokinetic effects of multiple subcutaneous injections of Supalutide on a single oral&#xD;
+      dose of digoxin or multiple oral doses of metformin. 32 healthy subjects are planned to be&#xD;
+      enrolled and allocated to 2 parallel trial groups, Digoxin combined with Sulpalutide&#xD;
+      injection (Group A) and Metformin combined with Sulpalutide injection (Group B), with 16&#xD;
+      cases in each group, of which no less than 4 were of a single sex.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Group A: Plasma Cmax of digoxin</measure>
+    <time_frame>39 Days</time_frame>
+    <description>when given in combination with supaglutide in healthy volunteers</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Group A: Plasma AUC0-last of digoxin</measure>
+    <time_frame>39 Days</time_frame>
+    <description>when given in combination with suplaglutide in healthy volunteers</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Group A: Plasma AUC0-inf of digoxin</measure>
+    <time_frame>39 Days</time_frame>
+    <description>when given in combination with supaglutide in healthy volunteers</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Group B: Plasma Cmax,ss of Metformin</measure>
+    <time_frame>34 Days</time_frame>
+    <description>when given in combination with supaglutide in healthy volunteers</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Group B: Plasma AUC0-tau of Metformin</measure>
+    <time_frame>34 Days</time_frame>
+    <description>when given in combination with suplaglutide in healthy volunteers</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Group A: Plasma Tmax of Digoxin</measure>
+    <time_frame>39 Days</time_frame>
+    <description>when given in combination with supaglutide in healthy volunteers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Group A: Plasma t1/2 of digoxin</measure>
+    <time_frame>39 Days</time_frame>
+    <description>when given in combination with supaglutide in healthy volunteers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Group A: Plasma CL/F of digoxin</measure>
+    <time_frame>39 Days</time_frame>
+    <description>when given in combination with suplaglutide in healthy volunteers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Group A: Plasma Vz/F of digoxin</measure>
+    <time_frame>39 Days</time_frame>
+    <description>when given in combination with supaglutide in healthy volunteers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Group B: Plasma Tmax of Metformin</measure>
+    <time_frame>34 Days</time_frame>
+    <description>when given in combination with supaglutide in healthy volunteers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Group B: Plasma Cmin,ss of Metformin</measure>
+    <time_frame>34 Days</time_frame>
+    <description>when given in combination with suplaglutide in healthy volunteers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Group B: Plasma t1/2 of Metformin</measure>
+    <time_frame>34 Days</time_frame>
+    <description>when given in combination with suplaglutide in healthy volunteers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Group B: Plasma CL/F of Metformin</measure>
+    <time_frame>34 Days</time_frame>
+    <description>when given in combination with suplaglutide in healthy volunteers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Group B: Plasma Vz/F of metformin</measure>
+    <time_frame>34 Days</time_frame>
+    <description>when given in combination with suplaglutide in healthy volunteers</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">32</enrollment>
+  <condition>Healthy Volunteers</condition>
+  <arm_group>
+    <arm_group_label>Group A: Digoxin combined with Supaglutide group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will receive a single oral dose of 0.25 mg digoxin tablets on Day 1. And will received subcutaneous injection of sulpalutide QW for five weeks（D5-D33）.&#xD;
+Then receive another single oral dose of 0.25 mg digoxin tablets on Day 35.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group B: Metformin combined with Supaglutide Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will receive multiple oral dose of Metformin tablets on Day 1-3. And will received subcutaneous injection of sulpalutide QW for five weeks（D5-D33）.&#xD;
+Then receive another round of Metformin tablets on Day 32-34.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Supaglutide injection</intervention_name>
+    <description>Administered subcutaneously in the Supaglutide arms</description>
+    <arm_group_label>Group A: Digoxin combined with Supaglutide group</arm_group_label>
+    <arm_group_label>Group B: Metformin combined with Supaglutide Group</arm_group_label>
+    <other_name>Diabegone</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Digoxin</intervention_name>
+    <description>Digoxin</description>
+    <arm_group_label>Group A: Digoxin combined with Supaglutide group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Metformin</intervention_name>
+    <description>Metformin</description>
+    <arm_group_label>Group B: Metformin combined with Supaglutide Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Healthy Chinese subjects.&#xD;
+&#xD;
+          2. Age between 18 and 45 years, inclusive.&#xD;
+&#xD;
+          3. Body mass index [BMI = weight (kg)/height2 (m2)] of between 20 and 28 kg/m2 (including&#xD;
+             thresholds), with male subjects weighing no less than 50 kg and female subjects&#xD;
+             weighing no less than 45 kg.&#xD;
+&#xD;
+          4. Subjects with no plan of pragnancy within the screening period up to 3 months after&#xD;
+             the last dose and who are voluntarily using contraception.&#xD;
+&#xD;
+        6. Subjects who are willing and able to comply with all scheduled visits, treatment plan,&#xD;
+        laboratory tests, and other study procedures.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Subjects with a previous or existing history of serious cardiac, hepatic, renal,&#xD;
+             gastrointestinal, neurological, psychiatric abnormalities and metabolic abnormalities.&#xD;
+&#xD;
+          2. Subjects with a previous or existing disease affecting the absorption, distribution,&#xD;
+             metabolism or excretion of drugs, such as active peptic ulcers or bleeding, history of&#xD;
+             ulcers or bleeding, acute and chronic pancreatitis, etc.&#xD;
+&#xD;
+          3. Subjects with a history or family history of C-cell tumours/carcinoma of the thyroid&#xD;
+             gland, or a previous history of thyroid insufficiency or thyroid hormone abnormalities&#xD;
+&#xD;
+          4. Subjects who have undergone major surgery within 4 weeks prior to screening which, in&#xD;
+             the judgment of the investigator, may affect this trial, such as gastric and duodenal&#xD;
+             surgery, cholecystectomy, nephrectomy, or removal of malignant tumours (except for&#xD;
+             previous appendectomy), or those who are scheduled to undergo major surgery during the&#xD;
+             trial&#xD;
+&#xD;
+          5. those with existing symptoms of unexplained infection.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jing Zhang</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Huashan Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yan Zhang</last_name>
+    <phone>13761724886</phone>
+    <email>yan.zhang@innogenpharm.com</email>
+  </overall_contact>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 12, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>January 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Metformin</mesh_term>
+    <mesh_term>Digoxin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

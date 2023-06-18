@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9233">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05702346</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PA20183</org_study_id>
+    <nct_id>NCT05702346</nct_id>
+  </id_info>
+  <brief_title>Enhance Physical Activity in Low-income Black and Hispanic Adults</brief_title>
+  <official_title>A Multi-level Telehealth Intervention to Enhance Physical Activity in Low-income Black and Hispanic Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boston University Charles River Campus</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Boston University Charles River Campus</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The present study aims to test the efficacy of a multi-level telehealth intervention to&#xD;
+      Enhance Physical Activity (EPA) in 300 low-income Black and Hispanic/Latino adults. EPA is&#xD;
+      eight weeks with four weekly, hour-long parts: virtual group exercises, virtual group&#xD;
+      discussions, individual PA participation, and individual phone check-ins. A control group&#xD;
+      will receive health education. The specific aims are to: 1) test if physical activity&#xD;
+      increases significantly more among participants assigned to EPA vs. wait-list controls and 2)&#xD;
+      test if physical function improves significantly more among participants in EPA vs. controls.&#xD;
+      An exploratory third aim will test mechanisms of change associated with EPA.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In the U.S., 77% of Black and 79% of Hispanic/Latino (HLs) adults do not meet physical&#xD;
+      activity (PA) guidelines to engage in moderate to vigorous PA for 150 minutes each week&#xD;
+      compared to 73% of White adults. Low PA leads to chronic conditions such as cardiovascular&#xD;
+      disease, type 2 diabetes, and obesity that result in disability and premature death. For&#xD;
+      Black and HL adults, low PA compounds predispositions to these conditions. Despite the urgent&#xD;
+      need to increase PA among Black and HL adults, solutions to increase PA are not tailored to&#xD;
+      this population. Poverty is more than double for Black (19.5%) and HLs (17%) compared to&#xD;
+      non-HL White adults (8.2%) and meeting PA standards increases with income. Lack of access to&#xD;
+      costly exercise facilities and living in unsafe neighborhoods contribute to low PA among&#xD;
+      Black and HL adults. As an alternative to traditional approaches, virtual guidance (i.e.,&#xD;
+      telehealth) is a feasible and effective way to overcome the lack of access to facilities and&#xD;
+      PA participation in unsafe environments. The present study aims to test the efficacy of a&#xD;
+      multi-level telehealth intervention to Enhance Physical Activity (EPA) in 300 low-income&#xD;
+      Black and HLs. This full-scale, well-powered efficacy study builds on a Phase 1&#xD;
+      pilot-controlled trial of EPA that showed high feasibility and acceptability in low-income&#xD;
+      Black and HLs. EPA is eight weeks with four weekly, hour-long parts: virtual group exercises,&#xD;
+      virtual group discussions, individual PA participation, and individual phone check-ins. Using&#xD;
+      a socio-ecological model of behavior change, EPA addresses PA and physical function at both&#xD;
+      intrapersonal (individual PA participation and individual phone check-ins) and interpersonal&#xD;
+      (virtual group exercises and virtual group discussions) levels. A control group will receive&#xD;
+      health education with the option to receive EPA later. All participants will attend four&#xD;
+      visits: pre-test, post-test 1 after EPA, post-test 2 (6 months after post-test 1), and&#xD;
+      post-test 3 (12 months after post-test 1). EPA is unique compared to other PA interventions&#xD;
+      as it combines standard PA intervention components with factors vital for increasing PA in&#xD;
+      Black and HLs while leveraging social connection: culturally relevant support, group&#xD;
+      discussions targeting discrimination, a telehealth format accessible to low-income people,&#xD;
+      and activities using everyday items or body weight to account for lack of equipment. The&#xD;
+      specific aims are to: 1) test if PA increases significantly more among participants assigned&#xD;
+      to EPA vs. wait-list controls and 2) test if physical function improves significantly more&#xD;
+      among participants in EPA vs. controls. An exploratory aim is to test mechanisms of change&#xD;
+      associated with EPA. Based on the sociocultural component of the National Institute on&#xD;
+      Minority Health and Health Disparities Research Framework, we hypothesize that social&#xD;
+      connection will mediate PA and physical function outcomes for those who receive the EPA&#xD;
+      intervention. This research can elucidate behavioral mechanisms responsible for low PA in&#xD;
+      low-income Black and HL adults and lead to scalable and sustainable multi-level interventions&#xD;
+      to support increased PA for Black and HL communities.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2023</start_date>
+  <completion_date type="Anticipated">November 30, 2028</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2028</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Self-Reported Physical activity</measure>
+    <time_frame>12 months</time_frame>
+    <description>physical activity via the Physical Activity Scale for the Elderly</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Objectively measured Physical activity</measure>
+    <time_frame>12 months</time_frame>
+    <description>accelerometers</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Physical function</measure>
+    <time_frame>12 months</time_frame>
+    <description>physical function via the Short Physical Performance Battery</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Social determinants of health</measure>
+    <time_frame>12 months</time_frame>
+    <description>surveys from the PhenX toolbox</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Social connection</measure>
+    <time_frame>12 months</time_frame>
+    <description>Social Connectedness questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Strength</measure>
+    <time_frame>12 months</time_frame>
+    <description>strength with a hand-held dynamometer</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Physical Activity</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive the EPA intervention.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>This is the control group who will receive written information about health.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Enhance Physical Activity (EPA)</intervention_name>
+    <description>EPA is eight weeks with four weekly, hour-long parts: virtual group exercises, virtual group discussions, individual PA participation, and individual phone check-ins.</description>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  being between 40-70 years old&#xD;
+&#xD;
+          -  ability to speak and read English or Spanish&#xD;
+&#xD;
+          -  ability to comply with study procedures and schedule&#xD;
+&#xD;
+          -  having &lt;150 minutes of weekly physical activity&#xD;
+&#xD;
+          -  willingness to give informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  not independently ambulatory&#xD;
+&#xD;
+          -  having other serious health problems that would make it difficult to participate for&#xD;
+             the duration of the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 10, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>January 18, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 18, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Boston University Charles River Campus</investigator_affiliation>
+    <investigator_full_name>Simone V. Gill</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>exercise</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Deidentified data will be shared with any interested parties and will be disseminated via conferences.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>All scientific data generated from this project will be made available as soon as possible, and no later than the time of publication or the end of the funding period, whichever comes first. The duration of preservation and sharing of the data will be a minimum of 10 years after the funding period.</ipd_time_frame>
+    <ipd_access_criteria>There are no anticipated factors or limitations that will affect the access, distribution or reuse of the de-identified scientific data generated by the study.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

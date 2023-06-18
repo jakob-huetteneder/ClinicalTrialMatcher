@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9777">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05690386</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ASND0034</org_study_id>
+    <nct_id>NCT05690386</nct_id>
+  </id_info>
+  <brief_title>A Trial to Investigate Different Doses of Lonapegsomatropin Compared to Somatropin in Individuals With Turner Syndrome</brief_title>
+  <official_title>New InsiGHTS: A Multicenter, Phase 2, Randomized, Open-label, Active-controlled, Parallel Group Clinical Trial to Investigate the Safety, Tolerability, and Efficacy of Different Dose Levels of Once-weekly Lonapegsomatropin Compared to Daily Somatropin in Prepubertal Individuals With Turner Syndrome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ascendis Pharma Endocrinology Division A/S</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ascendis Pharma A/S</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A 104 week dose finding open label trial of lonapegsomatropin, a long-acting growth hormone&#xD;
+      product, administered once-a-week versus daily somatropin product in prepubertal individuals&#xD;
+      with Turner syndrome. Approximately 48 individuals (12 individuals per arm) will be&#xD;
+      randomized to receive one of three doses of lonapegsomatropin or a daily injection of&#xD;
+      somatropin. This is a trial that will be conducted in the United States.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 15, 2023</start_date>
+  <completion_date type="Anticipated">October 2025</completion_date>
+  <primary_completion_date type="Anticipated">October 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>An open label, parallel group with subjects randomized into 1 of 4 treatment groups (1:1:1:1)</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Annualized Height Velocity (AHV) (cm/year)</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>Calculated based on the difference between the AHV at 6 months and baseline</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Annualized Height Velocity (AHV) (cm/year)</measure>
+    <time_frame>52 weeks and 104 weeks</time_frame>
+    <description>Calculated based on the difference between the AHVs at 12 and 24 months and baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in height standard deviation score (SDS)</measure>
+    <time_frame>26 weeks, 52 weeks and 104 weeks</time_frame>
+    <description>Calculated based on the difference between the heights SDS at 6, 12, and 24 months and baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in Bone age (calculated years)</measure>
+    <time_frame>52 weeks and 104 weeks</time_frame>
+    <description>Annual change in bone age measurements as per Gruelich-Pyle method</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in ratio of bone age/chronological age</measure>
+    <time_frame>104 weeks</time_frame>
+    <description>Calculated as a ratio</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Insulin-like growth factor 1 (IGF-1) standard deviation score (SDS)</measure>
+    <time_frame>26 weeks, 52 weeks, and 104 weeks</time_frame>
+    <description>Via Central Lab analysis</description>
+  </other_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">48</enrollment>
+  <condition>Turner Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Lonapegsomatropin at 0.24 mg hGH/kg/week</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Lonapegsomatropin at 0.24 mg hGH/kg/week administered once-weekly by subcutaneous injection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lonapegsomatropin at 0.30 mg hGH/kg/week</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Lonapegsomatropin at 0.30 mg hGH/kg/week administered once-weekly by subcutaneous injection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lonapegsomatropin at 0.36 mg hGH/kg/week</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Lonapegsomatropin at 0.36 mg hGH/kg/week administered once-weekly by subcutaneous injection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Somatropin at 0.05 mg/kg/day</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Somatropin at 0.05 mg/kg/day administered once-daily by subcutaneous injection</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Lonapegsomatropin</intervention_name>
+    <description>Once-weekly subcutaneous injection of Lonapegsomatropin</description>
+    <arm_group_label>Lonapegsomatropin at 0.24 mg hGH/kg/week</arm_group_label>
+    <arm_group_label>Lonapegsomatropin at 0.30 mg hGH/kg/week</arm_group_label>
+    <arm_group_label>Lonapegsomatropin at 0.36 mg hGH/kg/week</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Somatropin</intervention_name>
+    <description>Once-daily subcutaneous injection of Somatropin</description>
+    <arm_group_label>Somatropin at 0.05 mg/kg/day</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age between 1 and 10 years, inclusive.&#xD;
+&#xD;
+          2. TS diagnosis via genetic test.&#xD;
+&#xD;
+          3. Prepubertal status.&#xD;
+&#xD;
+          4. Naïve to growth hormone therapy or growth hormone secretagogue.&#xD;
+&#xD;
+          5. Exhibit impaired growth defined by at least one of the following:&#xD;
+&#xD;
+               1. AHV&lt; 6 cm/year or &lt;25ᵗʰ percentile over a time span of 6-18 months for children&#xD;
+                  of 2 years and older.&#xD;
+&#xD;
+               2. Height (or length for individuals &lt; 2 years old) &lt;10ᵗʰ percentile for sex and age&#xD;
+                  according to the 2000 CDC Growth Charts for the United States.&#xD;
+&#xD;
+          6. Bone age within normal limits for chronological age, defined as no more than 20% above&#xD;
+             or below chronological age in months or delayed for chronological age (greater than&#xD;
+             20% below chronological age), at screening.&#xD;
+&#xD;
+          7. Biochemically euthyroid (including when on thyroid hormone supplementation).&#xD;
+&#xD;
+          8. If on hormone replacement therapies for any hormone deficiencies other than growth&#xD;
+             hormone (e.g. adrenal, thyroid), must be on adequate and stable doses for ≥4 weeks&#xD;
+             prior to and throughout Screening.&#xD;
+&#xD;
+          9. Fundoscopy at Screening without signs/symptoms of intracranial hypertension or&#xD;
+             proliferative retinopathy or evidence of any other retinal disease for which growth&#xD;
+             hormone therapy is contraindicated.&#xD;
+&#xD;
+         10. Capable of giving signed informed consent. Participants and/or parents or legal&#xD;
+             guardians of participants must sign an informed consent statement. Assent should be&#xD;
+             obtained from all participants competent to understand the protocol, per IRB&#xD;
+             requirements.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Turner Syndrome with presence of Y-chromosomal material on genetic testing and without&#xD;
+             a history of gonadectomy.&#xD;
+&#xD;
+          2. Diagnosis of diabetes mellitus.&#xD;
+&#xD;
+          3. Known history of clinically relevant conditions that may have an effect on growth,&#xD;
+             e.g. but not limited to celiac disease, malnutrition, treatment with potential&#xD;
+             growth-influencing medications for Attention-deficit/ hyperactivity disorder (ADHD),&#xD;
+             etc.&#xD;
+&#xD;
+          4. Any known, clinically significant, congenital or acquired cardiac/cardiovascular&#xD;
+             dysfunction that might interfere with growth as determined by transthoracic&#xD;
+             echocardiogram.&#xD;
+&#xD;
+          5. Known history or presence of malignancy.&#xD;
+&#xD;
+          6. Individuals with history of intracranial tumor or cysts, with evidence of growth&#xD;
+             within the last 12 months prior to Screening.&#xD;
+&#xD;
+             Note - Individuals with a history of intracranial tumor may be eligible if there is no&#xD;
+             evidence of residual tumor as determined by MRI/CT scan(s) performed within 6 to 12&#xD;
+             months prior to screening.&#xD;
+&#xD;
+          7. Hepatic transaminases (i.e., AST or ALT) above 3 times the upper limit of normal&#xD;
+             according to the central laboratory at screening.&#xD;
+&#xD;
+          8. Major medical conditions and/or presence of contraindication to hGH treatment.&#xD;
+&#xD;
+          9. Abnormal renal function.&#xD;
+&#xD;
+         10. Clinically relevant systemic illness, acute critical illness, and complications&#xD;
+             following open heart surgery, abdominal surgery, multiple accidental traumas, acute&#xD;
+             respiratory failure, or similar conditions within 6 months prior to Screening.&#xD;
+&#xD;
+         11. Poorly controlled hypertension.&#xD;
+&#xD;
+         12. Receiving prior or concurrent treatment with any agent that might influence growth or&#xD;
+             interfere with GH secretion or action such as, but not limited to, non steroidal&#xD;
+             anabolic agents, sex steroids, etc.&#xD;
+&#xD;
+         13. Oral/intravenous/intramuscular corticosteroids within 90 days prior to or throughout&#xD;
+             Screening.&#xD;
+&#xD;
+         14. Known or suspected hypersensitivity to study intervention(s) or related products.&#xD;
+&#xD;
+         15. Participation in any other trial involving an investigational compound within 90 days&#xD;
+             prior to Screening or in parallel to this trial.&#xD;
+&#xD;
+         16. Any disease or condition that, in the judgement of the investigator, may make the&#xD;
+             individual unlikely to comply with the protocol or presents undue risk.&#xD;
+&#xD;
+         17. Female who is pregnant, plans to be pregnant, or is breastfeeding.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <minimum_age>1 Year</minimum_age>
+    <maximum_age>10 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Ascendis Pharma</last_name>
+    <phone>+1 650 507 6710</phone>
+    <email>NewInsiGHTSTrial@Ascendispharma.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Ascendis Pharma Investigational Site</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90027</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ascendis Pharma Investigational Site</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ascendis Pharma Investigational Site</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ascendis Pharma Investigational Site</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ascendis Pharma Investigational Site</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32827</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ascendis Pharma Investigational Site</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Florida</state>
+        <zip>33701-4804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ascendis Pharma Investigational Site</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ascendis Pharma Investigational Site</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ascendis Pharma Investigational Site</name>
+      <address>
+        <city>Saint Paul</city>
+        <state>Minnesota</state>
+        <zip>55102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ascendis Pharma Investigational Site</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ascendis Pharma Investigational Site</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ascendis Pharma Investigational Site</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ascendis Pharma Investigational Site</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ascendis Pharma Investigational Site</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ascendis Pharma Investigational Site</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ascendis Pharma Investigational Site</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ascendis Pharma Investigational Site</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ascendis Pharma Investigational Site</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ascendis Pharma Investigational Site</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53211</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 10, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 10, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>May 29, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 29, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Turner Syndrome</mesh_term>
+    <mesh_term>Gonadal Dysgenesis</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

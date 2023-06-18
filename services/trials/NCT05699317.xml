@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9370">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05699317</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PET ET PSYCHOMOT</org_study_id>
+    <nct_id>NCT05699317</nct_id>
+  </id_info>
+  <brief_title>Clinical Use of Cold and Contact Heat-evoked Potentials: Normative Values</brief_title>
+  <official_title>Establishing Normative Values for the Clinical Use of Cold and Contact Heat-evoked Potentials</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Université Catholique de Louvain</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Université Catholique de Louvain</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This prospective interventional study aims at recording contact heat evoked potentials&#xD;
+      (CHEPs) and cold evoked potentials (CEPs) in a healthy population sample in an aim to derive&#xD;
+      normative values which could be used to evaluate evoked potentials (EPs) of patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Population sample of 80 healthy volunteers between 26 and 75 years old will be recruited and&#xD;
+      will be categorized into 5 age subgroups (26-35, 36-45, 46-55, 56-65, 66-75 years old).&#xD;
+&#xD;
+      Upon arrival, participants will be reminded of the aims and of the content of the experiment.&#xD;
+      After informed consent (recorded in writing), healthy subjects will be screened with a&#xD;
+      baseline examination:&#xD;
+&#xD;
+        1. brief neurological examination&#xD;
+&#xD;
+        2. sensory nerve conduction study-related&#xD;
+&#xD;
+        3. quantitative sensory testing&#xD;
+&#xD;
+      If the baseline examination screening is considered normal, CEPs and CHEPs will be performed.&#xD;
+      To avoid bias, the side and order of the tests will be randomized.&#xD;
+&#xD;
+      All thermal stimuli for CEPs and CHEPs will be delivered delivered using a contact thermal&#xD;
+      stimulator (TCS model II.1, QST.Lab, Strasbourg, France).&#xD;
+&#xD;
+      Only stimuli that are safe and acceptable for the subject will be used in the study, and all&#xD;
+      experimental procedures can be interrupted at any time by the participant, with no&#xD;
+      detrimental effect.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 20, 2023</start_date>
+  <completion_date type="Anticipated">September 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Evoked potentials variables</measure>
+    <time_frame>6 months</time_frame>
+    <description>Three peaks will be identified in the individual average waveforms of the ERPs elicited by noxious heat and innocuous cold stimulation: a negative-positive complex maximal at the scalp vertex (N2-P2) and an earlier negative wave maximal over the hemisphere contralateral to the stimulated forearm (N1). Latencies and amplitude of the N2 and P2 peaks will be identified at the vertex electrode (Cz) referenced to the mastoids (M1M2). The latency and amplitude of the earlier N1 will be identified at the temporal electrode contralateral to the stimulated arm (Tc) referenced to the frontal midline electrode (Fz).&#xD;
+Descriptive statistics will be computed for the evoked potentials variables: N1, N2, P2 latencies as well as N1, N2P2 amplitudes, according to gender, height and age category</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Establishing Normative Values of Cold and Contact Heat-evoked Potentials</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Thermal stimuli</intervention_name>
+    <description>Thermal stimuli will be delivered delivered using a contact thermal stimulator (TCS model II.1, QST.Lab, Strasbourg, France).&#xD;
+Target temperatures will be set to reach 10°C (CEP) and 60°C (CHEP) at a rate of 300°C/s.&#xD;
+Stimulus duration will be set 200 ms. The stimulator will be manually held against the skin by the experimenter and slightly displaced within the first 10 cm of the distal extremity of the volar forearm being investigated, marked on the skin of the participant, after each stimulus. A total of 30 stimuli per temperature and testing site will be applied.</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy volunteers between 26 and 75 years old having a normal baseline testing.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age&lt;26 and &gt;75 years old&#xD;
+&#xD;
+          -  Known neurological condition.&#xD;
+&#xD;
+          -  Acute or chronic pain condition.&#xD;
+&#xD;
+          -  Currently taking drugs that may influence the recording of evoked potentials&#xD;
+             (analgesics, psychotropic substances, antiepileptics…).&#xD;
+&#xD;
+          -  History of neurological, or metabolic disorder.&#xD;
+&#xD;
+          -  Inability to complete study task.&#xD;
+&#xD;
+          -  History of chemotherapy.&#xD;
+&#xD;
+          -  Habitual substance abuse(alcoholic beverages intake &gt;21 units/week for males, &gt;14&#xD;
+             units/week for females.)&#xD;
+&#xD;
+          -  Being a volley ball player (due to risk of modified sensibility of the volar forearm&#xD;
+             skin)&#xD;
+&#xD;
+          -  Abnormal baseline neurological, SNC or QST testing&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>26 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>André Mouraux, Prof</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UCLouvain, IONS</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yoshnee Foolchand, MD</last_name>
+    <phone>+32483438840</phone>
+    <email>yoshnee.foolchand@student.uclouvain.be</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>André Mouraux, Pr</last_name>
+    <phone>+32 2 764 73 86</phone>
+    <email>andre.mouraux@uclouvain.be</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Institute of Neuroscience</name>
+      <address>
+        <city>Brussels</city>
+        <state>Woluwe Saint Lambert</state>
+        <zip>1200</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>André MOURAUX, Pr</last_name>
+      <phone>+32 2 764 73 86</phone>
+      <email>andre.mouraux@uclouvain.be</email>
+    </contact>
+    <contact_backup>
+      <last_name>Yoshnee FOOLCHAND, Dr</last_name>
+      <phone>+32483438840</phone>
+      <email>yoshnee.foolchand@student.uclouvain.be</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>January 16, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 16, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>March 9, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 9, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 13, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Healthy participants</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

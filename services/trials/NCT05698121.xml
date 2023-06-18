@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9425">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05698121</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NL81969.078.22</org_study_id>
+    <nct_id>NCT05698121</nct_id>
+  </id_info>
+  <brief_title>Evaluation of a Preparatory eHealth Intervention to Support Cardiac Patients During Their Waiting Period.</brief_title>
+  <acronym>PReCARE</acronym>
+  <official_title>PReCARE - Evaluation of a Preparatory eHealth Intervention for Patients With a Low SEP in Cardiac Rehabilitation: a Pilot Study.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Erasmus Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Erasmus Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this pilot study is to evaluate the feasibility of an eHealth intervention for&#xD;
+      cardiac patients during their waiting period before their rehabilitation.&#xD;
+&#xD;
+      The main questions it aims to answer are:&#xD;
+&#xD;
+        -  What is the feasibility of an eHealth intervention designed for cardiac patients with a&#xD;
+           low socio-economic position during the waiting period before their cardiac&#xD;
+           rehabilitation.&#xD;
+&#xD;
+        -  What is the potential effect of this intervention on patient activation and feelings of&#xD;
+           certainty and guidance.&#xD;
+&#xD;
+      Participants will:&#xD;
+&#xD;
+        -  Be randomised in either intervention or control group&#xD;
+&#xD;
+        -  Fill in a questionnaire at the start of their waiting period (after release from the&#xD;
+           hospital)&#xD;
+&#xD;
+        -  Use the eHealth intervention during their waiting period (usually 2 to 6&#xD;
+           weeks)(intervention group only)&#xD;
+&#xD;
+        -  Fill in a questionnaire at the start of their rehabilitation&#xD;
+&#xD;
+      Researchers will compare intervention and control group to see if the intervention has&#xD;
+      improved patient activation and feelings of certainty and guidance.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Health disparities between socioeconomic classes are growing. Certain neighbourhoods with a&#xD;
+      lower socio-economic position (SEP) display generally a higher prevalence of unhealthy&#xD;
+      lifestyles. A possible cause is lower levels of patient activation (being able to manage your&#xD;
+      health). Improving patient activation for some groups therefore seems important to facilitate&#xD;
+      their success within their cardiac rehabilitation (CR). In a preliminary study we found that&#xD;
+      patients indeed have a passive attitude towards their condition, especially during the&#xD;
+      so-called 'waiting period' (the period between discharge from the hospital and start of the&#xD;
+      rehabilitation). Activating patients in this period could be beneficial for the success of&#xD;
+      their upcoming rehabilitation as well as their long-term health. Therefore, we have developed&#xD;
+      a tailored eHealth intervention aimed at improving patient activation levels by supporting&#xD;
+      patients with a low SEP during their waiting period. The goal of this randomised pilot study&#xD;
+      is to assess the feasibility of this tailored eHealth intervention for cardiac patients with&#xD;
+      a low SEP and explore its effect on patients activation, certainty and guidance compared to&#xD;
+      usual care. The study population consists of patients (&gt;18 years) with a low SEP who are&#xD;
+      eligible for participation in CR and have been referred to CR by their cardiologist.&#xD;
+&#xD;
+      Patients will be enrolled in the intervention group based on randomization. The intervention&#xD;
+      group will use an eHealth application during the waiting period before CR starts. The app&#xD;
+      asks patients to engage with preparatory messages daily. Messages are pre-made and consist of&#xD;
+      videos about the rehabilitation, written tips and spoken success stories. The control group&#xD;
+      will go through the usual waiting period before the start of CR.&#xD;
+&#xD;
+      Both intervention and control group will receive CR as usual, as recommended by guidelines.&#xD;
+      Before CR starts, participants in the intervention group are asked to use an eHealth&#xD;
+      application daily. The app shows daily messages provided by representatives of different&#xD;
+      disciplines within CR. Use of the app per day depends on the length of messages but can range&#xD;
+      between 5 and 10 minutes per day. The content of the app is developed in collaboration with&#xD;
+      healthcare workers at the rehabilitation center. Patients in the control group do not have&#xD;
+      this eHealth application in their waiting period.&#xD;
+&#xD;
+      Both groups will be asked to fill in a questionnaire at two moments during their&#xD;
+      rehabilitation:&#xD;
+&#xD;
+      T1: Face-to-face group meeting within one week after signing enrollment in CR (rehabilitation&#xD;
+      agreement) about demographics, certainty, guidance and activation consisting of 25 questions&#xD;
+      and taking approximately 8 minutes.&#xD;
+&#xD;
+      T2: At the start of the rehabilitation (usually after 2 to 6 weeks from T1) about:&#xD;
+&#xD;
+      Control: Certainty, guidance, and activation consisting of 22 questions taking approximately&#xD;
+      7 minutes.&#xD;
+&#xD;
+      Intervention: Acceptability, certainty, guidance, and activation, consisting of 31 questions&#xD;
+      and taking approximately 10 minutes&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 8, 2023</start_date>
+  <completion_date type="Anticipated">July 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Acceptability of the intervention</measure>
+    <time_frame>During the entire waiting period (usually 2 to 6 weeks)</time_frame>
+    <description>Acceptability will be measured using a self-designed questionnaire (9 items) based on the USE questionnaire.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Use of the intervention</measure>
+    <time_frame>During the entire waiting period (usually 2 to 6 weeks)</time_frame>
+    <description>Use will be determined based on the number of days used, length of use (period from first to last day use), number of viewed messages and time spent per visit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Experience of the intervention</measure>
+    <time_frame>During the entire waiting period (usually 2 to 6 weeks)</time_frame>
+    <description>Experience will be determined based on a thematic analysis of several qualitative semi-structured interviews.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Patient activation</measure>
+    <time_frame>During the entire waiting period (usually 2 to 6 weeks)</time_frame>
+    <description>Patient activation measured using the PAM-13 questionnaire. We use the Dutch translation of this questionnaire consisting of 13 items with a 4-point Likert scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Guidance and certainty</measure>
+    <time_frame>During the entire waiting period (usually 2 to 6 weeks)</time_frame>
+    <description>Feelings of certainty and guidance using a self-designed questionnaire (9 items).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Cardiac Disease</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The intervention group will use an eHealth application during the waiting period before cardiac rehabilitation starts.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The control group will go through the usual waiting period before the start of cardiac rehabilitation.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>CapriXpress</intervention_name>
+    <description>The app is a digital, tailored intervention aimed at activating patients during their waiting period between discharge from hospital and start of their cardiac rehabilitation by providing certainty and guidance. The goal of the intervention is to reach the end-goal: the start of the rehabilitation. Progression towards this end-goal is made automatically as time advances. The intervention provides guidance by providing the patient with a set of daily messages. These messages are pre-made by representatives of different disciplines within cardiac rehabilitation. The messages contain discipline-related information and suggestions as well as a perspective on peer experiences. Each day, the patient is free to choose which and the number of messages to engage with.</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  The patient is eligible for participation in cardiac rehabilitation&#xD;
+&#xD;
+          -  The patient has signed the standard rehabilitation agreement provided by the&#xD;
+             rehabilitation centre and has agreed to be contacted for research purposes&#xD;
+&#xD;
+          -  The patient is aged 18 years or above&#xD;
+&#xD;
+          -  The patient signs an informed consent form&#xD;
+&#xD;
+          -  The patient is sufficient in the Dutch language&#xD;
+&#xD;
+          -  The patient has access to a mobile phone with internet&#xD;
+&#xD;
+          -  The patient is identified as someone with a low SEP, which will be determined by the&#xD;
+             socioeconomic status of the neighbourhood&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Upon referral, the medical status of the patient is screened by a physician of the CR&#xD;
+             center. Patients with severe physical, psychological, or cognitive impairments will&#xD;
+             not be included in the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rita van den Berg-Emons</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Erasmus Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Faber</last_name>
+    <phone>+31640850881</phone>
+    <email>j.faber@erasmusmc.nl</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>van den Berg-Emons</last_name>
+    <email>h.j.g.vandenberg@erasmusmc.nl</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Capri Hartrevalidatie</name>
+      <address>
+        <city>Den Haag</city>
+        <state>Zuid Holland</state>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jasper Faber</last_name>
+      <phone>+31640850881</phone>
+      <email>j.faber@erasmusmc.nl</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Capri Hartrevalidatie</name>
+      <address>
+        <city>Rotterdam</city>
+        <state>Zuid-Holland</state>
+        <zip>3062 MA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Faber</last_name>
+      <phone>+31640850881</phone>
+      <email>j.faber@erasmusmc.nl</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 4, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>February 16, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 16, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 17, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Erasmus Medical Center</investigator_affiliation>
+    <investigator_full_name>Dr. HJG (Rita) van den Berg-Emons</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

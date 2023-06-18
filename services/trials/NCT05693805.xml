@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9638">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05693805</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H-42796</org_study_id>
+    <secondary_id>1R34AT011547-01A1</secondary_id>
+    <nct_id>NCT05693805</nct_id>
+  </id_info>
+  <brief_title>Feasibility of Remote Tai Chi</brief_title>
+  <official_title>Feasibility of Remote-Delivery Interventions: Tai Chi and Wellness for PTSD and Pain in Veterans</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boston University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Center for Complementary and Integrative Health (NCCIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>VA Boston Healthcare System</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tufts Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Boston University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In the proposed trial, the investigators plan to refine interventions, then conduct a small&#xD;
+      randomized trial to provide critical information to inform a future large-scale randomized&#xD;
+      efficacy trial of Tai Chi for Post Traumatic Stress Disorder (PTSD) and chronic pain.&#xD;
+      Building on the combined experience the proposed study will progress in new directions to:&#xD;
+&#xD;
+        1. Adapt, refine, and standardize two 12-week treatment protocols (Tai Chi and a Wellness&#xD;
+           control condition) for Veterans diagnosed with PTSD and chronic musculoskeletal pain&#xD;
+           during Phase One. Tai Chi and Wellness interventions will be adapted for delivery via a&#xD;
+           videoconferencing platform for the population and piloted in a 'dry run'.&#xD;
+&#xD;
+        2. Determine the feasibility and acceptability of a remotely delivered randomized trial of&#xD;
+           these two interventions and the assessment protocols during Phase Two.&#xD;
+&#xD;
+        3. Utilize information from this trial to plan and design a large randomized control study&#xD;
+           evaluating the efficacy of Tai Chi compared to Wellness for improving outcomes for&#xD;
+           Veterans with PTSD and chronic musculoskeletal pain.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 2023</start_date>
+  <completion_date type="Anticipated">December 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Parallel Assignment for Phase One, Random Assignment for Phase Two.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>The blinded evaluator will utilize remote videoconferencing to conduct structured interviews and assess each participant at baseline (prior to randomization), and post-treatment, and (for Phase Two only) at 3-month follow-up.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Participant satisfaction post treatment with interventions being tested</measure>
+    <time_frame>Post-treatment (about 12 weeks)</time_frame>
+    <description>Assessed by the self-administered Client Satisfaction Questionnaire (CSQ), an 8-item scale with individual responses ranging from 1 to 4. Individual items are summed to produce a total score that ranges from 8 to 32 with higher scores reflecting greater satisfaction with treatment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Participant satisfaction at follow-up with interventions being tested</measure>
+    <time_frame>Follow-up (about 6 months)</time_frame>
+    <description>Assessed by the self-administered Client Satisfaction Questionnaire (CSQ), an 8-item scale with individual responses ranging from 1 to 4. Individual items are summed to produce a total score that ranges from 8 to 32 with higher scores reflecting greater satisfaction with treatment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Participant adherence with intervention group sessions</measure>
+    <time_frame>Post-treatment (about 12 weeks)</time_frame>
+    <description>Number of completed remote sessions as monitored by study staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Participant adherence with completion of assessments</measure>
+    <time_frame>Follow-up (about 6 months)</time_frame>
+    <description>Number of completed remote assessments as monitored by study staff</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Burden of administration of the Clinician Administered PTSD Scale, 5th Edition (CAPS-5)</measure>
+    <time_frame>Baseline, post-treatment, and (for Phase Two only) 3-month follow-up</time_frame>
+    <description>Burden will be measured by the number of minutes to administer the CAPS-5, which is a structured diagnostic interview for PTSD that corresponds to the Diagnostic and Statistical Manual of Mental Disorders (DSM)-5 criteria for PTSD symptoms. Higher number of minutes are associated with more burden.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">48</enrollment>
+  <condition>PTSD</condition>
+  <condition>Pain, Chronic</condition>
+  <arm_group>
+    <arm_group_label>Tai Chi Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to this arm will receive a standardized Tai Chi protocol developed for veterans, adapted by the investigators, and administered by experienced VA Tai Chi instructors.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Wellness Group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants randomized to this arm will receive a wellness program that has been successfully used by the investigators in other studies of veterans with chronic pain.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Tai Chi</intervention_name>
+    <description>The remote delivery Tai Chi protocol that will be developed in this study for Veterans with PTSD and pain will be adapted from a protocol that has been well-tested in previous trials All components of the program derive from the classical Yang-style Tai Chi 108 postures, which has been shown to be a moderate intensity exercise. Sessions will last 60 minutes, twice a week for 12 weeks. Experienced instructors will follow the Tai Chi protocol with rigorous quality control procedures. We will provide the patients with printed materials on the Tai Chi program, including Tai Chi principles, practice techniques, and safety precautions. Every session will include: warm up and a review of Tai Chi principles; breathing techniques; meditation with Tai Chi movement; and relaxation.</description>
+    <arm_group_label>Tai Chi Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Wellness program</intervention_name>
+    <description>The Wellness intervention that will be developed for this study will consist of 60-minute sessions that meet twice a week for 12 weeks, and will be facilitated by doctoral level psychology staff and/or psychology trainees who will be supervised by staff. The Wellness intervention will be based on the VA Whole Health Program which helps individuals identify and achieve their personal health goals. The Whole Health Program include modules that address physical activity, personal development, healthy eating and drinking, stress management, relationships, personal surroundings, and spirituality. Using the SMART goals model, participants will set health and wellness goals each week. Discussions about ways to address potential barriers will be included in this condition.</description>
+    <arm_group_label>Wellness Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  PTSD Case Definition. Veterans who meet DSM-5 diagnostic criteria according to DSM-5&#xD;
+             diagnostic algorithm for current PTSD as assessed on the Clinician-Administered PTSD&#xD;
+             Scale for DSM-5 (CAPS-5) will be eligible for the study. A diagnosis of current PTSD&#xD;
+             requires: a traumatic stressor (Criterion A) and the requisite number of symptoms at a&#xD;
+             severity level of 2 or higher in each symptom cluster. Each symptom is rated on a&#xD;
+             severity scale of 0 (no symptoms) to 4 (extreme), with 2 representing clinically&#xD;
+             significant and clearly present symptomatology. An individual must endorse at least&#xD;
+             one reexperiencing (Criterion B) symptom, at least one avoidance (Criterion C)&#xD;
+             symptom, at least two symptoms of negative alterations in cognition and mood&#xD;
+             (Criterion D), and at least two hyperarousal (Criterion E) symptoms. In addition,&#xD;
+             these symptoms must have been present for at least one month (Criterion F) and cause&#xD;
+             either clinically significant distress or functional impairment (Criterion G).&#xD;
+&#xD;
+          -  Chronic pain as indicated by complaints of musculoskeletal pain in one or more body&#xD;
+             regions for six months or more.&#xD;
+&#xD;
+          -  Willing to abstain from initiating evidence-based and mindfulness-based psychotherapy&#xD;
+             for PTSD, pain and related disorders until completion of the study (i.e., prolonged&#xD;
+             exposure, cognitive processing therapy, cognitive-behavioral treatment for insomnia or&#xD;
+             pain, acceptance and commitment therapy, dialectical behavior therapy,&#xD;
+             mindfulness-based stress reduction). Once enrolled, however, if other providers&#xD;
+             prescribe treatment or if participants require additional intervention (such as to&#xD;
+             manage a safety or substance abuse condition), treatment will be allowed, and&#xD;
+             appropriate referrals will be made. Individuals who are currently engaging in&#xD;
+             short-term (e.g., 12-week protocol) evidence-based treatment will not be eligible&#xD;
+             until treatment has ended.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Lacks the capacity to provide consent.&#xD;
+&#xD;
+          -  Diagnosed major medical disorder (e.g., neurological disorder, cancer, chronic&#xD;
+             infectious disease or liver disease) or has a moderate or severe traumatic brain&#xD;
+             injury, which could otherwise explain the health symptoms or interfere with their&#xD;
+             ability to safely engage in Tai Chi exercises.&#xD;
+&#xD;
+          -  Change in psychotropic or pain medication during the past month. This will minimize&#xD;
+             amount of symptom change due to medication alterations. (Once enrolled, medication&#xD;
+             changes are nonetheless expected and will be monitored.)&#xD;
+&#xD;
+          -  Regular current Tai Chi, formal mindfulness meditation program, or yoga practice,&#xD;
+             defined as at least three hours per week for more than three months. (Veterans with&#xD;
+             prior experience who do not currently engage in regular practice at this level will be&#xD;
+             eligible.)&#xD;
+&#xD;
+          -  High risk from a mental health perspective e.g., recent psychiatric hospitalization,&#xD;
+             high risk flag or a note in their VA electronic health record indicating current&#xD;
+             high-risk factors, entered into a drug or alcohol detoxification or rehabilitation&#xD;
+             program, or attempted suicide within the previous year as indicated in their VA&#xD;
+             electronic health record.&#xD;
+&#xD;
+          -  Pregnant or breastfeeding or plans to become pregnant within the year. Enrollment of&#xD;
+             pregnant or breastfeeding participants could potentially complicate outcomes, as new&#xD;
+             symptoms are likely to arise during the course of the intervention that are&#xD;
+             attributable to the pregnancy or breastfeeding and not the intervention or symptoms&#xD;
+             related to PTSD.&#xD;
+&#xD;
+          -  Reports difficulty standing on feet for the majority of a Tai Chi class (approximately&#xD;
+             60 minutes).&#xD;
+&#xD;
+          -  Reports that they have been told by a doctor that they should not engage in physical&#xD;
+             activity unless recommended by a medical team.&#xD;
+&#xD;
+          -  Reports other reason they cannot safely participate in physical activity.&#xD;
+&#xD;
+          -  Concurrent participation in another clinical trial&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Barbara L Niles, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Boston Veterans Administration, BUSM Dept of Psych</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Barbara L Niles, PhD</last_name>
+    <phone>857-364-4128</phone>
+    <email>barbara.niles@va.gov</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>VA Boston Healthcare System</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 12, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 12, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>May 26, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 26, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Tai Chi</keyword>
+  <keyword>PTSD</keyword>
+  <keyword>Chronic musculoskeletal pain</keyword>
+  <keyword>Veterans</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Chronic Pain</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

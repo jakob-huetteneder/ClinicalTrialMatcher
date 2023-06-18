@@ -4,13 +4,22 @@ import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientRequestDto;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
 
+import java.lang.invoke.MethodHandles;
 import java.util.HashSet;
 import java.util.Objects;
 
+/**
+ * Mapper for mapping {@link Patient} to {@link PatientDto} and vice versa.
+ * Also maps {@link Patient} and {@link Doctor} to {@link PatientRequestDto}.
+ */
 @Component
 public class PatientMapper {
+
+    private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
 
     private final UserMapper userMapper;
     private final DiagnosisMapper diagnosisMapper;
@@ -24,7 +33,14 @@ public class PatientMapper {
         this.treatsMapper = treatsMapper;
     }
 
+    /**
+     * Converts a patient DTO to a patient entity.
+     *
+     * @param patientDto the patient DTO to be converted
+     * @return the converted patient entity
+     */
     public Patient patientDtoToPatient(PatientDto patientDto) {
+        LOG.trace("patientDtoToPatient({})", patientDto);
         return new Patient()
             .setId(patientDto.id())
             .setApplicationUser(patientDto.applicationUser() != null ? userMapper.userDetailDtoToApplicationUser(patientDto.applicationUser()) : null)
@@ -35,12 +51,18 @@ public class PatientMapper {
             .setBirthdate(patientDto.birthdate())
             .setGender(patientDto.gender())
             .setTreats(null)
-            .setDiagnoses(patientDto.id() != null ? diagnosisMapper.diagnosisDtoToDiagnosis(patientDto.diagnoses(), patientDto.id()) : new HashSet<>())
-            .setExaminations(patientDto.id() != null ? examinationMapper.examinationDtoToExamination(patientDto.examinations(), patientDto.id()) : new HashSet<>());
+            .setDiagnoses(patientDto.diagnoses() != null ? diagnosisMapper.diagnosisDtoToDiagnosis(patientDto.diagnoses(), patientDto.id()) : new HashSet<>())
+            .setExaminations(patientDto.examinations() != null ? examinationMapper.examinationDtoToExamination(patientDto.examinations(), patientDto.id()) : new HashSet<>());
     }
 
-
+    /**
+     * Converts a patient entity to a patient DTO.
+     *
+     * @param patient the patient entity to be converted
+     * @return the converted patient DTO
+     */
     public PatientDto patientToPatientDto(Patient patient) {
+        LOG.trace("patientToPatientDto({})", patient);
         return new PatientDto(patient.getId(),
             patient.getApplicationUser() == null ? null : userMapper.applicationUserToUserDetailDto(patient.getApplicationUser()),
             patient.getFirstName(),
@@ -53,7 +75,15 @@ public class PatientMapper {
             examinationMapper.examinationToExaminationDto(patient.getExaminations()));
     }
 
+    /**
+     * Converts a patient entity to a patient request DTO.
+     *
+     * @param patient the patient entity to be converted
+     * @param doctor  the doctor entity to be converted
+     * @return the converted patient request DTO
+     */
     public PatientRequestDto patientToPatientRequestDto(Patient patient, Doctor doctor) {
+        LOG.trace("patientToPatientRequestDto({}, {})", patient, doctor);
         return new PatientRequestDto(
             patient.getId(),
             patient.getFirstName(),

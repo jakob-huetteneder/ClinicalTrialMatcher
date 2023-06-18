@@ -4,15 +4,15 @@ import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.UserDetailDto;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
 import com.icegreen.greenmail.configuration.GreenMailConfiguration;
 import com.icegreen.greenmail.junit5.GreenMailExtension;
-import com.icegreen.greenmail.util.GreenMail;
 import com.icegreen.greenmail.util.ServerSetupTest;
-import jakarta.annotation.Resource;
-import jakarta.mail.*;
 import jakarta.mail.internet.MimeMessage;
 import org.awaitility.Awaitility;
 import org.json.JSONException;
 import org.json.JSONObject;
-import org.junit.jupiter.api.*;
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.DisplayNameGeneration;
+import org.junit.jupiter.api.DisplayNameGenerator;
+import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.RegisterExtension;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -21,16 +21,12 @@ import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
-import org.springframework.mail.javamail.JavaMailSenderImpl;
 import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.context.TestPropertySource;
 
-import java.io.IOException;
 import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
 import java.util.concurrent.TimeUnit;
-
-import static java.lang.Thread.sleep;
 
 @DisplayNameGeneration(DisplayNameGenerator.ReplaceUnderscores.class)
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
@@ -46,12 +42,8 @@ class EmailServiceTest {
     @Autowired
     private TestRestTemplate testRestTemplate;
 
-    @Resource
-    private JavaMailSenderImpl emailSender;
-    private GreenMail testSmtp;
-
     @Test
-    void sendVerificationEmail() throws JSONException {
+    void testSendVerificationEmail() throws JSONException {
         JSONObject emailJsonObject = new JSONObject();
         emailJsonObject.put("email", "tester1@spring.com");
         emailJsonObject.put("password", "test");
@@ -81,7 +73,7 @@ class EmailServiceTest {
     }
 
     @Test
-    void setPasswordEmail() throws JSONException {
+    void testSendSetPasswordEmail() throws JSONException {
         JSONObject emailJsonObject = new JSONObject();
         emailJsonObject.put("email", "tester@spring.com");
         emailJsonObject.put("password", "test");

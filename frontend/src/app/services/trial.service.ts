@@ -2,9 +2,9 @@ import {HttpClient, HttpParams} from '@angular/common/http';
 import {Injectable} from '@angular/core';
 import {Observable} from 'rxjs';
 import {environment} from 'src/environments/environment';
-import {Trial} from '../dtos/trial';
 import {Filter} from '../dtos/filter';
-
+import {Trial, TrialRegistration} from '../dtos/trial';
+import {Patient} from '../dtos/patient';
 
 
 const baseUri = environment.backendUrl + '/api/v1/trials';
@@ -60,6 +60,10 @@ export class TrialService {
     return this.http.get<Trial[]>(baseUri + '/researcher');
   }
 
+  getAllMatchingPatients(trialId: number): Observable<Patient[]> {
+    return this.http.get<Patient[]>(baseUri + '/match/' + trialId);
+  }
+
 
   /**
    * Create a new trial in the system.
@@ -92,5 +96,31 @@ export class TrialService {
     return this.http.get<Trial>(baseUri + '/' + id);
   }
 
+  registerAsUser(trialId: number): Observable<void> {
+    return this.http.post<void>(baseUri + '/registration/' + trialId, undefined);
+  }
 
+  registerAsDoctor(trialId: number, patientId: number): Observable<void> {
+    return this.http.post<void>(baseUri + '/registration/' + trialId + '/patient/' + patientId, undefined);
+  }
+
+  checkIfAlreadyApplied(trialId: number): Observable<TrialRegistration> {
+    return this.http.get<TrialRegistration>(baseUri + '/registration/patient/' + trialId);
+  }
+
+  getAllRegistrationsForTrial(trialId: number): Observable<TrialRegistration[]> {
+    return this.http.get<TrialRegistration[]>(baseUri + '/registration/' + trialId);
+  }
+
+  getAllRegistrationsForLoggedInPatient(): Observable<TrialRegistration[]> {
+    return this.http.get<TrialRegistration[]>(baseUri + '/registration');
+  }
+
+  respondToRegistrationProposal(trialId: number, accept: boolean): Observable<TrialRegistration> {
+    return this.http.put<TrialRegistration>(baseUri + '/registration/' + trialId + '/response', accept);
+  }
+
+  respondToRegistrationRequest(trialId: number, patientId: number, accept: boolean): Observable<TrialRegistration> {
+    return this.http.put<TrialRegistration>(baseUri + '/registration/' + trialId + '/patient/' + patientId + '/response', accept);
+  }
 }

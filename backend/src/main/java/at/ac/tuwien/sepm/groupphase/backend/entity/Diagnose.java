@@ -13,6 +13,9 @@ import jakarta.persistence.ManyToOne;
 import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
 import org.hibernate.annotations.OnDelete;
+import org.springframework.data.elasticsearch.annotations.DateFormat;
+import org.springframework.data.elasticsearch.annotations.Field;
+import org.springframework.data.elasticsearch.annotations.FieldType;
 
 import java.time.LocalDate;
 
@@ -36,6 +39,7 @@ public class Diagnose {
 
 
     @Column(name = "date")
+    @Field(type = FieldType.Date, format = DateFormat.year_month_day)
     private LocalDate date;
 
     @Column(name = "note")

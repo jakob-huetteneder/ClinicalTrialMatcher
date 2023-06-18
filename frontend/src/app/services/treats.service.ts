@@ -18,7 +18,7 @@ export class TreatsService {
   /**
    * Get all requests for the logged in.
    *
-   * @Retruns a list of requests from doctors to treat the logged in patient
+   * @returns a list of requests from doctors to treat the logged in patient
    */
   getAllRequests(search: string): Observable<Treats[]> {
     const params = {params: new HttpParams().set('search', search)};

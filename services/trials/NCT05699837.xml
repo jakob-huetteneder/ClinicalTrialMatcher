@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9349">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05699837</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NHS001542(2)</org_study_id>
+    <nct_id>NCT05699837</nct_id>
+  </id_info>
+  <brief_title>Alpha Entrainment for Pain and Sleep (Extension)</brief_title>
+  <official_title>Home-based Brainwave Entrainment Technology (hBET) for Management of Chronic Pain and Sleep Disturbance: EEG Extension to a Feasibility Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Manchester</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Leeds</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Warwick</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Manchester</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Long-term pain affects one-third of the United Kingdom population and can be very disabling.&#xD;
+      People experiencing long-term pain often suffer from disturbed sleep because of their pain&#xD;
+      symptoms, and disturbed sleep can then make their pain symptoms worse. Managing long-term&#xD;
+      pain is also very costly to the National Health Service. The most common treatment is&#xD;
+      prescribed medicines, but these do not always work and can have serious side-effects for some&#xD;
+      patients.&#xD;
+&#xD;
+      The investigators have been developing an alternative approach for treating long-term pain.&#xD;
+      This approach uses simple non-invasive tools to promote some kinds of brain activity over&#xD;
+      others. It involves patients using headphones to listen to some specific sounds, or a headset&#xD;
+      with lights flashing at particular frequencies. The studies undertaken so far seem to show&#xD;
+      that doing this can change how the brain responds to pain. It potentially offers an&#xD;
+      inexpensive yet effective way of reducing pain and improving sleep for patients with&#xD;
+      long-term pain. There are a few small studies that support this approach and more work is&#xD;
+      needed. In a recent study the investigators found that these tools can be reliably used in&#xD;
+      home settings and there were some indications that they improved symptoms. However, sleep was&#xD;
+      only measured with sleep diary and movement detection, there was no direct measurement of&#xD;
+      whether the stimulation frequencies were resulting in the desired brainwave changes. Finally,&#xD;
+      the benefit to symptoms may have been the result of other factors, such as the passage of&#xD;
+      time or placebo effect.&#xD;
+&#xD;
+      Therefore this study extends the experiment, adding more accurate sleep monitoring which&#xD;
+      includes monitoring electrical activity in the brain (EEG), as well as providing rhythmic and&#xD;
+      non-rhythmic stimulation in a randomised order. The aim is to further test the effect of&#xD;
+      these home-based tools with individuals with long-term pain, in a more rigorous way. Up to 30&#xD;
+      participants with long-term pain and pain-related sleep disturbance will use the tools for 30&#xD;
+      minutes at bed time every day for 4 weeks (2 weeks with one type of stimulation, 2 weeks with&#xD;
+      another type). The changes in participants' pain, sleep, brainwave frequencies, fatigue and&#xD;
+      mood will be measured.&#xD;
+&#xD;
+      These findings will inform the planning and design of a future much larger study to test this&#xD;
+      technology, if this is justified by the results.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 19, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Following a baseline period each participant will use two types of sensory stimulation for two weeks, in a randomised order, with a 1 week washout period.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+    <masking_description>The stimulation is delivered via a smartphone application. Each participant will receive one of two versions, which are identical apart from the order in which the two types of stimulation are given. The participant and the investigator enrolling participants and conducting questionnaire and interview outcome assessment, will be masked as to which version they are using. The record of which version was allocated to which participant will be held centrally by co-investigators with no direct participant contact, until results are analysed.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in alpha power from baseline</measure>
+    <time_frame>Daily for 6 weeks</time_frame>
+    <description>Alpha spectral power in active stimulation use periods compared to sham stimulation use periods relative to equivalent baseline periods.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Sleep Quality from baseline, measured with Pittsburgh Sleep Quality Index</measure>
+    <time_frame>Weeks 1, 3 and 6</time_frame>
+    <description>Sleep quality (0-21 score) at the end of 2 week active stimulation use period compared to at the end of 2 week sham stimulation use period each relative to the baseline period.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Daily pain diary</measure>
+    <time_frame>Daily for 6 weeks</time_frame>
+    <description>pain over 24 hours and at night (0-10 NRS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Daily sleep diary; total sleep time</measure>
+    <time_frame>Daily for 6 weeks</time_frame>
+    <description>Total sleep time (minutes)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DREEM headband; total sleep time</measure>
+    <time_frame>Daily for 6 weeks</time_frame>
+    <description>Total sleep time (minutes)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Actigraphy; total sleep time</measure>
+    <time_frame>Daily for 6 weeks</time_frame>
+    <description>Total sleep time (minutes)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Daily sleep diary; sleep onset latency</measure>
+    <time_frame>Daily for 6 weeks</time_frame>
+    <description>Sleep onset latency (minutes)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DREEM headband; sleep onset latency</measure>
+    <time_frame>Daily for 6 weeks</time_frame>
+    <description>Sleep onset latency (minutes)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Actigraphy; sleep onset latency</measure>
+    <time_frame>Daily for 6 weeks</time_frame>
+    <description>Sleep onset latency (minutes)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Daily sleep diary; Wake after sleep onset</measure>
+    <time_frame>Daily for 6 weeks</time_frame>
+    <description>Wake after sleep onset (minutes)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DREEM Headband; Wake after sleep onset</measure>
+    <time_frame>Daily for 6 weeks</time_frame>
+    <description>Wake after sleep onset (minutes)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Actigraphy; Wake after sleep onset</measure>
+    <time_frame>Daily for 6 weeks</time_frame>
+    <description>Wake after sleep onset (minutes)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Daily sleep diary; Sleep Efficiency</measure>
+    <time_frame>Daily for 6 weeks</time_frame>
+    <description>sleep efficiency (%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DREEM headband; Sleep Efficiency</measure>
+    <time_frame>Daily for 6 weeks</time_frame>
+    <description>sleep efficiency (%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Actigraphy; Sleep Efficiency</measure>
+    <time_frame>Daily for 6 weeks</time_frame>
+    <description>sleep efficiency (%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Daily sleep diary; Sleep quality</measure>
+    <time_frame>Daily for 6 weeks</time_frame>
+    <description>Rating of quality (0-5 NRS) and refreshed (0-5 NRS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DREEM headband derived sleep architecture</measure>
+    <time_frame>Daily for 6 weeks</time_frame>
+    <description>Duration in and latency to (minutes) and proportion (%) in each stage (N1, N2, N3, REM)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DREEM headband derived microarousal index</measure>
+    <time_frame>Daily for 6 weeks</time_frame>
+    <description>Microarousal frequency (events/hour)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DREEM headband recorded awakenings</measure>
+    <time_frame>Daily for 6 weeks</time_frame>
+    <description>Awakenings (number)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Brief Pain Inventory Pain Interference score</measure>
+    <time_frame>Weekly for 6 weeks</time_frame>
+    <description>0-10 NRS for pain interference</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Brief Pain Inventory Severity score</measure>
+    <time_frame>Weekly for 6 weeks</time_frame>
+    <description>0-10 NRS for pain severity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital Anxiety and Depression Scale</measure>
+    <time_frame>Weeks 1, 3 and 6</time_frame>
+    <description>Scores of 0-21 for anxiety, 0-21 for depression</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Multidimensional Fatigue Inventory</measure>
+    <time_frame>Weeks 1, 3 and 6</time_frame>
+    <description>Score of 20-100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EuroQol 5 Dimensions (EQ-5D-5L)</measure>
+    <time_frame>Weeks 1, 3 and 6</time_frame>
+    <description>0-1 global index score, 0-100 VAS score.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Pain, Chronic</condition>
+  <condition>Sleep Disturbance</condition>
+  <arm_group>
+    <arm_group_label>hBET 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Rhythmic stimulation (2 weeks) followed by non-rhythmic stimulation (2 weeks)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>hBET 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Non-rhythmic stimulation (2 weeks) followed by rhythmic stimulation (2 weeks)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Audio or visual alpha (10Hz) stimulation</intervention_name>
+    <description>Smartphone app-based brainwave entrainment programme using audio stimulation via binaural beats or visual stimulation via flickering lights, to deliver rhythmic 10Hz or non-rhythmic stimulation</description>
+    <arm_group_label>hBET 1</arm_group_label>
+    <arm_group_label>hBET 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18-80 years&#xD;
+&#xD;
+          -  Chronic non-cancer pain (recurring pain ≥ 3 months duration)&#xD;
+&#xD;
+          -  Diagnosis of fibromyalgia, meeting 2016 ACR criteria.&#xD;
+&#xD;
+          -  Having nocturnal pain (NRS 0-10 worst pain ≥ 4)&#xD;
+&#xD;
+          -  Self-reported sleep difﬁculties (trouble falling asleep, difﬁculty staying asleep,&#xD;
+             waking up too early, or waking up unrefreshed) 3 or more nights per week during the&#xD;
+             past month&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Planned intervention during the study period&#xD;
+&#xD;
+          -  Seizure disorder&#xD;
+&#xD;
+          -  Photosensitivity&#xD;
+&#xD;
+          -  Hearing or sight problems causing inability to use hBET&#xD;
+&#xD;
+          -  Cognitive problems or dementia or mental health disorders causing inability to consent&#xD;
+&#xD;
+          -  Night shift worker&#xD;
+&#xD;
+          -  Any known primary sleep disorder including obstructive sleep apnoea, narcolepsy,&#xD;
+             restless leg syndrome&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anthony KP Jones</last_name>
+    <role>Study Director</role>
+    <affiliation>University of Manchester</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Stephen J Halpin</last_name>
+    <phone>01133922531</phone>
+    <email>stephen.halpin@manchester.ac.uk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Manchester</name>
+      <address>
+        <city>Manchester</city>
+        <state>England</state>
+        <zip>M13 9PL</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephen J Halpin</last_name>
+      <phone>01133922531</phone>
+      <email>stephen.halpin@manchester.ac.uk</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Leeds Community Healthcare NHS Trust</name>
+      <address>
+        <city>Leeds</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephen J Halpin</last_name>
+      <phone>01133922531</phone>
+      <email>stephen.halpin@manchester.ac.uk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>November 22, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 16, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>January 16, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 16, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Manchester</investigator_affiliation>
+    <investigator_full_name>Stephen Halpin</investigator_full_name>
+    <investigator_title>Principle investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dyssomnias</mesh_term>
+    <mesh_term>Parasomnias</mesh_term>
+    <mesh_term>Chronic Pain</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 24, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/37/NCT05699837/SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

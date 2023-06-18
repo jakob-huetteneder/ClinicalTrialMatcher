@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9158">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05704153</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PID2020-117171RA-I00-1A</org_study_id>
+    <nct_id>NCT05704153</nct_id>
+  </id_info>
+  <brief_title>Modelling and Control of Non-invasive Vagus Nerve Stimulation for Autoimmune Diseases (1A)</brief_title>
+  <acronym>VaNeSA</acronym>
+  <official_title>Modelling and Control of Non-invasive Vagus Nerve Stimulation for Autoimmune Diseases (1A)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital Clinic of Barcelona</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Universitat de Girona</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Mutua de Terrassa</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Imperial College London</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hospital Clinic of Barcelona</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overall goal of this clinical trial is to evaluate the causality relationship between the&#xD;
+      non vagus nerve stimulation waveform parameters and the therapeutic effect. Thus, unlocking a&#xD;
+      pathway to optimize parameters that maximize the benefits of therapy and minimize unwanted&#xD;
+      side effects. The experimental design includes the analysis of physiological signals,&#xD;
+      clinical biomarkers of disease, and clinical outcomes to determine the most effective&#xD;
+      measures for the monitoring, optimization, and personalization of non vagus nerve stimulation&#xD;
+      in systemic lupus erythematosus disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 30, 2022</start_date>
+  <completion_date type="Anticipated">October 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>VaNeSA is a multicentre, national, randomized, double-blind, parallel-group, placebo-controlled, outpatient study.</intervention_model_description>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of patients with Systemic Lupus Erythematosus with clinical and analytic change after non-invasive vagus nerve stimulation (nVNS) at different waveform parameters</measure>
+    <time_frame>Visit 1(baseline, exploratory study, up to 30days prior to first nVNS)</time_frame>
+    <description>We will develop an nVNS platform with an integrated nVNS decision support system, including nVNS and physiological wearable sensors, that will optimize nVNS waveform parameters to maximize the therapeutic effect while minimizing unwanted side effects. Therapeutic effect and side effects will be measured by clinical, neurophysiological and analytic tests as described in &quot;secondary outcome measures&quot;.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Blood count</measure>
+    <time_frame>Baseline, after five days of stimulation and 1 month after stimulation. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>Complete blood count</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Erythrocyte sedimentation rate</measure>
+    <time_frame>Baseline, after five days of stimulation and 1 month after stimulation. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>Marker of inflammatory conditions, mm/h</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C-reactive protein</measure>
+    <time_frame>Baseline, after five days of stimulation and 1 month after stimulation. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>Markers of inflammatory conditions, mg/dl</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-dsDNA</measure>
+    <time_frame>Baseline, after five days of stimulation and 1 month after stimulation. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>Serological marker of activity in Systemic lupus erythematosus (SLE) ui/ml</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C3, C4</measure>
+    <time_frame>Baseline, after five days of stimulation and 1 month after stimulation. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>Serological markers of activity in Systemic lupus erythematosus (SLE) g/l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tumoral necrosis factor (TNF), Interleukin (IL) -6, IL-10 and Il1B</measure>
+    <time_frame>Baseline, after five days of stimulation and 1 month after stimulation. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>Levels of pro-inflammatory cytokines, pg/ml</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>High mobility group box 1 protein (HMGB1)</measure>
+    <time_frame>Baseline, after five days of stimulation and 1 month after stimulation. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>Levels of pro-inflammatory cytokines, ui</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Alpha interferon (IFNα)</measure>
+    <time_frame>Baseline, after five days of stimulation and 1 month after stimulation. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>Ratios of IFNα protein, ui</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EuroQol-5D (EQ-5D-5L),</measure>
+    <time_frame>Baseline, days 1-2-3-4-5 of nVNS, after five days of nVNS, after 2 weeks of nVNS, after3 weeks of nVSN. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels and 1 month after nVNS.</time_frame>
+    <description>EQ-5D-5L questionaries. Minimum 1, maximum 3, higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lupus Patient-Reported Outcome (LupusPRO)</measure>
+    <time_frame>Baseline, days 1-2-3-4-5 of nVNS, after five days of nVNS, after 2 weeks of nVNS, after3 weeks of nVSN. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>Lupus PRO questionaries. Minimum 0, maximum 5, higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lupus Quality of Life (LupusQoL)</measure>
+    <time_frame>Baseline, days 1-2-3-4-5 of nVNS, after five days of nVNS, after 2 weeks of nVNS, after3 weeks of nVSN. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>Lupus QoL questionaries. Minimum 1, maximum 7, higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Functional Assessment of Chronic Illness Therapy - Fatigue (FACIT-F)</measure>
+    <time_frame>Baseline, days 1-2-3-4-5 of nVNS, after five days of nVNS, after 2 weeks of nVNS, after3 weeks of nVSN. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>FACIT-F scale. Minimum 0, maximum 4, higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fatigue Severity Scale (FSS)</measure>
+    <time_frame>Baseline, days 1-2-3-4-5 of nVNS, after five days of nVNS, after 2 weeks of nVNS, after3 weeks of nVSN. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>FSS. Minimum 1, maximum 7, higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Composite Autonomic Symptom Score (Compass-31)</measure>
+    <time_frame>Baseline, after five days of stimulation and 1 month after stimulation. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>Self-scoring Compass 31 autonomic assessment. Minimum 0, maximum 100, higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>28-joint count</measure>
+    <time_frame>Baseline, days 1-2-3-4-5 of nVNS, after five days of nVNS, after 2 weeks of nVNS, after3 weeks of nVSN. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>28-joint count will be used to assess articular involvement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physician's Global Assessment (PGA)</measure>
+    <time_frame>Baseline, days 1-2-3-4-5 of nVNS, after five days of nVNS, after 2 weeks of nVNS, after3 weeks of nVSN. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>PGA as non-specific activity scale. Minimum 0, maximum 3, higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patients' Global Assessment (PtGA)</measure>
+    <time_frame>Baseline, days 1-2-3-4-5 of nVNS, after five days of nVNS, after 2 weeks of nVNS, after3 weeks of nVSN. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>PtGA as non-specific activity scale. Minimum 0, maximum 100, higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cutaneous Lupus Erythematosus Disease Area and Severity Index (CLASI)</measure>
+    <time_frame>Baseline, days 1-2-3-4-5 of nVNS, after five days of nVNS, after 2 weeks of nVNS, after3 weeks of nVSN. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>CLASI will be used to evaluate skin involvement.Minimum 0, maximum 100, higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Numeric scale ranges (NRS)</measure>
+    <time_frame>Baseline, days 1-2-3-4-5 of nVNS, after five days of nVNS, after 2 weeks of nVNS, after3 weeks of nVSN. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>11-point NRS scale for pain. Minimum 0, maximum 10, higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Visual Analog Scale (VAS)</measure>
+    <time_frame>Baseline, days 1-2-3-4-5 of nVNS, after five days of nVNS, after 2 weeks of nVNS, after3 weeks of nVSN. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>VSA for pain. Minimum 0, maximum 10, higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>High-frequency power, low-frequency power</measure>
+    <time_frame>Baseline, after five days of stimulation and 1 month after stimulation. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>Continuous electrocardiogram will be recorded at rest for 5 minutes for heart rate variability (HRV) analysis (high-frequency power HF, low-frequency power LF), m2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>LF to HF power ratio</measure>
+    <time_frame>Baseline, after five days of stimulation and 1 month after stimulation. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>Continuous electrocardiogram will be recorded at rest for 5 minutes for heart rate variability (HRV) analysis ( LF to HF power ratio)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cardiovagal evaluation. (Composite autonomic scoring scale)</measure>
+    <time_frame>Baseline, after five days of stimulation and 1 month after stimulation. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>Continuous electrocardiogram heart rate changes during deep breathing and postural changes (beats per minute).Composite autonomic scoring scale minimun 0, maximum 3, higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vasalva ratio</measure>
+    <time_frame>Baseline, after five days of stimulation and 1 month after stimulation. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>Continuous electrocardiogram heart rate changes during Valsalva manoeuvre (ratio).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sympathetic evaluation (Composite autonomic scoring scale)</measure>
+    <time_frame>Baseline, after five days of stimulation and 1 month after stimulation. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>Beat-to-beat blood pressure changes to isometric exercise, Valsalva manoeuvre and postural changes, (mmHg). Composite autonomic scoring scale minimun 0, maximum 4, higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Systemic Lupus Erythematosus Disease Activity Index 2000 (SLEDAI-2K)</measure>
+    <time_frame>Baseline, days 1-2-3-4-5 of nVNS, after five days of nVNS, after 2 weeks of nVNS, after3 weeks of nVSN. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>Disease-specific activity scale. Minimum 0, maximum 105, higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>BILAG-2004</measure>
+    <time_frame>Baseline, days 1-2-3-4-5 of nVNS, after five days of nVNS, after 2 weeks of nVNS, after3 weeks of nVSN. Additionally, 2 and 3months after stimulation if the biomarkers and scales of activity do not return to baseline levels</time_frame>
+    <description>Disease-specific activity scale. Minimum 0, maximum 32, higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">18</enrollment>
+  <condition>Systemic Lupus Erythematosus</condition>
+  <condition>Autoimmune Disorder</condition>
+  <condition>Vagus Nerve Autonomic Disorder</condition>
+  <arm_group>
+    <arm_group_label>Sham</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Control group to be subjected to sham stimulation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>30 hertz (Hz) Stimulation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Group of patients treated via 30Hz transcutaneous electrical nerve stimulation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>1Hz Stimulation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Group of patients treated via 1Hz transcutaneous electrical nerve stimulation</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Parasym 1Hz</intervention_name>
+    <description>Transcutaneous auricular vagus nerve stimulation of 1Hz</description>
+    <arm_group_label>1Hz Stimulation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Parasym 30Hz</intervention_name>
+    <description>Transcutaneous Auricular Vagus Nerve Stimulation of 30Hz</description>
+    <arm_group_label>30 hertz (Hz) Stimulation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Sham Intervention</intervention_name>
+    <description>Sham stimulation</description>
+    <arm_group_label>Sham</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Systemic lupus erythematosus (SLE) (defined by the American College of Rheumatology-&#xD;
+             or SLICC criteria)&#xD;
+&#xD;
+          -  Musculoskeletal pain ≥ 4 on a non-anchored VAS 10 cm scale&#xD;
+&#xD;
+          -  BILAG C on Musculoskeletal Domain of the BILAG 2004&#xD;
+&#xD;
+          -  If on corticosteroids, the dose must be stable and ≤ 10mg/day (prednisone or&#xD;
+             equivalent) for at least 28 days before baseline,&#xD;
+&#xD;
+          -  If on background immunosuppressive treatment the dose must be stable for at least 28&#xD;
+             days before baseline&#xD;
+&#xD;
+          -  Able and willing to give written informed consent and comply with the requirements of&#xD;
+             the study protocol.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Treatment with rituximab within one year of baseline as it is related to lymphocyte&#xD;
+             depletion that could alter the result of the biomarker study (subjects with previous&#xD;
+             treatment with rituximab can enter study only with documentation of B cell repletion).&#xD;
+&#xD;
+          -  Treatment with cyclophosphamide within 2 months of baseline as it is related to&#xD;
+             lymphocyte depletion that could alter the result of the biomarker study.&#xD;
+&#xD;
+          -  Expectation to increase steroids and/or immunosuppressive treatment.&#xD;
+&#xD;
+          -  Anti-phospholipid syndrome.&#xD;
+&#xD;
+          -  Fibromyalgia (fibromyalgia will be defined as a score &gt; 13 on the Fibromyalgia Symptom&#xD;
+             Scale), chronic fatigue syndrome.&#xD;
+&#xD;
+          -  Treatment with an anti-cholinergic or sympathicomimetic medication, including over the&#xD;
+             counter medications.&#xD;
+&#xD;
+          -  Implantable electronic devices such as pacemakers, defibrillators, hearing aids,&#xD;
+             cochlear implants or deep brain stimulators.&#xD;
+&#xD;
+          -  Joint replacement within 60 days prior to study enrolment or planned within the course&#xD;
+             of the study.&#xD;
+&#xD;
+          -  Any planned surgical procedure requiring general anaesthesia within the course of the&#xD;
+             study.&#xD;
+&#xD;
+          -  Intra-articular cortisone injections within 28 days of the start of study.&#xD;
+&#xD;
+          -  Chronic inflammatory disorders apart from SLE affecting the joints.&#xD;
+&#xD;
+          -  Investigational drug and/or treatment during the 28 days or seven half-lives of the&#xD;
+             investigational drug prior to the start of study drug dosing (Day 0), whichever is the&#xD;
+             greater length of time.&#xD;
+&#xD;
+          -  Active infection including hepatitis B, hepatitis C or HIV at baseline due to high&#xD;
+             prevalence of neuropathy.&#xD;
+&#xD;
+          -  Any condition which, in the opinion of the investigator, would jeopardize the&#xD;
+             subject's safety following exposure to a study intervention.&#xD;
+&#xD;
+          -  Pregnancy or lactation.&#xD;
+&#xD;
+          -  Haemoglobin below 9.0 gm/dL (by the most recent CBC) as anaemia is related to no-&#xD;
+             neurogenic orthostatic hypotension and increases cardiovascular symptoms in COMPASS 31&#xD;
+             scale&#xD;
+&#xD;
+          -  Comorbid disease that may require administration of corticosteroid use.&#xD;
+&#xD;
+          -  Inability to comply with study and follow-up procedures.&#xD;
+&#xD;
+          -  Known cardiac arrhythmia, severe cardiac disease or neurodegenerative disease.&#xD;
+&#xD;
+          -  Known or confirmed at baseline screening peripheral or autonomic nervous system&#xD;
+             involvement, including LES-related, toxic polyneuropathies, metabolic neuropathies&#xD;
+             (including diabetes), etc.&#xD;
+&#xD;
+          -  Previous experience with vagus nerve stimulation devices&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Judith Navarro, MD</last_name>
+    <phone>0034</phone>
+    <email>JNAVARR1@clinic.cat</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital Clinic</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Judith Navarro, MD</last_name>
+      <phone>93 227 54 00</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <link>
+    <url>https://micelab.udg.edu/projects/</url>
+    <description>Framework of the general project lead by Iván Contreras : VaNeSA</description>
+  </link>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>October 4, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>January 19, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 19, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hospital Clinic of Barcelona</investigator_affiliation>
+    <investigator_full_name>Judith Navarro, MD PhD</investigator_full_name>
+    <investigator_title>Consultant Neurologist</investigator_title>
+  </responsible_party>
+  <keyword>Parasympathetic Nervous System</keyword>
+  <keyword>Vagus Nerve Stimulation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Autonomic Nervous System Diseases</mesh_term>
+    <mesh_term>Primary Dysautonomias</mesh_term>
+    <mesh_term>Lupus Erythematosus, Systemic</mesh_term>
+    <mesh_term>Autoimmune Diseases</mesh_term>
+    <mesh_term>Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

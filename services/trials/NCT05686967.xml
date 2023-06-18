@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9945">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05686967</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-1521</org_study_id>
+    <secondary_id>R56AG072094</secondary_id>
+    <nct_id>NCT05686967</nct_id>
+  </id_info>
+  <brief_title>MitoQ and Exercise Effects on Vascular Health</brief_title>
+  <acronym>MITO-STEP</acronym>
+  <official_title>MitoQ Supplementation for Restoring Aerobic Exercise Training Effects on Endothelial Function in Postmenopausal Women</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Colorado, Denver</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Colorado, Denver</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      An impairment in vascular function can lead to the development of age-associated&#xD;
+      cardiovascular disease (CVD), the leading cause of death in postmenopausal women. Regular&#xD;
+      aerobic exercise (AE) benefits vascular function in older men by reducing oxidative stress,&#xD;
+      however, similar AE training improvements are diminished or absent in postmenopausal women.&#xD;
+      not using estrogen-based hormone therapy. Vascular function and oxidative stress are improved&#xD;
+      with AE training in postmenopausal women treated with E2, suggesting an essential role of E2&#xD;
+      in vascular adaptations to AE in women. Clinical use of E2 is contraindicated for this&#xD;
+      purpose, thus establishing alternative pharmacological approaches that could be administered&#xD;
+      as a substitute for E2 to improve AE signaling for vascular benefits and reducing CVD risk in&#xD;
+      E2-deficient postmenopausal women is biomedically important. The mitochondrial-targeted&#xD;
+      antioxidant MitoQ may be an alternative to E2 for restoring AE benefits in E2-deficient&#xD;
+      postmenopausal women given its recently established effectiveness for reducing oxidative&#xD;
+      stress and improving vascular function in that population. Accordingly, the overall aim of&#xD;
+      this application is to assess the efficacy of a 12-week randomized controlled trial of&#xD;
+      moderate intensity AE training combined with oral MitoQ (20 mg/d) compared to AE+oral placebo&#xD;
+      (PL) or No AE+MitoQ on vascular vasodilatory function (brachial artery flow-mediated&#xD;
+      dilation; FMD) in healthy E2-deficient postmenopausal women. Insight into the causes for the&#xD;
+      improvement related to molecules (e.g., nitric oxide) that promote vasodilation,&#xD;
+      mitochondrial function, oxidative stress, and the influence of &quot;circulating factors&quot; will&#xD;
+      also be obtained. We hypothesize that AE+MitoQ will improve both FMD &gt; AE+PL and &gt; No&#xD;
+      AE+MitoQ, and that No AE+MitoQ will improve FMD &gt; AE+PL. The greater improvements in&#xD;
+      endothelial function with AE+MitoQ vs. both AE+PL and No AE+MitoQ, and with No AE+MitoQ vs.&#xD;
+      AE+PL will be mediated by greater improvements in nitric oxide production, mitochondrial&#xD;
+      function, and mitochondrial and oxidative stress linked, at least in part, to changes in&#xD;
+      &quot;circulating factors&quot;. The expected results from this study will establish the efficacy of&#xD;
+      MitoQ for restoring AE-vascular signaling in E2-deficient postmenopausal women and will&#xD;
+      provide the foundation for development of evidence-based guidelines for sex-specific AE&#xD;
+      programs for improving vascular health and preventing CVD in postmenopausal women.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 16, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2024</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Participants, investigators and assessor will be blinded to MitoQ or Placebo. Participants will not be blinded to exercise or no exercise; investigators and assessor will be blinded.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline Endothelial function at 10 weeks</measure>
+    <time_frame>Baseline and after 10 weeks</time_frame>
+    <description>Brachial artery flow-mediated dilation</description>
+  </primary_outcome>
+  <other_outcome>
+    <measure>Change from baseline in Change in Suppression of endothelial function by mitochondrial oxidative stress at 10 weeks</measure>
+    <time_frame>Baseline and 10 weeks</time_frame>
+    <description>Change in brachial artery flow-mediated dilation with acute supratherapeutic MitoQ dosed at 160mg</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change from baseline in Serum exposure-induced endothelial cell reactive oxygen species production at 10 weeks</measure>
+    <time_frame>Baseline and 10 weeks</time_frame>
+    <description>Endothelial cell whole-cell (CellROX) and mitochondria-specific (MitoSOX) reactive oxygen species levels after treatment with serum from subjects</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change from baseline Serum exposure-induced endothelial cell nitric oxide production from at 10 weeks</measure>
+    <time_frame>Baseline and 10 weeks</time_frame>
+    <description>Endothelial cell DAF-FM before and after addition of 200 µM Ach will quantify the capacity of HUVECs to generate nitric oxide after treatment with serum from subjects</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Aging</condition>
+  <condition>Menopause</condition>
+  <arm_group>
+    <arm_group_label>Aerobic Exercise plus MitoQ</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Moderate intensity aerobic exercise, 50 minutes of treadmill exercise, 65-75% of maximal heart rate, 3 d/week for 10 weeks plus experimental MitoQ, 20mg/d.&#xD;
+Each MitoQ capsule contains 20 mg of mitoquinol mesylate. Dosage: 20 mg orally per day for 10 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Aerobic Exercise plus Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Moderate intensity aerobic exercise, 50 minutes of treadmill exercise, 65-75% of maximal heart rate, 3 d/week for 10 weeks plus matching placebo capsule/d for 10 weeks.&#xD;
+Matched placebo capsules.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No Exercise plus MitoQ</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>No exercise plus experimental MitoQ, 20mg/d. Each MitoQ capsule contains 20 mg of mitoquinol mesylate. Dosage: 20 mg orally per day for 10 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>MitoQ</intervention_name>
+    <description>MitoQ is a biochemically modified form of ubiquinol</description>
+    <arm_group_label>Aerobic Exercise plus MitoQ</arm_group_label>
+    <arm_group_label>No Exercise plus MitoQ</arm_group_label>
+    <other_name>Mitoquinol</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Each placebo capsule contains inert excipient and is identical in appearance</description>
+    <arm_group_label>Aerobic Exercise plus Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Aerobic exercise</intervention_name>
+    <description>Moderate intensity aerobic exercise on the treadmill</description>
+    <arm_group_label>Aerobic Exercise plus MitoQ</arm_group_label>
+    <arm_group_label>Aerobic Exercise plus Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  resting blood pressure &lt;140/90 mmHg;&#xD;
+&#xD;
+          -  fasted glucose &lt;126 mg/dL;&#xD;
+&#xD;
+          -  sedentary/recreationally active (&lt;2 days/wk vigorous exercise);&#xD;
+&#xD;
+          -  healthy, as determined by medical history, physical examination, standard blood&#xD;
+             chemistries (chemistry panel, CBC and circulating thyroid levels) and ECG at rest and&#xD;
+             during exercise;&#xD;
+&#xD;
+          -  nonsmokers;&#xD;
+&#xD;
+          -  no use of medications that might influence cardiovascular function (i.e.,&#xD;
+             antihypertensive, lipid lowering medications, blood thinners);&#xD;
+&#xD;
+          -  no use of vitamin supplements or anti-inflammatory medications, or willing to stop 1&#xD;
+             month prior to enrollment and for the duration of the study;&#xD;
+&#xD;
+          -  no use of HT for at least 6 months;&#xD;
+&#xD;
+          -  body mass index &lt;40kg/m2.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Volunteers will be excluded from the study if they have contraindications to MitoQ or&#xD;
+             AE.&#xD;
+&#xD;
+          -  acute liver disease, history of venous thromboembolic events, preexisting or active&#xD;
+             cardiac, renal or hepatic disease, history of stomach ulcer or bleeding or epilepsy or&#xD;
+             other seizure disorder;&#xD;
+&#xD;
+          -  diabetes, active infection, disease that affects the nervous system,&#xD;
+&#xD;
+          -  an abnormal resting ECG, angina and/or ECG evidence of acute myocardial ischemia&#xD;
+             during the exercise test (development of ST-segment depression of more than 0.3 mV&#xD;
+             that is either horizontal, down-sloping, or slowly upsloping -less than 1 mvolt/sec&#xD;
+             and lasts more than 0.08 sec; ST elevation; chest pain or discomfort), bundle branch&#xD;
+             blocks, A-V block greater than first degree, arrhythmias;&#xD;
+&#xD;
+          -  chronic infections;&#xD;
+&#xD;
+          -  thyroid dysfunction, defined as an ultrasensitive TSH &lt;0.5 or &gt;5.0 mU/L; volunteers&#xD;
+             with abnormal TSH values will be re-considered for participation in the study after&#xD;
+             follow-up evaluation by the PCP with initiation or adjustment of thyroid hormone&#xD;
+             replacement;&#xD;
+&#xD;
+          -  orthopedic or other problems that would interfere with participation in the exercise&#xD;
+             program&#xD;
+&#xD;
+        The volunteers who choose to participate will do so with the understanding that they will&#xD;
+        be randomly assigned to study groups that involve either AE+PL (33% chance), No AE+MitoQ&#xD;
+        (33% chance) or AE+MitoQ (33% chance).&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>Cisgender women</gender_description>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>120 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kerrie L Moreau, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Colorado - Anschutz Medical Campus</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kerrie L Moreau, PhD</last_name>
+    <phone>3037241914</phone>
+    <email>kerrie.moreau@cuanschutz.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Claire Cox, BA</last_name>
+    <email>Claire.Cox@cuanschutz.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Colorado Anschutz Medical Center, Clinical Translational Research Center and Exercise Research Laboratory</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tim Lockie, MS, MBA</last_name>
+      <phone>720-848-6660</phone>
+      <email>Tim.Lockie@uchsc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Kerrie L Moreau, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Wendy M. Kohrt, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>December 14, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 17, 2023</study_first_posted>
+  <last_update_submitted>May 10, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 10, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 11, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>vascular health</keyword>
+  <keyword>exercise</keyword>
+  <keyword>oxidative stress</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

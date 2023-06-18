@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9789">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05690126</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-A01556-37</org_study_id>
+    <nct_id>NCT05690126</nct_id>
+  </id_info>
+  <brief_title>Effect of Saffron Extract Supplementation on Emotional Well-being Alterations</brief_title>
+  <acronym>SAFFROMFOOD</acronym>
+  <official_title>Investigation of the Effect of Saffron Extract Supplementation on Emotional Well-being Alterations in Healthy Volunteers: a Randomized, Double-blind, Placebo-controlled Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to test whether a saffron extract represents a good candidate to improve&#xD;
+      emotional well-being in subjects with subclinical symptoms of depression, fatigue, stress or&#xD;
+      anxiety. Given that mild depression, both subclinical and chronic, was shown to predispose to&#xD;
+      major clinical depression, early initiation of neuroactive nutrient supplementation may be&#xD;
+      useful to prevent or counteract the onset of chronic depression.&#xD;
+&#xD;
+      The main objective of this study is to evaluate the efficacy of nutritional supplementation&#xD;
+      with saffron extract during 6 weeks in alleviating emotional well-being alterations in&#xD;
+      healthy adults presenting subclinical symptoms of depressed mood, anxiety, fatigue and/or&#xD;
+      stress.&#xD;
+&#xD;
+      The secondary objectives are to assess the impact of saffron extract supplementation on the&#xD;
+      mood and neurovegetative components of emotional well-being and quality of life, namely:&#xD;
+&#xD;
+        -  depressive and anxious symptoms;&#xD;
+&#xD;
+        -  neurovegetative symptoms (fatigue, sleep quality);&#xD;
+&#xD;
+        -  perceived stress and quality of life.&#xD;
+&#xD;
+      The exploratory objectives correspond to the biological assays for the evaluation of&#xD;
+&#xD;
+        -  the stress response system (stress hormones);&#xD;
+&#xD;
+        -  the inflammatory status;&#xD;
+&#xD;
+        -  saffron metabolites;&#xD;
+&#xD;
+        -  metabolome.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 8, 2022</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in emotional well-being composite score</measure>
+    <time_frame>Baseline (V1) and 6 weeks (V2)</time_frame>
+    <description>The primary endpoint is the change from baseline (V1) to 6 weeks (V2) in the composite Z-score of emotional well-being combining three components: depression (BDI score), anxiety (STAI state score) and fatigue (MFI score).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in mood</measure>
+    <time_frame>Baseline (V1) and 6 weeks (V2)</time_frame>
+    <description>Beck Depression Inventory (score 0-39).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in anxiety</measure>
+    <time_frame>Baseline (V1) and 6 weeks (V2)</time_frame>
+    <description>State-Trait Anxiety Inventory (score 20-80).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in stress</measure>
+    <time_frame>Baseline (V1) and 6 weeks (V2)</time_frame>
+    <description>Visual analog scale for stress (score 0 to 10).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in fatigue</measure>
+    <time_frame>Baseline (V1) and 6 weeks (V2)</time_frame>
+    <description>Multidimensional Fatigue Inventory (MFI) (score 20-100).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in sleep quality</measure>
+    <time_frame>Baseline (V1) and 6 weeks (V2)</time_frame>
+    <description>The Pittsburgh Sleep Quality Index (PSQI) (score 0 to 21).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in neurovegetative symptomatology</measure>
+    <time_frame>Baseline (V1) and 6 weeks (V2)</time_frame>
+    <description>Neurotoxic rating scale (NRS) (score 0 to 152).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in quality of life</measure>
+    <time_frame>Baseline (V1) and 6 weeks (V2)</time_frame>
+    <description>Medical Outcome Study Short Form 12 (SF-12) (score 0 to 100).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in dietary intake</measure>
+    <time_frame>Baseline (V1) and 6 weeks (V2)</time_frame>
+    <description>Subjects will complete a food diary in which they will register all the food and drinks consumed during 3 defined days (two weekdays and one weekend day).&#xD;
+The Programme national nutrition santé (PNNS) questionnaire is a non-quantitative food frequency questionnaire. The 12 items are based on the recommendations of the French National Nutrition and Health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in stress response system</measure>
+    <time_frame>Baseline (V1) and 6 weeks (V2)</time_frame>
+    <description>Salivary cortisol as a measure of the stress response system.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in inflammatory markers</measure>
+    <time_frame>Baseline (V1) and 6 weeks (V2)</time_frame>
+    <description>Blood levels of acute phase proteins and cytokines.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in oxidative stress</measure>
+    <time_frame>Baseline (V1) and 6 weeks (V2)</time_frame>
+    <description>Blood oxidative stress markers such as malondialdehyde (MDA), total antioxidant capacity (TCA) and superoxide dismutase (SOD) levels.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in saffron metabolites</measure>
+    <time_frame>Baseline (V1) and 6 weeks (V2)</time_frame>
+    <description>Blood and urine polyphenols and carotenoids levels.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in metabolome</measure>
+    <time_frame>Baseline (V1) and 6 weeks (V2)</time_frame>
+    <description>Untargeted metabolomics analysis in blood and urine samples using nuclear magnetic resonance (NMR) and/or liquid chromatography-mass spectrometry (LC-MS).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in lipid profile</measure>
+    <time_frame>Baseline (V1) and 6 weeks (V2)</time_frame>
+    <description>Lipids profile in red blood cells.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Mood Disturbance</condition>
+  <arm_group>
+    <arm_group_label>Saffron extract</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Daily, two dietary supplements (Saffron extract) will be taken orally with water, the first one at breakfast and the second one at dinner.&#xD;
+Dietary supplements in capsule form</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Daily, two dietary supplements (Maltodextrin) will be taken orally with water, the first one at breakfast and the second at dinner.&#xD;
+Dietary supplements in capsule form</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Saffron extract</intervention_name>
+    <description>Food supplements are taken during 6 weeks by healthy volunteers</description>
+    <arm_group_label>Saffron extract</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Maltodextrin</intervention_name>
+    <description>Food supplements are taken during 6 weeks by healthy volunteers</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy volunteers (as determines by medical history and clinical examination);&#xD;
+&#xD;
+          -  Male or female between 18 and 50 years of age;&#xD;
+&#xD;
+          -  Body Mass Index (BMI) 18.5 ≤ BMI &lt; 30 kg/ m2;&#xD;
+&#xD;
+          -  Subject with subclinical symptoms of depressed mood, anxiety, fatigue and/or stress,&#xD;
+             as determined by the presence of at least 6 or more symptoms of moderate intensity&#xD;
+             among the 18 symptoms listed in the modified neurotoxicity scale (NRS).&#xD;
+&#xD;
+          -  Subject able and willing to participate to the study by complying with the protocol&#xD;
+             procedures as confirmed by his dated and signed informed consent form;&#xD;
+&#xD;
+          -  Person affiliated or benefiting from a social security scheme.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Psychiatric comorbidity determined with the Diagnostic and Statistical Manual of&#xD;
+             Mental Disorders 5 (DSM5) or history of psychiatric illness;&#xD;
+&#xD;
+          -  Neurodegenerative pathology (Alzheimer's disease, Parkinson's disease, dementia);&#xD;
+&#xD;
+          -  Cardio-metabolic diseases (cardiovascular diseases, type 1 or 2 diabetes...);&#xD;
+&#xD;
+          -  Untreated or unstabilised hypertension;&#xD;
+&#xD;
+          -  Severe chronic diseases (cancer, severe chronic pain, HIV, hepatitis, kidney disease,&#xD;
+             autoimmune diseases, etc.);&#xD;
+&#xD;
+          -  Chronic inflammatory diseases (Crohn's disease, coeliac disease, rheumatoid arthritis,&#xD;
+             etc.);&#xD;
+&#xD;
+          -  Pathologies likely to act on the Hypothalamus-Pituitary-Adrenal (HPA) axis or the&#xD;
+             adrenal cortical metabolism (e.g.: Cushing syndrome);&#xD;
+&#xD;
+          -  Untreated and/or unstabilised thyroid diseases (hypo/hyperthyroidism, Graves'&#xD;
+             disease...);&#xD;
+&#xD;
+          -  Subjects treated during the previous 6 months or being currently treated with&#xD;
+             psychotropic drugs prescribed and/or recommended for anxiety, depression, sleep&#xD;
+             disorders and generally for any neurological or psychological type of manifestation.&#xD;
+&#xD;
+        The same applies to:&#xD;
+&#xD;
+          -  Drugs likely to have direct or indirect effects on psychiatric symptoms, notably&#xD;
+             regular use of corticoids or steroidal anti-inflammatories (e.g. Betamethasone,&#xD;
+             Cortivazol, Dexamethasone, Methylprednisolone, Prednisolone, Prednisone,&#xD;
+             Tetracosactide, Triamcinolone, etc.);&#xD;
+&#xD;
+          -  Any drug treatment aimed at improving or maintaining cognitive functions (e.g.&#xD;
+             Aricept, Exelon, Reminyl, Ebixa etc.);&#xD;
+&#xD;
+          -  Food supplements during the last 3 months prior to participation in this study.&#xD;
+&#xD;
+          -  Personal or professional event with potential severe impact on the subject's emotional&#xD;
+             and/or psychological state within the last 8 weeks (e.g. but not limited to: change of&#xD;
+             job function/position, death of a family member, divorce, surgery, accident, etc.);&#xD;
+&#xD;
+          -  Use of antibiotic treatment (&lt;2 months);&#xD;
+&#xD;
+          -  Recent treatment with non-steroidal anti-inflammatory drugs (&lt;1 month);&#xD;
+&#xD;
+          -  Bariatric surgery;&#xD;
+&#xD;
+          -  Subject with asthma, allergies (allergic rhinitis, atopic dermatitis);&#xD;
+&#xD;
+          -  Any documented or suspected food allergy to any component of the study products.&#xD;
+&#xD;
+          -  Drug dependence (except tobacco);&#xD;
+&#xD;
+          -  Tobacco use of more than 20 cigarettes per day;&#xD;
+&#xD;
+          -  Consumption of large quantities of coffee, tea, chocolate (more than 5 cups of coffee&#xD;
+             or tea and more than 20 g of dark chocolate per day) or regular daily consumption of&#xD;
+             herbal infusions with relaxing or hypnotic properties [e.g. chamomile, valerian,&#xD;
+             passionflower etc];&#xD;
+&#xD;
+          -  Alcohol abuse (maximum 2 drinks per day, maximum 10 drinks per week with several days&#xD;
+             of abstinence) or recreational drug use based on the participant's declaration;&#xD;
+&#xD;
+          -  Eating disorders: anorexia and bulimia or unstable diet;&#xD;
+&#xD;
+          -  Xerostomia or other conditions that may make saliva collection impossible;&#xD;
+&#xD;
+          -  Subjects working shifts or in extreme conditions (e.g. cold storage);&#xD;
+&#xD;
+          -  Intense physical activity: more than 10 hours per week of intense physical activity,&#xD;
+             or significant change in physical activity within the last 2 months, or physical&#xD;
+             activity likely to be modified within the next 6 weeks. Examples of moderate to&#xD;
+             vigorous physical activity are: carrying heavy loads, playing tennis (singles or&#xD;
+             doubles), combat sports, &quot;fast&quot; swimming, jogging etc. Walking is not considered a&#xD;
+             moderate intensity physical activity.&#xD;
+&#xD;
+          -  Subjects whose language skills do not allow them to understand the questionnaires;&#xD;
+&#xD;
+          -  Disability (psychological, visual, psychomotor, linguistic...) likely to compromise to&#xD;
+             understand and sign the consent form and to complete self-questionnaires during the&#xD;
+             study.&#xD;
+&#xD;
+          -  Subject participating in another interventional study or being in the exclusion period&#xD;
+             of a previous clinical trial;&#xD;
+&#xD;
+          -  Subject receiving more than 4500 euros as indemnities for participation in biomedical&#xD;
+             research within the 12 last months, including indemnities for the present study;&#xD;
+&#xD;
+          -  Women who are pregnant, intend to become pregnant during the study or are&#xD;
+             breastfeeding.&#xD;
+&#xD;
+          -  Hormonal state that may induce a fluctuating emotional state during the study, such&#xD;
+             as, postpartum (&lt; 6 months after delivery) and peri-menopause (irregular menstrual&#xD;
+             cycle, hot flashes, feeling of swelling, breast tension).&#xD;
+&#xD;
+          -  Subjects under legal protection (guardianship, wardship) or deprived from his rights&#xD;
+             following administrative or judicial decision;&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lucile Capuron, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>INRAE-Laboratory of Nutrition And Integrative Neurobiology (NutriNeuro Lab)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lucile Capuron, PhD</last_name>
+    <phone>+33557571233</phone>
+    <email>lucile.capuron@inrae.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>CEN Experimental</name>
+      <address>
+        <city>Dijon</city>
+        <zip>21000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Carole Perrin, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 21, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 9, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>February 1, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 1, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Saffron extract</keyword>
+  <keyword>Depressive Symptoms</keyword>
+  <keyword>Fatigue</keyword>
+  <keyword>Emotional wellbeing</keyword>
+  <keyword>Sleep quality</keyword>
+  <keyword>Anxiety</keyword>
+  <keyword>Inflammation</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

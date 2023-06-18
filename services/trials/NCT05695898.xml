@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9535">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05695898</url>
+  </required_header>
+  <id_info>
+    <org_study_id>228511</org_study_id>
+    <secondary_id>NCI-2023-00868</secondary_id>
+    <nct_id>NCT05695898</nct_id>
+  </id_info>
+  <brief_title>XmAb23104 (PD1 X ICOS) and XmAb22841 (CTLA-4 X LAG3) in Treating Melanoma Prior Immune Checkpoint Inhibitor Therapy</brief_title>
+  <official_title>Phase Ib/II Study of XmAb23104 (PD1 X ICOS) and XmAb22841 (CTLA-4 X LAG3) Combination in Metastatic Melanoma Refractory to Prior Immune Checkpoint Inhibitor Therapy With and Without CNS Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Xencor, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, San Francisco</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a first-in-human, multi-center, multi-cohort, open-label, phase Ib/II study of&#xD;
+      XmAb22841 (CTLA-4 X LAG3) administered in combination with XmAb23104 (PD1 X ICOS) in&#xD;
+      participants with a histologically or cytologically confirmed diagnosis of an&#xD;
+      advanced/metastatic melanoma. XmAb22841 (CTLA-4 X LAG3) is a bi-specific antibody targeting&#xD;
+      two different T cell membrane proteins responsible for regulation of T cell activity. It&#xD;
+      offers potential immunologic and safety advantages over existing therapies. XmAb22841 (CTLA-4&#xD;
+      X LAG3) is being evaluated in this clinical study designed to assess the safety,&#xD;
+      tolerability, PK, and PD of escalating doses of XmAb22841 (CTLA-4 X LAG3) administered in&#xD;
+      combination with XmAb23104 (PD1 X ICOS)&#xD;
+&#xD;
+      The study will be conducted through the University of California Melanoma Consortium (UCMC).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:&#xD;
+&#xD;
+      I. Dose Escalation Phase (Part 1): To estimate the recommended phase 2 dose (RP2D) of&#xD;
+      XmAb22841 (CTLA-4 X LAG3) in combination XmAb23104 (PD1 X ICOS).&#xD;
+&#xD;
+      II. Dose Expansion Phase (Part 2): To assess clinical response as measured by objective&#xD;
+      response rate of patients treated with XmAb22841 (CTLA-4 X LAG3) in combination XmAb23104&#xD;
+      (PD1 X ICOS)&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. To evaluate the pharmacokinetics (PK) and anti-drug antibody (ADA) immunogenicity of&#xD;
+      XmAb23104 (PD1 X ICOS) and XmAb22841 (CTLA-4 X LAG3) (Dose Escalation (Part 1) &amp; Dose&#xD;
+      Expansion (Part 2)).&#xD;
+&#xD;
+      II. To evaluate the clinical efficacy of XmAb23104 (PD1 X ICOS) and XmAb22841 (CTLA-4 X LAG3)&#xD;
+      (Dose Expansion (Part 2)).&#xD;
+&#xD;
+      EXPLORATORY OBJECTIVES:&#xD;
+&#xD;
+      I. To identify molecular (genomic, metabolic, and/or proteomic) biomarkers that may be&#xD;
+      indicative of clinical response/resistance, safety, pharmacodynamic activity, and/or the&#xD;
+      mechanism of action of XmAb22841 (CTLA-4 X LAG3) administered in combination with XmAb23104&#xD;
+      (PD1 X ICOS) (Dose Escalation (Part 1) &amp; Dose Expansion(Part 2)).&#xD;
+&#xD;
+      OUTLINE:&#xD;
+&#xD;
+      Participants will initially be enrolled in the Dose Escalation Phase (Part 1). Once the&#xD;
+      recommended phase 2 dose (RP2D) has been established, participants will be enrollment in one&#xD;
+      of two cohorts in the Dose Expansion Phase (Part 2):&#xD;
+&#xD;
+      Cohort A: Participants without CNS disease.&#xD;
+&#xD;
+      Cohort B: Participants with asymptomatic and stable CNS disease&#xD;
+&#xD;
+      Participants may continue trial therapy until the earlier of radiographic disease&#xD;
+      progression, withdrawal, unacceptable toxicity, completion of 24 cycles of XmAb23104 (PD1 X&#xD;
+      ICOS), or other treatment discontinuation due to unacceptable toxicity, participant&#xD;
+      withdrawal, progressive disease or death. The entire treatment duration of twenty-four 28-day&#xD;
+      cycles is approximately 2 years. After discontinuing trial therapy, participants will be&#xD;
+      followed for toxicity, response, and overall survival every 12 weeks for up to 5 years from&#xD;
+      initiation of study treatment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 28, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2025</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Treatment- Emergent Adverse Events (Part 1)</measure>
+    <time_frame>Up to 24 months</time_frame>
+    <description>The number of all treatment-emergent adverse events (AEs) for each dose level and cohort, as determined by NCI Common Terminology Criteria for Adverse Events (CTCAE) version 5.0 will be reported for each cohort in the dose escalation phase.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Treatment- Emergent, Immune-Related, Adverse Events (Part 1)</measure>
+    <time_frame>Up to 24 months</time_frame>
+    <description>The number of all treatment-emergent, immune-related adverse events (irAEs) for each dose level and cohort, as determined by NCI Common Terminology Criteria for Adverse Events (CTCAE) version 5.0 will be reported for each cohort in the dose escalation phase.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Dose Limiting Toxicities (DLT) (Part 1)</measure>
+    <time_frame>Up to 42 days</time_frame>
+    <description>The DLT evaluation period for the initial cohort of n=3 patients will be 6 weeks after beginning treatment to account for possible delayed DLTs. The number participants experiencing DLTs during the evaluation period will be reported for each cohort in in the dose escalation phase.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate (Part 2)</measure>
+    <time_frame>Up to 24 months</time_frame>
+    <description>Objective response (defined as a Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 best response of partial response (PR) or CR) will be assessed for each individual participant for a period of 5 years from the time of initiation of study treatment, or until CR/PR is recorded, or progression is observed, whichever occurs first for participants in the dose expansion phase</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the curve (AUC)</measure>
+    <time_frame>Up to 24 months</time_frame>
+    <description>Serum levels of XmAb23104 and XmAb22841 will be assessed longitudinally to determine the AUC beginning on the first day of treatment and individual participant through the safety follow up visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Minimum concentration (Cmin)</measure>
+    <time_frame>Up to 25 months</time_frame>
+    <description>Serum levels of XmAb23104 and XmAb22841 to determine the minimum concentration will be assessed longitudinally beginning on the first day of treatment and individual participant through the safety follow up visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean maximum concentration (Cmax)</measure>
+    <time_frame>Up to 25 months</time_frame>
+    <description>Serum levels of XmAb23104 and XmAb22841 to determine the maximum concentration will be assessed longitudinally beginning on the first day of treatment and individual participant through the safety follow up visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall incidence of anti-XmAb23104 and anti-XmAb22841 antibodies</measure>
+    <time_frame>Up to 25 months</time_frame>
+    <description>Serum Anti-drug antibodies (ADAs) will be assessed longitudinally beginning on the first day of treatment and individual participant through the safety follow up visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median Progression-Free Survival (PFS) (Part 2 only)</measure>
+    <time_frame>Up to 60 months</time_frame>
+    <description>PFS will be assessed for a period of 5 years from the time of initiation of study treatment, or until progression or death due to any cause, whichever occurs first for participants in Cohorts A &amp; B (dose expansion phase).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median overall survival (OS) (Part 2 only)</measure>
+    <time_frame>Up to 60 months</time_frame>
+    <description>OS will be assessed for a period of 5 years from the time of initiation of study treatment, or until death due to any cause, whichever occurs first for participants in Cohorts A &amp; B (dose expansion phase).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median Duration of Response (DoR) (Part 2 only)</measure>
+    <time_frame>Up to 60 months</time_frame>
+    <description>DoR will be assessed from the first date of response (CR or PR per RECIST 1.1) for a period of 5 years from the time of initiation of study treatment, or until the date of progression or death due to any cause, whichever occurs first for participants Cohorts A &amp; B (dose expansion phase).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Benefit Rate (CBR) (Part 2 only)</measure>
+    <time_frame>Up to 60 months</time_frame>
+    <description>Clinical benefit (defined as a RECIST 1.1 response of stable disease (SD) for &gt; 6 months, PR, or CR) will be assessed for a period of 5 years from the time of initiation of study treatment, or until SD &gt; 6 months/CR/PR is recorded, or progression is observed, whichever occurs first for participants in Cohorts A &amp; B (dose expansion phase).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CNS response rate (Cohort B Only)</measure>
+    <time_frame>Up to 60 months</time_frame>
+    <description>CNS response (defined as a RECIST 1.1 CNS best response of PR or CR) will be assessed for a period of 5 years from the time of initiation of study treatment, or until CNS CR/PR is recorded, or CNS progression is observed, whichever occurs first for participants in Cohort B only.</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">46</enrollment>
+  <condition>Metastatic Melanoma</condition>
+  <condition>Advanced Melanoma</condition>
+  <arm_group>
+    <arm_group_label>Phase 1b: Dose Escalation (Cohort 1)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive 0.3 mg/kg of XmAb22841 (CTLA-4 X LAG3) in combination with 10 mg/kg of XmAb23104 (PD1 X ICOS) on days 1 &amp; 15 of a 28 day cycles for up to 4 cycles. After Cycle 4, participants will receive 10 mg/kg of XmAb23104 (PD1 X ICOS) monotherapy up to an additional 20 cycles. Participants may receive treatments up to 24 total cycles, or until unacceptable toxicity or progressive disease; whichever comes first.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 1b: Dose Escalation (Cohort 2)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>After the safety and tolerability for cohort 1 has been evaluated, participants will receive 1 mg/kg of XmAb22841 (CTLA-4 X LAG3) in combination with 10 mg/kg of XmAb23104 (PD1 X ICOS) on days 1 &amp; 15 of a 28 day cycles for up to 4 cycles. After Cycle 4, participants will receive 10 mg/kg of XmAb23104 (PD1 X ICOS) monotherapy up to an additional 20 cycles. Participants may receive treatments up to 24 total cycles, or until unacceptable toxicity or progressive disease; whichever comes first.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 1b: Dose Escalation (Cohort 3)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>After the safety and tolerability for cohort 2 has been evaluated, participants will receive 3 mg/kg of XmAb22841 (CTLA-4 X LAG3) in combination with 10 mg/kg of XmAb23104 (PD1 X ICOS) on days 1 &amp; 15 of a 28 day cycles for up to 4 cycles. After Cycle 4, participants will receive 10 mg/kg of XmAb23104 (PD1 X ICOS) monotherapy up to an additional 20 cycles. Participants may receive treatments up to 24 total cycles, or until unacceptable toxicity or progressive disease; whichever comes first.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2: Dose Expansion (Cohort A)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will no central nervous system disease (No CNS) will receive the RP2D of XmAb22841 (CTLA-4 X LAG3) in combination with 10 mg/kg of XmAb23104 (PD1 X ICOS) on days 1 &amp; 15 of a 28 day cycles for up to 4 cycles. After Cycle 4, participants will receive 10 mg/kg of XmAb23104 (PD1 X ICOS) monotherapy up to an additional 20 cycles. Participants may receive treatments up to 24 total cycles, or until unacceptable toxicity or progressive disease; whichever comes first.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2: Dose Expansion (Cohort B)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will stable or asymptomatic CNS disease will receive the RP2D of XmAb22841 (CTLA-4 X LAG3) in combination with 10 mg/kg of XmAb23104 (PD1 X ICOS) on days 1 &amp; 15 of a 28 day cycles for up to 4 cycles. After Cycle 4, participants will receive 10 mg/kg of XmAb23104 (PD1 X ICOS) monotherapy up to an additional 20 cycles. Participants may receive treatments up to 24 total cycles, or until unacceptable toxicity or progressive disease; whichever comes first,</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>XmAb22841</intervention_name>
+    <description>Given intravenously (IV)</description>
+    <arm_group_label>Phase 1b: Dose Escalation (Cohort 1)</arm_group_label>
+    <arm_group_label>Phase 1b: Dose Escalation (Cohort 2)</arm_group_label>
+    <arm_group_label>Phase 1b: Dose Escalation (Cohort 3)</arm_group_label>
+    <arm_group_label>Phase 2: Dose Expansion (Cohort A)</arm_group_label>
+    <arm_group_label>Phase 2: Dose Expansion (Cohort B)</arm_group_label>
+    <other_name>CTLA-4 X LAG3</other_name>
+    <other_name>Bavunalimab</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>XmAb23104</intervention_name>
+    <description>Given intravenously (IV)</description>
+    <arm_group_label>Phase 1b: Dose Escalation (Cohort 1)</arm_group_label>
+    <arm_group_label>Phase 1b: Dose Escalation (Cohort 2)</arm_group_label>
+    <arm_group_label>Phase 1b: Dose Escalation (Cohort 3)</arm_group_label>
+    <arm_group_label>Phase 2: Dose Expansion (Cohort A)</arm_group_label>
+    <arm_group_label>Phase 2: Dose Expansion (Cohort B)</arm_group_label>
+    <other_name>PD1 X ICOS</other_name>
+    <other_name>XmAb104</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Participants must have a histologically or cytologically confirmed advanced/metastatic&#xD;
+             melanoma by pathology report. Participants with cutaneous, mucosal, acral and unknown&#xD;
+             primaries will be allowed.&#xD;
+&#xD;
+          2. Participants must have progressed on either single agent programmed cell death protein&#xD;
+             1 (PD1) or combination PD1/ cytotoxic T-lymphocyte-associated protein 4 (CTLA-4)&#xD;
+             inhibition therapy.&#xD;
+&#xD;
+          3. Participants are allowed to have up to 3 prior lines of therapy in the metastatic&#xD;
+             setting.&#xD;
+&#xD;
+             NOTE: Prior BRAF targeted therapies are allowed. Prior exposure to immunotherapeutics&#xD;
+             is allowed, including LAG-3, PD1, and PD-L1 inhibitors, provided participant did not&#xD;
+             experience a &gt;= Grade 3 (CTCAE v5.0) drug-related toxicity on monotherapy with a&#xD;
+             Expression of lymphocyte activation gene 3 (LAG-3), PD1, or programmed death-ligand 1&#xD;
+             (PD-L1) inhibitor.&#xD;
+&#xD;
+          4. For Dose Escalation Phase, central nervous system (CNS) disease is not required, but&#xD;
+             it is permitted, provided the following three CNS criteria are met:&#xD;
+&#xD;
+             A. CNS lesions must be asymptomatic and stable, as determined by stability on magnetic&#xD;
+             resonance imaging (MRI) at least 4 weeks prior to study enrollment.&#xD;
+&#xD;
+             B. Prior radiation treatment to CNS lesions will be allowed; however, the participant&#xD;
+             must have recovered from prior toxicities as described in Exclusion #2.&#xD;
+&#xD;
+             C. Brain lesions &gt;= 5 mm are allowed. NOTE: See also exclusion criterion #5 for&#xD;
+             additional CNS requirements.&#xD;
+&#xD;
+          5. For Dose Expansion Phase:&#xD;
+&#xD;
+               -  Participants in Expansion Arm A must have metastatic melanoma without CNS disease&#xD;
+&#xD;
+               -  Participants in Expansion Arm B must have metastatic melanoma with CNS disease,&#xD;
+                  and the following three CNS criteria must be met:&#xD;
+&#xD;
+             A. CNS lesions must be asymptomatic and stable, as determined by stability on MRI at&#xD;
+             least 4 weeks prior to study enrollment.&#xD;
+&#xD;
+             B. Prior radiation treatment to CNS lesions will be allowed; however, the participant&#xD;
+             must have recovered from prior toxicities as described in exclusion criteria #2.&#xD;
+&#xD;
+             C. Brain lesions &gt;= 5 mm are allowed. NOTE: See also exclusion criterion #5 for&#xD;
+             additional CNS requirements.&#xD;
+&#xD;
+          6. Participants must have measurable disease according to RECIST 1.1 with the following&#xD;
+             modification for brain lesions (if brain lesions are present):&#xD;
+&#xD;
+             - Measurable brain lesions are defined as those that can be accurately measured in at&#xD;
+             least one dimension (longest diameter to be recorded) as &gt;= 5 mm. Measurable lesions&#xD;
+             for all other non-brain sites are defined as those that can be accurately measured in&#xD;
+             at least one dimension (longest diameter to be recorded) as &gt;=20 mm (&gt;=2 cm) by chest&#xD;
+             x-ray or as &gt;=10 mm (&gt;=1 cm) with Computerized tomography (CT) scan, MRI, or calipers&#xD;
+             by clinical exam. NOTE: MRI brain (or equivalent brain imaging) is required at&#xD;
+             baseline for all patients to characterize brain disease status.&#xD;
+&#xD;
+          7. Age &gt;=18 years.&#xD;
+&#xD;
+          8. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 (Karnofsky&#xD;
+             &gt;60%).&#xD;
+&#xD;
+          9. Demonstrate adequate organ function as defined below obtained within 14 days prior to&#xD;
+             the start of study treatment:&#xD;
+&#xD;
+             NOTE: Criteria must be met without packed red blood cell (pRBC) and platelet&#xD;
+             transfusion within the prior 2 weeks. Participants can be on a stable dose of&#xD;
+             erythropoietin (&gt;=approximately 3 months).&#xD;
+&#xD;
+             Bone Marrow:&#xD;
+&#xD;
+             a) Absolute neutrophil count &gt;=1,500/microliter (mcL) b) Platelets &gt;=100,000/mcL c)&#xD;
+             Hemoglobin &gt;=9 g/dL or &gt;5.6 mmol/L&#xD;
+&#xD;
+             Renal:&#xD;
+&#xD;
+             d) Serum creatinine or creatinine clearance (CrCl) (measured or calculated per&#xD;
+             institutional standard) OR for participants with creatinine levels &gt;1.5 × upper limit&#xD;
+             of normal (ULN): Glomerular Filtration Rate (GFR) must be assessed, Creatinine &lt;=1.5 ×&#xD;
+             ULN OR for participants with creatinine levels &gt;1.5 × ULN: GFR &gt;30 mL/min/1.73 m^2&#xD;
+             calculated per institutional standard method.&#xD;
+&#xD;
+             Hepatic:&#xD;
+&#xD;
+             e) Total bilirubin (serum) &lt;=1.5 × ULN, unless elevated due to Gilbert's syndrome and&#xD;
+             direct bilirubin is within normal limits.&#xD;
+&#xD;
+             f) Aspartate aminotransferase (AST)/ (serum glutamic-oxaloacetic transaminase (SGOT) )&#xD;
+             &lt;=2.5 x ULN or For participants with liver metastasis: &lt;=5 x ULN g) Alanine&#xD;
+             aminotransferase (ALT)/(serum glutamic-pyruvic transaminase (SGPT)) &lt;=2.5 x ULN or For&#xD;
+             participants with liver metastasis: &lt;= 5 x ULN&#xD;
+&#xD;
+             Coagulation:&#xD;
+&#xD;
+             h) International Normalized Ratio (INR) or Prothrombin Time (PT) or Activated Partial&#xD;
+             Thromboplastin Time (aPTT) &lt;1.5 ULN (unless participant is on therapeutic&#xD;
+             anticoagulant therapy, in which case the PT/INR or aPTT should be within the range of&#xD;
+             intended use for the anticoagulant(s)).&#xD;
+&#xD;
+         10. For HIV-infected participants, participants must have well controlled HIV on&#xD;
+             anti-retroviral therapy (ART), defined as:&#xD;
+&#xD;
+             a) Participants on ART must have a CD4+ T-cell count &gt;350 cells/mm3 at time of&#xD;
+             screening.&#xD;
+&#xD;
+             b) Participants on ART must have achieved and maintained virologic suppression defined&#xD;
+             as confirmed HIV RNA level below 50 or the lower limit of quantitation (LLOQ) (below&#xD;
+             the limit of detection) using the locally available assay at the time of screening and&#xD;
+             for at least 12 weeks prior to screening.&#xD;
+&#xD;
+             c) Participants on ART must have been on a stable regimen, without changes in drugs or&#xD;
+             dose modification, for at least 4 weeks prior to initiating the study intervention.&#xD;
+&#xD;
+             d) The combination ART regimen must not contain any antiretroviral medications other&#xD;
+             than: abacavir, dolutegravir, emtricitabine, lamivudine, raltegravir, rilpivirine, or&#xD;
+             tenofovir.&#xD;
+&#xD;
+         11. The effects of XmAb23104 and XmAb22841 on the developing human fetus and nursing&#xD;
+             infant are unknown. Additionally, it is not known if XmAb23104 and XmAb22841 have&#xD;
+             transient adverse effects on the composition of sperm. Therefore, participants who&#xD;
+             enroll in this trial must agree to follow the below contraception requirements.&#xD;
+&#xD;
+        Contraception Requirements for Females:&#xD;
+&#xD;
+          -  Female participants should immediately inform the investigator if they become pregnant&#xD;
+             or suspect pregnancy while participating in the trial.&#xD;
+&#xD;
+          -  Female participants of reproductive potential must agree to remain abstinent or use a&#xD;
+             highly effective method of contraception £ while receiving trial therapy and for 150&#xD;
+             days following completion of trial therapy. Women also must not freeze or donate eggs&#xD;
+             during this same period.&#xD;
+&#xD;
+        Contraception Requirements for Males:&#xD;
+&#xD;
+          -  Male participants should immediately inform the investigator if their partner becomes&#xD;
+             pregnant or suspects pregnancy while they are participating in the trial.&#xD;
+&#xD;
+          -  With a female partner of reproductive potential, males must agree to remain abstinent&#xD;
+             or use a highly effective method of contraception £ while receiving trial therapy and&#xD;
+             for 150 days following completion of trial therapy. Men also must not donate sperm&#xD;
+             during this same period.&#xD;
+&#xD;
+          -  With a pregnant female partner, males must remain abstinent or use a condom while&#xD;
+             receiving trial therapy and for 150 days following completion of trial therapy to&#xD;
+             avoid exposing the embryo/child.&#xD;
+&#xD;
+          -  With a lactating female partner, males must remain abstinent or use a condom while&#xD;
+             receiving trial therapy and for 150 days following completion of trial therapy to&#xD;
+             avoid exposing the nursing infant.&#xD;
+&#xD;
+        NOTE: A woman is considered to be of reproductive potential (regardless of sexual&#xD;
+        orientation, having undergone a tubal ligation, or remaining celibate by choice), if she&#xD;
+        meets either of the following two criteria:&#xD;
+&#xD;
+          1. has reached a postmenopausal state (&gt;= 12 continuous months of amenorrhea with no&#xD;
+             identified cause other than menopause)&#xD;
+&#xD;
+          2. has undergone surgical sterilization (i.e., hysterectomy and/or bilateral oophorectomy&#xD;
+             for removal of uterus and/or ovaries) NOTE: Sexual abstinence is defined as not&#xD;
+             engaging in heterosexual intercourse. Sexual abstinence is permitted only if it is the&#xD;
+             preferred and usual lifestyle of the individual. Periodic abstinence (e.g., calendar,&#xD;
+             ovulation, symptothermal, postovulation methods) and withdrawal are not adequate&#xD;
+             methods of contraception.&#xD;
+&#xD;
+        NOTE: Highly effective methods of birth control include hormonal birth control that is&#xD;
+        initiated at least 14 days prior to the first dose of trial therapy [oral, intravaginal,&#xD;
+        transdermal, implantable, or intrauterine devices (IUDs)], IUDs (non-hormonal), male&#xD;
+        vasectomy, or any double-barrier method (combination of male condom and spermicide with&#xD;
+        either cap, diaphragm, or sponge).&#xD;
+&#xD;
+        12. Females of reproductive potential (defined in inclusion criterion #11) must have a&#xD;
+        negative urine or serum pregnancy test (i.e., human chorionic gonadotropin test) within 72&#xD;
+        hours before the first dose of study intervention. NOTE: If a urine pregnancy test cannot&#xD;
+        be confirmed as negative (e.g., an ambiguous result), a serum pregnancy test is required.&#xD;
+        In such cases, the participant must be excluded from participation if the serum pregnancy&#xD;
+        result is positive.&#xD;
+&#xD;
+        13. Individuals with a prior or concurrent malignancy whose natural history or treatment&#xD;
+        does not have the potential to interfere with the safety or efficacy assessment of the&#xD;
+        investigational regimen are eligible for this trial.&#xD;
+&#xD;
+        14. Participant (or the participant's legally authorized representative if the participant&#xD;
+        has impaired decision-making capacity) must have the ability to understand and the&#xD;
+        willingness to sign a written informed consent document.&#xD;
+&#xD;
+        NOTE: The participant/Legally Authorized Representative (LAR) may elect to provide consent&#xD;
+        for optional participation in future biomedical research (FBR). However, the participant&#xD;
+        may participate in the main study without participating in the optional FBR.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Is currently receiving any of the following therapies and unable or unwilling to&#xD;
+             discontinue their use prior to starting study drugs:&#xD;
+&#xD;
+               1. chemotherapy, definitive radiation, or biological cancer therapy&#xD;
+&#xD;
+               2. palliative radiation&#xD;
+&#xD;
+               3. investigational agent(s)&#xD;
+&#xD;
+               4. investigational device(s)&#xD;
+&#xD;
+             NOTE: Prior exposure to immunotherapeutics is allowed, including PD-1 and PD-L1&#xD;
+             inhibitors, provided participant did not experience a &gt;= Grade 3 drug-related toxicity&#xD;
+             on monotherapy with a PD-1 or PD-L1 inhibitor.&#xD;
+&#xD;
+             NOTE: Radiation therapy to a symptomatic solitary lesion or to the brain may be&#xD;
+             allowed at the investigator's discretion after the DLT observation period.&#xD;
+&#xD;
+          2. Has not recovered from any adverse events (AE) that are due to receipt of prior cancer&#xD;
+             therapeutics (such as chemotherapy, definitive radiation, biological cancer therapy,&#xD;
+             palliative radiation), investigational agent(s), or investigational device(s). (This&#xD;
+             includes participants with previous immunomodulatory therapy with residual&#xD;
+             immune-related AEs). Event recovery is defined as improvement to CTCAE (v5.0) Grade 1&#xD;
+             or baseline, with the exceptions of any grade alopecia and endocrinopathies that, in&#xD;
+             the judgement of the investigator, can be clinically managed.&#xD;
+&#xD;
+          3. Has had more than 3 lines of prior therapy in the metastatic setting. NOTE: Prior&#xD;
+             exposure to immunotherapeutics is allowed, including PD-1 and PD-L1 inhibitors,&#xD;
+             provided participant did not experience a &gt;= Grade 3 drug-related toxicity on&#xD;
+             monotherapy with a PD-1 or PD-L1 inhibitor.&#xD;
+&#xD;
+          4. Has any history of Grade 3 or 4 (CTCAE v.5.0) immune-related adverse events, with the&#xD;
+             exceptions of endocrinopathies that can be clinically managed in the judgement of the&#xD;
+             investigator.&#xD;
+&#xD;
+          5. Has clinically active central nervous system (CNS) metastases and/or carcinomatous&#xD;
+             meningitis or stable CNS lesions requiring ongoing steroid treatment of greater than&#xD;
+             10 mg/day of prednisone or alternative dose-equivalent&#xD;
+&#xD;
+          6. Has had a severe hypersensitivity reaction to treatment with the monoclonal&#xD;
+             antibody/components of the study intervention (XmAb22841 or XmAb23104 or their&#xD;
+             excipients).&#xD;
+&#xD;
+          7. Has a diagnosis of immunodeficiency.&#xD;
+&#xD;
+          8. Has an active infection requiring therapy that is not stable or controlled in the&#xD;
+             judgement of the investigator.&#xD;
+&#xD;
+          9. Has a prior history of &gt;= Grade 2 (CTCAE v5.0) pneumonitis or current pneumonitis of&#xD;
+             any Grade.&#xD;
+&#xD;
+         10. Has an active autoimmune disease that has required systemic treatment in the past 2&#xD;
+             years (i.e., with use of disease-modifying agents, corticosteroids, or&#xD;
+             immunosuppressive drugs), except vitiligo or resolved childhood asthma/atopy. NOTE:&#xD;
+             Replacement therapy, such as thyroxine, insulin, or physiologic corticosteroid&#xD;
+             replacement therapy for adrenal or pituitary insufficiency, is not considered a form&#xD;
+             of systemic treatment and is allowed.&#xD;
+&#xD;
+         11. Is on chronic systemic steroid therapy in excess of replacement doses (prednisone &lt;=10&#xD;
+             mg/day is acceptable), or on any other form of immunosuppressive medication. Use of&#xD;
+             nonsystemic steroids is permitted.&#xD;
+&#xD;
+         12. Participants with known Hepatitis B or C infections or known to be positive for&#xD;
+             Hepatitis B antigen (HBsAg)/Hepatitis B virus (HBV) DNA or Hepatitis C Virus (HCV)&#xD;
+             Antibody or RNA and who are not stable on treatment. Active Hepatitis C is defined by&#xD;
+             a known positive Hep C Ab result and known quantitative HCV RNA results greater than&#xD;
+             the lower limits of detection of the assay.&#xD;
+&#xD;
+         13. HIV-infected participants with a history of Kaposi's sarcoma and/or Multicentric&#xD;
+             Castleman's Disease.&#xD;
+&#xD;
+         14. Has undergone prior allogeneic hematopoietic stem cell transplantation within the last&#xD;
+             5 years; or has undergone transplant greater than 5 years ago and has any symptoms of&#xD;
+             graft versus-host disease.&#xD;
+&#xD;
+         15. Is pregnant or intending to conceive or father children within the projected duration&#xD;
+             of the study, starting with the screening visit through 120 days after the last dose&#xD;
+             of study intervention.&#xD;
+&#xD;
+             NOTE: These participants are excluded because there is an unknown but potential risk&#xD;
+             for adverse events to the developing fetus.&#xD;
+&#xD;
+         16. Is breastfeeding or intending to breastfeed from the time of the first dose of study&#xD;
+             therapy through 120 days after the last dose of the study intervention.&#xD;
+&#xD;
+             NOTE: It is unknown whether XmAb23104 &amp; XmAb22841 are excreted in human milk.&#xD;
+             Breastfeeding participants are excluded due to the potential for serious adverse&#xD;
+             reactions in the nursing infant.&#xD;
+&#xD;
+         17. Has undergone surgery that required general anesthesia within less than 2 weeks before&#xD;
+             first study intervention administration or has undergone surgery that required&#xD;
+             regional/epidural anesthesia within less than 72 hours before first study intervention&#xD;
+             administration.&#xD;
+&#xD;
+         18. Has not fully recovered from any effects of major surgery or currently has significant&#xD;
+             detectable post-surgical infection.&#xD;
+&#xD;
+         19. Has received a live vaccine within 30 days prior to the first dose of trial therapy.&#xD;
+             NOTE: Examples of live vaccines include, but are not limited to the following:&#xD;
+             measles, mumps, rubella, varicella/zoster, yellow fever, rabies, Bacillus&#xD;
+             Calmette-Guerin, and typhoid vaccine. Seasonal influenza vaccines for injection are&#xD;
+             generally killed virus vaccines and are allowed; however, intranasal influenza&#xD;
+             vaccines (e.g., Flu Mist®) are live-attenuated vaccines and are not allowed.&#xD;
+             Coronavirus disease of 2019 (COVID-19) vaccines are generally killed virus vaccines&#xD;
+             and are allowed.&#xD;
+&#xD;
+         20. Has a known psychiatric or substance abuse disorder that would interfere with the&#xD;
+             participant's ability to cooperate with the requirements of the study.&#xD;
+&#xD;
+         21. Has a history or evidence of any other clinically unstable/uncontrolled disorder,&#xD;
+             condition, or disease other than their primary malignancy, that in the opinion of the&#xD;
+             Investigator would pose a risk to patient safety or interfere with study compliance,&#xD;
+             evaluations, procedures, or completion.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Adil Daud, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, San Francisco</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ari Persaud</last_name>
+    <phone>(415) 885-7399</phone>
+    <email>Ari.Oglesby@ucsf.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of California, San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ari Persaud</last_name>
+      <phone>415-885-7399</phone>
+      <email>Ari.Olglesby@ucsf.edu</email>
+    </contact>
+    <contact_backup>
+      <phone>877-827-3222</phone>
+      <email>cancertrials@ucsf.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Adil Daud, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>January 13, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>March 1, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 1, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of California, San Francisco</investigator_affiliation>
+    <investigator_full_name>Adil Daud</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Immune Checkpoint Inhibitor</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Melanoma</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

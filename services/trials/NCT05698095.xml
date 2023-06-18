@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9426">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05698095</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MEO101</org_study_id>
+    <nct_id>NCT05698095</nct_id>
+  </id_info>
+  <brief_title>Pharmacokinetics, Safety, and Tolerability of Intramuscular 5-MeO-DMT in Healthy Volunteers</brief_title>
+  <official_title>A Phase 1, First-in-human, Double-blind, Placebo-controlled, Randomized, Single- and Multiple-ascending-dose Study to Determine the Safety, Tolerability, and Pharmacokinetics of 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT) Administered by Intramuscular Injection in Healthy Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Usona Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Usona Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of the study is to assess the pharmacokinetics, safety, and&#xD;
+      tolerability of a single-dose and multiple-doses of 5-MeO-DMT administered by intramuscular&#xD;
+      (IM) injections in healthy subjects.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is a phase 1, first-in-human, double-blind, placebo-controlled, randomized,&#xD;
+      single-dose and multiple-ascending-dose study of 5-MeO-DMT administered by intramuscular&#xD;
+      injection in 54 healthy subjects (adult male and/or females, 18-65 years of age). Subjects&#xD;
+      will be randomized 6:1 to receive 5-MeO-DMT or placebo.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 27, 2022</start_date>
+  <completion_date type="Anticipated">March 11, 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 7, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>This study will include separate single- and multiple-dose parts.&#xD;
+Single-dose part:&#xD;
+A double-blind, placebo-controlled, randomized, sequential-group design with 5-MeO-DMT administered by intramuscular injection in 6 cohorts of 6 subjects (randomized as 5 active and 1 placebo subject(s) per group).&#xD;
+Multiple-dose part:&#xD;
+A double-blind, placebo-controlled, randomized, sequential-group design with 5-MeO-DMT administered by intramuscular injection in up to two doses within a single day (3-hour interval) with two different dose levels (6 subjects per group).</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with Treatment Emergent Adverse Events as coded by MedDRA and assessed by CTCAE v4.0</measure>
+    <time_frame>Up to 30 Days</time_frame>
+    <description>Number of participants with TEAEs following administration of 5-MeO-DMT.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Plasma pharmacokinetic parameters of 5-MeO-DMT and bufotenine following a single-dose and multiple-doses of 5-MeO-DMT</measure>
+    <time_frame>Up to 24 hours</time_frame>
+    <description>For PK analysis, blood samples will be collected before and up to 24 hours after the intramuscular administration of 5-MeO-DMT to determine 5-MeO-DMT and bufotenine serum concentrations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Urine pharmacokinetic parameters of 5-MeO-DMT and bufotenine following a single-dose and multiple-doses of 5-MeO-DMT</measure>
+    <time_frame>Up to 24 hours</time_frame>
+    <description>For PK analysis, urine samples will be collected before and up to 24 hours after the intramuscular administration of 5-MeO-DMT to determine 5-MeO-DMT and bufotenine urine concentrations.</description>
+  </secondary_outcome>
+  <number_of_arms>9</number_of_arms>
+  <enrollment type="Anticipated">54</enrollment>
+  <condition>Pharmacokinetics</condition>
+  <condition>Safety</condition>
+  <condition>Tolerability</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1 - 0.5 mg single-dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A single 0.5 mg 5-MeO-DMT or placebo dose administered intramuscularly (randomized as 5 active and 1 placebo subject).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2 - 2.5 mg single-dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A single 2.5 mg 5-MeO-DMT or placebo dose administered intramuscularly (randomized as 5 active and 1 placebo subject).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3 - 4.5 mg single-dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A single 4.5 mg 5-MeO-DMT or placebo dose administered intramuscularly (randomized as 5 active and 1 placebo subject).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 4 - 7 mg single-dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A single 7 mg 5-MeO-DMT or placebo dose administered intramuscularly (randomized as 5 active and 1 placebo subject).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 5 - 10 mg single-dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A single 10 mg 5-MeO-DMT or placebo dose administered intramuscularly (randomized as 5 active and 1 placebo subject).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 6 - 13 mg single-dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A single 5-MeO-DMT 13 mg or placebo dose administered intramuscularly (randomized as 5 active and 1 placebo subject).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 7 - multiple-dose, 3 hour interval</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Administration of up to two 5-MeO-DMT (2.5 mg followed by 4.5 mg) or placebo doses administered intramuscularly within a single day with a 3 hour dose interval (randomized as 5 active and 1 placebo subject).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 8 - multiple-dose, 3 hour interval</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Administration of up to two 5-MeO-DMT (2.5 mg followed by 7 mg) or placebo doses administered intramuscularly within a single day with a 3 hour dose interval (randomized as 5 active and 1 placebo subject).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 9 - multiple-dose, 3 hour interval</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Administration of up to two 5-MeO-DMT (2.5 mg followed by 10.5 mg) or placebo doses administered intramuscularly within a single day with a 3 hour dose interval (randomized as 5 active and 1 placebo subject).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>5-methoxy-N,N-dimethyltryptamine succinate salt</intervention_name>
+    <description>The 5-MeO-DMT drug product is comprised of the appropriate concentration of 5-MeO-DMT succinate salt drug substance in solution with 0.9% sodium chloride injection solution (USP) in a 5 mL glass vial, and is administered intramuscularly.</description>
+    <arm_group_label>Cohort 1 - 0.5 mg single-dose</arm_group_label>
+    <arm_group_label>Cohort 2 - 2.5 mg single-dose</arm_group_label>
+    <arm_group_label>Cohort 3 - 4.5 mg single-dose</arm_group_label>
+    <arm_group_label>Cohort 4 - 7 mg single-dose</arm_group_label>
+    <arm_group_label>Cohort 5 - 10 mg single-dose</arm_group_label>
+    <arm_group_label>Cohort 6 - 13 mg single-dose</arm_group_label>
+    <arm_group_label>Cohort 7 - multiple-dose, 3 hour interval</arm_group_label>
+    <arm_group_label>Cohort 8 - multiple-dose, 3 hour interval</arm_group_label>
+    <arm_group_label>Cohort 9 - multiple-dose, 3 hour interval</arm_group_label>
+    <other_name>5-MeO-DMT succinate salt</other_name>
+    <other_name>5-MeO-DMT</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>The placebo is commercially available 0.9% sodium chloride solution (USP) for injection. The placebo is provided by the pharmacy in single-use sterile syringes of the appropriate dose.</description>
+    <arm_group_label>Cohort 1 - 0.5 mg single-dose</arm_group_label>
+    <arm_group_label>Cohort 2 - 2.5 mg single-dose</arm_group_label>
+    <arm_group_label>Cohort 3 - 4.5 mg single-dose</arm_group_label>
+    <arm_group_label>Cohort 4 - 7 mg single-dose</arm_group_label>
+    <arm_group_label>Cohort 5 - 10 mg single-dose</arm_group_label>
+    <arm_group_label>Cohort 6 - 13 mg single-dose</arm_group_label>
+    <arm_group_label>Cohort 7 - multiple-dose, 3 hour interval</arm_group_label>
+    <arm_group_label>Cohort 8 - multiple-dose, 3 hour interval</arm_group_label>
+    <arm_group_label>Cohort 9 - multiple-dose, 3 hour interval</arm_group_label>
+    <other_name>0.9% sodium chloride solution (USP)</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy adult male or female.&#xD;
+&#xD;
+          -  Aged at least 18 years but not older than 65 years, inclusive.&#xD;
+&#xD;
+          -  Body mass index (BMI) within 18.0 kg/m2 to 32.0 kg/m2, inclusive.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of significant hypersensitivity to the IP or any related products (including&#xD;
+             excipients of the formulations) as well as severe hypersensitivity reactions (like&#xD;
+             angioedema) to any drugs.&#xD;
+&#xD;
+          -  Significant history or clinical manifestation of any metabolic, allergic,&#xD;
+             dermatological, hepatic, renal, hematological, pulmonary, cardiovascular,&#xD;
+             gastrointestinal, neurological, respiratory, or endocrine disorders, as determined by&#xD;
+             the investigator (or designee).&#xD;
+&#xD;
+          -  Participants who, in the opinion of the investigator (or designee), should not&#xD;
+             participate in this study.&#xD;
+&#xD;
+          -  Participant is participating in another study with a medical device or IP within the&#xD;
+             last 30 days prior to first study drug administration.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Christina Behlke, PhD</last_name>
+    <phone>608-298-4854</phone>
+    <email>ClinicalTrials@usonainstitute.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Altasciences Clinical Kansas, Inc</name>
+      <address>
+        <city>Overland Park</city>
+        <state>Kansas</state>
+        <zip>66212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Recruitment Manager</last_name>
+      <phone>913-696-1601</phone>
+      <email>volunteersinfo@altasciences.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Reckweg J, Mason NL, van Leeuwen C, Toennes SW, Terwey TH, Ramaekers JG. A Phase 1, Dose-Ranging Study to Assess Safety and Psychoactive Effects of a Vaporized 5-Methoxy-N, N-Dimethyltryptamine Formulation (GH001) in Healthy Volunteers. Front Pharmacol. 2021 Nov 25;12:760671. doi: 10.3389/fphar.2021.760671. eCollection 2021.</citation>
+    <PMID>34912222</PMID>
+  </reference>
+  <reference>
+    <citation>Shen HW, Jiang XL, Winter JC, Yu AM. Psychedelic 5-methoxy-N,N-dimethyltryptamine: metabolism, pharmacokinetics, drug interactions, and pharmacological actions. Curr Drug Metab. 2010 Oct;11(8):659-66. doi: 10.2174/138920010794233495.</citation>
+    <PMID>20942780</PMID>
+  </reference>
+  <reference>
+    <citation>Barsuglia J, Davis AK, Palmer R, Lancelotta R, Windham-Herman AM, Peterson K, Polanco M, Grant R, Griffiths RR. Intensity of Mystical Experiences Occasioned by 5-MeO-DMT and Comparison With a Prior Psilocybin Study. Front Psychol. 2018 Dec 6;9:2459. doi: 10.3389/fpsyg.2018.02459. eCollection 2018.</citation>
+    <PMID>30574112</PMID>
+  </reference>
+  <reference>
+    <citation>Davis AK, Barsuglia JP, Lancelotta R, Grant RM, Renn E. The epidemiology of 5-methoxy- N, N-dimethyltryptamine (5-MeO-DMT) use: Benefits, consequences, patterns of use, subjective effects, and reasons for consumption. J Psychopharmacol. 2018 Jul;32(7):779-792. doi: 10.1177/0269881118769063. Epub 2018 Apr 30.</citation>
+    <PMID>29708042</PMID>
+  </reference>
+  <reference>
+    <citation>Ermakova AO, Dunbar F, Rucker J, Johnson MW. A narrative synthesis of research with 5-MeO-DMT. J Psychopharmacol. 2022 Mar;36(3):273-294. doi: 10.1177/02698811211050543. Epub 2021 Oct 19.</citation>
+    <PMID>34666554</PMID>
+  </reference>
+  <reference>
+    <citation>Uthaug MV, Lancelotta R, van Oorsouw K, Kuypers KPC, Mason N, Rak J, Sulakova A, Jurok R, Maryska M, Kuchar M, Palenicek T, Riba J, Ramaekers JG. A single inhalation of vapor from dried toad secretion containing 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT) in a naturalistic setting is related to sustained enhancement of satisfaction with life, mindfulness-related capacities, and a decrement of psychopathological symptoms. Psychopharmacology (Berl). 2019 Sep;236(9):2653-2666. doi: 10.1007/s00213-019-05236-w. Epub 2019 Apr 13.</citation>
+    <PMID>30982127</PMID>
+  </reference>
+  <reference>
+    <citation>Sherwood AM, Claveau R, Lancelotta R, Kaylo KW, Lenoch K. Synthesis and Characterization of 5-MeO-DMT Succinate for Clinical Use. ACS Omega. 2020 Dec 2;5(49):32067-32075. doi: 10.1021/acsomega.0c05099. eCollection 2020 Dec 15.</citation>
+    <PMID>33344861</PMID>
+  </reference>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 5, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>May 11, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 11, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 15, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>5-MeO-DMT</keyword>
+  <keyword>Psychedelics</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Pharmacokinetics</keyword>
+  <keyword>First-in-human</keyword>
+  <keyword>5-methoxy-N,N-dimethyltryptamine</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>N,N-Dimethyltryptamine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9267">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05701670</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RESCM-22/23-28406</org_study_id>
+    <nct_id>NCT05701670</nct_id>
+  </id_info>
+  <brief_title>Intervention Package to Promote Emotion Regulation Strategies in University Students</brief_title>
+  <official_title>A Randomised Control Trial Investigating the Effects of Purrble and a Single Session Intervention on Emotional Regulation and Anxiety Among Students</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>King's College London</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Oxford</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Stony Brook University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>King's College London</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary aim of the proposed Randomised Control study is to investigate the effects of a&#xD;
+      socially assisted robot (i.e. Purrble) and a co-designed, bespoke Single Session Intervention&#xD;
+      (SSI) on students' anxiety (GAD-7) over the period of the two academic terms (in comparison&#xD;
+      to a wait-listed student group).&#xD;
+&#xD;
+      Secondary aims include investigating the effects of the Purrble and SSI on students' emotion&#xD;
+      regulation processes, depressive symptoms, and quantitative and qualitative (interviews)&#xD;
+      measures of engagement with the intervention.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Need among college students for accessible mental health support is high: for example, the&#xD;
+      WHO World Mental Health International College Student project involving 13,984 first-year&#xD;
+      college students from eight countries, found that 31% of the respondents screened positive&#xD;
+      for depression, anxiety, or alcohol use disorder. Yet, access to professional support has&#xD;
+      long remained low, with waitlists for counselling on many campuses being weeks to months&#xD;
+      long. Digital technologies, including apps, have been proposed as one possible means of&#xD;
+      'filling in the gaps' in extant mental health care support for college students - but most&#xD;
+      apps suffer from low usability in real-world settings, are not equipped to serve&#xD;
+      in-the-moment coping needs (e.g., they involve user-initiated psychoeducation modules rather&#xD;
+      than opportunities to practice and grow skills when they are needed most) and often show high&#xD;
+      drop-out rates.&#xD;
+&#xD;
+      Thus, there is a clear need to harness digital technologies to create usable, engaging,&#xD;
+      evidence-supported mental health supports that may be used flexibly based on when students&#xD;
+      need them most (e.g. when stress levels are particularly high and coping skills most warrant&#xD;
+      deployment); ideally also as an adjunct completing existing counselling service.&#xD;
+&#xD;
+      In initial pilot work (n=80, open trial at Oxford) the investigators evaluated one such&#xD;
+      possible tool, Purble, designed to provide a student-centred, in-the-moment emotion&#xD;
+      regulation support. Study goals centred on testing usability/usage patterns during 8-week&#xD;
+      in-situ deployment, perceived usefulness over the same period, and links between use and&#xD;
+      symptoms in high-anxiety university students (GAD7 &gt; 10 at sign-up). The results have been&#xD;
+      promising, with large pre-/post- effects sizes on GAD-7 scores over the period of the term.&#xD;
+      Moreover, the majority of students perceived the Purrble intervention as useful (with 61%&#xD;
+      reporting in the last survey that it helped their mental health) and have reported a range of&#xD;
+      positive outcomes in qualitative interviews (e.g., it helped them calm down and ground&#xD;
+      themselves in the present moment when they are feeling anxious, stressed or lonely; or to be&#xD;
+      more gentle and kind with themselves-rather than harsh and judgmental-when feeling&#xD;
+      overwhelmed).&#xD;
+&#xD;
+      However, the open trial pilot study did not include a control or wait-listed group and thus&#xD;
+      more rigorous investigation of these promising effects is needed. In an prior unpowered pilot&#xD;
+      RCT, we tested the procedures that are to be used within this proposed study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">January 30, 2023</start_date>
+  <completion_date type="Anticipated">September 25, 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 17, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Anxiety (GAD-7)</measure>
+    <time_frame>Once at baseline (wk0). Four times during the 4-week long deployment period (wk1, wk2, wk3, wk4); and then once a month up until the 3-month follow-up (wk8, wk12, wk4) = total of 8 times</time_frame>
+    <description>The primary aim is to investigate the effects of Purrble + SSI intervention on students' changes in anxiety over the period of academic term (in comparison to a wait-listed student group).&#xD;
+Measured by: Generalised Anxiety Disorder Assessment (GAD-7), a seven-item instrument that is used to measure or assess the severity of generalised anxiety disorder. Each item asks the individual to rate the severity of their symptoms over the past two weeks (Splitzer et al., 2006).&#xD;
+The GAD-7 score is calculated by assigning scores of 0, 1, 2, and 3, to the response categories of &quot;not at all,&quot; &quot;several days,&quot; &quot;more than half the days,&quot; and &quot;nearly every day,&quot; respectively, and then adding together the scores for the seven questions (score range from 0-21). Scores of 5, 10, and 15 represent cut-points for mild, moderate, and severe anxiety, respectively. When used as a screening tool, further evaluation is recommended when the score is 10 or greater.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Depression (PHQ-9)</measure>
+    <time_frame>Once at baseline (wk0). Four times during the 4-week long deployment period (wk1, wk2, wk3, wk4); and then once a month up until the 3-month follow-up (wk8, wk12, wk4) = total of 8 times</time_frame>
+    <description>Based on the findings from the pilot RCT, the Patient Health Questionnaire-9 (Kroenke et al., 2001) has been included as a key secondary measure. The aim being to investigate the effects of Purrble + SSI intervention on changes in students' depression over the period of academic term (in comparison to a wait-listed student group).&#xD;
+Measured by: PHQ-9, a depression module which scores each of the nine DSM-IV criteria as &quot;0&quot; (not at all) to &quot;3&quot; (nearly every day). It is not a screening tool for depression but it is used to monitor the severity of depression and response to treatment. The maximum score is 27 (9 questions x maximum 3 points per question). Depression severity is graded based on the PHQ-9 score:&#xD;
+None 0-4 Mild 5-9 Moderately 10-14 Moderately severe 15-19 Severe 20-27</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Emotion regulation (beliefs)</measure>
+    <time_frame>Once at baseline (wk0). Four times during the 4-week long deployment period (wk1, wk2, wk3, wk4); and then once a month up until the 3-month follow-up (wk8, wk12, wk4) = total of 8 times</time_frame>
+    <description>A secondary aim includes investigating the effects of Purrble + SSI intervention on changes in students' emotion regulation processes over the period of academic term (in comparison to a wait-listed student group).&#xD;
+Student-reported beliefs about emotion regulation will be measured by the Emotion Regulation Beliefs questionnaire (Ford et al., 2018). Specifically, students will answer 4 questions on a five point Likert scale (strongly disagree --&gt; strongly agree), which ask about incremental and entity beliefs. Incremental belief items are reverse-scored. Score range from 4-20, higher scores across beliefs indicated holding entity beliefs, while lower scores are interpreted as incremental beliefs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Emotion regulation (self-efficacy)</measure>
+    <time_frame>Once at baseline (wk0). Four times during the 4-week long deployment period (wk1, wk2, wk3, wk4); and then once a month up until the 3-month follow-up (wk8, wk12, wk4) = total of 8 times</time_frame>
+    <description>A secondary aim includes investigating the effects of Purrble + SSI intervention on changes in students' emotion regulation processes over the period of two academic terms (in comparison to a wait-listed student group).&#xD;
+Student-reported capability of regulating / managing own emotion will be measured by the Self-Efficacy version of the Emotion Regulation Questionnaire (ERQ-SE; Goldin et al., 2012).The ERQ-SE score is calculated by assigning scores from 1 (strongly disagree) to 7 (strongly agree), 4 being considered neutral. Ratings are calculated for a total self-efficacy score (10-70), with higher scores indicating better capability to manage one's emotions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hopefulness</measure>
+    <time_frame>Once at baseline (wk0). Four times during the 4-week long deployment period (wk1, wk2, wk3, wk4); and then once a month up until the 3-month follow-up (wk8, wk12, wk4) = total of 8 times</time_frame>
+    <description>A secondary aim includes investigating the effects of Purrble + SSI intervention on changes in students' depression over the two academic terms (in comparison to a wait-listed student group).&#xD;
+Measured by: The State Hope Scale (Snyder et al., 1996) is a 6-item self-report measure of ongoing goal-directed thinking (agency and pathways). Responses are rated on an 8-point Likert scale ranging from 1 (Definitely True) to 8 (Definitely False) with higher scores indicative of greater state hopefulness (total score: 6-48).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hopelessness</measure>
+    <time_frame>Once at baseline (wk0). Four times during the 4-week long deployment period (wk1, wk2, wk3, wk4); and then once a month up until the 3-month follow-up (wk8, wk12, wk4) = total of 8 times</time_frame>
+    <description>A secondary aim includes investigating the effects of Purrble + SSI intervention on changes in students' depression over the two academic terms (in comparison to a wait-listed student group).&#xD;
+Measured by: The Beck Hopelessness Scale (Beck, 1988) provides a self-report measure of one's negative expectations regarding the future. It consists of 20 true-false items arrayed within three factors: Feelings about the future, loss of motivation, and future expectations. The total score is a sum of item responses. Scores ranging from: 0 to 3 within the normal range, 4 to 8 mild hopelessness, 9 to 14 moderate hopelessness, and scores greater than 14 identify severe hopelessness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Engagement with the Purrble intervention</measure>
+    <time_frame>Four times during the 4-week long deployment period (wk1, wk2, wk3, wk4); and then once a month up until the 3-month follow-up (wk8, wk12, wk4) = total of 7 times</time_frame>
+    <description>A secondary aim includes investigating the engagements with the Purrble + SSI intervention over the two academic terms.&#xD;
+Measured by: A bespoke survey informed by the pilot study (Dauden Roquet et al., 2022). The questions inquire about Purrble use and perceived usefulness. Items are rated on a 0 to 4 scale unless otherwise specified, and will be analysed separately.&#xD;
+How often did participants engage with Purrble this week? If not at all, why do participants think that was?&#xD;
+On average, did engaging with Purrble make any difference to how participants felt at the time?</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Engagement with the Purrble intervention (TWEETS)</measure>
+    <time_frame>Four times during the 4-week long deployment period (wk1, wk2, wk3, wk4); and then once a month up until the 3-month follow-up (wk8, wk12, wk4) = total of 7 times</time_frame>
+    <description>A secondary aim includes investigating the engagements with the Purrble + SSI intervention over the two academic terms.&#xD;
+Measured by: An adapted version of Twente Engagement with eHealth Technologies Scale (TWEETS; Kelders et al., 2020). Consisting of 9-items measured on a 5-point Likert scale ranging from strongly disagree (0) to strongly agree (4), total score ranging from 0-36. Engagement is split into subsections considering behaviour, cognitive and affective engagement. Higher scores indicate greater engagement with the intervention.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Engagement with the Single Session Intervention</measure>
+    <time_frame>Once after completing the online SSI programme (week 1)</time_frame>
+    <description>Measured by: A program feedback scale (Schleider et al., 2019) was adapted for this study. Items rated on a 1 (really disagree) to 5 (really agree) scale unless otherwise specified. Each item can be analysed separately and as a mean score across items the 7 quantitative items, total score ranges from 7-45.&#xD;
+I enjoyed the program&#xD;
+I understood the program&#xD;
+This program was easy to use&#xD;
+I tried my hardest during the program&#xD;
+I think the program would be helpful to other university students&#xD;
+I would recommend this program to a friend going through a hard time&#xD;
+I agree with the program's message&#xD;
+What did participants like about the program? Please share as many true thoughts and feelings as participants would like &lt;&lt; open-ended, text area &gt;&gt;&#xD;
+What would participants change about the program? Please share as many true thoughts and feelings as participants would like &lt;&lt; open-ended, text area &gt;&gt;</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">191</enrollment>
+  <condition>Anxiety</condition>
+  <condition>Emotion Regulation</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The Purrble intervention takes the form of an interactive plush toy, designed to be handed over to the student and support in-the-moment soothing -- see JMIR Res Protoc 2021;10(11):e28914 (doi: 10.2196/28914)&#xD;
+The Single Session Intervention has been co-produced with university students and clinical experts (Prof Jessica Schleider and Prof James Gross), combining the theories of emotion regulation with the qualitative experiences of students in open trial.&#xD;
+The result follows a traditional SSI structure (cf., Schleider et al 2020), including&#xD;
+Initial guided reflection exercise&#xD;
+Short interactive psychoeducation&#xD;
+Personalised action plan&#xD;
+The SSI will be accessible by students on a website and be both desktop and mobile browser friendly. The full process should not take students longer than 30 minutes.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Wait-list control (access to services as usual)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Purrble+SSI</intervention_name>
+    <description>Purrble intervention as described above.&#xD;
+Single Session Intervention (SSI) (~30mins) combining the theories of ER with the experiences from students involved in previous studies, and follows a traditional SSI structure (Schleider et al 2020). Specific content has been co-produced with students and experts.</description>
+    <arm_group_label>Intervention</arm_group_label>
+    <other_name>Purrble intervention + Single Session Intervention</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Currently registered as a student at Oxford University (under- or postgraduate) at the&#xD;
+             time of the study&#xD;
+&#xD;
+          -  Currently living in the UK at the time of the study&#xD;
+&#xD;
+          -  Aged 18-30&#xD;
+&#xD;
+          -  GAD7 score of 10 or above.&#xD;
+&#xD;
+          -  Consistent internet and computer/laptop/smartphone access&#xD;
+&#xD;
+          -  Able to read and write in English&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Not an Oxford University student currently living in the UK at the time of the study&#xD;
+&#xD;
+          -  Not within age range&#xD;
+&#xD;
+          -  GAD7 score of under 10&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>30 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>King's College London</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <reference>
+    <citation>Auerbach RP, Mortier P, Bruffaerts R, Alonso J, Benjet C, Cuijpers P, Demyttenaere K, Ebert DD, Green JG, Hasking P, Murray E, Nock MK, Pinder-Amaker S, Sampson NA, Stein DJ, Vilagut G, Zaslavsky AM, Kessler RC; WHO WMH-ICS Collaborators. WHO World Mental Health Surveys International College Student Project: Prevalence and distribution of mental disorders. J Abnorm Psychol. 2018 Oct;127(7):623-638. doi: 10.1037/abn0000362. Epub 2018 Sep 13.</citation>
+    <PMID>30211576</PMID>
+  </reference>
+  <reference>
+    <citation>Torous J, Nicholas J, Larsen ME, Firth J, Christensen H. Clinical review of user engagement with mental health smartphone apps: evidence, theory and improvements. Evid Based Ment Health. 2018 Aug;21(3):116-119. doi: 10.1136/eb-2018-102891. Epub 2018 Jun 5.</citation>
+    <PMID>29871870</PMID>
+  </reference>
+  <reference>
+    <citation>Musiat P, Goldstone P, Tarrier N. Understanding the acceptability of e-mental health--attitudes and expectations towards computerised self-help treatments for mental health problems. BMC Psychiatry. 2014 Apr 11;14:109. doi: 10.1186/1471-244X-14-109.</citation>
+    <PMID>24725765</PMID>
+  </reference>
+  <reference>
+    <citation>Brown JSL. Student mental health: some answers and more questions. J Ment Health. 2018 Jun;27(3):193-196. doi: 10.1080/09638237.2018.1470319. Epub 2018 May 16. No abstract available.</citation>
+    <PMID>29768071</PMID>
+  </reference>
+  <reference>
+    <citation>Schleider JL, Mullarkey MC, Weisz JR. Virtual Reality and Web-Based Growth Mindset Interventions for Adolescent Depression: Protocol for a Three-Arm Randomized Trial. JMIR Res Protoc. 2019 Jul 9;8(7):e13368. doi: 10.2196/13368.</citation>
+    <PMID>31290406</PMID>
+  </reference>
+  <reference>
+    <citation>Spitzer RL, Kroenke K, Williams JB, Lowe B. A brief measure for assessing generalized anxiety disorder: the GAD-7. Arch Intern Med. 2006 May 22;166(10):1092-7. doi: 10.1001/archinte.166.10.1092.</citation>
+    <PMID>16717171</PMID>
+  </reference>
+  <reference>
+    <citation>Kroenke K, Spitzer RL, Williams JB. The PHQ-9: validity of a brief depression severity measure. J Gen Intern Med. 2001 Sep;16(9):606-13. doi: 10.1046/j.1525-1497.2001.016009606.x.</citation>
+    <PMID>11556941</PMID>
+  </reference>
+  <reference>
+    <citation>Ford BQ, Lwi SJ, Gentzler AL, Hankin B, Mauss IB. The cost of believing emotions are uncontrollable: Youths' beliefs about emotion predict emotion regulation and depressive symptoms. J Exp Psychol Gen. 2018 Aug;147(8):1170-1190. doi: 10.1037/xge0000396. Epub 2018 Apr 5.</citation>
+    <PMID>29620380</PMID>
+  </reference>
+  <reference>
+    <citation>Goldin PR, Ziv M, Jazaieri H, Werner K, Kraemer H, Heimberg RG, Gross JJ. Cognitive reappraisal self-efficacy mediates the effects of individual cognitive-behavioral therapy for social anxiety disorder. J Consult Clin Psychol. 2012 Dec;80(6):1034-40. doi: 10.1037/a0028555. Epub 2012 May 14.</citation>
+    <PMID>22582765</PMID>
+  </reference>
+  <reference>
+    <citation>Snyder CR, Sympson SC, Ybasco FC, Borders TF, Babyak MA, Higgins RL. Development and validation of the State Hope Scale. J Pers Soc Psychol. 1996 Feb;70(2):321-35. doi: 10.1037//0022-3514.70.2.321.</citation>
+    <PMID>8636885</PMID>
+  </reference>
+  <reference>
+    <citation>Daudén Roquet, C., Theofanopoulou, N., Freeman, J. L., Schleider, J., Gross, J. J., Davis, K., ... &amp; Slovak, P. (2022, April). Exploring Situated &amp; Embodied Support for Youth's Mental Health: Design Opportunities for Interactive Tangible Device. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (pp. 1-16).</citation>
+  </reference>
+  <reference>
+    <citation>Kelders SM, Kip H, Greeff J. Psychometric Evaluation of the TWente Engagement with Ehealth Technologies Scale (TWEETS): Evaluation Study. J Med Internet Res. 2020 Oct 9;22(10):e17757. doi: 10.2196/17757.</citation>
+    <PMID>33021487</PMID>
+  </reference>
+  <reference>
+    <citation>Beck, A. T., Steer, R. A., &amp; Pompili, M. (1988). BHS, Beck hopelessness scale: manual. San Antonio, TX: Psychological corporation.</citation>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 13, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>March 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 14, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>emotion regulation</keyword>
+  <keyword>anxiety</keyword>
+  <keyword>students</keyword>
+  <keyword>intervention</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Anxiety Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9609">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05694416</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FUTURE</org_study_id>
+    <nct_id>NCT05694416</nct_id>
+  </id_info>
+  <brief_title>Etoposide Plus Cisplatin Compared With Temozolomide in Patients With Glioblastoma</brief_title>
+  <official_title>Etoposide Plus Cisplatin Compared With Temozolomide in Patients With Newly Diagnosed MGMT Promotor Unmethylated Glioblastoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Zhongnan Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Zhongnan Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Temozolomide provided significant and clinically meaningful benefit in MGMT gene promoter&#xD;
+      methylation glioblastoma. However, in unmethylated patients, the effect of Temozolomide is&#xD;
+      limited. The aim of this study is to compare the effect of Etoposide plus Cisplatin and&#xD;
+      Temozolomide in patients with MGMT gene promoter unmethylation glioblastoma.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      60 Patients with glioblastoma were recruited for this study based on the following&#xD;
+      eligibility criteria: Age between 18 and 70, performance status of 0-1 (Eastern Cooperative&#xD;
+      Oncology Group performance status), histologically confirmed MGMT gene promoter unmethylation&#xD;
+      glioblastoma, no cerebrospinal fluid and distant metastatic disease. All patients had&#xD;
+      adequate hematologic, hepatic, and renal function. Patients younger than 18 years; patients&#xD;
+      with a prior (i.e. within 5 years) or synchronous malignancy, other than non-melanoma skin&#xD;
+      cancer; and those with significant comorbidities were excluded.&#xD;
+&#xD;
+      60 patients were randomly divided into two groups and compared the difference of efficacy&#xD;
+      between the two groups&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2023</start_date>
+  <completion_date type="Anticipated">March 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>OVER SURVIVAL</measure>
+    <time_frame>2 YEARS</time_frame>
+    <description>The length of time from the date of diagnosis to death from cancer</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>PFS</measure>
+    <time_frame>1 year</time_frame>
+    <description>the length of time after primary treatment for glioblastoma ends that the patient survives without any progression of glioblastoma.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>MGMT-Unmethylated Glioblastoma</condition>
+  <arm_group>
+    <arm_group_label>Etoposide Plus Cisplatin group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Etoposide 100mg/m2 d1-5 Cisplatin 20mg/mCisplatin d1-5</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Temozolomide group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Temozolomide 150-200mg/m2 d1-5</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Etoposide Plus Cisplatin</intervention_name>
+    <description>Etoposide Plus Cisplatin ivdrip d1-5</description>
+    <arm_group_label>Etoposide Plus Cisplatin group</arm_group_label>
+    <other_name>EP</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age between 18 and 70,&#xD;
+&#xD;
+          -  performance status of 0-1 (Eastern Cooperative Oncology Group performance status),&#xD;
+&#xD;
+          -  histologically confirmed MGMT gene promoter unmethylation glioblastoma&#xD;
+&#xD;
+          -  no cerebrospinal fluid and distant metastatic disease.&#xD;
+&#xD;
+          -  adequate hematologic, hepatic, and renal function&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  younger than 18 years;&#xD;
+&#xD;
+          -  with a prior (i.e. within 5 years) or synchronous malignancy, other than non-melanoma&#xD;
+             skin cancer; and those with significant comorbidities&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jianyin Huang, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Wuhan University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yahua Zhong, Phd</last_name>
+    <phone>08602767813154</phone>
+    <email>doctorzyh73@163.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jianyin Huang, MD</last_name>
+  </overall_contact_backup>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 12, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 12, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>January 12, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 12, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Etoposide Plus Cisplatin</keyword>
+  <keyword>Temozolomide</keyword>
+  <keyword>MGMT-Unmethylated Glioblastoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glioblastoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Etoposide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

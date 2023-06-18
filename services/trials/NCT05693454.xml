@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9656">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05693454</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LAWS</org_study_id>
+    <nct_id>NCT05693454</nct_id>
+  </id_info>
+  <brief_title>Local Wound Anesthesia in Spine Surgery</brief_title>
+  <official_title>Local Wound Anesthesia in Spine Surgery - a Randomized Double Blind Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Balgrist University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Balgrist University Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Prospective, randomized, double-blinded, trial regarding the effect of local wound&#xD;
+      infiltration at the end of spine surgery; randomizing 1:1:1 between NaCl, Ropivacain,&#xD;
+      Levobupivacaine combined with Tramadol&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Subcutaneous local wound injections with NaCl, Ropivacain or Levobupivacaine combined with&#xD;
+      Tramadol will be performed in a randomized, double-blinded manner at the end of spine&#xD;
+      surgery. Pain control, dosage of analgesics used, analgesics reduction compared to&#xD;
+      preoperative, wound healing problems and clinical outcome socres will be assessed up to 6&#xD;
+      weeks after surgery&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 1, 2021</start_date>
+  <completion_date type="Anticipated">March 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>randomized, double blind, controlled</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>double blind</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pain control</measure>
+    <time_frame>2 hours after surgery</time_frame>
+    <description>pain assessment by visual analog with 0 = no pain and 10 = maximal pain</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pain control</measure>
+    <time_frame>4 hours after surgery</time_frame>
+    <description>pain assessment by visual analog with 0 = no pain and 10 = maximal pain</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pain control</measure>
+    <time_frame>8 hours after surgery</time_frame>
+    <description>pain assessment by visual analog with 0 = no pain and 10 = maximal pain</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pain control</measure>
+    <time_frame>12 hours after surgery</time_frame>
+    <description>pain assessment by visual analog with 0 = no pain and 10 = maximal pain</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pain control</measure>
+    <time_frame>until 42 days after surgery</time_frame>
+    <description>analgesics consumption</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>costs</measure>
+    <time_frame>at 42 days after surgery</time_frame>
+    <description>total costs for the intervention under study in Swiss Francs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>sick leave</measure>
+    <time_frame>at 42 days after surgery</time_frame>
+    <description>duration of sick leave</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>hospital stay</measure>
+    <time_frame>up to 8 weeks</time_frame>
+    <description>length of hospital stay in days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>wound drying</measure>
+    <time_frame>up to 8 weeks</time_frame>
+    <description>time in days until wound is dry</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>wound length</measure>
+    <time_frame>up to 8 weeks</time_frame>
+    <description>wound length</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>wound healing</measure>
+    <time_frame>until 42 days after surgery</time_frame>
+    <description>have wound healing problems occurred (yes / no)</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Surgical Wound</condition>
+  <condition>Orthopedic Disorder of Spine</condition>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>local wound infiltration at the end of spine surgery with NaCl</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm I</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>local wound infiltration at the end of spine surgery with Ropivacain</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>local wound infiltration at the end of spine surgery with a combination of Levobupivacaine and Tramadol</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Infiltration with NaCl</intervention_name>
+    <description>Local wound infiltration at the end of spine surgery with NaCl</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Infiltration with Ropivacain</intervention_name>
+    <description>Local wound infiltration at the end of spine surgery with Ropivacain</description>
+    <arm_group_label>Arm I</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Infiltration with a combination of Levobupivacaine and Tramadol</intervention_name>
+    <description>Local wound infiltration at the end of spine surgery with a combination of Levobupivacaine and Tramadol</description>
+    <arm_group_label>Arm II</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Informed Consent&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+          -  Elective spine surgery with any technique&#xD;
+&#xD;
+          -  At least 6 weeks of scheduled follow-up from hospitalization&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Documented decline for data inclusion&#xD;
+&#xD;
+          -  Allergy to any of the drugs used&#xD;
+&#xD;
+          -  &lt;50kg total body weight&#xD;
+&#xD;
+          -  Vertebro- or Kyphoplasty&#xD;
+&#xD;
+          -  Pregnancy and breast feeding&#xD;
+&#xD;
+          -  Inability to follow the procedures of the study, e.g. due to language problems,&#xD;
+             psychological disorders, dementia, etc. of the participant&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mazda Farshad, Prof</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Balgrist University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mazda Farshad, Prof</last_name>
+    <phone>+41 44 386 11 11</phone>
+    <email>mazda.farshad@balgrist.ch</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Samuel Haupt, MD</last_name>
+    <phone>+41 44 386 11 11</phone>
+    <email>samuel.haupt@balgrist.ch</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Balgrist University Hospital</name>
+      <address>
+        <city>Zurich</city>
+        <zip>8008</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mazda Farshad, Prof.</last_name>
+      <phone>+41 44 368 1111</phone>
+      <email>mazda.farshad@balgrist.ch</email>
+    </contact>
+    <contact_backup>
+      <last_name>Samuel Haupt, MD</last_name>
+      <phone>+41 44 368 1111</phone>
+      <email>samuel.haupt@balgrist.ch</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>July 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>January 11, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 11, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Musculoskeletal Diseases</mesh_term>
+    <mesh_term>Spinal Diseases</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+    <mesh_term>Surgical Wound</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tramadol</mesh_term>
+    <mesh_term>Levobupivacaine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>IPD will not be shared with other researchers outside of our institution</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

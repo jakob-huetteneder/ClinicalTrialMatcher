@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9552">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05695521</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CK0803-101-1</org_study_id>
+    <nct_id>NCT05695521</nct_id>
+  </id_info>
+  <brief_title>Regulatory T Cells for Amyotrophic Lateral Sclerosis</brief_title>
+  <acronym>REGALS</acronym>
+  <official_title>Phase 1 Safety Run-in Study and Phase 1b Randomized, Double Blinded, Placebo Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cellenkos, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cellenkos, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Phase 1 Safety Run-in Study of 6 patients followed by Phase 1b Randomized, Double Blind,&#xD;
+      Placebo Control Trial of CK0803, neurotropic, allogeneic, umbilical cord blood derived T&#xD;
+      regulatory (Treg) cells in additional 60 patients with Amyotrophic Lateral Sclerosis.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      CK0803, neurotrophic allogenic T regulatory Cells (Treg), utilizes Cellenkos' proprietary&#xD;
+      CRANE technology to generate disease specific products. The primary objective of the upcoming&#xD;
+      phase 1 study is to establish safety and tolerability of multiple doses of CK0803 in ALS&#xD;
+      patients. The goal of the phase 1b study is to extend safety and establish efficacy of CK0803&#xD;
+      in ALS using the combined assessment of function and survival (CAFS) that ranks patients'&#xD;
+      clinical outcomes based on survival time and change in the ALS Functional Rating&#xD;
+      Scale-Revised (ALSFRS-R) score.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 3, 2023</start_date>
+  <completion_date type="Anticipated">December 2027</completion_date>
+  <primary_completion_date type="Anticipated">May 2026</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a randomized two-arm, multi-center phase Ib trial of CK0803 (cryopreserved, allogeneic, cord blood derived T regulatory cells that express neurotropic homing markers) versus placebo for treatment of adults with amyotrophic lateral sclerosis (ALS) having onset within 5 years of trial entry. This trial will consist of a 6-patient safety run-in followed by a randomized comparative trial with up to two stages (stages 1 and 2), each stage of size 30 patients, with a safety rule applied after stage 1 that may terminate the trial early, for a maximum total sample size of 6+30+30 = 66 patients.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double Blinded, Placebo Control</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Treatment Limiting Toxicity (TLT)</measure>
+    <time_frame>28 days</time_frame>
+    <description>TLT of CK0803 as assessed by the incidence and severity of AE and SAEs using NCI-CTCAE Version 5.0 criteria. TLT is a primary endpoint for bothe phase 1 safety run-in and phase 1b RCT part</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Combined assessment of function and survival (CAFS)</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>CAFS ranks patients' clinical outcomes based on survival time and change in the ALS Functional Rating Scale-Revised (ALSFRS-R) score where score = 0 is worst and score = 48 is best. Each patient's outcome is compared to every other patient's outcome, assigned a score, and the summed scores are ranked. The mean rank score for each treatment group can then be calculated. A higher mean CAFS score indicates a better group outcome.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of all cause AEs and SAEs</measure>
+    <time_frame>baseline and at weeks 1, 2, 3, 4, 5, 8, 12 and/or 13, 16, 20, 24 and/or 25, 36 and 48 from first infusion and/or at end of treatment (EOT)</time_frame>
+    <description>Treatment limiting toxicities of CK0803 as assessed by the incidence and severity of AE and SAEs using NCI-CTCAE Version 5.0 criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ALS Functional Rating Scale-Revised (ALSFRS-R) Score</measure>
+    <time_frame>Each measured at baseline and at weeks 5, 8, 12 and/or 13, 16, 20, 24 and/or 25, 36 and 48 from first infusion and/or at EOT</time_frame>
+    <description>Longitudinal processes of ALSFRS-R score measured at baseline and different time points. ALSFRS-R score 0=worst; 48=best</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Amyotrophic Lateral Sclerosis Specific Quality of Life - Revised (ALSSQOL-R)</measure>
+    <time_frame>Each measured at baseline and at weeks 5, 8, 12 and/or 13, 16, 20, 24 and/or 25, 36 and 48 from first infusion and/or at EOT</time_frame>
+    <description>Each item of the ALSSQOL-R is rated by the individual using a 0 to 10 point Likert scale, with 0 being the least desirable situation, and 10 being the most desirable.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Slow Vital Capacity (SVC)</measure>
+    <time_frame>Each measured at baseline and at weeks 5, 8, 12 and/or 13, 16, 20, 24 and/or 25, 36 and 48 from first infusion and/or at EOT</time_frame>
+    <description>SVC is the volume of air expired, on a low complete expiration after a maximal inspiration without forced or rapid effort.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Handheld dynamometer (HHD)</measure>
+    <time_frame>Each measured at baseline and at weeks 5, 8, 12 and/or 13, 16, 20, 24 and/or 25, 36 and 48 from first infusion and/or at EOT</time_frame>
+    <description>HHD allows for objective measurement of muscle strength</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Nfl CSF</measure>
+    <time_frame>Each measured at baseline and at weeks 5, 8, 12 and/or 13, 16, 20, 24 and/or 25, 36 and 48 from first infusion and/or at EOT</time_frame>
+    <description>Neurofilament light chain level in the CSF</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Nfl Serum</measure>
+    <time_frame>Each measured at baseline and at weeks 5, 8, 12 and/or 13, 16, 20, 24 and/or 25, 36 and 48 from first infusion and/or at EOT12 months</time_frame>
+    <description>Neurofilament light chain level in the Serum</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilation assistance-free survival (VAFS)</measure>
+    <time_frame>Each measured at baseline and at weeks 5, 8, 12 and/or 13, 16, 20, 24 and/or 25, 36 and 48 from first infusion and/or at EOT</time_frame>
+    <description>VAFS is defined as the time to the earliest occurrence of 1 of the following events: i) Death, or ii) Permanent ventilation (&gt; 22 hours of mechanical ventilation [invasive or non-invasive] per day for &gt; 21 consecutive days in the absence of an acute potentially reversible event)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>24 weeks and 48 weeks from first infusion and/or at EOT</time_frame>
+    <description>OS defined as the length of time from the start of treatment that patients are still alive.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">66</enrollment>
+  <condition>Amyotrophic Lateral Sclerosis</condition>
+  <arm_group>
+    <arm_group_label>CK0803</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>CK0803 (cryopreserved, allogeneic, cord blood derived T regulatory cells that express neurotropic homing markers) will be administered intravenously Dose: 100 million Treg cells (fixed dose)&#xD;
+Dose regimen:&#xD;
+Induction: one infusion every 7 days (+/-3) x 4 doses&#xD;
+Consolidation: one infusion every 28 days (+/-3) x 5 doses</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Excipient</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CK0803</intervention_name>
+    <description>CK0803 (cryopreserved, allogeneic, cord blood derived T regulatory cells that express neurotropic homing markers) will be administered intravenously</description>
+    <arm_group_label>CK0803</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Excipient</intervention_name>
+    <description>Excipient</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Ability of the subject or his/her legally authorized representative to provide&#xD;
+             informed consent.&#xD;
+&#xD;
+          -  Adult ALS subjects (≥18 years of age)&#xD;
+&#xD;
+          -  Diagnosis of ALS, according to the Revised El Escorial Criteria for ALS&#xD;
+&#xD;
+          -  Subjects with disease onset ≤ 5 years&#xD;
+&#xD;
+          -  Upright (sitting position) Slow Vital Capacity (SVC) as adjusted for sex, age and&#xD;
+             height ≥ 50% predicted&#xD;
+&#xD;
+          -  Subjects must have documented ALSFRSR score of 36-45 at baseline.&#xD;
+&#xD;
+          -  Subjects taking concomitant Riluzole or Edaravone or Albrioza at study entry must be&#xD;
+             on a stable dose for ≥ 30 days prior to the first dose of study treatment (Day 1).&#xD;
+&#xD;
+          -  Screening values of coagulation parameters including platelet count, international&#xD;
+             normalized ratio (INR), prothrombin time (PT), and activated partial thromboplastin&#xD;
+             time (APTT) should be within normal ranges.&#xD;
+&#xD;
+          -  Agree to practice highly effective contraception during the study and continue&#xD;
+             contraception for 90 days after their last dose of study treatment.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Uncontrolled infection, not responding to appropriate antimicrobial agents after seven&#xD;
+             days of therapy. The Protocol medical monitor is the final arbiter of eligibility.&#xD;
+&#xD;
+          -  Antiplatelet or anticoagulant therapy within the 14 days prior to Day 1 or anticipated&#xD;
+             use during the study, including but not limited to daily aspirin including low dose&#xD;
+             aspirin (defined as ≤ 150 mg/day), clopidogrel, dipyridamole, warfarin, dabigatran,&#xD;
+             rivaroxaban and apixaban&#xD;
+&#xD;
+          -  Clinically significant low platelet count (defined as &lt; 100,000/mm3), coagulation&#xD;
+             tests, or laboratory abnormalities that would render a subject unsuitable for&#xD;
+             inclusion&#xD;
+&#xD;
+          -  Unwillingness to comply with study procedures, including follow-up, as specified by&#xD;
+             this protocol, or unwillingness to cooperate fully with the Investigator&#xD;
+&#xD;
+          -  Have any other conditions, which, in the opinion of the Investigator would make the&#xD;
+             subject unsuitable for inclusion, or could interfere with the subject participating in&#xD;
+             or completing the study&#xD;
+&#xD;
+          -  Concurrent participation in any other interventional clinical study&#xD;
+&#xD;
+          -  Treatment with another investigational drug, biological agent, or device, including,&#xD;
+             but not limited to sodium phenylbutyrate, within 1 month of Screening, or 5 half-lives&#xD;
+             of investigational agent, whichever is longer&#xD;
+&#xD;
+          -  Treatment of cancer in the last 5 years (except in situ carcinoma of the cervix or&#xD;
+             basal cell carcinoma)&#xD;
+&#xD;
+          -  Female subjects who are pregnant or currently breastfeeding&#xD;
+&#xD;
+          -  Other unspecified reasons that, in the opinion of the Investigator or Sponsor, make&#xD;
+             the subject unsuitable for enrollment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>95 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Neil Shneider, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Columbia University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Tara Sadeghi</last_name>
+    <phone>7138064787</phone>
+    <email>tara.sadeghi@cellenkosinc.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Stacy Minor</last_name>
+    <phone>9792821294</phone>
+    <email>stacy.minor@cellenkosinc.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Columbia University Irving Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Neil Shneider, MD, PhD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Neil Shneider, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Beers DR, Zhao W, Liao B, Kano O, Wang J, Huang A, Appel SH, Henkel JS. Neuroinflammation modulates distinct regional and temporal clinical responses in ALS mice. Brain Behav Immun. 2011 Jul;25(5):1025-35. doi: 10.1016/j.bbi.2010.12.008. Epub 2010 Dec 19.</citation>
+    <PMID>21176785</PMID>
+  </reference>
+  <reference>
+    <citation>Beers DR, Zhao W, Wang J, Zhang X, Wen S, Neal D, Thonhoff JR, Alsuliman AS, Shpall EJ, Rezvani K, Appel SH. ALS patients' regulatory T lymphocytes are dysfunctional, and correlate with disease progression rate and severity. JCI Insight. 2017 Mar 9;2(5):e89530. doi: 10.1172/jci.insight.89530.</citation>
+    <PMID>28289705</PMID>
+  </reference>
+  <reference>
+    <citation>Beghi E, Logroscino G, Chio A, Hardiman O, Millul A, Mitchell D, Swingler R, Traynor BJ. Amyotrophic lateral sclerosis, physical exercise, trauma and sports: results of a population-based pilot case-control study. Amyotroph Lateral Scler. 2010 May 3;11(3):289-92. doi: 10.3109/17482960903384283.</citation>
+    <PMID>20433412</PMID>
+  </reference>
+  <reference>
+    <citation>Berry JD, Cudkowicz ME, Windebank AJ, Staff NP, Owegi M, Nicholson K, McKenna-Yasek D, Levy YS, Abramov N, Kaspi H, Mehra M, Aricha R, Gothelf Y, Brown RH. NurOwn, phase 2, randomized, clinical trial in patients with ALS: Safety, clinical, and biomarker results. Neurology. 2019 Dec 10;93(24):e2294-e2305. doi: 10.1212/WNL.0000000000008620. Epub 2019 Nov 18.</citation>
+    <PMID>31740545</PMID>
+  </reference>
+  <reference>
+    <citation>Berry JD, Miller R, Moore DH, Cudkowicz ME, van den Berg LH, Kerr DA, Dong Y, Ingersoll EW, Archibald D. The Combined Assessment of Function and Survival (CAFS): a new endpoint for ALS clinical trials. Amyotroph Lateral Scler Frontotemporal Degener. 2013 Apr;14(3):162-8. doi: 10.3109/21678421.2012.762930. Epub 2013 Jan 17.</citation>
+    <PMID>23323713</PMID>
+  </reference>
+  <reference>
+    <citation>Brooks BR, Miller RG, Swash M, Munsat TL; World Federation of Neurology Research Group on Motor Neuron Diseases. El Escorial revisited: revised criteria for the diagnosis of amyotrophic lateral sclerosis. Amyotroph Lateral Scler Other Motor Neuron Disord. 2000 Dec;1(5):293-9. doi: 10.1080/146608200300079536. No abstract available.</citation>
+    <PMID>11464847</PMID>
+  </reference>
+  <reference>
+    <citation>Brunstein CG, Miller JS, Cao Q, McKenna DH, Hippen KL, Curtsinger J, Defor T, Levine BL, June CH, Rubinstein P, McGlave PB, Blazar BR, Wagner JE. Infusion of ex vivo expanded T regulatory cells in adults transplanted with umbilical cord blood: safety profile and detection kinetics. Blood. 2011 Jan 20;117(3):1061-70. doi: 10.1182/blood-2010-07-293795. Epub 2010 Oct 15.</citation>
+    <PMID>20952687</PMID>
+  </reference>
+  <reference>
+    <citation>Brunstein CG, Miller JS, McKenna DH, Hippen KL, DeFor TE, Sumstad D, Curtsinger J, Verneris MR, MacMillan ML, Levine BL, Riley JL, June CH, Le C, Weisdorf DJ, McGlave PB, Blazar BR, Wagner JE. Umbilical cord blood-derived T regulatory cells to prevent GVHD: kinetics, toxicity profile, and clinical effect. Blood. 2016 Feb 25;127(8):1044-51. doi: 10.1182/blood-2015-06-653667. Epub 2015 Nov 12.</citation>
+    <PMID>26563133</PMID>
+  </reference>
+  <reference>
+    <citation>Cervantes-Barragan L, Firner S, Bechmann I, Waisman A, Lahl K, Sparwasser T, Thiel V, Ludewig B. Regulatory T cells selectively preserve immune privilege of self-antigens during viral central nervous system infection. J Immunol. 2012 Apr 15;188(8):3678-85. doi: 10.4049/jimmunol.1102422. Epub 2012 Mar 9.</citation>
+    <PMID>22407917</PMID>
+  </reference>
+  <reference>
+    <citation>Choi EY, Orlova VV, Fagerholm SC, Nurmi SM, Zhang L, Ballantyne CM, Gahmberg CG, Chavakis T. Regulation of LFA-1-dependent inflammatory cell recruitment by Cbl-b and 14-3-3 proteins. Blood. 2008 Apr 1;111(7):3607-14. doi: 10.1182/blood-2007-07-103077. Epub 2008 Jan 31.</citation>
+    <PMID>18239087</PMID>
+  </reference>
+  <reference>
+    <citation>Cudkowicz ME, Lindborg SR, Goyal NA, Miller RG, Burford MJ, Berry JD, Nicholson KA, Mozaffar T, Katz JS, Jenkins LJ, Baloh RH, Lewis RA, Staff NP, Owegi MA, Berry DA, Gothelf Y, Levy YS, Aricha R, Kern RZ, Windebank AJ, Brown RH Jr. A randomized placebo-controlled phase 3 study of mesenchymal stem cells induced to secrete high levels of neurotrophic factors in amyotrophic lateral sclerosis. Muscle Nerve. 2022 Mar;65(3):291-302. doi: 10.1002/mus.27472. Epub 2022 Jan 5. Erratum In: Muscle Nerve. 2022 Oct;66(4):E26-E27.</citation>
+    <PMID>34890069</PMID>
+  </reference>
+  <reference>
+    <citation>Das K, Nag C, Ghosh M. Familial, environmental, and occupational risk factors in development of amyotrophic lateral sclerosis. N Am J Med Sci. 2012 Aug;4(8):350-5. doi: 10.4103/1947-2714.99517.</citation>
+    <PMID>22912943</PMID>
+  </reference>
+  <reference>
+    <citation>Finkelstein DM, Schoenfeld DA. Combining mortality and longitudinal measures in clinical trials. Stat Med. 1999 Jun 15;18(11):1341-54. doi: 10.1002/(sici)1097-0258(19990615)18:113.0.co;2-7.</citation>
+    <PMID>10399200</PMID>
+  </reference>
+  <reference>
+    <citation>Garbuzova-Davis S, Haller E, Saporta S, Kolomey I, Nicosia SV, Sanberg PR. Ultrastructure of blood-brain barrier and blood-spinal cord barrier in SOD1 mice modeling ALS. Brain Res. 2007 Jul 9;1157:126-37. doi: 10.1016/j.brainres.2007.04.044. Epub 2007 Apr 24.</citation>
+    <PMID>17512910</PMID>
+  </reference>
+  <reference>
+    <citation>Garbuzova-Davis S, Hernandez-Ontiveros DG, Rodrigues MC, Haller E, Frisina-Deyo A, Mirtyl S, Sallot S, Saporta S, Borlongan CV, Sanberg PR. Impaired blood-brain/spinal cord barrier in ALS patients. Brain Res. 2012 Aug 21;1469:114-28. doi: 10.1016/j.brainres.2012.05.056. Epub 2012 Jun 27.</citation>
+    <PMID>22750125</PMID>
+  </reference>
+  <reference>
+    <citation>Gelman A, C. J., Stern HS, Rubin DB. (1995). Bayesian Data Analysis. New York, Chapman &amp; Hall.</citation>
+  </reference>
+  <reference>
+    <citation>Gladstone DE, H. C., Lyu MA, Mock J, Adams D, Gibbs K, Li L, Huang M, Zeng K, D'Alessio F, Herlihy J, Trevino S, Hari P, Sadeghi T, Parmar S, Slutsky A and Mukherjee S (23 Nov 2021).</citation>
+  </reference>
+  <reference>
+    <citation>Gladstone DE, Kim BS, Mooney K, Karaba AH, D'Alessio FR. Regulatory T Cells for Treating Patients With COVID-19 and Acute Respiratory Distress Syndrome: Two Case Reports. Ann Intern Med. 2020 Nov 17;173(10):852-853. doi: 10.7326/L20-0681. Epub 2020 Jul 6. No abstract available.</citation>
+    <PMID>32628535</PMID>
+  </reference>
+  <reference>
+    <citation>Glatigny S, Duhen R, Arbelaez C, Kumari S, Bettelli E. Integrin alpha L controls the homing of regulatory T cells during CNS autoimmunity in the absence of integrin alpha 4. Sci Rep. 2015 Jan 16;5:7834. doi: 10.1038/srep07834.</citation>
+    <PMID>25592296</PMID>
+  </reference>
+  <reference>
+    <citation>Gonzalez H, Pacheco R. T-cell-mediated regulation of neuroinflammation involved in neurodegenerative diseases. J Neuroinflammation. 2014 Dec 2;11:201. doi: 10.1186/s12974-014-0201-8.</citation>
+    <PMID>25441979</PMID>
+  </reference>
+  <reference>
+    <citation>Greco A, Ralli M, Inghilleri M, De Virgilio A, Gallo A, de Vincentiis M. Letter to the Editor: Autoimmune pathogenic mechanisms in Amyotrophic Lateral Sclerosis. Autoimmun Rev. 2018 May;17(5):530-531. doi: 10.1016/j.autrev.2018.03.005. Epub 2018 Mar 8. No abstract available.</citation>
+    <PMID>29526629</PMID>
+  </reference>
+  <reference>
+    <citation>Gugliandolo A, Bramanti P, Mazzon E. Mesenchymal Stem Cells: A Potential Therapeutic Approach for Amyotrophic Lateral Sclerosis? Stem Cells Int. 2019 Mar 10;2019:3675627. doi: 10.1155/2019/3675627. eCollection 2019.</citation>
+    <PMID>30956667</PMID>
+  </reference>
+  <reference>
+    <citation>Hardiman O, van den Berg LH, Kiernan MC. Clinical diagnosis and management of amyotrophic lateral sclerosis. Nat Rev Neurol. 2011 Oct 11;7(11):639-49. doi: 10.1038/nrneurol.2011.153.</citation>
+    <PMID>21989247</PMID>
+  </reference>
+  <reference>
+    <citation>Henkel JS, Beers DR, Wen S, Rivera AL, Toennis KM, Appel JE, Zhao W, Moore DH, Powell SZ, Appel SH. Regulatory T-lymphocytes mediate amyotrophic lateral sclerosis progression and survival. EMBO Mol Med. 2013 Jan;5(1):64-79. doi: 10.1002/emmm.201201544. Epub 2012 Nov 9. Erratum In: EMBO Mol Med. 2013 Feb;5(2):326.</citation>
+    <PMID>23143995</PMID>
+  </reference>
+  <reference>
+    <citation>Hensley K, Fedynyshyn J, Ferrell S, Floyd RA, Gordon B, Grammas P, Hamdheydari L, Mhatre M, Mou S, Pye QN, Stewart C, West M, West S, Williamson KS. Message and protein-level elevation of tumor necrosis factor alpha (TNF alpha) and TNF alpha-modulating cytokines in spinal cords of the G93A-SOD1 mouse model for amyotrophic lateral sclerosis. Neurobiol Dis. 2003 Oct;14(1):74-80. doi: 10.1016/s0969-9961(03)00087-1.</citation>
+    <PMID>13678668</PMID>
+  </reference>
+  <reference>
+    <citation>Hori S, Nomura T, Sakaguchi S. Control of regulatory T cell development by the transcription factor Foxp3. Science. 2003 Feb 14;299(5609):1057-61. doi: 10.1126/science.1079490. Epub 2003 Jan 9.</citation>
+    <PMID>12522256</PMID>
+  </reference>
+  <reference>
+    <citation>Kadia TM, P. N., Yilmaz M, Li L, Lyu M, Huang M, Zeng K, Parmar S, DiNardo CD, Daver N, Issa GC, Jabbour E, Borthakur G, Verstovsek S (2020).</citation>
+  </reference>
+  <reference>
+    <citation>KaplanELandMeierP (1958).</citation>
+  </reference>
+  <reference>
+    <citation>Kellner JN, Delemarre EM, Yvon E, Nierkens S, Boelens JJ, McNiece I, Olson A, Nieto Y, Ciurea S, Popat U, Ahmed S, Champlin R, Ramos J, Nishimoto M, Ma H, Ke Z, Thall P, Khoury JD, Negrin R, Andersson B, Parmar S. Third party, umbilical cord blood derived regulatory T-cells for prevention of graft versus host disease in allogeneic hematopoietic stem cell transplantation: feasibility, safety and immune reconstitution. Oncotarget. 2018 Nov 2;9(86):35611-35622. doi: 10.18632/oncotarget.26242. eCollection 2018 Nov 2.</citation>
+    <PMID>30479692</PMID>
+  </reference>
+  <reference>
+    <citation>Kiernan MC, Vucic S, Cheah BC, Turner MR, Eisen A, Hardiman O, Burrell JR, Zoing MC. Amyotrophic lateral sclerosis. Lancet. 2011 Mar 12;377(9769):942-55. doi: 10.1016/S0140-6736(10)61156-7. Epub 2011 Feb 4.</citation>
+    <PMID>21296405</PMID>
+  </reference>
+  <reference>
+    <citation>Komine O, Yamanaka K. Neuroinflammation in motor neuron disease. Nagoya J Med Sci. 2015 Nov;77(4):537-49.</citation>
+    <PMID>26663933</PMID>
+  </reference>
+  <reference>
+    <citation>Liu Z, Huang Y, Cao BB, Qiu YH, Peng YP. Th17 Cells Induce Dopaminergic Neuronal Death via LFA-1/ICAM-1 Interaction in a Mouse Model of Parkinson's Disease. Mol Neurobiol. 2017 Dec;54(10):7762-7776. doi: 10.1007/s12035-016-0249-9. Epub 2016 Nov 14.</citation>
+    <PMID>27844285</PMID>
+  </reference>
+  <reference>
+    <citation>Lucca LE, Dominguez-Villar M. Modulation of regulatory T cell function and stability by co-inhibitory receptors. Nat Rev Immunol. 2020 Nov;20(11):680-693. doi: 10.1038/s41577-020-0296-3. Epub 2020 Apr 8.</citation>
+    <PMID>32269380</PMID>
+  </reference>
+  <reference>
+    <citation>Malaspina A, Puentes F, Amor S. Disease origin and progression in amyotrophic lateral sclerosis: an immunology perspective. Int Immunol. 2015 Mar;27(3):117-29. doi: 10.1093/intimm/dxu099. Epub 2014 Oct 25.</citation>
+    <PMID>25344935</PMID>
+  </reference>
+  <reference>
+    <citation>Nardo G, Pozzi S, Pignataro M, Lauranzano E, Spano G, Garbelli S, Mantovani S, Marinou K, Papetti L, Monteforte M, Torri V, Paris L, Bazzoni G, Lunetta C, Corbo M, Mora G, Bendotti C, Bonetto V. Amyotrophic lateral sclerosis multiprotein biomarkers in peripheral blood mononuclear cells. PLoS One. 2011;6(10):e25545. doi: 10.1371/journal.pone.0025545. Epub 2011 Oct 5.</citation>
+    <PMID>21998667</PMID>
+  </reference>
+  <reference>
+    <citation>Oh KW, Noh MY, Kwon MS, Kim HY, Oh SI, Park J, Kim HJ, Ki CS, Kim SH. Repeated Intrathecal Mesenchymal Stem Cells for Amyotrophic Lateral Sclerosis. Ann Neurol. 2018 Sep;84(3):361-373. doi: 10.1002/ana.25302. Epub 2018 Aug 31.</citation>
+    <PMID>30048006</PMID>
+  </reference>
+  <reference>
+    <citation>Oldstone MB, Wilson CB, Perrin LH, Norris FH Jr. Evidence for immune-complex formation in patients with amyotrophic lateral sclerosis. Lancet. 1976 Jul 24;2(7978):169-72. doi: 10.1016/s0140-6736(76)92345-x.</citation>
+    <PMID>73795</PMID>
+  </reference>
+  <reference>
+    <citation>Pagani MR, Gonzalez LE, Uchitel OD. Autoimmunity in amyotrophic lateral sclerosis: past and present. Neurol Res Int. 2011;2011:497080. doi: 10.1155/2011/497080. Epub 2011 Aug 1.</citation>
+    <PMID>21826267</PMID>
+  </reference>
+  <reference>
+    <citation>Rentzos M, Evangelopoulos E, Sereti E, Zouvelou V, Marmara S, Alexakis T, Evdokimidis I. Alterations of T cell subsets in ALS: a systemic immune activation? Acta Neurol Scand. 2012 Apr;125(4):260-4. doi: 10.1111/j.1600-0404.2011.01528.x. Epub 2011 Jun 9.</citation>
+    <PMID>21651502</PMID>
+  </reference>
+  <reference>
+    <citation>Sheean RK, McKay FC, Cretney E, Bye CR, Perera ND, Tomas D, Weston RA, Scheller KJ, Djouma E, Menon P, Schibeci SD, Marmash N, Yerbury JJ, Nutt SL, Booth DR, Stewart GJ, Kiernan MC, Vucic S, Turner BJ. Association of Regulatory T-Cell Expansion With Progression of Amyotrophic Lateral Sclerosis: A Study of Humans and a Transgenic Mouse Model. JAMA Neurol. 2018 Jun 1;75(6):681-689. doi: 10.1001/jamaneurol.2018.0035.</citation>
+    <PMID>29507931</PMID>
+  </reference>
+  <reference>
+    <citation>Storer BE. An evaluation of phase I clinical trial designs in the continuous dose-response setting. Stat Med. 2001 Aug 30;20(16):2399-408. doi: 10.1002/sim.903.</citation>
+    <PMID>11512130</PMID>
+  </reference>
+  <reference>
+    <citation>Thonhoff JR, Beers DR, Zhao W, Pleitez M, Simpson EP, Berry JD, Cudkowicz ME, Appel SH. Expanded autologous regulatory T-lymphocyte infusions in ALS: A phase I, first-in-human study. Neurol Neuroimmunol Neuroinflamm. 2018 May 18;5(4):e465. doi: 10.1212/NXI.0000000000000465. eCollection 2018 Jul.</citation>
+    <PMID>29845093</PMID>
+  </reference>
+  <reference>
+    <citation>Valdmanis PN, Daoud H, Dion PA, Rouleau GA. Recent advances in the genetics of amyotrophic lateral sclerosis. Curr Neurol Neurosci Rep. 2009 May;9(3):198-205. doi: 10.1007/s11910-009-0030-9.</citation>
+    <PMID>19348708</PMID>
+  </reference>
+  <reference>
+    <citation>Verde F, Del Tredici K, Braak H, Ludolph A. The multisystem degeneration amyotrophic lateral sclerosis - neuropathological staging and clinical translation. Arch Ital Biol. 2017 Dec 1;155(4):118-130. doi: 10.12871/00039829201746.</citation>
+    <PMID>29405032</PMID>
+  </reference>
+  <reference>
+    <citation>Vonesh EF, Greene T, Schluchter MD. Shared parameter models for the joint analysis of longitudinal data and event times. Stat Med. 2006 Jan 15;25(1):143-63. doi: 10.1002/sim.2249.</citation>
+    <PMID>16025541</PMID>
+  </reference>
+  <reference>
+    <citation>Westeneng HJ, Debray TPA, Visser AE, van Eijk RPA, Rooney JPK, Calvo A, Martin S, McDermott CJ, Thompson AG, Pinto S, Kobeleva X, Rosenbohm A, Stubendorff B, Sommer H, Middelkoop BM, Dekker AM, van Vugt JJFA, van Rheenen W, Vajda A, Heverin M, Kazoka M, Hollinger H, Gromicho M, Korner S, Ringer TM, Rodiger A, Gunkel A, Shaw CE, Bredenoord AL, van Es MA, Corcia P, Couratier P, Weber M, Grosskreutz J, Ludolph AC, Petri S, de Carvalho M, Van Damme P, Talbot K, Turner MR, Shaw PJ, Al-Chalabi A, Chio A, Hardiman O, Moons KGM, Veldink JH, van den Berg LH. Prognosis for patients with amyotrophic lateral sclerosis: development and validation of a personalised prediction model. Lancet Neurol. 2018 May;17(5):423-433. doi: 10.1016/S1474-4422(18)30089-9. Epub 2018 Mar 26.</citation>
+    <PMID>29598923</PMID>
+  </reference>
+  <reference>
+    <citation>Zeng K, M. H., Popat U, Nieto Y, Ciurea SO, Olson AL, Lyu M, Huang M, Nishimoto M, Qazilbash MH, Ramos JD, Shpall EJ, Champlin RE, Parmar S, Andersson BS. (2019).</citation>
+  </reference>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>January 3, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 23, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>April 5, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 5, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>ALS</keyword>
+  <keyword>Cellenkos</keyword>
+  <keyword>T Regulatory Cells</keyword>
+  <keyword>Randomized Placebo Control Trial</keyword>
+  <keyword>Umbilical cord blood</keyword>
+  <keyword>Amyotrophic Lateral Sclerosis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Motor Neuron Disease</mesh_term>
+    <mesh_term>Amyotrophic Lateral Sclerosis</mesh_term>
+    <mesh_term>Sclerosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

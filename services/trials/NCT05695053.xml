@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9580">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05695053</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CMUH110-REC2-138</org_study_id>
+    <nct_id>NCT05695053</nct_id>
+  </id_info>
+  <brief_title>Low Level Laser Therapy Applied in Orthodontic Tooth Movement</brief_title>
+  <official_title>Low Level Laser Therapy Applied in Orthodontic Tooth Movement</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>China Medical University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>China Medical University Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Currently, orthodontic treatment takes 2-3 years.. If we accelerate tooth movement by low&#xD;
+      energy laser therapy, we could reduce treatment time. Low Level Laser Therapy(LLLT) applied&#xD;
+      in Orthodontic Tooth Movement, which stimulates formation of osteoclast-like cells expression&#xD;
+      in vitro. Osteoclast can be served as an index for tooth movement. Increasing the number of&#xD;
+      osteoclast will increase bone formation and tooth movement. We plan to find a useful clinical&#xD;
+      protocol to improve the efficiency of orthodontic tooth movement. Test low energy laser in&#xD;
+      vitro. Find an effective wavelength and irradiation time to stimulate formation of&#xD;
+      osteoclast. Develop an useful protocol that clinical orthodontist could follow and reduce&#xD;
+      orthodontic treatment time.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 27, 2021</start_date>
+  <completion_date type="Anticipated">August 26, 2023</completion_date>
+  <primary_completion_date type="Actual">August 26, 2022</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Device Feasibility</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Orthodontic tooth movement</measure>
+    <time_frame>1-6month</time_frame>
+    <description>the distance between canine and premolar</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>bone density after Orthodontic tooth movement</measure>
+    <time_frame>1-6month</time_frame>
+    <description>bone density change around canine</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Orthodontic Appliance Complication</condition>
+  <arm_group>
+    <arm_group_label>with LLLT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>without LLLT</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Low Level Laser Therapy</intervention_name>
+    <description>Low level laser therapy could provide energy to trigger cell differentiation.</description>
+    <arm_group_label>with LLLT</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>without LLLT</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with good oral hygiene&#xD;
+&#xD;
+          -  18 years old&#xD;
+&#xD;
+          -  Patients who required bilateral canine retraction into the extracted premolar&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Serious medical history&#xD;
+&#xD;
+          -  Poor oral hygiene&#xD;
+&#xD;
+          -  Previous orthodontic treatment&#xD;
+&#xD;
+          -  Orthognathic surgery or syndromic patients&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>SHENG-FEN HUANG</last_name>
+    <role>Study Chair</role>
+    <affiliation>China Medical University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jian-hong Yu, doctor</last_name>
+    <phone>+886 422053366</phone>
+    <email>kenkoyu@mail.cmu.edu.tw</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>CHUNYI HUANG, master</last_name>
+    <phone>+886 422053366</phone>
+    <email>erichuangchunyi@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>China Medical University Hospital</name>
+      <address>
+        <city>Taichung City</city>
+        <zip>40402</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jian-hong Yu</last_name>
+      <phone>+886422053366</phone>
+      <email>kenkoyu@mail.cmu.edu.tw</email>
+    </contact>
+    <contact_backup>
+      <last_name>CHUNYI Huang</last_name>
+      <phone>+886422053366</phone>
+      <email>erichuangchunyi@gmail.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Taiwan</country>
+  </location_countries>
+  <results_reference>
+    <citation>Farivar S, Malekshahabi T, Shiari R. Biological effects of low level laser therapy. J Lasers Med Sci. 2014 Spring;5(2):58-62.</citation>
+    <PMID>25653800</PMID>
+  </results_reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 13, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>January 30, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 30, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

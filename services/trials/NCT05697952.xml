@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9433">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05697952</url>
+  </required_header>
+  <id_info>
+    <org_study_id>E1K-201</org_study_id>
+    <nct_id>NCT05697952</nct_id>
+  </id_info>
+  <brief_title>Phase 2 Clinical Trial to Evaluate the Efficacy and Safety of E1K After Single Dose in Patients With Knee Osteoarthritis</brief_title>
+  <official_title>A Multicenter, Randomized, Double-blinded, Placebo-controlled, Phase 2 Clinical Trial to Evaluate the Efficacy and Safety of E1K After Single Dose in Patients With Knee Osteoarthritis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ensol Bioscience</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ensol Bioscience</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this study is to evaluate the efficacy and safety of pain relief treatment&#xD;
+      on knee osteoarthritis when administered E1K or placebo in patients with knee osteoarthritis&#xD;
+      aged 40 to 70 to determine the optimal dose.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 13, 2022</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>WOMAC(Western Ontario and McMaster Universities Osteoarthritis Index)</measure>
+    <time_frame>12 weeks after administration of IP versus baseline</time_frame>
+    <description>Changes in the Sub-Scale(Pain) score of the WOMAC questionnaire</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pain VAS 100mm</measure>
+    <time_frame>at 4, 8, and 12 weeks after administration of IP versus baseline</time_frame>
+    <description>Changes in 100 mm Pain VAS (Pain during activity and at rest during the last 24 hours) scores</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>WOMAC(Western Ontario and McMaster Universities Osteoarthritis Index)</measure>
+    <time_frame>at 4, 8, and 12 weeks after IP administration compared to baseline</time_frame>
+    <description>Changes in scores by WOMAC questionnaire total score and Sub-Scale (physical function, stiffness)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>WOMAC(Western Ontario and McMaster Universities Osteoarthritis Index)</measure>
+    <time_frame>at 4 to 8 weeks after administration of IP compared to the baseline</time_frame>
+    <description>Changes in the Sub-Scale(Pain) score of the WOMAC questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>KOOS</measure>
+    <time_frame>at 4, 8, and 12 weeks after administration of IP compared to baseline</time_frame>
+    <description>Changes in KOOS questionnaire scores</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life(EQ-5D-5L)</measure>
+    <time_frame>at 4, 8, and 12 weeks after administration of IP compared to baseline</time_frame>
+    <description>Changes in EQ-5D-5L questionnaire scores</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of Rescue drug</measure>
+    <time_frame>Day 0 to Day 84</time_frame>
+    <description>Percentage and number of subjects who took the rescue medication during the clinical trial period</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Osteoarthrosis</condition>
+  <arm_group>
+    <arm_group_label>E1K 1,200 ㎍/joint</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Injected 1,200 ㎍/joint/3 mL on target lesion</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>E1K 2,400 ㎍/joint</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Injected 2,400 ㎍/joint/3 mL on target lesion</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Injected 3ml of saline on target lesion</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>E1K 1,200 ㎍/joint</intervention_name>
+    <description>Injection of E1K 1,200 ㎍/joint/ml on target lesion</description>
+    <arm_group_label>E1K 1,200 ㎍/joint</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>E1K 2,400 ㎍/joint</intervention_name>
+    <description>Injection of E1K 2,400 ㎍/joint/ml on target lesion</description>
+    <arm_group_label>E1K 2,400 ㎍/joint</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>placebo</intervention_name>
+    <description>Injection of 3ml saline on target lesion</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female adult, who is 40 years~70 years of age(inclusive of both age) at the&#xD;
+             date of consent&#xD;
+&#xD;
+          2. Subject who diagnosed knee osteoarthritis according to ACR criteria at screening&#xD;
+             visit, having pain in the knee and osteophyte formation in the X-ray, and one or more&#xD;
+             criteria as follows :&#xD;
+&#xD;
+               -  Aged &gt;50&#xD;
+&#xD;
+               -  Morning stiffness &lt; 30 minutes&#xD;
+&#xD;
+               -  Crepitus on knee motion&#xD;
+&#xD;
+          3. Prior to administration of IP, Subject with 50mm~70mm of 100mm Pain Visual Analog&#xD;
+             Scale (VAS) during activity of the knee of osteoarthritis(target lesion).&#xD;
+&#xD;
+          4. Subject with Grade 2 or Grade 3 on the knee osteoarthritis(target lesion) by Kellgren&#xD;
+             &amp; Lawrence radiographic grading system&#xD;
+&#xD;
+          5. Subject who has pain on the knee osteoarthritis at least for 6 months before screening&#xD;
+             visit.&#xD;
+&#xD;
+          6. Subject who agrees not to use rescue medication within 48-hour of regular visit date.&#xD;
+&#xD;
+          7. Subject who agrees not to have ancillary physiotherapy&#xD;
+&#xD;
+          8. One-sided knee osteoarthritis subject or both-sided knee osteoarthritis subject who&#xD;
+             can designate the Target Lesion to one side, according to the follow criteria.&#xD;
+&#xD;
+               -  Designate the one with a higher 100 mm Pain Visual Analog Scale (VAS) than&#xD;
+                  another, as the target lesion.&#xD;
+&#xD;
+               -  If 100 mm Pain Visual Analog Scale (VAS) is the same, designate the one with a&#xD;
+                  higher Kellgren &amp; Lawrence Grade than another, as the target lesion.&#xD;
+&#xD;
+               -  If both 100 mm Pain Visual Analog Scale (VAS) and Kellgren &amp; Lawrence Grade are&#xD;
+                  the same, designate the one that causes more clinical symptoms other than pain.&#xD;
+&#xD;
+               -  If above criteria are all the same, designate the right knee as the target&#xD;
+                  lesion.&#xD;
+&#xD;
+          9. Subject who has voluntarily written informed consent for study participation.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Subject who has secondary knee osteoarthritis such as inflammatory or infectious joint&#xD;
+             disease or rheumatoid arthritis.&#xD;
+&#xD;
+          2. Subject who has surgical history(ex. knee replacement surgery) on the knee&#xD;
+             osteoarthritis lesion(target lesion).&#xD;
+&#xD;
+          3. Subject who has conditions that can affect the joints(gout, recurrent caustic gout,&#xD;
+             joint fracture, primary osteochondrosis, Paget's disease, ochronosis, acromegaly,&#xD;
+             hematochromatosis, Wilson's disease, genetic disease(ex: hyperkinesia) and collagen&#xD;
+             gene related disorders.&#xD;
+&#xD;
+          4. Subject whose BMI greater than or equal to 30kg/m2 at screening.&#xD;
+&#xD;
+          5. Subject who is applicable to the followings prior to first day of IP administration.&#xD;
+&#xD;
+               -  Intra-articular injected hyaluronic acid, cell therapy and gene therapy within 6&#xD;
+                  months prior to IP administration&#xD;
+&#xD;
+               -  Intra-articular injected steroids into the knee osteoarthritis lesion(target&#xD;
+                  lesion) within 3 months prior to IP administration&#xD;
+&#xD;
+               -  Administered NSAIDs or glucosamine, chondroitin sulfate, oral steroid within 14&#xD;
+                  days prior to IP administration.&#xD;
+&#xD;
+               -  Administered analgesics within 1 days prior to IP administration&#xD;
+&#xD;
+          6. Subject who has a psychological disorder(alcohol or drug addiction) and is judged by&#xD;
+             the investigator to have problems with the safety of the subject or to cause confusion&#xD;
+             in the interpretation of clinical trial results&#xD;
+&#xD;
+          7. Subject who has osteoarthritis on the other sites not knee(ex. Hip joint) or has pain&#xD;
+             due to other disorder so that the investigator determined not suitable for&#xD;
+             participation of the clinical trial.&#xD;
+&#xD;
+          8. Subject who has uncontrolled type 1 or type 2 diabete mellitus at screening&#xD;
+             visit(Glycated Hemoglobin (HbA1c) &gt; 8%)&#xD;
+&#xD;
+          9. Subject has a positive test result for HIV antibody or hepatitis B antigen, hepatitis&#xD;
+             C antibody.&#xD;
+&#xD;
+         10. Subject who has malignant tumor history within 5 year prior to screening visit.&#xD;
+&#xD;
+         11. Subject who is participated in other clinical trials within 30 days prior to&#xD;
+             screening.&#xD;
+&#xD;
+         12. As a result of screening examination(laboratory or ECG, vital sign), subject who has&#xD;
+             clinically significant findings that are not suitable for participation in the&#xD;
+             clinical trials.&#xD;
+&#xD;
+         13. Subject who is pregnant or breastfeeding&#xD;
+&#xD;
+         14. Subject who does not agree to use a medically acceptable method of contraception&#xD;
+             during clinical trial.&#xD;
+&#xD;
+         15. Besides, in case investigator determine that subject is unsuitable for study&#xD;
+             participation.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Young-Wan Moon, M.D., Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Samsung Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>SunKyu Park</last_name>
+    <phone>+82439394530</phone>
+    <email>skpark@ensolbio.co.kr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Samsung Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Young-Wan Moon, M.D., Ph.D.</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 15, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 15, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>January 15, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 15, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Osteoarthritis</mesh_term>
+    <mesh_term>Osteoarthritis, Knee</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

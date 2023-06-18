@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9993">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05685719</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MPR-COV-102CN</org_study_id>
+    <nct_id>NCT05685719</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Relative Bioavailability of STI-1558 and the Effect of Itraconazole and Rifampin on the Pharmacokinetics of STI-1558</brief_title>
+  <official_title>A Study to Evaluate the Relative Bioavailability of Different Strengths of STI-1558 Capsules and the Effect of Strong CYP3A4 Inhibitor (Itraconazole) and Inducer (Rifampin) on the Pharmacokinetics of STI-1558 in Healthy Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Zhejiang ACEA Pharmaceutical Co. Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Zhejiang ACEA Pharmaceutical Co. Ltd.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open-label study. This study includes 2 parts, in which part 1 is a relative BA&#xD;
+      study, Part 2 is a DDI study. Part 1 and Part 2 could be performed in parallel.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2023</start_date>
+  <completion_date type="Anticipated">March 2027</completion_date>
+  <primary_completion_date type="Anticipated">March 2025</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Comparison of Area Under the Curve (AUC) from time 0 to last time point(AUC0-t) profiles of two different oral strength of STI-1558 to determine the Relative Bioavailability</measure>
+    <time_frame>Up to 2 weeks.</time_frame>
+    <description>To compare AUC0-t of a single 600mg dose of two different oral strength of STI-1558（200 mg/capsule × 3 capsules and 100 mg/capsule × 6 capsules）in healthy adult, human subjects under fasting conditions, to establish relative bioavailability.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Comparison of AUC from time 0 extrapolated to infinity(AUC0-inf ) profiles of two different oral strength of STI-1558 to determine the Relative Bioavailability</measure>
+    <time_frame>Up to 2 weeks.</time_frame>
+    <description>To compare AUC0-inf of a single 600mg dose of two different oral strength of STI-1558（200 mg/capsule × 3 capsules and 100 mg/capsule × 6 capsules）in healthy adult, human subjects under fasting conditions, to establish relative bioavailability.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Comparison of maximum observed concentration(Cmax) profiles of two different oral strength of STI-1558 to determine the Relative Bioavailability</measure>
+    <time_frame>Up to 2 weeks.</time_frame>
+    <description>To compare Cmax of a single 600mg dose of two different oral strength of STI-1558（200 mg/capsule × 3 capsules and 100 mg/capsule × 6 capsules）in healthy adult, human subjects under fasting conditions, to establish relative bioavailability.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To determine the effect of repeat doses of a strong CYP3A4 inhibitor (itraconazole) on the pharmacokinetics(PK) of STI-1558 by collecting serum at protocol-specified time points: Cmax</measure>
+    <time_frame>Up to 3 weeks.</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To determine the effect of repeat doses of a strong CYP3A4 inhibitor (itraconazole) on the PK of STI-1558 by collecting serum at protocol-specified time points: AUC0-t</measure>
+    <time_frame>Up to 3 weeks.</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To determine the effect of repeat doses of a strong CYP3A4 inhibitor (itraconazole) on the PK of STI-1558 by collecting serum at protocol-specified time points: AUC0-inf.</measure>
+    <time_frame>Up to 3 weeks.</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To determine the effect of repeat doses of a strong CYP3A4 inducer (rifampin) on the PK of STI-1558 by collecting serum at protocol-specified time points: Cmax</measure>
+    <time_frame>Up to 3 weeks.</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To determine the effect of repeat doses of a strong CYP3A4 inducer (rifampin) on the PK of STI-1558 by collecting serum at protocol-specified time points: AUC0-t</measure>
+    <time_frame>Up to 3 weeks.</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To determine the effect of repeat doses of a strong CYP3A4 inducer (rifampin) on the PK of STI-1558 by collecting serum at protocol-specified time points: AUC0-inf</measure>
+    <time_frame>Up to 3 weeks.</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cmax of AC1115(an active metabolite of STI-1558)</measure>
+    <time_frame>Up to 2 weeks for part 1 and 3 weeks for part 2.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC0-t of AC1115(an active metabolite of STI-1558)</measure>
+    <time_frame>Up to 2 weeks for part 1 and 3 weeks for part 2.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC0-inf of AC1115(an active metabolite of STI-1558)</measure>
+    <time_frame>Up to 2 weeks for part 1 and 3 weeks for part 2.</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">36</enrollment>
+  <condition>COVID-19 Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>Part 1: TR</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will take a single dose of test product 200mg/capsule on Day 1 of the study, then reference product 100mg/capsule on Day 8 of the study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1: RT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will take a single dose of reference product 100mg/capsule on Day 1 of the study, then test product 200mg/capsule on Day 8 of the study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1: Group 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will take a single dose of STI-1558 200mg/capsule on Day 1. Starting from Day 4, subjects will orally take 200mg of itraconazole, q.d, for 6 consecutive days (Day 4 to Day 9). The 5th dose (Day 8) of itraconazole will be co-administered with STI-1558 (200 mg/capsule × 3 capsules) to subjects.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1: Group 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will take a single dose of STI-1558 200mg/capsule on Day 1. Starting from Day 4, subjects will orally take 600mg of rifampin, q.d, for 9 consecutive days (Day 4 to Day 12). The 8th dose (Day 11) of rifampin will be co-administered with STI-1558 (200 mg/capsule × 3 capsules) to subjects.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>STI-1558</intervention_name>
+    <description>An oral small molecule prodrug that effectively inhibits the SARS-CoV-2 main protease (Mpro).</description>
+    <arm_group_label>Part 1: Group 1</arm_group_label>
+    <arm_group_label>Part 1: Group 2</arm_group_label>
+    <arm_group_label>Part 1: RT</arm_group_label>
+    <arm_group_label>Part 1: TR</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Itraconazole</intervention_name>
+    <description>A strong CYP3A4 inhibitor</description>
+    <arm_group_label>Part 1: Group 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rifampin</intervention_name>
+    <description>A strong CYP3A4 inducer</description>
+    <arm_group_label>Part 1: Group 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Subjects are fully informed of the study and are willing to participate in the study&#xD;
+             and sign the informed consent document prior to any procedure.&#xD;
+&#xD;
+          2. Healthy male and female subjects, aged 18 to 45 years (both inclusive).&#xD;
+&#xD;
+          3. Body mass index (BMI) is between 19 and 24 kg/m2 (both inclusive), and body weight of&#xD;
+             female subjects ≥ 45 kg, body weight of male subjects ≥ 50 kg.&#xD;
+&#xD;
+          4. Health status is good, the medical history, vital signs, physical examination, 12-&#xD;
+             lead ECG, laboratory tests (hematology, blood glucose, blood biochemistry, urinalysis,&#xD;
+             coagulation test), thyroid function (TSH, FT3, FT4) and serum virology test results&#xD;
+             are normal or abnormal with no clinical significance (NCS) during the screening&#xD;
+             period.&#xD;
+&#xD;
+          5. Female subjects of child-bearing potential must agree to use highly effective&#xD;
+             contraceptive methods from the screening period to 30 days after the last dose of the&#xD;
+             study drug, (See Appendix 2 Contraceptive Methods).&#xD;
+&#xD;
+          6. Male subjects considered fertile must agree to not plan to father a child, not donate&#xD;
+             sperm, and take effective contraceptive methods from the screening period to 30 days&#xD;
+             after the last dose of the study drug, (See Appendix 2 Contraceptive Methods).&#xD;
+&#xD;
+          7. Subjects who are able to communicate well with PI, as well as understand and adhere to&#xD;
+             the requirements of this study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Difficulties in venous blood collection or history of dizziness when encountering&#xD;
+             blood or needles.&#xD;
+&#xD;
+          2. Known or suspected pregnancy, or breastfeeding.&#xD;
+&#xD;
+          3. Has a clinically relevant intolerance or allergy to drugs, or are known or suspected&#xD;
+             to have hypersensitivity to any ingredient in the STI-1558.&#xD;
+&#xD;
+          4. Only for Part 2: Known or suspected hypersensitivity to any ingredient in formulations&#xD;
+             of itraconazole and/or rifampicin (See the product label for the relevant&#xD;
+             information).&#xD;
+&#xD;
+          5. Has received an experimental agent (vaccine, drug, biologic, device, blood product or&#xD;
+             medication) within 1 month or 5 times half-life (whichever is longer) before the first&#xD;
+             dose of study drug.&#xD;
+&#xD;
+          6. Has a history of gastrointestinal (such as duodenal ulcer, alimentary tract&#xD;
+             hemorrhage, etc.), liver or kidney disease, or other conditions known to interfere&#xD;
+             with the absorption, distribution, metabolism, or excretion of drugs as determined by&#xD;
+             the Principal Investigator (PI, or designee).&#xD;
+&#xD;
+          7. Has a medical history of other significant diseases (including but not limited to&#xD;
+             respiratory, circulatory, digestive, hematological, endocrinological, immunological,&#xD;
+             dermatological, mental and nervous systems, facial diseases and other related&#xD;
+             diseases).&#xD;
+&#xD;
+          8. Has a major surgery within 3 months before the first dose of the study drug or plans&#xD;
+             to undergo surgery during the study.&#xD;
+&#xD;
+          9. Has a history of febrile illness within 14 days before the first dose of the study&#xD;
+             drug.&#xD;
+&#xD;
+         10. Has values above the 1.5 × upper limits of normal (ULN) at screening or Day -1 for the&#xD;
+             following laboratory measures: alanine aminotransferase (ALT), aspartate&#xD;
+             aminotransferase (AST), and/or total bilirubin.&#xD;
+&#xD;
+         11. QTcF interval is prolonged at screening or Day -1 (male: QTcF interval ≥ 450 ms,&#xD;
+             female: QTcF interval ≥ 470 ms).&#xD;
+&#xD;
+         12. Vaccinated within 14 days before the first dose of the study drug or plans to be&#xD;
+             vaccinated during the study.&#xD;
+&#xD;
+         13. Use of BCRP substrates within 7 days before the first dose of the study drug (see&#xD;
+             Appendix 3).&#xD;
+&#xD;
+         14. Use of CYP3A4 strong inducers or inhibitors, or CYP1A2 strong inducers within 7 days&#xD;
+             before the first dose of the study drug (see Appendix 3).&#xD;
+&#xD;
+         15. Any marketed medication (prescription and nonprescription) within 14 days or 5 times&#xD;
+             the half-life (whichever is longer) before the first dose of study drug. (Excluding&#xD;
+             oral contraceptives, or topical ointments at the discretion of the PI (or designee)).&#xD;
+&#xD;
+         16. A known history of drug abuse within 2 years before the screening; or positive drug&#xD;
+             abuse test on Day -1.&#xD;
+&#xD;
+         17. Blood donation or blood loss of more than 400 mL within 3 months before the screening&#xD;
+             (excluding menstrual blood loss of women).&#xD;
+&#xD;
+         18. Weekly alcohol consumption of more than 14 units of alcohol (1 unit of alcohol = 360&#xD;
+             mL of beer or 45 mL of spirit with the alcohol content of 40% or 150 mL of wine) in&#xD;
+             any week within the past 3 months before screening; or intake of alcohol- containing&#xD;
+             products within 48 hours before the first dose of the study drug, or cannot abstain&#xD;
+             from any alcohol product during the study, or positive breath alcohol test on Day -1.&#xD;
+&#xD;
+         19. Smoking history (≥ 5 cigarettes per day) within 3 months before the screening, or&#xD;
+             cannot abstain from any tobacco products during the study.&#xD;
+&#xD;
+         20. Excessive drinking of tea, coffee, or caffeine-containing beverage (at least 8 cups&#xD;
+             per day, 1 cup=250 mL) within 3 months before screening; intake of rich caffeine- or&#xD;
+             xanthine-containing food or drinks (e.g., coffee, tea, chocolate, cola drinks) within&#xD;
+             48 hours before the first dose of the study drug.&#xD;
+&#xD;
+         21. Intake of food, juice, or drink containing grapefruit, lime, cinchona peel, or quinine&#xD;
+             within 48 h before the first dose of the study drug.&#xD;
+&#xD;
+         22. The results of serum virology test are positive or exceed the upper limit of the&#xD;
+             reference range, including: hepatitis B surface antigen (HBsAg), hepatitis C virus&#xD;
+             (HCV) antibody, human immunodeficiency virus (HIV) antibody, or treponema pallidum&#xD;
+             antibody (TP-Ab).&#xD;
+&#xD;
+         23. Subjects who are judged as not eligible to participate in this study by the PI (or&#xD;
+             designee).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>jing Li, master</last_name>
+    <phone>13971007341</phone>
+    <email>Jing.li@aceapharma.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Zhejiang Xiaoshan Hospital</name>
+      <address>
+        <city>Hangzhou</city>
+        <state>Zhejiang</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>jian Chen, master</last_name>
+      <phone>13588084969</phone>
+      <email>Cj21_0503@163.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>December 21, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 5, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 17, 2023</study_first_posted>
+  <last_update_submitted>January 5, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 5, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 17, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Itraconazole</mesh_term>
+    <mesh_term>Rifampin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

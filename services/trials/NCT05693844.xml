@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9637">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05693844</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CHN-PLAGH-BT-077</org_study_id>
+    <nct_id>NCT05693844</nct_id>
+  </id_info>
+  <brief_title>CD40 Ligand Expressing MSLN-CAR T Cell Therapy in MSLN Positive Advanced/Metastatic Solid Tumors</brief_title>
+  <official_title>Phase I/II Study of CD40 Ligand Expressing MSLN-CAR T Cell Treatment in MSLN Positive Advanced/Metastatic Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chinese PLA General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>UTC Therapeutics Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Chinese PLA General Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In preclinical study, investigators have demonstrated that the newly developed CD40 ligand&#xD;
+      expressing MSLN-CAR T cells possess more powerful antitumor activity than previously reported&#xD;
+      MSLN-CAR T cells in animal models. In this clinical trial, at least 12 eligible patients in&#xD;
+      dose escalation period will be enrolled to receive 3 doses of CD40 ligand expressing MSLN-CAR&#xD;
+      cell therapy according to the &quot;3+3&quot; principle. In dose expansion period, additional 10 to 18&#xD;
+      patients will be enrolled to receive CD40 ligand expressing MSLN-CAR T cell therapy at dose&#xD;
+      of RP2D.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In this study, investigators have developed a novel CAR T cell system targeting both&#xD;
+      mesothelin (MSLN) antigen-expressing cells and CD40 ligand-expressing cells, termed as CD40&#xD;
+      ligand expressing MSLN-CAR T. Preclinical study demonstrated that the CD40 ligand expressing&#xD;
+      MSLN-CAR T cells possess more powerful antitumor activity than previously reported MSLN-CAR T&#xD;
+      cells in animal models. In this clinical trial, at least 12 eligible patients in dose&#xD;
+      escalation period will be enrolled to receive 3 doses of CD40 ligand expressing MSLN-CAR T&#xD;
+      cell therapy (1×10^6 cells/kg, 3×10^6 cells/kg, 6×10^6 cells/kg) according to the &quot;3+3&quot;&#xD;
+      principle, in order to evaluate the safety, feasibility and preliminary antitumor activity of&#xD;
+      CD40 ligand expressing MSLN-CAR T cells. In dose expansion period, additional 10 to 18&#xD;
+      patients will be enrolled to receive CD40 ligand expressing MSLN-CAR T cell therapy at dose&#xD;
+      of recommended phase 2 dose (RP2D), which is determined by data from dose escalation period,&#xD;
+      including dose limiting toxicities, maximum tolerated dose,&#xD;
+      pharmacokinetics/pharmacodynamics, efficacy and other parameters, in order to further assess&#xD;
+      the safety and efficacy profiles of CD40 ligand expressing MSLN-CAR T cell therapy.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 20, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2024</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of treatment related adverse events</measure>
+    <time_frame>Up to 12 months since the initiation of CD40 ligand expressing MSLN-CAR T cell therapy</time_frame>
+    <description>Treatment related adverse events are defined as any medical events since the initiation of CAR-MSLN T cell therapy. CRS or CRES will be graded based on American Society for Transplantation and Cellular Therapy (ASTCT) criteria, and the others will be graded by CTCAE V5.0</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of dose limiting toxicities (DLTs)</measure>
+    <time_frame>Up to 28 days since the initiation of CD40 ligand expressing MSLN-CAR T cell therapy</time_frame>
+    <description>Dose limiting toxicities are defined as CD40 ligand expressing MSLN-CAR T cell related adverse events within the first 28 days that meet the following criteria: grade 3 or higher CRS or CRES, and any other grade 4 adverse events.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Determine the maximum tolerated dose (MTD)</measure>
+    <time_frame>Up to 28 days since the initiation of CD40 ligand expressing MSLN-CAR T cell therapy</time_frame>
+    <description>Maximum tolerated dose is determined as the highest dose that is less than or equal to 2 DLT among 6 subjects.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number and copy number of CD40 ligand expressing MSLN-CAR T cells</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>Number and copy number of CD40 ligand expressing MSLN-CAR T cells are evaluated by number in peripheral blood and tumor tissue.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate (ORR)</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>Objective response rate includes complete response and partial response defined by investigators according to RECIST 1.1or iRECIST criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>Progression Free Survival is defined as the time from the initiation of CD40 ligand expressing MSLN-CAR T cell therapy to documented disease progression or death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to response (TTR)</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>TTR is defined as the time from the initiation of CD40 ligand expressing MSLN-CAR T cell therapy to first assessed CR or PR by investigators according to RECIST 1.1or iRECIST criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DOR)</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>Duration of response is defined as the time from objective response until documented tumor progression among responders.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>Overall Survival is defined as the time from the initiation of CD40 ligand expressing MSLN-CAR T cell therapy to documented disease progression or death.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Advanced or Metastatic Solid Tumors</condition>
+  <arm_group>
+    <arm_group_label>CD40 ligand expressing MSLN-CAR T cells</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Enrolled participants will be given a preconditioning regimen before the infusion of CD40 ligand expressing MSLN-CAR T cells.&#xD;
+Patients enrolled in dose 1 will be assigned to cohort 1 and cohort 2 respectively. Three patients in cohort 1 will be given albumin-bound paclitaxel plus cyclophosphamide as conditioning treatment. Another three patients will be enrolled into cohort 2 to receive albumin-bound paclitaxel plus cyclophosphamide and fludarabine. The final preconditioning regimen in the following dose levels will be determined by investigators according to the results from cohort 1 and 2, including controllable safety, CAR T cell expansion levels and superior persistence in PB.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CD40 ligand expressing MSLN-CAR T cells</intervention_name>
+    <description>Dose escalation: Dose1 (1×10^6 cells/kg) . Dose 2 (3×10^6 cells/kg) .Dose 3 (6×10^6 cells/kg) Dose expansion: RP2D</description>
+    <arm_group_label>CD40 ligand expressing MSLN-CAR T cells</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Albumin-bound paclitaxel</intervention_name>
+    <description>Administered intravenously at dose of 100-200mg/m2 on day -5</description>
+    <arm_group_label>CD40 ligand expressing MSLN-CAR T cells</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclophosphamide</intervention_name>
+    <description>Administered intravenously at dose of 15-30mg/kg on day -3 and day -2</description>
+    <arm_group_label>CD40 ligand expressing MSLN-CAR T cells</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fludarabine</intervention_name>
+    <description>Administered intravenously at dose of 30mg/m2 on day -3 and day -2</description>
+    <arm_group_label>CD40 ligand expressing MSLN-CAR T cells</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  1. Age from 18 to 75 years with estimated life expectancy &gt;3 months.&#xD;
+&#xD;
+          -  2. Histopathological confirmed advanced or metastatic solid tumors failed to at least&#xD;
+             first-line treatment or initially diagnosed advanced/metastatic solid tumors that have&#xD;
+             no NCCN guideline recommended standard first-line therapy. Mesothelin antigen&#xD;
+             expression percentage ≥ 10%.&#xD;
+&#xD;
+          -  3. Have at least one measurable target lesion.&#xD;
+&#xD;
+          -  4. Fresh solid tumor samples or formalin-fixed paraffin embedded tumor archival&#xD;
+             samples within 6 months are necessary; Fresh tumor samples are preferred. Subjects are&#xD;
+             willing to accept tumor rebiopsy in the process of this study.&#xD;
+&#xD;
+          -  5. Previous treatment must be completed for more than 4 weeks prior to the enrollment&#xD;
+             of this study, and subjects have recovered to &lt;= grade 1 toxicity.&#xD;
+&#xD;
+          -  6. Have an Eastern Cooperative Oncology Group performance status (ECOG) of 0 or 2 at&#xD;
+             the time of enrollment.&#xD;
+&#xD;
+          -  7. Have adequate organ function, which should be confirmed within 2 weeks prior to the&#xD;
+             first dose of study drugs.&#xD;
+&#xD;
+          -  8. Previous treatment with anti-PD-1/PD-L1 antibodies are allowed.&#xD;
+&#xD;
+          -  9. Ability to understand and sign a written informed consent document.&#xD;
+&#xD;
+          -  10. Women of child-bearing potential must agree to use adequate contraception&#xD;
+             (hormonal or barrier method of birth control; abstinence) prior to study entry, and up&#xD;
+             to 90 days after the last dose of the drug.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  1. Active, known or suspected autoimmune diseases.&#xD;
+&#xD;
+          -  2. Known brain metastases or active central nervous system (CNS). Subjects with CNS&#xD;
+             metastases who were treated with radiotherapy for at least 3 months prior to&#xD;
+             enrollment, have no central nervous symptoms and are off corticosteroids, are eligible&#xD;
+             for enrollment, but require a brain MRI screening.&#xD;
+&#xD;
+          -  3. Subjects are being treated with either corticosteroids (&gt;10 mg daily prednisone&#xD;
+             equivalent) or other immunosuppressive medications within 14 days of enrollment.&#xD;
+&#xD;
+          -  4. History of severe hypersensitive reactions to other monoclonal antibodies.&#xD;
+&#xD;
+          -  5. History of allergy or intolerance to study drug components.&#xD;
+&#xD;
+          -  6. Substance abuse, medical, psychological or social conditions that may interfere&#xD;
+             with the patient's participation in the study or evaluation of the study results.&#xD;
+&#xD;
+          -  7. History or concurrent condition of interstitial lung disease of any grade or&#xD;
+             severely impaired pulmonary function.&#xD;
+&#xD;
+          -  8. Uncontrolled intercurrent illness, including ongoing or active systemic infection,&#xD;
+             symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia&#xD;
+             (excluding insignificant sinus bradycardia and sinus tachycardia) or psychiatric&#xD;
+             illness/social situations and any other illness that would limit compliance with study&#xD;
+             requirements and jeopardize the safety of the patient.&#xD;
+&#xD;
+          -  9. History of human immunodeficiency virus (HIV) infection or acquired&#xD;
+             immunodeficiency syndrome (AIDS).&#xD;
+&#xD;
+          -  10. Pregnant or breast-feeding. Women of childbearing potential must have a pregnancy&#xD;
+             test performed within 7 days before the enrollment, and a negative result must be&#xD;
+             documented.&#xD;
+&#xD;
+          -  11. Previous or concurrent cancer within 3 years prior to treatment start EXCEPT for&#xD;
+             curatively treated cervical cancer in situ, non-melanoma skin cancer, superficial&#xD;
+             bladder tumors [Ta (non-invasive tumor), Tis (carcinoma in situ) and T1 (tumor invades&#xD;
+             lamina propria)].&#xD;
+&#xD;
+          -  12. Vaccination within 30 days of study enrollment.&#xD;
+&#xD;
+          -  13. Active bleeding or known hemorrhagic tendency.&#xD;
+&#xD;
+          -  14. Subjects with unhealed surgical wounds for more than 30 days.&#xD;
+&#xD;
+          -  15. Being participating any other trials or withdraw within 4 weeks.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yangbin Zhao, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>UTC Therapeutics Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kaichao Feng, MD</last_name>
+    <phone>+861066939460</phone>
+    <email>timothyfkc@126.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Weidong Han, PhD</last_name>
+    <phone>+861066937463</phone>
+    <email>hanwdrsw69@yahoo.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Kaichao Feng</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100853</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kaichao Feng, MD</last_name>
+      <phone>+861066937231</phone>
+      <email>timothyfkc@126.com</email>
+    </contact>
+    <investigator>
+      <last_name>Weidong Han, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>December 27, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>April 8, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 8, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 11, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Chinese PLA General Hospital</investigator_affiliation>
+    <investigator_full_name>Han weidong</investigator_full_name>
+    <investigator_title>Director of Biotherapeutic Department</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Paclitaxel</mesh_term>
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Fludarabine</mesh_term>
+    <mesh_term>Albumin-Bound Paclitaxel</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

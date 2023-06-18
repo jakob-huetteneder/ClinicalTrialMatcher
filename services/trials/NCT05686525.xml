@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9963">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05686525</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H-22001990</org_study_id>
+    <secondary_id>P-2022-183</secondary_id>
+    <nct_id>NCT05686525</nct_id>
+  </id_info>
+  <brief_title>Clinical Trial on the Effectiveness of TUMT Compared to PAE in Reducing Severe LUTS in Men With BPH</brief_title>
+  <acronym>TUMT-PAE-1</acronym>
+  <official_title>Non-inferiority, Randomised, Open-label Clinical Trial on the Effectiveness of Transurethral Microwave Thermotherapy Compared to Prostatic Artery Embolisation in Reducing Severe Lower Urinary Tract Symptoms in Men With Benign Prostatic Hyperplasia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rigshospitalet, Denmark</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Herlev and Gentofte Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Rigshospitalet, Denmark</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The TUMT-PAE-1 trial is a randomised clinical trial aiming to compare the effectiveness of&#xD;
+      transurethral microwave thermotherapy (TUMT) with prostatic artery embolisation (PAE) in&#xD;
+      reducing urinary symptoms caused by prostate gland enlargement. The assessment will be done&#xD;
+      by patient reported and functional outcome measures. The primary purpose is to evaluate the&#xD;
+      urinary symptoms six months after the procedure, measured by the International Prostate&#xD;
+      Symptom Score (IPSS).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      One fourth of men older than 70 years have moderate to severe lower urinary tract symptoms&#xD;
+      (LUTS) that impair their quality of life (QOL). This is most frequently caused by benign&#xD;
+      prostatic hyperplasia (BPH). Transurethral resection of the prostate (TURP) is still regarded&#xD;
+      as the gold standard for surgical treatment of BPH. However, TURP is only an option for&#xD;
+      patients fit for general anesthesia and can result in complications. Consequently, several&#xD;
+      less invasive procedures have been developed, as prostatic artery embolization (PAE) and&#xD;
+      transurethral microwave thermotherapy (TUMT).&#xD;
+&#xD;
+      The objective of this clinical trial is to assess if transurethral microwave thermotherapy&#xD;
+      (TUMT) is non-inferior to prostatic artery embolization (PAE) in reducing lower urinary tract&#xD;
+      symptoms (LUTS) secondary to benign prostatic hyperplasia (BPH). The primary aim is to&#xD;
+      compare LUTS 6 months after the TUMT and PAE procedures, measured by the International&#xD;
+      Prostate Symptom Score (IPSS). Both treatments have previously been shown to reduce LUTS with&#xD;
+      a similar post-procedure outcome in mean IPSS. However, the previous studies differed in&#xD;
+      baseline characteristics thus it is currently unknown if they perform equally well. Secondary&#xD;
+      objectives include comparison of patient reported and functional outcomes at short- and&#xD;
+      long-term follow-up. The trial importantly includes analysis of patient-reported outcome&#xD;
+      measures of satisfaction with treatment, quality of life, incontinence, erectile and&#xD;
+      ejaculatory function, as well as evaluation of uroflowmetry, prostate volume, prostate&#xD;
+      specific antigen, catheter dependency, side effects, hospital admissions and re-treatment&#xD;
+      rate.&#xD;
+&#xD;
+      This study is designed as a multi-centre, non-inferiority, open label randomised clinical&#xD;
+      trial. Patients will be randomised with a 1:1 allocation ratio between treatments using the&#xD;
+      randomisation module in REDCap. The primary outcome is expected to be evaluated by a 95%&#xD;
+      confidence interval against the predefined threshold of +3 points in IPSS for inferiority.&#xD;
+      Secondary outcomes will be presented descriptively and assessed by students T-test,&#xD;
+      Chi-squared test and linear mixed models. The patient reported outcomes will be obtained by&#xD;
+      standardized validated surveys and functional outcomes, side effects and re-treatment rates&#xD;
+      will be measured at 1 month, 3 months, 6 months, 1 year, 2 years and 5 years post procedure.&#xD;
+      Assuming a difference in mean IPSS after treatment of 1 point with an standard deviation (SD)&#xD;
+      of 5 and a non-inferiority margin set at the border for a clinically non-meaningful&#xD;
+      difference of 3 points, the calculated sample size was 100 patients per arm. To compensate&#xD;
+      for 10% drop-out the study will include 220 patients. An interim analysis will be performed&#xD;
+      for every 50 cases.&#xD;
+&#xD;
+      TUMT and PAE are minimally invasive procedures performed in an outpatient setting that have&#xD;
+      been shown to reduce LUTS in a similar magnitude. To date there are no randomised clinical&#xD;
+      trials comparing PAE to TUMT, which is problematic as the most prominent problem with&#xD;
+      minimally invasive BPH treatment is the lack of proper selection of candidates for a specific&#xD;
+      procedure. Non-inferiority of TUMT to PAE is expected, with analysis of the secondary&#xD;
+      outcomes, the investigators aspire to contribute to a better understanding of patient&#xD;
+      selection for either treatment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 27, 2022</start_date>
+  <completion_date type="Anticipated">December 2030</completion_date>
+  <primary_completion_date type="Anticipated">December 2030</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The study will randomize approximately 220 patients with an anticipated 10% dropout (N = 200). The study will assign patients in a 1:1 manner to either Arm 1: TUMT or Arm 2: PAE.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean IPSS of the TUMT and PAE arm 6 months after the procedure</measure>
+    <time_frame>6 months post-procedure.</time_frame>
+    <description>The International Prostate Symptom Score (IPSS) is a validated, reproducible, patient-reported outcome measure to assess lower urinary tract symptoms (LUTS) severity and response to treatment. The IPSS is made up of 7 questions and possible scores range from 0 to 35. A score of 0 to 7 indicates mild symptoms, 8 to 19 indicates moderate symptoms and a score of 20 to 35 indicates severe symptoms. If the patient has an indwelling catheter the IPSS score is 35.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mean IPSS of the TUMT and PAE arm at 3,12, 24 and 60 months after the procedure</measure>
+    <time_frame>3, 12, 24 and 60 months post-procedure.</time_frame>
+    <description>The International Prostate Symptom Score (IPSS) is a validated, reproducible, patient-reported outcome measure to assess lower urinary tract symptoms (LUTS) severity and response to treatment. The IPSS is made up of 7 questions and possible scores range from 0 to 35. A score of 0 to 7 indicates mild symptoms, 8 to 19 indicates moderate symptoms and a score of 20 to 35 indicates severe symptoms. If the patient has an indwelling catheter the IPSS score is 35.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean IPSS-QoL score of the TUMT and PAE arm at 3, 6, 12, 24 and 60 months after the procedure</measure>
+    <time_frame>3, 6, 12, 24 and 60 months post-procedure.</time_frame>
+    <description>The International Prostate Symptom Score-Quality of Life (IPSS-QoL) is a validated, reproducible, patient-reported outcome measure to assess the frequency of symptoms from urinary problems and associated QoL. It is a validated screening tool for depression. The IPSS-QoL has 1 item that rates QoL (feelings if current symptoms lasted for life) on a scale ranging from 0 (delighted) to 6 (terrible).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean EQ-5D-5L score of the TUMT and PAE arm at 3, 6, 12, 24 and 60 months after the procedure</measure>
+    <time_frame>3, 6, 12, 24 and 60 months post-procedure.</time_frame>
+    <description>The EQ-5D is a broadly used, reliable and generic health utility instrument. It has five dimensions each with one item: mobility, self-care, usual activities, pain/discomfort and anxiety/depression. The EQ-5D contains a visual analog scale (VAS) where the patient rates his health from 0 (worst imaginable) to 100 (best imaginable). Treatment effects will be assessed by measuring health status with EQ-5D at different points in time.&#xD;
+The EQ-5D is the most widely applied instrument for health-economic assessment worldwide. Its index values are used in the estimation of quality-adjusted life year (QALY) gains in economic evaluations of healthcare interventions. EQ-5D profile and EQ VAS data provide additional evidence on the relative effectiveness of healthcare interventions. A health economic evaluation of the two procedures will be performed using the EQ-5D-5L score of the two arms during the follow up period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean BII score of the TUMT and PAE arm at 3, 6, 12, 24 and 60 months after the procedure</measure>
+    <time_frame>3, 6, 12, 24 and 60 months post-procedure.</time_frame>
+    <description>The BPH Impact Index (BII) is a self-reported, validated, disease-specific instrument for quantifying the interference of lower urinary tract symptoms(LUTS) on the patients mental health and activity. As a measure of Quality of Life (QoL), it is used to determine treatment outcomes in men with symptomatic benign prostatic hyperplasia. The BII is a four-item questionnaire that addresses discomfort, worry, bother, and functional interference from any urinary problems. It is scored by addition yielding a range from 0 (no impact) to 13 (great impact).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean patient satisfaction with the TUMT and PAE treatment by Likert scale 1 and 3 months after the procedure</measure>
+    <time_frame>1 and 3 months post-procedure.</time_frame>
+    <description>The patient's satisfaction with the treatment will be evaluated by a bipolar Likert-type scale. The format of the questionnaire is that of a typical five-level Likert item. Possible scores range from 1 (completely satisfied) to 5 (completely unsatisfied).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean ICIQ-UI-SF scores of the TUMT and PAE arm at 3, 6, 12, 24 and 60 months after the procedure</measure>
+    <time_frame>3, 6, 12, 24 and 60 months post-procedure.</time_frame>
+    <description>The International Consultation on Incontinence Questionnaire-Urinary Incontinence Short Form (ICIQ-UI SF) is a validated, patient reported outcome measure (PROM) for evaluating the frequency, severity and impact on quality of life (QoL) of urinary incontinence. It consists of four items and possible scores range from 1 - 5 (slight), 6 - 12 (moderate), 13 - 18 (severe) and 19 - 21 (very severe).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean IIEF-EF scores of the TUMT and PAE arm at 3, 6, 12, 24 and 60 months after the procedure</measure>
+    <time_frame>3, 6, 12, 24 and 60 months post-procedure.</time_frame>
+    <description>The International Index of Erectile Function - Erectile Function (IIEF-EF) domain score is a self-administered questionnaire used to measure erectile performance and assess disease severity in efficacy trials concerning erectile dysfunction(ED). The IIEF-EF has six items (items 1-5 and 15 of the IIEF). The EF domain possesses favorable statistical properties as a diagnostic tool in distinguishing between men with and without ED and classifying levels of ED severity. It has the requisites to detect treatment-related changes in patients with ED.&#xD;
+The maximum score of the erectile function domain of the IIEF is 30. A lower score would mean more problems with erectile function.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean DAN-PSSsex score of the TUMT and PAE arm at 3, 6, 12, 24 and 60 months after the procedure</measure>
+    <time_frame>3, 6, 12, 24 and 60 months post-procedure.</time_frame>
+    <description>The Danish Prostate Symptom Score(DAN-PSS) is a validated symptom scale for assessing the severity of symptoms among patients with lower urinary tract complaints suggestive of benign prostatic hyperplasia. The Danish Prostate Symptom Score Sexual items (DAN-PSSsex) is a validated instrument to determine sexual function (including erectile and ejaculatory function) and its impact on the well-being of the patient. The DAN-PSSsex consists of 3 items each containing 2 questions A and B, where A refers to a symptom and B refers to the bother of the symptom. The total score is the sum of the multiplication of A and B. Possible scores range from 0 (no problem with sexual function) to 27 (very bothered by sexual function).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean prostate volume (PV), measured by TRUS, of the TUMT and PAE arm at 3, 6, 12 and 24 months after the procedure</measure>
+    <time_frame>Baseline, 3, 6, 12 and 24 months post-procedure.</time_frame>
+    <description>Prostate volume is linked to negative outcomes related to BPH and an indicator of response to the treatment procedure. Prostate volume will be measured in mL by Transrectal ultrasound (TRUS). TRUS prostate volume estimates are consistent with volumes of radical prostatectomy pathology reports.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean maximum flow rate by uroflowmetry of the TUMT and PAE arm at 3, 6, 12 and 24 months after the procedure</measure>
+    <time_frame>Baseline, 3, 6, 12 and 24 months post-procedure.</time_frame>
+    <description>Uroflowmetry will be used to measure maximum flow rate. Uroflowmetry is a non-invasive procedure used to measure the flow of urine throughout micturition and assist in the diagnosis of lower urinary tract dysfunctions. It provides useful information about total voiding function and is used for BPH diagnosis and evaluation of treatment response. Qmax is measured in mL/second, the Qmax is the value of the highest flow rate measured during the test. Qmax ≥ 15 mL/s and a bell-shaped curve indicate normal voiding. Qmax &lt; 15 mL/s indicates a week flow. The lower Qmax the weaker the flow. If the patient has an indwelling catheter and cannot perform a uroflowmetry, the Qmax will be set to zero.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean voided volume by uroflowmetry of the TUMT and PAE arm at 3, 6, 12 and 24 months after the procedure</measure>
+    <time_frame>Baseline, 3, 6, 12 and 24 months post-procedure.</time_frame>
+    <description>Voided volume of the uroflowmetry is measured in ml. Uroflowmetry is a non-invasive procedure used to measure the flow of urine throughout micturition and assist in the diagnosis of lower urinary tract dysfunctions. It provides useful information about total voiding function and is used for BPH diagnosis and evaluation of treatment response. In most cases a uroflowmetry would only be valid if the voided volume in ml is above 150.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean residual urine volume, of the TUMT and PAE arm at 3, 6, 12 and 24 months after the procedure</measure>
+    <time_frame>Baseline, 3, 6, 12 and 24 months post-procedure.</time_frame>
+    <description>Transabdominal ultrasound is an accurate non-invasive instrument for assessing postvoiding residual urine. A post-void residual volume helps in the evaluation of urinary outlet obstruction and BPH treatment response.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of catheterization events of the TUMT and PAE arm at 3, 6, 12, 24 and 60 months after the procedure.</measure>
+    <time_frame>3, 6, 12, 24 and 60 months post-procedure.</time_frame>
+    <description>Catheterization will be expressed as reason for placement, duration and frequency (in case of intermittent catheterization) of catheterization. Both the placement of an indwelling urinary catheter and the use of intermittent catheterization will be described. If an indwelling catheter was placed after the procedure, post-procedure duration of catheterization will be defined as days from the procedure till indwelling catheter cessation. Catheterization for any other reason during the follow-up period will also be evaluated. The need of catheterization can be used in the overall determination of the effectiveness of the treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean prostate-specific antigen (PSA) of the TUMT and PAE arm at 3, 6, 12 and 24 months after the procedure</measure>
+    <time_frame>3, 6, 12 and 24 months post-procedure.</time_frame>
+    <description>A blood sample for PSA will be taken by venipuncture sampling. The absolute value of serum PSA (ng/mL) has good predictive value for determination of prostate volume. Continues PSA measurements assist in the detection of any de novo prostate cancer or progression of patients in active surveillance or watchful waiting.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean creatinine of the TUMT and PAE arm at 3, 6, 12 and 24 months after the procedure</measure>
+    <time_frame>3, 6, 12 and 24 months post-procedure.</time_frame>
+    <description>A rise in serum creatinine can be a result of benign prostate hyperplasia (BPH) with urinary retention. Serum creatinine also aid in the identification of any affection of the kidney from the procedures.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>De novo use of pharmacological LUTS treatment in the TUMT and PAE arms</measure>
+    <time_frame>12, 24 and 60 months post-procedure.</time_frame>
+    <description>Type and rate of de novo pharmacological LUTS treatment will be described and compared in between the two arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Surgical re-treatment in the TUMT and PAE arms</measure>
+    <time_frame>12, 24 and 60 months post-procedure.</time_frame>
+    <description>The type and rate of surgical re-treatment will be described and compared in between the two arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of side effects of the TUMT and PAE arms during the first 3 months after the procedure</measure>
+    <time_frame>3 months post-procedure.</time_frame>
+    <description>The following side effects will be assessed: urinary tract infection, acute urinary retention, dysuria, haematuria, access-site hematoma, pseudoaneurysm and post-embolization syndrome (defined as occurring within 48h after surgery and consisting of influenza-like symptoms, pain, nausea, dysuria and transient worsening of LUTS). All side effects will be classified according to the Clavien-Dindo system.&#xD;
+Hospital admission and hospitalization time will also be compared in between the two arms.&#xD;
+All serious adverse events (SAE) will be reported with intensity and causality. A SAE is defined as all adverse event or adverse reaction that fulfils any of the following criteria: results in death, is life-threatening, requires hospitalization or prolonging of existing hospitalization, or results in persistent or significant disability or incapacity.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Mean procedure time for conduction of the TUMT and PAE procedures</measure>
+    <time_frame>procedure</time_frame>
+    <description>Procedure time is the time of the patient procedure.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">220</enrollment>
+  <condition>Prostatic Hyperplasia</condition>
+  <condition>Lower Urinary Tract Symptoms</condition>
+  <arm_group>
+    <arm_group_label>TUMT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In this arm, patients will undergo Transurethral Microwave Thermotherapy (TUMT) where microwave energy is used to destroy the prostate tissue. TUMT is performed under local anaesthesia. Usually, the patient can be discharged from the hospital on the same day. If the patient cannot be discharged on the same day, he will be admitted to the urological ward. After the treatment, a transurethral catheter is inserted. This will be removed at the physician's discretion when spontaneous voiding is achieved with an acceptable residual volume (in general &lt;100-150 ml), typically within four weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>PAE</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In this arm, patients will undergo prostate artery embolisation (PAE) where blocking the blood flow to the prostate causes it to shrink. PAE is performed under local anaesthesia. Usually, the patient can be discharged from the hospital on the same day. If the patient cannot be discharged on the same day, he will be admitted to the urological ward. Patients with a permanent catheter prior to PAE will keep the catheter up to four weeks after the procedure.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Transurethral Microwave Thermotherapy</intervention_name>
+    <description>TUMT is performed by a urologist and/or a trained urological nurse. In TUMT a specially designed instrument that sends out microwave energy is inserted inside the prostate through the urethra. Cooling fluid circulates the instrument to prevent heat from damaging the wall of the urethra. To prevent the temperature from getting too high outside the prostate a temperature sensor is inserted into the patient's rectum and at the penoscrotal angle. If the temperature reaches the safety limit the microwave generator's output will be shut off automatically. Microwave is then used to heat the prostate (preferably to 50-60 degrees Celsius) and destroy hyperplastic prostate tissue. As the prostate heals it will shrink and reduce the blockage of urine flow and the symptoms of BPH.</description>
+    <arm_group_label>TUMT</arm_group_label>
+    <other_name>TUMT</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Prostate Artery Embolisation</intervention_name>
+    <description>In PAE an interventional radiologist will insert a small catheter into the vessels that supply blood to the prostate. An arteriogram is done to map the blood vessels feeding the prostate. Tiny embolization particles are injected through the catheter and into the blood vessels to reduce the blood supply to the prostate. This procedure is intended bilaterally at both sides of the prostate. Following the procedure, the prostate will begin to shrink reducing the symptoms of BPH.</description>
+    <arm_group_label>PAE</arm_group_label>
+    <other_name>PAE</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Ability to understand and the willingness to sign an informed consent.&#xD;
+&#xD;
+          -  Diagnosis of LUTS secondary to BPH refractory to/contraindicated for medical treatment&#xD;
+             or not patient preference.&#xD;
+&#xD;
+          -  Severe urinary symptoms on IPSS (IPSS score ≥ 20).&#xD;
+&#xD;
+          -  Bladder outlet obstruction (BOO) is defined by Qmax ≤ 15ml/sec, based on uroflowmetry.&#xD;
+&#xD;
+          -  Prostate volume at minimum 50 ml measured by TRUS or MR.&#xD;
+&#xD;
+          -  Men with prostate cancer in Active Surveillance or Watchful Waiting who have LUTS due&#xD;
+             to a large BPH component are allowed.&#xD;
+&#xD;
+          -  Indwelling catheter or intermittent catheter is allowed. In this case baseline IPSS is&#xD;
+             35 points.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Active bladder cancer (patients with pTa low-grade tumors are allowed).&#xD;
+&#xD;
+          -  Previous pelvic radiation for cancer treatment.&#xD;
+&#xD;
+          -  Bladder stones (inclusion is allowed after removal).&#xD;
+&#xD;
+          -  Current urethral strictures or bladder neck contracture.&#xD;
+&#xD;
+          -  Neurogenic LUTS.&#xD;
+&#xD;
+          -  Symptomatic urinary tract infection at the time of intervention.&#xD;
+&#xD;
+          -  Documented bacterial prostatitis in the last year.&#xD;
+&#xD;
+          -  Severe atheromatous disease or other pathology preventing catheter-based intervention&#xD;
+             (as rated on CT angiography by an interventional radiologist).&#xD;
+&#xD;
+          -  Allergy to iodinated contrast media.&#xD;
+&#xD;
+          -  Renal failure defined as estimated glomerular filtration rate (eGFR) &lt; 35ml/min.&#xD;
+&#xD;
+          -  High bleeding risk (spontaneous international normalized ratio (INR) &gt; 1.6).&#xD;
+&#xD;
+          -  Contraindication to conscious sedation (if requested by the patient).&#xD;
+&#xD;
+          -  Prostate median lobe defined by treating physician.&#xD;
+&#xD;
+          -  Urethral colliculus to bladder neck length &lt;35mm.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andreas Røder, Prof.,MD,PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Urological Research Unit, Rigshospitalet</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mikkel M Fode, Prof.,MD,PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Department of Urology, Herlev-Gentofte Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Anna Kristensen-Alvarez, MD</last_name>
+    <phone>+4535456152</phone>
+    <email>anna.kristensen-alvarez@regionh.dk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Urological Research Unit, Rigshospitalet</name>
+      <address>
+        <city>Copenhagen</city>
+        <state>Copenhagen N</state>
+        <zip>2200</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anna Kristensen-Alvarez, MD</last_name>
+      <phone>+4535456152</phone>
+      <email>anna.kristensen-alvarez@regionh.dk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Andreas Røder, Prof.,MD,PhD</last_name>
+      <phone>+4535456152</phone>
+      <email>andreas.roeder@regionh.dk</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Urology, Herlev-Gentofte Hospital</name>
+      <address>
+        <city>Gentofte</city>
+        <state>Hellerup</state>
+        <zip>2900</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anna Kristensen-Alvarez, MD</last_name>
+      <phone>+4535456152</phone>
+      <email>anna.kristensen-alvarez@regionh.dk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Mikkel M Fode, Prof.,MD,PhD</last_name>
+      <phone>+4538680140</phone>
+      <email>mikkel.mejlgaard.fode@regionh.dk</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>November 8, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 17, 2023</study_first_posted>
+  <last_update_submitted>January 18, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 18, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rigshospitalet, Denmark</investigator_affiliation>
+    <investigator_full_name>Anna Kristensen-Alvarez</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Embolization, Therapeutic</keyword>
+  <keyword>Prostatic Artery Embolization</keyword>
+  <keyword>Transurethral Microwave Thermotherapy</keyword>
+  <keyword>Patient Reported Outcome Measures</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prostatic Hyperplasia</mesh_term>
+    <mesh_term>Hyperplasia</mesh_term>
+    <mesh_term>Lower Urinary Tract Symptoms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>All study data including study protocol, statistical analysis plan, informed consent form, and clinical study report can be shared when a proper agreement is formed according to the European Union (EU) General Data Protection Regulation (GDPR) protection statement.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

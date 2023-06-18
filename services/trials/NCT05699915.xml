@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9345">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05699915</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MMS.2021.058</org_study_id>
+    <nct_id>NCT05699915</nct_id>
+  </id_info>
+  <brief_title>Extensive CArdioVAscular Characterization and Follow-up of Patients Receiving Immune Checkpoint Inhibitors</brief_title>
+  <acronym>CAVACI</acronym>
+  <official_title>Extensive CArdioVAscular Characterization and Follow-up of Patients Receiving Immune Checkpoint Inhibitors: a Prospective Multicentre Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Algemeen Ziekenhuis Maria Middelares</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Algemeen Ziekenhuis Maria Middelares</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this prospective, multicentre study is to investigate short- and long-term&#xD;
+      cardiovascular effects in cancer patients treated with immune checkpoint inhibitors (ICIs).&#xD;
+&#xD;
+      The main question[s] it aims to answer are:&#xD;
+&#xD;
+        -  To investigate troponin and NT-proBNP values in patients receiving ICIs and their&#xD;
+           association with ICI-induced CV abnormalities and MACEs.&#xD;
+&#xD;
+        -  Study the calcium score, systolic, and diastolic (dys)function.&#xD;
+&#xD;
+        -  Evaluate associations between patient/disease characteristics / transthoracic&#xD;
+           echocardiography parameters / electrocardiography parameters and troponin / NT-proBNP&#xD;
+           levels.&#xD;
+&#xD;
+      Participants will be closely monitored by performing the following additional visits and&#xD;
+      testing:&#xD;
+&#xD;
+        -  Chest CT scan prior to treatment start, after 12 and 24 months.&#xD;
+&#xD;
+        -  Consultation with a cardiologist at baseline, 3, 6, 12 and 24 months, who will perform&#xD;
+           an electrocardiogram and echocardiogram.&#xD;
+&#xD;
+        -  One additional blood sample prior to treatment start, after 3, 6, 12 and 24 months. An&#xD;
+           extra blood sample could be taken in case of sudden heart problems.&#xD;
+&#xD;
+        -  Non-invasive endothelial function tests prior to treatment start, after 12 and 24&#xD;
+           months.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The increasing use of immune checkpoint inhibitors (ICIs) in the treatment of both advanced&#xD;
+      and early stages of various malignancies has resulted in a substantial increase in the&#xD;
+      incidence of cardiovascular immune related adverse events (irAEs). The current guidelines are&#xD;
+      based on anecdotal evidence and expert opinions due to the lack of solid data and prospective&#xD;
+      studies. Therefore, cardiac monitoring, in patients receiving ICIs, is often not implemented&#xD;
+      by oncologists as many questions remain unanswered. Hence, the urgent need to investigate the&#xD;
+      possible short and long term cardiovascular effects of ICIs.&#xD;
+&#xD;
+      The investigators developed a multicentre, prospective study in which patients with a solid&#xD;
+      tumour eligible for ICI treatment will be enrolled. The study exists of routine&#xD;
+      investigations of blood parameters (troponin and (N-terminal) brain-type natriuretic peptide&#xD;
+      levels in particular) and a thorough cardiovascular follow-up on fixed time points during a&#xD;
+      period of two years. The cardiovascular follow-up consists of continuous remote patient&#xD;
+      monitoring, routine cardiology consultations including electrocardiograms, transthoracic&#xD;
+      echocardiograms, CT-scans for calcium scoring and non-invasive endothelial function tests.&#xD;
+      Associations between these blood parameters and short and long term cardiovascular irAEs will&#xD;
+      be statistically analysed.&#xD;
+&#xD;
+      This project will allow for a better estimate of the incidence of both short and long-term&#xD;
+      cardiovascular irAEs in a 'real world' patient population receiving ICIs. If the&#xD;
+      investigators are able to accurately predict and detect short- and long-term cardiovascular&#xD;
+      irAEs in an early (and subclinical) stage by correct implementation and interpretation of&#xD;
+      existing cardiac markers, they could be managed early on in a more effective manner.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 7, 2022</start_date>
+  <completion_date type="Anticipated">November 30, 2026</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The incidence of an elevated hs-TnT above the ULN if the baseline value was normal; or 1.5 ≥ times baseline if the baseline value was above the ULN within the first three months of treatment. The maximum measured value will be taken into account.</measure>
+    <time_frame>Preliminary analysis once 50 patients have reached their 3-month cardiac follow-up visit and 3 months after last patient is included.</time_frame>
+    <description>For the primary endpoint, the cumulative incidence of troponin elevation will be calculated with death as a competing risk. Cumulative incidences and corresponding 95% confidence intervals will be reported and a cumulative incidence plot will be used to visualize the results.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The incidence of hs-TnT/NT-proBNP elevations at 6, 12, and 24 months.</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Cumulative incidences and 95% confidence intervals, considering death as a competing event.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The incidence of hs-TnT/NT-proBNP elevations at baseline, 3, 6, 12, and 24 months.</measure>
+    <time_frame>Preliminary analysis once 50 patients have reached their 3-month cardiac follow-up visit and through study completion, an average of 1 year</time_frame>
+    <description>Cumulative incidences and 95% confidence intervals, considering death as a competing event.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of hs-TnT/NT-proBNP in 24 months compared to baseline.</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Linear mixed effects model with a random intercept per subject to account for the correlation measurements coming from the same individual.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of transthoracic 3D echocardiography parameters (dimensions, diastolic function, valvular abnormalities, LVEF, strain analysis) at baseline, 3, 6, 12, and 24 months.</measure>
+    <time_frame>reliminary analysis once 50 patients have reached their 3-month cardiac follow-up visit and through study completion, an average of 1 year</time_frame>
+    <description>Linear mixed effects model with a random intercept per subject to account for the correlation measurements coming from the same individual.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of electrocardiography parameters (rhythm, heart axis, PQ interval, QRS duration, bundle branch block, QT interval, RR interval, pathological Q's, left ventricular hypertrophy and STT segments) at baseline, 3, 6, 12, and 24 months.</measure>
+    <time_frame>reliminary analysis once 50 patients have reached their 3-month cardiac follow-up visit and through study completion, an average of 1 year</time_frame>
+    <description>Linear mixed effects model with a random intercept per subject to account for the correlation measurements coming from the same individual.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association between the evolution of troponin/NT-proBNP and transthoracic echocardiography parameters at baseline, 3, 6, 12, and 24 months.</measure>
+    <time_frame>reliminary analysis once 50 patients have reached their 3-month cardiac follow-up visit and through study completion, an average of 1 year</time_frame>
+    <description>Linear mixed effects model with a random intercept per subject to account for the correlation measurements coming from the same individual.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association between the evolution of troponin/NT-proBNP and electrocardiography (rhythm, heart axis, PQ, QRS, bundle branch block, QT, RR, pathological Q's, left ventricular hypertrophy and STT segments) parameters at baseline, 3, 6, 12, and 24 months.</measure>
+    <time_frame>reliminary analysis once 50 patients have reached their 3-month cardiac follow-up visit and through study completion, an average of 1 year</time_frame>
+    <description>Linear mixed effects model with a random intercept per subject to account for the correlation measurements coming from the same individual.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative incidence of cardiovascular (CV) abnormalities at 3, 6, 12, and 24 months based on the CARDIOTOX classification system of Sendón et al., with the inclusion of pericardial effusion and new arrhythmias.</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Cumulative incidences and 95% confidence intervals, considering death as a competing event.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association between the evolution of troponin/NT-proBNP and CV abnormalities (as classified based on the CARDIOTOX classification for myocardial injury including cardiac biomarkers, symptoms, LVEF, LA area, LVESV, GLS and diastolic function).</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Joint model combining a linear mixed model for troponin and a sub-distributional proportional hazards model for the time-to-event taking into account death as a competing event for CV abnormality and MACE.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative incidence of MACEs at 3, 6, 12, and 24 months. MACEs were defined as the composite outcome of nonfatal stroke, nonfatal myocardial infarction, hospital admission for heart failure (HF) and cardiac revascularization, and CV death.</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Cumulative incidences and 95% confidence intervals, considering death as a competing event.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival.</measure>
+    <time_frame>reliminary analysis once 50 patients have reached their 3-month cardiac follow-up visit and through study completion, an average of 1 year</time_frame>
+    <description>Cumulative incidences and 95% confidence intervals</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association between the evolution of troponin/NT-proBNP and MACEs over a period of two years. Nonfatal stroke, nonfatal myocardial infarction, hospital admission for heart failure, cardiac revascularization and CV death will be combined to report MACEs.</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Joint model combining a linear mixed model for troponin and a sub-distributional proportional hazards model for the time-to-event taking into account death as a competing event for CV abnormality and MACE.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The difference in the evolution of hs-TnT/NT-proBNP between combination therapy and monotherapy over a period of two years.</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Linear mixed effects model with a random intercept per subject to account for the correlation measurements coming from the same individual. This model will be extended with patient and treatment characteristics and their interaction with time, to evaluate their impact on the evolution of these parameters.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The difference in the evolution of transthoracic echocardiography parameters (dimensions, diastolic function, valvular abnormalities, LVEF, strain analysis) between combination therapy and monotherapy over a period of two years.</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Linear mixed effects model with a random intercept per subject to account for the correlation measurements coming from the same individual. This model will be extended with patient and treatment characteristics and their interaction with time, to evaluate their impact on the evolution of these parameters.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The difference in the evolution of electrocardiography parameters (rhythm, heart axis, PQ, QRS, bundle branch block, QT, RR, pathological Q's, left ventricular hypertrophy and STT segments) between combination therapy and monotherapy.</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Linear mixed effects model with a random intercept per subject to account for the correlation measurements coming from the same individual. This model will be extended with patient and treatment characteristics and their interaction with time, to evaluate their impact on the evolution of these parameters.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association between patient characteristics (demographics, medical history, current oncological disease, prior cancer history, prior/concomitant medication and other relevant parameters) and troponin.</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Linear mixed effects model with a random intercept per subject to account for the correlation measurements coming from the same individual. This model will be extended with patient and treatment characteristics and their interaction with time, to evaluate their impact on the evolution of these parameters.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association between patient characteristics (demographics, medical history, current oncological disease, prior cancer history, prior/concomitant medication and other relevant parameters) and NT-proBNP.</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Linear mixed effects model with a random intercept per subject to account for the correlation measurements coming from the same individual. This model will be extended with patient and treatment characteristics and their interaction with time, to evaluate their impact on the evolution of these parameters.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Agreement between hs-TnT and hs-TnI levels at baseline, 3, 6, 12, and 24 months.</measure>
+    <time_frame>reliminary analysis once 50 patients have reached their 3-month cardiac follow-up visit and through study completion, an average of 1 year</time_frame>
+    <description>Bland-Altman curves and intraclass correlation coefficient (ICC) based on a two-way mixed effects model. The ICC and 95% confidence interval will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of severe immune-related non-CV toxicities (grades 3-5).</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Proportions and 95% confidence interval</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association between the evolution of troponin/NT-proBNP and severe immune-related non-CV toxicities (grades 3-5, e.g. pneumonitis, colitis, thyroiditis, etc. according to the CTCAE criteria).</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Linear mixed effects model with a random intercept per subject to account for the correlation measurements coming from the same individual. This model will be extended with patient and treatment characteristics and their interaction with time, to evaluate their impact on the evolution of these parameters.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association between the evolution of troponin/NT-proBNP and overall survival.</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Joint model combining a linear mixed model for troponin and a sub-distributional proportional hazards model for the time-to-event taking into account death as a competing event for CV abnormality and MACE.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association between the evolution of troponin and diastolic function (based on the recommendations listed in https://doi.org/10.1016/j.echo.2016.01.011, mitral inflow, tissue doppler imaging parameters).</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Linear mixed effects model with a random intercept per subject to account for the correlation measurements coming from the same individual. This model will be extended with patient and treatment characteristics and their interaction with time, to evaluate their impact on the evolution of these parameters.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Calcium score at baseline, 12 months, and 24 months.</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Proportions and 95% confidence interval</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peripheral vascular function at baseline, 3 months, 6 months, 12 months and 24 months.</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Flow mediated dilatation: dilatation % from baseline to maximal post-occlusion diameter.&#xD;
+Peripheral arterial tonometry ratio: based on the response to reactive hyperemia using post and pre-occlusion values</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association between the evolution of troponin and calcium score.</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Flow mediated dilatation: dilatation % from baseline to maximal post-occlusion diameter.&#xD;
+Peripheral arterial tonometry ratio: based on the response to reactive hyperemia using post and pre-occlusion values</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">276</enrollment>
+  <condition>Cancer</condition>
+  <condition>Immune-related Adverse Event</condition>
+  <condition>Cardiac Abnormalities, Variable</condition>
+  <condition>Immune Checkpoint Inhibitor-Related Myocarditis</condition>
+  <condition>Diastolic Dysfunction</condition>
+  <condition>Atherosclerosis</condition>
+  <condition>Cardiotoxicity</condition>
+  <arm_group>
+    <arm_group_label>Cancer patients with a solid tumour eligible for treatment with immune checkpoint inhibitors</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Patients are treated as standard of care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Cardiology consultation</intervention_name>
+    <description>Electrocardiogram (ECG).&#xD;
+Echocardiogram: A comprehensive evaluation of systolic and diastolic function, ventricular and atrial geometry will be performed. Special attention will be given to acquire a 3D measurement of left ventricular ejection fraction (LVEF) and to perform deformation imaging of left ventricle (global longitudinal strain (GLS)). The right ventricular function will be evaluated by tricuspid annular plane systolic excursion (TAPSE) and peak systolic velocity S' derived from color coded tissue Doppler imaging (TDI). Diastolic dysfunction will be based on average E/e' ratio &gt; 15 and left atrial (LA) area &gt; 30 cm2.</description>
+    <arm_group_label>Cancer patients with a solid tumour eligible for treatment with immune checkpoint inhibitors</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Chest Computed Tomography (CT) without contrast</intervention_name>
+    <description>Calcium score. This will be performed at baseline, 12 and 24 months. The scans at 12 and 24 months will be combined, if possible, with standard of care scans for cancer treatment.</description>
+    <arm_group_label>Cancer patients with a solid tumour eligible for treatment with immune checkpoint inhibitors</arm_group_label>
+    <other_name>Cardiac CT</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Non-invasive endothelial function tests</intervention_name>
+    <description>FMD&#xD;
+PAT&#xD;
+This aspect of the study will only be performed in the patients included by the Antwerp University Hospital due to organizational/practical issues.</description>
+    <arm_group_label>Cancer patients with a solid tumour eligible for treatment with immune checkpoint inhibitors</arm_group_label>
+    <other_name>Flow mediated dilatation (FMD)</other_name>
+    <other_name>Peripheral arterial tonometry (PAT)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Electrocardiogram</intervention_name>
+    <description>An ECG will be taken prior to each ICI cycle during the first three months of treatment.</description>
+    <arm_group_label>Cancer patients with a solid tumour eligible for treatment with immune checkpoint inhibitors</arm_group_label>
+    <other_name>ECG</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Extra serum sample (7.5 mL)</intervention_name>
+    <description>An extra serum sample will be taken at baseline, 3, 6, 12, 24 months and in case of sudden cardiac problems. This will subsequently be analysed to determine high-sensitivity troponin I, high-sensitivity troponin T and NT-proBNP.</description>
+    <arm_group_label>Cancer patients with a solid tumour eligible for treatment with immune checkpoint inhibitors</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Have a solid tumour and will receive one of the following therapies based on current&#xD;
+             evidence based clinical guidelines: anti-programmed cell death protein-1 (PD-1),&#xD;
+             anti-programmed cell death ligand-1 (PD-L1) and/or anti-cytotoxic&#xD;
+             T-lymphocyte-associated antigen-4 (CTLA-4) therapy&#xD;
+&#xD;
+          -  Be literate in Dutch or English&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior treatment with immunotherapy (immune checkpoint inhibitors, T-cell transfer&#xD;
+             therapy, cancer treatment vaccines or immune system modulators).&#xD;
+&#xD;
+          -  Patients who will receive ICIs in combination with an additional systemic anti-cancer&#xD;
+             regimen (chemotherapy, tyrosine kinase inhibitors,…).&#xD;
+&#xD;
+          -  Having a known history of human immunodeficiency virus (HIV) infection.&#xD;
+&#xD;
+          -  Having a known history of hepatitis B (defined as hepatitis B surface antigen [HBsAg]&#xD;
+             reactive) or known active hepatitis C virus (defined as detectable RNA via qualitative&#xD;
+             nucleic acid testing) infection.&#xD;
+&#xD;
+          -  Having a diagnosis of immunodeficiency or is receiving chronic/active systemic steroid&#xD;
+             therapy (in dosing exceeding 10 mg daily of prednisone equivalent)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Christof Vulsteke, Prof</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Algemeen Ziekenhuis Maria Middelares</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Christof Vulsteke, Prof</last_name>
+    <phone>+3292469522</phone>
+    <email>Christof.Vulsteke@azmmsj.be</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Danielle Delombaerde, PharmD</last_name>
+    <phone>+3292469511</phone>
+    <email>Danielle.Delombaerde@azmmsj.be</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>AZ Sint-Vincentius Deinze</name>
+      <address>
+        <city>Deinze</city>
+        <state>East-Flanders</state>
+        <zip>9800</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christof Vulsteke, Prof</last_name>
+      <phone>+3292469522</phone>
+      <email>Christof.Vulsteke@azmmsj.be</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Algemeen Ziekenhuis Maria Middelares</name>
+      <address>
+        <city>Ghent</city>
+        <state>East-Flanders</state>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christof Vulsteke, Prof</last_name>
+      <phone>+3292469522</phone>
+      <email>Christof.Vulsteke@azmmsj.be</email>
+    </contact>
+    <contact_backup>
+      <last_name>Danielle Delombaerde, PharmD</last_name>
+      <phone>+3292469511</phone>
+      <email>Danielle.Delombaerde@azmmsj.be</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>AZ Sint-Elisabeth Zottegem</name>
+      <address>
+        <city>Zottegem</city>
+        <state>East-Flanders</state>
+        <zip>9620</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christof Vulsteke, Prof</last_name>
+      <phone>+3292469522</phone>
+      <email>Christof.Vulsteke@azmmsj.be</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Antwerp University Hospital</name>
+      <address>
+        <city>Antwerp</city>
+        <zip>2650</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hans Prenen, Prof</last_name>
+      <email>Hans.Prenen@uza.be</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sanne Wouters</last_name>
+      <phone>+32 3 821 24 41</phone>
+      <email>Sanne.Wouters@uza.be</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Hans Prenen, Prof</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Constantijn Franssen, Dr</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>December 9, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 24, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>May 30, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 30, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 1, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Algemeen Ziekenhuis Maria Middelares</investigator_affiliation>
+    <investigator_full_name>Prof. Dr. Christof Vulsteke</investigator_full_name>
+    <investigator_title>Head of Integrated Cancer Center Ghent</investigator_title>
+  </responsible_party>
+  <keyword>Cardio-oncology</keyword>
+  <keyword>Immune-related adverse event</keyword>
+  <keyword>Immune checkpoint inhibitor</keyword>
+  <keyword>Myocarditis</keyword>
+  <keyword>Troponin</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Atherosclerosis</mesh_term>
+    <mesh_term>Cardiotoxicity</mesh_term>
+    <mesh_term>Myocarditis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,4 +1,4 @@
-import {Component} from '@angular/core';
+import {Component, ElementRef, Renderer2} from '@angular/core';
 import {NgModel} from '@angular/forms';
 import {Diagnose, Disease, Examination, Patient} from '../../../dtos/patient';
 import {DiseaseService} from 'src/app/services/disease.service';
@@ -6,6 +6,8 @@ import {PatientService} from 'src/app/services/patient.service';
 import {of} from 'rxjs';
 import {ToastrService} from 'ngx-toastr';
 import {Router} from '@angular/router';
+import {AnalyzerService} from '../../../services/analyzer.service';
+import {DomSanitizer} from '@angular/platform-browser';
 
 @Component({
   selector: 'app-register-patient',
@@ -24,12 +26,17 @@ export class RegisterPatientComponent {
     birthdate: undefined
   };
   checkmail = '';
-
+  analyzing = false;
+  analyzedText = '';
+  highlight = false;
+  trigger = 0;
   constructor(
     private diseaseService: DiseaseService,
     private patientService: PatientService,
     private notification: ToastrService,
-    private router: Router
+    private router: Router,
+    private analyzerService: AnalyzerService,
+    private renderer: Renderer2, private elementRef: ElementRef,private sanitizer: DomSanitizer
   ) {
   }
 
@@ -63,7 +70,7 @@ export class RegisterPatientComponent {
   }
 
   public disable(): boolean {
-    return  (this.toRegister.firstName === '' || this.toRegister.lastName === ''
+    return (this.toRegister.firstName === '' || this.toRegister.lastName === ''
       || this.toRegister.email === '' || this.checkmail !== this.toRegister.email ||
       this.toRegister.examinations.filter(e => e.type === '' || e.name === '' || e.date === undefined).length !== 0 ||
       this.toRegister.birthdate === undefined || this.toRegister.gender === undefined ||
@@ -109,5 +116,42 @@ export class RegisterPatientComponent {
 
   removeExam(examination: Examination) {
     this.toRegister.examinations = this.toRegister.examinations.filter(e => e !== examination);
+  }
+
+  sanitizeHTML(htmlString: string): string {
+    const nonSpanTagsRegex = /<(?!\/?span\b)[^>]+>/gi;
+    return htmlString.replace(nonSpanTagsRegex, '');
+  }
+
+  analyze() {
+    this.analyzing = true;
+    this.analyzerService.analyzeNoteNegatives(this.toRegister.admissionNote).subscribe({
+      next: data => {
+        console.log(data);
+
+        this.analyzedText = this.toRegister.admissionNote;
+        const patternDiseases = new RegExp(data.diseases.join('|'), 'gi');
+        const patternNegatives = new RegExp(data.negatives.join('|'), 'gi');
+        if(data.diseases.length !== 0) {
+          this.analyzedText = this.analyzedText.replace(patternDiseases,
+            (match) => `<span class="fw-bold bg-green-300 text-green-800 rounded px-1">${match}</span>`);
+        }
+        if(data.negatives.length !== 0) {
+          this.analyzedText = this.analyzedText.replace(patternNegatives,
+            (match) => `<span class="fw-bold bg-red-300 text-red-800 rounded px-1">${match}</span>`);
+        }
+        console.log(this.analyzedText);
+        data.diseases.forEach((d: string) => {
+          this.toRegister.diagnoses.push({note: '', disease: {name: d}, date: new Date(Date.now())});
+        });
+        this.notification.info('Successfully analyzed admission note!');
+        this.analyzing = false;
+        this.highlight = true;
+      },
+      error: error => {
+        console.log('Error analyzing note: ' + error);
+        this.notification.error(error.error.message, 'Error analyzing note');
+      }
+    });
   }
 }

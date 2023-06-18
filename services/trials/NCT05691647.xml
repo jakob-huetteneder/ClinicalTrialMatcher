@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9722">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05691647</url>
+  </required_header>
+  <id_info>
+    <org_study_id>480812</org_study_id>
+    <nct_id>NCT05691647</nct_id>
+  </id_info>
+  <brief_title>Chronotherapy for Depressive Episodes</brief_title>
+  <official_title>Chronotherapy for Patients With a Depressive Episode in a Public Outpatient Mental Health Care Clinic in Norway: A Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>St. Olavs Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>St. Olavs Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Evidence-based treatments for depression, such as antidepressive medication, usually have a&#xD;
+      latency of 4 to 6 weeks before they achieve a therapeutic effect. Chronotherapy is a group of&#xD;
+      non-pharmacological interventions that presumably act on the circadian system to achieve a&#xD;
+      rapid-onset clinical effect and better long-term effects and has been shown efficient to&#xD;
+      improve depressive symptoms. Interventions include sleep deprivation, sleep-phase advancement&#xD;
+      and stabilization, and light therapy. There are few studies testing the effectiveness of&#xD;
+      combining these three chronotherapeutic techniques in the initial phase of treatment of&#xD;
+      depression in a secondary mental health care outpatient clinic. The investigators aim to test&#xD;
+      the effects and safety of chronotherapy in addition to TAU compared to TAU alone, with the&#xD;
+      primary outcome being self-reported depressive symptoms at 1 week following randomization.&#xD;
+      The study is a randomized controlled trial with 76 patients with a depressive episode who&#xD;
+      initiate outpatient treatment at Nidaros DPS, St. Olavs University Hospital. Participants&#xD;
+      will be allocated 1:1 to either chronotherapy + treatment as usual (TAU) or to TAU alone.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 12, 2023</start_date>
+  <completion_date type="Anticipated">January 2040</completion_date>
+  <primary_completion_date type="Anticipated">January 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>Masking will not be applicable due to the nature of the study, in which participants randomized to receive chronotherapy plus treatment as usual will be admitted to the ward for a one-night sleep deprivation, and the participants and researchers will understand which intervention arm the participant is receiving. Researchers and participants will not be aware of randomization until after baseline-assessments are completed. Analyses will be conducted by a statistician who is blinded to intervention allocation.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Between-group difference in self-reported levels of depressive symptoms at week 1 after randomization</measure>
+    <time_frame>1 week after randomization</time_frame>
+    <description>Assessed with the Inventory of Depressive Symptomatology Self-Report (IDS-SR), a 30-item questionnaire assessing depressive symptomatology. Items are rated on a Likert scale from 0 to 3, with higher scores indicating more depressive symptoms. The range is 0-84.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in observer-rated levels of depressive symptoms at week 1 after randomization.</measure>
+    <time_frame>1 week after randomization</time_frame>
+    <description>Assessed with the Hamilton Depression Rating Scale (HDRS-6), a 6-item questionnaire for depressive symptoms the last 24 hours. Each item is rated on a 0 to 4 rating scale with higher scores indicating more depressive symptoms. The range is 0-22.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in observer-rated levels of depressive symptoms at week 2 after randomization</measure>
+    <time_frame>2 weeks after randomization</time_frame>
+    <description>Assessed with the Hamilton Depression Rating Scale (HDRS-6), a 6-item questionnaire for depressive symptoms the last 24 hours. Each item is rated on a 0 to 4 rating scale with higher scores indicating more depressive symptoms. The range is 0-22.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in observer-rated levels of depressive symptoms at week 4 after randomization.</measure>
+    <time_frame>4 weeks after randomization</time_frame>
+    <description>Assessed with the Hamilton Depression Rating Scale (HDRS-6), a 6-item questionnaire for depressive symptoms the last 24 hours. Each item is rated on a 0 to 4 rating scale with higher scores indicating more depressive symptoms. The range is 0-22.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in observer-rated levels of depressive symptoms at week 8 after randomization</measure>
+    <time_frame>8 weeks after randomization</time_frame>
+    <description>Assessed with the Hamilton Depression Rating Scale (HDRS-6), a 6-item questionnaire for depressive symptoms the last 24 hours. Each item is rated on a 0 to 4 rating scale with higher scores indicating more depressive symptoms. The range is 0-22.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in observer-rated levels of depressive symptoms at week 24 after randomization</measure>
+    <time_frame>24 weeks after randomization</time_frame>
+    <description>Assessed with the Hamilton Depression Rating Scale (HDRS-6), a 6-item questionnaire for depressive symptoms the last 24 hours. Each item is rated on a 0 to 4 rating scale with higher scores indicating more depressive symptoms. The range is 0-22.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in observer-rated levels of depressive symptoms at week 52 after randomization</measure>
+    <time_frame>52 weeks after randomization</time_frame>
+    <description>Assessed with the Hamilton Depression Rating Scale (HDRS-6), a 6-item questionnaire for depressive symptoms the last 24 hours. Each item is rated on a 0 to 4 rating scale with higher scores indicating more depressive symptoms. The range is 0-22.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in self-reported anxiety symptoms at week 1 after randomization</measure>
+    <time_frame>1 week after randomization</time_frame>
+    <description>Here assessed with the General Anxiety Disorder (GAD-7), a 7 items self-report scale for central symptoms of anxiety over the last 14 days. The range is 0 to 21, with higher scores indicating more severe anxiety.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in self-reported anxiety symptoms at week 2 after randomization.</measure>
+    <time_frame>2 weeks after randomization</time_frame>
+    <description>Here assessed with the General Anxiety Disorder (GAD-7), a 7 items self-report scale for central symptoms of anxiety over the last 14 days. The range is 0 to 21, with higher scores indicating more severe anxiety.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in self-reported anxiety symptoms at week 4 after randomization</measure>
+    <time_frame>4 weeks after randomization</time_frame>
+    <description>Here assessed with the General Anxiety Disorder (GAD-7), a 7 items self-report scale for central symptoms of anxiety over the last 14 days. The range is 0 to 21, with higher scores indicating more severe anxiety.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in self-reported anxiety symptoms at week 8 after randomization</measure>
+    <time_frame>8 weeks after randomization</time_frame>
+    <description>Here assessed with the General Anxiety Disorder (GAD-7), a 7 items self-report scale for central symptoms of anxiety over the last 14 days. The range is 0 to 21, with higher scores indicating more severe anxiety.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in self-reported anxiety symptoms at week 24 after randomization</measure>
+    <time_frame>24 weeks after randomization</time_frame>
+    <description>Here assessed with the General Anxiety Disorder (GAD-7), a 7 items self-report scale for central symptoms of anxiety over the last 14 days. The range is 0 to 21, with higher scores indicating more severe anxiety.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in self-reported anxiety symptoms at week 52 after randomization</measure>
+    <time_frame>52 weeks after randomization</time_frame>
+    <description>Here assessed with the General Anxiety Disorder (GAD-7), a 7 items self-report scale for central symptoms of anxiety over the last 14 days. The range is 0 to 21, with higher scores indicating more severe anxiety.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in self-reported insomnia symptoms at week 1 after randomization</measure>
+    <time_frame>1 week after randomization</time_frame>
+    <description>Here assessed with the Insomnia Severity Index (ISI), a 7-item questionnaire for the severity of insomnia symptoms the last 14 days. Each item is rated on a 0 to 4 rating scale with higher scores indicating more severe symptoms. The ISI has good psychometric properties and is validated for online use. Range is 0-28 with higher values represent higher levels of insomnia symptom severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in self-reported insomnia symptoms at week 2 after randomization.</measure>
+    <time_frame>2 weeks after randomization</time_frame>
+    <description>Here assessed with the Insomnia Severity Index (ISI), a 7-item questionnaire for the severity of insomnia symptoms the last 14 days. Each item is rated on a 0 to 4 rating scale with higher scores indicating more severe symptoms. The ISI has good psychometric properties and is validated for online use. Range is 0-28 with higher values represent higher levels of insomnia symptom severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in self-reported insomnia symptoms at week 4 after randomization</measure>
+    <time_frame>4 weeks after randomization</time_frame>
+    <description>Here assessed with the Insomnia Severity Index (ISI), a 7-item questionnaire for the severity of insomnia symptoms the last 14 days. Each item is rated on a 0 to 4 rating scale with higher scores indicating more severe symptoms. The ISI has good psychometric properties and is validated for online use. Range is 0-28 with higher values represent higher levels of insomnia symptom severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in self-reported insomnia symptoms at week 8 after randomization</measure>
+    <time_frame>8 weeks after randomization</time_frame>
+    <description>Here assessed with the Insomnia Severity Index (ISI), a 7-item questionnaire for the severity of insomnia symptoms the last 14 days. Each item is rated on a 0 to 4 rating scale with higher scores indicating more severe symptoms. The ISI has good psychometric properties and is validated for online use. Range is 0-28 with higher values represent higher levels of insomnia symptom severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in self-reported insomnia symptoms at week 24 after randomization</measure>
+    <time_frame>24 weeks after randomization</time_frame>
+    <description>Here assessed with the Insomnia Severity Index (ISI), a 7-item questionnaire for the severity of insomnia symptoms the last 14 days. Each item is rated on a 0 to 4 rating scale with higher scores indicating more severe symptoms. The ISI has good psychometric properties and is validated for online use. Range is 0-28 with higher values represent higher levels of insomnia symptom severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in self-reported insomnia symptoms at week 52 after randomization.</measure>
+    <time_frame>52 weeks after randomization</time_frame>
+    <description>Here assessed with the Insomnia Severity Index (ISI), a 7-item questionnaire for the severity of insomnia symptoms the last 14 days. Each item is rated on a 0 to 4 rating scale with higher scores indicating more severe symptoms. The ISI has good psychometric properties and is validated for online use. Range is 0-28 with higher values represent higher levels of insomnia symptom severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prospective daily sleep-wake pattern at day 3 after randomization</measure>
+    <time_frame>3 days after randomization.</time_frame>
+    <description>Here assessed with the Consensus Sleep Dairy and actigraphy, which will be completed by the participant at baseline and each follow-up point for 14 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prospective daily sleep-wake pattern at day 4 after randomization.</measure>
+    <time_frame>4 days after randomization.</time_frame>
+    <description>Here assessed with the Consensus Sleep Dairy and actigraphy, which will be completed by the participant at baseline and each follow-up point for 14 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prospective daily sleep-wake pattern at week 1 after randomization.</measure>
+    <time_frame>1 week after randomization.</time_frame>
+    <description>Here assessed with the Consensus Sleep Dairy and actigraphy, which will be completed by the participant at baseline and each follow-up point for 14 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prospective daily sleep-wake pattern at week 2 after randomization.</measure>
+    <time_frame>2 weeks after randomization.</time_frame>
+    <description>Here assessed with the Consensus Sleep Dairy and actigraphy, which will be completed by the participant at baseline and each follow-up point for 14 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prospective daily sleep-wake pattern at week 4 after randomization.</measure>
+    <time_frame>4 weeks after randomization.</time_frame>
+    <description>Here assessed with the Consensus Sleep Dairy and actigraphy, which will be completed by the participant at baseline and each follow-up point for 14 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prospective daily sleep-wake pattern at week 8 after randomization</measure>
+    <time_frame>8 weeks after randomization.</time_frame>
+    <description>Here assessed with the Consensus Sleep Dairy and actigraphy, which will be completed by the participant at baseline and each follow-up point for 14 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prospective daily sleep-wake pattern at week 24 after randomization.</measure>
+    <time_frame>24 weeks after randomization.</time_frame>
+    <description>Here assessed with the Consensus Sleep Dairy and actigraphy, which will be completed by the participant at baseline and each follow-up point for 14 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prospective daily sleep-wake pattern at week 52 after randomization</measure>
+    <time_frame>52 weeks after randomization.</time_frame>
+    <description>Here assessed with the Consensus Sleep Dairy and actigraphy, which will be completed by the participant at baseline and each follow-up point for 14 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chronotype at week 8 after randomization.</measure>
+    <time_frame>8 weeks after randomization</time_frame>
+    <description>Here assessed with the Reduced Morningness - Eveningness Questionnaire (rMEQ), a widely used measure of chronotype i.e. time preference for daily activities, including bed-times. The rMEQ has five items yielding scores from 4 to 25, with lower scores indicating &quot;eveningness&quot; and higher scores indicating &quot;morningness&quot;. Higher scores indicate higher levels of morningness. Scores can be divided into five categories: definitely evening type (score &lt;8), moderately evening type (Score 8-11), neither type (score 12-17), moderately evening type (score 18-21), and definitely morning type (score &gt;21).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Work and social adjustment at week 1.</measure>
+    <time_frame>1 week after randomization.</time_frame>
+    <description>Assessed with the Work and Social Adjustment Scale (WSAS). WSAS is a self-administered questionnaire that measures the subjective experience of functionality in work and social environments. The 5 items are rated on an 8-point Likert scale. Total scores range from 0-40, with a higher score indicating more functional impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Work and social adjustment at week 2.</measure>
+    <time_frame>2 weeks after randomization.</time_frame>
+    <description>Assessed with the Work and Social Adjustment Scale (WSAS). WSAS is a self-administered questionnaire that measures the subjective experience of functionality in work and social environments. The 5 items are rated on an 8-point Likert scale. Total scores range from 0-40, with a higher score indicating more functional impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Work and social adjustment at week 4.</measure>
+    <time_frame>4 weeks after randomization</time_frame>
+    <description>Assessed with the Work and Social Adjustment Scale (WSAS). WSAS is a self-administered questionnaire that measures the subjective experience of functionality in work and social environments. The 5 items are rated on an 8-point Likert scale. Total scores range from 0-40, with a higher score indicating more functional impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Work and social adjustment at week 8.</measure>
+    <time_frame>8 weeks after randomization</time_frame>
+    <description>Assessed with the Work and Social Adjustment Scale (WSAS). WSAS is a self-administered questionnaire that measures the subjective experience of functionality in work and social environments. The 5 items are rated on an 8-point Likert scale. Total scores range from 0-40, with a higher score indicating more functional impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Work and social adjustment at week 24</measure>
+    <time_frame>24 weeks after randomization</time_frame>
+    <description>Assessed with the Work and Social Adjustment Scale (WSAS). WSAS is a self-administered questionnaire that measures the subjective experience of functionality in work and social environments. The 5 items are rated on an 8-point Likert scale. Total scores range from 0-40, with a higher score indicating more functional impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Work and social adjustment at week 52</measure>
+    <time_frame>52 weeks after randomization</time_frame>
+    <description>Assessed with the Work and Social Adjustment Scale (WSAS). WSAS is a self-administered questionnaire that measures the subjective experience of functionality in work and social environments. The 5 items are rated on an 8-point Likert scale. Total scores range from 0-40, with a higher score indicating more functional impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>General health and health-related quality of life at week 1</measure>
+    <time_frame>1 week after randomization.</time_frame>
+    <description>Assessed with the EQ-5D-5L. The EQ-5D-5L is a self-administered questionnaire that assesses general health and health-related quality of life at the day of measurement. The 5 items are rated on a 5-point Likert scale in addition to a 0-100 rating of overall experienced health condition.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>General health and health-related quality of life at week 2.</measure>
+    <time_frame>2 weeks after randomization.</time_frame>
+    <description>Assessed with the EQ-5D-5L. The EQ-5D-5L is a self-administered questionnaire that assesses general health and health-related quality of life at the day of measurement. The 5 items are rated on a 5-point Likert scale in addition to a 0-100 rating of overall experienced health condition.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>General health and health-related quality of life at week 4.</measure>
+    <time_frame>4 weeks after randomization.</time_frame>
+    <description>Assessed with the EQ-5D-5L. The EQ-5D-5L is a self-administered questionnaire that assesses general health and health-related quality of life at the day of measurement. The 5 items are rated on a 5-point Likert scale in addition to a 0-100 rating of overall experienced health condition.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>General health and health-related quality of life at week 8</measure>
+    <time_frame>8 weeks after randomization.</time_frame>
+    <description>Assessed with the EQ-5D-5L. The EQ-5D-5L is a self-administered questionnaire that assesses general health and health-related quality of life at the day of measurement. The 5 items are rated on a 5-point Likert scale in addition to a 0-100 rating of overall experienced health condition.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>General health and health-related quality of life at week 24</measure>
+    <time_frame>24 weeks after randomization.</time_frame>
+    <description>Assessed with the EQ-5D-5L. The EQ-5D-5L is a self-administered questionnaire that assesses general health and health-related quality of life at the day of measurement. The 5 items are rated on a 5-point Likert scale in addition to a 0-100 rating of overall experienced health condition.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>General health and health-related quality of life at week 52.</measure>
+    <time_frame>52 weeks after randomization.</time_frame>
+    <description>Assessed with the EQ-5D-5L. The EQ-5D-5L is a self-administered questionnaire that assesses general health and health-related quality of life at the day of measurement. The 5 items are rated on a 5-point Likert scale in addition to a 0-100 rating of overall experienced health condition.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient satisfaction and experienced negative effects at week 4 after randomization</measure>
+    <time_frame>4 weeks after randomization.</time_frame>
+    <description>A self-report measure was developed to assess the subjective experiences of patients in the study. The measure includes items to assess whether there have been positive and negative effects of the interventions and will include a free-text space to elaborate if none of the expected effects are experienced.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serious adverse events will be assessed after 52 weeks after randomization.</measure>
+    <time_frame>52 weeks after randomization.</time_frame>
+    <description>Adverse events will be reported to the study team continuously throughout the study period, and will be registered. Any serious adverse events will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Use of health care services at 52 weeks after randomization.</measure>
+    <time_frame>52 weeks after randomization</time_frame>
+    <description>Assessed through questionnaires and health care records.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Use of health care services at 5 years after randomization</measure>
+    <time_frame>5 years after randomization</time_frame>
+    <description>Assessed through questionnaires and health care records.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Use of health care services at 10 years after randomization.</measure>
+    <time_frame>10 years after randomization.</time_frame>
+    <description>Assessed through questionnaires and health care records.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in self-reported levels of depressive symptoms at day 3 after randomization</measure>
+    <time_frame>3 days after randomization</time_frame>
+    <description>Assessed with the Inventory of Depressive Symptomatology Self-Report (IDS-SR), a 30-item questionnaire assessing depressive symptomatology. Items are rated on a Likert scale from 0 to 3, with higher scores indicating more depressive symptoms. The range is 0-84.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in self-reported levels of depressive symptoms at day 4 after randomization</measure>
+    <time_frame>4 days after randomization</time_frame>
+    <description>Assessed with the Inventory of Depressive Symptomatology Self-Report (IDS-SR), a 30-item questionnaire assessing depressive symptomatology. Items are rated on a Likert scale from 0 to 3, with higher scores indicating more depressive symptoms. The range is 0-84. On day 4, sleep items will be excluded from the questionnaire.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in self-reported levels of depressive symptoms at week 2 after randomization</measure>
+    <time_frame>14 days after randomization</time_frame>
+    <description>Assessed with the Inventory of Depressive Symptomatology Self-Report (IDS-SR), a 30-item questionnaire assessing depressive symptomatology. Items are rated on a Likert scale from 0 to 3, with higher scores indicating more depressive symptoms. The range is 0-84.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in self-reported levels of depressive symptoms at week 4 after randomization</measure>
+    <time_frame>4 weeks after randomization</time_frame>
+    <description>Assessed with the Inventory of Depressive Symptomatology Self-Report (IDS-SR), a 30-item questionnaire assessing depressive symptomatology. Items are rated on a Likert scale from 0 to 3, with higher scores indicating more depressive symptoms. The range is 0-84.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in self-reported levels of depressive symptoms at week 8 after randomization</measure>
+    <time_frame>8 weeks after randomization</time_frame>
+    <description>Assessed with the Inventory of Depressive Symptomatology Self-Report (IDS-SR), a 30-item questionnaire assessing depressive symptomatology. Items are rated on a Likert scale from 0 to 3, with higher scores indicating more depressive symptoms. The range is 0-84.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in self-reported levels of depressive symptoms at week 24 after randomization</measure>
+    <time_frame>24 weeks after randomization</time_frame>
+    <description>Assessed with the Inventory of Depressive Symptomatology Self-Report (IDS-SR), a 30-item questionnaire assessing depressive symptomatology. Items are rated on a Likert scale from 0 to 3, with higher scores indicating more depressive symptoms. The range is 0-84.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Between-group difference in self-reported levels of depressive symptoms at week 52 after randomization</measure>
+    <time_frame>52 weeks after randomization</time_frame>
+    <description>Assessed with the Inventory of Depressive Symptomatology Self-Report (IDS-SR), a 30-item questionnaire assessing depressive symptomatology. Items are rated on a Likert scale from 0 to 3, with higher scores indicating more depressive symptoms. The range is 0-84.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subjective sleepiness during sleep deprivation</measure>
+    <time_frame>Day 3-4 after randomization</time_frame>
+    <description>Assessed with the Karolinska Sleepiness Scale (KSS), a 9-item Likert scale, scored from 1 (=extremely alert) to 9 (=extremely sleepy-fighting sleep). The assessment will take place every second hour during the sleep deprivation for the intervention group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Expectations to the interventions at baseline</measure>
+    <time_frame>Day 0 after randomization</time_frame>
+    <description>Assessed with the Stanford Expectations of Treatment Scale (SETS), a 6-item questionnaire that assesses participants' positive and negative expectations to the interventions on a Likert scale from 1 (strongly disagree) to 7 (strongly agree)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">76</enrollment>
+  <condition>Depressive Episode</condition>
+  <arm_group>
+    <arm_group_label>Chronotherapy + treatment as usual</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment as usual</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>medication, cognitive behavioral therapy, and other psychotherapies.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Chronotherapy</intervention_name>
+    <description>Chronotherapy involves three different interventions. Sleep deprivation/wake therapy will be conducted for 34 hours. To assist wake and to ensure that the participants adhere to the sleep deprivation, they will be admitted to a one-night stay at the inpatient ward that is connected to the outpatient clinic at Nidaros DPS. Upon discharge, participants are encouraged to adhere to the sleep schedule which presents the sleep-wake phase advancement and later stabilization of the sleep-wake phase. Light therapy is provided for half an hour every day from day four in the study. In addition to the chronotherapeutic interventions, the participants will receive treatment as usual (TAU) with their assigned therapist.</description>
+    <arm_group_label>Chronotherapy + treatment as usual</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Treatment as usual</intervention_name>
+    <description>Participants allocated to receive TAU alone, will receive standard treatment for a depressive episode in the outpatient clinic. This study will not give restrictions or guidelines on how this treatment should be performed. The TAU-group will receive the treatment the responsible therapist considers and evaluate best fitting in the situation. Typical interventions administered in therapy for a depressive episode includes medication, cognitive behavioral therapy, and other psychotherapies.</description>
+    <arm_group_label>Chronotherapy + treatment as usual</arm_group_label>
+    <arm_group_label>Treatment as usual</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria. Patients eligible for the trial must comply with all the following at&#xD;
+        randomization:&#xD;
+&#xD;
+          -  Being 18 years or older&#xD;
+&#xD;
+          -  Willing and able to provide a written informed consent&#xD;
+&#xD;
+          -  Newly diagnosed with an ongoing moderate or severe depressive episode according to the&#xD;
+             International Classification of Disorders 10th edition (ICD-10) and accepted for&#xD;
+             outpatient treatment for the depressive episode. The diagnosis is set in consensus of&#xD;
+             a licensed therapist and a specialist in psychiatry/psychology.&#xD;
+&#xD;
+          -  The patient must score ≥ 9 on the Hamilton Depression Rating Scale-6.&#xD;
+&#xD;
+          -  Must be able to communicate in a Scandinavian language&#xD;
+&#xD;
+        Exclusion criteria. Patients are considered ineligible for participation if any of the&#xD;
+        following are present:&#xD;
+&#xD;
+          -  Illnesses where chronotherapy may be contraindicated (for example epilepsy, ongoing&#xD;
+             attack of multiple sclerosis, blindness, narcolepsy and psychotic depression).&#xD;
+&#xD;
+          -  Known pregnancy.&#xD;
+&#xD;
+          -  Individuals with a known diagnosis of emotionally unstable personality disorder&#xD;
+             (F60.3).&#xD;
+&#xD;
+          -  Individuals with a known psychotic disorder&#xD;
+&#xD;
+          -  Shiftwork or other related social or work circumstances that inhibit participation&#xD;
+&#xD;
+          -  Participation in an ongoing trial at the outpatient clinic that encompasses digital&#xD;
+             cognitive behavior therapy for insomnia (recruitment to this trial will end in 2023).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Knut Langsrud, PhD, MD</last_name>
+    <phone>+47 92647191</phone>
+    <email>knut.langsrud@stolav.no</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>St. Olavs Hospital, Nidaros DPS</name>
+      <address>
+        <city>Trondheim</city>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Knut Langsrud, PhD, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Norway</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>December 16, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>April 21, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 21, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 24, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

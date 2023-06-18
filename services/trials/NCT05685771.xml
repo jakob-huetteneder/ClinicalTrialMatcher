@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9990">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05685771</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-D0092</org_study_id>
+    <nct_id>NCT05685771</nct_id>
+  </id_info>
+  <brief_title>Sleep Modulation as Antidepressant Randomized Trial</brief_title>
+  <acronym>SMART</acronym>
+  <official_title>Assessing the Symptomatic Benefit of Slow-wave Activity Reduction Using Wearables and Sensor-based Characterization of Depression: a Randomized, Counter-balanced Crossover Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Giulia Da Poian</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>ETH Zurich</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Zurich</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Psychiatric University Hospital, Zurich</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>ETH Zurich</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to learn about the effects of phase-targeted auditory&#xD;
+      stimulation in depressed patients and healthy controls.&#xD;
+&#xD;
+      The main questions it aims to answer are:&#xD;
+&#xD;
+        -  Is auditory down-phase stimulation efficient in improving depression symptoms as&#xD;
+           compared to sham stimulation?&#xD;
+&#xD;
+        -  Can mood and other outcomes be prospectively estimated by multi-parametric passive data?&#xD;
+&#xD;
+      Participants will perform auditory stimulation using a wearable device at home and provide&#xD;
+      data on their phone usage and activity.&#xD;
+&#xD;
+      Researchers will compare depressed patients and healthy participants to see if auditory&#xD;
+      down-phase stimulation effects them differently.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study consists of two parts:&#xD;
+&#xD;
+      CLINICAL TRIAL PART: This part will be conducted in depressed and age- and sex-matched&#xD;
+      healthy participants. It has a double-blind, randomized crossover design. Each participant&#xD;
+      will undergo 1 week of baseline monitoring, followed by 1 week of in-home stimulation and 1&#xD;
+      week of placebo condition interleaved with 1 week wash-out period. The last night of each&#xD;
+      intervention week will take place in a laboratory setting. A final week of follow-up will&#xD;
+      follow the second intervention week.&#xD;
+&#xD;
+      The following data is collected:&#xD;
+&#xD;
+        -  Single-channel EEG (at home) and high-density electroencephalogram (hdEEG) (in&#xD;
+           laboratory)&#xD;
+&#xD;
+        -  MR imaging&#xD;
+&#xD;
+        -  Daily questionnaires&#xD;
+&#xD;
+        -  Passive behavioural and physiological measurements&#xD;
+&#xD;
+      MONITORING PART: This observational study part will be conducted in depressed participants&#xD;
+      only. Each participant will undergo 5 weeks of remote monitoring using wearable devices and&#xD;
+      smartphones. Patients not eligible for the CLINICAL TRIAL PART, or that meet an exclusion&#xD;
+      criterion at any point in the study, can be assigned to this study part.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 20, 2023</start_date>
+  <completion_date type="Anticipated">June 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Depression severity</measure>
+    <time_frame>baseline; after first intervention week; after second intervention week</time_frame>
+    <description>Change in Hamilton Depression Rating Score (HDRS) as compared to baseline score. The 17-item HDRS is on a scale of 0-52 with higher scores indicating more severe symptomatology.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Response rate</measure>
+    <time_frame>after first intervention week; after second intervention week</time_frame>
+    <description>Change in response rate in the Hamilton Depression Rating Score. Response is defined as a reduction of at least 50% compared to baseline or score &lt;8 points.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subjective momentary sleepiness</measure>
+    <time_frame>first intervention week; second intervention week</time_frame>
+    <description>Compare momentary sleepiness using the Karolinska Sleepiness Scale (KSS) between the two intervention weeks. KSS scores range from 1-10 with higher scores indicating higher sleepiness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Electroencephalographic (EEG) topography</measure>
+    <time_frame>last night of first intervention week; last night of second intervention week</time_frame>
+    <description>Change in topography of the electric brain activity (EEG) during sham and stimulation night in the laboratory. Spectral decomposition of the signal will be performed to compare single frequency bins and established frequency bands (delta, theta, alpha, sigma, beta, gamma).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MR Spectroscopy</measure>
+    <time_frame>after first intervention week; after second intervention week</time_frame>
+    <description>Changes in Glutamate/Glutamine (combined as Glx) in the dorsolateral prefrontal cortex as assessed by magnetic resonance spectroscopy between sham and stimulation weeks.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Brain connectivity</measure>
+    <time_frame>after first intervention week; after second intervention week</time_frame>
+    <description>Change in resting state functional connectivity (fMRI) between sham and stimulation weeks.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Depression</condition>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Auditory stimulation first</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>This study group receives auditory stimulation in the first intervention week (second week of trial) and sham stimulation in the second intervention week (fourth week of trial).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham stimulation first</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>This study group receives sham stimulation in the first intervention week (second week of trial) and auditory stimulation in the second intervention week (fourth week of trial).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Phase-targeted auditory stimulation</intervention_name>
+    <description>Bursts of pink noise (50 ms) played during deep non-REM sleep at specific phases of sleep slow waves.</description>
+    <arm_group_label>Auditory stimulation first</arm_group_label>
+    <arm_group_label>Sham stimulation first</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male and female adults aged 18-55 years&#xD;
+&#xD;
+          -  Motivated, no aversion against technology&#xD;
+&#xD;
+          -  Able to give informed consent as documented by signature, and to follow the technical&#xD;
+             instructions&#xD;
+&#xD;
+          -  Able to understand and speak German or English as required for the interview (HDRS)&#xD;
+             and to answer the questionnaires&#xD;
+&#xD;
+          -  Diagnosis of depression according to DSM-5 criteria (depressed) OR no diagnosis of&#xD;
+             depression AND no depressive episode in the history (healthy)&#xD;
+&#xD;
+          -  ≥17 points in Hamilton Depression Rating Score (HDRS, corresponding to at least&#xD;
+             moderate-mild depression, depressed) OR &lt;8 points in HDRS (healthy)&#xD;
+&#xD;
+          -  Stable or no pharmacological antidepressant therapy, no acute suicidal tendency&#xD;
+             (depressed)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant or lactating women, women planning to get pregnant during the study period&#xD;
+&#xD;
+          -  Bipolar disorder or psychotic symptoms in the history&#xD;
+&#xD;
+          -  Relevant disease or medication that could present a risk for the participant or that&#xD;
+             could influence study findings&#xD;
+&#xD;
+          -  Known sleep apnea (diagnosed or ESS ≥10 points) or periodic limb movement syndrome&#xD;
+&#xD;
+          -  Known alcoholism or drug abuse&#xD;
+&#xD;
+          -  Diagnosed hearing impairment/presbycusis&#xD;
+&#xD;
+          -  Irregular intake of centrally depressing or stimulating medication known to alter&#xD;
+             sleep EEG (e.g., benzodiazepines)&#xD;
+&#xD;
+          -  History of traumatic brain injury (except for concussion) or neurosurgical&#xD;
+             procedures/operations&#xD;
+&#xD;
+          -  Known epilepsy or for any reason, intracranial space-occupying lesions or (infectious&#xD;
+             or autoimmune) inflammatory diseases of the central nervous system&#xD;
+&#xD;
+          -  Shift workers&#xD;
+&#xD;
+          -  Inability to follow the procedures of the study, e.g., due to language problems,&#xD;
+             dementia, etc.&#xD;
+&#xD;
+          -  Skin diseases/skin problems (in the face/ear/chest area) or allergies that could be&#xD;
+             aggravated by electrode application&#xD;
+&#xD;
+          -  Conditions that may interfere with the MRI (e.g., MR unsafe cardiac pacemaker or a&#xD;
+             defibrillator, MR unsafe metal in or near the head, spinal cord, eyes, or in the&#xD;
+             chest)&#xD;
+&#xD;
+          -  Indications of sleep apnea (Apnea Hypopnea Index &gt;15/h) or periodic limb movement&#xD;
+             syndrome (PLMS index &gt;15/h) in the screening night&#xD;
+&#xD;
+          -  Low stimulation efficiency (&lt;500 stimulations detected by the device) in the screening&#xD;
+             night or in 3 subsequent home recording nights, e.g., due to very little deep sleep&#xD;
+&#xD;
+          -  Participation in another clinical trial during the study period&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Giulia Da Poian, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Sensory-Motor Systems Lab, IRIS, ETH Zurich</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Giulia Da Poian, PhD</last_name>
+    <phone>0446325795</phone>
+    <phone_ext>+41</phone_ext>
+    <email>giulia.dapoian@hest.ethz.ch</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Corinne Eicher, MSc</last_name>
+    <phone>0792609279</phone>
+    <phone_ext>+41</phone_ext>
+    <email>corinne.eicher@pukzh.ch</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Sensory-Motor Systems Lab</name>
+      <address>
+        <city>Zurich</city>
+        <zip>8092</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Giulia Da Poian, PhD</last_name>
+      <phone>0446325795</phone>
+      <phone_ext>+41</phone_ext>
+      <email>giulia.dapoian@hest.ethz.ch</email>
+    </contact>
+    <contact_backup>
+      <last_name>Cristina Gallego Vázquez, MSc</last_name>
+      <phone>0446325630</phone>
+      <phone_ext>+41</phone_ext>
+      <email>cristina.gallegovazquez@hest.eth.ch</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>January 3, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 5, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 17, 2023</study_first_posted>
+  <last_update_submitted>March 15, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 15, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 17, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>ETH Zurich</investigator_affiliation>
+    <investigator_full_name>Giulia Da Poian</investigator_full_name>
+    <investigator_title>Principle Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Healthy</keyword>
+  <keyword>Depression</keyword>
+  <keyword>Auditory stimulation</keyword>
+  <keyword>Sleep</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data obtained through this study may be provided to qualified researchers with academic interest in sleep research and depression. Data or samples shared will be coded, with no PHI included. Approval of the request and execution of all applicable agreements (i.e. a material transfer agreement) are prerequisites to the sharing of data with the requesting party.</ipd_description>
+    <ipd_time_frame>Data requests can be submitted starting after article publication</ipd_time_frame>
+    <ipd_access_criteria>Access to trial IPD can be requested by qualified researchers engaging in independent scientific research, and will be provided following review and approval of a research proposal and execution of a Data Sharing Agreement (DSA)</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

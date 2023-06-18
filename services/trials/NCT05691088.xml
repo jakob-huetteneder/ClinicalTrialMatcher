@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9750">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05691088</url>
+  </required_header>
+  <id_info>
+    <org_study_id>wm2022001</org_study_id>
+    <nct_id>NCT05691088</nct_id>
+  </id_info>
+  <brief_title>Clinical Efficacy of Acetaminophen in Mechanical Ventilation in Children With New Coronary Pneumonia</brief_title>
+  <official_title>To Evaluate the Clinical Efficacy of Standardized Use of Acetaminophen in Mechanical Ventilation in Children With New Coronary Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Second Clinical Medical College of Jinan University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Kunming Children's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Shenzhen Windo Medical Technology Limited Company</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The Second Clinical Medical College of Jinan University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Patients were randomized to receive either paracetamol during mechanical ventilation. When&#xD;
+      patients were randomized to receive paracetamol (40 mg/kg per day in 4 doses), a placebo&#xD;
+      infusion of normal saline was administered continuously at the same rate as an equivalent&#xD;
+      infusion. Placebos could not be distinguished from the active study drug in color, odor, or&#xD;
+      viscosity.&#xD;
+&#xD;
+      In both study groups, IMV was maintained with sufentanil (0-0.2 mcg/kg/h), propofol (0-4&#xD;
+      mg/kg/h), and dexmedetomidine (0-1 mcg/kg/h). Assessment of sedation levels by the bedside&#xD;
+      nurse using the FLACC pain scale to determine if the child is adequately comfortable or in&#xD;
+      need of more or less medication to maintain adequate ventilation. Assessment of sedation&#xD;
+      levels by the bedside nurse using the FLACC pain scale (every 6 hours as a minimum time&#xD;
+      interval).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 15, 2022</start_date>
+  <completion_date type="Anticipated">December 15, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 15, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Clinical efficacy of acetaminophen in mechanical ventilation in children with new coronary pneumonia</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mechanical ventilation time</measure>
+    <time_frame>an average of 5 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Length of ICU stay time</measure>
+    <time_frame>an average of 1 week</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">128</enrollment>
+  <condition>Acetaminophen,Mechanical Ventilation,Critically Ill Children</condition>
+  <arm_group>
+    <arm_group_label>Group A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Paracetamol injection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group B</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Equivalent physiological saline</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Paracetamol injection</intervention_name>
+    <description>Patients were randomized to receive either paracetamol during mechanical ventilation. When patients were randomized to receive paracetamol (40 mg/kg per day in 4 doses), a placebo infusion of normal saline was administered continuously at the same rate as an equivalent infusion. Placebos could not be distinguished from the active study drug in color, odor, or viscosity.&#xD;
+In both study groups, IMV was maintained with sufentanil (0-0.2 mcg/kg/h), propofol (0-4 mg/kg/h), and dexmedetomidine (0-1 mcg/kg/h). Assessment of sedation levels by the bedside nurse using the FLACC pain scale to determine if the child is adequately comfortable or in need of more or less medication to maintain adequate ventilation. Assessment of sedation levels by the bedside nurse using the FLACC pain scale (every 6 hours as a minimum time interval).</description>
+    <arm_group_label>Group A</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Inclusion criteria were body weight greater than 1500 g; and mechanically ventilated&#xD;
+             patients with confirmed severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)&#xD;
+             infection.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Exclusion criteria were admitted with a tracheostomy in situ; extracorporeal membrane&#xD;
+             oxygenation treatment; neurologic dysfunction, hepatic dysfunction, or renal&#xD;
+             insufficiency; known allergy to or intolerance for paracetamol; and administration of&#xD;
+             paracetamol in the 24 hours prior to mechanical ventilation.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>0 Years</minimum_age>
+    <maximum_age>16 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Windo Medical</name>
+      <address>
+        <city>Shenzhen</city>
+        <state>Guangdong</state>
+        <zip>518020</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>An-Min Hu</last_name>
+      <phone>18026980789</phone>
+      <email>sci@wm.icu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 10, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 10, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>January 10, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 10, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The Second Clinical Medical College of Jinan University</investigator_affiliation>
+    <investigator_full_name>Hu Anmin</investigator_full_name>
+    <investigator_title>The Second Clinical Medical College of Jinan University</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Critical Illness</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Acetaminophen</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9587">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05694936</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VADER</org_study_id>
+    <nct_id>NCT05694936</nct_id>
+  </id_info>
+  <brief_title>Combining Sodium Valproate With Standard-of-care EGFR (Epidermal Growth Factor Receptor) Monoclonal Antibody Treatment in Patients With Metastatic Colorectal Cancer</brief_title>
+  <official_title>A Phase II Randomised Controlled Trial to Determine the Efficacy of Combining the HDAC Inhibitor Sodium Valproate With EGFR Monoclonal Antibody (Panitumumab or Cetuximab) Maintenance in the First-line Treatment of Patients With RAS Wild Type Metastatic Colorectal Cancer (CRC)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Australasian Gastro-Intestinal Trials Group</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Olivia Newton-John Cancer Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Australasian Gastro-Intestinal Trials Group</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to determine the efficacy of combining the histone deacetylase&#xD;
+      (HDAC) inhibitor sodium valproate (VPA) with anti-EGFR monoclonal antibody (panitumumab or&#xD;
+      cetuximab) maintenance in the first-line treatment of patients with RAS wild type metastatic&#xD;
+      CRC.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The primary objective is to evaluate progression free survival (PFS) in patients with RAS&#xD;
+      wild type metastatic CRC treated in the first-line with VPA plus panitumumab or cetuximab&#xD;
+      maintenance, or panitumumab or cetuximab maintenance alone.&#xD;
+&#xD;
+      The secondary objectives are (i) to evaluate overall survival (OS) and objective response&#xD;
+      rates (ORRs; RECIST v 1.1) in patients with RAS wild type metastatic CRC treated in the&#xD;
+      first-line with VPA plus panitumumab or cetuximab maintenance, and panitumumab or cetuximab&#xD;
+      maintenance alone; and (ii) to evaluate the safety (NCI CTCAE v5.0) of first-line maintenance&#xD;
+      treatment with VPA plus panitumumab or cetuximab, and panitumumab or cetuximab maintenance&#xD;
+      alone in patients with RAS wild type metastatic CRC.&#xD;
+&#xD;
+      The tertiary and exploratory objectives are:&#xD;
+&#xD;
+        -  To evaluate Health-Related Quality of Life (EORTC QLQ-C30 and EQ-5D-5L) in patients with&#xD;
+           RAS wild type metastatic CRC treated in the first-line with VPA plus panitumumab or&#xD;
+           cetuximab maintenance, and panitumumab or cetuximab maintenance alone.&#xD;
+&#xD;
+        -  Exploratory analyses including, but not limited to:&#xD;
+&#xD;
+           (i) Determining whether changes in levels of histone acetylation in peripheral blood&#xD;
+           mononuclear cells (PBMCs) are associated with improved efficacy with VPA plus anti-EGFR&#xD;
+           monoclonal antibody maintenance treatment; and (ii) determining whether potential&#xD;
+           resistance-conferring mutations in circulating tumour DNA (ctDNA) are associated with&#xD;
+           efficacy outcomes in patients treated with anti-EGFR monoclonal antibody maintenance.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 23, 2023</start_date>
+  <completion_date type="Anticipated">September 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression free survival</measure>
+    <time_frame>12 Months from randomisation</time_frame>
+    <description>Progression free survival (PFS) will be defined as the interval from date of registration or randomisation to the date of first evidence of disease progression (measured by RECIST v1.1 criteria) or death whichever occurs first, in each treatment arm.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>12 Months from randomisation</time_frame>
+    <description>Overall survival (OS) will be defined as the interval from date of registration or randomisation to date of death from any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rates (ORRs)</measure>
+    <time_frame>12 Months from randomisation</time_frame>
+    <description>ORRs will be calculated as the proportion of participants in each arm who are assessed as having a complete or partial response measured by RECIST v1.1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quantification of the incidence of treatment-emergent adverse events according to CTCAE V5.0</measure>
+    <time_frame>12 Months from randomisation</time_frame>
+    <description>Safety of each treatment arm will be assessed by evaluating the number and severity (grade) of adverse events reported according to the National Cancer Institute Common Terminology Criteria for Adverse Events (version 5.0).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Health-related quality of life (EORTC QLQ-C30)</measure>
+    <time_frame>12 Months from randomisation</time_frame>
+    <description>Health-Related Quality of Life (HRQoL) will be determined by the global and subscale scores outlined in the EORTC user manual and scoring guidelines. Scores are from 0-100, with higher scores indicating better quality of life.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Health-related quality of life (EQ-5D-5L)</measure>
+    <time_frame>12 Months from radomisation</time_frame>
+    <description>The EQ-5D-5L will be used to derive utility scores suitable for quality adjusted survival analyses. The scale has five dimensions (mobility, self-care, usual activities, pain/discomfort and anxiety/depression), each of which are scored at one of five levels ranging from no problems to extreme problems.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Quantification of histone acetylation levels in peripheral blood mononuclear cells (PBMCs)</measure>
+    <time_frame>12 Months from radomisation</time_frame>
+    <description>Exploratory analysis detecting changes in levels of histone acetylation in PBMCs during treatment</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Quantification of total circulating tumour DNA (ctDNA)</measure>
+    <time_frame>12 Months from radomisation</time_frame>
+    <description>Exploratory analysis detecting the levels of ctDNA during treatment</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">90</enrollment>
+  <condition>Metastatic Colorectal Cancer</condition>
+  <arm_group>
+    <arm_group_label>Experimental arm (n=60)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Panitumumab 6 mg/kg IV every 2 weeks or cetuximab 500 mg/m2 IV every 2 weeks, with sodium valproate oral continuously in a twice daily dose (target daily dose of 20 mg/kg/d at Cycle 1 Day 13, then dose adjusted to maintain serum VPA levels within the target range of 50-100 μg/mL)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control arm (n=30)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Panitumumab 6 mg/kg IV every 2 weeks or cetuximab 500 mg/m2 IV every 2 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sodium Valproate</intervention_name>
+    <description>Sodium valproate oral continuously in a twice daily dose (Initial dose of 600mg/d up-titrated to target daily dose of 20 mg/kg/d at Cycle 1 Day 13, then dose adjusted to maintain serum VPA levels within the target range of 50-100 μg/mL); Refer to arm description.</description>
+    <arm_group_label>Experimental arm (n=60)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Panitumumab</intervention_name>
+    <description>Panitumumab 6 mg/kg IV every 2 weeks or cetuximab 500 mg/m2 IV every 2 weeks; Refer to arm description.</description>
+    <arm_group_label>Control arm (n=30)</arm_group_label>
+    <arm_group_label>Experimental arm (n=60)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cetuximab</intervention_name>
+    <description>Panitumumab 6 mg/kg IV every 2 weeks or cetuximab 500 mg/m2 IV every 2 weeks; Refer to arm description.</description>
+    <arm_group_label>Control arm (n=30)</arm_group_label>
+    <arm_group_label>Experimental arm (n=60)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age ≥ 18 years.&#xD;
+&#xD;
+          2. Histological diagnosis of colorectal cancer.&#xD;
+&#xD;
+          3. Metastatic colorectal cancer that is being treated with non-curative intent. This may&#xD;
+             be because the disease is anatomically not resectable, resection is contra-indicated&#xD;
+             for any reason, or the patient refuses resection.&#xD;
+&#xD;
+          4. Measurable disease as assessed by CT scan (by RECIST 1.1).&#xD;
+&#xD;
+          5. Evidence of RAS wild type status (KRAS exons 2, 3 and 4 and NRAS exons 2, 3, and 4) as&#xD;
+             assessed by the investigators' choice of testing laboratory.&#xD;
+&#xD;
+          6. ECOG performance status 0, 1.&#xD;
+&#xD;
+          7. Suitable, as deemed by the investigator, for maintenance treatment with panitumumab or&#xD;
+             cetuximab alone or in combination with oral sodium valproate.&#xD;
+&#xD;
+          8. Completed four months of first-line induction treatment with fluoropyrimidine-based&#xD;
+             chemotherapy (which may be intravenous or oral, in which case 15 weeks of treatment is&#xD;
+             required; and either alone or in combination with oxaliplatin or irinotecan) and&#xD;
+             anti-EGFR monoclonal antibody (panitumumab or cetuximab) without progressive disease.&#xD;
+&#xD;
+          9. Prior palliative radiotherapy is allowed, provided that (i) no concurrent chemotherapy&#xD;
+             was administered, (ii) at least 2 weeks after completion of therapy has elapsed before&#xD;
+             enrolment, and (iii) any toxicities have resolved or are Grade 1. Prior&#xD;
+             fluoropyrimidine chemotherapy given concurrent with radiation as neoadjuvant treatment&#xD;
+             for rectal cancer is allowed.&#xD;
+&#xD;
+         10. Adequate hepatic function with serum total bilirubin &lt; x1.5 upper limit of normal&#xD;
+             range and ALT or AST &lt; x3 upper limit of normal range.&#xD;
+&#xD;
+         11. Adequate bone marrow function with platelets ≥ 80 X 109/L; neutrophils ≥ 1.5 X 109/L;&#xD;
+             haemoglobin ≥ 8g/dL.&#xD;
+&#xD;
+         12. Adequate renal function, with calculated creatinine clearance ≥ 50 mL/min.&#xD;
+&#xD;
+         13. Any abnormalities in magnesium are not &gt; Grade 2. Any abnormalities in total calcium&#xD;
+             are not &gt; Grade 1. Total calcium should be corrected for albumin level as per the&#xD;
+             institution's usual calculation method. Serum potassium levels should be above 4.0&#xD;
+             mmol/L.&#xD;
+&#xD;
+         14. Archival formalin-fixed paraffin embedded (FFPE) tumour tissue is available for&#xD;
+             storage and use by the central laboratory.&#xD;
+&#xD;
+         15. Life expectancy of at least 12 weeks.&#xD;
+&#xD;
+         16. Women and partners of women of childbearing potential must agree to use adequate&#xD;
+             contraception uninterrupted for the duration of receiving VPA, cetuximab and&#xD;
+             panitumumab, and for an additional 2 months after the last dose of cetuximab and 6&#xD;
+             months after the last dose of panitumumab. Adequate contraceptive measures are barrier&#xD;
+             methods (condoms, diaphragm); oral, injectable, or implant birth control; or&#xD;
+             abstinence.&#xD;
+&#xD;
+         17. Willing and able to comply with all study requirements, including treatment, timing&#xD;
+             and/or nature of required assessments.&#xD;
+&#xD;
+         18. Written informed consent including consent for donation of tumour tissue for biomarker&#xD;
+             studies and collection of peripheral blood for research.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. BRAFV600E mutant CRC.&#xD;
+&#xD;
+          2. CRC with HER2 IHC score of 3+. Note that IHC evaluation for HER2 amplification is&#xD;
+             required for determining eligibility. HER2 testing using ISH is not required.&#xD;
+&#xD;
+          3. Prior chemotherapy before first-line induction chemotherapy. Exceptions are adjuvant&#xD;
+             chemotherapy which was given in association with (i) complete resection of primary&#xD;
+             colon or rectal cancer provided there is no clinical, radiological or biochemical&#xD;
+             evidence of relapse for at least 6 months after completion of adjuvant treatment,&#xD;
+             and/or (ii) complete resection of limited colorectal metastases to liver and/or lung&#xD;
+             provided there is no clinical, radiological or biochemical evidence of relapse for at&#xD;
+             least 6 months after completion of adjuvant treatment.&#xD;
+&#xD;
+          4. History of life-threatening hypersensitivity reactions to panitumumab or cetuximab, or&#xD;
+             any product excipients of panitumumab or cetuximab.&#xD;
+&#xD;
+          5. Known hypersensitivity to sodium valproate.&#xD;
+&#xD;
+          6. Any other contraindication/s to sodium valproate including mitochondrial disorders and&#xD;
+             urea cycle disorders.&#xD;
+&#xD;
+          7. Pre-existing acute or chronic hepatic dysfunction or family history of severe&#xD;
+             hepatitis&#xD;
+&#xD;
+          8. Patients with systemic lupus erythematosus are eligible, however the investigator&#xD;
+             should discuss the potential risk of immune disorders with the participant, which have&#xD;
+             been noted only exceptionally during the use of VPA.&#xD;
+&#xD;
+          9. Patients with long QT syndrome, or QTc interval duration &gt; 480 msec, or use of&#xD;
+             concomitant medications that significantly prolong the QTc interval.&#xD;
+&#xD;
+         10. Prior or current treatment with HDAC inhibitor or compounds with HDAC inhibitor-like&#xD;
+             activity, including hydroxamic acid (e.g vorinostat/zolinza, panobinostat/farydak.&#xD;
+             Belinostat/beleodaq), benzamide (tucidinostat/epidaza/chidamide), cyclic tetrapeptide&#xD;
+             (Romidepsin/Istodax) or carboxylic acid (e.g sodium valproate, phenylbutyrate) based&#xD;
+             HDAC inhibitors.&#xD;
+&#xD;
+         11. Active treatment with sodium valproate for non-oncological conditions.&#xD;
+&#xD;
+         12. Active epilepsy or convulsive conditions that require continuous use of&#xD;
+             anticonvulsants.&#xD;
+&#xD;
+         13. History of interstitial lung disease or pulmonary fibrosis.&#xD;
+&#xD;
+         14. Leptomeningeal disease as the only manifestation of malignancy.&#xD;
+&#xD;
+         15. Untreated/active CNS metastases (i.e., progressing, requiring ongoing corticosteroids&#xD;
+             or anticonvulsants for symptom control).&#xD;
+&#xD;
+             Patients with CNS metastases are eligible if they have previously been successfully&#xD;
+             treated with surgery and/or radiotherapy at least 8 weeks prior to cycle 1 day 1, have&#xD;
+             ceased taking all corticosteroids and/or anticonvulsants for at least 4 weeks and if&#xD;
+             imaging within 4 weeks of cycle 1 day 1 excludes any progression.&#xD;
+&#xD;
+         16. Invasive malignant disease, other than CRC, diagnosed within 2 years of randomisation.&#xD;
+&#xD;
+             Patients with non-melanotic skin cancer, carcinoma in situ of the uterine cervix, or&#xD;
+             any other cancer which was treated with curative intent &gt; 2 years prior to&#xD;
+             randomisation and without evidence of relapse, are eligible.&#xD;
+&#xD;
+         17. Active infection requiring systemic therapy and/or other concurrent uncontrolled&#xD;
+             medical conditions.&#xD;
+&#xD;
+         18. Positive pregnancy test prior to the initiation of the study medications.&#xD;
+&#xD;
+         19. History or current evidence of any condition, therapy, or laboratory abnormality that&#xD;
+             might confound the results of the trial, interfere with the subject's participation&#xD;
+             for the full duration of the trial, or is not in the best interest of the subject to&#xD;
+             participate.&#xD;
+&#xD;
+         20. Medical, psychiatric conditions or any other reason that, as assessed by the&#xD;
+             investigator, may compromise the patient's ability to give informed consent or to&#xD;
+             comply with the protocol-specified treatments and assessments.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Sukanya Sathyamurthie</last_name>
+    <phone>+61 2 7208 2719</phone>
+    <email>sukanya@gicancer.org.au</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Louise Christophersen</last_name>
+    <phone>+61 2 7208 2718</phone>
+    <email>louise@gicancer.org.au</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Royal North Shore Hospital</name>
+      <address>
+        <city>Saint Leonards</city>
+        <state>New South Wales</state>
+        <zip>2065</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shirley Liang</last_name>
+      <email>shirley.liang@health.nsw.gov.au</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Queen Elizabeth Hospital</name>
+      <address>
+        <city>Adelaide</city>
+        <state>South Australia</state>
+        <zip>5000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Stella Papacharissiou</last_name>
+      <email>stella.papacharissiou@sa.gov.au</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Southern Adelaide Local Health Network Incorporated</name>
+      <address>
+        <city>Bedford Park</city>
+        <state>South Australia</state>
+        <zip>5042</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Hannah Adelson</last_name>
+      <email>hannah.adelson@sa.gov.au</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Grampians Health</name>
+      <address>
+        <city>Ballarat Central</city>
+        <state>Victoria</state>
+        <zip>3350</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Carmel Goss</last_name>
+      <email>carmel@bhs.org.au</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Eastern Health</name>
+      <address>
+        <city>Box Hill</city>
+        <state>Victoria</state>
+        <zip>3128</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Lauren Mitchell</last_name>
+      <email>lauren.mitchell@monash.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Peninsula Health</name>
+      <address>
+        <city>Frankston</city>
+        <state>Victoria</state>
+        <zip>3199</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sally Health</last_name>
+      <email>sallyhealth@phcn.vic.gov.au</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Peter MacCallum Cancer Institute</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <zip>3000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shandelle Norman</last_name>
+      <email>PCCTU.MoncB@petermac.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Austin Health</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <zip>3084</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kirsten Remen</last_name>
+      <email>kirsten.remen@austin.org.au</email>
+    </contact>
+    <contact_backup>
+      <last_name>Donna Haberl</last_name>
+      <email>donna.haberl@austin.org.au</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>South West Healthcare</name>
+      <address>
+        <city>Warrnambool</city>
+        <state>Victoria</state>
+        <zip>3280</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Shandelle Norman</last_name>
+      <email>swhct@swh.net.au</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 8, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>January 22, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 22, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>RAS Wild type Metastatic Colorectal Cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colorectal Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cetuximab</mesh_term>
+    <mesh_term>Panitumumab</mesh_term>
+    <mesh_term>Valproic Acid</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

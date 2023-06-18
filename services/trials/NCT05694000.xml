@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9631">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05694000</url>
+  </required_header>
+  <id_info>
+    <org_study_id>82171496</org_study_id>
+    <nct_id>NCT05694000</nct_id>
+  </id_info>
+  <brief_title>Hippocampus DBS in Treatment-resistant Schizophrenia</brief_title>
+  <official_title>Deep Brain Stimulation of the Ventral Hippocampus in Treatment-resistant Schizophrenia: Exploring the Glutamatergic/GABAergic Mechanisms</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shanghai Mental Health Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Huashan Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Shanghai Mental Health Center</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to assess the efficacy and safety of hippocampus-targeted&#xD;
+      deep brain stimulation (DBS) in treatment-resistant schizophrenia. The main question it aims&#xD;
+      to answer are:&#xD;
+&#xD;
+        -  whether patients with treatment-resistant schizophrenia can benefit from&#xD;
+           hippocampus-targeted DBS;&#xD;
+&#xD;
+        -  what is the neural and electrophysiological mechanism underlying the treatment effect of&#xD;
+           hippocampus-targeted DBS.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The first phase of the study will consist of DBS surgery. Participants will receive&#xD;
+      electrodes implantation in bilateral ventral hippocampus. Continuous stimulation will be&#xD;
+      applied to optimize and individualize the stimulus parameters. This period is anticipated&#xD;
+      between 3 and 6 months.&#xD;
+&#xD;
+      The next phase will consist of the crossover study. Patients who respond to DBS will be&#xD;
+      randomly assigned to two groups, for a period of 3 months: on stimulation group and off&#xD;
+      stimulation group. Patients will then be crossed over to the other group for a further 3&#xD;
+      months.&#xD;
+&#xD;
+      Participants will receive PET-CT, clinical assessment and cognitive tests at the main study&#xD;
+      points to evaluate treatment efficacy and patient tolerance, and to reveal the underlying&#xD;
+      mechanism of the treatment effect of DBS.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 1, 2022</start_date>
+  <completion_date type="Anticipated">December 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Positive and Negative Syndrome Scale for Schizophrenia (PANSS)</measure>
+    <time_frame>Baseline, 12 weeks, 24 weeks, 36 weeks, 48 weeks</time_frame>
+    <description>Scale to assess changes in clinical symptoms; response to DBS is defined as a 20% reduction from baseline in PANSS score</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Global Impression-Schizophrenia (CGI-SCH) Scale</measure>
+    <time_frame>Baseline, 12 weeks, 24 weeks, 36 weeks, 48 weeks</time_frame>
+    <description>Scale to assess changes in symptoms' severity, global improvement or change</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinician-Rated Dimensions of Psychosis Symptom severity (CRDPS) Scale</measure>
+    <time_frame>Baseline, 12 weeks, 24 weeks, 36 weeks, 48 weeks</time_frame>
+    <description>Scale to assess different dimensions and severity of symptoms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Chinese version of Measurement and Treatment Research to Improve Cognition in Schizophrenia (MATRICS) Consensus Cognitive Battery</measure>
+    <time_frame>Baseline, 12 weeks, 24 weeks, 36 weeks, 48 weeks</time_frame>
+    <description>Battery of neuropsychological tests to assess changes in cognition</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cerebral metabolism(PET-CT scans)</measure>
+    <time_frame>Baseline, 24 weeks, 48 weeks</time_frame>
+    <description>Assessment of changes in metabolic levels of glutamate, GABA and dopamine in the whole brain using PET-CT</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Adverse events (AEs)</measure>
+    <time_frame>Baseline, 12 weeks, 24 weeks, 36 weeks, 48 weeks</time_frame>
+    <description>Any unexpected medical problem that may happen during DBS treatment</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">6</enrollment>
+  <condition>Treatment-resistant Schizophrenia</condition>
+  <arm_group>
+    <arm_group_label>On-Stimulation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Disease condition is assessed with stimulation turned &quot;on&quot;.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Off-Stimulation</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Disease condition is assessed with stimulation turned &quot;off&quot;.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>On-Stimulation</intervention_name>
+    <description>The surgical electrode implanted in hippocampus by a pulse generating device is &quot;on&quot;.</description>
+    <arm_group_label>On-Stimulation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Off-Stimulation</intervention_name>
+    <description>The surgical electrode implanted in hippocampus by a pulse generating device is &quot;off&quot;.</description>
+    <arm_group_label>Off-Stimulation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female aged between 18 and 55 years.&#xD;
+&#xD;
+          -  Having a diagnosis of schizophrenia according to DSM-IV criteria&#xD;
+&#xD;
+          -  Having a chronic, recurrent course of disease with a five-year minimum duration&#xD;
+&#xD;
+          -  Determined to be treatment-resistant as demonstrated by:&#xD;
+&#xD;
+               1. Persistence of positive symptoms which have not responded to appropriate&#xD;
+                  treatments for at least 2 years.&#xD;
+&#xD;
+               2. Inadequate response from adequate trials of two different classes of&#xD;
+                  antipsychotic drugs (not including clozapine), at least 8 weeks.&#xD;
+&#xD;
+               3. Inadequate response from adequate trial of clozapine, at least 3 months, or&#xD;
+                  unable to tolerate clozapine because of intolerable side effects.&#xD;
+&#xD;
+               4. Presence of persistent positive symptom defined as i) requiring a score of 4&#xD;
+                  (moderate) or more on at least 2 of the next PANSS items: delusions, conceptual&#xD;
+                  disorganization, hallucinatory behavior, suspiciousness and unusual thought&#xD;
+                  content; or as ii) requiring a score of 6 (severe) or more on at least 1 of the&#xD;
+                  above PANSS items.&#xD;
+&#xD;
+          -  Maintaining stable pharmacological treatment for two months preceding screening visit.&#xD;
+&#xD;
+          -  Informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Neurological disease&#xD;
+&#xD;
+          -  Severe physical illness&#xD;
+&#xD;
+          -  Contraindications to neurosurgery, MRI or PET-CT;&#xD;
+&#xD;
+          -  Substance abuse or dependence&#xD;
+&#xD;
+          -  Mental retardation&#xD;
+&#xD;
+          -  Female patients who are pregnant or breastfeeding&#xD;
+&#xD;
+          -  Severe suicide risk and tendencies&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dengtang Liu</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>liudengtang@smhc.org.cn</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dengtang Liu</last_name>
+    <phone>021-64387986</phone>
+    <email>liudengtang@smhc.org.cn</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Shanghai Mental Health Center</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200030</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dengtang LIU</last_name>
+      <phone>18017311138</phone>
+      <email>erliu110@126.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 9, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>January 19, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 19, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Shanghai Mental Health Center</investigator_affiliation>
+    <investigator_full_name>Dengtang LIU</investigator_full_name>
+    <investigator_title>Chief Psychiatrist and Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Schizophrenia</mesh_term>
+    <mesh_term>Schizophrenia, Treatment-Resistant</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9721">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05691660</url>
+  </required_header>
+  <id_info>
+    <org_study_id>10074010</org_study_id>
+    <nct_id>NCT05691660</nct_id>
+  </id_info>
+  <brief_title>A Study of TAS3731 in Healthy Adults</brief_title>
+  <official_title>A Phase 1, Randomized, Double-Blind, Placebo-Controlled Single and Multiple Dose Escalating Study of TAS3731 in Healthy Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Taiho Pharmaceutical Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Taiho Pharmaceutical Co., Ltd.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the safety of single and repeated administration of TAS3731.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 17, 2023</start_date>
+  <completion_date type="Anticipated">June 2024</completion_date>
+  <primary_completion_date type="Anticipated">June 2024</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The number and incidence rate of adverse events</measure>
+    <time_frame>Single dose cohort：Day 1 to 7, Repeated dose cohort：Day 1 to 16</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The number and incidence rate of adverse drug reactions</measure>
+    <time_frame>Single dose cohort：Day 1 to 7, Repeated dose cohort：Day 1 to 16</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluation of Systolic and Diastolic blood pressure</measure>
+    <time_frame>Single dose cohort：Change from Baseline Systolic and Diastolic Blood Pressure at 7 days, Repeated dose cohort：Change from Baseline Systolic and Diastolic Blood Pressure at 16 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluation of pulse rate</measure>
+    <time_frame>Single dose cohort：Change from Baseline pulse rate at 7 days, Repeated dose cohort：Change from Baseline pulse rate at 16 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluation of body temperature</measure>
+    <time_frame>Single dose cohort：Change from Baseline body temperature at 7 days, Repeated dose cohort：Change from Baseline body temperature at 16 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with abnormal laboratory values</measure>
+    <time_frame>Single dose cohort：Change in number of participants with abnormal laboratory values between baseline and 7 days, Repeated dose cohort：Change in number of participants with abnormal laboratory values between baseline and 16 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluation of QT interval corrected for heart rate using Fridericia's formula(QTcF) interval</measure>
+    <time_frame>Single dose cohort：Change from Baseline QTcF interval at 7 days, Repeated dose cohort：Change from Baseline QTcF interval at 16 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluation of RR-interval</measure>
+    <time_frame>Single dose cohort：Change from Baseline Evaluation of RR-interval at 7 days, Repeated dose cohort：Change from Baseline Evaluation of RR-interval at 16 days</time_frame>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>Healthy Adult Males</condition>
+  <arm_group>
+    <arm_group_label>Single dose cohort</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Repeated dose cohort Once daily (QD)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Repeated dose cohort Twice daily (BID)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>TAS3731 Dose1</intervention_name>
+    <description>Oral administration,1 day,QD</description>
+    <arm_group_label>Single dose cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>TAS3731 Dose2</intervention_name>
+    <description>Oral administration,7 days,QD</description>
+    <arm_group_label>Repeated dose cohort Once daily (QD)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>TAS3731 Dose3</intervention_name>
+    <description>Oral administration,7 days,BID</description>
+    <arm_group_label>Repeated dose cohort Twice daily (BID)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Oral administration, 1 day,QD</description>
+    <arm_group_label>Single dose cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Oral administration, 7 days,QD</description>
+    <arm_group_label>Repeated dose cohort Once daily (QD)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Oral administration, 7 days,BID</description>
+    <arm_group_label>Repeated dose cohort Twice daily (BID)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:&#xD;
+&#xD;
+          1. Healthy adult male subjects who provided written informed consent to participate in&#xD;
+             the study&#xD;
+&#xD;
+          2. Aged 18 years or older and younger than 40 years at the time of informed consent&#xD;
+&#xD;
+          3. Body weight of 50 kg or more at screening:&#xD;
+&#xD;
+          4. Body mass index of 18.5 or more and less than 25.0&#xD;
+&#xD;
+          5. Capable of oral intake.&#xD;
+&#xD;
+        Key Exclusion Criteria&#xD;
+&#xD;
+          1. Complications or history of diseases that may affect absorption, distribution,&#xD;
+             metabolism, or excretion of the investigational drug, such as hepatic/biliary tract&#xD;
+             disease, renal/urologic disease, or gastrointestinal disease. The stomach or small&#xD;
+             intestine has been resected.&#xD;
+&#xD;
+          2. The 12-lead electrocardiogram at the time of the screening test was judged by the&#xD;
+             investigator to be inadequate for this study.&#xD;
+&#xD;
+          3. Had any concurrent disease (including symptoms and signs; however, diseases that do&#xD;
+             not affect evaluations in the study such as asymptomatic pollinosis and wart are&#xD;
+             excluded)&#xD;
+&#xD;
+          4. The patient has the following complications or a history of the following.&#xD;
+&#xD;
+               1. Had current or previous drug abuse (including use of illicit drugs) or alcoholism&#xD;
+&#xD;
+               2. Had current or previous hypersensitivity or allergy to drugs&#xD;
+&#xD;
+          5. Suspected COVID-19 disease.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>39 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Taiho Pharmaceutical Co., Ltd.</last_name>
+    <role>Study Director</role>
+    <affiliation>Taiho Pharmaceutical Co., Ltd.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ken Tsukamoto</last_name>
+    <phone>+81-3-3293-2455</phone>
+    <email>k-tsukamoto@taiho.co.jp</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>A site selected by Taiho Pharmaceutical Co., Ltd.</name>
+      <address>
+        <city>Tokyo</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Japan</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>November 24, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>January 18, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 18, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Data will not be shared according to the Sponsor policy on data sharing. Taiho policy on data sharing may be found at https://www.taiho.co.jp/en/science/policy/clinical_trial_information_disclosure_policy/index.html.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

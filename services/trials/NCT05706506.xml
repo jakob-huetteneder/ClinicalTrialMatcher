@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9040">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05706506</url>
+  </required_header>
+  <id_info>
+    <org_study_id>18520</org_study_id>
+    <secondary_id>I8F-MC-GPIL</secondary_id>
+    <secondary_id>2022-002708-18</secondary_id>
+    <nct_id>NCT05706506</nct_id>
+  </id_info>
+  <brief_title>A Study of Tirzepatide (LY3298176) in Adults With Type 2 Diabetes Switching From a GLP-1 RA (SURPASS-SWITCH-2)</brief_title>
+  <official_title>An Open-Label, Single-Arm, Phase 4 Study to Assess Glycemic Control When Adults With Type 2 Diabetes Switch From a GLP-1 RA to Tirzepatide (SURPASS-SWITCH-2)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Eli Lilly and Company</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main purpose of this study is to investigate the effects of switching from glucagon-like&#xD;
+      peptide-1 receptor agonist (GLP-1 RA) therapy to tirzepatide glucose-dependent insulinotropic&#xD;
+      polypeptide (GIP) GLP-1 RA agonist in participants with type 2 diabetes (T2D).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 8, 2023</start_date>
+  <completion_date type="Anticipated">November 23, 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 9, 2023</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from Baseline in Hemoglobin A1c (HbA1c)</measure>
+    <time_frame>Baseline, Week 12</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Percentage of Time per Day that Continuous Glucose Monitoring (CGM)-derived Values are &gt;180 milligram/deciliter (mg/dl) 10 millimole/liter (mmol/L)</measure>
+    <time_frame>Baseline, Week 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Percentage of Time per Day that Continuous Glucose Monitoring (CGM)-derived Values are &gt;180 mg/dl (10 mmol/L)</measure>
+    <time_frame>Baseline, Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Duration of Time in Minutes per Day that CGM derived Values are &gt;180 mg/dl (10 mmol/L)</measure>
+    <time_frame>Baseline, Week 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Duration of Time in Minutes per Day that CGM derived Values are &gt;180 mg/dl (10 mmol/L)</measure>
+    <time_frame>Baseline, Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Fasting Serum Glucose (FSG)</measure>
+    <time_frame>Baseline, Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Weight</measure>
+    <time_frame>Baseline, Week 12</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Type 2 Diabetes</condition>
+  <condition>Diabetes Mellitus, Type 2</condition>
+  <arm_group>
+    <arm_group_label>Tirzepatide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive tirzepatide subcutaneously (SC).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tirzepatide</intervention_name>
+    <description>Administered SC</description>
+    <arm_group_label>Tirzepatide</arm_group_label>
+    <other_name>LY3298176</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Have Type 2 diabetes (T2D)&#xD;
+&#xD;
+          -  Have an HbA1c c ≥6.5% (≥48 mmol/mol) to ≤9.0% (≤75 mmol/mol)&#xD;
+&#xD;
+          -  Have a body mass index (BMI) ≥25 kilogram per square meter (kg/m²) at screening&#xD;
+&#xD;
+          -  Have been on a stable treatment dose of 1 of the listed GLP-1 RAs for ≥3 months&#xD;
+&#xD;
+          -  No treatment with oral antidiabetic medicine (OAM) or on stable doses (for at least 3&#xD;
+             months before screening) of up to 3 OAM. The OAM may include metformin, sodium-glucose&#xD;
+             linked transporter-2 inhibitor (SGLT-2i), thiazolidinediones, or α-glucosidase&#xD;
+             inhibitors.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Have Type 1 Diabetes (T1D)&#xD;
+&#xD;
+          -  Have a clinical history of&#xD;
+&#xD;
+               -  proliferative diabetic retinopathy&#xD;
+&#xD;
+               -  diabetic maculopathy, or&#xD;
+&#xD;
+               -  nonproliferative diabetic retinopathy that requires acute treatment&#xD;
+&#xD;
+          -  Are at high risk for cardiovascular disease or have a history of&#xD;
+&#xD;
+               -  myocardial infarction&#xD;
+&#xD;
+               -  percutaneous coronary revascularization procedure&#xD;
+&#xD;
+               -  carotid stenting or surgical revascularization&#xD;
+&#xD;
+               -  nontraumatic amputation&#xD;
+&#xD;
+               -  peripheral vascular procedure&#xD;
+&#xD;
+               -  cerebrovascular accident&#xD;
+&#xD;
+               -  or hospitalization for congestive heart failure&#xD;
+&#xD;
+          -  Have New York Heart Association (NYHA) Functional Classification Class IV congestive&#xD;
+             heart failure&#xD;
+&#xD;
+          -  Have a history of ketoacidosis or hyperosmolar state or coma&#xD;
+&#xD;
+          -  Have a history of severe hypoglycemia or hypoglycemia unawareness within the 6 months.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)</last_name>
+    <role>Study Director</role>
+    <affiliation>Eli Lilly and Company</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>here may be multiple sites in this clinical trial. 1-877-CTLILLY (1-877-285-4559) or</last_name>
+    <phone>1-317-615-4559</phone>
+    <email>ClinicalTrials.gov@lilly.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Fiel Family and Sports Medicine PC</name>
+      <address>
+        <city>Tempe</city>
+        <state>Arizona</state>
+        <zip>85283</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>480-630-7120</phone>
+    </contact>
+    <investigator>
+      <last_name>Thomas Fiel</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Family Care Associates</name>
+      <address>
+        <city>Burlingame</city>
+        <state>California</state>
+        <zip>94010-3200</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>650-696-4261</phone>
+    </contact>
+    <investigator>
+      <last_name>David C. Klonoff</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>New Hope Research Development</name>
+      <address>
+        <city>Corona</city>
+        <state>California</state>
+        <zip>92882</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>(562) 329-4017 x5629056262</phone>
+    </contact>
+    <investigator>
+      <last_name>Tarcisio Diaz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research, Gardena</name>
+      <address>
+        <city>Gardena</city>
+        <state>California</state>
+        <zip>90247</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>424-551-7316</phone>
+    </contact>
+    <investigator>
+      <last_name>Mark T. Leibowitz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research, Huntington Park</name>
+      <address>
+        <city>Huntington Park</city>
+        <state>California</state>
+        <zip>90255</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>323-588-1968</phone>
+    </contact>
+    <investigator>
+      <last_name>Stanley H. Hsia</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research, Huntington Park</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>(213) 483-1800</phone>
+    </contact>
+    <investigator>
+      <last_name>Juan Pablo Frias</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Valley Clinical Trials, Inc.</name>
+      <address>
+        <city>Northridge</city>
+        <state>California</state>
+        <zip>91325</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>818-280-4220</phone>
+    </contact>
+    <investigator>
+      <last_name>Fahed G Bitar</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dream Team Clinical Research</name>
+      <address>
+        <city>Pomona</city>
+        <state>California</state>
+        <zip>91767</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>(714) 780-0076</phone>
+    </contact>
+    <investigator>
+      <last_name>Quang Dinh Vo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Scripps Whittier Diabetes Institute</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92121-1520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>858-824-5352</phone>
+    </contact>
+    <investigator>
+      <last_name>Athena Philis-Tsimikas</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Metabolic Institute of America</name>
+      <address>
+        <city>Tarzana</city>
+        <state>California</state>
+        <zip>91356-3551</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>818-708-0339</phone>
+    </contact>
+    <investigator>
+      <last_name>Yehuda Handelsman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CMR of Greater New Haven, LLC</name>
+      <address>
+        <city>Waterbury</city>
+        <state>Connecticut</state>
+        <zip>06708</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>203-419-4420</phone>
+    </contact>
+    <investigator>
+      <last_name>Joseph Soufer</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research, Hallandale Beach</name>
+      <address>
+        <city>Hallandale Beach</city>
+        <state>Florida</state>
+        <zip>33009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>(954) 455-5757</phone>
+    </contact>
+    <investigator>
+      <last_name>Julio Cesar Vijil</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>East Coast Institute for Research, LLC</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>(904) 354-3934</phone>
+    </contact>
+    <investigator>
+      <last_name>James Sample Magee</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Institute For Clinical Research, LLC</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32825</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>407-658-0966</phone>
+    </contact>
+    <investigator>
+      <last_name>Humberto Cruz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>New Tampa Health</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33603-3402</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>813-440-6355</phone>
+    </contact>
+    <investigator>
+      <last_name>Carlos Romero</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Georgia Clinical Research</name>
+      <address>
+        <city>Lawrenceville</city>
+        <state>Georgia</state>
+        <zip>30044</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>678-822-5581</phone>
+    </contact>
+    <investigator>
+      <last_name>John D Lentz, III</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>East Coast Institute for Research, LLC</name>
+      <address>
+        <city>Macon</city>
+        <state>Georgia</state>
+        <zip>31210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>(478) 219-2017</phone>
+    </contact>
+    <investigator>
+      <last_name>Thomas Cunningham Jones</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Endocrine Research Solutions, Inc.</name>
+      <address>
+        <city>Roswell</city>
+        <state>Georgia</state>
+        <zip>30076</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>(678) 878-4750</phone>
+    </contact>
+    <investigator>
+      <last_name>John Chip H. Reed, III</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Iowa Diabetes and Endocrinology Research Center</name>
+      <address>
+        <city>West Des Moines</city>
+        <state>Iowa</state>
+        <zip>50265</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>515-329-6805</phone>
+    </contact>
+    <investigator>
+      <last_name>Anuj Bhargava</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cotton O'Neil Clinic</name>
+      <address>
+        <city>Topeka</city>
+        <state>Kansas</state>
+        <zip>66606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>(785) 368-0742</phone>
+    </contact>
+    <investigator>
+      <last_name>Alan Glenn Wynne</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Versailles Family Medicine</name>
+      <address>
+        <city>Versailles</city>
+        <state>Kentucky</state>
+        <zip>40383-1947</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>859-453-0533</phone>
+    </contact>
+    <investigator>
+      <last_name>Brian Smith</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Endocrine and Metabolic Consultants</name>
+      <address>
+        <city>Rockville</city>
+        <state>Maryland</state>
+        <zip>20852</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>301-770-7373</phone>
+    </contact>
+    <investigator>
+      <last_name>Helena W. Rodbard</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Professionals</name>
+      <address>
+        <city>Chesterfield</city>
+        <state>Missouri</state>
+        <zip>63005</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>636-220-1200</phone>
+    </contact>
+    <investigator>
+      <last_name>Fredric Prater</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research of South Nevada</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>702-570-6107</phone>
+    </contact>
+    <investigator>
+      <last_name>Roger Estevez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Palm Research Center Tenaya</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89128</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>702-826-2795</phone>
+    </contact>
+    <investigator>
+      <last_name>Samer Nakhle</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Medical Research</name>
+      <address>
+        <city>Maumee</city>
+        <state>Ohio</state>
+        <zip>43537-9402</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>419-866-6300</phone>
+    </contact>
+    <investigator>
+      <last_name>Nizar Daboul</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Conrad Clinical Research</name>
+      <address>
+        <city>Edmond</city>
+        <state>Oklahoma</state>
+        <zip>73013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>405-348-7543</phone>
+    </contact>
+    <investigator>
+      <last_name>Vicki Conrad</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Health and Science University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>503-494-4650</phone>
+    </contact>
+    <investigator>
+      <last_name>Andrew Ahmann</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Thomas Jefferson University</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>215-955-8405</phone>
+    </contact>
+    <investigator>
+      <last_name>Serge Jabbour</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mountain View Clinical Research, Inc.</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>8643340141</phone>
+    </contact>
+    <investigator>
+      <last_name>Ronald Keith Mayfield</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Diabetes &amp; Endocrinology, P.A.</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78731-4309</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>512-334-3505</phone>
+    </contact>
+    <investigator>
+      <last_name>Thomas Blevins</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>North Texas Endocrine Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>(469) 364-6918</phone>
+    </contact>
+    <investigator>
+      <last_name>Peter Edward Bressler</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial City Endocrine Consultants</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77043-2742</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>(281) 944-3610</phone>
+    </contact>
+    <investigator>
+      <last_name>Donald Franklin Gardner, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Consano Clinical Research, LLC</name>
+      <address>
+        <city>Shavano Park</city>
+        <state>Texas</state>
+        <zip>78231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>210-545-4900</phone>
+    </contact>
+    <investigator>
+      <last_name>Michelle Welch</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>ClinPoint Trials</name>
+      <address>
+        <city>Waxahachie</city>
+        <state>Texas</state>
+        <zip>75165</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>(469) 800-9500</phone>
+    </contact>
+    <investigator>
+      <last_name>Thomas Glenn Ledbetter</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://trials.lilly.com/en-US/trial/385077</url>
+    <description>A Study of Tirzepatide (LY3298176) in Adults With Type 2 Diabetes Switching From a GLP-1 RA (SURPASS-SWITCH-2)</description>
+  </link>
+  <verification_date>May 1, 2023</verification_date>
+  <study_first_submitted>January 23, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 23, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 31, 2023</study_first_posted>
+  <last_update_submitted>May 23, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 23, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 24, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tirzepatide</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Anonymized individual patient level data will be provided in a secure access environment upon approval of a research proposal and a signed data sharing agreement.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Data are available 6 months after the primary publication and approval of the indication studied in the US and European Union (EU), whichever is later. Data will be indefinitely available for requesting.</ipd_time_frame>
+    <ipd_access_criteria>A research proposal must be approved by an independent review panel and researchers must sign a data sharing agreement.</ipd_access_criteria>
+    <ipd_url>http://vivli.org</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9932">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05687253</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BDX-22-006</org_study_id>
+    <nct_id>NCT05687253</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Intubation Conditions Following BX1000 or Rocuronium in Subjects Undergoing Surgery</brief_title>
+  <official_title>A Phase 2, Randomized, Double-Blind, Active-Controlled, Evaluation of Intubation Conditions Following BX1000 or Rocuronium in Subjects Undergoing Surgery</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Baudax Bio</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Baudax Bio</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Assessment of Intubation conditions following administration of neuromuscular blocking&#xD;
+      agents; BX1000 (investigational) or rocuronium (active control).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Intubation conditions will be assessed in anesthetized subjects undergoing an elective&#xD;
+      surgical procedure utilizing general anesthesia. Following administration of IV anesthesia,&#xD;
+      subjects will have electromyography (EMG) neuromuscular monitoring device applied prior to&#xD;
+      administration of neuromuscular blocking agent (NMBA). NMBA will be administered and&#xD;
+      assessment of intubation conditions will begin 60 seconds after administration according to&#xD;
+      the methods defined in Viby-Mogensen 1996; assessment will be repeated at 90 and 120 seconds&#xD;
+      after administration when intubation has not already been completed.&#xD;
+&#xD;
+      After intubation is completed, subjects will progress to have their elective surgery&#xD;
+      completed and will be maintained under general anesthesia until neuromuscular function is&#xD;
+      recovered. Once recovered from anesthesia and extubation, subjects will be monitored in a&#xD;
+      recovery area until they are suitable to be discharged to the inpatient floor, after which&#xD;
+      time they may be discharged at the clinical discretion of the investigator.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 25, 2022</start_date>
+  <completion_date type="Anticipated">March 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double-blind, active controlled</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Assessment of Intubation Conditions</measure>
+    <time_frame>Within 2 minutes after administration</time_frame>
+    <description>Assessment of Intubation Conditions (Poor, Good, Excellent) Following Administration of Neuromuscular Blocking agent</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Safety And Tolerability - Adverse Events</measure>
+    <time_frame>Within 30 days after administration</time_frame>
+    <description>Assessment of Incidence of Adverse Events Following Administration of Neuromuscular Blocking agent</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Safety And Tolerability - Blood Pressure</measure>
+    <time_frame>Within 30 days after administration</time_frame>
+    <description>Assessment of Changes in Blood Pressure Following Administration of Neuromuscular Blocking agent</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Safety And Tolerability - Heart Rate</measure>
+    <time_frame>Within 30 days after administration</time_frame>
+    <description>Assessment of Changes in Heart Rate Following Administration of Neuromuscular Blocking agent</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Safety And Tolerability - Blood Oxygen Saturation</measure>
+    <time_frame>Within 30 days after administration</time_frame>
+    <description>Assessment of Changes in Vital signs Following Administration of Neuromuscular Blocking agent</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Onset of Neuromuscular Blockade</measure>
+    <time_frame>Within 1 day after administration</time_frame>
+    <description>Measurement of Twitch Suppression via Electromyography Following Administration of Neuromuscular Blocking agent</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Neuromuscular Recovery</measure>
+    <time_frame>Within 1 day after administration</time_frame>
+    <description>Measurement of Twitch Recovery via Electromyography Following Administration of Neuromuscular Blocking agent</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Neuromuscular Blockade</condition>
+  <condition>Anesthesia</condition>
+  <condition>Surgery</condition>
+  <arm_group>
+    <arm_group_label>BX1000 0.15 mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>BX1000 0.15 mg/kg IV Bolus</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BX1000 0.25 mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>BX1000 0.25 mg/kg IV Bolus</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BX1000 0.35 mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>BX1000 0.35 mg/kg IV Bolus</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Rocuronium 0.6 mg/kg</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Rocuronium bromide 0.6 mg/kg IV Bolus</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BX1000</intervention_name>
+    <description>IV BX1000</description>
+    <arm_group_label>BX1000 0.15 mg/kg</arm_group_label>
+    <arm_group_label>BX1000 0.25 mg/kg</arm_group_label>
+    <arm_group_label>BX1000 0.35 mg/kg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rocuronium Bromide</intervention_name>
+    <description>IV Rocuronium</description>
+    <arm_group_label>Rocuronium 0.6 mg/kg</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Providing informed consent&#xD;
+&#xD;
+          -  Undergoing elective surgery utilizing IV general anesthesia&#xD;
+&#xD;
+          -  Normal airway assessment&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Unstable disease or emergency surgical conditions&#xD;
+&#xD;
+          -  Known hypersensitivity to rocuronium, other NMB or study medications&#xD;
+&#xD;
+          -  History of anaphylaxis&#xD;
+&#xD;
+          -  History of neuromuscular junction disease&#xD;
+&#xD;
+          -  Personal or family history of malignant hyperthermia or pseudocholinesterase&#xD;
+             deficiency&#xD;
+&#xD;
+          -  Diagnosed or suspected sleep apnea&#xD;
+&#xD;
+          -  History of prior anesthetic complications&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Baudax Medical Monitor</last_name>
+    <phone>484-395-2440</phone>
+    <email>info@baudaxbio.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Research Center</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Researcher MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 9, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 6, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>January 6, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 6, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 18, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Intubation</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bromides</mesh_term>
+    <mesh_term>Rocuronium</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

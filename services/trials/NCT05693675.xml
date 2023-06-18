@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9644">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05693675</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HSC-MS-22-0912</org_study_id>
+    <nct_id>NCT05693675</nct_id>
+  </id_info>
+  <brief_title>Postoperative Oral Methadone After Major Spine Surgery; Safety, Feasibility and Efficacy in Prevention of Progression to Chronic Opioid Usage at 3 Months</brief_title>
+  <official_title>Postoperative Oral Methadone After Major Spine Surgery; Safety, Feasibility and Efficacy in Prevention of Progression to Chronic Opioid Usage at 3 Months - A Pilot Trial.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The University of Texas Health Science Center, Houston</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The University of Texas Health Science Center, Houston</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the feasibility and safety of a clinical protocol&#xD;
+      based on the administration of intraoperative intravenous methadone followed by a short&#xD;
+      regimen of oral/IV (if the patient is not able to take oral) methadone following spine&#xD;
+      surgery and to evaluate if methadone decreases persistent opioid usage at 3 months in&#xD;
+      comparison to placebo.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 1, 2023</start_date>
+  <completion_date type="Anticipated">July 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">July 1, 2024</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility of study design as assessed by the number of participants for which scheduled postoperative methadone versus placebo were able to be administered according to the scheme described</measure>
+    <time_frame>Day of discharge (about 6 days after surgery)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility of study design as assessed by number of participants for which safety was able to be assessed (EKGs)</measure>
+    <time_frame>postop days 1 and 5</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility of study design as assessed by the number of participants for which safety was able to be assessed (respiratory events)</measure>
+    <time_frame>Day of discharge (about 6 days after surgery)</time_frame>
+    <description>ability to evaluate adverse respiratory events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility of study design as assessed by the number of participants for which postop opioid usage could be surveyed at 3 months</measure>
+    <time_frame>3 months after surgery</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants for which opioid usage was able to be collected</measure>
+    <time_frame>Day of discharge (about 6 days after surgery)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety as assessed by the number of patients developing respiratory depression</measure>
+    <time_frame>by fifth day of hospital stay</time_frame>
+    <description>Saturation of Oxygen(SPO2) less than 85%, Respiratory rate &lt;5 for longer than 3 minutes, ( Khanna et) increased oxygen requirement related to opioid-induced respiratory depression, naloxone use. The SPO2 will be monitored continuously per usual care in post anesthesia care unit (PACU) and every 4 hours in the ward.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety as assessed by the number of patients developing clinically significant corrected QT interval(QTc )prolongation</measure>
+    <time_frame>by fifth day of hospital stay</time_frame>
+    <description>QTc interval &gt;500ms or &gt;25% increase from baseline; number of patients developing arrhythmias needed treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety as assessed by the number of participants with hallucinations</measure>
+    <time_frame>by fifth day of hospital stay</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety as assessed by the number of participants with dizziness</measure>
+    <time_frame>by fifth day of hospital stay</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety as assessed by the number of participants with Antiemetic use</measure>
+    <time_frame>by fifth day of hospital stay</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety as assessed by the number of participants with occurrence of nausea</measure>
+    <time_frame>by fifth day of hospital stay</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety as assessed by the number of participants with occurrence of vomiting</measure>
+    <time_frame>by fifth day of hospital stay</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety as assessed by the number of participants with occurrence of Ileus or constipation</measure>
+    <time_frame>by fifth day of hospital stay</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety as assessed by the number of subjects with persistent opioid use</measure>
+    <time_frame>3 months after surgery</time_frame>
+    <description>This is scored from 0(less than once a week) to 4(constantly, a higher number indicating more opioid use)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Spine Surgery</condition>
+  <arm_group>
+    <arm_group_label>Postoperative methadone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Postoperative placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Postoperative methadone</intervention_name>
+    <description>Participants will receive intraoperative methadone (0.2 mg/kg ideal body weight intravenously but not exceeding 20mg) followed by oral/IV methadone postoperatively according to the following scheme: A) Opioid naïve patients will receive 5mg twice daily dosage of methadone on postoperative days 1 and 2 followed by 5 mg daily on postoperative days 3, 4, and 5. B) Patients taking opioids preoperatively will continue to receive their regular opioids and additionally receive 5 mg twice a day of methadone on postoperative days 1 and 2, followed by 5 mg per day on days 3, 4 and 5.</description>
+    <arm_group_label>Postoperative methadone</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Postoperative placebo</intervention_name>
+    <description>Participants will receive intraoperative methadone intravenously 0.2mg/kg followed by oral placebo postoperatively according to the following scheme: Opioid naïve patients and patients taking opioids preoperatively will receive placebo tablets twice daily on day 1 and day 2 and once daily day 3, 4 and 5. Patients taking preoperative opioids will be able to return to their baseline opioids immediately after surgery.</description>
+    <arm_group_label>Postoperative placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rescue Analgesia</intervention_name>
+    <description>PACU analgesia for both groups will be the usual care regime of fentanyl or hydromorphone bolus as prescribed by the physician anesthesiologist doing the case. All patients receive IV intravenous patient-controlled analgesia and rescue opioids which is usual care for postoperative pain.</description>
+    <arm_group_label>Postoperative methadone</arm_group_label>
+    <arm_group_label>Postoperative placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults undergoing multilevel complex lumbar and/or thoracic spine fusion surgery,&#xD;
+             including revision surgeries&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  BMI greater than 40&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Shobana Rajan, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The University of Texas Health Science Center, Houston</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Shobana Rajan, MD</last_name>
+    <phone>713-500-6200</phone>
+    <email>Shobana.Rajan@uth.tmc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kelli Wallen</last_name>
+    <phone>713-500-6271</phone>
+    <email>Kelli.Wallen@uth.tmc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>The University of Texas Health Science Center at Houston</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Shobana Rajan, MD</last_name>
+      <phone>713-500-6200</phone>
+      <email>Shobana.Rajan@uth.tmc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kelli Wallen</last_name>
+      <phone>713-500-6271</phone>
+      <email>Kelli.Wallen@uth.tmc.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 11, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>May 11, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 11, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 15, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The University of Texas Health Science Center, Houston</investigator_affiliation>
+    <investigator_full_name>Shobana Rajan</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>opioids</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Methadone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

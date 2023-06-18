@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9871">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05688410</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY20201427 - R33 Phase</org_study_id>
+    <secondary_id>R33AT010806</secondary_id>
+    <nct_id>NCT05688410</nct_id>
+  </id_info>
+  <brief_title>Enhancing Exercise and Psychotherapy to Treat Pain and Addiction in Adults With an Opioid Use Disorder (EXPO; R33 Phase)</brief_title>
+  <acronym>EXPO-R33</acronym>
+  <official_title>Enhancing Exercise and Psychotherapy to Treat Pain and Addiction in Adults With an Opioid Use Disorder (EXPO): A Randomized Trial (R33 Phase)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Case Western Reserve University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Colorado, Denver</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Center for Complementary and Integrative Health (NCCIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Neurological Disorders and Stroke (NINDS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Case Western Reserve University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This work will involve conducting a randomized trial that will evaluate preliminary efficacy&#xD;
+      of &quot;assisted&quot; rate cycling, voluntary rate cycling and psychotherapy for pain individually&#xD;
+      and in combination as adjunctive treatments on cravings (primary outcome) in adults with an&#xD;
+      opioid use disorder. The investigators will also evaluate the effects of &quot;assisted&quot; rate&#xD;
+      cycling, voluntary rate cycling and I-STOP on secondary outcomes including depression,&#xD;
+      anxiety and sleep.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 10, 2023</start_date>
+  <completion_date type="Anticipated">May 31, 2026</completion_date>
+  <primary_completion_date type="Anticipated">May 31, 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <intervention_model_description>2^1 x 3^1 factorial randomized clinical trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Care Provider, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Drug cravings</measure>
+    <time_frame>Change from baseline to intervention program completion, an average of 8 weeks</time_frame>
+    <description>Change in drug cravings: self-report, visual analog scale (VAS), higher scores indicate higher levels of cravings;</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Depression</measure>
+    <time_frame>Change from baseline to intervention program completion, an average of 8 weeks</time_frame>
+    <description>Change in depression: self-report, standardized questionnaire (Depression sub-scale in Hospital Anxiety and Depression Scale, HADS); Total Score range: 0-21; higher scores indicate higher levels of depression</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anxiety</measure>
+    <time_frame>Change from baseline to intervention program completion, an average of 8 weeks</time_frame>
+    <description>Change in anxiety: self-report, standardized questionnaire (Depression sub-scale in Hospital Anxiety and Depression Scale, HADS); Total Score range: 0-21; Higher scores indicate higher levels of anxiety</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sleep</measure>
+    <time_frame>Change from baseline to intervention program completion, an average of 8 weeks</time_frame>
+    <description>Change in sleep: self-report, standardized questionnaire (Pittsburgh Sleep Quality Index, PSQI); Total Score range: 0-21; Higher scores indicate poorer sleep quality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Drug Cravings using Questionnaire</measure>
+    <time_frame>Change from baseline to intervention program completion, an average of 8 weeks</time_frame>
+    <description>standardized questionnaire (Desires for Drug Questionnaire), higher scores indicate higher levels of cravings</description>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">198</enrollment>
+  <condition>Opioid Use Disorder</condition>
+  <condition>Pain</condition>
+  <arm_group>
+    <arm_group_label>Assisted Exercise and I-STOP</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to &quot;Assisted Exercise&quot; will exercise on a special bike that assists them to pedal faster than they do voluntarily on their own (&quot;assisted&quot; exercise bike). Participants who are randomized to receive I-STOP will receive the &quot;Self-regulation Treatment for Opioid addiction and Pain&quot; (STOP) program modified for inpatients/residential drug treatment (I-STOP).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Voluntary Exercise and I-STOP</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to &quot;Voluntary Exercise&quot; will exercise on a standard stationary bike where they will pedal at their voluntary rates. Participants who are randomized to receive I-STOP will receive the &quot;Self-regulation Treatment for Opioid addiction and Pain&quot; (STOP) program modified for inpatients/residential drug treatment (I-STOP).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Assisted Exercise and No I-STOP</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to &quot;Assisted Exercise&quot; will exercise on a special bike that assists them to pedal faster than they do voluntarily on their own (&quot;assisted&quot; exercise bike). Participants randomized to &quot;No I-STOP&quot; will not receive the psychotherapy for pain and addiction but will receive their standard behavioral treatment as usual (TAU).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Voluntary Exercise and No I-STOP</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to &quot;Voluntary Exercise&quot; will exercise on a standard stationary bike where they will pedal at their voluntary rates. Participants randomized to &quot;No I-STOP&quot; will not receive the psychotherapy for pain and addiction but will receive their standard behavioral treatment as usual (TAU).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No Exercise and I-STOP</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to receive &quot;No Exercise&quot; will not receive structured &quot;assisted&quot; or voluntary rate cycling exercise. Participants randomized to &quot;No I-STOP&quot; will not receive the psychotherapy for pain and addiction but will receive their standard behavioral treatment as usual (TAU).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No Exercise and No I-STOP</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants randomized to receive &quot;No Exercise&quot; will not receive structured &quot;assisted&quot; or voluntary rate cycling exercise. Participants randomized to &quot;No I-STOP&quot; will not receive the psychotherapy for pain and addiction but will receive their standard behavioral treatment as usual (TAU).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Exercise</intervention_name>
+    <description>Participants who are randomized to exercise will be perform exercise on stationary bikes. Participants randomized to &quot;Voluntary Exercise&quot; will exercise on a standard stationary bike where they will pedal at their voluntary rates. Participants randomized to &quot;Assisted Exercise&quot; will exercise on a special bike that assists them to pedal faster than they do voluntarily on their own (&quot;assisted (exercise) bike&quot;).</description>
+    <arm_group_label>Assisted Exercise and I-STOP</arm_group_label>
+    <arm_group_label>Assisted Exercise and No I-STOP</arm_group_label>
+    <arm_group_label>Voluntary Exercise and I-STOP</arm_group_label>
+    <arm_group_label>Voluntary Exercise and No I-STOP</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Psychotherapy Pain and Addiction (I-STOP)</intervention_name>
+    <description>Participants who are randomized to receive I-STOP will receive the &quot;Self-regulation Treatment for Opioid addiction and Pain&quot; (STOP) program modified for inpatients/residential drug treatment (I-STOP). I-STOP uses empirically validated pain psychotherapy approaches targeted to patients with an OUD using psycho-physiological self-regulation components and biofeedback with &quot;Bio-dots&quot;.</description>
+    <arm_group_label>Assisted Exercise and I-STOP</arm_group_label>
+    <arm_group_label>No Exercise and I-STOP</arm_group_label>
+    <arm_group_label>Voluntary Exercise and I-STOP</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18 to 65 years old&#xD;
+&#xD;
+          -  Must be enrolled in a residential/inpatient drug treatment program at a collaborating&#xD;
+             drug treatment center&#xD;
+&#xD;
+          -  Must be diagnosed with an Opioid Use Disorder (OUD; ICD-10 F11.20) or a Poly-substance&#xD;
+             Drug Use that includes an opioid component (ICD-10,F19.xx)&#xD;
+&#xD;
+          -  Must have self-reported pain or a pain condition describing a non-cancer related&#xD;
+             chronic pain disorder&#xD;
+&#xD;
+          -  Must be approved to exercise in the study by the drug treatment center (Medical&#xD;
+             Director, physician or other relevant clinical staff or primary care physician (PCP))&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any substantive contraindications to exercise&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nora L. Nock, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Case Western Reserve University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nora L. Nock, PhD</last_name>
+    <phone>216-368-5653</phone>
+    <email>nln@case.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Colorado at Denver</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80217</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Nora L Nock, PhD</last_name>
+      <phone>216-368-5653</phone>
+      <email>nln@case.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Amy Wachholtz, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Case Western Reserve University</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nora L Nock, PhD</last_name>
+      <phone>216-368-5653</phone>
+      <email>nln@case.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Nora L Nock, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>December 23, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>May 11, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 11, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 15, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Case Western Reserve University</investigator_affiliation>
+    <investigator_full_name>Nora Nock</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Opioid-Related Disorders</mesh_term>
+    <mesh_term>Substance-Related Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Data will be shared as required by NIH HEAL and as deemed acceptable by governing IRB, HIPPA and other regulations.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

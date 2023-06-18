@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9579">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05695066</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ENGUS</org_study_id>
+    <nct_id>NCT05695066</nct_id>
+  </id_info>
+  <brief_title>Gastric Content After 6 vs 4 Hours of Preoperative Fasting in Children</brief_title>
+  <acronym>ENGUS</acronym>
+  <official_title>Gastric Content After 6 vs 4 Hours of Preoperative Fasting in Children on Enteral Nutrition. A Randomized Controlled Trial Using Gastric Ultrasound</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Uppsala University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Uppsala University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of the study is to compare the risk of increased stomach contents after&#xD;
+      tube feeding (Enteral feeding) 6 and 4 hours before anesthesia using antrum measured by&#xD;
+      ultrasound.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Children must fast for a certain period of time before anesthesia and surgery to reduce the&#xD;
+      risk of food residues being vomited up and ending up in the trachea (so-called aspiration).&#xD;
+      But there are disadvantages to fasting for a long time before an operation, for example the&#xD;
+      blood sugar level can drop and the body can become dehydrated. Small children risk such side&#xD;
+      effects to a greater degree than adults, and therefore international work is underway to&#xD;
+      revise the rules for fasting before surgery.&#xD;
+&#xD;
+      Enteral feeding children are a special risk group because they are usually completely&#xD;
+      dependent on tube feeding for nutrition and fluid intake.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 23, 2023</start_date>
+  <completion_date type="Anticipated">October 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized controlled trial.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+    <masking_description>Computerized randomization. Randomization outcome distributed via sealed envelopes. Randomization key stored on secure server.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>CSA</measure>
+    <time_frame>Immediately before anesthesia induction</time_frame>
+    <description>Gastric antral surface area</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Suctioned GCV</measure>
+    <time_frame>Immediately after intubation</time_frame>
+    <description>Gastric content volume suctioned through nasogastric tube after induction</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">180</enrollment>
+  <condition>Pulmonary Aspiration of Gastric Contents</condition>
+  <arm_group>
+    <arm_group_label>4H group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients parents instructed to stop enteral feeding 4 hours before predicted anesthesia induction</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>6H group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients parents instructed to stop enteral feeding 6 hours before predicted anesthesia induction</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Preoperative fasting instruction</intervention_name>
+    <description>Patients parents instructed to stop enteral feeding at a specified time before predicted anesthesia induction</description>
+    <arm_group_label>4H group</arm_group_label>
+    <arm_group_label>6H group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Child on intermittent or continuous enteral nutrition, scheduled for elective procedure&#xD;
+        requiring general anesthesia&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Moderate to severe gastrointestinal motility disorder Emergency surgery Anatomical risk&#xD;
+        factor for pulmonary aspiration such as achalasia or bowel obstruction Parents cannot&#xD;
+        understand study information due to language barrier&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>6 Months</minimum_age>
+    <maximum_age>12 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Peter Frykholm, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Uppsala University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Peter Frykholm, MD, PhD</last_name>
+    <phone>+46186171240</phone>
+    <email>peter.frykholm@surgsci.uu.se</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ali-Reza Modiri, PhD</last_name>
+    <phone>+46727411410</phone>
+    <email>ali-reza.modiri@uu.se</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Uppsala University Hospital</name>
+      <address>
+        <city>Uppsala</city>
+        <zip>75185</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Peter Frykholm, MD PhD</last_name>
+      <phone>+46708454969</phone>
+      <email>peter.frykholm@surgsci.uu.se</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ali Modiri, PhD</last_name>
+      <phone>+467411410</phone>
+      <email>alireza.modiri@akademiska.se</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <link>
+    <url>https://pubmed.ncbi.nlm.nih.gov/34857683/</url>
+    <description>Pre-operative fasting in children: A guideline from the European Society of Anaesthesiology and Intensive Care</description>
+  </link>
+  <link>
+    <url>https://pubmed.ncbi.nlm.nih.gov/30095551/</url>
+    <description>Ultrasound assessment of gastric emptying time after a standardised light breakfast in healthy children: A prospective observational study.</description>
+  </link>
+  <link>
+    <url>https://pubmed.ncbi.nlm.nih.gov/31608517/</url>
+    <description>Gastric content assessed with gastric ultrasound in paediatric patients prescribed a light breakfast prior to general anaesthesia: A prospective observational study.</description>
+  </link>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 12, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 12, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>January 22, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 22, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Uppsala University Hospital</investigator_affiliation>
+    <investigator_full_name>Peter Frykholm</investigator_full_name>
+    <investigator_title>Associate professor</investigator_title>
+  </responsible_party>
+  <keyword>Preoperation fasting</keyword>
+  <keyword>Anaesthesia</keyword>
+  <keyword>Children</keyword>
+  <keyword>Enteral feeding</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Aspiration of Gastric Contents</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

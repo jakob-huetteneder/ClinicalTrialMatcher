@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9864">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05688553</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KMUHIRB-E(I)-20220165</org_study_id>
+    <nct_id>NCT05688553</nct_id>
+  </id_info>
+  <brief_title>The Effects of Using Flexi-bar for Balance and Strength Training on the Balance and Muscle in Community-Dwelling Older Adults</brief_title>
+  <official_title>The Effects of Using Flexi-bar for Balance and Strength Training on the Balance and Muscle in Community-Dwelling Older Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Kaohsiung Medical University Chung-Ho Memorial Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Kaohsiung Medical University Chung-Ho Memorial Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Aging of the neuromuscular system may lead to an increased risk of falls in older adults.&#xD;
+      There are external and internal factors for falls, and lower limb muscle strength and balance&#xD;
+      are important internal factors for falls in the elderly. And can be improved through&#xD;
+      exercise. Therefore, an important interventional goal in interventional exercises to prevent&#xD;
+      falls in the elderly is to promote balance and increase lower extremity muscle strength.&#xD;
+&#xD;
+      Flexi-bar is a device that provides vibration stimulation. Studies have shown that a 5Hz&#xD;
+      frequency can be generated when shaken and transmitted to the whole body. Flexi bar is now&#xD;
+      widely used in fitness centers or rehabilitation therapy to improve muscle strength and&#xD;
+      balance. Vibration activates the tonic reflex, enhances the excitability of alpha and gamma&#xD;
+      motor neurons and enhances motor unit synchronization, and this active vibration training&#xD;
+      helps increase muscle coordination as it induces the tonic reflex and stimulates the&#xD;
+      proprioception of the joint Feelings, these physiological changes can lead to more effective&#xD;
+      proprioceptive feedback that improves balance. And because the vibration causes the agonist&#xD;
+      and antagonist muscles to contract alternately to regulate the instability during the&#xD;
+      movement. In recreational athletes, the use of a flexi bar in a single-legged position can&#xD;
+      effectively induce lower extremity muscle activation.&#xD;
+&#xD;
+      A 12-week combination of balance and strength training in older adults has been shown to be&#xD;
+      effective in reducing the risk of falls in older adults in previous studies.&#xD;
+&#xD;
+      Since the effect of adding Flexi bar on the basis of balance and strength training is&#xD;
+      unknown, the purpose of this study was to investigate the experimental group and the control&#xD;
+      group with the same exercise posture and training time, Flexi bar + BST Is it better for the&#xD;
+      balance and muscle strength of the elderly than simple BST?&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 7, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>change from baseline gait and balance at 12 weeks</measure>
+    <time_frame>baseline , up to 12 weeks( post test)</time_frame>
+    <description>Functional gait assessment</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>change from baseline dynamic balance at 12 weeks</measure>
+    <time_frame>baseline , up to 12 weeks( post test)</time_frame>
+    <description>Y-Balance Test</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>change from baseline balance at 12 weeks</measure>
+    <time_frame>baseline , up to 12 weeks( post test)</time_frame>
+    <description>Mini-Balance Evaluation Systems Test</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>change from baseline lower strength at 12 weeks (1)</measure>
+    <time_frame>baseline , up to 12 weeks( post test)</time_frame>
+    <description>Chair standing test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>change from baseline lower strength at 12 weeks(2)</measure>
+    <time_frame>baseline , up to 12 weeks( post test)</time_frame>
+    <description>hand held dynamometer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>change from baseline ankle plantar flexor strength at 12 weeks</measure>
+    <time_frame>baseline , up to 12 weeks( post test)</time_frame>
+    <description>ankle plantar flexion test</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Flexi-bar</condition>
+  <condition>Vibration</condition>
+  <condition>Balance Training</condition>
+  <condition>Community-dwelling</condition>
+  <condition>Community Older</condition>
+  <condition>Strength Training</condition>
+  <arm_group>
+    <arm_group_label>Flexi-bar group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>balance and strength group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Flexi-bar</intervention_name>
+    <description>two groups, experimental group intervention Flexi-bar with balance and strength training</description>
+    <arm_group_label>Flexi-bar group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>balance and strength training</intervention_name>
+    <description>the control group intervention only balance and strength training</description>
+    <arm_group_label>balance and strength group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        •Elderly people aged 65 to 85 in the community who can move on their own without the need&#xD;
+        for support from others.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Vulnerable groups: those who lack sufficient decision-making ability due to age,&#xD;
+             intellectual or physical (physiological) status, or who are vulnerable to undue&#xD;
+             influence, coercion, or inability to make decisions of free will due to their&#xD;
+             environment, identity, or socioeconomic status, People living in nursing homes and&#xD;
+             racially disadvantaged groups, etc.&#xD;
+&#xD;
+          -  Have been diagnosed with mental illness and cognitive impairment&#xD;
+&#xD;
+          -  Those who have had severe cardiovascular-related diseases such as unstable angina&#xD;
+             pectoris, acute myocardial infarction and are not suitable for vigorous exercise&#xD;
+&#xD;
+          -  Those with a history of epilepsy&#xD;
+&#xD;
+          -  Those with severe pain in the lower extremity joints during the pre-test and unable to&#xD;
+             complete the above-mentioned lower extremity muscle strength or balance test.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>HSU TZ RUEI, Associate</last_name>
+    <phone>0970947904</phone>
+    <email>st990533@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kaohsiung Medical University Chung-Ho Memorial Hospital sport medicine</last_name>
+    <phone>(07) 312-1101</phone>
+    <phone_ext>6643．6644</phone_ext>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Xinqiang Li Activity Center</name>
+      <address>
+        <city>Kaohsiung</city>
+        <zip>830</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>HSU TZ RUEI, Associate</last_name>
+      <phone>0970947604</phone>
+      <email>st990533@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Taiwan</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>September 23, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 15, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>January 15, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 15, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 18, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

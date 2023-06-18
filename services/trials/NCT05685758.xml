@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9991">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05685758</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022P002100</org_study_id>
+    <nct_id>NCT05685758</nct_id>
+  </id_info>
+  <brief_title>A Treatment for Depression Via a Gamified Mobile Phone Application Based on a New Cognitive Model</brief_title>
+  <acronym>FTP</acronym>
+  <official_title>A Treatment for Depression Via App-Based FTP (Game4Mood Study)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hedonia Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hedonia Ltd</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study is a randomized controlled treatment study comparing changes in depressive symptoms&#xD;
+      over 8 weeks between individuals with Major Depressive Disorder (MDD) who have access to an&#xD;
+      FTP-based mobile phone application and a control group not engaging with the app. FTP, the&#xD;
+      process of Facilitating Thought Progression, trains the brain's cognitive thought process to&#xD;
+      expand, accelerate, and be more creative, to alleviate depressive symptoms.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This project aims to determine the effectiveness of an FTP-based mobile phone application in&#xD;
+      the alleviation of clinical symptoms of depression. In an attempt to change thought&#xD;
+      progression to be broader and more readily expansive, we had translated paradigms meant to&#xD;
+      expand thinking patterns into engaging mobile games. Our hypothesis is that the FTP-based&#xD;
+      mobile phone application will be able to decrease depressive clinical symptoms in a&#xD;
+      significant manner.&#xD;
+&#xD;
+      Participants meeting the inclusion criteria will be asked to play the app and undergo&#xD;
+      clinical and self-assessment evaluations regularly over the course of 8 weeks.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 3, 2022</start_date>
+  <completion_date type="Anticipated">June 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>One hundred and ten participants will be randomly assigned into one of the groups: the intervention group or the control group, which is a delayed intervention group (waitlist intervention). Intervention group participants will be sent a link to download an FTP-based mobile application and be asked to complete weekly surveys and monthly visits with study clinicians for 8 weeks.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in depression scores on the Montgomery-Åsberg Depression Rating Scale (MADRS clinical assessment)</measure>
+    <time_frame>Baseline, week 4, and week 8</time_frame>
+    <description>Validated clinician-based assessment; a 10-item scale with total scores between 0 and 60 where higher scores indicate greater depression severity</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in breadth of thought and ruminations scores on the Ruminative Response Scale (RRS)</measure>
+    <time_frame>From baseline to week 8, one time per week</time_frame>
+    <description>Validated self-report questionnaire; a 22-item scale with total scores between 22 and 88 where higher scores indicate higher degrees of ruminative symptoms</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Anhedonia level on the Snaith-Hamilton Pleasure Scale (SHAPS)</measure>
+    <time_frame>From baseline to week 8, one time per week</time_frame>
+    <description>Validated self-report questionnaire; a 14-item scale with total scores between 0 and 14 where higher scores indicate higher levels of anhedonia</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in depression symptoms severity on the Patient Health Questionnaire (PHQ-9)</measure>
+    <time_frame>From baseline to week 8, one time per week</time_frame>
+    <description>Validated self-report questionnaire; a 9-item scale with total scores between 0 and 27 where higher scores indicate greater symptoms severity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in depression symptoms severity on the Symptoms of Depression Questionnaire (SDQ)</measure>
+    <time_frame>Baseline, week 4, and week 8</time_frame>
+    <description>Validated self-reported questionnaire assessing symptoms in the anxiety-depression spectrum; a 44-item scale with total scores between 44 and 264 where higher scores indicate greater symptoms severity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in anxiety measure on the General Anxiety Disorder-7 (GAD-7)</measure>
+    <time_frame>From baseline to week 8, one time per week</time_frame>
+    <description>Validated self-report questionnaire; a 7-item scale with total scores between 0 and 21 where higher scores indicate greater anxiety levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in quality of life score as assessed by the World Health Organization Quality of Life scale - short version (WHO-QOL BREF)</measure>
+    <time_frame>Baseline, week 4, and week 8</time_frame>
+    <description>Validated self-report questionnaire; a 26-item scale with total scores between 0 and 100 where higher scores indicate the greater perceived quality of life</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in mood scores on the Positive and Negative Affect Schedule (PANAS)</measure>
+    <time_frame>From baseline to week 8, one time per week</time_frame>
+    <description>Validated self-report questionnaire; two 10-item scales with total scores between 10 and 50 for each set of items. On the negative affect scale, higher scores indicate greater severity; on the positive affect scale, higher scores indicate greater positive affect</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in performance in the game</measure>
+    <time_frame>continuous use during the 8-week study</time_frame>
+    <description>Evaluate change in success rate, when improvement in performance measured by answering the level correctly</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in engagement levels</measure>
+    <time_frame>continuous use during the 8-week study</time_frame>
+    <description>Measured by change in the average play time (minutes) over the course of 8 weeks</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">110</enrollment>
+  <condition>Depression</condition>
+  <condition>Depressive Disorder</condition>
+  <condition>Clinical Depression</condition>
+  <condition>Major Depressive Disorder</condition>
+  <arm_group>
+    <arm_group_label>Intervention group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Individuals with Major Depressive Disorder who have access to an FTP-based mobile phone application for eight weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Individuals with Major Depressive Disorder who are on an 8-week waitlist (delayed intervention) before being offered to use the app. During the eight weeks, they will be subjected to the same questionnaires and assessments as the intervention arm.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>FTP-based therapeutic mobile-app</intervention_name>
+    <description>Participants are expected to play games within the mobile app and complete the available daily levels of 4 out of 5 games on at least 4 days per week for 8 weeks.</description>
+    <arm_group_label>Intervention group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Consenting Adults, ages 20-50&#xD;
+&#xD;
+          -  Able to read, understand and provide written informed consent in English&#xD;
+&#xD;
+          -  Participants who are the sole users of an iPhone or an Android smartphone, and agree&#xD;
+             to download and use the digital mobile phone application as required by the protocol&#xD;
+&#xD;
+          -  Participants who are comfortable using applications and games on their smartphones&#xD;
+&#xD;
+          -  Participants with a current primary diagnosis of MDD or mild depression. MADRS≥15 and&#xD;
+             &lt;35&#xD;
+&#xD;
+          -  Participants who are taking any medications which are FDA approved or used off-label&#xD;
+             for mood or anxiety should be on a stable dosage for the past 6 weeks and have no plan&#xD;
+             to change dosage during the 8 weeks they will be in the study&#xD;
+&#xD;
+          -  Participants who are receiving therapy should have been with the same therapist for&#xD;
+             the previous 60 days and have no plan to change therapy protocol during the 8 weeks of&#xD;
+             the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants who have plans to change their medications which are FDA approved or used&#xD;
+             off-label for mood or anxiety or their therapy protocol during the 8 weeks of the&#xD;
+             study&#xD;
+&#xD;
+          -  Participants who have made any changes to their therapy protocol, including starting&#xD;
+             therapy, stopping therapy, or changing providers within the past 60 days&#xD;
+&#xD;
+          -  Participants who have made any changes to medications which are FDA-approved or used&#xD;
+             off-label for mood or anxiety in the last 6 weeks&#xD;
+&#xD;
+          -  Participants who have used a computer, web, or smartphone software-based application&#xD;
+             for mental health or depression in the last 6 weeks&#xD;
+&#xD;
+          -  Being at imminent risk for Suicidal behavior (via MINI)&#xD;
+&#xD;
+        Note: Other protocol-defined exclusion criteria applied.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Paola Pedrelli, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Massachusetts General Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sunday Hull</last_name>
+    <phone>617 643 7690</phone>
+    <email>MGHGame4MoodStudy@partners.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sydney Decaro</last_name>
+      <phone>617-726-6395</phone>
+      <email>MGHGame4MoodStudy@partners.org</email>
+    </contact>
+    <investigator>
+      <last_name>Paola Pedrelli, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Bar M. A cognitive neuroscience hypothesis of mood and depression. Trends Cogn Sci. 2009 Nov;13(11):456-63. doi: 10.1016/j.tics.2009.08.009. Epub 2009 Oct 12.</citation>
+    <PMID>19819753</PMID>
+  </reference>
+  <reference>
+    <citation>Baror S, Bar M. Associative Activation and Its Relation to Exploration and Exploitation in the Brain. Psychol Sci. 2016 Jun;27(6):776-89. doi: 10.1177/0956797616634487. Epub 2016 Apr 27.</citation>
+    <PMID>27122295</PMID>
+  </reference>
+  <reference>
+    <citation>Fredrickson BL, Branigan C. Positive emotions broaden the scope of attention and thought-action repertoires. Cogn Emot. 2005 May 1;19(3):313-332. doi: 10.1080/02699930441000238.</citation>
+    <PMID>21852891</PMID>
+  </reference>
+  <reference>
+    <citation>Gasper K, Clore GL. Attending to the big picture: mood and global versus local processing of visual information. Psychol Sci. 2002 Jan;13(1):34-40. doi: 10.1111/1467-9280.00406.</citation>
+    <PMID>11892776</PMID>
+  </reference>
+  <reference>
+    <citation>Harel EV, Tennyson RL, Fava M, Bar M. Linking major depression and the neural substrates of associative processing. Cogn Affect Behav Neurosci. 2016 Dec;16(6):1017-1026. doi: 10.3758/s13415-016-0449-9.</citation>
+    <PMID>27553369</PMID>
+  </reference>
+  <reference>
+    <citation>Herz N, Baror S, Bar M. Overarching States of Mind. Trends Cogn Sci. 2020 Mar;24(3):184-199. doi: 10.1016/j.tics.2019.12.015. Epub 2020 Feb 6.</citation>
+    <PMID>32059121</PMID>
+  </reference>
+  <reference>
+    <citation>Mason MF, Bar M. The effect of mental progression on mood. J Exp Psychol Gen. 2012 May;141(2):217-21. doi: 10.1037/a0025035. Epub 2011 Aug 8.</citation>
+    <PMID>21823806</PMID>
+  </reference>
+  <reference>
+    <citation>Patel S, Akhtar A, Malins S, Wright N, Rowley E, Young E, Sampson S, Morriss R. The Acceptability and Usability of Digital Health Interventions for Adults With Depression, Anxiety, and Somatoform Disorders: Qualitative Systematic Review and Meta-Synthesis. J Med Internet Res. 2020 Jul 6;22(7):e16228. doi: 10.2196/16228.</citation>
+    <PMID>32628116</PMID>
+  </reference>
+  <reference>
+    <citation>Thomas C, Kveraga K, Huberle E, Karnath HO, Bar M. Enabling global processing in simultanagnosia by psychophysical biasing of visual pathways. Brain. 2012 May;135(Pt 5):1578-85. doi: 10.1093/brain/aws066. Epub 2012 Mar 14.</citation>
+    <PMID>22418740</PMID>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 15, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 5, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 17, 2023</study_first_posted>
+  <last_update_submitted>January 5, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 5, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 17, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>Paola Pedrelli</investigator_full_name>
+    <investigator_title>Principal Investigator: Assistant Professor Harvard Medical School, Associate Director Depression Clinical Research Program</investigator_title>
+  </responsible_party>
+  <keyword>Depression</keyword>
+  <keyword>Ruminations</keyword>
+  <keyword>Mobile-app</keyword>
+  <keyword>Therapeutic Game</keyword>
+  <keyword>FTP</keyword>
+  <keyword>Digital Health</keyword>
+  <keyword>Mood Disorders</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Depressive Disorder, Major</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

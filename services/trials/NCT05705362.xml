@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9096">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05705362</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CROSS-COBIS</org_study_id>
+    <nct_id>NCT05705362</nct_id>
+  </id_info>
+  <brief_title>Simple Crossover Versus Side Branch Opening in Patients With Non-Left Main Bifurcation Lesion</brief_title>
+  <acronym>CROSS-COBIS</acronym>
+  <official_title>Randomized Controlled Trial of Simple CROSSsover Versus Side Branch Opening on Clinical Outcomes in Patients With Non-Left Main BIfurcation LeSion (CROSS-COBIS)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Keimyung University Dongsan Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Keimyung University Dongsan Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Hypothesis:&#xD;
+&#xD;
+      Simple crossover strategy would be non-inferior to SB opening strategy in the risk of target&#xD;
+      lesion failure (TLF) in patients with angiographically compromised SB (visually SB stenosis&#xD;
+      ≥50%) after provisional MV stenting for non-left main bifurcation lesion.&#xD;
+&#xD;
+      A total of 1000 patients (500 per each group) with the angiographically compromised SB&#xD;
+      (visually SB stenosis ≥50%) after provisional MV stenting for non-left main bifurcation&#xD;
+      lesion will be enrolled. Patients will be randomized to either the simple crossover strategy&#xD;
+      group or SB opening strategy group at the time of enrollment with 1:1 ratio. Stratified&#xD;
+      randomization according to participating center, clinical presentation (acute coronary&#xD;
+      syndrome or stable ischemic heart disease), and type of bifurcation lesions (true or&#xD;
+      non-true) will be performed.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Despite advances in stenting techniques and devices, percutaneous coronary intervention (PCI)&#xD;
+      for bifurcation lesions remains one of the most challenging and complex procedures. Current&#xD;
+      guidelines recommend 1-stenting with provisional side branch (SB) approach should be an&#xD;
+      initial treatment strategy for the bifurcation lesions, based on the previous results of&#xD;
+      several randomized trials. However, the standardization of the provisional strategy is&#xD;
+      limited. In particular, there is a recommendation on the treatment technique for SB when SB&#xD;
+      intervention is required, but It has not been decided in which cases SB treatment is&#xD;
+      necessary, in the latest European Bifurcation Club (EBC) consensus document.16 In previous&#xD;
+      studies, the criteria for performing SB opening after MV stent intervention in the 1-stenting&#xD;
+      with provisional SB approach were varied. In the DK-CUSH II (Double Kissing Crush versus&#xD;
+      Provisional Stenting Technique for Treatment of Coronary Bifurcation Lesions) or CACTUS&#xD;
+      (Coronary Bifurcations: Application of the Crushing Technique Using Sirolimus-Eluting Stents)&#xD;
+      trials, SB intervention was performed when the SB diameter stenosis more than 50%, grade B or&#xD;
+      higher dissection, or blood flow disturbance (TIMI flow 2 or less) after MV stent insertion.&#xD;
+      On the other hand, in the Nordic trial, the authors applied strict criteria for SB&#xD;
+      intervention after MV stent insertion (TIMI flow 2 or less only). Furthermore, there have&#xD;
+      been conflicting results regarding the clinical and angiographic outcomes of the jailed SB&#xD;
+      opening strategy after the main vessel (MV) stenting, compared with the simple crossover&#xD;
+      strategy for non-left main bifurcation lesion.&#xD;
+&#xD;
+      On this background, this trial aims to compare the clinical outcomes between simple crossover&#xD;
+      and side branch opening strategies in patients with the angiographically compromised SB&#xD;
+      (visually SB stenosis ≥50%) after provisional MV stenting for non-left main bifurcation&#xD;
+      lesion.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2029</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2028</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Target-lesion failure</measure>
+    <time_frame>up to 2 years of median follow-up (till 1 year after the last patient enrollment)</time_frame>
+    <description>a composite of cardiac death, myocardial infarction, and target-lesion revascularization</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-cause death</measure>
+    <time_frame>up to 2 years of median follow-up (till 1 year after the last patient enrollment)</time_frame>
+    <description>Death from any causes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cardiac death</measure>
+    <time_frame>up to 2 years of median follow-up (till 1 year after the last patient enrollment)</time_frame>
+    <description>Death from cardiac causes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Myocardial infarction</measure>
+    <time_frame>up to 2 years of median follow-up (till 1 year after the last patient enrollment)</time_frame>
+    <description>any myocardial infarction</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Target-vessel myocardial infarction</measure>
+    <time_frame>up to 2 years of median follow-up (till 1 year after the last patient enrollment)</time_frame>
+    <description>myocardial infarction in target-vessel</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Target-lesion revascularization</measure>
+    <time_frame>up to 2 years of median follow-up (till 1 year after the last patient enrollment)</time_frame>
+    <description>Clinically indicated target-lesion revascularization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Target-vessel revascularization</measure>
+    <time_frame>up to 2 years of median follow-up (till 1 year after the last patient enrollment)</time_frame>
+    <description>Clinically indicated target-vessel revascularization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Any revascularization</measure>
+    <time_frame>up to 2 years of median follow-up (till 1 year after the last patient enrollment)</time_frame>
+    <description>Repeat revascularization procedure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stent thrombosis</measure>
+    <time_frame>up to 2 years of median follow-up (till 1 year after the last patient enrollment)</time_frame>
+    <description>definite or probable stent thrombosis by Academic Research Consortium [ARC] definition</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bleeding</measure>
+    <time_frame>up to 2 years of median follow-up (till 1 year after the last patient enrollment)</time_frame>
+    <description>Bleeding ARC type 2, 3 or 5 bleeding</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total procedure time</measure>
+    <time_frame>at 1 day</time_frame>
+    <description>procedure time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total amount of contrast use</measure>
+    <time_frame>at 1 day</time_frame>
+    <description>used contrast amount</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of contrast induced nephropathy</measure>
+    <time_frame>72 hours after the index procedure</time_frame>
+    <description>defined as an increase in creatinine of ≥0.5mg/dL or ≥25% from baseline within 72 hours after contrast exposure</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Coronary Artery Disease</condition>
+  <arm_group>
+    <arm_group_label>Simple crossover arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This arm will receive the main vessel stenting only (with proximal optimization technique).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Side branch opening arm</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>This arm will receive a side branch opening procedure after the main vessel stenting.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Simple Crossover</intervention_name>
+    <description>Regardless of allocated arms, stent implantation in the MV (selected 1:1 according to the distal MV size) followed by systematic proximal optimization technique (POT, post-dilatation of the stent at the level of proximal MV with a balloon diameter sized 1:1 according to the proximal MV) or POT like procedure is strongly recommended.</description>
+    <arm_group_label>Simple crossover arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Side branch opening</intervention_name>
+    <description>According to the latest European Bifurcation Club (EBC) consensus document, distal SB rewiring followed by kissing balloon inflation (eventually conducted with short non-compliant balloons) and repeat POT procedures are highly recommended. An additional stent will be allowed if major dissection or decreased TIMI flow of SB occurs during SB treatment.</description>
+    <arm_group_label>Side branch opening arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  (1) Subject must be at least 19 years of age&#xD;
+&#xD;
+          -  (2) Patients with non-left main bifurcation lesion (SB diameter ≥2.3 mm)&#xD;
+&#xD;
+          -  (3) Target lesions amenable for 1-stenting with provisional SB approach by operators'&#xD;
+             decision&#xD;
+&#xD;
+          -  (4) Angiographically compromised SB (visual SB stenosis ≥50%) after provisional MV&#xD;
+             stenting&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  (1) Target lesions requiring elective 2-stenting technique by operators' decision&#xD;
+             (Observation Group 1)*&#xD;
+&#xD;
+          -  (2) Patients who inevitably require SB intervention after MV stenting, as follows.&#xD;
+             (Observation Group 2)*&#xD;
+&#xD;
+               1. Reduced SB TIMI flow (≤2) after MV stenting&#xD;
+&#xD;
+               2. SB dissection after MV stenting (≥ Type C)&#xD;
+&#xD;
+          -  (3) Patients without SB compromise after MV stenting (visually SB stenosis &lt;50%)&#xD;
+             (Observation Group 3)*&#xD;
+&#xD;
+          -  (4) Cardiogenic shock (Killip class IV) at presentation&#xD;
+&#xD;
+          -  (5) Patients with significant valvular heart disease or severe left ventricular&#xD;
+             systolic dysfunction (ejection fraction &lt;35%)&#xD;
+&#xD;
+          -  (6) Pregnancy or breast feeding&#xD;
+&#xD;
+          -  (7) Non-cardiac co-morbid conditions are present with life expectancy &lt;1 year or that&#xD;
+             may result in protocol non-compliance (per site investigator's medical judgment)&#xD;
+&#xD;
+          -  (8) Unwillingness or inability to comply with the procedures described in this&#xD;
+             protocol&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Chang-Wook Nam, MD</last_name>
+    <phone>82-53-258-7019</phone>
+    <email>namcwcv@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ki Hong Choi</last_name>
+    <phone>82-2-3410-6653</phone>
+    <email>cardiokh@gmail.com</email>
+  </overall_contact_backup>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 19, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>January 26, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 26, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Keimyung University Dongsan Medical Center</investigator_affiliation>
+    <investigator_full_name>NAM, Chang-Wook</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Percutaneous coronary intervention</keyword>
+  <keyword>Bifurcation</keyword>
+  <keyword>Treatment strategy</keyword>
+  <keyword>Side branch</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronary Artery Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

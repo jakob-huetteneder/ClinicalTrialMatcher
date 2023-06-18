@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9745">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05691192</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H-20075846</org_study_id>
+    <nct_id>NCT05691192</nct_id>
+  </id_info>
+  <brief_title>Cognitive Reserve-building Activities in Multiple Sclerosis</brief_title>
+  <acronym>CRAMS</acronym>
+  <official_title>Cognitive Reserve-building Activities in Multiple Sclerosis: A Randomized Controlled Trial of the Effect of Cognitive Leisure Activities on Objective and Subjective Measures of Cognition</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rigshospitalet, Denmark</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Copenhagen</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Rigshospitalet, Denmark</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study is a crossover randomized controlled trial investigating the effect of increasing&#xD;
+      engagement in cognitive leisure activities for individuals with multiple sclerosis.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study is a crossover randomized controlled trial investigating the impact of cognitive&#xD;
+      leisure activities on the cognitive functioning of individuals with multiple sclerosis (MS).&#xD;
+      The goal is to investigate whether increasing leisure activities may help prevent cognitive&#xD;
+      impairment in individuals with MS.&#xD;
+&#xD;
+      The trial consists of two studies. The first is a randomized controlled trial examining the&#xD;
+      effects of increasing engagement in cognitive leisure activities. The second is a qualitative&#xD;
+      interview-based study to identify factors that may improve adherence and acceptance of the&#xD;
+      intervention. The study employs a randomized, controlled crossover design, with 60&#xD;
+      participants (30 with relapsing-remitting MS, 30 with progressive MS) assigned to either an&#xD;
+      intervention group or a passive control group for 12 weeks. After the initial 12 weeks the&#xD;
+      groups are crossed over and followed up after an additional 12 weeks. The intervention group&#xD;
+      will receive instruction and support to engage in cognitive leisure activities, while the&#xD;
+      control group will continue with their usual daily activities.&#xD;
+&#xD;
+      For a detailed description of the project, the full protocol can be found at:&#xD;
+&#xD;
+      https://dmsc.dk/onewebmedia/CRAMS%20research%20protocol.pdf&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 1, 2022</start_date>
+  <completion_date type="Anticipated">July 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>The study will use a randomized, controlled crossover design to investigate the impact of cognitive leisure activities on cognitive function in individuals with multiple sclerosis (MS). 60 participants with RRMS or progressive MS (30 RRMS, 30 PPMS/SPMS) will be randomly assigned to either an intervention group (Group A) or a passive control group (Group B) for 12 weeks. Participants will be randomized using a computer-based random number generator in blocks of 6 based on MS subtype (RRMS/progressive MS). After the initial 12 weeks, the groups will be crossed over and followed for an additional 12 weeks. The passive control group will also receive an additional follow-up after 36 weeks. The total time from enrollment to last follow-up will be 24 weeks for Group A and 36 weeks for Group B.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Outcome assessors will be blinded as to the participant's assigned intervention.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in score on the Symbol Digit Modality Test (SDMT)</measure>
+    <time_frame>Baseline, week 12, week 24</time_frame>
+    <description>An objective measure of cognitive efficiency</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in score on the Multiple Sclerosis Neuropsychological Questionnaire (MSNQ)</measure>
+    <time_frame>Baseline, week 12, week 24</time_frame>
+    <description>A subjective measure of cognitive symptoms for patients with MS</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in score on the California Verbal Learning Test II (CVLT II)</measure>
+    <time_frame>Baseline, week 12, week 24</time_frame>
+    <description>A test of verbal memory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in score on the Brief Visuospatial Memory Test Revised (BVMT-R)</measure>
+    <time_frame>Baseline, week 12, week 24</time_frame>
+    <description>A test of visuospatial memory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in score on the Word Fluency Test (phonological)</measure>
+    <time_frame>Baseline, week 12, week 24</time_frame>
+    <description>A test of executive functioning and verbal fluency</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in score on the Five-point Test</measure>
+    <time_frame>Baseline, week 12, week 24</time_frame>
+    <description>A test of executive functioning</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in score on the Cognitive Leisure and Activity Scale (CLAS)</measure>
+    <time_frame>Baseline, week 12, week 24, week 36</time_frame>
+    <description>A questionnaire assessing the participant's degree of participation in cognitive leisure activities. The scale consists of 16 items (leisure activities) on which participants rate their activity level on a scale from 0-5, with 0 indicating no participation and 5 indicating daily participation in the activity. Scores are summed, yielding a total score ranging from 0 - 80 with lower scores indicating less participation in cognitive leisure activities and higher scores indicating a higher degree of participation.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Multiple Sclerosis</condition>
+  <arm_group>
+    <arm_group_label>Cognitive Leisure Activities</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in the intervention group will engage in cognitive leisure activities for 12 weeks and will be instructed to track their daily activity level in minutes through a daily online questionnaire. To maintain motivation and improve adherence to the study protocol, participants will also receive regular follow-up phone calls from a member of the research team every 2 weeks.&#xD;
+After the initial 12 weeks, the groups will be crossed over and the study will continue for another 12 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Passive control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants in the passive control group will not receive information regarding the intervention and cognitive leisure activities. They will instead be instructed to carry on as usual and to expect active participation in the study in 12 weeks from the time of enrolment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Cognitive Leisure Activities</intervention_name>
+    <description>Participants in the active phase of the study will be asked to increase engagement in certain cognitive leisure activities. The activities are chosen on the basis of previous research and measures of cognitive reserve-building activities.</description>
+    <arm_group_label>Cognitive Leisure Activities</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  RRMS, SPMS or PPMS&#xD;
+&#xD;
+          -  Age 18-65&#xD;
+&#xD;
+          -  EDSS score ≤ 6.5&#xD;
+&#xD;
+          -  SDMT (or PASAT) score below -1 SD&#xD;
+&#xD;
+          -  No depression based on the MDI&#xD;
+&#xD;
+          -  Able to use computer or smartphone and has internet access&#xD;
+&#xD;
+          -  If in treatment with one or more of the following medications, the dosage must be&#xD;
+             stable:&#xD;
+&#xD;
+               -  Cannabinoids&#xD;
+&#xD;
+               -  Anticholinergic medications&#xD;
+&#xD;
+               -  Sedatives e.g., benzodiazepines&#xD;
+&#xD;
+               -  Opioids&#xD;
+&#xD;
+               -  Antispasmodics&#xD;
+&#xD;
+               -  Beta-blockers&#xD;
+&#xD;
+               -  Antidepressant medication&#xD;
+&#xD;
+               -  Fampridine&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Planned start-up or discontinuation of one or more of the above-mentioned medications&#xD;
+&#xD;
+          -  Structural brain changes following previous head trauma or neurological conditions&#xD;
+             other than which lead to structural changes or affect cognitive abilities&#xD;
+&#xD;
+          -  Epilepsy&#xD;
+&#xD;
+          -  Significant psychiatric co-morbidity&#xD;
+&#xD;
+          -  Significant somatic co-morbidity including, but not limited to, severe cardiovascular&#xD;
+             disease as well as liver, kidney, and endocrine diseases&#xD;
+&#xD;
+          -  Relapse 3 months prior to inclusion&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andreas Kirknæs Færk</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Danish Multiple Sclerosis Center, Copenhagen University Hospital, Rigshospitalet-Glostrup</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Andreas K Færk</last_name>
+    <phone>+4538633205</phone>
+    <email>andreas.kirknaes.faerk.01@regionh.dk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Helene H Chow</last_name>
+    <email>helene.hoejsgaard.chow@regionh.dk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Danish Multiple Sclerosis Center, Copenhagen University Hospital, Rigshospitalet-Glostrup</name>
+      <address>
+        <city>Glostrup</city>
+        <zip>2600</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andreas Kirknæs Færk</last_name>
+      <phone>+4538633205</phone>
+      <email>andreas.kirknaes.faerk.01@regionh.dk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Helene Højsgaard Chow</last_name>
+      <email>helene.hoejsgaard.chow@regionh.dk</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <link>
+    <url>https://dmsc.dk/onewebmedia/CRAMS%20research%20protocol.pdf</url>
+    <description>Full study protocol with all references</description>
+  </link>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>January 6, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>March 8, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 8, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 10, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rigshospitalet, Denmark</investigator_affiliation>
+    <investigator_full_name>Andreas Kirknæs Færk</investigator_full_name>
+    <investigator_title>Neuropsychologist, PhD student</investigator_title>
+  </responsible_party>
+  <keyword>Cognition</keyword>
+  <keyword>Multiple Sclerosis</keyword>
+  <keyword>Cognitive Rehabilitation</keyword>
+  <keyword>Cognitive Reserve</keyword>
+  <keyword>Cognitive Leisure Activities</keyword>
+  <keyword>Leisure Activities</keyword>
+  <keyword>Intellectual Enrichment</keyword>
+  <keyword>Relapsing-remitting multiple sclerosis</keyword>
+  <keyword>Secondary progressive multiple sclerosis</keyword>
+  <keyword>Progressive multiple sclerosis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple Sclerosis</mesh_term>
+    <mesh_term>Sclerosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

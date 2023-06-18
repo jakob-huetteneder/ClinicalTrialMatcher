@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9057">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05706155</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-0095</org_study_id>
+    <nct_id>NCT05706155</nct_id>
+  </id_info>
+  <brief_title>Effect of Partial Dietary Replacement From Animal to Plant-Based Protein for Type 2 Diabetes Management</brief_title>
+  <official_title>Effect of Partial Dietary Replacement From Animal to Plant-Based Protein for Type 2 Diabetes Management: A Randomized Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital de Clinicas de Porto Alegre</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hospital de Clinicas de Porto Alegre</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to examine the effect plant-based diet, with a partial&#xD;
+      replacement of animal protein by plant protein, in blood sugar levels and other health risks&#xD;
+      of people with type 2 diabetes and excessive weight. The plant-based diet will be compared to&#xD;
+      a standard healthy diet according to guidelines for people with diabetes. Participants will&#xD;
+      follow a plant-based or a standard healthy diet for 24 weeks and will maintain their habitual&#xD;
+      levels of physical activity.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a single center, open label, parallel and randomized clinical trial. Subjects with&#xD;
+      type 2 diabetes (T2D) and excessive weight will be recruited through advertisement on the web&#xD;
+      page of Hospital de Clínicas de Porto Alegre (HCPA), local newspaper, television and social&#xD;
+      media, or referred by a doctor or nutritionist, from external to HCPA services. Patients will&#xD;
+      be also screened through electronic records of HCPA's clinics. After screening and selection&#xD;
+      according to inclusion criteria, participants will undergo a clinical, laboratory and&#xD;
+      nutritional evaluation following a standard assessment protocol. After all baseline&#xD;
+      assessments, they will be randomly allocated to one of the following interventions for 24&#xD;
+      weeks: (1) Control diet (CDG): hypocaloric diet according to current guidelines for T2D or&#xD;
+      (2) Plant-based diet (PBG): hypocaloric diet with partial replacement of animal protein by&#xD;
+      plant protein. Both groups will have caloric targets calculated to achieve a 5% weight loss&#xD;
+      during the 6 months of study, will have the same macronutrient distribution on the diet and&#xD;
+      will receive the same nutritional and medical support. Telephone calls will be performed&#xD;
+      monthly for adherence evaluation. At the end of 12 and 24 weeks of intervention, all patients&#xD;
+      will be submitted to the same clinical, laboratory and nutrition exams applied at baseline.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 1, 2022</start_date>
+  <completion_date type="Anticipated">October 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a single center and open label randomized controlled trial, in which participants will be assigned to one of the two different dietary interventions</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>The participants and the care providers will not be blinded. People involved in data analysis will be blinded.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Glycated Hemoglobin</measure>
+    <time_frame>baseline, 12 and 24 weeks</time_frame>
+    <description>Difference between groups in glycated hemoglobin</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Glycemic Variability</measure>
+    <time_frame>baseline and 24 weeks</time_frame>
+    <description>For continuous glucose monitoring and assessment of glycemic variability, the FreeStyle Libre, ABBOTT® device will be used. FreeStyle Libre consists of a continuous glucose monitoring (SMCG) system. Glycemic variability will be assessed using time on target parameters of values between 70 and 180 mg/dL, time in hypoglycemia and time above target and coefficient of variability as measures of glycemic variability.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in postprandial metabolism</measure>
+    <time_frame>baseline and 24 weeks</time_frame>
+    <description>Postprandial metabolism will be measured after the intake of liquid standard meal. Insulin secretion, insulin sensitivity and beta-cell function will be assessed by mathematical models</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in body composition</measure>
+    <time_frame>Monthly, up to 24 weeks</time_frame>
+    <description>Fat-free mass and fat mass will be assessed by Bioelectrical Impedance (body composition analyzer tetrapolar InBody 370S, BiospaceCo. Ltd, Seoul, South Korea). Anthropometric measures include brachial, neck, waist, hip and calf circumferences, with participants wearing light clothing and barefoot.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in cardiometabolic outcomes</measure>
+    <time_frame>baseline, 12 and 24 weeks</time_frame>
+    <description>Lipid profile will include total cholesterol, HDL-c, LDL-c, triglycerides, apolipoprotein B, apolipoprotein a1 and lipoprotein (a).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood pressure</measure>
+    <time_frame>baseline, 12 and 24 weeks</time_frame>
+    <description>Blood pressure (mmHg) will be assessed in triplicate with an interval of 1 minute between measurements, with the participant in the sitting position, after 5 minutes of rest. On a subsample, the ambulatory blood pressure monitoring will be used in order to record blood pressure measures in 24 hours and evaluate parameters such as mean BP, pressure loads, areas under the curve, variations between daytime and nighttime, pulse pressure variability</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in inflammatory marker</measure>
+    <time_frame>baseline, 12 and 24 weeks</time_frame>
+    <description>Ultra-Sensitive C-Reactive Protein (US-CRP) test will be performed to assess systemic inflammation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in food craving scale</measure>
+    <time_frame>baseline, 12 and 24 weeks</time_frame>
+    <description>Food craving will be assessed by the Food Craving Questionnaire-State (FCQ-S), which is composed of 15 statements and is a tool sensitive to changes in contextual, psychological and physiological states in response to specific situations. Higher scores are associated with greater food deprivation, negative eating-related experiences and a greater susceptibility to triggers that lead to eating. Each item has a Likert-response, with (1) totally disagree and (5) totally agree. Total scores vary from 15 to 75 and correspond to the sum of all statements.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in quality of life scale</measure>
+    <time_frame>baseline, 12 and 24 weeks</time_frame>
+    <description>Quality of life will be measured by the The Short Form 36 Health Survey Questionnaire (the SF-36). SF-36 is a 36 item scale, which measures eight domains of health status: physical functioning (10 items); physical role limitations (four items); bodily pain (two items); general health perceptions (five items); energy/vitality (four items); social functioning (two items); emotional role limitations (three items) and mental health (five items). The scores are transformed to range from zero where the respondent has the worst possible health to 100 where the respondent is in the best possible health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in depressive symptoms</measure>
+    <time_frame>baseline, 12 and 24 weeks</time_frame>
+    <description>The Beck Depression Inventory will be used for detecting depressive symptoms, which consists of 21 sets of statements about depressive symptoms in the last 15 days that are rated on a 0 to 3 scale and total scores ranging from 0 to 63. The severity of symptoms will be classified as follows: 0-13, minimal/no depression; 14-19, mild depression; 20-28, moderate depression; and 29-63, severe depression.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in anxiety symptoms</measure>
+    <time_frame>baseline, 12 and 24 weeks</time_frame>
+    <description>The Generalized Anxiety Symptoms-7 (GAD-7) will be used for assessing anxiety symptoms, which consists of 7 self-reported items. Each item has a Likert-response format on a 4-point scale (0- 3 points). Respondents will be asked to consider the previous 2 weeks and to rate symptom frequency as 'not at all' (0), 'several days' (1), 'more than half of all days' (2) or 'nearly all days' (3). The total score response ranges from 0 to 21.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adherence to a plant-based diet</measure>
+    <time_frame>Baseline, 12 and 24 weeks</time_frame>
+    <description>Adherence will be assessed by 7-day weighted food records at 12 and 2 weeks, and by 24-hour food records monthly.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">140</enrollment>
+  <condition>Type 2 Diabetes</condition>
+  <condition>Overweight</condition>
+  <condition>Obesity</condition>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Hypocaloric diet with predominance of animal protein</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Hypocaloric diet with predominance of plant protein</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Control Diet</intervention_name>
+    <description>Hypocaloric diet to achieve a 5% weight loss with macronutrient distribution according to current guidelines for T2D: 45 to 55% of energy from carbohydrates, prioritizing those with low glycemic index; 25 to 30% from total fats and a maximum of 10% from saturated fats; 20% of energy from proteins, 15% from animal sources and 5% from plant sources. Participants will also receive printed and validated educational material, with recommendations for healthy eating, and will be instructed to maintain their habitual physical activity level.</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Plant-based Diet</intervention_name>
+    <description>Hypocaloric diet to achieve a 5% weight loss. The dietary prescription was adapted from the Eat-Lancet Commission report to Brazilian population culture, with 45 to 55% of energy from carbohydrates, prioritizing those with a low glycemic index; 25 to 30% from total fats and a maximum of 5% from saturated fats; 20% from proteins, 5% from animal sources and 15% from plant sources. Participants in this group will receive printed and validated support material with recommendations for a healthy and plant-based eating, and will be instructed to maintain their habitual physical activity level.</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults (≥18 and ≤65 years old)&#xD;
+&#xD;
+          -  Diagnosis of Type 2 Diabetes;&#xD;
+&#xD;
+          -  Glycated hemoglobin from 7% to 11%;&#xD;
+&#xD;
+          -  Overweight or obesity (BMI ≥25 kg/m² and &lt;40 kg/m²);&#xD;
+&#xD;
+          -  Use of any hypoglycemic and insulin;&#xD;
+&#xD;
+          -  Stable weight (maximum variation of approximately 5%) for at least 12 weeks before&#xD;
+             screening;&#xD;
+&#xD;
+          -  Not having undergone dietary intervention in the last 6 months;&#xD;
+&#xD;
+          -  Have the ability to understand and be able to adhere to intervention proposals;&#xD;
+&#xD;
+          -  Able and willing to provide an informed consent form for written and to comply with&#xD;
+             the requirements of the study protocol;&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Type 1 diabetes mellitus;&#xD;
+&#xD;
+          -  Retinopathy with vision deficit that limits the activities proposed in the&#xD;
+             interventions;&#xD;
+&#xD;
+          -  Chronic kidney disease with estimated glomerular filtration &lt; 30 mL/min per 1.73m²;&#xD;
+&#xD;
+          -  Liver failure, chronic viral hepatitis;&#xD;
+&#xD;
+          -  Grade III or IV heart failure&#xD;
+&#xD;
+          -  Active or progressive neurodegenerative disease;&#xD;
+&#xD;
+          -  Prior stroke that has caused sequelae;&#xD;
+&#xD;
+          -  Use of medications that affect glucose metabolism (e.g. corticosteroids or&#xD;
+             immunosuppressants) or cause weight loss;&#xD;
+&#xD;
+          -  Chronic treatment with oral or parenteral corticosteroids (&gt;7 days consecutive&#xD;
+             treatment) within 4 weeks prior to screening;&#xD;
+&#xD;
+          -  Treatment with weight-reducing agents (eg, orlistat, sibutramine, topiramate,&#xD;
+             bupropion, liraglutide, semaglutide) within the last 12 weeks before screening;&#xD;
+&#xD;
+          -  Treatment with thyroid hormone that was not maintained at a stable dose in last 12&#xD;
+             weeks before screening;&#xD;
+&#xD;
+          -  History of active substance abuse (including alcohol) within the last year;&#xD;
+&#xD;
+          -  Thyroid Stimulating Hormone (TSH) outside the normal range;&#xD;
+&#xD;
+          -  Fasting triglycerides ≥ 600 mg/dL;&#xD;
+&#xD;
+          -  Tumor diagnosed and/or treated (except basal cell skin cancer, carcinoma in situ of&#xD;
+             the cervix, or prostate cancer in situ) within the last 5 years;&#xD;
+&#xD;
+          -  Severe psychiatric illness;&#xD;
+&#xD;
+          -  Predisposition or diagnosis of eating disorders;&#xD;
+&#xD;
+          -  Women who are pregnant, intend to become pregnant during the study period, or who are&#xD;
+             currently breastfeeding;&#xD;
+&#xD;
+          -  Hyperglycemia characterized by acute symptoms: polyuria, polydipsia and/or weight loss&#xD;
+             in the last 3 months;&#xD;
+&#xD;
+          -  Metabolic and acute complications of diabetes such as ketoacidosis or hyperosmolar&#xD;
+             coma;&#xD;
+&#xD;
+          -  Potentially unreliable patients and those deemed by the investigator to be unsuitable&#xD;
+             for the study;&#xD;
+&#xD;
+          -  Night workers who work after 10pm;&#xD;
+&#xD;
+          -  Being on a vegetarian, vegan or flexitarian diet at the time of recruitment;&#xD;
+&#xD;
+          -  Having undergone bariatric surgery;&#xD;
+&#xD;
+          -  Carriers of the human immunodeficiency virus (HIV);&#xD;
+&#xD;
+          -  Any other medical condition/disorder that the investigators consider that are likely&#xD;
+             to: interfere with the patient's ability to complete the entire study period or&#xD;
+             participate in study activities;&#xD;
+&#xD;
+          -  Participants who require any treatment that could affect the interpretation,&#xD;
+             reliability or safety of data during the study intervention.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Fernando Gerchman, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital de Clínicas de Porto Alegre</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Fernando Gerchman, PhD</last_name>
+    <phone>+555133596246</phone>
+    <email>fgerchman@hcpa.edu.br</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital de Clínicas de Porto Alegre</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande Do Sul</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fernando Gerchman, PhD</last_name>
+      <phone>55 51 33598127</phone>
+      <email>fgerchman@hcpa.edu.br</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <reference>
+    <citation>Toumpanakis A, Turnbull T, Alba-Barba I. Effectiveness of plant-based diets in promoting well-being in the management of type 2 diabetes: a systematic review. BMJ Open Diabetes Res Care. 2018 Oct 30;6(1):e000534. doi: 10.1136/bmjdrc-2018-000534. eCollection 2018.</citation>
+    <PMID>30487971</PMID>
+  </reference>
+  <reference>
+    <citation>Willett W, Rockstrom J, Loken B, Springmann M, Lang T, Vermeulen S, Garnett T, Tilman D, DeClerck F, Wood A, Jonell M, Clark M, Gordon LJ, Fanzo J, Hawkes C, Zurayk R, Rivera JA, De Vries W, Majele Sibanda L, Afshin A, Chaudhary A, Herrero M, Agustina R, Branca F, Lartey A, Fan S, Crona B, Fox E, Bignet V, Troell M, Lindahl T, Singh S, Cornell SE, Srinath Reddy K, Narain S, Nishtar S, Murray CJL. Food in the Anthropocene: the EAT-Lancet Commission on healthy diets from sustainable food systems. Lancet. 2019 Feb 2;393(10170):447-492. doi: 10.1016/S0140-6736(18)31788-4. Epub 2019 Jan 16. No abstract available. Erratum In: Lancet. 2019 Feb 9;393(10171):530. Lancet. 2019 Jun 29;393(10191):2590. Lancet. 2020 Feb 1;395(10221):338. Lancet. 2020 Oct 3;396(10256):e56.</citation>
+    <PMID>30660336</PMID>
+  </reference>
+  <reference>
+    <citation>Moulin CC, Tiskievicz F, Zelmanovitz T, de Oliveira J, Azevedo MJ, Gross JL. Use of weighed diet records in the evaluation of diets with different protein contents in patients with type 2 diabetes. Am J Clin Nutr. 1998 May;67(5):853-7. doi: 10.1093/ajcn/67.5.853.</citation>
+    <PMID>9583841</PMID>
+  </reference>
+  <reference>
+    <citation>Tai MM. A mathematical model for the determination of total area under glucose tolerance and other metabolic curves. Diabetes Care. 1994 Feb;17(2):152-4. doi: 10.2337/diacare.17.2.152.</citation>
+    <PMID>8137688</PMID>
+  </reference>
+  <reference>
+    <citation>Czerwoniuk D, Fendler W, Walenciak L, Mlynarski W. GlyCulator: a glycemic variability calculation tool for continuous glucose monitoring data. J Diabetes Sci Technol. 2011 Mar 1;5(2):447-51. doi: 10.1177/193229681100500236.</citation>
+    <PMID>21527118</PMID>
+  </reference>
+  <reference>
+    <citation>Wang YP, Gorenstein C. Psychometric properties of the Beck Depression Inventory-II: a comprehensive review. Braz J Psychiatry. 2013 Oct-Dec;35(4):416-31. doi: 10.1590/1516-4446-2012-1048. Epub 2013 Dec 23.</citation>
+    <PMID>24402217</PMID>
+  </reference>
+  <reference>
+    <citation>Sousa TV, Viveiros V, Chai MV, Vicente FL, Jesus G, Carnot MJ, Gordo AC, Ferreira PL. Reliability and validity of the Portuguese version of the Generalized Anxiety Disorder (GAD-7) scale. Health Qual Life Outcomes. 2015 Apr 25;13:50. doi: 10.1186/s12955-015-0244-2.</citation>
+    <PMID>25908249</PMID>
+  </reference>
+  <reference>
+    <citation>Queiroz de Medeiros AC, Campos Pedrosa LF, Hutz CS, Yamamoto ME. Brazilian version of food cravings questionnaires: Psychometric properties and sex differences. Appetite. 2016 Oct 1;105:328-33. doi: 10.1016/j.appet.2016.06.003. Epub 2016 Jun 7.</citation>
+    <PMID>27288149</PMID>
+  </reference>
+  <reference>
+    <citation>Cruz LN, Fleck MP, Oliveira MR, Camey SA, Hoffmann JF, Bagattini AM, Polanczyk CA. Health-related quality of life in Brazil: normative data for the SF-36 in a general population sample in the south of the country. Cien Saude Colet. 2013 Jul;18(7):1911-21. doi: 10.1590/s1413-81232013000700006.</citation>
+    <PMID>23827895</PMID>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 23, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 31, 2023</study_first_posted>
+  <last_update_submitted>January 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Diabetes Mellitus</keyword>
+  <keyword>Obesity</keyword>
+  <keyword>Plant-based Diet</keyword>
+  <keyword>Insulin Resistance</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+    <mesh_term>Overweight</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

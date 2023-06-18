@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9050">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05706324</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BV-C315A-I-2022004</org_study_id>
+    <nct_id>NCT05706324</nct_id>
+  </id_info>
+  <brief_title>Phase Ⅰ Clinical Trial of a Candidate COVID-19 Vaccine</brief_title>
+  <official_title>A Single-arm, Open-label Phase I Clinical Study to Evaluate the Safety, Tolerability and Immunogenicity of Recombinant COVID-19 Vaccine (Adenovirus Vector) for Inhalation in People 21 to 65 Years Old (Previously Primed With Authorized Vaccines)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Wuhan BravoVax Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National University Hospital, Singapore</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Shanghai BravoBio Co., Ltd.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Wuhan BravoVax Co., Ltd.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this trial, a single-arm, open-label study design will be used to evaluate the safety and&#xD;
+      tolerability after vaccination with escalating doses of the investigational vaccine&#xD;
+      (Recombinant COVID-19 Vaccine (chimpanzee adenovirus vector) for Inhalation, RCVi) at low,&#xD;
+      medium, and high doses in healthy adults (previously primed with authorized vaccines).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 2023</start_date>
+  <completion_date type="Anticipated">July 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety in terms of adverse events</measure>
+    <time_frame>within 30 minutes after vaccination</time_frame>
+    <description>Number of Participants with any local and systemic Adverse Events (AEs)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety in terms of solicited AEs</measure>
+    <time_frame>within 7 days after vaccination</time_frame>
+    <description>Number of Participants with solicited AEs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety in terms of unsolicited AEs</measure>
+    <time_frame>within 28 days after vaccination</time_frame>
+    <description>Number of Participants with unsolicited AEs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety in terms of laboratory-based AEs</measure>
+    <time_frame>4 days after vaccination</time_frame>
+    <description>Changes in laboratory test indicators of clinical significance after vaccination as compared with those before vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety in terms of SAEs</measure>
+    <time_frame>within 6 months after vaccination</time_frame>
+    <description>Number of Participants with SAEs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety in terms of MAAEs and AESIs</measure>
+    <time_frame>within 6 months after vaccination</time_frame>
+    <description>Incidence of all Medical Attended Adverse Events (MAAEs) requiring medical attention and Adverse Events of Special Interest (AESIs)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity in terms of Humoral immune response by ELISA</measure>
+    <time_frame>15, 29 days, 3 and 6 months after vaccination</time_frame>
+    <description>GMT of S protein specific antibody by ELISA</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogencity in terms of Nab</measure>
+    <time_frame>15, 29 days, 3 and 6 months after vaccination</time_frame>
+    <description>GMT, seroconversion rate and GMFI of neutralizing antibody (NAb) response</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogencity in terms of Cellular immune response</measure>
+    <time_frame>15 days after vaccination</time_frame>
+    <description>Intracellular cytokine levels (ICS) in T lymphocytes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogencity in terms of Mucosal immune response</measure>
+    <time_frame>15 days after vaccination</time_frame>
+    <description>Anti-SARS-CoV-2 S protein mucosal IgA antibodies</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Low dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>21~65 year old healthy subjects, received low dose of RCVi</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Medium dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>21~65 year old healthy subjects, received medium dose of RCVi</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>21~65 year old healthy subjects, received high dose of RCVi</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Recombinant COVID-19 Vaccine (chimpanzee adenovirus vector) for Inhalation</intervention_name>
+    <description>0.2mL/dose, Inhalation using a nebulizer</description>
+    <arm_group_label>High dose</arm_group_label>
+    <arm_group_label>Low dose</arm_group_label>
+    <arm_group_label>Medium dose</arm_group_label>
+    <other_name>RCVi</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  People aged 21 to 65 years old, with body weight ≥ 50 kg for males and ≥ 45 kg for&#xD;
+             females, body mass index (BMI) within the range of 19.0-30.0 (including the boundary&#xD;
+             value), who can provide legal identification;&#xD;
+&#xD;
+          -  Subjects who agree to participate in this study voluntarily and sign an Informed&#xD;
+             Consent Form.&#xD;
+&#xD;
+          -  Subject who has the ability to understand the study procedures and be able to attend&#xD;
+             all scheduled follow-up;&#xD;
+&#xD;
+          -  Individuals who completed basic vaccination of licensed vaccine or further received&#xD;
+             the first booster dose vaccination 4~12 months prior to recruitment in this&#xD;
+             study（including but not limited to mRNA or non-mRNA vaccine）.&#xD;
+&#xD;
+          -  Female subjects who are not pregnant or breast-feeding;&#xD;
+&#xD;
+          -  Women of childbearing age who agree to use effective contraception during the study;&#xD;
+             or have been using effective contraception within 2 weeks prior to enrollment.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Those who had fever (body temperature≥ 38.0 °C/100.4 °F), dry cough, fatigue, nasal&#xD;
+             congestion, runny nose, sore throat, myalgia, diarrhea, shortness of breath, and&#xD;
+             dyspnea in the past 14 days before vaccination;&#xD;
+&#xD;
+          -  Subject whose SARS-CoV-2 nucleic acid test result is positive;&#xD;
+&#xD;
+          -  Subject with a body temperature of ≥ 38.0 °C/100.4 °F (axillary temperature) on the&#xD;
+             day of enrollment;&#xD;
+&#xD;
+          -  Subject who has oral ulcers, throat swelling and other oral and nasopharyngeal&#xD;
+             diseases;&#xD;
+&#xD;
+          -  Subject with abnormal vital signs, physical examination and laboratory test indicators&#xD;
+             at screening that are judged by clinicians to be clinically significant;&#xD;
+&#xD;
+          -  Subject who has a previous history of severe allergy to any drug, food or vaccination,&#xD;
+             such as urticaria, anaphylactic shock, allergic laryngeal edema, allergic dyspnea,&#xD;
+             skin eczema, Henoch-Schonlein purpura, thrombocytopenic purpura, local allergic&#xD;
+             necrosis reaction (Arthus reaction), etc.;&#xD;
+&#xD;
+          -  Subject who has suffered from acute disease or in the acute attack stage of chronic&#xD;
+             disease within 3 days before vaccination, or has used antipyretic, analgesic and&#xD;
+             anti-allergy drugs;&#xD;
+&#xD;
+          -  Subject within 6 months prior to vaccination participation in a coronavirus (MERS-CoV,&#xD;
+             SARS-CoV-2) vaccine and/or drug (small molecule) and/or antibody study; Participation&#xD;
+             in any clinical study within 3 months prior to vaccination or planned participation in&#xD;
+             other (drug or vaccine) clinical studies during the study;&#xD;
+&#xD;
+          -  Subject who has received other vaccines within 1 month before vaccination;&#xD;
+&#xD;
+          -  Subject who has used immunoenhancers or immunosuppressants in the past 3 months;&#xD;
+&#xD;
+          -  Subject who was diagnosed with congenital or acquired immunodeficiency, or suspected&#xD;
+             to have systemic diseases that may interfere with the conduct or completion of the&#xD;
+             study, such as tuberculosis, hepatitis B, hepatitis C, human immunodeficiency virus&#xD;
+             (HIV), syphilis infection, etc.;&#xD;
+&#xD;
+          -  Subject who was diagnosed with serious diseases, congenital anomalies or chronic&#xD;
+             disease that may interfere with the conduct or completion of the study (including but&#xD;
+             not limited to: allergy to vaccines, asthma and other respiratory diseases or chronic&#xD;
+             bronchitis, hypertension, hypotension, heart disease, kidney disease, diabetes&#xD;
+             mellitus (type 1 or type 2), autoimmune diseases, thalassemia, malignant tumor, atopy,&#xD;
+             existing skin diseases, etc.);&#xD;
+&#xD;
+          -  Subject who has received blood or blood-related products (such as blood transfusion,&#xD;
+             use of human albumin, human immunoglobulin, etc.) within the past 6 months;&#xD;
+&#xD;
+          -  Subject with a history or family history of convulsions, epilepsy, encephalopathy and&#xD;
+             psychosis;&#xD;
+&#xD;
+          -  Subject with functional asplenia or splenectomy caused by any situation;&#xD;
+&#xD;
+          -  Subject who has any condition that, in the opinion of the investigator, may interfere&#xD;
+             with the evaluation of the objectives of the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Long Xu, Ph.D.</last_name>
+    <phone>+86 27 8798 8585</phone>
+    <phone_ext>8251</phone_ext>
+    <email>ct@bravovax.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>National University Hospital</name>
+      <address>
+        <city>Singapore</city>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Paul Tambyah, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Singapore</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>January 29, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 29, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 31, 2023</study_first_posted>
+  <last_update_submitted>April 24, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 24, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Inhalation</keyword>
+  <keyword>COVID-19 Vaccine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

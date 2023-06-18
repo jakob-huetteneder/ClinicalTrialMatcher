@@ -47,7 +47,7 @@ public class TrialServiceImpl implements TrialService {
     public List<TrialDto> getAllTrials() {
         LOG.trace("getAllTrials()");
         List<Trial> trials = trialRepository.findAll();
-        LOG.info("Retrieved all trials ({})", trials.size());
+        LOG.debug("Retrieved all trials ({})", trials.size());
         return trialMapper.trialToTrialDto(trials);
     }
 
@@ -56,20 +56,20 @@ public class TrialServiceImpl implements TrialService {
         LOG.trace("getAllTrials()");
         Long researcherId = authorizationService.getSessionUserId();
         var trials = trialRepository.getTrialByResearcher_Id(researcherId);
-        LOG.info("Retrieved own trials ({})", trials.size());
+        LOG.debug("Retrieved own trials ({})", trials.size());
         return trialMapper.trialToTrialDto(trials);
     }
 
     @Override
     public TrialDto findTrialById(Long id) {
-        LOG.trace("findTrialById()");
+        LOG.trace("findTrialById({})", id);
         Optional<Trial> trial = trialRepository.findById(id);
         return trialMapper.trialToTrialDto(trial.orElseThrow(() -> new NotFoundException("Trial does not exist.")));
     }
 
     @Override
     public TrialDto saveTrial(TrialDto trial) {
-        LOG.trace("saveTrial()");
+        LOG.trace("saveTrial({})", trial);
         Trial convertedTrial = trialMapper.trialDtoToTrial(trial);
         ApplicationUser loggedInUser = userRepository.findById(authorizationService.getSessionUserId())
             .orElseThrow(() -> new NotFoundException("Could not find a user for the logged in user."));
@@ -79,22 +79,22 @@ public class TrialServiceImpl implements TrialService {
         convertedTrial.setResearcher(
             (Researcher) loggedInUser);
         Trial savedTrial = trialRepository.save(convertedTrial);
-        LOG.info("Saved trial with id='{}'", convertedTrial.getId());
+        LOG.debug("Saved trial with id='{}'", convertedTrial.getId());
         return trialMapper.trialToTrialDto(savedTrial);
     }
 
     @Override
     public TrialDto updateTrial(TrialDto trial) {
-        LOG.trace("updateTrial()");
+        LOG.trace("updateTrial({})", trial);
         Trial convertedTrial = trialMapper.trialDtoToTrial(trial);
         Trial updatedTrial = trialRepository.save(convertedTrial);
-        LOG.info("Updated trial with id='{}'", convertedTrial.getId());
+        LOG.debug("Updated trial with id='{}'", convertedTrial.getId());
         return trialMapper.trialToTrialDto(updatedTrial);
     }
 
     @Override
     public void deleteTrialById(Long id) {
-        LOG.trace("deleteTrial()");
+        LOG.trace("deleteTrial({})", id);
         // check if researcher responsible for the trial is the same as the logged in user
         Long researcherId = authorizationService.getSessionUserId();
         var trials = trialRepository.getTrialByResearcher_Id(researcherId);
@@ -103,7 +103,7 @@ public class TrialServiceImpl implements TrialService {
         }
 
         trialRepository.deleteById(id);
-        LOG.info("Deleted trial with id='{}'", id);
+        LOG.debug("Deleted trial with id='{}'", id);
     }
 
     @Override

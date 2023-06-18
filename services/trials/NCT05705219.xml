@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9102">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05705219</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB-68310</org_study_id>
+    <secondary_id>R01CA195443</secondary_id>
+    <nct_id>NCT05705219</nct_id>
+  </id_info>
+  <brief_title>Development of 3DMPUS as a Decision Support Tool for Patients With Liver Tumors Undergoing Therapy</brief_title>
+  <acronym>3DMPUS</acronym>
+  <official_title>Development of 3DMPUS as a Decision Support Tool for Patients With Liver Tumors Undergoing Therapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This clinical trial studies how well 3-dimensional multi-parametric ultrasound (3D MPUS)&#xD;
+      imaging works as a decision-support tool for patients with liver tumors undergoing therapy.&#xD;
+      Continuous and dynamic imaging of patients undergoing therapy is required to monitor&#xD;
+      early-phase treatment response. 3D-MPUS is an inexpensive and safe method, which may provide&#xD;
+      complementary quantitative functional (perfusion) and tissue characterization information to&#xD;
+      anatomical radiological assessment or blood biomarkers.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2027</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Diagnostic yield of the 3D-MPUS data acquisition</measure>
+    <time_frame>Baseline visit (average approximately to 45 minutes to perform scan)</time_frame>
+    <description>Diagnostic yield will be the percentage of non-missing measurements (per reader, per measurement)&#xD;
+Participants with successful measurements of the following parameters (following administration of a radiotracer).&#xD;
+volume&#xD;
+peak enhancement (PE)&#xD;
+area-under-the-curve (AUC)&#xD;
+time-to-peak (TP)&#xD;
+mean-transit-time (MTT)&#xD;
+mid-band fit (MBF)&#xD;
+spectral slope (SS)&#xD;
+spectral intercept (SI)&#xD;
+Readers include Principal Investigator and technician.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Inter-reader agreement for 3D-MPUS measurements at first scan</measure>
+    <time_frame>Baseline visit (average approximately to 45 minutes to assess scan)</time_frame>
+    <description>We will test for a difference between responders and non-responders, using a Wilcoxon rank-sum test.&#xD;
+Readers include Principal Investigator and technician.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Relationship between baseline and one-month 3D-MPUS measurements and treatment response after three-months</measure>
+    <time_frame>Baseline and 3 months post treatment</time_frame>
+    <description>We will perform univariable and multivariable logistic regressions of treatment response at three months on percent change in measurements between baseline and one-month post treatment.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Liver Cancer, Adult</condition>
+  <arm_group>
+    <arm_group_label>3-dimensional multi-parametric ultrasound imaging (3D-MPUS)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive sulfur hexafluoride IV and undergo 3D-MPUS imaging over 20 minutes.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>3D-MPUS</intervention_name>
+    <description>Subjects will receive approximately &lt; 20 minutes ultrasound scan to locate the lesion followed by acquisition of 3D-MPUS acquisition.</description>
+    <arm_group_label>3-dimensional multi-parametric ultrasound imaging (3D-MPUS)</arm_group_label>
+    <other_name>3-dimensional multi-parametric ultrasound imaging</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. The participant is about to undergo a new course of therapy for primary or metastatic&#xD;
+             liver cancer.&#xD;
+&#xD;
+          2. The participant is age &gt; 18 years.&#xD;
+&#xD;
+          3. Participant has at least one target lesion (≥1cm and &lt;14cm)&#xD;
+&#xD;
+          4. The participant is willing to comply with protocol requirements.&#xD;
+&#xD;
+          5. The participant has the ability to understand and the willingness to sign a written&#xD;
+             informed consent document.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Participant has documented anaphylactic or other severe reactions to any ultrasound or&#xD;
+             CT contrast media.&#xD;
+&#xD;
+          2. Participant has documented severe Hypersensitivity to macrogol/ polyethylene glycol&#xD;
+             (PEG).&#xD;
+&#xD;
+          3. Participant has documented the presence of a cardiac shunt or pulmonary hypertension&#xD;
+             (pulmonary artery pressure &gt;90 mmHg).&#xD;
+&#xD;
+          4. Participant has documented renal insufficiency with a creatinine level of &gt;1.5mg/dl.&#xD;
+&#xD;
+          5. Participant has documented uncontrolled systemic hypertension.&#xD;
+&#xD;
+          6. Participant has documented concomitant diseases like acute endocarditis, prosthetic&#xD;
+             valve, hyperactive coagulation states and/ or recent thromboembolism, and sepsis&#xD;
+&#xD;
+          7. Participant is pregnant (positive urine or serum beta-hCG) or lactating.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ahmed El Kaffas, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Aya Kamaya, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Andrej Lyshchik, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Thomas Jefferson University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>David Marcellus, BS</last_name>
+    <phone>(650) 723-4547</phone>
+    <email>dmarcel2@stanford.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Stanford University, School of Medicine</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>David Marcellus, BS</last_name>
+      <phone>650-723-4547</phone>
+      <email>dmarcel2@stanford.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Ahmed El Kaffas, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Aya Kamaya, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Thomas Jefferson Hospital</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Andrej Lyshchik, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>John Eisenbrey, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 18, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>January 18, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 18, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Stanford University</investigator_affiliation>
+    <investigator_full_name>Ahmed Nagy El Kaffas</investigator_full_name>
+    <investigator_title>Clinical Instructor</investigator_title>
+  </responsible_party>
+  <keyword>Diagnostic Study</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma, Hepatocellular</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

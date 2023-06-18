@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9591">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05694871</url>
+  </required_header>
+  <id_info>
+    <org_study_id>A092107</org_study_id>
+    <nct_id>NCT05694871</nct_id>
+  </id_info>
+  <brief_title>Testing the Addition of Cemiplimab to Palbociclib for the Treatment of Advanced Dedifferentiated Liposarcoma</brief_title>
+  <official_title>Official Title A Randomized Phase 2 Trial With a Safety Lead-In to Evaluate Palbociclib Versus Palbociclib and Cemiplimab for the Treatment of Advanced Dedifferentiated Liposarcoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Alliance for Clinical Trials in Oncology</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Alliance for Clinical Trials in Oncology</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial compares the effect of treatment with palbociclib alone to treatment with&#xD;
+      palbociclib plus cemiplimab for treating patients with dedifferentiated liposarcoma that may&#xD;
+      have spread from where it first started to nearby tissue, lymph nodes, or distant parts of&#xD;
+      the body (advanced). Palbociclib may stop the growth of cancer cells by blocking some of the&#xD;
+      enzymes needed for cell growth. Cemiplimab is a monoclonal antibody that may interfere with&#xD;
+      the ability of cancer cells to grow and spread. The combination of these two drugs may be&#xD;
+      more effective in shrinking or stabilizing advanced dedifferentiated liposarcoma compared to&#xD;
+      palbociclib alone.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:&#xD;
+&#xD;
+      I. To perform a safety lead-in among 6 patients to confirm that the combination of&#xD;
+      palbociclib and cemiplimab is safe and tolerable.&#xD;
+&#xD;
+      II. To evaluate whether palbociclib in combination with cemiplimab (Arm 2) demonstrates a&#xD;
+      superior progression-free survival (PFS) compared to palbociclib monotherapy (Arm 1) for&#xD;
+      patients with advanced dedifferentiated liposarcoma (DDLPS).&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. To evaluate the toxicity profile in and across each treatment arm as determined by both&#xD;
+      Common Terminology Criteria for Adverse Events (CTCAE) and Patient Reported Outcomes&#xD;
+      (PRO)-CTCAE criteria.&#xD;
+&#xD;
+      II. To evaluate and compare the objective response rate (ORR) and duration of response (DOR)&#xD;
+      in and across each treatment arm.&#xD;
+&#xD;
+      III. To evaluate and compare the overall survival (OS) in and across each treatment arm.&#xD;
+&#xD;
+      IV. To evaluate and compare progression-free rate at 8 weeks (PFR8) in and across each&#xD;
+      treatment arm.&#xD;
+&#xD;
+      EXPLORATORY OBJECTIVES:&#xD;
+&#xD;
+      I. To collect genomic sequencing data previously collected as standard of care, including&#xD;
+      data on CDK4 copy number (as determined by fluorescence in situ hybridization [FISH] or other&#xD;
+      molecular testing).&#xD;
+&#xD;
+      II. To conduct multiplex immunohistochemistry using archival tumor tissue (where available)&#xD;
+      to define densities of infiltrating immune cell subsets and tumor and immune cell major&#xD;
+      histocompatibility complex (MHC) and PD-L1 expression.&#xD;
+&#xD;
+      III. To perform an exploratory analysis to evaluate for any relationship between CDK4 copy&#xD;
+      number and (a) the tumor immune microenvironment as defined by multiplex immunohistochemistry&#xD;
+      and (b) clinical outcomes from study treatment.&#xD;
+&#xD;
+      IV. To explore efficacy and toxicity endpoints, including PFS and ORR, for patients who&#xD;
+      progress on palbociclib monotherapy and crossover to the palbociclib plus cemiplimab&#xD;
+      combination.&#xD;
+&#xD;
+      OUTLINE: Patients are randomized to 1 of 2 arms.&#xD;
+&#xD;
+      ARM I: Patients receive palbociclib orally (PO) on study. Patients will be allowed to cross&#xD;
+      over to Arm II following documentation of disease progression. Patients undergo magnetic&#xD;
+      resonance imaging (MRI) or computed tomography (CT) scans throughout the trial. Patients may&#xD;
+      also undergo blood sample collection on study.&#xD;
+&#xD;
+      ARM II: Patients receive palbociclib PO and cemiplimab intravenously (IV) on study. Patients&#xD;
+      undergo MRI or CT scans throughout the trial. Patients may also undergo blood sample&#xD;
+      collection on study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 20, 2023</start_date>
+  <completion_date type="Anticipated">May 31, 2027</completion_date>
+  <primary_completion_date type="Anticipated">May 31, 2027</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>The time from randomization to the first documentation of disease progression or death, assessed up to 48 months.</time_frame>
+    <description>Efficacy analyses will be based on intention to treat principles. PFS will be compared between the two treatment arms using Kaplan-Meier methods. The hazard ratio, median PFS, and estimated PFS rates at 12, 24, 36, and 48 months will be estimated along with corresponding 95% confidence intervals. A log-rank test will be used to compare the PFS distributions between the two treatment arms in this cohort. Cox proportional hazards models will also be used to assess the impact of treatment arm on PFS when stratifying on the stratification factors.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Patients will be evaluated for adverse events using the National Cancer Institute Common Toxicity Criteria for Adverse Events version 5.0. Summary statistics (e.g., mean, median, standard deviation) and frequency tables will be used to describe the distributions of adverse events. Rates of adverse events occurring in the treatment arm will be compared to the control arm with chi-squared tests (or suitable alternative) used for comparisons where applicable. Tolerability will also be evaluated, summarizing rates of dose delays or modifications, reasons patients end treatment, and time to end of active treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DoR)</measure>
+    <time_frame>up to 2 years</time_frame>
+    <description>Defined for all evaluable patients who have achieved an objective response as the date at which the patient's earliest best objective status is first noted to be either a complete response or partial response to the earliest date progression is documented, or death if no prior evidence of disease progression. The distribution of DoR will be estimated using the method of Kaplan-Meier.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>up to 2 years</time_frame>
+    <description>Defined as the time from randomization to death due to any cause. Patients who are alive will be censored at last follow-up for OS. The distribution of survival time will be estimated using the method of Kaplan-Meier. OS will be compared between treatment arms using the log-rank test. OS medians, survival rates and hazard ratio will be estimated along with 95% confidence intervals.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression free rate at 8 weeks (PFR8)</measure>
+    <time_frame>At 8 weeks</time_frame>
+    <description>Defined as the proportion of evaluable patients who are alive and without evidence of disease progression 8 weeks after initiation of study therapy. The final PFR8 point estimate and corresponding 95% confidence interval calculated using Clopper-Pearson method.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>CDK4 copy number</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Explore data on CDK4 copy number (by fluorescence in situ hybridization [FISH] or other molecular testing) through plots and summary statistics.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Infiltrating immune cell subsets and tumor and immune cell major histocompatibility complex (MHC) and PD-L1 expression</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Conduct multiplex immunohistochemistry using archival tumor tissue (where available) to summarize densities of infiltrating immune cell subsets and tumor and immune cell MHC and PD-L1 expression.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Relationship between CDK4 copy number and the tumor immune microenvironment and clinical outcomes</measure>
+    <time_frame>up to 2 years</time_frame>
+    <description>Explore the relationship between CDK4 copy number and (a) the tumor immune microenvironment as defined by multiplex immunohistochemistry and (b) clinical outcomes from study treatment Clinical endpoints include PFS, objective response rate, OS, PFR8, and DoR. Cox regression will be used on time-to-event outcomes and T-test on binary outcomes</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Efficacy and toxicity endpoints</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Explore the efficacy and toxicity endpoints for patients who progress on palbociclib monotherapy and crossover to the palbociclib plus cemiplimab combination A sensitivity analysis will be conducted to see how crossover effects overall survival. Rate and severity of adverse events will be used to assess differences between crossover and non-crossover patients.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">72</enrollment>
+  <condition>Advanced Dedifferentiated Liposarcoma</condition>
+  <condition>Locally Advanced Dedifferentiated Liposarcoma</condition>
+  <condition>Metastatic Dedifferentiated Liposarcoma</condition>
+  <condition>Stage III Soft Tissue Sarcoma of the Trunk and Extremities AJCC v8</condition>
+  <condition>Stage IV Soft Tissue Sarcoma of the Trunk and Extremities AJCC v8</condition>
+  <condition>Unresectable Dedifferentiated Liposarcoma</condition>
+  <arm_group>
+    <arm_group_label>Arm I (palbociclib)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients receive palbociclib PO on study. Patients will be allowed to cross over to Arm II following documentation of disease progression. Patients undergo MRI or CT scans throughout the trial. Patients may also undergo blood sample collection on study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II (palbociclib, cemiplimab)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive palbociclib PO and cemiplimab IV on study. Patients undergo MRI or a CT scan throughout the trial. Patients may also undergo blood sample collection on study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Palbociclib</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Arm I (palbociclib)</arm_group_label>
+    <arm_group_label>Arm II (palbociclib, cemiplimab)</arm_group_label>
+    <other_name>PD-0332991</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Cemiplimab</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Arm II (palbociclib, cemiplimab)</arm_group_label>
+    <other_name>Cemiplimab RWLC</other_name>
+    <other_name>Immunoglobulin G4</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Magnetic Resonance Imaging</intervention_name>
+    <description>undergo MRI</description>
+    <arm_group_label>Arm I (palbociclib)</arm_group_label>
+    <arm_group_label>Arm II (palbociclib, cemiplimab)</arm_group_label>
+    <other_name>MRI</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Computed Tomography</intervention_name>
+    <description>Undergo a CT Scan</description>
+    <arm_group_label>Arm I (palbociclib)</arm_group_label>
+    <arm_group_label>Arm II (palbociclib, cemiplimab)</arm_group_label>
+    <other_name>CAT Scan</other_name>
+    <other_name>CT Scan</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Biospecimen collection</intervention_name>
+    <description>Undergo blood sample collection</description>
+    <arm_group_label>Arm I (palbociclib)</arm_group_label>
+    <arm_group_label>Arm II (palbociclib, cemiplimab)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaire Administration</intervention_name>
+    <description>Ancillary Studies</description>
+    <arm_group_label>Arm I (palbociclib)</arm_group_label>
+    <arm_group_label>Arm II (palbociclib, cemiplimab)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Patients must have histologically documented&#xD;
+             dedifferentiated liposarcoma (DDLPS). Patients with mixed&#xD;
+             well-differentiated/dedifferentiated liposarcoma (WD/DD LPS) tumors are eligible&#xD;
+             provided there is a histologically confirmed DDLPS component at some point during the&#xD;
+             treatment course&#xD;
+&#xD;
+               -  Disease must be metastatic or locally advanced and surgically unresectable, in&#xD;
+                  the opinion of the treating investigator&#xD;
+&#xD;
+               -  Note: Intact retinoblastoma protein (RB) can be assumed in DDLPS. In a query of&#xD;
+                  project Genomics Evidence Neoplasia Information Exchange (GENIE) (American&#xD;
+                  Association for Cancer Research [AACR]), including 286 DDLPS tumors, the rate of&#xD;
+                  RB1 mutation in DDLPS was 1.37%. Therefore, molecular testing to determine intact&#xD;
+                  Rb is not required&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Patients must have at least one lesion that is&#xD;
+             measurable per Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1&#xD;
+             criteria to be eligible for this study. Previously radiated lesions should not be used&#xD;
+             as target lesions unless there is documented evidence of disease progression of that&#xD;
+             lesion after radiation&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Patients may have received any number of prior systemic&#xD;
+             treatment lines for DDLPS, including none&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Patients must have recovered to baseline or =&lt; grade 1&#xD;
+             per CTCAE version 5.0 from toxicity related to any prior treatment, unless adverse&#xD;
+             events are clinically nonsignificant and/or stable on supportive therapy, and with the&#xD;
+             exceptions of fatigue (which must be =&lt; grade 2), alopecia and/or endocrinopathies&#xD;
+             related to prior immunotherapy which are controlled with hormone replacement&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Patients must have completed all prior anti-cancer&#xD;
+             treatment, including radiation, &gt;= 14 days prior to registration&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Age &gt;= 18 years&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Eastern Cooperative Oncology Group (ECOG) Performance&#xD;
+             Status 0-2&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Absolute neutrophil count (ANC) &gt;= 1000/mm^3&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Platelet count &gt;= 100,000/mm^3&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Hemoglobin &gt;= 9 g/dL&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Creatinine clearance (CrCl) &gt;= 30 mL/min&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Total bilirubin =&lt; 1.5 x upper limit of normal (ULN)&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Aspartate aminotransferase (AST)/alanine&#xD;
+             aminotransferase (ALT) =&lt; 3.0 x ULN&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Patients with known history or current symptoms of&#xD;
+             cardiac disease, or history of treatment with cardiotoxic agents, should have a&#xD;
+             clinical assessment of cardiac function using the New York Heart Association&#xD;
+             Functional Classification. To be eligible, patients should be class IIB or better.&#xD;
+             Furthermore, patients may not have an uncontrolled ventricular arrhythmia or recent&#xD;
+             (within 3 months) myocardial infarction&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): For patients with evidence of chronic hepatitis B (HBV)&#xD;
+             infection, the HBV viral load must be undetectable on suppressive therapy, if&#xD;
+             indicated&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Patients with a history of hepatitis C virus (HCV)&#xD;
+             infection must have been treated and cured. For patients with HCV infection who are&#xD;
+             currently receiving treatment, they are eligible if they have an undetectable HCV&#xD;
+             viral load&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Human immunodeficiency virus (HIV)-infected patients on&#xD;
+             effective anti-retroviral therapy with undetectable viral load within 6 months are&#xD;
+             eligible for this trial&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Patients with a prior or concurrent malignancy whose&#xD;
+             natural history or treatment does not have the potential to interfere with the safety&#xD;
+             or efficacy assessment of the investigational regimen are eligible for this trial.&#xD;
+             Patients participating on this trial may not be receiving other anti-neoplastic&#xD;
+             therapies and there should be no anticipated need for such therapy&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Patients with treated brain metastases that are&#xD;
+             non-progressing are eligible if follow-up brain imaging performed at least 4 weeks&#xD;
+             after central nervous system (CNS)-directed therapy shows no evidence of progression.&#xD;
+             Patients with new or progressive brain metastases (active brain metastases) or&#xD;
+             leptomeningeal disease are not eligible&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Patients must be able to swallow oral medications&#xD;
+&#xD;
+          -  RE-REGISTRATION ELIGIBILITY CRITERIA (FOR STEP 2 CROSSOVER FROM ARM 1 TO ARM 2): In&#xD;
+             order to cross over to Arm 2, patients must meet the same eligibility criteria as&#xD;
+             described above&#xD;
+&#xD;
+          -  RE-REGISTRATION ELIGIBILITY CRITERIA (FOR STEP 2 CROSSOVER FROM ARM 1 TO ARM 2):&#xD;
+             Patients must have demonstrated progression of disease on palbociclib monotherapy (Arm&#xD;
+             1) per RECIST version 1.1 criteria&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Patients may not have received prior treatment with&#xD;
+             CDK4/6 inhibitors (including, but not limited to: palbociclib, ribociclib or&#xD;
+             abemaciclib) or anti-PD-1/anti-PD-L1 antibodies&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Not pregnant and not nursing, because this study&#xD;
+             involves an agent that has known genotoxic, mutagenic and teratogenic effects&#xD;
+&#xD;
+             * Therefore, for women of childbearing potential only, a negative serum pregnancy test&#xD;
+             done =&lt; 7 days prior to registration is required&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Patients must not have an active autoimmune disease&#xD;
+             with the exception of vitiligo, well-controlled asthma or allergic rhinitis, type 1&#xD;
+             diabetes, psoriasis or hypothyroidism. Patients with a history of adrenal&#xD;
+             insufficiency are eligible if on a stable dose of prednisone =&lt; 10 mg or equivalent&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Patients must not have an uncontrolled intercurrent&#xD;
+             illness including, but not limited to, ongoing or active infection, uncontrolled major&#xD;
+             seizure disorder, unstable spinal cord compression, superior vena cava syndrome,&#xD;
+             extensive interstitial bilateral lung disease on high resolution computed tomography&#xD;
+             (HRCT) scan or any other condition that would limit compliance with study requirements&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Patients may not require the use of chronic steroids in&#xD;
+             excess of 10 mg prednisone daily or equivalent&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Patients may not require concomitant use of known&#xD;
+             strong CYP3A inhibitors (e.g., itraconazole, telithromycin, clarithromycin, protease&#xD;
+             inhibitors boosted with ritonavir or cobicistat, indinavir, saquinavir, nelfinavir,&#xD;
+             boceprevir, telaprevir). The required washout period prior to re-registration 2 weeks&#xD;
+&#xD;
+          -  ELIGIBILITY CRITERIA (STEP 1): Patients may not require concomitant use of known&#xD;
+             strong CYP3A inducers (e.g., phenobarbital, enzalutamide, phenytoin, rifampicin,&#xD;
+             rifabutin, rifapentine, carbamazepine, nevirapine and St John's Wort). The required&#xD;
+             washout period prior to re-registration is 5 weeks for enzalutamide or phenobarbital&#xD;
+             and 3 weeks for other agents&#xD;
+&#xD;
+          -  RE-REGISTRATION ELIGIBILITY CRITERIA (FOR STEP 2 CROSSOVER FROM ARM 1 TO ARM 2):&#xD;
+             Patients may not have experienced a grade 3 or higher non-hematologic adverse event&#xD;
+             deemed clinically significant in the opinion of the treating investigator, or have&#xD;
+             discontinued palbociclib due to toxicity, while participating on Arm 1&#xD;
+&#xD;
+               -  Patients must also have recovered to baseline or =&lt; grade 1 per CTCAE version 5.0&#xD;
+                  from toxicity related to Arm 1 treatment, unless adverse events are clinically&#xD;
+                  nonsignificant and/or stable on supportive therapy, and with the exceptions of&#xD;
+                  fatigue (which must be =&lt; grade 2), alopecia and/or endocrinopathies related to&#xD;
+                  prior immunotherapy which are controlled with hormone replacement&#xD;
+&#xD;
+               -  Note: Patients who underwent dose reduction of palbociclib during treatment on&#xD;
+                  Arm 1 will begin treatment on Arm 2 at the same dose (i.e. dose re-escalation is&#xD;
+                  not allowed)&#xD;
+&#xD;
+          -  RE-REGISTRATION ELIGIBILITY CRITERIA (FOR STEP 2 CROSSOVER FROM ARM 1 TO ARM 2):&#xD;
+             Patients may not have received prior treatment with anti-PD-1/anti-PD-L1 antibodies&#xD;
+&#xD;
+          -  RE-REGISTRATION ELIGIBILITY CRITERIA (FOR STEP 2 CROSSOVER FROM ARM 1 TO ARM 2): Not&#xD;
+             pregnant and not nursing, because this study involves an agent that has known&#xD;
+             genotoxic, mutagenic and teratogenic effects * Therefore, for women of childbearing&#xD;
+             potential only, a negative serum pregnancy test done =&lt; 7 days prior to&#xD;
+             re-registration is required&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Matthew Ingham, MD</last_name>
+    <phone>646-317-7141</phone>
+    <email>mi2337@cumc.columbia.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Beth Smith</last_name>
+    <phone>773-834-6493</phone>
+    <email>beth10@bsd.uchicago.edu</email>
+  </overall_contact_backup>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 11, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>January 11, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 11, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sarcoma</mesh_term>
+    <mesh_term>Liposarcoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Palbociclib</mesh_term>
+    <mesh_term>Cemiplimab</mesh_term>
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Immunoglobulin G</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

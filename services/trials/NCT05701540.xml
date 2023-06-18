@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9272">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05701540</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IN_APA_403</org_study_id>
+    <nct_id>NCT05701540</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Efficacy and Safety of Tegoprazan in GERD Patients With Nighttime Heartburn</brief_title>
+  <official_title>A Multicenter, Double-blind, Randomized, Active-controlled Phase 4 Study to Evaluate the Efficacy and Safety of Tegoprazan in GERD Patients With Nighttime Heartburn</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>HK inno.N Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>HK inno.N Corporation</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to compare the nighttime heartburn improvement effect of Tegoprazan 50mg and&#xD;
+      Esomeprazole 40mg(or 20mg) in patients with GERD.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a multi-center, double-blind, randomized, active-controlled phase 4 study. Subjects&#xD;
+      will be randomly assigned to one of the two treatment groups (tegoprazan 50mg, esomeprazole&#xD;
+      40mg or 20mg).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2024</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of days without nighttime heartburn during the 2-week dosing period</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Percentage of days without nighttime heartburn = Number of days without nighttime heartburn symptoms during the dosing period / Number of days when nighttime heartburn was assessed x 100</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to first nighttime hearturn-free interval(days)</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Number of days to reach the first day without symptoms of nighttime heartburn after the administration of investigational drug</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of days without daytime heartburn during the 2-week dosing period</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Percentage of days without daytime heartburn = Number of days without daytime heartburn symptoms during the dosing period / Number of days when daytime heartburn was assessed x 100</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">338</enrollment>
+  <condition>Gastroesophageal Reflux Disease</condition>
+  <arm_group>
+    <arm_group_label>Tegoprazan 50mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Tegoprazan 50mg, once daily, oral administration for two weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Esomeprazole 40mg or 20mg</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>In case of ERD patients: Esomeprazole 40mg, qd, oral administration for two weeks&#xD;
+In case of NERD patients: Esomeprazole 20mg, qd, oral administration for two weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tegoprazan</intervention_name>
+    <description>Tegoprazan 50mg tablet</description>
+    <arm_group_label>Tegoprazan 50mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Esomeprazole</intervention_name>
+    <description>Esomeprazole 20mg tablet&#xD;
+For patients with ERD: two Esomeprazole 20mg tablets&#xD;
+For patients with NERD: one Esomeprazole 20mg tablet</description>
+    <arm_group_label>Esomeprazole 40mg or 20mg</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Subjects aged between 19 and 75 years&#xD;
+&#xD;
+          2. Subjects who have erosive reflux disease or non-erosive reflux disease&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Unable to undergo upper GI endoscopy&#xD;
+&#xD;
+          2. Symptoms of primary or secondary esophageal movement disorders&#xD;
+&#xD;
+          3. Subjects who have undergone or are scheduled to undergo surgery that can affect&#xD;
+             gastric acid secretion(e.g. upper gastrectomy, vagotomy, etc)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sang Kil Lee, Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Severance Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Tae Hoon Kim</last_name>
+    <phone>82-2-6477-0244</phone>
+    <email>luke.kim@inno-n.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jong Min Lee</last_name>
+    <phone>82-2-6477-0251</phone>
+    <email>jongmin.lee6@inno-n.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Severance Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>03722</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 18, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>January 18, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 18, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Gastroesophageal Reflux</mesh_term>
+    <mesh_term>Heartburn</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Esomeprazole</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

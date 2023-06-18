@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9603">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05694585</url>
+  </required_header>
+  <id_info>
+    <org_study_id>YXLL-KY-2022(107)</org_study_id>
+    <nct_id>NCT05694585</nct_id>
+  </id_info>
+  <brief_title>Effect of Esmolol on Perioperative Stress Reaction</brief_title>
+  <official_title>Effect of Continuous Infusion of Esmolol on Perioperative Stress Reaction in Patients Undergoing Airway Intervention</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Xiumei Song</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Qianfoshan Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to observe the effect of low dose continuous infusion of&#xD;
+      esmolol on perioperative stress response in patients undergoing airway intervention .&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Airway intervention is known to activate stress response and release catecholamines resulting&#xD;
+      in severe hemodynamic instability. Various techniques which are recommended to prevent the&#xD;
+      stress response include increasing the depth of anesthesia, improving surgical procedures and&#xD;
+      the use of various pharmacological agents. Esmolol blocks the action of the endogenous&#xD;
+      catecholamines, we plan low dose esmolol infusion decrease stress response and hemodynamic&#xD;
+      fluctuation during airway intervention.&#xD;
+&#xD;
+      46 patients scheduled airway intervention under general anesthesia were randomly divided into&#xD;
+      esmolol group and control group. esmolol 50μg/kg/min or saline 50μg/kg/min were iv&#xD;
+      administered before Operation beginning. If HR（heart rate）is greater than 90 beats/min,&#xD;
+      esmolol or saline 50μg/kg/min is added each time, with interval more than 5 min and the peak&#xD;
+      value is 200 μg/kg/min. If the heart rate is lower than 60 times/minute, Stop medication.&#xD;
+      Plasma level of Norepinephrine, epinephrine, and cortisol before induction of anesthesia and&#xD;
+      30 minutes after beginning of operation were determined by high-performance liquid&#xD;
+      chromatography. Perioperative hemodynamics changes, extubation time, incidence of severe&#xD;
+      sinus bradycardia and bronchospasm were recorded.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in plasma norepinephrine levels</measure>
+    <time_frame>up to 30 minutes after beginning of operation</time_frame>
+    <description>level of Norepinephrine</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in plasma epinephrine levels</measure>
+    <time_frame>up to 30 minutes after beginning of operation</time_frame>
+    <description>level of epinephrine</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in plasma cortisol levels</measure>
+    <time_frame>up to 30 minutes after beginning of operation</time_frame>
+    <description>level of cortisol</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Hemodynamic changes ：Systolic blood pressure（SBP ）</measure>
+    <time_frame>from anesthesia induction to 30 minutes after remove the laryngeal mask</time_frame>
+    <description>Systolic blood pressure (SBP ) during perioperative period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hemodynamic changes ：Diastolic blood pressure（ DBP）</measure>
+    <time_frame>from anesthesia induction to 30 minutes after remove the laryngeal mask</time_frame>
+    <description>Diastolic blood pressure（ DBP） during perioperative period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hemodynamic changes ：Heart rate（HR）</measure>
+    <time_frame>from anesthesia induction to 30 minutes after remove the laryngeal mask</time_frame>
+    <description>Heart rate（HR） during perioperative period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse reactions: Severe sinus bradycardia</measure>
+    <time_frame>from anesthesia induction to 30 minutes after remove the laryngeal mask</time_frame>
+    <description>Severe sinus bradycardia: HR&lt;40 times/min during perioperative period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse reactions: bronchospasm</measure>
+    <time_frame>from anesthesia induction to 30 minutes after remove the laryngeal mask</time_frame>
+    <description>Perioperative bronchospasm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Laryngeal mask airway (LMA) removal time</measure>
+    <time_frame>Duration from the end of anesthetics infusion to LMA removal</time_frame>
+    <description>Duration from the end of anesthetics infusion to LMA removal</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">46</enrollment>
+  <condition>Esmolol</condition>
+  <condition>Stress Reaction</condition>
+  <condition>Airway Obstruction</condition>
+  <condition>Catecholamine; Overproduction</condition>
+  <arm_group>
+    <arm_group_label>esmolol group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>esmolol group: esmolol 50 μg/kg /min were intravenously administered before Operation beginning. If HR（heart rate）is greater than 90 beats/min, esmolol 50μg/kg /min is added each time, with interval more than 5 min and the peak value is 200 μg/kg/min. If the heart rate is lower than 60 times/minute, Stop medication.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Saline solution</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Saline group: saline 50 μg/kg /min were intravenously administered before Operation beginning. If HR（heart rate）is greater than 90 beats/min, saline 50μg/kg /min is added each time, with interval more than 5 min and the peak value is 200 μg/kg/min. If the heart rate is lower than 60 times/minute, Stop medication.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Esmolol</intervention_name>
+    <description>Esmolol 50μg/kg /min is intravenously administered before Operation beginning. If HR（heart rate）is greater than 90 beats/min, esmolol 50μg/kg/min is added each time, with interval more than 5 min and the peak value is 200 μg/kg/min. If the heart rate is lower than 60 times/minute, Stop medication.</description>
+    <arm_group_label>esmolol group</arm_group_label>
+    <other_name>Esmolol hydrochloride</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>saline</intervention_name>
+    <description>Saline 50μg/kg /min were iv administered before Operation beginning. If HR（heart rate）is greater than 90 beats/min, saline 50μg/kg/min is added each time, with interval more than 5 min and the peak value is 200 μg/kg/min. If the heart rate is lower than 60 times/minute, Stop medication.</description>
+    <arm_group_label>Saline solution</arm_group_label>
+    <other_name>0.9% sodium chloride injection solution</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria&#xD;
+&#xD;
+          1. American Society of Anesthesiologists (ASA) Physical Status I to III.;&#xD;
+&#xD;
+          2. Body mass index (BMI): 20-30 kg/m2;&#xD;
+&#xD;
+          3. Elective airway intervention under general anesthesia with jet ventilation，duration of&#xD;
+             operation less than 2hs;&#xD;
+&#xD;
+          4. Sign informed consent for clinical trial&#xD;
+&#xD;
+        Exclusion criteria&#xD;
+&#xD;
+          1. The patient and his or her family refused to participate in the study;&#xD;
+&#xD;
+          2. Severe respiratory or/cardiovascular or/ neurological disease, or/ hepatic or/renal&#xD;
+             dysfunction&#xD;
+&#xD;
+          3. Those who are allergic to the drugs used in this study;&#xD;
+&#xD;
+          4. Psychiatric history or with unstable mental state;&#xD;
+&#xD;
+          5. Patients with atrioventricular block&#xD;
+&#xD;
+          6. Patients with history of asthma&#xD;
+&#xD;
+          7. Patients now treated with β-adrenergic receptor blockers&#xD;
+&#xD;
+          8. Patients participating in other clinical trial&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jinwan Guo, Master</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Qianfoshan Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ling Dong, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Qianfoshan Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Yang Liu, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Qianfoshan Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Liang Guo, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Qianfoshan Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Xiumei Song, M.D.</last_name>
+    <phone>13969050425</phone>
+    <email>ssm801117@163.com</email>
+  </overall_contact>
+  <reference>
+    <citation>Lakhe G, Pradhan S, Dhakal S. Hemodynamic Response to Laryngoscopy and Intubation Using McCoy Laryngoscope: A Descriptive Cross-sectional Study. JNMA J Nepal Med Assoc. 2021 Jul 1;59(238):554-557. doi: 10.31729/jnma.6752.</citation>
+    <PMID>34508397</PMID>
+  </reference>
+  <reference>
+    <citation>Hoshijima H, Maruyama K, Mihara T, Boku AS, Shiga T, Nagasaka H. Use of the GlideScope does not lower the hemodynamic response to tracheal intubation more than the Macintosh laryngoscope: a systematic review and meta-analysis. Medicine (Baltimore). 2020 Nov 25;99(48):e23345. doi: 10.1097/MD.0000000000023345.</citation>
+    <PMID>33235101</PMID>
+  </reference>
+  <reference>
+    <citation>Mendonca FT, Silva SLD, Nilton TM, Alves IRR. Effects of lidocaine and esmolol on hemodynamic response to tracheal intubation: a randomized clinical trial. Braz J Anesthesiol. 2022 Jan-Feb;72(1):95-102. doi: 10.1016/j.bjane.2021.01.014. Epub 2021 Sep 25.</citation>
+    <PMID>34582903</PMID>
+  </reference>
+  <reference>
+    <citation>Efe EM, Bilgin BA, Alanoglu Z, Akbaba M, Denker C. Comparison of bolus and continuous infusion of esmolol on hemodynamic response to laryngoscopy, endotracheal intubation and sternotomy in coronary artery bypass graft. Braz J Anesthesiol. 2014 Jul-Aug;64(4):247-52. doi: 10.1016/j.bjane.2013.07.003. Epub 2013 Oct 25.</citation>
+    <PMID>24998108</PMID>
+  </reference>
+  <reference>
+    <citation>Hasegawa D, Sato R, Prasitlumkum N, Nishida K, Takahashi K, Yatabe T, Nishida O. Effect of Ultrashort-Acting beta-Blockers on Mortality in Patients With Sepsis With Persistent Tachycardia Despite Initial Resuscitation: A Systematic Review and Meta-analysis of Randomized Controlled Trials. Chest. 2021 Jun;159(6):2289-2300. doi: 10.1016/j.chest.2021.01.009. Epub 2021 Jan 9.</citation>
+    <PMID>33434497</PMID>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 5, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>January 20, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 20, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Qianfoshan Hospital</investigator_affiliation>
+    <investigator_full_name>Xiumei Song</investigator_full_name>
+    <investigator_title>Associate chief physician</investigator_title>
+  </responsible_party>
+  <keyword>continuous infusion</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Airway Obstruction</mesh_term>
+    <mesh_term>Fractures, Stress</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Esmolol</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>demographic data，statistical data，study protocol</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>after 2024/1/1</ipd_time_frame>
+    <ipd_access_criteria>undecided</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

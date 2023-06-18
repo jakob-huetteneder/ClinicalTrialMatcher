@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9193">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05703256</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY23010004</org_study_id>
+    <secondary_id>R01MH130337</secondary_id>
+    <nct_id>NCT05703256</nct_id>
+  </id_info>
+  <brief_title>Amygdala Neurofeedback for Depression - Large Scale Clinical Trial</brief_title>
+  <official_title>Confirmatory Efficacy Randomized Clinical Trial of Amygdala Neurofeedback for Major Depressive Disorder</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pittsburgh</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pittsburgh</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this study is to evaluate whether rtfMRI-nf training to increase the amygdala&#xD;
+      response to positive memories may serve as a stand-alone intervention for major depressive&#xD;
+      disorder&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Previous research has shown that real-time fMRI neurofeedback (rtfMRI-nf) training aimed at&#xD;
+      increasing the amygdala's response to positive autobiographical memory recall holds&#xD;
+      therapeutic potential for treating patients with major depressive disorder (MDD), as&#xD;
+      clinically significant decreases in clinician administered and self-report measures of&#xD;
+      depression severity were observed following two rtfMRI amygdala neurofeedback sessions.&#xD;
+      Furthermore, rtfMRI amygdala neurofeedback changed emotional processing towards a positive&#xD;
+      bias. The goal of the current study is to confirm the clinical efficacy of this intervention&#xD;
+      in a new sample of depressed participants. Thus, over the course of four years, we will&#xD;
+      conduct a randomized double-blind clinical trial examining the clinical and cognitive effects&#xD;
+      of amygdala rtfMRI-nf compared to yoked sham rtfMRI-nf (seeing the amygdala activity of&#xD;
+      another participant during training) in 200 participants with MDD from the Pittsburgh&#xD;
+      metropolitan area. Participants will undergo two rtfMRI-nf sessions. Half of the participants&#xD;
+      will receive amygdala neurofeedback and half will receive yoked sham neurofeedback.&#xD;
+      Participants will complete the BDI-II monthly for one year following completion of the&#xD;
+      neurofeedback intervention. The rationale for the proposed research is to provide new&#xD;
+      insights into possible mechanistic solutions for MDD, and to further guide development of&#xD;
+      this rtfMRI-nf intervention into a treatment for MDD.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 1, 2023</start_date>
+  <completion_date type="Anticipated">April 30, 2028</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2027</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants will be randomly assigned to receive amygdala neurofeedback or yoked sham neurofeedback (seeing the amygdala activity of another participant)</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Beck Depression Inventory (BDI-II)</measure>
+    <time_frame>baseline vs up to one year</time_frame>
+    <description>measures depressive symptoms. The total score will be used, which ranges from 0-63. A total score of 0-13 is considered minimal range, 14-19 is mild, 20-28 is moderate, and 29-63 is severe. Lower values represent better outcomes.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Life Functioning Questionnaire (LFQ)</measure>
+    <time_frame>baseline vs up to one year</time_frame>
+    <description>measures ability to function in daily life. The total score will be used, which ranges from 14-56. A total score of 14-27 indicates no problems, and a score of 28+ indicates some impairment. Lower values represent better outcomes.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Autobiographical Memory Test</measure>
+    <time_frame>baseline vs one month</time_frame>
+    <description>measures memory specificity. Participants are asked to recall a memory in response to 18 cue words. The number of specific memories is determined and reported. Scores can range from 0-18 and higher scores represent better memory performance.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Major Depressive Disorder</condition>
+  <arm_group>
+    <arm_group_label>Amygdala real-time fMRI neurofeedback</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Amygdala neurofeedback - attempt to upregulate the left amygdala during positive autobiographical memory recall via real time fMRI neurofeedback from the amygdala. Two sessions will be performed one week apart.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham feedback</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Yoked sham - participants will see the amygdala activity of another subject who completed the intervention. Two sessions will be performed one week apart.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Amygdala real-time fMRI neurofeedback</intervention_name>
+    <description>Participants are shown activity from their left amygdala in real time and are instructed to increase the level of activity in that region by thinking of positive autobiographical memories</description>
+    <arm_group_label>Amygdala real-time fMRI neurofeedback</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Sham feedback</intervention_name>
+    <description>Participants are shown activity from another participant's left amygdala who previously completed the task and are instructed to increase the level of activity in that region by thinking of positive autobiographical memories</description>
+    <arm_group_label>Sham feedback</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  ages 18 - 55&#xD;
+&#xD;
+          -  primary diagnosis of MDD and are currently depressed&#xD;
+&#xD;
+          -  able to give written informed consent prior to participation&#xD;
+&#xD;
+          -  unmedicated OR are stable on an antidepressant regime (at least 4 weeks to ensure&#xD;
+             symptoms are stable). Effective medications will not be discontinued for the purposes&#xD;
+             of the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  clinically significant or unstable cardiovascular, pulmonary, endocrine, neurological,&#xD;
+             gastrointestinal illness or unstable medical disorder&#xD;
+&#xD;
+          -  Current severe DSM-V alcohol or substance use disorder, with the exception of nicotine&#xD;
+             or caffeine. Clinician will access subjects' alcohol and substance use on a&#xD;
+             case-by-case to determine whether specific cases of mild or moderate alcohol or&#xD;
+             substance use would also interfere with the effects of the intervention.&#xD;
+&#xD;
+          -  history of traumatic brain injury&#xD;
+&#xD;
+          -  unable to complete MRI scan due to claustrophobia or general MRI exclusions (e.g.,&#xD;
+             shrapnel inside body)&#xD;
+&#xD;
+          -  currently pregnant or breast feeding&#xD;
+&#xD;
+          -  unable to complete questionnaires written in English&#xD;
+&#xD;
+          -  current (within 3 weeks of testing) use of any antipsychotics, anticonvulsants,&#xD;
+             stimulants, benzodiazepines, beta-blockers, or other medications (except&#xD;
+             antidepressants) likely to influence cerebral blood flow. Effective medications will&#xD;
+             not be discontinued for the purposes of the study.&#xD;
+&#xD;
+          -  diagnosis of psychotic or organic mental disorder, bipolar I or II disorder.&#xD;
+&#xD;
+          -  eye problems or difficulties in corrected vision.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kymberly Young, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pittsburgh</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kymberly Young, PhD</last_name>
+    <phone>412-648-6179</phone>
+    <email>youngk@pitt.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lisa Stupar</last_name>
+    <phone>412-383-8100</phone>
+    <email>stuparlm@upmc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Pittsburgh</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15261</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kymberly Young, PhD</last_name>
+      <email>youngk@pitt.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Young KD, Zotev V, Phillips R, Misaki M, Yuan H, Drevets WC, Bodurka J. Real-time FMRI neurofeedback training of amygdala activity in patients with major depressive disorder. PLoS One. 2014 Feb 11;9(2):e88785. doi: 10.1371/journal.pone.0088785. eCollection 2014.</citation>
+    <PMID>24523939</PMID>
+  </reference>
+  <reference>
+    <citation>Young KD, Siegle GJ, Zotev V, Phillips R, Misaki M, Yuan H, Drevets WC, Bodurka J. Randomized Clinical Trial of Real-Time fMRI Amygdala Neurofeedback for Major Depressive Disorder: Effects on Symptoms and Autobiographical Memory Recall. Am J Psychiatry. 2017 Aug 1;174(8):748-755. doi: 10.1176/appi.ajp.2017.16060637. Epub 2017 Apr 14.</citation>
+    <PMID>28407727</PMID>
+  </reference>
+  <reference>
+    <citation>Young KD, Misaki M, Harmer CJ, Victor T, Zotev V, Phillips R, Siegle GJ, Drevets WC, Bodurka J. Real-Time Functional Magnetic Resonance Imaging Amygdala Neurofeedback Changes Positive Information Processing in Major Depressive Disorder. Biol Psychiatry. 2017 Oct 15;82(8):578-586. doi: 10.1016/j.biopsych.2017.03.013. Epub 2017 Mar 28.</citation>
+    <PMID>28476207</PMID>
+  </reference>
+  <verification_date>June 2023</verification_date>
+  <study_first_submitted>January 18, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>June 2, 2023</last_update_submitted>
+  <last_update_submitted_qc>June 2, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 5, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pittsburgh</investigator_affiliation>
+    <investigator_full_name>Kymberly Young</investigator_full_name>
+    <investigator_title>Associate Professor of Psychiatry</investigator_title>
+  </responsible_party>
+  <keyword>neurofeedback</keyword>
+  <keyword>amygdala</keyword>
+  <keyword>depression</keyword>
+  <keyword>major depressive disorder</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder, Major</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All fMRI, BDI and LFQ scores for IPD will be made available through the NDAR data repository</ipd_description>
+    <ipd_time_frame>New data will be uploaded every 6 months and be available indefinitely</ipd_time_frame>
+    <ipd_access_criteria>Users with NDA credentials may submit Data Access Requests. Data Access Requests for a given NDA Permission Group are reviewed by an NIH-staffed Data Access Committee.</ipd_access_criteria>
+    <ipd_url>https://nda.nih.gov</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

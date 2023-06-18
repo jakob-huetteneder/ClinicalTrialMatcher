@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9801">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05689879</url>
+  </required_header>
+  <id_info>
+    <org_study_id>P160922</org_study_id>
+    <nct_id>NCT05689879</nct_id>
+  </id_info>
+  <brief_title>Evaluation of TNF-alpha Antagonists (Infliximab) Withdrawal in Sarcoidosis</brief_title>
+  <acronym>TAWIS</acronym>
+  <official_title>Evaluation of TNF-alpha Antagonists (Infliximab) Withdrawal in Sarcoidosis : a Prospective, Randomized, Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In severe refractory sarcoidosis not responding to conventional immunosuppressive treatment,&#xD;
+      the third-line tumor necrosis factor (TNF)-alpha inhibitor infliximab is an alternative.&#xD;
+      Treatment duration is not known, although it has been suggested that relapse rates after&#xD;
+      withdrawal could be high. We hypothesize that a prolonged course of TNF-alpha would be better&#xD;
+      for maintaining remission in sarcoidosis.&#xD;
+&#xD;
+      The population consists of histologically-proven adults sarcoidosis patients who were treated&#xD;
+      with infliximab and are in remission for at least 6 months with less than or equal to 10&#xD;
+      milligrams of steroids (prednisone).&#xD;
+&#xD;
+      The present study is a phase 3, prospective, randomized, parallel groups, comparative,&#xD;
+      open-labelled 2 arms study superiority trial comparing a STOP to a REMAIN strategy. Patients&#xD;
+      will be randomized in the 2 groups in a 1:1 ratio.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The screening visit takes place between 60 days and until the baseline visit. The&#xD;
+      investigator will first check that the patient meets the inclusion criteria and does not&#xD;
+      present exclusion criteria. Before enrolment and randomization, all patients will receive&#xD;
+      comprehensive information and provide written consent.&#xD;
+&#xD;
+      Visit schedule:&#xD;
+&#xD;
+        -  Baseline visit&#xD;
+&#xD;
+        -  Follow-up Visits In the REMAIN arm: visits will be performed each 4-8 weeks depending on&#xD;
+           the infliximab interval. In the STOP arm, visits will be performed every 8 weeks, and in&#xD;
+           case of relapse (until M12+/- 2 weeks).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 23, 2023</start_date>
+  <completion_date type="Anticipated">March 2027</completion_date>
+  <primary_completion_date type="Anticipated">March 2026</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Infliximab stop Methotrexate (without exceed 25mg/kg/week) or azathioprine</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>No masking</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To compare 2 strategies of remission maintenance in patients who are in remission after infliximab administration</measure>
+    <time_frame>12 months</time_frame>
+    <description>Percentage of patients with major relapse (reappearance or worsening of the disease with a ePOST score &gt;0 and involvement of at least one major organ, a life-threatening situation, or both or relapse non responsive to mild treatment intensification) between enrolment and month 12.&#xD;
+Major organs are nervous system, heart, kidneys, muscles and lungs. Mild treatment intensification is defined by increasing the dosage of steroids at more than 20 milligrams/day.&#xD;
+The primary criterion will be assessed at each visit, in case of relapse and at the end of follow-up (M12).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To compare the percentage of patients with minor relapses in the 2 groups</measure>
+    <time_frame>12 months</time_frame>
+    <description>Percentage of patients with minor relapse (reappearance or worsening of the disease with a ePOST score &gt; 0 not corresponding to the definition of major relapse) at months 12.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare the rates of adverse events</measure>
+    <time_frame>12 months</time_frame>
+    <description>All adverse events occurred between enrolment and Month 12, will be noted with special attention to infection, haematological toxicities and cancers.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine which are the predictors of relapses</measure>
+    <time_frame>12 months</time_frame>
+    <description>Percentage of patients with a previous heart involvement at inclusion</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine which are the predictives of relapses</measure>
+    <time_frame>12 months</time_frame>
+    <description>Percentage of patients with nervous system involvement at inclusion</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine which are the relapsing predictors</measure>
+    <time_frame>12 months</time_frame>
+    <description>Percentage of patients with hypermetabolism elsewhere consistent with sarcoidosis localization in positron emission tomography scan (PET scan) at inclusion</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine which are the prediction of relapses</measure>
+    <time_frame>12 months</time_frame>
+    <description>Serum ACE (angiotensin converting enzyme) level at inclusion</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare results of Short Form (36) Health Survey in the 2 groups</measure>
+    <time_frame>12 mois</time_frame>
+    <description>Quality of life will be assessed by SF-36 (Short Form (36) Health Survey) at inclusion, Month 6 and Month 12 (score from 0 to 100, the higher score is the better).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Compare results of Nottingham scale of each groups</measure>
+    <time_frame>12 mois</time_frame>
+    <description>Quality of life will be assessed by Nottingham scale at inclusion, Month 6 and Month 12 (score from 0 to 38, the higher score is the worse) .</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare results of Fatigue Assessment Scale in the 2 groups</measure>
+    <time_frame>12 mois</time_frame>
+    <description>Quality of life will be assessed by Fatigue Assessment Scale (FAS, Patel 2000) at inclusion, Month 6 and Month 12 (score from 10 to 50, the higher score is the worse) .</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">90</enrollment>
+  <condition>Sarcoidosis</condition>
+  <arm_group>
+    <arm_group_label>REMAIN arm</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Infliximab 3 to 5 mg/kg every 4-8 weeks, methotrexate 7.5-10 mg/week (or azathioprine 1 mg/Kg/day), steroids &lt; or = 10 mg/day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>STOP arm</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Methotrexate 0.3 mg/kg/week (or azathioprine 2 mg/kg/day (or 1 mg/kg/day if intermediary metabolism TMPT) (the dose of methotrexate will not exceed 25mg/kg/week wathever the weight of the patient), steroids &lt; or = 10 mg/d</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>STOP arm</intervention_name>
+    <description>TNF-alpha antagonists withdrawal</description>
+    <arm_group_label>STOP arm</arm_group_label>
+    <other_name>TNF-alpha antagonists withdrawal</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age superior or equal to 18 years&#xD;
+&#xD;
+          -  Clinical and radiological presentation consistent with sarcoidosis&#xD;
+&#xD;
+          -  Presence of non-caseating granulomas in at least one organ&#xD;
+&#xD;
+          -  Exclusion or other causes of granulomas&#xD;
+&#xD;
+          -  Infliximab treatment for at least 6 months&#xD;
+&#xD;
+          -  Steroid dosage &lt; or equal to 10 mg/day for at least 6 months&#xD;
+&#xD;
+          -  No activity of the disease (ePOST score 0) for at least 6 months&#xD;
+&#xD;
+          -  Normal ACE (angiotensin converting enzyme) and serum calcemia level&#xD;
+&#xD;
+          -  Signed informed consent&#xD;
+&#xD;
+          -  Affiliated to the National French social security system&#xD;
+&#xD;
+          -  As infliximab is the most used TNF-alpha antagonists, we decided to include only&#xD;
+             patients treated with infliximab to increase the homogeneity.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnancy or breast-feeding&#xD;
+&#xD;
+          -  Positive IGRA (Interferon Gamma Release Assays) test without previous antituberculous&#xD;
+             antibiotherapy&#xD;
+&#xD;
+          -  Active infection&#xD;
+&#xD;
+          -  Patients with moderate to severe heart failure (NYHA class III/ IV)&#xD;
+&#xD;
+          -  Severe liver function disorders&#xD;
+&#xD;
+          -  Alcoholism&#xD;
+&#xD;
+          -  Severe kidney function disorders&#xD;
+&#xD;
+          -  Pre-existing blood dyscrasias&#xD;
+&#xD;
+          -  History of cancer in the 5 years before enrolment (except for cutaneous non melanoma&#xD;
+             cancers)&#xD;
+&#xD;
+          -  Concurrent vaccination with live vaccines during therapy&#xD;
+&#xD;
+          -  Inability to understand information about protocol&#xD;
+&#xD;
+          -  Adult subject under legal protection or unable ton consent&#xD;
+&#xD;
+          -  Absence of effective contraceptive method for men and women for duration of the study&#xD;
+             and 6 months after the end of participation&#xD;
+&#xD;
+          -  Concomitant participation to another biomedical research (only Category 1 trial&#xD;
+             according to the french law)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Fleur COHEN AUBART, PHD</last_name>
+    <role>Study Director</role>
+    <affiliation>Internal Medicine Department 2 - Hôpital Pitié-Salpêtrière</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Fleur COHEN AUBART, PHD</last_name>
+    <phone>+ 33 1 42 17 82 42</phone>
+    <email>fleur.cohen@aphp.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hôpital de la Pitié-Salpêtrière</name>
+      <address>
+        <city>Paris</city>
+        <zip>75013</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fleur Dr COHEN-AUBART</last_name>
+      <phone>142178242</phone>
+      <phone_ext>+33</phone_ext>
+      <email>fleur.cohen@aphp.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>May 2, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 16, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>April 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 18, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sarcoidosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

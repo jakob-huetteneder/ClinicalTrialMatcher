@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9518">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05696236</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HUM00205852</org_study_id>
+    <nct_id>NCT05696236</nct_id>
+  </id_info>
+  <brief_title>Predicting Peanut Anaphylaxis and Reducing Epinephrine</brief_title>
+  <acronym>PrePARE</acronym>
+  <official_title>Transepidermal Water Loss as a Predictor for Severe Allergic Reactions in Oral Food Challenges</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Michigan</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The Gerber Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Michigan</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This research study is testing a new way to look for the early stages of anaphylaxis.&#xD;
+      Eligible participants will have a small monitor (transepidermal water loss) placed on the&#xD;
+      forearm during a food challenge (for peanut allergies). This monitor continuously records the&#xD;
+      amount of water lost through the skin.&#xD;
+&#xD;
+      In a previous study the team learned what values are associated with an anaphylactic&#xD;
+      reaction. These values are called &quot;stopping rules.&quot; This study is looking at whether it can&#xD;
+      use these new stopping rules to end the oral food challenge before a person may show any&#xD;
+      symptoms.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 23, 2023</start_date>
+  <completion_date type="Anticipated">March 2027</completion_date>
+  <primary_completion_date type="Anticipated">March 2027</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Double (Participant, Care Provider)</masking>
+    <masking_description>Participants and families, the food allergy nurse administering the oral food challenge (OFC), and the allergist physician assessing and treating the patient will be blinded to the study arm status.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Anaphylaxis occurrence rates in each group</measure>
+    <time_frame>Approximately 4-6 hours (Day 1 during the food challenge)</time_frame>
+    <description>Any Brighton Level 1, 2, or 3 anaphylaxis.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Reaction rates in each group</measure>
+    <time_frame>Approximately 4-6 hours (Day 1 during the food challenge)</time_frame>
+    <description>Any objective symptom of allergic reaction occurs (e.g., hives, angioedema, vomiting, wheeze, etc) not rising to the definition of anaphylaxis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anaphylaxis severity in each group</measure>
+    <time_frame>Approximately 4-6 hours (Day 1 during the food challenge)</time_frame>
+    <description>This will be graded on a scale of 1 to 5 (where 1 = mild, 5 = death)) according to criteria set forth in the Consortium for Food Allergy Research (CoFAR) Grading Scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anaphylaxis likelihood in each group based on the Brighton score</measure>
+    <time_frame>Approximately 4-6 hours (Day 1 during the food challenge)</time_frame>
+    <description>The Brighton score gives a 0-3 score of anaphylaxis likelihood (0 = no anaphylaxis, 3 = highly likely).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Anaphylaxis Food</condition>
+  <arm_group>
+    <arm_group_label>Monitor (TEWL) and stopping rules</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Wears the monitor, and the food challenge will be done using the new stopping rules to end the test.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Monitor (TWLG) without stopping rules</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Wears the monitor, but the stopping rules will not be used to end the food challenge. The food challenge will be done following standard oral food challenge procedures.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Transepidermal water loss (TEWL) monitor and stopping rules</intervention_name>
+    <description>The oral food challenge will be done as usual, and participants will wear the TEWL monitor. The research food allergy nurse and doctor will also be looking for signs and symptoms of an allergic reaction. The research study coordinator will be watching the TEWL numbers. If they numbers match the stopping rules, they will tell the doctor and the oral food challenge will be over.</description>
+    <arm_group_label>Monitor (TEWL) and stopping rules</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Monitor (TEWL) without stopping rules</intervention_name>
+    <description>The oral food challenge will be done as usual, and participants will wear the TEWL monitor. The research food allergy nurse and doctor will be looking for signs and symptoms of an allergic reaction. The research study coordinator will be watching the TEWL numbers, but the stopping rules will not be used to end the oral food challenge.</description>
+    <arm_group_label>Monitor (TWLG) without stopping rules</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Have a known history of food anaphylaxis to peanut confirmed by an allergist&#xD;
+&#xD;
+          -  Have had skin and blood food allergy testing to peanut within the past 6 months. Meet&#xD;
+             the 80% likelihood positive predictive value threshold for peanut allergy based on at&#xD;
+             least 1 of either the skin or blood immunoglobulin E (IgE) tests per current&#xD;
+             literature corrected for age.&#xD;
+&#xD;
+          -  Meet all clinical oral food challenge (OFC) requirements. This includes no asthma or&#xD;
+             atopic dermatitis exacerbations, no recent viral infections, no recent antibiotics,&#xD;
+             and no food allergy reactions in the past month.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any known cardiovascular disease, cancer, pulmonary disease except well-controlled&#xD;
+             asthma, or other condition that would preclude an OFC otherwise.&#xD;
+&#xD;
+          -  Any medication use that would interfere with an OFC result. Medications in this&#xD;
+             category include antihistamines (first or second generation) within 1 week, omalizumab&#xD;
+             within 3 months, and others listed in the protocol appendix.&#xD;
+&#xD;
+          -  Any skin condition aside from well-controlled eczema that might impact TEWL&#xD;
+             measurement, including such conditions as autoimmune skin conditions (such as&#xD;
+             psoriasis), congenital ichthyoses, hyper-IgE syndromes.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>6 Months</minimum_age>
+    <maximum_age>5 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Chase Schuler, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Michigan</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Christopher Launius</last_name>
+    <phone>734-936-5634</phone>
+    <email>cmlauniu@umich.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Bridgette Kaul</last_name>
+    <phone>734-963-5634</phone>
+    <email>bbeaupre@umich.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christopher Launius</last_name>
+      <phone>734-936-5634</phone>
+      <email>cmlauniu@umich.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Bridgette Kaul</last_name>
+      <phone>734-963-5634</phone>
+      <email>bbeaupre@umich.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Chase Schuler, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Kelly O'Shea, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 13, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>May 23, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 23, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Michigan</investigator_affiliation>
+    <investigator_full_name>Charles (Chase) Schuler</investigator_full_name>
+    <investigator_title>Assistant Professor of Allergy and Clinical Immunology and Assistant Professor of Mary H Weiser Food Allergy</investigator_title>
+  </responsible_party>
+  <keyword>Allergic reaction to food</keyword>
+  <keyword>Water loss across the skin</keyword>
+  <keyword>Food challenge</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Anaphylaxis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tin Fluorides</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

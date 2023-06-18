@@ -9,8 +9,12 @@ import at.ac.tuwien.sepm.groupphase.backend.repository.TreatsRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.TrialRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
 import jakarta.transaction.Transactional;
+import org.springframework.data.elasticsearch.core.ElasticsearchOperations;
 import org.springframework.stereotype.Component;
 
+/**
+ * Util class for database functions.
+ */
 @Component
 public class DatabaseUtil {
 
@@ -23,11 +27,13 @@ public class DatabaseUtil {
     private final PatientRepository patientRepository;
     private final TrialRepository trialRepository;
     private final UserRepository userRepository;
+    private final ElasticsearchOperations elasticsearchOperations;
 
     public DatabaseUtil(DiagnosesRepository diagnosesRepository, DiseaseRepository diseaseRepository,
                         ExaminationRepository examinationRepository, MedicalImageRepository medicalImageRepository,
                         TreatsRepository treatsRepository, PatientRepository patientRepository,
-                        TrialRepository trialRepository, UserRepository userRepository) {
+                        TrialRepository trialRepository, UserRepository userRepository,
+                        ElasticsearchOperations elasticsearchOperations) {
         this.diagnosesRepository = diagnosesRepository;
         this.diseaseRepository = diseaseRepository;
         this.examinationRepository = examinationRepository;
@@ -36,8 +42,12 @@ public class DatabaseUtil {
         this.patientRepository = patientRepository;
         this.trialRepository = trialRepository;
         this.userRepository = userRepository;
+        this.elasticsearchOperations = elasticsearchOperations;
     }
 
+    /**
+     * Delete all entries from all tables.
+     */
     @Transactional
     public void cleanAll() {
         diagnosesRepository.deleteAll(); // Must be before Disease
@@ -48,5 +58,8 @@ public class DatabaseUtil {
         patientRepository.deleteAll(); // Must be before User
         trialRepository.deleteAll(); // Must be before User
         userRepository.deleteAll();
+
+        // delete the patients index
+        elasticsearchOperations.indexOps(at.ac.tuwien.sepm.groupphase.backend.entity.Patient.class).delete();
     }
 }

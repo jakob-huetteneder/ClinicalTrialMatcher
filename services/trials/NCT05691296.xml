@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9738">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05691296</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Tianjin myopia Intervention</org_study_id>
+    <nct_id>NCT05691296</nct_id>
+  </id_info>
+  <brief_title>The Monitoring and Intervention of Refractive Changes in Children and Teenagers in Tianjin</brief_title>
+  <official_title>The Monitoring and Intervention of Refractive Changes in Children and Teenagers in Tianjin</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tianjin Eye Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Tianjin Eye Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study aimed to collect multi-factor information on school-age children with pre-clinical&#xD;
+      myopia, and to identify the initial factors and warning signs of myopia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The incidence of myopia is high in China. At present, the mechanism of myopia is unclear, and&#xD;
+      the main theories are genetic and environmental aspects. Many factors may affect the&#xD;
+      occurrence and development of myopia in students, such as ocular biological parameters,&#xD;
+      peripheral refractive state, differences in binocular vision function, eye habits, and&#xD;
+      outdoor time. In this study, the multi-factor information on pre-clinical myopia in&#xD;
+      school-age children was collected to find out the initial factors and warning signals of&#xD;
+      myopia.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 1, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The rate of new-onset myopia</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>The number of new children with myopia was counted</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The changes of refractive error</measure>
+    <time_frame>Every 6 months, up to 3 years</time_frame>
+    <description>The changes of refractive error between visit time and baseline which was obtained with a computer refractometer.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The changes of axial length</measure>
+    <time_frame>Every 6 months, up to 3 years</time_frame>
+    <description>The axial length was measured by a biological measuring instrument.</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">4000</enrollment>
+  <condition>Myopia</condition>
+  <condition>High Myopia</condition>
+  <arm_group>
+    <arm_group_label>Home-school training group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>There was a Letter Chart Accomodative Rock Training for accommodation facility at home and school everyday. This training usually lasted 2 minutes each time.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>School training group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>There was a Letter Chart Accomodative Rock Training for accommodation facility only at school everyday. This training usually lasted 2 minutes each time.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No training group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>There was no such treatment for students.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Home training</intervention_name>
+    <description>Letter Chart Accomodative Rock Training for 2 minutes each time</description>
+    <arm_group_label>Home-school training group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>School training</intervention_name>
+    <description>Letter Chart Accomodative Rock Training for 2 minutes each time</description>
+    <arm_group_label>Home-school training group</arm_group_label>
+    <arm_group_label>School training group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  All students in grades 1 to 4&#xD;
+&#xD;
+          -  Can cooperate with the examination of students&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Obvious strabismus and amblyopia&#xD;
+&#xD;
+          -  Eye diseases that affect vision, such as congenital cataracts, glaucoma, and retinal&#xD;
+             diseases&#xD;
+&#xD;
+          -  History of ocular surgery&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>5 Years</minimum_age>
+    <maximum_age>12 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Xiaoyan Yang, MD</last_name>
+    <phone>+86-22-27306525</phone>
+    <email>yanzitjsykyy@163.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Tiajin Eye Hospital</name>
+      <address>
+        <city>Tianjin</city>
+        <state>Tianjin</state>
+        <zip>300020</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xiaoyan Yang</last_name>
+      <phone>+862227306525</phone>
+      <email>yanzitjsykyy@163.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <reference>
+    <citation>Jonas JB, Ang M, Cho P, Guggenheim JA, He MG, Jong M, Logan NS, Liu M, Morgan I, Ohno-Matsui K, Parssinen O, Resnikoff S, Sankaridurg P, Saw SM, Smith EL 3rd, Tan DTH, Walline JJ, Wildsoet CF, Wu PC, Zhu X, Wolffsohn JS. IMI Prevention of Myopia and Its Progression. Invest Ophthalmol Vis Sci. 2021 Apr 28;62(5):6. doi: 10.1167/iovs.62.5.6.</citation>
+    <PMID>33909032</PMID>
+  </reference>
+  <verification_date>December 2022</verification_date>
+  <study_first_submitted>December 25, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>January 11, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 11, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Myopia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

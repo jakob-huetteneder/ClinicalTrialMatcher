@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9254">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05701917</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-001</org_study_id>
+    <nct_id>NCT05701917</nct_id>
+  </id_info>
+  <brief_title>DEFIANCE: RCT of ClotTriever System Versus Anticoagulation In Deep Vein Thrombosis</brief_title>
+  <acronym>DEFIANCE</acronym>
+  <official_title>DEFIANCE - ClotTriever® Thrombectomy System vs. Anticoagulation Alone for Treatment of Deep Vein Thrombosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Inari Medical</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Inari Medical</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a prospective, multicenter, randomized controlled trial of an interventional&#xD;
+      strategy using the ClotTriever System to achieve and maintain vessel patency (ClotTriever&#xD;
+      Intervention Arm) versus conservative medical management using anticoagulation therapy alone&#xD;
+      (Conservative Medical Management Arm) in the treatment of subjects with symptomatic&#xD;
+      unilateral iliofemoral DVT. The study will collect data on demographics, comorbidities,&#xD;
+      details from the DVT diagnosis and treatment, and clinical outcomes through the 6-month&#xD;
+      follow up visit.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study will compare the clinical outcomes of patients treated with an interventional&#xD;
+      strategy using the ClotTriever System to achieve and maintain vessel patency (ClotTriever&#xD;
+      Intervention Arm) versus conservative medical management using anticoagulation therapy alone&#xD;
+      (Conservative Medical Management Arm) in the treatment of symptomatic unilateral iliofemoral&#xD;
+      DVT. Up to 300 subjects will be enrolled and randomized. All subjects who sign informed&#xD;
+      consent and who meet all of the inclusion criteria and none of the exclusion criteria will be&#xD;
+      randomized (1:1, ClotTriever Intervention Arm or Conservative Medical Management Arm).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 6, 2023</start_date>
+  <completion_date type="Anticipated">October 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Composite clinical endpoint constructed as a win ratio, a hierarchy of the following:</measure>
+    <time_frame>180 Days (+-14 Days)</time_frame>
+    <description>Occurrence of treatment failure or therapy escalation&#xD;
+Assessment of PTS severity, as defined by the Villalta scale</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Composite clinical endpoint constructed as a win ratio, a hierarchy of the following:</measure>
+    <time_frame>10 Days (+- 3 Days)</time_frame>
+    <description>Vessel compressibility assessed by duplex ultrasound&#xD;
+Pain as assessed by the NPRS&#xD;
+An improvement of edema as assessed by leg calf circumference measurements</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of PTS Severity:</measure>
+    <time_frame>180 Days (+-14 Days)</time_frame>
+    <description>a. Assessment of PTS severity, as defined by the Villalta scale</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Venous Thromboembolism</condition>
+  <condition>Deep Venous Thrombosis</condition>
+  <condition>Post-Thrombotic Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Interventional</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Interventional strategy using the ClotTriever System to achieve and maintain vessel patency (ClotTriever Intervention Arm).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Conservative Medical Management</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Conservative medical management using anticoagulation therapy alone (Conservative Medical Management Arm).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>ClotTriever System</intervention_name>
+    <description>Mechanical thrombectomy</description>
+    <arm_group_label>Interventional</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Commercially available/market approved anticoagulation medication including but not limited to: Heparin Sodium, Coumadin, Rivaroxaban, Apixaban, etc.</intervention_name>
+    <description>Anticoagulants are a group of medications that decrease your blood's ability to clot.</description>
+    <arm_group_label>Conservative Medical Management</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+          -  Proximal lower extremity unilateral DVT involving at least the common femoral,&#xD;
+             external iliac, or common iliac veins, alone or in combination&#xD;
+&#xD;
+          -  Symptom onset within 12 weeks of enrollment in the study&#xD;
+&#xD;
+          -  Significant symptoms, as defined by a Villalta score &gt; 9&#xD;
+&#xD;
+          -  Willing and able to provide informed consent&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          -  Bilateral iliofemoral DVT&#xD;
+&#xD;
+          -  Prior venous stent in the target venous segment&#xD;
+&#xD;
+          -  IVC aplasia/hypoplasia or other congenital anatomic anomalies of the IVC or iliac&#xD;
+             veins&#xD;
+&#xD;
+          -  IVC filter in place at the time of enrollment&#xD;
+&#xD;
+          -  Limb-threatening circulatory compromise (e.g., phlegmasia)&#xD;
+&#xD;
+          -  Clot in transit including IVC thrombus presenting as extension of &gt;2cm into the IVC&#xD;
+             from the CIV&#xD;
+&#xD;
+          -  Symptomatic PE with right heart strain where the physician judges that a DVT&#xD;
+             intervention is inappropriate at this time.&#xD;
+&#xD;
+          -  Inability to be a candidate for intervention due to medical or technical reasons based&#xD;
+             on physician judgement&#xD;
+&#xD;
+          -  Severe allergy, hypersensitivity to, or thrombocytopenia from heparin&#xD;
+&#xD;
+          -  Severe allergy to iodinated contrast agents that cannot be mitigated&#xD;
+&#xD;
+          -  Hemoglobin &lt; 8.0 g/dL, INR &gt; 1.7 before warfarin was started, or platelets &lt; 50,000/µl&#xD;
+             which cannot be corrected prior to enrollment&#xD;
+&#xD;
+          -  Severe renal impairment (estimated GFR &lt; 30 ml/min) in patients who are not yet on&#xD;
+             dialysis&#xD;
+&#xD;
+          -  Inability to provide therapeutic anticoagulation per Investigator discretion&#xD;
+&#xD;
+          -  Uncontrolled severe hypertension on repeated readings (systolic &gt; 180mmHg or diastolic&#xD;
+             &gt; 105mmHg)&#xD;
+&#xD;
+          -  Recently (&lt; 30 days) had DVT interventional procedure&#xD;
+&#xD;
+          -  Subject is participating in another study that may interfere with this study&#xD;
+&#xD;
+          -  Life expectancy &lt; 6 months or chronic non-ambulatory status&#xD;
+&#xD;
+          -  Known hypercoagulable states that, in the opinion of the Investigator, cannot be&#xD;
+             medically managed throughout the study period&#xD;
+&#xD;
+          -  Subject has any condition for which, in the opinion of the Investigator, participation&#xD;
+             would not be in the best interest of the subject (e.g., contraindication to use of&#xD;
+             ClotTriever per local approved labeling, compromise the well-being or that could&#xD;
+             prevent, limit, or confound the protocol-specified assessments)&#xD;
+&#xD;
+          -  Subject has previously completed or withdrawn from this study&#xD;
+&#xD;
+          -  Patient unwilling or unable to conduct the follow up visits per protocol&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Steven Abramowitz, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>MedStar Health Research Institution</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Xhorlina Marko, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Beaumont Dearborn Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Stephen Black, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>St Thomas' Hospital (UK)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Christine Wills</last_name>
+    <phone>6027992920</phone>
+    <email>christine.wills@inarimedical.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Chris Ottaviano</last_name>
+    <phone>6096344571</phone>
+    <email>chris.ottaviano@inarimedical.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University Of Colorado</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonathan Lindquist, MD</last_name>
+      <phone>303-315-5969</phone>
+      <email>JONATHAN.LINDQUIST@CUANSCHUTZ.EDU</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sarasota Memorial Hospital</name>
+      <address>
+        <city>Sarasota</city>
+        <state>Florida</state>
+        <zip>34239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Justin Lee, MD</last_name>
+      <phone>941-917-9000</phone>
+      <email>justin.lee@radpartners.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Community Healthcare System</name>
+      <address>
+        <city>Munster</city>
+        <state>Indiana</state>
+        <zip>46321</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Stewart, MD</last_name>
+      <phone>219-836-4473</phone>
+      <email>David.Stewart@comhs.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Holy Name Medical Center</name>
+      <address>
+        <city>Teaneck</city>
+        <state>New Jersey</state>
+        <zip>07666</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Rundback, MD</last_name>
+      <phone>201-379-5614</phone>
+      <email>jrundback@aivsllp.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University Irving Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Edvard Skripochnik, MD</last_name>
+      <phone>877-426-5637</phone>
+      <email>es3879@cumc.columbia.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Francis Hospital</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <zip>74136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tucker Harrison, DO</last_name>
+      <phone>918-494-8500</phone>
+      <email>TJHarrison@saintfrancis.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Thomas Jefferson University</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert Ford, MD</last_name>
+      <phone>215-955-6000</phone>
+      <email>Robert.Ford@jefferson.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Allegheny General Health Research Network</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Abdullah Shaikh, MD</last_name>
+      <phone>412-362-8677</phone>
+      <email>Abdullah.Shaikh@AHN.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sentara Norfolk General Hospital</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23507</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Dexter, MD</last_name>
+      <phone>757-388-3000</phone>
+      <email>djdexte1@sentara.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>January 6, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>April 6, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 7, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Venous Thromboembolism</keyword>
+  <keyword>Deep Venous Thrombosis</keyword>
+  <keyword>Post-Thrombotic Syndrome</keyword>
+  <keyword>Anticoagulation</keyword>
+  <keyword>Percutaneous Mechanical Thrombectomy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Thrombosis</mesh_term>
+    <mesh_term>Thromboembolism</mesh_term>
+    <mesh_term>Venous Thromboembolism</mesh_term>
+    <mesh_term>Venous Thrombosis</mesh_term>
+    <mesh_term>Postthrombotic Syndrome</mesh_term>
+    <mesh_term>Postphlebitic Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heparin</mesh_term>
+    <mesh_term>Calcium heparin</mesh_term>
+    <mesh_term>Rivaroxaban</mesh_term>
+    <mesh_term>Apixaban</mesh_term>
+    <mesh_term>Warfarin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

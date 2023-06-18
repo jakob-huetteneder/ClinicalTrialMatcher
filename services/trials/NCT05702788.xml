@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9216">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05702788</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ZGJAK032</org_study_id>
+    <nct_id>NCT05702788</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of Jaktinib in Participants With Severe Novel Coronavirus Pneumonia(COVID-19)</brief_title>
+  <acronym>COVID-19</acronym>
+  <official_title>A Multicenter, Randomized, Double-blind, Placebo-parallel Controlled Study to Evaluate the Efficacy and Safety of Jaktinib Hydrochloride Tablets in Participants Receiving the Best Available Treatment for Severe Novel Coronavirus Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Suzhou Zelgen Biopharmaceuticals Co.,Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Suzhou Zelgen Biopharmaceuticals Co.,Ltd</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study adopts a randomized, double-blind, placebo parallel control design, and is&#xD;
+      expected to include 168 eligible patients with severe novel coronavirus pneumonia.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2023</start_date>
+  <completion_date type="Anticipated">June 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The proportion of Participants who develop death or respiratory failure.</measure>
+    <time_frame>28 days after randomization</time_frame>
+    <description>Respiratory failure is defined as Participants who on invasive mechanical ventilation or Extracorporeal Membrane Oxygenation(ECMO) or on non-invasive ventilation or high-flow oxygen devices.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of Participants who develop death or respiratory failure.</measure>
+    <time_frame>14 days after randomization</time_frame>
+    <description>Respiratory failure is defined as Participants who on invasive mechanical ventilation or ECMO or on non-invasive ventilation or high-flow oxygen devices.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">168</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>Jaktinib 75mg BID</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Jaktinib 75mg BID</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Jaktinib 100mg BID</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Jaktinib 100mg BID</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Jaktinib hydrochloride tablets</intervention_name>
+    <description>75mg of Jaktinib administered orally Twice daily(BID) with best available treatment.</description>
+    <arm_group_label>Jaktinib 75mg BID</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Jaktinib hydrochloride tablets</intervention_name>
+    <description>100mg of Jaktinib administered orally Twice daily(BID) with best available treatment.</description>
+    <arm_group_label>Jaktinib 100mg BID</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo (given as two placebo tablets) administered orally BID with best available treatment.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18 years of age, male or female;&#xD;
+&#xD;
+          -  The Participants was diagnosed with novel coronavirus pneumonia;&#xD;
+&#xD;
+          -  It meets the heavy-duty standards of the new coronavirus pneumonia diagnosis and&#xD;
+             treatment protocol (version 9).&#xD;
+&#xD;
+          -  Participants who voluntarily sign informed consent.&#xD;
+&#xD;
+          -  The National Institute of Allergy and Infectious Diseases Sequential Scale (NIAID-0S)&#xD;
+             score is 5 or 6;&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants who cannot take orally, or are suspected to be allergic to Jaktinib,&#xD;
+             similar drugs or their excipients, or have severe gastrointestinal dysfunction that&#xD;
+             affects drug absorption;&#xD;
+&#xD;
+          -  Participants who have received the following treatments within the specified time&#xD;
+             window before randomization:&#xD;
+&#xD;
+               1. Participants have received Janus kinase (JAK) inhibitor, interleukin 6 (IL-6)&#xD;
+                  inhibitor, IL-1 inhibitor, tumor necrosis factor (TNF) inhibitor, T cell or B&#xD;
+                  cell depletion agent, interferon and other immunosuppressive drugs within the&#xD;
+                  first two weeks of randomization, except glucocorticoid;&#xD;
+&#xD;
+               2. Systematically used CYP 3A4 potent inhibitor or potent inducer in the first five&#xD;
+                  drug half lives at random;&#xD;
+&#xD;
+          -  Immune deficiency;&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hongzhou Lu</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Third People Hospital of Shenzhen</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Zhentian Zhao</last_name>
+    <phone>+86-021-58382983</phone>
+    <email>zhaozt@zelgen.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>The Third People Hospital of Shenzhen</name>
+      <address>
+        <city>Shenzhen</city>
+        <state>Guangdong</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Hongzhou Lu</last_name>
+      <phone>075561238920</phone>
+      <email>luhongzhou@fudan.edu.cn</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>January 18, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>March 24, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 24, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 28, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

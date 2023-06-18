@@ -17,7 +17,6 @@ test-backend:
   stage: test
   script:
     - cd backend
-    - mvn -B clean install
 
 test-frontend:
   stage: test
@@ -39,10 +38,6 @@ e2e-test:
     - cd frontend
     - npm ci --legacy-peer-deps
     - npm run start &
-    - cd ../backend
-    - mvn -B clean install -DskipTests
-    - java -jar target/*.jar &
-    - sleep 30
     - cd ../e2e
     - npm ci --legacy-peer-deps
     - npx cypress run

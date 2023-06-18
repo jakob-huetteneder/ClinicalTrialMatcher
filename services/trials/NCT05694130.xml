@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9625">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05694130</url>
+  </required_header>
+  <id_info>
+    <org_study_id>I-22PJ1065b</org_study_id>
+    <nct_id>NCT05694130</nct_id>
+  </id_info>
+  <brief_title>Tacrolimus Plus Glucocorticoid for Severe Thrombocytopenia in SS</brief_title>
+  <official_title>Tacrolimus Plus Glucocorticoid for Severe Thrombocytopenia in Sjogren's Syndrome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Peking Union Medical College Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Peking Union Medical College Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This 12-week randomized, open-label study evaluates the efficacy and safety of Tacrolimus&#xD;
+      combined with Glucocorticoid for Sjogren's syndrome patients with severe thrombocytopenia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study evaluates the efficacy and safety of Tacrolimus combined with Glucocorticoid for&#xD;
+      the treatment of severe thrombocytopenia in Sjogren's syndrome patients.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2023</start_date>
+  <completion_date type="Anticipated">December 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 2024</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Complete response rate</measure>
+    <time_frame>week 12</time_frame>
+    <description>Complete response (platelet counts &gt; 100×10^9/L) rates at week 12.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Complete response rate</measure>
+    <time_frame>week 4 and week 8</time_frame>
+    <description>Complete response (platelet counts &gt; 100×10^9/L) rates at week 4 and week 8.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Partial response rate</measure>
+    <time_frame>week 4, week 8 and week 12</time_frame>
+    <description>Partial response (platelet counts 50-100×10^9/L) rates at week 4, week 8 and week 12</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ESSDAI improvement</measure>
+    <time_frame>week 12</time_frame>
+    <description>Change from baseline in ESSDAI (EULAR Sjogren's Syndrome Disease Activity Index) score (0-123, higher is worse) at week 12.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ESSPRI improvement</measure>
+    <time_frame>week 12</time_frame>
+    <description>Change from baseline in ESSPRI (EULAR Sjogren's Syndrome Patient Reported Index) score (0-10, higher is worse) at week 12.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Immunoglobulins</measure>
+    <time_frame>week 12</time_frame>
+    <description>Change from baseline in Immunoglobulin (IgG, IgM and IgA) levels at week 12.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Rheumatoid Factor</measure>
+    <time_frame>week 12</time_frame>
+    <description>Change from baseline in rheumatoid factor level at week 12.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">110</enrollment>
+  <condition>Sjogren Syndrome With Other Organ Involvement</condition>
+  <arm_group>
+    <arm_group_label>Prednisolone monotherapy</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Oral prednisolone 1mg/kg daily for 4 weeks, then tapered to 7.5mg in 8 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Prednisolone plus Tacrolimus</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Oral prednisolone 1mg/kg daily for 4 weeks, then tapered to 7.5mg in 8 weeks. Oral tacrolimus 1-2mg twice daily for 12 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Prednisolone</intervention_name>
+    <description>Oral prednisolone 1mg/kg daily for 4 weeks, then tapered to 7.5mg in 8 weeks.</description>
+    <arm_group_label>Prednisolone monotherapy</arm_group_label>
+    <arm_group_label>Prednisolone plus Tacrolimus</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tacrolimus</intervention_name>
+    <description>Oral Tacrolimus 1-2mg twice daily for 12 weeks.</description>
+    <arm_group_label>Prednisolone plus Tacrolimus</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of Sjogren's syndrome according to the 2002 revised American-European&#xD;
+             Consensus Group (AECG) criteria.&#xD;
+&#xD;
+          -  Baseline platelet counts less than 30×109/L.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Concomitant other systemic autoimmune diseases.&#xD;
+&#xD;
+          -  Other severe complications of Sjogren's syndrome.&#xD;
+&#xD;
+          -  Abnormal laboratory tests such as: white blood cell count &lt;2.5x10^9/L, hemoglobin &lt;80&#xD;
+             g/L, AST/ALT &gt;1.5 ULN, serum creatine &gt; 1.5 mg/dL.&#xD;
+&#xD;
+          -  Received glucocorticoids, immunosuppressants, or biological agents within 3 months.&#xD;
+&#xD;
+          -  Active acute or chronic infections.&#xD;
+&#xD;
+          -  History of malignancy.&#xD;
+&#xD;
+          -  Pregnancy or breastfeeding.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Hua Chen, Dr.</last_name>
+    <phone>861069159962</phone>
+    <email>chenhua@pumch.cn</email>
+  </overall_contact>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 12, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 12, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>January 12, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 12, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 23, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Peking Union Medical College Hospital</investigator_affiliation>
+    <investigator_full_name>Wen Zhang</investigator_full_name>
+    <investigator_title>Prof.</investigator_title>
+  </responsible_party>
+  <keyword>Sjogren's syndrome</keyword>
+  <keyword>Thrombocytopenia</keyword>
+  <keyword>Tacrolimus</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sjogren's Syndrome</mesh_term>
+    <mesh_term>Thrombocytopenia</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prednisolone</mesh_term>
+    <mesh_term>Tacrolimus</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

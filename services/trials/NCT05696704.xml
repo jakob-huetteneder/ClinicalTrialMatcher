@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9492">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05696704</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TexasTechU2</org_study_id>
+    <nct_id>NCT05696704</nct_id>
+  </id_info>
+  <brief_title>Telehealth to Reduce Mental Health in Family Caregivers</brief_title>
+  <official_title>Utilizing Telehealth to Reduce Pre-Death Grief, Burden, and Stress in Family Caregivers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Texas Tech University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Texas Tech University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overarching goal of this project is to evaluate if evidence-based interventions can&#xD;
+      reduce PDG, burden, and stress in informal caregivers of individuals with dementia when&#xD;
+      provided over telehealth.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Aim 1: Examine the effects of two individual evidence-based therapies for informal caregivers&#xD;
+      of dementia patients over telehealth.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 30, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Prolonged Grief Scale-12 (measuring pre-death grief)</measure>
+    <time_frame>[Time Frame: through study completion, an average of 6 months]</time_frame>
+    <description>The PG-12 (range 11-55; higher scores mean higher pre-death grief), which is used to measure pre-death grief will be used to measure grief of having a loved one live with a life limiting illness and no longer be able to engage in valued activities.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Zarit Burden Inventory (ZBI)</measure>
+    <time_frame>[Time Frame: through study completion, an average of 6 months]</time_frame>
+    <description>Informal caregivers, usually family member, have an increase in burden or feeling they are overwhelmed by their current circumstances. The ZBI is between 0-48, higher scores indicating higher burden.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Perceived Stress Scale</measure>
+    <time_frame>[Time Frame: through study completion, an average of 6 months]</time_frame>
+    <description>Informal caregivers, usually family members, are unpaid and have a tendency to feel tense and emotionally drained do to caregiving. Scores range from 0-40 with higher scores indicating higher rates of stress.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Mental Health Issue</condition>
+  <condition>Grief</condition>
+  <condition>Burden, Caregiver</condition>
+  <arm_group>
+    <arm_group_label>Mindfulness Based Cognitive Therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Mindfulness-Based Cognitive Therapy (MBCT) combines the ideas of cognitive therapy with meditative practices and attitudes based on the cultivation of mindfulness. The heart of this work lies in becoming acquainted with the modes of mind that often characterize mood disorders while simultaneously learning to develop a new relationship to them.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Behavior Activation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>BA Increase reinforcing behaviors in order to influence emotions and cognitions.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Behavioral: Mindfulness Based Cognitive Therapy</intervention_name>
+    <description>Individual tele-therapy 12 to 16 weeks</description>
+    <arm_group_label>Mindfulness Based Cognitive Therapy</arm_group_label>
+    <other_name>MBCT</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Behavioral: Behavior Activation</intervention_name>
+    <description>Individual therapy 12 to 16 weeks</description>
+    <arm_group_label>Behavior Activation</arm_group_label>
+    <other_name>BA</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants must be informal caregivers (e.g., spouse; child; close friend) of&#xD;
+             individuals with dementia&#xD;
+&#xD;
+          -  Informal caregivers can be family members or close friends&#xD;
+&#xD;
+          -  Adults (18 to 89 years old) who read, write, and speak in English&#xD;
+&#xD;
+          -  Mental Health Diagnosis (e.g., Generalized Anxiety Disorder; Major Depressive Disorder&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Formal caregivers (who are being paid to take care of the patient)&#xD;
+&#xD;
+          -  Any informal caregivers with cognitive impairment is identified during the assessment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>120 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jonathan D Singer, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>jonsinge@ttu.edu</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Casside Street, Ph.D.</last_name>
+    <phone>(806) 834-2285</phone>
+    <email>casside.street@ttu.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Keith Jones, Ph.D.</last_name>
+    <phone>(806) 834-8745</phone>
+    <email>keith.jones@ttu.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Texas Tech University</name>
+      <address>
+        <city>Lubbock</city>
+        <state>Texas</state>
+        <zip>79382</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jonathan D Singer, Ph.D.</last_name>
+      <phone>775-722-8066</phone>
+      <email>jonsinge@ttu.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 13, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>January 13, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Caregiver Burden</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

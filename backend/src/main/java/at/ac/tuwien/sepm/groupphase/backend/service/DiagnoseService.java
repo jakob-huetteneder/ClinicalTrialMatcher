@@ -4,6 +4,9 @@ import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.DiagnoseDto;
 
 import java.util.List;
 
+/**
+ * Service for managing diagnoses.
+ */
 public interface DiagnoseService {
 
     /**
@@ -25,7 +28,7 @@ public interface DiagnoseService {
     /**
      * Delete a certain diagnosis.
      *
-     * @param id the id of the patient
+     * @param id          the id of the patient
      * @param diagnosisId the id of the diagnosis
      * @return the deleted examination object
      */
@@ -34,7 +37,7 @@ public interface DiagnoseService {
     /**
      * View a certain diagnosis.
      *
-     * @param id the id of the patient
+     * @param id          the id of the patient
      * @param diagnosisId the id of the diagnosis
      * @return the viewed examination object
      */

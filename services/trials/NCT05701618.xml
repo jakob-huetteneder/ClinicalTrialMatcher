@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9270">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05701618</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY00001170</org_study_id>
+    <nct_id>NCT05701618</nct_id>
+  </id_info>
+  <brief_title>Psychologically Informed Education Intervention for Adolescents With Atraumatic Lower-Extremity Injuries</brief_title>
+  <official_title>Psychologically Informed Education Intervention for Adolescents With Atraumatic Lower-Extremity Injuries</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Nationwide Children's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Nationwide Children's Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized prospective study assessing the impact of psychosocial factors on pain&#xD;
+      and physical performance among adolescents with leg pain. A set of psychosocial surveys&#xD;
+      assessing activity-related fear, stress, anxiety and depression will be completed by the&#xD;
+      participants. Participants will then complete self-report questionnaires assessing pain,&#xD;
+      quality of life and functional ability followed by an assessment of physical activity levels&#xD;
+      assessed with a wearable activity monitor;. Participants will then be randomized into one of&#xD;
+      two intervention groups (psychologically-informed video education group and a control group).&#xD;
+      After participants receive their assigned educational intervention, the self-report&#xD;
+      questionnaires will be re-administered. Participants with leg pain pain will then complete&#xD;
+      follow-up assessment of their psychological beliefs, pain, quality of life, physical activity&#xD;
+      levels, and self-reported functional ability through REDcap at 1 week, 4 weeks, 3 months, 6&#xD;
+      months, and 1 year.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 30, 2023</start_date>
+  <completion_date type="Anticipated">January 23, 2025</completion_date>
+  <primary_completion_date type="Anticipated">January 23, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+    <masking_description>This research study is a double-blinded randomized controlled trial. The participants will not be made aware which education video they watch is the control and which is the intervention. The study staff will be blinded to group allocation until after measurements are completed.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Lower Extremity Function Scale.</measure>
+    <time_frame>Baseline, 1 month, 3 months, 6 months, 1 year</time_frame>
+    <description>The lower extremity function scale is a 20-item self-report questionnaire used to evaluate functional ability during everyday tasks (0-80). Each item is scored on a 0-4 point scale with higher scores representing greater functional ability. The lower extremity function scale has validity in the adolescent population and has a minimal clinical important difference of 9 points.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Numeric Pain Rating Scale</measure>
+    <time_frame>Baseline, 1 month, 3 months, 6 months, 1 year</time_frame>
+    <description>The numeric pain rating scale asks the patient their highest pain in the last 24 hours. The Numeric Pain Rating Scale is a 0-10 scale subjectively assessing a patients perceived level of pain. With 0 on the scale = to no pain, and 10 = to the worst pain imaginable. The use of the Numerical Pain Rating Scale for assessing pain has been validated for use in patients with knee pain and has been found to have a minimal detectable change of 1 points.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in physical activity levels as measure by activity monitor</measure>
+    <time_frame>Baseline, 1 month, 3 months, 6 months, 1 year</time_frame>
+    <description>Physical activity levels will be assessed with a wearable activity monitor: Total energy expenditure will be assessed using the Fitbit Inspire 3(TM) with Heart Rate Monitoring over a seven-day period. The Fitbit Inspire 3 (TM) is a wrist-worn activity monitor that demonstrates acceptable validity and reliability for assessing total energy expenditure. Higher levels of total energy expenditure levels represent higher levels of physical activity.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Fear-Avoidance Beliefs</measure>
+    <time_frame>Baseline, 1 month, 3 months, 6 months, 1 year</time_frame>
+    <description>Fear avoidance beliefs as measured by the Fear Avoidance Beliefs Questionnaire-Physical Activity Subscale. The Fear Avoidance Beliefs Questionnaire-Physical Activity Subscale is a 4-item self-report questionnaire (0-24). Each item is scored 0-6 with higher scores representing higher levels of fear-avoidance beliefs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Kinesiophobia</measure>
+    <time_frame>Baseline, 1 month, 3 months, 6 months, 1 year</time_frame>
+    <description>Change in kinesiophobia beliefs as measure by the Tampa Scale for Kinesiophobia-11. The Tampa Scale of Kinesiophobia-11 is an 11 item self-report questionnaire (11-44 scale). Ratings range from 1 (strongly disagree) to 4 (strongly agree). Higher scores represent higher levels of kinesiophobia.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Pain Catastrophizing</measure>
+    <time_frame>Baseline, 1 month, 3 months, 6 months, 1 year</time_frame>
+    <description>Change in pain catastrophizing as measured by the pain catastrophizing scale-child version. The Pain Catastrophizing Scale-child is a 13-item self-report measure (0-52). Each item is rated on a 5-point scale, ranging from 0 (not at all) to 4 (all the time). With higher scores representing higher levels of pain catastrophizing</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Pain Self Efficacy Questionnaire</measure>
+    <time_frame>Baseline, 1 month, 3 months, 6 months, 1 year</time_frame>
+    <description>The Pain Self Efficacy Questionnaire is a 10-item scale which assesses confidence in functioning despite pain. Each item is scored 0-6 with higher scores representing higher levels of pain self-efficacy (0-60). The PSEQ was originally designed for adults but has been found valid and reliable for adolescents</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">86</enrollment>
+  <condition>Leg Injury</condition>
+  <arm_group>
+    <arm_group_label>Psychologically Informed Education</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>is arm will provide an education intervention which will attempt to address maladaptive psychological behaviors in adolescents with atraumatic lower extremity injuries.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Education</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>This arm will provide education of basic leg anatomy and will not address maladaptive psychological behaviors.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Psychologically Informed Education Video Series</intervention_name>
+    <description>A short three video series (5-8.5 minutes each) provides psychologically-informed education at an age-appropriate level to address kinesiophobia, pain catastrophizing, and fear-avoidance beliefs.30 Participants will view the three-part education video series on an iPad at their first visit (video 1), one week (video 2), and three weeks (video 3).</description>
+    <arm_group_label>Psychologically Informed Education</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Anatomy and biomedical education videos</intervention_name>
+    <description>Participants in the control group will watch three videos equal in length to the psychologically-informed videos. The control videos will discuss anatomy of the lower extremity, basic instruction in proper lower extremity biomechanics, and simple lower extremity exercises. The control videos will provide no psychologically-informed education or positive reinforcement about the condition.</description>
+    <arm_group_label>Control Education</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria&#xD;
+&#xD;
+          1. Age between 12 and 17 years&#xD;
+&#xD;
+          2. Atraumatic lower extremity pain for &gt;4 weeks&#xD;
+&#xD;
+        Exclusion criteria&#xD;
+&#xD;
+          1. Suspicion or evidence of complete tendon or ligamentous tear.&#xD;
+&#xD;
+          2. Current fracture in the lower extremity.&#xD;
+&#xD;
+          3. Prior history of surgery in the lower extremity.&#xD;
+&#xD;
+          4. Neurologic or developmental disorder, which alters lower extremity function.&#xD;
+&#xD;
+          5. Numbness and tingling in any lumbar dermatome.&#xD;
+&#xD;
+          6. Red flags present for non-musculoskeletal involvement (bowel/bladder problems, saddle&#xD;
+             anesthesia, progressive neurological deficits, recent fever or infection, unexplained&#xD;
+             weight loss, unable to change symptoms with mechanical testing).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mitchell Selhorst, DPT, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Nationwide Children's Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mitchell Selhorst, DPT, PhD</last_name>
+    <phone>6143559764</phone>
+    <email>Mitchell.Selhorst@Nationwidechildrens.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Nationwide Children's Hospital Sports and Ortho Physical Therapy</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mitchell Selhorst, DPT</last_name>
+      <phone>614-355-9764</phone>
+      <email>Mitchell.Selhorst@Nationwidechildrens.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Holden S, Kasza J, Winters M, van Middelkoop M, Rathleff MS; Adolescent Knee Health Group. Prognostic factors for adolescent knee pain: an individual participant data meta-analysis of 1281 patients. Pain. 2021 Jun 1;162(6):1597-1607. doi: 10.1097/j.pain.0000000000002184.</citation>
+    <PMID>33449504</PMID>
+  </reference>
+  <reference>
+    <citation>Selhorst M, Hoehn J, Degenhart T, Schmitt L, Fernandez-Fernandez A. Psychologically-informed video reduces maladaptive beliefs in adolescents with patellofemoral pain. Phys Ther Sport. 2020 Jan;41:23-28. doi: 10.1016/j.ptsp.2019.10.009. Epub 2019 Oct 31.</citation>
+    <PMID>31704460</PMID>
+  </reference>
+  <reference>
+    <citation>Maclachlan LR, Collins NJ, Hodges PW, Vicenzino B. Psychological and pain profiles in persons with patellofemoral pain as the primary symptom. Eur J Pain. 2020 Jul;24(6):1182-1196. doi: 10.1002/ejp.1563. Epub 2020 Apr 12.</citation>
+    <PMID>32223042</PMID>
+  </reference>
+  <reference>
+    <citation>Coronado RA, Brintz CE, McKernan LC, Master H, Motzny N, Silva FM, Goyal PM, Wegener ST, Archer KR. Psychologically informed physical therapy for musculoskeletal pain: current approaches, implications, and future directions from recent randomized trials. Pain Rep. 2020 Sep 23;5(5):e847. doi: 10.1097/PR9.0000000000000847. eCollection 2020 Sep-Oct.</citation>
+    <PMID>33490842</PMID>
+  </reference>
+  <results_reference>
+    <citation>Yang X, Jago R, Zhang Q, Wang YY, Zhang J, Zhao WH. Validity and Reliability of the Wristband Activity Monitor in Free-living Children Aged 10-17 Years. Biomed Environ Sci. 2019 Nov;32(11):812-822. doi: 10.3967/bes2019.103.</citation>
+    <PMID>31910939</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Stahlschmidt L, Hubner-Mohler B, Dogan M, Wager J. Pain Self-Efficacy Measures for Children and Adolescents: A Systematic Review. J Pediatr Psychol. 2019 Jun 1;44(5):530-541. doi: 10.1093/jpepsy/jsz002.</citation>
+    <PMID>30802913</PMID>
+  </results_reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 18, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>January 30, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 30, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Nationwide Children's Hospital</investigator_affiliation>
+    <investigator_full_name>Mitchell Selhorst</investigator_full_name>
+    <investigator_title>Physical Therapist/Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Adolescent</keyword>
+  <keyword>Atraumatic</keyword>
+  <keyword>Education</keyword>
+  <keyword>Patellofemoral</keyword>
+  <keyword>Tendinopathy</keyword>
+  <keyword>Apophysitis</keyword>
+  <keyword>Overuse</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Wounds and Injuries</mesh_term>
+    <mesh_term>Leg Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All IPD that underlie results in a publication</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_access_criteria>As a part of this research, it will be necessary to collect identifying information. Even though the final dataset will be stripped of identifiers prior to release for sharing, the patient sample is composed of minors who are a protected patient population Thus, we will make the data and associated documentation available to users only under a data-sharing agreement that provides for: (1) a commitment to using the data only for research purposes and not to identify any individual participant; (2) a commitment to securing the data using appropriate computer technology; and (3) a commitment to destroying or returning the data after analyses are completed. Aggregate data including sample means, standard deviations, frequencies and significance values will be shared through peer-reviewed publications and conference abstracts. Email requests for data-sharing agreements to Mitchell.Selhorst@Nationwidechildrens.org</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

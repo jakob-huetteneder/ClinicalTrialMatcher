@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9570">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05695209</url>
+  </required_header>
+  <id_info>
+    <org_study_id>16571</org_study_id>
+    <secondary_id>R61NR020845</secondary_id>
+    <nct_id>NCT05695209</nct_id>
+  </id_info>
+  <brief_title>Equity Using Interventions for Pain and Depression - Pilot Study</brief_title>
+  <acronym>EQUIPD-Pilot</acronym>
+  <official_title>Equity Using Interventions for Pain and Depression (EQUIPD) - Phase 1</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Indiana University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Nursing Research (NINR)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Indiana University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This project is part of the NIH Helping to End Addiction Long-term (HEAL) initiative&#xD;
+      (https://heal.nih.gov/). This pilot randomized controlled trial (RCT) is part of phase 1 of a&#xD;
+      two-phase, 5-year project with the overarching goal of testing a decision aid (DA)/coaching&#xD;
+      intervention, tailored to Black patients with comorbid chronic pain and depression, to&#xD;
+      encourage use of and adherence to nonpharmacological pain treatments (NPTs).&#xD;
+&#xD;
+      This 2-arm pilot trial will aim to enroll up to 40 Black patients with comorbid chronic&#xD;
+      musculoskeletal pain and depression in primary care from an urban safety-net health system&#xD;
+      with the end goal of at least 30 patients completing the trial. After the baseline&#xD;
+      assessment, patients randomized to the intervention will be asked to participate in 4&#xD;
+      coaching sessions over approximately 12 weeks. Sessions will use Motivational Interviewing&#xD;
+      principles to foster openness to NPTs and self-efficacy by helping patients identify their&#xD;
+      goals and priorities, understand their NPT options, prepare them to discuss and choose&#xD;
+      options with their primary care providers (PCPs), and reinforce these choices to foster&#xD;
+      maintenance of these changes. DA contents will be integrated into these sessions, which will&#xD;
+      facilitate discussion of these options with their PCP. The first 3 sessions take place prior&#xD;
+      to the patient's next scheduled PCP visit; the final session occurs after this visit.&#xD;
+      Assessments will be conducted at baseline, 3 months (i.e., after completing the final&#xD;
+      coaching session), and 6 months.&#xD;
+&#xD;
+      Patients randomized to the wait-list control group will receive usual care (in addition to&#xD;
+      study assessments at baseline, 3 months, and 6 months). After completing the final&#xD;
+      assessment, they will then be given the DA along with a 20-minute coaching session to walk&#xD;
+      them through it (patients may decline the coaching session or schedule for a future time).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 2023</start_date>
+  <completion_date type="Anticipated">May 2024</completion_date>
+  <primary_completion_date type="Anticipated">May 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Single (Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from Baseline Brief Pain Inventory (BPI) Interference Scale at 3 months</measure>
+    <time_frame>3 months</time_frame>
+    <description>The pain interference score averages seven ratings, 0 (does not interfere) to 10 (interferes completely), of interference with general activity, mood, walking ability, normal work, relations with other people, sleep, and enjoyment of life.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from Baseline Brief Pain Inventory (BPI) Interference Scale at 6 months</measure>
+    <time_frame>6 months</time_frame>
+    <description>The pain interference score averages seven ratings, 0 (does not interfere) to 10 (interferes completely), of interference with general activity, mood, walking ability, normal work, relations with other people, sleep, and enjoyment of life.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Brief Pain Inventory (BPI) Intensity Scale at 3 months</measure>
+    <time_frame>3 months</time_frame>
+    <description>This pain intensity scale has 4 items with ratings from 0 (no pain) to 10 (pain as bad as you can imagine).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Brief Pain Inventory (BPI) Intensity Scale at 6 months</measure>
+    <time_frame>6 months</time_frame>
+    <description>This pain intensity scale has 4 items with ratings from 0 (no pain) to 10 (pain as bad as you can imagine).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Patient-Reported Outcomes Measurement Information System (PROMIS) Sleep Disturbance Short Form at 3 months</measure>
+    <time_frame>3 months</time_frame>
+    <description>The PROMIS Sleep Disturbance Short Form assesses self-reported perceptions of sleep quality, sleep depth, and restoration associated with sleep using 6 items with varying 5 point Likert scales.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Patient-Reported Outcomes Measurement Information System (PROMIS) Sleep Disturbance Short Form at 6 months</measure>
+    <time_frame>6 months</time_frame>
+    <description>The PROMIS Sleep Disturbance Short Form assesses self-reported perceptions of sleep quality, sleep depth, and restoration associated with sleep using 6 items with varying 5 point Likert scales.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Sleep Duration at 3 months</measure>
+    <time_frame>3 months</time_frame>
+    <description>This is a single question asking about the number of hours and minutes of actual sleep in the last month.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Sleep Duration at 6 months</measure>
+    <time_frame>6 months</time_frame>
+    <description>This is a single question asking about the number of hours and minutes of actual sleep in the last month.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Patient Health Questionnaire (PHQ)-8 at 3 months</measure>
+    <time_frame>3 months</time_frame>
+    <description>The PHQ-8 is a widely-used, validated 8-item measure of depression severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Patient Health Questionnaire (PHQ)-8 at 6 months</measure>
+    <time_frame>6 months</time_frame>
+    <description>The PHQ-8 is a widely-used, validated 8-item measure of depression severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Generalized Anxiety Disorder (GAD)-7 at 3 months</measure>
+    <time_frame>3 months</time_frame>
+    <description>Anxiety will be measured with the 7 item GAD-7.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Pain Catastrophizing Scale at 3 months</measure>
+    <time_frame>3 months</time_frame>
+    <description>The Pain Catastrophizing Scale is a 13-item scale that assesses catastrophizing-a cognitive-emotional factor that predicts poor treatment response.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Pain Catastrophizing Scale at 6 months</measure>
+    <time_frame>6 months</time_frame>
+    <description>The Pain Catastrophizing Scale is a 13-item scale that assesses catastrophizing-a cognitive-emotional factor that predicts poor treatment response.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Altarum Consumer Engagement (ACE) Measure at 3 months</measure>
+    <time_frame>3 months</time_frame>
+    <description>Patient engagement will be measured with the 12-item Altarum Consumer Engagement (ACE) Measure, which has 3 subscales: 1) commitment to manage one's health, 2) informed choice, and 3) confidence to participate in treatment decisions. Items are assessed on a 5-point Likert scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Altarum Consumer Engagement (ACE) Measure at 6 months</measure>
+    <time_frame>6 months</time_frame>
+    <description>Patient engagement will be measured with the 12-item Altarum Consumer Engagement (ACE) Measure, which has 3 subscales: 1) commitment to manage one's health, 2) informed choice, and 3) confidence to participate in treatment decisions. Items are assessed on a 5-point Likert scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Use of Nonpharmacological and Self-Care Approaches (NSCAP) at 3 months</measure>
+    <time_frame>3 months</time_frame>
+    <description>The NSCAP asks about 9 nonpharmacological treatment (NPT) modalities and assesses details of use such as frequency, location/source of service, and patients' judgments of effectiveness. Space is also provided for other NPTs that are used but not listed. The number of modalities for which patients answer &quot;yes&quot; will be summed for analyses.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Use of Nonpharmacological and Self-Care Approaches (NSCAP) at 6 months</measure>
+    <time_frame>6 months</time_frame>
+    <description>The NSCAP asks about 9 nonpharmacological treatment (NPT) modalities and assesses details of use such as frequency, location/source of service, and patients' judgments of effectiveness. Space is also provided for other NPTs that are used but not listed. The number of modalities for which patients answer &quot;yes&quot; will be summed for analyses.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Tobacco, Alcohol, Prescription medications, and other Substance (TAPS) measure at 3 months</measure>
+    <time_frame>3 months</time_frame>
+    <description>Tobacco, alcohol, and drug use, as well as prescription medication misuse will be assessed using this 4-item screening tool.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Tobacco, Alcohol, Prescription medications, and other Substance (TAPS) measure at 6 months</measure>
+    <time_frame>6 months</time_frame>
+    <description>Tobacco, alcohol, and drug use, as well as prescription medication misuse will be assessed using this 4-item screening tool.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Perceived Efficacy in Patient-Physician Interactions Scale (PEPPI-5) at 3 months</measure>
+    <time_frame>3 months</time_frame>
+    <description>Communication self-efficacy will be measured with this 5-item scale that measures patients' self-efficacy in obtaining medical information and getting their most important health concern discussed in a clinic visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Perceived Efficacy in Patient-Physician Interactions Scale (PEPPI-5) at 6 months</measure>
+    <time_frame>6 months</time_frame>
+    <description>Communication self-efficacy will be measured with this 5-item scale that measures patients' self-efficacy in obtaining medical information and getting their most important health concern discussed in a clinic visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline CollaboRATE at 3 months</measure>
+    <time_frame>3 months</time_frame>
+    <description>Shared decision making will be measured with CollaboRATE, a 3-item measure assessing provider effort from the patient's perspective to engage in shared-decision making during a recent appointment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline CollaboRATE at 6 months</measure>
+    <time_frame>6 months</time_frame>
+    <description>Shared decision making will be measured with CollaboRATE, a 3-item measure assessing provider effort from the patient's perspective to engage in shared-decision making during a recent appointment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Working Alliance Inventory (WAI) Client Short Form at 3 months</measure>
+    <time_frame>3 months</time_frame>
+    <description>The Working Alliance Inventory (WAI) Client Short Form assesses patient-provider agreement on treatment goals, collaboration to achieve these goals, and degree of emotional bond (liking and trust) between patients and providers.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Working Alliance Inventory (WAI) Client Short Form at 6 months</measure>
+    <time_frame>6 months</time_frame>
+    <description>The Working Alliance Inventory (WAI) Client Short Form assesses patient-provider agreement on treatment goals, collaboration to achieve these goals, and degree of emotional bond (liking and trust) between patients and providers.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Perceived Discrimination in Healthcare Scale</measure>
+    <time_frame>Baseline</time_frame>
+    <description>We will measure perceived discrimination in healthcare settings with the 7-item &quot;Perceived Discrimination in Healthcare&quot; Scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline PROMIS Physical Function Short Form 6b at 3 months</measure>
+    <time_frame>3 months</time_frame>
+    <description>Physical functioning will be assessed with the PROMIS Physical Function Short Form 6b which assesses universal physical functioning with a 6-item, self-report scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline PROMIS Physical Function Short Form 6b at 6 months</measure>
+    <time_frame>6 months</time_frame>
+    <description>Physical functioning will be assessed with the PROMIS Physical Function Short Form 6b which assesses universal physical functioning with a 6-item, self-report scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Patient Global Impression of Change (PGIC) at 3 months</measure>
+    <time_frame>3 months</time_frame>
+    <description>Patient-reported impression of change will be measured using the PGIC which is a one-item measure reflecting a patient's perception of change after the start of an intervention.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Patient Global Impression of Change (PGIC) at 6 months</measure>
+    <time_frame>6 months</time_frame>
+    <description>Patient-reported impression of change will be measured using the PGIC which is a one-item measure reflecting a patient's perception of change after the start of an intervention.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Chronic Pain</condition>
+  <condition>Depression</condition>
+  <condition>Health Equity</condition>
+  <arm_group>
+    <arm_group_label>Coaching and Decision Aid</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Individual coaching sessions and Decision Aid</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Wait-list control group</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Coaching and Decision Aid</intervention_name>
+    <description>Four (4) coaching sessions over approximately 12 weeks with integration of Decision Aid contents</description>
+    <arm_group_label>Coaching and Decision Aid</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Eligible patients must:&#xD;
+&#xD;
+          -  have musculoskeletal pain in the low back, cervical spine, or extremities (hip, knee,&#xD;
+             shoulder) for ≥3 months,&#xD;
+&#xD;
+          -  have at least moderate pain intensity and interference with function, defined by a&#xD;
+             score ≥4 (possible range: 0-10) on the Pain, Enjoyment of Life and General Activity&#xD;
+             scale (PEG), a 3-item measure of pain intensity, interference with enjoyment of life,&#xD;
+             and interference with general activity,&#xD;
+&#xD;
+          -  have at least moderate depression, defined as PHQ-8 score ≥10,&#xD;
+&#xD;
+          -  identify as Black,&#xD;
+&#xD;
+          -  have consistent access to a telephone,&#xD;
+&#xD;
+          -  indicate openness to new pain treatments, and&#xD;
+&#xD;
+          -  have a scheduled appointment with their PCP in the next approximate 2-4 months&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Patients are excluded:&#xD;
+&#xD;
+          -  if previously participated in the PI's past pilot study (IRB #12885) or participation&#xD;
+             as a Patient Engagement Panel member for this project,&#xD;
+&#xD;
+          -  if medical records indicate severe medical conditions likely precluding participation&#xD;
+             (e.g., NY Heart Association Class III or IV heart failure), or&#xD;
+&#xD;
+          -  if the eligibility screener reveals (1) active suicidal ideation, or (2) severe&#xD;
+             hearing/speech or cognitive impairment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marianne Matthias, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Indiana University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jennifer Garabrant</last_name>
+    <phone>317-278-2510</phone>
+    <email>jwilkers@iu.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Eskenazi Health Primary Care</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46254</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jennifer M Garabrant, BSW</last_name>
+      <phone>317-278-2510</phone>
+      <email>jwilkers@iu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Marianne Matthias, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 11, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>May 8, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 8, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 9, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Indiana University</investigator_affiliation>
+    <investigator_full_name>Marianne S. Matthias</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>chronic pain</keyword>
+  <keyword>depression</keyword>
+  <keyword>health equity</keyword>
+  <keyword>shared decision making</keyword>
+  <keyword>decision aid</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Chronic Pain</mesh_term>
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>NIH intends to maximize the impact of HEAL Initiative-supported projects through broad and rapid data sharing. All HEAL Initiative award recipients, regardless of the amount of direct costs requested for any one year, are required to comply with the HEAL Public Access and Data Sharing Policy, which also aligns with the NIH Policy for Data Management and Sharing (https://grants.nih.gov/grants/guide/notice-files/NOT-OD-21-013.html). HEAL award recipients must following all requirements and timelines developed through the HEAL Initiative Data Ecosystem, as described in HEAL's compliance guidance (https://heal.nih.gov/data/complying-heal-data-sharing-policy).</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>At the time of publication of the primary manuscript</ipd_time_frame>
+    <ipd_access_criteria>Implementation of the plan will follow the HEAL Public Access and Data Sharing Policy.</ipd_access_criteria>
+    <ipd_url>https://heal.nih.gov/data/public-access-data</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

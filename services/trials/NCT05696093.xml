@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9525">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05696093</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP220799</org_study_id>
+    <nct_id>NCT05696093</nct_id>
+  </id_info>
+  <brief_title>Efficacy of Cotrimoxazole as a De-escalation Treatment of Ventilator-Associated Pneumonia in Intensive Care Unit</brief_title>
+  <acronym>COTRIVAP</acronym>
+  <official_title>Efficacy of Cotrimoxazole as a De-escalation Treatment of Ventilator-Associated Pneumonia in Intensive Care Unit. Multicentric Non-inferiority Randomised Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Efficacy of cotrimoxazole as a de-escalation treatment for adult patients&#xD;
+      Ventilator-Associated Pneumonia in intensive care unit Multicentre randomized non-inferiority&#xD;
+      trial comparing cotrimoxazole to standard antibiotic therapy for enterobacterial VAP&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Multicentre randomized non-inferiority trial comparing cotrimoxazole to standard antibiotic&#xD;
+      therapy for enterobacterial VAP. Selection of patients will be done by physicians in ICU. All&#xD;
+      clinically suspected VAP will be confirmed with a lung sample (bronchoalveolar lavage or&#xD;
+      protected distal specimen). Patients with a microbiologically confirmed VAP due to an&#xD;
+      Enterobacteriaceae susceptible to cotrimoxazole and at least one antibiotic of the empiric&#xD;
+      antibiotic therapy (based on international recommendations) will be included. After written&#xD;
+      informed consent, they will be randomized (1:1), using a computer-generated randomization&#xD;
+      scheme of various-sized blocks, stratified by presence of septic shock at VAP diagnosis and&#xD;
+      by presence of COVID-19 pneumonia on ICU admission, through a centralized 24 hours internet&#xD;
+      service (CleanWEB™) to cotrimoxazole, or best standard of care (either a beta-lactam or a&#xD;
+      fluoroquinolone), after randomization for a total duration of 7 days (including empiric&#xD;
+      initial appropriate treatment). Posology and modalities of antibiotic administration will be&#xD;
+      optimized based on most recent recommendations for ICU patients. Because antibiotic therapy&#xD;
+      will be variable in the control group, single or double blind is not appropriate. Daily&#xD;
+      follow-up until death or ICU discharge or day 28 will be performed (vital status, antibiotic&#xD;
+      therapy, new infection, Clostridium-difficile infection). Clinical (arterial blood gas,&#xD;
+      temperature, haematology, tracheal secretions) and radiological cure (chest X-ray) will be&#xD;
+      assessed at Day 7. Systematic MDR bacteria screening will be performed weekly and at ICU&#xD;
+      discharge. Vital status will be assessed at day 90. Alive patients leaving ICU before 90 days&#xD;
+      will be contacted by phone (if discharge at home) or by interview at hospital (if transferred&#xD;
+      in a different ward). Assessment of the clinical and radiological cure by an independent&#xD;
+      committee (1 specialist in infectious disease and 1 intensivist), blinded of the&#xD;
+      randomization arm (PROBE methodology).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2023</start_date>
+  <completion_date type="Anticipated">June 6, 2026</completion_date>
+  <primary_completion_date type="Anticipated">April 29, 2026</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Multicentre randomized non-inferiority trial comparing cotrimoxazole to standard antibiotic therapy for enterobacterial VAP.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To demonstrate that cotrimoxazole is non-inferior to best standard of care for the treatment of VAP in ICU in term of survival at day 28</measure>
+    <time_frame>28 days after inclusion</time_frame>
+    <description>Vital status at day 28</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To demonstrate that cotrimoxazole is superior to best standard of care for the treatment of VAP in ICU in term of mortality at day 90</measure>
+    <time_frame>90 days after inclusion</time_frame>
+    <description>Vital status at day 90</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To demonstrate that cotrimoxazole is superior to best standard of care for the treatment of VAP in IC in terms of mechanical ventilation (MV)-free-days at day 28</measure>
+    <time_frame>28 days after inclusion</time_frame>
+    <description>number of MV-free-days through day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To demonstrate that cotrimoxazole is superior to best standard of care for the treatment of VAP in ICU in terms of rate of cure between days 7 and 10</measure>
+    <time_frame>days 7 and 10 after inclusion</time_frame>
+    <description>Clinical, biological and radiological cure evaluated 7 to 10 days after VAP diagnosis, defined as the combination of resolution of signs and symptoms present at enrolment, biological improvement, and improvement or lack of progression of radiological signs, as adjudicated by an independent committee (PROBE methodology)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To demonstrate that cotrimoxazole is superior to best standard of care for the treatment of VAP in ICU in terms of VAP recurrence</measure>
+    <time_frame>28 days after inclusion</time_frame>
+    <description>new episode of VAP with the same Enterobacteriaceae</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To demonstrate that cotrimoxazole is superior to best standard of care for the treatment of VAP in ICU in terms of ICU length of stay</measure>
+    <time_frame>28 days after inclusion</time_frame>
+    <description>ICU length of stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To demonstrate that cotrimoxazole is superior to best standard of care for the treatment of VAP in ICU in terms of hospital length of stay</measure>
+    <time_frame>28 days after inclusion</time_frame>
+    <description>hospital length of stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the safety of cotrimoxazole compared to best standard of care at day 28 in terms of allergy to antibiotics</measure>
+    <time_frame>28 days after inclusion</time_frame>
+    <description>safety (rate of allergy due to antimicrobial drug)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To demonstrate that cotrimoxazole is superior to best standard of care for the treatment of VAP in ICU in terms of mortality at day 28</measure>
+    <time_frame>28 days after inclusion</time_frame>
+    <description>Vital status at day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To demonstrate that cotrimoxazole is superior to best standard of care for the treatment of VAP in ICU in terms of overall antibiotic consumption</measure>
+    <time_frame>day 28 after inclusion</time_frame>
+    <description>antibiotic-free days at day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the ecological impact of the treatment in terms of acquisition of MDR bacteria in ICU</measure>
+    <time_frame>28 days after inclsuion</time_frame>
+    <description>evolution of rate of MDR bacterial colonization on systematic screening at enrolment until ICU discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the ecological impact of the treatment in terms of rate of Clostridioides difficile infection</measure>
+    <time_frame>28 days after inclusion</time_frame>
+    <description>diagnostic of Clostridioides difficile infection between inclusion and day 28</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">628</enrollment>
+  <condition>Ventilator Associated Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>cotrimoxazole</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Use of cotrimoxazole for enterobacterial VAP. Posology and modalities of antibiotic administration will be optimized based on most recent recommendations for ICU patient. They will receive the treatment for 28 days or until death or until ICU discharge if its before 28days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>standard antibiotic therapy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Use of standard antibiotic therapy enterobacterial VAP. Posology and modalities of antibiotic administration will be optimized based on most recent recommendations for ICU patient. They will receive the treatment for 28 days or until death or until ICU discharge if its before 28days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cotrimoxazole</intervention_name>
+    <description>Use of cotrimoxazole therapy for enterobacterial VAP</description>
+    <arm_group_label>cotrimoxazole</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>standard antibiotic therapy</intervention_name>
+    <description>Use of standard antibiotic therapy for enterobacterial VAP</description>
+    <arm_group_label>standard antibiotic therapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult patients hospitalized in an ICU&#xD;
+&#xD;
+          -  Under mechanical ventilation for at least five days&#xD;
+&#xD;
+          -  Microbiologically confirmed VAP on a distal lung sample (bronchoalveolar lavage or&#xD;
+             protected distal specimen)&#xD;
+&#xD;
+          -  Enterobacteriaceae susceptible to cotrimoxazole, and for polymicrobial VAP, all&#xD;
+             bacteria susceptible to cotrimoxazole&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Haemodynamic instability (increasing dose of a catecholamine in the last 24 hours)&#xD;
+&#xD;
+          -  Contra-indication to cotrimoxazole:&#xD;
+&#xD;
+               -  allergy,&#xD;
+&#xD;
+               -  advanced liver insufficiency,&#xD;
+&#xD;
+               -  renal dysfunction with clearance &lt;15 mL/min/1.73 m² without hemodialysis&#xD;
+&#xD;
+               -  G6PD deficiency&#xD;
+&#xD;
+               -  Pregnant women at the time of inclusion and breastfeeding women&#xD;
+&#xD;
+          -  Infection requiring prolonged antibiotic-therapy (pleural empyema, lung abscess,&#xD;
+             necrotizing pneumonia, etc…)&#xD;
+&#xD;
+          -  Cystic fibrosis&#xD;
+&#xD;
+          -  Immunosuppression (neutropenia, HIV with CD4 lymphocytes below 200/mm3,&#xD;
+             immunosuppressive therapy or corticosteroid therapy &gt;0.5 mg/kg/j before ICU admission)&#xD;
+&#xD;
+          -  Cardiac arrest without awakening&#xD;
+&#xD;
+          -  Moribund state (patient likely to die within 24h)&#xD;
+&#xD;
+          -  Limitation of life support (comfort care applied only) at the time of screening&#xD;
+&#xD;
+          -  Enrolment to another interventional study on VAP care/management&#xD;
+&#xD;
+          -  Subject deprived of freedom, subject under a legal protective measure&#xD;
+&#xD;
+          -  No affiliation to any health insurance system&#xD;
+&#xD;
+          -  Refusal to participate to the study (patient or legal representative or family member&#xD;
+             or close relative if present) Patients previously included in the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Damien Roux, MD-PhD</last_name>
+    <phone>01.47.60.63.29</phone>
+    <email>damien.roux@aphp.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Aline DECHANET</last_name>
+    <phone>01.40.25.78.30</phone>
+    <email>aline.dechanet@aphp.fr</email>
+  </overall_contact_backup>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 21, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 23, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>January 23, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 23, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>intensive care unit</keyword>
+  <keyword>de-escalation</keyword>
+  <keyword>cotrimoxazole</keyword>
+  <keyword>Ventilator Associated Pneumonia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Pneumonia, Ventilator-Associated</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Anti-Bacterial Agents</mesh_term>
+    <mesh_term>Trimethoprim, Sulfamethoxazole Drug Combination</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -27,6 +27,7 @@ public class DiseasesServiceImpl implements DiseasesService {
 
     @Override
     public Stream<DiseaseDto> search(SearchDto searchParams) {
+        LOG.trace("search({})", searchParams);
         return diseaseRepository.findDiseasesWithPartOfName(searchParams.name()).stream()
             .limit(searchParams.limit()).map(diseaseMapper::diseaseToDiseaseDto);
     }

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9285">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05701306</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APG115XC103</org_study_id>
+    <nct_id>NCT05701306</nct_id>
+  </id_info>
+  <brief_title>APG-115 Alone or in Combination With APG-2575 in Children With Recurrent or Refractory Neuroblastoma or Solid Tumors</brief_title>
+  <official_title>A Phase I Clinical Study of APG-115 Alone or in Combination With APG-2575 in Children With Recurrent or Refractory Neuroblastoma or Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ascentage Pharma Group Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Suzhou Yasheng Pharmaceutical Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Ascentage Pharma Group Inc.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      An open, non-randomized Phase I trial of dose-escalation and cohorts expansion to evaluate&#xD;
+      the safety, pharmacokinetic profile and initial efficacy of APG-115 alone or in combination&#xD;
+      with APG-2575 in the treatment of recurrent or refractory pediatric neuroblastoma or solid&#xD;
+      tumors.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Part 1: Dose escalation and expansion of APG-115 monotherapy in pediatric neuroblastoma or&#xD;
+      solid tumors to determine MTD and recommended phase 2 dose, RP2D.&#xD;
+&#xD;
+      Part 2: Dose escalation of APG-2575 to determine the MTD and RP2D combined with APG-115 at&#xD;
+      the dose level determined in part 1 in pediatric neuroblastoma or solid tumor, and extend the&#xD;
+      RP2D level of the combination therapy.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 23, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2027</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2026</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Dose Limiting Toxicity (Phase I)</measure>
+    <time_frame>Up to 21 days</time_frame>
+    <description>DLT will be defined based on the rate of drug-related grade 3-5 adverse events experienced within the first 3 weeks of study treatment. These will be assessed via CTCAE version 5.0.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Treatment-Emergent Adverse Events per NCI-CTCAE version 5.0</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <description>Number of patients with adverse event; Number of patients with abnormal vital signs, abnorma physical examination, laboratory abnormalities, and abnormal 12-lead ECG in monotherapy of APG-115 and combined with APG-2575.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Neuroblastoma</condition>
+  <condition>Solid Tumor</condition>
+  <arm_group>
+    <arm_group_label>APG-115 monotherapy in part1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Multiple dose cohorts, to determine the RP2D of APG-115.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>APG-115 combined with APG-2575 in part2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Multiple dose cohorts of APG-2575, to determine the RP2D of APG-2575 combined with APG-115.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>APG-115</intervention_name>
+    <description>Orally once every other day(QOD) for 2 weeks and suspended for 1 week, 21 days as a cycle.</description>
+    <arm_group_label>APG-115 combined with APG-2575 in part2</arm_group_label>
+    <arm_group_label>APG-115 monotherapy in part1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>APG-2575</intervention_name>
+    <description>Orally once a day (QD) for 21 days, 21 days as a cycle.</description>
+    <arm_group_label>APG-115 combined with APG-2575 in part2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Recurrent or refractory neuroblastoma or solid tumor.&#xD;
+&#xD;
+          2. Physical state score ≥ 50.&#xD;
+&#xD;
+          3. Expected survival ≥ 3 months.&#xD;
+&#xD;
+          4. There are target lesions (neuroblastoma) or measurable lesions (other solid tumors).&#xD;
+&#xD;
+          5. Have adequate organ function.&#xD;
+&#xD;
+          6. Fresh or archived tumor tissue samples should be provided prior to treatment. If none&#xD;
+             of these specimens are available, inclusion may be made after consultation with the&#xD;
+             sponsor.&#xD;
+&#xD;
+          7. Fertile women (≥14 years of age or having menarche) must have a negative serum&#xD;
+             pregnancy test at the time of the screening visit and must not be breastfeeding or&#xD;
+             planning to become pregnant during the study period.&#xD;
+&#xD;
+          8. A potentially fertile male subject (who has spermatoses) or female subject (ibid.)&#xD;
+             must agree to use effective contraception during the trial period and for 3 months&#xD;
+             after the trial ends (or is prematurely discontinued).&#xD;
+&#xD;
+          9. Informed consent must be obtained before carrying out any study procedure specified in&#xD;
+             the test. For child subjects, the consent of the subject and one of the parent/legal&#xD;
+             guardian must be obtained.&#xD;
+&#xD;
+         10. The ability to swallow research drugs.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Systemic antitumor therapy, including biotherapy, chemotherapy, surgery, radiotherapy,&#xD;
+             immunotherapy, and other investigational drug therapy (other than placebo), was&#xD;
+             received within 21 days prior to the first treatment with the study drug.&#xD;
+&#xD;
+          2. Small-molecule targeted drug therapy was administered 14 days before the first&#xD;
+             treatment of the study drug or within a known five-half-life period, whichever is&#xD;
+             shorter.&#xD;
+&#xD;
+          3. Patients who, according to the investigators' judgment, did not recover sufficiently&#xD;
+             after surgical treatment. Patients who underwent major surgery within 28 days before&#xD;
+             receiving the study drug for the first time.&#xD;
+&#xD;
+          4. Adverse events due to previous antitumor therapy (except grade 2 peripheral&#xD;
+             neurotoxicity and alopecia that the investigators judged to be of no safety risk) have&#xD;
+             not recovered (severity higher than grade 1 according to CTCAE version 5.0).&#xD;
+&#xD;
+          5. Patients with active brain tumors or brain metastases.&#xD;
+&#xD;
+          6. Active gastrointestinal diseases (e.g. Crohn's disease, ulcerative colitis, or short&#xD;
+             bowel syndrome) or other malabsorption syndromes that may affect drug absorption.&#xD;
+&#xD;
+          7. A known hemorrhagic predisposition/disease, such as a history of&#xD;
+             non-chemotherapy-induced thrombocytopenic bleeding within 1 year before first&#xD;
+             receiving the study drug; Have active immune thrombocytopenic purpura (ITP), active&#xD;
+             autoimmune hemolytic anemia (AIHA), or a history of platelet transfusion failure&#xD;
+             (within 1 year before first receiving the study drug); Severe gastrointestinal&#xD;
+             bleeding occurred within 3 months.&#xD;
+&#xD;
+          8. Clinically significant cardiovascular disease, cardiomyopathy, myocardial infarction&#xD;
+             or history within 6 months prior to administration.&#xD;
+&#xD;
+          9. Symptomatic active fungal, bacterial, and/or viral infections requiring systemic&#xD;
+             treatment.&#xD;
+&#xD;
+         10. Unexplained fever &gt; 38.5℃ within 2 weeks prior to initial administration (subjects&#xD;
+             with tumor-related fever, as determined by the investigator, could be enrolled).&#xD;
+&#xD;
+         11. Received MDM2 inhibitors or BCL-2 inhibitors.&#xD;
+&#xD;
+         12. Any other circumstances or conditions that the investigator considers the patient&#xD;
+             inappropriate for participation in the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yizhuo Zhang</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Sun Yat-sen University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yifan Zhai, MD,PHD</last_name>
+    <phone>+86-20-28068501</phone>
+    <email>Yzhai@ascentage.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Yan Yu</last_name>
+    <email>Yan.Yu@ascentage.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Sun Yat-sen University Cancer Center</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yizhuo Zhang, Ph.D</last_name>
+    </contact>
+    <investigator>
+      <last_name>Yizhuo Zhang, Ph.D</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 18, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2023</study_first_posted>
+  <last_update_submitted>March 23, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 23, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Neuroblastoma</keyword>
+  <keyword>Solid Tumor</keyword>
+  <keyword>APG-115</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neuroblastoma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9409">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05698407</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-329</org_study_id>
+    <nct_id>NCT05698407</nct_id>
+  </id_info>
+  <brief_title>Dexmedetomidine-Ropivacine Versus Sufentanil-Ropivacaine for Epidural Labor Analgesia</brief_title>
+  <official_title>Effect of Dexmedetomidine Plus Ropivacaine Versus Sufentanil Plus Ropivacaine for Epidural Labor Analgesia on Neonatal Outcomes: a Pilot Randomized Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Peking University First Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Peking University First Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Sufentanil-ropivacaine combination is commonly used for epidural labor anesthesia, but is&#xD;
+      associated with some adverse events. Dexmedetomidine is a high selective alpha2-adrenoceptor&#xD;
+      agonist. Mounting evidences show that dexmedetomidine-ropivacaine combination can also be&#xD;
+      used effectively for epidural labor analgesia. This pilot trial is designed to compare the&#xD;
+      effect of dexmedetomidine-ropivacaine combination versus sufentanil-ropivacaine combination&#xD;
+      on neonatal outcomes when used for epidural labor analgesia, and to test the feasibility of a&#xD;
+      future large randomized trial.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Sufentanil combined with ropivacaine is commonly used for epidural labor anesthesia. However,&#xD;
+      this combination is associated with some adverse events including increased risk of neonatal&#xD;
+      depression. Dexmedetomidine is a high selective alpha2-adrenoceptor agonist and possesses&#xD;
+      opioid-sparing and analgesic effects when used in combination with local anesthetics.&#xD;
+      Recently published data suggest that dexmedetomidine-ropivacaine combination can effectively&#xD;
+      relieve labor pain.&#xD;
+&#xD;
+      We suppose that, when compared with traditional sufentanil-ropivacaine combination, the&#xD;
+      dexmedetomidine-ropivacaine combination used for epidural labor analgesia may reduce&#xD;
+      sufentanil-related adverse neonatal outcomes. The purpose of this pilot trial is to compare&#xD;
+      the effect of dexmedetomidine-ropivacaine combination versus sufentanil-ropivacaine&#xD;
+      combination used for epidural labor analgesia on neonatal outcomes, and also to test the&#xD;
+      feasibility of a future large randomized trial.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 16, 2023</start_date>
+  <completion_date type="Anticipated">May 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>a randomized, double-blind, pilot trial with two parallel-arms</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Outcomes Assessor)</masking>
+    <masking_description>All participants, attending anesthesiologists and other health-care team members, and outcome assessors are blinded to the study group assignment.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Composite neonatal morbidity</measure>
+    <time_frame>Up to 24 hours after birth</time_frame>
+    <description>Included any of the following: 1-min or 5-min Apgar score less than 7, umbilical cord arterial PH less than 7.1, requirement for immediate assisted ventilation, neonatal intensive care unit or neonatal ward admission within 24 hours after birth.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Duration of labor</measure>
+    <time_frame>From the begining of the first stage of labor until delivery of the placenta, up to 20 hours</time_frame>
+    <description>Durations of the first, second, and third stages of labor</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Delivery mode</measure>
+    <time_frame>At the time of delivery</time_frame>
+    <description>The mode of delivery includes spontaneous delivery, instrumental delivery, and Cesarean delivery.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Epidural infusion volume</measure>
+    <time_frame>From the begining of epidural analgesia until childbirth, up to 20 hours</time_frame>
+    <description>Total epidural infusion volume and epidural infusion volume per hour</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subjective sleep quality score at the first night after childbirth</measure>
+    <time_frame>Up to 24 hours after childbirth</time_frame>
+    <description>Numeric Rating Scale (NRS) score of subjective sleep quality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The depression score assessed by Edinburgh Postnatal Depression Scale (EPDS)</measure>
+    <time_frame>At 42 days after childbirth</time_frame>
+    <description>The depression will be assessed with the Edinburgh Postnatal Depression Scale (EPDS; score range 0-30, with higher score indicating more severe depression). The assessment will be conducted by a telephone interview. A score of EPDS ≥10 was set as the threshold of postpartum depression.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Pregnancy Related</condition>
+  <arm_group>
+    <arm_group_label>Dexmedetomidine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>loading dose of 0.45 microgram/ml dexmedetomidine plus 0.09% ropivacaine, maintenance dose of 0.36 microgram/ml dexmedetomidine plus 0.07% ropivacaine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sufentanil</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>loading dose of 0.45 microgram/ml sufentanil plus 0.09% ropivacaine, maintenance dose of 0.36 microgram/ml sufentanil plus 0.07% ropivacaine</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexmedetomidine</intervention_name>
+    <description>A mixture of 0.4 microgram/ml dexmedetomidine plus 0.08% ropivacaine is used for epidural labor analgesia.</description>
+    <arm_group_label>Dexmedetomidine</arm_group_label>
+    <other_name>Dexmedetomidine-ropivacaine combination</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sufentanil</intervention_name>
+    <description>A mixture of 0.4 microgrm/ml sufentanil plus 0.08% ropivacaine is used for epidural labor analgesia.</description>
+    <arm_group_label>Sufentanil</arm_group_label>
+    <other_name>Sufentanil-ropivacaine combination</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Aged 18-45 years;&#xD;
+&#xD;
+          2. Single term pregnancy with vertex presentation planning vaginal delivery;&#xD;
+&#xD;
+          3. Planning to receive epidural labor analgesia.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Presence of contraindications to epidural analgesia, which includes: (1) History of&#xD;
+             infectious disease of the central nervous system (poliomyelitis, cerebrospinal&#xD;
+             meningitis, encephalitis, etc.); (2) History of spinal or intra-spinal disease (trauma&#xD;
+             or surgery of spinal column, intra-spinal canal mass, etc.); (3) Systemic infection&#xD;
+             (sepsis); (4) Skin or soft tissue infection at the site of epidural puncture; (5)&#xD;
+             Coagulopathy.&#xD;
+&#xD;
+          2. Existence of bradycardia (heart rate &lt;60 bpm), hypotension (SBP &lt;90 mmHg) or severe&#xD;
+             hypertension (SBP ≥180mmHg), uncontrolled systemic comorbidities (i.e., diabetes or&#xD;
+             hepatic, renal or cardiac disease), American Society of Anesthesiologists (ASA)&#xD;
+             physical status ≥3.&#xD;
+&#xD;
+          3. History of psychiatric disease or epilepsia.&#xD;
+&#xD;
+          4. Allergy to study agents.&#xD;
+&#xD;
+          5. Other conditions that are considered unsuitable for study participation.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dong-Xin Wang, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Peking University First Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dong-Xin Wang, MD,PhD</last_name>
+    <phone>86-10-83572784</phone>
+    <email>wangdongxin@hotmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Chun-Mei Deng, MD</last_name>
+    <phone>86-10-83573218</phone>
+    <email>amychunmei@126.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Peking University First Hospital</name>
+      <address>
+        <city>Beijin</city>
+        <state>Bejing</state>
+        <zip>100034</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dong-Xin Wang, MD, PhD</last_name>
+      <phone>86(10) 83572784</phone>
+      <email>wangdongxin@hotmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Chun-Mei Deng, MD</last_name>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <reference>
+    <citation>Lee AI, McCarthy RJ, Toledo P, Jones MJ, White N, Wong CA. Epidural Labor Analgesia-Fentanyl Dose and Breastfeeding Success: A Randomized Clinical Trial. Anesthesiology. 2017 Oct;127(4):614-624. doi: 10.1097/ALN.0000000000001793.</citation>
+    <PMID>28926440</PMID>
+  </reference>
+  <reference>
+    <citation>Armstrong S, Fernando R. Side Effects and Efficacy of Neuraxial Opioids in Pregnant Patients at Delivery: A Comprehensive Review. Drug Saf. 2016 May;39(5):381-99. doi: 10.1007/s40264-015-0386-5.</citation>
+    <PMID>26832926</PMID>
+  </reference>
+  <reference>
+    <citation>Hussain N, Grzywacz VP, Ferreri CA, Atrey A, Banfield L, Shaparin N, Vydyanathan A. Investigating the Efficacy of Dexmedetomidine as an Adjuvant to Local Anesthesia in Brachial Plexus Block: A Systematic Review and Meta-Analysis of 18 Randomized Controlled Trials. Reg Anesth Pain Med. 2017 Mar/Apr;42(2):184-196. doi: 10.1097/AAP.0000000000000564.</citation>
+    <PMID>28178091</PMID>
+  </reference>
+  <reference>
+    <citation>Hetta DF, Fares KM, Abedalmohsen AM, Abdel-Wahab AH, Elfadl GMA, Ali WN. Epidural dexmedetomidine infusion for perioperative analgesia in patients undergoing abdominal cancer surgery: randomized trial. J Pain Res. 2018 Oct 30;11:2675-2685. doi: 10.2147/JPR.S163975. eCollection 2018.</citation>
+    <PMID>30464585</PMID>
+  </reference>
+  <reference>
+    <citation>Qian M, Gao F, Liu J, Xu P. Dexmedetomidine versus fentanyl as adjuvants to ropivacaine for epidural anaesthesia: A systematic review and meta-analysis. Int J Clin Pract. 2021 May;75(5):e13772. doi: 10.1111/ijcp.13772. Epub 2020 Dec 20.</citation>
+    <PMID>33078536</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang X, Wang D, Shi M, Luo Y. Efficacy and Safety of Dexmedetomidine as an Adjuvant in Epidural Analgesia and Anesthesia: A Systematic Review and Meta-analysis of Randomized Controlled Trials. Clin Drug Investig. 2017 Apr;37(4):343-354. doi: 10.1007/s40261-016-0477-9.</citation>
+    <PMID>27812971</PMID>
+  </reference>
+  <reference>
+    <citation>Liu L, Drzymalski D, Xu W, Zhang W, Wang L, Xiao F. Dose dependent reduction in median effective concentration (EC50) of ropivacaine with adjuvant dexmedetomidine in labor epidural analgesia: An up-down sequential allocation study. J Clin Anesth. 2021 Feb;68:110115. doi: 10.1016/j.jclinane.2020.110115. Epub 2020 Nov 1.</citation>
+    <PMID>33142249</PMID>
+  </reference>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 16, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 24, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>May 23, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 23, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Peking University First Hospital</investigator_affiliation>
+    <investigator_full_name>Dong-Xin Wang</investigator_full_name>
+    <investigator_title>MD, PHD, Professor and Chairman</investigator_title>
+  </responsible_party>
+  <keyword>epidural labor analgesia</keyword>
+  <keyword>dexmedetomidine</keyword>
+  <keyword>neonatal outcomes</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sufentanil</mesh_term>
+    <mesh_term>Dexmedetomidine</mesh_term>
+    <mesh_term>Dsuvia</mesh_term>
+    <mesh_term>Ropivacaine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

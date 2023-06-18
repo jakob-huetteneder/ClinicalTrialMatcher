@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9127">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05704738</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20210145</org_study_id>
+    <secondary_id>2022-501586-50-00</secondary_id>
+    <nct_id>NCT05704738</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate Rocatinlimab (AMG 451) in Adolescent Subjects With Moderate-to-severe Atopic Dermatitis (AD)</brief_title>
+  <acronym>ROCKET-ASTRO</acronym>
+  <official_title>A Phase 3, Randomized, 52-week, Placebo-controlled, Double-blind Study With Rerandomization to Assess the Efficacy, Safety, and Tolerability of Rocatinlimab (AMG 451) in Adolescent Subjects With Moderate-to-severe Atopic Dermatitis (AD) (ROCKET-ASTRO)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Amgen</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Amgen</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the efficacy and safety of rocatinlimab in&#xD;
+      monotherapy and combination therapy treatment in adolescent subjects.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 20, 2023</start_date>
+  <completion_date type="Anticipated">September 18, 2025</completion_date>
+  <primary_completion_date type="Anticipated">June 28, 2025</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Achievement of vIGA-AD 0/1 at Week 24</measure>
+    <time_frame>Baseline and Week 24</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Achievement of EASI 75 at Week 24</measure>
+    <time_frame>Baseline and Week 24</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Achievement of EASI 75 at Week 16</measure>
+    <time_frame>Baseline and Week 16</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Achievement of a vIGA-AD 0/1 at Week 16</measure>
+    <time_frame>Baseline and Week 16</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Achievement of a ≥ 4-point Reduction From Baseline in Weekly Average of Daily Worst Pruritus Numeric Rating Scale (NRS) Score at Week 16 in Subjects with Baseline Weekly Average of Daily Worst Pruritus NRS Score ≥ 4</measure>
+    <time_frame>Baseline and Week 16</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Achievement of a ≥ 4-point Reduction From Baseline in Weekly Average of Daily Worst Pruritus NRS Score at Week 24 in Subjects with Baseline Weekly Average of Daily Worst Pruritus NRS Score ≥ 4</measure>
+    <time_frame>Baseline and Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Achievement of ≥ 90% Reduction From Baseline in EASI Score (EASI 90) at Week 24</measure>
+    <time_frame>Baseline and Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Weekly Average of Daily AD Skin Pain NRS Score at Week 24</measure>
+    <time_frame>Baseline to Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Achievement of a vIGA-AD Score of 1 with presence of only barely perceptible erythema or vIGA-AD Score of 0 at Week 24</measure>
+    <time_frame>Baseline and Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Weekly Average of Daily Worst Pruritus NRS Score at Week 16</measure>
+    <time_frame>Baseline to Week 16</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Weekly Average of Daily Worst Pruritus NRS Score at Week 24</measure>
+    <time_frame>Baseline to Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Scoring of Atopic Dermatitis (SCORAD) Itch Visual Analog Scale (VAS) Score at Week 16</measure>
+    <time_frame>Baseline to Week 16</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in SCORAD Itch VAS Score at Week 24</measure>
+    <time_frame>Baseline to Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Achievement of a ≥ 4-point Reduction from Baseline in Dermatology Life Quality Index (DLQI) Score at Week 24 in Subjects with Baseline DLQI ≥ 4 (Children's Dermatology Life Quality Index [CDLQI] in Subjects &lt; 16 Years of Age at Screening)</measure>
+    <time_frame>Baseline and Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in DLQI or CDLQI Score at Week 24</measure>
+    <time_frame>Baseline to Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Achievement of a ≥ 4-point Reduction From Baseline in Patient Oriented Eczema Measure (POEM) Score at Week 24 in Subjects with Baseline POEM Score ≥ 4</measure>
+    <time_frame>Baseline and Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in POEM Score at Week 24</measure>
+    <time_frame>Baseline to Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Weekly Average of Sleep Disturbance NRS Score at Week 24</measure>
+    <time_frame>Baseline to Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Achievement of a Hospital Anxiety and Depression Scale (HADS)-anxiety Subscale Score &lt; 8 at Week 24 in Subjects with Baseline HADS-anxiety Subscale Score ≥ 8</measure>
+    <time_frame>Baseline and Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in HADS-anxiety Subscale Score at Week 24</measure>
+    <time_frame>Baseline to Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Achievement of a HADS-depression Subscale Score &lt; 8 at Week 24 in Subjects with Baseline HADS-depression Subscale Score ≥ 8</measure>
+    <time_frame>Baseline and Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in HADS-depression Subscale Score at Week 24</measure>
+    <time_frame>Baseline to Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Achievement of a ≥ 8.7-point Reduction from Baseline in Severity SCORAD Score at Week 24 in Subjects with Baseline SCORAD Score ≥ 8.7</measure>
+    <time_frame>Baseline and Week 24</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Atopic Dermatitis</condition>
+  <arm_group>
+    <arm_group_label>Arm A: Dose 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part 1 (Initial Period); Week 0 to Week 24: Rocatinlimab Dose 1 every 4 weeks (Q4W) for 24 weeks with loading dose at Week 2 (+ topical corticosteroids (TCS)/ topical calcineurin inhibitor (TCI) if within combination therapy cohort).&#xD;
+Part 2 (Maintenance Period); Week 24 to Week 52: Part 1 Responders will be rerandomised at Week 24 to Rocatinlimab Dose 1 Q4W or every 8 weeks (Q8W) for 28 weeks (+ TCS/TCI if within combination therapy cohort).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B: Dose 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part 1 (Initial Period); Week 0 to Week 24: Rocatinlimab Dose 2 Q4W for 24 weeks with loading dose at Week 2 (+TCS/TCI if within combination therapy cohort).&#xD;
+Part 2 (Maintenance Period); Week 24 to Week 52: Part 1 Responders will be rerandomised at Week 24 to Rocatinlimab Dose 2 Q4W or Q8W for 28 weeks (with TCS/TCI if within combination therapy cohort).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm C: Placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part 1 (Initial Period); Week 0 to Week 24: Placebo Q4W for 24 weeks with loading dose at Week 2 (+TCS/TCI if within combination therapy cohort).&#xD;
+Part 2 (Maintenance Period); Week 24 to Week 52: Part 1 Responders will be reassigned at Week 24 with Placebo Q4W for 28 weeks (with TCS/TCI if within combination therapy cohort).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm D: Open-Label Dose 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part 2; Week 24 to Week 52: Part 1 Non-Responders will be reassigned at Week 24 with Rocatinlimab Open-label Dose 1 Q4W for 28 weeks (with TCS/TCI if within combination therapy cohort). Participants in Arms A, B or C Maintenance Period will be reassigned with Rocatinlimab Open-label Dose 1 Q4W (with TCS/TCI if within combination therapy cohort) upon relapse after Week 24.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rocatinlimab</intervention_name>
+    <description>Subcutaneous (SC) injection</description>
+    <arm_group_label>Arm A: Dose 1</arm_group_label>
+    <arm_group_label>Arm B: Dose 2</arm_group_label>
+    <arm_group_label>Arm D: Open-Label Dose 1</arm_group_label>
+    <other_name>AMG 451</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>SC injection</description>
+    <arm_group_label>Arm C: Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 12 to &lt; 18 years at Day 1.&#xD;
+&#xD;
+          -  Diagnosis of AD (according to American Academy of Dermatology Consensus Criteria&#xD;
+             [Eichenfield et al, 2014]) that has been present for at least 12 months before signing&#xD;
+             of informed consent.&#xD;
+&#xD;
+          -  Body weight ≥ 40 kg at screening.&#xD;
+&#xD;
+          -  History of inadequate response to TCS of medium to higher potency (with or without&#xD;
+             TCI).&#xD;
+&#xD;
+          -  EASI score ≥ 12 at initial screening.&#xD;
+&#xD;
+          -  EASI score ≥ 16 at Day 1.&#xD;
+&#xD;
+          -  vIGA-AD score ≥ 3.&#xD;
+&#xD;
+          -  ≥10% body surface area of AD involvement.&#xD;
+&#xD;
+          -  Worst pruritus NRS ≥ 4.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Treatment with a biological product within 12 weeks or 5 half-lives, whichever is&#xD;
+             longer, prior to Day 1.&#xD;
+&#xD;
+          -  Treatment with any of the following medications or therapies within 4 weeks or 5&#xD;
+             half-lives, whichever is longer, prior to Day 1:&#xD;
+&#xD;
+               1. Systemic corticosteroids&#xD;
+&#xD;
+               2. Non-biologic, non-targeted systemic immunosuppressants&#xD;
+&#xD;
+               3. Phototherapy&#xD;
+&#xD;
+               4. Oral or Topical Janus kinase inhibitors&#xD;
+&#xD;
+          -  Treatment with any of the following medications or therapies within 1 week, prior to&#xD;
+             Day 1:&#xD;
+&#xD;
+               1. TCS of any potency&#xD;
+&#xD;
+               2. TCI&#xD;
+&#xD;
+               3. Topical phosphodiesterase 4 inhibitors&#xD;
+&#xD;
+               4. Other topical immunosuppressive agents&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Amgen</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Amgen Call Center</last_name>
+    <phone>866-572-6436</phone>
+    <email>medinfo@amgen.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Clinical Research Center of Alabama</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cahaba Dermatology and Skin Health Center</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35244</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Avance Clinical Trials</name>
+      <address>
+        <city>Laguna Niguel</city>
+        <state>California</state>
+        <zip>92677</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Science Institute</name>
+      <address>
+        <city>Santa Monica</city>
+        <state>California</state>
+        <zip>90404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cura Clinical Research Sherman Oaks</name>
+      <address>
+        <city>Sherman Oaks</city>
+        <state>California</state>
+        <zip>91403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research - Denver</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Academic Alliance in Dermatology - Saint Petersburg Office</name>
+      <address>
+        <city>Clearwater</city>
+        <state>Florida</state>
+        <zip>33761</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Palm Beach Dermatology Group</name>
+      <address>
+        <city>Delray Beach</city>
+        <state>Florida</state>
+        <zip>33484</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Direct Helpers Research Center</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Savin Medical Group LLC</name>
+      <address>
+        <city>Miami Lakes</city>
+        <state>Florida</state>
+        <zip>33014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Investments</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32819</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Medical Research PC</name>
+      <address>
+        <city>Sandy Springs</city>
+        <state>Georgia</state>
+        <zip>30328</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Divine Dermatology and Aesthetics, LLC</name>
+      <address>
+        <city>Savannah</city>
+        <state>Georgia</state>
+        <zip>31419</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Treasure Valley Medical Research</name>
+      <address>
+        <city>Boise</city>
+        <state>Idaho</state>
+        <zip>83706-1345</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research - Boise</name>
+      <address>
+        <city>Meridian</city>
+        <state>Idaho</state>
+        <zip>83642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NorthShore University HealthSystem Clinical Trials Center</name>
+      <address>
+        <city>Skokie</city>
+        <state>Illinois</state>
+        <zip>60077</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dawes Fretzin Clinical Research Group, LLC</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46250</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Indiana Clinical Trials Center PC</name>
+      <address>
+        <city>Plainfield</city>
+        <state>Indiana</state>
+        <zip>46168</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kentucky Advanced Medical Research LLC</name>
+      <address>
+        <city>Murray</city>
+        <state>Kentucky</state>
+        <zip>42071</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Derm Associates, PC</name>
+      <address>
+        <city>Rockville</city>
+        <state>Maryland</state>
+        <zip>20850</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Oakland Hills Dermatology</name>
+      <address>
+        <city>Auburn Hills</city>
+        <state>Michigan</state>
+        <zip>48326</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Somnos Clinical Research</name>
+      <address>
+        <city>Lincoln</city>
+        <state>Nebraska</state>
+        <zip>68505</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Skin Cancer and Dermatology Institute</name>
+      <address>
+        <city>Reno</city>
+        <state>Nevada</state>
+        <zip>89509</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Allcutis Research</name>
+      <address>
+        <city>Portsmouth</city>
+        <state>New Hampshire</state>
+        <zip>03801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Empire Dermatology</name>
+      <address>
+        <city>East Syracuse</city>
+        <state>New York</state>
+        <zip>13057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Forest Hills Dermatology Group</name>
+      <address>
+        <city>Kew Gardens</city>
+        <state>New York</state>
+        <zip>11374</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Optima Research</name>
+      <address>
+        <city>Boardman</city>
+        <state>Ohio</state>
+        <zip>44512</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Apex Dermatology and Skin Surgery Center</name>
+      <address>
+        <city>Mayfield Heights</city>
+        <state>Ohio</state>
+        <zip>44124</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Lynn Health Science Institute</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Essential Medical Research, LLC</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <zip>74137</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Paddington Testing Company Inc</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Allergy and Asthma Research, LLC</name>
+      <address>
+        <city>North Charleston</city>
+        <state>South Carolina</state>
+        <zip>29420</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>US Dermatology Partners Cedar Park</name>
+      <address>
+        <city>Cedar Park</city>
+        <state>Texas</state>
+        <zip>78613</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Studies in Dermatology</name>
+      <address>
+        <city>Cypress</city>
+        <state>Texas</state>
+        <zip>77433</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sms Clinical Research Limited Liability Company</name>
+      <address>
+        <city>Mesquite</city>
+        <state>Texas</state>
+        <zip>75149</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Dermatology and Laser Specialists</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tanner Clinic</name>
+      <address>
+        <city>Murray</city>
+        <state>Utah</state>
+        <zip>84107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Northwest Clinical Research Center</name>
+      <address>
+        <city>Bellevue</city>
+        <state>Washington</state>
+        <zip>98007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Lynderm Research Inc</name>
+      <address>
+        <city>Markham</city>
+        <state>Ontario</state>
+        <zip>L3P 1X3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Allergy Research Canada Incorporated</name>
+      <address>
+        <city>Niagara Falls</city>
+        <state>Ontario</state>
+        <zip>L2H 1H5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>XLR8 Medical Research, Incorporated</name>
+      <address>
+        <city>Windsor</city>
+        <state>Ontario</state>
+        <zip>N8T 1E6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Skinsense Medical Research</name>
+      <address>
+        <city>Saskatoon</city>
+        <state>Saskatchewan</state>
+        <zip>S7K 2C1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Derma-B Egeszsegugyi es Szolgaltato Kft</name>
+      <address>
+        <city>Debrecen</city>
+        <zip>4031</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Somogy Megyei Kaposi Mor Oktato Korhaz</name>
+      <address>
+        <city>Kaposvar</city>
+        <zip>7400</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Central Clinic</name>
+      <address>
+        <city>Nagoya-shi</city>
+        <state>Aichi</state>
+        <zip>464-0821</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Miyata Dermatology Clinic</name>
+      <address>
+        <city>Matsudo-shi</city>
+        <state>Chiba</state>
+        <zip>271-0092</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Matsuo Clinic</name>
+      <address>
+        <city>Fukuoka-shi</city>
+        <state>Fukuoka</state>
+        <zip>819-0373</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Asahikawa City Hospital</name>
+      <address>
+        <city>Asahikawa-shi</city>
+        <state>Hokkaido</state>
+        <zip>070-8610</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yoshimura Child Clinic</name>
+      <address>
+        <city>Akashi-shi</city>
+        <state>Hyogo</state>
+        <zip>674-0068</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Katahira Dermatology Urology Clinic</name>
+      <address>
+        <city>Kagoshima-shi</city>
+        <state>Kagoshima</state>
+        <zip>890-0063</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nomura Dermatology Clinic</name>
+      <address>
+        <city>Yokohama-shi</city>
+        <state>Kanagawa</state>
+        <zip>221-0825</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yokohama City Minato Red Cross Hospital</name>
+      <address>
+        <city>Yokohama-shi</city>
+        <state>Kanagawa</state>
+        <zip>231-8682</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Jouzan Hihuka Hinyoukika Clinic</name>
+      <address>
+        <city>Kumamoto-shi</city>
+        <state>Kumamoto</state>
+        <zip>860-0066</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Suizenji Dermatology Clinic</name>
+      <address>
+        <city>Kumamoto-shi</city>
+        <state>Kumamoto</state>
+        <zip>862-0950</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yoshioka Dermatology Clinic</name>
+      <address>
+        <city>Neyagawa-shi</city>
+        <state>Osaka</state>
+        <zip>572-0838</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NTT Medical Center Tokyo</name>
+      <address>
+        <city>Shinagawa-ku</city>
+        <state>Tokyo</state>
+        <zip>141-8625</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Korea University Ansan Hospital</name>
+      <address>
+        <city>Ansansi, Gyeonggido</city>
+        <zip>15355</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nowon Eulji Medical Center, Eulji University</name>
+      <address>
+        <city>Seoul</city>
+        <zip>01830</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>03080</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kyung Hee University Hospital at Gangdong</name>
+      <address>
+        <city>Seoul</city>
+        <zip>05278</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Catholic Univ of Korea Seoul St Marys Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06591</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chung-Ang University Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06973</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hallym University Kangnam Sacred Heart Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>07441</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ewha Womans University Seoul Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>07804</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Korea University Guro Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>08308</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Alergo-Med Specjalistyczna Przychodnia Lekarska Spzoo</name>
+      <address>
+        <city>Tarnow</city>
+        <zip>33-100</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royalderm Agnieszka Nawrocka</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>02-962</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research of Puerto Rico</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00909</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Universidad de Navarra</name>
+      <address>
+        <city>Pamplona</city>
+        <state>Navarra</state>
+        <zip>31008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario La Paz</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>Hungary</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Poland</country>
+    <country>Puerto Rico</country>
+    <country>Spain</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.amgentrials.com</url>
+    <description>AmgenTrials clinical trials website</description>
+  </link>
+  <verification_date>June 2023</verification_date>
+  <study_first_submitted>January 20, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>June 7, 2023</last_update_submitted>
+  <last_update_submitted_qc>June 7, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 8, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Atopic Dermatitis</keyword>
+  <keyword>AMG 451</keyword>
+  <keyword>KHK4083</keyword>
+  <keyword>Rocatinlimab</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dermatitis, Atopic</mesh_term>
+    <mesh_term>Dermatitis</mesh_term>
+    <mesh_term>Eczema</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>De-identified individual patient data for variables necessary to address the specific research question in an approved data sharing request.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Data sharing requests relating to this study will be considered beginning 18 months after the study has ended and either 1) the product and indication have been granted marketing authorization in both the US and Europe or 2) clinical development for the product and/or indication discontinues and the data will not be submitted to regulatory authorities. There is no end date for eligibility to submit a data sharing request for this study.</ipd_time_frame>
+    <ipd_access_criteria>Qualified researchers may submit a request containing the research objectives, the Amgen product(s) and Amgen study/studies in scope, endpoints/outcomes of interest, statistical analysis plan, data requirements, publication plan, and qualifications of the researcher(s). In general, Amgen does not grant external requests for individual patient data for the purpose of re-evaluating safety and efficacy issues already addressed in the product labelling. Requests are reviewed by a committee of internal advisors. If not approved, a Data Sharing Independent Review Panel will arbitrate and make the final decision. Upon approval, information necessary to address the research question will be provided under the terms of a data sharing agreement. This may include anonymized individual patient data and/or available supporting documents, containing fragments of analysis code where provided in analysis specifications. Further details are available at the URL below.</ipd_access_criteria>
+    <ipd_url>http://www.amgen.com/datasharing</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9312">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05700695</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IEC/04/2022-2385</org_study_id>
+    <nct_id>NCT05700695</nct_id>
+  </id_info>
+  <brief_title>Intravenous BCAA for HE in ACLF (BCAA-HE-ACLF)</brief_title>
+  <official_title>Intravenous Branched-chain Amino Acids for Overt Hepatic Encephalopathy in Patients With Acute on Chronic Liver Failure - A Multi-centric Double-blind Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Postgraduate Institute of Medical Education and Research</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Amrita Institute of Medical Sciences &amp; Research Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Asian Institute of Gastroenterology, India</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>All India Institute of Medical Sciences, Bhubaneswar</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Kalinga Institute of Medical Sciences, Bhubaneswar</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Postgraduate Institute of Medical Education and Research</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This multi-centric study analyses the effect of intravenous branched-chain amino acids (BCAA)&#xD;
+      on overt HE in patients with ACLF. The investigators aim to study the efficacy of combining&#xD;
+      intravenous BCAA with lactulose versus lactulose alone, ammonia measures, endotoxin,&#xD;
+      metabolomics, and cerebral edema in the medical management of overt HE in patients with ACLF.&#xD;
+      The study will also access the impact on overall survival and improvement in the grade of HE.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Treatment of HE in ACLF is based on extrapolation of data available from cirrhotic patients&#xD;
+      with HE. The mainstay of treatment remains Lactulose. Rifaximin is added on to therapy who&#xD;
+      have a breakthrough episode of HE on lactulose. BCAA is used as an add-on therapy if patients&#xD;
+      have minimal/covert encephalopathy, are protein intolerant or have recurrent HE. No studies&#xD;
+      are available assessing the adjuvant effect of intravenous BCAA on ammonia reduction in HE in&#xD;
+      patients with ACLF. So, this study has been designed to analyze the effect of intravenous&#xD;
+      BCAA on hepatic encephalopathy in patients with ACLF. This study will also analyze the&#xD;
+      systemic and neuronal inflammation, metabolomics, and cerebral edema under the effect of&#xD;
+      intravenous BCAA in HE patients with ACLF.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 17, 2023</start_date>
+  <completion_date type="Anticipated">April 25, 2025</completion_date>
+  <primary_completion_date type="Anticipated">April 25, 2025</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Prospective interventional cohort study</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Investigator)</masking>
+    <masking_description>Double-blind</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Improvement in survival</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Survival assessment will be made by accessing all cause Mortality</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Improvement in survival</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Survival assessment will be made by accessing all cause Mortality</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Improvement of encephalopathy by one or more grade</measure>
+    <time_frame>Day 3</time_frame>
+    <description>Improvement in scoring of hepatic Encephalopathy</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Improvement of encephalopathy by one or more grade</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Improvement in scoring of hepatic Encephalopathy</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Dynamic Assessment of systemic inflammation (Cytokines: IL-1b, IL-6, INF-g, TNF-a, IL-15, IL-17, IL-18) at presentation and after Specific management.</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Systemic inflammation will be accessed by Cytometric Bead Array</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assessment of metabolomics following BCAA + Lactulose and Lactulose alone</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Metabolomics will be performed by LC/GC-MS</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Reduction of arterial ammonia Level</measure>
+    <time_frame>Day 3</time_frame>
+    <description>Level of ammonia will be measured by Point of care device</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction of arterial ammonia Level</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Level of ammonia will be measured by Point of care device</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of cerebral edema</measure>
+    <time_frame>Discharge form Hospital and 3 month of episode of HE</time_frame>
+    <description>Cerebral edema will be assessed by Magnetic Resonance Imaging+ Magnetic Resonance Spectroscopy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevention/reduction of cerebral edema based on optic nerve sheath diameter (ONSD)</measure>
+    <time_frame>72 Hours</time_frame>
+    <description>ONSD measurement will be done by Ultrasound</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction of consciousness recovery time among survivors</measure>
+    <time_frame>30 Days</time_frame>
+    <description>Consciousness will be assessed by cognitive battery tests</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">246</enrollment>
+  <condition>Hepatic Encephalopathy</condition>
+  <condition>Acute-On-Chronic Liver Failure</condition>
+  <arm_group>
+    <arm_group_label>Experiential Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Drug: iv Branch Chain Amino Acid + Lactulose Intravenous Branched Chain Amino Acids - 500mL once daily for 3 days plus Lactulose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Comparator Arm</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Drug: Lactulose + Placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Branch Chain Amino Acid</intervention_name>
+    <description>Intravenous branched chain amino acids will be given for 3 days to patients in experimental arm</description>
+    <arm_group_label>Experiential Arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lactulose</intervention_name>
+    <description>Oral lactulose will be given to patients in both arms</description>
+    <arm_group_label>Comparator Arm</arm_group_label>
+    <arm_group_label>Experiential Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age 18-75 years&#xD;
+&#xD;
+          2. Either gender&#xD;
+&#xD;
+          3. Patients with ACLF (CANONIC definition) of any etiology with HE ≥grade 2 as per&#xD;
+             West-Haven Criteria&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Those who do not consent to participate in the study&#xD;
+&#xD;
+          2. Patients with structural brain lesions or stroke&#xD;
+&#xD;
+          3. Inability to obtain informed consent from patient or relatives&#xD;
+&#xD;
+          4. Severe preexisting cardiopulmonary disease&#xD;
+&#xD;
+          5. Renal dysfunction (S. Creatinine ≥ 2mg/dL)&#xD;
+&#xD;
+          6. Pregnancy/Lactation&#xD;
+&#xD;
+          7. Post liver transplant patients&#xD;
+&#xD;
+          8. HIV infection&#xD;
+&#xD;
+          9. Patients who are on psychoactive drugs, like sedatives or antidepressants&#xD;
+&#xD;
+         10. Patients who are too sick to carry out the protocol.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Dr Madhumita Premkumar, DM</last_name>
+    <phone>7087003409</phone>
+    <email>drmadhumitap@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Dr. Madhumita Premkumar</name>
+      <address>
+        <city>Chandigarh</city>
+        <zip>160012</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dr. Madhumita Premkumar, MD</last_name>
+      <phone>+919540951061</phone>
+      <email>drmadhumitap@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>India</country>
+  </location_countries>
+  <reference>
+    <citation>Shawcross DL, Sharifi Y, Canavan JB, Yeoman AD, Abeles RD, Taylor NJ, Auzinger G, Bernal W, Wendon JA. Infection and systemic inflammation, not ammonia, are associated with Grade 3/4 hepatic encephalopathy, but not mortality in cirrhosis. J Hepatol. 2011 Apr;54(4):640-9. doi: 10.1016/j.jhep.2010.07.045. Epub 2010 Dec 1.</citation>
+    <PMID>21163546</PMID>
+  </reference>
+  <reference>
+    <citation>Norenberg MD, Martinez-Hernandez A. Fine structural localization of glutamine synthetase in astrocytes of rat brain. Brain Res. 1979 Feb 2;161(2):303-10. doi: 10.1016/0006-8993(79)90071-4.</citation>
+    <PMID>31966</PMID>
+  </reference>
+  <reference>
+    <citation>Albrecht J, Norenberg MD. Glutamine: a Trojan horse in ammonia neurotoxicity. Hepatology. 2006 Oct;44(4):788-94. doi: 10.1002/hep.21357.</citation>
+    <PMID>17006913</PMID>
+  </reference>
+  <reference>
+    <citation>Donovan JP, Schafer DF, Shaw BW Jr, Sorrell MF. Cerebral oedema and increased intracranial pressure in chronic liver disease. Lancet. 1998 Mar 7;351(9104):719-21. doi: 10.1016/S0140-6736(97)07373-X.</citation>
+    <PMID>9504517</PMID>
+  </reference>
+  <reference>
+    <citation>Laake JH, Takumi Y, Eidet J, Torgner IA, Roberg B, Kvamme E, Ottersen OP. Postembedding immunogold labelling reveals subcellular localization and pathway-specific enrichment of phosphate activated glutaminase in rat cerebellum. Neuroscience. 1999;88(4):1137-51. doi: 10.1016/s0306-4522(98)00298-x.</citation>
+    <PMID>10336125</PMID>
+  </reference>
+  <reference>
+    <citation>Fischer JE, Rosen HM, Ebeid AM, James JH, Keane JM, Soeters PB. The effect of normalization of plasma amino acids on hepatic encephalopathy in man. Surgery. 1976 Jul;80(1):77-91.</citation>
+    <PMID>818729</PMID>
+  </reference>
+  <reference>
+    <citation>Rossi-Fanelli F, Riggio O, Cangiano C, Cascino A, De Conciliis D, Merli M, Stortoni M, Giunchi G. Branched-chain amino acids vs lactulose in the treatment of hepatic coma: a controlled study. Dig Dis Sci. 1982 Oct;27(10):929-35. doi: 10.1007/BF01316578.</citation>
+    <PMID>6749458</PMID>
+  </reference>
+  <reference>
+    <citation>Cordoba J, Ventura-Cots M, Simon-Talero M, Amoros A, Pavesi M, Vilstrup H, Angeli P, Domenicali M, Gines P, Bernardi M, Arroyo V; CANONIC Study Investigators of EASL-CLIF Consortium. Characteristics, risk factors, and mortality of cirrhotic patients hospitalized for hepatic encephalopathy with and without acute-on-chronic liver failure (ACLF). J Hepatol. 2014 Feb;60(2):275-81. doi: 10.1016/j.jhep.2013.10.004. Epub 2013 Oct 12.</citation>
+    <PMID>24128414</PMID>
+  </reference>
+  <reference>
+    <citation>Dam G, Aamann L, Vistrup H, Gluud LL. The role of Branched Chain Amino Acids in the treatment of hepatic Encephalopathy. J Clin Exp Hepatol. 2018 Dec;8(4):448-451. doi: 10.1016/j.jceh.2018.06.004. Epub 2018 Jun 27.</citation>
+    <PMID>30568347</PMID>
+  </reference>
+  <reference>
+    <citation>Gluud LL, Dam G, Les I, Cordoba J, Marchesini G, Borre M, Aagaard NK, Vilstrup H. Branched-chain amino acids for people with hepatic encephalopathy. Cochrane Database Syst Rev. 2015 Feb 25;(2):CD001939. doi: 10.1002/14651858.CD001939.pub2.</citation>
+    <PMID>25715177</PMID>
+  </reference>
+  <reference>
+    <citation>Bajaj JS, Wade JB, Sanyal AJ. Spectrum of neurocognitive impairment in cirrhosis: Implications for the assessment of hepatic encephalopathy. Hepatology. 2009 Dec;50(6):2014-21. doi: 10.1002/hep.23216. No abstract available.</citation>
+    <PMID>19787808</PMID>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>December 6, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>January 17, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 17, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Postgraduate Institute of Medical Education and Research</investigator_affiliation>
+    <investigator_full_name>Madhumita Premkumar</investigator_full_name>
+    <investigator_title>ASSOCIATE PROFESSOR</investigator_title>
+  </responsible_party>
+  <keyword>Hepatic Encephalopathy</keyword>
+  <keyword>Acute-On-Chronic Liver Failure</keyword>
+  <keyword>Neurological Dysfunction</keyword>
+  <keyword>Metabolomics</keyword>
+  <keyword>Systemic Inflammations</keyword>
+  <keyword>Branch Chain Amino Acid</keyword>
+  <keyword>bispectral index</keyword>
+  <keyword>Cerebral edema</keyword>
+  <keyword>Lactulose</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Liver Failure</mesh_term>
+    <mesh_term>Hepatic Insufficiency</mesh_term>
+    <mesh_term>Hepatic Encephalopathy</mesh_term>
+    <mesh_term>End Stage Liver Disease</mesh_term>
+    <mesh_term>Acute-On-Chronic Liver Failure</mesh_term>
+    <mesh_term>Brain Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lactulose</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

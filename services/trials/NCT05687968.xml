@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9895">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05687968</url>
+  </required_header>
+  <id_info>
+    <org_study_id>N202101052</org_study_id>
+    <nct_id>NCT05687968</nct_id>
+  </id_info>
+  <brief_title>Innovative Approaches in Diabetes Care</brief_title>
+  <official_title>Innovative Approaches in Diabetes Care</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Taipei Medical University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Taipei Medical University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      It is estimated that 2.3 million Taiwanese have diabetes and there is a 44% increased rate&#xD;
+      among young adults and adolescents. Poor dietary habits and sedentary lifestyle are the major&#xD;
+      risk factors for type 2 diabetes. The growing availability of smartphones has boosted the&#xD;
+      development of new technologies that incorporate the use of digital food photography as&#xD;
+      health promotion and individualized nutrition care. Digital health technology is also used to&#xD;
+      prevent and treat diabetes with good degree of successes in the short term but the long term&#xD;
+      effect remains unknown. The broad aim of this study is to evaluate the effectiveness of&#xD;
+      digital technology eHealth care for diabetic patients. A total of 300 diabetic patients will&#xD;
+      be recruited from Diabetes Shared Care Network and community care center in Taiwan and follow&#xD;
+      up 12 months. A simple randomization by computer system will be used to randomly allocate&#xD;
+      subjects into 2 groups: control group and eHealth care. The control group (n=100) of diabetic&#xD;
+      patients will receive conventional health and nutrition education from state registered&#xD;
+      dietitian. The eHealth care group (n=200) of diabetic patients will receive a 10 mins of food&#xD;
+      portion size nutrition education using &quot; 3D/AR MetaFood platform&quot; and is required to record&#xD;
+      their consume meal by food image once a week using Taiwan FoodAPP. Patients in the eHealth&#xD;
+      group will receive instant feedback from the nutritionists or artificial intelligence (AI)&#xD;
+      for the information of glycemic index (GI) and glycemic load (GL), and educational video&#xD;
+      related to healthy eating or how to select GI/GL food. Anthropometry, and baseline&#xD;
+      questionnaires will be collected at baseline. Blood biochemistry (e.g. HbA1c) and body weight&#xD;
+      will be collected at baseline, 3, 6, 9, and 12 months. The collected food image data will be&#xD;
+      used for AI training to identify the relationship between the patient's diet and blood&#xD;
+      glucose changes over time.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 16, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">January 15, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>HbA1c</measure>
+    <time_frame>baseline, 3 month, 6 month, 9 month, 12 month</time_frame>
+    <description>the change of HbA1c</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fasting glucose</measure>
+    <time_frame>baseline, 3 month, 6 month, 9 month, 12 month</time_frame>
+    <description>the change of Fasting glucose</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Body mass index (kg/m2)</measure>
+    <time_frame>baseline, 3 month, 6 month, 9 month, 12 month</time_frame>
+    <description>the change of Body mass index</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>body weight</measure>
+    <time_frame>baseline, 3 month, 6 month, 9 month, 12 month</time_frame>
+    <description>the change of body weight</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Triglyceride (TG)</measure>
+    <time_frame>baseline, 3 month, 6 month, 9 month, 12 month</time_frame>
+    <description>the change of Triglyceride (TG)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Diabetes Mellitus</condition>
+  <condition>Mobile Application</condition>
+  <condition>Dietary Assessment</condition>
+  <condition>M-health</condition>
+  <arm_group>
+    <arm_group_label>eHealth care group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The eHealth group will receive instant feedback from the nutritionists and/or AI after recording their dietary food image, and receive &quot;3D/AR MetaFood&quot; food portion and nutrition education.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>control group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The control receive conventional health and nutrition education from state registered dietitian.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>&quot;3D/AR MetaFood &quot; nutrition education, and receive instant feedback from the nutritionists or AI after recording their dietary food image.</intervention_name>
+    <description>The participants record diet images by using Taiwan FoodAPP and receive instant feedback from the nutritionists or AI after recording their dietary food image. The dietitian will use &quot;3D/AR MetaFood food nutrition education platform&quot; to do nutrition education for patients.</description>
+    <arm_group_label>eHealth care group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>conventional nutrition education by dietitian</intervention_name>
+    <description>The participants receive conventional health and nutrition education from state registered dietitian.</description>
+    <arm_group_label>control group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  ≧20 years old&#xD;
+&#xD;
+          -  pre-diabetes or diabetes&#xD;
+&#xD;
+          -  Taiwan nationality or people who can speak Chinese fluently&#xD;
+&#xD;
+          -  Currently not pregnant or breastfeeding&#xD;
+&#xD;
+          -  Available to use smartphone to take photos and record food&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Eating disorders&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jung-Su Chang, PhD.</last_name>
+    <phone>886-66382736</phone>
+    <phone_ext>6564</phone_ext>
+    <email>susanchang@tmu.edu.tw</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Jung-Su Chang</name>
+      <address>
+        <city>Taipei</city>
+        <zip>110</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jung-Su Chang, PhD</last_name>
+      <phone>886-66382736</phone>
+      <phone_ext>6564</phone_ext>
+      <email>susanchang@tmu.edu.tw</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Taiwan</country>
+  </location_countries>
+  <verification_date>December 2022</verification_date>
+  <study_first_submitted>January 9, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 9, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>February 12, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 12, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 14, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

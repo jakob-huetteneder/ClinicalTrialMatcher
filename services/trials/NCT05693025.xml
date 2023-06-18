@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9671">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05693025</url>
+  </required_header>
+  <id_info>
+    <org_study_id>U01CE003490</org_study_id>
+    <nct_id>NCT05693025</nct_id>
+  </id_info>
+  <brief_title>Evaluation of the Walk With Ease Program for Fall Prevention</brief_title>
+  <official_title>Process and Outcome Evaluation of the Walk With Ease Program for Fall Prevention</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Iowa State University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Iowa State University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study will use a randomized controlled trial design to evaluate the potential of&#xD;
+      incorporating physical therapy exercises (primary prevention strategy) within an&#xD;
+      evidence-based intervention called Walk with Ease to reduce falls and fall risk in older,&#xD;
+      community-dwelling older adults. The integrated process and outcome evaluation will determine&#xD;
+      the relative effectiveness of individually prescribed exercises (compared to standardized&#xD;
+      exercises) as well as the potential of 'habit training' resources to improve compliance with&#xD;
+      exercises in this population. The study, conducted through a local clinical / community&#xD;
+      partnership will advance both science and practice while also informing implementation&#xD;
+      strategies needed to promote broader dissemination.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study will evaluate the effectiveness of incorporating physical therapy exercises&#xD;
+      (primary prevention strategy) within an established physical activity intervention called&#xD;
+      Walk with Ease (WWE) to reduce incidence and risk of falls in community-dwelling older&#xD;
+      adults. A randomized controlled design will be used to systematically test the Standard&#xD;
+      Implementation (SI) model with generic exercise recommendations against an Enhanced&#xD;
+      Implementation (EI) model that provides individually-prescribed, physical therapy exercises.&#xD;
+      Standard Education (SE) resources will also be directly compared against an Enhanced&#xD;
+      Education (EE) resources based on theory-based, habit formation approaches using a 2 x 2&#xD;
+      factorial approach.&#xD;
+&#xD;
+      The primary hypothesis is that the participants in the EI condition will have lower incidence&#xD;
+      of falls and larger reductions in fall risk than those in the SI condition. The secondary&#xD;
+      hypothesis is that participants receiving the EE resources will have greater compliance to&#xD;
+      the prescribed exercise, higher levels of physical activity, and better fall risk reduction&#xD;
+      outcomes than those receiving SE resources. The study will include a robust process&#xD;
+      evaluation (Aim 1) and outcome evaluation (Aim 2), along with a supplemental feasibility&#xD;
+      study (Aim 3) to identify actionable factors within the implementation context that could&#xD;
+      positively influence the scalability of WWE to reach rural populations.&#xD;
+&#xD;
+      The primary outcome based on the frequency of falls will be analyzed with a negative binomial&#xD;
+      regression model. The primary interest is in the β coefficient that quantifies the program&#xD;
+      main effect, averaged over behavioral treatments. If dropout is informative, we will impute&#xD;
+      the missing observations using a mixed model to account for variability between individuals.&#xD;
+      The primary hypothesis will also be evaluated using a continuous fall risk score developed by&#xD;
+      Helsel et al. based on longitudinal fall risk data. Assuming normally distributed data, our&#xD;
+      primary hypothesis will be a contrast evaluating the average change between baseline and 6&#xD;
+      weeks in the two enhanced program treatments.&#xD;
+&#xD;
+      We will recruit 240 participants into the overall trial and project a final sample of 180&#xD;
+      completers, based on a 25% dropout rate, providing a final sample size is 45 individuals in&#xD;
+      each of the four treatment groups. Based on outcomes from a related clinical trial by Li et&#xD;
+      al.70 we would have 80% power to detect a 14% reduction in fall frequency between conditions&#xD;
+      and 95% power to detect a 18% reduction in fall frequency between conditions. Using the&#xD;
+      continuous risk score proposed by Helsel et al. we would have 80% power to detect a 0.7 unit&#xD;
+      change in Helsel score or an 11% increase in the odds of a fall in one year. We would have&#xD;
+      95% power to detect a 0.8 unit change in Helsel score or an 13% increase in the odds of a&#xD;
+      fall in one year.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 27, 2023</start_date>
+  <completion_date type="Anticipated">May 15, 2026</completion_date>
+  <primary_completion_date type="Anticipated">May 15, 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <intervention_model_description>The study will use a 2x2 factorial randomized controlled trial to evaluate the combinations of two types of exercise prescription and two types of behavioral training. The exercise prescription factor evaluates the relative effectiveness of two implementation strategies for the group WWE format (Standard vs Enhanced). The behavioral training factor compares Standard content to Enhanced content focused on building habit formation. This feature will enable the simultaneous evaluation of strategies to promote compliance with exercise prescriptions, a main limitation of current physical therapy-based approaches to fall prevention.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Fall Risk</measure>
+    <time_frame>0, 6 weeks, 6 months, 12 months</time_frame>
+    <description>Reported falls will be tracked using surveys as well as from the electronic medical record data. Reductions in fall risk will be evaluated using indicators from the established STEADI protocol with continuous fall risk scores computed using a validated algorithm.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Physical Activity Behavior</measure>
+    <time_frame>0, 6 weeks, 6 months, 12 months</time_frame>
+    <description>PA behavior will be captured using the International Physical Activity Questionnaire - Elderly (IPAQ-E) will be evaluated at all time points to estimate minutes of physical activity. While less robust than monitor-based methods, the IPAQ-E has been validated against criterion measures of physical activity and has demonstrated adequate sensitivity and specificity for evaluating physical activity among adults aged 65 years and older.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Perceived Health</measure>
+    <time_frame>0, 6 weeks, 6 months, 12 months.</time_frame>
+    <description>The PROMIS Global Health Questionnaire will be used to capture overall perceptions of health. The Global Health questionnaire includes 10 items with single items capturing perceptions of global health and well-being. Two sets of subscales (4 items each) capture mental health and physical health. All items are 5 point likert items that would be used individually (or as an average) with higher scores reflecting stronger perceptions or more favorable perceptions of health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Fear of Falling</measure>
+    <time_frame>0, 6 weeks, 6 months, 12 months.</time_frame>
+    <description>The PROMIS Fear of Falling Questionnaire will be used to capture changes in perceptions of fall risk. The instrument includes a single questions (1-5 scale) about fear of falling and additional items (relative degree of concern, likelihood of falling, likelihood of injury, preventability, and perceptions about the role of physical activity for fall prevention. The fear item will be evaluated independently with higher scores reflecting stronger fear of falling.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Physical Function</measure>
+    <time_frame>0, 6 weeks, 6 months, 12 months.</time_frame>
+    <description>Selected items from the PROMIS Physical Function 20a [based on the Health Assessment Questionnaire (HAQ) survey] will be used to evaluate change in function. The tool asks participants to rate the difficulty in performing twenty common activities of daily living but only those related to physical activity behavior and function were included. The total score will be used to evaluate changes in physical function.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Falls Efficacy</measure>
+    <time_frame>0, 6 weeks, 6 months, 12 months</time_frame>
+    <description>The Falls Efficacy Scale International (FES-I) will be used to evaluate confidence in being able to perform activities of daily living.12 The measure includes a series of 16 common activities of daily living that may pose challenges for older adults with a fear of falling. Participants are asked to rate their level of concern towards performing each activity without falling on a scale of 1 to 4, with 4 indicating very high levels of concern. The FES-I has demonstrated sensitivity to detect between-group differences based on demographic and fall risk factor differences and is suitable for detecting changes in fear of falling among older adults. The FES-I will be scored by summing the response to each of the 16 presented activities to an overall total, with scores ≥23, of a possible 64 indicating high concern about falling.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Capability (to exercise)</measure>
+    <time_frame>0, 6 weeks, 6 months, 12 months.</time_frame>
+    <description>Capability is a key construct in the COM-B (Capability-Opportunity-Motivation and Behavior) framework. It will be assessed using two standard, single-item ratings of self-efficacy (one for walking and one for performing stretching and strengthening exercise). The 5 point Likert scales (Strongly Disagree to Strongly Agree) will be averaged with a higher score reflecting higher self-efficacy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Opportunity (to exercise)</measure>
+    <time_frame>0, 6 weeks, 6 months, 12 months.</time_frame>
+    <description>Opportunity is a key construct in the COM-B (Capability-Opportunity-Motivation and Behavior) framework. It will be captured as habit strength for exercise. Habit Formation will be assessed with the self-report behavioral automaticity scale, a 4-item scale that assesses the perceived automaticity with which someone engages in his/her goal activities related to walking (2 items) and stretching/strengthening exercise (2 items). The 7 point Likert scales (Not at All to Very Much) will be averaged with a higher score reflecting higher habit strength for the two separate behaviors.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Motivation (to exercise)</measure>
+    <time_frame>0, 6 weeks, 6 months, 12 months.</time_frame>
+    <description>Motivation is a key construct in the COM-B (Capability-Opportunity-Motivation and Behavior) framework. It will be captured with a reduced set of 4 items from the established Behavioral Regulation of Exercise Questionnaire (BREQ version 3) which will capture intrinsic motivation related to walking (2 items) and stretching/strengthening exercise (2 items). One set of items evaluates enjoyment and the other set pleasure from the activity. The 5 point Likert scales (Not True for Me to Very True for Me) will be averaged for each of the behaviors. Higher scores reflect higher levels of intrinsic motivation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Enjoyment (of exercise)</measure>
+    <time_frame>0, 6 weeks, 6 months, 12 months</time_frame>
+    <description>Enjoyment is an important predictor of behavior change and adherence to exercise. It will be captured using a short version of the established PACES tool (4 items) that capture enjoyment and pleasure as these are the main indicators of interest.&#xD;
+The 5 point Likert scales (Strongly Disagree to Strongly Agree) will be averaged for the overall score with higher scores reflecting greater enjoyment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Overall Strength</measure>
+    <time_frame>0, 6 Weeks</time_frame>
+    <description>Grip Strength will provide an indicator of overall strength and function. It will be assessed with a research-grade hand dynamometer with assessments obtained on both right and left side</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">240</enrollment>
+  <condition>Exercise</condition>
+  <condition>Frailty</condition>
+  <condition>Arthritis</condition>
+  <condition>Accidental Falls</condition>
+  <arm_group>
+    <arm_group_label>Standard Implementation (SI)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants the Standard Implementation (SI) model complete a 6 week structured Walk with Ease group exercise program designed to build capacity and function in older adults. Sessions are held 3 days a week for an hour each session. Each session includes a 10 minute warmup including strength/flexibility exercises, a 30 minute bout of walking and a 10 minute cool-down including strength/flexibility exercises. Participants complete standard exercises recommended in the base program.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Enhanced Implementation (EI)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants the Enhanced Implementation (SI) model complete the 6 week structured Walk with Ease group exercise program designed to build capacity and function in older adults. Sessions are held 3 days a week for an hour each session. Each session includes a 10 minute warmup including strength/flexibility exercises, a 30 minute bout of walking and a 10 minute cool-down including strength/flexibility exercises. Participants complete personalized exercises prescribed by a licensed Physical Therapist to help reduce potential risks of falling.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard Training (ST)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants the Standard Training (ST) model receive access to on online portal with weekly tips and education content, goal setting options and a daily tracking system for logging walking and exercises performed. They receive instruction on how to use the portal and are encouraged to use the integrated eBook and resources to supplement the group exercise programming. Weekly video-based lessons provide standard knowledge-based training about how to become more physically active.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Enhanced Training (ET)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants the Enhanced Training (ET) model receive access to on online portal with weekly tips and education content, goal setting options and a daily tracking system for logging walking and exercises performed. They receive instruction on how to use the portal and are encouraged to use the integrated eBook and resources to supplement the group exercise programming. Weekly video-based lessons provide habit-formation training about how to form regular habits for physical activity. Participants are paired with a student 'coach' trained in motivational interviewing skills to provide virtual assistance in maintaining motivation during the programming.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Group Exercise</intervention_name>
+    <description>The study evaluates two different approaches for group exercise. Participants in the Standard Implementation (SI) group complete the standard Walk with Ease intervention as recommended by the Arthritis Foundation. Participants are guided to learn and perform a series of stretching and strengthening exercises recommended in the base WWE program. Primary BCTs include instruction on how to perform behavior (#4.1) and Graded tasks (#8.7). Participants in the Enhanced Implementation (SI) group complete the standard Walk with Ease intervention as recommended by the Arthritis Foundation. They may perform some of the same exercises as those in the SI group but they are also guided to learn and perform specific exercises prescribed by a physical therapist to improve balance and reduce risks of falling. The primary BCTs include instruction on how to perform behavior (#4.1), Graded tasks (#8.7) from the base program as well as Information on health consequences (#5.1) and Credible source (#9.1).</description>
+    <arm_group_label>Enhanced Implementation (EI)</arm_group_label>
+    <arm_group_label>Standard Implementation (SI)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Behavioral Training</intervention_name>
+    <description>The study evaluates two different approaches for promoting behavior change. Participants in the Standard Training (ST) model follow the standardized Walk with Ease training to support behavior change. Participants are provided with goal setting tools and an online tracker to monitor their progress. Weekly video-based lessons, resource links and eBook content support behavior change. Primary BCTs include Goal Setting (BCT #1.1) and self-monitoring (BCT#2.3). Participants in the Enhanced Training (ET) model access the same basic content as the ST model, but the weekly education-based videos are replaced with lessons focus on habit-formation training. Student coaches are also assigned to individual participants to support behavior change efforts using motivational interviewing strategies. Thus, participants in the ET model also receive two additional theory- and evidence-based BCTs: (1) habit formation training (BCT#1.2, #1.4, #8.3) and (2 health coaching (BCT# 3.3).</description>
+    <arm_group_label>Enhanced Training (ET)</arm_group_label>
+    <arm_group_label>Standard Training (ST)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Inclusion criteria include age of 65 years or older&#xD;
+&#xD;
+          -  being able to stand for at least 10 minutes without pain&#xD;
+&#xD;
+          -  written permission from a physician&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Already somewhat active (defined as at least 15 minutes of physical activity per day)&#xD;
+&#xD;
+          -  Not at risk for falls (based on STEADI criteria)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Candis M. Hunter, Ph.D.</last_name>
+    <role>Study Director</role>
+    <affiliation>National Center for Injury Prevention and Control, Centers for Disease Control and Prevention (CDC)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Gregory J. Welk, Ph.D.</last_name>
+    <phone>515-294-3583</phone>
+    <email>gwelk@iastate.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Department of Kinesiology</name>
+      <address>
+        <city>Ames</city>
+        <state>Iowa</state>
+        <zip>50011</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator, Ph.D.</last_name>
+      <phone>515-450-7585</phone>
+      <email>gwelk@iastate.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Clinical Research Coordinator, Ph.D.</last_name>
+      <phone>5156814722</phone>
+      <email>jenil@iastate.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>December 28, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2023</study_first_posted>
+  <last_update_submitted>February 27, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 27, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 1, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Iowa State University</investigator_affiliation>
+    <investigator_full_name>Gregory Welk</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>physical activity</keyword>
+  <keyword>fear of falling</keyword>
+  <keyword>balance</keyword>
+  <keyword>Walking</keyword>
+  <keyword>Older Adults</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Frailty</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The final dataset will include self-reported demographic data and individual behavioral data as well as clinical data from screening visits before and after intervention. All data will be stripped of identifiers so that the database will only retain coded ID numbers. We will make the data and associated documentation available to collaborating partners on the project including representatives from CHPcommunity, the Arthritis Foundation and the National Association of Chronic Disease Directors (NACDD) upon request. We will also make the data available to other users under data-sharing agreements that document a commitment to using the data only for research purposes.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>1 year after the study is completed (12/31/26)</ipd_time_frame>
+    <ipd_access_criteria>Data sharing agreement</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9075">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05705791</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-001749-19</org_study_id>
+    <secondary_id>2021/3330</secondary_id>
+    <nct_id>NCT05705791</nct_id>
+  </id_info>
+  <brief_title>Clinical Investigation Evaluating Safety and Efficacy of Selective Intra-arterial 166Holmium Radiation Therapy in Combination With Atezolizumab and Bevacizumab for Non Resectable Hepatocellular Carcinoma</brief_title>
+  <acronym>HOLMBRAVE</acronym>
+  <official_title>Clinical Investigation Evaluating Safety and Efficacy of Selective Intra-arterial 166Holmium Radiation Therapy in Combination With Atezolizumab and Bevacizumab for Non Resectable Hepatocellular Carcinoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Gustave Roussy, Cancer Campus, Grand Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Gustave Roussy, Cancer Campus, Grand Paris</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to evaluate the added value of 166Holmium SIRT to&#xD;
+      Atezolizumab-Bevacizumab in patients with non resectable HCC. The primary endpoint is the&#xD;
+      Best Objective Response Rate at 6 months after 166Holmium SIRT according to mRECIST.&#xD;
+&#xD;
+      Participants will be treated by :&#xD;
+&#xD;
+        -  Approved first line systemic therapy: Atezolizumab (1200mg Q3W, IV) with Bevacizumab&#xD;
+           (15mg/kg Q3W, IV)&#xD;
+&#xD;
+        -  In combination with 166Holmium selective internal intra-arterial radiation therapy&#xD;
+           (Quirem Spheres®, the investigational medical device) after a work-up phase considered&#xD;
+           as &quot;favorable&quot;.&#xD;
+&#xD;
+      Participants will be followed up to 12 months after the first cycle of Atezolizumab and&#xD;
+      Bevacizumab therapy.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 7, 2023</start_date>
+  <completion_date type="Anticipated">August 2026</completion_date>
+  <primary_completion_date type="Anticipated">February 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Simon's two stage design: In the first stage, 23 evaluable patients will be accrued. If there are 7 or fewer responses (complete or partial response) in these 23 patients, the clinical investigation will be stopped for futility. Otherwise, 10 additional evaluable patients will be accrued for a total of 33.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Objective response rate</measure>
+    <time_frame>at 6 months after intervention</time_frame>
+    <description>complete or partial response</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Type of treatment related adverse events (AEs) and adverse device effects (ADEs)</measure>
+    <time_frame>from start of treatment to 100 days after the administration of SIRT</time_frame>
+    <description>regarding to NCI-CTCAE v5.0</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of treatment related adverse events (AEs) and adverse device effects (ADEs)</measure>
+    <time_frame>from start of treatment to 100 days after the administration of SIRT</time_frame>
+    <description>regarding to NCI-CTCAE v5.0</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Severity of treatment related adverse events (AEs) and adverse device effects (ADEs)</measure>
+    <time_frame>from start of treatment to 100 days after the administration of SIRT</time_frame>
+    <description>regarding to NCI-CTCAE v5.0</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>at 12 weeks, at 6 months and at 12 months</time_frame>
+    <description>Evolution of Progression Free Survival (PFS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Liver PFS</measure>
+    <time_frame>at 12 weeks, at 6 months and at 12 months</time_frame>
+    <description>Evolution of liver PFS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>at 12 weeks, at 6 months and at 12 months</time_frame>
+    <description>Evolution of Overall Survival (OS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate (ORR)</measure>
+    <time_frame>at 12 weeks, at 6 months and at 12 months</time_frame>
+    <description>Evolution of Objective Response Rate (ORR)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate alternative response evaluation criteria</measure>
+    <time_frame>from start of treatment to last follow-up visit</time_frame>
+    <description>iRECIST, itRECIST</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">33</enrollment>
+  <condition>Hepatocellular Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>166Holmium SIRT arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>166Holmium selective internal intra-arterial radiation therapy (QuiremSpheres®, experimental medical device) in combination with approved first line therapy:&#xD;
+Atezolizumab1200mg Q3W IV&#xD;
+Bevacizumab 15mg/kg Q3W IV</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>QuiremSpheres</intervention_name>
+    <description>166Holmium selective internal intra-arterial radiation therapy at C1D15 of the Atezolizumab and Bevacizumab therapy</description>
+    <arm_group_label>166Holmium SIRT arm</arm_group_label>
+    <other_name>166Holmium microspheres</other_name>
+    <other_name>166Holmium SIRT</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men and women ≥ 18 years old&#xD;
+&#xD;
+          -  Patient should understand, sign, and date the written informed consent form prior to&#xD;
+             any investigation-specific procedures performed.&#xD;
+&#xD;
+          -  Patient should be able to comply with investigational procedure, tissue and blood&#xD;
+             sample collection and willing to comply with investigation visits and procedures as&#xD;
+             per clinical investigation plan.&#xD;
+&#xD;
+          -  Patients must have pathological confirmation of HCC.&#xD;
+&#xD;
+          -  HCC classed Barcelona Clinic Liver Cancer (BCLC) stage C&#xD;
+&#xD;
+          -  Patient should be considered as non resectable by Multidisciplinary Team and liver&#xD;
+             surgeon, and non-eligible for liver transplantation&#xD;
+&#xD;
+          -  Patient should be eligible for 1st line Atezolizumab and Bevacizumab combination&#xD;
+             therapy. Patients previously treated by a local therapy are eligible.&#xD;
+&#xD;
+          -  Patient with active intrahepatic HCC.&#xD;
+&#xD;
+          -  Patients with or without active viral infection (i.e., HCV, HBV) are eligible. In case&#xD;
+             of active hepatitis B, the patient should be treated with an anti-HBV therapy during&#xD;
+             the investigational procedure.&#xD;
+&#xD;
+          -  Patients should have measurable disease as defined by mRECIST criteria for response&#xD;
+             assessment.&#xD;
+&#xD;
+          -  ECOG status of 0 or 1 (Appendix 2).&#xD;
+&#xD;
+          -  Life expectancy of ≥ 12 weeks at the time of informed consent per Investigator&#xD;
+             assessment.&#xD;
+&#xD;
+          -  Adequate organ function as defined by the following:&#xD;
+&#xD;
+               1. White blood cells (WBCs) ≥ 2000/mL&#xD;
+&#xD;
+               2. Platelets ≥ 70 × 103/mL&#xD;
+&#xD;
+               3. Hemoglobin ≥ 8.0 g/dL&#xD;
+&#xD;
+               4. Creatinine &lt; 1.5 × ULN or creatinine clearance ≥ 40mL/min (Cockcroft-Gault&#xD;
+                  formula)&#xD;
+&#xD;
+               5. ALT and AST ≤ 3 × ULN&#xD;
+&#xD;
+               6. Lipase and amylase ≤ 1.5 × ULN&#xD;
+&#xD;
+               7. Total bilirubin ≤ 1.5 × ULN&#xD;
+&#xD;
+          -  Child-Pugh A, Without history of encephalopathy or clinically significant ascites&#xD;
+&#xD;
+          -  Women of childbearing potential (WOCBP) must have a negative urine or serum β-HCG&#xD;
+             pregnancy test within 7 days prior registration. If the urine test is positive or&#xD;
+             cannot be confirmed as negative, a serum pregnancy test will be required. Sexually&#xD;
+             active female patients must agree to use two methods of effective contraception*, one&#xD;
+             of them being a barrier method, or to abstain from sexual activity during the clinical&#xD;
+             investigation and for at least 6 months after last drug administration of the&#xD;
+             investigational procedure or must refrain from heterosexual activity during this same&#xD;
+             period**.&#xD;
+&#xD;
+             * Acceptable contraceptive methods include single or combined contraceptive methods&#xD;
+             that result in a failure rate of &lt; 1% per year, such as: tubal ligation, male&#xD;
+             sterilization, hormonal implants, proper use of combined oral or injected hormonal&#xD;
+             methods (e.g., two barrier methods such as a condom and a cervical cap) may be&#xD;
+             combined to achieve a failure rate of &lt; 1% per year. Barrier methods must always be&#xD;
+             supplemented with the use of a spermicide.&#xD;
+&#xD;
+             ** Abstinence is acceptable only if it is in line with the preferred and usual&#xD;
+             lifestyle of the patient. Periodic abstinence (e.g., calendar, ovulation,&#xD;
+             symptothermal, or postovulation methods) and withdrawal are not acceptable methods of&#xD;
+             contraception.&#xD;
+&#xD;
+          -  Sexually active males patients must agree to use condom during the clinical&#xD;
+             investigation and for at least 7 months after the last drug administration of the&#xD;
+             investigational procedure. Also, it is recommended the childbearing potential female&#xD;
+             partner uses a highly effective method of contraception for the same duration.&#xD;
+&#xD;
+          -  Patients shall be eligible to undergo pre-treatment and on-treatment tumor biopsies.&#xD;
+             Patients who either do not consent to a pre-treatment tumor biopsy or do not have&#xD;
+             accessible lesions will not be eligible.&#xD;
+&#xD;
+          -  Patients must be affiliated to a social security system or beneficiary of the same&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with a prior malignancy are excluded, except those with prior malignancies&#xD;
+             treated more than 2 years previously (at the time of informed consent) with curative&#xD;
+             intent with no evidence of disease during the interval and who are considered by the&#xD;
+             Investigator to present a low risk for recurrence, will be eligible.&#xD;
+&#xD;
+          -  A known or underlying medical condition that, in the opinion of the Investigator,&#xD;
+             could make the administration of investigational procedure combination hazardous to&#xD;
+             the subject or could adversely affect the ability of the subject to comply with or&#xD;
+             tolerate clinical investigation.&#xD;
+&#xD;
+          -  Requirement for daily supplemental oxygen&#xD;
+&#xD;
+          -  Previous external radiation therapy to the liver&#xD;
+&#xD;
+          -  Uncorrectable abnormal vascular anatomy at pre-assessment angiogram that would result&#xD;
+             in significant reflux to of hepatic arterial blood to the lung, stomach, pancreas or&#xD;
+             bowel&#xD;
+&#xD;
+          -  Complete main portal vein thrombosis&#xD;
+&#xD;
+          -  History or active autoimmune disease with the following exceptions: patients with a&#xD;
+             history of autoimmune-related hypothyroidism on a stable dose of thyroid replacement&#xD;
+             hormone, patients with controlled Type 1 diabetes mellitus on a stable insulin regimen&#xD;
+             and patients with mild autoimmune skin disorders (such as eczema or atopic dermatitis&#xD;
+             involving &lt;10% of the skin) may be eligible for this clinical investigation&#xD;
+&#xD;
+          -  Any of the following within the 6 months prior to clinical investigation entry:&#xD;
+             myocardial infarction, uncontrolled angina, coronary/peripheral artery bypass graft,&#xD;
+             symptomatic congestive heart failure, cerebrovascular accident or transient ischemic&#xD;
+             attack.&#xD;
+&#xD;
+          -  A confirmed history of encephalitis, meningitis, or uncontrolled seizures in the year&#xD;
+             prior to informed consent.&#xD;
+&#xD;
+          -  Positive blood screen for human immunodeficiency virus (HIV) with acquired&#xD;
+             immunodeficiency syndrome (AIDS). Patients with controlled HIV infection under&#xD;
+             anti-retroviral therapy and normal CD4+ T-cell counts (&gt;500/mm3) could be considered&#xD;
+             eligible by the investigator if the patient fulfills the other inclusion/exclusion&#xD;
+             criteria.&#xD;
+&#xD;
+          -  Evidence of active infection that requires systemic antibacterial, antiviral, or&#xD;
+             antifungal therapy ≤ 7 days prior to inclusion.&#xD;
+&#xD;
+          -  Any other significant acute or chronic medical illness. Any other sound medical,&#xD;
+             psychiatric, and/or social reason as determined by the Investigator.&#xD;
+&#xD;
+          -  Subjects who are unable to undergo and/or tolerate venous AND arterial access&#xD;
+             (evaluated on pre-treatment imaging)&#xD;
+&#xD;
+          -  Patients that have received within 4 weeks or 5 half-lives (whichever is shorter) from&#xD;
+             inclusion and who are planned to receive the following during investigational&#xD;
+             procedure:&#xD;
+&#xD;
+               -  Any other investigational drug&#xD;
+&#xD;
+               -  Any anticancer therapy (chemotherapy, biologics, therapeutic vaccines,&#xD;
+                  radiotherapy, or hormonal treatment).&#xD;
+&#xD;
+               -  Treatment with capecitabine within two months prior to treatment, or patient who&#xD;
+                  will be treated with capecitabine at any time following treatment with&#xD;
+                  QuiremSpheres®&#xD;
+&#xD;
+               -  Concomitant use of herbal therapies/traditional Chinese medicine with anti-cancer&#xD;
+                  activity included in the label is not permitted because of potential drug-drug&#xD;
+                  interactions.&#xD;
+&#xD;
+               -  Vaccines containing replicating live virus&#xD;
+&#xD;
+               -  Allergen hyposensitization therapy&#xD;
+&#xD;
+               -  Growth factors, e.g., granulocyte-colony stimulating factor (G-CSF), granulocyte&#xD;
+                  macrophage-colony stimulating factor (GM-CSF), erythropoietin&#xD;
+&#xD;
+               -  Major surgery. The patient must recover from any major surgical operations before&#xD;
+                  being treated with QuiremSpheres.&#xD;
+&#xD;
+               -  Bisphosphonates or anti-RANKL therapy&#xD;
+&#xD;
+               -  Systemic corticosteroids or other systemic immunosuppressive medications. The use&#xD;
+                  of inhaled corticosteroids and mineralocorticoids (e.g., fludrocortisone) is&#xD;
+                  allowed.&#xD;
+&#xD;
+               -  Coumadin or warfarin are prohibited. The use of LMWH is allowed.&#xD;
+&#xD;
+               -  Local treatments on the targeted tumors (percutaneous ablations,&#xD;
+                  chemoembolization, radiation therapy, or liver surgery).&#xD;
+&#xD;
+          -  Previous allogeneic hematopoietic stem cell transplantation or previous solid organ&#xD;
+             transplantation requiring systemic immunosuppressive therapy&#xD;
+&#xD;
+          -  History of severe allergy, anaphylactic or other hypersensitivity reactions to&#xD;
+             chimeric or humanized antibodies or to biopharmaceutical produced in Chinese hamster&#xD;
+             ovarian cells or to any components of the drugs of the investigational procedure&#xD;
+&#xD;
+          -  Patient under guardianship or deprived of his liberty by a judicial or administrative&#xD;
+             decision or incapable of giving its consent&#xD;
+&#xD;
+          -  Pregnant or breastfeeding women or intending to become pregnant during the clinical&#xD;
+             investigation.&#xD;
+&#xD;
+          -  Patients with untreated or incompletely treated varices with bleeding or high-risk for&#xD;
+             bleeding. Patients must undergo an esophagogastroduodenoscopy (EGD), and all size of&#xD;
+             varices (small to large) must be assessed and treated per local standard of care prior&#xD;
+             to enrollment. Patients who have undergone an EGD within 6 months of prior to&#xD;
+             initiation of investigational procedure (D1C1 of the Atezolizumab/Bevacizumab therapy)&#xD;
+             do not need to repeat the procedure.&#xD;
+&#xD;
+          -  Inadequately controlled arterial hypertension (defined as systolic blood pressure (BP)&#xD;
+             &gt; or = 150 mmHg and/or diastolic blood pressure &gt; 100 mmHg), based on an average of &gt;&#xD;
+             or = 3 BP readings on &gt; or = 2 sessions&#xD;
+&#xD;
+          -  Prior history of hypertensive crisis or hypertensive encephalopathy&#xD;
+&#xD;
+          -  Significant vascular disease (e.g., aortic aneurysm requiring surgical repair or&#xD;
+             recent peripheral arterial thrombosis) within 6 months prior to initiation of&#xD;
+             investigational procedure (D1C1 of the Atezolizumab/Bevacizumab therapy)&#xD;
+&#xD;
+          -  History of hemoptysis (&gt; or = 2.5 mL of bright red blood per episode) within 1 month&#xD;
+             prior to initiation of investigational procedure (D1C1 of the Atezolizumab/Bevacizumab&#xD;
+             therapy)&#xD;
+&#xD;
+          -  Evidence of bleeding diathesis or significant coagulopathy (in the absence of&#xD;
+             therapeutic anticoagulation)&#xD;
+&#xD;
+          -  Any other contraindication to the experimental medical device use :&#xD;
+&#xD;
+               -  ascites or are in clinical liver failure;&#xD;
+&#xD;
+               -  significantly abnormal synthetic and excretory liver function tests (LFTs);&#xD;
+&#xD;
+               -  a lung dose exceeding 30 Gy in a single treatment;&#xD;
+&#xD;
+               -  uncorrectable extrahepatic deposition. Activity in the falciform ligament, portal&#xD;
+                  lymph nodes and gallbladder is accepted.&#xD;
+&#xD;
+          -  History of hypersensitivity reactions to the active substance of 99mTc-MAA or to one&#xD;
+             of its excipients or to one of the components of the radiolabeled pharmaceutical.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Thibault RAOULT, MSc</last_name>
+    <phone>+33 (0)1 42 11 42 11</phone>
+    <email>thibault.raoult@gustaveroussy.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>AP-HP Hôpital Beaujon</name>
+      <address>
+        <city>Clichy</city>
+        <zip>92110</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Maxime RONOT, MD</last_name>
+      <email>maxime.ronot@aphp.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Saint Eloi</name>
+      <address>
+        <city>Montpellier</city>
+        <zip>34000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>GUIU Boris, MD</last_name>
+      <email>b-guiu@chu-montpellier.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Nantes</name>
+      <address>
+        <city>Nantes</city>
+        <zip>44000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Clément BAILLY, MD</last_name>
+      <email>clement.bailly@chu-nantes.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Gustave Roussy</name>
+      <address>
+        <city>Villejuif</city>
+        <zip>94800</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lambros Tselikas, MD</last_name>
+      <phone>+33 (0)1 42 11 42 11</phone>
+      <email>lambros.tselikas@gustaveroussy.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>January 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 27, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 31, 2023</study_first_posted>
+  <last_update_submitted>February 10, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 10, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 14, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Hepatocellular</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

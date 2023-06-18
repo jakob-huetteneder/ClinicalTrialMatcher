@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9311">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05700721</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-1174</org_study_id>
+    <secondary_id>NCI-2023-00471</secondary_id>
+    <nct_id>NCT05700721</nct_id>
+  </id_info>
+  <brief_title>Phase II Trial of the PARP Inhibitor Niraparib and PD-1 Inhibitor Dostarlimab in Patients With Advanced Cancers With Active Progressing Brain Metastases (STARLET)</brief_title>
+  <official_title>Phase II Trial of the PARP Inhibitor Niraparib and PD-1 Inhibitor Dostarlimab in Patients With Advanced Cancers With Active Progressing Brain Metastases (STARLET)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>M.D. Anderson Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>M.D. Anderson Cancer Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To learn if the combination of niraparib and dostarlimab can help to control advanced cancer&#xD;
+      that has spread to the brain.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary Objective:&#xD;
+&#xD;
+      --To determine the intracranial objective response rate (ORR) of niraparib in combination&#xD;
+      with dostarlimab in patients with brain metastases.&#xD;
+&#xD;
+      Secondary Objectives:&#xD;
+&#xD;
+        -  To determine the duration of intracranial response (DoR) of niraparib in combination&#xD;
+           with dostarlimab in patients with brain metastases.&#xD;
+&#xD;
+        -  To determine the intracranial ORR, defined as assessed by RANO-BM and iRANO.&#xD;
+&#xD;
+        -  To assess the systemic antitumor activity of niraparib in combination with dostarlimab&#xD;
+           in patients with brain metastases as defined by ORR, CBR (Stable Disease [SD]&gt;6m+CR+PR),&#xD;
+           progression free survival (PFS) and overall survival (OS).&#xD;
+&#xD;
+        -  Evaluate the safety and tolerability of niraparib in combination with dostarlimab in&#xD;
+           patients with brain metastases.&#xD;
+&#xD;
+      Explorative Objectives:&#xD;
+&#xD;
+        -  To assess predictive and pharmacodynamic (PD) markers of response.&#xD;
+&#xD;
+        -  To assess the immune-related effects of niraparib and dostarlimab.&#xD;
+&#xD;
+        -  To evaluate the effects of niraparib and dostarlimab on steroid, cranial radiation, and&#xD;
+           opiate pain medication use and seizure reduction.&#xD;
+&#xD;
+        -  To assess ctDNA in cerebrospinal fluid (CSF) in all participants, and explore&#xD;
+           relationship to matched blood and tissue samples, when available.&#xD;
+&#xD;
+        -  To explore biomarkers of response and resistance in CSF.&#xD;
+&#xD;
+        -  To evaluate niraparib and dostarlimab concentrations or pharmacokinetics (PK)&#xD;
+&#xD;
+        -  To screen for the presence of dostarlimab anti-drug antibodies (ADA)&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 2, 2023</start_date>
+  <completion_date type="Anticipated">August 7, 2027</completion_date>
+  <primary_completion_date type="Anticipated">August 7, 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of Adverse Events, Graded According to National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) Version (v) 5.0</measure>
+    <time_frame>through study completion; an average of 1 year.</time_frame>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Brain Metastases</condition>
+  <arm_group>
+    <arm_group_label>Monotherapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Niraparib</intervention_name>
+    <description>Given by PO</description>
+    <arm_group_label>Monotherapy</arm_group_label>
+    <other_name>MK-4827</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dostarlimab</intervention_name>
+    <description>Given by IV (vein)</description>
+    <arm_group_label>Monotherapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        1. Age ≥ 18 years old. 2. Participant must have brain metastasis and either&#xD;
+&#xD;
+        1. Advanced BRCA1/2m cancer 2. Advanced HRR-aberrant, non-BRCA1/2m cancer 3. Advanced small&#xD;
+        cell lung cancer 4. Advanced non-small cell lung cancer 5. Advanced Triple Negative Breast&#xD;
+        Cancer 3. In cohorts 1 and 2, subjects will be eligible for this study based on the&#xD;
+        presence of actionable aberrations in one or more of the following HRR genes: BRCA1/2, ATM;&#xD;
+        BRIP1; CDK12; CHEK1; CHEK2; FANCL; PALB2; RAD51; RAD51B; RAD51C; RAD51D; RAD52; RAD54L, or&#xD;
+        other related genes at the discretion of the principal investigator in consultation with&#xD;
+        the MD Anderson Cancer Center Institute for Personalized Cancer Therapy Precision Oncology&#xD;
+        Decision Support (PODS) group. Variant interpretation for actionability will be performed&#xD;
+        by PODS.&#xD;
+&#xD;
+        4. Any prior SRS to brain lesions or prior excision must have occurred ≥1 week before the&#xD;
+        start of dosing for this study. Lesions situated in a previously irradiated area are&#xD;
+        considered measurable if progression has been demonstrated in such lesions.&#xD;
+&#xD;
+        5. Patients must have had at least one prior line of systemic therapy directed at their&#xD;
+        malignancy.&#xD;
+&#xD;
+        6. Participant must have an Eastern Cooperative Oncology Group (ECOG) performance status of&#xD;
+        ≤ 2.&#xD;
+&#xD;
+        7. Adequate organ function as described below: (Note: CBC test should be obtained without&#xD;
+        transfusion or receipt of colony-stimulating factors in the 2 weeks before obtaining).&#xD;
+&#xD;
+        Hematological • Absolute neutrophil count (ANC) ≥1,500 /mcL&#xD;
+&#xD;
+        • Platelets ≥ 100,000 / mcL&#xD;
+&#xD;
+        • Hemoglobin ≥ 9.0 g/dL&#xD;
+&#xD;
+        • Serum creatinine ≤1.5xULN OR Measured or calculated creatinine clearance ≥50 mL/min for&#xD;
+        participants.&#xD;
+&#xD;
+        Hepatic&#xD;
+&#xD;
+          -  Serum total bilirubin ≤1.5xULN OR Direct bilirubin ≤1 x ULN for subjects with total&#xD;
+             bilirubin levels ≥1.5xULN ) (if associated with liver metastases or Gilbert's disease,&#xD;
+             ≤2.5 x ULN)&#xD;
+&#xD;
+          -  Aspartate transaminase (AST) and alanine transaminase (ALT) ≤2.5 x ULN (if associated&#xD;
+             with liver metastases, ≤5 x ULN) Coagulation&#xD;
+&#xD;
+          -  International Normalized Ratio (INR) or Prothrombin Time (PT) and Activated Partial&#xD;
+             Thromboplastin Time (aPTT) ≤1.5xULN, unless subject is receiving anticoagulant&#xD;
+             therapy.&#xD;
+&#xD;
+             8. Participant must have at least one measurable brain metastasis (tumor diameter of&#xD;
+             0.5-3 cm by mRECIST on magnetic resonance imaging [MRI]) for which all of the&#xD;
+             following criteria have to be met: asymptomatic (no neurologic signs or symptoms),&#xD;
+             unirradiated, not requiring immediate local intervention (surgery or radiosurgery),&#xD;
+             and not requiring systemic glucocorticoid therapy within 10 days prior to study&#xD;
+             treatment initiation. Patient may have other metastatic lesions which can have had&#xD;
+             irradiation.&#xD;
+&#xD;
+             9. Patients must have archival systemic tumor tissue available at screening. Patients&#xD;
+             who do not have tissue specimens available may undergo a biopsy during the screening&#xD;
+             period. Acceptable samples include core-needle biopsies for deep systemic tumor tissue&#xD;
+             or excisional, incisional, punch, or forceps biopsies for cutaneous, subcutaneous, or&#xD;
+             mucosal lesions. Representative formalin-fixed paraffin-embedded (FFPE) tumor&#xD;
+             specimens in paraffin blocks (blocks are preferred) OR at least 4 unstained slides,&#xD;
+             with an associated pathology report, for testing of tumor PD-L1 expression. Tumor&#xD;
+             tissue should be of good quality based on total and viable tumor content.&#xD;
+&#xD;
+             10. Female participant has a negative serum pregnancy test within 3 days prior to&#xD;
+             taking study treatment if of childbearing potential and agrees use a highly effective&#xD;
+             method of contraception (&lt; 1% failure rate with low user dependency) from screening&#xD;
+             through 180 days after the last dose of study treatment or is of nonchildbearing&#xD;
+             potential. Nonchildbearing potential is defined as follows (by other than medical&#xD;
+             reasons):&#xD;
+&#xD;
+          -  Patients who are ≥45 years of age and who have not had menses for &gt;1 year or have been&#xD;
+             amenorrhoeic for &lt;2 years without history of a hysterectomy and oophorectomy must have&#xD;
+             a follicle stimulating hormone value in the postmenopausal range upon screening&#xD;
+             evaluation&#xD;
+&#xD;
+          -  Post-hysterectomy, post-bilateral oophorectomy, or post-tubal ligation. Documented&#xD;
+             hysterectomy or oophorectomy must be confirmed with medical records of the actual&#xD;
+             procedure or confirmed by an ultrasound. Tubal ligation must be confirmed with medical&#xD;
+             records of the actual procedure, otherwise the patient must be willing to use an&#xD;
+             adequate barrier method throughout the study, starting with the screening visit&#xD;
+             through 180 days after the last dose of study treatment. See Section 4.4 for a list of&#xD;
+             acceptable birth control methods. Information must be captured appropriately within&#xD;
+             the site's source documents. Note: Abstinence is acceptable if this is the established&#xD;
+             and preferred contraception for the patient.&#xD;
+&#xD;
+          -  Participant must agree to not breastfeed during the study or for 180 days after the&#xD;
+             last dose of study treatment.&#xD;
+&#xD;
+             11. Male participants are eligible to participate if they agree to the following&#xD;
+             during the treatment period and for at least 180 days after the last dose of study&#xD;
+             treatment:&#xD;
+&#xD;
+          -  Refrain from donating sperm plus, either:&#xD;
+&#xD;
+          -  Be abstinent from sexual activity as their preferred and usual lifestyle (abstinent on&#xD;
+             a long-term and persistent basis) and agree to remain abstinent or&#xD;
+&#xD;
+          -  Must agree to use a male condom (and should also be advised of the benefit for a&#xD;
+             female partner to use a highly effective method of contraception as a condom may break&#xD;
+             or leak) 12. Participant must have signed and dated an IRB/IEC approved written&#xD;
+             informed consent form in accordance with regulatory and institutional guidelines. This&#xD;
+             must be obtained before the performance of any protocol related procedures that are&#xD;
+             not part of normal subject care. Hence, participants must have the ability to&#xD;
+             understand and the willingness to sign the approved written informed consent document.&#xD;
+&#xD;
+             13. Participant must be willing and able to comply with scheduled visits, treatment&#xD;
+             schedule, laboratory testing, and other requirements of the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Participant must not be simultaneously receiving interventional anticancer treatment.&#xD;
+&#xD;
+          2. Participant must not have contraindications to MRI (implanted metal device or foreign&#xD;
+             bodies) or MRI contrast (insufficient renal function or allergy).&#xD;
+&#xD;
+          3. A history of / or suffers from claustrophobia or subject feels unable to lie flat and&#xD;
+             still on their back for the required period of time in an MRI or PET/CT scanner.&#xD;
+&#xD;
+          4. Participant must not have symptomatic or untreated spinal cord compression.&#xD;
+&#xD;
+          5. Participant must not have evidence of leptomeningeal disease.&#xD;
+&#xD;
+          6. Participant must not have previously received a combination of PARP inhibitor and&#xD;
+             PD-1/L1inhibitor. Participant must not have previously received equivalent of full&#xD;
+             dose single agent PARPi. Prior therapy with PD-1/L1-inhibitor is permitted.&#xD;
+&#xD;
+          7. For participants choosing optional CSF collection via lumbar puncture: no medical&#xD;
+             contraindication to lumbar puncture may be present (including severe coagulopathy,&#xD;
+             radiographic concern for impending herniation or obstructive hydrocephalus, or soft&#xD;
+             tissue infection at puncture site, as outlined in MD Anderson institutional policy).&#xD;
+             LP may be deferred if at any time the treating physician determines that it would be&#xD;
+             unsafe to perform this procedure due to the characteristics of the brain metastases&#xD;
+             (eg. size, associated edema, etc).&#xD;
+&#xD;
+          8. Participant must not have had major surgery ≤ 3 weeks prior to initiating protocol&#xD;
+             therapy and participant must have recovered from any surgical effects.&#xD;
+&#xD;
+          9. Participant must not have received systemic anticancer therapy ≤2 weeks prior to&#xD;
+             initiating protocol therapy.&#xD;
+&#xD;
+         10. Previous systemic radiation therapy encompassing &gt;20% of the bone marrow (but not&#xD;
+             encompassing the CNS) within 2 weeks&#xD;
+&#xD;
+         11. Previous stereotactic or highly conformal radiotherapy within 1 week before the start&#xD;
+             of dosing for this study, whole brain radiotherapy within 2 weeks.&#xD;
+&#xD;
+         12. Participant must not have a known hypersensitivity to niraparib and dostarlimab&#xD;
+             components or excipients.&#xD;
+&#xD;
+         13. Participants with an inactive, known or suspected autoimmune disease. Subjects with&#xD;
+             type I diabetes mellitus, hypothyroidism only requiring hormone replacement, skin&#xD;
+             disorders (such as vitiligo, psoriasis, or alopecia) not requiring systemic treatment,&#xD;
+             or conditions not expected to recur in the absence of an external trigger are&#xD;
+             permitted to enroll.&#xD;
+&#xD;
+         14. Participant must not have a history of interstitial lung disease.&#xD;
+&#xD;
+         15. Participants with a major medical, neurologic or psychiatric condition who are judged&#xD;
+             as unable to fully comply with study therapy or assessments should not be enrolled.&#xD;
+&#xD;
+         16. Participant has a history of a second malignancy, unless potentially curative&#xD;
+             treatment has been completed with no evidence of malignancy for 2 years.&#xD;
+&#xD;
+         17. Patients with prostate cancer are excluded from this trial.&#xD;
+&#xD;
+         18. Participant has a known history of active hepatitis B or hepatitis C. Prior treated&#xD;
+             hepatitis B or C with undetectable viral load may be enrolled.&#xD;
+&#xD;
+         19. Participants who have a known history of HIV positive and are on effective&#xD;
+             anti-retroviral therapy with documented undetectable viral load and CD4 count ≥350&#xD;
+             within 6 months of the first dose of study treatment are eligible.&#xD;
+&#xD;
+         20. Participants unable to undergo contrast enhanced brain MRI.&#xD;
+&#xD;
+         21. Participants unable to swallow pills or have significant gastrointestinal disease&#xD;
+             which would preclude the adequate oral absorption of medications.&#xD;
+&#xD;
+         22. Patients who have received live vaccines within 30 days of study entrance.&#xD;
+&#xD;
+         23. Patients with uncontrolled high blood pressure (HTN &gt;140/90).&#xD;
+&#xD;
+         24. Patients with prior diagnosis of MDS or AML.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Timothy Yap, MBBS,PHD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>M.D. Anderson Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Timothy Yap, MBBS,PHD</last_name>
+    <phone>(713) 563-1784</phone>
+    <email>tyap@mdanderson.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>M D Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Timothy Yap, MBBS,PHD</last_name>
+      <phone>713-563-1784</phone>
+      <email>tyap@mdanderson.org</email>
+    </contact>
+    <investigator>
+      <last_name>Timothy Yap, MBBS,PHD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mdanderson.org</url>
+    <description>M D Anderson Cancer Center</description>
+  </link>
+  <verification_date>June 2023</verification_date>
+  <study_first_submitted>January 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>June 6, 2023</last_update_submitted>
+  <last_update_submitted_qc>June 6, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 7, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Brain Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Niraparib</mesh_term>
+    <mesh_term>Dostarlimab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

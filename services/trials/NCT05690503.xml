@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9773">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05690503</url>
+  </required_header>
+  <id_info>
+    <org_study_id>8336</org_study_id>
+    <nct_id>NCT05690503</nct_id>
+  </id_info>
+  <brief_title>Glutamatergic Modulation as a Treatment for Depressive Symptoms Among Patients With Post-acute Sequelae of COVID (PASC): A Pilot Trial</brief_title>
+  <official_title>Glutamatergic Modulation as a Treatment for Depressive Symptoms Among Patients With Post-acute Sequelae of COVID (PASC): A Pilot Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>New York State Psychiatric Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>New York State Psychiatric Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Post-acute sequelae of SARS-CoV2 (PASC), colloquially known as &quot;long-COVID,&quot; is thought to&#xD;
+      affect between 10-30% of all COVID-19 survivors. Patients with PASC also report worsening&#xD;
+      behavioral health symptoms over time that include new-onset depression, anxiety, and even&#xD;
+      suicidal behavior. The purpose of this randomized, double-blind, controlled trial is to test&#xD;
+      the efficacy of a glutamate modulator among PASC patients suffering from new-onset or&#xD;
+      worsening of depressive symptoms.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      While PASC symptoms have been identified in nearly every organ system, the most common&#xD;
+      symptoms include fatigue, cognitive and attention deficits (known as 'brain fog'), shortness&#xD;
+      of breath, and post-exertional malaise. New-onset depression, anxiety, and even suicidal&#xD;
+      behavior have also been reported. Symptoms of PASC can exhibit daily variation; additionally&#xD;
+      PASC frequently demonstrates a relapsing and remitting course. This is mitigated by cognitive&#xD;
+      and emotional stress, physical exertion, diet, and alcohol consumption; therefore, measuring&#xD;
+      treatment response and the course of illness over time can be challenging. While there are&#xD;
+      many ongoing trials evaluating a variety of treatments for PASC, no clear treatment has&#xD;
+      emerged; additionally, there are no published data on psychotropic medications alleviating&#xD;
+      the inflammatory response and psychiatric symptoms in PASC.&#xD;
+&#xD;
+      Alterations in the transmission between neurons of a neurotransmitter called glutamate are an&#xD;
+      important target of pharmacotherapy for PASC. Glutamate modulators have demonstrated promise&#xD;
+      in improving depressive symptoms and suicidality and can improve cognitive functioning among&#xD;
+      patients with these symptoms. The study team has recently developed a novel design that&#xD;
+      integrates a clinical trial involving serial infusions. The current trial will evaluate the&#xD;
+      effect of a sub-anesthetic infusion on individuals with PASC and depressive symptoms who&#xD;
+      complete a randomized, double-blind, placebo-controlled pilot study conducted over 5 weeks&#xD;
+      using a cross-over and counterbalanced design.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 20, 2023</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Reduction in depressive symptoms</measure>
+    <time_frame>from baseline to week 5.</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Improvement in neurocognitive symptoms of PASC</measure>
+    <time_frame>from baseline to week 5.</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Post-acute Sequelae of COVID-19</condition>
+  <condition>Depressive Symptoms</condition>
+  <condition>Cognitive Dysfunction</condition>
+  <arm_group>
+    <arm_group_label>CI-581a+CI-581b</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Administration of CI-581a at 0.8mg/kg during week 1. Administration of CI-581b at 0.025mg/kg during week 3.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CI-581b+CI-581a</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Administration of CI-581b at 0.025mg/kg during week 1. Administration of CI-581a at 0.8mg/kg during week 3.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CI-581a</intervention_name>
+    <description>Medication infusion intravenously over 90 minutes.</description>
+    <arm_group_label>CI-581a+CI-581b</arm_group_label>
+    <arm_group_label>CI-581b+CI-581a</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CI-581b</intervention_name>
+    <description>Medication infusion intravenously over 90 minutes.</description>
+    <arm_group_label>CI-581a+CI-581b</arm_group_label>
+    <arm_group_label>CI-581b+CI-581a</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Meeting the case-definition for PASC with depressive symptoms&#xD;
+&#xD;
+          2. Otherwise physically healthy&#xD;
+&#xD;
+          3. No adverse reactions to study medications&#xD;
+&#xD;
+          4. Capacity to consent and comply with study procedures, including sufficient proficiency&#xD;
+             in English&#xD;
+&#xD;
+          5. Sexually active participants must use an effective form of birth control (condom plus&#xD;
+             spermicide, diaphragm plus spermicide, or birth control pills) before and throughout&#xD;
+             their study participation.&#xD;
+&#xD;
+          6. Willingness to provide one or more emergency contacts to the study team&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Meeting the DSM-5 criteria for lifetime history of bipolar disorder, schizophrenia, or&#xD;
+             any psychotic illness.&#xD;
+&#xD;
+          2. Lifetime history of delirium, dementia, amnesia, or dissociative disorders&#xD;
+&#xD;
+          3. Current suicide risk or a history of suicide attempt within the past year&#xD;
+&#xD;
+          4. Pregnant or interested in becoming pregnant during the study period.&#xD;
+&#xD;
+          5. Any of the following cardiac conditions: clinically significant left ventricular&#xD;
+             hypertrophy, angina, clinically significant arrhythmia within 1 year of signing study&#xD;
+             consent form.&#xD;
+&#xD;
+          6. Unstable physical disorders which might make participation hazardous such as&#xD;
+             hypertension (&gt;160/90), anemia, active hepatitis or other liver disease (transaminase&#xD;
+             levels &lt;3 X the upper limit of normal will be considered acceptable), epilepsy, or&#xD;
+             untreated diabetes. Participants reporting HIV+ status will be asked to provide&#xD;
+             information about their current treatment, including all medications. Participants who&#xD;
+             are on the antiretroviral ritonavir (Norvir) will be excluded due to the possibility&#xD;
+             that ketamine in combination with this medication may increase the risk of&#xD;
+             drug-induced hepatitis.&#xD;
+&#xD;
+          7. Previous history of a substance use disorder with the study medications, and/or a&#xD;
+             history of an adverse reaction/experience with prior exposure to the study&#xD;
+             medications.&#xD;
+&#xD;
+          8. Recent history of significant violence (past 2 years) leading to an individual&#xD;
+             incurring physical harm, police involvement, or resulting in legal action.&#xD;
+&#xD;
+          9. On psychotropic or other medications whose effect could be disrupted by participation&#xD;
+             in the study.&#xD;
+&#xD;
+         10. Other personal circumstances and behavior judged to be incompatible with establishment&#xD;
+             of rapport or safe exposure to the study medications.&#xD;
+&#xD;
+         11. Physiologic dependence on a substance including benzodiazepines, alcohol, or opioids.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Saleena Subaiya, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>New York State Psychiatric Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Elias Dakwar, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>New York State Psychiatric Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Kate O'Malley, MA</last_name>
+    <role>Study Director</role>
+    <affiliation>New York State Psychiatric Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Saleena Subaiya, MD</last_name>
+    <phone>646-774-6117</phone>
+    <email>saleena.subaiya@nyspi.columbia.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kate O'Malley, MA</last_name>
+    <phone>646-774-6117</phone>
+    <email>kate.omalley@nyspi.columbia.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>New York State Psychiatric Institute</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Saleena Subiaya, MD</last_name>
+      <email>saleena.subaiya@nyspi.columbia.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kate O'Malley, MA</last_name>
+      <email>kate.omalley@nyspi.columbia.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2023</verification_date>
+  <study_first_submitted>December 30, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>March 30, 2023</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 3, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>New York State Psychiatric Institute</investigator_affiliation>
+    <investigator_full_name>Elias Dakwar</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Ketamine</keyword>
+  <keyword>PASC</keyword>
+  <keyword>Long Covid</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Post-Acute COVID-19 Syndrome</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+    <mesh_term>Depression</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ketamine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

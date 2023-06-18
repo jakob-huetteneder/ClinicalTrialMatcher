@@ -13,6 +13,11 @@ import jakarta.persistence.OneToMany;
 import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
 import org.hibernate.annotations.OnDelete;
+import org.springframework.data.elasticsearch.annotations.DateFormat;
+import org.springframework.data.elasticsearch.annotations.Document;
+import org.springframework.data.elasticsearch.annotations.Field;
+import org.springframework.data.elasticsearch.annotations.FieldType;
+import org.springframework.data.elasticsearch.annotations.Setting;
 
 import java.time.LocalDate;
 import java.util.HashSet;
@@ -20,6 +25,8 @@ import java.util.Set;
 
 @Entity
 @Table(name = "patient")
+@Document(indexName = "patients")
+@Setting(settingPath = "es-settings.json")
 public class Patient {
 
     @Id
@@ -45,6 +52,7 @@ public class Patient {
     private String admissionNote;
 
     @Column(name = "birthdate", nullable = false)
+    @Field(type = FieldType.Date, format = DateFormat.year_month_day)
     private LocalDate birthdate;
 
     @Column(name = "gender", nullable = false)
@@ -54,12 +62,15 @@ public class Patient {
     private String verification;
 
     @OneToMany(fetch = FetchType.EAGER, mappedBy = "patient", orphanRemoval = true)
+    @Field(type = FieldType.Nested)
     private Set<Treats> treats = new HashSet<>();
 
     @OneToMany(fetch = FetchType.EAGER, mappedBy = "patient", orphanRemoval = true)
+    @Field(type = FieldType.Nested)
     private Set<Diagnose> diagnoses = new HashSet<>();
 
     @OneToMany(fetch = FetchType.EAGER, mappedBy = "patient", orphanRemoval = true)
+    @Field(type = FieldType.Nested)
     private Set<Examination> examinations = new HashSet<>();
 
     public Long getId() {

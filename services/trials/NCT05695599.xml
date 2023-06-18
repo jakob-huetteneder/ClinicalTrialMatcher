@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9548">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05695599</url>
+  </required_header>
+  <id_info>
+    <org_study_id>WBVBS</org_study_id>
+    <nct_id>NCT05695599</nct_id>
+  </id_info>
+  <brief_title>Whole Body Vibration After Bariatric Surgery</brief_title>
+  <official_title>Supervised Whole Body Vibration Training for the Improvement of Body Composition, Microbiota and Physical Fitness After Bariatric Surgery</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universidad de Zaragoza</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Centro de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBEREHD)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Centro de Investigación Biomédica en Red Fisiopatología de la Obesidad y Nutrición (CIBEROBN)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Universidad de Zaragoza</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Morbid obesity is defined as a complex chronic condition in which a person presents a body&#xD;
+      mass index above 40 kg/m2. This disease increases the risk of several co-morbidities and&#xD;
+      entails a reduction in life expectancy of 10 years. Its prevalence is increasing in developed&#xD;
+      countries and bariatric surgery has been suggested to be one of the best tools to counteract&#xD;
+      it. Nonetheless, this surgery also presents negative effects such as loss of bone mineral&#xD;
+      density (BMD) and muscle mass and an increased fracture risk. The aim of the present study is&#xD;
+      to elucidate the effects of surgery and a whole body vibration training (WBV) on body&#xD;
+      composition, physical fitness, microbiota and cardiometabolic markers. Twenty eight&#xD;
+      participants will undergo bariatric surgery and will be randomly allocated into a control&#xD;
+      group or a WBV group. The whole body vibration group will have a duration of 4 months in&#xD;
+      which participants will train three times per week (30 minutes per session). Measurements of&#xD;
+      body composition (dual energy x-ray and peripheral quantitative computed tomography),&#xD;
+      physical fitness (muscular strength, aerobic fitness and balance), gait biomechanics,&#xD;
+      cardiometabolic markers, gut microbiota, quality of life and physical activity levels will be&#xD;
+      registered in four different timepoints (1. Before the intervention, 2) 45 days after the&#xD;
+      surgery, 3) Six months after the surgery, and 4) 18 months after the surgery. The cost of the&#xD;
+      surgery and the exercise program will also be calculated to perform a cost-effectiveness&#xD;
+      analysis.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 23, 2023</start_date>
+  <completion_date type="Anticipated">July 6, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>The statistician will only have codes but in the database but will not know which code corresponds to which group.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Bone mineral density</measure>
+    <time_frame>pre-surgery</time_frame>
+    <description>Bone density measured with dual energy x-ray</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Bone mineral density</measure>
+    <time_frame>2 months post-surgery</time_frame>
+    <description>Bone density measured with dual energy x-ray</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Bone mineral density</measure>
+    <time_frame>6 months post-surgery</time_frame>
+    <description>Bone density measured with dual energy x-ray</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Bone mineral density</measure>
+    <time_frame>18 months post-surgery</time_frame>
+    <description>Bone density measured with dual energy x-ray</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Bone structure</measure>
+    <time_frame>pre-surgery</time_frame>
+    <description>Radius strength and structure measured with peripheral quantitative computed tomography</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Bone structure</measure>
+    <time_frame>2 months post-surgery</time_frame>
+    <description>Radius strength and structure measured with peripheral quantitative computed tomography</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Bone structure</measure>
+    <time_frame>6 months post-surgery</time_frame>
+    <description>Radius strength and structure measured with peripheral quantitative computed tomography</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Bone structure</measure>
+    <time_frame>18 months post-surgery</time_frame>
+    <description>Radius strength and structure measured with peripheral quantitative computed tomography</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Body composition</measure>
+    <time_frame>pre-surgery</time_frame>
+    <description>Body fat and visceral adipose tissue measured with Dual energy X-ray</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Body composition</measure>
+    <time_frame>2 months post-surgery</time_frame>
+    <description>Body fat and visceral adipose tissue measured with Dual energy X-ray</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Body composition</measure>
+    <time_frame>6 months post-surgery</time_frame>
+    <description>Body fat and visceral adipose tissue measured with Dual energy X-ray</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Body composition</measure>
+    <time_frame>18 months post-surgery</time_frame>
+    <description>Body fat and visceral adipose tissue measured with Dual energy X-ray</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fecal gut microbiota</measure>
+    <time_frame>pre-surgery</time_frame>
+    <description>Stool specimens will be taken. Samples will be sequenced by Shallow Shotgun Metagenomic sequencing using Illumina Sequencing PE150 (5 G raw data per sample).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fecal gut microbiota</measure>
+    <time_frame>6 months post-surgery</time_frame>
+    <description>Stool specimens will be taken. Samples will be sequenced by Shallow Shotgun Metagenomic sequencing using Illumina Sequencing PE150 (5 G raw data per sample).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fecal gut microbiota</measure>
+    <time_frame>18 months post-surgery</time_frame>
+    <description>Stool specimens will be taken. Samples will be sequenced by Shallow Shotgun Metagenomic sequencing using Illumina Sequencing PE150 (5 G raw data per sample).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Basal metabolic rate</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Basal metabolic rate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heart rate variability</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Heart rate variability measured in fasting and resting conditions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Aerobic capacity</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Bruce protocol on a treadmill</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Muscular strength of the upper limbs</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Measured with a handgrip dynamometer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Muscular strength of the lower limbs</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Measured with the stand and sit chair test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Agility</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Measured with the time up and go test. Sitting on a chair the participant has to stand up and walk 2,4 meters forward, turn and sit back on the chair.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Balance</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Measured with the SPPB battery in three different position (feet together, tandem, semi tandem)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gait kinematics</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Gait kinematics measured with inertial sensors</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frailty status</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>SPPB measures</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life of participants SF36</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Quality of life measured with the SF36</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life of participants EUROQOL 5Q</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Quality of life measured with the EUROQOL 5Q</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pain scale</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Pain measured with the WOMAC questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective physical activity levels</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Physical activity levels registered with triaxial accelerometers that they will wear during 7 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical activity levels</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Physical activity levels measures with IPAQ-short</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ankle range of motion</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Measurement of dorsiflexion and plantar flexion</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inflammatory markers</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Interleukin 6, TNF alpha, and reactive C protein</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood glucose</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Glucose levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cholesterol</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Blood cholesterol levels (LDL and HDL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Insulin resistance</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>HOMA test and insulin levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Kidney markers</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Creatinine levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Liver function (ALT)</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Alanine transaminase levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Liver function (AST)</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Aspartate transaminase</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Liver function (ALP)</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Alkaline phosphatase</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Liver function (GGT)</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Gamma-glutamyl transferase</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Liver function (bilirubin)</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Serum bilirubin levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>International normalised ratio test</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>INR coagulation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Albumin levels</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Serum albumin levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Iron metabolism</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Iron metabolism markers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vitamin B12 levels</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Plasma vitamin B12 levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Folic acid levels</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Plasma folic acid levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hydroxyvitamin D</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Plasma Hydroxyvitamin D levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Calcium</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Plasma calcium levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phosphorus</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Plasma phosphorus levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parathyroid hormone</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Parathyroid hormone plasma levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bone alkaline phosphatase</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Bone alkaline phosphatase plasma levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Leptin</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Leptin plasma levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adinopectin</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Adinopectin plasma levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Diet</measure>
+    <time_frame>pre-surgery, 6 months post-surgery</time_frame>
+    <description>Diet will be assessed though a food frequency questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Depression, anxiety and stress questionnaire</measure>
+    <time_frame>pre-surgery, 2 months post-surgery, 6 months post-surgery and 18 months post-surgery</time_frame>
+    <description>Dass 21 scale</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">28</enrollment>
+  <condition>Bariatric Surgery and Whole Body Vibration Training</condition>
+  <condition>Bariatric Surgery</condition>
+  <arm_group>
+    <arm_group_label>Whole body vibration</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will undergo a whole body vibration training</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants will not perform an intervention</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Whole body vibration training</intervention_name>
+    <description>3 times per week of 20 to 30 minute sessions during 16 weeks of training</description>
+    <arm_group_label>Whole body vibration</arm_group_label>
+    <other_name>Exercise</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients that are going to undergo Roux-en-Y gastric bypass with a Body mass index&#xD;
+             above 40 and below 180 kg.&#xD;
+&#xD;
+          -  With an age between 18 and 50 years of age&#xD;
+&#xD;
+          -  Living in the city of Zaragoza&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of cancer in the last 5 years&#xD;
+&#xD;
+          -  Have a pacemaker or being diagnosed with a cardiac problem that disables the&#xD;
+             participant to take place in an exercise program&#xD;
+&#xD;
+          -  To have suffered an acute myocardial infarction in the last 6 months&#xD;
+&#xD;
+          -  To present uncontrolled hypertension&#xD;
+&#xD;
+          -  Fracture in the last year&#xD;
+&#xD;
+          -  Any other condition that the physician deems as a contraindication for performing&#xD;
+             supervised physical exercise&#xD;
+&#xD;
+          -  Menopause&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>GENUD Research group</name>
+      <address>
+        <city>Zaragoza</city>
+        <zip>50009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alejandro Gomez</last_name>
+      <phone>+34876553755</phone>
+      <email>bruton@unizar.es</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinic Universitario</name>
+      <address>
+        <city>Zaragoza</city>
+        <zip>50012</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Maria Pilar Irun, PhD</last_name>
+      <email>mpirun.uit@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>December 19, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>May 25, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 25, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universidad de Zaragoza</investigator_affiliation>
+    <investigator_full_name>José A. Casajús</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

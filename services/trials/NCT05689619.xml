@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9816">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05689619</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SILMET_0107665</org_study_id>
+    <nct_id>NCT05689619</nct_id>
+  </id_info>
+  <brief_title>SILibinin in NSCLC and BC Patients With Single Brain METastasis (SILMET)</brief_title>
+  <acronym>SILMET</acronym>
+  <official_title>A Phase 2 Randomized, Multicenter Trial on Silibinin To Prevent Intracranial Recurrence After Gross-Total Resection of Single Brain Metastasis From Non-Small Cell Lung Cancer or Breast Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Alessia Pellerino</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Azienda Ospedaliera Città della Salute e della Scienza di Torino</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to evaluate the efficacy of silibinin in preventing recurrence in the brain&#xD;
+      after complete resection of a brain metastasis (BM) from non-small-cell lung cancer (NSCLC)&#xD;
+      or breast cancer (BC).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is the first placebo-controlled study evaluating the efficacy of silibinin as STAT3&#xD;
+      inhibitor in preventing recurrence in the brain after gross-total resection of a brain&#xD;
+      metastasis (BM) from non-small-cell lung cancer (NSCLC) or breast cancer (BC).&#xD;
+&#xD;
+      Participants will be randomized 1:1 to silibinin 1 g/day taken orally in comparison with oral&#xD;
+      placebo 1 g/day. A contrast-enhanced brain MRI will be performed every 8 weeks to evaluate&#xD;
+      intracranial local and distance recurrence&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 2, 2023</start_date>
+  <completion_date type="Anticipated">January 1, 2027</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized (1:1) phase 2 trial</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>intracranial local recurrence</measure>
+    <time_frame>up to 12-24 months</time_frame>
+    <description>to investigate whether silibinin delay the intracranial local recurrence in comparison to placebo</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>intracranial distant recurrence</measure>
+    <time_frame>up to 12-24 months</time_frame>
+    <description>to investigate whether silibinin delay or avoid the intracranial distant recurrence in comparison to placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intracranial progression-free survival</measure>
+    <time_frame>up to 12-24 months</time_frame>
+    <description>intracranial local plus distant recurrence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall progression-free survival</measure>
+    <time_frame>up to 12-24 months</time_frame>
+    <description>intracranial plus systemic PFS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>to investigate whether silibinin improve the overall survival in comparison to placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of the quality of life of brain metastasis patients</measure>
+    <time_frame>8 weeks, 16 weeks, 24 weeks, 32 weeks, 40 weeks, 48 weeks, 56 weeks, thereafter every 24 weeks</time_frame>
+    <description>EORTC QLQ-C30 and EORTC QLQ-BN20</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>to determine incidence of adverse events</measure>
+    <time_frame>up to 12-24 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>Brain Metastases, Adult</condition>
+  <condition>Non Small Cell Lung Cancer</condition>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Silibinin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Silibinin (STAT3 inhibitor) 1 g/day taken orally every day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo 1 g/day taken orally every day</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Silibinin</intervention_name>
+    <description>Silibinin 1 g/day taken orally plus standard systemic therapy for NSCLC or BC</description>
+    <arm_group_label>Silibinin</arm_group_label>
+    <other_name>Sillbrain</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo 1 g/day taken orally plus standard systemic therapy for NSCLC or BC</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Histologically confirmed BM from NSCLC or BC by local pathology&#xD;
+&#xD;
+          -  Single BM (maximum diameter of 3 cm) on MRI before surgery&#xD;
+&#xD;
+          -  Complete surgical resection (MRI-verified within 14 days prior randomization)&#xD;
+&#xD;
+          -  pSTAT3 score in reactive astrocytes of peritumoral tissue confirmed by local or&#xD;
+             central assessment&#xD;
+&#xD;
+          -  patient must have recovered from the effects of surgery, including post-operative&#xD;
+             infection, suture/stample removal from brain surgery and wound healing before&#xD;
+             randomization&#xD;
+&#xD;
+          -  ≥ 18 - 70 years of age&#xD;
+&#xD;
+          -  Karnofsky performance status ≥ 70 at assessment ≤ 14 days prior to randomization&#xD;
+&#xD;
+          -  patient has adequate bone marrow, renal, and hepatic function ≤ 21 days prior to&#xD;
+             randomization as follows:&#xD;
+&#xD;
+               1. absolute neutrophil count (ANC) ≥ 1500/mm3&#xD;
+&#xD;
+               2. platelets ≥ 100000/ mm3&#xD;
+&#xD;
+               3. Hemoglobin ≥ 9.0 g/dl (Note: the use of transfusion or other intervention to&#xD;
+                  achieve hemoglobin ≥ 9.0 g/dl is acceptable)&#xD;
+&#xD;
+               4. renal function: calculated creatinine clearance ≥ 30 ml/min by the&#xD;
+                  Cockcroft-Gault formula&#xD;
+&#xD;
+               5. hepatic function: total bilirubin ≤ 1.5 times upper limit of normal (ULN),&#xD;
+                  aspartate aminotransferase (AST), and alanine transferase (ALT) ≤ 3 times ULN.&#xD;
+                  Subjects with Gilbert's syndrome documented in medical history may be enrolled if&#xD;
+                  total bilirubin is &lt; 3 times ULN&#xD;
+&#xD;
+          -  Electrocardiogram (ECG) without evidence of acute cardiac ischemia ≤ 21 days prior to&#xD;
+             randomization&#xD;
+&#xD;
+          -  Female subject of childbearing potential (i.e. those who are not postmenopausal for at&#xD;
+             least 1 year or surgically sterile by bilateral salpingectomy, bilateral oophorectomy&#xD;
+             or hysterectomy) should practice at least one accepted method of birth control listed&#xD;
+             below during study entry, for the entire duration of the study and for at least 6&#xD;
+             months after treatment with silibinin has ended. Male subjects should practice at&#xD;
+             least one accepted method of birth control listed below during study entry, for the&#xD;
+             entire duration of the study and for at least 6 months after treatment with silibinin&#xD;
+             has ended. If using a condom, practice at least one other method of birth control&#xD;
+             listed below during the study for at least 6 months after silibinin treatment:&#xD;
+&#xD;
+               -  Combined (estrogen and progesterone contained) hormonal contraception (oral,&#xD;
+                  intravaginal, transdermal) associated with the inhibition of ovulation&#xD;
+&#xD;
+               -  Progesterone-only hormonal contraception (oral, intravaginal, transdermal)&#xD;
+                  associated with the inhibition of ovulation&#xD;
+&#xD;
+               -  Bilateral tubal occlusion/ligation&#xD;
+&#xD;
+               -  True abstinence: refraining from heterosexual intercourse when this is in line&#xD;
+                  with the preferred and usual lifestyle of the subject&#xD;
+&#xD;
+               -  A vasectomized male subject or a vasectomized partner of a female subject&#xD;
+&#xD;
+               -  Intrauterine device, IUD (females)&#xD;
+&#xD;
+               -  Double-barrier method (condoms, contraceptive sponge, diaphragm or vaginal ring&#xD;
+                  with spermicidal jellies or cream) unless not deemed acceptable as highly&#xD;
+                  effective contraception by local regulations&#xD;
+&#xD;
+          -  Women of child-bearing potential must have a negative pregnancy test (urine o serum)&#xD;
+             within 7 days prior the randomization&#xD;
+&#xD;
+          -  Must voluntarily sign and date informed consent form, for both tumor tissue biomarker&#xD;
+             testing and study participation, approved by an Independent Ethic Committee&#xD;
+             (IEC)/Institutional Review Board (IRB), prior to the initiation of any screening or&#xD;
+             study-specific procedures&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Absence of expression of STAT3 on the reactive astrocytes of brain metastases&#xD;
+&#xD;
+          -  Incomplete surgical resection and/or diameters &gt; 3 centimeters of brain metastasis&#xD;
+             before surgery&#xD;
+&#xD;
+          -  Brain metastases that previously received any type of radiation therapy&#xD;
+&#xD;
+          -  Progressive systemic disease requiring a change of the antineoplastic therapy&#xD;
+&#xD;
+          -  Prior invasive malignancy (except for non-melanomatous skin cancer, oral cavity, or&#xD;
+             cervix) unless disease free for ≥ 2 years&#xD;
+&#xD;
+          -  Prior, concomitant, or planned treatment with experimental agents&#xD;
+&#xD;
+          -  Patients has had major immunologic reaction&#xD;
+&#xD;
+          -  Patient has had a history of hypersensitivity to silibinin or excipient&#xD;
+&#xD;
+          -  Patient is unsuitable to receive steroids&#xD;
+&#xD;
+          -  Patient is a lactating or pregnant female&#xD;
+&#xD;
+          -  Severe, active co-morbidity, defined as follows:&#xD;
+&#xD;
+               -  Severe hepatic impairment (Child-Pugh C or higher [score of 10 or higher]);&#xD;
+                  subject with mild or moderate hepatic impairment (Child-Pugh score of 5-9) may be&#xD;
+                  eligible for treatment&#xD;
+&#xD;
+               -  Unstable angina and/or congestive heart failure within the last 6 months&#xD;
+&#xD;
+               -  Transmural myocardial infarction within the last 6 months&#xD;
+&#xD;
+               -  Evidence of recent myocardial infarction or ischemia by the findings of S-T&#xD;
+                  elevations ≥ 2 mm using the analysis of an EKG performed within 21 days prior to&#xD;
+                  enrollment&#xD;
+&#xD;
+               -  New York Heart Association grade2 or greater congestive heart failure requiring&#xD;
+                  hospitalization within 12 months prior to enrollment&#xD;
+&#xD;
+               -  History of stroke, cerebral vascular accident or transient ischemic attack within&#xD;
+                  6 months&#xD;
+&#xD;
+               -  Serious and inadequately controlled cardiac arrhythmia&#xD;
+&#xD;
+               -  Acute bacterial or fungal infection requiring intravenous antibiotics at the time&#xD;
+                  of enrollment&#xD;
+&#xD;
+               -  Chronic obstructive pulmonary disease exacerbation or other respiratory illness&#xD;
+                  requiring hospitalization or precluding study therapy at the time of enrollment&#xD;
+&#xD;
+               -  Subject with clinically defined Acquired Immune-Deficiency Syndrome&#xD;
+                  (AIDS)-defining illness. This is necessary to ensure subjects are likely to be&#xD;
+                  able to receive silibinin plus standard of care according to the systemic disease&#xD;
+&#xD;
+               -  Active connective tissue disorders, such as lupus or scleroderma, that in the&#xD;
+                  opinion of the Investigator may put the subject at high risk of toxicity&#xD;
+&#xD;
+               -  Any other major medical illnesses or psychiatric impairments that in the&#xD;
+                  Investigator's opinion will prevent administrations or completion of protocol&#xD;
+                  therapy&#xD;
+&#xD;
+          -  Patient treated on any other therapeutic clinical protocols within 30 days prior to&#xD;
+             study entry or during participation in the study except intra-operative therapy to&#xD;
+             guide resection or experimental imaging without therapeutic intent&#xD;
+&#xD;
+          -  Inability to undergo contrast-enhanced MRI scans&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Pierangela Botta</last_name>
+    <phone>+390116334904</phone>
+    <email>botta.neuro.oncologia@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Alessia Pellerino, M.D., Ph.D.</last_name>
+    <phone>+390116334904</phone>
+    <email>alessia.pellerino85@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Neurosurgery Unit, Department of Biomedical, Dental Science and Morphological and Functional Images, University of Messina</name>
+      <address>
+        <city>Messina</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Filippo Flavio Angileri</last_name>
+    </contact>
+    <investigator>
+      <last_name>Maria Caffo</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Institute of Neurosurgery, IRCCS Fondazione Policlinico Universitario Agostino Gemelli, Catholic University</name>
+      <address>
+        <city>Rome</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alessandro Olivi</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Neuro-Oncology Unit, IRCCS Regina Elena National Cancer Institute</name>
+      <address>
+        <city>Rome</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Andrea Pace</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Precision Medicine in Breast Cancer Unit, Fondazione Policlinico Universitario Agostino Gemelli IRCCS</name>
+      <address>
+        <city>Rome</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alessandra Fabi</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Città della Salute e della Scienza di Torino</name>
+      <address>
+        <city>Turin</city>
+        <zip>10126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alessia Pellerino, M.D., Ph.D</last_name>
+      <phone>+390116334904</phone>
+      <email>alessia.pellerino85@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Pierangela Botta</last_name>
+      <phone>+390116334904</phone>
+      <email>botta.neuro.oncologia@gmail.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Priego N, Zhu L, Monteiro C, Mulders M, Wasilewski D, Bindeman W, Doglio L, Martinez L, Martinez-Saez E, Ramon Y Cajal S, Megias D, Hernandez-Encinas E, Blanco-Aparicio C, Martinez L, Zarzuela E, Munoz J, Fustero-Torre C, Pineiro-Yanez E, Hernandez-Lain A, Bertero L, Poli V, Sanchez-Martinez M, Menendez JA, Soffietti R, Bosch-Barrera J, Valiente M. STAT3 labels a subpopulation of reactive astrocytes required for brain metastasis. Nat Med. 2018 Jul;24(7):1024-1035. doi: 10.1038/s41591-018-0044-4. Epub 2018 Jun 11. Erratum In: Nat Med. 2018 Jun 19;:</citation>
+    <PMID>29892069</PMID>
+  </reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 4, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 9, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2023</study_first_posted>
+  <last_update_submitted>January 9, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 9, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Azienda Ospedaliera Città della Salute e della Scienza di Torino</investigator_affiliation>
+    <investigator_full_name>Alessia Pellerino</investigator_full_name>
+    <investigator_title>M.D., Ph.D.</investigator_title>
+  </responsible_party>
+  <keyword>Silibinin</keyword>
+  <keyword>Single Brain Metastasis</keyword>
+  <keyword>Non-small-cell Lung Cancer</keyword>
+  <keyword>Breast Cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Brain Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Silybin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Principal Investigators will provide access to related study documents (e.g. protocol, statistical analysis plan, clinical study report) upon request from qualified researchers, and subjects with certain criteria, conditions, and exception that will be discussed with PI</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

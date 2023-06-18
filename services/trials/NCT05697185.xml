@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9467">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05697185</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KY-0012</org_study_id>
+    <nct_id>NCT05697185</nct_id>
+  </id_info>
+  <brief_title>Safety and Efficacy of Evolocumab in Ischemic Stroke</brief_title>
+  <acronym>SEEIS</acronym>
+  <official_title>Safety and Efficacy of Evolocumab in in Combination With Statin Therapy in Adults With Ischemic Stroke</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Second Affiliated Hospital of Guangxi Medical University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Second Affiliated Hospital of Guangxi Medical University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to evaluate the effect of evolocumab in combination with&#xD;
+      statin therapy (atorvastatin) in acute ischemic stroke (AIS).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2023</start_date>
+  <completion_date type="Anticipated">December 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">February 1, 2024</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percent change in LDL-C</measure>
+    <time_frame>baseline, 4 weeks, 8 weeks, 12 weeks after treatment</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Vascular events</measure>
+    <time_frame>3 months, 6months</time_frame>
+    <description>incidence of Transient ischemic attack, stroke or other vascular events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>mRS (0-2)</measure>
+    <time_frame>3 months, 6months</time_frame>
+    <description>proportion of mRS (0-2)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>death of any causes</measure>
+    <time_frame>12 months</time_frame>
+    <description>proportion of death</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Ischemic Stroke, Acute</condition>
+  <arm_group>
+    <arm_group_label>the evolocumab plus statin therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with AIS are treated with atorvastatin (40mg) daily and evolocumab (420 mg) every months throughout the study period</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>the statin alone therapy</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients with AIS are treated with atorvastatin (40mg) daily throughout the study period.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Evolocumab</intervention_name>
+    <description>Patients were randomly assigned of the ratio of 1:1 using a computer-generated random number and divided into two treatment groups: the statin alone therapy and the evolocumab plus statin therapy.</description>
+    <arm_group_label>the evolocumab plus statin therapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patient age between 18-80 years&#xD;
+&#xD;
+          2. Time of onset: within 1 week&#xD;
+&#xD;
+          3. NIHSS score ≤12&#xD;
+&#xD;
+          4. Acute ischemic stroke confirmed by head CT or MRI&#xD;
+&#xD;
+          5. Premorbid mRS ≤1&#xD;
+&#xD;
+          6. Signed informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Intracranial hemorrhage found by head CT&#xD;
+&#xD;
+          2. Severe hepatic or renal dysfunction&#xD;
+&#xD;
+          3. Pregnant females&#xD;
+&#xD;
+          4. Abnormal elevation of creatine phosphokinase&#xD;
+&#xD;
+          5. Blood sugar is out of control&#xD;
+&#xD;
+          6. Receiving statins within 1 month before onset&#xD;
+&#xD;
+          7. Not willing and able to comply with scheduled visits, lifestyle guidelines, treatment&#xD;
+             plan, laboratory tests, and other study procedures&#xD;
+&#xD;
+          8. Unsuitable for this clinical studies assessed by researcher&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Junli Liang, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>The Second Affiliated Hospital of Guangxi Medical University, Nanning, China</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Junli Liang, PhD</last_name>
+    <phone>+86-13481138068</phone>
+    <email>liangjl80@163.com</email>
+  </overall_contact>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 15, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 15, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2023</study_first_posted>
+  <last_update_submitted>January 15, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 15, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Second Affiliated Hospital of Guangxi Medical University</investigator_affiliation>
+    <investigator_full_name>Junli Liang</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+    <mesh_term>Ischemic Stroke</mesh_term>
+    <mesh_term>Cerebral Infarction</mesh_term>
+    <mesh_term>Ischemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Evolocumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

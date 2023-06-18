@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9086">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05705492</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY00024724</org_study_id>
+    <secondary_id>NCI-2022-10209</secondary_id>
+    <secondary_id>STUDY00024724</secondary_id>
+    <nct_id>NCT05705492</nct_id>
+  </id_info>
+  <brief_title>Olanzapine for the Management of Cancer Associated Appetite Loss in Patients With Advanced and Incurable Solid Tumors</brief_title>
+  <official_title>ACTO: A Phase II, Randomized, Placebo-Controlled Study Evaluating Olanzapine in the Management of Cancer Cachexia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>OHSU Knight Cancer Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Oregon Health and Science University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>OHSU Knight Cancer Institute</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial tests how well olanzapine may work in managing cancer cachexia in&#xD;
+      patients experiencing advanced solid tumor cancer-associated appetite loss while receiving&#xD;
+      non-curative cancer therapy. Loss of appetite (&quot;anorexia&quot;) in the setting of cancer is a key&#xD;
+      feature of &quot;cachexia,&quot; a syndrome associated with loss of weight and muscle as well as&#xD;
+      weakness and fatigue. Olanzapine is a type of drug that targets key neurotransmitters (a type&#xD;
+      of molecule used by the brain to transmit messages to the rest of the body) that may&#xD;
+      stimulate appetite, restore caloric intake, minimize weight loss, and improve quality of&#xD;
+      life.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVE:&#xD;
+&#xD;
+      I. To assess the effect of olanzapine versus placebo for decreasing cancer-associated&#xD;
+      anorexia at 2 weeks for patients with advanced cancer receiving systemic therapy.&#xD;
+&#xD;
+      SECONDARY OBJECTIVE:&#xD;
+&#xD;
+      I. To evaluate the longitudinal impact of olanzapine versus placebo over 6 weeks on food&#xD;
+      intake, anthropometric measures, physical function, patient-reported symptoms, quality of&#xD;
+      life, toxicity, and healthcare utilization.&#xD;
+&#xD;
+      OUTLINE: Patients are randomized to 1 of 2 arms.&#xD;
+&#xD;
+      ARM I: Patients receive 5mg of olanzapine orally (PO) nightly for six weeks on study.&#xD;
+      Patients may also undergo an optional computed tomography (CT) scan and blood sample&#xD;
+      collection on the study.&#xD;
+&#xD;
+      ARM II: Patients receive placebo PO nightly for six weeks and then receive 5mg of olanzapine&#xD;
+      PO nightly for 6 weeks (i.e., wait-list control). Patients may also undergo an optional CT&#xD;
+      scan and collection of blood samples on the study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2023</start_date>
+  <completion_date type="Anticipated">March 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in self-reported severity of anorexia</measure>
+    <time_frame>Baseline to 2 weeks</time_frame>
+    <description>Measured using the 5-item Functional Assessment of Anorexia-Cachexia Therapy (FAACT) assessment. Numerical scale goes from 0-20, with higher scores indicate less anorexia/cachexia.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Food intake</measure>
+    <time_frame>At to 2, 4, and 6 weeks from baseline</time_frame>
+    <description>Measured using Ingesta score. The Ingesta food intake scoring tool is and 11-point numerical scale over 24 hours going 0 (eating nothing at all) to 10 (eating as usual).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anthropometric measures: weight (kg)</measure>
+    <time_frame>At 2, 4, and 6 weeks from baseline</time_frame>
+    <description>Weight will be captured using the same properly calibrated scale at the same time of day without shoes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anthropometric measures: body mass index (kg/m^2)</measure>
+    <time_frame>At 2, 4, and 6 weeks from baseline</time_frame>
+    <description>Weight will be captured using the same properly calibrated scale at the same time of day without shoes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical function: performance status</measure>
+    <time_frame>At 2, 4, and 6 weeks from baseline</time_frame>
+    <description>Measured using Eastern Cooperative Oncology Group (ECOG) performance status. ECOG is a clinician's assessment of physical function rated on numerical scale going from 0 (fully active) to 5 (dead).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical function: short physical battery assessment</measure>
+    <time_frame>At 2, 4, and 6 weeks from baseline</time_frame>
+    <description>Measured using a Short Physical Performance Battery assessment (SPPB), a physical function assessment consisting of 3 timed measures and scored 0 to 12. Scores of 2 or lower indicate mobility disability and 10 or higher indicate no mobility disability / robustness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical function: handgrip strength</measure>
+    <time_frame>At 2, 4, and 6 weeks from baseline</time_frame>
+    <description>Handgrip strength (HGS) will be measured in kilograms (kg) by handgrip dynamometry to assess arm strength.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient-reported symptoms and quality of life: FACT-G</measure>
+    <time_frame>At 2, 4, and 6 weeks from baseline</time_frame>
+    <description>Measured using Functional Assessment of Cancer Therapy - General (FACT-G) Scores go from 0-108, higher scores indicate better QOL, including physical (0-28), social (0-28), emotional (0-24), and functional (0-28).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient-reported symptoms and quality of life: FAACT</measure>
+    <time_frame>At 2, 4, and 6 weeks from baseline</time_frame>
+    <description>Measured using the longitudinal changes on the Functional Assessment of Anorexia-Cachexia Therapy (FAACT). Scale goes from 0-20, with higher scores indicate less anorexia/cachexia</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient-reported symptoms and quality of life: PRO-CTCAE</measure>
+    <time_frame>At 2, 4, and 6 weeks from baseline</time_frame>
+    <description>Measured using Patient Reported Outcomes version of the Common Terminology Criteria for Adverse Events (PRO-CTCAE). Scores go from 0-4 for each item, higher scores indicate more severity, specifically none (0), mild (1), moderate (2), severe (3), and very severe (4).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient-reported symptoms and quality of life: PGI-C</measure>
+    <time_frame>At 2, 4, and 6 weeks from baseline</time_frame>
+    <description>Measured using Patient Global Impression of Change (PGI-C) assessments. This measure patient belief about the overall treatment efficacy. Scores go from 0-14, higher scores indicate greater global improvement.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">44</enrollment>
+  <condition>Advanced Malignant Solid Neoplasm</condition>
+  <arm_group>
+    <arm_group_label>Arm I (olanzapine, optional biospecimen collection)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive olanzapine PO for six weeks on study. Patients may also undergo an optional CT scan and blood sample collection on the study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II (placebo, olanzapine, optional biospecimen collection)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients receive placebo PO for six weeks and then receive olanzapine PO for 6 weeks. Patients also undergo an optional CT scan and collection of blood samples on study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Biospecimen Collection</intervention_name>
+    <description>Undergo blood specimen collection</description>
+    <arm_group_label>Arm I (olanzapine, optional biospecimen collection)</arm_group_label>
+    <arm_group_label>Arm II (placebo, olanzapine, optional biospecimen collection)</arm_group_label>
+    <other_name>Biological Sample Collection</other_name>
+    <other_name>Biospecimen Collected</other_name>
+    <other_name>Specimen Collection</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Computed Tomography</intervention_name>
+    <description>Undergo a CT scan</description>
+    <arm_group_label>Arm I (olanzapine, optional biospecimen collection)</arm_group_label>
+    <arm_group_label>Arm II (placebo, olanzapine, optional biospecimen collection)</arm_group_label>
+    <other_name>CAT</other_name>
+    <other_name>CAT Scan</other_name>
+    <other_name>Computed Axial Tomography</other_name>
+    <other_name>Computerized Axial Tomography</other_name>
+    <other_name>Computerized Tomography</other_name>
+    <other_name>CT</other_name>
+    <other_name>CT Scan</other_name>
+    <other_name>tomography</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Olanzapine</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Arm I (olanzapine, optional biospecimen collection)</arm_group_label>
+    <arm_group_label>Arm II (placebo, olanzapine, optional biospecimen collection)</arm_group_label>
+    <other_name>LY 170053</other_name>
+    <other_name>Zyprexa</other_name>
+    <other_name>Zyprexa Zydis</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo Administration</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Arm II (placebo, olanzapine, optional biospecimen collection)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaire Administration</intervention_name>
+    <description>Ancillary studies</description>
+    <arm_group_label>Arm I (olanzapine, optional biospecimen collection)</arm_group_label>
+    <arm_group_label>Arm II (placebo, olanzapine, optional biospecimen collection)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Willingness to provide written informed consent. For decisional impairment or&#xD;
+             conditions that render the individual unable to independently provide consent, a&#xD;
+             legally authorized representative must be available or designated in conjunction with&#xD;
+             the study consent process&#xD;
+&#xD;
+          -  Individuals &gt;= 18 years of age of all races, ethnicities, sexual orientations, gender&#xD;
+             identities, and abilities may be screened for enrollment without bias&#xD;
+&#xD;
+          -  Histologically confirmed advanced and incurable solid tumor cancer diagnosis within 12&#xD;
+             weeks of screening. Cancer diagnoses will include those for which standard curative&#xD;
+             measures do not exist or are no longer effective&#xD;
+&#xD;
+          -  Planned or ongoing standard of care (SOC) systemic antineoplastic therapy without&#xD;
+             curative intent (concurrent to this study)&#xD;
+&#xD;
+          -  Able to ambulate independently with or without assistive devices (e.g., cane, walker).&#xD;
+&#xD;
+          -  In the case of brain metastases, the individual must be asymptomatic or previously&#xD;
+             treated with a full cycle of therapy such that recovery from any acute effects of&#xD;
+             radiation therapy or surgery has occurred before the screening. Such individuals must&#xD;
+             have discontinued corticosteroid treatment and be neurologically stable for at least 4&#xD;
+             weeks before screening&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0-2&#xD;
+&#xD;
+          -  Able and willing to discontinue the use of any drug or over-the-counter (OTC) product&#xD;
+             that may interact with the study drug (within a period sufficient for wash-out per the&#xD;
+             investigator's discretion) and thereafter while on the study&#xD;
+&#xD;
+          -  Willingness to comply with restrictions on chest/breastfeeding&#xD;
+&#xD;
+          -  Individuals capable of childbearing and contributing viable sperm must be willing to&#xD;
+             comply with contraception requirements and not donate ova or sperm while on the study&#xD;
+             and for 1 month after that&#xD;
+&#xD;
+          -  A negative pregnancy test at baseline must be obtained for individuals capable of&#xD;
+             childbearing&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Plan for, or history of (within 30 days of registration), the use of an antipsychotic&#xD;
+             drug, including, but not limited to risperidone, quetiapine, clozapine, phenothiazine,&#xD;
+             or butyrophenone. This limitation does not include prochlorperazine and other&#xD;
+             phenothiazines as antiemetic therapy. The use of antipsychotics concurrent with&#xD;
+             protocol therapy will not be allowed&#xD;
+&#xD;
+          -  Previous or current use of megestrol acetate, cannabinoids (including, but not limited&#xD;
+             to dronabinol, medical cannabis, over the counter [OTC] cannabinoids products), and/or&#xD;
+             corticosteroids (defined as &gt;= 5mg of prednisone or equivalent per day, except for&#xD;
+             standard chemotherapy-induced nausea and vomiting [CINV] prophylaxis) during the&#xD;
+             proceeding &gt;=14 days&#xD;
+&#xD;
+          -  Known history of poorly controlled diabetes, defined as fasting morning blood sugars &gt;&#xD;
+             300 mg/dL or recent hemoglobin A1c &gt;= 8&#xD;
+&#xD;
+          -  Inadequate organ function, which may include, but is not limited to, the following&#xD;
+             laboratory results within 28 days before signing consent:&#xD;
+&#xD;
+               -  Total bilirubin &gt; upper limit of normal (ULN), aspartate aminotransferase (AST)&#xD;
+                  (serum glutamic oxaloacetic transaminase [SGOT]) and alanine aminotransferase&#xD;
+                  (ALT) (serum glutamic pyruvic transaminase [SPGT]) &gt; 2.5 ULN (unless the&#xD;
+                  participant has documented Gilbert's syndrome, hepatocellular carcinoma, or&#xD;
+                  hepatic metastases)&#xD;
+&#xD;
+               -  Serum creatinine &gt; 2.0 mg/dL or calculated glomerular filtration rate (GFR) &gt;= 30&#xD;
+                  mL/minute/1.73 m^2 as calculated by the modification of diet in renal disease&#xD;
+                  (MDRD) equation&#xD;
+&#xD;
+               -  NOTE: Investigator discretion will determine continued eligibility after&#xD;
+                  randomization occurs in the event the liver function test results are greater&#xD;
+                  than (&gt;) the proposed upper limit of normal&#xD;
+&#xD;
+          -  Tube feeding or parenteral nutrition at the time of screening&#xD;
+&#xD;
+          -  Any condition that may negatively impact oral absorption of the study drug (including,&#xD;
+             but not limited to dysphagia, mucositis, gastrectomy, colitis, bowel obstruction, high&#xD;
+             output ileostomy) or any plan to undergo an intervention that will render such a&#xD;
+             condition&#xD;
+&#xD;
+          -  Recurrent ascites unresponsive to medical interventions and requires therapeutic&#xD;
+             paracentesis&#xD;
+&#xD;
+          -  Uncontrolled symptoms (including, but not limited to, pain and nausea) at&#xD;
+             randomization make the individual unsuitable for the study in the judgment of the&#xD;
+             principal investigator (PI). If uncontrolled symptoms can be effectively palliated for&#xD;
+             &gt;= 1 week prior, enrollment may be considered at the discretion of the PI&#xD;
+&#xD;
+          -  Uncontrolled infection, including coronavirus disease 2019 (COVID-19), at time of&#xD;
+             randomization. Individuals with the uncontrolled infection will not be eligible as the&#xD;
+             symptomology of infection may obscure the outcomes of this study&#xD;
+&#xD;
+          -  Other medical or psychiatric condition, including recent (within 1 year) or active&#xD;
+             suicidal ideation/behavior or laboratory abnormality, may increase the risk of study&#xD;
+             participation or, in the investigator's judgment, makes the participant inappropriate&#xD;
+             for the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eric Roeland, M.D., FAAHPM</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>OHSU Knight Cancer Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>OHSU Knight Cancer Institute</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Eric Roeland, M.D., FAAHPM</last_name>
+      <phone>503-494-8534</phone>
+      <email>roeland@ohsu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Eric Roeland, M.D., FAAHPM</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 6, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 27, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2023</study_first_posted>
+  <last_update_submitted>January 27, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 27, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 30, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>OHSU Knight Cancer Institute</investigator_affiliation>
+    <investigator_full_name>Eric Roeland, M.D., FAAHPM</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Olanzapine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

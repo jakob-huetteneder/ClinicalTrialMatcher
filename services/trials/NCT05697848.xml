@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9434">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05697848</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CE2556</org_study_id>
+    <nct_id>NCT05697848</nct_id>
+  </id_info>
+  <brief_title>Pain Education in Chronic Low Back Pain</brief_title>
+  <official_title>Pain Education: Treatment of Patients Affected by Chronic Low Back Pain, Randomized Controlled Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Istituti Clinici Scientifici Maugeri SpA</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Istituti Clinici Scientifici Maugeri SpA</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Pain Neuroscience Education (PNE) aims to reconceptualize pain from a marker of tissue&#xD;
+      damage to a marker of the perceived need to protect body tissue.&#xD;
+&#xD;
+      The purpose of this study is to verify the long-term efficacy (6 months) of a Pain Education&#xD;
+      treatment in patients with chronic low back pain, compared to a conventional treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">October 4, 2021</start_date>
+  <completion_date type="Anticipated">July 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>NRS</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Numeric Rating Scale. Score ranges from 0 (no pain) to 10 (the worst pain ever possible)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>NRS</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Numeric Rating Scale. Score ranges from 0 (no pain) to 10 (the worst pain ever possible)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>NRS</measure>
+    <time_frame>6 months</time_frame>
+    <description>Numeric Rating Scale. Score ranges from 0 (no pain) to 10 (the worst pain ever possible)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PCS</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Pain Catastrophizing Scale. Score ranges from 0 to 52. Higher scores are associated with higher amounts of pain catastrophizing.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PCS</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Pain Catastrophizing Scale. Score ranges from 0 to 52. Higher scores are associated with higher amounts of pain catastrophizing.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PCS</measure>
+    <time_frame>6 months</time_frame>
+    <description>Pain Catastrophizing Scale. Score ranges from 0 to 52. Higher scores are associated with higher amounts of pain catastrophizing.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">40</enrollment>
+  <condition>Low Back Pain</condition>
+  <condition>Rehabilitation</condition>
+  <condition>Pain</condition>
+  <arm_group>
+    <arm_group_label>Pain Education group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The patients of the experimental group will undergo pain education in addition to individual physiotherapy ( manual therapy and active exercises ).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The patients of the control group will undergo individual physiotherapy ( manual therapy and active exercises ).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Physiotherapy combined with Pain Education</intervention_name>
+    <description>Patients with chronic low back pain receive manual therapy treatment combined with Pain Education sessions.</description>
+    <arm_group_label>Pain Education group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Physiotherapy</intervention_name>
+    <description>Patients with chronic low back pain receive manual therapy treatment</description>
+    <arm_group_label>Control group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age over 18&#xD;
+&#xD;
+          -  Patients with low back pain of musculoskeletal origin for at least 3 months&#xD;
+&#xD;
+          -  Patients free from NSAID and/or opioid analgesic therapy for at least 1 month&#xD;
+&#xD;
+          -  Years of education: over 13&#xD;
+&#xD;
+          -  Italian mother-tongue&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Presence of neurological symptoms on provocative tests&#xD;
+&#xD;
+          -  Recent surgical procedure&#xD;
+&#xD;
+          -  Patients suffering from fibromyalgia or other rheumatological pathology&#xD;
+&#xD;
+          -  Psychiatric pathologies&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Istituti Clinici Scientifici Maugeri</name>
+      <address>
+        <city>Milano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 13, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 24, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2023</study_first_posted>
+  <last_update_submitted>January 24, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 24, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Istituti Clinici Scientifici Maugeri SpA</investigator_affiliation>
+    <investigator_full_name>Matteo Gallotta</investigator_full_name>
+    <investigator_title>Physiotherapist</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Back Pain</mesh_term>
+    <mesh_term>Low Back Pain</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

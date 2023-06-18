@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9843">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05689034</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FNC-K3482</org_study_id>
+    <nct_id>NCT05689034</nct_id>
+  </id_info>
+  <brief_title>Multicenter Randomized Double-blind Placebo-controlled Study to Investigate Azvudine in Symptomatic Adults With COVID-19 at Increased Risk of Progressing to Severe Illness</brief_title>
+  <official_title>A Multicenter Randomized Double-blind Placebo-controlled Study to Investigate Azvudine in Symptomatic Adult Participants With COVID-19 Who Are at Increased Risk of Progressing to Severe Illness</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Peking Union Medical College Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Peking Union Medical College Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To investigate whether treatment with Azvudine reduces the risk of severe illness or death in&#xD;
+      patients who are at a potential risk of progressing to severe COVID-19 infection.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study is designed as a randomized, parallel, double-blind, placebo-controlled trial, in&#xD;
+      which all participants will be randomized to a test group or control group in a 1:1 ratio.&#xD;
+&#xD;
+      The test group will be given Azvudine in combination with conventional therapy excluding&#xD;
+      anti-viral therapy and observed for efficacy. The control group will be given placebo in&#xD;
+      combination with conventional therapy excluding anti-viral therapy and observed for efficacy.&#xD;
+&#xD;
+      Test Group will recruit 548 participants who will be given Azvudine + conventional therapy&#xD;
+      other than antiviral*5 mg/day, oral, up to 7 days (1 mg/tablet).&#xD;
+&#xD;
+      Control Group will recruit 548 who will be given Placebo + conventional therapy other than&#xD;
+      antiviral* 5 tablets/day, oral, up to 7 days.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 20, 2023</start_date>
+  <completion_date type="Anticipated">June 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Randomized, Double-blind, Placebo-controlled Study</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of COVID-19-related critical illness or all-cause death within 28 days.</measure>
+    <time_frame>28 days</time_frame>
+    <description>Proportion of COVID-19-related critical illness or all-cause death within 28 days.&#xD;
+COVID-19-related critical illness is defined as: a patient with an SpO2 of 90% to 95% requiring high-flow oxygen inhalation with a fraction of inspired oxygen (FiO2) not less than 60% or requiring non-invasive ventilation with a FiO2 not less than 60%; or requiring mechanical ventilation or ECMO for organ support.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence rates of Azvudine-related adverse events and serious adverse events</measure>
+    <time_frame>28 days</time_frame>
+    <description>Incidence rates of Azvudine-related adverse events and serious adverse events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of COVID-19-related symptoms</measure>
+    <time_frame>14 days</time_frame>
+    <description>Duration of COVID-19-related symptoms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause death</measure>
+    <time_frame>6 months</time_frame>
+    <description>All-cause death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 viral load in pharyngeal swabs</measure>
+    <time_frame>D1, D3, D7</time_frame>
+    <description>COVID-19 viral load in pharyngeal swabs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days of hospitalization and ICU stay</measure>
+    <time_frame>28 days</time_frame>
+    <description>Days of hospitalization and ICU stay</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1096</enrollment>
+  <condition>COVID-19 Respiratory Infection</condition>
+  <arm_group>
+    <arm_group_label>Azvudine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Azvudine in Patients at Potential Risk of Progressing to Severe COVID-19 Infection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo in Patients at Potential Risk of Progressing to Severe COVID-19 Infection</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Azvudine</intervention_name>
+    <description>Azvudine po. 5mg daily for 7 days</description>
+    <arm_group_label>Azvudine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo po. 5 tablets daily for 7 days</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  (1) An age of 18 years or over (inclusive); (2) Not more than five days since the&#xD;
+             development of COVID-19 symptoms, and positive for nucleic acid or antigen test for&#xD;
+             COVID-19 within five days before enrollment; (3) Presence of at least one symptom&#xD;
+             related to COVID-19 infection at the time of enrollment; (4) Agreement to practice&#xD;
+             effective birth control (for females of child-bearing potential); (5) Presence of at&#xD;
+             least one high risk factor for severe COVID-19 infection:&#xD;
+&#xD;
+               -  Age ≥ 60 years;&#xD;
+&#xD;
+                    -  BMI&gt;25；&#xD;
+&#xD;
+                         -  Fever (body temperature ≥ 38℃) for ≥ 3 days;&#xD;
+&#xD;
+                              -  Current smokers (still being smoking within 30 days before&#xD;
+                                 enrollment and have used at least 100 cigarettes up to date);&#xD;
+&#xD;
+                                   -  Immunosuppressive diseases, including but not limited to:&#xD;
+                                      myelosuppression or organ transplantation or primary&#xD;
+                                      immunodeficiency disease; prolonged use of immunosuppressive&#xD;
+                                      agents (≥ 20 mg/d for at least 14 days in the case of&#xD;
+                                      prednisone within the last 30 days); biologic therapy (such&#xD;
+                                      as infliximab, etc.); use of immunomodulators (including but&#xD;
+                                      not limited to methotrexate, azathioprine, etc.);&#xD;
+                                      radiotherapy and/or chemotherapy for any malignancies within&#xD;
+                                      90 days (for chest radiotherapy, this time interval should be&#xD;
+                                      more than 6 months);&#xD;
+&#xD;
+                                        -  Chronic lung disease (such as asthma requiring&#xD;
+                                           intervention daily, bronchiectasis, COPD, pulmonary&#xD;
+                                           hypertension, OSAS, interstitial lung disease, etc.);&#xD;
+&#xD;
+                                             -  Hypertension; ⑧ Cardiovascular diseases (previously&#xD;
+                                                diagnosed as myocardial infarction or stroke, TIA&#xD;
+                                                (transient ischemic attack), cardiac insufficiency,&#xD;
+                                                angina pectoris requiring nitrate therapy, CABG,&#xD;
+                                                post-PCI, post-carotid endarterectomy and aortic&#xD;
+                                                bypass surgery, etc.);&#xD;
+&#xD;
+                                                ⑨ Type 1 or type 2 diabetes;&#xD;
+&#xD;
+                                                ⑩ Neurodevelopmental abnormalities (such as&#xD;
+                                                cerebral palsy, Down's syndrome) or other genetic&#xD;
+                                                or metabolic syndromes and severe congenital&#xD;
+                                                malformations;&#xD;
+&#xD;
+                                                ⑪ Active tumors (excluding localized skin cancer);&#xD;
+&#xD;
+                                                ⑫ No vaccination against COVID-19&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  (1) Known or suspected allergy to the components of Azvudine Tablets; (2) Patients&#xD;
+             diagnosed as severe or critical COVID-19 infection (Severe: 1. shortness of breath&#xD;
+             with RR ≥ 30 breaths/min; 2. oxygen saturation ≤ 93% when inhaling air at rest; 3.&#xD;
+             partial pressure of arterial oxygen (PaO2) / fraction of inspired oxygen (FiO2) ≤ 300&#xD;
+             mmHg; 4. progressive worsening of clinical symptoms, and obvious lesion progression &gt;&#xD;
+             50% on lung images within 24 to 48 hours. Critical: 1. respiratory failure, requiring&#xD;
+             mechanical ventilation; 2. shock; 3. concomitant organ failure, requiring care in&#xD;
+             ICU); (3) Patients with severe liver disease (total bilirubin [TBIL] ≥ 2 × upper limit&#xD;
+             of normal (ULN), alanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≥&#xD;
+             3 × ULN; (4) Patients with severe renal insufficiency (glomerular filtration rate ≤ 60&#xD;
+             mL/min/1.73 m2) or currently on continuous renal replacement therapy, hemodialysis,&#xD;
+             and/or peritoneal dialysis; (5) Patients with malabsorption syndrome or any other&#xD;
+             condition compromising gastrointestinal absorption, or patients requiring parenteral&#xD;
+             nutrition or with difficulty in taking the investigational product orally; (6) Known&#xD;
+             HIV infection; (7) Presence of diabetic ketosis or hyperosmolar hyperglycemic state&#xD;
+             (HHS); (8) Total neutrophil count &lt; 750 cells/L; (9) Pregnant or lactating women or&#xD;
+             those who plan to have a child during participation in this study and within six&#xD;
+             months after the end of this study; (10) Currently participating in another clinical&#xD;
+             trial or currently using another investigational product; (11) Presence of other&#xD;
+             active infections (must be etiologically confirmed) in addition to COVID-19 infection;&#xD;
+             (12) Presence of any comorbidities requiring hospitalization and/or a surgical&#xD;
+             procedure within 7 days prior to the start of this study or a comorbidity considered&#xD;
+             life-threatening within 30 days prior to the start of this study; (13) Patients who&#xD;
+             have received or are expected to receive convalescent plasma for COVID-19; (14)&#xD;
+             Previous treatment with anti-viral agents that have been proved to be effective&#xD;
+             against COVID-19, including but not limited to Nirmatrelvir/Ritonavir or Molnupiravir&#xD;
+             (this criterion does not apply to use of glucocorticoids for reasons other than&#xD;
+             COVID-19); (15) Other conditions that make it inappropriate for the participant to&#xD;
+             take part in this trial at the investigator's discretion.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>120 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>nlun Tian</last_name>
+    <phone>+8613911204657</phone>
+    <email>tianxl@pumch.cn</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Mengzhao Wang</last_name>
+    <email>wangmengzhao@pumch.cn</email>
+  </overall_contact_backup>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>January 17, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 17, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>January 17, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 17, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 18, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Respiratory Tract Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

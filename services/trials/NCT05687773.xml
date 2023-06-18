@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9904">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05687773</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ParkinsonVR22</org_study_id>
+    <nct_id>NCT05687773</nct_id>
+  </id_info>
+  <brief_title>The Effect of Immersion in Virtual Reality on Upper Limb Functionality in Subjects With Parkinson's Disease: Randomized Clinical Trial</brief_title>
+  <official_title>The Effect of Immersion in Virtual Reality on Upper Limb Functionality in Subjects With Parkinson's Disease: Randomized Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fernanda Cechetti</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Federal University of Health Science of Porto Alegre</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Introduction: Parkinson's Disease (PD) is characterized as a neurodegenerative disorder&#xD;
+      associated with the progressive loss of dopamine in the basal ganglia region, resulting in&#xD;
+      classic motor symptoms such as bradykinesia, rigidity, postural instability and tremor. Such&#xD;
+      symptoms end up affecting the functionality of the upper limbs (ULM) in this population. In&#xD;
+      recent years, therapy based on Virtual Reality (VR) has been gaining popularity, but studies&#xD;
+      in the area are still lacking. Objective: To verify the benefits of immersive and&#xD;
+      non-immersive virtual reality in the functionality of the upper limbs in individuals with PD,&#xD;
+      and to identify possible differences between them. Methodology: This is a randomized clinical&#xD;
+      trial, in which the evaluators will be separate from the experimental groups (single-blind).&#xD;
+      Subjects with PD will be randomized into two groups: Immersive group (IVR), which will&#xD;
+      receive treatment with virtual reality games in an immersive environment through Leap Motion&#xD;
+      Controller (LMC) devices together with image projection on a Head-mounted -display (Oculus&#xD;
+      Quest) and the non-immersive group (RVnI) in which they will receive treatment with the CML&#xD;
+      on a flat screen. Both treatments will focus on broad and fine upper limb tasks, in a&#xD;
+      protocol with 4 activities and duration of 27 minutes, twice a week, for eight weeks. The two&#xD;
+      groups will be evaluated in three moments: before the intervention, immediately after 8 weeks&#xD;
+      and 60 days after the end of the interventions. They will be analyzed in terms of ADLs,&#xD;
+      through the TEMPA test and part II of the unified assessment of PD (MDS-UPDRS II); motor&#xD;
+      assessment (part III) of the MDS-UPDRS and motor staging of PD (Hoehn &amp; Yahr); manual&#xD;
+      dexterity through the Box and Block test and through the Nine Hole Peg Test; cognition by&#xD;
+      Montreal Cognitive Assessment (MoCA); quality of life through the PD questionnaire (PDQ-39);&#xD;
+      the usability of the system (SUS); and possible side effects (Simulator Sickness&#xD;
+      Questionnaire). This study is expected to show that treatment with immersive VR has greater&#xD;
+      positive effects than non-immersive VR on the functionality of the upper limbs of individuals&#xD;
+      with PD.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Parkinson's disease (PD) is characterized as a complex neurological disorder, with classic&#xD;
+      motor symptoms that are mainly associated with the development of Lewy bodies within nerve&#xD;
+      cells and with the loss of dopaminergic neurons in the substantia nigra. Among the most&#xD;
+      characteristic motor symptoms of the disease, tremor, rigidity, bradykinesia, postural&#xD;
+      instability and gait difficulty are included. Consequently, such motor comorbidities directly&#xD;
+      impact the patient's life, affecting quality of life, increasing the risk of falls, and&#xD;
+      decreasing independence in general. PD is currently the second most prevalent&#xD;
+      neurodegenerative disease (after Alzheimer's disease), with a rate of 14 affected per 100,000&#xD;
+      inhabitants; when considering the population over 65 years old, the values rise to 160&#xD;
+      affected per 100,000 inhabitants. Approximately 60,000 new cases of PD are diagnosed each&#xD;
+      year in the United States, in addition to the more than one million cases already diagnosed.&#xD;
+      In Brazil, it is estimated that 200,000 individuals have PD in the general population, with a&#xD;
+      high prevalence in people aged between 60 and 79 years. About 36,000 new cases arise in the&#xD;
+      country each year. The incidence rate of Men-Women varies between 1.3 and 2.0 in most of the&#xD;
+      recorded data. In 2012, Noyce et al. analyzed 30 environmental factors that could be related&#xD;
+      to the development of PD, among which those that were highly significant: exposure to&#xD;
+      pesticides, previous injury to the skull region, living in a rural area, use of&#xD;
+      beta-blockers. , workers in rural areas and consumption of water from wells. Among the&#xD;
+      protective factors found are: smoking, use of non-steroidal anti-inflammatory drugs, caffeine&#xD;
+      consumption, use of calcium channel blockers and alcohol consumption. Among the genetic&#xD;
+      factors best described in the literature are the SNCA genes, which encode the alpha-synuclein&#xD;
+      protein; mutations in LRRK2; mutations in the GBA gene, which encodes the&#xD;
+      beta-Glucocerebrosidase enzyme, which is the main genetic risk factor found until then for&#xD;
+      the development of PD.&#xD;
+&#xD;
+      Lewy bodies were first described in 1912 by Friedrich Henrich Lewy, becoming a major&#xD;
+      pathological marker of PD. They are found inside neurons and are made up of neurofilaments&#xD;
+      with aggregates of alpha-synuclein and ubiquitin. In 2007, through the study by Wakabayashi,&#xD;
+      he showed that Lewy bodies were not directly related to the causes of PD, but to its&#xD;
+      symptoms.&#xD;
+&#xD;
+      In general, the pathophysiology of PD is characterized by a progressive neuronal loss of the&#xD;
+      compact part of the substantia nigra of the midbrain, requiring a loss of more than 60% for&#xD;
+      the main symptoms of the disease to appear. However, in addition to the deficit in the&#xD;
+      dopaminergic pathway, other neurotransmitters may also be involved in the pathophysiology of&#xD;
+      PD. In the noradrenergic system, the locus coeruleus, presents the loss of 50 to 80% of&#xD;
+      pigmented neurons, in addition to the reduction of neurons in the dorsal vagus nucleus and in&#xD;
+      the supraoptic and paraventricular hypothalamic nuclei, accompanied by a decrease in the&#xD;
+      function of the noradrenergic projections; In the serotonergic system, a reduction of 57.8%&#xD;
+      of neurons in the dorsal raphe nucleus is observed; And in the cholinergic system, a&#xD;
+      reduction of 50 to 60% of cholinergic neurons in the dorsal raphe nucleus was observed.&#xD;
+&#xD;
+      In 2003, a study developed by Braak et al. showed that PD begins in Meissner's gastric&#xD;
+      autonomic plexus and in the olfactory neural endings, propagating to the brainstem&#xD;
+      (midbrain), precisely in the dorsal vagus nuclei, glossopharyngeal nucleus, olfactory and in&#xD;
+      the intermediate area. From there, evolution is divided into 5 more stages, namely: 1 - raphe&#xD;
+      nuclei, gigantocellular nucleus and locus coeruleus; 2 - compact part of the substantia&#xD;
+      nigra; 3 - forebrain areas of the temporal mesocortex; 4 - areas of association of the&#xD;
+      frontal neocortex; 5 - neocortex association areas, premotor and motor areas.&#xD;
+&#xD;
+      The main motor symptoms of PD are bradykinesia, hypokinesia, akinesia, tremor and rigidity,&#xD;
+      as well as balance and gait deficits. In addition, cognitive disorders, memory deficits,&#xD;
+      problems related to visuospatial dysfunction, difficulties in performing sequential and&#xD;
+      repetitive movements, freezing and slow psychological responses are often present. Decreased&#xD;
+      writing and problems in the voice and swallowing of individuals can also be observed. Among&#xD;
+      the main clinical symptoms of PD is tremor, which in about 50% of cases begins in the distal&#xD;
+      extremities. In rest situations, the decrease or disappearance of this symptom is noticeable,&#xD;
+      which returns if the individual maintains a more prolonged action or posture. Bradykinesia&#xD;
+      (slowness of movement) is due to an imbalance between the inhibitory and excitatory systems,&#xD;
+      resulting from the absence of dopamine in the striatum, affecting mainly automatic movements,&#xD;
+      generating a general poverty of movement and frequent complaint of weakness. Patients with PD&#xD;
+      have a high chance of acquiring a posture with their center of gravity forward, generating a&#xD;
+      bent or flexed posture. There is also a decrease in postural reflexes, such as protective&#xD;
+      extension, balance, and righting reactions. The gait presents itself as a slow, shuffling&#xD;
+      gait with a shortened stride length.&#xD;
+&#xD;
+      Pharmacological treatment consists of drugs that increase intracerebral concentrations of&#xD;
+      dopamine or stimulate its receptors. In the first line of treatment are Levodopa, which&#xD;
+      corresponds to an immediate precursor of dopamine, which, unlike it, can cross the&#xD;
+      blood-brain barrier. Bromocriptine, Lissuride, Pergolide and Paramixepol are dopamine&#xD;
+      receptor (D-2) agonist drugs, being dopaminomimetics, used alone or in association with&#xD;
+      Levodopa. Cardidopa is usually associated with Levodopa to facilitate the drug's action on&#xD;
+      the central nervous system, thus decreasing its side effects, such as nausea, vomiting, loss&#xD;
+      of appetite, and accelerated heart rate, in addition to increasing its therapeutic&#xD;
+      effectiveness. In the second line of treatment are central anticholinergics, which exert&#xD;
+      their therapeutic effects by blocking the central cholinergic transmission of acetylcholine,&#xD;
+      restoring balance with dopamine. In the third line of treatment are the catechol-o-methyl&#xD;
+      transferase (COMT) inhibitors, which act by blocking the conversion of levodopa to&#xD;
+      3-O-methyldopa, thus increasing the half-life in plasma and the fraction of the dose that&#xD;
+      reaches the brain. Also in the third line of treatment are irreversible inhibitors of the MAO&#xD;
+      enzyme type B, which also inhibit the reuptake of dopamine from the synaptic space.&#xD;
+&#xD;
+      However, even with an adequate pharmacological treatment for the management of PD, the&#xD;
+      patient can still present significant functional losses, which will directly affect their&#xD;
+      activities of daily living and their participation in society. The physiotherapeutic&#xD;
+      treatment aims to enable the individual with PD to maintain their maximum level of activity&#xD;
+      and mobility, being an adjunct therapy to the isolated pharmacological treatment.&#xD;
+      Physiotherapy applied to patients with PD ends up focusing mainly on: postural adjustments,&#xD;
+      transfer maneuvers, improvement in upper limb function, balance, physical capacity, cognitive&#xD;
+      capacity, and gait; always seeking patient independence and improving their quality of life.&#xD;
+      Among some of the adjuvant therapies already studied in PD, we can mention: induced&#xD;
+      containment therapy, dance, martial arts, Nordic walking, aquatic therapies, and music&#xD;
+      therapy. Upper limb dysfunctions are frequently present in individuals with Parkinson's&#xD;
+      disease. Among the first motor signs we can highlight micrograph and resting tremor. Resting&#xD;
+      tremor is defined as a tremor of 4 to 6 Hertz in frequency in a limb that is fully at rest,&#xD;
+      which temporarily disappears during movement and can be aggravated during situations of&#xD;
+      emotional stress. Accompanied by a slowness and progressively smaller movements (hypokinesia)&#xD;
+      characterizing bradykinesia, and an involuntary rigidity during a passive movement of a joint&#xD;
+      (cogwheel phenomenon). A great loss of manual dexterity is also observed, which is&#xD;
+      independent of the presence of bradykinesia or tremor. This phenomenon is coined as &quot;Kinetic&#xD;
+      apraxia of the limb&quot;, which is a loss of fine motor skills not explained by elementary motor&#xD;
+      deficits, such as weakness or ataxia.&#xD;
+&#xD;
+      As the disease progresses, such dysfunctions end up impacting daily life tasks such as&#xD;
+      getting dressed, brushing teeth, eating, buttoning buttons, using cell phones and, as a&#xD;
+      consequence, we perceive a worsening in the quality of life of individuals with PD. In&#xD;
+      addition, despite the known benefits of dopaminergic therapy for the management of PD&#xD;
+      symptoms, it is shown to be ineffective in improving coordinated arm and hand movements,&#xD;
+      which affect the individual's functional reach and grip movements.&#xD;
+&#xD;
+      Among the treatments presented in the literature for the management of upper limb deficits in&#xD;
+      individuals with PD are techniques based on repetition training in single and dual tasks;&#xD;
+      mirror therapy; restraint-induced therapy; and sensorimotor training. As well as several&#xD;
+      publications in recent years have been portraying the use of VR for the treatment of upper&#xD;
+      limb deficits in patients with PD, showing promising results in the area.&#xD;
+&#xD;
+      In recent years, interest in Virtual Reality (VR) has been growing exponentially, but the&#xD;
+      technology has been used for some decades. VR was a term proposed and popularized in 1989 by&#xD;
+      Jaron Laurier. VR is generated from computer graphics processing, in which simulations of&#xD;
+      objects, spaces and events are offered to the user's visual field in order to mimic a real&#xD;
+      experience. In addition to the visual offer, an auditory, tactile or even olfactory component&#xD;
+      may be present in order to guarantee a greater multisensory stimulus together with the&#xD;
+      possibility of real-time interaction between them. There is then a direct relationship&#xD;
+      between the number of sensory channels generated by the computer that are offered to the user&#xD;
+      and the level of immersion generated, which may vary according to the type of hardware used.&#xD;
+      The virtual environment can be delivered to the user through traditional displays in two&#xD;
+      dimensions (2D), projected through glasses in three dimensions (3D) or in devices called&#xD;
+      Head-mounted display (HMD).&#xD;
+&#xD;
+      Among the elements in which VR is modeled, &quot;Interactivity&quot; represents the user's ability to&#xD;
+      actively participate in the experience generated by VR. It is influenced by the&#xD;
+      responsiveness of the system, graphics, sounds and degrees of freedom that are provided to&#xD;
+      the user in the Virtual Environment (AV). &quot;Presence&quot; is the perception that the environment&#xD;
+      and virtual objects are really there and that the user is inserted between them; In which&#xD;
+      there is nothing that separates the &quot;I&quot; and the AV. Another feature is &quot;Perceived Reality&quot; in&#xD;
+      which the AV is to some degree similar to the real world. Finally, immersion can also be&#xD;
+      amplified when there is an emotional and/or cognitive affective component during the&#xD;
+      experience, being related to intrinsic factors of the user, including physiological&#xD;
+      parameters such as heart rate, skin conductance and psychological factors, such as&#xD;
+      personality traits of the user.&#xD;
+&#xD;
+      Therefore, the term Virtual Reality can be more related to the user experience than to a&#xD;
+      device itself.&#xD;
+&#xD;
+      In 1997, Mel Slater &amp; Sylvia Wilbur also proposed five characteristics to which they&#xD;
+      structure a virtual environment (VE): (a) Inclusive; refers to an AV that eliminates signals&#xD;
+      that indicate the existence of a physical world separate from the virtual world (eg external&#xD;
+      noise, joystick weight); (b) Extensive; refers to the number of sensory modalities stimulated&#xD;
+      (eg, tactile, auditory.); (c) Surrounding; refers to the visual presentation of the AV,&#xD;
+      including the ocular field of view (CVO) and the degree to which the real world is excluded&#xD;
+      (eg, Head-mounted Display, computer screen). (d) Vivid; refers to the resolution and fidelity&#xD;
+      of the image generated by the device (eg visual information); (e) Correspondent; refers to&#xD;
+      how the VE is modified in response to the user's perspective and actions. The use of VR has&#xD;
+      been used in several areas, in the scope of entertainment, professional training, military&#xD;
+      area, among the most diverse applications. The first record of its use in the medical field&#xD;
+      dates back to the early 1990s, and currently it has been widely used both for teaching in the&#xD;
+      health area and for clinical practice, finding promising results in the area of physical and&#xD;
+      intellectual rehabilitation.&#xD;
+&#xD;
+      The motor rehabilitation process is influenced by three major factors: (a) early&#xD;
+      intervention; (b) task-oriented training; (c) intensity and repetition. Tasks that include&#xD;
+      various sensory processes (hearing, proprioception, vision, touch) are necessary in order to&#xD;
+      promote an improvement in function. Another important factor for the success of the treatment&#xD;
+      is based on the patient's engagement with the tasks oriented to him, and his motivation to&#xD;
+      perform them. However, patient engagement in traditional neurological rehabilitation programs&#xD;
+      seems to be low, and often the intensity dose used during sessions seems to be insufficient&#xD;
+      to generate the greatest possible clinical improvement. Non-adherence to treatment can, in&#xD;
+      addition to generating a low effectiveness in the result, have a high economic cost.&#xD;
+&#xD;
+      In this context, rehabilitation therapy using VR proves to be a viable alternative for the&#xD;
+      neurological population, being in some cases more effective than the conventional therapy&#xD;
+      widely used today. VR stands out for being a recommended technological approach to improve&#xD;
+      movement learning, through visual, auditory or tactile feedback, the user is able to work&#xD;
+      both motor and cognitive processes at the same time, through a challenging and motivating&#xD;
+      environment. . Among the advantages of VR are the ability to modify the VE for scenarios of&#xD;
+      real patient situations, and individualize treatment needs. In addition, an external observer&#xD;
+      can activate the activity and record the entire performance of the task proposed to the user,&#xD;
+      thus analyzing their progress. Also in the last decade, VR has been successfully used in the&#xD;
+      scope of telerehabilitation, a modality that has been in constant demand in recent years.&#xD;
+&#xD;
+      Design systems designed in Head-Mounted Display were first conceived in the 1960s in the Utah&#xD;
+      transformation by the then first of Ivan Sutherland's graphic transformation. It is defined&#xD;
+      as a helmet in which, using two lenses, the images are seen by the individual wearing them,&#xD;
+      making it possible to use them for immersive EVs in VR . In the last decades, with the cheap&#xD;
+      technologies, the use of HMDs for VR has several applications for the general public, in&#xD;
+      education, entertainment, and in the medical field. Among the HMD models that are available&#xD;
+      for general public use, we can mention the HTC VIVE (HTC Corporation¸ Taiwan); Valve Index&#xD;
+      (Valve Corporation¸ Washington, USA); and the Meta Quest 2 (Meta Inc.¸California,USA). Thanks&#xD;
+      to the portability and low cost of the sensor, the LMC is suitable for performing exercises&#xD;
+      in a therapeutic and home environment, without extensive supervision. Much of the current&#xD;
+      literature focused on rehabilitation has been using non-immersive VR devices, and reviews in&#xD;
+      the area point to a large gap in studies that use more immersive devices for the treatment of&#xD;
+      such conditions. The use of a more immersive LV for treatment through HMD can be much more&#xD;
+      intuitive to interact with than in environments projected on flat screens and generate better&#xD;
+      results in the rehabilitation of the upper limbs, reducing external distractions, increasing&#xD;
+      the focus of the immersed individual, and generating greater user motivation. Due to the lack&#xD;
+      of studies in the area, the study in question aims to investigate the possible benefits that&#xD;
+      a therapy based on an exposure protocol in different degrees of immersion in VR impacts on&#xD;
+      the functional aspects of the upper limbs of individuals with PD.&#xD;
+&#xD;
+      PD is currently the second most prevalent neurodegenerative disease in the world , and&#xD;
+      despite advances in disease control, upper limb motor disorders seem to show little response&#xD;
+      to pharmacological treatment. In recent years, with the advancement of technology and its&#xD;
+      increasingly easy access to the general population, the use of VR-based neurological&#xD;
+      rehabilitation has been gaining more and more notoriety. The use of VR in rehabilitation has&#xD;
+      already proved to be a viable, safe alternative, with similar or superior results to&#xD;
+      conventional therapies adopted by Physiotherapists and/or Occupational Therapists . Among the&#xD;
+      characteristics of VR in which the literature already proves its use, are the&#xD;
+      individualization of the treatment, the ability to modify it to mimic everyday tasks, the use&#xD;
+      in telerehabilitation and the ability to provide instant feedback to the patient and&#xD;
+      therapist, characteristics essential for greater effectiveness in a rehabilitation protocol.&#xD;
+&#xD;
+      Despite the increasing progress in research, studies with a good methodological quality in&#xD;
+      this area are still lacking. In addition, several reviews on the subject point to the lack of&#xD;
+      studies comparing the different types of immersion in the treatment of neurological&#xD;
+      conditions . In addition, more quality studies are needed to develop guidelines for clinical&#xD;
+      practice using VR, generating more patient safety and an improvement in the cost and&#xD;
+      effectiveness of treatment.&#xD;
+&#xD;
+      The general objective of the study will be to verify the effects of an intervention protocol&#xD;
+      using a non-immersive Virtual Reality device (Leap Motion Controller and Flat Display) and&#xD;
+      Immersive Virtual Reality (Leap Motion Controller and HMD) on the functionality of the upper&#xD;
+      limbs of individuals with Parkinson's disease.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 1, 2021</start_date>
+  <completion_date type="Anticipated">September 14, 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 14, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>TEMPA test</measure>
+    <time_frame>Pre-intervention (baseline).</time_frame>
+    <description>It is an instrument used to assess the degree of disability of the upper limbs. It presents a manual on how to manage it, the necessary measures to make the box and where to place each specific material for the tasks . The materials needed for administering the test are as follows: 100 grams coffee pot, 1000 milliliters water jug, coffee spoon, cup, water glass, medicine pot and 10 placebo capsules, white envelopes, stamp, pencil , card game, coins, small glass jar, small objects, piece of non-slip material and sheets for recording scores.Tasks are evaluated in different ways, first by the speed of execution, and the time must be timed. Then, the functional rating, which refers to the autonomy to perform each task, must be evaluated.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>TEMPA test</measure>
+    <time_frame>Post-intervention (8 weeks of intervention).</time_frame>
+    <description>It is an instrument used to assess the degree of disability of the upper limbs. It presents a manual on how to manage it, the necessary measures to make the box and where to place each specific material for the tasks . The materials needed for administering the test are as follows: 100 grams coffee pot, 1000 milliliters water jug, coffee spoon, cup, water glass, medicine pot and 10 placebo capsules, white envelopes, stamp, pencil , card game, coins, small glass jar, small objects, piece of non-slip material and sheets for recording scores.Tasks are evaluated in different ways, first by the speed of execution, and the time must be timed. Then, the functional rating, which refers to the autonomy to perform each task, must be evaluated.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>TEMPA test</measure>
+    <time_frame>Follow-up (After 2 months of completion of the intervention).</time_frame>
+    <description>It is an instrument used to assess the degree of disability of the upper limbs. It presents a manual on how to manage it, the necessary measures to make the box and where to place each specific material for the tasks . The materials needed for administering the test are as follows: 100 grams coffee pot, 1000 milliliters water jug, coffee spoon, cup, water glass, medicine pot and 10 placebo capsules, white envelopes, stamp, pencil , card game, coins, small glass jar, small objects, piece of non-slip material and sheets for recording scores.Tasks are evaluated in different ways, first by the speed of execution, and the time must be timed. Then, the functional rating, which refers to the autonomy to perform each task, must be evaluated.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>MDS-UPDRS</measure>
+    <time_frame>Pre-intervention and post-intervention (8 weeks of intervention). And after 8 weeks (Follow-up).</time_frame>
+    <description>The MDS UPDRS scale comprises four parts: Part I, the impact of non-motor aspects of daily life; part ll, motor aspects of daily life, part III, motor assessment; part IV, motor complications. However, only part II motor aspects of daily life will be applied, which is designed to be a self-completion questionnaire, but can be reviewed by the researcher to ensure its clear and complete completion. And part III motor assessment, which has instructions for the evaluator to provide or demonstrate to the patient and is completed by the evaluator. A higher score corresponds to a worse match</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Simulator Sickness Questionnaire</measure>
+    <time_frame>After each intervention session (16 sessions for 8 weeks in total)</time_frame>
+    <description>To quantify the possible undesirable effects that may occur due to exposure in virtual reality, we will use the &quot;Simulator Sickness Questionnaire&quot;. The questionnaire consists of 16 items (symptoms) in 3 subscales (Oculumotor, Disorientation and Nausea) with each item graded from 0 to 3 points according to the intensity of the symptoms; 0 absent, 1 mild, 2 moderate, 3 severe. Each subscale has a specific weight which must be multiplied by the value of the score assigned to each of them. The total severity score is obtained by adding the values obtained in each subscale (value prior to the final score obtained by the conversion formulas) and the application of a specific formula that will indicate the final result of the scale. The higher the result obtained, the greater the severity of symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Box and Block Test</measure>
+    <time_frame>Pre-intervention and post-intervention (8 weeks of intervention). And after 8 weeks (Follow-up).</time_frame>
+    <description>For the application of the manual dexterity test, a wooden box measuring 53.7 cm is required, with a wooden partition that is higher than the edges of the box, separating it into two compartments of equal dimensions. The blocks are also made of wood and in the form of colored cubes (primary colors) measuring 2.5 cm on each side, totaling 150 units, divided equally by color. When starting the test, always with the dominant hand. The examinee will have 15 seconds of training. Then the transported blocks must return to the original compartment. The applicator must use a stopwatch to be able to interrupt the tasks after 1 minute. Repeat the test with the non-dominant hand. The test result is expressed by a score that indicates the number of blocks transported from one compartment to another per minute (blocks/minute)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Nine Hole Peg Test</measure>
+    <time_frame>Pre-intervention and post-intervention (8 weeks of intervention). And after 8 weeks (Follow-up).</time_frame>
+    <description>The test that evaluates manual dexterity consists of nine pins and a plate with nine holes, in which the individual is instructed to take one pin at a time and insert them into the holes contained in the plate and then, later, remove the pins and return them to the place of origin. The execution time is timed by the researcher</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Montreal Cognitive Assessement</measure>
+    <time_frame>Pre-intervention and post-intervention (8 weeks of intervention). And after 8 weeks (Follow-up).</time_frame>
+    <description>The MoCA measures eight cognitive domains, which are scored within a range of 0 to 30 points (higher scores indicating better function): short-term memory (delayed recall, 5 points); visuospatial skills (cube drawing, 1 point, clock drawing, 3 points); executive function (track test, 1 point; phonemic verbal fluency, 1 point; verbal abstraction, 2 points); attention, concentration, and working memory (cancellation, 1 point; subtraction, 3 points; digit span, 2 points); language (naming, 3 points; phrase repetition, 2 points); and orientation in time (3 points) and space (3 points)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>System Usability Scale</measure>
+    <time_frame>After all 8 weeks of intervention are completed.</time_frame>
+    <description>The System Usability Scale (SUS) is a questionnaire consisting of a self-reported 10-item scale, which is scored from 0 (strongly disagree) to 4 (strongly agree), which takes into account 3 usability criteria: effectiveness, efficiency and satisfaction. The total score is obtained by multiplying the total value by 2.5. For items 1,3,5,7 and 9, the score contribution is the scale position minus 1. For items 2,4,6,8 and 10, the contribution is 5 minus the scale position. The score ranges from 0 to 100, with a higher value indicating better usability of the system. A score from 60 to 100 represents acceptable system usability.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Parkinson Disease</condition>
+  <arm_group>
+    <arm_group_label>Leap Motion Controller on Flat display - Non-Immersive Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Leap Motion Controller on Head-Mounted Display - Immersive Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Leap Motion Controller on flat display</intervention_name>
+    <description>The LMC is a device with a Universal Serial Bus (USB) device capable of detecting the movement of hands and fingers. It is small in size and you need to connect the USB device to the computer and place your hands above the LMC. First, training will be carried out with the Leap Motion Controller instrument for 5 minutes, for a presentation and interaction with it, in the initial meeting. From the second meeting, the service protocol will be 16 sessions, this time being distributed as: first game lasting 7 minutes, second and third games lasting 6 minutes each and the last game lasting 8 minutes, totaling 27 minutes of intervention. Between games, about 2 minutes of rest was adopted. They were chosen through the website www.leapmotion.com¸ in order to relate them to the functional movements of the upper limbs in daily life tasks.</description>
+    <arm_group_label>Leap Motion Controller on Flat display - Non-Immersive Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Leap Motion Controller in Head-Mounted Display</intervention_name>
+    <description>For the immersive group, the same equipment mentioned above Leap Motion Controller will be projected on the Head-Mounted Display model Oculus Quest 2 (Meta Platforms Inc.). The device has binocular displays with Fresnel lenses with a resolution of 1832 by 1920 pixels per eye. It is equipped with a Qualcomm Snapdragon XR2 processor with the refresh rate of 72hz - 120hz and 6GB of RAM. The equipment has a 90º field of view and approximately 500 grams of total weight. The treatment protocol and patient positioning will be the same as previously mentioned, except for the type of projection used. At the 2-minute rest interval between games, the HMD will be removed from the user to change the game in question, returning at the end of this period.</description>
+    <arm_group_label>Leap Motion Controller on Head-Mounted Display - Immersive Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Are diagnosed with Parkinson's disease;&#xD;
+&#xD;
+          -  That they are classified between I III on the Hoehn &amp; Yahr motor staging scale;&#xD;
+&#xD;
+          -  Men who score greater than 21.1 seconds for the dominant limb and 22.3 seconds for the&#xD;
+             non-dominant limb for the nine-hole peg test.&#xD;
+&#xD;
+          -  Women who scored greater than 19.9 seconds for the dominant limb and 21.4 seconds for&#xD;
+             the non-dominant limb for the nine-hole peg test.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Have a brain pacemaker implant;&#xD;
+&#xD;
+          -  Have recent injuries or limitations that make it impossible for the upper limbs to&#xD;
+             function;&#xD;
+&#xD;
+          -  Do not perform/abstain from two visits out of the 16 proposed in the intervention&#xD;
+             protocol regardless of the group that will be allocated.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Universidade Federal de Ciências da Saúde de Porto Alegre</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>RS</state>
+        <zip>90050-170</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fernanda CECHETTI</last_name>
+      <phone>982307733</phone>
+      <email>fernandacec@ufcspa.edu.br</email>
+    </contact>
+    <investigator>
+      <last_name>FERNANDA CECHETTI</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>ARTHUR BOTH LAHUDE</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>July 26, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 7, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>January 7, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 7, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 18, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Federal University of Health Science of Porto Alegre</investigator_affiliation>
+    <investigator_full_name>Fernanda Cechetti</investigator_full_name>
+    <investigator_title>Clinical Professor</investigator_title>
+  </responsible_party>
+  <keyword>Virtual Reality</keyword>
+  <keyword>Parkinson Disease</keyword>
+  <keyword>Upper Limb</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Parkinson Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

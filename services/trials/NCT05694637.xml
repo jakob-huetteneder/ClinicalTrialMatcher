@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9600">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05694637</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HP-00102995</org_study_id>
+    <nct_id>NCT05694637</nct_id>
+  </id_info>
+  <brief_title>Botswana Smoking and Abstinence Reinforcement Trial</brief_title>
+  <acronym>BSMART</acronym>
+  <official_title>Botswana Smoking and Abstinence Reinforcement Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Maryland, Baltimore</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Kentucky</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Maryland, Baltimore County</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Maryland, College Park</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Maryland, Baltimore</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Many people living with HIV in southern Africa, specifically Botswana use tobacco products.&#xD;
+      Using tobacco makes some of the effects of HIV worse and even causes excess deaths. The&#xD;
+      investigators plan to use an intervention called Screening, Brief Intervention and Referral&#xD;
+      to Treatment (SBIRT) to help people to quit smoking and also a drug called varenicline. Apart&#xD;
+      from helping people to stop smoking, the investigators will also test to see how task&#xD;
+      shifting can be used to help people stop smoking in a sustainable way. Finally, the&#xD;
+      investigators will estimate the cost of the intervention.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators will utilize a stepped wedge cluster randomized trial to implement BSMART.&#xD;
+      BSMART will be sequentially rolled out to 15 participating HIV treatment and care facilities&#xD;
+      assigned in three steps. Each step will provide data for a 12- month&#xD;
+      control/pre-implementation, a 12-month implementation, and a 12-month maintenance period. The&#xD;
+      investigators will stratify Botswana's HIV treatment and care facilities into three levels of&#xD;
+      facilities. The investigative team will randomly assign each of the three levels of&#xD;
+      facilities to one of three study steps. Each step will comprise (i.e. have representation)&#xD;
+      from 3 levels of facilities, giving each level of facilities the same probability of&#xD;
+      beginning the intervention at any step).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 1, 2023</start_date>
+  <completion_date type="Anticipated">August 31, 2027</completion_date>
+  <primary_completion_date type="Anticipated">February 1, 2027</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>This is a stepped wedge cluster randomization trial</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Smoking Abstinence</measure>
+    <time_frame>Week 24</time_frame>
+    <description>Abstinence will be based on self-reported 7-day point prevalence abstinence confirmed by expired CO&lt;6 ppm. Abstinence criteria must be met in study month 6 or at an earlier study week and maintained through study month 6 to be considered a responder. We will use CO Check+ (MD Spiro), a single-breath point-of-care tool designed specifically for use in smoking cessation programs and clinics</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adherence to medication</measure>
+    <time_frame>Weeks 0, 1, 2, 4, 8, and 12</time_frame>
+    <description>For those who agree to be treated with Varenicline, pill and counseling adherence were assessed at Weeks 0, 1, 2, 4, 8, and 12. Pill adherence will be tracked by the following question at each medication visit: How many days in the last week did you take at least one of your study pills 39. Pill adherence will be defined by participant self-report of taking 6 or 7 pills at week 8 which coincided with their last receipt of Varenicline.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">750</enrollment>
+  <condition>Smoking Cessation</condition>
+  <condition>Hiv</condition>
+  <arm_group>
+    <arm_group_label>SBIRT</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Trained LHWs will oversee the screening and brief intervention procedures (i.e., the 5As). A culturally acceptable standardized form will be integrated into intake procedures within the HIV that will allow for the documentation and results of using the 5As. The first &quot;A&quot; will be the screening question where the LHW will &quot;Ask&quot; study participants about smoking. When a participant reports being a smoker, the LHW will proceed to the next 3 &quot;A&quot;s (Advise, Assess, Assist). These 3As will constitute the brief intervention. The LHW will utilize motivational enhancing discussion between the study participant with a focus on increasing insight and awareness regarding smoking and motivation toward behavioral change. For those participants who are motivated for treatment, a referral will be made to a clinic nurse practitioner for evaluation for treatment with varenicline.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of Care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Trained LHWs will provide a brief motivation counseling and a brochure about smoking cessation.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Screening, Brief Intervention and Referral to Treatment (SBIRT) intervention consisting of the 5As, (Ask, Advise, Assess, Assist, Arrange)</intervention_name>
+    <description>Trained LHWs will oversee the screening and brief intervention procedures (i.e., the 5As). A culturally acceptable standardized form will be integrated into intake procedures within the HIV that will allow for the documentation and results of using the 5As. The first &quot;A&quot; will be the screening question where the LHW will &quot;Ask&quot; study participants about smoking. When a participant reports being a smoker, the LHW will proceed to the next 3 &quot;A&quot;s (Advise, Assess, Assist). These 3As will constitute the brief intervention. The LHW will utilize motivational enhancing discussion between the study participant with a focus on increasing insight and awareness regarding smoking and motivation toward behavioral change. For those participants who are motivated for treatment, a referral will be made to a clinic nurse practitioner for evaluation for treatment with varenicline.</description>
+    <arm_group_label>SBIRT</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Varenicline</intervention_name>
+    <description>Referral to treatment with varenicline will be provided to those identified as needing more than a brief intervention. Participants will initiate medication treatment with varenicline for smoking cessation with a quit date scheduled for day 8 following first study dose of the medication. Participants will meet with the study clinician at baseline who will provide medical clearance and sign off on prescription orders. All medication will be provided to participants by the study team. Participants will receive a weekly supply of medication for the first four weeks to ensure proper dosing and monitor for adverse events. For the subsequent 8 weeks, participants will return every 4 weeks to receive the next month's supply of medication. Dosage adjustments will be permitted in an effort to control adverse effects throughout the trial. This will allow us to balance internal validity with good clinical practice. Varenicline will be dosed in accordance with package labeling.</description>
+    <arm_group_label>SBIRT</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  HIV infected&#xD;
+&#xD;
+          -  Self reported current daily smoker&#xD;
+&#xD;
+          -  Age 18 and older&#xD;
+&#xD;
+          -  Engaged in HIV care as defined by being on ART for at least 6 months&#xD;
+&#xD;
+          -  Willing/able to provide informed consent in English or Setswana&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Less than 18 years of age&#xD;
+&#xD;
+          -  Pregnant&#xD;
+&#xD;
+          -  Unable or cognitively impaired to provide consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>December 7, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 23, 2023</study_first_posted>
+  <last_update_submitted>May 22, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 22, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 24, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Maryland, Baltimore</investigator_affiliation>
+    <investigator_full_name>Man Charurat</investigator_full_name>
+    <investigator_title>Director, Division of Epidemiology and Prevention</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Varenicline</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

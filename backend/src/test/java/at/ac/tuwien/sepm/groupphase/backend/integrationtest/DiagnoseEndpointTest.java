@@ -25,6 +25,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.mock.web.MockHttpServletResponse;
 import org.springframework.test.context.ActiveProfiles;
+import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.MvcResult;
 
@@ -38,6 +39,7 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
+@ContextConfiguration()
 @ActiveProfiles({"test", "generateDiagnosis", "generateDiseases", "generatePatients", "generateUsers"})
 @AutoConfigureMockMvc
 public class DiagnoseEndpointTest {
@@ -149,7 +151,7 @@ public class DiagnoseEndpointTest {
     }
 
     @Test
-    public void updateSpecificDiagnoseAsDoctor() throws Exception {
+    public void testUpdateSpecificDiagnoseAsDoctor() throws Exception {
         Patient patient = patientDataGenerator.generatePatient();
         ApplicationUser doctor = userDataGenerator.generateUser(Role.DOCTOR);
         Diagnose diagnose = diagnosisDataGenerator.generateDiagnose();
@@ -182,7 +184,7 @@ public class DiagnoseEndpointTest {
     }
 
     @Test
-    public void updateSpecificDiagnoseAsUser() throws Exception {
+    public void testUpdateSpecificDiagnoseAsUser() throws Exception {
         Patient patient = patientDataGenerator.generatePatient();
         ApplicationUser user = userDataGenerator.generateUser(Role.PATIENT);
         user = userRepository.save(user);

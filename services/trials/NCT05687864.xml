@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9901">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05687864</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DJTCSCYHT-I-04</org_study_id>
+    <nct_id>NCT05687864</nct_id>
+  </id_info>
+  <brief_title>Study of Polyglycan Superparamagnetic Ferric Oxide Injection on Cardiovascular Magnetic Resonance Imaging</brief_title>
+  <official_title>Single-center, Multiple-strength, Single-dose Phase I Clinical Trial to Evaluate the Effect of Polyglycan Superparamagnetic Ferric Oxide Injection on Cardiovascular Magnetic Resonance Imaging in Patients With Chronic Kidney Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chia Tai Tianqing Pharmaceutical Group Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Chia Tai Tianqing Pharmaceutical Group Co., Ltd.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Polysaccharide super paramagnetic ferric oxide injection is an iron supplement developed for&#xD;
+      patients with iron deficiency anemia. Due to its characteristics, it has the potential to be&#xD;
+      a contrast agent. The DJTCSCYHT-I-04 study is a single-center, multiple-strength and&#xD;
+      single-dose phase I clinical study on cardiovascular MRI in patients with chronic kidney&#xD;
+      disease, aiming to investigate the effects and safety of multi-strength, single-dose at&#xD;
+      different time points, and to provide reference for clinical diagnosis and MRI enhancement.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2023</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Signal-to-Noise Ratio (SNR)</measure>
+    <time_frame>Before administration, 5minutes, 24 hours, 48 hours after administration</time_frame>
+    <description>On the basis of vascular segments, the signal-to-noise ratio at different doses and time points was calculated by magnetic resonance imaging.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Contrast to noise ratio (CNR)</measure>
+    <time_frame>Before administration, 5minutes, 24 hours, 48 hours after administration</time_frame>
+    <description>On the basis of vascular segments, the Contrast to noise ratio at different doses and time points was calculated by magnetic resonance imaging.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Image quality score before administration</measure>
+    <time_frame>Before administration</time_frame>
+    <description>On the basis of vascular segments, the image quality of different doses at different time points was evaluated by magnetic resonance imaging. 4 points: the blood vessel edge is clear and sharp, without image artifacts, which can support the judgment of high confidence; 3 points: The overall portrayal effect of blood vessels was satisfactory, the anatomical structure of blood vessels was clear enough to meet the requirements of disease diagnosis, and there were mild image artifacts; 2 points: Blood vessels were visible, but only the local structure size or blood vessel patency could be judged, with moderate image artifacts;&#xD;
+1 point: poor image quality, serious image artifacts, unable to distinguish blood vessels and other tissues, unable to evaluate.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Image quality score at 5 minutes</measure>
+    <time_frame>5 minutes after administration</time_frame>
+    <description>On the basis of vascular segments, the image quality of different doses at different time points was evaluated by magnetic resonance imaging. 4 points: the blood vessel edge is clear and sharp, without image artifacts, which can support the judgment of high confidence; 3 points: The overall portrayal effect of blood vessels was satisfactory, the anatomical structure of blood vessels was clear enough to meet the requirements of disease diagnosis, and there were mild image artifacts; 2 points: Blood vessels were visible, but only the local structure size or blood vessel patency could be judged, with moderate image artifacts;&#xD;
+1 point: poor image quality, serious image artifacts, unable to distinguish blood vessels and other tissues, unable to evaluate.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Image quality score at 24 hours</measure>
+    <time_frame>24 hours after administration</time_frame>
+    <description>On the basis of vascular segments, the image quality of different doses at different time points was evaluated by magnetic resonance imaging. 4 points: the blood vessel edge is clear and sharp, without image artifacts, which can support the judgment of high confidence; 3 points: The overall portrayal effect of blood vessels was satisfactory, the anatomical structure of blood vessels was clear enough to meet the requirements of disease diagnosis, and there were mild image artifacts; 2 points: Blood vessels were visible, but only the local structure size or blood vessel patency could be judged, with moderate image artifacts;&#xD;
+1 point: poor image quality, serious image artifacts, unable to distinguish blood vessels and other tissues, unable to evaluate.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Image quality score at 48 hours</measure>
+    <time_frame>48 hours after administration</time_frame>
+    <description>On the basis of vascular segments, the image quality of different doses at different time points was evaluated by magnetic resonance imaging. 4 points: the blood vessel edge is clear and sharp, without image artifacts, which can support the judgment of high confidence; 3 points: The overall portrayal effect of blood vessels was satisfactory, the anatomical structure of blood vessels was clear enough to meet the requirements of disease diagnosis, and there were mild image artifacts; 2 points: Blood vessels were visible, but only the local structure size or blood vessel patency could be judged, with moderate image artifacts;&#xD;
+1 point: poor image quality, serious image artifacts, unable to distinguish blood vessels and other tissues, unable to evaluate.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>T2* value of Liver</measure>
+    <time_frame>Before administration, and day 28, day 60, day 90 after administration</time_frame>
+    <description>T2* signals in the liver were quantitatively detected by magnetic resonance scanning</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>R2 value of Liver</measure>
+    <time_frame>Before administration, and day 28, day 60, day 90 after administration</time_frame>
+    <description>R2 signals in the liver were quantitatively detected by magnetic resonance scanning</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Magnetic sensitivity of brain tissue</measure>
+    <time_frame>Before administration, and day 28, day 60, day 90 after administration</time_frame>
+    <description>Magnetic resonance scanning was used to quantitatively detect magnetic sensitivity of brain tissue</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>From the enrollment of the subjects to 90 days after administration</time_frame>
+    <description>The incidence of adverse events as assessed by Common Terminology Criteria for Adverse Events (CTCAE v5.0)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of severe adverse events</measure>
+    <time_frame>From the enrollment of the subjects to 90 days after administration</time_frame>
+    <description>The incidence of severe adverse events as assessed by Common Terminology Criteria for Adverse Events (CTCAE v5.0)</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Magnetic Resonance Imaging</condition>
+  <condition>Chronic Kidney Diseases</condition>
+  <arm_group>
+    <arm_group_label>Polysaccharide superparamagnetic ferric oxide injection</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive one single dose of 1mg/kg or 2mg/kg or 3mg/kg or 4mg/kg or 5mg/kg of Polysaccharide superparamagnetic ferric oxide injection on Day 1.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Polysaccharide superparamagnetic ferric oxide injection</intervention_name>
+    <description>The polysaccharide superparamagnetic ferric oxide injection is a clinical diagnostic reagent</description>
+    <arm_group_label>Polysaccharide superparamagnetic ferric oxide injection</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  The subjects voluntarily joined the study, signed the informed consent, and the&#xD;
+             compliance was good.;&#xD;
+&#xD;
+          -  Age: ≥18 years old (at the time of signing the informed consent), gender is not&#xD;
+             limited;&#xD;
+&#xD;
+          -  Patients diagnosed with Chronic Kidney Disease (CKD, 2012 KDIGO Guidelines);&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) score 0~1; Expected survival ≥3 months;&#xD;
+&#xD;
+          -  Serum ferritin ≤ 1000μg/L and transferrin saturation ≤ 50%;&#xD;
+&#xD;
+          -  The major organs function are good and meet the following criteria:&#xD;
+&#xD;
+               1. blood routine examination:&#xD;
+&#xD;
+                    1. Hemoglobin ≥ 90g/L&#xD;
+&#xD;
+                    2. Neutrophil count (NEUT) ≥1.5×109/L;&#xD;
+&#xD;
+                    3. Platelet count (PLT) ≥ 75×109/L;&#xD;
+&#xD;
+               2. Biochemical examination should meet the following standards:&#xD;
+&#xD;
+                    1. Total bilirubin (TBIL) ≤ 1.5 times the upper limit of normal (ULN);&#xD;
+&#xD;
+                    2. Alanine transferase (ALT), aspartate transferase (AST) and gamma&#xD;
+                       glutamyltransferase (gamma-GGT) ≤ 3ULN;&#xD;
+&#xD;
+               3. Left ventricular ejection fraction (LVEF) ≥50%.&#xD;
+&#xD;
+          -  Women of reproductive age should agree to use effective birth control during the study&#xD;
+             period and for 6 months after the study, and have a negative serum-pregnancy test&#xD;
+             within 7 days prior to study enrollment; Men should agree that effective birth control&#xD;
+             must be used during the study period and for six months after the end of the study&#xD;
+             period.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Had or currently have malignant tumors within 3 years. The following three conditions&#xD;
+             were eligible for inclusion:&#xD;
+&#xD;
+               1. patients with other malignancies treated with a single operation achieved&#xD;
+                  continuous 5-year disease-free survival (DFS);&#xD;
+&#xD;
+               2. Cured cervical carcinoma in situ, non-melanoma skin cancer, and superficial&#xD;
+                  bladder tumors [Ta (non-invasive tumor), Tis (carcinoma in situ), and T1 (tumor&#xD;
+                  infiltrating basal membrane)];&#xD;
+&#xD;
+               3. The disease was stable as assessed by the investigators, and the concomitant&#xD;
+                  drugs did not affect medication during the trial and follow-up period.&#xD;
+&#xD;
+          -  Subjects with any severe and/or uncontrolled medical conditions, including:&#xD;
+&#xD;
+               1. Poorly controlled hypertension (systolic blood pressure ≥150mmHg or diastolic&#xD;
+                  blood pressure ≥100 mmHg) or poorly controlled hypotension (systolic blood&#xD;
+                  pressure &lt;90mmHg or diastolic blood pressure &lt;60 mmHg);&#xD;
+&#xD;
+               2. Have ≥ grade 2 myocardial ischemia or myocardial infarction and/or severe or&#xD;
+                  malignant arrhythmias [including QTc ≥450ms in men, QTc ≥470ms in women] and/or ≥&#xD;
+                  grade 2 congestive heart failure [New York Heart Association (NYHA)];&#xD;
+&#xD;
+               3. Active infection (≥NCI, CTC AE 5.0, Grade 2);&#xD;
+&#xD;
+               4. Viral hepatitis, syphilis, HIV and other infectious diseases;&#xD;
+&#xD;
+               5. A history of immunodeficiency, including acquired or congenital immunodeficiency&#xD;
+                  diseases, or a history of organ transplantation;&#xD;
+&#xD;
+               6. People who have epilepsy and require treatment.&#xD;
+&#xD;
+          -  Research and treatment related:&#xD;
+&#xD;
+               1. Patients with iron deficiency anemia;&#xD;
+&#xD;
+               2. Subjects who are allergic to intravenous iron preparations, the investigational&#xD;
+                  drug or any of its components, or two or more types of drugs;&#xD;
+&#xD;
+               3. Subjects who plan to undergo magnetic resonance imaging during the study period&#xD;
+                  and during follow-up.&#xD;
+&#xD;
+          -  Participants who have participated in other clinical trials of drugs or medical device&#xD;
+             within 28 days before the start of the study treatment;&#xD;
+&#xD;
+          -  Those who have a history of psychotropic drug abuse and cannot abstain or have mental&#xD;
+             disorders;&#xD;
+&#xD;
+          -  Pregnant or lactating women;&#xD;
+&#xD;
+          -  Patients with non-magnetic compatible metal foreign bodies (false teeth, contraceptive&#xD;
+             rings, metal implants, metal clips, etc.) and claustrophobia; Patients with difficulty&#xD;
+             or inability to tolerate MRI scanning;&#xD;
+&#xD;
+          -  Subjects with concomitant diseases that, in the investigator's judgment, seriously&#xD;
+             endanger subjects' safety or interfere with the completion of the study, or who are&#xD;
+             deemed unsuitable for enrollment for other reasons.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Beijing Chaoyang Hospital, Capital Medical University</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100020</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Qi Yang, Doctor</last_name>
+      <phone>+86 028-85423837</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>January 5, 2023</study_first_submitted>
+  <study_first_submitted_qc>January 16, 2023</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2023</study_first_posted>
+  <last_update_submitted>January 16, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 16, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 18, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Kidney Diseases</mesh_term>
+    <mesh_term>Renal Insufficiency, Chronic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -27,15 +27,32 @@ import {DiseaseAutocompleteComponent} from './components/disease-autocomplete/di
 import {PatientDetailComponent} from './components/patient/patient-detail/patient-detail.component';
 import {
   CreateEditExaminationComponent
-} from './components/patient/patient-detail/create-edit-examination/create-edit-examination.component';
-import {CreateEditDiagnoseComponent} from './components/patient/patient-detail/create-edit-diagnose/create-edit-diagnose.component';
+} from './components/patient/patient-edit/create-edit-examination/create-edit-examination.component';
+import {
+  CreateEditDiagnoseComponent
+} from './components/patient/patient-edit/create-edit-diagnose/create-edit-diagnose.component';
 import {MatDialogModule} from '@angular/material/dialog';
 import {ConfirmDialogComponent} from './components/confirm-button/confirm-dialog/confirm-dialog.component';
-import { ConfirmButtonComponent } from './components/confirm-button/confirm-button.component';
+import {ConfirmButtonComponent} from './components/confirm-button/confirm-button.component';
 import {MatButtonModule} from '@angular/material/button';
-import {RequestPatientComponent} from './components/doctor-patient-connection/request-patient/request-patient.component';
+import {
+  RequestPatientComponent
+} from './components/doctor-patient-connection/request-patient/request-patient.component';
 import {ViewRequestsComponent} from './components/doctor-patient-connection/view-requests/view-requests.component';
-import {ViewConnectionsComponent} from './components/doctor-patient-connection/view-connections/view-connections.component';
+import {
+  ViewConnectionsComponent
+} from './components/doctor-patient-connection/view-connections/view-connections.component';
+import {
+  AcceptRegistrationProposalComponent
+} from './components/trial-registration/accept-registration-proposal/accept-registration-proposal.component';
+import {TrialDetailComponent} from './components/trial/trial-detail/trial-detail.component';
+import {StatisticsComponent} from './components/trial/statistics/statistics.component';
+import {MatchingPatientComponent} from './components/trial-registration/matching-patient/matching-patient.component';
+import {TrialListItemComponent} from './components/trial/trial-list-item/trial-list-item.component';
+import {
+  AcceptRegistrationRequestsComponent
+} from './components/trial-registration/accept-registration-requests/accept-registration-requests.component';
+import { PatientEditComponent } from './components/patient/patient-edit/patient-edit.component';
 
 @NgModule({
   declarations: [
@@ -62,7 +79,14 @@ import {ViewConnectionsComponent} from './components/doctor-patient-connection/v
     ConfirmButtonComponent,
     RequestPatientComponent,
     ViewRequestsComponent,
-    ViewConnectionsComponent
+    ViewConnectionsComponent,
+    MatchingPatientComponent,
+    TrialListItemComponent,
+    StatisticsComponent,
+    AcceptRegistrationProposalComponent,
+    TrialDetailComponent,
+    AcceptRegistrationRequestsComponent,
+    PatientEditComponent
   ],
   imports: [
     BrowserModule,
