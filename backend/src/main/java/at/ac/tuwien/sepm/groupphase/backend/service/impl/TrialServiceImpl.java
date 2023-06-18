@@ -6,6 +6,7 @@ import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.TrialMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Researcher;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Trial;
+import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
 import at.ac.tuwien.sepm.groupphase.backend.exception.NotFoundException;
 import at.ac.tuwien.sepm.groupphase.backend.repository.TrialRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
@@ -26,7 +27,7 @@ import java.util.Optional;
 @Service
 public class TrialServiceImpl implements TrialService {
 
-    public static final int SEARCH_RESULT_PER_PAGE = 10;
+    public static final int SEARCH_RESULT_PER_PAGE = 500;
     private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
 
     private final TrialRepository trialRepository;
@@ -110,10 +111,11 @@ public class TrialServiceImpl implements TrialService {
     @Transactional()
     public List<TrialDto> searchWithFilter(String keyword, FilterDto filterDto, int pageNum) {
         Pageable pageable = PageRequest.of(pageNum - 1, SEARCH_RESULT_PER_PAGE);
-        String gender = filterDto.gender() != null ? String.valueOf(filterDto.gender().ordinal()) : null;
-        Integer status = filterDto.recruiting() == null ? null : filterDto.recruiting().ordinal();
+        Gender gender = filterDto.gender();
+        Trial.Status status = filterDto.recruiting();
 
-        List<Trial> trials = trialRepository.search(pageable).getContent();
+        List<Trial> trials = trialRepository.search(keyword.toLowerCase(), gender, status,
+            filterDto.minAge(), filterDto.maxAge(), filterDto.startDate(), filterDto.endDate(), pageable).getContent();
         List<TrialDto> trialList = trialMapper.trialToTrialDto(trials);
         return trialList;
     }

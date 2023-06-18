@@ -20,8 +20,6 @@ import at.ac.tuwien.sepm.groupphase.backend.service.ExaminationService;
 import at.ac.tuwien.sepm.groupphase.backend.service.PatientService;
 import at.ac.tuwien.sepm.groupphase.backend.service.TreatsService;
 import jakarta.transaction.Transactional;
-import org.apache.lucene.search.join.ScoreMode;
-import org.elasticsearch.common.unit.Fuzziness;
 import org.elasticsearch.index.query.BoolQueryBuilder;
 import org.elasticsearch.index.query.Operator;
 import org.elasticsearch.index.query.QueryBuilders;
@@ -33,7 +31,6 @@ import org.springframework.data.elasticsearch.client.erhlc.NativeSearchQuery;
 import org.springframework.data.elasticsearch.client.erhlc.NativeSearchQueryBuilder;
 import org.springframework.data.elasticsearch.core.ElasticsearchOperations;
 import org.springframework.data.elasticsearch.core.SearchHit;
-import org.springframework.data.elasticsearch.core.SearchHits;
 import org.springframework.data.elasticsearch.core.mapping.IndexCoordinates;
 import org.springframework.data.elasticsearch.core.query.StringQuery;
 import org.springframework.stereotype.Service;
@@ -80,7 +77,7 @@ public class PatientServiceImpl implements PatientService {
 
         BoolQueryBuilder boolQuery = QueryBuilders.boolQuery();
 
-        String minShouldMatch = String.valueOf((100 / (2 * inclusion.size())));
+        String minShouldMatch = inclusion.size() == 0 ? "0" : String.valueOf((100 / (2 * inclusion.size())));
 
         boolQuery.minimumShouldMatch(minShouldMatch + "%");
 
@@ -160,7 +157,7 @@ public class PatientServiceImpl implements PatientService {
 
         // Execute the query and retrieve the search results
         StringQuery stringQuery = new StringQuery(searchQuery.getQuery().toString());
-        stringQuery.setMinScore(5.f);
+        stringQuery.setMinScore(1.f);
         stringQuery.setMaxResults(100);
 
         List<Patient> results = elasticsearchOperations

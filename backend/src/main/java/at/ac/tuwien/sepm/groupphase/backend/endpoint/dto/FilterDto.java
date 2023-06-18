@@ -1,14 +1,14 @@
 package at.ac.tuwien.sepm.groupphase.backend.endpoint.dto;
 
+import at.ac.tuwien.sepm.groupphase.backend.entity.Trial;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
-import at.ac.tuwien.sepm.groupphase.backend.entity.enums.TrialStatus;
 import jakarta.validation.constraints.Min;
 
 import java.time.LocalDate;
 
 public record FilterDto(
     Gender gender,
-    TrialStatus recruiting,
+    Trial.Status recruiting,
     LocalDate startDate,
     LocalDate endDate,
     @Min(value = 0, message = "Minimum age must be greater than 0")

@@ -44,7 +44,7 @@ export class HomeComponent implements OnInit {
   }
 
   ngOnInit() {
-    this.loadTrials();
+    this.searchWithFilter();
   }
 
   public dynamicCssClassesForInput(input: NgModel): any {
