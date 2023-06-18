@@ -38,6 +38,7 @@
             <app-confirm-button (confirm)="registerPatient(patient)"
                                 details="The registration is not final and will be reviewed."
                                 prompt="Would you like to register this patient?"
+                                [hidden]="isRegistered(patient)"
             >
               <button class="btn btn-primary mt-2">Register</button>
             </app-confirm-button>

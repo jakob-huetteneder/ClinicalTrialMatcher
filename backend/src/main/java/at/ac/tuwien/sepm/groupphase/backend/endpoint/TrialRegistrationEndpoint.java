@@ -30,7 +30,7 @@ public class TrialRegistrationEndpoint {
         this.trialRegistrationService = trialRegistrationService;
     }
 
-    @Secured("ROLE_RESEARCHER")
+    @Secured({"ROLE_RESEARCHER", "ROLE_DOCTOR"})
     @GetMapping(value = "/{trialId}")
     public List<TrialRegistrationDto> getAllRegistrationsForTrial(@PathVariable("trialId") Long trialId) {
         LOG.info("Getting all registrations for trial with id {}", trialId);

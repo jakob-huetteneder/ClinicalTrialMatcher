@@ -95,6 +95,7 @@ public class TrialRegistrationServiceImpl implements TrialRegistrationService {
         } else {
             registration.setStatus(Registration.Status.PROPOSED);
         }
+        registration.setDate(LocalDate.now());
         registration = trialRegistrationRepository.save(registration);
 
         return trialRegistrationMapper.trialRegistrationToTrialRegistrationDto(registration);

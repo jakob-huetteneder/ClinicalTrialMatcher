@@ -9,6 +9,7 @@ import at.ac.tuwien.sepm.groupphase.backend.repository.TreatsRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.TrialRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
 import jakarta.transaction.Transactional;
+import org.springframework.data.elasticsearch.core.ElasticsearchOperations;
 import org.springframework.stereotype.Component;
 
 /**
@@ -26,11 +27,13 @@ public class DatabaseUtil {
     private final PatientRepository patientRepository;
     private final TrialRepository trialRepository;
     private final UserRepository userRepository;
+    private final ElasticsearchOperations elasticsearchOperations;
 
     public DatabaseUtil(DiagnosesRepository diagnosesRepository, DiseaseRepository diseaseRepository,
                         ExaminationRepository examinationRepository, MedicalImageRepository medicalImageRepository,
                         TreatsRepository treatsRepository, PatientRepository patientRepository,
-                        TrialRepository trialRepository, UserRepository userRepository) {
+                        TrialRepository trialRepository, UserRepository userRepository,
+                        ElasticsearchOperations elasticsearchOperations) {
         this.diagnosesRepository = diagnosesRepository;
         this.diseaseRepository = diseaseRepository;
         this.examinationRepository = examinationRepository;
@@ -39,6 +42,7 @@ public class DatabaseUtil {
         this.patientRepository = patientRepository;
         this.trialRepository = trialRepository;
         this.userRepository = userRepository;
+        this.elasticsearchOperations = elasticsearchOperations;
     }
 
     /**
@@ -54,5 +58,6 @@ public class DatabaseUtil {
         patientRepository.deleteAll(); // Must be before User
         trialRepository.deleteAll(); // Must be before User
         userRepository.deleteAll();
+        elasticsearchOperations.deleteIndex("patients");
     }
 }

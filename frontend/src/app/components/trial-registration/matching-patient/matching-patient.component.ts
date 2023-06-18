@@ -1,10 +1,11 @@
 import {Component, OnInit} from '@angular/core';
-import {Trial} from '../../../dtos/trial';
+import {Trial, TrialRegistration} from '../../../dtos/trial';
 import {TrialService} from '../../../services/trial.service';
 import {ActivatedRoute, Router} from '@angular/router';
 import {Patient, Treats, TreatsStatus} from '../../../dtos/patient';
 import {debounceTime, distinctUntilChanged, Subject} from 'rxjs';
 import {TreatsService} from '../../../services/treats.service';
+import {ToastrService} from 'ngx-toastr';
 
 @Component({
   selector: 'app-matching-patient',
@@ -14,6 +15,8 @@ import {TreatsService} from '../../../services/treats.service';
 export class MatchingPatientComponent implements OnInit {
 
   trial = new Trial();
+  trialRegistrations: TrialRegistration[] = [];
+
   patients: Patient[] = [];
   showDetails: boolean[] = [];
 
@@ -28,6 +31,7 @@ export class MatchingPatientComponent implements OnInit {
     private treatsService: TreatsService,
     private route: ActivatedRoute,
     private router: Router,
+    private toastr: ToastrService,
   ) {
   }
 
@@ -47,6 +51,7 @@ export class MatchingPatientComponent implements OnInit {
     this.route.params.subscribe(params => {
       this.trial.id = params.trialId;
       this.loadTrial();
+      this.loadRegistrations();
       this.loadPatients();
 
       this.debouncer.pipe(
@@ -74,7 +79,20 @@ export class MatchingPatientComponent implements OnInit {
   }
 
   registerPatient(patient: Patient) {
-    // TODO: register patient for trial
+    this.trialService.registerAsDoctor(this.trial.id, patient.id).subscribe({
+      next: () => {
+        this.toastr.success('Patient registered for trial');
+        this.loadRegistrations();
+      },
+      error: error => {
+        console.log('Could not register patient for trial');
+        this.toastr.error('Could not register patient for trial');
+      }
+    });
+  }
+
+  isRegistered(patient: Patient) {
+    return this.trialRegistrations.some(registration => registration.patient.id === patient.id);
   }
 
   private loadTrial() {
@@ -85,6 +103,18 @@ export class MatchingPatientComponent implements OnInit {
       error: error => {
         console.log('Could not load trial');
         this.error('Could not load trial');
+      }
+    });
+  }
+
+  private loadRegistrations() {
+    this.trialService.getAllRegistrationsForTrial(this.trial.id).subscribe({
+      next: (registrations: TrialRegistration[]) => {
+        this.trialRegistrations = registrations;
+      },
+      error: error => {
+        console.log('Could not load trial registrations');
+        this.error('Could not load trial registrations');
       }
     });
   }
