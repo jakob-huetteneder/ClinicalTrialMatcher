@@ -84,6 +84,7 @@ import {MatButtonToggleModule} from '@angular/material/button-toggle';
     RequestPatientComponent,
     ViewRequestsComponent,
     ViewConnectionsComponent,
+    InteractivefaqComponent,
     MatchingPatientComponent,
     TrialListItemComponent,
     StatisticsComponent,

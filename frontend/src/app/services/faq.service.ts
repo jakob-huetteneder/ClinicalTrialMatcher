@@ -1,7 +1,7 @@
 import {Injectable} from '@angular/core';
 import {HttpClient, HttpParams} from '@angular/common/http';
 import {Observable} from 'rxjs';
-import {environment} from '../../environments/environment';
+import {User} from '../dtos/user';
 import {Faq} from "../dtos/faq";
 
 const baseUri = environment.backendUrl + '/api/v1/faq';
