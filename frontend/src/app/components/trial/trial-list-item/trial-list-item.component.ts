@@ -13,6 +13,8 @@ export class TrialListItemComponent {
 
   @Input()
   showDeleteButton = false;
+  @Input()
+  deleteText = 'Trial will be lost permanently.';
 
   @Input()
   showEditButton = false;

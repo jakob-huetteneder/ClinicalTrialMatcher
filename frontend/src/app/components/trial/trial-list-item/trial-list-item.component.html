@@ -25,7 +25,6 @@
 
   <div class="container mb-2">
     <div class="flex flex-row">
-      <div class="font-semibold mr-3">Details:</div>
       <div class="line-clamp-2">{{trial.briefSummary}}</div>
     </div>
   </div>
@@ -48,7 +47,7 @@
     </div>
 
     <div class="flex flex-row justify-end">
-      <app-confirm-button (click)="buttonClicked($event)" (confirm)="deleteTrial.emit()" details="Trial will be lost permanently." [hidden]="!showDeleteButton">
+      <app-confirm-button (click)="buttonClicked($event)" (confirm)="deleteTrial.emit()" [details]="deleteText" [hidden]="!showDeleteButton">
         <button class="btn btn-sm rounded btn-danger">
           <i class="bi bi-trash"></i>
         </button>
