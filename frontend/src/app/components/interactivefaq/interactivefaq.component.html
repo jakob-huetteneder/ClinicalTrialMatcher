@@ -1,0 +1,20 @@
+<div *ngIf="isChatOpen()" class="chat-popup" id="myForm">
+
+  <div class="chat-header">
+    <p>Chat with Ada</p>
+    <button class="bi-x-lg mr-4" (click)="chatStatus = !chatStatus"></button>
+  </div>
+  <div class="chat-box">
+    <div>
+      <h2 class="bi-person-circle"></h2>
+      <div class="chat-message"> Hello my name is Ada. How may I help you?</div>
+      <button class="chat-button" (click)="sendFaq('registrtion')">Registration</button>
+      <button class="chat-button" (click)="sendFaq('login')">Login</button>
+      <button class="chat-button" (click)="sendFaq('trials')">Finding Trials</button>
+      <button class="chat-button" (click)="sendFaq('profile')">Changing my profile</button>
+    </div>
+    <label *ngFor="let message of messageList"></label>
+  </div>
+</div>
+
+<h1 *ngIf="!isChatOpen()" class="bi-chat-dots-fill" (click)="chatStatus = !chatStatus"></h1>
