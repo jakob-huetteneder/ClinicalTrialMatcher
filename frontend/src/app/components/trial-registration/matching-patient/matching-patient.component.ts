@@ -96,7 +96,7 @@ export class MatchingPatientComponent implements OnInit {
         this.allPatientsOfDoctor = patients
           .filter(treats => treats.status === TreatsStatus.accepted)
           .map(treats => treats.patient);
-        this.patients = this.allPatientsOfDoctor;
+        // this.patients = this.allPatientsOfDoctor;
         this.showDetails = new Array(this.patients.length).fill(false);
         console.log(this.patients);
       },
@@ -108,6 +108,8 @@ export class MatchingPatientComponent implements OnInit {
     this.trialService.getAllMatchingPatients(this.trial.id).subscribe({
       next: (patients: Patient[]) => {
         this.allMatchingPatients = patients;
+        this.patients = this.allMatchingPatients;
+        console.log('all matching patients', this.allMatchingPatients);
       },
       error: error => {
         console.log('Could not load patients');

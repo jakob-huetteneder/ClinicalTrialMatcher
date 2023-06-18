@@ -180,7 +180,7 @@ def getNegatives(text, extracted_entities):
 
 
 def get_age(admission_note):
-    age = re.findall(r'\d{1,3}', admission_note['note'])
+    age = re.findall(r'\d{1,3}', admission_note)
     
     if len(age) > 0:
         return int(age[0])

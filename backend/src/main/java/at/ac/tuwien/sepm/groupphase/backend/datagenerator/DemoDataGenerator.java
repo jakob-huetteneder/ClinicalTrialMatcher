@@ -55,7 +55,7 @@ public class DemoDataGenerator {
         databaseUtil.cleanAll();
         userDataGenerator.generateUsers();
         diseaseDataGenerator.generateDiseases();
-        patientDataGenerator.generatePatients();
+        patientDataGenerator.generatePatientsFromJson();
         diagnosisDataGenerator.generateDiagnoses();
         examinationDataGenerator.generateExaminations();
         trialDataGenerator.parseTrialsFromJson();
