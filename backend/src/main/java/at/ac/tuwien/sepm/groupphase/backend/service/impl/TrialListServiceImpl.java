@@ -93,6 +93,10 @@ public class TrialListServiceImpl implements TrialListService {
         TrialList trialList = trialListRepository.findById(id)
             .orElseThrow(() -> new NotFoundException("Could not find a trial list with the id " + id + "."));
         LOG.debug("Found trial list " +  trialList.getName());
+        LOG.debug("Found trial list with size: " +  trialList.getTrial().size());
+        for (Trial trial : trialList.getTrial()) {
+            LOG.debug("Found trial in trial list: " +  trial.getTitle());
+        }
         return trialListMapper.trialListToTrialListDto(trialList);
     }
 
