@@ -39,7 +39,7 @@ public class Examination {
     private String name;
 
     @Column(name = "date")
-    @Field(type = FieldType.Date, format = DateFormat.custom, pattern = "uuuu-MM-dd")
+    @Field(type = FieldType.Date, format = DateFormat.year_month_day)
     private LocalDate date;
 
     @Column(name = "type")

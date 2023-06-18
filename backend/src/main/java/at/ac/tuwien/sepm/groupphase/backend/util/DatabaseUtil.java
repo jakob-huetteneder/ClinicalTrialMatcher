@@ -58,6 +58,8 @@ public class DatabaseUtil {
         patientRepository.deleteAll(); // Must be before User
         trialRepository.deleteAll(); // Must be before User
         userRepository.deleteAll();
-        elasticsearchOperations.deleteIndex("patients");
+
+        // delete the patients index
+        elasticsearchOperations.indexOps(at.ac.tuwien.sepm.groupphase.backend.entity.Patient.class).delete();
     }
 }

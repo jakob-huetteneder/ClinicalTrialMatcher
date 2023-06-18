@@ -10,6 +10,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
 
 import java.lang.invoke.MethodHandles;
+import java.time.LocalDate;
 import java.util.Random;
 
 @Component
@@ -42,7 +43,9 @@ public class TrialRegistrationDataGenerator {
         return trialRegistrationRepository.save(new Registration()
             .setTrial(trial)
             .setPatient(patient)
-            .setStatus(status));
+            .setStatus(status)
+            .setDate(LocalDate.now())
+        );
     }
 
     /**

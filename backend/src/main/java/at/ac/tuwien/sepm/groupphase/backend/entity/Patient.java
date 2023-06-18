@@ -52,7 +52,7 @@ public class Patient {
     private String admissionNote;
 
     @Column(name = "birthdate", nullable = false)
-    @Field(type = FieldType.Date, format = DateFormat.custom, pattern = "uuuu-MM-dd")
+    @Field(type = FieldType.Date, format = DateFormat.year_month_day)
     private LocalDate birthdate;
 
     @Column(name = "gender", nullable = false)
