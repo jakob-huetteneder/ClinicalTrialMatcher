@@ -20,6 +20,8 @@ import at.ac.tuwien.sepm.groupphase.backend.service.ExaminationService;
 import at.ac.tuwien.sepm.groupphase.backend.service.PatientService;
 import at.ac.tuwien.sepm.groupphase.backend.service.TreatsService;
 import jakarta.transaction.Transactional;
+import org.apache.lucene.search.join.ScoreMode;
+import org.elasticsearch.common.unit.Fuzziness;
 import org.elasticsearch.index.query.BoolQueryBuilder;
 import org.elasticsearch.index.query.Operator;
 import org.elasticsearch.index.query.QueryBuilders;
@@ -33,10 +35,12 @@ import org.springframework.data.elasticsearch.core.ElasticsearchOperations;
 import org.springframework.data.elasticsearch.core.SearchHit;
 import org.springframework.data.elasticsearch.core.SearchHits;
 import org.springframework.data.elasticsearch.core.mapping.IndexCoordinates;
+import org.springframework.data.elasticsearch.core.query.StringQuery;
 import org.springframework.stereotype.Service;
 
 import java.lang.invoke.MethodHandles;
 import java.time.LocalDate;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
@@ -76,7 +80,9 @@ public class PatientServiceImpl implements PatientService {
 
         BoolQueryBuilder boolQuery = QueryBuilders.boolQuery();
 
-        boolQuery.minimumShouldMatch("50%");
+        String minShouldMatch = String.valueOf((100 / (2 * inclusion.size())));
+
+        boolQuery.minimumShouldMatch(minShouldMatch + "%");
 
         // Range query for birthdate
         RangeQueryBuilder birthdateRangeQuery = QueryBuilders.rangeQuery("birthdate").to(minAge).from(maxAge);
@@ -88,18 +94,60 @@ public class PatientServiceImpl implements PatientService {
         }
 
         for (String criterium : inclusion) {
-            boolQuery.should(QueryBuilders.matchQuery("admissionNote", criterium).operator(Operator.AND));
-            boolQuery.should(QueryBuilders.matchQuery("diagnoses.disease.name", criterium).operator(Operator.AND));
+
+            String[] terms = criterium.split(" ");
+            StringBuilder queryBuilder = new StringBuilder();
+
+            if (terms.length > 1) {
+                StringBuilder all = new StringBuilder();
+                for (int i = 0; i < terms.length; i++) {
+                    StringBuilder must = new StringBuilder();
+                    List<String> mustList = new ArrayList<>();
+                    for (int j = 0; j < terms.length; j++) {
+                        if (j != i) {
+                            mustList.add(terms[j]);
+                        }
+                    }
+                    for (int j = 0; j < mustList.size(); j++) {
+                        if (j == terms.length - 1) {
+                            must.append(mustList.get(j)).append(" AND ");
+                        } else {
+                            must.append(" ").append(mustList.get(j)).append(" ");
+                        }
+                    }
+                    queryBuilder.append("(").append(must).append(")");
+
+                    queryBuilder.append(" OR ");
+
+                    if (i == terms.length - 1) {
+                        all.append(" ").append(terms[i]).append(" ");
+                    } else {
+                        all.append(terms[i]).append(" AND ");
+                    }
+                }
+                queryBuilder.append("(").append(all).append(")");
+            } else {
+                queryBuilder.append(terms[0]);
+            }
+
+            String queryString = queryBuilder.toString().trim();
+
+            boolQuery.should(QueryBuilders.queryStringQuery(queryString)
+                .field("diagnoses.disease.name")
+                .lenient(true).boost(2));
+
+            boolQuery.should(QueryBuilders.queryStringQuery(queryString)
+                .field("admissionNote")
+                .lenient(true).defaultOperator(Operator.AND).boost(0.5f));
+
         }
 
         for (String criterium : exclusion) {
-            boolQuery.mustNot(QueryBuilders.matchQuery("admissionNote", criterium).operator(Operator.AND));
-            boolQuery.mustNot(QueryBuilders.matchQuery("diagnoses.disease.name", criterium).operator(Operator.AND));
+            boolQuery.mustNot(QueryBuilders.matchQuery("admissionNote", criterium).operator(Operator.AND).boost(0.5f));
+            boolQuery.mustNot(QueryBuilders.matchQuery("diagnoses.disease.name", criterium).operator(Operator.AND).boost(2));
         }
 
         SearchSourceBuilder sourceBuilder = new SearchSourceBuilder();
-
-        sourceBuilder.minScore(0.55F);
 
         sourceBuilder.query(boolQuery);
 
@@ -111,10 +159,19 @@ public class PatientServiceImpl implements PatientService {
         LOG.debug(searchQuery.getQuery().toString());
 
         // Execute the query and retrieve the search results
-        SearchHits<Patient> searchHits = elasticsearchOperations.search(searchQuery, Patient.class, IndexCoordinates.of("patients"));
-        List<Patient> results = searchHits.getSearchHits().stream().map(SearchHit::getContent).toList();
+        StringQuery stringQuery = new StringQuery(searchQuery.getQuery().toString());
+        stringQuery.setMinScore(5.f);
+        stringQuery.setMaxResults(100);
 
-        return results.stream().map(patientMapper::patientToPatientDto).toList();
+        List<Patient> results = elasticsearchOperations
+            .search(stringQuery, Patient.class)
+            .stream()
+            .map(SearchHit::getContent)
+            .toList();
+
+        return results.stream()
+            .map(patientMapper::patientToPatientDto)
+            .collect(Collectors.toList());
     }
 
     @Override
