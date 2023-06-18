@@ -18,6 +18,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 
 import java.lang.invoke.MethodHandles;
+import java.util.ArrayList;
 import java.util.List;
 
 @Service
@@ -97,6 +98,13 @@ public class TrialListServiceImpl implements TrialListService {
         for (Trial trial : trialList.getTrial()) {
             LOG.debug("Found trial in trial list: " +  trial.getTitle());
         }
+        List<Trial> uniqueTrials = new ArrayList<>();
+        for (Trial trial : trialList.getTrial()) {
+            if (!uniqueTrials.contains(trial)) {
+                uniqueTrials.add(trial);
+            }
+        }
+        trialList.setTrial(uniqueTrials);
         return trialListMapper.trialListToTrialListDto(trialList);
     }
 
