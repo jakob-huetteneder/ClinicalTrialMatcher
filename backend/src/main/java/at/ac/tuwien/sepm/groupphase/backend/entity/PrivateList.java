@@ -7,12 +7,15 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
+import jakarta.persistence.OneToMany;
 import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
 
+import java.util.Set;
+
 @Entity
 @Table(name = "private_list")
-public class PrivateList extends List {
+public class PrivateList {
 
 
     @Id
@@ -23,9 +26,9 @@ public class PrivateList extends List {
     @JoinColumn(name = "user_id", nullable = false)
     private ApplicationUser user;
 
-    @OneToOne(fetch = FetchType.EAGER)
+    @OneToMany(fetch = FetchType.EAGER)
     @JoinColumn(name = "trial_id")
-    private Trial trial;
+    private Set<Trial> trial;
 
     public ApplicationUser getUser() {
         return user;
@@ -35,11 +38,11 @@ public class PrivateList extends List {
         this.user = user;
     }
 
-    public Trial getTrial() {
+    public Set<Trial> getTrial() {
         return trial;
     }
 
-    public void setTrial(Trial trial) {
+    public void setTrial(Set<Trial> trial) {
         this.trial = trial;
     }
 }

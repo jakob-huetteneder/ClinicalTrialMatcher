@@ -39,10 +39,14 @@ import {
   AcceptRegistrationRequestsComponent
 } from './components/trial-registration/accept-registration-requests/accept-registration-requests.component';
 import {PatientEditComponent} from './components/patient/patient-edit/patient-edit.component';
+import {SearchComponent} from './components/search/search.component';
+import {TrialListComponent} from './components/trial/trial-list/trial-list.component';
 
 const routes: Routes = [
   {path: '', component: HomeComponent},
   {path: 'trial/detail/:id', component: TrialDetailComponent},
+  {path: 'search', component: SearchComponent},
+  {path: 'trial-list/:id', component: TrialListComponent},
   {path: 'account', children: [
       {path: '', component: UpdateProfileComponent},
       {path: 'login', component: LoginComponent},
@@ -62,7 +66,6 @@ const routes: Routes = [
     children: [
       {path: 'trials', children: [
           {path: '' , component: TrialComponent},
-          {path: 'statistics/:id', component: StatisticsComponent},
           {path: 'create', component: CreateEditTrialComponent, data: {mode: TrialCreateEditMode.create}},
           {path: 'edit/:id', component: CreateEditTrialComponent, data: {mode: TrialCreateEditMode.edit}},
           {path: 'requests/:trialId', children: [

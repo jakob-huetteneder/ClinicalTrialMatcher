@@ -53,6 +53,9 @@ import {
   AcceptRegistrationRequestsComponent
 } from './components/trial-registration/accept-registration-requests/accept-registration-requests.component';
 import { PatientEditComponent } from './components/patient/patient-edit/patient-edit.component';
+import {SearchComponent} from './components/search/search.component';
+import {TrialListComponent} from './components/trial/trial-list/trial-list.component';
+import {MatButtonToggleModule} from '@angular/material/button-toggle';
 
 @NgModule({
   declarations: [
@@ -86,7 +89,9 @@ import { PatientEditComponent } from './components/patient/patient-edit/patient-
     AcceptRegistrationProposalComponent,
     TrialDetailComponent,
     AcceptRegistrationRequestsComponent,
-    PatientEditComponent
+    PatientEditComponent,
+    SearchComponent,
+    TrialListComponent
   ],
   imports: [
     BrowserModule,
@@ -99,7 +104,8 @@ import { PatientEditComponent } from './components/patient/patient-edit/patient-
     FormsModule,
     NgOptimizedImage,
     MatDialogModule,
-    MatButtonModule
+    MatButtonModule,
+    MatButtonToggleModule
   ],
   providers: [httpInterceptorProviders],
   bootstrap: [AppComponent]

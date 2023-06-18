@@ -35,4 +35,7 @@ public interface TrialMapper {
      * @return the mapped trial
      */
     Trial trialDtoToTrial(TrialDto trialDto);
+
+    List<Trial> trialDtosToTrials(List<TrialDto> trials);
+
 }
