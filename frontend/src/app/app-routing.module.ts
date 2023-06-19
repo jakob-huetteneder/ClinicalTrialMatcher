@@ -66,6 +66,7 @@ const routes: Routes = [
     children: [
       {path: 'trials', children: [
           {path: '' , component: TrialComponent},
+          {path: 'statistics/:id', component: StatisticsComponent},
           {path: 'create', component: CreateEditTrialComponent, data: {mode: TrialCreateEditMode.create}},
           {path: 'edit/:id', component: CreateEditTrialComponent, data: {mode: TrialCreateEditMode.edit}},
           {path: 'requests/:trialId', children: [

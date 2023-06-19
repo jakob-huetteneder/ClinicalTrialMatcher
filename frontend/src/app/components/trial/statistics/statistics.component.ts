@@ -5,6 +5,7 @@ import {ActivatedRoute, Router} from '@angular/router';
 import {TrialService} from '../../../services/trial.service';
 import {TrialRegistration, TrialRegistrationStatus} from '../../../dtos/trial';
 import {Gender} from '../../../dtos/gender';
+import {differenceInYears, parseISO} from 'date-fns';
 
 @Component({
   selector: 'app-statistics',
@@ -20,9 +21,14 @@ export class StatisticsComponent implements OnInit {
   // eslint-disable-next-line @typescript-eslint/member-ordering
   @ViewChild('status') statusChart!: ElementRef<HTMLCanvasElement>;
   chart3!: Chart<'pie', number[], unknown>;
+  // eslint-disable-next-line @typescript-eslint/member-ordering
+  @ViewChild('age') ageChart!: ElementRef<HTMLCanvasElement>;
+  chart4!: Chart<'bar', number[], unknown>;
   id = -1;
   registrations: TrialRegistration[] = [];
   title = '';
+  minAge: number;
+  maxAge: number;
 
   constructor(
     private service: TrialService,
@@ -40,16 +46,18 @@ export class StatisticsComponent implements OnInit {
       this.service.getAllRegistrationsForTrial(this.id).subscribe({
         next: data => {
           this.registrations = data;
-          if (this.registrations.length === 0) {
-            this.notification.info('No registrations yet for this trial!', '');
-            this.router.navigate(['./researcher/trials']).then();
-          } else {
-            this.initCharts();
-          }
           console.log(this.registrations);
           this.service.getById(this.id).subscribe({
             next: value => {
               this.title = value.title;
+              this.maxAge = value.crMaxAge;
+              this.minAge = value.crMinAge;
+              if (this.registrations.length === 0) {
+                this.notification.info('No registrations yet for this trial!', '');
+                this.router.navigate(['./researcher/trials']).then();
+              } else {
+                this.initCharts();
+              }
             },
             error: err => {
               console.error('Error, trial does not exist', err);
@@ -137,9 +145,6 @@ export class StatisticsComponent implements OnInit {
       return 0;
     });
 
-    console.log(uniqueDates);
-    console.log(dateCounts);
-
 
     this.chart2 = new Chart(ctx, {
       type: 'line',
@@ -196,6 +201,49 @@ export class StatisticsComponent implements OnInit {
           },
         ],
       }
+    });
+
+    ctx = this.ageChart.nativeElement.getContext('2d');
+
+    const ageList = this.registrations.map(i => differenceInYears(new Date(Date.now()), parseISO('' + i.patient.birthdate)));
+    const step = parseFloat(Math.abs((this.maxAge - this.minAge) / 10).toFixed(0));
+    const labels: string[] = [];
+    const values: number[] = [];
+    for (let i = this.minAge; i <= this.maxAge; i += step) {
+      labels.push(i.toFixed(0) + '-' + (i + (step)).toFixed(0));
+      values.push(ageList.filter(item => item >= i && item < (i+step)).length);
+    }
+    console.log(values);
+    console.log(ageList);
+
+    this.chart4 = new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels,
+        datasets: [
+          {
+            label: '# in range',
+            data: values,
+            backgroundColor: [
+              'rgba(255, 165, 0, 0.2)'
+            ],
+            borderColor: [
+              'rgba(255, 165, 0, 1)'
+            ],
+            borderWidth: 1,
+          },
+        ],
+      },
+      options: {
+        scales: {
+          y: {
+            beginAtZero: true,
+            ticks: {
+              stepSize: 1, // Set the step size to 1 to display only whole numbers
+            }
+          },
+        },
+      },
     });
 
 
