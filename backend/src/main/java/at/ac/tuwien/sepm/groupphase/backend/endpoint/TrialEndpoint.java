@@ -156,9 +156,18 @@ public class TrialEndpoint {
         trialService.deleteTrialById(id);
     }
 
+    /**
+     * Returns all trials that match the given filter.
+     *
+     * @param filterDto filter to be applied
+     * @param keyword   keyword to be applied
+     * @return all trials that match the given filter
+     */
     @PermitAll
     @PostMapping("/search")
     public List<TrialDto> searchWithFilter(@RequestBody @Valid FilterDto filterDto, @Param("keyword") String keyword) {
+        LOG.trace("searchWithFilter({}, {})", filterDto, keyword);
+        LOG.info("POST " + BASE_PATH + "/search");
         return trialService.searchWithFilter(keyword, filterDto, 1);
     }
 }

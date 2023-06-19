@@ -15,6 +15,10 @@
         <i (click)="searchInput.value = '';" class="bi-x mr-2 flex" style="color: #1e5075"></i>
       </div>
     </div>
+    <!--<div class="flex flex-row gap-2 w-full ml-4 align-items-center container">
+      <label class="text-blue-950">Show All Patients</label>
+      <input type="checkbox" [(ngModel)]="showAllPatients" class="rounded align-items-center">
+    </div>-->
     <hr class="container" style="border: 2px solid #CDE2F0;">
     <div class="flex flex-col gap-2 w-full">
       <div *ngFor="let patient of patients"

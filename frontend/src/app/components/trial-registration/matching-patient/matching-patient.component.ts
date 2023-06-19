@@ -149,7 +149,7 @@ export class MatchingPatientComponent implements OnInit {
   }
 
   private searchPatients() {
-    this.patients = this.allPatientsOfDoctor.filter(patient =>
+    this.patients = this.allMatchingPatients.filter(patient =>
       patient.firstName.toLowerCase().includes(this.search.toLowerCase())
       || patient.lastName.toLowerCase().includes(this.search.toLowerCase())
       || (patient.firstName.toLowerCase() + ' ' + patient.lastName.toLowerCase()).includes(this.search.toLowerCase()));

@@ -108,8 +108,8 @@ public class TrialServiceImpl implements TrialService {
     }
 
     @Override
-    @Transactional()
     public List<TrialDto> searchWithFilter(String keyword, FilterDto filterDto, int pageNum) {
+        LOG.trace("searchWithFilter({}, {}, {})", keyword, filterDto, pageNum);
         Pageable pageable = PageRequest.of(pageNum - 1, SEARCH_RESULT_PER_PAGE);
         Gender gender = filterDto.gender();
         Trial.Status status = filterDto.recruiting();

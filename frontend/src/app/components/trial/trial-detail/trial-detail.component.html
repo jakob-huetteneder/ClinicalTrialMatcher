@@ -2,6 +2,14 @@
   <div class="fw-bold grid grid-cols-1 justify-items-center container mt-3 ml-3 relative">
     <div class="text-lg">Trial Details</div>
     <div class="right-8 absolute">
+      <div *ngIf="authService.getUserRole() === role.doctor">
+        <button
+            class="transition ease-in-out delay-100 duration-300 bg-blue-500 hover:-translate-y-0 hover:scale-110 hover:bg-blue-400 rounded p-2 h-10 text-white"
+            [routerLink]="'/doctor/trial/' + trial.id + '/match-patient'">
+            Register Patients
+          </button>
+
+      </div>
       <div *ngIf="authService.getUserRole() === role.patient && canRegister">
         <app-confirm-button (confirm)="register()" cancelText="Deny"
                             confirmText="Accept"
