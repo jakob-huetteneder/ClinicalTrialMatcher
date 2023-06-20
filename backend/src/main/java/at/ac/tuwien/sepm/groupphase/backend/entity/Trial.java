@@ -2,7 +2,6 @@ package at.ac.tuwien.sepm.groupphase.backend.entity;
 
 
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
-import at.ac.tuwien.sepm.groupphase.backend.entity.enums.TrialStatus;
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 import jakarta.persistence.CollectionTable;
 import jakarta.persistence.Column;
@@ -13,8 +12,9 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
+import jakarta.persistence.JoinTable;
+import jakarta.persistence.ManyToMany;
 import jakarta.persistence.ManyToOne;
-import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
 import org.hibernate.annotations.OnDelete;
 import org.hibernate.annotations.OnDeleteAction;
@@ -98,7 +98,12 @@ public class Trial {
     @OnDelete(action = OnDeleteAction.CASCADE)
     private List<String> exclusionCriteria = new ArrayList<>();
 
-    @OneToMany(fetch = FetchType.EAGER, mappedBy = "trial", orphanRemoval = true)
+    @ManyToMany(fetch = FetchType.EAGER)
+    @JoinTable(
+        name = "trial_disease",
+        joinColumns = @JoinColumn(name = "trial_id"),
+        inverseJoinColumns = @JoinColumn(name = "disease_id")
+    )
     private List<Disease> diseases = new ArrayList<>();
 
     public String getTitle() {

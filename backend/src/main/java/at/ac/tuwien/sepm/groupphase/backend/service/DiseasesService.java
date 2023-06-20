@@ -20,6 +20,14 @@ public interface DiseasesService {
     Stream<DiseaseDto> search(SearchDto searchParams);
 
     /**
+     * Get a persisted disease with a Wikipedia Link.
+     *
+     * @param disease the disease
+     * @return the persisted disease with a Wikipedia Link
+     */
+    DiseaseDto getPersistedDiseaseWithLink(Disease disease);
+
+    /**
      * Set Wikipedia Links for All Diseases of the Disease Table.
      * Automatically executes on a daily basis.
      */

@@ -34,7 +34,7 @@ public class JwtTokenizer {
      * @return JWT token
      */
     public String getAuthToken(String user, List<String> roles) {
-        LOG.trace("getAuthToken({})", user);
+        LOG.trace("getAuthToken({}, {})", user, roles);
         byte[] signingKey = securityProperties.getJwtSecret().getBytes();
         String token = Jwts.builder()
             .signWith(Keys.hmacShaKeyFor(signingKey), SignatureAlgorithm.HS512)

@@ -1,14 +1,19 @@
 package at.ac.tuwien.sepm.groupphase.backend.datagenerator;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.TrialDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.DiseaseMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
+import at.ac.tuwien.sepm.groupphase.backend.entity.Disease;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Researcher;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Trial;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
+import at.ac.tuwien.sepm.groupphase.backend.repository.DiseaseRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.TrialRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
+import at.ac.tuwien.sepm.groupphase.backend.service.AdmissionNoteAnalyzerService;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import jakarta.transaction.Transactional;
 import net.datafaker.Faker;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -34,13 +39,21 @@ public class TrialDataGenerator {
     private final UserDataGenerator userDataGenerator;
     private final ObjectMapper objectMapper;
     private final UserRepository userRepository;
+    private final AdmissionNoteAnalyzerService admissionNoteAnalyzerService;
+    private final DiseaseRepository diseaseRepository;
+    private final DiseaseMapper diseaseMapper;
 
     public TrialDataGenerator(TrialRepository trialRepository, UserDataGenerator userDataGenerator,
-                              ObjectMapper objectMapper, UserRepository userRepository) {
+                              ObjectMapper objectMapper, UserRepository userRepository,
+                              AdmissionNoteAnalyzerService admissionNoteAnalyzerService, DiseaseRepository diseaseRepository,
+                              DiseaseMapper diseaseMapper) {
         this.trialRepository = trialRepository;
         this.userDataGenerator = userDataGenerator;
         this.objectMapper = objectMapper;
         this.userRepository = userRepository;
+        this.admissionNoteAnalyzerService = admissionNoteAnalyzerService;
+        this.diseaseRepository = diseaseRepository;
+        this.diseaseMapper = diseaseMapper;
     }
 
     /**
@@ -124,7 +137,8 @@ public class TrialDataGenerator {
             faker.number().numberBetween(18, 50),
             faker.number().numberBetween(50, 100),
             new ArrayList<>(List.of(faker.lorem().sentence(), faker.lorem().sentence(), faker.lorem().sentence())),
-            new ArrayList<>(List.of(faker.lorem().sentence(), faker.lorem().sentence(), faker.lorem().sentence())));
+            new ArrayList<>(List.of(faker.lorem().sentence(), faker.lorem().sentence(), faker.lorem().sentence())),
+            new ArrayList<>(List.of(new Disease().setName(faker.lorem().word()))));
     }
 
     /**
@@ -146,6 +160,7 @@ public class TrialDataGenerator {
      * @param crMaxAge          the maximum age of participants
      * @param inclusionCriteria the inclusion criteria of the trial
      * @param exclusionCriteria the exclusion criteria of the trial
+     * @param diseases          the diseases of the trial
      * @return the generated trial
      */
     public Trial generateTrial(
@@ -164,10 +179,12 @@ public class TrialDataGenerator {
         Integer crMinAge,
         Integer crMaxAge,
         List<String> inclusionCriteria,
-        List<String> exclusionCriteria) {
-        LOG.trace("generateTrial({}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {})",
+        List<String> exclusionCriteria,
+        List<Disease> diseases) {
+        LOG.trace("generateTrial({}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {})",
             title, startDate, endDate, researcher, studyType, briefSummary, detailedSummary, sponsor, collaborator,
-            status, location, crGender, crMinAge, crMaxAge, inclusionCriteria, exclusionCriteria);
+            status, location, crGender, crMinAge, crMaxAge, inclusionCriteria, exclusionCriteria, diseases);
+        diseaseRepository.saveAll(diseases);
         return trialRepository.save(new Trial()
             .setTitle(title)
             .setStartDate(startDate)
@@ -184,12 +201,14 @@ public class TrialDataGenerator {
             .setCrMinAge(crMinAge)
             .setCrMaxAge(crMaxAge)
             .setInclusionCriteria(inclusionCriteria)
-            .setExclusionCriteria(exclusionCriteria));
+            .setExclusionCriteria(exclusionCriteria)
+            .setDiseases(diseases));
     }
 
     /**
      * Parses trials from a json resource file and saves them to the database.
      */
+    @Transactional
     public void parseTrialsFromJson() {
         LOG.trace("parseTrialsFromJson()");
         // get json from resources/data/trials.json
@@ -209,8 +228,20 @@ public class TrialDataGenerator {
                     throw new RuntimeException("User with email exists but is not a researcher " + trial.researcher().email() + " is not a researcher");
                 }
                 Researcher researcher = (Researcher) user;
+                List<Disease> diseases = admissionNoteAnalyzerService.extractDiseases(trial.briefSummary() + " " + trial.detailedSummary()).stream().map(diseaseMapper::diseaseDtoToDisease).toList();
+                List<Disease> toSave = new ArrayList<>();
+                for (Disease disease : diseases) {
+                    List<Disease> storedDiseases = diseaseRepository.findDiseasesByName(disease.getName());
+
+                    if (storedDiseases.isEmpty()) {
+                        toSave.add(diseaseRepository.save(disease));
+                    } else {
+                        toSave.add(storedDiseases.get(0));
+                    }
+                }
+
                 generateTrial(trial.title(), trial.startDate(), trial.endDate(), researcher, trial.studyType(), trial.briefSummary(), trial.detailedSummary(), trial.sponsor(), trial.collaborator(), trial.status(),
-                    trial.location(), trial.crGender(), trial.crMinAge(), trial.crMaxAge(), trial.inclusionCriteria(), trial.exclusionCriteria());
+                    trial.location(), trial.crGender(), trial.crMinAge(), trial.crMaxAge(), trial.inclusionCriteria(), trial.exclusionCriteria(), toSave);
             }
 
         } catch (Exception e) {

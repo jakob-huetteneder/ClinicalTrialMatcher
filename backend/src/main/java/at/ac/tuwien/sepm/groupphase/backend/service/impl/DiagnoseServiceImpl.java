@@ -4,11 +4,10 @@ import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.DiagnoseDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.DiagnosisMapper;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.DiseaseMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Diagnose;
-import at.ac.tuwien.sepm.groupphase.backend.entity.Disease;
 import at.ac.tuwien.sepm.groupphase.backend.exception.NotFoundException;
 import at.ac.tuwien.sepm.groupphase.backend.repository.DiagnosesRepository;
-import at.ac.tuwien.sepm.groupphase.backend.repository.DiseaseRepository;
 import at.ac.tuwien.sepm.groupphase.backend.service.DiagnoseService;
+import at.ac.tuwien.sepm.groupphase.backend.service.DiseasesService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -26,15 +25,15 @@ public class DiagnoseServiceImpl implements DiagnoseService {
     private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
     private final DiagnosesRepository diagnosesRepository;
     private final DiagnosisMapper diagnosisMapper;
-    private final DiseaseRepository diseaseRepository;
+    private final DiseasesService diseasesService;
     private final DiseaseMapper diseaseMapper;
 
     @Autowired
     public DiagnoseServiceImpl(DiagnosesRepository diagnosesRepository, DiagnosisMapper diagnosisMapper,
-                               DiseaseRepository diseaseRepository, DiseaseMapper diseaseMapper) {
+                               DiseasesService diseasesService, DiseaseMapper diseaseMapper) {
         this.diagnosesRepository = diagnosesRepository;
         this.diagnosisMapper = diagnosisMapper;
-        this.diseaseRepository = diseaseRepository;
+        this.diseasesService = diseasesService;
         this.diseaseMapper = diseaseMapper;
     }
 
@@ -63,13 +62,7 @@ public class DiagnoseServiceImpl implements DiagnoseService {
         LOG.trace("saveDiagnosis({})", diagnoseDto);
         Diagnose toSave = diagnosisMapper.diagnosisDtoToDiagnosis(diagnoseDto, diagnoseDto.patientId());
 
-        List<Disease> diseases = diseaseRepository.findDiseasesByName(diagnoseDto.disease().name());
-        if (diseases.isEmpty()) {
-            Disease disease = diseaseRepository.save(diseaseMapper.diseaseDtoToDisease(diagnoseDto.disease()));
-            toSave.setDisease(disease);
-        } else {
-            toSave.setDisease(diseases.get(0));
-        }
+        toSave.setDisease(diseaseMapper.diseaseDtoToDisease(diseasesService.getPersistedDiseaseWithLink(toSave.getDisease())));
 
         return diagnosisMapper.diagnosisToDiagnosisDto(diagnosesRepository.save(toSave));
     }

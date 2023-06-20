@@ -13,8 +13,6 @@ import {TrialService} from '../../../services/trial.service';
 import {Gender} from '../../../dtos/gender';
 import {ToastrService} from 'ngx-toastr';
 import {Trial} from '../../../dtos/trial';
-import {AnalyzerService} from '../../../services/analyzer.service';
-import {Disease} from '../../../dtos/patient';
 
 export enum TrialCreateEditMode {
   create,
@@ -40,7 +38,6 @@ export class CreateEditTrialComponent implements OnInit {
     private router: Router,
     private route: ActivatedRoute,
     private notification: ToastrService,
-    private analyzerService: AnalyzerService
   ) {
   }
 
@@ -61,18 +58,14 @@ export class CreateEditTrialComponent implements OnInit {
     return this.trialForm.get('exclusionCriteria') as FormArray;
   }
 
-  get diseases() {
-    return this.trialForm.get('diseases') as FormArray;
-  }
-
   ngOnInit() {
 
     this.trialForm = this.formBuilder.group({
-      title: ['', [Validators.required, Validators.maxLength(255)]],
+      title: ['', [Validators.required]],
       startDate: ['', [Validators.required]],
       endDate: ['', [Validators.required]],
       studyType: ['', [Validators.required, Validators.maxLength(255)]],
-      briefSummary: ['', [Validators.required, Validators.maxLength(255)]],
+      briefSummary: ['', [Validators.required]],
       detailedSummary: ['', [Validators.required]],
       sponsor: ['', [Validators.required, Validators.maxLength(255)]],
       collaborator: ['', [Validators.required, Validators.maxLength(255)]],
@@ -83,7 +76,6 @@ export class CreateEditTrialComponent implements OnInit {
       crMaxAge: ['', [Validators.required, Validators.min(0)]],
       inclusionCriteria: this.formBuilder.array([]),
       exclusionCriteria: this.formBuilder.array([]),
-      diseases: this.formBuilder.array([]),
     }, {validators: this.trialValidator()});
 
     this.route.data.subscribe({
@@ -101,7 +93,6 @@ export class CreateEditTrialComponent implements OnInit {
                   this.trialForm.patchValue(trial);
                   this.trialForm.setControl('inclusionCriteria', this.formBuilder.array(trial.inclusionCriteria));
                   this.trialForm.setControl('exclusionCriteria', this.formBuilder.array(trial.exclusionCriteria));
-                  this.trialForm.setControl('diseases', this.formBuilder.array(trial.diseases));
                 },
                 error: error => {
                   console.log(error);
@@ -132,72 +123,34 @@ export class CreateEditTrialComponent implements OnInit {
       const trial: Trial = this.trialForm.value;
       trial.id = this.oldTrial.id;
       trial.researcher = this.oldTrial.researcher;
-      //trial.diseases = this.saveDiseases(this.trialForm.value);
-      console.log('trial: ', trial);
-      this.analyzerService.analyzeNote(trial.detailedSummary).subscribe({
+      this.trialService.edit(trial).subscribe({
         next: data => {
-          console.log(data);
-          data.forEach((d: string) => {
-            console.log('d:', d);
-            const disease = new Disease();
-            disease.id = undefined;
-            disease.name = d;
-            disease.link = '';
-            trial.diseases.push(disease);
-            console.log('diseases: ', trial.diseases);
-          });
-          this.trialService.edit(trial).subscribe({
-            next: _data => {
-              this.notification.success(`Trial ${_data.title} successfully updated.`);
-              this.router.navigate(['/researcher/trials']);
-            },
-            error: error => {
-              console.error('error updating trial', error);
-              this.notification.error(error.error.message, error.error.errors);
-            }
-          });
-          return;
+          this.notification.success(`Trial ${data.title} successfully updated.`);
+          this.router.navigate(['/researcher/trials']);
         },
         error: error => {
-          console.log('Error analyzing text: ' + error);
+          console.error('error updating trial', error);
+          this.notification.error(error.error.message, error.error.errors);
         }
       });
+      return;
     } else {
       console.log('trialForm: ', this.trialForm.value);
-      const trial: Trial = this.trialForm.value;
-      //trial.diseases = this.saveDiseases(this.trialForm.value);
-      console.log('trial: ', trial);
-      this.analyzerService.analyzeNote(trial.detailedSummary).subscribe({
+      this.trialService.create(this.trialForm.value).subscribe({
         next: data => {
-          console.log(data);
-          data.forEach((d: string) => {
-            console.log('d:', d);
-            const disease = new Disease();
-            disease.id = undefined;
-            disease.name = d;
-            disease.link = '';
-            trial.diseases.push(disease);
-          });
-          this.trialService.create(trial).subscribe({
-            next: _data => {
-              this.notification.success(`Trial ${_data.title} successfully created.`);
-              this.router.navigate(['/researcher/trials']).then();
-            },
-            error: error => {
-              console.error('error creating trial', error);
-              this.notification.error(error.error.message, error.error.errors);
-            }
-          });
+          this.notification.success(`Trial ${data.title} successfully created.`);
+          this.router.navigate(['/researcher/trials']);
         },
         error: error => {
-          console.log('Error analyzing text: ' + error);
+          console.error('error creating trial', error);
+          this.notification.error(error.error.message, error.error.errors);
         }
       });
     }
   }
 
   cancel() {
-    this.router.navigate(['/researcher/trials']).then();
+    this.router.navigate(['/researcher/trials']);
   }
 
   private trialValidator(): ValidatorFn {
@@ -210,27 +163,6 @@ export class CreateEditTrialComponent implements OnInit {
       }
       return null;
     };
-  }
-
-  private saveDiseases(trial: Trial): Disease[] {
-    this.analyzerService.analyzeNote(trial.detailedSummary).subscribe({
-      next: data => {
-        console.log(data);
-        data.forEach((d: string) => {
-          console.log('d:', d);
-          const disease = new Disease();
-          disease.id = undefined;
-          disease.name = d;
-          disease.link = '';
-          trial.diseases.push(disease);
-          console.log('diseases: ', trial.diseases);
-        });
-      },
-      error: error => {
-        console.log('Error analyzing text: ' + error);
-      }
-    });
-    return trial.diseases;
   }
 
   private changed(): ValidatorFn {

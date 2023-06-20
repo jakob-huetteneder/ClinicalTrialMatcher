@@ -11,13 +11,11 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.Researcher;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Trial;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
-import at.ac.tuwien.sepm.groupphase.backend.entity.enums.TrialStatus;
 import at.ac.tuwien.sepm.groupphase.backend.repository.TrialRepository;
 import at.ac.tuwien.sepm.groupphase.backend.security.JwtTokenizer;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.apache.commons.lang3.RandomStringUtils;
-import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -28,15 +26,15 @@ import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.MvcResult;
 
-import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.delete;
-import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
-
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertAll;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.delete;
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 
@@ -258,11 +256,11 @@ public class TrialEndpointTest {
         Researcher researcher = (Researcher) userDataGenerator.generateUser(Role.RESEARCHER);
 
         trialDataGenerator.generateTrial("Trial 1", LocalDate.of(2023, 6, 1), LocalDate.of(2023, 7, 1), researcher, "1", "test", "test test",
-            "1", "1", TrialStatus.RECRUITING, "Vienna", Gender.FEMALE, 0, 100, null, null);
+            "1", "1", Trial.Status.RECRUITING, "Vienna", Gender.FEMALE, 0, 100, null, null, List.of());
         trialDataGenerator.generateTrial("Trial 2", LocalDate.of(2023, 6, 1), LocalDate.of(2023, 7, 1), researcher, "1", "test", "test test",
-            "1", "1", TrialStatus.RECRUITING, "Vienna", Gender.MALE, 0, 100, null, null);
+            "1", "1", Trial.Status.RECRUITING, "Vienna", Gender.MALE, 0, 100, null, null, List.of());
         trialDataGenerator.generateTrial("Trial 3", LocalDate.of(2023, 6, 1), LocalDate.of(2023, 7, 1), researcher, "1", "test", "test test",
-            "1", "1", TrialStatus.RECRUITING, "Vienna", Gender.BOTH, 0, 100, null, null);
+            "1", "1", Trial.Status.RECRUITING, "Vienna", Gender.BOTH, 0, 100, null, null, List.of());
 
         MvcResult mvcResult = this.mockMvc.perform(post(TRIAL_BASE_URI + "/search")
                 .contentType(MediaType.APPLICATION_JSON)

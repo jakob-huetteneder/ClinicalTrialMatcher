@@ -14,6 +14,7 @@ import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
 
 import java.lang.invoke.MethodHandles;
+import java.util.List;
 import java.util.stream.Stream;
 
 @Service
@@ -33,6 +34,20 @@ public class DiseasesServiceImpl implements DiseasesService {
         LOG.trace("search({})", searchParams);
         return diseaseRepository.findDiseasesWithPartOfName(searchParams.name()).stream()
             .limit(searchParams.limit()).map(diseaseMapper::diseaseToDiseaseDto);
+    }
+
+    @Override
+    public DiseaseDto getPersistedDiseaseWithLink(Disease disease) {
+        LOG.trace("getPersistedDisease({})", disease);
+
+        List<Disease> diseases = diseaseRepository.findDiseasesByName(disease.getName());
+        if (diseases.isEmpty()) {
+            Disease persistedDisease = diseaseRepository.save(disease);
+            setDiseaseLink(disease);
+            return diseaseMapper.diseaseToDiseaseDto(persistedDisease);
+        } else {
+            return diseaseMapper.diseaseToDiseaseDto(diseases.get(0));
+        }
     }
 
     @Override

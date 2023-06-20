@@ -18,11 +18,16 @@ export class AuthInterceptor implements HttpInterceptor {
     const passwordUri = this.globals.backendUri + '/users/password';
 
     // Do not intercept authentication requests
-    if (req.url === authUri || (req.url === usersUri && req.method === 'POST') || (req.url === passwordUri) ||
-      (req.url === trialsUri) || (req.url === searchUri)) {
+    if (req.url === authUri // all auth requests
+      || (req.url === usersUri && req.method === 'POST') // registration of new users
+      || (req.url === passwordUri) // password reset
+      || (req.url === trialsUri && req.method === 'GET') // get all trials
+      || (req.url.startsWith(searchUri) && req.method === 'GET') // search for trials
+      || (req.url.match(/\/trials\/[0-9]+/) && req.method === 'GET') // get trial by id
+    ) {
       return next.handle(req);
     }
-    const url = window.location.href;
+
     const authReq = req.clone({
       headers: req.headers.set('Authorization', 'Bearer ' + this.authService.getToken())
     });

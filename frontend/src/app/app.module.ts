@@ -56,7 +56,6 @@ import { PatientEditComponent } from './components/patient/patient-edit/patient-
 import {SearchComponent} from './components/search/search.component';
 import {TrialListComponent} from './components/trial/trial-list/trial-list.component';
 import {MatButtonToggleModule} from '@angular/material/button-toggle';
-import { FilterTestComponent } from './components/filter-test/filter-test.component';
 
 @NgModule({
   declarations: [
@@ -93,7 +92,6 @@ import { FilterTestComponent } from './components/filter-test/filter-test.compon
     PatientEditComponent,
     SearchComponent,
     TrialListComponent,
-    FilterTestComponent
   ],
   imports: [
     BrowserModule,

@@ -5,6 +5,7 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Researcher;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Treats;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
+import at.ac.tuwien.sepm.groupphase.backend.service.DiseasesService;
 import at.ac.tuwien.sepm.groupphase.backend.util.DatabaseUtil;
 import jakarta.annotation.PostConstruct;
 import org.slf4j.Logger;
@@ -31,11 +32,13 @@ public class DemoDataGenerator {
     private final PatientDataGenerator patientDataGenerator;
     private final TrialDataGenerator trialDataGenerator;
     private final UserDataGenerator userDataGenerator;
+    private final DiseasesService diseasesService;
 
     public DemoDataGenerator(DatabaseUtil databaseUtil, DiagnosisDataGenerator diagnosisDataGenerator,
                              DiseaseDataGenerator diseaseDataGenerator, ExaminationDataGenerator examinationDataGenerator,
                              TreatsDataGenerator treatsDataGenerator, PatientDataGenerator patientDataGenerator,
-                             TrialDataGenerator trialDataGenerator, UserDataGenerator userDataGenerator) {
+                             TrialDataGenerator trialDataGenerator, UserDataGenerator userDataGenerator,
+                             DiseasesService diseasesService) {
         this.databaseUtil = databaseUtil;
         this.diagnosisDataGenerator = diagnosisDataGenerator;
         this.diseaseDataGenerator = diseaseDataGenerator;
@@ -44,6 +47,7 @@ public class DemoDataGenerator {
         this.patientDataGenerator = patientDataGenerator;
         this.trialDataGenerator = trialDataGenerator;
         this.userDataGenerator = userDataGenerator;
+        this.diseasesService = diseasesService;
     }
 
     /**
@@ -54,7 +58,7 @@ public class DemoDataGenerator {
         LOG.trace("generateDemoData()");
         databaseUtil.cleanAll();
         userDataGenerator.generateUsers();
-        diseaseDataGenerator.generateDiseases();
+        // diseaseDataGenerator.generateDiseases();
         patientDataGenerator.generatePatientsFromJson();
         diagnosisDataGenerator.generateDiagnoses();
         examinationDataGenerator.generateExaminations();
@@ -62,6 +66,7 @@ public class DemoDataGenerator {
         generateAdmin();
         generateResearcherWithTrials();
         generateDoctorWithPatients();
+        diseasesService.setAllDiseaseLinks();
     }
 
     /**
