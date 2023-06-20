@@ -73,6 +73,7 @@ const routes: Routes = [
               {path: '', component: AcceptRegistrationRequestsComponent},
               {path: 'patient/:id', component: PatientDetailComponent},
             ]},
+          {path: 'statistics/:id', component: StatisticsComponent},
         ]},
     ]},
   {path: 'doctor', data: {allowedRoles: [Role.doctor]},

@@ -84,7 +84,7 @@
 
 
     <!-- TRIAL LIST FUNCTIONS -->
-    <div class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
+    <div *ngIf="authService.isLoggedIn()" class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
       <a class="group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row">
         <div class="text-in-button mt-1">View Trial Lists</div>
         <i class="bi-chevron-down w-4 text-blue-950"></i>
