@@ -39,7 +39,7 @@ export class DiseaseAutocompleteComponent implements OnInit, ControlValueAccesso
   value: Disease | null = {
     id: undefined,
     name: '',
-    synonyms: '',
+    link: '',
   };
   valueCandidates = new Map<string, Disease>();
   touched = false;
@@ -118,7 +118,7 @@ export class DiseaseAutocompleteComponent implements OnInit, ControlValueAccesso
       this.setValue({
         id: undefined,
         name: input,
-        synonyms: '',
+        link: '',
       });
     }
   }

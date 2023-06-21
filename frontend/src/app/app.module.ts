@@ -91,7 +91,7 @@ import {MatButtonToggleModule} from '@angular/material/button-toggle';
     AcceptRegistrationRequestsComponent,
     PatientEditComponent,
     SearchComponent,
-    TrialListComponent
+    TrialListComponent,
   ],
   imports: [
     BrowserModule,

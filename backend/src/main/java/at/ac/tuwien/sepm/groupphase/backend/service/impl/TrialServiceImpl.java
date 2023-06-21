@@ -2,15 +2,20 @@ package at.ac.tuwien.sepm.groupphase.backend.service.impl;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.FilterDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.TrialDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.DiseaseMapper;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.TrialMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
+import at.ac.tuwien.sepm.groupphase.backend.entity.Disease;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Researcher;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Trial;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
 import at.ac.tuwien.sepm.groupphase.backend.exception.NotFoundException;
+import at.ac.tuwien.sepm.groupphase.backend.repository.DiseaseRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.TrialRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
 import at.ac.tuwien.sepm.groupphase.backend.security.AuthorizationService;
+import at.ac.tuwien.sepm.groupphase.backend.service.AdmissionNoteAnalyzerService;
+import at.ac.tuwien.sepm.groupphase.backend.service.DiseasesService;
 import at.ac.tuwien.sepm.groupphase.backend.service.TrialService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -34,14 +39,23 @@ public class TrialServiceImpl implements TrialService {
     private final TrialMapper trialMapper;
     private final AuthorizationService authorizationService;
     private final UserRepository userRepository;
+    private final DiseaseRepository diseaseRepository;
+    private final DiseaseMapper diseaseMapper;
+    private final DiseasesService diseasesService;
+    private final AdmissionNoteAnalyzerService admissionNoteAnalyzerService;
 
 
     public TrialServiceImpl(TrialRepository trialRepository, TrialMapper trialMapper, AuthorizationService authorizationService,
-                            UserRepository userRepository) {
+                            UserRepository userRepository, DiseaseRepository diseaseRepository, DiseaseMapper diseaseMapper, DiseasesService diseasesService,
+                            AdmissionNoteAnalyzerService admissionNoteAnalyzerService) {
         this.trialRepository = trialRepository;
         this.trialMapper = trialMapper;
         this.authorizationService = authorizationService;
         this.userRepository = userRepository;
+        this.diseaseRepository = diseaseRepository;
+        this.diseaseMapper = diseaseMapper;
+        this.diseasesService = diseasesService;
+        this.admissionNoteAnalyzerService = admissionNoteAnalyzerService;
     }
 
     @Override
@@ -79,6 +93,7 @@ public class TrialServiceImpl implements TrialService {
         }
         convertedTrial.setResearcher(
             (Researcher) loggedInUser);
+        convertedTrial.setDiseases(analyzeSummaryForDiseases(trial));
         Trial savedTrial = trialRepository.save(convertedTrial);
         LOG.debug("Saved trial with id='{}'", convertedTrial.getId());
         return trialMapper.trialToTrialDto(savedTrial);
@@ -87,10 +102,23 @@ public class TrialServiceImpl implements TrialService {
     @Override
     public TrialDto updateTrial(TrialDto trial) {
         LOG.trace("updateTrial({})", trial);
+        List<Disease> recognizedDiseases = analyzeSummaryForDiseases(trial);
         Trial convertedTrial = trialMapper.trialDtoToTrial(trial);
+        convertedTrial.setDiseases(recognizedDiseases);
         Trial updatedTrial = trialRepository.save(convertedTrial);
         LOG.debug("Updated trial with id='{}'", convertedTrial.getId());
         return trialMapper.trialToTrialDto(updatedTrial);
+    }
+
+    private List<Disease> analyzeSummaryForDiseases(TrialDto trial) {
+
+        return admissionNoteAnalyzerService.extractDiseases(
+            trial.briefSummary() + " " + trial.detailedSummary()
+        ).stream().map(diseaseDto -> {
+            Disease disease = diseaseMapper.diseaseDtoToDisease(diseaseDto);
+            disease = diseaseMapper.diseaseDtoToDisease(diseasesService.getPersistedDiseaseWithLink(disease));
+            return disease;
+        }).toList();
     }
 
     @Override
@@ -116,8 +144,7 @@ public class TrialServiceImpl implements TrialService {
 
         List<Trial> trials = trialRepository.search(keyword.toLowerCase(), gender, status,
             filterDto.minAge(), filterDto.maxAge(), filterDto.startDate(), filterDto.endDate(), pageable).getContent();
-        List<TrialDto> trialList = trialMapper.trialToTrialDto(trials);
-        return trialList;
+        return trialMapper.trialToTrialDto(trials);
     }
 
 

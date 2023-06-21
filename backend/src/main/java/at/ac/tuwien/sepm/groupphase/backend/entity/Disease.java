@@ -3,10 +3,14 @@ package at.ac.tuwien.sepm.groupphase.backend.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
+import jakarta.persistence.FetchType;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.ManyToMany;
 import jakarta.persistence.Table;
+
+import java.util.List;
 
 @Entity
 @Table(name = "disease")
@@ -20,8 +24,11 @@ public class Disease {
     @Column(name = "name", nullable = false)
     private String name;
 
-    @Column(name = "synonyms")
-    private String synonyms;
+    @Column(name = "link")
+    private String link;
+
+    @ManyToMany(fetch = FetchType.EAGER, mappedBy = "diseases")
+    private List<Trial> trials;
 
     public String getName() {
         return name;
@@ -32,12 +39,12 @@ public class Disease {
         return this;
     }
 
-    public String getSynonyms() {
-        return synonyms;
+    public String getLink() {
+        return link;
     }
 
-    public Disease setSynonyms(String synonyms) {
-        this.synonyms = synonyms;
+    public Disease setLink(String link) {
+        this.link = link;
         return this;
     }
 

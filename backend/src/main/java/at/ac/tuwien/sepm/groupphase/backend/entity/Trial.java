@@ -2,6 +2,7 @@ package at.ac.tuwien.sepm.groupphase.backend.entity;
 
 
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
+import com.fasterxml.jackson.annotation.JsonManagedReference;
 import jakarta.persistence.CollectionTable;
 import jakarta.persistence.Column;
 import jakarta.persistence.ElementCollection;
@@ -11,6 +12,8 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
+import jakarta.persistence.JoinTable;
+import jakarta.persistence.ManyToMany;
 import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
 import org.hibernate.annotations.OnDelete;
@@ -94,6 +97,14 @@ public class Trial {
     @JoinColumn(name = "trial_id")
     @OnDelete(action = OnDeleteAction.CASCADE)
     private List<String> exclusionCriteria = new ArrayList<>();
+
+    @ManyToMany(fetch = FetchType.EAGER)
+    @JoinTable(
+        name = "trial_disease",
+        joinColumns = @JoinColumn(name = "trial_id"),
+        inverseJoinColumns = @JoinColumn(name = "disease_id")
+    )
+    private List<Disease> diseases = new ArrayList<>();
 
     public String getTitle() {
         return title;
@@ -259,6 +270,19 @@ public class Trial {
 
     public Trial setStartDate(LocalDate startDate) {
         this.startDate = startDate;
+        return this;
+    }
+
+    @JsonManagedReference(value = "trials-diseases")
+    public List<Disease> getDiseases() {
+        return diseases;
+    }
+
+    public Trial setDiseases(List<Disease> diseases) {
+        this.diseases.clear();
+        if (diseases != null) {
+            this.diseases.addAll(diseases);
+        }
         return this;
     }
 }

@@ -64,7 +64,7 @@ public class DiagnoseMapperTest {
         Disease disease = new Disease()
             .setId(1L)
             .setName("test")
-            .setSynonyms("fest")
+            .setLink("fest")
             ;
         Diagnose diagnose = new Diagnose()
             .setId(1L)

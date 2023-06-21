@@ -61,11 +61,11 @@ export class CreateEditTrialComponent implements OnInit {
   ngOnInit() {
 
     this.trialForm = this.formBuilder.group({
-      title: ['', [Validators.required, Validators.maxLength(255)]],
+      title: ['', [Validators.required]],
       startDate: ['', [Validators.required]],
       endDate: ['', [Validators.required]],
       studyType: ['', [Validators.required, Validators.maxLength(255)]],
-      briefSummary: ['', [Validators.required, Validators.maxLength(255)]],
+      briefSummary: ['', [Validators.required]],
       detailedSummary: ['', [Validators.required]],
       sponsor: ['', [Validators.required, Validators.maxLength(255)]],
       collaborator: ['', [Validators.required, Validators.maxLength(255)]],

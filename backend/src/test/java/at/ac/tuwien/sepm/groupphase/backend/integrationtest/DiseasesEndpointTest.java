@@ -47,7 +47,7 @@ public class DiseasesEndpointTest {
 
     @Test
     public void testGetSpecificDisease() throws Exception {
-        Disease disease = new Disease().setName("Diabetes mellitus").setSynonyms("Zuckerkrankheit");
+        Disease disease = new Disease().setName("Diabetes mellitus").setLink("https://en.wikipedia.org/wiki/Diabetes");
         diseaseRepository.save(disease);
 
         MvcResult mvcResult = this.mockMvc.perform(get(USER_BASE_URI + "?name=Dia&limit=5"))
@@ -66,12 +66,12 @@ public class DiseasesEndpointTest {
 
         assertEquals(recv.id(), disease.getId());
         assertEquals(recv.name(), disease.getName());
-        assertEquals(recv.synonyms(), disease.getSynonyms());
+        assertEquals(recv.link(), disease.getLink());
     }
 
     @Test
     public void testGetSpecificPatientError() throws Exception {
-        Disease disease = new Disease().setName("Diabetes mellitus").setSynonyms("Zuckerkrankheit");
+        Disease disease = new Disease().setName("Diabetes mellitus").setLink("https://en.wikipedia.org/wiki/Diabetes");
         diseaseRepository.save(disease);
 
         MvcResult mvcResult = this.mockMvc.perform(get(USER_BASE_URI + "?name=PV-Syndrome&limit=5"))

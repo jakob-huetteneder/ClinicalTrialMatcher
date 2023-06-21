@@ -1,5 +1,6 @@
 package at.ac.tuwien.sepm.groupphase.backend.datagenerator;
 
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.DiseaseDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.PatientMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Diagnose;
@@ -8,25 +9,21 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
 import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
+import at.ac.tuwien.sepm.groupphase.backend.service.AdmissionNoteAnalyzerService;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import net.datafaker.Faker;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.data.elasticsearch.core.ElasticsearchOperations;
-import org.springframework.http.HttpEntity;
-import org.springframework.http.HttpHeaders;
-import org.springframework.http.MediaType;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
-import org.springframework.web.client.RestTemplate;
 
 import java.io.InputStream;
 import java.lang.invoke.MethodHandles;
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
-import java.util.HashSet;
 import java.util.Random;
 import java.util.Set;
+import java.util.stream.Collectors;
 
 /**
  * This class generates representative patient data.
@@ -42,13 +39,16 @@ public class PatientDataGenerator {
     private final PatientMapper patientMapper;
     private final ObjectMapper objectMapper;
     private final UserDataGenerator userDataGenerator;
+    private final AdmissionNoteAnalyzerService admissionNoteAnalyzerService;
 
-    public PatientDataGenerator(PatientRepository patientRepository, ElasticsearchOperations elasticsearchOperations, PatientMapper patientMapper, ObjectMapper objectMapper, UserDataGenerator userDataGenerator) {
+    public PatientDataGenerator(PatientRepository patientRepository, ElasticsearchOperations elasticsearchOperations, PatientMapper patientMapper,
+                                ObjectMapper objectMapper, UserDataGenerator userDataGenerator, AdmissionNoteAnalyzerService admissionNoteAnalyzerService) {
         this.patientRepository = patientRepository;
         this.elasticsearchOperations = elasticsearchOperations;
         this.patientMapper = patientMapper;
         this.objectMapper = objectMapper;
         this.userDataGenerator = userDataGenerator;
+        this.admissionNoteAnalyzerService = admissionNoteAnalyzerService;
     }
 
     /**
@@ -130,38 +130,26 @@ public class PatientDataGenerator {
         try {
             String[] admissionNotes = objectMapper.readValue(file, String[].class);
 
-            RestTemplate restTemplate = new RestTemplate();
-            String url = "http://localhost:5000/";
-
-            HttpHeaders headers = new HttpHeaders();
-            headers.add("Content-Type", MediaType.TEXT_PLAIN_VALUE);
+            LOG.info("Parsing {} admission notes", admissionNotes.length);
 
             for (String admissionNote : admissionNotes) {
-                LOG.info("Sending admission note: {}", admissionNote);
-                HttpEntity<String> request = new HttpEntity<>(admissionNote, headers);
 
-                ResponseEntity<String[]> diseasesResponse = restTemplate.postForEntity(url + "extract_entities", request, String[].class);
-                String[] diseases = diseasesResponse.getBody();
-                LOG.info("{} diseases found", diseases.length);
+                Integer age = admissionNoteAnalyzerService.extractAge(admissionNote);
 
-                Set<Diagnose> diagnoses = new HashSet<>();
-                for (String disease : diseases) {
-                    LOG.info("Disease: {}", disease);
-                    Diagnose diagnose = new Diagnose()
-                        .setDisease(
-                            new Disease()
-                                .setName(disease)
-                        );
-                    diagnoses.add(diagnose);
+                Gender gender = admissionNoteAnalyzerService.extractGender(admissionNote);
+                if (gender == Gender.BOTH) {
+                    gender = Gender.values()[faker.random().nextInt(0, 1)];
                 }
 
-                ResponseEntity<Integer> ageResponse = restTemplate.postForEntity(url + "extract_age", request, Integer.class);
-                Integer age = ageResponse.getBody();
-                LOG.info("Age: {}", age);
+                Set<DiseaseDto> diseases = admissionNoteAnalyzerService.extractDiseases(admissionNote);
 
-                ResponseEntity<String> genderResponse = restTemplate.postForEntity(url + "extract_gender", request, String.class);
-                String genderString = genderResponse.getBody();
-                LOG.info("Gender: {}", genderString);
+
+                Set<Diagnose> diagnoses = diseases.stream().map(diseaseDto -> {
+                    Disease disease = new Disease()
+                        .setName(diseaseDto.name());
+                    return new Diagnose()
+                        .setDisease(disease);
+                }).collect(Collectors.toSet());
 
                 String firstName = faker.name().firstName();
                 String lastName = faker.name().lastName();
@@ -173,14 +161,8 @@ public class PatientDataGenerator {
                     .setEmail(email)
                     .setAdmissionNote(admissionNote)
                     .setBirthdate(LocalDate.now().minusYears(age).plus(faker.random().nextInt(-100, 100), ChronoUnit.DAYS))
-                    .setDiagnoses(diagnoses);
-                if (genderString.equals("m")) {
-                    patient.setGender(Gender.MALE);
-                } else if (genderString.equals("f")) {
-                    patient.setGender(Gender.FEMALE);
-                } else {
-                    patient.setGender(Gender.values()[faker.random().nextInt(0, 1)]);
-                }
+                    .setDiagnoses(diagnoses)
+                    .setGender(gender);
 
                 patient = patientRepository.save(patient);
                 elasticsearchOperations.save(patient);

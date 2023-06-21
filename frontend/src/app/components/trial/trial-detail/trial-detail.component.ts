@@ -5,6 +5,7 @@ import {ToastrService} from 'ngx-toastr';
 import {Trial, TrialRegistrationStatus} from '../../../dtos/trial';
 import {AuthService} from '../../../services/auth.service';
 import {Role} from '../../../dtos/role';
+import {LinkService} from '../../../services/link.service.';
 
 @Component({
   selector: 'app-trial-detail',
@@ -23,6 +24,7 @@ export class TrialDetailComponent implements OnInit {
     private route: ActivatedRoute,
     private notification: ToastrService,
     public authService: AuthService,
+    private linkService: LinkService,
   ) {
   }
 
@@ -75,7 +77,6 @@ export class TrialDetailComponent implements OnInit {
   }
 
 
-
   registrationStatusClass(): string {
     if (this.trialApplicationStatus === TrialRegistrationStatus.proposed) {
       return 'border-orange-200 bg-orange-100 text-orange-800';
@@ -89,10 +90,19 @@ export class TrialDetailComponent implements OnInit {
 
   }
 
+  getLinkedBriefSummary(): string {
+    return this.linkService.filter(this.trial.briefSummary, this.trial.diseases);
+  }
+
+  getLinkedDetailedSummary(): string {
+    return this.linkService.filter(this.trial.detailedSummary, this.trial.diseases);
+  }
+
   private loadTrial(): void {
     this.trialService.getById(this.trial.id).subscribe({
       next: trial => {
         this.trial = trial;
+        console.log(trial);
       },
       error: error => {
         console.error('Error ', error.error.message);
