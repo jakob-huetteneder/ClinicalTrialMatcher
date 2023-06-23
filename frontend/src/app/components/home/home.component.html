@@ -1,4 +1,4 @@
-<div class="jumbotron mt-5">
+<div class="jumbotron mt-5" xmlns="http://www.w3.org/1999/html">
 
   <div class="fw-bold grid grid-cols-1 justify-items-center container ml-3 text-in-button">
     <div class="text-xl mb-6">ClinicalMatcher is a place to learn about clinical studies from around the world.</div>
@@ -6,24 +6,54 @@
 
 
   <div class="whitebox flex justify-center mb-10">
-    <div class="flex flex-row container w-full">
+    <div>
+
+      <div class="font-bold">What is clinical matcher?</div>
+      <div class="text" [class]="this.showMoreInfo ? '' : 'line-clamp-2'">
+        <p>
+          Welcome to ClinicalTrialMatcher, your ultimate resource for streamlined access to cutting-edge clinical trials. We understand that finding the right clinical trial can be a complex and time-consuming process, which is why we are dedicated to simplifying and enhancing the entire experience for people like you.
+        </p>
+        <p>
+          At ClinicalTrialMatcher, our mission is to bridge the gap between patients seeking innovative treatment options and the world of clinical research. We firmly believe that every individual should have equal opportunities to explore potentially life-changing clinical trials. Our user-friendly platform empowers patients by providing a comprehensive database of trials, effectively connecting them with the most suitable research studies available.
+        </p>
+        <p>
+          Our website boasts a robust and intuitive matching system that takes into account your unique medical history, preferences, and location. By leveraging advanced algorithms and extensive medical knowledge, we streamline the process of finding trials that align with your specific needs. Say goodbye to countless hours of searching and filtering through endless listings. With ClinicalTrialMatcher, the ideal trials are just a few clicks away.
+        </p>
+        <p>
+          We prioritize simplicity and clarity in every aspect of our website. Detailed trial profiles provide you with comprehensive information about the purpose, eligibility criteria, study duration, and potential benefits of each trial. Additionally, we offer user-friendly guides and resources to help you navigate the trial process, ensuring that you are fully informed and confident every step of the way.
+        </p>
+        </div>
+      <button id="moreInfo"
+              class="flex-initial bg-blue-100 rounded py-0 px-2 text-blue-500 font-light border-blue-950 drop-shadow-sm text"
+              (click)="moreInfo()"
+              routerLinkActive="active">More Info
+      </button>
+    </div>
+    <hr class="mt-0 mb-0 ml-4 w-full" style="border: 2px solid #CDE2F0;">
+    <div class="flex flex-row container w-full items-center gap-2">
       <div class="flex flex-row w-full font-medium text-blue-950" style="align-items: center;">
         <i class="bi-search opacity-60" style="color: #235491"></i>
-        <input id="q" name="q" class="max-h-[2.5rem] my-0 inputfield mx-4"
+        <input id="q" name="q" class="max-h-[2.5rem] my-0 inputfield ml-4 grow"
                placeholder="What are you looking for today?" [(ngModel)]="keyword" (ngModelChange)="searchWithFilter()">
       </div>
-      <div class="w-full" style="align-items: center; max-width: 321px !important;">
-        <button class="bi-x-lg mr-4" style="color:#1e5075" onclick="q.value = '';" (click)="keyword = ''; searchWithFilter()"></button>
-        <button
-          class="flex-initial bg-blue-300 rounded w-35 py-2 px-4 text-blue-900 font-semibold border-blue-950 drop-shadow-sm ml-2 text-sm"
-          (click)="searchWithFilter()" routerLinkActive="active">Search
-        </button>
-        <button
-          class="flex-initial bg-blue-50 rounded w-35 py-2 px-4 text-blue-900 font-semibold border-blue-950 drop-shadow-sm ml-2 text-sm"
-          routerLink="/" routerLinkActive="active" (click)="advanced = !advanced">Advanced Filters <i
-          class="bi-chevron-right"></i>
-        </button>
+      <button *ngIf="!searching" class="bi-x-lg" style="width: 30px; color:#1e5075" onclick="q.value = '';" (click)="keyword = ''; searchWithFilter()"></button>
+      <div *ngIf="searching">
+        <svg class="animate-spin h-5 w-5 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none"
+             viewBox="0 0 24 24">
+          <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+          <path class="opacity-75" fill="currentColor"
+                d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+        </svg>
       </div>
+      <button
+        class="flex-initial bg-blue-300 rounded w-35 py-2 px-4 text-blue-900 font-semibold border-blue-950 drop-shadow-sm text-sm"
+        (click)="searchWithFilter()" routerLinkActive="active">Search
+      </button>
+      <button
+        class="flex-initial bg-blue-50 rounded w-56 py-2 px-4 text-blue-900 font-semibold border-blue-950 drop-shadow-sm text-sm"
+        routerLink="/" routerLinkActive="active" (click)="advanced = !advanced">Advanced Filters <i
+        class="bi-chevron-right"></i>
+      </button>
     </div>
     <hr class="mt-0 ml-4 mb-4 w-full" style="border: 2px solid #CDE2F0;">
     <div class="mainsearch__cat" *ngIf="isAdvancedSearch()">
@@ -92,16 +122,6 @@
       </div>
     </div>
 
-    <div *ngIf="!isSearching()">
-      <div class="font-bold">What is clinical matcher?</div>
-      <div class="text" id="li" [innerHTML]="lipsum">
-      </div>
-      <button id="moreInfo"
-              class="flex-initial bg-blue-100 rounded py-0 px-2 text-blue-500 font-light border-blue-950 drop-shadow-sm text"
-              (click)="moreInfo()"
-              routerLinkActive="active">More Info
-      </button>
-    </div>
     <div class="flex flex-col divide-y-[3px] w-[96%] mx-auto divide-[#CDE2F0]/[0.25]">
       <app-trial-list-item *ngFor="let trial of trials" class="py-2"
       [trial]="trial">

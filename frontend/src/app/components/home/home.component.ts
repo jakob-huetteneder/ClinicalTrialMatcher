@@ -17,6 +17,8 @@ export class HomeComponent implements OnInit {
 
   keyword = '';
 
+  showMoreInfo = false;
+
   searching = false;
 
   advanced = false;
@@ -29,16 +31,6 @@ export class HomeComponent implements OnInit {
     endDate: null,
     startDate: null
   };
-
-  lipsum: string = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit,' +
-    '      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' +
-    '      Amet facilisis magna etiam tempor orci eu.' +
-    '      Cursus vitae congue mauris rhoncus aenean vel elit scelerisque.' +
-    '      At consectetur lorem donec massa sapien faucibus et. Mi ipsum faucibus vitae aliquet.' +
-    '      In hendrerit gravida rutrum quisque non tellus orci ac auctor.' +
-    '      Ut diam quam nulla porttitor massa id neque aliquam.' +
-    '      Dui accumsan sit amet nulla facilisi morbi tempus iaculis.' +
-    '      Sollicitudin aliquam ultrices sagittis orci a scelerisque...';
 
   constructor(public authService: AuthService, private trialService: TrialService, private notification: ToastrService) {
   }
@@ -58,36 +50,12 @@ export class HomeComponent implements OnInit {
 
   public moreInfo(): void {
     if (document.getElementById('moreInfo').innerHTML === 'Less Info') {
-      this.lipsum = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit,' +
-        '      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' +
-        '      Amet facilisis magna etiam tempor orci eu.' +
-        '      Cursus vitae congue mauris rhoncus aenean vel elit scelerisque.' +
-        '      At consectetur lorem donec massa sapien faucibus et. Mi ipsum faucibus vitae aliquet.' +
-        '      In hendrerit gravida rutrum quisque non tellus orci ac auctor.' +
-        '      Ut diam quam nulla porttitor massa id neque aliquam.' +
-        '      Dui accumsan sit amet nulla facilisi morbi tempus iaculis.' +
-        '      Sollicitudin aliquam ultrices sagittis orci a scelerisque...';
       document.getElementById('moreInfo').innerHTML = 'More Info';
+      this.showMoreInfo = false;
     } else {
-      this.lipsum = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit,' +
-        '      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' +
-        '      Amet facilisis magna etiam tempor orci eu.' +
-        '      Cursus vitae congue mauris rhoncus aenean vel elit scelerisque.' +
-        '      At consectetur lorem donec massa sapien faucibus et. Mi ipsum faucibus vitae aliquet.' +
-        '      In hendrerit gravida rutrum quisque non tellus orci ac auctor.' +
-        '      Ut diam quam nulla porttitor massa id neque aliquam.' +
-        '      Dui accumsan sit amet nulla facilisi morbi tempus iaculis.' +
-        '      Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper eget.' +
-        '      Purus sit amet luctus venenatis lectus magna.' +
-        '      Condimentum vitae sapien pellentesque habitant morbi tristique.' +
-        '      Arcu felis bibendum ut tristique et egestas quis.' +
-        '      At ultrices mi tempus imperdiet nulla malesuada pellentesque.' +
-        '      Condimentum vitae sapien pellentesque habitant.' +
-        '      Pulvinar neque laoreet suspendisse interdum consectetur libero.' +
-        '      Nisl tincidunt eget nullam non nisi est.';
       document.getElementById('moreInfo').innerHTML = 'Less Info';
+      this.showMoreInfo = true;
     }
-    document.getElementById('li').innerHTML = this.lipsum;
   }
 
   public isSearching() {
@@ -98,24 +66,11 @@ export class HomeComponent implements OnInit {
     return this.advanced;
   }
 
-  public search() {
-    this.searching = true;
-    this.trialService.searchForTrial(this.keyword).subscribe({
-      next: (trials: Trial[]) => {
-        this.trials = trials;
-      },
-      error: error => {
-        console.log('Something went wrong while loading users: ' + error.error.message);
-        this.notification.error(error.error.message, 'Something went wrong while loading users');
-        console.log(error);
-      }
-    });
-  }
-
   public searchWithFilter() {
     this.searching = true;
     this.trialService.searchForTrialWithFilter(this.keyword, this.filter).subscribe({
       next: (trials: Trial[]) => {
+        this.searching = false;
         this.trials = trials;
       },
       error: error => {
