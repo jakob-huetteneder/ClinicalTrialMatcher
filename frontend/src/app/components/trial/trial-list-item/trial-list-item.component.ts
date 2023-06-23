@@ -1,4 +1,4 @@
-import {Component, EventEmitter, Input, Output} from '@angular/core';
+import {Component, Input} from '@angular/core';
 import {Trial, TrialStatus} from 'src/app/dtos/trial';
 import {TrialListService} from '../../../services/trial-list.service';
 import {TrialList} from '../../../dtos/trial-list';
@@ -16,28 +16,7 @@ export class TrialListItemComponent {
   trial: Trial;
 
   @Input()
-  showDeleteButton = false;
-  @Input()
-  deleteText = 'Trial will be lost permanently.';
-
-  @Input()
-  showEditButton = false;
-
-  @Input()
-  showStatisticsButton = false;
-
-  @Input()
   showListSelector = true;
-
-  @Output()
-  deleteTrial = new EventEmitter<any>();
-
-  @Output()
-  editTrial = new EventEmitter<any>();
-
-  @Output()
-  showStatistics = new EventEmitter<any>();
-
 
   allLists: TrialList[];
 

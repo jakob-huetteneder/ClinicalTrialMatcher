@@ -48,15 +48,15 @@
 
     <div class="flex flex-row justify-end gap-1">
       <div class="flex flex-row dateloc" [hidden]="!showListSelector || !authService.isLoggedIn()">
-      <a class="group relative dropdown cursor-pointer tracking-wide px-2 flex flex-row border-slate-400 rounded no-underline gap-1" style="border-width: 1px;">
-        <div class="text-in-button no-underline text-cool-blue-600">Add to list</div>
-        <i class="bi-chevron-down w-4 text-cool-blue-600"></i>
+      <a class="group relative dropdown cursor-pointer tracking-wide px-2 flex flex-row border-slate-400 rounded no-underline gap-1 align-items-center" style="border-width: 1px;">
+        <div class="text-in-button no-underline text-cool-blue-600 h-min">Add to list</div>
+        <i class="bi-chevron-down w-4 text-cool-blue-600 h-min"></i>
         <div
-          class="absolute z-[1000] mt-4 hidden list-none overflow-hidden rounded-lg bg-white opacity-85 backdrop-blur-md shadow-md group-hover:block right-0">
+          class="absolute z-[1000] mt-4 hidden list-none overflow-hidden rounded-lg bg-gray-50 opacity-85 backdrop-blur-md shadow-md group-hover:block right-0 w-56 top-[1px]">
           <ul class="w-auto px-2 py-2 mb-0" *ngIf="allLists && allLists.length !== 0">
             <li *ngFor="let trialList of allLists" class="flex flex-row justify-between items-center gap-2">
               <a
-                class="block whitespace-nowrap bg-transparent no-underline py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
+                class="block truncate bg-transparent no-underline grow py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
                 [class] = "listContains(trialList, trial) ? 'cursor-not-allowed hover:text-gray-500 text-gray-500' : 'cursor-default'"
                 (click)="addTrialToList(trial, trialList)"
               >{{trialList.name}}</a>
@@ -69,27 +69,12 @@
                 </app-confirm-button>
               </div>
           </ul>
-          <span *ngIf="allLists && allLists.length === 0" class="px-2 py-1 text-sm text-gray-500 cursor-default">Here&nbsp;is&nbsp;nothing</span>
+          <span *ngIf="allLists && allLists.length === 0" class="px-2 py-1 text-sm text-gray-500 cursor-default">No&nbsp;lists</span>
         </div>
       </a>
     </div>
-      <app-confirm-button (click)="buttonClicked($event)" (confirm)="deleteTrial.emit()" [details]="deleteText" [hidden]="!showDeleteButton">
-        <button class="btn btn-sm rounded btn-danger">
-          <i class="bi bi-trash"></i>
-        </button>
-      </app-confirm-button>
-      <button class="btn btn-sm rounded btn-warning h-max"
-              (click)="buttonClicked($event); editTrial.emit()"
-              [hidden]="!showEditButton"
-              aria-label="Edit Trial">
-        <i class="bi bi-pencil"></i>
-      </button>
-      <button class="btn btn-sm rounded btn-secondary h-max"
-              (click)="buttonClicked($event); showStatistics.emit()"
-              [hidden]="!showStatisticsButton"
-              aria-label="Show Trial Statistics">
-        <i class="bi bi-graph-up"></i>
-      </button>
+      <ng-content></ng-content>
+
     </div>
   </div>
 </div>

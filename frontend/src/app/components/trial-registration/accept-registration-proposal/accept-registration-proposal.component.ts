@@ -17,6 +17,7 @@ export class AcceptRegistrationProposalComponent implements OnInit {
   applied: TrialRegistration[] = [];
   accepted: TrialRegistration[] = [];
   declined: TrialRegistration[] = [];
+  all: TrialRegistration[] = [];
 
   constructor(
     private trialService: TrialService,
@@ -43,7 +44,7 @@ export class AcceptRegistrationProposalComponent implements OnInit {
       distinctUntilChanged()).subscribe(
       () => {
         console.log('now searching for: ' + this.search);
-        this.loadRegistrations();
+        this.searchFor(this.search);
       });
   }
 
@@ -61,9 +62,29 @@ export class AcceptRegistrationProposalComponent implements OnInit {
     this.debouncer.next(event);
   }
 
+  searchFor(search: string) {
+    this.proposed = this.all.filter(
+      registration =>
+        registration.status === TrialRegistrationStatus.proposed
+        && registration.trial.title.toLowerCase().includes(search.toLowerCase()));
+    this.applied = this.all.filter(
+      registration =>
+        registration.status === TrialRegistrationStatus.patientAccepted
+        && registration.trial.title.toLowerCase().includes(search.toLowerCase()));
+    this.accepted = this.all.filter(
+      registration =>
+        registration.status === TrialRegistrationStatus.accepted
+        && registration.trial.title.toLowerCase().includes(search.toLowerCase()));
+    this.declined = this.all.filter(
+      registration =>
+        registration.status === TrialRegistrationStatus.declined
+        && registration.trial.title.toLowerCase().includes(search.toLowerCase()));
+  }
+
   private loadRegistrations() {
     this.trialService.getAllRegistrationsForLoggedInPatient().subscribe({
       next: (registrations: TrialRegistration[]) => {
+        this.all = registrations;
         this.proposed = registrations.filter(registration => registration.status === TrialRegistrationStatus.proposed);
         this.applied = registrations.filter(registration => registration.status === TrialRegistrationStatus.patientAccepted);
         this.accepted = registrations.filter(registration => registration.status === TrialRegistrationStatus.accepted);

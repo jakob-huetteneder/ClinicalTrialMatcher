@@ -7,14 +7,12 @@
 
   <div *ngIf="trialList.trial" class="flex flex-col divide-y-[3px] w-[96%] mx-auto divide-[#CDE2F0]/[0.25]">
       <app-trial-list-item *ngFor="let trial of trialList.trial" class="py-2"
-          [trial]="trial"
-          [showStatisticsButton]="false"
-          [showEditButton]="false"
-          [showDeleteButton]="true"
-          [showListSelector]="false"
-          [deleteText]="'Trial will be deleted from your list.'"
-          (deleteTrial)="deleteTrialFromList(trial.id)">
-
+          [trial]="trial">
+        <app-confirm-button (confirm)="deleteTrialFromList(trial.id)" details="Trial will be deleted from your list.">
+          <button class="btn btn-sm rounded btn-danger">
+            <i class="bi bi-trash"></i>
+          </button>
+        </app-confirm-button>
       </app-trial-list-item>
   </div>
 

@@ -6,14 +6,24 @@
   <hr class="container">
 
   <div class="flex flex-col divide-y-[3px] w-[96%] mx-auto divide-[#CDE2F0]/[0.25]">
-    <app-trial-list-item (deleteTrial)="delete(trial)"
-                         (editTrial)="edit(trial)"
-                          (showStatistics)="router.navigate(['/researcher/trials/statistics', trial.id])"
-                         *ngFor="let trial of trials"
-                         [showDeleteButton]="true"
-                         [showEditButton]="true"
-                         [showStatisticsButton]="true"
-                         [trial]="trial"></app-trial-list-item>
+    <app-trial-list-item *ngFor="let trial of trials"
+                         [trial]="trial">
+      <app-confirm-button (confirm)="delete(trial)" details="Trial will be lost permanently.">
+        <button class="btn btn-sm rounded btn-danger">
+          <i class="bi bi-trash"></i>
+        </button>
+      </app-confirm-button>
+      <button class="btn btn-sm rounded btn-warning h-max"
+              (click)="edit(trial)"
+              aria-label="Edit Trial">
+        <i class="bi bi-pencil"></i>
+      </button>
+      <button class="btn btn-sm rounded btn-secondary h-max"
+              (click)="router.navigate(['/researcher/trials/statistics', trial.id])"
+              aria-label="Show Trial Statistics">
+        <i class="bi bi-graph-up"></i>
+      </button>
+    </app-trial-list-item>
   </div>
 
 </div>
