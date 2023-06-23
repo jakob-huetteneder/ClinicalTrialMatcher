@@ -119,7 +119,7 @@ export class MatchingPatientComponent implements OnInit {
   }
 
   public normalizeScore(score: number) {
-    return (this.maxScore - this.minScore) === 0 ? 1.0 :
+    return (this.maxScore - this.minScore) === 0 || isNaN(((score - this.minScore) / (this.maxScore - this.minScore))) ? 1.0 :
       ((score - this.minScore) / (this.maxScore - this.minScore)).toFixed(2);
   }
 
