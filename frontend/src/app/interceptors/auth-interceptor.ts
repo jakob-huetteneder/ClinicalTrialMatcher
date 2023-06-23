@@ -14,7 +14,7 @@ export class AuthInterceptor implements HttpInterceptor {
     const authUri = this.globals.backendUri + '/authentication';
     const usersUri = this.globals.backendUri + '/users';
     const trialsUri = this.globals.backendUri + '/trials';
-    const trialsListUri = this.globals.backendUri + '/trialList';
+    //const trialsListUri = this.globals.backendUri + '/trialList'; do NOT intercept
     const faqUri = this.globals.backendUri + '/faq';
     const searchUri = this.globals.backendUri + '/trials/search';
     const passwordUri = this.globals.backendUri + '/users/password';
@@ -23,7 +23,7 @@ export class AuthInterceptor implements HttpInterceptor {
     if (req.url === authUri // all auth requests
       || (req.url === usersUri && req.method === 'POST') // registration of new users
       || (req.url === passwordUri) // password reset
-      || (req.url === trialsListUri) // get all trials
+      //|| (req.url === trialsListUri) // get all trials
       || (req.url === faqUri) // faq
       || (req.url === trialsUri && req.method === 'GET') // get all trials
       || (req.url.startsWith(searchUri)) // search for trials

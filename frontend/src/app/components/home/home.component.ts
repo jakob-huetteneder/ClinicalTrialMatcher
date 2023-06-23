@@ -5,6 +5,7 @@ import {Filter} from 'src/app/dtos/filter';
 import {TrialService} from '../../services/trial.service';
 import {Trial} from '../../dtos/trial';
 import {ToastrService} from 'ngx-toastr';
+import {debounceTime, Subject} from 'rxjs';
 
 @Component({
   selector: 'app-home',
@@ -12,6 +13,7 @@ import {ToastrService} from 'ngx-toastr';
   styleUrls: ['./home.component.scss']
 })
 export class HomeComponent implements OnInit {
+  searchSubject = new Subject<string>();
 
   trials: Trial[] = [];
 
@@ -33,19 +35,19 @@ export class HomeComponent implements OnInit {
   };
 
   constructor(public authService: AuthService, private trialService: TrialService, private notification: ToastrService) {
+    this.searchSubject
+      .pipe(debounceTime(500)) // Adjust the debounce time as desired (in milliseconds)
+      .subscribe(() => {
+        this.searchWithFilter();
+      });
   }
 
   ngOnInit() {
     this.searchWithFilter();
   }
 
-  public dynamicCssClassesForInput(input: NgModel): any {
-    return {
-      // This names in this object are determined by the style library,
-      // requiring it to follow TypeScript naming conventions does not make sense.
-      // eslint-disable-next-line @typescript-eslint/naming-convention
-      'is-invalid': !input.valid && !input.pristine,
-    };
+  onKeywordChange(): void {
+    this.searchSubject.next(this.keyword);
   }
 
   public moreInfo(): void {

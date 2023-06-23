@@ -1,4 +1,4 @@
-import {Component, OnInit} from '@angular/core';
+import {Component, ElementRef, OnInit, ViewChild} from '@angular/core';
 import {Faq} from '../../dtos/faq';
 import {ToastrService} from 'ngx-toastr';
 import {FaqService} from '../../services/faq.service';
@@ -10,6 +10,7 @@ import {AuthService} from '../../services/auth.service';
   styleUrls: ['./interactivefaq.component.scss']
 })
 export class InteractivefaqComponent implements OnInit {
+  @ViewChild('chatBox') chatBoxRef!: ElementRef;
   messageList: Faq[] = [];
   chatStatus = false;
   role = '';
@@ -43,6 +44,7 @@ export class InteractivefaqComponent implements OnInit {
     this.faqService.getFaqAnswer(keyword, this.role).subscribe({
       next: (message: Faq) => {
         this.messageList.push(message);
+        this.scrollToBottom();
       },
       error: error => {
         console.log('Something went wrong while loading answers: ' + error.error.message);
@@ -50,5 +52,13 @@ export class InteractivefaqComponent implements OnInit {
         console.log(error);
       }
     });
+  }
+  scrollToBottom(): void {
+    const chatBox = document.getElementById('chatBox');
+    if (chatBox) {
+      setTimeout(() => {
+        chatBox.scrollTop = chatBox.scrollHeight;
+      }, 0);
+    }
   }
 }

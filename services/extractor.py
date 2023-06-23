@@ -55,8 +55,11 @@ def pipelineN(text):
 def extract_entities(text):
     inputs = tokenizer.encode(text, return_tensors="pt")
     outputs = model(inputs)[0]
+    #print(outputs)
     predictions = torch.argmax(outputs, dim=2)
+    #print(predictions)
     tokens = tokenizer.convert_ids_to_tokens(inputs[0])
+    #print(tokens)
 
     entities = []
        

@@ -1,25 +1,21 @@
 <div *ngIf="isChatOpen()" class="chat-popup" id="myForm">
 
-  <div class="chat-header">
-    <p>Chat with Iris</p>
-    <button class="bi-chevron-down mr-4" (click)="chatStatus = !chatStatus"></button>
-    <button class="bi-x-lg mr-4" (click)="chatStatus = !chatStatus; resetMessages()"></button>
+  <div class="bg-sky-800 rounded-top grid grid-cols-2">
+    <p class="flex flex-initial justify-start m-3 text-md text-slate-100 fw-semibold">Chat with Iris</p>
+    <div class="flex justify-end m-3 -mr-3">
+      <i class="bi-chevron-down mr-4 hover:cursor-pointer text-white" (click)="chatStatus = !chatStatus"></i>
+      <i class="bi-x-lg mr-2 hover:cursor-pointer text-white" (click)="chatStatus = !chatStatus; resetMessages()"></i>
+    </div>
   </div>
-  <div class="chat-box">
-    <!--<div>
+
+  <div class="chat-box" id="chatBox" #chatBox>
+    <div *ngFor="let message of messageList" class="chat-message-container">
       <h2 class="bi-person-circle"></h2>
-      <div class="chat-message"> Hello my name is Ada. How may I help you?</div>
-      <button class="chat-button" (click)="sendFaq('registrtion')">Registration</button>
-      <button class="chat-button" (click)="sendFaq('login')">Login</button>
-      <button class="chat-button" (click)="sendFaq('trials')">Finding Trials</button>
-      <button class="chat-button" (click)="sendFaq('profile')">Changing my profile</button>
-    </div>-->
-   <div *ngFor="let message of messageList" class="chat-message-container">
-     <h2 class="bi-person-circle"></h2>
-     <div class="chat-message">{{message.message}}</div>
-     <button class="chat-button" *ngFor="let entry of message.buttons | keyvalue" (click)="sendFaq(entry.key)">{{entry.value}}</button>
-   </div>
+      <div class="chat-message bg-white text-slate-800">{{message.message}}</div>
+      <button class="rounded text-slate-100 bg-sky-700 hover:bg-sky-800 mt-2 fw-semibold" *ngFor="let entry of message.buttons | keyvalue"
+              (click)="sendFaq(entry.key)">{{entry.value}}</button>
+    </div>
   </div>
 </div>
 
-<h1 *ngIf="!isChatOpen()" class="bi-chat-dots-fill" (click)="chatStatus = !chatStatus"></h1>
+<h1 *ngIf="!isChatOpen()" class="hover:cursor-pointer bi-chat-dots-fill" (click)="chatStatus = !chatStatus"></h1>

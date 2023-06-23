@@ -34,7 +34,7 @@
       <div class="flex flex-row w-full font-medium text-blue-950" style="align-items: center;">
         <i class="bi-search opacity-60" style="color: #235491"></i>
         <input id="q" name="q" class="max-h-[2.5rem] my-0 inputfield ml-4 grow"
-               placeholder="What are you looking for today?" [(ngModel)]="keyword" (ngModelChange)="searchWithFilter()">
+               placeholder="What are you looking for today?" [(ngModel)]="keyword" (ngModelChange)="onKeywordChange()">
       </div>
       <button *ngIf="!searching" class="bi-x-lg" style="width: 30px; color:#1e5075" onclick="q.value = '';" (click)="keyword = ''; searchWithFilter()"></button>
       <div *ngIf="searching">
@@ -111,10 +111,6 @@
               </select>
             </div>
           </li>
-          <!--<li (click)="(filter.recruiting = 1) && searchFilter()"
-              [ngStyle]="{'background': (filter.recruiting === 1) ? '#162E51' : '#f0f0f0',  'color': (filter.recruiting === 1) ? 'white' : '#235491'}">
-            <button>Not recruiting</button>
-          </li>-->
           <li (click)="resetFilter()" style="background-color: rgb(147 197 253)">
             <button>Clear all Filters</button>
           </li>
@@ -125,8 +121,6 @@
     <div class="flex flex-col divide-y-[3px] w-[96%] mx-auto divide-[#CDE2F0]/[0.25]">
       <app-trial-list-item *ngFor="let trial of trials" class="py-2"
       [trial]="trial">
-
-
       </app-trial-list-item>
     </div>
   </div>
