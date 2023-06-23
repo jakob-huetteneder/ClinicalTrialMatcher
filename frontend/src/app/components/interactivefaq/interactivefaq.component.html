@@ -1,0 +1,21 @@
+<div *ngIf="isChatOpen()" class="chat-popup" id="myForm">
+
+  <div class="bg-sky-800 rounded-top grid grid-cols-2">
+    <p class="flex flex-initial justify-start m-3 text-md text-slate-100 fw-semibold">Chat with Iris</p>
+    <div class="flex justify-end m-3 -mr-3">
+      <i class="bi-chevron-down mr-4 hover:cursor-pointer text-white" (click)="chatStatus = !chatStatus"></i>
+      <i class="bi-x-lg mr-2 hover:cursor-pointer text-white" (click)="chatStatus = !chatStatus; resetMessages()"></i>
+    </div>
+  </div>
+
+  <div class="chat-box" id="chatBox" #chatBox>
+    <div *ngFor="let message of messageList" class="chat-message-container">
+      <h2 class="bi-person-circle"></h2>
+      <div class="chat-message bg-white text-slate-800">{{message.message}}</div>
+      <button class="rounded text-slate-100 bg-sky-700 hover:bg-sky-800 mt-2 fw-semibold" *ngFor="let entry of message.buttons | keyvalue"
+              (click)="sendFaq(entry.key)">{{entry.value}}</button>
+    </div>
+  </div>
+</div>
+
+<h1 *ngIf="!isChatOpen()" class="hover:cursor-pointer bi-chat-dots-fill" (click)="chatStatus = !chatStatus"></h1>

@@ -1,0 +1,71 @@
+.chat-popup {
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  flex-direction: column;
+  flex-flow: column wrap;
+  padding: 0;
+
+  width: 350px;
+  height: 500px;
+
+  background: #CDE2F0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+}
+
+.chat-box {
+  flex: 1;
+  flex-direction: column;
+  overflow-y: auto;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.bi-person-circle {
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  min-width: 50px;
+  min-height: fit-content;
+  align-self: baseline;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-bottom: 0;
+
+  position: relative;
+  top: 48px;
+
+  color: #308BC8;
+}
+
+.chat-message {
+  display: flex;
+  margin: 10px auto 10px auto;
+  padding: 5px;
+
+  width: 70%;
+
+  background: #FFFFFF;
+  border-radius: 4px;
+}
+
+.chat-box button {
+  display: flex;
+  margin: 10px auto 10px auto;
+  padding: 5px;
+
+  text-align: start;
+
+  width: 70%;
+
+  border-radius: 4px;
+}
+
+.bi-chat-dots-fill {
+  color: #0071BC;
+  position: fixed;
+  bottom: 0;
+  right: 15px;
+}

@@ -39,6 +39,7 @@ import {
   RequestPatientComponent
 } from './components/doctor-patient-connection/request-patient/request-patient.component';
 import {ViewRequestsComponent} from './components/doctor-patient-connection/view-requests/view-requests.component';
+import { InteractivefaqComponent } from './components/interactivefaq/interactivefaq.component';
 import {
   ViewConnectionsComponent
 } from './components/doctor-patient-connection/view-connections/view-connections.component';
@@ -83,6 +84,7 @@ import {MatButtonToggleModule} from '@angular/material/button-toggle';
     RequestPatientComponent,
     ViewRequestsComponent,
     ViewConnectionsComponent,
+    InteractivefaqComponent,
     MatchingPatientComponent,
     TrialListItemComponent,
     StatisticsComponent,
@@ -92,6 +94,7 @@ import {MatButtonToggleModule} from '@angular/material/button-toggle';
     PatientEditComponent,
     SearchComponent,
     TrialListComponent,
+    InteractivefaqComponent
   ],
   imports: [
     BrowserModule,
