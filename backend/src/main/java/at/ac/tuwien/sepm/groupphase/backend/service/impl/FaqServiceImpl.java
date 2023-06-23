@@ -1,34 +1,29 @@
 package at.ac.tuwien.sepm.groupphase.backend.service.impl;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.FaqDto;
-import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.UserMapper;
-import at.ac.tuwien.sepm.groupphase.backend.repository.UserRepository;
-import at.ac.tuwien.sepm.groupphase.backend.security.AuthorizationService;
-import at.ac.tuwien.sepm.groupphase.backend.service.EmailService;
 import at.ac.tuwien.sepm.groupphase.backend.service.FaqService;
 import at.ac.tuwien.sepm.groupphase.backend.util.GetProperties;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
 import java.lang.invoke.MethodHandles;
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Properties;
+
 
 @Service
 public class FaqServiceImpl implements FaqService {
 
     private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
 
-    private final static GetProperties getProperties = new GetProperties();
-    private final static Properties prop = getProperties.readProperties();
-    private final AuthorizationService authorizationService;
+    private final GetProperties getProperties = new GetProperties();
+    private final Properties prop = getProperties.readProperties();
 
     @Autowired
-    public FaqServiceImpl(UserRepository userRepository, AuthorizationService authorizationService,
-                          UserMapper userMapper, PasswordEncoder passwordEncoder, EmailService emailService) {
-        this.authorizationService = authorizationService;
+    public FaqServiceImpl() {
     }
 
     @Override

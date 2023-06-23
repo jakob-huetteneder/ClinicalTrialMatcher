@@ -1,8 +1,8 @@
 import {Injectable} from '@angular/core';
 import {HttpClient, HttpParams} from '@angular/common/http';
 import {Observable} from 'rxjs';
-import {User} from '../dtos/user';
-import {Faq} from "../dtos/faq";
+import {Faq} from '../dtos/faq';
+import {environment} from '../../environments/environment';
 
 const baseUri = environment.backendUrl + '/api/v1/faq';
 
@@ -16,9 +16,10 @@ export class FaqService {
   }
 
   /**
-   * Set the password for a new user.
+   * Get faq awnsers
    *
-   * @param message the user to set password
+   * @param message the question
+   * @param role the role of the user
    * @return observable
    */
   getFaqAnswer(message: string, role: string): Observable<Faq> {
