@@ -17,7 +17,7 @@
 
       <div class="text-sm font-semibold text-cool-blue-500">
         <i class="bi bi-calendar-week mr-2"></i>
-        {{trial.startDate}} - {{trial.endDate}}
+        {{trial.startDate | date: 'dd.MM.yyyy'}} - {{trial.endDate | date: 'dd.MM.yyyy'}}
       </div>
     </div>
 
@@ -46,19 +46,43 @@
       </div>
     </div>
 
-    <div class="flex flex-row justify-end">
+    <div class="flex flex-row justify-end gap-1">
+      <div class="flex flex-row dateloc" [hidden]="!showListSelector">
+      <a class="group relative dropdown cursor-pointer tracking-wide px-2 flex flex-row border-slate-400 rounded no-underline gap-1" style="border-width: 1px;">
+        <div class="text-in-button no-underline text-cool-blue-600">Add to list</div>
+        <i class="bi-chevron-down w-4 text-cool-blue-600"></i>
+        <div
+          class="absolute z-[1000] mt-4 hidden list-none overflow-hidden rounded-lg bg-white opacity-85 backdrop-blur-md shadow-md group-hover:block right-0">
+          <ul class="w-auto px-2 py-2 mb-0">
+            <li *ngFor="let trialList of allLists" class="flex flex-row justify-between items-center gap-2">
+              <a
+                class="block whitespace-nowrap bg-transparent no-underline py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
+                (click)="addTrialToList(trial, trialList)"
+              >{{trialList.name}}</a>
+              <div *ngIf="listContains(trialList, trial)">
+                <app-confirm-button (confirm)="deleteTrialFromList(trial.id, trialList)" details="Trial list will be deleted from {{trialList.name}}.">
+                  <a class="text-red-600 hover:text-red-900"
+                     aria-label="Delete Trial List">
+                    <i class="bi bi-trash"></i>
+                  </a>
+                </app-confirm-button>
+              </div>
+          </ul>
+        </div>
+      </a>
+    </div>
       <app-confirm-button (click)="buttonClicked($event)" (confirm)="deleteTrial.emit()" [details]="deleteText" [hidden]="!showDeleteButton">
         <button class="btn btn-sm rounded btn-danger">
           <i class="bi bi-trash"></i>
         </button>
       </app-confirm-button>
-      <button class="btn btn-sm rounded btn-warning ml-1"
+      <button class="btn btn-sm rounded btn-warning h-max"
               (click)="buttonClicked($event); editTrial.emit()"
               [hidden]="!showEditButton"
               aria-label="Edit Trial">
         <i class="bi bi-pencil"></i>
       </button>
-      <button class="btn btn-sm rounded btn-secondary ml-1"
+      <button class="btn btn-sm rounded btn-secondary h-max"
               (click)="buttonClicked($event); showStatistics.emit()"
               [hidden]="!showStatisticsButton"
               aria-label="Show Trial Statistics">

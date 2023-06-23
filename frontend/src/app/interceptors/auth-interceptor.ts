@@ -22,7 +22,7 @@ export class AuthInterceptor implements HttpInterceptor {
       || (req.url === usersUri && req.method === 'POST') // registration of new users
       || (req.url === passwordUri) // password reset
       || (req.url === trialsUri && req.method === 'GET') // get all trials
-      || (req.url.startsWith(searchUri) && req.method === 'GET') // search for trials
+      || (req.url.startsWith(searchUri)) // search for trials
       || (req.url.match(/\/trials\/[0-9]+/) && req.method === 'GET') // get trial by id
     ) {
       return next.handle(req);

@@ -67,11 +67,11 @@
           </div>
           <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
                type="date">
-            {{trial.startDate}}
+            {{trial.startDate | date: 'dd.MM.yyyy'}}
           </div>
           <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
                type="date">
-            {{trial.endDate}}
+            {{trial.endDate | date: 'dd.MM.yyyy'}}
           </div>
           <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
                type="text">

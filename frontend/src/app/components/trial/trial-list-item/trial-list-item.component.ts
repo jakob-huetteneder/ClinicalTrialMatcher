@@ -1,5 +1,8 @@
 import {Component, EventEmitter, Input, Output} from '@angular/core';
 import {Trial, TrialStatus} from 'src/app/dtos/trial';
+import {TrialListService} from '../../../services/trial-list.service';
+import {TrialList} from '../../../dtos/trial-list';
+import {ToastrService} from 'ngx-toastr';
 
 @Component({
   selector: 'app-trial-list-item',
@@ -22,6 +25,9 @@ export class TrialListItemComponent {
   @Input()
   showStatisticsButton = false;
 
+  @Input()
+  showListSelector = true;
+
   @Output()
   deleteTrial = new EventEmitter<any>();
 
@@ -32,8 +38,15 @@ export class TrialListItemComponent {
   showStatistics = new EventEmitter<any>();
 
 
-  constructor() {
+  allLists: TrialList[];
+
+  constructor(
+    private trialListService: TrialListService,
+    private notification: ToastrService,
+  ) {
+    this.loadLists();
   }
+
 
   trialStatus(trial: Trial): string {
     if (trial.status === TrialStatus.recruiting) {
@@ -57,5 +70,48 @@ export class TrialListItemComponent {
 
   buttonClicked(event: any) {
     event.stopPropagation();
+  }
+
+  addTrialToList(trial: Trial, list: TrialList) {
+    if (this.listContains(list, trial)) {
+      return;
+    }
+    console.log('addTrialToList', trial, list);
+    this.trialListService.addTrialToList(trial, list).subscribe({
+      next: data => {
+        this.notification.success('Successfully added trial to ' + list.name, 'Success');
+        this.loadLists();
+      },
+      error: error => {
+        console.error('Error adding trial to list', error);
+        this.notification.error(error.error.message, 'Error adding trial to list');
+      }
+    });
+  }
+
+  listContains(list: TrialList, trial: Trial): boolean {
+    return list.trial.some(t => t.id === trial.id);
+  }
+
+  deleteTrialFromList(trialId: number, list: TrialList) {
+    this.trialListService.deleteTrialFromList(trialId, list).subscribe({
+      next: data => {
+        this.notification.success('Successfully deleted trial from list', 'Success');
+        this.loadLists();
+      },
+      error: error => {
+        console.error('Error deleting trial from list', error);
+        this.notification.error(error.error.message, 'Error deleting trial from list');
+      }
+    });
+  }
+
+  private loadLists() {
+    this.trialListService.getOwnTrialLists().subscribe({
+      next: data => {
+        this.allLists = data;
+        console.log('allLists: ', this.allLists);
+      }
+    });
   }
 }

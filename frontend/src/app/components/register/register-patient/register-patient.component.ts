@@ -8,6 +8,7 @@ import {ToastrService} from 'ngx-toastr';
 import {Router} from '@angular/router';
 import {AnalyzerService} from '../../../services/analyzer.service';
 import {DomSanitizer} from '@angular/platform-browser';
+import {Gender} from '../../../dtos/gender';
 
 @Component({
   selector: 'app-register-patient',
@@ -149,6 +150,18 @@ export class RegisterPatientComponent {
         this.highlight = true;
       },
       error: error => {
+        console.log('Error analyzing note: ' + error);
+        this.notification.error(error.error.message, 'Error analyzing note');
+      }
+    });
+    this.analyzerService.analyzeGender(this.toRegister.admissionNote).subscribe({
+      next: data => {
+        if (data === 'm') {
+          this.toRegister.gender = Gender.male;
+        } else if (data === 'f') {
+          this.toRegister.gender = Gender.female;
+        }
+      }, error: error => {
         console.log('Error analyzing note: ' + error);
         this.notification.error(error.error.message, 'Error analyzing note');
       }

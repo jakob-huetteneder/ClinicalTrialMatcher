@@ -29,7 +29,7 @@
     <tr *ngFor="let patient of patients">
       <td>{{patient.firstName}}</td>
       <td>{{patient.lastName}}</td>
-      <td>{{patient.birthdate}}</td>
+      <td>{{patient.birthdate | date: 'dd.MM.yyyy'}}</td>
       <td style="width: 62px">
 
         <button

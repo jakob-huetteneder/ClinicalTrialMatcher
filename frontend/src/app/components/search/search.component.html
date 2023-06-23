@@ -22,7 +22,7 @@
         <div class="flex flex-row dateloc">
           <div class="text-sm font-semibold text-cool-blue-500">
             <i class="bi bi-calendar-week mr-2"></i>
-            {{trial.startDate}} - {{trial.endDate}}
+            {{trial.startDate | date: 'dd.MM.yyyy'}} - {{trial.endDate | date: 'dd.MM.yyyy'}}
           </div>
         </div>
 
