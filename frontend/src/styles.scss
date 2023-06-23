@@ -13,9 +13,13 @@ body {
 #toast-container {
   position: fixed;
   z-index: 999999;
+  top: unset;
+  left: 20px; /* Adjust the value as needed */
+  bottom: 0; /* Adjust the value as needed */
   /*overrides*/
 }
 
 .ngx-toastr {
+  margin-top: 80px !important;
   margin-bottom: 10px !important;
 }
