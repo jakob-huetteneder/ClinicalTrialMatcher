@@ -1,7 +1,8 @@
 <div class="whitebox flex justify-center container mt-5 text-blue-950">
-  <div class="fw-bold grid grid-cols-1 justify-items-center container mt-3 ml-3 relative">
-    <div class="text-lg">Trial Details</div>
-    <div class="right-8 absolute">
+  <div class="fw-bold grid grid-cols-1 justify-items-center container mt-3 ml-3 relative registerButton">
+    <div class="text-lg text-center">{{trial.title}}</div>
+
+    <div class="right-8 btn-holder mt-2">
       <div *ngIf="authService.getUserRole() === role.doctor">
         <button
             class="transition ease-in-out delay-100 duration-300 bg-blue-500 hover:-translate-y-0 hover:scale-110 hover:bg-blue-400 rounded p-2 h-10 text-white"
@@ -43,10 +44,6 @@
     <div class="container grid grid-cols-2">
       <div class="flex flex-row">
         <div class="flex flex-col flex-initial">
-          <div class="font-semibold mb-3 mt-3 mr-1">
-            <i class="mr-1"></i>
-            Title:
-          </div>
           <div class="font-semibold mb-3 mt-3">
             <i class="mr-1"></i>
             Start Date:
@@ -55,16 +52,16 @@
             <i class="mr-1"></i>
             End Date:
           </div>
-          <div class="font-semibold mb-3 mt-3">
+          <div class="font-semibold mb-3 mt-3" *ngIf="trial.status.length !== 0">
             <i class="mr-1"></i>
             Status:
           </div>
+          <div class="font-semibold mb-3 mt-3" *ngIf="trial.sponsor.length !== 0">
+            <i class="mr-1"></i>
+            Sponsor:
+          </div>
         </div>
         <div class="flex flex-col flex-1 text-slate-600">
-          <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
-               type="text">
-            {{trial.title}}
-          </div>
           <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
                type="date">
             {{trial.startDate | date: 'dd.MM.yyyy'}}
@@ -74,52 +71,48 @@
             {{trial.endDate | date: 'dd.MM.yyyy'}}
           </div>
           <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
-               type="text">
+               type="text" *ngIf="trial.status.length !== 0">
             {{trial.status}}
+          </div>
+          <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
+               type="text" *ngIf="trial.sponsor.length !== 0">
+            {{trial.sponsor}}
           </div>
         </div>
       </div>
       <div class="flex flex-row">
         <div class="flex flex-col flex-initial">
-          <div class="font-semibold mb-3 mt-3">
-            <i class="mr-1"></i>
-            Sponsor:
-          </div>
-          <div class="font-semibold mb-3 mt-3">
+          <div class="font-semibold mb-3 mt-3" *ngIf="trial.studyType.length !== 0">
             <i class="mr-1"></i>
             Study Type:
           </div>
-          <div class="font-semibold mb-3 mt-3">
+          <div class="font-semibold mb-3 mt-3" *ngIf="trial.collaborator.length !== 0">
             <i class="mr-1"></i>
             Collaborator:
           </div>
 
-          <div class="font-semibold mb-3 mt-3">
+          <div class="font-semibold mb-3 mt-3" *ngIf="trial.location.length !== 0">
             <i class="mr-1"></i>
             Location:
           </div>
         </div>
         <div class="flex flex-col flex-1 text-slate-600">
           <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
-               type="text">
-            {{trial.sponsor}}
-          </div>
-          <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
-               type="text">
+               type="text" *ngIf="trial.studyType.length !== 0">
             {{trial.studyType}}
           </div>
           <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
-               type="text">
+               type="text" *ngIf="trial.collaborator.length !== 0">
             {{trial.collaborator}}
           </div>
           <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
-               type="text">
+               type="text" *ngIf="trial.location.length !== 0">
             {{trial.location}}
           </div>
         </div>
       </div>
     </div>
-    <div class="container grid">
+    <div class="container grid" *ngIf="trial.briefSummary.length !== 0">
       <div class="flex flex-row">
         <div class="flex flex-col flex-initial">
           <div class="font-semibold mb-3 mt-3 mr-8">
@@ -128,13 +121,13 @@
           </div>
         </div>
         <div class="flex flex-col flex-1">
-          <div class="ml-5 mr-5 mb-2 mt-2 border-0 text-slate-600"
+          <div class="ml-5 mr-5 mb-2 mt-2 border-0 text-slate-600 text-justify"
                type="text" [innerHtml]="getLinkedBriefSummary()">
           </div>
         </div>
       </div>
     </div>
-    <div class="container grid">
+    <div class="container grid" *ngIf="trial.detailedSummary.length !== 0">
       <div class="flex flex-row">
         <div class="flex flex-col flex-initial">
           <div class="font-semibold mb-3 mt-3 mr-1">
@@ -143,7 +136,7 @@
           </div>
         </div>
         <div class="flex flex-col flex-1">
-          <p class="ml-5 mr-5 mb-2 mt-2 border-0 text-slate-600"
+          <p class="ml-5 mr-5 mb-2 mt-2 border-0 text-slate-600 text-justify"
              type="text" [innerHtml]="getLinkedDetailedSummary()">
           </p>
         </div>
@@ -195,9 +188,9 @@
       </div>
     </div>
 
-    <hr class="container">
+    <hr class="container" *ngIf="trial.inclusionCriteria.length !== 0">
 
-    <div class="container flex flex-col">
+    <div class="container flex flex-col" *ngIf="trial.inclusionCriteria.length !== 0">
       <div class="flex flex-row">
         <div class="flex flex-col flex-initial">
           <div class="font-semibold mb-1 mt-1 mr-1">
@@ -215,9 +208,9 @@
       </div>
     </div>
 
-    <hr class="container">
+    <hr class="container" *ngIf="trial.exclusionCriteria.length !== 0">
 
-    <div class="container flex flex-col">
+    <div class="container flex flex-col" *ngIf="trial.exclusionCriteria.length !== 0">
       <div class="flex flex-row">
         <div class="flex flex-col flex-initial">
           <div class="font-semibold mb-1 mt-1 mr-1">
@@ -252,6 +245,14 @@
       <b>Application Status:</b> {{registrationStatusMessage}}
     </div>
 
+    <div *ngIf="authService.getUserRole() === role.doctor">
+      <button
+        class="transition ease-in-out delay-100 duration-300 bg-blue-500 hover:-translate-y-0 hover:scale-110 hover:bg-blue-400 rounded p-2 h-10 text-white"
+        [routerLink]="'/doctor/trial/' + trial.id + '/match-patient'">
+        Register Patients
+      </button>
+
+    </div>
 
   </main>
 </div>

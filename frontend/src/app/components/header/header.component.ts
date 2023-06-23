@@ -2,9 +2,7 @@ import {Component, OnInit} from '@angular/core';
 import {AuthService} from '../../services/auth.service';
 import {getRoleString, Role} from '../../dtos/role';
 import {Router} from '@angular/router';
-import {Trial} from '../../dtos/trial';
 import {TrialList} from '../../dtos/trial-list';
-import {TrialService} from '../../services/trial.service';
 import {TrialListService} from '../../services/trial-list.service';
 import {ToastrService} from 'ngx-toastr';
 import {FormBuilder, FormGroup} from '@angular/forms';
@@ -62,8 +60,9 @@ export class HeaderComponent implements OnInit {
         email: '',
       }
     });
-
+    if (this.authService.isLoggedIn()) {
       this.reload();
+    }
   }
 
   reload(): void {

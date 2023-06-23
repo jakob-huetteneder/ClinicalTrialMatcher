@@ -2,6 +2,7 @@ package at.ac.tuwien.sepm.groupphase.backend.service;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientRequestDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientSearchDto;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
 
 import java.time.LocalDate;
@@ -55,7 +56,7 @@ public interface PatientService {
      * @param gender    required gender
      * @return list of patients that match with the given trial
      */
-    List<PatientDto> matchPatientsWithTrial(List<String> inclusion, List<String> exclusion, LocalDate minAge, LocalDate maxAge, Gender gender);
+    List<PatientSearchDto> matchPatientsWithTrial(List<String> inclusion, List<String> exclusion, LocalDate minAge, LocalDate maxAge, Gender gender);
 
     /**
      * Synchronize the patient with the given id with the elastic search database.

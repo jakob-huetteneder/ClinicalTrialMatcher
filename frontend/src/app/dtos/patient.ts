@@ -12,6 +12,7 @@ export class Patient {
   diagnoses: Diagnose[];
   examinations: Examination[];
   doctors?: User[];
+  score?: number;
 }
 
 export interface PatientRequest {

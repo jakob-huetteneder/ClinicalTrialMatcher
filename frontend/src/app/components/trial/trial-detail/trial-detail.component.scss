@@ -50,3 +50,14 @@ hr {
   position: relative;
    /* Adjust this value as needed */
 }
+
+.registerButton {
+  justify-content: space-between;
+  flex-direction: column;
+  display: flex;
+}
+
+.registerButton .btn-holder {
+  justify-content: flex-end;
+  display: flex;
+}

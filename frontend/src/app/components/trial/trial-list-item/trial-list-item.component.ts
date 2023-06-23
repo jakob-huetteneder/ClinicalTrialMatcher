@@ -3,6 +3,7 @@ import {Trial, TrialStatus} from 'src/app/dtos/trial';
 import {TrialListService} from '../../../services/trial-list.service';
 import {TrialList} from '../../../dtos/trial-list';
 import {ToastrService} from 'ngx-toastr';
+import {AuthService} from '../../../services/auth.service';
 
 @Component({
   selector: 'app-trial-list-item',
@@ -41,10 +42,17 @@ export class TrialListItemComponent {
   allLists: TrialList[];
 
   constructor(
+    public authService: AuthService,
     private trialListService: TrialListService,
     private notification: ToastrService,
   ) {
-    this.loadLists();
+    if (this.authService.isLoggedIn()) {
+      this.loadLists();
+      this.trialListService.updateEvent.subscribe(() => {
+        this.loadLists();
+        console.log('TrialList update');
+      });
+    }
   }
 
 
@@ -110,7 +118,6 @@ export class TrialListItemComponent {
     this.trialListService.getOwnTrialLists().subscribe({
       next: data => {
         this.allLists = data;
-        console.log('allLists: ', this.allLists);
       }
     });
   }
