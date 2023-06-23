@@ -2,6 +2,7 @@ package at.ac.tuwien.sepm.groupphase.backend.endpoint;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.FilterDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientSearchDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.TrialDto;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Trial;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
@@ -87,7 +88,7 @@ public class TrialEndpoint {
     @PermitAll
     @ResponseStatus(HttpStatus.OK)
     @GetMapping(value = "/match/{id}")
-    public List<PatientDto> matchByTrialId(@PathVariable("id") Long id) {
+    public List<PatientSearchDto> matchByTrialId(@PathVariable("id") Long id) {
         LOG.trace("matchByTrialId({})", id);
         LOG.info("GET " + BASE_PATH + "/match/{}", id);
         TrialDto trial = trialService.findTrialById(id);

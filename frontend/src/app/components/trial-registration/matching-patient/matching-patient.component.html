@@ -22,9 +22,33 @@
     <hr class="container" style="border: 2px solid #CDE2F0;">
     <div class="flex flex-col gap-2 w-full">
       <div *ngFor="let patient of patients"
-           class="flex flex-col container w-full border-2 border-slate-100 rounded-md px-4 py-2">
+           class="flex flex-col container w-full border-2 border-slate-100 rounded-md px-4 py-2"
+           style="position: relative;">
+        <div class="flex-initial single-button flex absolute h-3 w-3 top-0 left-0 -mt-1 -ml-1">
+          <a class="group relative dropdown tracking-wide pb-2 flex flex-row">
+            <span class="flex absolute h-3 w-3 top-0 left-0">
+              <span class="animate-ping absolute inline-flex h-full w-full rounded-full {{ratingColor1(patient.score)}}"
+                    style="animation: ping 1.5s linear forwards infinite"></span>
+              <span class="relative inline-flex rounded-full h-3 w-3 {{ratingColor2(patient.score)}}"></span>
+            </span>
+            <div
+              class="group-hover:cursor-text p-3 -mt-2 absolute border border-slate-100 top-6 z-10 w-96 hidden list-none overflow-hidden rounded-lg backdrop-blur-lg shadow-md group-hover:flex flex-row right gap-2">
+              <i class="text-slate-600 bi bi-info-circle flex-initial"></i>
+              <p class="text-justify text-xs text-slate-700 m-0">
+                Relevance score of <b>{{normalizeScore(patient.score)}}</b> on a scale from 0 to 1 for patient
+                <b>{{patient.firstName}} {{patient.lastName}}</b>.
+                <br><br>
+                0 represents the lowest score from found
+                patients, while 1 represents the highest score. Beware that low scores do not mean that the patient
+                is per se incompatible. The score merely represents relative value in comparison to all matched
+                patients.
+              </p>
+            </div>
+          </a>
+        </div>
+
         <div class="flex flex-row w-full justify-content-between">
-          <div class="flex flex-col justify-content-evenly">
+          <div class="flex flex-col justify-content-evenly justify-start">
             <div (click)="toggleShowDetails(patient)" class="hover:underline hover:cursor-pointer">
               <i class="bi bi-person-fill mr-2"></i>{{patient.firstName}} {{patient.lastName}}<i
               [class]="patient.gender === 'MALE' ? 'bi-gender-male' : 'bi-gender-female'" class="bi mx-2"></i>
@@ -34,23 +58,25 @@
               {{patient.email}}
             </div>
           </div>
-          <div class="flex flex-col">
-            <div>
-              <i class="bi bi-calendar3 mr-2"></i>
-              {{patient.birthdate | date: 'dd.MM.yyyy'}}
+          <div class="flex flex-col justify-end">
+            <div class="flex flex-row w-28">
+              <i class="bi bi-calendar3 mr-2 justify-content-center"></i>
+              <div>
+                {{patient.birthdate | date: 'dd.MM.yyyy'}}
+              </div>
             </div>
             <app-confirm-button (confirm)="registerPatient(patient)"
                                 details="The registration is not final and will be reviewed."
                                 prompt="Would you like to register this patient?"
-                                [hidden]="isRegistered(patient)"
-            >
+                                [hidden]="isRegistered(patient)">
               <button class="btn btn-primary mt-2">Register</button>
             </app-confirm-button>
           </div>
         </div>
         <div *ngIf="isShowDetails(patient)" class="flex flex-col">
 
-          <div *ngIf="patient.diagnoses.length > 0 || patient.examinations.length > 0" class="flex flex-row justify-content-start">
+          <div *ngIf="patient.diagnoses.length > 0 || patient.examinations.length > 0"
+               class="flex flex-row justify-content-start">
             <dl>
               <dt *ngIf="patient.diagnoses.length > 0" class="list-disc">Diagnoses:</dt>
               <dd *ngFor="let diagnose of patient.diagnoses" class="list-item ml-10">
@@ -62,7 +88,7 @@
               </dd>
             </dl>
           </div>
-          <div>
+          <div class="text-justify">
             {{patient.admissionNote}}
           </div>
         </div>

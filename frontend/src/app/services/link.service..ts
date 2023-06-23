@@ -13,12 +13,22 @@ export class LinkService {
     if (!text || !diseases) {
       return text;
     }
-    diseases.forEach((d: Disease) => {
-      console.log(d.name);
-      console.log(d.link);
-      text = text.replace(d.name, '<a href="' + d.link + '">' + d.name + '</a>');
-      console.log(text);
+
+    // Create a pattern of all disease names joined with '|'
+    const diseaseNamesPattern = diseases.map(d => d.name.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&')).join('|');
+
+    const regex = new RegExp(`(?<!\\w)(${diseaseNamesPattern})(?!\\w)`, 'gi');
+
+    text = text.replace(regex, (match: string) => {
+      const matchedDisease = diseases.find(d => d.name.toLowerCase() === match.toLowerCase());
+      if (matchedDisease && matchedDisease.link !== null) {
+        return `<a class="text-blue-500 font-semibold after:content-[\'_↗\'] after:text-sm after:font-bold no-underline"
+              style="white-space: nowrap;" href="${matchedDisease.link}">${match}</a>`;
+      }
+      return match;
     });
+
     return text;
   }
+
 }

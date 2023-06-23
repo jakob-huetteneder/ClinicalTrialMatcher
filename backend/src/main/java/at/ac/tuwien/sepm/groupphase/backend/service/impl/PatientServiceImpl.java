@@ -5,6 +5,7 @@ import at.ac.tuwien.sepm.groupphase.backend.elasticrepository.PatientSearchRepos
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.DiagnoseDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.ExaminationDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientSearchDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientRequestDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper.PatientMapper;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
@@ -31,6 +32,7 @@ import org.springframework.data.elasticsearch.client.erhlc.NativeSearchQuery;
 import org.springframework.data.elasticsearch.client.erhlc.NativeSearchQueryBuilder;
 import org.springframework.data.elasticsearch.core.ElasticsearchOperations;
 import org.springframework.data.elasticsearch.core.SearchHit;
+import org.springframework.data.elasticsearch.core.SearchHits;
 import org.springframework.data.elasticsearch.core.mapping.IndexCoordinates;
 import org.springframework.data.elasticsearch.core.query.StringQuery;
 import org.springframework.stereotype.Service;
@@ -72,7 +74,7 @@ public class PatientServiceImpl implements PatientService {
     }
 
     @Override
-    public List<PatientDto> matchPatientsWithTrial(List<String> inclusion, List<String> exclusion, LocalDate minAge, LocalDate maxAge, Gender gender) {
+    public List<PatientSearchDto> matchPatientsWithTrial(List<String> inclusion, List<String> exclusion, LocalDate minAge, LocalDate maxAge, Gender gender) {
         LOG.trace("matchPatientsWithTrial({}, {}, {}, {}, {})", inclusion, exclusion, minAge.toString(), maxAge.toString(), gender.toString());
 
         BoolQueryBuilder boolQuery = QueryBuilders.boolQuery();
@@ -160,15 +162,13 @@ public class PatientServiceImpl implements PatientService {
         stringQuery.setMinScore(1.f);
         stringQuery.setMaxResults(100);
 
-        List<Patient> results = elasticsearchOperations
-            .search(stringQuery, Patient.class)
-            .stream()
+        SearchHits<Patient> searchHits = elasticsearchOperations.search(stringQuery, Patient.class);
+
+        List<Patient> results = searchHits.stream()
             .map(SearchHit::getContent)
             .toList();
 
-        return results.stream()
-            .map(patientMapper::patientToPatientDto)
-            .collect(Collectors.toList());
+        return searchHits.stream().map(i -> patientMapper.patientToPatientSearchDto(i.getContent(), i)).toList();
     }
 
     @Override

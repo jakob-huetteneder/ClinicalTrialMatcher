@@ -26,6 +26,10 @@ export class MatchingPatientComponent implements OnInit {
   search = '';
   debouncer = new Subject<any>();
 
+  threshold = -1;
+  minScore = -1;
+  maxScore = -1;
+
   constructor(
     private trialService: TrialService,
     private treatsService: TreatsService,
@@ -95,6 +99,30 @@ export class MatchingPatientComponent implements OnInit {
     return this.trialRegistrations.some(registration => registration.patient.id === patient.id);
   }
 
+  ratingColor1(score: number) {
+    if (score < 0.5 * this.threshold) {
+      return 'bg-red-400';
+    } else if (score < 2 * this.threshold) {
+      return 'bg-yellow-400';
+    } else {
+      return 'bg-green-400';
+    }
+  }
+  ratingColor2(score: number) {
+    if (score < 0.5 * this.threshold) {
+      return 'bg-red-500';
+    } else if (score < 2 * this.threshold) {
+      return 'bg-yellow-500';
+    } else {
+      return 'bg-green-500';
+    }
+  }
+
+  public normalizeScore(score: number) {
+    return (this.maxScore - this.minScore) === 0 ? 1.0 :
+      ((score - this.minScore) / (this.maxScore - this.minScore)).toFixed(2);
+  }
+
   private loadTrial() {
     this.trialService.getById(this.trial.id).subscribe({
       next: (trial: Trial) => {
@@ -139,6 +167,13 @@ export class MatchingPatientComponent implements OnInit {
       next: (patients: Patient[]) => {
         this.allMatchingPatients = patients;
         this.patients = this.allMatchingPatients;
+        const scores = patients.map(patient => patient.score);
+        const minScore = Math.min(...scores);
+        const maxScore = Math.max(...scores);
+        const diff = maxScore - minScore;
+        this.minScore = minScore;
+        this.maxScore = maxScore;
+        this.threshold = diff / 3;
         console.log('all matching patients', this.allMatchingPatients);
       },
       error: error => {

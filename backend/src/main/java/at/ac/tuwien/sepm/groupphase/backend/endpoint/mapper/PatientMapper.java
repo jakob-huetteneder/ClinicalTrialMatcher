@@ -2,10 +2,12 @@ package at.ac.tuwien.sepm.groupphase.backend.endpoint.mapper;
 
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientDto;
 import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientRequestDto;
+import at.ac.tuwien.sepm.groupphase.backend.endpoint.dto.PatientSearchDto;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Doctor;
 import at.ac.tuwien.sepm.groupphase.backend.entity.Patient;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.data.elasticsearch.core.SearchHit;
 import org.springframework.stereotype.Component;
 
 import java.lang.invoke.MethodHandles;
@@ -92,5 +94,26 @@ public class PatientMapper {
             patient.getGender(),
             treatsMapper.treatsToTreatsDto(patient.getTreats().stream().filter(treats -> Objects.equals(treats.getDoctor().getId(), doctor.getId())).findFirst().orElse(null))
         );
+    }
+
+    /**
+     * Converts a patient entity to a PatientSearchDto.
+     *
+     * @param patient the patient entity to be converted
+     * @param searchHit searchHit of the ElasticSearch DB
+     * @return the converted PatientSearchDto
+     */
+    public PatientSearchDto patientToPatientSearchDto(Patient patient, SearchHit<Patient> searchHit) {
+        return new PatientSearchDto(patient.getId(),
+            patient.getApplicationUser() == null ? null : userMapper.applicationUserToUserDetailDto(patient.getApplicationUser()),
+            patient.getFirstName(),
+            patient.getLastName(),
+            patient.getEmail(),
+            patient.getAdmissionNote(),
+            patient.getBirthdate(),
+            patient.getGender(),
+            diagnosisMapper.diagnosisToDiagnosisDto(patient.getDiagnoses()),
+            examinationMapper.examinationToExaminationDto(patient.getExaminations()),
+            searchHit.getScore());
     }
 }
