@@ -51,6 +51,22 @@
   top: 15px;
 }
 
+.bi-chevron-down{
+  color: #1e5075;
+  /*width: 40px;
+  height: 40px;*/
+  align-self: center;
+  position: absolute;
+  box-sizing: border-box;
+  cursor: pointer;
+  right: 20px;
+  top: 15px;
+}
+
+.chat-message-container{
+ /* margin-bottom: 20px;*/
+}
+
 .chat-box {
   flex: 1;
   overflow-y: auto;
@@ -67,10 +83,14 @@
   background-size: 100%;
   background-position: center;
   min-width: 50px;
-  min-height: 50px;
+  min-height: fit-content;
   align-self: baseline;
   margin-right: 5px;
   margin-left: 5px;
+  margin-bottom: 0;
+
+  position: relative;
+  top: 48px;
 
   color: #308BC8;
 }
@@ -86,17 +106,12 @@
   border-radius: 4px;
 }
 
-.chat-button {
- /* display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  padding: 12px 20px;
-
-  width: 155px;
-  height: 41px;*/
+.chat-box button {
   display: flex;
   margin: 10px auto 10px auto;
   padding: 5px;
+
+  text-align: start;
 
   width: 70%;
 

@@ -93,17 +93,4 @@ export class HomeComponent implements OnInit {
     this.searchWithFilter();
   }
 
-  private loadTrials() {
-    this.trialService.getAll().subscribe({
-      next: (trials: Trial[]) => {
-        this.trials = trials;
-      },
-      error: error => {
-        console.log('Something went wrong while loading trials: ' + error.error.message);
-        this.notification.error(error.error.message, 'Something went wrong while loading trials');
-        console.log(error);
-      }
-    });
-  }
-
 }

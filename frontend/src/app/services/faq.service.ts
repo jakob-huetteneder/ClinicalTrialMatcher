@@ -1,10 +1,10 @@
 import {Injectable} from '@angular/core';
 import {HttpClient, HttpParams} from '@angular/common/http';
 import {Observable} from 'rxjs';
-import {User} from '../dtos/user';
 import {environment} from '../../environments/environment';
+import {Faq} from "../dtos/faq";
 
-const baseUri = environment.backendUrl + '/api/v1/users';
+const baseUri = environment.backendUrl + '/api/v1/faq';
 
 @Injectable({
   providedIn: 'root'
@@ -18,13 +18,13 @@ export class FaqService {
   /**
    * Set the password for a new user.
    *
-   * @param keyword the user to set password
+   * @param message the user to set password
    * @return observable
    */
-  getFaqAwnser(keyword: string): Observable<void> {
+  getFaqAnswer(message: string, role: string): Observable<Faq> {
     let queryParams = new HttpParams();
-    queryParams = queryParams.set('keyword', keyword);
-    return this.http.get<void>(baseUri + '/password', {params: queryParams});
+    queryParams = queryParams.set('message', message).set('role', role);
+    return this.http.get<Faq>(baseUri, {params: queryParams});
   }
 
 }

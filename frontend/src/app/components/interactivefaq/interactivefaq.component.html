@@ -1,19 +1,24 @@
 <div *ngIf="isChatOpen()" class="chat-popup" id="myForm">
 
   <div class="chat-header">
-    <p>Chat with Ada</p>
-    <button class="bi-x-lg mr-4" (click)="chatStatus = !chatStatus"></button>
+    <p>Chat with Iris</p>
+    <button class="bi-chevron-down mr-4" (click)="chatStatus = !chatStatus"></button>
+    <button class="bi-x-lg mr-4" (click)="chatStatus = !chatStatus; resetMessages()"></button>
   </div>
   <div class="chat-box">
-    <div>
+    <!--<div>
       <h2 class="bi-person-circle"></h2>
       <div class="chat-message"> Hello my name is Ada. How may I help you?</div>
       <button class="chat-button" (click)="sendFaq('registrtion')">Registration</button>
       <button class="chat-button" (click)="sendFaq('login')">Login</button>
       <button class="chat-button" (click)="sendFaq('trials')">Finding Trials</button>
       <button class="chat-button" (click)="sendFaq('profile')">Changing my profile</button>
-    </div>
-    <label *ngFor="let message of messageList"></label>
+    </div>-->
+   <div *ngFor="let message of messageList" class="chat-message-container">
+     <h2 class="bi-person-circle"></h2>
+     <div class="chat-message">{{message.message}}</div>
+     <button class="chat-button" *ngFor="let entry of message.buttons | keyvalue" (click)="sendFaq(entry.key)">{{entry.value}}</button>
+   </div>
   </div>
 </div>
 

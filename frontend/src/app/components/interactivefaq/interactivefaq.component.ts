@@ -1,6 +1,8 @@
 import {Component, OnInit} from '@angular/core';
+import {Faq} from '../../dtos/faq';
 import {ToastrService} from 'ngx-toastr';
 import {FaqService} from '../../services/faq.service';
+import {AuthService} from '../../services/auth.service';
 
 @Component({
   selector: 'app-interactivefaq',
@@ -8,48 +10,44 @@ import {FaqService} from '../../services/faq.service';
   styleUrls: ['./interactivefaq.component.scss']
 })
 export class InteractivefaqComponent implements OnInit {
-  messageList: string[] = [];
+  messageList: Faq[] = [];
   chatStatus = false;
+  role = '';
 
   constructor(
     private faqService: FaqService,
     private notification: ToastrService,
+    private authService: AuthService
   ) {
   }
 
   ngOnInit() {
-
+    this.sendFaq('xintro');
   }
 
   isChatOpen(): boolean {
     return this.chatStatus;
   }
 
-  sendFaq(keyword): void {
-    this.faqService.getFaqAwnser(keyword).subscribe({
-      next: updatedUser => {
+  resetMessages() {
+    this.messageList = [];
+    this.sendFaq('xintro');
+  }
 
-        // remove user from editedUsers
-        this.messageList = this.editedUsers.filter(editedUser => editedUser.id !== user.id);
-        this.notification.info('Successfully updated user ' + updatedUser.email);
+  sendFaq(keyword): void {
+    if (this.authService.isLoggedIn()) {
+      this.role = this.authService.getUserRole();
+    } else {
+      this.role = 'unregistered';
+    }
+    this.faqService.getFaqAnswer(keyword, this.role).subscribe({
+      next: (message: Faq) => {
+        this.messageList.push(message);
       },
       error: error => {
-        if (error.status === 409) {
-          this.notification.error('User with email ' + user.email + ' already exists');
-        } else if (error.status === 422) {
-          let listOfValidationErrors = '';
-          error.error.errors.forEach((validationError: string) => {
-            if (listOfValidationErrors !== '') {
-              listOfValidationErrors += ', ';
-            }
-            listOfValidationErrors += validationError;
-          });
-          this.notification.error(listOfValidationErrors, 'Invalid values');
-        } else {
-          this.notification.error(error.error.message, 'Error updating user');
-        }
-        // reset user to old values
-        this.resetUser(user.id);
+        console.log('Something went wrong while loading answers: ' + error.error.message);
+        this.notification.error(error.error.message, 'Something went wrong while loading answers');
+        console.log(error);
       }
     });
   }
