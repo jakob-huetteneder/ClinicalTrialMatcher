@@ -569,19 +569,18 @@ def parse_researcher(researcher_str):
     
     names = researcher_str.split(' ')
     researcher = {
-        'firstName': '',
-        'lastName': '',
-        'email': '',
+        'firstName': 'John',
+        'lastName': 'Doe',
+        'email': 'john.doe@example.com',
     }
-    if len(names) == 1:
+    if len(names) == 1 and names[0] != '':
         researcher['firstName'] = names[0]
         researcher['email'] = names[0].lower() + '@example.com'
     elif len(names) == 2:
         researcher['firstName'] = names[0]
         researcher['lastName'] = names[1]
         researcher['email'] = names[0].lower() + '.' + names[1].lower() + '@example.com'
-    else:
-        researcher['email'] = 'john.doe@example.com'
+
 
     return researcher
 
