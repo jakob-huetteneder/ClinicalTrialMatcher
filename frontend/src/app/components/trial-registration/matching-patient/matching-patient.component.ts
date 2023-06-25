@@ -25,6 +25,7 @@ export class MatchingPatientComponent implements OnInit {
 
   search = '';
   debouncer = new Subject<any>();
+  showAllPatients = false;
 
   threshold = -1;
   minScore = -1;
@@ -73,6 +74,15 @@ export class MatchingPatientComponent implements OnInit {
     this.debouncer.next(this.search);
   }
 
+  searchPatients() {
+    console.log('searching for: ' + this.search);
+    console.log('showAllPatients: ' + this.showAllPatients);
+    const patientContainer = this.showAllPatients ? this.allPatientsOfDoctor : this.allMatchingPatients;
+    this.patients = patientContainer.filter(patient =>
+      (patient.firstName.toLowerCase() + ' ' + patient.lastName.toLowerCase()).includes(this.search.toLowerCase()));
+    this.showDetails = new Array(this.patients.length).fill(false);
+  }
+
   toggleShowDetails(patient: Patient) {
     this.showDetails[this.patients.indexOf(patient)] = !this.showDetails[this.patients.indexOf(patient)];
   }
@@ -107,6 +117,7 @@ export class MatchingPatientComponent implements OnInit {
       return 'bg-green-400';
     }
   }
+
   ratingColor2(score: number) {
     if (score < 0.5 * this.threshold) {
       return 'bg-red-500';
@@ -153,6 +164,25 @@ export class MatchingPatientComponent implements OnInit {
         this.allPatientsOfDoctor = patients
           .filter(treats => treats.status === TreatsStatus.accepted)
           .map(treats => treats.patient);
+
+        this.trialService.getAllMatchingPatients(this.trial.id).subscribe({
+          next: (matchingPatients: Patient[]) => {
+            this.allMatchingPatients = matchingPatients.filter(patient => !this.allPatientsOfDoctor.includes(patient));
+            this.patients = this.allMatchingPatients;
+            const scores = matchingPatients.map(patient => patient.score);
+            const minScore = Math.min(...scores);
+            const maxScore = Math.max(...scores);
+            const diff = maxScore - minScore;
+            this.minScore = minScore;
+            this.maxScore = maxScore;
+            this.threshold = diff / 3;
+            console.log('all matching patients', this.allMatchingPatients);
+          },
+          error: error => {
+            console.log('Could not load patients');
+            this.error('Could not load patients');
+          }
+        });
         // this.patients = this.allPatientsOfDoctor;
         this.showDetails = new Array(this.patients.length).fill(false);
         console.log(this.patients);
@@ -162,37 +192,9 @@ export class MatchingPatientComponent implements OnInit {
         this.error('Could not load patients');
       }
     });
-    this.trialService.getAllMatchingPatients(this.trial.id).subscribe({
-      next: (patients: Patient[]) => {
-        this.allMatchingPatients = patients;
-        this.patients = this.allMatchingPatients;
-        const scores = patients.map(patient => patient.score);
-        const minScore = Math.min(...scores);
-        const maxScore = Math.max(...scores);
-        const diff = maxScore - minScore;
-        this.minScore = minScore;
-        this.maxScore = maxScore;
-        this.threshold = diff / 3;
-        console.log('all matching patients', this.allMatchingPatients);
-      },
-      error: error => {
-        console.log('Could not load patients');
-        this.error('Could not load patients');
-      }
-    });
-  }
-
-  private searchPatients() {
-    this.patients = this.allMatchingPatients.filter(patient =>
-      patient.firstName.toLowerCase().includes(this.search.toLowerCase())
-      || patient.lastName.toLowerCase().includes(this.search.toLowerCase())
-      || (patient.firstName.toLowerCase() + ' ' + patient.lastName.toLowerCase()).includes(this.search.toLowerCase()));
-    this.showDetails = new Array(this.patients.length).fill(false);
   }
 
   private error(errorMsg: string) {
     console.log('Could not load trial');
-    // TODO: show error message
-    // TODO: navigate back
   }
 }

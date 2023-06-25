@@ -15,16 +15,21 @@
         <i (click)="search = ''; searchChanged()" class="bi-x-lg mr-2 flex" style="color: #1e5075"></i>
       </div>
     </div>
+    <div class="flex flex-row container w-full justify-content-end align-items-center gap-2">
+      <label for="showAllPatients">Show All Patients</label>
+      <input id="showAllPatients" type="checkbox" (change)="searchPatients()" [(ngModel)]="showAllPatients" class="rounded">
+    </div>
     <!--<div class="flex flex-row gap-2 w-full ml-4 align-items-center container">
       <label class="text-blue-950">Show All Patients</label>
       <input type="checkbox" [(ngModel)]="showAllPatients" class="rounded align-items-center">
     </div>-->
     <hr class="container" style="border: 2px solid #CDE2F0;">
-    <div class="flex flex-col gap-2 w-full">
+    <div class="flex flex-col gap-2 w-full align-items-center">
       <div *ngFor="let patient of patients"
            class="flex flex-col container w-full border-2 border-slate-100 rounded-md px-4 py-2"
            style="position: relative;">
-        <div class="flex-initial single-button flex absolute h-3 w-3 top-0 left-0 -mt-1 -ml-1">
+        <div *ngIf="!showAllPatients"
+          class="flex-initial single-button flex absolute h-3 w-3 top-0 left-0 -mt-1 -ml-1">
           <a class="group relative dropdown tracking-wide pb-2 flex flex-row">
             <span class="flex absolute h-3 w-3 top-0 left-0">
               <span class="animate-ping absolute inline-flex h-full w-full rounded-full {{ratingColor1(patient.score)}}"
@@ -32,7 +37,7 @@
               <span class="relative inline-flex rounded-full h-3 w-3 {{ratingColor2(patient.score)}}"></span>
             </span>
             <div
-              class="group-hover:cursor-text p-3 -mt-2 absolute border border-slate-100 top-6 z-10 w-96 hidden list-none overflow-hidden rounded-lg backdrop-blur-lg shadow-md group-hover:flex flex-row right gap-2">
+              class="group-hover:cursor-text p-3 -mt-2 absolute border border-slate-100 top-6 z-10 w-96 hidden list-none rounded-lg backdrop-blur-lg shadow-md group-hover:flex flex-row right gap-2">
               <i class="text-slate-600 bi bi-info-circle flex-initial"></i>
               <p class="text-justify text-xs text-slate-700 m-0">
                 Relevance score of <b>{{normalizeScore(patient.score)}}</b> on a scale from 0 to 1 for patient
@@ -58,9 +63,9 @@
               {{patient.email}}
             </div>
           </div>
-          <div class="flex flex-col justify-end">
-            <div class="flex flex-row w-28">
-              <i class="bi bi-calendar3 mr-2 justify-content-center"></i>
+          <div class="flex flex-col gap-2 align-items-end">
+            <div class="flex flex-row">
+              <i class="bi bi-calendar3 mr-2"></i>
               <div>
                 {{patient.birthdate | date: 'dd.MM.yyyy'}}
               </div>
@@ -69,8 +74,13 @@
                                 details="The registration is not final and will be reviewed."
                                 prompt="Would you like to register this patient?"
                                 [hidden]="isRegistered(patient)">
-              <button class="btn btn-primary mt-2">Register</button>
+              <button class="btn btn-primary">Register</button>
             </app-confirm-button>
+            <div [hidden]="!isRegistered(patient)"
+                  class="border-2 rounded px-3 py-1.5 bg-green-100 border-green-200 text-green-700">
+              <i class="bi bi-check-circle-fill mr-2"></i>
+              Registered
+            </div>
           </div>
         </div>
         <div *ngIf="isShowDetails(patient)" class="flex flex-col">
