@@ -52,11 +52,11 @@
             <i class="mr-1"></i>
             End Date:
           </div>
-          <div class="font-semibold mb-3 mt-3" *ngIf="trial.status.length !== 0">
+          <div class="font-semibold mb-3 mt-3" *ngIf="trial.status">
             <i class="mr-1"></i>
             Status:
           </div>
-          <div class="font-semibold mb-3 mt-3" *ngIf="trial.sponsor.length !== 0">
+          <div class="font-semibold mb-3 mt-3" *ngIf="trial.sponsor && trial.sponsor.length !== 0">
             <i class="mr-1"></i>
             Sponsor:
           </div>
@@ -71,48 +71,48 @@
             {{trial.endDate | date: 'dd.MM.yyyy'}}
           </div>
           <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
-               type="text" *ngIf="trial.status.length !== 0">
+               type="text" *ngIf="trial.status">
             {{trial.status}}
           </div>
           <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
-               type="text" *ngIf="trial.sponsor.length !== 0">
+               type="text" *ngIf="trial.sponsor && trial.sponsor.length !== 0">
             {{trial.sponsor}}
           </div>
         </div>
       </div>
       <div class="flex flex-row">
         <div class="flex flex-col flex-initial">
-          <div class="font-semibold mb-3 mt-3" *ngIf="trial.studyType.length !== 0">
+          <div class="font-semibold mb-3 mt-3" *ngIf="trial.studyType && trial.studyType.length !== 0">
             <i class="mr-1"></i>
             Study Type:
           </div>
-          <div class="font-semibold mb-3 mt-3" *ngIf="trial.collaborator.length !== 0">
+          <div class="font-semibold mb-3 mt-3" *ngIf="trial.collaborator && trial.collaborator.length !== 0">
             <i class="mr-1"></i>
             Collaborator:
           </div>
 
-          <div class="font-semibold mb-3 mt-3" *ngIf="trial.location.length !== 0">
+          <div class="font-semibold mb-3 mt-3" *ngIf="trial.location && trial.location.length !== 0">
             <i class="mr-1"></i>
             Location:
           </div>
         </div>
         <div class="flex flex-col flex-1 text-slate-600">
           <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
-               type="text" *ngIf="trial.studyType.length !== 0">
+               type="text" *ngIf="trial.studyType && trial.studyType.length !== 0">
             {{trial.studyType}}
           </div>
           <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
-               type="text" *ngIf="trial.collaborator.length !== 0">
+               type="text" *ngIf="trial.collaborator && trial.collaborator.length !== 0">
             {{trial.collaborator}}
           </div>
           <div class="ml-5 mr-5 h-10 mb-2 mt-2 border-0"
-               type="text" *ngIf="trial.location.length !== 0">
+               type="text" *ngIf="trial.location && trial.location.length !== 0">
             {{trial.location}}
           </div>
         </div>
       </div>
     </div>
-    <div class="container grid" *ngIf="trial.briefSummary.length !== 0">
+    <div class="container grid" *ngIf="trial.briefSummary && trial.briefSummary.length !== 0">
       <div class="flex flex-row">
         <div class="flex flex-col flex-initial">
           <div class="font-semibold mb-3 mt-3 mr-8">
@@ -127,7 +127,7 @@
         </div>
       </div>
     </div>
-    <div class="container grid" *ngIf="trial.detailedSummary.length !== 0">
+    <div class="container grid" *ngIf="trial.detailedSummary && trial.detailedSummary.length !== 0">
       <div class="flex flex-row">
         <div class="flex flex-col flex-initial">
           <div class="font-semibold mb-3 mt-3 mr-1">
@@ -188,9 +188,9 @@
       </div>
     </div>
 
-    <hr class="container" *ngIf="trial.inclusionCriteria.length !== 0">
+    <hr class="container" *ngIf="trial.inclusionCriteria && trial.inclusionCriteria.length !== 0">
 
-    <div class="container flex flex-col" *ngIf="trial.inclusionCriteria.length !== 0">
+    <div class="container flex flex-col" *ngIf="trial.inclusionCriteria && trial.inclusionCriteria.length !== 0">
       <div class="flex flex-row">
         <div class="flex flex-col flex-initial">
           <div class="font-semibold mb-1 mt-1 mr-1">
@@ -208,9 +208,9 @@
       </div>
     </div>
 
-    <hr class="container" *ngIf="trial.exclusionCriteria.length !== 0">
+    <hr class="container" *ngIf="trial.exclusionCriteria && trial.exclusionCriteria.length !== 0">
 
-    <div class="container flex flex-col" *ngIf="trial.exclusionCriteria.length !== 0">
+    <div class="container flex flex-col" *ngIf="trial.exclusionCriteria && trial.exclusionCriteria.length !== 0">
       <div class="flex flex-row">
         <div class="flex flex-col flex-initial">
           <div class="font-semibold mb-1 mt-1 mr-1">

@@ -111,7 +111,7 @@
     ],
     "exclusionCriteria": [
       "bacterial pneumonia",
-      "viral , fungal , or parasitic pneumonia",
+      "viral, fungal, or parasitic pneumonia",
       "shock",
       "hypotension",
       "allergy",
@@ -197,8 +197,8 @@
     "startDate": "2023-04-01",
     "endDate": "2024-09-30",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -237,8 +237,8 @@
     "startDate": "2022-12-20",
     "endDate": "2023-12-20",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -320,7 +320,7 @@
       "ulcer",
       "alimentary tract hemorrhage",
       "liver or kidney disease",
-      "respiratory , circulatory , digestive , hematological , endocrinological , immunological , dermatological , mental and nervous systems , facial diseases",
+      "respiratory, circulatory, digestive, hematological, endocrinological, immunological, dermatological, mental and nervous systems, facial diseases",
       "febrile illness",
       "drug abuse",
       "blood loss",
@@ -412,7 +412,7 @@
       "allergies",
       "adverse drug reactions",
       "allergic reaction",
-      "physical , sexual , or emotional abuse"
+      "physical, sexual, or emotional abuse"
     ]
   },
   {
@@ -455,8 +455,8 @@
     "startDate": "2023-01-25",
     "endDate": "2023-05-30",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -481,8 +481,8 @@
     "startDate": "2023-01-26",
     "endDate": "2025-10-10",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -516,8 +516,8 @@
     "startDate": "2023-07-01",
     "endDate": "2025-03-31",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -725,7 +725,7 @@
     "endDate": "2023-12-31",
     "researcher": {
       "firstName": "Kevin",
-      "lastName": "",
+      "lastName": "Doe",
       "email": "kevin@example.com"
     },
     "studyType": "Interventional",
@@ -748,7 +748,7 @@
     "endDate": "2023-12-31",
     "researcher": {
       "firstName": "Kevin",
-      "lastName": "",
+      "lastName": "Doe",
       "email": "kevin@example.com"
     },
     "studyType": "Interventional",
@@ -826,8 +826,8 @@
     "startDate": "2023-03-01",
     "endDate": "2025-06-01",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -849,9 +849,9 @@
     "startDate": "2023-05-15",
     "endDate": "2023-12-01",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
-      "email": "@example.com"
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
     "briefSummary": "This protocol seeks to develop a colonoscopy training program in Nigeria in order to increase the number of health care providers proficient in colonoscopy. The goal is to improve capacity for screening and early diagnosis of colorectal cancer (CRC) by training and expanding the healthcare workforce that is competent in endoscopy techniques. The project has three components, a needs assessment, simulation training, and training on live patients. The first part of this project determines the number of providers and endoscopy procedures currently performed in Nigeria, as well as patient access to facilities that have colonoscopy capabilities, through a mixed methods approach. Surveys, focus in-depth interviews with key stakeholders, and use geographic information system (GIS) modeling technology will be employed to perform a needs assessment. The second component of this project investigates whether a locally developed low fidelity (LF) simulation colonoscopy training model is an effective teaching, training, and assessment tool for skill acquisition and confidence compared to a high-fidelity (HF) colonoscopy model. The third component of this project is training healthcare providers on real patients who have an indication for colonoscopy. This project seeks to build capacity for endoscopy services in order to increase capacity for screening and early diagnosis of CRC. At the end of the project, it is expected the number of providers trained to perform colonoscopy in a resource limited setting like Nigeria will increase.",
@@ -898,8 +898,8 @@
     "startDate": "2023-01-30",
     "endDate": "2027-01-04",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -921,8 +921,8 @@
     "startDate": "2023-05-01",
     "endDate": "2023-12-30",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -1049,7 +1049,7 @@
     ],
     "exclusionCriteria": [
       "Acute infection Acute infection",
-      "viral , bacterial , or fungal infection",
+      "viral, bacterial, or fungal infection",
       "leukocytosis",
       "human immunodeficiency",
       "liver disease",
@@ -1125,8 +1125,8 @@
     "startDate": "2023-05-01",
     "endDate": "2028-09-01",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -1148,8 +1148,8 @@
     "startDate": "2023-06-01",
     "endDate": "2024-12-01",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -1171,8 +1171,8 @@
     "startDate": "2023-03-01",
     "endDate": "2027-05-01",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -1212,8 +1212,8 @@
     "startDate": "2023-01-16",
     "endDate": "2024-12-31",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -1230,7 +1230,7 @@
     "exclusionCriteria": [
       "acute liver disease",
       "venous thromboembolic events",
-      "cardiac , renal or hepatic disease",
+      "cardiac, renal or hepatic disease",
       "stomach",
       "ulcer",
       "bleeding",
@@ -1343,8 +1343,8 @@
     "startDate": "2022-12-04",
     "endDate": "2023-10-30",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -1396,8 +1396,8 @@
     "startDate": "2022-10-25",
     "endDate": "2023-03-01",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -1448,8 +1448,8 @@
     "startDate": "2023-02-06",
     "endDate": "2023-11-21",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -1596,7 +1596,7 @@
     "endDate": "2024-10-01",
     "researcher": {
       "firstName": "Wjing",
-      "lastName": "",
+      "lastName": "Doe",
       "email": "wjing@example.com"
     },
     "studyType": "Interventional",
@@ -1618,8 +1618,8 @@
     "startDate": "2021-04-27",
     "endDate": "2023-10-13",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -1643,7 +1643,7 @@
       "gastroesophageal reflux",
       "irritable bowel syndrome",
       "mental illness",
-      "impairment of heart , liver , or kidney function"
+      "impairment of heart, liver, or kidney function"
     ]
   },
   {
@@ -1715,8 +1715,8 @@
     "startDate": "2023-02-01",
     "endDate": "2023-12-30",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -1738,8 +1738,8 @@
     "startDate": "2022-10-06",
     "endDate": "2023-09-01",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -1761,9 +1761,9 @@
     "startDate": "2023-01-12",
     "endDate": "2023-06-12",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
-      "email": "@example.com"
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
     "briefSummary": "Severe pre-eclamptic toxemia has a high incidence of renal complications. Rapid diagnosis and termination of pregnancy are still the gold standard main treatment for pre-eclampsia. Rapid control of blood pressure showed to provide protection against many adverse effects of preeclampsia as intracranial hemorrhage, subcapsular hepatic hematoma and acute kidney injury (AKI). In Assiut university hospital ICU regimen, glyceryl trinitrate (GTN) was used primarily for this purpose. But it was accused in many cases as a cause for AKI without any other organ damage along with the severe preeclampsia disease. Some previous studies supported this assumption as , Ying-Hsuan .T. et.,al during their study of GTN on renal outcome during cardiopulmonary bypass in cardiac surgery. Phentolamine infusion is a new rising alternative for an old drug with a high safety profile. In this research protocol the researchers will study comparative effect of glyceryl trinitrate (GTN) versus phentolamine on renal outcome in severe pre-eclampsia patients during their stay in obstetric ICU.",
@@ -1821,9 +1821,9 @@
     "startDate": "2023-01-01",
     "endDate": "2025-12-01",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
-      "email": "@example.com"
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
     "briefSummary": "Single centre prospective evaluation of 68Gallium(Ga68)-FAPI-46 PET/MRI in patients diagnosed with Hepatocellular Carcinoma (HCC). 68Gallium-FAPI-46 PET/MRI and standard contrasted multiphasic MRI imaging will be acquired in patients with radiological or histological diagnosis of HCC. The PET scan results will be compared to standard imaging to evaluate its role in lesion detection, characterisation and staging in patients with HCC.",
@@ -1881,8 +1881,8 @@
     "startDate": "2022-08-01",
     "endDate": "2023-08-01",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -2102,9 +2102,9 @@
     "startDate": "2022-10-18",
     "endDate": "2023-04-01",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
-      "email": "@example.com"
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
     "briefSummary": "The purpose of this study is to compare pharmacokinetics and safety of Irbesartan High and Amlodipine Fixed Dose Combination and coadministration of mono compounds in healthy adult volunteers",
@@ -2125,9 +2125,9 @@
     "startDate": "2022-09-23",
     "endDate": "2023-03-01",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
-      "email": "@example.com"
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
     "briefSummary": "The purpose of this study is to compare pharmacokinetics and safety of Irbesartan and Amlodipine High Fixed Dose Combination and coadministration of mono compounds in healthy adult volunteers",
@@ -2148,8 +2148,8 @@
     "startDate": "2023-01-02",
     "endDate": "2023-12-02",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -2206,8 +2206,8 @@
     "startDate": "2023-01-15",
     "endDate": "2024-07-01",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -2229,9 +2229,9 @@
     "startDate": "2023-06-01",
     "endDate": "2023-12-31",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
-      "email": "@example.com"
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
     "briefSummary": "To evaluate the effectiveness of a daily cognition training programme versus a traditional cognitive stimulation programme in cognitively unimpaired older adults on cognitive function, emotional state, frailty and functionality.",
@@ -2384,9 +2384,9 @@
     "startDate": "2023-02-01",
     "endDate": "2023-06-01",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
-      "email": "@example.com"
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
     "briefSummary": "The treatment of perioperative pain in children has been a topic of great interest to pediatricians, pediatric surgeons, and anesthesiologists for many years. Opioids are the most common analgesics used to manage acute postoperative pain in children and adults",
@@ -2402,7 +2402,7 @@
     "exclusionCriteria": [
       "allergy",
       "Mental disorders",
-      "cardiac , pulmonary and obstructive sleep apnea"
+      "cardiac, pulmonary and obstructive sleep apnea"
     ]
   },
   {
@@ -2439,8 +2439,8 @@
     "startDate": "2023-02-15",
     "endDate": "2023-05-30",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -2475,8 +2475,8 @@
     "startDate": "2023-02-10",
     "endDate": "2026-05-31",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -2502,8 +2502,8 @@
     "startDate": "2023-06-01",
     "endDate": "2025-09-30",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -2618,8 +2618,8 @@
     "startDate": "2021-10-01",
     "endDate": "2028-10-01",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -2666,8 +2666,8 @@
     "startDate": "2022-11-07",
     "endDate": "2025-12-31",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -2697,8 +2697,8 @@
     "startDate": "2023-03-29",
     "endDate": "2025-03-01",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -2725,8 +2725,8 @@
     "startDate": "2022-08-01",
     "endDate": "2023-06-30",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -2748,8 +2748,8 @@
     "startDate": "2023-01-20",
     "endDate": "2023-09-01",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -2777,8 +2777,8 @@
     "startDate": "2023-03-01",
     "endDate": "2023-09-01",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -2816,8 +2816,8 @@
     "startDate": "2022-12-22",
     "endDate": "2027-05-01",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -2904,8 +2904,8 @@
     "startDate": "2023-03-01",
     "endDate": "2024-04-15",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -2975,9 +2975,9 @@
     "startDate": "2023-04-15",
     "endDate": "2027-04-15",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
-      "email": "@example.com"
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
     "briefSummary": "The goal of this clinical trial is to test the impact of a screening and linkage intervention for adverse social determinants of health (aSDoH) on oral health linkage to care for emergency department patients. Researchers will compare three groups: Patients in Arm A will receive paper handouts with general oral health and aSDoH resources. Patients in Arm B will receive paper handouts with geographically-proximate oral health and aSDoH resources. Patients in Arm C will receive geographically-proximate oral health and aSDoH resources plus active navigational assistance.",
@@ -3058,7 +3058,7 @@
     "crMaxAge": 99,
     "inclusionCriteria": [],
     "exclusionCriteria": [
-      "ocular , hearing or mental disorders"
+      "ocular, hearing or mental disorders"
     ]
   },
   {
@@ -3067,8 +3067,8 @@
     "startDate": "2023-01-17",
     "endDate": "2023-05-30",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -3117,8 +3117,8 @@
     "startDate": "2023-03-13",
     "endDate": "2039-05-15",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -3225,8 +3225,8 @@
     "startDate": "2023-03-01",
     "endDate": "2024-12-01",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -3312,8 +3312,8 @@
     "startDate": "2023-01-01",
     "endDate": "2023-09-01",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -3366,8 +3366,8 @@
     "startDate": "2023-01-15",
     "endDate": "2023-04-15",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -3579,8 +3579,8 @@
     "startDate": "2022-07-15",
     "endDate": "2023-11-15",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -3691,8 +3691,8 @@
     "startDate": "2023-06-01",
     "endDate": "2025-06-30",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -3827,8 +3827,8 @@
     "startDate": "2024-01-01",
     "endDate": "2027-03-01",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -3856,8 +3856,8 @@
     "startDate": "2023-02-01",
     "endDate": "2024-11-16",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -3919,7 +3919,7 @@
       "pressure sore",
       "depression",
       "drug abuse",
-      "cardiovascular , respiratory , bladder , or renal disease",
+      "cardiovascular, respiratory, bladder, or renal disease",
       "SCI",
       "anemia",
       "hypovolemia",
@@ -3932,8 +3932,8 @@
     "startDate": "2023-02-01",
     "endDate": "2023-07-30",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -3966,8 +3966,8 @@
     "startDate": "2023-01-01",
     "endDate": "2023-12-01",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -4089,9 +4089,9 @@
     "startDate": "2021-05-17",
     "endDate": "2026-05-17",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
-      "email": "@example.com"
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
     "briefSummary": "This project consists of a randomized controlled study design. Study candidates will include all patients 18 years or older, who were evaluated at UCSD and found to have an orthopaedic injury requiring surgery. Patients who consent to study participation will be randomized to receive either the multimodal pain management protocol or standard oral hydrocodone-acetaminophen for post-operative pain management. Data on opioid usage, pain control, and functional status will be collected for each participant. After 3 years of data collection, investigators will analyze this data to provide further insight in determining appropriateness of pain regimens that reduce the overall opioid consumption. Given the widespread opioid epidemic, it is imperative to develop alternative means to appropriately manage pain in orthopaedic surgery patients.",
@@ -4118,8 +4118,8 @@
     "startDate": "2022-11-17",
     "endDate": "2023-06-01",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -4291,8 +4291,8 @@
     "startDate": "2022-08-01",
     "endDate": "2023-01-20",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",
@@ -4309,7 +4309,7 @@
     "exclusionCriteria": [
       "spinal fracture",
       "heart disease",
-      "kidney , liver diseases",
+      "kidney, liver diseases",
       "gastric",
       "ulcer",
       "duodenal ulcer",
@@ -4473,8 +4473,8 @@
     "startDate": "2023-06-01",
     "endDate": "2028-01-11",
     "researcher": {
-      "firstName": "",
-      "lastName": "",
+      "firstName": "John",
+      "lastName": "Doe",
       "email": "john.doe@example.com"
     },
     "studyType": "Interventional",

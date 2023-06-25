@@ -68,7 +68,7 @@ public class PatientDataGenerator {
      */
     public Patient generatePatient() {
         LOG.trace("generatePatient()");
-        return generatePatient(faker.options().option(Gender.class));
+        return generatePatient(Gender.values()[faker.random().nextInt(0, 1)]);
     }
 
     /**

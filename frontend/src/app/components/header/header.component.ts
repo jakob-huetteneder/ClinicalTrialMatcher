@@ -6,6 +6,8 @@ import {TrialList} from '../../dtos/trial-list';
 import {TrialListService} from '../../services/trial-list.service';
 import {ToastrService} from 'ngx-toastr';
 import {FormBuilder, FormGroup} from '@angular/forms';
+import {User} from '../../dtos/user';
+import {UserService} from '../../services/user.service';
 
 @Component({
   selector: 'app-header',
@@ -13,6 +15,13 @@ import {FormBuilder, FormGroup} from '@angular/forms';
   styleUrls: ['./header.component.scss']
 })
 export class HeaderComponent implements OnInit {
+
+  user: User = {
+    id: -1,
+    firstName: '',
+    lastName: '',
+    email: ''
+  };
 
   trialListForm: FormGroup;
   allLists: TrialList[];
@@ -33,6 +42,7 @@ export class HeaderComponent implements OnInit {
 
   constructor(
     public authService: AuthService,
+    private userService: UserService,
     public router: Router,
     private trialListService: TrialListService,
     private notification: ToastrService,
@@ -61,11 +71,16 @@ export class HeaderComponent implements OnInit {
       }
     });
     if (this.authService.isLoggedIn()) {
-      this.reload();
+      this.loadTrialLists();
+      this.loadUser();
     }
+    this.authService.loginEvent.subscribe(() => {
+      this.loadTrialLists();
+      this.loadUser();
+    });
   }
 
-  reload(): void {
+  loadTrialLists(): void {
     this.trialListService.getOwnTrialLists().subscribe({
       next: data => {
         this.allLists = data;
@@ -73,6 +88,18 @@ export class HeaderComponent implements OnInit {
       }
     });
     this.trialListForm.get('name').setValue('');
+  }
+
+  loadUser(): void {
+    this.userService.getActiveUser().subscribe({
+      next: data => {
+        this.user = data;
+      },
+      error: error => {
+        console.error('error loading user', error);
+        this.notification.error(error.error.message);
+      }
+    });
   }
 
   logout() {
@@ -84,7 +111,7 @@ export class HeaderComponent implements OnInit {
     console.log('trialListForm: ', this.trialListForm.value);
     this.trialListService.create(this.trialListForm.value).subscribe({
       next: data => {
-        this.reload();
+        this.loadTrialLists();
         this.trialListService.updateEvent.emit();
         this.notification.success(`Trial List ${data.name} successfully created.`);
       },
@@ -100,7 +127,7 @@ export class HeaderComponent implements OnInit {
     this.trialListService.deleteTrialList(trialList).subscribe({
       next: data => {
         this.trialListService.updateEvent.emit();
-        this.reload();
+        this.loadTrialLists();
         this.notification.success(`Trial List ${trialList.name} successfully deleted.`);
       },
       error: error => {

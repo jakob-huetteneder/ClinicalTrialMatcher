@@ -1,4 +1,4 @@
-import {Injectable} from '@angular/core';
+import {EventEmitter, Injectable} from '@angular/core';
 import {AuthRequest} from '../dtos/auth-request';
 import {Observable} from 'rxjs';
 import {HttpClient} from '@angular/common/http';
@@ -12,6 +12,9 @@ import {Role} from '../dtos/role';
 })
 export class AuthService {
 
+  loginEvent = new EventEmitter<void>();
+
+
   private authBaseUri: string = this.globals.backendUri + '/authentication';
 
   constructor(private httpClient: HttpClient, private globals: Globals) {
@@ -23,6 +26,7 @@ export class AuthService {
    * @param authRequest User data
    */
   loginUser(authRequest: AuthRequest): Observable<string> {
+    this.loginEvent.emit();
     return this.httpClient.post(this.authBaseUri, authRequest, {responseType: 'text'})
       .pipe(
         tap((authResponse: string) => this.setToken(authResponse))

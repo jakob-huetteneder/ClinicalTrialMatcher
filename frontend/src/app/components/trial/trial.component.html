@@ -23,6 +23,11 @@
               aria-label="Show Trial Statistics">
         <i class="bi bi-graph-up"></i>
       </button>
+      <button class="btn btn-sm rounded btn-success h-max"
+              (click)="router.navigate(['/researcher/trials/requests', trial.id])"
+              aria-label="Show Trial Registrations">
+        <i class="bi bi-inbox-fill"></i>
+      </button>
     </app-trial-list-item>
   </div>
 

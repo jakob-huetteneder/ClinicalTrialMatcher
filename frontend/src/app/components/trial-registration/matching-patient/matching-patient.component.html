@@ -7,12 +7,12 @@
   <hr class="container">
 
   <section class="flex flex-col container align-items-center">
-    <div class="flex flex-row container w-full mb-2">
+    <div class="inputfield flex flex-row container w-full mb-2">
       <div class="flex flex-row w-full text-blue-950 bg-blue-50" style="align-items: center; border-radius: 4px;">
         <i class="bi-search opacity-60 ml-4" style="color: #235491"></i>
-        <input #searchInput (input)="searchChanged($event)"
+        <input #searchInput (input)="searchChanged()" [(ngModel)]="search"
                class="max-h-[2.5rem] my-0 inputfield ml-4 bg-blue-50" placeholder="Search in Current List">
-        <i (click)="searchInput.value = '';" class="bi-x mr-2 flex" style="color: #1e5075"></i>
+        <i (click)="search = ''; searchChanged()" class="bi-x-lg mr-2 flex" style="color: #1e5075"></i>
       </div>
     </div>
     <!--<div class="flex flex-row gap-2 w-full ml-4 align-items-center container">

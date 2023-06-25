@@ -30,7 +30,9 @@ export class ConfirmButtonComponent {
   constructor(private dialog: MatDialog) {
   }
 
-  openDialog() {
+  openDialog(event: any) {
+    event.stopPropagation();
+
     const dialogConfig = new MatDialogConfig();
 
     dialogConfig.disableClose = true;

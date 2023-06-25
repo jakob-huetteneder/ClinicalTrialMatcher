@@ -3,6 +3,7 @@ import {debounceTime, distinctUntilChanged, Subject} from 'rxjs';
 import {Trial, TrialRegistration, TrialRegistrationStatus} from '../../../dtos/trial';
 import {TrialService} from '../../../services/trial.service';
 import {ActivatedRoute} from '@angular/router';
+import {Patient} from '../../../dtos/patient';
 
 @Component({
   selector: 'app-accept-registration-requests',
@@ -19,6 +20,8 @@ export class AcceptRegistrationRequestsComponent implements OnInit {
   applied: TrialRegistration[] = [];
   accepted: TrialRegistration[] = [];
   declined: TrialRegistration[] = [];
+
+  allRegistrations: TrialRegistration[] = [];
 
   constructor(
     private trialService: TrialService,
@@ -50,7 +53,7 @@ export class AcceptRegistrationRequestsComponent implements OnInit {
           distinctUntilChanged()).subscribe(
           () => {
             console.log('now searching for: ' + this.search);
-            this.loadRegistrations();
+            this.searchPatients();
           });
       },
       error: error => {
@@ -67,15 +70,15 @@ export class AcceptRegistrationRequestsComponent implements OnInit {
     this.respondToRequest(registration, false);
   }
 
-  searchChanged(event: any) {
-    this.search = event.target.value;
+  searchChanged() {
     console.log('search', this.search);
-    this.debouncer.next(event);
+    this.debouncer.next(this.search);
   }
 
   private loadRegistrations() {
     this.trialService.getAllRegistrationsForTrial(this.trial.id).subscribe({
       next: (registrations: TrialRegistration[]) => {
+        this.allRegistrations = registrations;
         this.applied = registrations.filter(registration => registration.status === TrialRegistrationStatus.patientAccepted);
         this.accepted = registrations.filter(registration => registration.status === TrialRegistrationStatus.accepted);
         this.declined = registrations.filter(registration => registration.status === TrialRegistrationStatus.declined);
@@ -96,5 +99,28 @@ export class AcceptRegistrationRequestsComponent implements OnInit {
         console.log('Something went wrong while responding to registration request: ' + error.error.message);
       }
     });
+  }
+
+  private searchPatients() {
+    this.applied = this.allRegistrations.filter(registration =>
+      registration.status === TrialRegistrationStatus.patientAccepted
+      && this.matchesSearch(registration.patient));
+
+    this.accepted = this.allRegistrations.filter(registration =>
+      registration.status === TrialRegistrationStatus.accepted
+      && this.matchesSearch(registration.patient));
+
+    this.declined = this.allRegistrations.filter(registration =>
+      registration.status === TrialRegistrationStatus.declined
+      && this.matchesSearch(registration.patient));
+  }
+
+  private matchesSearch(patient: Patient): boolean {
+    return (patient.firstName.toLowerCase()
+      + ' '
+      + patient.lastName.toLowerCase()
+      + ' '
+      + patient.email.toLowerCase())
+      .includes(this.search.toLowerCase());
   }
 }
