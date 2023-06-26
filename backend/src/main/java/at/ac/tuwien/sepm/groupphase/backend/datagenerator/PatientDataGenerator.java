@@ -155,6 +155,14 @@ public class PatientDataGenerator {
                 String lastName = faker.name().lastName();
                 String email = firstName.toLowerCase() + "." + lastName.toLowerCase() + "@example.com";
 
+                ApplicationUser user = userDataGenerator.generateUser(
+                    firstName,
+                    lastName,
+                    email,
+                    Role.PATIENT,
+                    ApplicationUser.Status.ACTIVE
+                );
+
                 Patient patient = new Patient()
                     .setFirstName(firstName)
                     .setLastName(lastName)
@@ -162,7 +170,8 @@ public class PatientDataGenerator {
                     .setAdmissionNote(admissionNote)
                     .setBirthdate(LocalDate.now().minusYears(age).plus(faker.random().nextInt(-100, 100), ChronoUnit.DAYS))
                     .setDiagnoses(diagnoses)
-                    .setGender(gender);
+                    .setGender(gender)
+                    .setApplicationUser(user);
 
                 patient = patientRepository.save(patient);
                 elasticsearchOperations.save(patient);

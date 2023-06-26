@@ -14,16 +14,22 @@
   <div class="flex flex-row container w-full mb-2">
     <div class="flex flex-row w-full text-blue-950 bg-blue-50" style="align-items: center; border-radius: 4px;">
       <i class="bi-search opacity-60 ml-4" style="color: #235491"></i>
-      <input (input)="searchChanged($event)" [ngModel]="search" class="max-h-[2.5rem] my-0 inputfield mx-4 bg-blue-50"
+      <input (input)="searchChanged()" [(ngModel)]="search" class="max-h-[2.5rem] my-0 inputfield mx-4 bg-blue-50"
              id="q" name="q" placeholder="Search in Current List">
+      <button class="bi-x-lg ml-1 mr-2" (click)="search = ''; searchChanged()" style="color:#1e5075"></button>
     </div>
-    <button class="bi-funnel-fill ml-4" onclick="q.value = '';" style="color:#1e5075"></button>
   </div>
   <hr class="mt-0 ml-4 mb-4 w-full" style="border: 2px solid #CDE2F0;">
 
   <table class="container w-fit" style="max-width: 1200px !important;">
-    <thead [hidden]="(requested === null || requested.length === 0)">
-    <tr [hidden]="requested === null || requested.length === 0" class="disabled font-bold text-orange-700 h-8">
+    <colgroup>
+      <col style="width: 30%;">
+      <col style="width: 30%;">
+      <col style="width: 30%;">
+      <col style="width: 10%;">
+    </colgroup>
+    <thead [hidden]="requested === null || requested.length === 0">
+    <tr class="disabled font-bold text-orange-700 h-8">
       <i class="bi-clock mr-2"></i>
       Pending
     </tr>
@@ -31,38 +37,38 @@
     <th style="font-weight: 600">Last Name</th>
     <th style="font-weight: 600">E-Mail</th>
     </thead>
-    <tbody *ngIf="!isEmpty">
-    <tr *ngFor="let request of requested" class="w-fit">
+    <tbody [hidden]="requested === null || requested.length === 0">
+    <tr *ngFor="let request of requested" class="w-full h-10">
       <td>{{request.doctor.firstName}}</td>
       <td>{{request.doctor.lastName}}</td>
       <td>{{request.doctor.email}}</td>
-      <td style="width: 138px;">
+      <td class="text-right">
 
-        <button
-          (click)="accept(request)"
-          aria-label="Accept request of doctor"
-          class="flex-initial bg-green-100 rounded w-fit py-2 px-4 text-green-700 font-semibold border-green-700 drop-shadow-sm text-sm"
-          style="border-width: 1px;">
-          <i class="bi bi-check"></i>
-        </button>
+        <app-confirm-button (confirm)="accept(request)" details="This doctor will be able to see your medical history.">
+          <button
+            aria-label="Accept request of doctor"
+            class="flex-initial bg-green-100 rounded w-fit py-1 px-2 text-green-700 font-semibold border-green-700 drop-shadow-sm text-sm"
+            style="border-width: 1px;">
+            <i class="bi bi-check"></i>
+          </button>
+        </app-confirm-button>
+        <app-confirm-button (confirm)="decline(request)" details="This doctor will be rejected.">
+          <button
+            aria-label="Decline request of doctor"
+            class="flex-initial bg-red-100 rounded w-fit py-1 px-2 text-red-700 font-semibold border-red-700 drop-shadow-sm ml-1 text-sm"
+            style="border-width: 1px;">
+            <i class="bi bi-x"></i>
+          </button>
+        </app-confirm-button>
 
-        <button
-          (click)="decline(request)"
-          aria-label="Decline request of doctor"
-          class="flex-initial bg-red-100 rounded w-fit py-2 px-4 text-red-700 font-semibold border-red-700 drop-shadow-sm ml-2 text-sm"
-          style="border-width: 1px;">
-          <i class="bi bi-x"></i>
-        </button>
       </td>
     </tr>
+    <tr class="h-10"></tr>
     </tbody>
 
-    <div [hidden]="((requested === null || requested.length === 0) || (accepted === null || accepted.length === 0))"
-         class="m-4"></div>
+    <thead [hidden]="accepted === null || accepted.length === 0">
 
-    <thead [hidden]="(accepted === null || accepted.length === 0)">
-
-    <tr [hidden]="accepted === null || accepted.length === 0" class="disabled font-bold text-green-700 h-8">
+    <tr class="disabled font-bold text-green-700 h-8">
       <i class="bi-check-lg mr-2"></i>
       Accepted
     </tr>
@@ -75,23 +81,22 @@
       <td>{{request.doctor.firstName}}</td>
       <td>{{request.doctor.lastName}}</td>
       <td>{{request.doctor.email}}</td>
-      <td style="width: 62px;">
+      <td class="text-right">
         <app-confirm-button (confirm)="decline(request)" details="Reject this connection.">
           <button
             aria-label="Remove treating relationship"
-            class="flex-initial bg-red-100 rounded w-fit py-2 px-4 text-red-700 font-semibold border-red-700 drop-shadow-sm text-sm">
+            class="flex-initial bg-red-100 rounded w-fit py-1 px-2 text-red-700 font-semibold border-red-700 drop-shadow-sm text-sm"
+            style="border-width: 1px;">
             <i class="bi bi-x"></i>
           </button>
         </app-confirm-button>
       </td>
     </tr>
+    <tr class="h-10"></tr>
     </tbody>
 
-    <div [hidden]="((declined === null || declined.length === 0) || (accepted === null || accepted.length === 0))"
-         class="m-4"></div>
-
-    <thead [hidden]="(declined === null || declined.length === 0)">
-    <tr [hidden]="declined === null || declined.length === 0" class="disabled font-bold text-red-700 h-8">
+    <thead [hidden]="declined === null || declined.length === 0">
+    <tr class="disabled font-bold text-red-700 h-8">
       <i class="bi-x-lg mr-2"></i>
       Declined
     </tr>
@@ -104,11 +109,12 @@
       <td>{{request.doctor.firstName}}</td>
       <td>{{request.doctor.lastName}}</td>
       <td>{{request.doctor.email}}</td>
-      <td style="width: 62px;">
+      <td class="text-right">
         <app-confirm-button (confirm)="delete(request)" details="Remove this request from the history. The doctor will be able to send a new request.">
           <button
             aria-label="Remove treating relationship"
-            class="flex-initial bg-red-100 rounded w-fit py-2 px-4 text-red-700 font-semibold border-red-700 drop-shadow-sm text-sm">
+            class="flex-initial bg-red-100 rounded w-fit py-1 px-2 text-red-700 font-semibold border-red-700 drop-shadow-sm text-sm"
+            style="border-width: 1px;">
             <i class="bi bi-trash"></i>
           </button>
         </app-confirm-button>

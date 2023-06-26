@@ -69,10 +69,9 @@ export class ViewConnectionsComponent implements OnInit {
     });
   }
 
-  searchChanged(event: any) {
-    this.search = event.target.value;
+  searchChanged() {
     console.log('search', this.search);
-    this.debouncer.next(event);
+    this.debouncer.next(this.search);
   }
 
   private loadTreats() {

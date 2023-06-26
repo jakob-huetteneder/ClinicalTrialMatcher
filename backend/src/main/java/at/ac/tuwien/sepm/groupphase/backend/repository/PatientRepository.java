@@ -29,6 +29,6 @@ public interface PatientRepository extends JpaRepository<Patient, Long> {
      * @param search required to be part of the patient name
      * @return list of patients with matching name
      */
-    @Query("SELECT p FROM Patient p WHERE lower(concat(p.firstName, p.lastName)) LIKE concat('%', lower(:search), '%')")
+    @Query("SELECT p FROM Patient p WHERE lower(concat(p.firstName, ' ', p.lastName)) LIKE concat('%', lower(:search), '%')")
     List<Patient> findAllContaining(@Param("search") String search);
 }

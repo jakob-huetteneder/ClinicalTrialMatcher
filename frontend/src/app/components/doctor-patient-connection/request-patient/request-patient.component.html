@@ -13,10 +13,10 @@
   <div class="flex flex-row container w-full mb-2">
     <div class="flex flex-row w-full text-blue-950 bg-blue-50" style="align-items: center; border-radius: 4px;">
       <i class="bi-search opacity-60 ml-4" style="color: #235491"></i>
-      <input (input)="searchChanged($event)" class="max-h-[2.5rem] my-0 inputfield mx-4 bg-blue-50" id="q"
-             name="q" placeholder="Search in Current List">
+      <input (input)="searchChanged()" [(ngModel)]="search" class="max-h-[2.5rem] my-0 inputfield mx-4 bg-blue-50" id="q"
+             #q placeholder="Search in Current List">
+      <button class="bi-x-lg ml-1 mr-2" (click)="search = ''; searchChanged()" style="color:#1e5075"></button>
     </div>
-    <button class="bi-funnel-fill ml-4" onclick="q.value = '';" style="color:#1e5075"></button>
   </div>
   <hr class="mt-0 ml-4 w-full" style="border: 2px solid #CDE2F0;">
   <table *ngIf="!isEmpty" class="container w-fit">
