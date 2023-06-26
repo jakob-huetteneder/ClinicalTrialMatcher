@@ -16,19 +16,18 @@ public record TrialDto(
     LocalDate startDate,
     LocalDate endDate,
     UserDetailDto researcher,
-    @NotBlank(message = "Study type must not be Blank")
     String studyType,
-    @NotBlank(message = "Brief summary must not be blank")
+
     String briefSummary,
-    @NotBlank(message = "Detailed summary must not be blank")
+
     String detailedSummary,
-    @NotBlank(message = "Sponsor must not be blank")
+
     String sponsor,
-    @NotBlank(message = "Collaborator must not be blank")
+
     String collaborator,
     @NotNull(message = "Status must not be null")
     Trial.Status status,
-    @NotBlank(message = "Location must not be blank")
+
     String location,
     @NotNull(message = "Gender must not be null")
     Gender crGender,
