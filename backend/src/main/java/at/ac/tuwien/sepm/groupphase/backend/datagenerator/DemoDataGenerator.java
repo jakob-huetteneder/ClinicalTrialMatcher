@@ -68,11 +68,11 @@ public class DemoDataGenerator {
         // userDataGenerator.generateUsers();
         // diseaseDataGenerator.generateDiseases();
         patientDataGenerator.generatePatientsFromJson();
-        diagnosisDataGenerator.generateDiagnoses();
-        examinationDataGenerator.generateExaminations();
+        // diagnosisDataGenerator.generateDiagnoses();
+        // examinationDataGenerator.generateExaminations();
         trialDataGenerator.parseTrialsFromJson();
         generateAdmin();
-        generateResearcherWithTrials();
+        // generateResearcherWithTrials();
         generateDoctorWithPatients();
         diseasesService.setAllDiseaseLinks();
     }

@@ -26,10 +26,12 @@ export class AuthService {
    * @param authRequest User data
    */
   loginUser(authRequest: AuthRequest): Observable<string> {
-    this.loginEvent.emit();
     return this.httpClient.post(this.authBaseUri, authRequest, {responseType: 'text'})
       .pipe(
-        tap((authResponse: string) => this.setToken(authResponse))
+        tap((authResponse: string) => {
+          this.setToken(authResponse);
+          this.loginEvent.emit();
+        })
       );
   }
 
