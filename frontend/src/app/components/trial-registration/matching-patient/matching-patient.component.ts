@@ -30,6 +30,8 @@ export class MatchingPatientComponent implements OnInit {
   threshold = -1;
   minScore = -1;
   maxScore = -1;
+  page = 1;
+  size = 10;
 
   constructor(
     private trialService: TrialService,

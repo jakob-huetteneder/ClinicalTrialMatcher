@@ -9,9 +9,14 @@
 
   <div class="flex max-lg:hidden mb-5 justify-center">
     <div class="flex flex-col">
-      <div class="fw-bold mb-1">Age</div>
+      <div class="fw-bold mb-1">Age (Accepted)</div>
       <div class="p-3 w-130 rounded shadow bg-white hover:cursor-crosshair flex-initial justify-center">
-        <canvas #age></canvas>
+        <div class="relative">
+          <canvas #age></canvas>
+          <p class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-10 text-slate-700 font-semibold text-center">
+            You have not yet accepted any registrations.
+          </p>
+        </div>
       </div>
     </div>
   </div>
@@ -20,9 +25,14 @@
 
     <div class="flex items-center max-sm:hidden ml-56">
       <div class="flex flex-col">
-        <p class="fw-bold mb-1">Gender</p>
+        <p class="fw-bold mb-1">Gender (Accepted)</p>
         <div class="py-3 w-80 rounded shadow bg-white hover:cursor-crosshair flex-initial justify-center">
-          <canvas #gender></canvas>
+          <div class="relative">
+            <canvas #gender></canvas>
+            <p class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-10 text-slate-700 font-semibold text-center">
+              You have not yet accepted any registrations.
+            </p>
+          </div>
         </div>
       </div>
     </div>

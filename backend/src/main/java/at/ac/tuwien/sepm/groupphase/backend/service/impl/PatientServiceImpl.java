@@ -160,13 +160,9 @@ public class PatientServiceImpl implements PatientService {
         // Execute the query and retrieve the search results
         StringQuery stringQuery = new StringQuery(searchQuery.getQuery().toString());
         stringQuery.setMinScore(1.f);
-        stringQuery.setMaxResults(100);
+        stringQuery.setMaxResults(10000);
 
         SearchHits<Patient> searchHits = elasticsearchOperations.search(stringQuery, Patient.class);
-
-        List<Patient> results = searchHits.stream()
-            .map(SearchHit::getContent)
-            .toList();
 
         return searchHits.stream().map(i -> patientMapper.patientToPatientSearchDto(i.getContent(), i)).toList();
     }

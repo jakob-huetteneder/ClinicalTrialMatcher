@@ -14,6 +14,8 @@ public record FilterDto(
     @Min(value = 0, message = "Minimum age must be greater than 0")
     int minAge,
     @Min(value = 0, message = "Maximum age must be greater than 0")
-    int maxAge
+    int maxAge,
+    Integer page,
+    Integer size
 ) {
 }

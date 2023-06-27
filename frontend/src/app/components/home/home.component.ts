@@ -6,6 +6,7 @@ import {TrialService} from '../../services/trial.service';
 import {Trial} from '../../dtos/trial';
 import {ToastrService} from 'ngx-toastr';
 import {debounceTime, Subject} from 'rxjs';
+import {Collection} from 'ngx-pagination';
 
 @Component({
   selector: 'app-home',
@@ -31,19 +32,22 @@ export class HomeComponent implements OnInit {
     minAge: null,
     maxAge: null,
     endDate: null,
-    startDate: null
+    startDate: null,
+    page: 1,
+    size: 10,
   };
+  totalElements = -1;
 
   constructor(public authService: AuthService, private trialService: TrialService, private notification: ToastrService) {
     this.searchSubject
       .pipe(debounceTime(500)) // Adjust the debounce time as desired (in milliseconds)
       .subscribe(() => {
-        this.searchWithFilter();
+        this.searchWithFilter(this.filter.page);
       });
   }
 
   ngOnInit() {
-    this.searchWithFilter();
+    this.searchWithFilter(1);
   }
 
   onKeywordChange(): void {
@@ -68,16 +72,21 @@ export class HomeComponent implements OnInit {
     return this.advanced;
   }
 
-  public searchWithFilter() {
+  public searchWithFilter(page: number) {
+    if(page !== undefined) {
+      this.filter.page = page;
+    }
     this.searching = true;
     this.trialService.searchForTrialWithFilter(this.keyword, this.filter).subscribe({
-      next: (trials: Trial[]) => {
+      next: (trials) => {
         this.searching = false;
-        this.trials = trials;
+        this.trials = trials.content;
+        this.totalElements = trials.totalElements;
+        console.log(trials);
       },
       error: error => {
-        console.log('Something went wrong while loading users: ' + error.error.message);
-        this.notification.error(error.error.message, 'Something went wrong while loading users');
+        console.log('Something went wrong while loading trials: ' + error.error.message);
+        this.notification.error(error.error.message, 'Something went wrong while loading trials');
         console.log(error);
       }
     });
@@ -92,7 +101,7 @@ export class HomeComponent implements OnInit {
       recruiting: null,
       startDate: null
     };
-    this.searchWithFilter();
+    this.searchWithFilter(1);
   }
 
 }

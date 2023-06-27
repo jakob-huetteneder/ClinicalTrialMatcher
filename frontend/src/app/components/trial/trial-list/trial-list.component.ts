@@ -18,6 +18,8 @@ export class TrialListComponent implements OnInit {
   //declare trialList with empty trials array
   trialList: TrialList = {id: 3, name: '', user: null, trial: []};
   trials: Trial[] = [];
+  page = 1;
+  size = 10;
 
   constructor(public authService: AuthService,
               private trialService: TrialService,

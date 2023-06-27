@@ -122,9 +122,9 @@ public class DemoDataGenerator {
             treats.setDoctor(doctor);
             treats.setPatient(patient);
             double rand = random.nextDouble();
-            if (rand > 5.0/75.0) {
+            if (rand > 5.0 / 75.0) {
                 treatsDataGenerator.generateTreatsBetween(patient, doctor, Treats.Status.ACCEPTED);
-            } else if (rand > 3.0/75.0){
+            } else if (rand > 3.0 / 75.0) {
                 treatsDataGenerator.generateTreatsBetween(patient, doctor, Treats.Status.REQUESTED);
             } else {
                 treatsDataGenerator.generateTreatsBetween(patient, doctor, Treats.Status.DECLINED);
@@ -133,7 +133,7 @@ public class DemoDataGenerator {
     }
 
     /**
-     * Generate registrations for trials
+     * Generate registrations for trials.
      */
     public void generateRegistrationsForTrials() {
         LOG.trace("generateRegistrationsForTrials()");
@@ -162,7 +162,7 @@ public class DemoDataGenerator {
 
                         if (rand2 < rand.get(0)) {
                             registrationDataGenerator.generateRegistrationBetween(patient, trial, Registration.Status.PROPOSED);
-                        } else if (rand2 < rand.get(1)){
+                        } else if (rand2 < rand.get(1)) {
                             registrationDataGenerator.generateRegistrationBetween(patient, trial, Registration.Status.PATIENT_ACCEPTED);
                         } else if (rand2 < rand.get(2)) {
                             registrationDataGenerator.generateRegistrationBetween(patient, trial, Registration.Status.ACCEPTED);

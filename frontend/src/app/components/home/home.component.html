@@ -1,7 +1,8 @@
 <div class="jumbotron mt-5" xmlns="http://www.w3.org/1999/html">
 
   <div class="fw-bold grid grid-cols-1 justify-items-center container ml-3 text-in-button">
-    <div class="text-xl mb-6">ClinicalTrialMatcher is a place to learn about clinical studies from around the world.</div>
+    <div class="text-xl mb-6">ClinicalTrialMatcher is a place to learn about clinical studies from around the world.
+    </div>
   </div>
 
 
@@ -11,18 +12,31 @@
       <div class="font-bold">What is ClinicalTrialMatcher?</div>
       <div class="text" [class]="this.showMoreInfo ? '' : 'line-clamp-2'">
         <p>
-          Welcome to <b>ClinicalTrialMatcher</b>, your ultimate resource for streamlined access to cutting-edge clinical trials. We understand that finding the right clinical trial can be a complex and time-consuming process, which is why we are dedicated to simplifying and enhancing the entire experience for people like you.
+          Welcome to <b>ClinicalTrialMatcher</b>, your ultimate resource for streamlined access to cutting-edge clinical
+          trials. We understand that finding the right clinical trial can be a complex and time-consuming process, which
+          is why we are dedicated to simplifying and enhancing the entire experience for people like you.
         </p>
         <p>
-          At <b>ClinicalTrialMatcher</b>, our mission is to bridge the gap between patients seeking innovative treatment options and the world of clinical research. We firmly believe that every individual should have equal opportunities to explore potentially life-changing clinical trials. Our user-friendly platform empowers patients by providing a comprehensive database of trials, effectively connecting them with the most suitable research studies available.
+          At <b>ClinicalTrialMatcher</b>, our mission is to bridge the gap between patients seeking innovative treatment
+          options and the world of clinical research. We firmly believe that every individual should have equal
+          opportunities to explore potentially life-changing clinical trials. Our user-friendly platform empowers
+          patients by providing a comprehensive database of trials, effectively connecting them with the most suitable
+          research studies available.
         </p>
         <p>
-          Our website boasts a robust and intuitive matching system that takes into account your unique medical history, preferences, and location. By leveraging advanced algorithms and extensive medical knowledge, we streamline the process of finding trials that align with your specific needs. Say goodbye to countless hours of searching and filtering through endless listings. With <b>ClinicalTrialMatcher</b>, the ideal trials are just a few clicks away.
+          Our website boasts a robust and intuitive matching system that takes into account your unique medical history,
+          preferences, and location. By leveraging advanced algorithms and extensive medical knowledge, we streamline
+          the process of finding trials that align with your specific needs. Say goodbye to countless hours of searching
+          and filtering through endless listings. With <b>ClinicalTrialMatcher</b>, the ideal trials are just a few
+          clicks away.
         </p>
         <p>
-          We prioritize simplicity and clarity in every aspect of our website. Detailed trial profiles provide you with comprehensive information about the purpose, eligibility criteria, study duration, and potential benefits of each trial. Additionally, we offer user-friendly guides and resources to help you navigate the trial process, ensuring that you are fully informed and confident every step of the way.
+          We prioritize simplicity and clarity in every aspect of our website. Detailed trial profiles provide you with
+          comprehensive information about the purpose, eligibility criteria, study duration, and potential benefits of
+          each trial. Additionally, we offer user-friendly guides and resources to help you navigate the trial process,
+          ensuring that you are fully informed and confident every step of the way.
         </p>
-        </div>
+      </div>
       <button id="moreInfo"
               class="flex-initial bg-blue-100 rounded py-0 px-2 text-blue-500 font-light border-blue-950 drop-shadow-sm text"
               (click)="moreInfo()"
@@ -36,7 +50,8 @@
         <input id="q" name="q" class="max-h-[2.5rem] my-0 inputfield ml-4 grow"
                placeholder="What are you looking for today?" [(ngModel)]="keyword" (ngModelChange)="onKeywordChange()">
       </div>
-      <button *ngIf="!searching" class="bi-x-lg" style="width: 30px; color:#1e5075" onclick="q.value = '';" (click)="keyword = ''; searchWithFilter()"></button>
+      <button *ngIf="!searching" class="bi-x-lg" style="width: 30px; color:#1e5075" onclick="q.value = '';"
+              (click)="keyword = ''; searchWithFilter(undefined)"></button>
       <div *ngIf="searching">
         <svg class="animate-spin h-5 w-5 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none"
              viewBox="0 0 24 24">
@@ -47,7 +62,7 @@
       </div>
       <button
         class="flex-initial bg-blue-300 rounded w-35 py-2 px-4 text-blue-900 font-semibold border-blue-950 drop-shadow-sm text-sm"
-        (click)="searchWithFilter()" routerLinkActive="active">Search
+        (click)="searchWithFilter(undefined)" routerLinkActive="active">Search
       </button>
       <button
         class="flex-initial bg-blue-50 rounded w-56 py-2 px-4 text-blue-900 font-semibold border-blue-950 drop-shadow-sm text-sm"
@@ -60,52 +75,52 @@
       <div class="filter__categories">
         <ul class="cat__list">
           <li class="rounded"
-            [ngStyle]="{'background': (filter.minAge !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.minAge !== null) ? 'white' : '#235491'}">
+              [ngStyle]="{'background': (filter.minAge !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.minAge !== null) ? 'white' : '#235491'}">
             <div>Min age:
               <input class="ml-5 mr-5 h-10 w-20 border-0" style="color: #235491" [(ngModel)]="filter.minAge"
-                     (ngModelChange)="searchWithFilter()"
+                     (ngModelChange)="searchWithFilter(undefined)"
                      type="number" [max]="filter.maxAge" [min]="1"></div>
           </li>
           <li class="rounded"
-            [ngStyle]="{'background': (filter.maxAge !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.maxAge !== null) ? 'white' : '#235491'}">
+              [ngStyle]="{'background': (filter.maxAge !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.maxAge !== null) ? 'white' : '#235491'}">
             <div>Max age:
               <input class="ml-5 mr-5 h-10 w-20 border-0" style="color: #235491" [(ngModel)]="filter.maxAge"
-                     (ngModelChange)="searchWithFilter()"
+                     (ngModelChange)="searchWithFilter(undefined)"
                      type="number" [max]="120" [min]="filter.minAge"></div>
           </li>
           <li class="rounded"
-            [ngStyle]="{'background': (filter.startDate !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.startDate !== null) ? 'white' : '#235491'}">
+              [ngStyle]="{'background': (filter.startDate !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.startDate !== null) ? 'white' : '#235491'}">
             <div>Start Date:
               <input class="ml-5 mr-5 h-10 border-0" style="color: #235491"
-                     [(ngModel)]="filter.startDate" (ngModelChange)="searchWithFilter()"
+                     [(ngModel)]="filter.startDate" (ngModelChange)="searchWithFilter(undefined)"
                      type="date">
             </div>
           </li>
           <li class="rounded"
-            [ngStyle]="{'background': (filter.endDate !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.endDate !== null) ? 'white' : '#235491'}">
+              [ngStyle]="{'background': (filter.endDate !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.endDate !== null) ? 'white' : '#235491'}">
             <div>End Date:
               <input class="ml-5 mr-5 h-10 border-0" style="color: #235491"
-                     [(ngModel)]="filter.endDate" (ngModelChange)="searchWithFilter()"
+                     [(ngModel)]="filter.endDate" (ngModelChange)="searchWithFilter(undefined)"
                      type="date">
             </div>
           </li>
         </ul>
         <ul class="cat__list">
           <li class="rounded"
-            [ngStyle]="{'background': (filter.gender !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.gender !== null) ? 'white' : '#235491'}">
+              [ngStyle]="{'background': (filter.gender !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.gender !== null) ? 'white' : '#235491'}">
             <div>Gender:
               <select name="status" class="form-select-sm" style="color: #235491" [(ngModel)]="filter.gender"
-                      (ngModelChange)="searchWithFilter()">
+                      (ngModelChange)="searchWithFilter(undefined)">
                 <option value="MALE">male</option>
                 <option value="FEMALE">female</option>
               </select>
             </div>
           </li>
           <li class="rounded"
-            [ngStyle]="{'background': (filter.recruiting !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.recruiting !== null) ? 'white' : '#235491'}">
+              [ngStyle]="{'background': (filter.recruiting !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.recruiting !== null) ? 'white' : '#235491'}">
             <div>Status:
               <select name="status" class="form-select-sm" style="color: #235491" [(ngModel)]="filter.recruiting"
-                      (ngModelChange)="searchWithFilter()">
+                      (ngModelChange)="searchWithFilter(undefined)">
                 <option value="RECRUITING">recruiting</option>
                 <option value="NOT_RECRUITING">not recruiting</option>
               </select>
@@ -119,10 +134,36 @@
     </div>
 
     <div class="flex flex-col divide-y-[3px] w-[96%] mx-auto divide-[#CDE2F0]/[0.25]">
-      <app-trial-list-item *ngFor="let trial of trials" class="py-2"
-      [trial]="trial">
+      <app-trial-list-item
+        *ngFor="let trial of trials | paginate: { id: 'server', itemsPerPage: filter.size, currentPage: filter.page, totalItems: totalElements }"
+        class="py-2"
+        [trial]="trial">
       </app-trial-list-item>
     </div>
+    <hr class="mt-0 ml-4 w-full" style="border: 2px solid #CDE2F0;">
+    <div class="container flex flex-row">
+      <div class="flex justify-start" style="position:absolute;">
+        <select [(ngModel)]="this.filter.size"
+                (change)="searchWithFilter(undefined)"
+                class="m-0 hover:cursor-pointer justify-end  rounded border border-slate-300"
+                id="size"
+                name="size"
+                style="background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIGZpbGw9J25vbmUnIHZpZXdCb3g9JzAgMCAyNCAyNCcgc3Ryb2tlLXdpZHRoPScxLjUnIHN0cm9rZT0nIzc4OThiZCcgY2xhc3M9J3ctNiBoLTYnPjxwYXRoIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCcgZD0nTTE5LjUgOC4yNWwtNy41IDcuNS03LjUtNy41JyAvPjwvc3ZnPgo=');                        background-position: right 0.5rem center;
+                    background-repeat: no-repeat;
+                    background-size: 1.5em 1.5em;">
+          <option value="5">5</option>
+          <option value="10">10</option>
+          <option value="20">20</option>
+          <option value="50">50</option>
+        </select>
+      </div>
+      <div class="flex justify-center items-center flex-grow">
+        <div class="spinner" [ngClass]="{ 'hidden': isSearching() }"></div>
+        <pagination-controls (pageChange)="searchWithFilter($event)" id="server"
+                             class="pagination-controls"></pagination-controls>
+      </div>
+    </div>
+
   </div>
   <a *ngIf="!authService.isLoggedIn()" class="btn btn-primary btn-lg opacity-0" routerLink="/account/login"
      role="button">Login</a>

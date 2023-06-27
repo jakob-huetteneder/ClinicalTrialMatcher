@@ -15,21 +15,22 @@
         <i (click)="search = ''; searchChanged()" class="bi-x-lg mr-2 flex" style="color: #1e5075"></i>
       </div>
     </div>
-    <div class="flex flex-row container w-full justify-content-end align-items-center gap-2">
+    <div class="flex flex-row container w-full justify-content-end align-items-center gap-2 mt-1 mb-3">
       <label for="showAllPatients">Show All Patients</label>
-      <input id="showAllPatients" type="checkbox" (change)="searchPatients()" [(ngModel)]="showAllPatients" class="rounded">
+      <input id="showAllPatients" type="checkbox" (change)="searchPatients()" [(ngModel)]="showAllPatients"
+             class="rounded">
     </div>
     <!--<div class="flex flex-row gap-2 w-full ml-4 align-items-center container">
       <label class="text-blue-950">Show All Patients</label>
       <input type="checkbox" [(ngModel)]="showAllPatients" class="rounded align-items-center">
     </div>-->
-    <hr class="container" style="border: 2px solid #CDE2F0;">
     <div class="flex flex-col gap-2 w-full align-items-center">
-      <div *ngFor="let patient of patients"
-           class="flex flex-col container w-full border-2 border-slate-100 rounded-md px-4 py-2"
-           style="position: relative;">
+      <div
+        *ngFor="let patient of patients | paginate: { id: 'server', itemsPerPage: size, currentPage: page, totalItems: patients.length }"
+        class="flex flex-col container w-full border-2 border-slate-100 rounded-md px-4 py-2"
+        style="position: relative;">
         <div *ngIf="!showAllPatients"
-          class="flex-initial single-button flex absolute h-3 w-3 top-0 left-0 -mt-1 -ml-1">
+             class="flex-initial single-button flex absolute h-3 w-3 top-0 left-0 -mt-1 -ml-1">
           <a class="group relative dropdown tracking-wide pb-2 flex flex-row">
             <span class="flex absolute h-3 w-3 top-0 left-0">
               <span class="animate-ping absolute inline-flex h-full w-full rounded-full {{ratingColor1(patient.score)}}"
@@ -77,7 +78,7 @@
               <button class="btn btn-primary">Register</button>
             </app-confirm-button>
             <div [hidden]="!isRegistered(patient)"
-                  class="border-2 rounded px-3 py-1.5 bg-green-100 border-green-200 text-green-700">
+                 class="border-2 rounded px-3 py-1.5 bg-green-100 border-green-200 text-green-700">
               <i class="bi bi-check-circle-fill mr-2"></i>
               Registered
             </div>
@@ -106,5 +107,25 @@
       <p *ngIf="isEmpty" [innerHTML]="emptyListText" class="text-gray-400"></p>
     </div>
   </section>
+  <div class="container flex flex-row">
+    <div class="flex justify-start" style="position:absolute;">
+      <select [(ngModel)]="this.size"
+              class="m-0 hover:cursor-pointer justify-end  rounded border border-slate-300"
+              id="size"
+              name="size"
+              style="background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIGZpbGw9J25vbmUnIHZpZXdCb3g9JzAgMCAyNCAyNCcgc3Ryb2tlLXdpZHRoPScxLjUnIHN0cm9rZT0nIzc4OThiZCcgY2xhc3M9J3ctNiBoLTYnPjxwYXRoIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCcgZD0nTTE5LjUgOC4yNWwtNy41IDcuNS03LjUtNy41JyAvPjwvc3ZnPgo=');                        background-position: right 0.5rem center;
+                    background-repeat: no-repeat;
+                    background-size: 1.5em 1.5em;">
+        <option value="5">5</option>
+        <option value="10">10</option>
+        <option value="20">20</option>
+        <option value="50">50</option>
+      </select>
+    </div>
+    <div class="flex justify-center items-center flex-grow">
+      <pagination-controls (pageChange)="page = $event" id="server"
+                           class="pagination-controls"></pagination-controls>
+    </div>
+  </div>
 
 </div>

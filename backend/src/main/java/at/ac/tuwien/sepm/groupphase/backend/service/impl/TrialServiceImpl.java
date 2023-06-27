@@ -19,6 +19,8 @@ import at.ac.tuwien.sepm.groupphase.backend.service.DiseasesService;
 import at.ac.tuwien.sepm.groupphase.backend.service.TrialService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.PageImpl;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
@@ -32,7 +34,6 @@ import java.util.Optional;
 @Service
 public class TrialServiceImpl implements TrialService {
 
-    public static final int SEARCH_RESULT_PER_PAGE = 500;
     private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
 
     private final TrialRepository trialRepository;
@@ -63,7 +64,7 @@ public class TrialServiceImpl implements TrialService {
         LOG.trace("getAllTrials()");
         List<Trial> trials = trialRepository.findAll();
         LOG.debug("Retrieved all trials ({})", trials.size());
-        return trialMapper.trialToTrialDto(trials);
+        return trialMapper.trialToTrialDto(trials.stream().toList());
     }
 
     @Override
@@ -136,16 +137,15 @@ public class TrialServiceImpl implements TrialService {
     }
 
     @Override
-    public List<TrialDto> searchWithFilter(String keyword, FilterDto filterDto, int pageNum) {
-        LOG.trace("searchWithFilter({}, {}, {})", keyword, filterDto, pageNum);
-        Pageable pageable = PageRequest.of(pageNum - 1, SEARCH_RESULT_PER_PAGE);
+    public Page<TrialDto> searchWithFilter(String keyword, FilterDto filterDto) {
+        LOG.trace("searchWithFilter({}, {})", keyword, filterDto);
+        PageRequest req = PageRequest.of(filterDto.page() - 1, filterDto.size());
         Gender gender = filterDto.gender();
         Trial.Status status = filterDto.recruiting();
 
-        List<Trial> trials = trialRepository.search(keyword.toLowerCase(), gender, status,
-            filterDto.minAge(), filterDto.maxAge(), filterDto.startDate(), filterDto.endDate(), pageable).getContent();
-        return trialMapper.trialToTrialDto(trials);
+        Page<Trial> trials = trialRepository.search(keyword.toLowerCase(), gender, status,
+            filterDto.minAge(), filterDto.maxAge(), filterDto.startDate(), filterDto.endDate(), req);
+        return new PageImpl<>(trialMapper.trialToTrialDto(trials.stream().toList()), req, trials.getTotalElements());
     }
-
 
 }

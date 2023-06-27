@@ -9,5 +9,7 @@ export interface Filter {
   startDate?: Date;
   minAge?: number;
   maxAge?: number;
+  page?: number;
+  size?: number;
 
 }

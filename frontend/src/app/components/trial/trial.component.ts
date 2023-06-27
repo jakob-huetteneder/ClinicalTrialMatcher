@@ -13,6 +13,8 @@ import {ToastrService} from 'ngx-toastr';
 })
 export class TrialComponent implements OnInit {
   trials: Trial[] = [];
+  size = 10;
+  page = 1;
 
   constructor(private authService: AuthService,
               public router: Router,
@@ -56,6 +58,6 @@ export class TrialComponent implements OnInit {
   }
 
   edit(trial: Trial) {
-    this.router.navigate(['/researcher/trials/edit', trial.id]);
+    this.router.navigate(['/researcher/trials/edit', trial.id]).then();
   }
 }

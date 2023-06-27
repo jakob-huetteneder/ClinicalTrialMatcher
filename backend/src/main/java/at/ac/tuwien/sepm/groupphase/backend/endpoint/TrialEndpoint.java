@@ -85,7 +85,7 @@ public class TrialEndpoint {
      * @param id of the trial to be matched
      * @return all patients that match the given trial
      */
-    @PermitAll
+    @Secured("ROLE_DOCTOR")
     @ResponseStatus(HttpStatus.OK)
     @GetMapping(value = "/match/{id}")
     public List<PatientSearchDto> matchByTrialId(@PathVariable("id") Long id) {
@@ -166,9 +166,10 @@ public class TrialEndpoint {
      */
     @PermitAll
     @PostMapping("/search")
-    public List<TrialDto> searchWithFilter(@RequestBody @Valid FilterDto filterDto, @Param("keyword") String keyword) {
+    public Page<TrialDto> searchWithFilter(@RequestBody @Valid FilterDto filterDto, @Param("keyword") String keyword) {
         LOG.trace("searchWithFilter({}, {})", filterDto, keyword);
         LOG.info("POST " + BASE_PATH + "/search");
-        return trialService.searchWithFilter(keyword, filterDto, 1);
+        LOG.info("{}", filterDto.toString());
+        return trialService.searchWithFilter(keyword, filterDto);
     }
 }

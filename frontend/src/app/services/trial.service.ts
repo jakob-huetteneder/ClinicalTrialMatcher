@@ -44,10 +44,10 @@ export class TrialService {
    *
    * @return observable list of found trials.
    */
-  searchForTrialWithFilter(keyword: string, filter: Filter): Observable<Trial[]> {
+  searchForTrialWithFilter(keyword: string, filter: Filter): Observable<any> {
     let queryParams = new HttpParams();
     queryParams = queryParams.set('keyword', keyword);
-    return this.http.post<Trial[]>(baseUri + '/search', filter, {params: queryParams});
+    return this.http.post<any>(baseUri + '/search', filter, {params: queryParams});
   }
 
 

@@ -62,9 +62,8 @@ public interface TrialService {
      *
      * @param keyword the keyword to search for in trials
      * @param filterDto the filters to search for in trials
-     * @param pageNum the pages
      * @return list of found trials
      */
-    List<TrialDto> searchWithFilter(String keyword, FilterDto filterDto, int pageNum);
+    Page<TrialDto> searchWithFilter(String keyword, FilterDto filterDto);
 
 }

@@ -28,7 +28,7 @@
     <th style="font-weight: 600">E-Mail</th>
     </thead>
     <tbody [hidden]="accepted === null || accepted.length === 0">
-    <tr *ngFor="let connection of accepted" class="w-fit h-10"
+    <tr *ngFor="let connection of accepted  | paginate: { id: 'server', itemsPerPage: size, currentPage: page, totalItems: accepted.length }" class="w-fit h-10"
         style="cursor: pointer">
       <td
         [routerLink]="connection.link">{{connection.firstName}}</td>
@@ -55,4 +55,25 @@
     </tbody>
   </table>
   <p *ngIf="isEmpty" [innerHTML]="emptyListText" class="text-gray-400"></p>
+  <hr class="mt-0 ml-4 w-full" style="border: 2px solid #CDE2F0;">
+  <div class="container flex flex-row">
+    <div class="flex justify-start" style="position:absolute;">
+      <select [(ngModel)]="this.size"
+              class="m-0 hover:cursor-pointer justify-end  rounded border border-slate-300"
+              id="size"
+              name="size"
+              style="background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIGZpbGw9J25vbmUnIHZpZXdCb3g9JzAgMCAyNCAyNCcgc3Ryb2tlLXdpZHRoPScxLjUnIHN0cm9rZT0nIzc4OThiZCcgY2xhc3M9J3ctNiBoLTYnPjxwYXRoIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCcgZD0nTTE5LjUgOC4yNWwtNy41IDcuNS03LjUtNy41JyAvPjwvc3ZnPgo=');                        background-position: right 0.5rem center;
+                    background-repeat: no-repeat;
+                    background-size: 1.5em 1.5em;">
+        <option value="5">5</option>
+        <option value="10">10</option>
+        <option value="20">20</option>
+        <option value="50">50</option>
+      </select>
+    </div>
+    <div class="flex justify-center items-center flex-grow">
+      <pagination-controls (pageChange)="page = $event" id="server"
+                           class="pagination-controls"></pagination-controls>
+    </div>
+  </div>
 </div>

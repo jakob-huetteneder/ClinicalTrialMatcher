@@ -13,6 +13,8 @@ export class RequestPatientComponent implements OnInit {
 
   search = '';
   debouncer = new Subject<any>();
+  size = 10;
+  page = 1;
 
   patients: PatientRequest[] = [];
 

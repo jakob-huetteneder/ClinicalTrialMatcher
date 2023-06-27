@@ -5,7 +5,8 @@ import {ActivatedRoute, Router} from '@angular/router';
 import {TrialService} from '../../../services/trial.service';
 import {TrialRegistration, TrialRegistrationStatus} from '../../../dtos/trial';
 import {Gender} from '../../../dtos/gender';
-import {differenceInYears, parseISO} from 'date-fns';
+import {differenceInYears, format, parseISO} from 'date-fns';
+import {DatePipe} from '@angular/common';
 
 @Component({
   selector: 'app-statistics',
@@ -29,6 +30,7 @@ export class StatisticsComponent implements OnInit {
   title = '';
   minAge: number;
   maxAge: number;
+  acceptedVisible = false;
 
   constructor(
     private service: TrialService,
@@ -45,8 +47,7 @@ export class StatisticsComponent implements OnInit {
       this.id = params.id;
       this.service.getAllRegistrationsForTrial(this.id).subscribe({
         next: data => {
-          this.registrations = data;
-          console.log(this.registrations);
+          this.registrations = data.filter(i => i.status !== TrialRegistrationStatus.proposed);
           this.service.getById(this.id).subscribe({
             next: value => {
               this.title = value.title;
@@ -77,6 +78,12 @@ export class StatisticsComponent implements OnInit {
 
   initCharts() {
     let ctx = this.genderChart.nativeElement.getContext('2d');
+
+    const accepted = this.registrations.filter(i => i.status === TrialRegistrationStatus.accepted);
+
+    if (accepted.length !== 0) {
+      this.acceptedVisible = true;
+    }
 
     this.chart1 = new Chart(ctx, {
       type: 'pie',
@@ -122,7 +129,7 @@ export class StatisticsComponent implements OnInit {
     // eslint-disable-next-line @typescript-eslint/prefer-for-of
     for (let i = 0; i < dateList.length; i++) {
       if (prev !== undefined && prev === dateList[i]) {
-        dateCounts[dateCounts.length-1]++;
+        dateCounts[dateCounts.length - 1]++;
       } else {
         dateCounts.push(1);
         prev = dateList[i];
@@ -145,11 +152,15 @@ export class StatisticsComponent implements OnInit {
       return 0;
     });
 
+    const datePipe = new DatePipe('en-US');
+
+    const formattedDates: string[] = uniqueDates.map((date) => datePipe.transform(date, 'dd.MM.yyyy') || '');
+
 
     this.chart2 = new Chart(ctx, {
       type: 'line',
       data: {
-        labels: uniqueDates,
+        labels: formattedDates,
         datasets: [
           {
             label: '# of registrations',
@@ -205,16 +216,14 @@ export class StatisticsComponent implements OnInit {
 
     ctx = this.ageChart.nativeElement.getContext('2d');
 
-    const ageList = this.registrations.map(i => differenceInYears(new Date(Date.now()), parseISO('' + i.patient.birthdate)));
+    const ageList = accepted.map(i => differenceInYears(new Date(Date.now()), parseISO('' + i.patient.birthdate)));
     const step = parseFloat(Math.abs((this.maxAge - this.minAge) / 10).toFixed(0));
     const labels: string[] = [];
     const values: number[] = [];
     for (let i = this.minAge; i <= this.maxAge; i += step) {
       labels.push(i.toFixed(0) + '-' + (i + (step)).toFixed(0));
-      values.push(ageList.filter(item => item >= i && item < (i+step)).length);
+      values.push(ageList.filter(item => item >= i && item < (i + step)).length);
     }
-    console.log(values);
-    console.log(ageList);
 
     this.chart4 = new Chart(ctx, {
       type: 'bar',

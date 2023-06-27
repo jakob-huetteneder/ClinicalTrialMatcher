@@ -13,12 +13,17 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Gender;
 import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
 import at.ac.tuwien.sepm.groupphase.backend.repository.TrialRepository;
 import at.ac.tuwien.sepm.groupphase.backend.security.JwtTokenizer;
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.PageImpl;
+import org.springframework.data.domain.PageRequest;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.mock.web.MockHttpServletResponse;
@@ -31,8 +36,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import static org.junit.jupiter.api.Assertions.assertAll;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.*;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.delete;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
@@ -252,7 +256,7 @@ public class TrialEndpointTest {
     @Test
     public void testSearchTrial() throws Exception {
         testUtil.cleanAll();
-        FilterDto filter = new FilterDto(Gender.FEMALE, null, null, null, 0, 0);
+        FilterDto filter = new FilterDto(Gender.FEMALE, null, null, null, 0, 0, 1, 100);
         Researcher researcher = (Researcher) userDataGenerator.generateUser(Role.RESEARCHER);
 
         trialDataGenerator.generateTrial("Trial 1", LocalDate.of(2023, 6, 1), LocalDate.of(2023, 7, 1), researcher, "1", "test", "test test",
@@ -271,14 +275,24 @@ public class TrialEndpointTest {
         MockHttpServletResponse response = mvcResult.getResponse();
         assertEquals(HttpStatus.OK.value(), response.getStatus());
         assertEquals(MediaType.APPLICATION_JSON_VALUE, response.getContentType());
-        List<TrialDto> trialDtos = Arrays.asList(objectMapper.readValue(response.getContentAsString(),
-            TrialDto[].class));
-        assertEquals(2, trialDtos.size());
+
+        // Get the content attribute from the JSON response
+        String jsonResponse = response.getContentAsString();
+        JsonNode jsonNode = objectMapper.readTree(jsonResponse);
+        JsonNode contentNode = jsonNode.get("content");
+        assertTrue(contentNode.isArray());
+
+        // Check the length of the content array
+        assertEquals(2, contentNode.size());
     }
+
+
+
+
 
     @Test
     public void testInvalidSearchTrial() throws Exception {
-        FilterDto filter = new FilterDto(Gender.FEMALE, null, null, null, -3, 0);
+        FilterDto filter = new FilterDto(Gender.FEMALE, null, null, null, -3, 0, 1, 100);
 
         MvcResult mvcResult = this.mockMvc.perform(post(TRIAL_BASE_URI + "/search")
                 .contentType(MediaType.APPLICATION_JSON)

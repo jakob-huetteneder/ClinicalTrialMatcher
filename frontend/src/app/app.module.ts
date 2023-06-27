@@ -57,6 +57,7 @@ import { PatientEditComponent } from './components/patient/patient-edit/patient-
 import {SearchComponent} from './components/search/search.component';
 import {TrialListComponent} from './components/trial/trial-list/trial-list.component';
 import {MatButtonToggleModule} from '@angular/material/button-toggle';
+import {NgxPaginationModule} from "ngx-pagination";
 
 @NgModule({
   declarations: [
@@ -96,20 +97,21 @@ import {MatButtonToggleModule} from '@angular/material/button-toggle';
     TrialListComponent,
     InteractivefaqComponent
   ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule,
-    ReactiveFormsModule,
-    HttpClientModule,
-    NgbModule,
-    ToastrModule.forRoot(),
-    BrowserAnimationsModule,
-    FormsModule,
-    NgOptimizedImage,
-    MatDialogModule,
-    MatButtonModule,
-    MatButtonToggleModule
-  ],
+    imports: [
+        BrowserModule,
+        AppRoutingModule,
+        ReactiveFormsModule,
+        HttpClientModule,
+        NgbModule,
+        ToastrModule.forRoot(),
+        BrowserAnimationsModule,
+        FormsModule,
+        NgOptimizedImage,
+        MatDialogModule,
+        MatButtonModule,
+        MatButtonToggleModule,
+        NgxPaginationModule
+    ],
   providers: [httpInterceptorProviders],
   bootstrap: [AppComponent]
 })

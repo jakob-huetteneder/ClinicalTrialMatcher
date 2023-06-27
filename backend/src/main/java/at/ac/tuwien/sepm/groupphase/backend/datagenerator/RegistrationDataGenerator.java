@@ -28,7 +28,7 @@ public class RegistrationDataGenerator {
     }
 
     /**
-     * Generate registration for patient and trial
+     * Generate registration for patient and trial.
      *
      * @param patient patient to register
      * @param trial   trial to register for

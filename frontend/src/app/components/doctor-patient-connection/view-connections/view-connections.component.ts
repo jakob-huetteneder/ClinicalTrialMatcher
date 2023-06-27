@@ -18,6 +18,8 @@ export class ViewConnectionsComponent implements OnInit {
 
   userRole: Role;
   accepted: ConnectionEntry[] = [];
+  size = 10;
+  page = 1;
 
   constructor(
     private patientService: PatientService,

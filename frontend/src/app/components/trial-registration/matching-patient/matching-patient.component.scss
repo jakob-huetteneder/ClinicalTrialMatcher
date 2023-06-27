@@ -93,3 +93,29 @@ hr {
   opacity: 60%;
   font-weight: normal;
 }
+
+.pagination-controls ::ng-deep .ngx-pagination {
+  @apply divide-x m-0 rounded border border-slate-300 justify-center w-fit block #{!important};
+  padding-left: 0!important;
+
+  ul.ngx-pagination {
+    @apply justify-center w-fit p-5;
+    padding-left: 0!important;
+  }
+
+  li {
+    @apply mr-0 hover:bg-slate-100 first:rounded-l last:rounded-r text-slate-800 justify-center w-fit no-underline;
+
+    &.disabled {
+      @apply cursor-not-allowed text-slate-500 hover:bg-transparent;
+    }
+
+    &.current {
+      @apply text-slate-500 bg-blue-100 hover:cursor-not-allowed;
+    }
+
+    a:hover {
+      @apply bg-transparent;
+    }
+  }
+}

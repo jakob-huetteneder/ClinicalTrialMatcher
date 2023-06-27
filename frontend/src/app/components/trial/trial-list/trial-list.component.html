@@ -6,14 +6,36 @@
   <hr class="container">
 
   <div *ngIf="trialList.trial" class="flex flex-col divide-y-[3px] w-[96%] mx-auto divide-[#CDE2F0]/[0.25]">
-      <app-trial-list-item *ngFor="let trial of trialList.trial" class="py-2"
-          [trial]="trial">
-        <app-confirm-button (confirm)="deleteTrialFromList(trial.id)" details="Trial will be deleted from your list.">
-          <button class="btn btn-sm rounded btn-danger">
-            <i class="bi bi-trash"></i>
-          </button>
-        </app-confirm-button>
-      </app-trial-list-item>
+    <app-trial-list-item
+      *ngFor="let trial of trialList.trial | paginate: { id: 'server', itemsPerPage: size, currentPage: page, totalItems: trialList.trial.length }"
+      class="py-2" [trial]="trial">
+      <app-confirm-button (confirm)="deleteTrialFromList(trial.id)" details="Trial will be deleted from your list.">
+        <button class="btn btn-sm rounded btn-danger">
+          <i class="bi bi-trash"></i>
+        </button>
+      </app-confirm-button>
+    </app-trial-list-item>
+  </div>
+  <hr class="mt-0 ml-4 w-full" style="border: 2px solid #CDE2F0;">
+  <div class="container flex flex-row">
+    <div class="flex justify-start" style="position:absolute;">
+      <select [(ngModel)]="this.size"
+              class="m-0 hover:cursor-pointer justify-end  rounded border border-slate-300"
+              id="size"
+              name="size"
+              style="background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIGZpbGw9J25vbmUnIHZpZXdCb3g9JzAgMCAyNCAyNCcgc3Ryb2tlLXdpZHRoPScxLjUnIHN0cm9rZT0nIzc4OThiZCcgY2xhc3M9J3ctNiBoLTYnPjxwYXRoIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCcgZD0nTTE5LjUgOC4yNWwtNy41IDcuNS03LjUtNy41JyAvPjwvc3ZnPgo=');                        background-position: right 0.5rem center;
+                    background-repeat: no-repeat;
+                    background-size: 1.5em 1.5em;">
+        <option value="5">5</option>
+        <option value="10">10</option>
+        <option value="20">20</option>
+        <option value="50">50</option>
+      </select>
+    </div>
+    <div class="flex justify-center items-center flex-grow">
+      <pagination-controls (pageChange)="page = $event" id="server"
+                           class="pagination-controls"></pagination-controls>
+    </div>
   </div>
 
 </div>
