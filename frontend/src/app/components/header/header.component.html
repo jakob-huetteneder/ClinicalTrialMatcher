@@ -120,7 +120,7 @@
     </div>
 
     <!-- DOCTOR FUNCTIONS -->
-    <div *ngIf="authService.getUserRole() === role.doctor" class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
+    <div *ngIf="authService.getUserRole() === role.doctor && authService.isLoggedIn()" class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
       <a class="group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row">
         <div class="text-in-button mt-1">Patient Menu</div>
         <i class="bi-chevron-down w-4 text-blue-950"></i>
@@ -162,7 +162,7 @@
     </div>
 
     <!-- ADMIN FUNCTIONS -->
-    <div *ngIf="authService.getUserRole() === role.admin" class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
+    <div *ngIf="authService.getUserRole() === role.admin && authService.isLoggedIn()" class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
       <a class="group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row">
         <div class="text-in-button mt-1">Manage Users</div>
         <i class="bi-chevron-down w-4 text-blue-950"></i>
@@ -182,7 +182,7 @@
     </div>
 
     <!-- RESEARCHER FUNCTIONS -->
-    <div *ngIf="authService.getUserRole() === role.researcher" class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
+    <div *ngIf="authService.getUserRole() === role.researcher && authService.isLoggedIn()" class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
       <a class="group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row">
         <div class="text-in-button mt-1">Manage Trials</div>
         <i class="bi-chevron-down w-4 text-blue-950"></i>
@@ -210,7 +210,7 @@
 
 
     <!-- PATIENT FUNCTIONS -->
-    <div *ngIf="authService.getUserRole() === role.patient" class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
+    <div *ngIf="authService.getUserRole() === role.patient && authService.isLoggedIn()" class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
       <a class="group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row">
         <div class="text-in-button mt-1">Trials</div>
         <i class="bi-chevron-down w-4 text-blue-950"></i>
@@ -234,7 +234,7 @@
         </div>
       </a>
     </div>
-    <div *ngIf="authService.getUserRole() === role.patient" class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
+    <div *ngIf="authService.getUserRole() === role.patient && authService.isLoggedIn()" class="flex-initial single-button lg:mr-10 max-sm:invisible max-sm:hidden">
       <a class="group relative dropdown cursor-pointer tracking-wide pb-2 flex flex-row">
         <div class="text-in-button mt-1">Assistance</div>
         <i class="bi-chevron-down w-4 text-blue-950"></i>
