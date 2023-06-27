@@ -1,4 +1,4 @@
-import {Component, OnInit} from '@angular/core';
+import {Component, ElementRef, OnInit, Renderer2} from '@angular/core';
 import {AuthService} from '../../services/auth.service';
 import {Filter} from 'src/app/dtos/filter';
 import {TrialService} from '../../services/trial.service';
@@ -36,7 +36,8 @@ export class HomeComponent implements OnInit {
   };
   totalElements = -1;
 
-  constructor(public authService: AuthService, private trialService: TrialService, private notification: ToastrService) {
+  constructor(public authService: AuthService, private trialService: TrialService,
+              private notification: ToastrService, private elementRef: ElementRef, private renderer: Renderer2) {
     this.searchSubject
       .pipe(debounceTime(500)) // Adjust the debounce time as desired (in milliseconds)
       .subscribe(() => {
@@ -73,6 +74,7 @@ export class HomeComponent implements OnInit {
   public searchWithFilter(page: number) {
     if(page !== undefined) {
       this.filter.page = page;
+      this.scrollToFirstItem();
     }
     this.searching = true;
     this.trialService.searchForTrialWithFilter(this.keyword, this.filter).subscribe({
@@ -89,6 +91,17 @@ export class HomeComponent implements OnInit {
       }
     });
   }
+  scrollToFirstItem() {
+    const firstItem = document.querySelector('app-trial-list-item');
+    if (firstItem) {
+      this.renderer.setStyle(document.documentElement, 'scrollBehavior', 'smooth');
+      const rect = firstItem.getBoundingClientRect();
+      const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+      const elementTop = rect.top + scrollTop;
+      this.renderer.setProperty(document.documentElement, 'scrollTop', elementTop);
+    }
+  }
+
 
   public resetFilter() {
     this.filter = {
@@ -98,8 +111,8 @@ export class HomeComponent implements OnInit {
       minAge: null,
       recruiting: null,
       startDate: null,
-      page: 1,
-      size: 10,
+      page: this.filter.page,
+      size: this.filter.size
     };
     this.searchWithFilter(1);
   }

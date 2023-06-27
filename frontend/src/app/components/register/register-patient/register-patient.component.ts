@@ -30,7 +30,7 @@ export class RegisterPatientComponent {
   analyzing = false;
   analyzedText = '';
   highlight = false;
-  trigger = 0;
+  loading = false;
   constructor(
     private diseaseService: DiseaseService,
     private patientService: PatientService,
@@ -63,7 +63,7 @@ export class RegisterPatientComponent {
 
   public buttonstyle(): string {
     if (this.disable()) {
-      return 'bg-gray-400';
+      return 'bg-gray-400 hover:cursor-not-allowed';
     } else {
       return 'transition ease-in-out delay-100 duration-300 bg-blue-500 '
         + 'hover:-translate-y-0 hover:scale-110 hover:bg-blue-400 hover:cursor-pointer';
@@ -75,7 +75,7 @@ export class RegisterPatientComponent {
       || this.toRegister.email === '' || this.checkmail !== this.toRegister.email ||
       this.toRegister.examinations.filter(e => e.type === '' || e.name === '' || e.date === undefined).length !== 0 ||
       this.toRegister.birthdate === undefined || this.toRegister.gender === undefined ||
-      this.toRegister.diagnoses.filter(d => d.disease.name === '' || d.date === undefined).length !== 0);
+      this.toRegister.diagnoses.filter(d => d.disease.name === '' || d.date === undefined).length !== 0) || this.loading;
   }
 
   public buttonstyleAdmission(): string {
@@ -89,6 +89,7 @@ export class RegisterPatientComponent {
 
   submit() {
     console.log('Create Patient: ' + this.checkmail);
+    this.loading = true;
 
     this.patientService.createPatient(this.toRegister).subscribe({
       next: () => {
@@ -99,6 +100,7 @@ export class RegisterPatientComponent {
       error: error => {
         console.log('Something went wrong while creating user: ' + error.error.message);
         this.notification.error(error.error.message, 'Error while creating patient');
+        this.loading = false;
       }
     });
   }
