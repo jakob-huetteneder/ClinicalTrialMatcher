@@ -13,6 +13,7 @@ import {debounceTime, Subject} from 'rxjs';
 })
 export class HomeComponent implements OnInit {
   searchSubject = new Subject<string>();
+  filterSubject = new Subject<Filter>();
 
   trials: Trial[] = [];
 
@@ -27,8 +28,7 @@ export class HomeComponent implements OnInit {
   filter: Filter = {
     gender: null,
     recruiting: null,
-    minAge: null,
-    maxAge: null,
+    age: null,
     endDate: null,
     startDate: null,
     page: 1,
@@ -41,7 +41,12 @@ export class HomeComponent implements OnInit {
     this.searchSubject
       .pipe(debounceTime(500)) // Adjust the debounce time as desired (in milliseconds)
       .subscribe(() => {
-        this.searchWithFilter(this.filter.page);
+        this.searchWithFilter(1);
+      });
+    this.filterSubject
+      .pipe(debounceTime(500))
+      .subscribe(() => {
+        this.searchWithFilter(1);
       });
   }
 
@@ -51,6 +56,10 @@ export class HomeComponent implements OnInit {
 
   onKeywordChange(): void {
     this.searchSubject.next(this.keyword);
+  }
+
+  onFilterChange(): void {
+    this.filterSubject.next(this.filter);
   }
 
   public moreInfo(): void {
@@ -71,10 +80,16 @@ export class HomeComponent implements OnInit {
     return this.advanced;
   }
 
-  public searchWithFilter(page: number) {
-    if(page !== undefined) {
-      this.filter.page = page;
+  public nextPage(page: number) {
+    if (page !== undefined) {
       this.scrollToFirstItem();
+    }
+    this.searchWithFilter(page);
+  }
+
+  public searchWithFilter(page: number) {
+    if (page !== undefined) {
+      this.filter.page = page;
     }
     this.searching = true;
     this.trialService.searchForTrialWithFilter(this.keyword, this.filter).subscribe({
@@ -91,6 +106,7 @@ export class HomeComponent implements OnInit {
       }
     });
   }
+
   scrollToFirstItem() {
     const firstItem = document.querySelector('app-trial-list-item');
     if (firstItem) {
@@ -107,8 +123,7 @@ export class HomeComponent implements OnInit {
     this.filter = {
       endDate: null,
       gender: null,
-      maxAge: null,
-      minAge: null,
+      age: null,
       recruiting: null,
       startDate: null,
       page: this.filter.page,

@@ -7,8 +7,7 @@ export interface Filter {
   recruiting?: TrialStatus;
   endDate?: Date;
   startDate?: Date;
-  minAge?: number;
-  maxAge?: number;
+  age?: number;
   page?: number;
   size?: number;
 

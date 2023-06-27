@@ -58,10 +58,10 @@ public interface TrialRepository extends JpaRepository<Trial, Long> {
         + "LOWER(t.location) LIKE CONCAT('%', :keyword, '%') OR LOWER(t.sponsor) LIKE CONCAT('%', :keyword, '%') "
         + "OR LOWER(t.studyType) LIKE CONCAT('%', :keyword, '%') OR LOWER(t.title) LIKE CONCAT('%', :keyword, '%')) AND"
         + " ((:gender is null or t.crGender = :gender) OR (t.crGender = 2)) AND (:recruiting is null or t.status = :recruiting) AND "
-        + "(t.status <> 2) AND (:minAge = 0 or t.crMinAge <= :minAge) AND (:maxAge = 0 or t.crMaxAge >= :maxAge)"
+        + "(t.status <> 2) AND (:age is null or (:age <= t.crMaxAge AND :age >= t.crMinAge))"
         + "AND (:startDate is null or t.startDate >= :startDate) AND (:endDate is null or t.endDate <= :endDate)")
     Page<Trial> search(@Param("keyword") String keyword, @Param("gender") Gender gender, @Param("recruiting") Trial.Status recruiting,
-                       @Param("minAge") int minAge, @Param("maxAge") int maxAge, @Param("startDate") LocalDate startDate, @Param("endDate") LocalDate endDate,
+                       @Param("age") Integer age, @Param("startDate") LocalDate startDate, @Param("endDate") LocalDate endDate,
                        Pageable pageable);
 
 }

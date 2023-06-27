@@ -22,9 +22,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageImpl;
 import org.springframework.data.domain.PageRequest;
-import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
-import org.springframework.transaction.annotation.Transactional;
 
 import java.lang.invoke.MethodHandles;
 import java.util.List;
@@ -144,7 +142,7 @@ public class TrialServiceImpl implements TrialService {
         Trial.Status status = filterDto.recruiting();
 
         Page<Trial> trials = trialRepository.search(keyword.toLowerCase(), gender, status,
-            filterDto.minAge(), filterDto.maxAge(), filterDto.startDate(), filterDto.endDate(), req);
+            filterDto.age(), filterDto.startDate(), filterDto.endDate(), req);
         return new PageImpl<>(trialMapper.trialToTrialDto(trials.stream().toList()), req, trials.getTotalElements());
     }
 

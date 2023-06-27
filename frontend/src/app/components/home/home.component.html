@@ -75,24 +75,17 @@
       <div class="filter__categories">
         <ul class="cat__list">
           <li class="rounded"
-              [ngStyle]="{'background': (filter.minAge !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.minAge !== null) ? 'white' : '#235491'}">
-            <div>Min age:
-              <input class="ml-5 mr-5 h-10 w-20 border-0" style="color: #235491" [(ngModel)]="filter.minAge"
-                     (ngModelChange)="searchWithFilter(undefined)"
-                     type="number" [max]="filter.maxAge" [min]="1"></div>
-          </li>
-          <li class="rounded"
-              [ngStyle]="{'background': (filter.maxAge !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.maxAge !== null) ? 'white' : '#235491'}">
-            <div>Max age:
-              <input class="ml-5 mr-5 h-10 w-20 border-0" style="color: #235491" [(ngModel)]="filter.maxAge"
-                     (ngModelChange)="searchWithFilter(undefined)"
-                     type="number" [max]="120" [min]="filter.minAge"></div>
+              [ngStyle]="{'background': (filter.age !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.age !== null) ? 'white' : '#235491'}">
+            <div>Age:
+              <input class="ml-5 mr-5 h-10 w-20 border-0" style="color: #235491" [(ngModel)]="filter.age"
+                     (ngModelChange)="onFilterChange()"
+                     type="number" [min]="0"></div>
           </li>
           <li class="rounded"
               [ngStyle]="{'background': (filter.startDate !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.startDate !== null) ? 'white' : '#235491'}">
             <div>Start Date:
               <input class="ml-5 mr-5 h-10 border-0" style="color: #235491"
-                     [(ngModel)]="filter.startDate" (ngModelChange)="searchWithFilter(undefined)"
+                     [(ngModel)]="filter.startDate" (ngModelChange)="onFilterChange()"
                      type="date">
             </div>
           </li>
@@ -100,7 +93,7 @@
               [ngStyle]="{'background': (filter.endDate !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.endDate !== null) ? 'white' : '#235491'}">
             <div>End Date:
               <input class="ml-5 mr-5 h-10 border-0" style="color: #235491"
-                     [(ngModel)]="filter.endDate" (ngModelChange)="searchWithFilter(undefined)"
+                     [(ngModel)]="filter.endDate" (ngModelChange)="onFilterChange()"
                      type="date">
             </div>
           </li>
@@ -110,7 +103,7 @@
               [ngStyle]="{'background': (filter.gender !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.gender !== null) ? 'white' : '#235491'}">
             <div>Gender:
               <select name="status" class="form-select-sm" style="color: #235491" [(ngModel)]="filter.gender"
-                      (ngModelChange)="searchWithFilter(undefined)">
+                      (ngModelChange)="onFilterChange()">
                 <option value="MALE">male</option>
                 <option value="FEMALE">female</option>
               </select>
@@ -120,7 +113,7 @@
               [ngStyle]="{'background': (filter.recruiting !== null) ? '#162E51' : '#f0f0f0',  'color': (filter.recruiting !== null) ? 'white' : '#235491'}">
             <div>Status:
               <select name="status" class="form-select-sm" style="color: #235491" [(ngModel)]="filter.recruiting"
-                      (ngModelChange)="searchWithFilter(undefined)">
+                      (ngModelChange)="onFilterChange()">
                 <option value="RECRUITING">recruiting</option>
                 <option value="NOT_RECRUITING">not recruiting</option>
               </select>
@@ -159,7 +152,7 @@
       </div>
       <div class="flex justify-center items-center flex-grow">
         <div class="spinner" [ngClass]="{ 'hidden': isSearching() }"></div>
-        <pagination-controls (pageChange)="searchWithFilter($event)" id="server"
+        <pagination-controls (pageChange)="nextPage($event)" id="server"
                              class="pagination-controls"></pagination-controls>
       </div>
     </div>
