@@ -127,11 +127,12 @@ export class UpdateProfileComponent implements OnInit {
       const lastNameChanged = oldValue.lastName !== control.value.lastName;
       const emailChanged = oldValue.email !== control.value.email;
       const emailMatches = control.value.email === control.value.repeatMail;
+      const passwordChanged = control.value.password !== '';
 
       if (emailChanged && !emailMatches) {
         return { emailMismatch: true };
       }
-      return firstNameChanged || lastNameChanged || emailChanged ? null : { noUpdateRequired: true };
+      return firstNameChanged || lastNameChanged || emailChanged || passwordChanged ? null : { noUpdateRequired: true };
     };
   }
 
