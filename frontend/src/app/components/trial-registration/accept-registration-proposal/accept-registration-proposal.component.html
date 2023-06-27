@@ -21,10 +21,16 @@
   </div>
   <hr class="mt-0 ml-4 mb-4 w-full" style="border: 2px solid #CDE2F0;">
 
-  <div [hidden]="proposed === null || proposed.length === 0" class="mb-4 w-full">
+  <div class="mb-4 w-full">
 
-    <table class="container w-fit" style="max-width: 1200px !important;">
-      <thead>
+    <table class="container w-fit table-fixed" style="max-width: 1200px !important;">
+      <colgroup>
+        <col style="width: 60%;">
+        <col style="width: 15%;">
+        <col style="width: 15%;">
+        <col style="width: 10%;">
+      </colgroup>
+      <thead [hidden]="proposed === null || proposed.length === 0">
       <tr class="disabled font-bold text-orange-700 h-8">
         <i class="bi-clock mr-2"></i>
         Pending
@@ -33,39 +39,42 @@
       <th style="font-weight: 600">Start</th>
       <th style="font-weight: 600">End</th>
       </thead>
-      <tbody>
-      <tr *ngFor="let registration of proposed" class="w-fit">
-        <td>{{registration.trial.title}}</td>
+      <tbody [hidden]="proposed === null || proposed.length === 0">
+      <tr *ngFor="let registration of proposed" class="w-full h-10 cursor-pointer" [routerLink]="'/trial/detail/' + registration.trial.id">
+        <td class="overflow-ellipsis whitespace-nowrap overflow-hidden pr-1">{{registration.trial.title}}</td>
         <td>{{registration.trial.startDate | date: 'dd.MM.yyyy'}}</td>
         <td>{{registration.trial.endDate | date: 'dd.MM.yyyy'}}</td>
-        <td style="width: 138px;">
+        <td>
+          <app-confirm-button
+            (confirm)="accept(registration)"
+            details="By using this service, you consent to the collection, processing, and use of your data. If you do not agree, please refrain from using this service."
+            prompt="Do you want to register for this trial?">
+            <button
+              aria-label="Accept proposal of doctor"
+              class="flex-initial bg-green-100 rounded w-fit py-1 px-2 text-green-700 font-semibold border-green-700 drop-shadow-sm text-sm"
+              style="border-width: 1px;">
+              <i class="bi bi-check"></i>
+            </button>
 
-          <button
-            (click)="accept(registration)"
-            aria-label="Accept proposal of doctor"
-            class="flex-initial bg-green-100 rounded w-fit py-2 px-4 text-green-700 font-semibold border-green-700 drop-shadow-sm text-sm"
-            style="border-width: 1px;">
-            <i class="bi bi-check"></i>
-          </button>
+          </app-confirm-button>
+          <app-confirm-button
+            (confirm)="decline(registration)"
+            details="This will remove the trial from the pending list. If you continue, you can still register for the trial regularly."
+            prompt="Do you want to decline this trial?"
+          >
+            <button
+              aria-label="Decline proposal of doctor"
+              class="flex-initial bg-red-100 rounded w-fit py-1 px-2 text-red-700 font-semibold border-red-700 drop-shadow-sm ml-1 text-sm"
+              style="border-width: 1px;">
+              <i class="bi bi-x"></i>
+            </button>
+          </app-confirm-button>
 
-          <button
-            (click)="decline(registration)"
-            aria-label="Decline proposal of doctor"
-            class="flex-initial bg-red-100 rounded w-fit py-2 px-4 text-red-700 font-semibold border-red-700 drop-shadow-sm ml-2 text-sm"
-            style="border-width: 1px;">
-            <i class="bi bi-x"></i>
-          </button>
         </td>
       </tr>
+      <tr class="h-10"></tr>
       </tbody>
-    </table>
-  </div>
-
-
-  <div [hidden]="applied === null || applied.length === 0" class="mb-4 w-full">
-    <table class="container w-fit" style="max-width: 1200px !important;">
-      <thead>
-
+      <thead [hidden]="applied === null || applied.length === 0">
       <tr class="disabled font-bold text-blue-700 h-8">
         <i class="bi-hourglass mr-2"></i>
         Applied
@@ -74,20 +83,16 @@
       <th style="font-weight: 600">Start</th>
       <th style="font-weight: 600">End</th>
       </thead>
-      <tbody>
-      <tr *ngFor="let registration of applied" class="w-fit h-10">
-        <td>{{registration.trial.title}}</td>
+      <tbody [hidden]="applied === null || applied.length === 0">
+      <tr *ngFor="let registration of applied" class="w-full h-10 cursor-pointer" [routerLink]="'/trial/detail/' + registration.trial.id">
+        <td class="overflow-ellipsis whitespace-nowrap overflow-hidden pr-1">{{registration.trial.title}}</td>
         <td>{{registration.trial.startDate | date: 'dd.MM.yyyy'}}</td>
         <td>{{registration.trial.endDate | date: 'dd.MM.yyyy'}}</td>
+        <td></td>
       </tr>
+      <tr class="h-10"></tr>
       </tbody>
-    </table>
-  </div>
-
-  <div [hidden]="accepted === null || accepted.length === 0" class="mb-4 w-full">
-    <table class="container w-fit" style="max-width: 1200px !important;">
-      <thead>
-
+      <thead [hidden]="accepted === null || accepted.length === 0">
       <tr class="disabled font-bold text-green-700 h-8">
         <i class="bi-check-lg mr-2"></i>
         Accepted
@@ -96,20 +101,16 @@
       <th style="font-weight: 600">Start</th>
       <th style="font-weight: 600">End</th>
       </thead>
-      <tbody>
-      <tr *ngFor="let registration of accepted" class="w-fit h-10">
-        <td>{{registration.trial.title}}</td>
+      <tbody [hidden]="accepted === null || accepted.length === 0">
+      <tr *ngFor="let registration of accepted" class="w-full h-10 cursor-pointer" [routerLink]="'/trial/detail/' + registration.trial.id">
+        <td class="overflow-ellipsis whitespace-nowrap overflow-hidden pr-1">{{registration.trial.title}}</td>
         <td>{{registration.trial.startDate | date: 'dd.MM.yyyy'}}</td>
         <td>{{registration.trial.endDate | date: 'dd.MM.yyyy'}}</td>
+        <td></td>
       </tr>
+      <tr class="h-10"></tr>
       </tbody>
-    </table>
-  </div>
-
-  <div [hidden]="declined === null || declined.length === 0" class="mb-4 w-full">
-
-    <table class="container w-fit" style="max-width: 1200px !important;">
-      <thead>
+      <thead [hidden]="declined === null || declined.length === 0">
       <tr class="disabled font-bold text-red-700 h-8">
         <i class="bi-x-lg mr-2"></i>
         Declined
@@ -118,15 +119,20 @@
       <th style="font-weight: 600">Start</th>
       <th style="font-weight: 600">End</th>
       </thead>
-      <tbody>
-      <tr *ngFor="let registration of declined" class="w-fit h-10">
-        <td>{{registration.trial.title}}</td>
+      <tbody [hidden]="declined === null || declined.length === 0">
+      <tr *ngFor="let registration of declined" class="w-full h-10 cursor-pointer" [routerLink]="'/trial/detail/' + registration.trial.id">
+        <td class="overflow-ellipsis whitespace-nowrap overflow-hidden pr-1">{{registration.trial.title}}</td>
         <td>{{registration.trial.startDate | date: 'dd.MM.yyyy'}}</td>
         <td>{{registration.trial.endDate | date: 'dd.MM.yyyy'}}</td>
+        <td></td>
       </tr>
+      <tr class="h-10"></tr>
       </tbody>
     </table>
   </div>
+
+
+
   <p *ngIf="isEmpty" [innerHTML]="emptyListText" class="text-gray-400"></p>
 </div>
 
