@@ -39,7 +39,7 @@ import {
   RequestPatientComponent
 } from './components/doctor-patient-connection/request-patient/request-patient.component';
 import {ViewRequestsComponent} from './components/doctor-patient-connection/view-requests/view-requests.component';
-import { InteractivefaqComponent } from './components/interactivefaq/interactivefaq.component';
+import {InteractivefaqComponent} from './components/interactivefaq/interactivefaq.component';
 import {
   ViewConnectionsComponent
 } from './components/doctor-patient-connection/view-connections/view-connections.component';
@@ -53,11 +53,11 @@ import {TrialListItemComponent} from './components/trial/trial-list-item/trial-l
 import {
   AcceptRegistrationRequestsComponent
 } from './components/trial-registration/accept-registration-requests/accept-registration-requests.component';
-import { PatientEditComponent } from './components/patient/patient-edit/patient-edit.component';
+import {PatientEditComponent} from './components/patient/patient-edit/patient-edit.component';
 import {SearchComponent} from './components/search/search.component';
 import {TrialListComponent} from './components/trial/trial-list/trial-list.component';
 import {MatButtonToggleModule} from '@angular/material/button-toggle';
-import {NgxPaginationModule} from "ngx-pagination";
+import {NgxPaginationModule} from 'ngx-pagination';
 
 @NgModule({
   declarations: [
@@ -97,21 +97,21 @@ import {NgxPaginationModule} from "ngx-pagination";
     TrialListComponent,
     InteractivefaqComponent
   ],
-    imports: [
-        BrowserModule,
-        AppRoutingModule,
-        ReactiveFormsModule,
-        HttpClientModule,
-        NgbModule,
-        ToastrModule.forRoot(),
-        BrowserAnimationsModule,
-        FormsModule,
-        NgOptimizedImage,
-        MatDialogModule,
-        MatButtonModule,
-        MatButtonToggleModule,
-        NgxPaginationModule
-    ],
+  imports: [
+    BrowserModule,
+    AppRoutingModule,
+    ReactiveFormsModule,
+    HttpClientModule,
+    NgbModule,
+    ToastrModule.forRoot(),
+    BrowserAnimationsModule,
+    FormsModule,
+    NgOptimizedImage,
+    MatDialogModule,
+    MatButtonModule,
+    MatButtonToggleModule,
+    NgxPaginationModule
+  ],
   providers: [httpInterceptorProviders],
   bootstrap: [AppComponent]
 })

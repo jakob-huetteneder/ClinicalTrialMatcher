@@ -28,8 +28,4 @@ public record UserDetailDto(
     @NotNull(message = "Status must not be null")
     ApplicationUser.Status status
 ) {
-
-    public UserDetailDto withId(Long id) {
-        return new UserDetailDto(id, firstName, lastName, email, role, status);
-    }
 }

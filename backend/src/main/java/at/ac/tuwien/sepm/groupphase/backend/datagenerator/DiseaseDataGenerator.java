@@ -30,7 +30,7 @@ public class DiseaseDataGenerator {
      */
     public void generateDiseases() {
         LOG.trace("generateDiseases()");
-        for (int i = 0; i <= 200; i++) {
+        for (int i = 0; i <= 20; i++) {
             generateDisease();
         }
     }

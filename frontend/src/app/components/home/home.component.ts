@@ -1,12 +1,10 @@
 import {Component, OnInit} from '@angular/core';
 import {AuthService} from '../../services/auth.service';
-import {NgModel} from '@angular/forms';
 import {Filter} from 'src/app/dtos/filter';
 import {TrialService} from '../../services/trial.service';
 import {Trial} from '../../dtos/trial';
 import {ToastrService} from 'ngx-toastr';
 import {debounceTime, Subject} from 'rxjs';
-import {Collection} from 'ngx-pagination';
 
 @Component({
   selector: 'app-home',
@@ -99,7 +97,9 @@ export class HomeComponent implements OnInit {
       maxAge: null,
       minAge: null,
       recruiting: null,
-      startDate: null
+      startDate: null,
+      page: 1,
+      size: 10,
     };
     this.searchWithFilter(1);
   }
