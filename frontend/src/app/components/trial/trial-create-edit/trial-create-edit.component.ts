@@ -41,6 +41,7 @@ export class CreateEditTrialComponent implements OnInit {
     private notification: ToastrService,
   ) {
   }
+
   get operation(): string {
     switch (this.mode) {
       case TrialCreateEditMode.create:
@@ -115,13 +116,13 @@ export class CreateEditTrialComponent implements OnInit {
     const dateRegex = /^\d{4}-\d{2}-\d{2}$/; // Regex for YYYY-MM-DD format
 
     if (!dateRegex.test(control.value)) {
-      return { invalidDate: true };
+      return {invalidDate: true};
     }
     return null;
   }
 
   public createTrial(): void {
-    window.scroll(0,0);
+    window.scroll(0, 0);
     this.loading = true;
     if (!this.trialForm.valid) {
       console.log('Invalid input');
@@ -204,6 +205,17 @@ export class CreateEditTrialComponent implements OnInit {
           }
         }
       }
+      if (this.oldTrial.inclusionCriteria.length !== control.value.inclusionCriteria.length) {
+        unchanged = false;
+        console.log('changed: ', 'inclusionCriteria', control.value.inclusionCriteria, this.oldTrial.inclusionCriteria);
+        return null;
+      }
+      if (this.oldTrial.exclusionCriteria.length !== control.value.exclusionCriteria.length) {
+        unchanged = false;
+        console.log('changed: ', 'exclusionCriteria', control.value.exclusionCriteria, this.oldTrial.exclusionCriteria);
+        return null;
+      }
+
       if (unchanged) {
         return {noUpdateRequired: true};
       }
