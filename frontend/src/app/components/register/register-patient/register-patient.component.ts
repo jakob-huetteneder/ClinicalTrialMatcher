@@ -24,7 +24,7 @@ export class RegisterPatientComponent {
     lastName: '',
     email: '',
     gender: undefined,
-    birthdate: undefined
+    birthdate: undefined,
   };
   checkmail = '';
   analyzing = false;
@@ -131,7 +131,6 @@ export class RegisterPatientComponent {
     this.analyzerService.analyzeNoteNegatives(this.toRegister.admissionNote).subscribe({
       next: data => {
         console.log(data);
-
         this.analyzedText = this.toRegister.admissionNote;
         const patternDiseases = new RegExp(data.diseases.join('|'), 'gi');
         const patternNegatives = new RegExp(data.negatives.join('|'), 'gi');

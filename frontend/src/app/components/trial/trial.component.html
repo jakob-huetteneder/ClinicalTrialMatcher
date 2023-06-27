@@ -4,8 +4,11 @@
   </div>
 
   <hr class="container">
+  <div *ngIf="loading" class="flex flex-col items-center w-full h-32">
+    <div class="animate-spin rounded-full h-12 w-12 border-t-4 border-blue-500"></div>
+  </div>
 
-  <div class="flex flex-col divide-y-[3px] w-[96%] mx-auto divide-[#CDE2F0]/[0.25]">
+  <div *ngIf="!loading" class="flex flex-col divide-y-[3px] w-[96%] mx-auto divide-[#CDE2F0]/[0.25]">
     <app-trial-list-item *ngFor="let trial of trials  | paginate: { id: 'server', itemsPerPage: size, currentPage: page, totalItems: trials.length }"
                          [trial]="trial">
       <app-confirm-button (confirm)="delete(trial)" details="Trial will be lost permanently.">

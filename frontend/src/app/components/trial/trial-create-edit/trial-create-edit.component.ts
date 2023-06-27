@@ -28,6 +28,7 @@ export class CreateEditTrialComponent implements OnInit {
 
   trialForm: FormGroup;
   mode: TrialCreateEditMode;
+  loading = false;
 
   // update data
   oldTrial: Trial;
@@ -40,7 +41,6 @@ export class CreateEditTrialComponent implements OnInit {
     private notification: ToastrService,
   ) {
   }
-
   get operation(): string {
     switch (this.mode) {
       case TrialCreateEditMode.create:
@@ -62,8 +62,8 @@ export class CreateEditTrialComponent implements OnInit {
 
     this.trialForm = this.formBuilder.group({
       title: ['', [Validators.required]],
-      startDate: ['', [Validators.required]],
-      endDate: ['', [Validators.required]],
+      startDate: ['', [Validators.required, this.dateValidator]],
+      endDate: ['', [Validators.required, this.dateValidator]],
       studyType: ['', [Validators.maxLength(255)]],
       briefSummary: ['', [Validators.required]],
       detailedSummary: ['', []],
@@ -111,11 +111,22 @@ export class CreateEditTrialComponent implements OnInit {
     });
   }
 
-  public createTrial(): void {
+  dateValidator(control: AbstractControl): ValidationErrors | null {
+    const dateRegex = /^\d{4}-\d{2}-\d{2}$/; // Regex for YYYY-MM-DD format
 
+    if (!dateRegex.test(control.value)) {
+      return { invalidDate: true };
+    }
+    return null;
+  }
+
+  public createTrial(): void {
+    window.scroll(0,0);
+    this.loading = true;
     if (!this.trialForm.valid) {
       console.log('Invalid input');
       this.notification.error(this.getErrorString());
+      this.loading = false;
       return;
     }
     console.log('trialForm: ', this.trialForm.value);
@@ -126,9 +137,11 @@ export class CreateEditTrialComponent implements OnInit {
       this.trialService.edit(trial).subscribe({
         next: data => {
           this.notification.success(`Trial ${data.title} successfully updated.`);
+          this.loading = false;
           this.router.navigate(['/researcher/trials']);
         },
         error: error => {
+          this.loading = false;
           console.error('error updating trial', error);
           this.notification.error(error.error.message, error.error.errors);
         }
@@ -139,9 +152,12 @@ export class CreateEditTrialComponent implements OnInit {
       this.trialService.create(this.trialForm.value).subscribe({
         next: data => {
           this.notification.success(`Trial ${data.title} successfully created.`);
+          this.loading = false;
           this.router.navigate(['/researcher/trials']);
         },
         error: error => {
+          this.loading = false;
+          this.router.navigate(['/researcher/trials/create']);
           console.error('error creating trial', error);
           this.notification.error(error.error.message, error.error.errors);
         }
@@ -270,8 +286,6 @@ export class CreateEditTrialComponent implements OnInit {
         return 'Min age';
       case 'crMaxAge':
         return 'Max age';
-      case 'crFreeText':
-        return 'Additional criteria';
     }
     return '';
   }

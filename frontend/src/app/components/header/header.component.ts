@@ -126,7 +126,7 @@ export class HeaderComponent implements OnInit {
     console.log('deleteTrialList', trialList);
     this.trialListService.deleteTrialList(trialList).subscribe({
       next: data => {
-        this.trialListService.updateEvent.emit();
+        this.trialListService.updateEvent.emit(trialList.id);
         this.loadTrialLists();
         this.notification.success(`Trial List ${trialList.name} successfully deleted.`);
       },

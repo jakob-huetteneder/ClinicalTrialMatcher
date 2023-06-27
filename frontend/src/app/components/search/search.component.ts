@@ -1,6 +1,5 @@
 import {Component, OnInit} from '@angular/core';
 import {AuthService} from '../../services/auth.service';
-import {NgModel} from '@angular/forms';
 import {Trial} from '../../dtos/trial';
 import {ToastrService} from 'ngx-toastr';
 import {TrialService} from '../../services/trial.service';
@@ -79,6 +78,16 @@ export class SearchComponent implements OnInit {
         this.notification.error(error.error.message, 'Error deleting trial from list');
       }
     });
+  }
+
+  toggleTrialInList(checked: boolean, trialList: any, trial: any) {
+    if (checked) {
+      // Add trial to the list
+      this.addTrialToList(trial, trialList);
+    } else {
+      // Remove trial from the list
+      this.deleteTrialFromList(trial.id, trialList);
+    }
   }
 
 
