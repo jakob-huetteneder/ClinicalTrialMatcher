@@ -8,9 +8,9 @@ import at.ac.tuwien.sepm.groupphase.backend.repository.TrialListRepository;
 import net.datafaker.Faker;
 import org.springframework.stereotype.Component;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.HashSet;
 import java.util.Random;
+import java.util.Set;
 
 @Component
 public class TrialListDataGenerator {
@@ -57,11 +57,11 @@ public class TrialListDataGenerator {
         return generateTrialList(
             faker.book().title(),
             user,
-            new ArrayList<>()
+            new HashSet<>()
         );
     }
 
-    public TrialList generateTrialList(String name, ApplicationUser user, List<Trial> trials) {
+    public TrialList generateTrialList(String name, ApplicationUser user, Set<Trial> trials) {
         return trialListRepository.save(new TrialList().setName(name)
             .setUser(user).setTrial(trials));
 

@@ -3,7 +3,7 @@ package at.ac.tuwien.sepm.groupphase.backend.endpoint.dto;
 import at.ac.tuwien.sepm.groupphase.backend.entity.ApplicationUser;
 import jakarta.validation.constraints.NotBlank;
 
-import java.util.List;
+import java.util.Set;
 
 public class TrialListDto {
 
@@ -11,7 +11,7 @@ public class TrialListDto {
     @NotBlank(message = "Name must not be blank")
     private String name;
     private ApplicationUser user;
-    private List<TrialDto> trial;
+    private Set<TrialDto> trial;
 
     public Long getId() {
         return id;
@@ -30,11 +30,11 @@ public class TrialListDto {
         this.user = user;
     }
 
-    public List<TrialDto> getTrial() {
+    public Set<TrialDto> getTrial() {
         return trial;
     }
 
-    public void setTrial(List<TrialDto> trial) {
+    public void setTrial(Set<TrialDto> trial) {
         this.trial = trial;
     }
 

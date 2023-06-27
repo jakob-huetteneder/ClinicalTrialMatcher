@@ -11,7 +11,7 @@ import jakarta.persistence.ManyToMany;
 import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
 
-import java.util.List;
+import java.util.Set;
 
 @Entity
 @Table(name = "triallist")
@@ -32,7 +32,7 @@ public class TrialList {
 
     @ManyToMany(fetch = FetchType.EAGER)
     @JoinColumn(name = "trial_id")
-    private List<Trial> trial;
+    private Set<Trial> trial;
 
     public Long getId() {
         return id;
@@ -56,11 +56,11 @@ public class TrialList {
         return this;
     }
 
-    public List<Trial> getTrial() {
+    public Set<Trial> getTrial() {
         return trial;
     }
 
-    public TrialList setTrial(List<Trial> trial) {
+    public TrialList setTrial(Set<Trial> trial) {
         this.trial = trial;
         return this;
     }

@@ -5,6 +5,7 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.Trial;
 import org.mapstruct.Mapper;
 
 import java.util.List;
+import java.util.Set;
 
 /**
  * Mapper for mapping {@link Trial} to {@link TrialDto} and vice versa.
@@ -19,6 +20,14 @@ public interface TrialMapper {
      * @return the mapped trialDtos
      */
     List<TrialDto> trialToTrialDto(List<Trial> trials);
+
+    /**
+     * Maps the given set of trials to a set of trialDtos.
+     *
+     * @param trials to be mapped
+     * @return the mapped trialDtos
+     */
+    Set<TrialDto> trialToTrialDto(Set<Trial> trials);
 
     /**
      * Maps the given trial to a trialDto.
@@ -36,6 +45,12 @@ public interface TrialMapper {
      */
     Trial trialDtoToTrial(TrialDto trialDto);
 
-    List<Trial> trialDtosToTrials(List<TrialDto> trials);
+    /**
+     * Maps the given list of trialDtos to a list of trials.
+     *
+     * @param trials to be mapped
+     * @return the mapped trials
+     */
+    Set<Trial> trialDtosToTrials(Set<TrialDto> trials);
 
 }

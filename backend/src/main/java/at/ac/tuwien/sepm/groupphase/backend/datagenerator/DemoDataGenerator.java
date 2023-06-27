@@ -12,7 +12,6 @@ import at.ac.tuwien.sepm.groupphase.backend.entity.enums.Role;
 import at.ac.tuwien.sepm.groupphase.backend.repository.PatientRepository;
 import at.ac.tuwien.sepm.groupphase.backend.repository.TrialRepository;
 import at.ac.tuwien.sepm.groupphase.backend.service.DiseasesService;
-import at.ac.tuwien.sepm.groupphase.backend.service.PatientService;
 import at.ac.tuwien.sepm.groupphase.backend.util.DatabaseUtil;
 import jakarta.annotation.PostConstruct;
 import org.slf4j.Logger;
@@ -142,6 +141,7 @@ public class DemoDataGenerator {
 
         LOG.info("Generating registrations for {} patients and {} trials", patients.size(), trials.size());
 
+        List<Registration> registrations = new ArrayList<>(10000);
         for (Trial trial : trials) {
             List<Double> rand = new ArrayList<>() {
                 {
@@ -161,14 +161,15 @@ public class DemoDataGenerator {
                         double rand2 = random.nextDouble();
 
                         if (rand2 < rand.get(0)) {
-                            registrationDataGenerator.generateRegistrationBetween(patient, trial, Registration.Status.PROPOSED);
+                            registrations.add(new Registration().setTrial(trial).setPatient(patient).setStatus(Registration.Status.PROPOSED).setDate(trial.getStartDate().minusDays(random.nextInt(0, 200))));
                         } else if (rand2 < rand.get(1)) {
-                            registrationDataGenerator.generateRegistrationBetween(patient, trial, Registration.Status.PATIENT_ACCEPTED);
+                            registrations.add(new Registration().setTrial(trial).setPatient(patient).setStatus(Registration.Status.PATIENT_ACCEPTED).setDate(trial.getStartDate().minusDays(random.nextInt(0, 200))));
                         } else if (rand2 < rand.get(2)) {
-                            registrationDataGenerator.generateRegistrationBetween(patient, trial, Registration.Status.ACCEPTED);
+                            registrations.add(new Registration().setTrial(trial).setPatient(patient).setStatus(Registration.Status.ACCEPTED).setDate(trial.getStartDate().minusDays(random.nextInt(0, 200))));
                         } else {
-                            registrationDataGenerator.generateRegistrationBetween(patient, trial, Registration.Status.DECLINED);
+                            registrations.add(new Registration().setTrial(trial).setPatient(patient).setStatus(Registration.Status.DECLINED).setDate(trial.getStartDate().minusDays(random.nextInt(0, 200))));
                         }
+
                     }
                 }
             }

@@ -61,7 +61,7 @@
                 (click)="addTrialToList(trial, trialList)"
               >{{trialList.name}}</a>
               <div *ngIf="listContains(trialList, trial)">
-                <app-confirm-button (confirm)="deleteTrialFromList(trial.id, trialList)" details="Trial list will be deleted from {{trialList.name}}.">
+                <app-confirm-button (confirm)="deleteTrialFromList(trial, trialList)" details="Trial list will be deleted from {{trialList.name}}.">
                   <a class="text-red-600 hover:text-red-900"
                      aria-label="Delete Trial List">
                     <i class="bi bi-trash"></i>

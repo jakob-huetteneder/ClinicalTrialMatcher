@@ -10,6 +10,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
 
 import java.lang.invoke.MethodHandles;
+import java.util.List;
 import java.util.Random;
 
 /**
@@ -42,5 +43,13 @@ public class RegistrationDataGenerator {
             .setStatus(status)
             .setDate(trial.getStartDate().minusDays(faker.random().nextInt(0, 200)));
         return trialRegistrationRepository.save(registration);
+    }
+
+    /**
+     * Generate all registrations.
+     */
+    public void generateAll(List<Registration> registrations) {
+        LOG.trace("generateAll({})", registrations);
+        trialRegistrationRepository.saveAll(registrations);
     }
 }

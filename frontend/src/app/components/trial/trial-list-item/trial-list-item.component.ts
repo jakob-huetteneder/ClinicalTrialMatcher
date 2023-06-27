@@ -64,14 +64,17 @@ export class TrialListItemComponent {
       return;
     }
     console.log('addTrialToList', trial, list);
+    list.trial.push(trial);
+
     this.trialListService.addTrialToList(trial, list).subscribe({
       next: data => {
-        this.notification.success('Successfully added trial to ' + list.name, 'Success');
-        this.loadLists();
+        // this.notification.success('Successfully added trial to ' + list.name, 'Success');
+        // list.trial.push(trial);
       },
       error: error => {
         console.error('Error adding trial to list', error);
         this.notification.error(error.error.message, 'Error adding trial to list');
+        list.trial = list.trial.filter(t => t.id !== trial.id);
       }
     });
   }
@@ -80,14 +83,16 @@ export class TrialListItemComponent {
     return list.trial.some(t => t.id === trial.id);
   }
 
-  deleteTrialFromList(trialId: number, list: TrialList) {
-    this.trialListService.deleteTrialFromList(trialId, list).subscribe({
+  deleteTrialFromList(trial: Trial, list: TrialList) {
+    list.trial = list.trial.filter(t => t.id !== trial.id);
+
+    this.trialListService.deleteTrialFromList(trial.id, list).subscribe({
       next: data => {
-        this.notification.success('Successfully deleted trial from list', 'Success');
-        this.loadLists();
+        // this.notification.success('Successfully deleted trial from list', 'Success');
       },
       error: error => {
         console.error('Error deleting trial from list', error);
+        list.trial.push(trial);
         this.notification.error(error.error.message, 'Error deleting trial from list');
       }
     });
