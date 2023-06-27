@@ -60,21 +60,12 @@
             <i class="bi-chevron-down w-4 text-blue-950"></i>
             <div
               class="absolute z-[1000] mt-4 hidden list-none overflow-hidden rounded-lg bg-white opacity-85 backdrop-blur-md shadow-md group-hover:block right-0">
-              <ul class="w-auto px-2 py-2 mb-0">
-                <li *ngFor="let trialList of allLists" class="flex flex-row justify-between items-center gap-2">
-                  <a
-                    class="block whitespace-nowrap bg-transparent no-underline py-2 text-sm font-normal text-blue-950 hover:bg-blue-400"
-                    (click)="addTrialToList(trial, trialList)"
-                  >{{trialList.name}}</a>
-                  <div *ngIf="listContains(trialList, trial)">
-                    <app-confirm-button (confirm)="deleteTrialFromList(trial.id, trialList)" details="Trial list will be deleted from {{trialList.name}}.">
-                      <a class="text-red-600 hover:text-red-900"
-                         aria-label="Delete Trial List">
-                        <i class="bi bi-trash"></i>
-                      </a>
-                    </app-confirm-button>
-                  </div>
-              </ul>
+              <div class="flex flex-col gap-2 w-auto px-2 py-2 mb-0">
+                <div *ngFor="let trialList of allLists" class="flex flex-row items-center gap-1">
+                  <input type="checkbox" [id]="trialList.id" class="rounded hover:cursor-pointer" [checked]="listContains(trialList, trial)" (change)="toggleTrialInList($event.target.checked, trialList, trial)">
+                  <label [for]="trialList.id" class="ml-2 w-48 truncate hover:cursor-pointer">{{ trialList.name }}</label>
+                </div>
+              </div>
             </div>
           </a>
         </div>

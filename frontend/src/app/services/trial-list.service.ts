@@ -4,7 +4,7 @@ import {HttpClient} from '@angular/common/http';
 import {Observable} from 'rxjs';
 import {Trial} from '../dtos/trial';
 import {TrialList} from '../dtos/trial-list';
-import {List} from 'postcss/lib/list';
+
 
 const baseUri = environment.backendUrl + '/api/v1/trialList';
 
@@ -12,7 +12,7 @@ const baseUri = environment.backendUrl + '/api/v1/trialList';
   providedIn: 'root'
 })
 export class TrialListService {
-  updateEvent = new EventEmitter<void>();
+  updateEvent = new EventEmitter<number>();
 
   constructor(
     private http: HttpClient,

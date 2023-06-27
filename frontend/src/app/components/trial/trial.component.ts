@@ -13,6 +13,7 @@ import {ToastrService} from 'ngx-toastr';
 })
 export class TrialComponent implements OnInit {
   trials: Trial[] = [];
+  loading = true;
   size = 10;
   page = 1;
 
@@ -36,6 +37,9 @@ export class TrialComponent implements OnInit {
         error: error => {
           console.error('Error fetching trials', error);
           this.notification.error(error.error.message, 'Error trials');
+        },
+        complete: () => {
+          this.loading = false;
         }
       });
   }
