@@ -45,7 +45,7 @@
       <th style="font-weight: 600">Birthdate</th>
       </thead>
       <tbody [hidden]="applied === null || applied.length === 0" >
-      <tr *ngFor="let registration of applied" class="w-full h-10" [routerLink]="'patient/' + registration.patient.id">
+      <tr *ngFor="let registration of applied" class="w-full h-10 hover:cursor-pointer" [routerLink]="'patient/' + registration.patient.id">
         <td>{{registration.patient.firstName}} {{registration.patient.lastName}}</td>
         <td>{{registration.patient.email}}</td>
         <td>{{registration.patient.birthdate | date: 'dd.MM.yyyy'}}</td>
@@ -84,7 +84,7 @@
       <th style="font-weight: 600">Birthdate</th>
       </thead>
       <tbody [hidden]="accepted === null || accepted.length === 0">
-      <tr *ngFor="let registration of accepted" class="w-fit h-10" [routerLink]="'patient/' + registration.patient.id">
+      <tr *ngFor="let registration of accepted" class="w-fit h-10 hover:cursor-pointer" [routerLink]="'patient/' + registration.patient.id">
         <td>{{registration.patient.firstName}} {{registration.patient.lastName}}</td>
         <td>{{registration.patient.email}}</td>
         <td>{{registration.patient.birthdate | date: 'dd.MM.yyyy'}}</td>
@@ -102,7 +102,7 @@
       <th style="font-weight: 600">Birthdate</th>
       </thead>
       <tbody [hidden]="declined === null || declined.length === 0">
-      <tr *ngFor="let registration of declined" class="w-fit h-10" [routerLink]="'patient/' + registration.patient.id">
+      <tr *ngFor="let registration of declined" class="w-fit h-10 hover:cursor-pointer" [routerLink]="'patient/' + registration.patient.id">
         <td>{{registration.patient.firstName}} {{registration.patient.lastName}}</td>
         <td>{{registration.patient.email}}</td>
         <td>{{registration.patient.birthdate | date: 'dd.MM.yyyy'}}</td>
